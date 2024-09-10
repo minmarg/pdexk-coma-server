@@ -1,0 +1,167 @@
+HHsearch 1.5
+NAME  d1lghb_ f.3.1.1 (B:) Light-harvesting complex subunits {Rhodospirillum molischianum [TaxId: 1083]}
+FAM   f.3.1.1
+FILE  d1lghb_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lghb_.a3m -v 1 
+DATE  Mon Jan 21 22:58:29 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  74 out of 76 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+9878889789999999999999999999999999999625889
+>Consensus
+xSlsGLTexEAkEFHxxfxxxxxxfxxiAxvAHxlvwxwrPWf
+>d1lghb_ f.3.1.1 (B:) Light-harvesting complex subunits {Rhodospirillum molischianum [TaxId: 1083]}
+RSLSGLTEEEAIAVHDQFKTTFSAFIILAAVAHVLVWVWKPWF
+>gi|344337332|ref|ZP_08768266.1|(3-45:45) antenna complex subunit alpha/beta [Thiocapsa marina 5811] >gi|344342029|ref|ZP_08772939.1| antenna complex subunit alpha/beta [Thiocapsa marina 5811] >gi|343798049|gb|EGV16013.1| antenna complex subunit alpha/beta [Thiocapsa marina 5811] >gi|343802285|gb|EGV20225.1| antenna complex subunit alpha/beta [Thiocapsa marina 5811]  E=9e-05 s/c=1.17 id=45% cov=102%
+QSLSGLTDQQAKELHEQFKVTYTAYVGIAALVHLFVIAANPWF
+>gi|30313692|gb|AAO47388.1|(5-46:47) light-harvesting 1 antenna complex beta subunit 1 [Lamprocystis purpurea]  E=0.0004 s/c=1.14 id=47% cov=100%
+KSMSGISEEEAQEFHGIFTQSMSGFIGVAVFAHLLAWFWRPW-
+>gi|384262722|ref|YP_005417909.1|(45-84:84) hypothetical protein RSPPHO_02313 [Rhodospirillum photometricum DSM 122] >gi|378403823|emb|CCG08939.1| unnamed protein product [Rhodospirillum photometricum DSM 122]  E=0.0008 s/c=1.16 id=37% cov=95%
+---SGLTEAEAQEFHGWYSKGLALWVVLSAFAHIFTYTYLPWF
+>gi|223859|prf||1002280A(8-49:107) protein LHI,light harvesting   E=9e-08 s/c=1.41 id=44% cov=100%
+-SFTGLTDEQAQELHAVYMSGLSAFIAVAVLAHLAVMIWRPWF
+>gi|18645057|gb|AAL76358.1|(7-48:49) light-harvesting protein b-870, beta chain [uncultured marine proteobacterium]  E=3e-07 s/c=1.38 id=44% cov=100%
+-SPSGLTSNEAKEFHSAYVQGWVGFVAIAVTAHVLMFMWKPWF
+>gi|1708815|sp|P80591.1|LHB2_RHOTE(5-46:48) RecName: Full=Light-harvesting polypeptide B-885 beta-2 chain; AltName: Full=Antenna pigment polypeptide beta-2 chain; AltName: Full=LH-1  E=5e-07 s/c=1.36 id=44% cov=100%
+KSLSGLTEQEAQEFGTLYTQGVAFVAVIAIVAHALVWAWRPW-
+>gi|344338425|ref|ZP_08769357.1|(9-50:50) hypothetical protein ThimaDRAFT_1095 [Thiocapsa marina 5811] >gi|343801707|gb|EGV19649.1| hypothetical protein ThimaDRAFT_1095 [Thiocapsa marina 5811]  E=0.0008 s/c=1.10 id=40% cov=100%
+-NLSGLTDAQAKEFHEHWKHGVFSWVAIATVVHVVTWVYQPWF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	4380	*	*	*	*	946	*	*	*	*	2575	1916	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2417	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	3953	*	5358	*	200	4624	*	*	*	2
+       0	*	*	*	*	*	*	2775	0	0	
+
+L 3    *	*	*	*	4299	*	*	3552	*	704	2549	*	5083	*	*	5426	*	5228	*	*	3
+       0	*	*	*	*	*	*	2872	0	0	
+
+S 4    5578	*	*	*	*	*	*	*	*	*	*	5700	*	*	4901	563	2004	*	*	*	4
+       0	*	*	*	*	*	*	2965	0	0	
+
+G 5    *	*	*	*	*	50	*	*	*	*	*	4870	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3015	0	0	
+
+L 6    *	*	*	*	*	*	*	5377	*	154	4702	*	*	*	*	*	*	4694	*	*	6
+       0	*	*	*	*	*	*	3056	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	5649	*	*	*	2823	254	*	*	*	7
+       0	*	*	*	*	*	*	3056	0	0	
+
+E 8    5151	*	2029	877	*	*	5319	*	*	*	*	*	4158	*	*	4693	*	3999	*	*	8
+       0	*	*	*	*	*	*	3056	0	0	
+
+E 9    2476	*	4242	1412	*	3555	*	*	*	*	*	5085	6806	2682	4914	3885	6462	*	*	*	9
+       0	*	*	*	*	*	*	3056	0	0	
+
+E 10   5157	*	*	444	*	*	*	*	*	*	*	*	*	2079	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 11   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3056	0	0	
+
+I 12   6219	*	*	5057	*	*	*	5327	889	5492	*	6467	*	2321	3601	5151	*	4395	*	*	12
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 13   5327	*	*	36	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3056	0	0	
+
+V 14   *	*	*	*	309	*	*	4818	*	3471	*	*	*	*	*	*	*	3899	*	*	14
+       0	*	*	*	*	*	*	3056	0	0	
+
+H 15   *	*	*	*	*	5097	207	*	*	*	4232	4909	*	5808	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	3056	0	0	
+
+D 16   2455	*	4603	2912	*	2117	*	*	3131	*	*	4999	*	*	5151	2472	4077	*	*	*	16
+       0	*	*	*	*	*	*	3056	0	0	
+
+Q 17   4660	*	*	*	4692	5784	4982	1871	*	3356	5139	*	*	1929	*	4232	5649	3831	5269	4625	17
+       0	*	*	*	*	*	*	3056	0	0	
+
+F 18   *	*	*	*	493	*	*	*	*	*	*	*	*	*	*	*	*	5057	4557	2205	18
+       0	*	*	*	*	*	*	3056	0	0	
+
+K 19   *	*	*	4232	*	*	*	6403	2040	4375	2488	*	*	5031	*	3478	3029	2169	*	*	19
+       0	*	*	*	*	*	*	3056	0	0	
+
+T 20   6152	*	*	*	*	4354	4982	4158	3108	*	5418	5057	*	2169	*	3175	1899	3664	*	*	20
+       0	*	*	*	*	*	*	3056	0	0	
+
+T 21   4457	*	*	*	*	1861	*	*	*	*	*	*	*	*	*	1422	1832	*	5319	*	21
+       0	*	*	*	*	*	*	3056	0	0	
+
+F 22   4817	*	*	*	1062	*	*	6188	*	4141	2730	*	*	*	*	*	4302	4038	5490	2936	22
+       0	*	*	*	*	*	*	3056	0	0	
+
+S 23   3169	*	*	*	4665	5853	*	2960	*	3401	4330	*	*	*	5057	2819	2064	3909	3862	6278	23
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 24   1741	*	*	*	5097	2237	*	3544	*	3179	6554	*	*	*	*	4478	4090	2745	*	*	24
+       0	*	*	*	*	*	*	3056	0	0	
+
+F 25   *	*	*	*	376	*	*	*	*	*	*	*	*	*	*	*	*	5097	3827	2949	25
+       0	*	*	*	*	*	*	3056	0	0	
+
+I 26   5097	*	*	*	4256	*	*	2707	*	3333	4438	*	*	*	*	6005	2242	1347	*	*	26
+       0	*	*	*	*	*	*	3056	0	0	
+
+I 27   1653	*	*	*	*	1498	*	4095	*	5288	*	*	*	*	*	5720	6025	2255	*	*	27
+       0	*	*	*	*	*	*	3056	0	0	
+
+L 28   *	*	*	*	5031	*	*	1275	*	2347	*	*	*	*	*	*	5728	1637	5691	*	28
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 29   175	4843	*	*	*	*	*	*	*	*	*	*	*	*	*	5269	*	4228	*	*	29
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 30   1800	*	*	*	5691	6049	*	2762	*	5119	*	*	*	*	*	4232	4655	1289	*	*	30
+       0	*	*	*	*	*	*	3056	0	0	
+
+V 31   2785	*	6239	*	3505	*	*	3039	*	2476	*	*	*	*	*	*	5490	1218	*	*	31
+       0	*	*	*	*	*	*	3056	0	0	
+
+A 32   213	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2864	*	*	32
+       0	*	*	*	*	*	*	3056	0	0	
+
+H 33   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3056	0	0	
+
+V 34   4400	*	*	*	3346	*	*	2067	*	2137	4489	*	*	*	*	*	*	1622	*	5728	34
+       0	*	*	*	*	*	*	3056	0	0	
+
+L 35   3360	*	*	*	3177	*	*	*	*	444	5312	*	*	*	*	*	*	4982	*	*	35
+       0	*	*	*	*	*	*	3056	0	0	
+
+V 36   2049	*	*	*	*	*	*	3907	*	6219	5490	*	*	*	*	6152	3750	817	*	*	36
+       0	*	*	*	*	*	*	3056	0	0	
+
+W 37   *	*	*	*	3916	*	*	3687	*	4570	6041	*	*	*	*	*	*	*	480	3606	37
+       0	*	*	*	*	*	*	3056	0	0	
+
+V 38   1766	*	*	*	3269	*	*	3418	4595	3279	3081	5283	*	6516	*	4777	4480	2963	*	*	38
+       0	*	*	*	*	*	*	3056	0	0	
+
+W 39   2854	*	5784	*	6426	*	*	*	5898	*	*	5853	*	*	*	5931	6168	*	627	3060	39
+       0	*	*	*	*	*	*	3056	0	0	
+
+K 40   *	*	*	*	*	*	5057	*	2146	4550	*	3383	*	4064	874	*	*	*	*	*	40
+       0	*	*	*	*	*	*	3056	0	0	
+
+P 41   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3056	0	0	
+
+W 42   *	*	*	*	4562	*	*	*	*	*	*	*	*	*	*	*	*	*	62	*	42
+       0	*	*	*	*	*	*	3056	0	0	
+
+F 43   *	*	*	*	277	*	*	*	*	*	*	*	*	*	*	*	*	*	4202	3057	43
+       0	*	*	0	*	*	*	2820	0	0	
+
+//

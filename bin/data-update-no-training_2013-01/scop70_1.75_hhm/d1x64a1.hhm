@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1x64a1 g.39.1.3 (A:8-52) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1x64a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x64a1.a3m -v 1 
+DATE  Tue Jan 22 04:15:48 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  36 out of 38 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEEEECCCCCCCCCCC
+>ss_conf
+988877767788885538412232795233544015754688889
+>Consensus
+VkaPvtKxxxxxgxxqkLPxCdkCgxGIVGxvVKxrdKxrHPeCf
+>d1x64a1 g.39.1.3 (A:8-52) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+VRAPVTKVHGGAGSAQRMPLCDKCGSGIVGAVVKARDKYRHPECF
+>gi|348507133|ref|XP_003441111.1|(231-275:320) PREDICTED: PDZ and LIM domain protein 1-like [Oreochromis niloticus]  E=2e-11 s/c=1.61 id=63% cov=102%
+VKAPTTKVGASVGNTEKLPMCDKCGSGIVGMVVKLRDKFRHPECY
+>gi|148236507|ref|NP_001086326.1|(270-314:358) PDZ and LIM domain protein 3 [Xenopus laevis] >gi|82200966|sp|Q6GLJ6.1|PDLI3_XENLA RecName: Full=PDZ and LIM domain protein 3 >gi|49258088|gb|AAH74488.1| MGC84797 protein [Xenopus laevis]  E=3e-11 s/c=1.59 id=65% cov=102%
+VRAPVTKPNTGAAAVQKVPICDRCGNGIVGTVVKAKDKLRHPDCF
+>gi|410917726|ref|XP_003972337.1|(225-269:315) PREDICTED: PDZ and LIM domain protein 3-like [Takifugu rubripes]   E=2e-09 s/c=1.46 id=61% cov=102%
+VKAPTIKQAPPTGNLQKLPICDKCGNGIVGTVVKARDKFRHPGCF
+>gi|327281452|ref|XP_003225462.1|(234-279:324) PREDICTED: PDZ and LIM domain protein 1-like [Anolis carolinensis]   E=4e-09 s/c=1.41 id=59% cov=102%
+VKAPTTKIASSIGnAAQKLPICDKCGSGIVGVFVKLREKHLHPECY
+>gi|327265286|ref|XP_003217439.1|(234-278:329) PREDICTED: PDZ and LIM domain protein 4-like [Anolis carolinensis]   E=4e-08 s/c=1.36 id=54% cov=102%
+VKSPVSKLGGAMSGLQMLPECTRCGNGIVGTIVKARDKLYHPECF
+>gi|351704332|gb|EHB07251.1|(115-159:189) PDZ and LIM domain protein 1 [Heterocephalus glaber]   E=7e-08 s/c=1.34 id=54% cov=102%
+VNAPVTKVAASVGNAQKLPICDKCGSGIVAVFVKLQNHLCQPECY
+>gi|348519026|ref|XP_003447032.1|(267-315:366) PREDICTED: PDZ and LIM domain protein 4-like [Oreochromis niloticus]  E=0.0002 s/c=1.00 id=50% cov=102%
+VRSPIPKLGSPIPSPmsglQKLPQCTRCCNGIVGTIVKARDKLYHPDCF
+>gi|148236741|ref|NP_001082677.1|(236-280:325) PDZ and LIM domain 1 [Xenopus laevis] >gi|32450243|gb|AAH54254.1| MGC64465 protein [Xenopus laevis]  E=1e-13 s/c=1.76 id=63% cov=102%
+VRAPTNKVAASLGSGQKLQICDHCGSGIVGAFVKIRDKPRHPECY
+>gi|260813842|ref|XP_002601625.1|(253-297:339) hypothetical protein BRAFLDRAFT_124330 [Branchiostoma floridae] >gi|229286924|gb|EEN57637.1| hypothetical protein BRAFLDRAFT_124330 [Branchiostoma floridae]  E=5e-09 s/c=1.42 id=46% cov=102%
+VRPPVPKANPKKEAPQTLPQCDACLGMIKGVFVKVNGKPRHPECF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	3226	*	4114	*	*	*	*	*	*	*	259	*	*	1
+       0	*	*	*	*	*	*	2276	0	0	
+
+R 2    *	*	*	*	*	*	5051	*	1009	*	*	4000	*	4052	1514	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2276	0	0	
+
+A 3    609	*	*	*	*	*	*	*	*	*	*	*	2889	*	*	2256	*	*	*	*	3
+       0	*	*	*	*	*	*	2295	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2295	0	0	
+
+V 5    3398	*	*	*	*	5323	*	3134	*	5110	4391	*	*	*	*	5297	2565	1014	*	*	5
+       0	*	*	*	*	*	*	2295	0	0	
+
+T 6    5001	*	*	*	*	*	*	5453	*	*	*	4996	2241	*	*	3005	790	*	*	*	6
+       0	*	*	*	*	*	*	2295	0	0	
+
+K 7    4739	*	*	*	*	*	*	*	55	*	*	*	*	*	*	*	*	*	*	*	7
+       42	5110	*	2000	415	*	*	2295	1000	0	
+
+V 8    3363	*	*	*	*	*	*	2693	*	2335	4118	*	2301	5453	*	*	5550	2028	*	*	8
+       0	*	*	*	*	*	*	2295	0	0	
+
+H 9    1980	*	*	*	*	1810	4023	*	*	3971	*	3180	3773	5321	*	3711	5641	5001	*	*	9
+       0	*	*	*	*	*	*	2295	0	0	
+
+G 10   1155	*	*	*	*	3143	*	*	*	*	*	*	2762	*	*	2435	3246	*	*	*	10
+       45	5033	*	2807	222	*	*	2295	1000	0	
+
+G 11   3838	*	*	*	*	2463	*	*	3649	*	*	5110	1701	*	*	1731	5001	*	*	*	11
+       0	*	*	*	*	*	*	2295	0	0	
+
+A 12   2951	*	*	*	*	4247	*	2876	3649	3208	3003	*	*	*	*	5098	3534	1979	*	*	12
+       0	*	*	*	*	*	*	2295	0	0	
+
+G 13   5029	*	*	3649	*	740	*	*	*	*	*	*	2592	*	*	2998	*	*	*	*	13
+       41	5150	*	0	*	*	*	2295	1000	0	
+
+S 14   2852	*	*	*	*	1916	*	*	*	*	*	1488	*	*	*	2058	*	*	*	*	14
+       0	*	*	*	*	*	*	2295	0	0	
+
+A 15   1883	*	*	*	*	3606	*	*	*	1380	*	*	2975	*	*	*	4596	3409	*	*	15
+       33	5481	*	2000	415	*	*	2295	1000	0	
+
+Q 16   *	*	*	4468	*	*	4171	*	*	*	*	5001	4390	286	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2295	0	0	
+
+R 17   *	*	*	*	*	5045	*	*	484	5363	3463	4739	*	*	5458	*	3649	*	*	*	17
+       0	*	*	*	*	*	*	2295	0	0	
+
+M 18   *	*	*	*	*	*	*	*	*	231	4506	*	*	*	*	*	*	3264	*	*	18
+       0	*	*	*	*	*	*	2295	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	5171	*	*	127	4996	*	5317	*	*	*	*	19
+       0	*	*	*	*	*	*	2295	0	0	
+
+L 20   *	*	*	3006	*	*	*	2063	*	2514	2556	*	*	2026	*	*	*	4459	*	*	20
+       0	*	*	*	*	*	*	2295	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2295	0	0	
+
+D 22   *	*	443	*	*	*	*	*	*	*	*	*	*	*	*	*	1918	*	*	*	22
+       0	*	*	*	*	*	*	2295	0	0	
+
+K 23   3649	*	*	*	*	*	3951	*	877	*	*	*	*	*	1685	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2295	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2295	0	0	
+
+G 25   4739	4284	*	*	*	310	*	*	*	3649	*	*	*	*	5325	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2295	0	0	
+
+S 26   5171	*	*	*	*	3649	5045	*	*	*	*	1219	*	*	*	1393	4268	*	*	*	26
+       0	*	*	*	*	*	*	2295	0	0	
+
+G 27   *	*	*	*	*	120	*	*	*	*	3649	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2295	0	0	
+
+I 28   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2295	0	0	
+
+V 29   *	*	*	*	*	*	*	*	3649	5279	*	*	*	*	*	*	*	161	*	*	29
+       0	*	*	*	*	*	*	2295	0	0	
+
+G 30   4017	*	*	*	*	92	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2295	0	0	
+
+A 31   2358	*	*	*	*	*	*	*	*	*	3283	*	5246	*	*	*	1250	1970	*	*	31
+       0	*	*	*	*	*	*	2295	0	0	
+
+V 32   *	*	*	*	1824	*	*	1787	*	*	5297	*	*	*	*	*	*	1314	*	*	32
+       0	*	*	*	*	*	*	2295	0	0	
+
+V 33   *	*	*	*	*	*	*	*	*	4908	*	*	*	*	*	*	*	49	*	*	33
+       0	*	*	*	*	*	*	2295	0	0	
+
+K 34   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2295	0	0	
+
+A 35   910	*	*	*	*	*	*	3539	*	2021	*	*	*	*	*	*	*	2887	*	*	35
+       0	*	*	*	*	*	*	2295	0	0	
+
+R 36   *	*	*	*	*	*	*	*	5029	*	*	3649	*	3092	373	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2295	0	0	
+
+D 37   *	*	317	4160	*	3649	*	*	*	*	*	4017	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2295	0	0	
+
+K 38   *	*	*	*	*	*	4017	*	134	*	*	*	*	*	5217	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2295	0	0	
+
+Y 39   *	*	*	*	2332	*	4183	*	*	1486	*	*	2792	5549	*	*	*	*	*	2161	39
+       0	*	*	*	*	*	*	2295	0	0	
+
+R 40   *	4017	*	*	*	*	*	*	*	5150	*	*	*	*	632	*	*	*	*	1918	40
+       0	*	*	*	*	*	*	2295	0	0	
+
+H 41   *	*	*	*	*	*	92	*	*	*	*	*	*	4017	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2295	0	0	
+
+P 42   *	*	*	*	*	*	*	*	*	*	*	*	45	*	*	*	5033	*	*	*	42
+       0	*	*	*	*	*	*	2295	0	0	
+
+E 43   5321	*	2750	437	*	3512	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2295	0	0	
+
+C 44   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2295	0	0	
+
+F 45   *	*	*	*	583	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1589	45
+       0	*	*	0	*	*	*	2295	0	0	
+
+//

@@ -1,0 +1,137 @@
+HHsearch 1.5
+NAME  d2glia2 g.37.1.1 (A:135-167) Five-finger GLI1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2glia2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2glia2.a3m -v 1 
+DATE  Tue Jan 22 07:16:52 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  101 out of 297 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.1 
+SEQ
+>ss_pred
+CCEEECCCCCCCCCCCCCCCCCEEEEEEEECCC
+>ss_conf
+970113689787888505522203421220589
+>Consensus
+kxYxCxWxgCxRxgkxfxxrxkLxxHxRxHTGE
+>d2glia2 g.37.1.1 (A:135-167) Five-finger GLI1 {Human (Homo sapiens) [TaxId: 9606]}
+KEFVCHWGGCSRELRPFKAQYMLVVHMRRHTGE
+>gi|384495415|gb|EIE85906.1|(117-148:217) hypothetical protein RO3G_10616 [Rhizopus delemar RA 99-880]   E=0.0004 s/c=1.48 id=39% cov=100%
+-SYHCEWMDCVRKKKPFLKRHKMQNHMRTHTGE
+>gi|320163918|gb|EFW40817.1|(229-260:481) predicted protein [Capsaspora owczarzaki ATCC 30864]   E=1e-06 s/c=1.73 id=39% cov=100%
+-DYACLWEGCGRNMRPLHNHSKIIEHLRTHTGE
+>gi|254573158|ref|XP_002493688.1|(71-103:296) hypothetical protein [Komagataella pastoris GS115] >gi|238033487|emb|CAY71509.1| Hypothetical protein PAS_chr4_0275 [Komagataella pastoris GS115] >gi|328354486|emb|CCA40883.1| Zinc finger protein 79 [Komagataella pastoris CBS 7435]  E=9e-09 s/c=1.90 id=41% cov=103%
+KDHCCNWRDCSRKGIPQASRFSLMSHVRSHTGE
+>gi|320592355|gb|EFX04794.1|(177-209:501) c2h2 finger domain containing protein [Grosmannia clavigera kw1407]   E=2e-08 s/c=1.88 id=35% cov=103%
+RRYTCEWIGCPRKGKGHASAYALKAHLRSHTRE
+>gi|353238344|emb|CCA70293.1|(112-142:361) hypothetical protein PIIN_04232 [Piriformospora indica DSM 11827]   E=6e-06 s/c=1.72 id=34% cov=97%
+--YKCMWEGCQLYAVTRTSRFALIGHIRSHTGE
+>gi|323507794|emb|CBQ67665.1|(681-714:850) related to ZAP1-metalloregulatory protein involved in zinc-responsive transcriptional regulation [Sporisorium reilianum SRZ2]  E=0.0005 s/c=1.38 id=33% cov=100%
+-EYECRWVGCARHasGQKFSQKQKVLRHIQTHTGD
+>gi|303389686|ref|XP_003073075.1|(28-60:145) hypothetical protein Eint_061080 [Encephalitozoon intestinalis ATCC 50506] >gi|303302219|gb|ADM11715.1| hypothetical protein Eint_061080 [Encephalitozoon intestinalis ATCC 50506]  E=0.0005 s/c=1.43 id=38% cov=103%
+EEARCLWKDCPRYGEVQVSKHALLAHARRHTGE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	2579	*	*	*	*	652	*	*	*	*	*	2349	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3292	0	0	
+
+E 2    *	*	3069	1594	*	6056	*	*	2260	*	*	5472	2813	4208	6235	4378	4459	*	*	*	2
+       0	*	*	*	*	*	*	4136	0	0	
+
+F 3    5437	6004	*	*	2786	*	4426	6152	*	6138	*	*	*	*	*	5270	*	*	*	483	3
+       0	*	*	*	*	*	*	4220	0	0	
+
+V 4    3739	4860	5647	4597	3924	6906	4986	3622	3989	5116	5142	*	5946	5042	3374	3730	3016	2904	7048	4677	4
+       0	*	*	*	*	*	*	4223	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	4155	0	0	
+
+H 6    *	*	4768	2186	3648	5477	3335	*	4658	3316	4540	3712	6232	4973	3107	5240	4979	*	*	3974	6
+       0	*	*	*	*	*	*	4155	0	0	
+
+W 7    *	*	*	*	4460	*	6031	*	*	*	*	*	*	*	*	*	*	*	115	5955	7
+       15	*	6605	*	*	*	*	4155	0	0	
+
+G 8    3960	*	4466	2133	*	4600	5235	5027	2331	5825	5220	4329	6023	3611	4155	4052	4723	5675	*	*	8
+       0	*	*	*	*	*	0	4147	0	1000	
+
+G 9    *	*	2612	4616	*	729	*	*	5646	*	*	3059	*	*	*	5445	5082	*	*	*	9
+       0	*	*	*	*	*	0	4147	0	1000	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       212	6342	3006	0	*	0	*	4147	1000	1000	
+
+S 11   3159	6477	3513	5208	*	3744	*	5854	5000	6746	6107	3934	3097	3635	5655	2494	3016	4989	*	*	11
+       81	*	4193	*	*	*	0	4152	0	2625	
+
+R 12   *	*	*	*	*	5936	*	*	5434	5406	*	*	*	4791	151	*	*	*	*	*	12
+       68	4826	6509	1393	691	3166	170	4112	1668	2717	
+
+E 13   4180	5427	6757	3018	5501	3994	4336	6205	2817	5591	*	2724	6718	4655	3245	4866	5261	6116	*	3357	13
+       156	4783	3921	839	1182	510	1747	4165	1510	2629	
+
+L 14   5441	5937	3794	3710	5882	939	4768	*	4059	5063	4251	6663	*	4651	6383	*	5508	*	*	6518	14
+       104	4811	4878	0	*	684	1405	4117	1448	2493	
+
+R 15   4868	*	6431	5111	*	*	4800	5319	1159	5144	5352	4864	*	3755	2604	4905	5292	4968	*	*	15
+       29	6350	6982	2322	322	877	1134	4126	1000	2147	
+
+P 16   3331	*	6620	5175	*	3092	*	5836	3356	6441	6981	5525	1407	5053	5763	5053	3359	4803	*	*	16
+       0	*	*	*	*	0	*	4152	0	1778	
+
+F 17   *	6061	*	*	520	*	4125	*	*	4414	*	*	*	2855	5570	*	*	6524	*	6232	17
+       0	*	*	*	*	*	*	4155	0	0	
+
+K 18   2682	*	4198	6694	*	4820	4723	4663	2513	6629	6263	3527	3999	*	5563	3481	2516	4870	*	*	18
+       16	*	6475	*	*	*	*	4155	0	0	
+
+A 19   1844	*	6164	*	*	*	*	*	3446	*	*	4602	*	2110	5114	1820	5025	*	*	*	19
+       0	*	*	*	*	0	*	4145	0	1000	
+
+Q 20   5013	*	*	*	5383	4039	5681	*	2244	4873	6191	*	6605	6763	1020	3934	*	6260	*	6093	20
+       0	*	*	*	*	*	*	4155	0	0	
+
+Y 21   *	*	*	*	3269	4632	3419	*	*	*	*	*	*	2321	*	2585	*	*	*	1338	21
+       0	*	*	*	*	*	*	4155	0	0	
+
+M 22   2011	*	6305	6923	*	*	4173	*	1064	5414	4161	4358	*	6167	6694	4975	6167	*	*	*	22
+       0	*	*	*	*	*	*	4155	0	0	
+
+L 23   *	*	*	*	*	*	*	2866	*	508	3493	*	*	*	*	*	*	3815	*	*	23
+       0	*	*	*	*	*	*	4155	0	0	
+
+V 24   5174	6146	*	4366	*	*	6484	2502	3320	2687	4027	*	*	3632	5083	6784	4365	2144	*	6489	24
+       0	*	*	*	*	*	*	4155	0	0	
+
+V 25   3089	6260	*	6378	*	4910	5404	4190	6093	*	6061	2890	*	*	2173	3476	2996	2793	*	*	25
+       0	*	*	*	*	*	*	4155	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	4155	0	0	
+
+M 27   6242	5073	*	6966	*	*	6263	2193	6543	2096	2003	*	*	*	*	6026	6583	2422	*	6524	27
+       0	*	*	*	*	*	*	4155	0	0	
+
+R 28   6419	*	*	*	*	*	5329	*	5200	*	*	6571	6495	3128	322	*	*	*	*	*	28
+       34	5404	*	0	*	*	*	4155	1090	0	
+
+R 29   5232	5563	*	*	*	4369	*	2708	4423	*	6533	*	*	*	4072	2327	2187	2217	*	*	29
+       0	*	*	*	*	*	*	4155	0	0	
+
+H 30   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	4155	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	5762	*	*	*	3662	148	*	*	*	31
+       0	*	*	*	*	*	*	4155	0	0	
+
+G 32   *	*	*	*	*	361	*	*	3964	*	*	3762	*	*	3840	6208	*	*	*	*	32
+       0	*	*	*	*	*	*	4143	0	0	
+
+E 33   *	*	3671	118	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	0	*	*	*	3989	0	0	
+
+//

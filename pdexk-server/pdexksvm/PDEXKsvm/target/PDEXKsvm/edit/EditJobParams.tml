@@ -1,0 +1,74 @@
+<html t:type="layout" title="Edit job params"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter"> 
+      
+    <body>
+    
+        <div class="header">
+            Job parameters
+        </div>
+    
+        <t:form t:id="editJobParamsForm">
+            <t:errors/> 
+            
+            <table>
+                <tr>
+                    <td>
+                        Job accessibility duration (in days) 
+                    </td>
+                    <td>
+                        <t:textfield t:id="expirationPeriod" t:value="jobParams.expirationPeriod" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Job (with errors) accessibility duration (in days) 
+                    </td>
+                    <td>
+                        <t:textfield t:id="expirationPeriodErr" t:value="jobParams.expirationPeriodErr" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Maximum number of submitted jobs 
+                    </td>
+                    <td>
+                        <t:textfield t:id="maxSubmittedJobs" t:value="jobParams.maxSubmittedJobs" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        URL for results  
+                    </td>
+                    <td>
+                        <t:textfield t:id="urlForResults" t:value="jobParams.urlForResults" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        A probability threshold to consider a protein family as a member of PDEXK  
+                    </td>
+                    <td>
+                        <t:textfield t:id="pdexkProbability" t:value="jobParams.pdexkProbability" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        A threshold to warn about a number of sequences in the final multiple sequence alignment
+                    </td>
+                    <td>
+                        <t:textfield t:id="numberOfSequencesInFinalMSA" t:value="jobParams.numberOfSequencesInFinalMSA" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                        <input type="submit" t:type="submit" t:id="updateJobParamsButton" value="Update"/>
+                    </td>
+                </tr>
+            </table>
+            
+        </t:form>
+    </body>
+</html>

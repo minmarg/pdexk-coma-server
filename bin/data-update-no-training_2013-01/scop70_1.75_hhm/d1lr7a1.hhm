@@ -1,0 +1,110 @@
+HHsearch 1.5
+NAME  d1lr7a1 g.3.11.3 (A:64-88) Domain of follistatin {Rat (Rattus norvegicus) [TaxId: 10116]}
+FAM   g.3.11.3
+FILE  d1lr7a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lr7a1.a3m -v 1 
+DATE  Mon Jan 21 22:59:44 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEECCCCCCCCCCC
+>ss_conf
+97787767888610015678861159
+>Consensus
+etcdnvdcgpgkxcxmnxrnkprcvx
+>d1lr7a1 g.3.11.3 (A:64-88) Domain of follistatin {Rat (Rattus norvegicus) [TaxId: 10116]}
+ETCENVDCGPGKKCRMNKKNKPRCVX
+>gi|88766348|gb|ABD49691.1|(93-117:350) follistatin [Petromyzon marinus]   E=0.0002 s/c=1.96 id=77% cov=100%
+ETCDNVDCGPGKQCRMSRRNKPRCV-
+>gi|46359065|gb|AAS88750.1|(87-111:313) follistatin [Ictalurus furcatus]   E=0.0003 s/c=1.94 id=77% cov=100%
+ETCDNVDCGPGKKCKLNRRNKPRCV-
+>gi|41059683|gb|AAR99335.1|(96-120:322) follistatin [Carassius auratus]   E=0.0004 s/c=1.92 id=77% cov=100%
+ETCDNVDCGPGKKCKMNRRSKPRCV-
+>gi|88900463|ref|NP_001034720.1|(93-117:344) follistatin b isoform 1 precursor [Danio rerio] >gi|83939806|gb|ABC48670.1| follistatin 2 [Danio rerio]  E=0.0007 s/c=1.88 id=77% cov=100%
+ETCDNVDCGSGKRCKMNKRNKPRCV-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1238	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1238	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1238	0	0	
+
+E 4    *	*	345	2235	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1238	0	0	
+
+N 5    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1238	0	0	
+
+V 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	6
+       0	*	*	*	*	*	*	1238	0	0	
+
+D 7    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1238	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1238	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1238	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	327	*	*	2300	*	*	*	*	10
+       0	*	*	*	*	*	*	1238	0	0	
+
+G 11   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1238	0	0	
+
+K 12   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1238	0	0	
+
+K 13   *	*	*	*	*	*	*	*	751	*	*	*	*	2300	2300	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1238	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1238	0	0	
+
+R 15   *	*	*	*	*	*	*	*	775	*	*	*	*	*	1267	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1238	0	0	
+
+M 16   *	*	*	*	*	*	*	*	*	2390	305	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1238	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	327	*	*	*	2300	*	*	*	*	17
+       0	*	*	*	*	*	*	1238	0	0	
+
+K 18   *	*	*	*	*	*	*	*	1267	*	*	*	*	*	775	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1238	0	0	
+
+K 19   *	*	*	*	*	*	*	*	2235	*	*	*	*	*	345	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1238	0	0	
+
+N 20   *	*	*	*	*	*	*	*	*	*	*	305	*	*	*	2390	*	*	*	*	20
+       0	*	*	*	*	*	*	1238	0	0	
+
+K 21   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1238	0	0	
+
+P 22   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1238	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1238	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1238	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	25
+       0	*	*	*	*	*	*	1238	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

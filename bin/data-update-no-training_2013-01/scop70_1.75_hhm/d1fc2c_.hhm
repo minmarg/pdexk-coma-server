@@ -1,0 +1,172 @@
+HHsearch 1.5
+NAME  d1fc2c_ a.8.1.1 (C:) Immunoglobulin-binding protein A modules {Staphylococcus aureus [TaxId: 1280]}
+FAM   a.8.1.1
+FILE  d1fc2c_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1fc2c_.a3m -v 1 
+DATE  Mon Jan 21 20:26:19 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHCCCCCHHHHHHHHHHHHCCHHHHHHHHHCC
+>ss_conf
+96567778887650789987778889874412723457755149
+>Consensus
+fnxxqqnAfxeIxxlpnLneeQrxxfIxSLkDDPSqSanlLaEA
+>d1fc2c_ a.8.1.1 (C:) Immunoglobulin-binding protein A modules {Staphylococcus aureus [TaxId: 1280]}
+FNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEA
+>gi|167744864|pdb|2OTK|E(16-59:71) Chain E, Structure Of Alzheimer Ab Peptide In Complex With An Engineered Binding Protein >gi|167744865|pdb|2OTK|F Chain F, Structure Of Alzheimer Ab Peptide In Complex With An Engineered Binding Protein  E=2e-07 s/c=1.34 id=67% cov=102%
+FNKEMASAGGEIVYLPNLNPDQLCAFIHSLHDDPSQSANLLAEA
+>gi|109157194|pdb|2B87|A(5-48:58) Chain A, Structural Basis For Molecular Recognition In An Affibody:affibody Complex >gi|109157196|pdb|2B88|A Chain A, Structural Basis For Molecular Recognition In An Affibody:affibody Complex  E=3e-07 s/c=1.33 id=67% cov=102%
+FNKELGWATWEIFNLPNLNGVQVKAFIDSLRDDPSQSANLLAEA
+>gi|343781193|pdb|3S1K|A(5-49:59) Chain A, The Development Of Peptide-Based Tools For The Analysis Of Angiogenesis >gi|343781194|pdb|3S1K|B Chain B, The Development Of Peptide-Based Tools For The Analysis Of Angiogenesis  E=1e-06 s/c=1.26 id=69% cov=102%
+FNKEMHNAYaIEIALLPNLNDQQFHAFIWSLIDDPSQSANLLAEA
+>gi|386318068|ref|YP_006014231.1|(41-82:462) immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99] >gi|197253294|gb|ACH54083.1| protein A [Staphylococcus pseudintermedius ED99] >gi|323463239|gb|ADX75392.1| immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99]  E=6e-07 s/c=1.36 id=70% cov=98%
+--EAQQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEA
+>gi|386318067|ref|YP_006014230.1|(96-139:347) immunoglobulin G binding protein A spa2 [Staphylococcus pseudintermedius ED99] >gi|323463238|gb|ADX75391.1| immunoglobulin G binding protein A spa2 [Staphylococcus pseudintermedius ED99]  E=4e-09 s/c=1.47 id=71% cov=102%
+YSEAQQNAFYEILHLSNLTEEQQNGFIQSLKDDPSVSNDILVEA
+>gi|302202596|gb|ADL09407.1|(98-141:418) IgG-binding protein A [Staphylococcus hyicus]   E=3e-08 s/c=1.40 id=69% cov=102%
+FDAAQQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSADILQQA
+>gi|319891322|ref|YP_004148197.1|(103-143:508) IgG-binding protein SBI [Staphylococcus pseudintermedius HKU10-03] >gi|317161018|gb|ADV04561.1| IgG-binding protein SBI [Staphylococcus pseudintermedius HKU10-03]  E=4e-07 s/c=1.41 id=48% cov=95%
+---AQQNAFYSVLHNDDLSEEQRDAYIGRIKEDPDQSQEVFVES
+>gi|332138260|pdb|3QWO|C(2-45:57) Chain C, Crystal Structure Of A Motavizumab Epitope-Scaffold Bound To Motavizumab Fab >gi|332138261|pdb|3QWO|P Chain P, Crystal Structure Of A Motavizumab Epitope-Scaffold Bound To Motavizumab Fab  E=3e-05 s/c=1.17 id=64% cov=102%
+YNDEKKLASNEIANLPNLNEEQRSAFLSSINDDPSQSANLLAEA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	409	*	*	4589	*	*	*	*	*	*	*	*	*	*	*	2284	1
+       0	*	*	*	*	*	*	1989	0	0	
+
+N 2    *	*	2394	*	*	*	*	*	*	*	*	534	*	*	*	3067	*	*	*	*	2
+       0	*	*	*	*	*	*	2009	0	0	
+
+K 3    3499	*	2750	2023	*	*	*	*	952	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2037	0	0	
+
+E 4    1237	*	4068	1116	*	*	*	*	4190	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2235	0	0	
+
+Q 5    *	*	*	*	*	*	*	*	3944	3368	2903	*	*	773	3067	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2235	0	0	
+
+Q 6    4387	*	*	*	*	4346	4444	*	3944	*	*	*	*	711	3632	4391	*	4240	*	*	6
+       0	*	*	*	*	*	*	2235	0	0	
+
+N 7    *	*	*	*	*	*	*	4240	*	3944	*	650	*	*	4620	3219	*	4391	4346	*	7
+       0	*	*	*	*	*	*	2235	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2235	0	0	
+
+F 9    *	*	*	*	711	3389	*	4240	*	*	*	*	*	*	4620	3944	4346	*	*	3541	9
+       68	4444	*	0	*	*	*	2235	1000	0	
+
+Y 10   *	*	*	*	*	3312	*	4444	*	*	*	3944	*	*	3501	4447	*	*	3488	824	10
+       0	*	*	*	*	*	*	2235	0	0	
+
+E 11   *	*	*	269	*	*	*	*	*	*	*	*	*	4722	*	2917	*	*	*	*	11
+       0	*	*	*	*	*	*	2235	0	0	
+
+I 12   *	*	*	*	*	*	*	403	*	*	*	*	*	*	*	*	*	2037	*	*	12
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 13   2728	*	*	*	4346	*	*	*	*	1009	4240	*	*	*	4620	*	*	2255	*	*	13
+       0	*	*	*	*	*	*	2235	0	0	
+
+H 14   *	*	*	*	*	*	1493	*	4447	3541	*	1456	*	*	4240	*	4391	*	*	4387	14
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	483	2715	2917	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2235	0	0	
+
+P 16   *	*	2917	*	*	*	*	*	*	*	*	*	260	*	*	4945	*	*	*	*	16
+       0	*	*	*	*	*	*	2235	0	0	
+
+N 17   *	*	2917	*	*	*	*	*	*	*	*	301	*	*	*	*	*	*	*	4158	17
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2235	0	0	
+
+N 19   *	*	*	*	*	*	*	*	*	*	*	833	*	*	*	2265	2116	*	*	*	19
+       0	*	*	*	*	*	*	2235	0	0	
+
+E 20   4722	*	2865	751	*	4346	*	*	*	*	*	4645	4387	*	4620	4240	*	*	*	*	20
+       0	*	*	*	*	*	*	2235	0	0	
+
+E 21   4883	*	3142	696	*	*	*	*	*	4240	*	*	4391	3541	*	*	*	4346	*	*	21
+       0	*	*	*	*	*	*	2235	0	0	
+
+Q 22   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2235	0	0	
+
+R 23   *	*	*	*	4444	*	*	*	3513	4387	*	*	*	4099	603	*	*	3292	*	*	23
+       0	*	*	*	*	*	*	2235	0	0	
+
+N 24   *	4387	2917	*	*	*	4444	*	3368	*	*	1063	*	*	3632	3944	*	4240	*	*	24
+       0	*	*	*	*	*	*	2235	0	0	
+
+G 25   865	*	*	*	*	1149	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2235	0	0	
+
+F 26   *	*	*	*	326	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2305	26
+       0	*	*	*	*	*	*	2235	0	0	
+
+I 27   *	*	*	*	*	*	*	97	*	3944	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2235	0	0	
+
+Q 28   *	*	4346	*	4391	2917	4387	*	*	*	*	4240	*	1063	3632	3944	*	*	4444	*	28
+       0	*	*	*	*	*	*	2235	0	0	
+
+S 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2917	205	*	*	*	*	29
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 30   *	*	*	*	*	*	*	2341	*	317	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2235	0	0	
+
+K 31   *	*	*	*	*	*	4387	4444	711	*	*	3944	*	*	2808	*	*	*	4391	4645	31
+       0	*	*	*	*	*	*	2235	0	0	
+
+D 32   *	*	205	2917	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2235	0	0	
+
+D 33   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2235	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2235	0	0	
+
+S 35   *	*	2917	*	*	*	*	*	*	*	*	*	*	*	*	205	*	*	*	*	35
+       0	*	*	*	*	*	*	2235	0	0	
+
+Q 36   *	*	*	*	*	*	*	*	*	*	*	*	*	528	*	*	4447	1941	*	*	36
+       0	*	*	*	*	*	*	2235	0	0	
+
+S 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	37
+       0	*	*	*	*	*	*	2235	0	0	
+
+A 38   743	*	*	*	*	*	*	*	4305	*	*	3129	*	2488	*	5289	4883	*	*	*	38
+       0	*	*	*	*	*	*	2235	0	0	
+
+N 39   *	*	1977	2659	*	*	*	*	*	*	*	767	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 40   *	*	*	*	*	*	*	1941	*	1114	*	*	*	*	*	*	*	1849	*	*	40
+       0	*	*	*	*	*	*	2235	0	0	
+
+L 41   *	*	*	*	2917	*	*	*	*	205	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2235	0	0	
+
+A 42   811	*	*	*	*	3800	*	*	*	*	*	4447	*	4517	*	5201	*	2049	*	*	42
+       0	*	*	*	*	*	*	2235	0	0	
+
+E 43   *	*	*	64	*	*	*	*	*	*	*	*	*	4517	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2235	0	0	
+
+A 44   205	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2917	*	*	*	*	44
+       0	*	*	0	*	*	*	2235	0	0	
+
+//

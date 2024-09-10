@@ -1,0 +1,168 @@
+HHsearch 1.5
+NAME  d2hepa1 a.2.21.1 (A:1-42) Hypothetical protein YnzC {Bacillus subtilis [TaxId: 1423]}
+FAM   a.2.21.1
+FILE  d2hepa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2hepa1.a3m -v 1 
+DATE  Tue Jan 22 07:17:57 2013
+LENG  42 match states, 42 columns in multiple alignment
+FILT  101 out of 221 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHCC
+>ss_conf
+987888999999998864049988889989998999976229
+>Consensus
+MxxxxxixRINeLaxKxKxxgLTxxExxEqxxLRqxYlxxfR
+>d2hepa1 a.2.21.1 (A:1-42) Hypothetical protein YnzC {Bacillus subtilis [TaxId: 1423]}
+MISNAKIARINELAAKAKAGVITEEEKAEQQKLRQEYLKGFR
+>gi|238916916|ref|YP_002930433.1|(1-42:84) hypothetical protein EUBELI_00985 [Eubacterium eligens ATCC 27750] >gi|259710184|sp|C4Z073.1|Y985_EUBE2 RecName: Full=UPF0291 protein EUBELI_00985 >gi|238872276|gb|ACR71986.1| Hypothetical protein EUBELI_00985 [Eubacterium eligens ATCC 27750]  E=0.0001 s/c=1.17 id=47% cov=102%
+MVTEKTLERINELYHKSKAEGLTDAELAEQKQLRADYVKAFR
+>gi|326791466|ref|YP_004309287.1|(8-49:81) hypothetical protein Clole_2382 [Clostridium lentocellum DSM 5427] >gi|326542230|gb|ADZ84089.1| protein of unknown function DUF896 [Clostridium lentocellum DSM 5427]  E=0.0003 s/c=1.14 id=44% cov=102%
+MEMDELIKEINALAHKKKKEGLTAEEQIRQDHLRQQYLAIFR
+>gi|162447425|ref|YP_001620557.1|(330-369:399) glyoxalase domain-containing protein [Acholeplasma laidlawii PG-8A] >gi|161985532|gb|ABX81181.1| glyoxalase domain protein [Acholeplasma laidlawii PG-8A]  E=0.0003 s/c=1.20 id=38% cov=95%
+---QDLLNKINYYAKEAKLRTLTDEEIEERQELRHKYVKSIR
+>gi|253576746|ref|ZP_04854073.1|(13-54:69) conserved hypothetical protein [Paenibacillus sp. oral taxon 786 str. D14] >gi|251843956|gb|EES71977.1| conserved hypothetical protein [Paenibacillus sp. oral taxon 786 str. D14]  E=2e-05 s/c=1.24 id=42% cov=102%
+MDIDALVKRINELARKAKQEGLSQDEILERAQLRETYLQNVR
+>gi|257413308|ref|ZP_04742632.2|(4-45:78) conserved hypothetical protein [Roseburia intestinalis L1-82] >gi|257203957|gb|EEV02242.1| conserved hypothetical protein [Roseburia intestinalis L1-82] >gi|291538849|emb|CBL11960.1| Uncharacterized protein conserved in bacteria [Roseburia intestinalis XB6B4]  E=2e-05 s/c=1.24 id=37% cov=102%
+LMKQEQIDRINALYRKSQAEGLTEAEKEEQAMLRKAYVADVK
+>gi|291541695|emb|CBL14805.1|(1-41:74) Uncharacterized protein conserved in bacteria [Ruminococcus bromii L2-63]  E=3e-05 s/c=1.25 id=40% cov=100%
+-MDKKMLDRINELAKKKKEQGLTEAEQKEQKELYKIYLGEIR
+>gi|150390894|ref|YP_001320943.1|(3-44:58) hypothetical protein Amet_3145 [Alkaliphilus metalliredigens QYMF] >gi|149950756|gb|ABR49284.1| protein of unknown function DUF896 [Alkaliphilus metalliredigens QYMF]  E=7e-05 s/c=1.19 id=47% cov=102%
+MVSAEKIARINVLAKISKERDLTVAEQEERALLRKEYINSFR
+>gi|258515499|ref|YP_003191721.1|(1-42:77) hypothetical protein Dtox_2284 [Desulfotomaculum acetoxidans DSM 771] >gi|257779204|gb|ACV63098.1| protein of unknown function DUF896 [Desulfotomaculum acetoxidans DSM 771]  E=5e-08 s/c=1.44 id=44% cov=102%
+MMTKELIERINELSRKQRSVGLDAVEKEEQAKLRGIYLQGIR
+>gi|205373546|ref|ZP_03226349.1|(1-42:77) YnzC [Bacillus coahuilensis m4-4]   E=1e-07 s/c=1.40 id=47% cov=102%
+MLNPDKLARLNELSKKSKTKGLSSSESAEQAELRQQYLSNFR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	4093	87	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3197	0	0	
+
+I 2    *	*	4757	4447	*	*	*	1864	4709	2084	2175	6058	*	6271	*	5728	4486	4170	*	*	2
+       0	*	*	*	*	*	*	3302	0	0	
+
+S 3    5539	*	2509	3389	*	*	5538	4714	5706	6304	3515	4555	4718	*	*	1913	2536	6644	*	*	3
+       20	*	6213	*	*	*	*	3316	0	0	
+
+N 4    6157	*	2929	3112	*	*	5821	*	1713	*	*	3114	3695	2685	5190	5189	6227	*	*	*	4
+       0	*	*	*	*	*	0	3361	0	1000	
+
+A 5    4240	*	3017	1177	*	5713	6828	6935	2469	5827	*	4098	*	5086	*	4462	6191	*	*	*	5
+       0	*	*	*	*	0	*	3307	0	1000	
+
+K 6    6961	*	5591	5368	*	*	*	3997	1540	1835	4276	*	*	3509	4912	*	4721	4636	*	6703	6
+       22	6016	*	0	*	*	*	3313	1000	0	
+
+I 7    *	*	*	*	*	*	*	1063	*	1357	4512	*	*	*	*	*	*	3524	*	*	7
+       0	*	*	*	*	*	*	3327	0	0	
+
+A 8    2674	*	2227	2568	4923	*	*	*	2372	*	*	2951	5552	5282	4867	6382	*	6347	*	*	8
+       0	*	*	*	*	*	*	3330	0	0	
+
+R 9    *	*	*	5388	*	*	*	*	4185	*	*	5889	*	5532	180	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3330	0	0	
+
+I 10   *	*	*	*	*	*	*	118	*	3675	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3330	0	0	
+
+N 11   *	*	*	*	*	6092	*	*	5607	*	*	52	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 12   3485	*	6046	585	3929	*	*	6716	*	6360	*	*	*	4317	*	*	*	4503	*	4407	12
+       0	*	*	*	*	*	*	3330	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	46	*	*	*	*	*	*	*	*	*	5005	13
+       0	*	*	*	*	*	*	3330	0	0	
+
+A 14   626	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2428	*	6220	*	2712	14
+       0	*	*	*	*	*	*	3330	0	0	
+
+A 15   3909	*	*	6685	*	*	2867	*	1274	*	*	3866	*	4573	1988	*	*	*	6571	*	15
+       0	*	*	*	*	*	*	3330	0	0	
+
+K 16   *	*	*	5005	*	*	*	4848	156	5274	*	*	*	*	6514	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3330	0	0	
+
+A 17   1803	*	5169	4330	*	*	*	*	2176	*	*	5570	*	2669	*	2081	*	*	*	*	17
+       0	*	*	*	*	*	*	3330	0	0	
+
+K 18   *	*	*	*	*	*	*	*	390	*	*	*	*	3627	2849	*	*	5856	*	*	18
+       0	*	*	*	*	*	*	3330	0	0	
+
+A 19   2085	*	6347	2272	*	*	*	5372	5497	5005	*	4488	*	4742	*	2610	2332	5433	*	*	19
+       34	5428	*	0	*	*	*	3330	1622	0	
+
+G 20   6855	*	4727	1421	*	2646	*	*	5603	*	*	*	*	4282	3924	3586	4168	2942	*	6204	20
+       19	6269	*	0	*	*	*	3330	1000	0	
+
+V 21   5082	*	4919	6987	*	461	*	*	*	*	*	*	6509	6880	*	5816	2687	6552	*	*	21
+       0	*	*	*	*	*	*	3330	0	0	
+
+I 22   *	*	*	*	*	*	*	4343	*	73	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3330	0	0	
+
+T 23   *	*	6435	5422	*	*	*	*	5767	*	*	4791	*	*	*	2862	371	*	*	*	23
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 24   3203	*	2705	1629	*	6115	*	5697	3651	5552	*	6489	3529	4621	*	3779	5613	4848	*	6204	24
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 25   2695	*	3671	1165	5889	*	6592	*	3987	6150	*	*	6115	4269	*	3925	4522	5523	5686	*	25
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 26   *	*	*	38	*	*	*	*	*	*	*	*	*	5274	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3330	0	0	
+
+K 27   2946	*	*	4091	*	6591	*	3827	1434	3068	5598	*	*	3026	5896	6504	3833	*	*	*	27
+       0	*	*	*	*	*	*	3330	0	0	
+
+A 28   2408	*	6830	2458	*	*	*	3480	2448	4267	5274	4707	*	3600	5744	4619	6028	3743	*	*	28
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 29   *	*	*	93	*	*	*	*	5532	*	*	*	*	*	4617	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3330	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	*	*	*	*	*	457	1882	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3330	0	0	
+
+Q 31   2398	*	4127	4086	*	*	5163	6617	1945	6197	6204	*	*	1984	*	4818	4135	5383	*	*	31
+       0	*	*	*	*	*	*	3330	0	0	
+
+K 32   2427	*	6907	2203	6229	6720	6265	5120	2630	5449	4325	5962	*	3581	4125	5138	5401	3978	*	5856	32
+       0	*	*	*	*	*	*	3330	0	0	
+
+L 33   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3330	0	0	
+
+R 34   *	*	*	*	*	*	4549	*	*	*	*	*	*	*	105	*	*	*	*	5191	34
+       0	*	*	*	*	*	*	3330	0	0	
+
+Q 35   6232	*	4645	3023	*	5724	5005	*	2237	*	*	4939	*	1272	3735	5125	6509	*	*	*	35
+       0	*	*	*	*	*	*	3330	0	0	
+
+E 36   3469	*	4189	1171	*	*	5767	3832	3084	5856	*	5151	*	3271	6735	*	4848	6481	*	*	36
+       0	*	*	*	*	*	*	3330	0	0	
+
+Y 37   *	*	*	*	4751	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55	37
+       0	*	*	*	*	*	*	3330	0	0	
+
+L 38   *	*	*	*	*	*	*	2258	*	612	5170	*	*	*	*	*	6099	3408	*	*	38
+       0	*	*	*	*	*	*	3330	0	0	
+
+K 39   2827	*	3005	3203	*	5187	*	*	2020	6382	*	4422	*	2592	4382	4021	6968	6675	*	*	39
+       0	*	*	*	*	*	*	3330	0	0	
+
+G 40   2027	7061	5268	3645	6269	3448	*	4589	4853	4950	5424	2695	*	4510	*	2934	4071	5942	*	*	40
+       0	*	*	*	*	*	*	3330	0	0	
+
+F 41   *	*	*	*	880	*	*	1881	*	*	6185	*	*	*	*	*	*	2670	*	6115	41
+       0	*	*	*	*	*	*	3330	0	0	
+
+R 42   *	*	*	*	*	*	*	*	2832	*	*	*	*	*	218	*	*	*	*	*	42
+       0	*	*	0	*	*	*	3333	0	0	
+
+//

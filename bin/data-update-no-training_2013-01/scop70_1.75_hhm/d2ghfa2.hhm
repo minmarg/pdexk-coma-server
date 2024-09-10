@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d2ghfa2 g.37.1.1 (A:9-44) Zinc fingers and homeoboxes protein 1, ZHX1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2ghfa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ghfa2.a3m -v 1 
+DATE  Tue Jan 22 06:55:31 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHCCCCC
+>ss_conf
+986655568710223666773124566542016889
+>Consensus
+xnxxxkxxgGyeCKYCxfxTxxLnxFtxHVDsxHPn
+>d2ghfa2 g.37.1.1 (A:9-44) Zinc fingers and homeoboxes protein 1, ZHX1 {Human (Homo sapiens) [TaxId: 9606]}
+NQQNKKVEGGYECKYCTFQTPDLNMFTFHVDSEHPN
+>gi|260182190|gb|ACX35617.1|(68-99:789) zinc finger and homeobox protein 2 isoform [Salmo salar]   E=0.0001 s/c=1.57 id=64% cov=92%
+----RRQHGGYECKYCTFSTQNLNDFKEHVDSSHPN
+>gi|148697335|gb|EDL29282.1|(94-129:862) zinc fingers and homeoboxes protein 2, isoform CRA_a [Mus musculus] >gi|148697336|gb|EDL29283.1| zinc fingers and homeoboxes protein 2, isoform CRA_a [Mus musculus]  E=1e-11 s/c=2.02 id=57% cov=103%
+ENLSKKLQGGYECKYCPYSTQNLNEFTEHVDMQHPN
+>gi|410927747|ref|XP_003977302.1|(66-98:888) PREDICTED: zinc fingers and homeoboxes protein 1-like, partial [Takifugu rubripes]  E=9e-11 s/c=2.12 id=68% cov=94%
+---SSTAEGGYECKYCSFQTPELNLFTLHVDTEHPD
+>gi|327286934|ref|XP_003228184.1|(64-98:799) PREDICTED: zinc fingers and homeoboxes protein 2-like [Anolis carolinensis]  E=1e-08 s/c=1.81 id=53% cov=100%
+-NPSKKSLGGYECKYCPYSTQNLVDFTEHIDTQHPN
+>gi|410928726|ref|XP_003977751.1|(101-133:930) PREDICTED: zinc fingers and homeoboxes protein 2-like [Takifugu rubripes]  E=3e-06 s/c=1.66 id=59% cov=75%
+----------FTCKYCPFSSPNLSRFKEHVDSEHPN
+>gi|348512302|ref|XP_003443682.1|(82-117:819) PREDICTED: zinc fingers and homeoboxes protein 2-like [Oreochromis niloticus]  E=1e-10 s/c=1.92 id=56% cov=94%
+---QRRQQGGYECKYCPFSTQNLNTFKEHVDANHPN
+>gi|148356265|ref|NP_942109.2|(72-106:805) zinc fingers and homeoboxes protein 2 [Danio rerio] >gi|146326990|gb|AAI41783.1| Zhx2 protein [Danio rerio]  E=2e-10 s/c=1.96 id=62% cov=94%
+---QRKPQGGYECKYCPFSTQNLNEFKDHVDSNHPN
+>gi|348543993|ref|XP_003459466.1|(108-140:867) PREDICTED: zinc fingers and homeoboxes protein 2-like [Oreochromis niloticus]  E=3e-09 s/c=1.96 id=62% cov=94%
+---QKKQGRGYECKYCPFSTQNLNDFKEHVDSSHPN
+>gi|260805533|ref|XP_002597641.1|(15-49:1394) hypothetical protein BRAFLDRAFT_121689 [Branchiostoma floridae] >gi|229282907|gb|EEN53653.1| hypothetical protein BRAFLDRAFT_121689 [Branchiostoma floridae]  E=5e-08 s/c=1.74 id=69% cov=89%
+-----KLQGGFECKYCSFQTQDLNEFTSHVDSAHPH
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	2264	1257	*	*	*	*	*	*	*	1421	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1454	0	0	
+
+Q 2    *	*	*	*	*	*	*	*	*	*	*	550	*	1657	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1516	0	0	
+
+Q 3    *	*	*	*	*	*	*	*	*	2908	*	*	2556	521	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1529	0	0	
+
+N 4    *	*	*	*	*	*	*	*	*	*	*	2688	3649	1543	*	1245	*	*	*	*	4
+       0	*	*	*	*	*	*	1748	0	0	
+
+K 5    *	*	*	*	*	*	3631	*	931	*	*	*	*	*	2203	2494	*	*	*	*	5
+       0	*	*	*	*	*	*	1758	0	0	
+
+K 6    *	*	*	*	*	*	*	*	528	*	*	*	*	*	2835	*	2589	*	*	*	6
+       0	*	*	*	*	*	*	1753	0	0	
+
+V 7    2589	*	*	*	*	*	*	3805	*	2285	*	*	3070	2210	*	3424	*	2958	*	*	7
+       0	*	*	*	*	*	*	1753	0	0	
+
+E 8    *	*	*	1292	*	3743	4053	*	*	3474	*	*	*	1447	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1654	0	0	
+
+G 9    *	*	*	*	*	112	*	*	*	*	*	*	*	*	3743	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1654	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1654	0	0	
+
+Y 11   *	*	*	*	2632	*	*	*	*	*	*	*	*	*	*	*	*	*	*	254	11
+       0	*	*	*	*	*	*	1709	0	0	
+
+E 12   *	*	*	145	*	*	*	*	*	*	*	*	*	*	*	*	3385	*	*	*	12
+       0	*	*	*	*	*	*	1709	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1709	0	0	
+
+K 14   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1709	0	0	
+
+Y 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	15
+       0	*	*	*	*	*	*	1709	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1709	0	0	
+
+T 17   4175	*	*	*	*	*	*	*	*	*	*	*	984	*	*	1810	2699	*	*	*	17
+       0	*	*	*	*	*	*	1709	0	0	
+
+F 18   *	*	*	*	385	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2095	18
+       0	*	*	*	*	*	*	1709	0	0	
+
+Q 19   *	*	*	*	*	*	*	*	*	*	*	*	*	1184	*	837	*	*	*	*	19
+       0	*	*	*	*	*	*	1709	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3385	145	*	*	*	20
+       0	*	*	*	*	*	*	1709	0	0	
+
+P 21   3147	*	*	*	*	*	*	*	*	*	*	*	2010	917	*	3194	*	*	*	*	21
+       0	*	*	*	*	*	*	1709	0	0	
+
+D 22   *	*	2181	3179	*	*	*	*	*	*	*	837	*	3194	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1709	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1709	0	0	
+
+N 24   *	*	*	*	*	*	*	*	*	*	*	278	*	*	*	3385	*	3649	*	*	24
+       0	*	*	*	*	*	*	1709	0	0	
+
+M 25   *	*	2303	1888	*	*	*	*	*	2574	2274	*	*	*	3385	*	4141	*	*	*	25
+       0	*	*	*	*	*	*	1709	0	0	
+
+F 26   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1709	0	0	
+
+T 27   *	*	*	*	*	*	*	*	1618	*	*	*	*	*	*	*	569	*	*	*	27
+       0	*	*	*	*	*	*	1709	0	0	
+
+F 28   *	*	4312	973	2689	*	*	*	*	3257	4120	*	*	*	*	3931	*	4120	*	*	28
+       0	*	*	*	*	*	*	1709	0	0	
+
+H 29   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1709	0	0	
+
+V 30   *	*	*	*	*	*	*	3649	*	*	*	*	*	*	*	*	*	120	*	*	30
+       0	*	*	*	*	*	*	1709	0	0	
+
+D 31   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1709	0	0	
+
+S 32   4141	*	*	*	*	*	*	*	*	4161	4263	*	*	*	*	1030	1532	*	*	*	32
+       0	*	*	*	*	*	*	1709	0	0	
+
+E 33   3931	*	*	1088	*	*	4161	*	*	*	*	3224	*	2489	*	3024	*	*	*	*	33
+       0	*	*	*	*	*	*	1709	0	0	
+
+H 34   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1709	0	0	
+
+P 35   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1709	0	0	
+
+N 36   *	*	2574	*	*	*	3086	*	*	*	*	485	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	1709	0	0	
+
+//

@@ -1,0 +1,237 @@
+HHsearch 1.5
+NAME  d1gjsa_ a.8.1.2 (A:) IgG binding protein G {Streptococcus sp., group G [TaxId: 1306]}
+FAM   a.8.1.2
+FILE  d1gjsa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1gjsa_.a3m -v 1 
+DATE  Mon Jan 21 20:57:32 2013
+LENG  65 match states, 65 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCEECCCCHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHCCHHHHHHHHHHHHHHHHCC
+>ss_conf
+94110013450778989999889999999998605048999974042238889999999975259
+>Consensus
+xxxxxvxxxxxedtikxxxLxxAKxxAixelkxyGvSDyYxnlINxAKTVEGVxaLkxeIlxslp
+>d1gjsa_ a.8.1.2 (A:) IgG binding protein G {Streptococcus sp., group G [TaxId: 1306]}
+MKAIFVLNAQHDEAVDANSLAEAKVLANRELDKYGVSDYYKNLINNAKTVEGVKALIDEILAALP
+>gi|392330546|ref|ZP_10275161.1|(140-187:370) hypothetical protein SCAZ3_01320 [Streptococcus canis FSL Z3-227] >gi|391418225|gb|EIQ81037.1| hypothetical protein SCAZ3_01320 [Streptococcus canis FSL Z3-227]  E=0.0003 s/c=1.00 id=51% cov=75%
+---------------KAAALDQAKQAALKEFDRYGVSNYYKNLINKAKTVEGIMELQAQVVES--
+>gi|343524360|ref|ZP_08761318.1|(132-184:271) immunoglobulin G-binding protein G [Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377] >gi|343398009|gb|EGV10542.1| immunoglobulin G-binding protein G [Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377]  E=7e-11 s/c=1.33 id=61% cov=83%
+-----------EDTIKSLELSEAKTLALREFDKYGVSDYYKKLVNSAKTVEGVAALKDLILNSL-
+>gi|418962978|ref|ZP_13514825.1|(110-157:234) Gram-positive signal peptide protein, YSIRK family, partial [Streptococcus anginosus CCUG 39159] >gi|383344600|gb|EID22759.1| Gram-positive signal peptide protein, YSIRK family, partial [Streptococcus anginosus CCUG 39159]  E=4e-07 s/c=1.20 id=53% cov=75%
+---------------DAWELEAAKDAALKELNQYGVSDYYKKLVNSAKTVAGVKKLQAQVVES--
+>gi|297587890|ref|ZP_06946534.1|(369-426:1814) albumin-binding protein family protein [Finegoldia magna ATCC 53516] >gi|297574579|gb|EFH93299.1| albumin-binding protein family protein [Finegoldia magna ATCC 53516]  E=0.0002 s/c=0.84 id=45% cov=89%
+------LEEKPEDIAKEKALKEAKEKAVEELKENGItSEKYIDQINKAKTVEGVNALKDEIIKA--
+>gi|303234595|ref|ZP_07321229.1|(506-561:954) albumin-binding protein [Finegoldia magna BVS033A4] >gi|302494258|gb|EFL54030.1| albumin-binding protein [Finegoldia magna BVS033A4]  E=5e-05 s/c=0.91 id=51% cov=78%
+-------------TIDEWLLKNAKEDAIKELKEAGIkSQFFFNLINNAKTVEGVESLKNEILKA--
+>gi|551987|gb|AAA26599.1|(33-82:573) BBM3XM [Staphylococcus xylosus]   E=9e-06 s/c=1.06 id=53% cov=78%
+-------------AANAAQHDEAVDANFDQFNKYGVSDYYKNLINNAKTVEGVKDLQAQVVES--
+>gi|195977828|ref|YP_002123072.1|(178-228:445) IgG binding protein Zag [Streptococcus equi subsp. zooepidemicus MGCS10565] >gi|195974533|gb|ACG62059.1| IgG binding protein Zag [Streptococcus equi subsp. zooepidemicus MGCS10565]  E=8e-10 s/c=1.31 id=62% cov=77%
+----------------AEALLKAKEAAINELKQYGISDYYVTLINKAKTVEGVNALKAEILSALP
+>gi|475118|gb|AAA26921.1|(185-244:413) mag [Streptococcus dysgalactiae]   E=5e-07 s/c=0.96 id=52% cov=94%
+-----VTRIKTEKALKAAALAKAKADAIEILKKYGIGDYYIKLINNGKTAEGVTALKDEILASKP
+>gi|357637816|ref|ZP_09135689.1|(218-269:468) putative immunoglobulin G-binding protein G [Streptococcus urinalis 2285-97] >gi|357586270|gb|EHJ55678.1| putative immunoglobulin G-binding protein G [Streptococcus urinalis 2285-97]  E=5e-07 s/c=1.10 id=43% cov=82%
+------------KTVKDYALEDAKSLAKSALKSEGASDFYINKIDSANTVEGVNSLKDSIIESL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1000	0	0	
+
+A 3    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1000	0	0	
+
+I 4    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1000	0	0	
+
+F 5    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1000	0	0	
+
+V 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	6
+       0	*	*	*	*	*	*	1382	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	566	*	*	*	*	*	*	1623	*	*	*	7
+       0	*	*	*	*	*	*	1672	0	0	
+
+N 8    *	*	*	1547	*	*	*	*	*	*	*	1585	*	*	1623	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1672	0	0	
+
+A 9    1585	*	*	1547	*	*	*	1623	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1672	0	0	
+
+Q 10   *	*	*	*	*	*	*	*	585	*	*	*	*	1585	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1672	0	0	
+
+H 11   *	*	*	*	*	*	1585	*	*	*	*	*	1547	*	*	*	1623	*	*	*	11
+       0	*	*	*	*	*	*	1672	0	0	
+
+D 12   *	*	3078	182	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1889	0	0	
+
+E 13   *	*	832	2463	*	*	*	*	1960	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2121	0	0	
+
+A 14   1821	*	*	*	*	*	*	3769	*	*	*	*	*	*	*	*	636	*	*	*	14
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 15   2431	*	*	*	*	*	*	1389	*	2883	*	*	*	*	*	*	*	1751	*	*	15
+       0	*	*	*	*	*	*	2356	0	0	
+
+D 16   *	*	1420	*	*	*	*	*	908	*	*	3420	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2387	0	0	
+
+A 17   1334	*	3354	2100	*	*	*	*	*	*	*	*	*	4327	*	2168	*	*	*	*	17
+       0	*	*	*	*	*	*	2402	0	0	
+
+N 18   2189	*	*	4317	*	*	*	2954	4086	3420	*	3747	*	*	*	*	*	*	1853	3354	18
+       0	*	*	*	*	*	*	2402	0	0	
+
+S 19   1576	*	*	2165	*	*	*	*	4263	2157	*	*	*	3461	*	3747	*	*	*	*	19
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 20   *	*	*	*	*	*	3461	*	*	137	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 21   2218	*	2682	2733	*	*	*	*	1820	4317	*	*	*	*	*	2781	*	*	*	*	21
+       0	*	*	*	*	*	*	2402	0	0	
+
+E 22   4251	*	3354	1291	*	*	*	*	3137	*	*	2157	*	3278	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 23   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2402	0	0	
+
+K 24   *	*	*	*	*	*	*	*	137	*	*	*	*	*	*	*	*	3461	*	*	24
+       0	*	*	*	*	*	*	2402	0	0	
+
+V 25   3977	*	2802	1240	*	*	*	*	*	*	*	*	*	3942	*	3354	3420	3141	*	*	25
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 26   1548	*	2314	4593	*	*	*	*	4086	1715	4263	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 27   137	*	*	*	*	*	*	*	*	*	*	3461	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2402	0	0	
+
+N 28   *	*	*	*	3461	*	*	1224	3354	2245	*	3141	*	*	*	*	*	4086	*	*	28
+       0	*	*	*	*	*	*	2402	0	0	
+
+R 29   4327	*	3461	3031	*	*	*	*	1599	*	*	4317	*	*	1949	3354	*	*	*	*	29
+       0	*	*	*	*	*	*	2402	0	0	
+
+E 30   3354	*	*	419	*	*	*	3977	*	*	*	*	*	3461	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 31   *	*	*	*	2004	*	*	*	*	414	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2402	0	0	
+
+D 32   *	*	1626	*	*	*	*	*	909	*	*	2802	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2402	0	0	
+
+K 33   4263	*	*	2100	*	*	*	*	1283	*	*	*	*	2829	3942	3354	*	*	*	*	33
+       0	*	*	*	*	*	*	2402	0	0	
+
+Y 34   2157	*	*	3354	*	*	*	*	*	*	*	4086	*	4263	*	*	*	*	*	819	34
+       0	*	*	*	*	*	*	2402	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2402	0	0	
+
+V 36   3354	*	*	*	*	*	*	1201	*	*	*	*	*	*	*	*	*	1098	*	*	36
+       392	2072	*	0	*	*	*	2402	1414	0	
+
+S 37   *	*	*	*	*	3300	*	*	*	*	*	*	*	*	*	229	4466	*	*	*	37
+       67	4466	*	0	*	*	*	2402	1000	0	
+
+D 38   *	*	343	3263	*	*	*	*	*	*	*	3942	*	4566	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2402	0	0	
+
+Y 39   *	*	*	*	2047	*	*	4457	4086	4593	*	*	*	*	*	*	*	*	*	708	39
+       0	*	*	*	*	*	*	2402	0	0	
+
+Y 40   *	*	*	*	4566	*	4578	*	*	4466	*	*	*	*	*	*	*	*	*	200	40
+       0	*	*	*	*	*	*	2402	0	0	
+
+K 41   *	*	*	*	2157	*	*	1953	1098	*	*	*	*	*	*	*	*	4317	*	*	41
+       0	*	*	*	*	*	*	2402	0	0	
+
+N 42   *	*	3260	*	*	*	*	*	2014	*	*	846	*	*	*	4593	4317	*	*	*	42
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 43   3391	*	*	*	*	*	*	*	2738	523	*	*	*	4086	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2402	0	0	
+
+I 44   *	*	*	*	*	*	*	228	*	*	*	*	*	*	*	*	*	2776	*	*	44
+       0	*	*	*	*	*	*	2402	0	0	
+
+N 45   *	*	3354	*	*	*	*	*	*	*	*	149	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2402	0	0	
+
+N 46   *	*	*	*	*	*	*	*	1489	*	*	1322	*	*	*	2036	*	*	*	*	46
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 47   95	*	*	*	*	3977	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2402	0	0	
+
+K 48   *	*	*	*	*	*	*	*	149	*	*	3354	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2402	0	0	
+
+T 49   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	49
+       0	*	*	*	*	*	*	2402	0	0	
+
+V 50   3977	*	*	*	*	*	*	4457	*	*	*	*	*	*	*	*	*	167	*	*	50
+       0	*	*	*	*	*	*	2402	0	0	
+
+E 51   3304	*	*	154	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2402	0	0	
+
+G 52   *	*	*	4327	*	74	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2402	0	0	
+
+V 53   *	*	*	*	*	*	*	3942	*	*	*	*	*	*	*	*	*	97	*	*	53
+       0	*	*	*	*	*	*	2402	0	0	
+
+K 54   4482	*	*	2235	*	*	*	*	1711	*	3942	1962	*	*	*	*	3977	4263	*	*	54
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 55   1066	*	2914	3942	*	*	*	*	3304	*	*	*	*	*	*	2163	*	*	*	*	55
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 56   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2402	0	0	
+
+I 57   *	*	*	*	*	*	*	3805	668	*	*	*	*	1742	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2402	0	0	
+
+D 58   1518	*	1364	*	*	*	*	*	*	*	*	1931	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2402	0	0	
+
+E 59   *	*	*	982	*	*	*	*	*	3368	*	*	*	1742	*	3354	*	*	*	*	59
+       0	*	*	*	*	*	*	2402	0	0	
+
+I 60   *	*	*	*	*	*	*	512	*	*	*	*	*	*	*	*	*	1742	*	*	60
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 61   *	*	*	*	*	*	*	2674	*	877	*	*	*	*	*	*	*	1742	*	*	61
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 62   2889	*	*	1334	*	*	*	*	1639	*	*	3368	*	*	*	4317	*	*	*	*	62
+       0	*	*	*	*	*	*	2402	0	0	
+
+A 63   1175	*	*	*	*	*	*	*	*	*	*	*	*	*	*	844	*	*	*	*	63
+       0	*	*	*	*	*	*	2402	0	0	
+
+L 64   *	*	*	*	*	*	*	*	2829	219	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	1929	0	0	
+
+P 65   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	65
+       0	*	*	0	*	*	*	1535	0	0	
+
+//

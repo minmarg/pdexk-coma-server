@@ -1,0 +1,237 @@
+Query         1sa3_A MspI REase, PDEXK superfamily
+Match_columns 165
+No_of_seqs    8 out of 10
+Neff          3.2 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:22 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/1sa3_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//1sa3_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1sa3_A MspI REase, PDEXK super 100.0       0       0  494.9  16.4  165    1-165     1-165 (165)
+  2 d1sa3a_ c.52.1.23 (A:) Restric 100.0       0       0  451.6  14.6  165    1-165    15-179 (262)
+  3 d1bxta2 d.15.6.1 (A:120-234) S  38.7      19  0.0014   15.0   4.0   39   79-121     3-41  (115)
+  4 d1ob8a_ c.52.1.18 (A:) Hollida  37.3      22  0.0016   14.6   4.2   44   78-126    27-70  (124)
+  5 d2aq2b2 d.15.6.1 (B:124-235) S  24.5      39  0.0028   13.1   3.7   32   86-120     6-37  (112)
+  6 2fkc_A R.HINP1I restriction en  23.7      34  0.0025   13.5   3.3   83    7-109     4-87  (240)
+  7 d1fnua2 d.15.6.1 (A:108-221) S  21.7      41  0.0029   13.0   3.3   33   86-121    10-42  (114)
+  8 d1gefa_ c.52.1.18 (A:) Archaea  21.0      65  0.0047   11.8   4.3   32   97-128    40-71  (120)
+  9 d1ewna_ b.46.1.2 (A:) 3-methyl  19.9      59  0.0043   12.1   3.9   65   42-106    10-93  (214)
+ 10 d1slma1 a.20.1.2 (A:16-80) Str  16.1      60  0.0043   12.0   3.1   31  128-158    23-53  (65)
+
+No 1  
+>1sa3_A MspI REase, PDEXK superfamily
+Probab=100.00  E-value=0  Score=494.85  Aligned_columns=165  Identities=100%
+
+Q ss_pred             CCCCCCCHHCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHCCHHHHHHHHHHHHHHCCCHHHEEEEEECCCCCCHHHCCC
+Q ss_conf             98786401010344312258899999841777877643203023467999998651887346564210454233000279
+Q 1sa3_A            1 IDQLPHTQHGVTSDRLGKLYEKYILDIFKDIESLKKYNTNAFPQEKDISSKLLKALNLDLDNIIDVSSSDTDLGRTIAGG   80 (165)
+Q Consensus         1 ~~~~~~~~~G~r~~~lG~~~E~~Ivn~lnd~~nl~~~n~n~~~~~t~ifk~I~~~l~i~~~kIi~I~Atds~Ip~l~ngG   80 (165)
+                      ||||||||||+|+|+||++||+|||++|||++||++||+|+|++++|||++||++|||+++|||+|+|||||||+|+|||
+T Consensus         1 ~~~~~~~~~G~r~~~lG~~~E~~Ivn~lnd~~nl~~~n~n~~~~~t~ifk~I~~~l~i~~~kIi~I~Atds~Ip~l~ngG   80 (165)
+T 1sa3_A            1 IDQLPHTQHGVTSDRLGKLYEKYILDIFKDIESLKKYNTNAFPQEKDISSKLLKALNLDLDNIIDVSSSDTDLGRTIAGG   80 (165)
+T ss_pred             CCCCCCCHHCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHCCHHHHHHHHHHHHHHCCCHHHEEEEEECCCCCCHHHCCC
+T ss_conf             98786401010344312258899999841777877643203023467999998651887346564210454233000279
+
+
+Q ss_pred             CCCEEEEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHHHHHHHCCCCHHHHHHHHHHHHHCCHHHCCCHHHHHHHHH
+Q ss_conf             97313788998747705787666521323167764256888897718880689999999985200221370147888874
+Q 1sa3_A           81 SPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVETICTGVGISDGELKELIRKHQNDQSAKLFTPVQKQRLTEL  160 (165)
+Q Consensus        81 kPKTDi~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~~i~~l~~~ds~L~~llk~fQ~~gS~k~f~~~~~e~L~e~  160 (165)
+                      +|||||+|+|++++|++++||||||||+++|||||||+|++||++|+|+||+|++|||+||+|||||+|+|+++|+|+|+
+T Consensus        81 kPKTDi~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~~i~~l~~~ds~L~~llk~fQ~~gS~k~f~~~~~e~L~e~  160 (165)
+T 1sa3_A           81 SPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVETICTGVGISDGELKELIRKHQNDQSAKLFTPVQKQRLTEL  160 (165)
+T ss_pred             CCCEEEEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHHHHHHHCCCCHHHHHHHHHHHHHCCHHHCCCHHHHHHHHH
+T ss_conf             97313788998747705787666521323167764256888897718880689999999985200221370147888874
+
+
+Q ss_pred             HCCCC
+Q ss_conf             10359
+Q 1sa3_A          161 LEPYR  165 (165)
+Q Consensus       161 L~pY~  165 (165)
+                      |+|||
+T Consensus       161 L~pY~  165 (165)
+T 1sa3_A          161 LEPYR  165 (165)
+T ss_pred             HCCCC
+T ss_conf             10359
+
+
+No 2  
+>d1sa3a_ c.52.1.23 (A:) Restriction endonuclease MspI {Moraxella sp. [TaxId: 479]}
+Probab=100.00  E-value=0  Score=451.58  Aligned_columns=165  Identities=100%
+
+Q ss_pred             CCCCCCCHHCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHCCHHHHHHHHHHHHHHCCCHHHEEEEEECCCCCCHHHCCC
+Q ss_conf             98786401010344312258899999841777877643203023467999998651887346564210454233000279
+Q 1sa3_A            1 IDQLPHTQHGVTSDRLGKLYEKYILDIFKDIESLKKYNTNAFPQEKDISSKLLKALNLDLDNIIDVSSSDTDLGRTIAGG   80 (165)
+Q Consensus         1 ~~~~~~~~~G~r~~~lG~~~E~~Ivn~lnd~~nl~~~n~n~~~~~t~ifk~I~~~l~i~~~kIi~I~Atds~Ip~l~ngG   80 (165)
+                      ||||||+|||+|+|+||++||++||++|||++||++||+|++++++++|++||++|+|++++||+|+|||||||+|+|||
+T Consensus        15 ~~~l~~~e~G~r~~~lG~~~E~~Ivn~lnd~~Nl~~~n~n~~~~~~~~~~si~~~lnid~~~Ii~i~AtdsdIp~l~ngG   94 (262)
+T d1sa3a_          15 IDQLPHTQHGVTSDRLGKLYEKYILDIFKDIESLKKYNTNAFPQEKDISSKLLKALNLDLDNIIDVSSSDTDLGRTIAGG   94 (262)
+T ss_pred             CCCCCHHHHCHHHHHHHHHHHHHHHHHHCCHHHHHHHCCCCCCHHHHHHHHHHHHHCCCHHHEEEEEECCCCCCCHHCCC
+T ss_conf             10022012010232102368899999840767887513545210233589999873675357143100354243000289
+
+
+Q ss_pred             CCCEEEEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHHHHHHHCCCCHHHHHHHHHHHHHCCHHHCCCHHHHHHHHH
+Q ss_conf             97313788998747705787666521323167764256888897718880689999999985200221370147888874
+Q 1sa3_A           81 SPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVETICTGVGISDGELKELIRKHQNDQSAKLFTPVQKQRLTEL  160 (165)
+Q Consensus        81 kPKTDi~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~~i~~l~~~ds~L~~llk~fQ~~gS~k~f~~~~~e~L~e~  160 (165)
+                      +|||||+|+|+++++++++||||||||+++|||||||+|+|||++|+|+||+|++|||+||+||||++|+|+++|+|+|+
+T Consensus        95 kPKTDv~v~i~~~~~~~~~~~iSvK~T~~~kVsihEy~v~~~i~~l~~~ds~l~~ll~~fQ~~gS~k~f~~~~~q~L~e~  174 (262)
+T d1sa3a_          95 SPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVETICTGVGISDGELKELIRKHQNDQSAKLFTPVQKQRLTEL  174 (262)
+T ss_pred             CCCEEEEEEEEECCCCEEEEEEEEECCCCCEEEEECCCHHHHHHHHCCCHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHH
+T ss_conf             96314899999726805788777631323168874256889997718886799999999873111220461368899987
+
+
+Q ss_pred             HCCCC
+Q ss_conf             10359
+Q 1sa3_A          161 LEPYR  165 (165)
+Q Consensus       161 L~pY~  165 (165)
+                      |+||+
+T Consensus       175 L~~yn  179 (262)
+T d1sa3a_         175 LEPYR  179 (262)
+T ss_pred             HHHHH
+T ss_conf             54889
+
+
+No 3  
+>d1bxta2 d.15.6.1 (A:120-234) Streptococcal superantigen SSA {Streptococcus pyogenes [TaxId: 1314]}
+Probab=38.73   E-value=19  Score=15.04  Aligned_columns=39  Identities=23%
+
+Q ss_pred             CCCCCEEEEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHH
+Q ss_conf             7997313788998747705787666521323167764256888
+Q 1sa3_A           79 GGSPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVET  121 (165)
+Q Consensus        79 gGkPKTDi~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~  121 (165)
+                      -|+||. |.|.+..+.++...+.|+   |.++.||+-|-++..
+T Consensus         3 e~~~k~-I~vnv~~dg~q~~~~~I~---T~Kk~VT~QElD~K~   41 (115)
+T d1bxta2           3 EGKFPN-ITVKVYEDNENILSFDIT---TNKKQVTVQELDCKT   41 (115)
+T ss_pred             CCCCCE-EEEEEEECCEECCCEEEE---ECCCEEEEEEECHHH
+T ss_conf             887444-678886688351431798---716734688742578
+
+
+No 4  
+>d1ob8a_ c.52.1.18 (A:) Holliday-junction resolvase SSO1176 {Sulfolobus solfataricus [TaxId: 2287]}
+Probab=37.27   E-value=22  Score=14.61  Aligned_columns=44  Identities=20%
+
+Q ss_pred             CCCCCCEEEEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHHHHHHH
+Q ss_conf             2799731378899874770578766652132316776425688889771
+Q 1sa3_A           78 AGGSPKTDATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVETICTGV  126 (165)
+Q Consensus        78 ngGkPKTDi~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~~i~~l  126 (165)
+                      ++++|..||..-     +-...+.|-||-|++.+|.|..-+++.++.-.
+T Consensus        27 s~~~~~PDiiA~-----~~~~~~~iEvKst~~~~iyi~~eqvekL~~f~   70 (124)
+T d1ob8a_          27 SSPNPLPDIFAT-----KGNTLLSIECKSTWENKVKVKEHQVRKLLDFL   70 (124)
+T ss_pred             CCCCCCCEEEEE-----CCCEEEEEEEEECCCCEEEECHHHHHHHHHHH
+T ss_conf             888656348974-----49868999886237970682689999999999
+
+
+No 5  
+>d2aq2b2 d.15.6.1 (B:124-235) Streptococcal superantigen SSA {Streptococcus pyogenes [TaxId: 1314]}
+Probab=24.55   E-value=39  Score=13.14  Aligned_columns=32  Identities=19%
+
+Q ss_pred             EEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHH
+Q ss_conf             78899874770578766652132316776425688
+Q 1sa3_A           86 ATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVE  120 (165)
+Q Consensus        86 i~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~  120 (165)
+                      |.|.+..+.++...|.|   .|.++.||+-|-++.
+T Consensus         6 I~vnv~idg~q~~~~~I---~t~Kk~VT~QElD~k   37 (112)
+T d2aq2b2           6 VLVRVYENKRNTISFEV---QTDKKSVTAQELDIK   37 (112)
+T ss_pred             EEEEEEECCEEECCEEE---EECCCEEEEEEECHH
+T ss_conf             67889778855143178---863774357773357
+
+
+No 6  
+>2fkc_A R.HINP1I restriction endonuclease; protein dimerizaton, DNA su
+Probab=23.74   E-value=34  Score=13.51  Aligned_columns=83  Identities=22%
+
+Q ss_pred             CHHCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHCCHHHHHHHHHHHHHHCCCHHHEEEEEECCCCCCHHHCCCCCCEEE
+Q ss_conf             01010344312258899999841777877643203023467999998651887346564210454233000279973137
+Q 1sa3_A            7 TQHGVTSDRLGKLYEKYILDIFKDIESLKKYNTNAFPQEKDISSKLLKALNLDLDNIIDVSSSDTDLGRTIAGGSPKTDA   86 (165)
+Q Consensus         7 ~~~G~r~~~lG~~~E~~Ivn~lnd~~nl~~~n~n~~~~~t~ifk~I~~~l~i~~~kIi~I~Atds~Ip~l~ngGkPKTDi   86 (165)
+                      .+-|-.-++-|=.-|..|++-||+      |+...      .-++-+..++-++++|-.|+|.-      - .| -|.||
+T Consensus         4 ~~~Gs~tAk~Gf~nE~~i~~~fN~------w~~~~------~Aq~wL~~mgy~l~~i~~vKa~~------l-~g-yKaDI   63 (240)
+T 2fkc_A            4 VELGSKTAKDGFKNEKDIADRFEN------WKENS------EAQDWLVTMGHNLDEIKSVKAVV------L-SG-YKSDI   63 (240)
+T ss_pred             HHHCHHHHHCCCCCHHHHHHHHHC------CCCHH------HHHHHHHHHCCCHHHHHHHHHHH------H-CC-CCCCE
+T ss_conf             441103431134455899997522------00024------79999999567766876666654------2-02-11121
+
+
+Q ss_pred             EEEEEECCCE-EEEEEEEEECCCC
+Q ss_conf             8899874770-5787666521323
+Q 1sa3_A           87 TIRFTFHNQS-SRLVPLNIKHSSK  109 (165)
+Q Consensus        87 ~v~i~~~~k~-~~~~~iSvK~T~~  109 (165)
+                      .|.|....++ .-.-+|+||-.|-
+T Consensus        64 ~v~i~i~~k~~~d~~niqvKlvSn   87 (240)
+T 2fkc_A           64 NVQVLVFYKDALDIHNIQVKLVSN   87 (240)
+T ss_pred             EEEEEEHHHHHHHHHCCEEEEECC
+T ss_conf             355421012333220213576217
+
+
+No 7  
+>d1fnua2 d.15.6.1 (A:108-221) Streptococcal pyrogenic exotoxin A1 {Streptococcus pyogenes [TaxId: 1314]}
+Probab=21.67   E-value=41  Score=13.04  Aligned_columns=33  Identities=18%
+
+Q ss_pred             EEEEEEECCCEEEEEEEEEECCCCCEEEEECCCHHH
+Q ss_conf             788998747705787666521323167764256888
+Q 1sa3_A           86 ATIRFTFHNQSSRLVPLNIKHSSKKKVSIAEYDVET  121 (165)
+Q Consensus        86 i~v~i~~~~k~~~~~~iSvK~T~~~kVsihEy~v~~  121 (165)
+                      |.|.+..+.++...+.|+   |.++.||+-|-++..
+T Consensus        10 I~inv~idg~q~~~~~I~---t~Kk~VT~QElD~k~   42 (114)
+T d1fnua2          10 IVVKVSIDGIQSLSFDIE---TNKKMVTAQELDYKV   42 (114)
+T ss_pred             EEEEEEECCEECCCEEEE---ECCCCCEEEEECHHH
+T ss_conf             579898889011420788---746710067732678
+
+
+No 8  
+>d1gefa_ c.52.1.18 (A:) Archaeal Holliday junction resolvase Hjc {Archaeon Pyrococcus furiosus [TaxId: 2261]}
+Probab=21.01   E-value=65  Score=11.81  Aligned_columns=32  Identities=9%
+
+Q ss_pred             EEEEEEEEECCCCCEEEEECCCHHHHHHHHCC
+Q ss_conf             57876665213231677642568888977188
+Q 1sa3_A           97 SRLVPLNIKHSSKKKVSIAEYDVETICTGVGI  128 (165)
+Q Consensus        97 ~~~~~iSvK~T~~~kVsihEy~v~~~i~~l~~  128 (165)
+                      ..++.|-||-|++.++.+.+-+++.+++-...
+T Consensus        40 ~~~~~IEvKst~~~~iyi~~eqvekL~~f~~~   71 (120)
+T d1gefa_          40 KKYLCIEVKVTKKDHLYVGKRDMGRLIEFSRR   71 (120)
+T ss_pred             CEEEEEEEEECCCCEEEECHHHHHHHHHHHHH
+T ss_conf             85899988613797068268999999999984
+
+
+No 9  
+>d1ewna_ b.46.1.2 (A:) 3-methyladenine DNA glycosylase (AAG, ANPG, MPG) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=19.91   E-value=59  Score=12.06  Aligned_columns=65  Identities=15%
+
+Q ss_pred             CHHHHH-HHHHHHHHHCC----C----HHHEEEEEECC-C-CCCHHHCCC--CCCEEE------EEEEEECCCEEEEEEE
+Q ss_conf             023467-99999865188----7----34656421045-4-233000279--973137------8899874770578766
+Q 1sa3_A           42 FPQEKD-ISSKLLKALNL----D----LDNIIDVSSSD-T-DLGRTIAGG--SPKTDA------TIRFTFHNQSSRLVPL  102 (165)
+Q Consensus        42 ~~~~t~-ifk~I~~~l~i----~----~~kIi~I~Atd-s-~Ip~l~ngG--kPKTDi------~v~i~~~~k~~~~~~i  102 (165)
+                      |.+++- +-+.++.++=.    +    ...|+++||=. . |-.--.-+|  .|.|.+      +++|++-++.-.|++|
+T Consensus        10 f~r~~~~vA~~LLGk~Lvr~~~~g~~~~grIvEtEAY~G~~D~AsHa~~gr~T~Rn~~Mf~~~G~~YVY~~yG~h~clNi   89 (214)
+T d1ewna_          10 FDQPAVPLARAFLGQVLVRRLPNGTELRGRIVETQAYLGPEDEAAHSRGGRQTPRNRGMFMKPGTLYVYIIYGMYFCMNI   89 (214)
+T ss_pred             HCCCHHHHHHHHCCCEEEEECCCCEEEEEEEEEEECCCCCCCCCCCCCCCCCCCCCHHHHCCCCEEEEEECCCCEEEEEE
+T ss_conf             42898899987189089997689858999999876158865852101478877312243428761775400112256666
+
+
+Q ss_pred             EEEC
+Q ss_conf             6521
+Q 1sa3_A          103 NIKH  106 (165)
+Q Consensus       103 SvK~  106 (165)
+                      +++.
+T Consensus        90 vt~~   93 (214)
+T d1ewna_          90 SSQG   93 (214)
+T ss_pred             EECC
+T ss_conf             5468
+
+
+No 10 
+>d1slma1 a.20.1.2 (A:16-80) Stromelysin-1 (MMP-3) {Human (Homo sapiens), fibroblast [TaxId: 9606]}
+Probab=16.08   E-value=60  Score=12.04  Aligned_columns=31  Identities=16%
+
+Q ss_pred             CCCHHHHHHHHHHHHHCCHHHCCCHHHHHHH
+Q ss_conf             8806899999999852002213701478888
+Q 1sa3_A          128 ISDGELKELIRKHQNDQSAKLFTPVQKQRLT  158 (165)
+Q Consensus       128 ~~ds~L~~llk~fQ~~gS~k~f~~~~~e~L~  158 (165)
+                      .++..++.|++.||+-.+..-=+....+-+.
+T Consensus        23 ~~~~~~~~Ai~~fQ~f~gL~~TG~lD~~T~~   53 (65)
+T d1slma1          23 KDSGPVVKKIREMQKFLGLEVTGKLDSDTLE   53 (65)
+T ss_pred             CCHHHHHHHHHHHHHHCCCCCCCCCCHHHHH
+T ss_conf             6626799999999987199878860857899
+
+
+Done!

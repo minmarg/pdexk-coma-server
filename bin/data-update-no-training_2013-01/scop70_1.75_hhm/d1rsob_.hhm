@@ -1,0 +1,210 @@
+HHsearch 1.5
+NAME  d1rsob_ a.194.1.1 (B:) Peripheral plasma membrane protein cask {Rat (Rattus norvegicus) [TaxId: 10116]}
+FAM   a.194.1.1
+FILE  d1rsob_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rsob_.a3m -v 1 
+DATE  Tue Jan 22 01:45:06 2013
+LENG  56 match states, 56 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+95442256999998898889972688668688999863089999999997630589
+>Consensus
+xxxtsxgAVxxiLDSLddIxxLqdxxxxdxdxlxxxxxDxxLhaLLeLYDrIstxx
+>d1rsob_ a.194.1.1 (B:) Peripheral plasma membrane protein cask {Rat (Rattus norvegicus) [TaxId: 10116]}
+GLLAAERAVSQVLDSLEEIHALTDSSEKDLDFLHSVFQDQHLHTLLDLYDKINTKS
+>gi|390347781|ref|XP_003726866.1|(338-390:903) PREDICTED: LOW QUALITY PROTEIN: peripheral plasma membrane protein CASK-like [Strongylocentrotus purpuratus]  E=7e-10 s/c=1.26 id=50% cov=96%
+---TSSGRFHQMLKIMXEISDVXQTDVKDLDFLHMLFGDTQLHSLLDLYDKINTKS
+>gi|156379363|ref|XP_001631427.1|(346-394:909) predicted protein [Nematostella vectensis] >gi|156218467|gb|EDO39364.1| predicted protein [Nematostella vectensis]  E=1e-11 s/c=1.49 id=46% cov=89%
+--LSATGAIGQLLDSLEEIQLLTGARKAETDFLQTFFEDRHFQALLEVYDR-----
+>gi|328706214|ref|XP_003243025.1|(367-416:949) PREDICTED: peripheral plasma membrane protein CASK-like isoform 3 [Acyrthosiphon pisum]  E=0.0007 s/c=0.94 id=27% cov=91%
+----SNSAVGIILSSLDDIQCIQEALPDTPQTVLPLLDDEQLCKLLELYHFINS--
+>gi|321471034|gb|EFX82008.1|(339-391:914) hypothetical protein DAPPUDRAFT_317092 [Daphnia pulex]   E=6e-07 s/c=1.08 id=40% cov=93%
+----SNNAVNAVLDSIDEIQFLQDTPwiQRDVESMRQVLNSSRLHSLLTLYDKISCR-
+>gi|312380926|gb|EFR26793.1|(252-297:391) hypothetical protein AND_06874 [Anopheles darlingi]   E=0.0002 s/c=1.07 id=43% cov=84%
+-------AIQKILDSLDDIIALQDAN-CDPDVLTGMLRDAKLHELLQLFDRISS--
+>gi|189235646|ref|XP_968349.2|(337-387:893) PREDICTED: similar to AGAP001683-PA [Tribolium castaneum]   E=1e-10 s/c=1.37 id=43% cov=88%
+-------AVQTILDSLDDISCLQESQPQERAHLLALLEDTHLHILLELYDRIASK-
+>gi|405965004|gb|EKC30435.1|(391-434:442) Peripheral plasma membrane protein CASK [Crassostrea gigas]   E=2e-08 s/c=1.41 id=51% cov=80%
+--VTSAGAVSQVLDSLEEMQCLTDCTGEEKDLIEKVFQDTKLHALL----------
+>gi|307197569|gb|EFN78780.1|(384-436:492) Peripheral plasma membrane protein CASK [Harpegnathos saltator]   E=1e-10 s/c=1.32 id=28% cov=96%
+--VTTTGAVAEIVDSLDDIEVLQESGRLMRTEIINAVDDHRLRAILELYDRISGR-
+>gi|357617336|gb|EHJ70726.1|(331-382:443) hypothetical protein KGM_08871 [Danaus plexippus]   E=1e-07 s/c=1.15 id=36% cov=89%
+---ANAAAINLIVESLDDVAVLQDGPaYMDPDLFHSVLDDLQLRSLLEVYDRI----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1292	0	0	
+
+L 3    *	2531	*	*	*	*	*	*	*	1377	*	*	*	*	*	*	*	1178	*	*	3
+       0	*	*	*	*	*	*	2293	0	0	
+
+A 4    2170	*	*	*	3460	*	*	*	*	*	*	*	*	*	*	2893	857	*	*	*	4
+       0	*	*	*	*	*	*	2779	0	0	
+
+A 5    2143	*	*	*	*	*	*	*	*	*	*	3238	*	*	*	890	2966	*	*	*	5
+       0	*	*	*	*	*	*	3145	0	0	
+
+E 6    2679	*	*	4287	*	*	*	*	4327	*	*	2319	*	*	*	2244	1594	*	*	*	6
+       0	*	*	*	*	*	*	3244	0	0	
+
+R 7    3522	*	*	*	*	597	*	*	*	*	*	3273	*	*	4287	3367	*	*	*	*	7
+       0	*	*	*	*	*	*	3244	0	0	
+
+A 8    149	*	*	*	*	*	*	*	*	*	*	*	*	*	3345	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3538	0	0	
+
+V 9    *	*	*	*	3345	*	*	2298	*	*	*	*	*	*	*	*	*	518	*	*	9
+       0	*	*	*	*	*	*	3538	0	0	
+
+S 10   2295	*	*	*	*	2904	3345	*	*	*	*	2954	*	2364	*	2053	*	*	*	*	10
+       0	*	*	*	*	*	*	3538	0	0	
+
+Q 11   2842	*	*	2551	*	*	*	3951	3748	4060	*	*	*	1535	3636	*	3937	*	*	*	11
+       0	*	*	*	*	*	*	3538	0	0	
+
+V 12   *	*	*	*	*	*	*	1144	*	3859	3345	*	*	*	*	*	*	1395	*	*	12
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	251	*	*	*	*	*	*	*	2645	*	*	13
+       0	*	*	*	*	*	*	3538	0	0	
+
+D 14   *	*	364	4060	*	*	*	*	3345	*	*	*	*	*	*	3951	*	*	*	*	14
+       0	*	*	*	*	*	*	3538	0	0	
+
+S 15   *	2859	*	*	*	*	*	3345	*	*	*	*	*	*	*	389	*	*	*	*	15
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 16   *	*	*	*	4623	*	*	3855	*	337	3345	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3538	0	0	
+
+E 17   *	*	553	1650	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3344	0	0	
+
+E 18   *	*	956	1045	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3538	0	0	
+
+I 19   *	*	*	*	*	*	*	268	*	*	3188	*	*	*	*	*	*	4060	*	*	19
+       0	*	*	*	*	*	*	3538	0	0	
+
+H 20   4060	*	*	2551	*	*	3154	4744	*	*	*	*	*	1456	*	2859	4752	*	*	3636	20
+       0	*	*	*	*	*	*	3538	0	0	
+
+A 21   2636	2061	3345	*	3855	*	*	4121	*	3049	*	*	*	*	*	3636	*	2530	*	*	21
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 22   *	*	*	*	*	*	*	3951	*	257	*	*	*	*	*	*	*	3345	*	*	22
+       0	*	*	*	*	*	*	3538	0	0	
+
+T 23   *	*	*	3995	*	*	*	*	*	*	*	*	*	846	*	4182	1618	*	*	*	23
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 24   *	*	1036	1535	*	3859	*	*	*	*	*	*	*	3345	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3538	0	0	
+
+S 25   1794	2223	*	*	*	3426	*	*	*	*	*	*	*	*	*	2079	2578	*	*	*	25
+       77	4267	*	1000	1000	*	*	3538	1000	0	
+
+S 26   *	*	2682	*	4623	3143	3636	*	*	3951	*	3218	2954	4666	3859	2635	4668	*	*	*	26
+       328	2954	3748	597	1562	*	*	3538	1542	0	
+
+E 27   *	*	*	2330	*	4544	*	*	3766	*	*	*	3154	2970	2478	*	*	2332	*	3908	27
+       149	*	3347	*	*	0	*	3477	0	1128	
+
+K 28   3757	3435	3872	4593	*	*	4217	*	1884	2396	3982	*	*	4531	3283	*	*	*	*	*	28
+       0	*	*	*	*	0	*	3451	0	1062	
+
+D 29   *	*	823	2760	*	*	4267	*	*	4121	4559	*	*	*	*	4822	3320	*	*	*	29
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 30   3860	*	*	4595	*	*	*	*	4668	2720	4917	*	2329	*	2084	4623	3049	3855	*	*	30
+       0	*	*	*	*	*	*	3538	0	0	
+
+D 31   3740	*	905	2844	*	*	*	*	*	*	*	4267	*	3951	*	3430	4559	*	*	*	31
+       0	*	*	*	*	*	*	3538	0	0	
+
+F 32   *	*	4121	3143	1592	*	4666	*	*	2559	*	*	*	*	*	3855	3951	2691	*	*	32
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 33   *	*	*	*	2939	*	*	2713	*	927	3855	*	*	*	*	*	*	3034	*	*	33
+       0	*	*	*	*	*	*	3538	0	0	
+
+H 34   4752	*	*	3454	*	*	2030	3324	*	2317	*	*	*	2843	2741	*	4744	*	*	*	34
+       0	*	*	*	*	*	*	3538	0	0	
+
+S 35   3742	*	3636	*	*	4744	*	*	4668	*	3345	2886	3248	3046	*	2063	3859	*	*	*	35
+       0	*	*	*	*	*	*	3538	0	0	
+
+V 36   3143	*	*	*	3859	*	*	*	*	2304	2691	*	*	*	*	*	4121	1311	*	*	36
+       0	*	*	*	*	*	*	3538	0	0	
+
+F 37   *	*	*	*	1267	*	*	*	*	1273	*	*	*	*	*	*	*	2551	*	*	37
+       0	*	*	*	*	*	*	3538	0	0	
+
+Q 38   *	*	1760	2289	*	3345	*	*	*	*	*	3855	*	2492	2691	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3538	0	0	
+
+D 39   *	*	103	*	*	*	*	*	*	*	*	*	*	*	*	3855	*	*	*	*	39
+       0	*	*	*	*	*	*	3538	0	0	
+
+Q 40   3668	*	*	2888	*	4679	3324	*	4822	4060	*	*	*	4227	3859	2767	2250	4752	*	4819	40
+       0	*	*	*	*	*	*	3538	0	0	
+
+H 41   *	*	*	*	*	*	2107	*	2594	*	*	4917	*	2006	1643	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 42   *	*	*	*	3859	*	*	*	*	103	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	3538	0	0	
+
+H 43   *	3951	*	*	*	*	882	*	*	*	*	*	*	3180	2116	*	*	4267	*	*	43
+       0	*	*	*	*	*	*	3538	0	0	
+
+T 44   1359	3828	*	3748	*	*	*	4666	3951	*	*	*	*	3636	*	2136	4227	*	*	*	44
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 45   *	*	*	*	3636	*	*	2886	*	351	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3538	0	0	
+
+L 46   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	3538	0	0	
+
+D 47   *	*	2511	877	*	*	*	*	*	*	*	4214	*	2650	*	*	3903	*	*	*	47
+       0	*	*	*	*	*	*	3326	0	0	
+
+L 48   *	*	*	*	*	*	*	4519	*	392	*	*	*	*	*	*	*	2363	*	*	48
+       0	*	*	*	*	*	*	3287	0	0	
+
+Y 49   *	*	*	*	2984	*	*	*	*	*	*	4055	*	*	*	*	*	*	*	298	49
+       0	*	*	*	*	*	*	3287	0	0	
+
+D 50   *	*	205	*	*	*	2917	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	3287	0	0	
+
+K 51   4055	*	*	*	3792	*	4328	*	1790	*	*	*	*	*	920	*	*	*	*	*	51
+       0	*	*	*	*	*	*	3287	0	0	
+
+I 52   *	*	*	*	3973	*	*	173	*	*	*	*	*	*	*	*	*	4350	*	*	52
+       0	*	*	*	*	*	*	3193	0	0	
+
+N 53   3285	*	*	*	*	4304	*	*	*	*	*	1368	*	*	*	1122	*	*	*	*	53
+       0	*	*	*	*	*	*	3131	0	0	
+
+T 54   *	3613	*	*	*	3137	*	*	*	*	*	*	*	*	*	1577	1091	*	*	*	54
+       0	*	*	*	*	*	*	3131	0	0	
+
+K 55   *	*	*	*	*	*	3191	*	1441	*	*	*	*	*	937	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2676	0	0	
+
+S 56   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	374	2130	*	*	*	56
+       0	*	*	0	*	*	*	1775	0	0	
+
+//

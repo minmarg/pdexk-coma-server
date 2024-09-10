@@ -1,0 +1,193 @@
+HHsearch 1.5
+NAME  d1yfba1 b.129.1.3 (A:3-53) Transcription-state regulator AbrB, the N-terminal DNA recognition domain {Bacillus subtilis [TaxId: 1423]}
+FAM   b.129.1.3
+FILE  d1yfba1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1yfba1.a3m -v 1 
+DATE  Tue Jan 22 04:48:25 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  115 out of 307 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCCCEEEECCCCCEEECHHHHHHCCCCCCCEEEEEEECCEEEEEEECCC
+>ss_conf
+987643461147884893506743169999982788873997889873699
+>Consensus
+MkxtGivRxiDxLGRIVIPkElRxxlxixxgdxlEifxxxxxIilrKYxpx
+>d1yfba1 b.129.1.3 (A:3-53) Transcription-state regulator AbrB, the N-terminal DNA recognition domain {Bacillus subtilis [TaxId: 1423]}
+MKSTGIVRKVDELGRVVIPIELRRTLGIAEKDALEIYVDDEKIILKKYKPN
+>gi|148747759|ref|YP_001285838.1|(1-48:90) putative AbrB-like transcriptional regulator [Geobacillus virus E2] >gi|113715701|gb|ABI36850.1| putative AbrB-like transcriptional regulator [Geobacillus virus E2]  E=0.0004 s/c=1.00 id=41% cov=96%
+MKPLGIVRRIDHLGRITIPMEVRRVHGWDTGTPIEMFATDKGLVLREY---
+>gi|374322076|ref|YP_005075205.1|(1-48:93) regulators of stationary/sporulation gene expression [Paenibacillus terrae HPL-003] >gi|357201085|gb|AET58982.1| regulators of stationary/sporulation gene expression [Paenibacillus terrae HPL-003]  E=3e-09 s/c=1.34 id=37% cov=96%
+MSSSGLIRYIDNLGRFLVPAAIRNKLKLKDGDLVEVFYNEEYIMLKRY---
+>gi|374322535|ref|YP_005075664.1|(1-50:87) regulators of stationary/sporulation gene expression [Paenibacillus terrae HPL-003] >gi|357201544|gb|AET59441.1| regulators of stationary/sporulation gene expression [Paenibacillus terrae HPL-003]  E=8e-07 s/c=1.13 id=41% cov=96%
+MMGVKMTRNLDTFGRLVIPKEILITCDIYSNDAVEFFADEksGTISLKKY---
+>gi|229825503|ref|ZP_04451572.1|(1-47:86) hypothetical protein GCWU000182_00863 [Abiotrophia defectiva ATCC 49176] >gi|229790066|gb|EEP26180.1| hypothetical protein GCWU000182_00863 [Abiotrophia defectiva ATCC 49176]  E=2e-06 s/c=1.17 id=40% cov=94%
+MKNIVLTRRLDKLGRITIPANLRKSLNINDSEELEIITGANNIIIRK----
+>gi|305663497|ref|YP_003859785.1|(6-43:80) transcriptional regulator, AbrB family [Ignisphaera aggregans DSM 17230] >gi|304378066|gb|ADM27905.1| transcriptional regulator, AbrB family [Ignisphaera aggregans DSM 17230]  E=0.0001 s/c=1.29 id=41% cov=76%
+--------RVEKKGRIVIPKEIRDTLNIKEGTLLKIYIEGNRLIVE-----
+>gi|166032206|ref|ZP_02235035.1|(5-46:172) hypothetical protein DORFOR_01909 [Dorea formicigenerans ATCC 27755] >gi|226325695|ref|ZP_03801213.1| hypothetical protein COPCOM_03508 [Coprococcus comes ATCC 27758] >gi|166027929|gb|EDR46686.1| transcriptional regulator, AbrB family [Dorea formicigenerans ATCC 27755] >gi|225205819|gb|EEG88173.1| transcriptional regulator, AbrB family [Coprococcus comes ATCC 27758]  E=0.0001 s/c=1.17 id=35% cov=84%
+-----LIRTMDSQGRIVIPAEIRKQMKLSDGDALELENVGMELLLRK----
+>gi|291541628|emb|CBL14738.1|(7-46:78) looped-hinge helix DNA binding domain, AbrB family [Ruminococcus bromii L2-63]  E=1e-06 s/c=1.38 id=41% cov=80%
+-------REIDKAGRIVISKDIRNHLNIKPGDILHIEADDECVTIKK----
+>gi|294500583|ref|YP_003564283.1|(60-100:241) hypothetical protein BMQ_3836 [Bacillus megaterium QM B1551] >gi|294350520|gb|ADE70849.1| hypothetical protein BMQ_3836 [Bacillus megaterium QM B1551]  E=9e-06 s/c=1.29 id=40% cov=82%
+------IRTIDHIGRIVIPRSLRDDYELKPFDYVEIYVVEQQIVMKK----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	4290	76	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3585	0	0	
+
+K 2    *	*	6026	5574	*	*	*	5536	467	6260	5429	4888	*	4728	3510	5427	*	*	*	*	2
+       0	*	*	*	*	*	*	3651	0	0	
+
+S 3    2765	*	5503	5261	5936	3592	*	*	4415	*	5680	3081	4835	5760	3953	1849	3775	4483	*	7082	3
+       20	6202	*	0	*	*	*	3807	1000	0	
+
+T 4    4556	*	*	*	5479	*	*	3691	4714	4274	*	6981	*	*	5489	4193	693	3958	*	*	4
+       14	*	6721	*	*	*	*	3807	0	0	
+
+G 5    4871	*	*	*	*	252	*	*	4590	*	*	*	*	*	4957	5957	*	4786	*	*	5
+       0	*	*	*	*	0	*	3811	0	1000	
+
+I 6    *	*	*	*	5793	*	*	1031	*	3729	2163	*	*	*	*	5649	5421	3247	*	4460	6
+       0	*	*	*	*	*	*	3860	0	0	
+
+V 7    5175	*	*	5982	*	*	*	2570	6399	5238	5677	*	*	*	*	5351	2769	839	*	*	7
+       0	*	*	*	*	*	*	3947	0	0	
+
+R 8    *	*	*	*	*	*	*	*	5724	*	*	*	*	*	28	*	*	*	*	*	8
+       15	6625	*	0	*	*	*	3979	1000	0	
+
+K 9    6735	*	6672	4161	*	7534	4425	5764	1533	7509	*	2937	3479	*	2561	4616	5347	5577	*	5181	9
+       0	*	*	*	*	*	*	3993	0	0	
+
+V 10   6618	*	*	*	*	*	*	1611	*	1624	3831	*	*	*	*	7021	6825	1993	*	*	10
+       0	*	*	*	*	*	*	3993	0	0	
+
+D 11   *	*	80	6225	*	5442	*	*	*	*	*	*	*	*	*	5837	*	*	*	*	11
+       0	*	*	*	*	*	*	3993	0	0	
+
+E 12   4251	*	3240	2317	*	7083	3704	*	3492	6472	*	3067	4353	4040	5706	3110	3907	6322	*	6214	12
+       0	*	*	*	*	*	*	3993	0	0	
+
+L 13   4243	*	*	*	5693	*	6072	4283	5175	501	6618	6121	*	5021	5267	*	*	4442	*	*	13
+       0	*	*	*	*	*	*	3993	0	0	
+
+G 14   *	*	*	*	*	44	6126	*	*	*	*	5968	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3993	0	0	
+
+R 15   *	*	*	*	*	*	6121	*	5764	*	*	*	*	5837	110	5442	*	*	*	*	15
+       0	*	*	*	*	*	*	3993	0	0	
+
+V 16   *	*	*	*	3957	*	*	808	*	2988	6214	*	*	*	*	*	*	2151	*	*	16
+       0	*	*	*	*	*	*	3993	0	0	
+
+V 17   *	*	*	*	*	*	*	4434	*	5921	*	5024	*	*	*	6128	4004	269	*	*	17
+       0	*	*	*	*	*	*	3993	0	0	
+
+I 18   *	*	*	*	6791	*	*	542	*	2140	*	*	*	*	*	*	*	3693	*	*	18
+       0	*	*	*	*	*	*	3992	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	34	*	*	5434	*	*	*	*	19
+       0	*	*	*	*	*	*	3992	0	0	
+
+I 20   3367	*	*	*	*	*	*	2896	1091	5443	3290	6369	*	*	5457	5144	4966	3666	*	*	20
+       0	*	*	*	*	*	*	3992	0	0	
+
+E 21   5922	*	3856	336	*	4743	*	*	*	*	*	6360	*	5879	5505	4896	*	*	*	*	21
+       0	*	*	*	*	*	*	3992	0	0	
+
+L 22   5838	*	*	*	4935	*	*	1606	*	1246	3472	*	*	*	*	*	4061	4636	6738	*	22
+       0	*	*	*	*	*	*	3992	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	5718	*	*	*	6343	64	6350	*	*	*	*	23
+       0	*	*	*	*	*	*	3992	0	0	
+
+R 24   5765	*	4135	5458	6217	*	*	5718	1863	6196	6680	2905	*	5208	1767	5149	4204	4864	*	*	24
+       0	*	*	*	*	*	*	3992	0	0	
+
+T 25   4975	*	4913	4855	*	6832	5434	4192	4841	3778	4584	5047	*	4610	4119	2640	1851	3352	*	*	25
+       0	*	*	*	*	*	*	3992	0	0	
+
+L 26   *	5718	*	*	4241	*	5608	6130	7521	614	2748	6734	*	6041	7005	*	5832	*	*	4808	26
+       0	*	*	*	*	*	*	3992	0	0	
+
+G 27   6656	*	2571	3616	*	1808	3975	*	4479	*	6939	1978	*	4839	4755	6355	*	*	*	*	27
+       0	*	*	*	*	*	*	3992	0	0	
+
+I 28   *	*	*	*	6334	*	*	676	*	2389	4224	*	*	*	*	*	*	5447	3550	6825	28
+       0	*	*	*	*	*	*	3992	0	0	
+
+A 29   4533	5832	3206	3355	*	3089	5576	5961	2471	*	6883	2680	4791	3946	4723	5091	5690	5563	*	5332	29
+       0	*	*	*	*	*	*	3992	0	0	
+
+E 30   3050	5970	3603	1729	5659	*	*	4389	3587	6205	6656	*	3413	6116	*	4146	3606	4101	*	*	30
+       8	7581	*	2807	222	*	*	3992	1000	0	
+
+K 31   *	*	3273	5637	6484	883	3776	*	3121	*	*	4053	*	*	4877	5512	5737	*	*	*	31
+       6	7941	*	0	*	*	*	3992	1000	0	
+
+D 32   7189	*	726	3871	*	*	*	*	*	*	*	*	*	5322	*	5052	2222	4302	*	*	32
+       21	6130	*	0	*	*	*	3992	1000	0	
+
+A 33   3376	6122	*	4208	6500	5510	7288	5434	4328	4452	5879	7065	1357	5981	6127	2775	4144	*	*	5080	33
+       6	7902	*	0	*	*	*	3992	1000	0	
+
+L 34   *	*	*	*	*	*	*	2290	*	1028	3540	*	*	*	*	*	5578	2336	*	*	34
+       0	*	*	*	*	*	*	3992	0	0	
+
+E 35   7158	*	4389	259	*	6731	5434	*	6228	*	*	6127	*	*	*	4335	*	*	*	*	35
+       0	*	*	*	*	*	*	3992	0	0	
+
+I 36   *	*	*	*	2086	*	*	981	*	4951	4027	*	*	*	*	*	*	2802	*	5578	36
+       0	*	*	*	*	*	*	3992	0	0	
+
+Y 37   5282	5943	*	4782	977	6072	6108	3990	*	4195	*	4948	*	*	*	6992	5569	7273	5382	2513	37
+       0	*	*	*	*	*	*	3992	0	0	
+
+V 38   3543	5578	*	7398	*	6478	*	2325	6345	3451	5505	6243	*	5595	5304	4579	2902	1767	*	5508	38
+       8	7414	*	0	*	*	*	3992	1000	0	
+
+D 39   *	*	1390	1778	*	5908	*	*	7414	5464	6701	3813	*	4588	6507	6465	3804	3938	*	*	39
+       51	4845	*	765	1281	*	*	3992	1938	0	
+
+D 40   4900	*	2163	1935	*	1778	7097	*	4500	*	*	4625	5144	6334	5508	7225	*	5544	*	7091	40
+       71	4387	*	860	1155	*	*	3992	1807	0	
+
+E 41   *	*	1922	1721	*	3386	*	*	4514	*	6234	2642	*	5109	5346	4935	5795	6005	*	*	41
+       52	4811	*	465	1861	*	*	3961	1729	0	
+
+K 42   4325	4533	6721	3236	7622	3917	4791	*	3309	*	5575	4486	*	3353	3148	3722	2555	5562	*	4658	42
+       146	3378	*	1000	1000	*	*	3961	2516	0	
+
+I 43   *	6191	*	*	*	6952	*	611	6649	2929	5084	*	*	*	*	*	*	2712	*	*	43
+       11	6992	*	0	*	*	*	3961	1000	0	
+
+I 44   5135	6812	*	6100	*	*	6497	1601	*	3451	3076	*	*	*	5424	5115	4690	1801	*	5675	44
+       14	6649	*	1000	1000	*	*	3961	1000	0	
+
+L 45   *	*	*	*	4932	*	*	2339	*	696	4169	*	*	*	*	*	*	3368	*	*	45
+       12	6895	*	1000	1000	*	*	3961	1000	0	
+
+K 46   *	*	*	4061	*	*	6046	*	1599	*	*	*	*	3616	1280	5083	4298	*	*	5557	46
+       0	*	*	*	*	*	*	3921	0	0	
+
+K 47   6402	*	*	5154	*	*	*	*	284	5621	*	*	5413	*	3636	*	*	6128	*	*	47
+       0	*	*	*	*	*	*	3882	0	0	
+
+Y 48   *	*	*	*	4539	*	3548	*	*	*	*	*	*	4667	*	5735	*	*	*	298	48
+       0	*	*	*	*	*	*	3640	0	0	
+
+K 49   4270	*	3255	2430	*	*	*	*	2357	*	*	4066	*	3209	3345	2516	5535	*	*	*	49
+       0	*	*	*	*	*	*	3345	0	0	
+
+P 50   3379	*	*	4401	*	*	*	*	*	*	*	*	362	*	*	4732	*	*	*	4619	50
+       0	*	*	*	*	*	*	3040	0	0	
+
+N 51   *	*	2342	*	*	*	3947	*	*	*	*	2140	*	*	*	969	*	*	*	*	51
+       0	*	*	0	*	*	*	2655	0	0	
+
+//

@@ -1,0 +1,198 @@
+HHsearch 1.5
+NAME  d1ik7a_ a.77.1.2 (A:) Pelle death domain {Drosophila melanogaster [TaxId: 7227]}
+FAM   a.77.1.2
+FILE  d1ik7a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ik7a_.a3m -v 1 
+DATE  Mon Jan 21 21:48:44 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  33 out of 35 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9987378999983213487299999999998889999999985347743109
+>Consensus
+rgxSPtxeLLxxWgxkxNhtvxeLfxllxkxklxxaMxxlkxxVdxkyHxli
+>d1ik7a_ a.77.1.2 (A:) Pelle death domain {Drosophila melanogaster [TaxId: 7227]}
+RGRSASNEFLNIWGGQYNHTVQTLFALFKKLKLHNAMRLIKDYVSEDLHKYI
+>gi|170059939|ref|XP_001865580.1|(64-113:487) interleukin-1 receptor-associated kinase 4 [Culex quinquefasciatus] >gi|167878525|gb|EDS41908.1| interleukin-1 receptor-associated kinase 4 [Culex quinquefasciatus]  E=2e-06 s/c=1.12 id=39% cov=98%
+-GRSPAEQLLKKWGN-LNHTITDLFVVMSQEGLFSAMEIIKRFVDPQLHYLI
+>gi|321455580|gb|EFX66709.1|(54-102:727) hypothetical protein DAPPUDRAFT_331814 [Daphnia pulex]   E=6e-13 s/c=1.58 id=32% cov=96%
+--QSPTMAMFSDWG-QKNHTIVELFVLLSKMQHYRALEILMPYVDERYHVLV
+>gi|324501856|gb|ADY40822.1|(644-690:1074) Serine/threonine-protein kinase pelle [Ascaris suum]   E=5e-09 s/c=1.36 id=31% cov=92%
+--ESPTEILLTIWGSKGN-KVIQLYNLLARTRLVRAMEVIHHLVDPKYHQ--
+>gi|91084173|ref|XP_966383.1|(48-98:443) PREDICTED: similar to serine/threonine protein kinase death domain protein, pelle-like (AGAP002966-PA) [Tribolium castaneum] >gi|270009272|gb|EFA05720.1| pelle [Tribolium castaneum]  E=6e-15 s/c=1.64 id=37% cov=100%
+RGISPTEKLLDLWSH-HNHTVFELFILLYRMKHYQAMTILKPLVDSKYHHLI
+>gi|312373075|gb|EFR20900.1|(76-125:278) hypothetical protein AND_18335 [Anopheles darlingi]   E=8e-12 s/c=1.47 id=36% cov=96%
+--RSTGAALLEKWAN-YNHSPTELFIVLSREKLYECMDLMKQYVDPRYHVLI
+>gi|85667908|gb|ABC71919.1|(75-123:289) Pelle protein [Glossina morsitans morsitans]   E=1e-10 s/c=1.42 id=48% cov=96%
+-GKSPSNELLLIWGHKYDHSTTELFNLLHRLKLFPAMRILKQLVSRQ-HQL-
+>gi|308491873|ref|XP_003108127.1|(62-110:500) hypothetical protein CRE_10266 [Caenorhabditis remanei] >gi|308248975|gb|EFO92927.1| hypothetical protein CRE_10266 [Caenorhabditis remanei]  E=2e-10 s/c=1.41 id=34% cov=90%
+--QSPTKMLLRIWCSK-GYNATHLYQLFAKTKLIRLMRLMRSEVDEKYH---
+>gi|312285532|gb|ADQ64456.1|(98-148:196) hypothetical protein [Bactrocera oleae]   E=2e-12 s/c=1.48 id=38% cov=100%
+-GKSPSWQLIRKWGIECKHTVTELFMLLWKNEQHHAMRMLKDFVERKYQLLI
+>gi|115900705|ref|XP_782502.2|(58-107:1011) PREDICTED: uncharacterized protein LOC577165 [Strongylocentrotus purpuratus]  E=1e-11 s/c=1.46 id=35% cov=98%
+-GGSPTDEMLTTWDYE-NHTIEELYLKLYEIKHARCMMFLKDFVRPDLHYLI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2129	0	0	
+
+G 2    *	*	*	3741	*	418	*	*	3181	*	*	3916	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2755	0	0	
+
+R 3    5295	*	*	2941	*	4034	4755	5185	2017	*	*	5691	*	2534	1838	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3296	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	*	*	2876	*	*	*	211	*	*	*	*	4
+       0	*	*	*	*	*	*	3325	0	0	
+
+A 5    5065	*	*	*	*	*	*	*	*	*	*	*	175	*	*	4778	4381	*	*	*	5
+       0	*	*	*	*	*	*	3325	0	0	
+
+S 6    2993	*	*	*	*	4381	*	*	*	*	*	*	*	*	*	2246	700	*	*	*	6
+       0	*	*	*	*	*	*	3325	0	0	
+
+N 7    4381	*	1656	1845	*	*	5111	*	4768	*	3417	2877	*	*	*	*	*	*	4035	*	7
+       0	*	*	*	*	*	*	3325	0	0	
+
+E 8    3535	*	*	1115	*	*	*	5085	5240	3432	4768	3801	*	2638	*	4870	*	*	*	*	8
+       0	*	*	*	*	*	*	3325	0	0	
+
+F 9    *	*	*	*	2933	*	*	*	*	374	3358	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 10   *	*	*	*	3709	*	*	4035	*	264	5062	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3325	0	0	
+
+N 11   3430	*	4408	4381	*	*	4338	5353	3661	5026	*	3231	*	5111	2631	4708	1948	4870	*	*	11
+       0	*	*	*	*	*	*	3325	0	0	
+
+I 12   *	*	4708	*	*	*	*	1275	1685	2825	4758	*	*	*	*	*	4077	*	*	*	12
+       0	*	*	*	*	*	*	3325	0	0	
+
+W 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	13
+       31	*	5571	*	*	*	*	3325	0	0	
+
+G 14   4373	3365	4071	*	*	448	*	*	*	*	*	*	*	*	*	4011	*	*	*	*	14
+       116	*	3695	*	*	0	*	3331	0	1000	
+
+G 15   *	*	*	3121	*	2540	2251	3945	*	*	*	2672	*	*	*	2216	*	*	*	3921	15
+       543	*	1674	*	*	0	*	3260	0	1394	
+
+Q 16   *	*	*	2689	*	*	*	*	1113	*	*	*	*	1386	*	*	*	*	*	*	16
+       746	*	1308	*	*	0	*	3140	0	2098	
+
+Y 17   *	3677	*	*	*	2714	2637	*	4235	2725	*	*	*	*	*	*	*	*	*	1307	17
+       0	*	*	*	*	0	*	3008	0	2363	
+
+N 18   *	*	5026	*	*	2950	*	*	4035	*	*	360	*	*	*	*	*	*	*	*	18
+       154	*	3305	*	*	*	*	3325	0	0	
+
+H 19   *	*	*	*	4860	4097	339	*	*	*	*	*	*	*	*	*	*	*	*	3099	19
+       0	*	*	*	*	0	*	3172	0	1267	
+
+T 20   *	*	*	*	*	*	*	*	3305	*	*	4768	*	*	4710	2902	535	*	*	*	20
+       0	*	*	*	*	*	*	3325	0	0	
+
+V 21   4768	*	*	*	*	*	*	1363	*	*	*	*	4381	*	*	*	3418	1207	*	*	21
+       0	*	*	*	*	*	*	3325	0	0	
+
+Q 22   5637	*	*	3359	5240	*	*	3873	*	2912	*	3674	*	3569	*	*	1543	3289	*	4420	22
+       0	*	*	*	*	*	*	3325	0	0	
+
+T 23   *	*	4613	867	*	*	2950	*	*	*	*	5290	*	2731	*	3726	5065	*	*	*	23
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3325	0	0	
+
+F 25   *	*	*	*	494	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1787	25
+       0	*	*	*	*	*	*	3325	0	0	
+
+A 26   2933	*	*	*	*	*	*	3150	*	4077	3608	3337	*	2950	*	3849	*	1656	*	*	26
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 27   *	3801	*	*	5359	*	*	4778	4077	645	*	*	*	*	*	*	*	2799	*	5318	27
+       0	*	*	*	*	*	*	3325	0	0	
+
+F 28   *	*	*	*	1763	*	*	*	*	589	4613	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3325	0	0	
+
+K 29   2337	*	*	*	*	3801	3113	*	3569	*	*	4778	*	*	*	1923	*	*	4035	2562	29
+       0	*	*	*	*	*	*	3325	0	0	
+
+K 30   *	*	*	4077	*	*	*	*	1037	*	*	*	*	4613	1412	*	4778	*	*	*	30
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 31   3801	*	*	2799	*	*	*	4077	*	3466	1269	4035	*	*	*	*	2654	*	*	*	31
+       0	*	*	*	*	*	*	3325	0	0	
+
+K 32   *	*	*	4035	*	4613	5571	*	725	*	*	4870	*	2261	5085	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 33   *	*	*	*	*	*	1311	*	*	995	4870	*	*	4035	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3325	0	0	
+
+H 34   4077	*	*	*	3805	*	2381	2850	*	*	4338	*	*	*	*	*	4870	2942	*	1622	34
+       0	*	*	*	*	*	*	3325	0	0	
+
+N 35   *	*	*	4381	*	*	3459	*	*	*	*	3039	3278	2115	1456	4613	*	*	*	*	35
+       0	*	*	*	*	*	*	3325	0	0	
+
+A 36   629	2967	*	*	*	*	*	*	*	2950	*	*	*	*	*	3380	*	*	*	*	36
+       0	*	*	*	*	*	*	3325	0	0	
+
+M 37   *	*	*	*	*	*	*	*	*	3709	115	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3325	0	0	
+
+R 38   *	*	4381	2613	*	*	*	4778	3801	2966	4077	*	*	*	1358	*	5240	3710	*	*	38
+       0	*	*	*	*	*	*	3325	0	0	
+
+L 39   3801	*	*	*	4077	*	*	1759	*	2467	3002	*	2876	*	*	*	4710	3419	*	*	39
+       0	*	*	*	*	*	*	3325	0	0	
+
+I 40   *	*	*	*	*	*	*	1534	*	1302	2249	*	*	*	*	*	*	4688	*	*	40
+       0	*	*	*	*	*	*	3325	0	0	
+
+K 41   *	*	*	*	*	*	5085	5668	623	4094	4708	*	*	*	2813	*	*	3998	*	*	41
+       0	*	*	*	*	*	*	3325	0	0	
+
+D 42   *	*	1734	*	*	*	3305	*	*	5708	*	5610	2353	3668	3110	2571	*	*	*	*	42
+       0	*	*	*	*	*	*	3325	0	0	
+
+Y 43   *	*	*	3389	1463	*	4420	*	*	2659	*	*	*	4882	*	*	*	4710	*	1918	43
+       0	*	*	*	*	*	*	3325	0	0	
+
+V 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	44
+       0	*	*	*	*	*	*	3325	0	0	
+
+S 45   *	*	858	2720	*	*	4882	*	*	*	*	3415	*	*	4077	3192	*	*	*	*	45
+       0	*	*	*	*	*	*	3325	0	0	
+
+E 46   4153	*	5290	1601	*	*	4778	*	*	*	*	*	1507	4623	3447	3875	*	*	*	*	46
+       0	*	*	*	*	*	*	3325	0	0	
+
+D 47   *	*	3070	5737	*	*	*	*	864	3801	*	5353	*	3805	2785	*	*	*	*	*	47
+       45	*	5026	*	*	*	*	3325	0	0	
+
+L 48   *	*	*	*	1947	*	*	*	*	2386	*	*	*	*	*	*	*	*	*	864	48
+       0	*	*	*	*	0	*	3319	0	1000	
+
+H 49   *	*	*	*	*	*	205	*	*	*	*	*	*	4035	*	*	*	*	*	3801	49
+       0	*	*	*	*	*	*	3325	0	0	
+
+K 50   *	*	*	*	*	*	3817	*	1726	3730	*	*	*	2977	3365	4794	4987	2813	*	3089	50
+       0	*	*	*	*	*	*	2998	0	0	
+
+Y 51   *	*	*	*	*	*	*	*	*	278	*	*	*	*	*	*	*	*	*	2512	51
+       0	*	*	*	*	*	*	2908	0	0	
+
+I 52   *	*	*	*	*	*	*	639	*	1727	*	*	*	*	*	*	*	4160	*	*	52
+       0	*	*	0	*	*	*	2876	0	0	
+
+//

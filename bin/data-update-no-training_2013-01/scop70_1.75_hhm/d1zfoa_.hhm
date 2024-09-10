@@ -1,0 +1,130 @@
+HHsearch 1.5
+NAME  d1zfoa_ g.39.1.4 (A:) LASP-1 {Pig (Sus scrofa) [TaxId: 9823]}
+FAM   g.39.1.4
+FILE  d1zfoa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zfoa_.a3m -v 1 
+DATE  Tue Jan 22 05:17:42 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  101 out of 250 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCCCCCCCEECHHHEEEECCCCCCCCCC
+>ss_conf
+988689898400200120317800036779
+>Consensus
+mxpkCxxCxKxVYxxExxxaxgkxxHkxCF
+>d1zfoa_ g.39.1.4 (A:) LASP-1 {Pig (Sus scrofa) [TaxId: 9823]}
+MNPNCARCGKIVYPTEKVNCLDKFWHKACF
+>gi|256081914|ref|XP_002577212.1|(449-476:717) hypothetical protein [Schistosoma mansoni]   E=0.0002 s/c=1.74 id=38% cov=97%
+--PRCHACAEVVYPLEALQTIGRVYHKTCF
+>gi|328720276|ref|XP_003246990.1|(328-357:1000) PREDICTED: hypothetical protein LOC100161216 isoform 2 [Acyrthosiphon pisum]  E=2e-06 s/c=1.82 id=39% cov=103%
+VNSVCKSCEKTVYAMEQIKAERQVWHKNCF
+>gi|343428529|emb|CBQ72059.1|(424-450:509) conserved hypothetical protein [Sporisorium reilianum SRZ2]   E=6e-05 s/c=1.86 id=39% cov=93%
+--PLCARCVRPVYFAEQKAAAGRKWHRGC-
+>gi|390348750|ref|XP_786324.3|(1577-1606:1696) PREDICTED: uncharacterized protein LOC581219 [Strongylocentrotus purpuratus]  E=7e-07 s/c=1.89 id=35% cov=103%
+ISELCHVCQKRVYPMEKITADNIIYHNSCF
+>gi|330798829|ref|XP_003287452.1|(6-32:198) hypothetical protein DICPUDRAFT_32515 [Dictyostelium purpureum] >gi|325082535|gb|EGC36014.1| hypothetical protein DICPUDRAFT_32515 [Dictyostelium purpureum]  E=9e-05 s/c=1.84 id=43% cov=93%
+---KCARCNKTVYNVEGFTAVKKCFHRSCF
+>gi|328772030|gb|EGF82069.1|(1-30:142) hypothetical protein BATDEDRAFT_86797 [Batrachochytrium dendrobatidis JAM81]  E=0.0001 s/c=1.64 id=39% cov=103%
+MQEPCGKCTKTVYANEKLEAAGRWFHKGCF
+>gi|405976453|gb|EKC40959.1|(173-202:972) MICAL-like protein 2 [Crassostrea gigas]   E=0.0003 s/c=1.59 id=35% cov=103%
+MGDKCGICKDKVYLMERHIENGKLYHRACF
+>gi|328873145|gb|EGG21512.1|(1-32:246) hypothetical protein DFA_01398 [Dictyostelium fasciculatum]   E=0.0003 s/c=1.49 id=42% cov=103%
+MSTKCEECEKSVYPLEAHTAFNgtKSWHKHCY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	3248	*	4247	354	*	*	*	*	*	*	4063	*	*	1
+       0	*	*	*	*	*	*	3375	0	0	
+
+N 2    4658	*	*	*	*	4445	*	*	*	*	*	1113	5057	4970	*	1474	5055	*	*	*	2
+       69	4412	*	0	*	*	*	3683	1095	0	
+
+P 3    5147	*	4524	3039	*	5881	6050	*	3029	*	*	*	988	5642	*	4048	5138	*	4676	*	3
+       0	*	*	*	*	*	*	3895	0	0	
+
+N 4    6132	*	*	5863	*	*	6692	4208	981	5086	*	4737	4350	4341	3727	5417	3656	4634	*	6137	4
+       0	*	*	*	*	*	*	3959	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       9	7299	*	1585	585	*	*	3962	1000	0	
+
+A 6    2571	*	6828	4033	4555	3805	3906	6834	3933	5341	*	5814	2336	4308	6331	4041	4662	3830	*	4928	6
+       0	*	*	*	*	*	*	3962	0	0	
+
+R 7    2961	*	*	4925	6489	5311	*	3369	3069	4236	*	*	*	6518	2421	3080	4851	2452	*	*	7
+       0	*	*	*	*	*	*	3962	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3962	0	0	
+
+G 9    4717	*	3384	3272	*	1991	5272	*	3739	6202	*	3424	*	2834	5150	3518	4717	6642	*	*	9
+       0	*	*	*	*	*	*	3962	0	0	
+
+K 10   *	*	5999	5087	6650	5851	*	*	456	6818	*	5610	*	3833	4116	5646	6488	*	*	6613	10
+       0	*	*	*	*	*	*	3962	0	0	
+
+I 11   4711	*	6523	5361	*	5631	5587	5191	4824	5867	6741	5849	3170	5596	3502	3354	1331	3970	*	*	11
+       0	*	*	*	*	*	*	3962	0	0	
+
+V 12   4157	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	83	*	*	12
+       0	*	*	*	*	*	*	3962	0	0	
+
+Y 13   *	*	*	*	4366	*	*	*	*	*	5272	*	*	*	*	*	*	*	*	111	13
+       0	*	*	*	*	*	*	3962	0	0	
+
+P 14   2996	*	*	5654	2012	*	5851	5871	*	4242	5615	5797	1355	4493	*	6095	*	6285	6722	6800	14
+       0	*	*	*	*	*	*	3962	0	0	
+
+T 15   1536	*	*	*	*	*	*	5783	*	2533	1913	5670	*	6095	*	*	4320	3128	*	*	15
+       0	*	*	*	*	*	*	3962	0	0	
+
+E 16   *	*	5168	41	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3962	0	0	
+
+K 17   4793	*	*	3184	5645	5049	*	*	1792	*	*	*	*	2415	1729	5278	*	*	*	*	17
+       0	*	*	*	*	*	*	3962	0	0	
+
+V 18   6826	5814	*	*	4450	*	5085	2715	4483	1694	5163	*	*	6608	5573	*	4810	1750	*	*	18
+       0	*	*	*	*	*	*	3962	0	0	
+
+N 19   5180	*	6617	3749	5458	5645	6295	4362	2825	4045	6765	4881	*	3586	5445	2981	2448	3135	*	6802	19
+       0	*	*	*	*	*	*	3962	0	0	
+
+C 20   677	3589	*	5999	*	5288	6421	6616	*	5807	5219	6412	*	*	*	4201	6309	3254	*	*	20
+       0	*	*	*	*	*	*	3962	0	0	
+
+L 21   3821	*	1858	2855	6176	5109	6453	4105	*	2016	6295	3453	6703	*	*	*	*	4576	*	*	21
+       13	6792	*	0	*	*	*	3962	1000	0	
+
+D 22   *	*	2964	4274	*	769	*	*	3296	*	*	4079	*	5474	5755	5746	6301	*	*	*	22
+       34	5415	*	832	1191	*	*	3962	1340	0	
+
+K 23   6770	*	*	4851	6731	5813	4028	4526	1268	4503	6821	6657	*	3087	2788	6824	5711	4910	*	5478	23
+       0	*	*	*	*	*	*	3962	0	0	
+
+F 24   4924	5009	4003	6792	4117	*	7031	2915	4043	4259	6301	5201	5102	*	*	2824	3273	2202	6550	6371	24
+       0	*	*	*	*	*	*	3962	0	0	
+
+W 25   *	*	*	*	1895	*	*	*	*	*	*	*	*	*	*	*	*	5968	1414	1558	25
+       0	*	*	*	*	*	*	3962	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       18	6355	*	0	*	*	*	3962	1000	0	
+
+K 27   *	*	*	*	*	6355	*	5413	618	*	*	4618	6194	*	2196	6309	*	5198	*	*	27
+       0	*	*	*	*	*	*	3962	0	0	
+
+A 28   3054	*	6536	5280	5158	3065	5255	6814	5724	4133	5234	3927	4745	4857	5849	1972	3481	5022	*	5168	28
+       0	*	*	*	*	*	*	3962	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3962	0	0	
+
+F 30   *	*	*	*	50	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4868	30
+       0	*	*	0	*	*	*	3742	0	0	
+
+//

@@ -1,0 +1,576 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use HHParser;
+use Parsers;
+use Utils;
+use SOptions;
+use SUsage;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 84 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/SequenceAligner $
+# ==============================================================================
+
+my %data_info = (main_hhm => 3, main_fas => 2);
+
+@ARGV = getOptions
+(
+#** Sequence Aligner
+#**
+#** -i,--input                  Input file (hhsearch out).
+#** -f,--fas                    Input file (multiple sequence alignment in FASTA)
+#** -l,--main_fas               Main sequence in .fas (consensus sequence). 
+#**                             Starting from 0. Default 2.
+#** -m,--hhm                    Input file (.hhm)
+#** -n,--main_hhm               Main sequence in .hhm (consensus sequence). 
+#**                             Starting from 0. Default 3.
+#** -p,--pos                    File with a list of positions
+#** -c,--consensus              Prints consensus sequence defined in a .hhm file
+#** -h,-?,--help,--usage        Print short usage message (this message) and exit.
+
+    "-i,--input"           => sub {$data_info{input}        = get_value()},
+    "-f,--fas"             => sub {$data_info{fas}          = get_value()},
+    "-l,--main_fas"        => sub {$data_info{main_fas}          = get_value()},
+    "-m,--hhm"             => sub {$data_info{hhm}          = get_value()},
+    "-n,--main_hhm"        => sub {$data_info{main_hhm}     = get_value()},
+    "-p,--pos"             => sub {$data_info{pos}          = get_value()},
+    "-c,--consensus"       => sub {$data_info{consensus}    = 1          },
+    "-h,-?,--help,--usage" => sub {SUsage::usage; exit                   },
+);
+
+# HHout obj:
+# %main_obj = (
+#              query => "PF00002",
+#              header => "7 transmembrane receptor (Secretin family)",
+#              match_columns => 293,
+#              used_no_of_seqs => 117,
+#              all_no_of_seqs => 762,
+#              neff => 6.6,
+#              searched_HMMs => 13774,
+#              hits =>   {1 => ####, ...}
+#              aligns => {1 => ######, ...}
+#              );
+# 
+#  Hits and aligns point to the structures showed bellow. 
+# 
+# #### my %obj = (number => 1, 
+#             template => "d1u19a_", 
+#             prob => 98.8, 
+#             evalue => 8.9E-09, 
+#             pvalue => 6.5E-13, 
+#             score => 63.7, 
+#             ss => 6.9, 
+#             cols => 244, 
+#             query_hmm_begin => 14, 
+#             query_hmm_end => 292, 
+#             template_hmm_begin => 50, 
+#             template_hmm_end => 312, 
+#             hierarchy => "f.13.1.2"); #Nan!
+# ####### my %obj = 
+#         (
+#             match => "++.=.+..+-|.++.-..+..........+.+++.+--..=|+++.-.+", 
+#             q_cons => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_cons => "~v~W~iYPi~y~l~~~g~~~~~~~~~~~~y~i~D~i~K~~FG~~i~~~a", 
+#             q_seq => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_seq => "VILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA"
+#         );
+
+if(!defined($data_info{hhm}) || !defined($data_info{input}) || !defined($data_info{main_hhm}))
+{
+    SUsage::usage; exit;
+}
+
+my $hh_obj = HHParser::parse_hh_out($data_info{input});
+
+if(defined($data_info{consensus}))
+{
+    my $hhm_obj = Parsers::parse_hhm($data_info{hhm});
+    print $hhm_obj->{seq}[$data_info{main_hhm}]->{header} . "\n";
+    print $hhm_obj->{seq}[$data_info{main_hhm}]->{seq} . "\n";
+    exit;
+}
+
+if(!defined($data_info{pos}))
+{
+    SUsage::usage; exit;
+}
+
+my $positions = Parsers::parse_pos_list($data_info{pos});
+
+# Are c.52 aligned?
+my $possible_PDEXK = Utils::find_PDEXK($hh_obj, $positions, 0, 100);
+
+if(scalar(@$possible_PDEXK) > 0)
+{
+    my @sorted_possible_PDEXK = sort {$a <=> $b} @$possible_PDEXK;
+
+    # %hhm_obj = (seq => [\%seq1], neff =>3.7, stats => [\%obj1, \%obj2 ...], stats_hash => { 1 => \%obj1, 2 => \%obj2 ...})
+    # %seq1 = (
+    #           header => "Consensus",
+    #           seq    => "AxAA",
+    #         )
+    # %obj = (
+    #               amino_acid => "A",
+    #               number => 158,
+    #               M_M => 0,
+    #               M_I => 99999,
+    #               M_D => 99999,
+    #               I_M => 99999,
+    #               I_I => 99999,
+    #               D_M => 99999,
+    #               D_D => 99999, 
+    #               Neff => 3383,
+    #               Neff_I => 0, 
+    #               Neff_D => 0,
+    #               freq => [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+    #         );
+    my $hhm_obj = Parsers::parse_hhm($data_info{hhm});
+    
+    my $consensus_seq = construct_consensus_seq($hh_obj, $positions, $hhm_obj->{seq}[$data_info{main_hhm}]->{seq}, \@sorted_possible_PDEXK);
+
+    my $main_consensus_sequence = $consensus_seq;
+    
+    my $aln_seq = [];
+    
+    if(defined($data_info{fas}))
+    {
+        #     An array of    
+        #     my %obj = (
+        #                 header => ">test",
+        #                 seq    => "abac",
+        #               );
+        my $msa_in_fasta = Parsers::parse_fas($data_info{fas});
+        
+        if($hhm_obj->{seq}[$data_info{main_hhm}]->{header} ne $$msa_in_fasta[$data_info{main_fas}]->{header})
+        {
+            die "ERR: $0: can't find consensus sequence: $data_info{fas}; $data_info{hhm}\n";
+        }
+
+        $main_consensus_sequence = align_consensus(1, $hh_obj->{match_columns}, $consensus_seq, $$msa_in_fasta[$data_info{main_fas}]->{seq});
+
+        $aln_seq   = aln_seq($hhm_obj, $main_consensus_sequence, $msa_in_fasta, $data_info{main_fas});
+    }
+    
+    my $aln_header = aln_header($hhm_obj, $main_consensus_sequence);
+    
+    my $aln_pdexk  = aln_pdexk($hhm_obj, $main_consensus_sequence, \@sorted_possible_PDEXK, $positions);
+    
+    print_alns($aln_header, $aln_pdexk, $aln_seq, length($main_consensus_sequence));
+}
+
+# ==============================================================================
+sub print_alns
+{
+    my ($aln_header, $aln_pdexk, $aln_seq, $length) = @_;
+    
+    foreach my $aln (@$aln_header)
+    {
+        print "$aln->{header}\n$aln->{seq}\n";
+    }
+    print_delimiter($length, "DELIM1");
+    foreach my $aln (@$aln_pdexk)
+    {
+        print "$aln->{cons_header}\n$aln->{cons_seq}\n";
+        print "$aln->{match_header}\n$aln->{match_seq}\n";
+        print "$aln->{template_header}\n$aln->{template_seq}\n";
+    }
+    print_delimiter($length, "DELIM2");
+    foreach my $aln (@$aln_seq)
+    {
+        print "$aln->{header}\n$aln->{seq}\n";
+    }
+}
+
+# ==============================================================================
+sub aln_seq
+{
+    my ($hhm_obj, $main_consensus_sequence, $msa_in_fasta, $main_seq_no) = @_;
+    
+    my @aln_seq;
+    
+    for(my $i = 0; $i < @$msa_in_fasta; $i++)
+    {
+        my $sequence = align_template(1, 
+                                      $hh_obj->{match_columns}, 
+                                      $$msa_in_fasta[$main_seq_no]->{seq}, 
+                                      $$msa_in_fasta[$i]->{seq}, 
+                                      $main_consensus_sequence);
+                                      
+        push(@aln_seq, {header => $$msa_in_fasta[$i]->{header}, seq => $sequence});
+    }
+
+    return \@aln_seq;
+}
+# ==============================================================================
+sub aln_pdexk
+{
+    my ($hhm_obj, $main_consensus_sequence, $sorted_possible_PDEXK, $positions) = @_;
+
+    my @aln_pdexk;
+    
+    foreach my $obj (@$sorted_possible_PDEXK)
+    {
+        # %pos = (
+        #               name => "2g3w.pos",
+        #               pd_pos => [15, 16],
+        #               exk_pos => [37,38,39],
+        #         );
+
+        my $positions = Utils::get_PDEXK_positions($positions, $hh_obj->{hits}->{$obj}->{template});
+        
+        if(defined($positions))
+        {
+            my $alignment_mode = Utils::test_aligned_region($hh_obj, $positions, $obj, "template");
+            
+            if($alignment_mode == 2 || $alignment_mode == 1)
+            {
+                my $match = "";
+                
+                for(my $i = 0; $i < length($hh_obj->{aligns}->{$obj}->{match}); $i++)
+                {
+                    my $char = substr($hh_obj->{aligns}->{$obj}->{match}, $i, 1);
+                    if($char eq " ")
+                    {
+                        $match .= "-";
+                    }
+                    elsif($char eq "-")
+                    {
+                        $match .= "~";
+                    }
+                    else
+                    {
+                        $match .= $char;
+                    }
+                }
+                
+                $match = align_template($hh_obj->{hits}->{$obj}->{query_hmm_begin},
+                                        $hh_obj->{hits}->{$obj}->{query_hmm_end}, 
+                                        $hh_obj->{aligns}->{$obj}->{q_seq},
+                                        $match,
+                                        $main_consensus_sequence);
+                                        
+                my $seq = align_template($hh_obj->{hits}->{$obj}->{query_hmm_begin},
+                                         $hh_obj->{hits}->{$obj}->{query_hmm_end}, 
+                                         $hh_obj->{aligns}->{$obj}->{q_seq},
+                                         $hh_obj->{aligns}->{$obj}->{t_seq},
+                                         $main_consensus_sequence);
+                                         
+                my $cons_seq = conservative_seq($hh_obj->{hits}->{$obj}->{template_hmm_begin}, 
+                                                $positions, $seq);                         
+                
+                push(@aln_pdexk, {cons_header     => ">$hh_obj->{hits}->{$obj}->{template}_pdexk",
+                                  cons_seq        => $cons_seq,
+                                  match_header    => ">$hh_obj->{hits}->{$obj}->{template}_match",
+                                  match_seq       => $match,
+                                  template_header => ">$hh_obj->{hits}->{$obj}->{template}",
+                                  template_seq    => $seq});
+            }
+        } 
+        else
+        {
+            print STDERR "ERR: $0: can't find the positions of the following template $hh_obj->{hits}->{$obj}->{template}";            
+        }
+    }
+
+    return \@aln_pdexk;
+}
+
+# ==============================================================================
+# %pos = (
+#               name => "2g3w.pos",
+#               e_pos => [2],
+#               pd_pos => [15, 16],
+#               exk_pos => [37,38,39],
+#         );
+
+sub conservative_seq
+{
+    my ($begin, $positions, $sequence) = @_;
+
+    my $cons_seq = "";
+    
+    my $position = $begin;
+    
+    my %positions = ($positions->{e_pos}[0] => 1,
+
+                     $positions->{pd_pos}[0] => 2,
+                     $positions->{pd_pos}[1] => 2,
+                     
+                     $positions->{exk_pos}[0] => 3,
+                     $positions->{exk_pos}[1] => 3,
+                     $positions->{exk_pos}[2] => 3,
+                    );
+
+    $positions{ $positions->{exk_pos}[3] } = 3 if( 2 < $#{$positions->{exk_pos}});##{{MM ed.}}
+
+    for(my $i = 0; $i < length($sequence); $i++)
+    {
+        my $char = substr($sequence, $i, 1);
+        
+        if($char eq "-")
+        {
+            $cons_seq .= "-";
+        }
+        else
+        {
+            if(defined($positions{$position}))
+            {
+                $cons_seq .= $positions{$position};
+            }
+            else
+            {
+                $cons_seq .= "-";
+            }
+            
+            $position++;
+        }
+    }
+    
+    return $cons_seq;
+}
+
+# ==============================================================================
+sub aln_header
+{
+    my ($hhm_obj, $main_consensus_sequence) = @_;
+
+    my @aln_header;
+    
+    push(@aln_header, {header => $hhm_obj->{seq}[0]->{header}, seq => join_seq($hhm_obj->{seq}[0]->{seq}, $main_consensus_sequence)});
+    push(@aln_header, {header => $hhm_obj->{seq}[2]->{header}, seq => join_seq($hhm_obj->{seq}[2]->{seq}, $main_consensus_sequence)});
+    push(@aln_header, {header => $hhm_obj->{seq}[3]->{header}, seq => $main_consensus_sequence});
+
+    return \@aln_header;
+}
+
+
+# ==============================================================================
+sub construct_consensus_seq
+{
+    my ($hh_obj, $positions, $start_seq, $sorted_possible_PDEXK) = @_;
+    
+    my $consensus_seq = $start_seq;
+
+    # Tests if conservative positions are aligned
+    foreach my $obj (@$sorted_possible_PDEXK)
+    {
+        # %pos = (
+        #               name => "2g3w.pos",
+        #               pd_pos => [15, 16],
+        #               exk_pos => [37,38,39],
+        #         );
+
+        my $possible_position = Utils::get_PDEXK_positions($positions, $hh_obj->{hits}->{$obj}->{template});
+        
+        if(defined($possible_position))
+        {
+            my $alignment_mode = Utils::test_aligned_region($hh_obj, $possible_position, $obj, "template");
+            
+            if($alignment_mode == 2 || $alignment_mode == 1)
+            {
+                $consensus_seq = align_consensus(  $hh_obj->{hits}->{$obj}->{query_hmm_begin},
+                                                   $hh_obj->{hits}->{$obj}->{query_hmm_end}, 
+                                                   $hh_obj->{aligns}->{$obj}->{q_seq},
+                                                   $consensus_seq);
+            }
+        } 
+        elsif(!defined($possible_position))
+        {
+            print STDERR "ERR: $0: can't find the positions of the following template $hh_obj->{hits}->{$obj}->{template}";            
+        }
+    }
+    
+    return $consensus_seq;
+}
+
+# ==============================================================================
+sub align_consensus
+{
+    my ($q_begin, $q_end, $query, $consensus_seq) = @_;
+
+    my $new_query = "";
+    my $new_consensus_seq = "";
+    
+    my $current_consensus_position = 0;
+    
+    for(my $i = 0; $i + 1 < $q_begin;)
+    {
+        my $char = substr($consensus_seq, $current_consensus_position, 1);
+        if($char ne "-")
+        {
+            $i++;
+        }
+    
+        $new_query .= "-";
+        $new_consensus_seq .= $char;
+        
+        $current_consensus_position++;
+    }
+
+    for(my $i = 0; $i < length($query);)
+    {
+        my $char1 = substr($query, $i, 1);
+        my $char2 = substr($consensus_seq, $current_consensus_position, 1);
+        
+        if(($char1 eq $char2) || ($char1 ne "-" && $char2 ne "-"))
+        {
+            $i++;
+            $current_consensus_position++;
+            
+            $new_query .= $char2;
+            $new_consensus_seq .= $char2;
+        }
+        elsif($char1 eq "-")
+        {
+            $i++;
+        
+            $new_query .= "-";
+            $new_consensus_seq .= "-";
+        }
+        elsif($char2 eq "-")
+        {
+            $current_consensus_position++;
+        
+            $new_query .= "-";
+            $new_consensus_seq .= "-";
+        }
+#         else
+#         {
+#             print STDERR "ERR: $0: char1: $char1; char2: $char2!\n";
+#         }
+    }
+    
+    for(; $current_consensus_position < length($consensus_seq); $current_consensus_position++)
+    {
+        my $char = substr($consensus_seq, $current_consensus_position, 1);
+        
+        $new_query .= "-";
+        $new_consensus_seq .= $char;
+    }
+
+    return $new_consensus_seq;
+}
+
+# ==============================================================================
+sub align_template
+{
+    my ($q_begin, $q_end, $query, $template, $consensus_seq) = @_;
+    
+    my $new_template = "";
+    my $new_query = "";
+    my $new_consensus_seq = "";
+    
+    my $current_consensus_position = 0;
+    
+    for(my $i = 0; $i + 1 < $q_begin;)
+    {
+        my $char = substr($consensus_seq, $current_consensus_position, 1);
+        if($char ne "-")
+        {
+            $i++;
+        }
+        
+        $new_template .= "-";
+        $new_query .= "-";
+        $new_consensus_seq .= $char;
+        
+        $current_consensus_position++;
+    }
+
+    for(my $i = 0; $i < length($query);)
+    {
+        my $char1 = substr($query, $i, 1);
+        my $char2 = substr($consensus_seq, $current_consensus_position, 1);
+        
+        my $char3 = substr($template, $i, 1);
+        
+        if(($char1 eq $char2) || ($char1 ne "-" && $char2 ne "-"))
+        {
+            $i++;
+            $current_consensus_position++;
+            
+            $new_template .= $char3;
+            $new_query .= $char1;
+            $new_consensus_seq .= $char1;
+        }
+        elsif($char1 eq "-")
+        {
+            $i++;
+        
+            $new_template .= "-";
+            $new_query .= "-";
+            $new_consensus_seq .= "-";
+        }
+        elsif($char2 eq "-")
+        {
+            $current_consensus_position++;
+        
+            $new_template .= "-";
+            $new_query .= "-";
+            $new_consensus_seq .= "-";
+        }
+#         else
+#         {
+#             print STDERR "ERR: $0: char1: $char1; char2: $char2!\n";
+#         }
+    }
+    
+    for(; $current_consensus_position < length($consensus_seq); $current_consensus_position++)
+    {
+        my $char = substr($consensus_seq, $current_consensus_position, 1);
+        
+        $new_template .= "-";
+        $new_query .= "-";
+        $new_consensus_seq .= $char;
+    }
+
+    return $new_template;
+}
+
+
+# ==============================================================================
+sub join_seq
+{
+    my ($query, $template) = @_;
+
+    my $new_query = "";
+    
+    for(my $i = 0, my $k = 0; $i < length($template); $i++)
+    {
+        if(substr($template, $i, 1) ne "-")
+        {
+            $new_query .= substr($query, $k, 1);
+            $k++;
+        }
+        else
+        {
+            $new_query .= "-";
+        }
+    }
+    
+    return $new_query;
+}
+
+# ==============================================================================
+sub print_delimiter
+{
+    my ($length, $header) = @_;
+    
+    print ">$header\n";
+    my $delimiter = "";
+    for(my $i = 0; $i < $length; $i++)
+    {
+        $delimiter .= "X"
+    }
+    print "$delimiter\n";
+}
+
+
+
+
+

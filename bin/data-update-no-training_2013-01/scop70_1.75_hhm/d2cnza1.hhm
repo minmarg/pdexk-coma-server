@@ -1,0 +1,424 @@
+HHsearch 1.5
+NAME  d2cnza1 b.2.3.2 (A:22-144) SafA pilus subunit {Salmonella typhimurium [TaxId: 90371]}
+FAM   b.2.3.2
+FILE  d2cnza1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cnza1.a3m -v 1 
+DATE  Tue Jan 22 06:01:28 2013
+LENG  123 match states, 123 columns in multiple alignment
+FILT  18 out of 20 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCEEEEECCCCEEECCCCCCCEEEEEEECCCCCEEEEEEECCHHHHCCCCCEEEEEECCCCCEEEEEECCCCCCCCCCCCCCCCCEEEEEECCCCEEEEE
+ECCCCCCCCCCCEEEEEEEEECC
+>ss_conf
+9057775057623068999771799986154321123420010220688877899753789678998747610357871225763678974589337998
+41777778761237887543359
+>Consensus
+xLtvslxqVpGLxAGxxxxxxxIAkLxVsStSiKefgvrgxxxxxxxxxgxxWxixGKNsGxxIxVgfsxxxxxxxxxxxxwngxxWxtfdxndxvxIxl
+xGdxQxIxaDtYPxTvdVvgYQp
+>d2cnza1 b.2.3.2 (A:22-144) SafA pilus subunit {Salmonella typhimurium [TaxId: 90371]}
+DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVL
+TGPAQNVTADTYPITLDVVGYQP
+>gi|207855784|ref|YP_002242435.1|(48-169:169) lipoprotein [Salmonella enterica subsp. enterica serovar Enteritidis str. P125109] >gi|206707587|emb|CAR31868.1| lipoprotein [Salmonella enterica subsp. enterica serovar Enteritidis str. P125109]  E=1e-28 s/c=1.06 id=49% cov=100%
+NLTISFDQVPGLMAGQKPAGMNIAKLTVDSASIKEYGARGVANTTLDAAGSAWKITGKNSGTILTVGFSNNNMSRGHGAQMWNGRSWFTFDTNAPLDIVT
+IG-AQNIPPDTYPITVDVVGYQP
+>gi|416526509|ref|ZP_11742414.1|(44-164:164) lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. LQC 10] >gi|416536284|ref|ZP_11748351.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. SARB30] >gi|416553751|ref|ZP_11757880.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. 29N] >gi|363557561|gb|EHL41766.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. LQC 10] >gi|363562395|gb|EHL46494.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. 29N] >gi|363565390|gb|EHL49426.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. SARB30]  E=2e-23 s/c=0.93 id=48% cov=98%
+-ITVSLDQVPGLMAGREHDGMNIAKLTVSSTSIKQFGVRGVSGTLMNGSASAWEINGRNSGKPIIVGLASNA-ATGKGPKMWNGETWNTFNTNTPVNIVT
+IG-DQDIPPDTYPMTVDVVGYQP
+>gi|168465370|ref|ZP_02699252.1|(44-164:165) saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Newport str. SL317] >gi|418763367|ref|ZP_13319491.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35185] >gi|418766876|ref|ZP_13322948.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35199] >gi|418772048|ref|ZP_13328054.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 21539] >gi|418774701|ref|ZP_13330662.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 33953] >gi|418804594|ref|ZP_13360198.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35202] >gi|419789069|ref|ZP_14314752.1| Saf-pilin pilus formation protein SafA [Salmonella enterica subsp. enterica serovar Newport str. Levine 1] >gi|419794123|ref|ZP_14319739.1| Saf-pilin pilus formation protein SafA [Salmonella enterica subsp. enterica serovar Newport str. Levine 15] >gi|195631590|gb|EDX50110.1| saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Newport str. SL317] >gi|392616213|gb|EIW98648.1| Saf-pilin pilus formation protein SafA [Salmonella enterica subsp. enterica serovar Newport str. Levine 15] >gi|392616535|gb|EIW98968.1| Saf-pilin pilus formation protein SafA [Salmonella enterica subsp. enterica serovar Newport str. Levine 1] >gi|392733623|gb|EIZ90825.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 21539] >gi|392734611|gb|EIZ91793.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35185] >gi|392736887|gb|EIZ94049.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35199] >gi|392749901|gb|EJA06877.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 33953] >gi|392769623|gb|EJA26352.1| lipoprotein [Salmonella enterica subsp. enterica serovar Newport str. CVM 35202]  E=3e-09 s/c=0.54 id=38% cov=97%
+-LQAQLTPVAGLMAGQHGNGDVIAQLKV-SGSIKQFAVTGDYSkpETVGNNSDVWKVKGKN-GNTITVSFQGTKWASKGSLVDGSAHKWWIYNMGDGIDV
+ILSG-AQTVNADIYPVTLNVAAYQ-
+>gi|161615535|ref|YP_001589500.1|(45-164:165) hypothetical protein SPAB_03307 [Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7] >gi|161364899|gb|ABX68667.1| hypothetical protein SPAB_03307 [Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7]  E=5e-38 s/c=1.33 id=52% cov=98%
+-LTVSLDQVPGLIAGDEPTGTAIAKLTVDSTSVKEFGARGASGVMMDNAGIVWRIAGKNSGNSLTVGLSPKAVTNSRGRQTWNGREWITFDTNVPLYITT
+VG-EQNVSPDTYPLTLDVVGYQ-
+>gi|417404268|ref|ZP_12157686.1|(45-163:164) Saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Mississippi str. A4-633] >gi|353628559|gb|EHC76577.1| Saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Mississippi str. A4-633]  E=2e-37 s/c=1.33 id=36% cov=98%
+-LSVTFAQVPNLAAGRFKGNAEIATIAVSSSSAKRFAIAADFNALNLYNGDTWTIRGKNTGKGIIVYFYGEAAKPQGSVS-YNGHQWFIYNINDKLGIKL
+AGD-QNIPADVFPMTVNIAAYQ-
+>gi|418848818|ref|ZP_13403553.1|(62-181:182) saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Newport str. CVM 37978] >gi|392822165|gb|EJA77977.1| saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Newport str. CVM 37978]  E=2e-31 s/c=1.15 id=34% cov=97%
+-LQAQLTPVSGLVAGPHKGDEAIAMLLVSGSS-KQYAVTGDYSkpEVVGNDSDVWTVTGK-SGNTIKVTFGGVGCANKGSLVDGASHKWWVYDMADKVAV
+KLSG-SQTVKADTYPVTLHIAEYQ-
+>gi|375000033|ref|ZP_09724373.1|(67-187:187) Saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Infantis str. SARB27] >gi|353074721|gb|EHB40481.1| Saf-pilin pilus formation protein [Salmonella enterica subsp. enterica serovar Infantis str. SARB27]  E=4e-42 s/c=1.44 id=51% cov=99%
+-LTISLEQTPGLIAGTGKPDTVVAKLTVNSTSIKEYGVRGVSSTMLNDLGSMWNITGKNSGSTVAVGFSSQSLNKSHSPQTWNGLRWYTFNVNDPVNIAL
+VRD-QNIPPDTYPLTVDVVGYQP
+>gi|289472797|ref|YP_003475885.1|(44-164:164) spora coat assembly protein SafA [Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633]  E=2e-41 s/c=1.41 id=48% cov=99%
+-LTISFDQMPGLMAGKNAKDMDIAKLTVDSTSIKEFGVRGISGTLMNDAGSEWKITGKNGGNPIIVRFSDYALNKTHVPVMWNGRKWLTFDTNVPIDIIA
+VA-GQDISPDTYPLTVDVVGYQP
+>gi|416568068|ref|ZP_11764507.1|(44-164:164) lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. 4441 H] >gi|363578170|gb|EHL61986.1| lipoprotein [Salmonella enterica subsp. enterica serovar Montevideo str. 4441 H]  E=2e-39 s/c=1.36 id=46% cov=99%
+SLTVSLEQVPGLMAGRGHDGMDIAKLTVSSASIQEFGARGVSSSILGSAGSEWKITGKNSGESILVGFSTN-VATAKGPKMWNGETWSTFDTNAPVNIVI
+TGD-QDIPPDTYPLTLDLVGYRP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	1307	*	*	*	*	*	*	*	*	1310	*	*	*	2377	*	*	*	*	1
+       0	*	*	*	*	*	*	1685	0	0	
+
+L 2    *	*	*	*	*	*	*	4173	*	82	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2780	0	0	
+
+T 3    *	*	*	*	*	*	*	*	*	*	*	3939	*	1961	*	2916	874	*	*	*	3
+       0	*	*	*	*	*	*	2780	0	0	
+
+V 4    1961	*	*	*	*	*	*	2546	*	*	*	*	*	*	*	*	*	806	*	*	4
+       0	*	*	*	*	*	*	2780	0	0	
+
+S 5    *	*	*	*	*	*	*	*	*	*	*	*	*	1961	*	874	2339	*	*	*	5
+       0	*	*	*	*	*	*	2780	0	0	
+
+L 6    *	*	*	*	1719	*	*	*	*	522	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2780	0	0	
+
+I 7    1962	*	1906	2588	*	*	*	3155	*	*	*	*	*	*	*	*	2338	*	*	*	7
+       0	*	*	*	*	*	*	2780	0	0	
+
+P 8    *	*	*	*	*	*	*	*	*	*	*	*	1182	838	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2780	0	0	
+
+V 9    *	*	*	*	*	*	*	*	*	*	3291	*	*	*	*	*	3940	264	*	*	9
+       0	*	*	*	*	*	*	2780	0	0	
+
+S 10   2836	*	*	*	*	*	*	*	*	*	*	*	838	*	*	1734	*	*	*	*	10
+       0	*	*	*	*	*	*	2780	0	0	
+
+G 11   *	*	*	*	*	194	*	*	*	*	*	2988	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2780	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2780	0	0	
+
+K 13   4038	*	*	*	*	*	*	3035	2443	*	1354	*	*	*	*	*	3149	2950	*	*	13
+       0	*	*	*	*	*	*	2780	0	0	
+
+A 14   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2780	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2780	0	0	
+
+K 16   *	*	4137	*	*	*	*	*	2660	*	*	*	2430	3049	1823	4083	3940	3803	*	*	16
+       0	*	*	*	*	*	*	2780	0	0	
+
+N 17   *	*	*	3155	2988	2588	1961	3803	4254	*	*	2221	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2780	0	0	
+
+A 18   2592	*	4364	*	*	3869	2675	*	1148	*	*	*	3194	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2780	0	0	
+
+P 19   4254	*	2213	*	*	2394	*	*	4220	4154	*	3096	3044	*	*	2869	4137	*	*	*	19
+       0	*	*	*	*	*	*	2780	0	0	
+
+S 20   *	*	1753	*	*	1154	*	*	*	*	*	2339	*	*	*	4157	*	*	*	*	20
+       0	*	*	*	*	*	*	2780	0	0	
+
+A 21   3096	*	2972	2950	*	*	*	*	*	*	1684	*	*	*	*	3939	2001	*	*	*	21
+       0	*	*	*	*	*	*	2780	0	0	
+
+K 22   2425	*	2298	2339	*	*	*	*	3155	*	*	3213	*	*	*	*	4083	2904	*	*	22
+       0	*	*	*	*	*	*	2780	0	0	
+
+I 23   *	*	*	*	*	*	*	97	*	*	*	*	*	*	*	*	*	3940	*	*	23
+       0	*	*	*	*	*	*	2780	0	0	
+
+A 24   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2780	0	0	
+
+K 25   *	*	*	*	*	*	*	3690	874	*	3173	*	*	3869	*	*	2339	*	*	*	25
+       0	*	*	*	*	*	*	2780	0	0	
+
+L 26   *	*	*	*	*	*	*	2339	*	318	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2780	0	0	
+
+V 27   2339	*	*	4154	*	*	*	*	3869	3173	*	*	*	*	*	3690	1207	4157	*	*	27
+       0	*	*	*	*	*	*	2780	0	0	
+
+V 28   3690	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	116	*	*	28
+       102	*	3869	*	*	*	*	2780	0	0	
+
+N 29   *	*	2157	*	*	*	*	*	*	*	*	2424	*	*	*	762	*	*	*	*	29
+       0	*	*	*	*	0	*	2730	0	1000	
+
+S 30   *	*	*	*	*	2408	*	*	*	*	*	*	*	*	*	301	*	*	*	*	30
+       0	*	*	*	*	*	*	2780	0	0	
+
+T 31   2703	*	*	*	*	3869	*	*	*	*	*	*	*	*	*	1669	1352	3803	*	*	31
+       0	*	*	*	*	*	*	2780	0	0	
+
+T 32   3803	*	*	*	*	*	*	*	*	*	*	4083	*	*	*	401	3155	*	*	*	32
+       301	*	2408	*	*	*	*	2780	0	0	
+
+L 33   2628	*	*	*	*	*	*	855	*	2867	*	*	*	*	*	*	*	2754	*	*	33
+       0	*	*	*	*	0	*	2624	0	1205	
+
+K 34   *	*	*	*	*	*	*	*	80	*	*	*	*	4220	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2780	0	0	
+
+E 35   *	*	*	1029	*	*	*	*	3939	*	*	*	*	1381	4038	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2780	0	0	
+
+F 36   *	*	*	*	527	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1709	36
+       0	*	*	*	*	*	*	2780	0	0	
+
+G 37   1407	*	*	*	*	874	*	*	*	*	*	*	*	*	*	*	*	3690	*	*	37
+       0	*	*	*	*	*	*	2780	0	0	
+
+V 38   2618	*	*	*	*	*	*	2339	*	*	*	*	*	*	*	*	*	645	*	*	38
+       0	*	*	*	*	*	*	2780	0	0	
+
+R 39   2339	*	*	*	*	*	*	*	*	*	*	*	*	*	874	*	1961	*	*	*	39
+       0	*	*	*	*	*	*	2780	0	0	
+
+G 40   2339	*	*	*	*	318	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2780	0	0	
+
+I 41   4137	*	1138	*	*	*	*	2221	*	*	*	*	*	*	*	*	*	1867	*	*	41
+       0	*	*	*	*	*	*	2780	0	0	
+
+S 42   2679	*	*	*	2339	*	*	*	*	*	*	*	*	*	*	1361	*	*	*	1961	42
+       0	*	*	*	*	*	*	2780	0	0	
+
+N 43   *	*	*	*	*	2221	3939	*	3803	*	*	2148	*	*	*	1241	*	*	*	*	43
+       401	2042	*	1000	1000	*	*	2780	1403	0	
+
+N 44   2907	*	*	1989	*	3932	*	*	4140	*	*	4146	4385	*	*	3281	2132	4128	*	*	44
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 45   *	*	*	*	*	*	*	2158	3795	2185	3025	*	*	*	*	*	2410	2532	*	*	45
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 46   3932	*	3795	*	*	*	*	*	*	2182	2212	4029	*	*	*	*	*	1454	*	*	46
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 47   *	*	2164	*	*	1499	*	*	*	2979	*	2157	*	*	*	*	*	3795	*	*	47
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 48   4243	*	3064	*	*	4164	3932	*	*	4140	3795	1775	*	*	*	2158	*	*	*	4029	48
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 49   1912	*	3102	*	*	*	*	*	*	3929	*	1581	*	*	*	4164	2625	*	*	*	49
+       0	*	*	*	*	*	*	2779	0	0	
+
+G 50   4164	*	*	*	*	530	*	*	*	*	*	*	*	*	*	1989	*	*	*	*	50
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 51   *	*	1150	*	*	*	4385	4128	*	*	*	*	*	*	*	1595	3143	*	*	*	51
+       0	*	*	*	*	*	*	2779	0	0	
+
+A 52   1891	*	*	3212	*	*	*	*	*	*	3929	*	*	*	*	*	2013	1694	*	*	52
+       0	*	*	*	*	*	*	2779	0	0	
+
+W 53   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	53
+       0	*	*	*	*	*	*	2779	0	0	
+
+R 54   *	*	*	4164	*	*	*	*	1612	*	*	2930	*	*	2553	*	1665	*	*	*	54
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 55   *	*	*	*	*	*	*	829	*	3795	*	*	*	*	*	*	*	1454	*	*	55
+       0	*	*	*	*	*	*	2779	0	0	
+
+A 56   2553	*	*	*	*	*	*	3928	3842	*	*	4164	*	*	2979	*	1186	*	*	3795	56
+       0	*	*	*	*	*	*	2779	0	0	
+
+G 57   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2779	0	0	
+
+K 58   *	*	*	*	*	*	*	*	158	*	*	*	*	*	3270	*	*	*	*	*	58
+       290	*	2457	*	*	*	*	2779	0	0	
+
+N 59   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	59
+       180	*	3089	*	*	0	*	2624	0	1259	
+
+T 60   *	*	*	*	*	3183	*	*	*	*	*	*	*	*	*	842	1590	*	*	*	60
+       0	*	*	*	*	0	*	2730	0	1000	
+
+G 61   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2779	0	0	
+
+K 62   *	*	*	4211	*	*	*	*	1478	*	*	1280	*	*	4140	3929	4243	*	*	*	62
+       0	*	*	*	*	*	*	2779	0	0	
+
+E 63   *	*	*	2484	*	2907	*	4243	*	*	*	*	2656	*	*	2653	1655	*	*	*	63
+       0	*	*	*	*	*	*	2779	0	0	
+
+I 64   *	*	*	*	*	*	*	279	*	3185	*	*	*	*	*	*	*	3929	*	*	64
+       88	4081	*	2322	322	*	*	2779	1000	0	
+
+G 65   3929	*	*	*	*	3113	*	2135	2358	4211	*	*	*	*	*	*	2028	3370	*	*	65
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 66   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	66
+       0	*	*	*	*	*	*	2779	0	0	
+
+G 67   *	*	*	*	*	851	*	*	*	*	*	*	*	*	4212	3842	3023	*	*	2330	67
+       0	*	*	*	*	*	*	2779	0	0	
+
+L 68   *	4081	*	*	485	*	*	*	*	2144	*	*	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 69   3122	*	*	*	*	3023	*	*	*	*	*	*	*	3842	*	1019	*	*	*	2330	69
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 70   *	*	4212	*	*	1353	*	*	*	*	*	3160	3251	*	*	1818	4211	*	*	*	70
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 71   *	*	3143	2330	*	*	*	3928	3104	*	*	1947	*	3929	*	*	3842	4124	*	4212	71
+       155	*	3296	*	*	*	*	2779	0	0	
+
+S 72   1574	*	4123	*	*	3012	*	*	3763	*	*	3984	*	*	*	2323	3724	3827	*	*	72
+       107	*	3804	*	*	0	*	2767	0	1122	
+
+L 73   2927	2973	*	*	*	*	*	4172	*	2022	4123	*	*	*	*	4011	3754	2523	3798	*	73
+       0	*	*	*	*	0	*	2764	0	1000	
+
+R 74   1584	*	*	*	*	*	*	*	2979	4081	*	3064	*	*	3143	3002	3025	*	*	*	74
+       0	*	*	*	*	*	*	2779	0	0	
+
+R 75   *	*	*	*	*	*	*	*	2569	*	*	3126	2330	*	2591	3842	2163	4081	*	*	75
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 76   2657	*	4081	*	*	3203	*	*	1917	*	*	*	*	2979	*	2131	4212	*	*	*	76
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 77   *	*	3143	*	*	1150	2176	*	3187	*	*	*	*	*	3251	*	*	*	*	*	77
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 78   4081	*	*	*	*	1625	*	*	*	*	*	3795	*	*	*	1179	*	3281	*	*	78
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 79   4243	*	*	*	*	*	*	*	*	2375	*	*	1616	*	4128	4081	3143	2330	*	*	79
+       0	*	*	*	*	*	*	2779	0	0	
+
+E 80   *	*	*	2634	*	*	4081	*	3187	4354	*	3795	*	2509	*	2979	*	2019	*	*	80
+       320	*	2330	*	*	*	*	2779	0	0	
+
+K 81   *	*	1997	*	*	*	*	*	2207	*	1377	*	*	*	*	*	2756	*	*	*	81
+       0	*	*	*	*	0	*	2505	0	1257	
+
+W 82   *	*	*	*	*	2375	*	*	*	*	*	*	*	*	*	*	*	*	717	2330	82
+       88	*	4081	*	*	*	*	2779	0	0	
+
+N 83   2775	*	*	*	*	*	*	*	*	*	*	360	*	*	*	3739	*	*	*	*	83
+       0	*	*	*	*	*	0	2749	0	1000	
+
+G 84   3739	*	*	*	*	360	*	*	*	*	*	*	*	*	*	2775	*	*	*	*	84
+       0	*	*	*	*	*	0	2749	0	1000	
+
+V 85   *	*	*	2613	*	*	1225	*	*	3887	*	*	*	*	2172	*	*	3066	*	*	85
+       0	*	*	*	*	*	0	2749	0	1000	
+
+N 86   *	*	*	3175	*	*	*	*	1854	*	*	3066	*	2274	3887	4175	2613	*	*	*	86
+       0	*	*	*	*	0	*	2749	0	1000	
+
+W 87   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	87
+       0	*	*	*	*	*	*	2779	0	0	
+
+M 88   *	*	*	*	2477	*	*	2952	*	4212	3143	4164	*	*	*	3296	4354	4081	2375	3929	88
+       88	*	4081	*	*	*	*	2779	0	0	
+
+T 89   *	*	*	*	*	*	*	1498	*	*	*	*	*	*	*	*	805	3761	*	*	89
+       0	*	*	*	*	0	*	2749	0	1000	
+
+F 90   *	*	*	*	864	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1150	90
+       0	*	*	*	*	*	*	2779	0	0	
+
+N 91   *	*	814	*	*	*	*	*	*	*	*	1214	*	*	*	*	*	*	*	*	91
+       0	*	*	*	*	*	*	2779	0	0	
+
+S 92   *	*	*	*	*	*	*	2330	*	*	1989	*	*	*	*	3143	1433	3929	*	*	92
+       0	*	*	*	*	*	*	2779	0	0	
+
+N 93   3102	*	*	*	*	3842	*	*	*	*	*	419	*	*	*	*	3928	*	*	*	93
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 94   3227	*	668	*	*	*	*	*	*	*	*	*	*	*	*	*	3270	2644	*	*	94
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 95   4140	*	*	*	*	3842	*	*	1665	*	*	*	1197	*	3928	*	4146	*	*	*	95
+       0	*	*	*	*	*	*	2779	0	0	
+
+L 96   *	*	*	*	*	*	*	3015	*	1245	*	*	*	*	*	*	*	1138	*	*	96
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 97   2457	*	1562	*	*	2330	*	*	*	*	*	2163	*	*	*	*	*	*	*	4128	97
+       0	*	*	*	*	*	*	2779	0	0	
+
+I 98   *	*	*	*	*	*	*	712	*	*	*	*	*	*	*	*	*	1361	*	*	98
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 99   3929	*	*	*	*	*	*	2543	1392	*	*	*	*	*	*	*	4128	1623	*	*	99
+       0	*	*	*	*	*	*	2779	0	0	
+
+L 100  4212	*	*	*	*	*	*	4211	*	668	*	*	*	*	*	*	2227	4354	*	*	100
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 101  2330	*	*	*	*	*	*	2284	*	*	*	*	*	*	*	1989	2580	2500	*	*	101
+       84	4140	*	1000	1000	*	*	2779	1000	0	
+
+G 102  3281	*	*	*	*	266	*	*	*	*	*	*	*	*	3929	*	*	*	*	*	102
+       1060	*	942	*	*	*	*	2779	0	0	
+
+P 103  3037	*	404	*	*	*	*	*	*	*	*	*	3033	*	*	*	*	*	*	*	103
+       2035	*	404	*	*	0	*	2240	0	2304	
+
+A 104  1093	*	3347	3415	*	2571	*	*	*	*	*	*	*	*	*	2548	*	*	*	*	104
+       0	*	*	*	*	0	*	2432	0	2042	
+
+Q 105  *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	105
+       0	*	*	*	*	*	*	2779	0	0	
+
+N 106  *	*	2241	*	*	*	*	*	*	*	*	1086	*	*	*	*	1656	*	*	*	106
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 107  *	*	*	*	*	*	*	791	*	*	*	*	*	*	*	*	*	1244	*	*	107
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 108  *	*	*	*	*	*	*	*	2457	*	*	3842	1074	*	*	2644	3143	*	*	*	108
+       0	*	*	*	*	*	*	2779	0	0	
+
+A 109  827	*	*	*	*	*	*	*	*	*	*	*	1197	*	*	*	*	*	*	*	109
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 110  *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 111  *	*	*	*	*	*	*	3842	*	*	*	*	*	*	*	*	451	2330	*	*	111
+       0	*	*	*	*	*	*	2779	0	0	
+
+Y 112  *	*	*	*	2907	*	*	*	*	*	*	*	*	*	*	*	*	*	*	206	112
+       0	*	*	*	*	*	*	2779	0	0	
+
+P 113  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	2779	0	0	
+
+I 114  *	*	*	*	*	*	*	2591	*	1610	1974	*	*	*	*	*	*	1989	*	*	114
+       0	*	*	*	*	*	*	2779	0	0	
+
+T 115  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	115
+       0	*	*	*	*	*	*	2779	0	0	
+
+L 116  *	*	*	*	*	*	*	*	*	1097	*	*	*	*	*	*	*	909	*	*	116
+       0	*	*	*	*	*	*	2779	0	0	
+
+D 117  *	*	864	*	*	*	3102	*	*	*	*	1581	*	*	*	*	*	*	*	*	117
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 118  *	*	*	*	*	*	*	1665	*	4211	*	*	*	*	*	*	*	665	*	*	118
+       0	*	*	*	*	*	*	2779	0	0	
+
+V 119  1150	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	864	*	*	119
+       0	*	*	*	*	*	*	2779	0	0	
+
+G 120  1896	*	*	3102	*	864	*	*	*	*	*	*	*	*	*	*	3932	*	*	*	120
+       0	*	*	*	*	*	*	2779	0	0	
+
+Y 121  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	121
+       0	*	*	*	*	*	*	2779	0	0	
+
+Q 122  *	*	*	*	*	*	*	*	*	*	*	*	*	155	3296	*	*	*	*	*	122
+       0	*	*	*	*	*	*	2779	0	0	
+
+P 123  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	123
+       0	*	*	0	*	*	*	1918	0	0	
+
+//

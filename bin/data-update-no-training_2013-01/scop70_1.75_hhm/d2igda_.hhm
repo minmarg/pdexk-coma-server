@@ -1,0 +1,225 @@
+HHsearch 1.5
+NAME  d2igda_ d.15.7.1 (A:) Immunoglobulin-binding protein G, different constituent domains {Streptococcus sp., group G [TaxId: 1306]}
+FAM   d.15.7.1
+FILE  d2igda_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2igda_.a3m -v 1 
+DATE  Tue Jan 22 07:31:51 2013
+LENG  61 match states, 61 columns in multiple alignment
+FILT  32 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCEEEEEEECCCCCCEEEEEECCHHHHHHHHHHHHHCCCCCCEEEECCCCEEEEEEC
+>ss_conf
+9876313666850578651156742497889999988740379974131447650476419
+>Consensus
+xxpxxttYklixnxkxxxgxTtxkAxdaxxAekyFxxyanengldxxWtYDxatkTFTvtE
+>d2igda_ d.15.7.1 (A:) Immunoglobulin-binding protein G, different constituent domains {Streptococcus sp., group G [TaxId: 1306]}
+MTPAVTTYKLVINGKTLKGETTTKAVDAETAEKAFKQYANDNGVDGVWTYDDATKTFTVTE
+>gi|403072291|pdb|4GLS|C(1-56:56) Chain C, Crystal Structure Of Chemically Synthesized Heterochiral {d-Protein Antagonist Plus Vegf-A} Protein Complex In Space Group P21 >gi|403072294|pdb|4GLS|G Chain G, Crystal Structure Of Chemically Synthesized Heterochiral {d-Protein Antagonist Plus Vegf-A} Protein Complex In Space Group P21  E=1e-09 s/c=1.18 id=68% cov=92%
+------TYKLILNGKTLKGETTTEAVDVFDAFDVFFVYAASNFSDfDDWTYDDATKTFTVTE
+>gi|427392697|ref|ZP_18886702.1|(344-400:562) hypothetical protein HMPREF9698_00508, partial [Alloiococcus otitis ATCC 51267] >gi|425731207|gb|EKU94028.1| hypothetical protein HMPREF9698_00508, partial [Alloiococcus otitis ATCC 51267]  E=6e-11 s/c=1.24 id=46% cov=93%
+-----TLYYFAQRTKGKNGATTVKAKSAEEAEKYFRNWANENDLgDLEWSYDEDSKTFTARE
+>gi|198443041|pdb|2JWU|A(1-56:56) Chain A, Solution Nmr Structures Of Two Designed Proteins With 88% Sequence Identity But Different Fold And Function  E=4e-08 s/c=1.09 id=63% cov=93%
+-----TTYKLILNLKQAKEEAIKELVDAATAEKYFKLYANAKTVEGVWTYKDETKTFTVTE
+>gi|551988|gb|AAA26600.1|(234-279:492) BBXM [Staphylococcus xylosus]   E=7e-08 s/c=1.32 id=57% cov=75%
+--PKTDTYKLILNGKTLKGETTTEAVDAATARSFnFPILENSSSVPGD--------------
+>gi|427392394|ref|ZP_18886399.1|(766-817:1115) hypothetical protein HMPREF9698_00205 [Alloiococcus otitis ATCC 51267] >gi|425731355|gb|EKU94173.1| hypothetical protein HMPREF9698_00205 [Alloiococcus otitis ATCC 51267]  E=0.0002 s/c=0.93 id=43% cov=84%
+------TFKFI--NSTTKGSTSFKSPSIGEAKKYFDQYAKESGLgDLVWTFDPDSRTFT---
+>gi|315653917|ref|ZP_07906833.1|(300-358:737) conserved hypothetical protein [Lactobacillus iners ATCC 55195] >gi|315488613|gb|EFU78259.1| conserved hypothetical protein [Lactobacillus iners ATCC 55195]  E=2e-09 s/c=1.10 id=35% cov=98%
+--PEETTYHFTYKGADTTVSTDHVAGSVDKAEQYFRAYASESGLNLDFTYDEATHTFVGTD
+>gi|427394193|ref|ZP_18887695.1|(240-298:513) YSIRK family Gram-positive signal peptide [Alloiococcus otitis ATCC 51267] >gi|425730122|gb|EKU92966.1| YSIRK family Gram-positive signal peptide [Alloiococcus otitis ATCC 51267]  E=1e-06 s/c=0.95 id=39% cov=72%
+------------------GATTVKASSPREALEYFQAFLNENGLDAadfNWSYDSESRAFTASE
+>gi|313885225|ref|ZP_07818977.1|(40-98:100) B domain protein [Eremococcus coleocola ACS-139-V-Col8] >gi|312619916|gb|EFR31353.1| B domain protein [Eremococcus coleocola ACS-139-V-Col8]  E=4e-07 s/c=0.97 id=43% cov=92%
+------TYKLVVNSEDAQITSEYTASSVELAGQYFRDYVNNNGLgDLEWSYDPATYTFTATD
+>gi|83753868|pdb|1ZXH|A(2-54:56) Chain A, G311 Mutant Protein   E=5e-06 s/c=1.01 id=68% cov=87%
+-------YYLVVNkGQNAFYETLTKAVDAETARNAFIQSLKDDGVQGVWTYDDATKTFTV--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	434	1946	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1342	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1342	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2123	0	0	
+
+A 4    720	*	*	2175	*	*	*	*	2544	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2035	0	0	
+
+V 5    *	*	*	2231	*	*	*	*	*	1974	1689	*	*	*	*	*	2673	3933	*	*	5
+       0	*	*	*	*	*	*	2047	0	0	
+
+T 6    *	*	2272	*	*	*	*	*	*	*	*	*	*	*	*	*	335	*	*	*	6
+       0	*	*	*	*	*	*	2588	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	2230	*	*	*	*	*	4651	421	*	*	*	7
+       0	*	*	*	*	*	*	2843	0	0	
+
+Y 8    *	*	*	*	2883	*	*	*	*	*	*	*	*	*	*	*	*	*	*	210	8
+       0	*	*	*	*	*	*	2964	0	0	
+
+K 9    *	*	*	*	*	*	3542	*	687	*	*	*	*	*	4743	*	*	*	*	1968	9
+       0	*	*	*	*	*	*	2964	0	0	
+
+L 10   *	*	*	*	1993	*	*	4040	*	669	*	*	*	*	*	*	*	*	*	4079	10
+       0	*	*	*	*	*	*	3051	0	0	
+
+V 11   3181	*	*	*	4574	*	*	1404	*	5285	*	*	*	*	*	*	2567	1860	*	*	11
+       90	*	4052	*	*	*	*	3051	0	0	
+
+I 12   *	*	*	*	*	*	*	1924	*	2088	*	*	4775	2182	*	*	*	2689	*	3486	12
+       32	5508	*	1000	1000	*	0	2916	1000	1000	
+
+N 13   *	*	*	*	*	*	*	*	2529	*	*	589	*	*	3411	*	*	3880	*	*	13
+       75	4312	*	0	*	0	*	2902	1000	1000	
+
+G 14   *	5667	*	*	*	1223	*	4685	*	2968	*	4161	*	*	*	4062	1892	*	*	*	14
+       0	*	*	*	*	*	*	3029	0	0	
+
+K 15   3301	*	*	4062	*	4685	*	*	974	*	*	3629	*	3831	4907	4161	5645	5049	*	*	15
+       0	*	*	*	*	*	*	3029	0	0	
+
+T 16   *	*	2555	*	*	1750	*	*	*	*	*	4305	*	3321	*	*	1389	*	*	*	16
+       29	*	5667	*	*	*	*	3029	0	0	
+
+L 17   2219	*	*	*	3116	*	*	*	2057	2323	*	*	*	4941	4641	*	2671	*	*	*	17
+       0	*	*	*	*	*	0	3037	0	1000	
+
+K 18   *	*	*	*	4255	*	*	*	1482	*	*	1873	*	4032	*	3402	3048	4641	*	*	18
+       30	*	5591	*	*	*	0	3037	0	1000	
+
+G 19   *	*	*	3411	4985	605	*	4002	*	*	*	*	*	*	*	*	*	3204	*	4440	19
+       0	*	*	*	*	*	0	3098	0	1117	
+
+E 20   1945	*	*	1250	*	*	*	*	*	*	*	*	*	*	*	3034	3411	3266	*	*	20
+       0	*	*	*	*	0	*	3098	0	1117	
+
+T 21   3442	*	*	*	*	*	*	5518	*	*	*	*	*	*	*	4040	423	4826	*	4504	21
+       0	*	*	*	*	*	*	3084	0	0	
+
+T 22   4184	*	3833	4040	*	*	*	3442	*	4517	*	*	*	*	*	4333	669	*	*	*	22
+       0	*	*	*	*	*	*	3084	0	0	
+
+T 23   *	*	*	*	4333	*	3833	5518	3442	*	*	*	*	*	*	*	1376	1642	*	4040	23
+       0	*	*	*	*	*	*	3084	0	0	
+
+K 24   *	*	*	1489	*	*	*	*	964	*	*	*	*	*	*	*	4040	3833	*	*	24
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 25   220	*	*	*	*	*	*	*	*	3442	*	*	*	*	*	4333	*	*	*	*	25
+       0	*	*	*	*	*	*	3084	0	0	
+
+V 26   *	*	*	*	*	3346	*	5043	4596	*	*	*	3529	*	*	2044	4960	1093	*	*	26
+       0	*	*	*	*	*	*	3084	0	0	
+
+D 27   *	*	1003	*	*	*	*	*	*	*	*	3940	*	*	*	1198	*	*	*	*	27
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 28   1040	*	*	*	*	*	*	4333	*	4998	*	*	2673	*	*	4756	5043	2262	*	*	28
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 29   1649	*	3222	1588	4461	3192	*	*	*	*	*	*	*	*	3531	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3084	0	0	
+
+T 30   *	*	4461	1586	*	*	*	4063	3833	4040	*	*	*	5524	4756	*	1537	5189	*	*	30
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 31   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 32   5759	*	*	851	4461	4040	*	*	3285	2845	*	*	*	*	3656	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3084	0	0	
+
+K 33   4091	*	4461	2553	*	*	*	*	1253	*	*	4517	*	2427	5838	4809	5438	*	*	*	33
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 34   4121	*	*	5043	4809	*	*	5518	*	*	*	*	*	*	*	*	4184	2274	*	754	34
+       52	4809	*	0	*	*	*	3084	1000	0	
+
+F 35   *	*	*	*	142	*	*	4063	*	4894	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3084	0	0	
+
+K 36   *	*	4333	5529	4461	*	*	4517	1458	*	*	*	4809	2553	1892	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 37   3372	*	3503	4675	*	*	*	4809	*	3442	*	1877	*	1596	*	*	*	4461	*	*	37
+       0	*	*	*	*	*	*	3084	0	0	
+
+Y 38   *	*	*	*	2678	*	*	4063	*	4809	*	*	*	*	*	4517	*	*	2886	813	38
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 39   554	*	*	4809	*	*	*	4894	*	2941	*	*	*	*	*	*	*	3065	*	*	39
+       0	*	*	*	*	*	*	3084	0	0	
+
+N 40   4461	*	*	4998	*	*	*	*	2709	*	*	864	*	*	*	2392	5043	*	*	*	40
+       0	*	*	*	*	*	*	3084	0	0	
+
+D 41   3031	*	1995	1184	*	*	*	*	4478	*	*	4040	*	*	*	3625	*	*	*	*	41
+       0	*	*	*	*	*	*	3084	0	0	
+
+N 42   *	*	4517	*	*	*	4998	*	3442	*	*	630	*	*	4999	2685	*	*	*	*	42
+       0	*	*	*	*	*	*	3084	0	0	
+
+G 43   *	*	2719	*	4461	633	*	*	*	*	*	5043	*	*	*	4809	3442	*	*	*	43
+       0	*	*	*	*	*	*	3084	0	0	
+
+V 44   *	*	*	*	*	*	*	3300	*	997	*	*	*	*	*	4461	*	1506	*	*	44
+       609	1539	*	0	*	*	*	3084	2028	0	
+
+D 45   *	*	538	2898	*	*	*	*	*	*	*	3833	4809	4517	*	*	5179	*	*	*	45
+       67	4461	*	0	*	*	*	3084	1000	0	
+
+G 46   3531	*	4461	*	*	1140	*	*	*	1271	*	*	*	*	*	*	*	*	*	*	46
+       131	3531	*	1585	585	*	*	3084	1157	0	
+
+V 47   *	*	1979	1285	*	*	*	*	5438	*	*	3531	*	*	*	*	*	2142	*	*	47
+       0	*	*	*	*	*	*	3084	0	0	
+
+W 48   *	*	*	*	3795	*	*	*	*	*	*	*	*	*	*	*	*	*	108	*	48
+       56	4720	*	0	*	*	*	3044	1000	0	
+
+T 49   3537	*	*	*	4935	*	4027	*	*	*	*	*	*	*	*	1852	881	*	*	*	49
+       0	*	*	*	*	*	*	3044	0	0	
+
+Y 50   *	*	*	*	4297	*	*	*	*	4021	*	*	*	*	*	*	*	*	*	172	50
+       0	*	*	*	*	*	*	3044	0	0	
+
+D 51   4467	*	385	4027	*	*	*	*	3397	*	*	4935	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	3044	0	0	
+
+D 52   5139	*	1221	1864	*	*	*	*	*	*	*	*	2733	*	*	3497	5105	*	*	*	52
+       0	*	*	*	*	*	*	3044	0	0	
+
+A 53   929	*	2592	1834	*	*	*	*	*	*	*	*	*	*	*	5122	*	*	*	*	53
+       0	*	*	*	*	*	*	3044	0	0	
+
+T 54   4804	*	4027	*	*	*	*	4021	*	*	*	*	*	*	*	2659	550	*	*	*	54
+       0	*	*	*	*	*	*	3044	0	0	
+
+K 55   *	*	*	*	*	*	3795	*	651	4021	*	*	*	*	2572	*	*	*	*	4021	55
+       0	*	*	*	*	*	*	3044	0	0	
+
+T 56   5199	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4935	186	4027	*	*	56
+       0	*	*	*	*	*	*	3044	0	0	
+
+F 57   *	*	*	*	52	*	*	*	*	*	*	*	*	*	*	*	*	*	4824	*	57
+       0	*	*	*	*	*	*	3044	0	0	
+
+T 58   *	*	*	*	*	*	*	4720	*	*	*	*	*	*	*	*	168	3795	*	*	58
+       0	*	*	*	*	*	*	3044	0	0	
+
+V 59   1367	*	*	*	*	3314	*	*	*	*	*	*	*	*	*	*	*	966	*	*	59
+       0	*	*	*	*	*	*	2984	0	0	
+
+T 60   *	*	*	*	*	*	4837	5353	*	*	*	*	*	*	2251	3199	686	*	*	*	60
+       0	*	*	*	*	*	*	2791	0	0	
+
+E 61   *	*	2748	233	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	0	*	*	*	2791	0	0	
+
+//

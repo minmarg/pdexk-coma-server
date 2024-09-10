@@ -1,0 +1,157 @@
+HHsearch 1.5
+NAME  d1q90r_ f.23.12.1 (R:) ISP subunit from the cytochrome b6f complex, transmembrane anchor {Chlamydomonas reinhardtii [TaxId: 3055]}
+FAM   f.23.12.1
+FILE  d1q90r_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1q90r_.a3m -v 1 
+DATE  Tue Jan 22 00:58:19 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  61 out of 63 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+988863036889999999888998999988788751789
+>Consensus
+sxdVPDMgrRxxMNLLlxGaixxxxxgxlxpxxxfFvPP
+>d1q90r_ f.23.12.1 (R:) ISP subunit from the cytochrome b6f complex, transmembrane anchor {Chlamydomonas reinhardtii [TaxId: 3055]}
+SSEVPDMNKRNIMNLILAGGAGLPITTLALGYGAFFVPP
+>gi|68566162|sp|Q5CC93.1|UCRIA_CYAPA(65-103:239) RecName: Full=Cytochrome b6-f complex iron-sulfur subunit 1, cyanelle; AltName: Full=Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein 1; AltName: Full=Rieske iron-sulfur protein 1; Short=ISP 1; Short=RISP 1; Flags: Precursor >gi|60677361|emb|CAH04960.1| Rieske iron-sulphur protein [Cyanophora paradoxa]  E=5e-06 s/c=1.39 id=42% cov=103%
+SDDVPDMGKRKLMNLLLLGAIAGPVAGAGGPFVSFLVPP
+>gi|354567739|ref|ZP_08986907.1|(7-45:179) Cytochrome b6-f complex iron-sulfur subunit [Fischerella sp. JSC-11] >gi|353542197|gb|EHC11661.1| Cytochrome b6-f complex iron-sulfur subunit [Fischerella sp. JSC-11]  E=3e-05 s/c=1.32 id=32% cov=103%
+SMDVPDMGRRQFMNLLTFGTVTGVAAGVLFPVVKYFIPP
+>gi|219121191|ref|XP_002185824.1|(10-43:178) predicted protein [Phaeodactylum tricornutum CCAP 1055/1] >gi|209582673|gb|ACI65294.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1]  E=0.0007 s/c=1.39 id=34% cov=90%
+-----DDERRFLMNLLMVGAGAVTVGGFGIPYILFFVPP
+>gi|104641142|gb|ABF73013.1|(28-63:199) plastid cytochrome b6-f complex iron-sulfur subunit protein precursor [Karenia brevis]  E=2e-07 s/c=1.63 id=41% cov=95%
+---VADMQRRTILNLLTLGAVSVPYGWCLFGYISFFFPP
+>gi|428165086|gb|EKX34091.1|(58-92:228) plastid Reiske Fe-s protein [Guillardia theta CCMP2712]   E=0.0001 s/c=1.40 id=36% cov=92%
+---VPDMGRRQLMNALLLGSVSGPLLVLPAVLISYLVP-
+>gi|296087457|emb|CBI34046.3|(109-147:281) unnamed protein product [Vitis vinifera]   E=2e-09 s/c=1.67 id=45% cov=103%
+ANRVPDMGKRKLMNLLLLGVVSLPSAGMLIPYATFFAPP
+>gi|384252267|gb|EIE25743.1|(45-83:217) chloroplast cytochrome B6/F complex rieske iron-sulfur protein [Coccomyxa subellipsoidea C-169]  E=4e-08 s/c=1.55 id=52% cov=103%
+AEDVPDMQKRTTMNLLLLGAASLPIGYMAFGFVALLVPP
+>gi|428769369|ref|YP_007161159.1|(8-45:178) Cytochrome b6-f complex iron-sulfur subunit [Cyanobacterium aponinum PCC 10605] >gi|428683648|gb|AFZ53115.1| Cytochrome b6-f complex iron-sulfur subunit [Cyanobacterium aponinum PCC 10605]  E=3e-05 s/c=1.34 id=29% cov=97%
+--ESASMSRRNLLNFITGAAIAVTAGGVLYPVGKFFIPP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2487	*	*	*	*	*	*	*	*	*	*	*	*	*	*	283	*	*	*	*	1
+       0	*	*	*	*	*	*	2314	0	0	
+
+S 2    2615	*	3637	3836	*	3166	*	*	*	*	3779	3939	4126	*	*	1397	*	*	*	*	2
+       0	*	*	*	*	*	*	2362	0	0	
+
+E 3    *	*	702	1604	*	*	*	*	*	*	*	*	*	*	4147	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2407	0	0	
+
+V 4    5774	*	*	*	*	*	*	4995	*	*	*	*	*	*	*	4388	*	148	*	*	4
+       0	*	*	*	*	*	*	2667	0	0	
+
+P 5    3564	*	*	*	*	*	*	*	*	4457	*	*	201	*	*	*	*	*	*	*	5
+       34	5409	*	3000	193	*	*	2667	1000	0	
+
+D 6    *	*	239	*	*	4257	*	*	*	*	*	*	*	*	*	3314	*	*	*	*	6
+       0	*	*	*	*	*	*	2758	0	0	
+
+M 7    *	*	5261	*	*	*	*	5619	*	3671	302	*	*	3965	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2860	0	0	
+
+N 8    5475	*	5224	2952	*	797	*	*	*	*	*	3562	*	3533	*	4307	5345	*	*	*	8
+       0	*	*	*	*	*	*	2860	0	0	
+
+K 9    5716	*	*	*	*	*	*	*	1250	*	*	*	*	*	835	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2860	0	0	
+
+R 10   *	*	*	*	*	*	*	4805	*	*	*	*	*	*	53	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2860	0	0	
+
+N 11   *	*	4805	5794	5261	*	*	*	3218	*	*	2353	*	1135	*	5345	3144	5398	*	*	11
+       0	*	*	*	*	*	*	2860	0	0	
+
+I 12   5224	*	*	*	1603	*	*	3223	*	1246	*	*	*	*	*	*	4245	4001	*	*	12
+       0	*	*	*	*	*	*	2860	0	0	
+
+M 13   *	*	*	*	*	*	*	*	*	3170	170	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2860	0	0	
+
+N 14   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2860	0	0	
+
+L 15   4538	*	*	*	4498	*	*	*	*	244	*	*	*	*	*	5611	*	5373	5398	*	15
+       0	*	*	*	*	*	*	2860	0	0	
+
+I 16   *	*	*	*	*	*	*	2650	*	299	*	*	*	*	*	*	*	5160	*	*	16
+       0	*	*	*	*	*	*	2860	0	0	
+
+L 17   4890	*	*	*	*	*	*	*	*	791	3894	*	*	*	*	*	1869	5126	5742	*	17
+       0	*	*	*	*	*	*	2860	0	0	
+
+A 18   3795	*	*	*	2027	4143	*	*	*	1310	*	*	*	*	*	*	*	2365	5123	*	18
+       0	*	*	*	*	*	*	2860	0	0	
+
+G 19   4944	*	*	*	*	91	*	*	*	*	*	*	*	*	*	5123	*	*	*	*	19
+       0	*	*	*	*	*	*	2860	0	0	
+
+G 20   892	*	*	*	*	3694	*	*	*	*	*	*	*	*	*	2080	2953	5793	*	*	20
+       0	*	*	*	*	*	*	2860	0	0	
+
+A 21   2038	*	*	*	*	3845	*	1465	*	4313	*	*	*	*	*	*	*	1866	*	*	21
+       0	*	*	*	*	*	*	2855	0	0	
+
+G 22   2371	*	*	*	*	2146	*	*	*	*	*	*	*	*	*	1576	2027	*	*	*	22
+       0	*	*	*	*	*	*	2860	0	0	
+
+L 23   4254	*	*	*	*	1532	*	*	*	1432	*	*	*	*	*	*	5373	2272	*	*	23
+       0	*	*	*	*	*	*	2860	0	0	
+
+P 24   *	*	*	*	*	*	*	*	*	*	6069	5224	940	*	*	*	1628	3138	*	*	24
+       0	*	*	*	*	*	*	2860	0	0	
+
+I 25   1590	*	*	*	5457	5475	*	4366	*	4538	*	*	*	*	*	4926	2237	1964	*	5069	25
+       0	*	*	*	*	*	*	2860	0	0	
+
+T 26   2755	*	*	*	5674	2038	*	5964	*	1389	*	*	*	*	*	5579	3558	3555	*	*	26
+       0	*	*	*	*	*	*	2846	0	0	
+
+T 27   *	*	*	*	6433	534	*	6274	*	*	*	*	*	*	*	3660	4149	4501	4070	4453	27
+       0	*	*	*	*	*	0	2846	0	1000	
+
+L 28   2091	5042	*	*	4154	4122	*	*	*	1785	1928	*	*	*	*	6121	*	4214	*	*	28
+       0	*	*	*	*	*	0	2846	0	1000	
+
+A 29   2156	*	*	*	*	3560	*	5290	*	754	*	*	4501	*	*	*	*	5151	*	*	29
+       0	*	*	*	*	0	*	2846	0	1000	
+
+L 30   4538	*	*	*	3857	2531	*	3140	*	4149	*	*	*	*	*	*	*	2461	*	1460	30
+       0	*	*	*	*	*	*	2860	0	0	
+
+G 31   *	*	*	*	*	2436	*	*	*	*	*	*	373	*	*	*	*	4538	*	*	31
+       0	*	*	*	*	*	*	2860	0	0	
+
+Y 32   *	*	*	*	2610	*	*	4361	*	4176	*	*	*	*	*	*	*	1910	*	1101	32
+       0	*	*	*	*	*	*	2860	0	0	
+
+G 33   2138	*	*	*	*	2972	*	2184	*	4030	*	*	*	*	*	*	4563	1636	*	*	33
+       0	*	*	*	*	*	*	2860	0	0	
+
+A 34   2417	*	*	*	*	*	*	*	2423	4203	*	3819	*	4924	4142	2743	4112	5398	*	2469	34
+       0	*	*	*	*	*	*	2860	0	0	
+
+F 35   *	*	*	*	765	*	*	*	*	5127	*	*	*	*	*	*	*	*	*	1385	35
+       0	*	*	*	*	*	*	2860	0	0	
+
+F 36   *	*	*	*	307	*	*	*	*	2680	*	*	*	*	*	*	*	*	*	4805	36
+       0	*	*	*	*	*	*	2860	0	0	
+
+V 37   4530	*	*	*	5047	*	*	1838	*	6033	5118	*	*	*	*	*	*	730	*	*	37
+       0	*	*	*	*	*	*	2865	0	0	
+
+P 38   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2863	0	0	
+
+P 39   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	39
+       0	*	*	0	*	*	*	2719	0	0	
+
+//

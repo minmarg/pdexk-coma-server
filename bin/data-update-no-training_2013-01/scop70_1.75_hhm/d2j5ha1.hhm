@@ -1,0 +1,159 @@
+HHsearch 1.5
+NAME  d2j5ha1 g.3.11.7 (A:1-39) Cripto growth factor {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.3.11.7
+FILE  d2j5ha1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2j5ha1.a3m -v 1 
+DATE  Tue Jan 22 07:34:17 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCEEEECCCCCCCCCCCCCCCCC
+>ss_conf
+975777747761446666332016632003102378889
+>Consensus
+kxxCgsvpHxxWlpkkCsxCkCwxgxlhCFpqxFlpgcd
+>d2j5ha1 g.3.11.7 (A:1-39) Cripto growth factor {Mouse (Mus musculus) [TaxId: 10090]}
+KEHCGSILHGTWLPKKCSLCRCWHGQLHCLPQTFLPGCD
+>gi|345786977|ref|XP_851723.2|(104-142:179) PREDICTED: teratocarcinoma-derived growth factor 1 [Canis lupus familiaris]  E=2e-09 s/c=1.69 id=68% cov=103%
+KENCESVPHDTWLPKRCSMCKCWRGRLHCFRQTFLPGCD
+>gi|301763355|ref|XP_002917098.1|(112-150:187) PREDICTED: LOW QUALITY PROTEIN: putative teratocarcinoma-derived growth factor 2-like [Ailuropoda melanoleuca]  E=3e-10 s/c=1.75 id=65% cov=103%
+KENCKSVPHDTWLPKXCSMCXYWHSQLHCFPQXFLPGRD
+>gi|351695739|gb|EHA98657.1|(128-166:203) Teratocarcinoma-derived growth factor 1 [Heterocephalus glaber]   E=5e-10 s/c=1.74 id=69% cov=100%
+-QKCGSLPHGSWlLPRKCSMCRCWLGQIRCFPQTFLPGCD
+>gi|348505346|ref|XP_003440222.1|(998-1035:1067) PREDICTED: hypothetical protein LOC100710212 [Oreochromis niloticus]   E=1e-09 s/c=1.75 id=51% cov=100%
+-RNCGLILHGEWVQKGCSYCRCGYGTLHCFANVFHKDCD
+>gi|194221399|ref|XP_001495921.2|(194-232:269) PREDICTED: putative teratocarcinoma-derived growth factor 2-like [Equus caballus]  E=2e-12 s/c=1.94 id=72% cov=103%
+KENCGSVPHGTWLPRRCSMCKCWHGQLRCFPQAFLPGCD
+>gi|395843714|ref|XP_003794619.1|(106-143:181) PREDICTED: putative teratocarcinoma-derived growth factor 3-like [Otolemur garnettii]  E=8e-11 s/c=1.84 id=69% cov=100%
+KESCGAVPHDTWLPRKCSLCKCWRGQFRCFPQTFLPGC-
+>gi|345806859|ref|XP_003435510.1|(100-136:186) PREDICTED: LOW QUALITY PROTEIN: putative teratocarcinoma-derived growth factor 3-like [Canis lupus familiaris]  E=2e-08 s/c=1.69 id=66% cov=97%
+KEKYESVLHDTWLPKKCCICKCWHSQPHGFPQTFLPG--
+>gi|18859147|ref|NP_571167.1|(114-151:190) cryptic protein precursor [Danio rerio] >gi|2911368|gb|AAC04338.1| one-eyed pinhead long form protein [Danio rerio]  E=6e-08 s/c=1.60 id=51% cov=100%
+-RDCGVIPHGEWVQKGCSYCRCGYGLLHCFPHVFSKDCD
+>gi|148234498|ref|NP_001089135.1|(108-137:179) teratocarcinoma-derived growth factor 1 pseudogene 3 [Xenopus laevis] >gi|62362584|gb|AAX81598.1| CR3 short transcript variant [Xenopus laevis] >gi|83641933|emb|CAI15754.1| Cripto-3 short [Xenopus laevis] >gi|213623665|gb|AAI70053.1| CR3 short transcript variant [Xenopus laevis] >gi|213626406|gb|AAI69389.1| CR3 short transcript variant [Xenopus laevis]  E=4e-05 s/c=1.72 id=52% cov=79%
+-RKCGIVPHGHWVQKKCALCRCMYGTMHCFP--------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1433	0	0	
+
+E 2    *	*	*	883	*	*	*	*	4706	*	*	*	*	3302	1653	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1986	0	0	
+
+H 3    *	*	3499	*	*	*	3640	*	2002	*	*	1289	*	*	*	2535	*	*	*	*	3
+       0	*	*	*	*	*	*	1986	0	0	
+
+C 4    *	123	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3613	4
+       0	*	*	*	*	*	*	1986	0	0	
+
+G 5    *	*	*	2604	*	358	*	*	4176	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1986	0	0	
+
+S 6    4455	*	*	*	*	*	*	3909	*	2618	*	*	*	*	*	652	*	3499	*	*	6
+       0	*	*	*	*	*	*	1986	0	0	
+
+I 7    *	*	*	*	*	*	*	1765	*	4264	*	*	*	*	*	*	*	613	*	*	7
+       0	*	*	*	*	*	*	1986	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	2079	*	*	567	*	*	3505	*	*	*	*	8
+       0	*	*	*	*	*	*	1986	0	0	
+
+H 9    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1986	0	0	
+
+G 10   *	*	1235	*	*	798	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1986	0	0	
+
+T 11   3670	*	*	1992	*	*	3909	*	*	*	*	*	*	*	*	3302	994	*	*	*	11
+       0	*	*	*	*	*	*	1986	0	0	
+
+W 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	4490	*	*	*	66	*	12
+       77	4264	*	0	*	*	*	1986	1000	0	
+
+L 13   *	*	*	*	*	*	*	*	*	552	*	*	*	*	*	*	*	1653	*	*	13
+       0	*	*	*	*	*	*	1986	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	552	1653	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1986	0	0	
+
+K 15   *	*	*	*	*	*	*	*	600	*	*	*	*	*	1554	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1986	0	0	
+
+K 16   *	*	*	*	*	1959	*	*	802	*	*	*	*	*	2562	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1984	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1986	0	0	
+
+S 18   3909	3613	*	*	*	*	*	*	*	4342	*	*	*	*	*	318	*	*	*	*	18
+       0	*	*	*	*	*	*	1986	0	0	
+
+L 19   *	*	*	*	*	*	*	3024	*	2116	1340	*	*	*	*	*	*	*	*	1992	19
+       0	*	*	*	*	*	*	1986	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1986	0	0	
+
+R 21   *	*	*	*	*	*	*	*	903	*	*	*	*	*	1104	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1984	0	0	
+
+C 22   *	82	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4176	22
+       0	*	*	*	*	*	*	1986	0	0	
+
+W 23   *	*	*	*	*	1992	*	*	*	*	3909	*	*	*	*	*	*	*	552	*	23
+       0	*	*	*	*	*	*	1986	0	0	
+
+H 24   *	*	*	*	*	*	1137	*	*	3302	*	*	*	*	2988	*	*	*	*	1653	24
+       0	*	*	*	*	*	*	1986	0	0	
+
+G 25   *	*	*	*	*	213	*	*	*	*	*	*	*	*	*	2868	*	*	*	*	25
+       0	*	*	*	*	*	*	1986	0	0	
+
+Q 26   *	*	*	*	*	*	*	3505	*	3499	*	*	*	828	3594	*	2822	*	4794	*	26
+       0	*	*	*	*	*	*	1986	0	0	
+
+L 27   *	*	*	*	4455	*	*	3302	*	505	3909	*	3613	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1986	0	0	
+
+H 28   *	*	*	*	*	*	414	*	*	*	*	*	*	*	2004	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1986	0	0	
+
+C 29   *	123	*	*	*	3613	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1986	0	0	
+
+L 30   *	*	*	*	129	*	*	*	*	3543	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1986	0	0	
+
+P 31   2618	*	*	*	*	*	*	*	*	*	*	*	402	*	3635	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1986	0	0	
+
+Q 32   *	*	*	*	*	*	3394	*	*	*	*	2495	*	459	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1920	0	0	
+
+T 33   2766	*	*	*	*	*	*	3368	*	*	*	*	*	*	*	4386	933	2439	*	*	33
+       0	*	*	*	*	*	*	1904	0	0	
+
+F 34   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1920	0	0	
+
+L 35   *	*	*	*	*	*	2495	*	*	459	*	*	*	*	*	3394	*	*	*	*	35
+       0	*	*	*	*	*	*	1920	0	0	
+
+P 36   *	*	*	*	*	*	*	*	1875	*	*	*	459	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1920	0	0	
+
+G 37   *	*	1875	*	*	459	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1920	0	0	
+
+C 38   *	117	*	*	*	*	*	*	*	*	*	*	*	*	3678	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1849	0	0	
+
+D 39   *	*	120	3648	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	0	*	*	*	1840	0	0	
+
+//

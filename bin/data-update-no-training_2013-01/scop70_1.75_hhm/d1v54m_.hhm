@@ -1,0 +1,171 @@
+HHsearch 1.5
+NAME  d1v54m_ f.23.7.1 (M:) Mitochondrial cytochrome c oxidase subunit VIIIb (aka IX) {Cow (Bos taurus) [TaxId: 9913]}
+FAM   f.23.7.1
+FILE  d1v54m_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v54m_.a3m -v 1 
+DATE  Tue Jan 22 03:10:41 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  58 out of 60 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9988876645447899999999999972045686200331139
+>Consensus
+ixskPxkxxxxxxexaigltxxfxxfLxPaGWVLshLexYKks
+>d1v54m_ f.23.7.1 (M:) Mitochondrial cytochrome c oxidase subunit VIIIb (aka IX) {Cow (Bos taurus) [TaxId: 9913]}
+ITAKPAKTPTSPKEQAIGLSVTFLSFLLPAGWVLYHLDNYKKS
+>gi|225714930|gb|ACO13311.1|(27-68:70) Cytochrome c oxidase polypeptide VIII-heart, mitochondrial precursor [Esox lucius]  E=1e-05 s/c=1.27 id=44% cov=100%
+VYTRPAKEPVGPVESIIGLGMFSLAILGPSGWILANIENYKK-
+>gi|301761786|ref|XP_002916318.1|(26-67:69) PREDICTED: cytochrome c oxidase subunit 8A, mitochondrial-like [Ailuropoda melanoleuca]  E=2e-05 s/c=1.25 id=40% cov=100%
+IDSKLPWEQLGTMDVTTGLTSCFLCFFLSSGWVLPHLETYKK-
+>gi|334332580|ref|XP_001369178.2|(27-68:70) PREDICTED: cytochrome c oxidase subunit 8A, mitochondrial-like [Monodelphis domestica]  E=1e-09 s/c=1.57 id=42% cov=100%
+LHARPAREELSLGDKLIAMTTCFLCLLLPPGWILSHMDSYKK-
+>gi|301616466|ref|XP_002937678.1|(25-66:69) PREDICTED: cytochrome c oxidase subunit 8B, mitochondrial-like [Xenopus (Silurana) tropicalis]  E=2e-09 s/c=1.55 id=44% cov=100%
+IGHRPAKDALTPAEQSIAMVTMFVTFLVPSGWVLANMEDYKK-
+>gi|118117273|ref|XP_001235549.1|(25-66:68) PREDICTED: cytochrome c oxidase subunit 8A, mitochondrial [Gallus gallus]  E=1e-08 s/c=1.49 id=42% cov=100%
+IVSGPPQHPLGTAESVVGLLAMFVTCLGPAAWVLSHLEDYKK-
+>gi|224050634|ref|XP_002196313.1|(25-66:69) PREDICTED: hypothetical protein [Taeniopygia guttata]   E=5e-07 s/c=1.36 id=40% cov=100%
+LRSHPPEHILSGGEQAIALTLMFSSFLVPTAWVLSNIYNYRS-
+>gi|297488229|ref|XP_002696803.1|(122-163:164) PREDICTED: uncharacterized protein LOC100300759 [Bos taurus] >gi|296475246|gb|DAA17361.1| Cytochrome c oxidase subunit 8C, mitochondrial-like [Bos taurus]  E=5e-05 s/c=1.20 id=40% cov=98%
+-HLEPPRHrPVSTVEVAIALVVFFTAFLTPRGYVLSNLDQFRR-
+>gi|395503702|ref|XP_003756202.1|(322-358:359) PREDICTED: uncharacterized protein LOC100927040 [Sarcophilus harrisii]  E=0.0001 s/c=1.34 id=39% cov=88%
+-----PVEPVNAMETVFALAVIFSSHLIPCGWVLTHLESYRR-
+>gi|47213109|emb|CAF89529.1|(127-168:176) unnamed protein product [Tetraodon nigroviridis]   E=4e-07 s/c=1.37 id=30% cov=100%
+IYSKPPRNKIGAAQSFFVMSVFTVVMLAPAAWILHHLPEYRQ-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	716	*	3070	*	*	*	*	*	*	*	1878	*	*	1
+       0	*	*	*	*	*	*	3068	0	0	
+
+T 2    4893	*	4097	*	5193	5495	1715	*	*	*	*	*	*	*	4755	1877	3873	5524	*	2694	2
+       0	*	*	*	*	*	*	3128	0	0	
+
+A 3    2404	*	*	*	*	4515	3859	*	*	4480	*	*	*	*	*	957	2854	*	*	*	3
+       0	*	*	*	*	*	*	3160	0	0	
+
+K 4    *	*	*	4503	*	5591	4808	*	577	5725	4824	*	*	*	2816	4931	*	*	*	*	4
+       0	*	*	*	*	*	*	3165	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	3448	*	*	139	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3165	0	0	
+
+A 6    1064	*	*	*	*	4945	*	*	*	*	*	*	1031	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3196	0	0	
+
+K 7    *	*	5801	3401	*	*	*	*	1397	*	*	*	*	4519	1392	*	*	5117	4202	*	7
+       0	*	*	*	*	*	*	3196	0	0	
+
+T 8    *	*	3482	1722	*	6284	2320	*	4809	*	*	4078	*	5887	4945	4344	2450	5819	*	*	8
+       64	4535	*	0	*	*	*	3196	1000	0	
+
+P 9    4409	*	*	4148	*	*	4692	4922	2289	*	*	6230	1332	2612	*	4945	6181	*	*	*	9
+       0	*	*	*	*	*	*	3196	0	0	
+
+T 10   *	*	*	*	*	*	*	2372	*	1381	*	*	*	*	*	4945	2181	2558	*	*	10
+       0	*	*	*	*	*	*	3196	0	0	
+
+S 11   *	*	*	*	*	1008	*	*	*	*	*	5117	*	*	*	1304	3853	*	*	*	11
+       0	*	*	*	*	*	*	3196	0	0	
+
+P 12   1887	*	*	*	*	4922	*	4810	*	5561	*	4809	1807	*	*	4228	2231	4264	*	*	12
+       0	*	*	*	*	*	*	3196	0	0	
+
+K 13   2782	*	5837	*	5905	2110	*	*	6156	4058	1783	*	5585	*	*	*	4040	2811	*	*	13
+       0	*	*	*	*	*	*	3196	0	0	
+
+E 14   *	*	2010	641	*	*	*	*	*	*	*	*	*	3178	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3196	0	0	
+
+Q 15   4970	5427	*	*	*	*	*	3961	4684	4843	*	*	*	1404	*	2784	3315	2447	*	*	15
+       0	*	*	*	*	*	*	3196	0	0	
+
+A 16   897	*	*	*	4078	5837	*	4726	*	5561	*	*	*	*	*	5616	2694	2715	*	*	16
+       0	*	*	*	*	*	*	3196	0	0	
+
+I 17   5839	*	*	*	2812	*	*	1007	*	5096	5585	*	*	*	*	*	3526	2280	*	*	17
+       0	*	*	*	*	*	*	3196	0	0	
+
+G 18   1524	*	*	*	*	814	*	5096	*	*	*	*	*	*	*	*	*	4203	*	*	18
+       0	*	*	*	*	*	*	3196	0	0	
+
+L 19   *	*	*	*	4970	*	*	3756	*	531	2309	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3196	0	0	
+
+S 20   3912	5212	*	*	*	3864	*	*	*	5632	5361	*	*	*	*	1808	1220	3668	*	*	20
+       0	*	*	*	*	*	*	3196	0	0	
+
+V 21   3283	*	*	*	*	*	*	4733	*	3272	4197	*	*	*	*	1942	3571	1485	*	*	21
+       0	*	*	*	*	*	*	3196	0	0	
+
+T 22   *	1730	*	*	1858	*	*	2524	*	4241	2555	*	*	*	*	*	5277	*	*	*	22
+       0	*	*	*	*	*	*	3196	0	0	
+
+F 23   3816	*	*	*	495	*	*	5098	*	4970	5887	*	*	*	*	3676	4398	5966	*	*	23
+       0	*	*	*	*	*	*	3196	0	0	
+
+L 24   5850	*	*	*	5634	*	*	2916	*	1468	*	*	*	*	*	4016	3784	1581	*	*	24
+       0	*	*	*	*	*	*	3196	0	0	
+
+S 25   2371	2066	*	*	*	4367	4945	5905	*	*	*	*	*	*	*	2225	2143	5061	*	*	25
+       0	*	*	*	*	*	*	3196	0	0	
+
+F 26   4970	4626	*	*	907	*	5117	2221	*	3048	5061	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3196	0	0	
+
+L 27   *	*	*	*	3795	*	*	*	*	185	4367	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3196	0	0	
+
+L 28   3159	*	*	*	*	1887	*	4065	*	1775	*	*	*	*	*	*	4535	2167	*	*	28
+       0	*	*	*	*	*	*	3196	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	81	*	*	4202	*	*	*	*	29
+       0	*	*	*	*	*	*	3196	0	0	
+
+A 30   1258	5117	*	*	*	5585	*	*	*	*	*	*	3701	*	4535	1542	4922	*	4809	*	30
+       0	*	*	*	*	*	*	3196	0	0	
+
+G 31   3233	*	*	*	*	253	*	*	*	*	*	*	*	*	*	5734	*	4809	*	*	31
+       0	*	*	*	*	*	*	3196	0	0	
+
+W 32   *	4809	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	164	3803	32
+       0	*	*	*	*	*	*	3196	0	0	
+
+V 33   *	*	*	*	*	*	*	1296	*	*	*	*	*	*	*	*	*	754	*	*	33
+       0	*	*	*	*	*	*	3192	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	75	4308	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3197	0	0	
+
+Y 35   2460	*	*	*	*	*	3184	*	*	*	*	*	5130	*	*	829	3441	*	*	5355	35
+       0	*	*	*	*	*	*	3197	0	0	
+
+H 36   *	*	*	*	*	*	405	*	*	*	*	2331	*	*	4448	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3197	0	0	
+
+L 37   *	*	*	*	*	*	*	2819	*	402	3541	*	*	*	*	*	*	6023	*	*	37
+       0	*	*	*	*	*	*	3197	0	0	
+
+D 38   *	*	2550	638	*	*	5620	*	4429	*	*	*	3527	*	*	*	*	*	*	4915	38
+       0	*	*	*	*	*	*	3197	0	0	
+
+N 39   4962	*	2382	3527	*	5730	4293	*	*	*	*	2761	*	4532	*	1524	3627	*	*	*	39
+       0	*	*	*	*	*	*	3197	0	0	
+
+Y 40   *	*	*	*	4532	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64	40
+       0	*	*	*	*	*	*	3197	0	0	
+
+K 41   *	*	*	*	*	*	*	*	383	*	*	*	*	*	2099	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3197	0	0	
+
+K 42   *	*	*	*	*	*	*	*	585	*	*	*	*	4308	2229	3844	*	*	*	*	42
+       0	*	*	*	*	*	*	3124	0	0	
+
+S 43   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	43
+       0	*	*	0	*	*	*	1724	0	0	
+
+//

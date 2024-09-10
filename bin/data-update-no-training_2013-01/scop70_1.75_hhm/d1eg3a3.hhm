@@ -1,0 +1,154 @@
+HHsearch 1.5
+NAME  d1eg3a3 b.72.1.1 (A:47-84) Dystrophin {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.72.1.1
+FILE  d1eg3a3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1eg3a3.a3m -v 1 
+DATE  Mon Jan 21 20:04:56 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  35 out of 37 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCHHHHHHHHCCCCCHHCCCCCCCCEEECCCCCCCCCC
+>ss_conf
+95012243202453000246688965521683344279
+>Consensus
+PxSqxfLxxSVxxPWeRavsxnxvPYYINHxtetTxWD
+>d1eg3a3 b.72.1.1 (A:47-84) Dystrophin {Human (Homo sapiens) [TaxId: 9606]}
+PASQHFLSTSVQGPWERAISPNKVPYYINHETQTTCWD
+>gi|221103245|ref|XP_002162937.1|(2150-2184:2732) PREDICTED: similar to dystrophin Dp140ab [Hydra magnipapillata]   E=4e-05 s/c=1.46 id=61% cov=95%
+---QSQLQGSVSPPWERSCSLNKVPYYINHTTKVTQWD
+>gi|321478430|gb|EFX89387.1|(519-556:1182) hypothetical protein DAPPUDRAFT_190748 [Daphnia pulex]   E=1e-11 s/c=1.90 id=51% cov=103%
+PLLHSFLASSVDRPWERSVTEADVPYYVNHQTETTHWD
+>gi|156384081|ref|XP_001633160.1|(302-338:852) predicted protein [Nematostella vectensis] >gi|156220226|gb|EDO41097.1| predicted protein [Nematostella vectensis]  E=3e-11 s/c=1.92 id=61% cov=100%
+-GSIQALAASVDPPWERAVAVNKVPYYINHKTETTQWD
+>gi|390179605|ref|XP_002138082.2|(2804-2835:3413) GA30238, isoform A [Drosophila pseudoobscura pseudoobscura] >gi|388859914|gb|EDY68640.2| GA30238, isoform A [Drosophila pseudoobscura pseudoobscura]  E=5e-10 s/c=2.10 id=58% cov=87%
+------LGQSVKPPWERATTAANVPYYIDHERETTHWD
+>gi|194369350|gb|ACF58166.1|(142-180:185) dystrophin, partial [Meloidogyne arenaria] >gi|194369352|gb|ACF58167.1| dystrophin, partial [Meloidogyne arenaria] >gi|194369362|gb|ACF58172.1| dystrophin, partial [Meloidogyne incognita] >gi|194369364|gb|ACF58173.1| dystrophin, partial [Meloidogyne javanica]  E=3e-09 s/c=1.65 id=54% cov=103%
+PASENFLVDLVEPPWQRAIStTNRLPYYIDHSAEHTQWD
+>gi|196012461|ref|XP_002116093.1|(387-422:835) hypothetical protein TRIADDRAFT_30356 [Trichoplax adhaerens] >gi|190581416|gb|EDV21493.1| hypothetical protein TRIADDRAFT_30356 [Trichoplax adhaerens]  E=2e-07 s/c=1.62 id=43% cov=97%
+--SHHQSEVTSKPPWEKSLTVNNVPYYVNHEKKVTQWD
+>gi|17506447|ref|NP_492946.1|(3039-3077:3674) Protein DYS-1, isoform a [Caenorhabditis elegans] >gi|55584033|sp|Q9TW65.2|DMD_CAEEL RecName: Full=Dystrophin-1 >gi|14530423|emb|CAB61012.2| Protein DYS-1, isoform a [Caenorhabditis elegans]  E=4e-10 s/c=1.73 id=51% cov=103%
+PTSEHFLNQSVTLPWQRAISkSNLLPYYIEQTSEKTQWE
+>gi|358254851|dbj|GAA56475.1|(603-636:1773) dystrophin isoforms A/C/F/G/H [Clonorchis sinensis]   E=1e-07 s/c=1.73 id=58% cov=87%
+------LSDSVSPPWERCVhpSGTQVPYYKNHASQDTQWD
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2101	0	0	
+
+A 2    1773	*	*	5168	*	3149	*	*	*	3947	*	3451	3407	3705	*	2683	3575	*	*	*	2
+       0	*	*	*	*	*	*	2237	0	0	
+
+S 3    4472	*	*	*	*	*	*	*	*	4228	*	*	*	4024	*	251	*	*	*	*	3
+       0	*	*	*	*	*	*	2402	0	0	
+
+Q 4    *	*	*	2857	*	*	2264	4739	*	*	*	*	*	698	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2416	0	0	
+
+H 5    4975	*	*	*	*	4533	964	*	*	4480	*	3035	*	3360	*	2755	*	*	*	*	5
+       86	4112	*	2585	263	*	*	2416	1000	0	
+
+F 6    4771	*	*	*	447	*	*	*	*	3458	*	*	*	2846	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2358	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	142	*	*	*	*	*	3416	*	*	*	*	7
+       0	*	*	*	*	*	*	2391	0	0	
+
+S 8    3084	*	*	3161	*	5097	3831	*	*	*	5201	3126	*	5056	3573	1744	3922	4309	*	*	8
+       0	*	*	*	*	*	*	2421	0	0	
+
+T 9    2390	*	2801	*	*	2863	*	*	5332	*	*	4519	*	3300	*	3066	2709	3539	*	*	9
+       0	*	*	*	*	*	*	2415	0	0	
+
+S 10   *	*	*	*	*	*	*	*	*	4358	*	*	*	*	*	209	3539	*	*	*	10
+       0	*	*	*	*	*	*	2415	0	0	
+
+V 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3539	*	130	*	*	11
+       0	*	*	*	*	*	*	2415	0	0	
+
+Q 12   *	*	4322	1694	*	5079	*	*	2874	*	*	*	*	1728	5406	3717	3769	*	*	*	12
+       0	*	*	*	*	*	*	2415	0	0	
+
+G 13   4370	*	*	*	5811	3649	3958	5332	*	2681	*	*	1294	4634	5008	3409	*	4812	*	*	13
+       0	*	*	*	*	*	*	2415	0	0	
+
+P 14   4813	*	*	*	*	*	*	*	*	*	*	*	97	*	*	*	5091	*	*	*	14
+       0	*	*	*	*	*	*	2415	0	0	
+
+W 15   *	*	*	*	4552	*	*	*	*	5213	*	*	*	*	*	*	*	*	104	*	15
+       0	*	*	*	*	*	*	2415	0	0	
+
+E 16   *	*	*	598	*	*	*	*	4587	*	*	*	*	1748	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2415	0	0	
+
+R 17   *	*	*	*	*	*	*	*	3539	*	*	*	*	4552	199	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2415	0	0	
+
+A 18   746	4431	*	4587	*	4552	*	*	*	*	*	*	*	*	*	1873	*	*	*	*	18
+       0	*	*	*	*	*	*	2415	0	0	
+
+I 19   *	5074	*	*	*	*	*	1527	*	3245	*	*	*	*	*	*	3544	1210	*	*	19
+       110	3771	*	717	1353	*	*	2415	1330	0	
+
+S 20   2654	*	*	*	*	*	*	*	*	*	*	*	*	*	*	934	1654	*	*	*	20
+       270	2553	*	0	*	*	*	2415	1482	0	
+
+P 21   2798	*	*	3907	*	3105	3904	*	*	4446	*	*	1900	5843	*	3039	4358	3252	*	*	21
+       0	*	*	*	*	*	*	2415	0	0	
+
+N 22   2744	*	*	*	*	*	*	*	*	*	*	359	*	*	*	*	3818	*	*	*	22
+       0	*	*	*	*	*	*	2415	0	0	
+
+K 23   *	*	5008	*	*	*	4253	*	1087	3769	*	1975	*	3854	4358	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2415	0	0	
+
+V 24   *	*	*	*	*	*	*	*	*	2341	*	*	*	*	*	*	*	317	*	*	24
+       0	*	*	*	*	*	*	2415	0	0	
+
+P 25   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2415	0	0	
+
+Y 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	26
+       0	*	*	*	*	*	*	2415	0	0	
+
+Y 27   *	*	*	*	4847	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51	27
+       0	*	*	*	*	*	*	2415	0	0	
+
+I 28   *	*	*	*	*	*	*	257	4431	*	*	*	*	*	*	*	*	3094	*	*	28
+       0	*	*	*	*	*	*	2415	0	0	
+
+N 29   *	*	3699	3769	*	*	*	*	*	*	*	235	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2415	0	0	
+
+H 30   *	*	*	*	*	*	110	*	*	*	*	*	*	3769	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2415	0	0	
+
+E 31   4431	*	5290	1777	*	4847	*	5615	3379	*	*	5079	*	2069	*	3942	2918	5653	*	*	31
+       0	*	*	*	*	*	*	2415	0	0	
+
+T 32   3925	4587	*	*	*	5753	*	*	3539	5406	*	*	*	5346	3733	2358	1091	*	*	*	32
+       0	*	*	*	*	*	*	2415	0	0	
+
+Q 33   5079	*	*	856	*	*	*	*	2725	*	*	*	*	1907	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2415	0	0	
+
+T 34   *	*	4431	*	*	*	4358	*	3769	*	5217	5495	*	*	*	3293	953	2608	*	*	34
+       0	*	*	*	*	*	*	2415	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	35
+       0	*	*	*	*	*	*	2415	0	0	
+
+C 36   *	2182	*	*	*	*	1762	*	*	*	*	4587	*	1402	*	3945	*	*	*	*	36
+       0	*	*	*	*	*	*	2415	0	0	
+
+W 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	37
+       0	*	*	*	*	*	*	2415	0	0	
+
+D 38   *	*	110	3769	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	0	*	*	*	2415	0	0	
+
+//

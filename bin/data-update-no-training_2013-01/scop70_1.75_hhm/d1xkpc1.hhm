@@ -1,0 +1,433 @@
+HHsearch 1.5
+NAME  d1xkpc1 d.198.1.1 (C:2-127) Chaperone protein YscB {Yersinia pestis [TaxId: 632]}
+FAM   d.198.1.1
+FILE  d1xkpc1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xkpc1.a3m -v 1 
+DATE  Tue Jan 22 04:45:53 2013
+LENG  126 match states, 126 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CHHHHHHHHHCCCCCCCCCCCCEEEEEECCEEEEEEECCCEEEEEECCCCHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCEEEEECCCCEEEEEECCHHH
+CCHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9278899986155665668886378888371778753585679860246012022453228999999999998865078557871676543221025331
+03899999998999999999976259
+>Consensus
+qxllkxLAxtLGxgxFvadxqGxYxlxvDxxxLxlxqxxsxllxxTxLxxxxxxxxdxxxxqxLKxxmQxslkxxRxxpxxLtldxxxqLiLearlxlex
+ldxxxlxxxLsqHvxLlExxxxxLxx
+>d1xkpc1 d.198.1.1 (C:2-127) Chaperone protein YscB {Yersinia pestis [TaxId: 632]}
+QNLLKNLAASLGRKPFVADKQGVYRLTIDKHLVMLAPHGSELVLRTPIDAPMLREGNNVNVTLLRSLMQQALAWAKRYPQTLVLDDCGQLVLEARLRLQE
+LDTHGLQEVINKQLALLEHLIPQLTP
+>gi|91224448|ref|ZP_01259710.1|(5-126:142) putative type III export apparatus protein NosA [Vibrio alginolyticus 12G01] >gi|91190790|gb|EAS77057.1| putative type III export apparatus protein NosA [Vibrio alginolyticus 12G01] >gi|262284504|gb|ACY41041.1| VscB [Vibrio alginolyticus]  E=3e-20 s/c=0.83 id=21% cov=98%
+--MMKSLAEALKVGDFIASENGSYNIEVDQLSLTIKQHASWILWEATLPFQFKEHLDYQQEQALQRCMQLSLKTIREDGGVLTTNDDQQLILQSKVRVED
+CSVERFSALLSKHVNLCERYIALL--
+>gi|343501129|ref|ZP_08739011.1|(5-120:142) putative type III export apparatus protein NosA [Vibrio tubiashii ATCC 19109] >gi|342819006|gb|EGU53855.1| putative type III export apparatus protein NosA [Vibrio tubiashii ATCC 19109]  E=2e-18 s/c=0.82 id=20% cov=93%
+--IMKSLANTLEVRTFTPNENGIYEIEVDQFNVEVKQHSSWILWETELPFHFDKDLDYQSEQMLKRCMQLSLKTVRDGQETLTLNKEQRLVLQGKAPFDQ
+MSSVIFPSLLSQHVNMCE--------
+>gi|153832500|ref|ZP_01985167.1|(5-126:142) type III secretion system chaperone, YscB family [Vibrio harveyi HY01] >gi|148871295|gb|EDL70167.1| type III secretion system chaperone, YscB family [Vibrio harveyi HY01]  E=5e-40 s/c=1.37 id=23% cov=98%
+--MMKSLAATLGVGDFIASNNGSYDIEVDQMLLNIRQHSSWVLWETVLPFQFEQHLDYQKEQALKHCMQLSLKTLRDTCSTLTVNDNEQLIVQGKMNMES
+ATAEALCAQLSQHVNLVEQFSGVL--
+>gi|28898471|ref|NP_798076.1|(5-126:142) type III export apparatus protein NosA [Vibrio parahaemolyticus RIMD 2210633] >gi|153836279|ref|ZP_01988946.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AQ3810] >gi|260365086|ref|ZP_05777657.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus K5030] >gi|260879518|ref|ZP_05891873.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AN-5034] >gi|260895007|ref|ZP_05903503.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus Peru-466] >gi|260900980|ref|ZP_05909375.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AQ4037] >gi|28806689|dbj|BAC59960.1| putative type III export apparatus protein NosA [Vibrio parahaemolyticus RIMD 2210633] >gi|149750554|gb|EDM61299.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AQ3810] >gi|308085991|gb|EFO35686.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus Peru-466] >gi|308093398|gb|EFO43093.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AN-5034] >gi|308110834|gb|EFO48374.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus AQ4037] >gi|308111545|gb|EFO49085.1| type III secretion system chaperone, YscB family [Vibrio parahaemolyticus K5030]  E=2e-38 s/c=1.32 id=21% cov=98%
+--MMKSLAETLGIGPFIAGENGAYTIEVDQLTLTIKQHSSWILWETALPLRFNEHLDYQQEQALKRCMQLSLKTLRDTPSVLTTNADQQLILQGKAMIEN
+TSNDQFAELLAQHANVCERYMEML--
+>gi|312883862|ref|ZP_07743579.1|(5-126:142) hypothetical protein VIBC2010_01228 [Vibrio caribbenthicus ATCC BAA-2122] >gi|309368320|gb|EFP95855.1| hypothetical protein VIBC2010_01228 [Vibrio caribbenthicus ATCC BAA-2122]  E=6e-35 s/c=1.23 id=21% cov=98%
+--MMKSLAVTLGVEDFIASNNGSYDIEVDQMSLTIRKQSSWLVWETVLPFQFEQHLNYQQEQALKHCMQLSLKTLRNAQSTLTVDHNNQLMVQGKMSMVN
+AAQEEFYSQLSQHVNLVAQFSDLL--
+>gi|46398273|gb|AAS91827.1|(1-133:141) AscB [Aeromonas hydrophila]   E=9e-46 s/c=1.36 id=45% cov=101%
+QTLLNRLAATLGQGPFVADAQGKYHLRLDGYPLFLTQRSGELLLSTPLASSGTNAAATDDPVLLKRLLQQVVAWGRHTPHALVLDELGNLQLEARLALEW
+LDEQLLAERLSQHIALLEQLEPQLTE
+>gi|39545590|gb|AAR27897.1|(1-133:141) AscB [Aeromonas hydrophila]   E=3e-45 s/c=1.36 id=46% cov=101%
+QNLLNRLAEKLGQGPFVADVQGKYHLRLDGYPLFLLPRHNELLLSTPLASAVMSEGKSLDPALLKRLLQQVVAWGRHAPQALTLDELGNLQLEARLELDG
+LDEHQLEVFLSQHITLLERLEPQLNE
+>gi|27550051|gb|AAO18034.1|(1-132:140) LscB [Photorhabdus luminescens]   E=4e-42 s/c=1.30 id=39% cov=100%
+QTLLNHLASRLGQKPFVSDRQGHYHLHIDNYNLFLRQQGTELVLSSPLSWRH-NPKDPSGAELLKTLLQQVTRWGRHAPHALTLDESENLILEARLDLDS
+LDAQILEQMLTMHVDLLEQVMALLSE
+>gi|253988519|ref|YP_003039875.1|(2-126:140) type iii secretion component protein sctb [Photorhabdus asymbiotica] >gi|211637899|emb|CAR66528.1| type iii secretion component protein sctb [Photorhabdus asymbiotica subsp. asymbiotica ATCC 43949] >gi|253779969|emb|CAQ83130.1| type iii secretion component protein sctb [Photorhabdus asymbiotica]  E=1e-38 s/c=1.30 id=38% cov=100%
+QTLLNHLASRLGQKLFVPDRQGHYHLHIDNYNLFLRQQGTEFVLSSPLNWRHNLQ-DQTSTESLKILLQQVTRWGRYAPQAIVLDESENLILEARLAHDS
+LDVQILEQMIGIHIDLLEQVITLLSE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1935	0	0	
+
+N 2    *	*	*	*	*	*	*	*	*	*	*	1561	*	*	*	*	597	*	*	*	2
+       0	*	*	*	*	*	*	1935	0	0	
+
+L 3    *	*	*	*	*	*	*	3286	*	926	1429	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 4    *	*	*	*	*	*	*	*	*	926	1077	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 5    *	*	*	*	*	*	*	*	768	*	*	1276	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2905	0	0	
+
+N 6    *	*	*	*	*	*	2646	*	*	*	*	3143	*	*	1982	1077	*	*	*	*	6
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 9    1463	*	*	1769	*	*	*	*	*	*	*	3286	*	*	*	2646	*	3620	*	*	9
+       0	*	*	*	*	*	*	2905	0	0	
+
+S 10   3547	*	*	*	*	*	*	*	2935	*	*	3987	*	*	2646	3143	1160	*	*	*	10
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2905	0	0	
+
+G 12   *	*	*	3286	*	301	*	*	3547	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 13   *	*	*	*	*	*	*	3696	*	*	*	*	*	1276	3143	*	3900	1601	*	*	13
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 14   *	*	*	3620	*	881	*	*	1873	*	*	*	*	*	3286	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2905	0	0	
+
+P 15   *	*	2138	*	*	3900	*	*	*	3543	*	*	950	*	*	*	3286	*	*	*	15
+       0	*	*	*	*	*	*	2905	0	0	
+
+F 16   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 17   *	*	*	*	*	*	*	1445	*	*	*	*	*	*	*	*	3286	916	*	*	17
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 18   576	*	*	*	*	*	*	*	*	*	*	*	2409	*	*	2826	*	*	*	*	18
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 19   *	*	926	*	*	3696	*	*	*	*	*	3286	*	*	*	1765	*	*	*	*	19
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 20   3031	*	*	1915	*	*	*	*	2472	*	*	2820	*	*	2646	*	*	2935	*	*	20
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 21   *	*	*	*	*	*	*	*	*	*	*	1077	*	926	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2905	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 23   3696	*	*	*	*	*	2646	3286	1982	*	*	*	*	*	*	1765	*	3143	*	*	23
+       0	*	*	*	*	*	*	2905	0	0	
+
+Y 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	24
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 25   *	*	2261	3286	*	*	1276	*	*	*	*	3547	*	*	3143	*	3696	*	*	*	25
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 26   *	*	*	*	*	*	*	1077	*	926	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2905	0	0	
+
+T 27   *	*	*	1077	*	*	2646	*	*	*	*	*	*	*	1982	*	3143	*	*	*	27
+       0	*	*	*	*	*	*	2905	0	0	
+
+I 28   *	*	*	*	*	*	*	1573	*	2396	*	*	*	*	*	*	*	1077	*	*	28
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 30   *	*	*	*	*	1982	*	*	3143	*	*	2646	*	1077	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2905	0	0	
+
+H 31   *	*	*	*	3286	*	3143	*	*	2619	2261	*	*	*	*	*	*	*	*	1276	31
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	2056	*	1931	1982	*	*	2583	3696	*	*	*	32
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 33   *	*	*	*	*	*	*	*	*	351	*	*	*	*	*	*	*	2213	*	*	33
+       0	*	*	*	*	*	*	2905	0	0	
+
+M 34   *	*	*	3286	1276	*	*	*	*	*	3143	2974	*	*	*	*	2035	*	*	*	34
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 35   *	*	*	*	*	*	*	1429	*	926	*	*	*	*	*	*	*	3286	*	*	35
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 36   3143	*	*	*	*	*	*	*	1915	2935	*	*	*	*	1441	*	3031	*	*	*	36
+       0	*	*	*	*	*	*	2905	0	0	
+
+P 37   *	*	*	*	*	*	*	*	3620	*	*	*	1703	709	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2905	0	0	
+
+H 38   *	*	*	*	*	*	1189	*	*	*	*	*	*	1698	1982	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2905	0	0	
+
+G 39   3547	*	*	*	*	1873	3945	*	*	*	*	3987	3925	*	*	1160	*	*	*	*	39
+       0	*	*	*	*	*	*	2905	0	0	
+
+S 40   *	*	*	*	*	3031	*	*	*	*	*	2935	*	*	*	768	2646	*	*	*	40
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 41   *	*	*	926	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1077	*	41
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 42   *	*	*	*	3543	*	*	1915	*	939	*	*	*	*	*	*	*	2974	*	*	42
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 43   *	*	*	*	*	*	*	*	*	631	*	*	*	*	*	*	*	1497	*	*	43
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	1119	*	*	*	*	*	*	*	3925	1077	*	44
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 45   *	*	*	1077	*	*	*	*	*	*	*	*	*	*	3143	1276	*	*	*	*	45
+       0	*	*	*	*	*	*	2905	0	0	
+
+T 46   3547	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2646	406	*	*	*	46
+       0	*	*	*	*	*	*	2905	0	0	
+
+P 47   3696	*	*	3286	*	*	*	3900	*	*	*	*	926	*	*	*	3547	2820	*	*	47
+       0	*	*	*	*	*	*	2905	0	0	
+
+I 48   *	*	*	*	*	*	*	3143	*	173	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 49   1982	*	3143	*	*	*	*	*	*	*	*	3543	1077	*	*	3755	*	*	*	*	49
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 50   3143	*	*	*	1334	*	*	*	*	3696	*	*	*	*	*	1982	*	*	2646	*	50
+       0	*	*	*	*	*	*	2905	0	0	
+
+P 51   2935	*	*	*	*	*	3286	*	*	*	*	*	3143	1765	2077	3031	*	*	*	*	51
+       0	*	*	*	*	*	*	2905	0	0	
+
+M 52   3925	*	*	*	1077	4076	2646	*	*	*	3143	*	*	3987	*	*	*	3945	*	*	52
+       111	*	3755	*	*	*	*	2905	0	0	
+
+L 53   *	*	3250	2761	*	3814	*	*	3514	3060	3822	2380	*	*	3859	*	3937	3802	*	*	53
+       0	*	*	*	*	0	*	2876	0	1000	
+
+R 54   *	*	*	2619	*	*	*	*	3286	3543	*	2348	*	1865	3143	3945	*	*	*	*	54
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 55   4076	*	2594	2489	*	*	1716	*	*	*	*	*	2826	3543	3925	*	*	*	*	*	55
+       129	*	3543	*	*	*	*	2905	0	0	
+
+G 56   2276	*	*	*	*	2367	*	*	3301	1005	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	0	*	2838	0	1000	
+
+N 57   4076	*	856	3987	*	*	*	*	3945	*	*	2362	*	3925	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2905	0	0	
+
+N 58   3987	*	*	*	*	*	*	*	*	3925	*	3143	3755	3543	*	3945	4076	*	*	1077	58
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 59   *	*	4076	*	*	*	3987	*	*	2935	*	*	*	1077	*	3755	3543	3143	*	*	59
+       0	*	*	*	*	*	*	2905	0	0	
+
+N 60   *	*	2417	3925	*	3755	*	*	2974	*	*	3143	*	2035	*	2409	*	*	*	*	60
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 61   3755	*	*	1077	*	*	*	*	*	*	*	*	1982	*	*	*	3543	3143	*	*	61
+       0	*	*	*	*	*	*	2905	0	0	
+
+T 62   2966	*	*	2646	*	*	*	*	*	*	*	*	*	1077	*	3925	3143	4076	*	*	62
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 63   1429	*	*	*	*	*	*	*	*	1183	3286	*	*	*	*	3543	*	*	*	*	63
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 64   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 65   *	*	*	*	*	*	*	*	320	*	*	*	*	3547	3143	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2905	0	0	
+
+S 66   *	*	*	*	*	*	2820	3543	*	*	*	*	*	*	945	2481	3755	*	*	*	66
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 67   *	1077	*	*	*	*	*	*	*	926	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2905	0	0	
+
+M 68   *	*	*	*	*	*	*	*	*	1276	768	*	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 69   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 70   *	*	*	*	*	*	*	*	*	1077	*	*	*	926	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 71   2481	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1077	*	1527	*	*	71
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 72   *	*	*	*	*	*	*	*	*	768	*	*	*	*	*	*	2646	1982	*	*	72
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 73   1721	*	*	*	*	*	*	*	1077	*	*	*	*	*	2646	*	*	3987	*	*	73
+       0	*	*	*	*	*	*	2905	0	0	
+
+W 74   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1077	*	926	*	74
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 75   2481	*	*	*	*	1527	*	3547	*	1807	*	*	*	*	*	*	*	3286	*	*	75
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 76   *	*	*	*	*	*	*	*	3143	*	*	*	*	*	173	*	*	*	*	*	76
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 77   *	*	1704	3547	*	*	1612	*	*	*	*	3620	*	*	3143	*	*	*	*	3543	77
+       0	*	*	*	*	*	*	2905	0	0	
+
+Y 78   1201	*	3547	*	*	3286	*	*	*	*	*	*	*	*	*	*	1923	*	*	3143	78
+       0	*	*	*	*	*	*	2905	0	0	
+
+P 79   *	4052	*	*	*	3547	*	*	3900	*	*	*	729	2443	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 80   *	*	*	3286	*	3547	2348	*	*	*	*	*	*	1600	*	1807	*	*	*	*	80
+       0	*	*	*	*	*	*	2905	0	0	
+
+T 81   1276	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1237	2619	*	*	81
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 82   *	*	*	*	*	*	*	3543	*	129	*	*	*	*	*	*	*	*	*	*	82
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 83   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	706	1369	*	*	83
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 84   *	*	*	*	*	*	*	*	*	670	*	*	*	*	*	*	2619	2261	*	*	84
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 85   *	*	719	*	*	*	*	*	*	*	*	1349	*	*	*	*	*	*	*	*	85
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 86   3696	*	1362	1515	*	*	3620	*	3286	*	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	2905	0	0	
+
+C 87   *	3143	2619	3286	*	*	*	*	*	1982	*	2820	*	3900	*	2646	*	*	*	*	87
+       0	*	*	*	*	*	*	2905	0	0	
+
+G 88   *	*	*	1801	*	1449	*	*	*	*	*	3620	*	1915	*	*	*	*	*	*	88
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 89   *	*	*	*	*	*	*	*	*	*	*	1276	*	1045	3286	*	*	*	*	*	89
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 90   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 91   *	*	*	*	*	*	*	1153	*	*	3620	*	*	1982	*	*	*	2213	*	*	91
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 92   *	*	*	*	*	*	*	*	*	338	*	*	*	*	*	*	*	2261	*	*	92
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 93   *	*	*	926	*	*	*	*	*	*	*	*	*	1077	*	*	*	*	*	*	93
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 94   926	*	*	*	*	1365	*	*	*	*	*	*	*	*	*	3547	*	*	*	*	94
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 95   *	*	*	*	*	*	*	*	1077	*	*	*	*	*	926	*	*	*	*	*	95
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 96   2476	*	*	*	*	*	*	*	*	926	2261	*	*	*	*	*	*	3547	*	*	96
+       0	*	*	*	*	*	*	2905	0	0	
+
+R 97   1868	*	3755	3945	*	*	*	*	*	*	3696	2974	3286	*	2331	3620	*	*	*	*	97
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 98   *	*	*	*	3286	*	3543	3696	*	1183	2261	*	*	*	*	*	*	3547	*	*	98
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 99   *	*	1612	1064	*	*	*	*	*	*	*	*	*	3143	*	*	*	3620	*	*	99
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 100  *	*	3547	3143	*	3945	*	*	*	*	*	2657	*	3286	*	2184	3900	*	2410	*	100
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 101  2820	3547	*	*	*	*	*	*	*	926	3286	*	*	*	*	*	2794	*	*	*	101
+       0	*	*	*	*	*	*	2905	0	0	
+
+D 102  3620	*	926	*	*	*	*	*	*	*	*	*	*	*	*	1915	2974	*	*	*	102
+       0	*	*	*	*	*	*	2905	0	0	
+
+T 103  2896	*	*	1982	*	*	*	*	*	*	*	3696	*	3620	*	3286	2472	2545	*	*	103
+       0	*	*	*	*	*	*	2905	0	0	
+
+H 104  3987	*	3696	1765	*	*	2035	*	*	*	*	*	*	2190	*	*	*	3286	*	*	104
+       0	*	*	*	*	*	*	2905	0	0	
+
+G 105  2974	*	*	3620	*	3143	*	1931	*	3031	*	*	*	2266	3547	*	*	*	*	*	105
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 106  *	*	*	*	1529	*	*	*	*	614	*	*	*	*	*	*	*	*	*	*	106
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 107  2325	2974	*	1783	*	*	*	*	*	*	*	*	3286	3143	*	3547	*	*	*	3620	107
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 108  1843	*	*	1677	*	*	*	*	*	*	*	*	*	2646	*	2443	*	3945	*	*	108
+       0	*	*	*	*	*	*	2905	0	0	
+
+V 109  *	*	*	3900	3945	*	3925	*	*	1915	2646	*	*	2820	3031	*	*	3143	*	*	109
+       0	*	*	*	*	*	*	2905	0	0	
+
+I 110  *	*	*	*	*	*	*	2329	*	320	*	*	*	*	*	*	*	*	*	*	110
+       0	*	*	*	*	*	*	2905	0	0	
+
+N 111  3696	*	*	*	*	3543	*	*	*	*	*	3143	*	*	*	622	3755	*	*	*	111
+       0	*	*	*	*	*	*	2905	0	0	
+
+K 112  *	*	*	*	*	*	*	3543	1912	*	3755	*	*	800	*	*	*	*	*	*	112
+       0	*	*	*	*	*	*	2905	0	0	
+
+Q 113  *	*	*	*	*	*	173	*	*	*	*	*	*	3143	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 114  3696	*	*	*	*	*	*	1561	*	3143	*	*	*	*	*	*	*	1087	*	*	114
+       0	*	*	*	*	*	*	2905	0	0	
+
+A 115  1730	*	2646	*	*	*	*	*	*	*	*	1077	*	*	*	*	3945	*	*	*	115
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 116  *	*	*	*	*	*	*	*	*	286	3286	*	*	*	*	*	*	3696	*	*	116
+       0	*	*	*	*	*	*	2905	0	0	
+
+L 117  *	1915	*	*	*	*	*	*	*	926	*	*	*	*	*	*	*	2261	*	*	117
+       0	*	*	*	*	*	*	2905	0	0	
+
+E 118  3620	*	*	122	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	118
+       0	*	*	*	*	*	*	2905	0	0	
+
+H 119  *	*	*	*	*	*	2967	*	*	*	*	*	*	1166	1229	*	*	*	*	*	119
+       0	*	*	*	*	*	*	2768	0	0	
+
+L 120  *	*	*	*	2337	*	*	*	*	1298	*	*	*	*	*	*	*	2460	*	2226	120
+       0	*	*	*	*	*	*	2768	0	0	
+
+I 121  *	*	*	1843	*	*	*	1582	*	*	2401	*	*	*	*	2337	*	*	*	*	121
+       0	*	*	*	*	*	*	2768	0	0	
+
+P 122  2371	*	3238	3253	*	3443	*	*	*	*	*	*	1298	*	*	*	3362	*	*	*	122
+       0	*	*	*	*	*	*	2768	0	0	
+
+Q 123  *	*	*	*	*	*	*	*	*	1335	3253	*	*	1298	*	*	*	3443	*	*	123
+       0	*	*	*	*	*	*	2768	0	0	
+
+L 124  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	124
+       0	*	*	*	*	*	*	2768	0	0	
+
+T 125  *	*	*	*	*	*	*	*	*	*	*	2040	*	*	*	1723	1139	*	*	*	125
+       0	*	*	*	*	*	*	1935	0	0	
+
+P 126  *	*	*	354	*	*	*	*	*	*	*	*	2199	*	*	*	*	*	*	*	126
+       0	*	*	0	*	*	*	1935	0	0	
+
+//

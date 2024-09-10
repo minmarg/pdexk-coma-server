@@ -1,0 +1,121 @@
+HHsearch 1.5
+NAME  d1d0gr3 g.24.1.1 (R:102-128) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.1
+FILE  d1d0gr3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1d0gr3.a3m -v 1 
+DATE  Mon Jan 21 19:45:30 2013
+LENG  27 match states, 27 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCCCCCCEECCCCCCCCCCEECCC
+>ss_conf
+976768754166135785243012049
+>Consensus
+kcxtgcpxgmvkvxdctpwsdixcvhk
+>d1d0gr3 g.24.1.1 (R:102-128) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+KCRTGCPRGMVKVGDCTPWSDIECVHK
+>gi|332247669|ref|XP_003272983.1|(807-833:1102) PREDICTED: hypothetical protein LOC100595767 [Nomascus leucogenys]   E=3e-07 s/c=2.16 id=89% cov=104%
+KCRTGCPRGMVKVSDCTPWSDIECDHK
+>gi|390473596|ref|XP_003734627.1|(194-220:453) PREDICTED: LOW QUALITY PROTEIN: tumor necrosis factor receptor superfamily member 10B [Callithrix jacchus]  E=1e-05 s/c=1.96 id=82% cov=104%
+KCSTGCPSGMVKVRDCTPWSDIKCVHK
+>gi|390473592|ref|XP_003734625.1|(317-343:652) PREDICTED: uncharacterized protein LOC100894234 [Callithrix jacchus]  E=5e-05 s/c=1.88 id=81% cov=96%
+KCHTGCPRGMVKVSDCTPWSDIKCI--
+>gi|109085878|ref|XP_001107922.1|(156-179:382) PREDICTED: tumor necrosis factor receptor superfamily member 10D [Macaca mulatta]  E=0.0001 s/c=2.07 id=80% cov=93%
+KCSTGCPRGMIKVSDCTPWSDINC---
+>gi|332247539|ref|XP_003272916.1|(206-232:471) PREDICTED: tumor necrosis factor receptor superfamily member 10A [Nomascus leucogenys]  E=3e-07 s/c=2.17 id=89% cov=104%
+KCSTGCPRGMVKVKDCTPWSDIECVHK
+>gi|403292494|ref|XP_003937282.1|(194-220:452) PREDICTED: tumor necrosis factor receptor superfamily member 10B [Saimiri boliviensis boliviensis]  E=7e-07 s/c=2.11 id=75% cov=104%
+KCSTGCPSGMVLVSNCTPWSDIKCVHK
+>gi|390473594|ref|XP_003734626.1|(156-180:465) PREDICTED: LOW QUALITY PROTEIN: tumor necrosis factor receptor superfamily member 10D [Callithrix jacchus]  E=0.0007 s/c=1.89 id=69% cov=96%
+KCHTGCPRGMIKVRDCTYWSEIKCI--
+>gi|297682470|ref|XP_002818945.1|(474-497:703) PREDICTED: tumor necrosis factor receptor superfamily member 10D-like [Pongo abelii]  E=5e-05 s/c=2.13 id=80% cov=93%
+KCRTECPKGMVKVSDCTPWSDINC---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1321	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1321	0	0	
+
+R 3    *	*	*	*	*	*	2069	*	*	*	*	*	*	*	1627	1191	*	*	*	*	3
+       0	*	*	*	*	*	*	1321	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	4
+       0	*	*	*	*	*	*	1321	0	0	
+
+G 5    *	*	*	2982	*	195	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1321	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1321	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1321	0	0	
+
+R 8    *	*	*	*	*	*	*	*	2982	*	*	*	*	*	643	2101	*	*	*	*	8
+       0	*	*	*	*	*	*	1321	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1321	0	0	
+
+M 10   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1321	0	0	
+
+V 11   *	*	*	*	*	*	*	2025	*	*	*	*	*	*	*	*	*	407	*	*	11
+       0	*	*	*	*	*	*	1321	0	0	
+
+K 12   *	*	*	*	*	*	*	*	206	2908	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1321	0	0	
+
+V 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	13
+       0	*	*	*	*	*	*	1321	0	0	
+
+G 14   *	*	*	*	*	3282	*	*	3298	*	*	*	*	*	2044	855	*	*	*	*	14
+       0	*	*	*	*	*	*	1321	0	0	
+
+D 15   *	*	206	*	*	*	*	*	*	*	*	2908	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1321	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1321	0	0	
+
+T 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	17
+       0	*	*	*	*	*	*	1321	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	222	*	*	*	*	*	*	2809	18
+       0	*	*	*	*	*	*	1321	0	0	
+
+W 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	19
+       0	*	*	*	*	*	*	1321	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	20
+       0	*	*	*	*	*	*	1321	0	0	
+
+D 21   *	*	222	2809	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1321	0	0	
+
+I 22   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1321	0	0	
+
+E 23   *	*	*	1742	*	*	*	*	1085	*	*	2122	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1321	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1321	0	0	
+
+V 25   *	*	2874	*	*	*	*	1700	*	*	*	*	*	*	*	*	*	847	*	*	25
+       0	*	*	*	*	*	*	1317	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1199	0	0	
+
+K 27   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	0	*	*	*	1199	0	0	
+
+//

@@ -1,0 +1,125 @@
+HHsearch 1.5
+NAME  d1v7fa_ g.3.6.2 (A:) Phrixotoxin 1 (PaTX1) {Chilean copper tarantula (Phrixotrichus auratus) [TaxId: 269635]}
+FAM   g.3.6.2
+FILE  d1v7fa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v7fa_.a3m -v 1 
+DATE  Tue Jan 22 03:20:37 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHHHHHHHHCCCC
+>ss_conf
+97652333442001231125334320269
+>Consensus
+ycqkwmwtcdsxrkccegxvcxlwckkxi
+>d1v7fa_ g.3.6.2 (A:) Phrixotoxin 1 (PaTX1) {Chilean copper tarantula (Phrixotrichus auratus) [TaxId: 269635]}
+YCQKWMWTCDSARKCCEGLVCRLWCKKII
+>gi|363548389|sp|P61409.2|AF2_GRARO(51-79:81) RecName: Full=Kappa-theraphotoxin-Gr2c; Short=Kappa-TRTX-Gr2c; AltName: Full=GsAF II; Short=GsAFII; AltName: Full=Mechanotoxin-alpha; Flags: Precursor >gi|342305996|dbj|BAK55734.1| GsAFII [Grammostola rosea]  E=4e-07 s/c=2.01 id=87% cov=103%
+YCQKWMWTCDEERKCCEGLVCRLWCKKKI
+>gi|41017287|sp|P60273.1|MTX2_GRARO(1-29:31) RecName: Full=Kappa-theraphotoxin-Gr2a; Short=Kappa-TRTX-Gr2a; AltName: Full=Toxin GsMTx-2; Short=MTx2 >gi|47117375|sp|P61231.1|TXP2_PARSR RecName: Full=Kappa-theraphotoxin-Ps1b; Short=Kappa-TRTX-Ps1b; AltName: Full=PaTX2; AltName: Full=Phrixotoxin-2 >gi|22219300|pdb|1LUP|A Chain A, Solution Structure Of A Toxin (Gsmtx2) From The Tarantula, Grammostola Spatulata, Which Inhibits Mechanosensitive Ion Channels  E=9e-07 s/c=1.95 id=87% cov=103%
+YCQKWMWTCDEERKCCEGLVCRLWCKRII
+>gi|118572485|sp|Q2PAY4.1|JZTX5_CHIJI(54-82:83) RecName: Full=Beta-theraphotoxin-Cj2a; Short=Beta-TRTX-Cj2a; AltName: Full=Jingzhaotoxin-5; AltName: Full=Jingzhaotoxin-V; Short=JZTX-V; AltName: Full=Peptide F8-15.73; Flags: Precursor >gi|84618291|emb|CAJ21615.1| jingzhaotoxin-V precursor [Chilobrachys guangxiensis]  E=2e-06 s/c=1.91 id=80% cov=103%
+YCQKWMWTCDSKRACCEGLRCKLWCRKII
+>gi|25091451|sp|P83476.1|TXPR2_THRPR(1-29:30) RecName: Full=Beta/omega-theraphotoxin-Tp2a; Short=Beta/omega-TRTX-Tp2a; AltName: Full=ProTx-II; Short=PT-II; AltName: Full=Protoxin-2; Short=ProTx-2; Short=ProTx2  E=5e-06 s/c=1.87 id=83% cov=103%
+YCQKWMWTCDSERKCCEGMVCRLWCKKKL
+>gi|380692222|dbj|BAL72758.1|(51-77:80) beta-theraphotoxin [Grammostola rosea]   E=6e-06 s/c=2.00 id=82% cov=97%
+YCQKWMWTCDSKRKCCEDMVCQLWCKK--
+>gi|306526219|sp|P0C5X7.2|JZT45_CHIJI(54-79:83) RecName: Full=Kappa-theraphotoxin-Cj2a; Short=Kappa-TRTX-Cj2a; AltName: Full=Jingzhaotoxin-12; AltName: Full=Jingzhaotoxin-45; Short=JZTX-45; AltName: Full=Jingzhaotoxin-XII; Short=JZTX-XII; AltName: Full=Peptide F4-20.99; Flags: Precursor >gi|165905946|gb|ABY71665.1| cystine knot toxin [Chilobrachys guangxiensis]  E=9e-06 s/c=2.06 id=85% cov=93%
+YCQKWMWTCDSERKCCEGYVCELWCK---
+>gi|47605359|sp|P61408.1|AF1_GRARO(1-29:29) RecName: Full=Beta-theraphotoxin-Gr1b; Short=Beta-TRTX-Gr1b; AltName: Full=GsAF 1; AltName: Full=GsAF I; Short=GsAFI  E=4e-05 s/c=1.77 id=77% cov=103%
+YCQKWLWTCDSERKCCEDMVCRLWCKKRL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Y 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	1
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1254	0	0	
+
+Q 3    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1254	0	0	
+
+K 4    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1254	0	0	
+
+W 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	5
+       0	*	*	*	*	*	*	1254	0	0	
+
+M 6    *	*	*	*	*	*	*	*	*	2935	202	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1254	0	0	
+
+W 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	7
+       0	*	*	*	*	*	*	1254	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	8
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1254	0	0	
+
+D 10   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1254	0	0	
+
+S 11   *	*	*	2143	*	*	*	*	*	*	*	*	*	*	*	370	*	*	*	*	11
+       0	*	*	*	*	*	*	1254	0	0	
+
+A 12   3094	*	*	763	*	*	*	*	1768	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1254	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1254	0	0	
+
+K 14   2575	*	*	*	*	*	*	*	265	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1254	0	0	
+
+E 17   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1254	0	0	
+
+G 18   *	*	1962	*	*	428	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1254	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	968	1456	*	*	*	*	*	*	*	*	3010	19
+       0	*	*	*	*	*	*	1254	0	0	
+
+V 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2575	*	*	265	*	*	20
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1254	0	0	
+
+R 22   *	*	*	3010	*	*	*	*	2575	*	*	*	*	2990	780	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1254	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1254	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	24
+       0	*	*	*	*	*	*	1254	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1254	0	0	
+
+K 26   *	*	*	*	*	*	*	*	265	*	*	*	*	*	2575	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1254	0	0	
+
+K 27   *	*	*	*	*	*	*	*	224	*	*	*	*	*	2796	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1246	0	0	
+
+I 28   *	*	*	*	*	*	*	958	1738	*	*	*	*	*	2432	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1283	0	0	
+
+I 29   *	*	*	*	*	*	*	594	*	1568	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1283	0	0	
+
+//

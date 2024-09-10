@@ -1,0 +1,39 @@
+<html t:type="layout" title="Wait"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+      <head>
+        <META HTTP-EQUIV="REFRESH" CONTENT="${timer}"/>
+      </head>
+        <!-- Most of the page content, including <head>, <body>, etc. tags, comes from Layout.tml -->
+        
+        <div class="header">
+            Waiting... Next refresh after ${timer} seconds
+        </div>
+        
+        <table>
+            <tr>
+                <td colspan="2">
+                    Your job is in process. The results of your job will appear in this browser window! 
+                </td>
+            </tr>
+            <t:if t:test="job.description">
+                <tr>
+	                <td>
+	                    Description
+	                </td>
+	                <td>
+	                    ${job.description}
+	                </td>
+                </tr>
+            </t:if>
+            <tr>
+                <td>
+                    Status
+                </td>
+                <td>
+                    <b>${job.status}</b>
+                </td>
+            </tr>
+        </table>
+        
+</html>

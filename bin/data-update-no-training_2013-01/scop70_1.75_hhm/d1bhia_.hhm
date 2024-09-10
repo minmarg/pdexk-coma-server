@@ -1,0 +1,156 @@
+HHsearch 1.5
+NAME  d1bhia_ g.37.1.1 (A:) Transactivation domain of cre-bp1/atf-2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1bhia_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bhia_.a3m -v 1 
+DATE  Mon Jan 21 18:53:24 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCCCEECCCCCCCCCCCHHHHHHHHHHHHEEECCC
+>ss_conf
+98898613168888750467467887643210010049
+>Consensus
+mxddkPFxCxxxgCxxxFtneDhLxvHkxKHxmxLkxg
+>d1bhia_ g.37.1.1 (A:) Transactivation domain of cre-bp1/atf-2 {Human (Homo sapiens) [TaxId: 9606]}
+MSDDKPFLCTAPGCGQRFTNEDHLAVHKHKHEMTLKFG
+>gi|301607678|ref|XP_002933437.1|(28-65:526) PREDICTED: cyclic AMP-responsive element-binding protein 5-like [Xenopus (Silurana) tropicalis]  E=2e-07 s/c=1.56 id=59% cov=103%
+LEQDRSFVCNAPGCSQHFQSEDHLMIHRHKHEMTLKFA
+>gi|379698875|ref|NP_001243910.1|(2-39:377) atf2 [Bombyx mori] >gi|304421426|gb|ADM32512.1| atf2 [Bombyx mori]  E=4e-10 s/c=1.77 id=54% cov=103%
+VEPEKPFACTMPDCGMTFTNEDHLQLHTKKHDMMLQLG
+>gi|321463473|gb|EFX74489.1|(2-37:548) hypothetical protein DAPPUDRAFT_324326 [Daphnia pulex]   E=1e-09 s/c=1.83 id=57% cov=92%
+VDDEKPFPCSSPGCSMRFANEDHLSIHKKRH-MSL---
+>gi|196013572|ref|XP_002116647.1|(5-39:414) hypothetical protein TRIADDRAFT_60644 [Trichoplax adhaerens] >gi|190580923|gb|EDV21003.1| hypothetical protein TRIADDRAFT_60644 [Trichoplax adhaerens]  E=6e-09 s/c=1.81 id=53% cov=95%
+--DDKPFQCPIEGCKESFTNMDHLEVHQKRHTSNLKI-
+>gi|307183546|gb|EFN70303.1|(1-39:418) Cyclic AMP-dependent transcription factor ATF-2 [Camponotus floridanus]  E=1e-08 s/c=1.60 id=54% cov=103%
+MTDtEKLFACSTSGCNMSFTNEDQLIVHKKKHDMMLNLG
+>gi|157135176|ref|XP_001656558.1|(5-38:404) hypothetical protein AaeL_AAEL013261 [Aedes aegypti] >gi|108870288|gb|EAT34513.1| AAEL013261-PA [Aedes aegypti]  E=3e-07 s/c=1.70 id=49% cov=92%
+---ERPFPCKLDGCRLSFTTEDHLNVHRKKHDMLLNL-
+>gi|91085771|ref|XP_974257.1|(1-39:347) PREDICTED: similar to Cyclic AMP-dependent transcription factor ATF-2 (Activating transcription factor 2) (cAMP response element-binding protein CRE-BP1) (HB16) [Tribolium castaneum] >gi|270010124|gb|EFA06572.1| hypothetical protein TcasGA2_TC009483 [Tribolium castaneum]  E=4e-07 s/c=1.47 id=54% cov=103%
+MNDgQKPFACTIAGCEMTFANEDHLNWHHKKHDMVLNLG
+>gi|241613935|ref|XP_002407471.1|(34-73:534) cyclic-AMP-dependent transcription factor atf2, putative [Ixodes scapularis] >gi|215502820|gb|EEC12314.1| cyclic-AMP-dependent transcription factor atf2, putative [Ixodes scapularis]  E=1e-05 s/c=1.31 id=45% cov=100%
+-ETEKPFACDVPGCSVRFVSEDRLTSHKKRHRvaaLSLNVG
+>gi|118343671|ref|NP_001071657.1|(23-54:631) transcription factor protein [Ciona intestinalis] >gi|70568913|dbj|BAE06316.1| transcription factor protein [Ciona intestinalis]  E=0.0001 s/c=1.54 id=52% cov=87%
+------FVCNSAGCNQKFASAKELEVHKCKHQMTLKLG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	2510	625	*	*	*	*	*	*	2506	*	*	1
+       0	*	*	*	*	*	*	2110	0	0	
+
+S 2    *	*	4328	1299	*	3674	*	*	*	*	*	2567	*	*	*	2759	2747	*	*	*	2
+       0	*	*	*	*	*	*	2270	0	0	
+
+D 3    *	*	853	*	*	*	*	*	*	*	*	3720	4015	2447	*	4304	3747	*	*	*	3
+       253	2637	*	0	*	*	*	2413	1349	0	
+
+D 4    *	*	923	1271	*	*	*	*	*	*	*	*	*	4102	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2461	0	0	
+
+K 5    *	*	*	*	*	*	*	*	520	*	*	*	*	*	1724	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2525	0	0	
+
+P 6    *	*	*	*	*	*	*	4864	*	4915	4918	*	215	*	*	4717	*	*	*	*	6
+       0	*	*	*	*	*	*	2525	0	0	
+
+F 7    *	*	*	*	240	*	*	*	*	3728	*	*	*	*	*	*	*	*	*	3680	7
+       0	*	*	*	*	*	*	2542	0	0	
+
+L 8    1394	*	*	4727	*	*	*	*	*	5385	5388	*	3705	3714	*	*	*	1392	*	*	8
+       0	*	*	*	*	*	*	2542	0	0	
+
+C 9    *	113	*	*	*	*	*	3728	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2542	0	0	
+
+T 10   *	*	4035	*	*	4576	*	*	4351	*	*	2945	3707	*	4494	1727	1760	*	*	*	10
+       0	*	*	*	*	*	*	2556	0	0	
+
+A 11   1854	*	*	*	*	*	*	2404	*	4351	4290	*	*	*	*	2526	3102	3246	*	4684	11
+       0	*	*	*	*	*	*	2556	0	0	
+
+P 12   3326	*	4351	3307	*	*	*	*	*	3192	*	*	1096	*	*	3148	4057	*	*	*	12
+       0	*	*	*	*	*	*	2556	0	0	
+
+G 13   *	*	4290	*	*	311	*	*	*	*	*	3863	*	*	*	3750	*	*	*	*	13
+       0	*	*	*	*	*	*	2556	0	0	
+
+C 14   *	156	*	*	*	*	*	*	*	3288	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2556	0	0	
+
+G 15   *	*	3863	4519	*	2092	*	*	3707	*	*	2220	*	*	4351	1804	5240	*	*	*	15
+       0	*	*	*	*	*	*	2556	0	0	
+
+Q 16   *	*	3863	3707	*	*	*	*	4894	4351	1956	*	*	1141	*	*	*	4035	*	*	16
+       0	*	*	*	*	*	*	2556	0	0	
+
+R 17   *	*	*	*	*	*	3703	*	2824	*	*	*	*	4684	1375	1927	3400	*	*	*	17
+       0	*	*	*	*	*	*	2556	0	0	
+
+F 18   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2556	0	0	
+
+T 19   2147	*	*	*	*	*	*	*	*	*	*	*	5011	3157	*	*	996	2945	*	*	19
+       0	*	*	*	*	*	*	2556	0	0	
+
+N 20   *	*	*	*	*	*	*	*	*	*	*	534	*	*	*	2417	3036	*	*	*	20
+       0	*	*	*	*	*	*	2556	0	0	
+
+E 21   4155	*	*	338	*	*	*	*	*	*	3707	3713	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2556	0	0	
+
+D 22   *	*	207	3694	*	*	*	*	4155	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2556	0	0	
+
+H 23   *	*	*	4155	*	*	377	*	*	*	*	*	*	3148	4035	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2556	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2556	0	0	
+
+A 25   2220	*	*	2221	*	*	*	4987	*	3694	3925	3433	*	4290	*	3162	2829	*	*	*	25
+       0	*	*	*	*	*	*	2556	0	0	
+
+V 26   *	*	*	*	*	*	*	2268	*	4290	*	*	*	*	*	3346	*	739	4519	*	26
+       0	*	*	*	*	*	*	2556	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2556	0	0	
+
+K 28   *	*	*	*	*	*	4519	*	858	*	4620	*	*	3707	2080	*	4290	*	*	*	28
+       0	*	*	*	*	*	*	2556	0	0	
+
+H 29   *	4155	*	*	*	*	1681	*	1033	*	*	*	*	3970	4620	*	4684	*	*	*	29
+       0	*	*	*	*	*	*	2556	0	0	
+
+K 30   *	*	*	*	*	*	*	*	257	*	*	*	*	*	2615	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2556	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       37	*	5287	*	*	*	*	2556	0	0	
+
+E 32   *	*	1580	1230	*	*	*	*	*	*	*	*	*	3394	3959	*	3651	*	*	*	32
+       96	3959	*	1585	585	0	*	2567	1000	1000	
+
+M 33   *	*	*	*	*	*	*	*	*	2865	431	*	*	*	*	3707	*	4494	*	*	33
+       0	*	*	*	*	*	*	2556	0	0	
+
+T 34   *	*	*	*	*	*	4494	*	*	4351	2408	3707	*	*	*	2026	1504	4519	*	*	34
+       0	*	*	*	*	*	*	2556	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2556	0	0	
+
+K 36   4596	*	*	*	*	4477	*	*	837	*	*	1727	*	4272	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2567	0	0	
+
+F 37   *	*	*	*	1357	*	*	3651	*	1102	*	*	*	*	*	*	*	3959	*	*	37
+       0	*	*	*	*	*	*	2567	0	0	
+
+G 38   3520	*	*	*	*	132	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	0	*	*	*	2262	0	0	
+
+//

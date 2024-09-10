@@ -1,0 +1,264 @@
+HHsearch 1.5
+NAME  d1zq1a1 b.38.3.1 (A:2-75) Glutamyl-tRNA(Gln) amidotransferase subunit D, GatD {Pyrococcus abyssi [TaxId: 29292]}
+FAM   b.38.3.1
+FILE  d1zq1a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zq1a1.a3m -v 1 
+DATE  Tue Jan 22 05:11:57 2013
+LENG  74 match states, 74 columns in multiple alignment
+FILT  101 out of 111 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CHHHHHHHCCCCCCCEEEEEECCCCCCCEEEEEEECCCCCCCCCEEEEEECCCCEEEEECCCCCEEEEEEECCC
+>ss_conf
+92465784599978558998547998726888871686779998798970897125446125615777640369
+>Consensus
+kxxexLxxxgxxxGDxVrvxxxxxxxxxxxeGilMPxxexsxxdxiVlKLdnGYNiGixxxxixxiexlekxxv
+>d1zq1a1 b.38.3.1 (A:2-75) Glutamyl-tRNA(Gln) amidotransferase subunit D, GatD {Pyrococcus abyssi [TaxId: 29292]}
+RVDEFLKERNINVGDFVRITKEEDGEEVTYEGYIMPPYELSAGDTLVLKLENGYNIGIALEKIRRIEVLERAKV
+>gi|408403364|ref|YP_006861347.1|(1-59:421) glutamyl-tRNA(Gln) amidotransferase subunit D [Candidatus Nitrososphaera gargensis Ga9.2] >gi|408363960|gb|AFU57690.1| glutamyl-tRNA(Gln) amidotransferase subunit D [Candidatus Nitrososphaera gargensis Ga9.2]  E=6e-10 s/c=1.14 id=35% cov=81%
+----------MEVGDNVKVATNDG----EMSGVLMPRYESASEDYIVIKLKSGYNTGIQVGRIKSITKLQKSE-
+>gi|218884130|ref|YP_002428512.1|(11-81:451) glutamyl-tRNA(Gln) amidotransferase subunit D [Desulfurococcus kamchatkensis 1221n] >gi|218765746|gb|ACL11145.1| glutamyl-tRNA(Gln) amidotransferase subunit D [Desulfurococcus kamchatkensis 1221n]  E=3e-09 s/c=0.91 id=28% cov=96%
+-VARILRSIGVEPGDKIVVVLKDG---TVFNGILLPRQVLYSGrPVLVLKLDNGYNIGLNIDEVSDLRLVSKKQV
+>gi|325968340|ref|YP_004244532.1|(2-67:449) glutamyl-tRNA(Gln) amidotransferase subunit D [Vulcanisaeta moutnovskia 768-28] >gi|323707543|gb|ADY01030.1| glutamyl-tRNA(Gln) amidotransferase, subunit D [Vulcanisaeta moutnovskia 768-28]  E=5e-09 s/c=0.97 id=35% cov=89%
+-LSEVISKWGVKVFDTVRIHLRDG---TTLDGVVLPRPGVGDPNVVILKLDNGYNVGIHVNNIEKIEVL-----
+>gi|170290791|ref|YP_001737607.1|(7-73:441) glutamyl-tRNA(Gln) amidotransferase subunit D [Candidatus Korarchaeum cryptofilum OPF8] >gi|170174871|gb|ACB07924.1| glutamyl-tRNA(Gln) amidotransferase, subunit D [Candidatus Korarchaeum cryptofilum OPF8]  E=1e-14 s/c=1.23 id=34% cov=92%
+KAREILSSLGLEDFDRIRVKRGGD----VYEGILIPRPEILDDEHIIIKLDNGYNIGIGLE-GAEIELISKG--
+>gi|15921527|ref|NP_377196.1|(8-75:448) glutamyl-tRNA(Gln) amidotransferase subunit D [Sulfolobus tokodaii str. 7] >gi|24418419|sp|Q971W5.1|GATD_SULTO RecName: Full=Glutamyl-tRNA(Gln) amidotransferase subunit D; Short=Glu-ADT subunit D >gi|15622313|dbj|BAB66305.1| glutamyl-tRNA(Gln) amidotransferase subunit GatD [Sulfolobus tokodaii str. 7]  E=2e-13 s/c=1.15 id=35% cov=93%
+KALEFLSSHNVDVGDLIELQK----DGLSIKGVVMPSYS-KEDDIIVIKLDNGYNIGVSISGISNFKLVEKKR-
+>gi|385806257|ref|YP_005842655.1|(4-65:443) glutamyl-tRNA(Gln) amidotransferase subunit D [Fervidicoccus fontis Kam940] >gi|383796120|gb|AFH43203.1| glutamyl-tRNA(Gln) amidotransferase subunit D [Fervidicoccus fontis Kam940]  E=6e-09 s/c=1.02 id=37% cov=85%
+------ENKLLSPGIYVRIKTKDGA---IIEGLIVQRYEIFDPGFITLKLKNGYNIGISIKKIESVELLNK---
+>gi|302349109|ref|YP_003816747.1|(18-87:461) glutamyl-tRNA(Gln) amidotransferase subunit D [Acidilobus saccharovorans 345-15] >gi|302329521|gb|ADL19716.1| Glutamyl-tRNA(Gln) amidotransferase subunit D [Acidilobus saccharovorans 345-15]  E=7e-14 s/c=1.14 id=36% cov=91%
+-----LVEASARPGDVVEVARSDGS---RLMGTLMPKSEFSAPDIVVLKLDNGYNVGIRIDEGAKVRVVEGGSL
+>gi|84490193|ref|YP_448425.1|(7-73:438) glutamyl-tRNA(Gln) amidotransferase subunit D [Methanosphaera stadtmanae DSM 3091] >gi|121697810|sp|Q2NEH1.1|GATD_METST RecName: Full=Glutamyl-tRNA(Gln) amidotransferase subunit D; Short=Glu-ADT subunit D >gi|84373512|gb|ABC57782.1| GatD [Methanosphaera stadtmanae DSM 3091]  E=9e-11 s/c=1.04 id=38% cov=92%
+-LKDFLEISNITVGDTVKVTK----PHIEHEGMLLEKPDYSNENTIILKLDSGYNIGIDIKD-AKIEKISEGK-
+>gi|424814716|ref|ZP_18239894.1|(5-66:321) L-asparaginase/archaeal glu-tRNAgln amidotransferase subunit D [Candidatus Nanosalina sp. J07AB43] >gi|339758332|gb|EGQ43589.1| L-asparaginase/archaeal glu-tRNAgln amidotransferase subunit D [Candidatus Nanosalina sp. J07AB43]  E=5e-09 s/c=1.03 id=37% cov=85%
+EIRDKLDEKGIELGDRITASGR--------EGRLMPKPESGDSDIVVLKDESGYNLGLEPEDLRLLEKME----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	2490	*	*	*	*	841	*	*	*	*	*	1924	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3398	0	0	
+
+V 2    1427	*	*	*	*	*	*	2195	*	3050	*	*	*	*	*	*	4955	1962	*	*	2
+       0	*	*	*	*	*	*	3665	0	0	
+
+D 3    2858	*	3867	2943	*	5464	*	*	2314	2906	*	*	*	*	2142	4132	*	*	*	5458	3
+       0	*	*	*	*	*	*	3693	0	0	
+
+E 4    4299	*	3080	851	*	*	5349	*	3626	*	*	*	*	5445	3193	*	*	4696	*	*	4
+       0	*	*	*	*	*	*	3710	0	0	
+
+F 5    *	*	*	4972	1123	*	*	3114	4665	2228	5337	*	*	*	*	*	*	3398	*	5571	5
+       0	*	*	*	*	*	*	3733	0	0	
+
+L 6    *	*	*	*	*	*	*	4330	*	270	3047	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3844	0	0	
+
+K 7    5923	*	3326	2069	*	*	*	*	1698	4878	5609	5649	*	5810	3517	2838	*	5813	*	*	7
+       0	*	*	*	*	*	*	3874	0	0	
+
+E 8    *	*	*	1800	*	4705	*	5670	3298	*	*	3687	*	3204	3054	2135	5709	*	*	*	8
+       0	*	*	*	*	*	*	3874	0	0	
+
+R 9    3250	*	*	5070	*	*	3061	2825	2152	3113	*	3865	*	4781	4391	4869	*	4877	4554	*	9
+       0	*	*	*	*	*	*	3874	0	0	
+
+N 10   *	*	5851	*	5666	866	*	*	5801	5181	*	1789	*	5131	5789	4922	*	*	*	*	10
+       0	*	*	*	*	*	*	3913	0	0	
+
+I 11   2371	6538	*	*	*	*	*	2030	*	2596	2233	*	6489	*	*	*	*	2741	*	6335	11
+       0	*	*	*	*	*	*	4017	0	0	
+
+N 12   5218	*	2603	1652	*	4228	*	6413	5128	*	*	2458	*	6553	4223	3404	4448	6631	*	*	12
+       18	*	6320	*	*	*	*	4030	0	0	
+
+V 13   3977	*	5893	5309	6263	*	*	2654	*	3303	*	*	2234	6210	*	*	4048	1579	*	*	13
+       0	*	*	*	*	0	*	4024	0	1000	
+
+G 14   *	*	*	*	4158	132	*	*	*	*	*	*	*	*	*	*	*	*	4984	*	14
+       0	*	*	*	*	*	*	4047	0	0	
+
+D 15   *	6215	143	*	*	*	*	5791	5853	*	*	*	*	*	*	4453	*	*	*	*	15
+       0	*	*	*	*	*	*	4047	0	0	
+
+F 16   *	*	5008	5225	4985	*	*	4807	4163	3560	5708	5324	*	*	1364	6076	3575	3618	*	3040	16
+       0	*	*	*	*	*	*	3984	0	0	
+
+V 17   4990	*	*	*	*	*	*	1499	*	5322	*	*	*	*	*	*	*	762	*	*	17
+       0	*	*	*	*	*	*	3992	0	0	
+
+R 18   5175	*	*	2447	*	*	6537	*	2377	5768	*	*	*	5474	1081	5046	5111	6294	*	*	18
+       0	*	*	*	*	*	*	3992	0	0	
+
+I 19   5035	*	*	*	5532	*	*	1465	*	3968	*	*	*	*	*	*	*	938	*	*	19
+       162	*	3231	*	*	*	*	3992	0	0	
+
+T 20   4873	*	*	2441	*	*	6366	3887	2435	4807	5838	5072	*	5417	5512	4092	3271	2330	*	5173	20
+       88	*	4079	*	*	2067	393	3950	0	2654	
+
+K 21   5615	*	6966	4010	*	4616	5690	*	1394	2954	6071	*	*	6246	2568	6569	2916	*	*	*	21
+       575	*	1605	*	*	2472	287	3951	0	2770	
+
+E 22   4643	*	4076	3116	*	2646	*	5968	1995	5007	*	4551	6027	5705	2790	4256	5823	4802	*	*	22
+       316	*	2348	*	*	3226	163	3914	0	3550	
+
+E 23   4699	*	1445	2230	*	3459	*	*	2720	*	*	4362	*	*	3982	*	5240	*	*	*	23
+       107	*	3803	*	*	3245	161	3694	0	3525	
+
+D 24   *	*	2341	*	*	1119	*	*	*	*	*	1919	*	4900	4501	*	*	*	*	*	24
+       580	*	1595	*	*	4476	66	3685	0	3567	
+
+G 25   3635	*	2431	*	*	1397	*	*	*	*	*	3941	4550	*	2989	3051	*	*	*	*	25
+       578	*	1599	*	*	1032	969	3445	0	3768	
+
+E 26   2847	*	2259	2029	*	6179	*	5658	5732	*	*	2088	4227	*	*	4327	*	5948	*	*	26
+       140	*	3432	*	*	2402	302	3635	0	3676	
+
+E 27   5972	*	1966	4785	*	1449	4195	*	3099	5927	*	3624	*	5522	5795	*	5884	*	*	*	27
+       32	*	5499	*	*	1643	557	3631	0	3604	
+
+V 28   5325	*	*	4724	*	*	*	3238	5390	2640	6371	*	*	*	3785	3627	2255	1879	*	*	28
+       27	*	5766	*	*	388	2083	3751	0	3384	
+
+T 29   5096	*	*	3475	6140	*	6603	3141	4904	*	6161	*	*	6207	3860	3119	1852	2177	*	*	29
+       0	*	*	*	*	939	1064	3886	0	2521	
+
+Y 30   *	*	6706	*	2049	*	4449	3779	*	3187	6037	4892	*	*	6438	*	*	4469	*	1270	30
+       0	*	*	*	*	0	*	3960	0	1746	
+
+E 31   *	6220	5583	824	5775	*	6187	5488	3663	6944	5704	5270	*	6269	3125	4435	4623	*	*	*	31
+       0	*	*	*	*	*	*	4179	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	4179	0	0	
+
+Y 33   *	*	*	*	5206	*	*	1445	6762	3520	4572	*	*	*	4712	*	3622	1566	*	6639	33
+       0	*	*	*	*	*	*	4179	0	0	
+
+I 34   6269	*	*	*	*	*	*	2683	*	823	6518	*	*	*	*	*	*	1971	*	*	34
+       0	*	*	*	*	*	*	4179	0	0	
+
+M 35   *	*	*	*	*	*	*	4896	*	1823	619	*	*	*	6620	*	*	5479	*	*	35
+       0	*	*	*	*	*	*	4179	0	0	
+
+P 36   5224	*	4147	5543	*	*	*	*	*	*	*	5678	216	6082	*	*	*	*	*	*	36
+       92	*	4017	*	*	*	*	4179	0	0	
+
+P 37   *	*	*	*	*	*	*	*	2909	*	*	5493	2671	*	1523	1710	4875	*	*	*	37
+       195	*	2985	*	*	*	0	4158	0	1915	
+
+Y 38   3960	*	*	6140	5933	*	4952	5993	*	5073	6470	5551	2620	4392	*	3862	2945	4641	*	1532	38
+       158	*	3271	*	*	*	0	4131	0	2433	
+
+E 39   3505	*	5093	852	*	5222	*	*	6647	5430	*	*	*	4162	*	2761	4353	5952	*	*	39
+       196	*	2978	*	*	*	0	4044	0	2962	
+
+L 40   5062	*	3361	*	2713	4459	3815	4647	*	1889	*	*	*	*	5738	3632	4046	3734	*	4090	40
+       147	3725	5575	0	*	514	1739	3965	1785	3244	
+
+S 41   3540	*	4795	*	5145	2662	*	*	4427	6525	*	4247	5552	*	4776	1085	4691	*	*	6174	41
+       61	*	4588	*	*	629	1500	4103	0	2348	
+
+A 42   4497	*	1355	3624	*	4707	5832	*	4834	*	*	3540	5758	6779	4394	3031	3350	*	*	6480	42
+       0	*	*	*	*	1764	503	4140	0	2223	
+
+G 43   4685	*	2103	2607	*	2763	*	*	4118	*	*	6435	2175	*	6303	3836	4517	*	*	*	43
+       19	6222	*	0	*	1271	772	4138	1000	1987	
+
+D 44   6718	*	1134	2398	*	4220	*	*	4130	6552	*	3721	3755	6900	5255	4674	*	*	*	*	44
+       0	*	*	*	*	*	0	4143	0	1662	
+
+T 45   5830	6265	*	*	5258	*	1941	2008	5929	*	*	6636	*	6701	7132	*	2631	2721	*	3681	45
+       0	*	*	*	*	0	*	4143	0	1662	
+
+L 46   *	*	*	*	5044	*	*	1314	*	1540	*	*	*	*	*	*	5876	2382	*	6073	46
+       0	*	*	*	*	*	*	4179	0	0	
+
+V 47   *	*	*	*	*	*	*	3681	*	5660	*	5876	*	*	*	*	3250	358	*	*	47
+       0	*	*	*	*	*	*	4179	0	0	
+
+L 48   *	*	*	*	*	*	*	1721	*	943	*	*	*	*	*	*	*	2504	*	*	48
+       0	*	*	*	*	*	*	4179	0	0	
+
+K 49   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	4179	0	0	
+
+L 50   *	*	5590	*	*	*	*	*	*	280	2790	*	*	*	6517	*	*	*	*	*	50
+       0	*	*	*	*	*	*	4179	0	0	
+
+E 51   4939	*	970	3214	*	5900	*	*	2594	*	*	4959	4882	*	4398	4764	*	5929	*	*	51
+       0	*	*	*	*	*	*	4179	0	0	
+
+N 52   *	*	*	*	*	3342	*	*	*	*	*	780	*	*	*	1758	5418	*	*	*	52
+       0	*	*	*	*	*	*	4179	0	0	
+
+G 53   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	4179	0	0	
+
+Y 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	54
+       0	*	*	*	*	*	*	4179	0	0	
+
+N 55   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	4179	0	0	
+
+I 56   3262	*	*	*	*	*	*	1224	*	5590	6200	*	*	*	*	*	6114	1255	*	*	56
+       0	*	*	*	*	*	*	4179	0	0	
+
+G 57   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	4179	0	0	
+
+I 58   *	*	*	*	3356	*	*	1148	*	2640	*	*	*	*	*	*	*	1782	*	*	58
+       0	*	*	*	*	*	*	4179	0	0	
+
+A 59   3059	*	2592	3217	*	6611	4310	*	3105	3353	*	4404	*	6107	3597	2491	*	6689	*	*	59
+       68	*	4438	*	*	*	*	4175	0	0	
+
+L 60   6464	*	*	*	5499	*	*	1727	3281	3637	6697	*	2901	*	3111	*	*	2172	*	*	60
+       64	6568	4938	3700	115	378	2116	4149	1000	1880	
+
+E 61   4074	*	1655	2007	*	3474	*	6494	4030	6353	*	4177	6837	6980	5417	3472	6139	*	*	*	61
+       140	*	3439	*	*	0	*	4101	0	1857	
+
+K 62   4831	*	3184	2528	*	5342	*	*	2416	5460	*	2824	5644	4578	2872	5523	4002	6127	6873	*	62
+       217	*	2841	*	*	123	3612	4142	0	2180	
+
+I 63   3505	*	*	6276	*	2352	6467	1072	5253	5200	*	5694	*	*	6193	5691	*	3413	*	5929	63
+       57	*	4687	*	*	105	3838	4117	0	2672	
+
+R 64   2252	*	5897	2841	*	6082	*	*	2812	5489	*	*	*	4507	4108	2914	2510	4504	*	*	64
+       112	*	3746	*	*	0	*	4129	0	1823	
+
+R 65   4150	*	2873	2319	*	5220	*	7523	2702	3846	*	4207	*	4554	3575	2771	6436	6313	*	*	65
+       33	*	5484	*	*	498	1777	4160	0	2481	
+
+I 66   6571	*	*	*	6514	*	*	1183	*	3195	5012	*	*	*	*	*	6843	1362	*	*	66
+       0	*	*	*	*	0	*	4011	0	1933	
+
+E 67   *	*	4151	771	*	*	*	*	3125	5820	*	6653	*	6172	3572	4496	3771	*	*	*	67
+       0	*	*	*	*	*	*	3932	0	0	
+
+V 68   *	*	*	6446	5551	*	*	3649	3016	1392	*	*	*	*	*	6561	6658	1465	*	*	68
+       0	*	*	*	*	*	*	3936	0	0	
+
+L 69   6339	*	*	*	*	*	*	2037	*	1029	5360	*	*	*	5626	*	*	2257	*	*	69
+       0	*	*	*	*	*	*	3929	0	0	
+
+E 70   4704	*	*	793	*	4865	*	*	3183	*	*	4920	*	3982	5989	3087	6563	*	*	*	70
+       0	*	*	*	*	*	*	3902	0	0	
+
+R 71   *	*	*	4649	*	6033	*	*	713	4739	*	*	6046	*	3040	2637	*	*	*	*	71
+       0	*	*	*	*	*	*	3777	0	0	
+
+A 72   1941	*	*	*	*	1308	*	*	2553	*	*	*	*	*	4166	3189	*	*	*	*	72
+       0	*	*	*	*	*	*	3724	0	0	
+
+K 73   *	*	5112	1542	*	*	*	*	1282	*	*	*	*	3562	3351	4886	*	*	*	*	73
+       0	*	*	*	*	*	*	3640	0	0	
+
+V 74   *	*	*	*	*	*	*	*	*	1986	*	*	*	*	*	*	*	420	*	*	74
+       0	*	*	0	*	*	*	2581	0	0	
+
+//

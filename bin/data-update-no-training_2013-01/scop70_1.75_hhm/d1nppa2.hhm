@@ -1,0 +1,216 @@
+HHsearch 1.5
+NAME  d1nppa2 b.34.5.4 (A:191-248) N-utilization substance G protein NusG, C-terminal domain {Aquifex aeolicus [TaxId: 63363]}
+FAM   b.34.5.4
+FILE  d1nppa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nppa2.a3m -v 1 
+DATE  Tue Jan 22 00:20:23 2013
+LENG  58 match states, 58 columns in multiple alignment
+FILT  105 out of 1106 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.4 
+SEQ
+>ss_pred
+CCCCCCCCCEEEEEECCCCCCCEEEEEECCCCCEEEEEEEECCCCCCEEECHHHEECC
+>ss_conf
+9055577988888307789984699998167878999997149724036065431109
+>Consensus
+sxvdfxvGDxVxVxxGpfxgxxGxVxxidxxkxxvxVxvxxfGRxtxVelxxxqveki
+>d1nppa2 b.34.5.4 (A:191-248) N-utilization substance G protein NusG, C-terminal domain {Aquifex aeolicus [TaxId: 63363]}
+SKVEFEKGDQVRVIEGPFMNFTGTVEEVHPEKRKLTVMISIFGRMTPVELDFDQVEKI
+>gi|238810255|dbj|BAH70045.1|(145-200:205) hypothetical protein [Mycoplasma fermentans PG18]   E=6e-08 s/c=1.07 id=30% cov=98%
+THTKFQIGEIVEIIDGPFKGEQGRVLECSEANKKVTVEIEYLGKKTPADFEYKEIK--
+>gi|169831854|ref|YP_001717836.1|(114-168:173) NusG antitermination factor [Candidatus Desulforudis audaxviator MP104C] >gi|169638698|gb|ACA60204.1| NusG antitermination factor [Candidatus Desulforudis audaxviator MP104C]  E=1e-05 s/c=0.95 id=30% cov=97%
+---EFPAGSRVAVRHGPFAGLLGVVEKPMSGRGRVRVLLELLQRQTAVEIDAVDLDRL
+>gi|356496130|ref|XP_003516923.1|(282-339:344) PREDICTED: uncharacterized protein LOC100815839 [Glycine max]   E=6e-05 s/c=0.86 id=27% cov=97%
+TRINYKllvPGSTVRVLSGTFSGFTGTLKKLNRKTKLATVHFTLFGKENIADIDVNEI---
+>gi|167749970|ref|ZP_02422097.1|(114-171:173) hypothetical protein EUBSIR_00938 [Eubacterium siraeum DSM 15702] >gi|167656991|gb|EDS01121.1| transcription termination/antitermination factor NusG [Eubacterium siraeum DSM 15702] >gi|291530535|emb|CBK96120.1| transcription antitermination protein nusG [Eubacterium siraeum 70/3] >gi|291557875|emb|CBL34992.1| transcription antitermination protein nusG [Eubacterium siraeum V10Sc8a]  E=6e-12 s/c=1.26 id=31% cov=102%
+AEISFAVGDTIKIVSGSLEGFEGTVDSIDEENGTAQVTVSMFGRPTPATVEISAVQKV
+>gi|363888717|ref|ZP_09316095.1|(121-177:178) transcription termination/antitermination factor NusG [Eubacteriaceae bacterium CM5] >gi|363895223|ref|ZP_09322243.1| transcription termination/antitermination factor NusG [Eubacteriaceae bacterium ACC19a] >gi|361959980|gb|EHL13241.1| transcription termination/antitermination factor NusG [Eubacteriaceae bacterium ACC19a] >gi|361967338|gb|EHL20160.1| transcription termination/antitermination factor NusG [Eubacteriaceae bacterium CM5]  E=4e-11 s/c=1.24 id=31% cov=100%
+-EVDFEVGDKITITGGPFADREAVITQIFMDKRLVKAQMMMFGKETVMELEFSQIKKL
+>gi|302337848|ref|YP_003803054.1|(121-177:184) NusG antitermination factor [Spirochaeta smaragdinae DSM 11293] >gi|301635033|gb|ADK80460.1| NusG antitermination factor [Spirochaeta smaragdinae DSM 11293]  E=5e-05 s/c=0.89 id=24% cov=100%
+STVTFGTGDRIVVLSGPMKGLEGNIRKVNKRKGRAKIELMLYEQSFLIDFAFDGIKK-
+>gi|398819698|ref|ZP_10578247.1|(138-193:213) transcription antiterminator [Bradyrhizobium sp. YR681] >gi|398229632|gb|EJN15705.1| transcription antiterminator [Bradyrhizobium sp. YR681]  E=5e-05 s/c=0.90 id=26% cov=98%
+SERDYAVDQMVQIVDGPLAGFVGQVKRLDSH-SRLKVFVDAL-RGVSVQLSETQVEPV
+>gi|197294704|ref|YP_001799245.1|(152-203:204) Transcription antitermination protein [Candidatus Phytoplasma australiense] >gi|171854031|emb|CAM12004.1| Transcription antitermination protein [Candidatus Phytoplasma australiense]  E=5e-08 s/c=1.16 id=30% cov=91%
+------IGKKVEIISGSLANQQAKVSIIDNDREKIIVEVDLFGRTVPVEISFSDFKEI
+>gi|406979101|gb|EKE00951.1|(114-164:166) hypothetical protein ACD_21C00250G0024 [uncultured bacterium]   E=4e-05 s/c=0.99 id=29% cov=90%
+----FTKGDKVRILDGAFKDQVAVFETLDN-KQRIQLLLNFLGREMKISLPYHAVE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2748	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1228	1238	*	*	*	1
+       0	*	*	*	*	*	*	3918	0	0	
+
+K 2    4981	*	3122	1385	*	*	4651	*	2031	*	*	5851	*	3862	3970	*	4786	*	*	*	2
+       0	*	*	*	*	*	*	4612	0	0	
+
+V 3    5060	*	*	*	6408	*	*	1732	*	3664	5403	*	*	*	5397	*	4258	1063	*	*	3
+       0	*	*	*	*	*	*	4878	0	0	
+
+E 4    5643	*	1148	2844	*	*	5588	*	6163	5843	*	2893	4005	*	*	3810	4919	6241	*	5464	4
+       13	*	6753	*	*	*	*	5204	0	0	
+
+F 5    6089	5570	*	*	922	*	*	4334	*	2976	*	*	*	*	*	*	*	4011	6289	2435	5
+       0	*	*	*	*	*	0	5340	0	1000	
+
+E 6    3229	*	5212	2043	*	5675	*	*	1756	5735	6627	5177	6053	3092	*	4220	5332	4620	*	*	6
+       60	6395	5126	1585	585	0	*	5443	1000	1000	
+
+K 7    4667	*	*	3281	*	*	*	2665	3671	4250	*	*	3384	*	*	*	4713	1200	*	*	7
+       16	6504	*	1000	1000	0	*	5423	1000	1625	
+
+G 8    *	*	4436	*	*	113	*	*	*	*	*	5112	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	5528	0	0	
+
+D 9    6315	*	623	2644	*	6427	*	*	5448	6572	*	*	*	4792	*	4073	5329	6313	*	*	9
+       0	*	*	*	*	*	*	5524	0	0	
+
+Q 10   4600	*	5471	3423	4915	*	7003	4443	2944	5450	4578	5414	4477	4463	2945	4471	3056	3458	4639	5542	10
+       0	*	*	*	*	*	*	5524	0	0	
+
+V 11   5255	*	*	*	*	*	*	3112	*	5468	*	*	*	*	*	*	*	259	*	*	11
+       0	*	*	*	*	*	*	5524	0	0	
+
+R 12   4659	*	*	3891	*	6249	*	3828	2713	6284	4869	7236	*	4081	1574	4831	2960	4487	*	*	12
+       0	*	*	*	*	*	*	5524	0	0	
+
+V 13   *	*	*	*	*	*	*	1128	*	4385	6285	*	*	*	*	*	*	1054	*	*	13
+       0	*	*	*	*	*	*	5524	0	0	
+
+I 14   5120	*	6562	6046	*	*	*	1989	2723	2700	*	5448	*	5898	5418	4435	2528	3243	*	*	14
+       0	*	*	*	*	*	*	5524	0	0	
+
+E 15   3810	*	2476	3287	*	3286	5406	*	6574	*	*	3900	*	5680	5248	1848	3424	5255	*	*	15
+       0	*	*	*	*	*	*	5524	0	0	
+
+G 16   6737	*	*	6074	*	80	*	*	*	*	*	*	6672	*	*	*	6541	*	6788	*	16
+       0	*	*	*	*	*	*	5524	0	0	
+
+P 17   2291	6910	6284	6493	*	6672	*	5289	*	5022	*	6739	845	6216	*	4071	5199	5858	*	6192	17
+       0	*	*	*	*	*	*	5524	0	0	
+
+F 18   *	*	*	*	566	*	*	*	*	2780	3721	6267	*	*	*	*	*	*	4365	4583	18
+       0	*	*	*	*	*	*	5524	0	0	
+
+M 19   2033	*	5050	2538	*	*	*	5525	2319	6216	5631	6412	*	4923	4729	3005	3959	5250	*	*	19
+       0	*	*	*	*	*	*	5524	0	0	
+
+N 20   6588	*	2237	4929	*	959	*	*	6741	*	*	2975	*	*	*	4232	6722	*	6284	5788	20
+       0	*	*	*	*	*	*	5524	0	0	
+
+F 21   6197	4952	6743	3934	2118	*	6315	6676	5067	2875	2643	5515	*	3615	4774	4792	4573	4848	6249	4863	21
+       0	*	*	*	*	*	*	5524	0	0	
+
+T 22   5401	*	6339	1718	6743	*	7033	3964	4480	5311	4106	4283	5060	4422	5191	3747	3594	2854	*	*	22
+       0	*	*	*	*	*	*	5524	0	0	
+
+G 23   2266	*	*	*	*	396	*	6029	*	*	*	*	*	*	*	5898	*	*	*	*	23
+       0	*	*	*	*	*	*	5524	0	0	
+
+T 24   *	*	5867	3717	*	*	5103	3181	2246	5231	*	4898	5549	4829	4249	5747	2279	2703	6772	*	24
+       0	*	*	*	*	*	*	5524	0	0	
+
+V 25   *	*	*	*	4534	*	*	1431	*	4687	6046	*	*	*	*	*	*	911	*	*	25
+       48	*	4932	*	*	*	*	5524	0	0	
+
+E 26   4813	*	4281	2375	6354	*	*	4083	2733	3627	*	5713	*	4453	4303	3247	3164	3552	*	*	26
+       16	*	6543	*	*	1571	592	5485	0	2017	
+
+E 27   3191	*	4621	1661	6672	5492	6083	5646	2655	*	*	4698	*	4811	4186	3189	5491	*	*	4407	27
+       18	*	6353	*	*	0	*	5498	0	2071	
+
+V 28   6246	6781	*	*	5212	*	5970	1207	*	3394	3845	5429	6117	*	6414	6558	5307	1991	*	*	28
+       55	6037	5484	1000	1000	0	*	5507	1000	1000	
+
+H 29   4759	*	988	*	6575	5978	4849	5608	4353	4782	6015	2295	*	*	6022	4706	6719	6687	*	*	29
+       0	*	*	*	*	0	*	5500	0	1558	
+
+P 30   3348	*	3621	3393	5148	4791	3985	6447	3932	3772	5416	4483	2816	5935	4051	3733	4215	6722	*	5487	30
+       31	*	5578	*	*	*	*	5524	0	0	
+
+E 31   3658	*	2596	1779	*	4471	3660	5430	3793	*	*	4459	5393	4721	4442	4780	5256	5126	*	*	31
+       92	*	4023	*	*	0	*	5504	0	1631	
+
+K 32   6271	*	5782	5454	*	4208	6212	*	1027	*	6116	3190	*	4732	3150	3974	4331	*	*	*	32
+       16	*	6482	*	*	305	2391	5462	0	2830	
+
+R 33   4565	*	4122	3492	*	1705	6474	*	3826	6110	5441	5329	*	2603	3253	5620	5067	*	4926	6946	33
+       15	6586	*	2322	322	0	*	5508	1000	1550	
+
+K 34   6285	*	*	4474	*	7100	*	5543	1893	3165	5725	*	*	6339	1666	4787	2943	5633	*	*	34
+       0	*	*	*	*	*	*	5524	0	0	
+
+L 35   1895	*	*	*	5995	*	*	3023	*	2815	6178	*	*	*	*	*	*	1347	*	4523	35
+       15	*	6613	*	*	*	*	5524	0	0	
+
+T 36   6846	6903	4973	*	5513	6590	6530	3918	1890	5237	5427	5822	*	3877	3254	5969	2190	3542	6540	*	36
+       0	*	*	*	*	0	*	5517	0	1000	
+
+V 37   3539	*	*	*	4963	6037	*	2683	*	3654	*	*	*	*	*	*	6339	692	*	*	37
+       0	*	*	*	*	*	*	5524	0	0	
+
+M 38   3891	6623	4328	2601	5260	6600	6566	*	4859	1864	3723	3658	*	6594	4960	3635	4796	4726	*	*	38
+       0	*	*	*	*	*	*	5524	0	0	
+
+I 39   5709	*	*	*	4824	*	*	2008	*	2239	4019	*	*	*	*	*	5703	1307	*	*	39
+       14	6743	*	0	*	*	*	5524	1000	0	
+
+S 40   *	*	2143	2086	*	6588	*	7106	6198	6493	4048	3385	6761	*	6388	2345	3510	5265	*	7003	40
+       11	*	7100	*	*	*	*	5524	0	0	
+
+I 41   5560	5968	*	*	3579	6695	*	2442	*	2293	1860	6564	*	6309	*	5242	*	2763	*	6782	41
+       0	*	*	*	*	*	0	5523	0	1000	
+
+F 42   6350	*	*	*	683	*	*	5968	*	2414	3347	*	*	*	*	6321	*	6072	6562	5325	42
+       34	6350	6509	0	*	0	*	5523	1000	1000	
+
+G 43   *	*	6444	5341	*	201	*	*	6181	*	*	6008	*	5056	5956	5740	*	*	*	*	43
+       11	6994	*	0	*	0	*	5511	1000	1000	
+
+R 44   6427	*	*	5367	*	5615	4594	6216	3326	*	*	6105	*	3908	568	6182	5664	*	*	*	44
+       13	*	6794	*	*	*	*	5524	0	0	
+
+M 45   4287	*	3917	1382	*	6385	*	4612	3104	4268	6473	*	4817	4998	4702	3695	4608	5766	*	5344	45
+       12	*	6906	*	*	*	0	5523	0	1000	
+
+T 46   5870	*	*	*	5493	*	*	6739	*	4509	4172	5724	*	5881	4609	5035	697	2971	*	*	46
+       0	*	*	*	*	1000	1000	5521	0	1570	
+
+P 47   4385	*	4655	4032	*	5438	6496	4153	4840	3858	*	5490	1148	*	4577	3647	4273	6592	*	*	47
+       0	*	*	*	*	0	*	5523	0	1000	
+
+V 48   3832	*	*	*	5672	*	*	2789	6794	6267	5172	6493	*	*	*	6772	3475	724	*	*	48
+       0	*	*	*	*	*	*	5524	0	0	
+
+E 49   6547	*	2463	826	*	6562	*	*	5320	*	*	4740	*	5215	6719	6557	3518	4779	*	*	49
+       0	*	*	*	*	*	*	5524	0	0	
+
+L 50   6698	*	*	*	3152	*	*	1922	*	1186	4309	*	*	*	*	*	*	3010	*	*	50
+       0	*	*	*	*	*	*	5524	0	0	
+
+D 51   3771	6674	2029	2218	*	3442	*	*	5557	*	*	4540	3769	6105	*	2410	5340	*	*	*	51
+       12	*	6975	*	*	*	*	5494	0	0	
+
+F 52   3680	6610	*	4908	1913	4931	4690	3581	5869	2714	5614	6567	5467	5339	*	5224	*	4280	*	2923	52
+       0	*	*	*	*	*	0	5475	0	1000	
+
+D 53   3682	*	2829	2392	5726	4417	4709	5484	4566	6343	7031	4296	6945	5601	6170	2980	3057	5361	5089	6919	53
+       15	6581	*	1000	1000	0	*	5475	1000	1000	
+
+Q 54   5808	*	2523	3065	*	5292	5098	4607	4970	5834	*	4215	*	1228	*	4793	6440	*	*	6043	54
+       0	*	*	*	*	*	*	5463	0	0	
+
+V 55   *	*	*	*	5344	*	*	1684	*	2020	*	*	*	*	*	*	*	1260	*	*	55
+       0	*	*	*	*	*	*	5463	0	0	
+
+E 56   6763	*	3375	1201	6267	*	6319	*	2660	5854	5304	*	*	3835	3561	5854	4038	*	*	*	56
+       0	*	*	*	*	*	*	5399	0	0	
+
+K 57   3648	*	*	4477	*	*	*	*	544	5430	*	*	4312	*	3686	6779	5114	*	*	*	57
+       0	*	*	*	*	*	*	5146	0	0	
+
+I 58   *	*	*	*	*	*	*	1474	*	1859	3673	*	*	*	*	*	*	1806	*	*	58
+       0	*	*	0	*	*	*	4893	0	0	
+
+//

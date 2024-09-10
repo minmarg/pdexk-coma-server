@@ -1,0 +1,9 @@
+<html t:type="layout" title="Info"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <div class="info">
+        ${info}
+    </div>
+
+</html>

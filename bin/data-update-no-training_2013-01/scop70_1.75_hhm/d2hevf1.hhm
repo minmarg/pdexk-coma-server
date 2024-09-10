@@ -1,0 +1,433 @@
+HHsearch 1.5
+NAME  d2hevf1 b.22.1.1 (F:58-183) Tumor necrosis factor ligand superfamily member 4,  OX40L {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.22.1.1
+FILE  d2hevf1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2hevf1.a3m -v 1 
+DATE  Tue Jan 22 07:26:27 2013
+LENG  126 match states, 126 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCEEEEEEEECCCCCEEEECCCCCCCEEEEECCEEEEECCCEEEEEEEEEEEEEEEEEEEEECCCCCCCCCCCCCEEEEEEEEEEEECCEEEEEEECCC
+CCCEEEEECCCEEEEEEECCCCEEEC
+>ss_conf
+9623777630002785348628764555887167589815980899997653455789998862897742001354001468888753016999982798
+86103588297399998489855749
+>Consensus
+pIqsirvqxTxcexexgfixtxxxxxxtMkVqnNSiiInCDGfYLIslKGyFsqevsisLhyRkgrxPlxxLxkxxxVdxxxVasLxfKDkVyLnvttxx
+tscedxxvNgGELilIxqnPggfCvx
+>d2hevf1 b.22.1.1 (F:58-183) Tumor necrosis factor ligand superfamily member 4,  OX40L {Human (Homo sapiens) [TaxId: 9606]}
+RIQSIKVQFTEYKKEKGFILTSQKEDEIMKVQDNSVIINCDGFYLISLKGYFSQEVDISLHYQKDEEPLFQLKKVRSVNSLMVASLTYKDKVYLNVTTDN
+TSLDDFHVNGGELILIHQNPGEFCVL
+>gi|149636273|ref|XP_001515165.1|(69-182:185) PREDICTED: tumor necrosis factor ligand superfamily member 4-like [Ornithorhynchus anatinus]  E=5e-27 s/c=1.08 id=37% cov=91%
+-----KADIGKCESG-GNHLTIQAVNQSMKVENNLVLIPCDGPYLVYLKVHSSKLLTITIRYRNGEK-LSALNLSNDVDYVTVASLMFKDKLSLEVTDTR
+NCTEHIT---GELGLILLAPKKYC--
+>gi|329664406|ref|NP_001192644.1|(1-181:182) tumor necrosis factor ligand superfamily member 4 [Bos taurus] >gi|296479213|gb|DAA21328.1| tumor necrosis factor receptor superfamily, member 4-like [Bos taurus]  E=6e-65 s/c=0.72 id=65% cov=100%
+PIQSIRVQFTKCENENGFIITSPDADGTMKVQNNSIIITCDGFYLISLKGYFSQELSLRLLYRKGREPLFSLNMVKIVDSVTVAYLRFKDKVYLNMTTQN
+ASCEDIQVNGGELILIHQNPGGFCV-
+>gi|126722993|ref|NP_001075454.1|(1-186:187) tumor necrosis factor ligand superfamily member 4 [Oryctolagus cuniculus] >gi|3914238|sp|O02765.1|TNFL4_RABIT RecName: Full=Tumor necrosis factor ligand superfamily member 4; AltName: Full=OX40 ligand; Short=OX40L; AltName: CD_antigen=CD252 >gi|2114110|dbj|BAA20060.1| OX40 ligand [Oryctolagus cuniculus]  E=1e-58 s/c=0.56 id=60% cov=99%
+PIENIMTQlqiLTSHEcEEDSFILPLQKRDGTMEVQNNSVVIQCDGFYLLSLKGYFSQEVSISLHYRKGEEPFPILKKTKFANSNVVLKLGYKDKVYLNV
+TTDSASCKQLSVNAGELIVILQNPGGYC--
+>gi|16758320|ref|NP_446004.1|(4-185:199) tumor necrosis factor ligand superfamily member 4 [Rattus norvegicus] >gi|21362973|sp|Q9Z2P3.1|TNFL4_RAT RecName: Full=Tumor necrosis factor ligand superfamily member 4; AltName: Full=OX40 ligand; Short=OX40L; AltName: CD_antigen=CD252 >gi|3779224|gb|AAC67236.1| OX40 ligand [Rattus norvegicus] >gi|149058258|gb|EDM09415.1| tumor necrosis factor (ligand) superfamily, member 4 [Rattus norvegicus]  E=1e-35 s/c=0.48 id=46% cov=99%
+PIQRLRAPVTGCEGGRLFIGTSKNEYETMEVQNNSVIINCDGLYLIHLKGSFFQEVKINLHFRKDRSPIFvpMLNNGQRVVFTVVTSLAFKDEVYLTVNA
+SDTLCEHLQINDGELIIVQLTPNGYC--
+>gi|344278509|ref|XP_003411036.1|(1-183:184) PREDICTED: tumor necrosis factor ligand superfamily member 4-like [Loxodonta africana]  E=2e-82 s/c=1.06 id=68% cov=100%
+PIQSIRVQFTRCDNEKGFILTSPNNQETMKVQDNSIIISCDGFYLISLKGYFSQEVSLSLLYRKGREPLLPLTKVKFIDTVTVAYLAFKDKVYLNLTSHN
+TSCEDIQVNGGELILIHQNPGEFCV-
+>gi|395825286|ref|XP_003785868.1|(1-179:194) PREDICTED: tumor necrosis factor ligand superfamily member 4 [Otolemur garnettii]  E=1e-74 s/c=0.98 id=67% cov=99%
+PVQSIRVQFTEYEKEKGFIIISQNQDEIMKVKNNSIVINCDGFYLISVRGYFSQEVNVSLHYRQKEDPFILQSKARSINAILVVSLRYKDKVYLNVTTDH
+rSSYDDLHVNGGEVILIQQNPGGYC--
+>gi|354470954|ref|XP_003497709.1|(4-183:198) PREDICTED: LOW QUALITY PROTEIN: tumor necrosis factor ligand superfamily member 4-like [Cricetulus griseus]  E=5e-71 s/c=0.94 id=43% cov=99%
+PIQSLRAQVTRCENGRLFFSLPRNEYQTMEVKNNSIAITCDGLYLIYMKGSFFQEVKINLHFRKGRSPIsmPMLNNGQRVDFTMVASLAFKDIVYLTVNA
+PDTSCEHLQINDGELIVVHLTPGGFC--
+>gi|351696827|gb|EHA99745.1|(1-179:179) Tumor necrosis factor ligand superfamily member 4 [Heterocephalus glaber]  E=2e-66 s/c=0.94 id=55% cov=98%
+PIQSISILLTGCEEEKLILI--PNDAHIMKVENNSVIINCDGFYLISVKGYFQEEVSISLHYRMHRNPIsVPLRKDLQVDFTTVVSLAYKDKVYLSMNSP
+NTSCKDFRMNGGELYLIQQNPGGFCI-
+>gi|119637840|ref|NP_001073297.1|(58-183:183) tumor necrosis factor ligand superfamily member 4 [Felis catus] >gi|82581680|gb|ABB84240.1| CD134(OX40)-ligand [Felis catus]  E=4e-54 s/c=1.52 id=67% cov=101%
+PIQSIKVQFTKCGNGTGCIITSPNKDETMKVQDNSIIINCDGFYLISLKGYFSEELSLSLYYRKGRKPLFSLSKVKSVDSIGVAHLAFKDKVYFNVTTHN
+TSYKDIQVNGGELIVILQNPGGFCVL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	200	*	2952	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2022	0	0	
+
+I 2    *	*	*	*	*	*	*	135	*	*	*	*	*	*	*	*	*	3482	*	*	2
+       0	*	*	*	*	*	*	2022	0	0	
+
+Q 3    *	*	*	3347	*	*	*	*	*	*	*	*	*	149	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2022	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	*	*	3347	*	*	3248	328	*	*	*	*	4
+       0	*	*	*	*	*	*	2022	0	0	
+
+I 5    *	*	*	*	*	*	*	319	*	2333	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2022	0	0	
+
+K 6    *	*	*	*	*	*	*	*	1802	*	3512	*	*	*	834	3953	*	*	*	*	6
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 7    1720	*	*	*	*	*	*	2954	*	*	*	*	*	*	*	*	3512	1059	*	*	7
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 8    *	*	2896	*	*	*	*	*	*	2954	*	*	3470	630	*	*	*	*	*	*	8
+       132	3512	*	1585	585	*	*	2242	1000	0	
+
+F 9    *	*	*	*	1059	*	*	2896	*	2206	*	*	*	*	*	*	*	2564	*	*	9
+       0	*	*	*	*	*	*	2242	0	0	
+
+T 10   *	*	*	*	*	2896	*	*	*	*	*	*	*	*	*	*	208	*	*	*	10
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 11   *	*	*	2384	*	2189	*	*	1820	*	*	*	*	*	2488	2970	*	*	*	*	11
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 12   *	472	*	*	*	*	3512	*	*	*	*	*	*	*	*	*	*	*	*	2384	12
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 13   *	*	4223	470	*	4349	*	*	2509	*	*	*	*	*	*	*	*	*	*	*	13
+       132	3512	*	0	*	*	*	2242	1000	0	
+
+K 14   *	*	*	2206	*	3470	*	*	2384	*	*	1446	*	*	*	2896	*	*	*	*	14
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 15   *	*	4285	746	*	1504	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       208	*	2896	*	*	*	*	2242	0	0	
+
+K 16   *	*	3347	*	*	*	*	*	919	*	*	3085	*	*	2333	*	4142	*	*	*	16
+       0	*	*	*	*	0	*	2022	0	1000	
+
+G 17   *	*	*	*	*	703	*	*	*	1746	*	*	*	*	*	3512	*	*	*	*	17
+       0	*	*	*	*	*	*	2242	0	0	
+
+F 18   *	3397	*	*	640	*	*	3953	*	*	*	2896	*	*	*	3955	*	*	*	*	18
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 19   *	*	*	*	3664	*	2896	604	*	2954	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 20   *	*	*	*	3955	3470	*	1397	*	1371	*	*	*	*	*	3664	*	*	*	*	20
+       96	*	3953	*	*	*	*	2242	0	0	
+
+T 21   3560	*	*	*	*	*	*	3556	*	3587	*	*	3448	*	*	*	610	*	*	*	21
+       0	*	*	*	*	*	0	2222	0	1000	
+
+S 22   *	*	*	*	*	*	*	2865	*	3448	*	3560	2867	*	*	864	*	*	*	*	22
+       128	*	3560	*	*	0	*	2222	0	1000	
+
+Q 23   *	*	*	*	*	*	*	*	3394	*	*	*	1577	1216	3549	4214	*	*	*	*	23
+       0	*	*	*	*	*	0	2221	0	1000	
+
+K 24   2863	*	4267	*	*	*	*	*	2263	*	*	1000	*	*	*	3289	*	*	*	*	24
+       0	*	*	*	*	0	*	2221	0	1000	
+
+E 25   4366	*	2954	1835	*	*	*	*	2774	*	*	4223	*	3054	3512	*	*	2896	*	*	25
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 26   2954	*	960	*	*	*	*	*	*	*	*	2896	*	4223	*	*	*	*	*	2564	26
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 27   *	*	*	1088	*	2415	3953	*	*	*	*	*	*	1848	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 28   *	*	*	*	*	*	*	1729	*	*	4082	*	*	*	*	2896	985	*	*	*	28
+       0	*	*	*	*	*	*	2242	0	0	
+
+M 29   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 30   *	*	*	1961	*	*	*	*	428	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	31
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 32   *	*	*	1925	*	*	*	*	2650	*	*	*	*	793	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 33   *	*	2055	*	*	*	*	*	*	*	*	397	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 34   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 35   *	*	*	*	*	*	*	*	*	2896	*	*	*	*	*	208	*	*	*	*	35
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 36   *	*	*	*	*	*	*	808	*	*	*	*	*	*	*	*	*	1221	*	*	36
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 37   3664	*	*	*	*	*	*	837	*	2896	*	*	*	*	*	*	*	2138	*	*	37
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 38   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 39   *	*	*	*	*	*	*	*	*	*	*	744	2896	3512	*	4223	2973	*	*	*	39
+       0	*	*	*	*	*	*	2242	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 41   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2242	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2242	0	0	
+
+F 43   *	*	*	*	522	*	*	*	*	2564	*	*	2896	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	44
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 46   *	*	*	*	*	*	*	362	*	3512	*	*	*	*	*	*	*	2896	*	*	46
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 47   *	*	*	*	*	*	3470	*	*	*	*	*	*	*	*	522	*	*	*	2230	47
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 48   *	*	*	*	*	*	*	*	*	491	2802	*	*	*	*	*	*	2786	*	*	48
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 49   *	*	*	*	*	*	*	*	121	*	*	*	*	*	3636	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2242	0	0	
+
+G 50   *	*	*	*	*	208	*	*	*	*	*	*	*	*	*	*	*	2896	*	*	50
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 51   *	*	*	*	*	*	2896	*	*	*	*	*	*	*	*	2564	*	*	*	522	51
+       0	*	*	*	*	*	*	2242	0	0	
+
+F 52   *	*	*	*	208	*	*	*	*	*	*	*	*	*	*	2896	*	*	*	*	52
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 53   *	*	*	*	2564	*	3955	*	*	*	*	*	*	3953	*	511	*	*	*	*	53
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 54   *	*	*	2159	*	*	*	*	2896	*	*	*	*	640	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 55   *	*	*	310	*	*	*	*	*	2896	*	4082	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 56   *	*	*	*	*	*	*	4082	*	1438	*	*	*	*	*	*	*	806	*	*	56
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 57   *	*	4262	*	*	*	*	*	2564	*	*	3636	*	*	*	826	2896	*	*	*	57
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 58   *	*	*	*	*	*	*	664	*	1795	*	*	*	*	*	*	*	3636	*	*	58
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 59   *	*	*	*	*	*	*	*	*	*	4285	2098	*	*	4366	910	2896	*	*	*	59
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 60   *	*	*	*	*	*	*	2896	*	208	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2242	0	0	
+
+H 61   *	*	*	*	*	*	696	*	*	3293	*	*	*	4285	2896	*	*	*	*	3397	61
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 62   *	*	*	*	2564	*	*	*	*	*	*	*	*	*	*	*	*	*	*	267	62
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 63   *	*	*	*	*	*	*	*	*	*	*	*	*	3169	170	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 64   *	*	*	4082	*	*	*	*	744	*	2954	2896	*	3636	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 65   *	*	2812	*	*	763	3016	*	3636	*	*	3955	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 66   *	*	*	1274	*	*	*	*	*	*	*	*	*	*	770	*	*	*	*	*	66
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 67   *	*	3636	1553	*	4447	*	*	1741	*	*	3953	*	*	*	2564	*	*	*	*	67
+       208	*	2896	*	*	*	*	2242	0	0	
+
+P 68   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	68
+       0	*	*	*	*	0	*	2022	0	1000	
+
+L 69   *	*	*	*	2573	*	*	1746	*	906	*	*	*	*	*	*	*	*	*	*	69
+       336	2266	*	453	1890	*	*	2242	1440	0	
+
+F 70   *	*	*	*	1336	*	*	2787	*	4223	*	*	2586	*	*	2520	*	3953	*	*	70
+       136	3470	*	1000	1000	*	*	2242	1000	0	
+
+Q 71   2896	*	*	4082	*	*	*	3512	*	3636	2564	*	2453	4262	*	2091	*	*	*	*	71
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 72   *	*	*	*	*	*	*	*	*	121	*	*	*	3636	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 73   *	*	*	*	*	*	*	*	2330	*	*	1310	*	*	2954	2215	4223	*	*	*	73
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 74   *	*	*	*	*	*	*	*	626	2896	4366	2564	*	*	*	*	*	*	*	*	74
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 75   3636	*	2954	*	*	2564	*	*	*	*	*	*	*	*	*	2896	3512	1324	*	*	75
+       0	*	*	*	*	*	*	2242	0	0	
+
+R 76   *	*	*	*	*	*	*	*	1786	2954	*	2896	*	2564	2110	*	4447	*	*	*	76
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 77   *	*	2896	*	2824	*	*	4366	*	*	*	*	*	2954	2564	1404	*	*	*	*	77
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 78   3512	*	*	*	*	*	*	2900	*	*	*	*	*	*	*	*	*	361	*	*	78
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 79   *	*	760	*	*	*	*	*	*	*	*	1647	*	*	*	*	*	3470	*	*	79
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 80   3636	*	*	*	1746	*	*	*	*	*	*	*	*	*	*	1206	4223	*	*	2896	80
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 81   *	*	*	*	*	*	*	2215	*	3169	*	3512	*	*	*	*	1746	1797	*	*	81
+       0	*	*	*	*	*	*	2242	0	0	
+
+M 82   *	*	*	*	*	3397	*	*	*	3636	2120	*	*	*	*	*	1263	2491	*	*	82
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 83   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	83
+       0	*	*	*	*	*	*	2242	0	0	
+
+A 84   707	*	*	*	*	*	*	*	*	3512	*	*	*	*	*	*	3470	2255	*	*	84
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 85   *	*	4285	*	*	*	4349	*	3512	*	*	*	*	*	*	680	*	*	*	2412	85
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 86   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	2242	0	0	
+
+T 87   895	*	*	*	*	3512	*	*	*	*	2896	*	*	*	2955	*	3169	*	*	*	87
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 88   *	*	*	*	757	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1292	88
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 89   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	89
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 90   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 91   *	*	*	3470	*	*	*	3664	267	*	*	*	*	*	*	*	*	*	*	*	91
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 92   *	*	*	*	*	*	*	*	*	2896	*	*	*	*	*	*	*	208	*	*	92
+       0	*	*	*	*	*	*	2242	0	0	
+
+Y 93   *	*	*	*	4285	*	*	*	*	*	*	*	*	*	*	2896	*	*	*	296	93
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 94   *	*	*	*	3397	*	*	*	*	144	*	*	*	*	*	*	*	*	*	*	94
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 95   *	*	*	2896	*	*	*	*	*	*	*	817	*	*	*	2954	2564	*	*	*	95
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 96   *	*	*	*	*	*	*	*	*	4223	2494	*	*	*	*	*	*	379	*	*	96
+       0	*	*	*	*	*	*	2242	0	0	
+
+T 97   *	*	*	*	*	*	*	*	*	*	*	1746	*	*	*	*	511	*	*	*	97
+       0	*	*	*	*	*	*	2242	0	0	
+
+T 98   2098	*	2896	*	*	*	*	*	*	*	*	*	*	*	*	3082	960	*	*	*	98
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 99   *	*	1840	*	*	*	2060	*	*	*	*	*	2801	3146	*	3470	2896	*	*	*	99
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 100  *	*	2564	*	*	*	3636	*	*	*	*	1213	*	*	2896	2436	*	*	*	*	100
+       121	3636	*	0	*	*	*	2242	1000	0	
+
+T 101  2415	*	*	*	*	*	*	*	*	*	*	2896	*	*	*	3636	742	*	*	*	101
+       0	*	*	*	*	*	*	2242	0	0	
+
+S 102  *	2896	*	*	*	*	*	*	*	3470	*	*	*	*	*	367	*	*	*	*	102
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 103  *	788	*	*	*	*	*	*	*	4262	*	*	4082	*	*	*	2896	*	*	2512	103
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 104  *	*	2110	940	*	*	*	*	2017	*	*	*	*	*	*	*	*	*	*	*	104
+       0	*	*	*	*	*	*	2242	0	0	
+
+D 105  *	*	716	*	*	*	1720	*	*	*	*	*	*	3512	*	*	*	*	*	*	105
+       0	*	*	*	*	*	*	2242	0	0	
+
+F 106  *	*	*	*	2058	*	*	1243	*	1568	*	*	*	*	*	*	*	*	*	*	106
+       0	*	*	*	*	*	*	2242	0	0	
+
+H 107  *	*	*	*	*	*	2915	*	*	*	*	*	*	1129	2954	3512	2896	*	*	4082	107
+       208	*	2896	*	*	*	*	2242	0	0	
+
+V 108  *	*	*	*	*	*	*	2333	*	*	2747	*	*	*	*	*	*	616	*	*	108
+       0	*	*	*	*	*	0	2022	0	1000	
+
+N 109  *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	109
+       0	*	*	*	*	*	0	2022	0	1000	
+
+G 110  3347	*	2333	*	*	508	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110
+       0	*	*	*	*	0	*	2022	0	1000	
+
+G 111  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	111
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 112  *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	112
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 113  *	*	*	*	*	*	*	*	*	121	*	*	*	*	*	*	*	3636	*	*	113
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 114  *	*	*	*	*	2896	*	441	*	*	*	*	*	*	*	*	*	*	*	2954	114
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 115  *	*	*	*	*	*	*	3470	*	527	*	*	*	*	*	*	*	2214	*	*	115
+       0	*	*	*	*	*	*	2242	0	0	
+
+I 116  *	*	*	*	*	*	*	267	*	*	*	*	*	*	*	*	*	2564	*	*	116
+       0	*	*	*	*	*	*	2242	0	0	
+
+H 117  *	*	*	*	*	*	1220	*	*	1883	*	*	*	1738	*	*	*	*	*	*	117
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 118  *	*	*	*	*	*	*	*	*	1720	*	*	*	522	*	*	*	*	*	*	118
+       0	*	*	*	*	*	*	2242	0	0	
+
+N 119  2896	*	*	*	*	*	*	*	*	*	*	522	*	*	*	*	2564	*	*	*	119
+       0	*	*	*	*	*	*	2242	0	0	
+
+P 120  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	120
+       0	*	*	*	*	*	*	2242	0	0	
+
+G 121  *	*	*	*	*	367	*	*	2896	*	*	3470	*	*	*	*	*	*	*	*	121
+       0	*	*	*	*	*	*	2242	0	0	
+
+E 122  *	*	*	2602	*	513	*	*	2896	*	*	*	*	*	*	*	*	*	*	*	122
+       0	*	*	*	*	*	*	2242	0	0	
+
+F 123  *	*	*	*	867	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1146	123
+       0	*	*	*	*	*	*	2242	0	0	
+
+C 124  *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	124
+       0	*	*	*	*	*	*	2242	0	0	
+
+V 125  *	*	*	*	*	*	*	2335	*	*	*	*	*	*	*	*	*	319	*	*	125
+       0	*	*	*	*	*	*	1616	0	0	
+
+L 126  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	126
+       0	*	*	0	*	*	*	1253	0	0	
+
+//

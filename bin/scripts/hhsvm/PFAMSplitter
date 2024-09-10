@@ -1,0 +1,65 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 38 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/PFAMSplitter $
+# ==============================================================================
+
+if(@ARGV == 0)
+{
+    print "Splits PFAM full according PFAM families.\nUsage: <input file> <output dir>";
+}
+
+my $input = $ARGV[0]; 
+my $output_dir = "";
+if(@ARGV > 1)
+{
+    $output_dir = $ARGV[1];
+}
+
+open DATA, "<", $input or die "Cannot open file: \'$input\'!";
+
+
+while(my $line = <DATA>)
+{
+    if($line =~ /^#\s+STOCKHOLM\s+[\d\.]+/)
+    {
+        my @data;
+        push(@data, $line);
+        
+        my $name;
+        my $description;
+
+        while($line !~ /^\/\//)
+        {
+            $line = <DATA>;
+            push(@data, $line);
+            
+            if($line =~ /^#=GF\s+AC\s+(PF\d+)/)
+            {
+                $name = $1;
+            }
+            elsif($line =~ /^#=GF\s+DE\s+(.*$)/)
+            {
+                $description = $1;
+            }
+        }
+
+	open OUTPUT, ">", $output_dir . $name . ".sto" or die "Cannot open OUTPUT file: $output_dir$name.sto!";
+
+#	print OUTPUT "\#$name $description;\n";
+
+        foreach my $str (@data)
+        {
+            print OUTPUT $str;
+        }
+
+        close OUTPUT;
+    }
+}
+
+close DATA;

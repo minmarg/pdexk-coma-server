@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1icaa_ g.3.7.4 (A:) Defensin A {Flesh fly (Phormia terranovae) [TaxId: 34676]}
+FAM   g.3.7.4
+FILE  d1icaa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1icaa_.a3m -v 1 
+DATE  Mon Jan 21 21:36:11 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  53 out of 55 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHCCCCCCCCCCCCEEEECC
+>ss_conf
+9534443478783135655645068675225981267249
+>Consensus
+aTCDlLSxxxvnhsaCAaHClxxgxxGGyCnxkxvCvCRn
+>d1icaa_ g.3.7.4 (A:) Defensin A {Flesh fly (Phormia terranovae) [TaxId: 34676]}
+ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN
+>gi|322795059|gb|EFZ17907.1|(54-92:92) hypothetical protein SINV_14314 [Solenopsis invicta]   E=2e-05 s/c=1.35 id=58% cov=95%
+--CDLLDGFGVGHSVCAAYCITRGHKGGYCTTTGTCECR-
+>gi|160285696|pdb|2NY9|X(1-39:41) Chain X, Nmr Structure Of Def-Abb, A Mutant Of Anopheles Defensin Def-Aaa  E=0.0001 s/c=1.26 id=62% cov=100%
+ATCDLASGFGVGSSLCAAHCLVKGYRGGYCKNK-ICHCRD
+>gi|149728143|gb|ABR28349.1|(51-88:88) defensin [Lutzomyia longipalpis]   E=2e-08 s/c=1.63 id=62% cov=98%
+-TCDLLGPTGWGDALCAAHCISKGYRGGYCNAQKVCVCR-
+>gi|195380069|ref|XP_002048793.1|(40-78:79) GJ21126 [Drosophila virilis] >gi|194143590|gb|EDW59986.1| GJ21126 [Drosophila virilis]  E=2e-08 s/c=1.58 id=60% cov=100%
+ATCDLLSFWNVKNTACVAHCLARRYKGGYCNNKAICVCR-
+>gi|3913441|sp|O16136.1|DEF1_STOCA(41-78:79) RecName: Full=Defensin-1; Flags: Precursor >gi|5924285|gb|AAD56535.1|AF182163_1 defensin 1 [Stomoxys calcitrans] >gi|2331283|gb|AAB66892.1| defensin [Stomoxys calcitrans]  E=2e-06 s/c=1.46 id=59% cov=98%
+-TCDLLSLWKVGHAACAAHCLVLGDVGGYCTKEGLCVCK-
+>gi|242014943|ref|XP_002428138.1|(67-108:109) Defensin precursor, putative [Pediculus humanus corporis] >gi|212512681|gb|EEB15400.1| Defensin precursor, putative [Pediculus humanus corporis]  E=1e-05 s/c=1.24 id=62% cov=98%
+ATCDLLSastpWGSLNHSACAAHCLTKRYKGGRCRN-GICRCR-
+>gi|340714924|ref|XP_003395972.1|(46-83:96) PREDICTED: hypothetical protein LOC100631063 [Bombus terrestris] >gi|37256234|gb|AAQ90412.1| defensin [Bombus ignitus] >gi|37594655|gb|AAQ94318.1| defensin [Bombus ignitus]  E=0.0007 s/c=1.22 id=63% cov=95%
+-TCDLLSIKGVaEHSACAANCLSMGKAGGRCEN-GVCLCR-
+>gi|13625795|gb|AAK35160.1|AF311352_1(42-83:83) defensin 1 precursor [Acalolepta luxuriosa]   E=3e-07 s/c=1.37 id=62% cov=98%
+-TCDVLSveakGVKLNHAACGIHCLFRRRTGGYCNKKRVCICR-
+>gi|145864817|gb|ABP97087.1|(39-80:80) coprisin [Copris tripartitus]   E=0.0004 s/c=1.13 id=62% cov=98%
+-TCDVLSfeakGIAVNHSACALHCIALRKKGGSCQN-GVCVCRN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1930	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5050	44	*	*	*	2
+       0	*	*	*	*	*	*	2336	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2374	0	0	
+
+D 4    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2374	0	0	
+
+L 5    *	*	*	*	4417	*	*	4340	*	393	*	*	*	*	*	*	*	2811	*	*	5
+       0	*	*	*	*	*	*	2374	0	0	
+
+L 6    4119	*	*	*	5335	*	*	*	*	246	5585	*	*	*	*	*	5613	*	4913	*	6
+       38	5253	*	2000	415	*	*	2374	1000	0	
+
+S 7    5253	*	4634	*	*	5480	*	*	*	*	*	*	*	4913	*	188	*	*	*	*	7
+       434	2142	4913	2000	415	*	*	2374	1954	0	
+
+G 8    4164	*	*	*	3206	989	*	5286	3553	4462	6119	*	5315	*	*	*	*	5823	3075	*	8
+       0	*	*	*	*	*	0	2343	0	1000	
+
+T 9    6068	*	*	4750	1942	4196	*	4642	5286	2754	6084	*	*	*	*	4894	3104	3626	2528	*	9
+       26	5823	*	2000	415	*	0	2343	1000	1000	
+
+G 10   4564	*	*	*	*	1139	*	*	2754	*	*	2400	*	*	*	3110	4312	*	*	*	10
+       135	3486	*	2149	368	*	0	2343	1611	1000	
+
+I 11   5387	*	*	*	5288	*	*	3745	*	2626	*	*	3915	*	*	*	*	866	3339	*	11
+       37	5286	*	0	*	0	*	2343	1000	1000	
+
+N 12   *	*	4205	5306	*	1996	*	*	3900	*	*	782	*	5545	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2374	0	0	
+
+H 13   *	*	2832	*	*	*	573	*	*	*	*	4008	*	4913	*	3443	*	*	*	*	13
+       0	*	*	*	*	*	*	2374	0	0	
+
+S 14   1757	*	*	*	*	*	*	*	*	*	*	*	*	*	*	708	3438	*	*	*	14
+       0	*	*	*	*	*	*	2374	0	0	
+
+A 15   342	*	*	*	*	5375	*	4232	*	3645	*	*	*	*	*	*	*	4211	*	*	15
+       0	*	*	*	*	*	*	2374	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2374	0	0	
+
+A 17   104	*	*	*	*	4422	*	*	*	*	*	*	*	*	*	*	*	5432	*	*	17
+       0	*	*	*	*	*	*	2374	0	0	
+
+A 18   395	*	*	*	*	4102	*	3401	*	4660	*	*	*	*	*	*	5695	5169	*	*	18
+       0	*	*	*	*	*	*	2374	0	0	
+
+H 19   *	*	*	*	*	*	233	*	5336	*	*	4051	*	*	5413	*	*	*	*	4634	19
+       0	*	*	*	*	*	*	2374	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2374	0	0	
+
+L 21   *	*	*	*	*	*	*	1361	*	922	*	*	*	*	*	*	*	4799	*	4417	21
+       0	*	*	*	*	*	*	2374	0	0	
+
+L 22   1455	*	*	*	3301	4545	*	*	*	2747	5829	*	*	5703	*	3321	4096	2952	*	5854	22
+       25	5854	*	1000	1000	*	*	2374	1000	0	
+
+R 23   *	*	*	*	*	*	5808	4232	2242	2262	4051	4913	*	4374	1445	*	*	*	*	*	23
+       44	5071	*	1000	1000	*	*	2374	1000	0	
+
+G 24   *	*	*	*	*	580	*	*	4295	5153	*	*	*	*	1989	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2374	0	0	
+
+N 25   *	*	4471	*	2988	*	4634	*	1791	*	*	2705	*	*	2776	*	*	*	*	2320	25
+       0	*	*	*	*	*	*	2374	0	0	
+
+R 26   4051	*	*	*	*	5153	*	*	2210	*	*	*	*	*	1110	3777	3130	4471	*	*	26
+       0	*	*	*	*	*	*	2374	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2374	0	0	
+
+G 28   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2374	0	0	
+
+Y 29   4278	*	*	*	*	*	4643	*	*	*	*	*	*	*	2410	3568	*	*	*	653	29
+       0	*	*	*	*	*	*	2374	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2374	0	0	
+
+N 31   *	*	5871	4554	*	*	*	*	4634	*	*	723	*	4588	4584	3639	3228	5375	*	*	31
+       0	*	*	*	*	*	*	2374	0	0	
+
+G 32   3895	*	2892	*	*	2361	*	*	3656	*	*	2014	*	*	*	2082	4634	*	*	*	32
+       341	*	2248	*	*	*	*	2374	0	0	
+
+K 33   *	*	3578	4321	*	*	*	*	910	*	*	5929	*	3052	4179	5437	3075	*	*	*	33
+       88	*	4072	*	*	0	*	2229	0	1964	
+
+G 34   1855	*	*	*	*	1280	*	*	2966	5558	*	*	*	*	3274	5218	4953	*	*	*	34
+       0	*	*	*	*	0	*	2362	0	1364	
+
+V 35   *	*	*	*	*	*	*	2353	*	4471	*	*	*	*	*	*	4634	476	*	*	35
+       0	*	*	*	*	*	*	2374	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2374	0	0	
+
+V 37   *	*	*	4102	*	*	3957	3790	*	4544	*	4179	*	*	5777	*	5808	576	*	*	37
+       0	*	*	*	*	*	*	2374	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2374	0	0	
+
+R 39   *	*	*	*	*	*	*	*	4471	*	*	*	*	*	67	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2374	0	0	
+
+N 40   *	*	3720	*	*	*	4064	*	*	*	*	210	*	*	*	*	*	*	*	*	40
+       0	*	*	0	*	*	*	1828	0	0	
+
+//

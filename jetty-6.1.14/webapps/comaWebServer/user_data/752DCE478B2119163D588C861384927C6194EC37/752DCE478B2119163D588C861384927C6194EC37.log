@@ -1,0 +1,79 @@
+Job started: Fri Nov 21 11:34:10 MSK 2014; Running on: skarabas_vz
+
+TARGET: 752DCE478B2119163D588C861384927C6194EC37
+Making profile...
+/usr/local/install/coma-v1/bin/makepro -i /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.ina -o /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.pro -p /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.par -v 
+[makepro] Reading PSCORES
+
+[makepro] IDENTITY = 0.94, DELSTATE = yes
+[makepro] PCFWEIGHT = 7, MINALNFRN = 0.05, MINALNPOS = 7
+[makepro] HCFILTER = yes
+[makepro] HCWINDOW = 30, HCLOWENT = 3.30, HCHIGHENT = 3.50
+[makepro] INVLCFILTER = no, LCFILTEREACH = no
+
+[makepro] Constructing profile...
+
+[makepro] Done.
+
+    done.
+
+Running coma; output set to 752DCE478B2119163D588C861384927C6194EC37.out ...
+   (database=propfam)
+/usr/local/install/coma-v1/bin/coma -i /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.pro -d /usr/local/install/coma-v1/data/prodb-b7/propfam -o /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.out -p /home/coma/jetty-6.1.14/webapps/comaWebServer/user_data/752DCE478B2119163D588C861384927C6194EC37/752DCE478B2119163D588C861384927C6194EC37.par -v 
+[coma] Reading PSCORES
+
+[coma] Scoring scheme: Profile.
+[coma] Statistics: Composition-based.
+[coma] Instant masking.
+
+[coma] EVAL = 100.0, NOHITS = 100, NOALNS = 100
+[coma] IDENTITY = 0.94, DELSTATE = yes
+[coma] PCFWEIGHT = 7, MINALNFRN = 0.05, MINALNPOS = 7
+[coma] INFCON = 0.17, MASKAFTER = no, SCALEDOWN = 0.50
+[coma] HCFILTER = yes
+[coma] HCWINDOW = 30, HCLOWENT = 3.30, HCHIGHENT = 3.50
+[coma] INVLCFILTER = no, LCFILTEREACH = no
+[coma] OPENCOST = A4, EXTCOST = 1, DELPROBWEIGHT = 0.60
+[coma] SCHEME = profile, COMPSTATS = yes, USEGCPROBS = yes
+[coma] GPROBEVAL = 1e-05, GPFARGWEIGHT = 0.40, GPFARGSHIFT = 0.00
+[coma] AC1NUMER = 4.0, AC2UBNUMER = 5.0, AC2LOGSCALE = 14.0, AC2DENOMSCALE = 0.12
+[coma] ANPOSCOR = no, PROHIBITCOR = no
+[coma] INFCON2UB =  0.30, INFCON2NUMER =  4.4, INFCON2LOGSCALE = 4.0
+[coma] INFCONALTNUMER =  1.0, INFCONALTLOGSCALE = 3.0
+[coma] HSPLEN = 3, HSPMINSCORE = 7, HSPMAXDIST = 60, NOHSPS = 3
+
+[coma] Lambda (u/g),   0.2777/  0.1412
+[coma] K      (u/g),   0.1094/  0.0045
+[coma] H      (u/g),   0.8407/  0.6816
+[coma] Alpha  (u/g),   0.2313/  0.0726
+[coma] Beta   (u/g),   3.1465/  4.2948
+
+[coma] Reading frequencies...
+
+[coma] Computing scores...
+
+[coma] Searching...
+
+[coma] Finished.
+
+    done.
+
+FINISHED.
+
+TARGET: 752DCE478B2119163D588C861384927C6194EC37
+Checking hits...
+    20 done.
+
+Collecting scop ids...
+    done.
+Determining scop ids...
+    done.
+
+Printing...
+    done.
+
+
+FINISHED.
+
+
+Finished: Fri Nov 21 11:44:26 MSK 2014

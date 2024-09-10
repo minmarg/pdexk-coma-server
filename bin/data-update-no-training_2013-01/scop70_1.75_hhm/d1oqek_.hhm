@@ -1,0 +1,121 @@
+HHsearch 1.5
+NAME  d1oqek_ g.24.1.2 (K:) Tumor necrosis factor receptor superfamily member 13c, BAFF-R, Br3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.2
+FILE  d1oqek_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1oqek_.a3m -v 1 
+DATE  Tue Jan 22 00:33:05 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHHHCCCCCCCCCCC
+>ss_conf
+9977404578999987764001248888889
+>Consensus
+ptxcvxaecfdxlvrhcvacxllrtxxprxa
+>d1oqek_ g.24.1.2 (K:) Tumor necrosis factor receptor superfamily member 13c, BAFF-R, Br3 {Human (Homo sapiens) [TaxId: 9606]}
+PTPCVPAECFDLLVRHCVACGLLRTPRPKPA
+>gi|351708349|gb|EHB11268.1|(22-52:182) Tumor necrosis factor receptor superfamily member 13C [Heterocephalus glaber]  E=0.0006 s/c=1.53 id=69% cov=103%
+PTRCIQAECFDHLVRHCVACSLLRTAEPRAA
+>gi|348569572|ref|XP_003470572.1|(16-46:179) PREDICTED: tumor necrosis factor receptor superfamily member 13C-like [Cavia porcellus]  E=0.0006 s/c=1.53 id=69% cov=103%
+PTRCVQTECFDHLVRHCVSCRLLRTPEPRAA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1274	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1274	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	1495	*	632	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1274	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1274	0	0	
+
+V 5    *	*	*	*	*	*	*	1632	*	*	*	*	*	*	*	*	*	562	*	*	5
+       0	*	*	*	*	*	*	1274	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	1495	632	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1274	0	0	
+
+A 7    562	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1632	*	*	*	7
+       0	*	*	*	*	*	*	1274	0	0	
+
+E 8    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1274	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1274	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1274	0	0	
+
+D 11   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1274	0	0	
+
+L 12   *	*	*	*	*	*	632	*	*	1495	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1274	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1274	0	0	
+
+V 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	14
+       0	*	*	*	*	*	*	1274	0	0	
+
+R 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1274	0	0	
+
+H 16   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1274	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1274	0	0	
+
+V 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	18
+       0	*	*	*	*	*	*	1274	0	0	
+
+A 19   562	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1632	*	*	*	*	19
+       0	*	*	*	*	*	*	1274	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1274	0	0	
+
+G 21   *	*	*	*	*	1495	*	*	*	*	*	*	*	*	1632	1632	*	*	*	*	21
+       0	*	*	*	*	*	*	1274	0	0	
+
+L 22   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1274	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1274	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1274	0	0	
+
+T 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	25
+       0	*	*	*	*	*	*	1274	0	0	
+
+P 26   1632	*	*	*	*	*	*	*	*	*	*	*	562	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1274	0	0	
+
+R 27   *	*	*	632	*	*	*	*	*	*	*	*	*	*	1495	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1274	0	0	
+
+P 28   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1274	0	0	
+
+K 29   *	*	*	*	*	*	*	*	1495	*	*	*	*	*	632	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1274	0	0	
+
+P 30   632	*	*	*	*	*	*	*	*	*	*	*	1495	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1274	0	0	
+
+A 31   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1274	0	0	
+
+//

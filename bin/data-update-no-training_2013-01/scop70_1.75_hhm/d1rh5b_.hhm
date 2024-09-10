@@ -1,0 +1,210 @@
+HHsearch 1.5
+NAME  d1rh5b_ f.23.28.1 (B:) Preprotein translocase SecE subunit {Archaeon Methanococcus jannaschii [TaxId: 2190]}
+FAM   f.23.28.1
+FILE  d1rh5b_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rh5b_.a3m -v 1 
+DATE  Tue Jan 22 01:31:46 2013
+LENG  56 match states, 56 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+>ss_conf
+96789999998775369988999999988888999999999999999999988619
+>Consensus
+lkxFlxeckRVlxvtrKPtxxEyxxxaKiTGlGixllGxiGxiIhvxxxxikgxxk
+>d1rh5b_ f.23.28.1 (B:) Preprotein translocase SecE subunit {Archaeon Methanococcus jannaschii [TaxId: 2190]}
+LKEFIEECRRVWLVLKKPTKDEYLAVAKVTALGISLLGIIGYIIHVPATYIKGILK
+>gi|150401435|ref|YP_001325201.1|(29-84:85) preprotein translocase subunit SecE [Methanococcus aeolicus Nankai-3] >gi|150014138|gb|ABR56589.1| protein translocase SEC61 complex, gamma subunit [Methanococcus aeolicus Nankai-3]  E=2e-11 s/c=1.29 id=49% cov=102%
+FKAFINQCKRVMMITRRPSRDEFLMVSKVTGLGICLLGALGFAIHAPMMYLKAMLK
+>gi|20094258|ref|NP_614105.1|(7-58:61) protein translocase subunit Sss1 [Methanopyrus kandleri AV19] >gi|22096153|sp|Q8TX54.1|SECE_METKA RecName: Full=Preprotein translocase subunit SecE; AltName: Full=Protein transport protein Sec61 gamma subunit homolog >gi|19887295|gb|AAM02035.1| Protein translocase subunit Sss1 [Methanopyrus kandleri AV19]  E=0.0003 s/c=0.93 id=38% cov=95%
+LISLLRDCKRVLRAARKPTWDEYIESAKIAGLGILIVGGVGFLIRVIVQLIE----
+>gi|336121525|ref|YP_004576300.1|(25-80:81) Preprotein translocase subunit secE [Methanothermococcus okinawensis IH1] >gi|334856046|gb|AEH06522.1| Preprotein translocase subunit secE [Methanothermococcus okinawensis IH1]  E=5e-16 s/c=1.56 id=60% cov=102%
+LKSFLNQCKRVLMISRKPTRDEFLNVSKVTGLGICLLGAIGFVIHVPITYLKGLLK
+>gi|297620008|ref|YP_003708113.1|(13-67:68) protein translocase SEC61 complex subunit gamma [Methanococcus voltae A3] >gi|297378985|gb|ADI37140.1| protein translocase SEC61 complex, gamma subunit [Methanococcus voltae A3]  E=1e-13 s/c=1.45 id=52% cov=100%
+-KNFINQCQRVLKVSRKPTREEYINISKVTGLGICLLGAVGFAVHVPITYLKALIK
+>gi|375081937|ref|ZP_09729010.1|(9-61:63) preprotein translocase subunit SecE [Thermococcus litoralis DSM 5473] >gi|374743377|gb|EHR79742.1| preprotein translocase subunit SecE [Thermococcus litoralis DSM 5473]  E=9e-09 s/c=1.19 id=48% cov=96%
+FKNFISESKRVFLVTKKPSWKEYKLAAKITGVGIILIGLIGMLIHIIGALIEG---
+>gi|14591735|ref|NP_142026.1|(8-60:61) preprotein translocase subunit SecE [Pyrococcus horikoshii OT3] >gi|14548257|sp|P58199.1|SECE_PYRHO RecName: Full=Preprotein translocase subunit SecE; AltName: Full=Protein transport protein Sec61 gamma subunit homolog  E=1e-07 s/c=1.13 id=39% cov=96%
+VRNFFKESKRVFLVTKKPGWEEYKKAAKITGLGILVIGLVGMLIRIIGILMLG---
+>gi|341581833|ref|YP_004762325.1|(8-60:61) preprotein translocase subunit SecE [Thermococcus sp. 4557] >gi|340809491|gb|AEK72648.1| preprotein translocase subunit SecE [Thermococcus sp. 4557]  E=1e-05 s/c=1.00 id=43% cov=96%
+LKSFFAESRRVLMVTKKPGMKEFKMAAKITGIGMLLIGTIGLILRLIGYLITG---
+>gi|223478944|ref|YP_002582907.1|(9-61:64) Preprotein translocase subunit SecE [Thermococcus sp. AM4] >gi|214034170|gb|EEB74996.1| Preprotein translocase, subunit SecE [Thermococcus sp. AM4]  E=0.0002 s/c=0.93 id=44% cov=96%
+IKNFLSESRRVLLVTRKPSWKEYKLAAKITGLGMIIIGTIGLLITVIGYLIMG---
+>gi|374636731|ref|ZP_09708285.1|(13-68:71) protein translocase SEC61 complex, gamma subunit [Methanotorris formicicus Mc-S-70] >gi|373558023|gb|EHP84390.1| protein translocase SEC61 complex, gamma subunit [Methanotorris formicicus Mc-S-70]  E=4e-10 s/c=1.21 id=54% cov=102%
+IKNFLLQCKRVLMITRKPTKEEFINISKVTGLGICILGIIGFIIHVPIVYIKGLIK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	2681	*	*	2985	*	796	*	*	*	*	*	*	*	2818	*	*	1
+       0	*	*	*	*	*	*	2346	0	0	
+
+K 2    *	*	*	*	*	*	*	3174	305	*	*	*	*	*	3651	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2363	0	0	
+
+E 3    3703	*	3083	2571	*	*	*	*	*	*	*	1450	*	*	*	1884	*	*	*	*	3
+       0	*	*	*	*	*	*	2356	0	0	
+
+F 4    *	*	*	*	167	*	*	*	*	3192	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2356	0	0	
+
+I 5    *	*	*	*	2329	*	*	1695	*	1023	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2356	0	0	
+
+E 6    2505	*	*	2571	*	*	4159	*	3719	4362	*	2413	*	4011	3192	3112	*	*	*	*	6
+       0	*	*	*	*	*	*	2356	0	0	
+
+E 7    *	*	3318	829	*	*	*	*	*	*	*	*	*	1570	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2392	0	0	
+
+C 8    *	767	*	*	*	*	*	*	*	4122	*	*	*	*	*	1781	*	3964	*	*	8
+       0	*	*	*	*	*	*	2392	0	0	
+
+R 9    *	*	*	*	*	*	*	*	736	*	*	*	*	4007	1568	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2392	0	0	
+
+R 10   *	*	*	*	*	*	*	*	3964	*	*	*	*	*	96	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2392	0	0	
+
+V 11   *	*	*	*	*	*	*	4224	*	*	*	*	*	*	*	*	*	79	*	*	11
+       0	*	*	*	*	*	*	2392	0	0	
+
+W 12   *	*	*	*	3027	*	*	3964	*	763	3764	*	*	*	*	*	*	*	2732	*	12
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 13   *	*	*	*	*	*	*	*	4007	1190	1578	*	*	*	3318	*	*	*	3964	*	13
+       0	*	*	*	*	*	*	2392	0	0	
+
+V 14   3318	*	*	*	*	*	*	1865	*	*	*	*	3964	*	*	*	*	834	*	*	14
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 15   3318	*	*	*	*	*	*	*	*	2732	*	*	*	*	*	2200	912	*	*	*	15
+       0	*	*	*	*	*	*	2392	0	0	
+
+K 16   *	*	*	*	*	*	*	*	1363	*	*	*	*	*	710	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2392	0	0	
+
+K 17   *	*	*	*	*	*	*	*	110	*	*	*	*	*	3764	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2392	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2392	0	0	
+
+T 19   *	*	*	*	*	2075	*	*	*	*	*	4073	*	*	*	2437	948	*	*	*	19
+       0	*	*	*	*	*	*	2392	0	0	
+
+K 20   *	*	*	*	*	*	*	*	2261	*	3160	*	*	*	1545	*	*	*	1570	*	20
+       0	*	*	*	*	*	*	2392	0	0	
+
+D 21   *	*	1405	1792	*	*	*	*	1834	*	*	*	*	4232	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2392	0	0	
+
+E 22   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2392	0	0	
+
+Y 23   *	*	*	*	1197	*	*	*	*	*	*	*	*	*	*	*	*	*	*	827	23
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 24   *	*	*	*	*	*	*	1668	1521	1570	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2392	0	0	
+
+A 25   2635	*	*	3318	*	*	*	*	3876	2622	2384	2733	*	*	*	*	2589	*	*	*	25
+       0	*	*	*	*	*	*	2392	0	0	
+
+V 26   1521	*	*	*	*	*	*	2182	*	*	*	*	*	*	*	3318	*	1595	*	*	26
+       0	*	*	*	*	*	*	2392	0	0	
+
+A 27   592	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1570	*	*	*	*	27
+       0	*	*	*	*	*	*	2392	0	0	
+
+K 28   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2392	0	0	
+
+V 29   *	*	*	*	*	*	*	993	*	*	*	*	*	*	*	*	*	1007	*	*	29
+       0	*	*	*	*	*	*	2392	0	0	
+
+T 30   3318	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	152	*	*	*	30
+       0	*	*	*	*	*	*	2392	0	0	
+
+A 31   2635	*	*	*	*	253	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 32   *	*	*	*	*	*	*	2128	*	588	4281	*	*	*	*	*	*	4196	*	*	32
+       0	*	*	*	*	*	*	2392	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 34   *	*	*	*	*	*	*	369	*	*	2147	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2392	0	0	
+
+S 35   *	1570	*	*	*	*	*	2185	*	2127	*	*	*	*	*	2221	*	*	*	*	35
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 36   *	*	*	*	*	*	*	2306	*	455	*	*	*	*	*	*	*	3876	*	*	36
+       0	*	*	*	*	*	*	2392	0	0	
+
+L 37   *	*	*	*	*	*	*	1521	*	859	*	*	*	*	*	*	*	3318	*	*	37
+       0	*	*	*	*	*	*	2392	0	0	
+
+G 38   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 39   2485	*	*	*	4232	3318	*	1646	*	2473	*	*	*	*	*	*	2570	*	*	*	39
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 40   *	*	*	*	*	*	*	758	*	2999	*	*	*	*	*	*	*	1817	*	*	40
+       0	*	*	*	*	*	*	2392	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2392	0	0	
+
+Y 42   *	*	*	*	1194	*	*	*	*	2519	2523	*	*	*	*	*	*	*	*	2221	42
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 43   2881	*	*	*	4073	*	*	1234	*	1839	*	*	*	*	*	*	*	3319	*	*	43
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 44   *	*	*	*	*	*	*	189	*	4047	*	*	*	*	*	*	*	4007	*	*	44
+       0	*	*	*	*	*	*	2392	0	0	
+
+H 45   *	*	*	*	*	*	723	*	*	*	*	*	*	*	1566	*	4144	*	*	*	45
+       0	*	*	*	*	*	*	2392	0	0	
+
+V 46   3764	*	*	*	*	*	*	2523	*	4047	4122	*	*	*	*	*	*	656	*	*	46
+       0	*	*	*	*	*	*	2392	0	0	
+
+P 47   *	*	*	*	*	*	*	1156	*	*	*	*	859	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2392	0	0	
+
+A 48   2635	*	*	*	*	1521	*	1959	*	*	3764	*	*	*	*	*	*	2647	*	*	48
+       0	*	*	*	*	*	*	2392	0	0	
+
+T 49   4196	*	*	*	*	*	*	3876	*	*	3764	*	*	3318	*	4224	1401	4459	*	2147	49
+       0	*	*	*	*	*	*	2392	0	0	
+
+Y 50   *	*	*	*	*	*	*	*	*	1156	*	*	*	*	*	*	*	*	*	859	50
+       0	*	*	*	*	*	*	2392	0	0	
+
+I 51   *	*	*	*	*	*	*	763	*	2071	3876	*	*	*	*	*	*	3257	*	*	51
+       0	*	*	*	*	*	*	2392	0	0	
+
+K 52   *	*	*	2691	*	*	*	*	859	3876	4144	*	*	*	*	*	2562	*	*	*	52
+       0	*	*	*	*	*	*	2392	0	0	
+
+G 53   2760	*	*	*	*	348	*	*	*	*	*	*	*	*	*	*	3904	*	*	*	53
+       0	*	*	*	*	*	*	2275	0	0	
+
+I 54   *	*	*	*	*	*	*	1789	*	1064	2991	*	*	*	*	*	*	3228	*	*	54
+       0	*	*	*	*	*	*	1765	0	0	
+
+L 55   *	*	*	*	*	*	*	994	*	1006	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	1765	0	0	
+
+K 56   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	0	*	*	*	1693	0	0	
+
+//

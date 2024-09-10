@@ -1,0 +1,124 @@
+HHsearch 1.5
+NAME  d1ubdc2 g.37.1.1 (C:323-350) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1ubdc2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ubdc2.a3m -v 1 
+DATE  Tue Jan 22 02:46:12 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHCCCCCCEEECCC
+>ss_conf
+9741102102433100010000002179
+>Consensus
+rxhvcaecgkafxessklkrhxlvhtge
+>d1ubdc2 g.37.1.1 (C:323-350) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+RVHVCAECGKAFVESSKLKRHQLVHTGE
+>gi|395545965|ref|XP_003774866.1|(226-251:315) PREDICTED: transcriptional repressor protein YY1-like [Sarcophilus harrisii]  E=9e-06 s/c=2.06 id=85% cov=96%
+--HICAECGKGFVESSKLKRHKLVHTGE
+>gi|390460192|ref|XP_003732440.1|(216-243:302) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 42 homolog [Callithrix jacchus]  E=3e-05 s/c=1.84 id=83% cov=104%
+RNHVCAECGKAFTESSKLKRHFVVHTGE
+>gi|324511226|gb|ADY44678.1|(381-406:500) Polycomb protein PHO [Ascaris suum]   E=3e-05 s/c=1.98 id=81% cov=96%
+--HKCAECGRAFVERSKLRRHQLVHTGE
+>gi|410956065|ref|XP_003984665.1|(212-239:303) PREDICTED: zinc finger protein 42 homolog [Felis catus]   E=4e-05 s/c=1.83 id=83% cov=104%
+RDHVCAECGKAFSESAKLKRHFLVHTGE
+>gi|348566835|ref|XP_003469207.1|(200-227:300) PREDICTED: zinc finger protein 42 homolog [Cavia porcellus]   E=0.0008 s/c=1.68 id=76% cov=104%
+RRFVCAECGRAFYESSKLSRHFLVHTGE
+>gi|195441416|ref|XP_002068505.1|(554-581:709) GK20506 [Drosophila willistoni] >gi|194164590|gb|EDW79491.1| GK20506 [Drosophila willistoni]  E=5e-08 s/c=2.16 id=83% cov=104%
+RGHVCSVCGKSFVESSKLKRHQLVHTGE
+>gi|348561297|ref|XP_003466449.1|(288-315:379) PREDICTED: transcription factor YY2-like [Cavia porcellus]   E=1e-07 s/c=2.12 id=83% cov=104%
+RVHICSECGKAFLENSKLKRHQLVHTGE
+>gi|344281431|ref|XP_003412483.1|(213-240:304) PREDICTED: zinc finger protein 42 homolog [Loxodonta africana]   E=2e-06 s/c=1.95 id=76% cov=104%
+RGFVCAECGRAFNESAKLKRHFLVHTGE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	4088	*	*	*	*	*	87	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1431	0	0	
+
+V 2    *	*	1873	*	*	2546	*	*	*	*	*	4093	4126	4584	3975	*	*	1580	*	*	2
+       0	*	*	*	*	*	*	1431	0	0	
+
+H 3    *	*	*	*	3226	*	163	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1459	0	0	
+
+V 4    *	*	*	*	*	*	*	2915	4260	*	*	*	*	*	*	*	*	295	*	*	4
+       0	*	*	*	*	*	*	1459	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1459	0	0	
+
+A 6    384	*	*	*	*	*	*	*	*	*	*	4154	*	*	*	3382	3611	*	*	*	6
+       0	*	*	*	*	*	*	1459	0	0	
+
+E 7    *	*	*	165	*	*	*	*	*	*	*	*	*	4154	*	*	*	4274	*	*	7
+       0	*	*	*	*	*	*	1459	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1459	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1459	0	0	
+
+K 10   *	*	*	*	*	*	*	*	408	*	*	*	*	*	2021	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1459	0	0	
+
+A 11   348	*	*	*	*	4238	*	*	*	*	*	*	*	*	*	2634	*	*	*	*	11
+       0	*	*	*	*	*	*	1459	0	0	
+
+F 12   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1459	0	0	
+
+V 13   *	*	*	*	*	*	*	2888	4406	2982	*	3019	*	*	*	3614	3428	1582	*	4079	13
+       0	*	*	*	*	*	*	1459	0	0	
+
+E 14   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1459	0	0	
+
+S 15   *	4593	*	*	*	*	*	*	*	*	*	3555	*	*	3397	361	*	*	*	*	15
+       0	*	*	*	*	*	*	1459	0	0	
+
+S 16   2972	*	*	*	*	*	*	*	*	*	*	*	*	*	*	277	4406	*	*	*	16
+       0	*	*	*	*	*	*	1459	0	0	
+
+K 17   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1459	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1459	0	0	
+
+K 19   *	*	*	*	*	*	*	*	316	*	*	*	*	*	3425	4079	4485	*	*	*	19
+       0	*	*	*	*	*	*	1459	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1459	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1459	0	0	
+
+Q 22   *	*	*	*	1020	*	4610	*	4238	*	*	*	*	1276	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1459	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	82	*	*	*	*	*	*	*	4185	*	*	23
+       0	*	*	*	*	*	*	1459	0	0	
+
+V 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	24
+       0	*	*	*	*	*	*	1459	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1459	0	0	
+
+T 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4228	79	*	*	*	26
+       0	*	*	*	*	*	*	1459	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1459	0	0	
+
+E 28   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1459	0	0	
+
+//

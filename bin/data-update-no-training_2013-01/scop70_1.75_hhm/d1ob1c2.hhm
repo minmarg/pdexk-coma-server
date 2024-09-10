@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d1ob1c2 g.3.11.4 (C:46-96) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+FAM   g.3.11.4
+FILE  d1ob1c2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ob1c2.a3m -v 1 
+DATE  Tue Jan 22 00:09:02 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  31 out of 33 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCCCCCCEECCEEEECCC
+>ss_conf
+986578877468876220046777674067863799985300124443069
+>Consensus
+nptCxxNNGGCdpxAxCxxxxxxxnxkkIvCxCxxxxxxpxxxGVfCsxxx
+>d1ob1c2 g.3.11.4 (C:46-96) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+NPTCNENNGGCDADAKCTEEDSGSNGKKITCECTKPDSYPLFDGIFCSHHH
+>gi|10504978|gb|AAG18333.1|(85-133:136) merozoite surface protein-1 [Plasmodium yoelii]   E=3e-05 s/c=1.05 id=51% cov=96%
+NPTCDTNNGGCDTAASCqTGDRSGENSKKVICTCKEPTPNAYYEGVFCS---
+>gi|66570964|emb|CAH10838.1|(1559-1601:1622) merozoite surface protein 1 [Plasmodium gallinaceum]   E=0.0001 s/c=1.15 id=52% cov=86%
+NASCQINNGGCDVNAKCL-----NNENEISCICKLNGSYPIHGGIFCS---
+>gi|290965448|dbj|BAI82250.1|(1830-1874:1895) merozoite surface protein 1 [Plasmodium inui]   E=1e-16 s/c=1.98 id=46% cov=90%
+NVTCTDNNGGCAPEAECNMNEN----NEVVCKCTKEGSEPLYEGVFCSY--
+>gi|269854046|gb|ACZ51237.1|(1688-1729:1751) merozoite surface protein 1 [Plasmodium malariae]   E=5e-13 s/c=1.83 id=51% cov=84%
+-PSCQVNNGGCAPEANCTKGDD----NKIVCACNAPYSEPIFEGVFC----
+>gi|302632969|gb|ADL59758.1|(1806-1846:1867) MAP1 [Plasmodium vivax]   E=3e-06 s/c=1.33 id=36% cov=82%
+--SCAVKNGGCDLKATCEL-----KKNRVNCICPK-GTKPMHEGVVCSF--
+>gi|269854048|gb|ACZ51238.1|(1667-1708:1730) merozoite surface protein 1 [Plasmodium ovale]   E=3e-13 s/c=1.85 id=56% cov=84%
+NPTCAENNGGCDPTADCAESEN----NKITCTCTGQN-ESFFEGVFC----
+>gi|221060628|ref|XP_002260959.1|(1530-1579:1600) hypothetical protein, conserved in Plasmodium species [Plasmodium knowlesi strain H] >gi|193811033|emb|CAQ42931.1| hypothetical protein, conserved in Plasmodium species [Plasmodium knowlesi strain H]  E=4e-07 s/c=1.15 id=34% cov=86%
+---CAVNNGGCDPNALCTAVKPEDEETKgviknvgVLCTCKNGNTK--HMGYYCN---
+>gi|68076149|ref|XP_679994.1|(1438-1486:2271) hypothetical protein [Plasmodium berghei strain ANKA] >gi|56500856|emb|CAI04489.1| conserved hypothetical protein [Plasmodium berghei]  E=4e-06 s/c=1.11 id=39% cov=71%
+--NCKINNGGCDPNAECiqldekgEEENNVMKGVRVLCKCKNNN--------------
+>gi|156094296|ref|XP_001613185.1|(428-465:487) merozoite surface protein 8 [Plasmodium vivax Sal-1] >gi|148802059|gb|EDL43458.1| merozoite surface protein 8, putative [Plasmodium vivax]  E=8e-06 s/c=1.40 id=56% cov=76%
+---CSNNNGGCDVNATCTLID-----KKIVCECKDNFEG---DGIYCSY--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	3808	*	*	*	*	*	*	*	*	107	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2347	0	0	
+
+P 2    3558	*	*	*	*	*	*	*	*	*	2888	*	621	*	*	*	*	2946	*	*	2
+       0	*	*	*	*	*	*	2514	0	0	
+
+T 3    *	*	*	*	*	*	*	*	*	*	*	3555	*	*	*	2440	602	3802	*	*	3
+       0	*	*	*	*	*	*	2767	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       43	5077	*	0	*	*	*	2948	1000	0	
+
+N 5    2508	*	3064	4121	*	5007	*	*	3273	*	5326	2155	*	3517	*	3032	4223	*	*	*	5
+       0	*	*	*	*	*	*	2948	0	0	
+
+E 6    *	*	2643	2610	*	*	*	2754	4751	*	*	2684	*	*	*	5077	4063	2025	*	*	6
+       0	*	*	*	*	*	*	2948	0	0	
+
+N 7    *	*	*	*	*	*	*	*	2959	*	*	199	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2948	0	0	
+
+N 8    *	*	*	*	*	*	*	*	4677	*	*	58	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2948	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2948	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2948	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2948	0	0	
+
+D 12   2006	*	413	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2948	0	0	
+
+A 13   3133	*	*	*	*	*	*	*	4924	3848	*	*	719	*	*	4821	4063	3629	*	*	13
+       0	*	*	*	*	*	*	2948	0	0	
+
+D 14   5018	*	3214	2197	*	*	*	*	3254	*	*	1650	*	*	*	3943	2691	*	*	*	14
+       0	*	*	*	*	*	*	2948	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2948	0	0	
+
+K 16   *	*	2654	1810	*	5007	*	*	3050	4332	*	3792	*	*	*	4172	2483	4385	*	*	16
+       0	*	*	*	*	*	*	2948	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       152	3320	*	1903	449	*	*	2948	1632	0	
+
+T 18   4593	*	*	3185	*	*	*	*	3148	4509	*	4599	*	3561	2970	5326	1404	4821	*	*	18
+       65	*	4509	*	*	*	*	2948	0	0	
+
+E 19   4273	*	*	1564	*	4033	*	*	4424	3119	2195	4173	4323	4985	*	*	4969	*	*	*	19
+       205	*	2917	*	*	*	0	2894	0	1000	
+
+E 20   3396	*	3298	2438	*	4148	*	4387	*	*	4844	3398	5080	*	*	4377	4431	1939	*	*	20
+       0	*	*	*	*	*	0	2775	0	1789	
+
+D 21   *	*	1326	1476	*	*	*	*	4037	*	*	4257	*	*	3852	*	*	4082	*	*	21
+       135	*	3480	*	*	*	0	2775	0	1789	
+
+S 22   *	*	3934	*	*	*	*	*	4833	*	*	1203	2997	*	*	1713	4846	*	*	*	22
+       671	4810	1572	1000	1000	*	0	2696	1000	1956	
+
+G 23   3112	*	3451	3471	*	1492	*	*	*	*	*	*	*	*	4150	*	2266	3592	*	*	23
+       98	3923	*	1000	1000	3077	182	2270	1000	2257	
+
+S 24   *	*	1935	1682	*	*	*	*	*	*	3838	3331	*	*	*	2241	4443	*	*	*	24
+       0	*	*	*	*	1776	498	2405	0	2179	
+
+N 25   *	*	*	2987	*	*	*	*	2287	*	*	905	*	*	3638	4195	*	*	*	*	25
+       121	3638	*	1000	1000	3426	141	2663	1110	1927	
+
+G 26   *	*	*	2112	*	2275	*	*	2303	*	*	*	*	*	*	1476	*	*	*	*	26
+       0	*	*	*	*	0	*	2711	0	1976	
+
+K 27   *	*	*	*	*	*	*	*	757	*	*	1653	*	*	*	*	4332	4624	*	*	27
+       0	*	*	*	*	*	*	2948	0	0	
+
+K 28   *	*	5015	2644	*	*	*	*	789	*	*	4385	*	4751	2782	*	*	*	*	*	28
+       148	3359	*	2807	222	*	*	2948	1119	0	
+
+I 29   *	*	*	*	*	*	*	668	*	*	*	*	*	*	*	*	*	1432	*	*	29
+       0	*	*	*	*	*	*	2948	0	0	
+
+T 30   *	*	*	5235	*	*	*	2476	*	2857	*	3848	*	*	*	4509	2686	1370	*	*	30
+       0	*	*	*	*	*	*	2948	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2948	0	0	
+
+E 32   4524	*	*	2729	*	*	*	3141	1870	*	*	*	*	*	*	*	1383	4821	*	*	32
+       0	*	*	*	*	*	*	2948	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2948	0	0	
+
+T 34   *	*	*	*	*	*	*	*	1147	*	*	4524	3254	*	*	*	1470	4677	*	*	34
+       0	*	*	*	*	*	*	2948	0	0	
+
+K 35   4524	*	4759	1879	*	4593	*	*	1489	4509	*	2278	*	*	*	*	*	*	*	*	35
+       160	*	3254	*	*	*	*	2948	0	0	
+
+P 36   *	*	*	2057	*	3172	*	*	*	*	*	2806	1119	4458	*	*	*	*	*	*	36
+       0	*	*	*	*	0	*	2834	0	1190	
+
+D 37   *	*	3133	*	4759	1497	*	*	*	*	*	2046	*	*	*	*	2256	*	*	4524	37
+       64	*	4533	*	*	*	*	2948	0	0	
+
+S 38   *	4235	*	4612	*	*	*	*	*	*	*	*	1779	*	*	1356	2158	*	*	*	38
+       0	*	*	*	*	0	*	2886	0	1000	
+
+Y 39   *	*	*	1927	*	4648	*	*	2169	*	*	1829	*	5016	*	*	*	*	*	2621	39
+       231	*	2758	*	*	*	*	2888	0	0	
+
+P 40   1592	*	*	*	*	*	*	*	*	*	*	*	689	*	*	4384	*	*	*	*	40
+       0	*	*	*	*	*	0	2704	0	1428	
+
+L 41   *	*	*	*	4384	*	*	2390	*	1383	4433	*	*	*	*	*	*	*	*	1592	41
+       0	*	*	*	*	593	1568	2704	0	1428	
+
+F 42   *	*	*	*	1482	*	2327	*	*	*	*	*	*	*	*	4220	*	*	*	1362	42
+       0	*	*	*	*	0	*	2875	0	1000	
+
+D 43   4897	*	1650	1417	*	4457	*	*	*	*	2663	*	*	3837	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2888	0	0	
+
+G 44   *	*	*	*	*	74	*	*	*	*	*	*	*	*	*	*	*	4322	*	*	44
+       0	*	*	*	*	*	*	2888	0	0	
+
+I 45   *	*	*	*	*	*	*	2265	*	*	*	*	*	*	*	*	*	557	*	3155	45
+       0	*	*	*	*	*	*	2894	0	0	
+
+F 46   *	*	*	*	433	*	*	*	*	*	*	*	*	*	*	*	*	3315	*	2657	46
+       0	*	*	*	*	*	*	2811	0	0	
+
+C 47   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2813	0	0	
+
+S 48   *	*	*	*	*	*	*	*	*	*	*	2274	*	*	*	334	*	*	*	*	48
+       0	*	*	*	*	*	*	2682	0	0	
+
+H 49   *	*	*	*	1568	*	1873	*	*	*	*	*	*	*	*	*	*	*	*	1360	49
+       0	*	*	*	*	*	*	1970	0	0	
+
+H 50   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1000	0	0	
+
+H 51   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

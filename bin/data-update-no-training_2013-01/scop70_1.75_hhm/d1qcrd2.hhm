@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  d1qcrd2 a.3.1.3 (D:167-195) Cytochrome bc1 domain {Cow (Bos taurus) [TaxId: 9913]}
+FAM   a.3.1.3
+FILE  d1qcrd2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1qcrd2.a3m -v 1 
+DATE  Tue Jan 22 01:08:37 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  101 out of 211 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHHHHHHHHHHCC
+>ss_conf
+98776888811568889999999876229
+>Consensus
+dxVxyxDGTpatxxqxAkDVxxFLxWaaE
+>d1qcrd2 a.3.1.3 (D:167-195) Cytochrome bc1 domain {Cow (Bos taurus) [TaxId: 9913]}
+EVLEFDDGTPATMSQVAKDVCTFLRWAAE
+>gi|407773351|ref|ZP_11120652.1|(193-221:258) cytochrome b/c1 [Thalassospira profundimaris WP0211] >gi|407283815|gb|EKF09343.1| cytochrome b/c1 [Thalassospira profundimaris WP0211]  E=0.0002 s/c=1.67 id=50% cov=103%
+EAVEYTDGTPMTLEQHARDVTAFLNWTAQ
+>gi|302383786|ref|YP_003819609.1|(223-249:286) cytochrome C1 [Brevundimonas subvibrioides ATCC 15264] >gi|302194414|gb|ADL01986.1| cytochrome c1 [Brevundimonas subvibrioides ATCC 15264]  E=0.0009 s/c=1.71 id=46% cov=97%
+--VTFDDGTANTVDQMAKDVAAYVAWASD
+>gi|304391291|ref|ZP_07373235.1|(221-249:286) cytochrome B/c1 [Ahrensia sp. R2A130] >gi|303296647|gb|EFL91003.1| cytochrome B/c1 [Ahrensia sp. R2A130]  E=1e-06 s/c=1.92 id=50% cov=103%
+ESVEYDDGTVASLDQQAKDISAFMMWAAD
+>gi|254796974|ref|YP_003081811.1|(184-212:256) ubiquinol-cytochrome c reductase, cytochrome c1 [Neorickettsia risticii str. Illinois] >gi|254590167|gb|ACT69529.1| ubiquinol-Cytochrome c reductase, cytochrome c1 [Neorickettsia risticii str. Illinois]  E=4e-09 s/c=2.20 id=50% cov=103%
+DIVSYEDGTPATVEQMAFDVVNFLQWASE
+>gi|403347368|gb|EJY73104.1|(242-268:342) Cytochrome C1 family protein [Oxytricha trifallax]   E=2e-05 s/c=1.90 id=43% cov=97%
+-MIEYEDGTPASAPQMAHDVSEYLAYIA-
+>gi|149912560|ref|ZP_01901094.1|(210-238:279) cytochrome c1 [Roseobacter sp. AzwK-3b] >gi|149812966|gb|EDM72792.1| cytochrome c1 [Roseobacter sp. AzwK-3b]  E=0.0001 s/c=1.70 id=50% cov=103%
+EDVEFDDGHINTIESQSEDVSAFLMWAAE
+>gi|406989898|gb|EKE09607.1|(589-616:653) hypothetical protein ACD_16C00130G0012 [uncultured bacterium]   E=3e-06 s/c=1.95 id=45% cov=100%
+-LVTYDNGAKPSINQMAKDVTTFLSWTAE
+>gi|83953196|ref|ZP_00961918.1|(214-242:282) ubiquinol--cytochrome c reductase, cytochrome c1 [Sulfitobacter sp. NAS-14.1] >gi|83842164|gb|EAP81332.1| ubiquinol--cytochrome c reductase, cytochrome c1 [Sulfitobacter sp. NAS-14.1]  E=0.0002 s/c=1.67 id=33% cov=103%
+DDVTYNDGHDSDLHHEAEDVAAFLMWTAE
+>gi|294085756|ref|YP_003552516.1|(192-220:256) cytochrome c1 [Candidatus Puniceispirillum marinum IMCC1322] >gi|292665331|gb|ADE40432.1| cytochrome c1 [Candidatus Puniceispirillum marinum IMCC1322]  E=0.001 s/c=1.59 id=47% cov=103%
+DDVEFADGADASVQGAAADVTQFLMWAAE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	888	1121	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2832	0	0	
+
+V 2    4745	*	2881	*	*	4391	*	3511	6467	1932	2400	*	*	3918	*	4789	6412	3123	*	*	2
+       0	*	*	*	*	*	*	3006	0	0	
+
+L 3    5728	*	*	*	*	*	*	2647	*	3563	6500	*	*	*	*	*	6194	490	*	*	3
+       0	*	*	*	*	*	*	2960	0	0	
+
+E 4    4637	*	3759	1202	*	6565	*	*	4964	*	*	*	5599	5004	*	4459	1744	6290	*	*	4
+       0	*	*	*	*	*	*	2960	0	0	
+
+F 5    *	*	*	*	1840	*	*	*	*	*	*	*	*	*	*	*	*	*	*	472	5
+       0	*	*	*	*	*	*	2960	0	0	
+
+D 6    2359	*	2038	2032	*	3775	*	5567	5996	*	5794	6369	4830	6444	*	4093	3801	*	*	*	6
+       0	*	*	*	*	*	*	2960	0	0	
+
+D 7    *	*	70	*	*	*	*	*	*	*	*	5633	5200	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2960	0	0	
+
+G 8    *	*	5648	*	*	66	*	*	*	*	*	5341	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2960	0	0	
+
+T 9    3994	*	*	*	*	*	3592	*	*	*	*	5200	*	*	*	4475	355	*	*	*	9
+       0	*	*	*	*	*	*	2960	0	0	
+
+P 10   3598	*	4143	3814	*	*	*	6358	3141	6544	*	5392	835	6290	6783	4922	*	6145	*	*	10
+       40	5200	*	0	*	*	*	2960	1000	0	
+
+A 11   781	6214	*	4957	*	6444	*	*	6671	*	6408	3435	3346	4121	*	3945	5258	*	*	*	11
+       0	*	*	*	*	*	*	2960	0	0	
+
+T 12   *	*	4488	6127	*	*	*	6440	*	*	*	5260	*	*	*	2192	617	5487	*	6566	12
+       0	*	*	*	*	*	*	2960	0	0	
+
+M 13   3108	*	*	6194	*	*	*	2544	4827	3068	4775	*	6941	5030	6544	5911	3875	1420	*	*	13
+       0	*	*	*	*	*	*	2960	0	0	
+
+S 14   3684	*	2404	1915	*	*	4274	*	4353	6765	*	5148	4192	5108	*	2146	5614	*	*	*	14
+       0	*	*	*	*	*	*	2960	0	0	
+
+Q 15   4702	*	*	*	*	5827	4143	*	*	*	*	3562	*	355	*	5600	*	*	*	*	15
+       0	*	*	*	*	*	*	2960	0	0	
+
+V 16   5308	*	*	3929	*	*	6408	4264	*	3852	1095	*	*	2582	*	*	*	5442	*	3084	16
+       0	*	*	*	*	*	*	2960	0	0	
+
+A 17   298	*	*	*	*	6087	*	*	*	*	*	*	*	*	*	2725	5599	*	*	*	17
+       0	*	*	*	*	*	*	2960	0	0	
+
+K 18   4252	*	6964	3953	6973	6769	3227	*	984	*	*	*	*	3401	3161	*	6269	*	*	5260	18
+       0	*	*	*	*	*	*	2960	0	0	
+
+D 19   5109	*	42	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2960	0	0	
+
+V 20   5799	*	*	*	*	*	*	3770	*	5505	*	*	*	*	*	*	*	173	*	*	20
+       0	*	*	*	*	*	*	2960	0	0	
+
+C 21   1796	6154	*	*	*	6312	*	*	*	*	*	*	*	*	*	1816	2176	2471	*	*	21
+       0	*	*	*	*	*	*	2960	0	0	
+
+T 22   1153	6589	*	3883	*	6801	6019	*	*	*	*	3678	*	4660	*	5546	1963	4260	*	*	22
+       0	*	*	*	*	*	*	2960	0	0	
+
+F 23   *	*	*	*	97	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3950	23
+       0	*	*	*	*	*	*	2960	0	0	
+
+L 24   *	*	*	*	5505	*	*	4526	*	218	4109	*	*	*	*	*	*	5896	*	*	24
+       0	*	*	*	*	*	*	2960	0	0	
+
+R 25   2727	6965	*	5235	*	*	5534	5198	5464	*	1846	4164	*	4006	4756	3922	2262	4818	*	*	25
+       0	*	*	*	*	*	*	2957	0	0	
+
+W 26   *	*	*	*	5770	*	*	*	*	*	*	*	*	*	*	*	*	*	84	4703	26
+       0	*	*	*	*	*	*	2957	0	0	
+
+A 27   1026	4389	*	*	*	*	*	5506	*	5090	*	*	*	*	*	5007	1642	4100	*	*	27
+       0	*	*	*	*	*	*	2957	0	0	
+
+A 28   490	*	*	*	*	5184	*	*	*	*	*	*	*	6071	*	2187	5269	*	*	*	28
+       0	*	*	*	*	*	*	2961	0	0	
+
+E 29   *	*	2692	300	*	*	*	*	*	*	*	*	*	4921	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	2838	0	0	
+
+//

@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d3cx5i1 f.23.14.1 (I:4-58) Subunit X (non-heme 7 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   f.23.14.1
+FILE  d3cx5i1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3cx5i1.a3m -v 1 
+DATE  Tue Jan 22 08:45:37 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  100 out of 154 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHCC
+>ss_conf
+8368999988999999999999999999999999999731379724888854139
+>Consensus
+stxYnxxfrRnStfxxtixxgAfxfExxfdxxxdxxwdxxNkGKlWkDIkxkyxx
+>d3cx5i1 f.23.14.1 (I:4-58) Subunit X (non-heme 7 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+SSLYKTFFKRNAVFVGTIFAGAFVFQTVFDTAITSWYENHNKGKLWKDVKARIAA
+>gi|326430994|gb|EGD76564.1|(6-53:59) hypothetical protein PTSG_07679 [Salpingoeca sp. ATCC 50818]   E=1e-05 s/c=1.09 id=33% cov=89%
+-TMYQTVFRRQSTTLVFIFGGCFVFERIFNPLTDGYFQSRNAGKLYSDL------
+>gi|310793913|gb|EFQ29374.1|(7-57:65) ubiquinol-cytochrome C reductase [Glomerella graminicola M1.001]   E=6e-11 s/c=1.37 id=31% cov=95%
+--FYNALFKNNFSMLGFVFATGFAFELGFNGAMNKYWDYLNRGRQWKDIRHKY--
+>gi|340379437|ref|XP_003388233.1|(6-58:63) PREDICTED: cytochrome b-c1 complex subunit 9-like [Amphimedon queenslandica]  E=1e-09 s/c=1.24 id=32% cov=96%
+-SIHNIFFRRASTFFVTIVVTAVFAERTFDHATAALWDRMQRGKLWDHMKGEI--
+>gi|1174870|sp|P46270.1|QCR9_SOLTU(16-62:72) RecName: Full=Cytochrome b-c1 complex subunit 9; AltName: Full=Complex III subunit 9; AltName: Full=Complex III subunit X; AltName: Full=Ubiquinol-cytochrome c reductase complex 8.0 kDa protein >gi|633685|emb|CAA55861.1| ubiquinol--cytochrome c reductase [Solanum tuberosum]  E=9e-09 s/c=1.34 id=27% cov=87%
+--FYRLVMRRTPVYVTFVIAGALLGERAVDYGVKTLWEKNNVGKRYEDI------
+>gi|393908987|gb|EFO24093.2|(16-65:73) hypothetical protein LOAG_04392 [Loa loa]   E=8e-06 s/c=1.06 id=33% cov=93%
+---YKFITKRFSTLFVVLTVGAIATDLVVDKGGDYLFSQYNKGKLWKDIKDKY--
+>gi|332017454|gb|EGI58177.1|(9-49:558) Leucine-rich repeat-containing protein 15 [Acromyrmex echinatior]   E=0.0001 s/c=1.20 id=29% cov=76%
+--LYHYVFKRSSTFTLGAVITTMYFERAYDDTCEYIFETINKG------------
+>gi|392895705|ref|NP_741246.2|(5-58:60) Protein C14B9.10 [Caenorhabditis elegans] >gi|351057837|emb|CCD64445.1| Protein C14B9.10 [Caenorhabditis elegans]  E=0.0005 s/c=0.87 id=24% cov=100%
+TIVYNTVSRRFSTILLASAFGAYTFNYTLEGLTNFYWDTKNSNKQWKDIKQQLA-
+>gi|332860771|ref|XP_003317514.1|(8-50:96) PREDICTED: cytochrome b-c1 complex subunit 9-like [Pan troglodytes] >gi|397466350|ref|XP_003804926.1| PREDICTED: cytochrome b-c1 complex subunit 9-like [Pan paniscus]  E=7e-07 s/c=1.32 id=31% cov=76%
+--LYSLLFRRTSTFALTIAVGVLFFEQVFHQGADEIYQHISEG------------
+>gi|298709651|emb|CBJ31459.1|(52-100:120) ubiquinol cytochrome c reductase subunit QCR9 [Ectocarpus siliculosus]  E=3e-05 s/c=1.04 id=26% cov=91%
+TAAYNTVWKSNPMYITYIIGASVVLEFVYGKVGDSIFNSINKGKQYDDI------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2734	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1103	1380	*	*	*	1
+       0	*	*	*	*	*	*	3622	0	0	
+
+S 2    1913	*	*	*	5193	6364	*	4341	5950	6355	*	5367	*	*	5444	2519	1338	*	*	*	2
+       0	*	*	*	*	*	*	3881	0	0	
+
+L 3    4605	*	*	*	2667	*	*	1909	*	1533	4723	*	*	*	*	*	6825	2806	*	*	3
+       0	*	*	*	*	*	*	4060	0	0	
+
+Y 4    *	*	*	*	4981	*	4875	*	*	*	*	4848	*	*	*	*	*	*	*	153	4
+       12	6935	*	0	*	*	*	4103	1000	0	
+
+K 5    *	*	*	*	*	*	5429	*	2871	*	*	1123	*	3219	2574	3395	6573	*	*	*	5
+       10	*	7197	*	*	*	*	4099	0	0	
+
+T 6    3250	*	*	*	4574	5139	*	3481	*	2965	5417	4835	*	*	*	3868	1454	3751	*	4620	6
+       0	*	*	*	*	0	*	4121	0	1000	
+
+F 7    5782	*	*	*	1808	*	*	3138	*	1706	*	*	*	*	*	*	*	1857	*	*	7
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 8    4853	*	*	*	723	*	*	4221	*	3528	3291	*	*	*	*	4895	5107	4825	5697	*	8
+       0	*	*	*	*	*	*	4124	0	0	
+
+K 9    *	*	*	5471	*	*	*	*	1338	*	*	*	*	6742	966	4049	*	*	*	*	9
+       0	*	*	*	*	*	*	4124	0	0	
+
+R 10   *	*	*	*	*	*	*	*	3471	*	*	4703	*	*	302	4496	5986	*	*	*	10
+       0	*	*	*	*	*	*	4124	0	0	
+
+N 11   5313	*	*	*	4333	*	*	*	*	*	*	924	6206	5639	*	2539	2376	*	*	*	11
+       0	*	*	*	*	*	*	4124	0	0	
+
+A 12   3193	*	*	*	5638	6353	*	*	*	*	6236	*	4442	*	*	499	4308	*	*	4600	12
+       0	*	*	*	*	*	*	4124	0	0	
+
+V 13   4580	*	*	*	*	*	*	4562	*	5986	4988	*	*	*	6206	4733	1065	1559	*	*	13
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 14   *	*	*	*	1084	*	*	4895	*	4868	3660	*	*	*	*	*	4958	*	5981	1586	14
+       0	*	*	*	*	*	*	4124	0	0	
+
+V 15   2592	*	*	*	3841	*	*	3353	*	2183	5346	*	*	*	*	*	3999	1590	*	5214	15
+       0	*	*	*	*	*	*	4124	0	0	
+
+G 16   2425	*	*	*	5024	2765	*	5132	*	2376	*	*	5192	*	*	3630	2744	2668	*	*	16
+       0	*	*	*	*	*	*	4124	0	0	
+
+T 17   2377	*	*	*	3344	3629	*	*	*	*	5620	*	*	*	*	4484	1180	3288	*	5697	17
+       0	*	*	*	*	*	*	4124	0	0	
+
+I 18   4221	5576	*	*	*	*	*	868	*	4782	7073	*	*	*	*	4895	5764	1827	*	*	18
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 19   3277	*	*	*	1349	*	*	2555	*	2803	4405	*	*	*	*	*	5241	3092	*	*	19
+       0	*	*	*	*	*	*	4124	0	0	
+
+A 20   1859	6629	*	*	4195	2489	*	3514	*	4373	*	*	*	*	*	5310	4670	1831	*	*	20
+       0	*	*	*	*	*	*	4124	0	0	
+
+G 21   3011	*	*	*	*	630	*	*	*	6294	*	*	*	*	*	2988	3455	*	*	*	21
+       0	*	*	*	*	*	*	4124	0	0	
+
+A 22   464	5639	*	*	*	3928	*	*	*	*	*	*	*	*	*	3854	3637	4643	*	*	22
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 23   *	*	*	*	726	*	*	3136	*	3510	5050	*	*	*	*	*	*	3478	*	3759	23
+       0	*	*	*	*	*	*	4124	0	0	
+
+V 24   1939	*	*	*	1792	4087	*	4372	*	4597	6961	*	*	*	*	6234	4895	2096	*	6253	24
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 25   3665	*	*	*	585	3221	*	*	*	4428	6539	*	*	*	*	5620	5318	6130	5053	*	25
+       0	*	*	*	*	*	*	4124	0	0	
+
+Q 26   *	*	4656	546	*	4213	*	*	5214	*	*	4212	*	3240	*	4848	*	*	*	*	26
+       0	*	*	*	*	*	*	4124	0	0	
+
+T 27   4497	*	6294	5620	5697	4267	*	3202	4484	3702	4231	*	*	4643	1493	5539	4416	4091	6368	4895	27
+       0	*	*	*	*	*	*	4124	0	0	
+
+V 28   1755	*	*	*	4127	2196	*	5015	*	5489	5675	*	*	*	*	4583	3123	2577	*	4991	28
+       0	*	*	*	*	*	*	4124	0	0	
+
+F 29   6708	6935	*	*	780	*	*	4537	*	3413	*	*	*	*	*	6461	*	2849	*	3150	29
+       0	*	*	*	*	*	*	4124	0	0	
+
+D 30   *	*	559	3868	*	4417	4656	*	*	*	*	2863	*	*	*	5115	*	*	*	*	30
+       0	*	*	*	*	*	*	4124	0	0	
+
+T 31   4040	*	5264	5174	*	3471	5313	4817	3806	4368	5590	4199	5639	3668	6773	3571	2881	2829	*	3816	31
+       0	*	*	*	*	*	*	4124	0	0	
+
+A 32   1797	*	*	*	4645	1761	*	3843	*	3466	*	*	*	6897	*	4785	4161	3104	*	*	32
+       0	*	*	*	*	*	*	4124	0	0	
+
+I 33   3111	4588	*	*	4576	3726	*	3775	*	6739	3332	*	*	*	*	2951	2096	2472	*	*	33
+       0	*	*	*	*	*	*	4124	0	0	
+
+T 34   5313	*	1162	3989	*	*	6244	*	6328	*	*	1935	*	*	*	5114	2927	5831	*	*	34
+       0	*	*	*	*	*	*	4124	0	0	
+
+S 35   2519	6604	6364	5371	4894	3698	6985	*	1991	6782	6149	5193	*	6831	3530	3147	3817	5860	*	4011	35
+       0	*	*	*	*	*	*	4127	0	0	
+
+W 36   5106	6263	*	*	3147	*	*	1879	*	2312	5132	*	*	*	*	*	*	2689	3012	3958	36
+       0	*	*	*	*	*	*	4124	0	0	
+
+Y 37   *	*	*	*	1780	*	*	*	*	5769	*	*	*	*	*	*	*	*	863	2829	37
+       0	*	*	*	*	*	*	4124	0	0	
+
+E 38   3908	6557	1362	1589	*	*	*	*	5214	*	*	4391	*	4796	5781	4852	4718	*	*	*	38
+       0	*	*	*	*	*	*	4124	0	0	
+
+N 39   4063	6353	6648	5039	*	7132	4146	*	3734	*	6244	3090	*	3841	2838	2193	2776	*	*	4509	39
+       0	*	*	*	*	*	*	4124	0	0	
+
+H 40   3876	*	*	*	*	*	2327	2348	4895	3281	3819	3540	*	*	3805	6958	*	3809	4098	4895	40
+       0	*	*	*	*	*	*	4124	0	0	
+
+N 41   *	*	*	*	*	*	*	*	*	*	*	61	*	5313	*	5971	*	*	*	*	41
+       0	*	*	*	*	*	*	4124	0	0	
+
+K 42   3545	*	*	3589	*	*	*	*	1158	6244	*	6353	*	4656	2104	4302	6262	5533	*	*	42
+       0	*	*	*	*	*	*	4124	0	0	
+
+G 43   5471	*	*	*	*	83	*	*	*	*	*	4895	*	*	*	*	*	*	*	*	43
+       11	7091	*	4322	74	*	*	4124	1000	0	
+
+K 44   *	*	*	*	*	*	*	*	405	5141	*	*	*	*	2328	*	*	*	*	5875	44
+       0	*	*	*	*	*	*	4089	0	0	
+
+L 45   *	*	*	*	5875	*	*	5590	*	1019	*	*	*	1464	4078	5720	5141	*	*	*	45
+       0	*	*	*	*	*	*	4089	0	0	
+
+W 46   *	*	*	*	3459	*	*	*	*	*	*	*	*	*	*	*	*	*	374	2864	46
+       0	*	*	*	*	*	*	4078	0	0	
+
+K 47   5194	*	3163	4447	*	*	5130	*	627	*	6716	5658	6291	6183	*	4308	6247	5659	*	*	47
+       0	*	*	*	*	*	*	4078	0	0	
+
+D 48   *	*	293	4513	*	*	3094	*	*	*	*	5454	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	4068	0	0	
+
+V 49   *	*	*	*	*	*	*	594	*	3901	4162	*	*	*	*	*	*	2219	*	*	49
+       0	*	*	*	*	*	*	4068	0	0	
+
+K 50   5751	*	*	5052	*	*	*	*	631	*	*	*	*	*	1948	*	*	5896	*	5077	50
+       0	*	*	*	*	*	*	3870	0	0	
+
+A 51   3290	*	3502	6606	*	2713	1571	*	3333	5335	*	5635	4596	3685	5807	6885	*	6573	*	6630	51
+       0	*	*	*	*	*	*	3870	0	0	
+
+R 52   *	*	5391	4899	*	*	*	*	1025	*	*	3342	5971	2769	2487	6447	*	*	*	*	52
+       0	*	*	*	*	*	*	3762	0	0	
+
+I 53   *	*	*	*	3168	*	*	3382	*	2663	*	*	*	*	4708	*	*	6221	*	778	53
+       0	*	*	*	*	*	*	3777	0	0	
+
+A 54   1218	*	*	3269	*	*	*	*	*	2545	*	*	*	2278	*	3495	*	*	*	*	54
+       0	*	*	*	*	*	*	2953	0	0	
+
+A 55   996	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1934	2078	*	*	*	55
+       0	*	*	0	*	*	*	2645	0	0	
+
+//

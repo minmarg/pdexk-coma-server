@@ -1,0 +1,262 @@
+HHsearch 1.5
+NAME  d1bcga_ g.3.7.1 (A:) Scorpion toxin {Scorpion (Buthotus judaicus), BJXTR-IT [TaxId: 6863]}
+FAM   g.3.7.1
+FILE  d1bcga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bcga_.a3m -v 1 
+DATE  Mon Jan 21 19:09:40 2013
+LENG  74 match states, 74 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHCCCCCCCCEEEEEEEEECCCCCCCEEECCCCCCCCCCCCC
+>ss_conf
+98677321268875555653221132223001001267867645566676116677512201224201023259
+>Consensus
+xkKNGyavdxxGkxxECxxxnxxxxnyCNneCTkVxyaxkGyCCxxsCyCfgLxDdkkvxeixDxxKxyCdxxi
+>d1bcga_ g.3.7.1 (A:) Scorpion toxin {Scorpion (Buthotus judaicus), BJXTR-IT [TaxId: 6863]}
+MKKNGYPLDRNGKTTECSGVNAIAPHYCNSECTKVYYAESGYCCWGACYCFGLEDDKPIGPMKDITKKYCDVQI
+>gi|371779700|emb|CCD31437.1|(24-98:101) scorpion toxin Tpa8 precursor [Tityus pachyurus]   E=0.0002 s/c=0.66 id=42% cov=93%
+--KNGYPVIEGggspdyGESAECGSEDSnSADNFCNDICTNV-GGKSGDCCLGSCFCFDLPDEQKTVEVMDRTKEYCE---
+>gi|3914986|sp|O61668.1|SIX1_MESMA(1-87:88) RecName: Full=Beta-insect excitatory toxin BmKIT1; AltName: Full=Bm32-VI; AltName: Full=BmK IT1; Short=BmK IT; Short=BmKIT; Short=BmKIT1; AltName: Full=BmK-betaIT; Flags: Precursor >gi|3063655|gb|AAC14130.1| neurotoxin BmK IT precursor [Mesobuthus martensii]  E=4e-26 s/c=0.90 id=63% cov=95%
+GKKNGYAVDSSGKVSEC-----LLNNYCNNICTKVYYATSGYCCLLSCYCFGLDDDKAVLKIKDATKSYCDVQI
+>gi|56404721|sp|O77091.1|SIXP_MESMA(1-87:90) RecName: Full=Beta-insect excitatory toxin BmK IT-AP; AltName: Full=Bm33-I; AltName: Full=BmKITAP; AltName: Full=Insect toxin analgesic peptide; Flags: Precursor >gi|6851189|gb|AAF29464.1|AF156171_1 toxin IT(cp)2 [Mesobuthus martensii] >gi|3649606|gb|AAC61256.1| insect neurotoxin precursor [Mesobuthus martensii]  E=2e-25 s/c=0.90 id=63% cov=95%
+GKKNGYAVDSSGKVAEC-----LFNNYCNNECTKVYYADKGYCCLLKCYCFGLADDKPVLDIWDSTKNYCDVQI
+>gi|56404743|sp|P68724.1|SIX1D_LEIQH(1-87:88) RecName: Full=Beta-insect excitatory toxin LqhIT1d; AltName: Full=Insect neurotoxin 1d; AltName: Full=Lqh IT1-d; Short=LqhIT1-d; AltName: Full=Lqh-xtrITd; Flags: Precursor  E=1e-22 s/c=0.83 id=59% cov=95%
+GKKNGFAVDSNGKAPEC-----FFDHYCNSECTKVYYAEKGYCCTLSCYCVGLDDDKKVLDISDTRKKLCDFTL
+>gi|56404742|sp|P68723.1|SIX1C_LEIQH(1-87:88) RecName: Full=Beta-insect excitatory toxin LqhIT1c; AltName: Full=Insect neurotoxin 1c; AltName: Full=Lqh IT1-c; Short=LqhIT1-c; AltName: Full=Lqh-xtrITc; Flags: Precursor  E=1e-21 s/c=0.79 id=56% cov=95%
+GKKNGYAVDSKGKAPEC-----FFSNYCNNECTKVHYAEKGYCCLLSCYCVGLNDDKKVMEISDTRKKICDTTI
+>gi|212278257|gb|ACJ23113.1|(1-87:88) putative excitatory toxin Tx671.2 [Buthus occitanus israelis] >gi|212278261|gb|ACJ23115.1| putative excitatory toxin Tx402 [Buthus occitanus israelis]  E=2e-28 s/c=1.27 id=59% cov=95%
+GKKNGYALDYNNKAPEC-----LFSNYCNNECTKVYYADKGYCCMLSCYCFGLKDDQKVMEISDTRKKYCDYTI
+>gi|317412101|sp|P0CI82.1|SNA45_LYCMC(1-89:94) RecName: Full=Neurotoxin LmNaTx45.2; Flags: Precursor   E=8e-14 s/c=0.87 id=49% cov=99%
+SKKNGFALDHYGKPWECNLFNVFGP-YCNNQCTE-NKARKGYCCTFTCYCFDLPDDAKILEIGDSRKNYCDVSL
+>gi|134375|sp|P15147.1|SIX2_ANDAU(1-87:88) RecName: Full=Beta-insect excitatory toxin 2; AltName: Full=AaH IT2; Short=AaHIT2; Short=AaIT2; Flags: Precursor >gi|161151|gb|AAA29952.1| neurotoxin AaH IT2 [Androctonus australis]  E=3e-24 s/c=1.26 id=54% cov=95%
+GKKNGYAVDSSGKAPEC-----LLSNYCYNECTKVHYADKGYCCLLSCYCFGLNDDKKVLEISDTRKSYCDTPI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	667	*	*	*	*	2459	*	*	*	*	2410	*	*	*	*	1
+       0	*	*	*	*	*	*	1716	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1716	0	0	
+
+K 3    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1964	0	0	
+
+N 4    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1964	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1964	0	0	
+
+Y 6    *	*	*	*	2105	*	*	*	*	*	*	*	*	*	*	*	*	*	*	382	6
+       0	*	*	*	*	*	*	1964	0	0	
+
+P 7    603	*	*	*	*	*	*	*	*	*	*	*	1550	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1964	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	1428	*	*	*	*	*	*	*	671	*	*	8
+       0	*	*	*	*	*	*	1964	0	0	
+
+D 9    *	*	327	*	*	*	*	2303	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1964	0	0	
+
+R 10   *	*	*	2303	*	*	2784	*	*	*	*	*	*	*	2847	1232	*	*	*	3513	10
+       0	*	*	*	*	*	*	1964	0	0	
+
+N 11   *	*	*	*	*	2303	*	*	3600	*	*	1671	*	*	*	1967	*	*	*	2784	11
+       327	2303	*	2585	263	*	*	1964	1000	0	
+
+G 12   *	*	*	*	*	132	*	*	*	*	*	3513	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 13   *	*	*	2303	*	*	*	*	327	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1964	0	0	
+
+T 14   1565	*	*	*	*	*	*	*	*	*	*	*	2784	*	*	2303	2847	2512	*	*	14
+       0	*	*	*	*	*	*	1964	0	0	
+
+T 15   1802	*	*	*	*	*	*	*	*	*	*	*	1565	*	*	3455	2847	*	2784	*	15
+       0	*	*	*	*	*	*	1964	0	0	
+
+E 16   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       1039	*	962	*	*	*	*	1964	0	0	
+
+S 18   *	*	*	*	*	1514	*	*	*	*	*	1638	*	*	*	1606	*	*	*	*	18
+       0	*	*	*	*	*	0	1775	0	1416	
+
+G 19   *	*	*	*	*	1606	*	*	*	1638	*	*	*	*	*	1514	*	*	*	*	19
+       0	*	*	*	*	*	0	1775	0	1416	
+
+V 20   *	*	*	1514	1638	*	*	*	*	*	*	*	*	*	*	*	*	1606	*	*	20
+       0	*	*	*	*	*	0	1775	0	1416	
+
+N 21   *	*	1514	*	*	*	*	*	*	*	*	622	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	0	1775	0	1416	
+
+A 22   1606	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1514	*	1638	*	*	22
+       622	1514	*	0	*	0	*	1775	1000	1416	
+
+I 23   *	*	*	*	1667	*	*	2847	*	1542	*	*	*	*	*	2303	*	*	*	*	23
+       0	*	*	*	*	*	*	1964	0	0	
+
+A 24   1550	*	*	*	1550	2784	*	*	*	2542	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1964	0	0	
+
+P 25   *	*	1786	*	*	*	*	*	*	*	*	2512	1815	*	*	1996	*	*	*	*	25
+       226	*	2784	*	*	*	*	1964	0	0	
+
+H 26   *	*	*	*	*	*	1865	*	*	*	*	463	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	0	*	1820	0	1000	
+
+Y 27   *	*	*	*	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	327	27
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1964	0	0	
+
+N 29   *	*	*	*	*	*	*	*	*	*	*	121	*	*	*	*	*	*	*	3634	29
+       0	*	*	*	*	*	*	1964	0	0	
+
+S 30   *	*	2303	*	*	*	*	*	*	*	*	808	*	*	*	2143	*	*	*	*	30
+       0	*	*	*	*	*	*	1964	0	0	
+
+E 31   *	*	*	834	*	*	*	1767	*	*	*	*	*	2784	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1964	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	33
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 34   *	*	*	2784	*	*	*	*	617	*	*	2303	*	*	*	*	*	*	*	*	34
+       226	*	2784	*	*	*	*	1964	0	0	
+
+V 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	35
+       386	*	2090	*	*	0	*	1820	0	1000	
+
+Y 36   *	*	*	*	*	*	2328	*	*	*	*	2410	*	*	*	*	*	*	*	707	36
+       0	*	*	*	*	0	*	1716	0	1000	
+
+Y 37   *	*	*	*	*	2303	*	*	2784	*	*	*	*	*	*	*	*	*	*	617	37
+       0	*	*	*	*	*	*	1964	0	0	
+
+A 38   327	*	*	*	*	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1964	0	0	
+
+E 39   *	*	1987	1695	*	*	*	*	2303	*	*	*	*	*	2784	*	3455	*	*	*	39
+       0	*	*	*	*	*	*	1964	0	0	
+
+S 40   *	*	*	*	*	*	*	*	818	*	*	*	*	*	*	1208	*	*	*	*	40
+       0	*	*	*	*	*	*	1964	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1964	0	0	
+
+Y 42   *	*	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	327	42
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 44   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1964	0	0	
+
+W 45   *	*	*	*	*	*	*	*	*	887	3513	*	*	*	*	*	2105	*	2847	*	45
+       0	*	*	*	*	*	*	1964	0	0	
+
+G 46   *	*	*	*	2784	1550	*	*	*	962	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1964	0	0	
+
+A 47   2847	*	*	*	*	*	*	*	3572	*	*	*	*	*	*	662	2784	*	*	*	47
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 48   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1964	0	0	
+
+Y 49   *	*	*	*	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	327	49
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 50   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1964	0	0	
+
+F 51   *	*	*	*	268	*	*	*	*	*	*	*	*	*	*	*	*	2558	*	*	51
+       0	*	*	*	*	*	*	1964	0	0	
+
+G 52   *	*	1524	*	*	617	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1964	0	0	
+
+L 53   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1964	0	0	
+
+E 54   3572	*	2485	2847	*	*	*	*	3513	*	*	2617	1524	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1964	0	0	
+
+D 55   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	1964	0	0	
+
+D 56   *	*	327	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 57   2784	*	*	*	*	*	*	*	825	*	*	*	*	1785	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	1964	0	0	
+
+P 58   3455	*	*	*	*	*	*	*	544	*	*	*	2164	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	1964	0	0	
+
+I 59   *	*	*	*	*	*	*	1815	*	*	*	*	*	*	*	*	2303	962	*	*	59
+       0	*	*	*	*	*	*	1964	0	0	
+
+G 60   *	*	*	*	*	2847	*	*	*	1034	2556	*	*	*	*	*	*	2303	*	*	60
+       0	*	*	*	*	*	*	1964	0	0	
+
+P 61   *	*	2544	741	*	*	*	*	3455	*	*	*	2847	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1964	0	0	
+
+M 62   *	*	*	*	*	*	*	603	*	*	2847	*	*	*	*	*	*	2303	*	*	62
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 63   *	*	*	*	*	2784	*	*	2119	*	2303	*	*	*	*	1565	*	*	3572	*	63
+       0	*	*	*	*	*	*	1964	0	0	
+
+D 64   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	1964	0	0	
+
+I 65   3455	*	*	*	*	*	*	2847	*	*	*	*	*	*	2303	2125	1565	*	*	*	65
+       0	*	*	*	*	*	*	1964	0	0	
+
+T 66   *	*	*	*	*	*	*	*	*	*	*	*	*	*	1049	*	952	*	*	*	66
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 67   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	1964	0	0	
+
+K 68   *	*	*	2303	*	*	*	*	1335	*	*	2125	*	*	*	2542	*	*	*	*	68
+       0	*	*	*	*	*	*	1964	0	0	
+
+Y 69   *	*	*	*	*	*	*	3600	*	3517	*	*	*	*	*	*	*	*	*	268	69
+       0	*	*	*	*	*	*	1964	0	0	
+
+C 70   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1964	0	0	
+
+D 71   *	*	327	2303	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	1964	0	0	
+
+V 72   *	*	*	*	3197	*	*	*	*	*	*	*	*	*	*	*	2328	777	*	3210	72
+       0	*	*	*	*	*	*	1716	0	0	
+
+Q 73   *	*	*	*	*	*	*	*	*	*	*	*	3328	1338	*	2410	1659	*	*	*	73
+       0	*	*	*	*	*	*	1716	0	0	
+
+I 74   *	*	*	*	*	*	*	509	*	1750	*	*	*	*	*	*	*	*	*	*	74
+       0	*	*	0	*	*	*	1716	0	0	
+
+//

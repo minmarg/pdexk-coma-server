@@ -1,0 +1,457 @@
+HHsearch 1.5
+NAME  d2fm8a1 d.198.1.1 (A:1-134) Surface presentation of antigens protein SpaK (Spa15) {Salmonella typhimurium [TaxId: 90371]}
+FAM   d.198.1.1
+FILE  d2fm8a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2fm8a1.a3m -v 1 
+DATE  Tue Jan 22 08:43:42 2013
+LENG  134 match states, 134 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.4 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHCCCCCCCCCCCCCCCCEEEEECCCCCEEEEEECCCEEEEEECCCCCHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEECCCCEEE
+EEEECHHHHCCHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9875489999999986388722112247887247752488847876316956898543756645678658999999725688765770368640782799
+9986313405856899999999999999988609
+>Consensus
+mxxxDiaxLvxxxLxxxGxxdxxxxxLDxHStIxlxlxdxPxIxIxxxdDxvwiWsxLxxxxxxxlxxxsxxLLxxlxxxxxxfxxgQpxLxxxdxxLeL
+xAxvxxxxLxxxxxFaxaldxFxxxlxxxxxxLx
+>d2fm8a1 d.198.1.1 (A:1-134) Surface presentation of antigens protein SpaK (Spa15) {Salmonella typhimurium [TaxId: 90371]}
+MQHLDIAELVRSALEVSGCDPSLIGGIDSHSTIVLDLFALPSICISVKDDDVWIWAQLGADSMVVLQQRAYEILMTIMEGCHFARGGQLLLGEQNGELTL
+KALVHPDFLSDGEKFSTALNGFYNYLEVFSRSLM
+>gi|383815657|ref|ZP_09971067.1|(2-121:135) type III secretion apparatus InvB [Serratia sp. M24T3] >gi|383295535|gb|EIC83859.1| type III secretion apparatus InvB [Serratia sp. M24T3]  E=0.0001 s/c=0.41 id=30% cov=90%
+--HYNIAERLRKTLSNMGY-PVESSQFDAHSTIEISFTNIPSLYFSVIDDRLWLWSALDWMDSSTFTSWGAELWEELQAALCWVVTGQPVLGQGSEGYEL
+KALVDDHCFDEESRLEELLEGFY-----------
+>gi|53716342|ref|YP_106130.1|(2-133:135) type III secretion system protein BsaR [Burkholderia mallei ATCC 23344] >gi|53722563|ref|YP_111548.1| surface presentation of antigens protein [Burkholderia pseudomallei K96243] >gi|67639409|ref|ZP_00438269.1| type III secretion system protein BsaR [Burkholderia mallei GB8 horse 4] >gi|76819493|ref|YP_335742.1| surface presentation of antigens protein [Burkholderia pseudomallei 1710b] >gi|124381844|ref|YP_001025859.1| type III secretion system protein BsaR [Burkholderia mallei NCTC 10229] >gi|126443908|ref|YP_001063166.1| type III secretion system protein [Burkholderia pseudomallei 668] >gi|126447366|ref|YP_001077944.1| type III secretion system protein BsaR [Burkholderia mallei NCTC 10247] >gi|126457257|ref|YP_001076117.1| type III secretion system protein [Burkholderia pseudomallei 1106a] >gi|134282082|ref|ZP_01768788.1| type III secretion system protein [Burkholderia pseudomallei 305] >gi|167004380|ref|ZP_02270138.1| type III secretion system protein BsaR [Burkholderia mallei PRL-20] >gi|167724231|ref|ZP_02407467.1| type III secretion system protein [Burkholderia pseudomallei DM98] >gi|167743208|ref|ZP_02415982.1| type III secretion system protein [Burkholderia pseudomallei 14] >gi|167820384|ref|ZP_02452064.1| type III secretion system protein [Burkholderia pseudomallei 91] >gi|167828754|ref|ZP_02460225.1| type III secretion system protein [Burkholderia pseudomallei 9] >gi|167850210|ref|ZP_02475718.1| type III secretion system protein [Burkholderia pseudomallei B7210] >gi|167898816|ref|ZP_02486217.1| type III secretion system protein [Burkholderia pseudomallei 7894] >gi|167908443|ref|ZP_02495648.1| type III secretion system protein [Burkholderia pseudomallei NCTC 13177] >gi|167915498|ref|ZP_02502589.1| type III secretion system protein [Burkholderia pseudomallei 112] >gi|167923344|ref|ZP_02510435.1| type III secretion system protein [Burkholderia pseudomallei BCC215] >gi|217425235|ref|ZP_03456730.1| type III secretion system protein [Burkholderia pseudomallei 576] >gi|226196093|ref|ZP_03791679.1| type III secretion system protein [Burkholderia pseudomallei Pakistan 9] >gi|237510066|ref|ZP_04522781.1| type III secretion system protein BsaR [Burkholderia pseudomallei MSHR346] >gi|242311848|ref|ZP_04810865.1| type III secretion system protein [Burkholderia pseudomallei 1106b] >gi|254175997|ref|ZP_04882655.1| type III secretion system protein BsaR [Burkholderia mallei ATCC 10399] >gi|254185163|ref|ZP_04891752.1| type III secretion system protein [Burkholderia pseudomallei 1655] >gi|254186860|ref|ZP_04893376.1| type III secretion system protein [Burkholderia pseudomallei Pasteur 52237] >gi|254194430|ref|ZP_04900862.1| type III secretion system protein [Burkholderia pseudomallei S13] >gi|254200997|ref|ZP_04907362.1| type III secretion system protein BsaR [Burkholderia mallei FMH] >gi|254204960|ref|ZP_04911313.1| type III secretion system protein BsaR [Burkholderia mallei JHU] >gi|254264357|ref|ZP_04955222.1| type III secretion system protein [Burkholderia pseudomallei 1710a] >gi|254301451|ref|ZP_04968895.1| type III secretion system protein [Burkholderia pseudomallei 406e] >gi|254359079|ref|ZP_04975351.1| type III secretion system protein BsaR [Burkholderia mallei 2002721280] >gi|386865324|ref|YP_006278272.1| surface presentation of antigens protein [Burkholderia pseudomallei 1026b] >gi|403523346|ref|YP_006658915.1| type III secretion system protein [Burkholderia pseudomallei BPC006] >gi|418396700|ref|ZP_12970493.1| surface presentation of antigens protein [Burkholderia pseudomallei 354a] >gi|418536533|ref|ZP_13102213.1| surface presentation of antigens protein [Burkholderia pseudomallei 1026a] >gi|418543826|ref|ZP_13109156.1| surface presentation of antigens protein [Burkholderia pseudomallei 1258a] >gi|418550666|ref|ZP_13115632.1| surface presentation of antigens protein [Burkholderia pseudomallei 1258b] >gi|418556343|ref|ZP_13120985.1| surface presentation of antigens protein [Burkholderia pseudomallei 354e] >gi|52212977|emb|CAH39015.1| surface presentation of antigens protein [Burkholderia pseudomallei K96243] >gi|52422312|gb|AAU45882.1| type III secretion system protein BsaR [Burkholderia mallei ATCC 23344] >gi|76583966|gb|ABA53440.1| surface presentation of antigens protein [Burkholderia pseudomallei 1710b] >gi|126223399|gb|ABN86904.1| type III secretion system protein [Burkholderia pseudomallei 668] >gi|126231025|gb|ABN94438.1| type III secretion system protein [Burkholderia pseudomallei 1106a] >gi|126240220|gb|ABO03332.1| type III secretion system protein BsaR [Burkholderia mallei NCTC 10247] >gi|134246611|gb|EBA46699.1| type III secretion system protein [Burkholderia pseudomallei 305] >gi|147748609|gb|EDK55684.1| type III secretion system protein BsaR [Burkholderia mallei FMH] >gi|147754546|gb|EDK61610.1| type III secretion system protein BsaR [Burkholderia mallei JHU] >gi|148028266|gb|EDK86226.1| type III secretion system protein BsaR [Burkholderia mallei 2002721280] >gi|157810871|gb|EDO88041.1| type III secretion system protein [Burkholderia pseudomallei 406e] >gi|157934544|gb|EDO90214.1| type III secretion system protein [Burkholderia pseudomallei Pasteur 52237] >gi|160697039|gb|EDP87009.1| type III secretion system protein BsaR [Burkholderia mallei ATCC 10399] >gi|169651181|gb|EDS83874.1| type III secretion system protein [Burkholderia pseudomallei S13] >gi|184215755|gb|EDU12736.1| type III secretion system protein [Burkholderia pseudomallei 1655] >gi|217391840|gb|EEC31867.1| type III secretion system protein [Burkholderia pseudomallei 576] >gi|225931986|gb|EEH27987.1| type III secretion system protein [Burkholderia pseudomallei Pakistan 9] >gi|235002271|gb|EEP51695.1| type III secretion system protein BsaR [Burkholderia pseudomallei MSHR346] >gi|238519946|gb|EEP83411.1| type III secretion system protein BsaR [Burkholderia mallei GB8 horse 4] >gi|242135087|gb|EES21490.1| type III secretion system protein [Burkholderia pseudomallei 1106b] >gi|243060296|gb|EES42482.1| type III secretion system protein BsaR [Burkholderia mallei PRL-20] >gi|254215359|gb|EET04744.1| type III secretion system protein [Burkholderia pseudomallei 1710a] >gi|261826528|gb|ABM99666.2| type III secretion system protein BsaR [Burkholderia mallei NCTC 10229] >gi|385351000|gb|EIF57500.1| surface presentation of antigens protein [Burkholderia pseudomallei 1258b] >gi|385351455|gb|EIF57923.1| surface presentation of antigens protein [Burkholderia pseudomallei 1258a] >gi|385352148|gb|EIF58582.1| surface presentation of antigens protein [Burkholderia pseudomallei 1026a] >gi|385367084|gb|EIF72648.1| surface presentation of antigens protein [Burkholderia pseudomallei 354e] >gi|385370571|gb|EIF75811.1| surface presentation of antigens protein [Burkholderia pseudomallei 354a] >gi|385662452|gb|AFI69874.1| surface presentation of antigens protein [Burkholderia pseudomallei 1026b] >gi|403078413|gb|AFR19992.1| type III secretion system protein [Burkholderia pseudomallei BPC006]  E=2e-31 s/c=1.05 id=27% cov=99%
+--NVDVVMLVKESMEKMDCGNAIAGELDAHAPICIAFHSMPEMFVERDGEHVTIWSRLGCAGESQLARCAFDLLAYqLPRGSDAFASRRPLLSFVDDALV
+LHGRVEPRCLADAEGFTEALETFYADLCAVSEIL-
+>gi|333361554|pdb|2XGA|A(21-153:153) Chain A, Mtsl Spin-Labelled Shigella Flexneri Spa15 >gi|333361555|pdb|2XGA|B Chain B, Mtsl Spin-Labelled Shigella Flexneri Spa15  E=4e-30 s/c=1.01 id=32% cov=100%
+MSNINLVQLVRDSLFTIGCPPSIITDLDSHSAITISLDSMPAINIALVNEQVMLWANFDAPSDVKLQSSAYNILNLMLMNFSYSINELVELHRSDEYLQL
+RVVIKDDYVHDGIVFAEILHEFYQRMEILNGVL-
+>gi|260778611|ref|ZP_05887503.1|(15-145:149) hypothetical protein VIC_004015 [Vibrio coralliilyticus ATCC BAA-450] >gi|260604775|gb|EEX31070.1| hypothetical protein VIC_004015 [Vibrio coralliilyticus ATCC BAA-450]  E=2e-23 s/c=0.85 id=24% cov=99%
+--NQELDTLISHFLVNIGLSPETLRDLHAENTLAIQIQGLPDVMLSRMNSGLWFWSQLPDLTNSKLMDYAAPVLSLIIPPLEGVEGGQVTLGLGDDGYEL
+KALVSSQTLVEENGLETVFRGFTSKLALLHHEL-
+>gi|238759393|ref|ZP_04620558.1|(6-133:135) Type III secretion sytem protein [Yersinia aldovae ATCC 35236] >gi|238702420|gb|EEP94972.1| Type III secretion sytem protein [Yersinia aldovae ATCC 35236]  E=8e-20 s/c=0.77 id=25% cov=96%
+------VDALNSFLSTEGRQDLINSQLDCHSTIQLELNEAPPINVDLLTNDIILWSNLSECQMGHLEALGHTLLSELLEYTPRnFQVGQPALSFMDNTLV
+LSAVMREEAMNDSQLFADSLNEFYERSHRLTTLL-
+>gi|285018278|ref|YP_003375989.1|(5-126:136) xanthomonas secretion apparatus protein [Xanthomonas albilineans GPE PC73] >gi|283473496|emb|CBA15999.1| probable xanthomonas secretion apparatus protein [Xanthomonas albilineans GPE PC73]  E=4e-08 s/c=0.50 id=20% cov=91%
+---IDIVSLLRQVLQEIGCADKMDDVVSPHLPLCINLRDGSEIRIDTSSDGVLFIAPMPSVTEEILAHASTLLARFLLrPPNPLFSPCRPVIVWYEDGLS
+LQAQLIADAQRMPE-FRDALEYFFDE---------
+>gi|365849813|ref|ZP_09390281.1|(2-135:135) invasion protein B family protein [Yokenella regensburgei ATCC 43003] >gi|364568138|gb|EHM45783.1| invasion protein B family protein [Yokenella regensburgei ATCC 43003]  E=6e-34 s/c=1.09 id=24% cov=99%
+---YDVVALLSTMLNDAGMADILDSDLSNHSTISLNMKdDIPTIHVRSEDDEVWVWAKIVEQAPASLSYCSTSLLPLMLNhNEEYFYTGQPCLYPVDGNI
+ELRAQVKEKYLQAPDDFLSMLDNYLSILQEYRTVLV
+>gi|284007668|emb|CBA73379.1|(2-137:138) type III secretion system protein InvB [Arsenophonus nasoniae]   E=1e-29 s/c=0.98 id=29% cov=99%
+--QMDLASLVTDAIKTMGKPDLFPQghQLNNHSTITLELEELPDIHIAMVNDLPIIWANLGYVEFNVIRQLSEPLLACIIsNHLPFFYPGQPAYFLNDEN
+iLELRANFSTTALEDPTQFAEAIDNFFQYMLNINKLLI
+>gi|238920663|ref|YP_002934178.1|(6-125:132) hypothetical protein NT01EI_2776 [Edwardsiella ictaluri 93-146] >gi|238870232|gb|ACR69943.1| hypothetical protein NT01EI_2776 [Edwardsiella ictaluri 93-146]  E=2e-19 s/c=0.82 id=21% cov=90%
+-------QIIKEVLISFGLPRAIIDEMDNYPAISMHIQDTPDVFISCHDDKLWMWSLLPFGLNKIDSPGALRIIDILSSTLNGADGAGVFMLQTDNGLEL
+KASMTATNFNSSESVKLTIEGFIRKLQ-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2984	0	0	
+
+Q 2    *	*	*	3026	3244	*	*	*	*	*	*	2966	*	1424	*	2742	*	3041	*	*	2
+       0	*	*	*	*	*	*	3202	0	0	
+
+H 3    *	*	*	*	*	3685	2496	*	4381	*	*	921	3945	3265	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	4277	0	0	
+
+L 4    *	*	*	*	4745	*	*	2473	*	3797	3137	4271	*	3371	*	*	4578	2410	*	2194	4
+       0	*	*	*	*	*	*	4883	0	0	
+
+D 5    *	*	295	3972	*	*	*	*	*	*	*	3046	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	4979	0	0	
+
+I 6    *	*	*	*	*	*	*	1074	*	1621	*	*	*	*	*	*	*	2323	*	*	6
+       0	*	*	*	*	*	*	5029	0	0	
+
+A 7    1118	*	4188	*	*	4582	*	*	*	*	*	*	*	*	*	4517	*	1326	*	*	7
+       0	*	*	*	*	*	*	5251	0	0	
+
+E 8    4635	*	3377	1613	*	*	*	*	4542	5057	4321	3757	*	3302	*	3111	3029	*	*	*	8
+       0	*	*	*	*	*	*	5399	0	0	
+
+L 9    3496	*	*	*	*	*	*	3511	6125	520	4934	*	*	6011	3977	*	*	*	*	*	9
+       0	*	*	*	*	*	*	5399	0	0	
+
+V 10   *	*	*	*	*	*	*	2569	*	1206	*	*	*	*	*	*	*	1329	*	*	10
+       0	*	*	*	*	*	*	5399	0	0	
+
+R 11   *	*	*	*	*	*	*	4761	3683	*	3902	2725	*	*	1217	2686	3613	*	*	*	11
+       0	*	*	*	*	*	*	5399	0	0	
+
+S 12   3612	*	2532	2209	*	5165	4397	*	3945	*	*	5598	*	3870	5755	2357	3538	*	*	*	12
+       0	*	*	*	*	*	*	5399	0	0	
+
+A 13   1524	*	*	*	2882	4779	*	4796	*	5791	3493	*	*	*	*	2637	4933	3442	*	4272	13
+       0	*	*	*	*	*	*	5480	0	0	
+
+L 14   *	*	*	*	*	*	*	4562	*	377	2415	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	5480	0	0	
+
+E 15   *	*	*	2462	5076	*	*	3701	2760	4356	*	2125	*	3948	5020	3585	4718	3851	*	*	15
+       0	*	*	*	*	*	*	5480	0	0	
+
+V 16   *	*	3191	2710	*	4718	4060	*	3090	4145	*	3778	*	4624	*	2704	3028	4374	*	5152	16
+       0	*	*	*	*	*	*	5480	0	0	
+
+S 17   2500	5078	*	4305	3552	*	*	2200	*	*	1939	*	*	5215	*	2714	*	*	*	*	17
+       0	*	*	*	*	*	*	5480	0	0	
+
+G 18   *	*	5226	*	*	39	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       31	*	5539	*	*	*	*	5480	0	0	
+
+C 19   *	1265	*	*	*	*	*	3379	5238	2611	4274	*	*	*	2231	*	*	*	*	4923	19
+       48	*	4923	*	*	0	*	5474	0	1000	
+
+D 20   3973	*	2631	*	*	3014	*	*	4564	*	4989	4124	2826	4257	*	1752	5066	*	*	*	20
+       0	*	*	*	*	0	*	5417	0	1000	
+
+P 21   *	*	1235	3074	*	*	*	*	5102	4718	*	4364	2216	*	4403	3679	*	*	*	*	21
+       0	*	*	*	*	*	*	5480	0	0	
+
+S 22   2646	*	4071	4638	4920	*	*	4802	4482	1883	*	3038	*	*	*	3003	*	3194	*	*	22
+       0	*	*	*	*	*	*	5480	0	0	
+
+L 23   4624	*	*	4933	4459	*	*	1846	*	1941	3631	*	*	4085	*	*	3678	3001	*	*	23
+       54	4779	*	1000	1000	*	*	5480	1000	0	
+
+I 24   5226	*	2658	4796	5539	4779	*	2347	*	2296	*	2763	5587	4624	*	3467	5518	*	*	*	24
+       0	*	*	*	*	*	*	5480	0	0	
+
+G 25   4802	*	2411	4574	*	2077	4718	*	*	*	*	*	4114	3533	4638	2124	5076	*	*	5993	25
+       100	3900	*	1215	813	*	*	5480	1540	0	
+
+G 26   *	*	2060	2925	*	5408	3780	*	*	*	*	4145	5641	2169	5152	3031	4718	4482	*	*	26
+       0	*	*	*	*	*	*	5480	0	0	
+
+I 27   *	*	*	*	2336	*	*	4374	*	596	4403	*	*	*	*	*	*	4482	*	*	27
+       0	*	*	*	*	*	*	5480	0	0	
+
+D 28   4718	*	454	*	*	*	4638	*	*	*	*	4050	*	*	*	2926	*	*	*	*	28
+       0	*	*	*	*	*	*	5480	0	0	
+
+S 29   2101	2746	3956	*	*	4145	*	*	*	*	*	1833	3619	*	*	2892	*	*	*	*	29
+       0	*	*	*	*	*	*	5472	0	0	
+
+H 30   *	*	*	3678	*	*	254	*	*	*	*	*	*	*	4792	*	*	*	*	4403	30
+       0	*	*	*	*	*	*	5480	0	0	
+
+S 31   3562	*	*	*	*	*	*	*	*	4482	*	4638	4403	*	4718	424	*	*	*	*	31
+       0	*	*	*	*	*	*	5480	0	0	
+
+T 32   3701	*	*	*	*	*	*	*	*	*	*	3370	2886	*	*	*	610	4802	*	*	32
+       0	*	*	*	*	*	*	5480	0	0	
+
+I 33   *	*	*	*	*	*	*	250	*	3024	*	*	*	*	*	*	*	4792	*	*	33
+       0	*	*	*	*	*	*	5480	0	0	
+
+V 34   3072	2886	*	2968	*	*	*	*	*	*	*	*	*	2499	*	2713	1916	5408	*	*	34
+       0	*	*	*	*	*	*	5480	0	0	
+
+L 35   *	*	*	*	3890	*	*	1962	*	812	3235	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	5480	0	0	
+
+D 36   3283	*	3454	1855	*	*	4403	*	4624	*	*	2926	*	3198	4574	3018	*	*	*	4802	36
+       0	*	*	*	*	*	*	5480	0	0	
+
+L 37   *	*	*	*	2123	*	*	3516	*	1371	1755	*	*	*	*	*	*	*	*	*	37
+       60	4624	*	0	*	*	*	5480	1106	0	
+
+F 38   *	*	3325	3638	5408	4033	3565	*	1929	*	*	2866	*	3516	4482	3539	4933	*	*	*	38
+       107	3811	*	0	*	*	*	5480	1616	0	
+
+A 39   5408	*	1285	1948	*	3410	*	*	*	*	*	4015	*	*	*	2727	*	*	*	*	39
+       104	3848	*	591	1573	*	*	5480	1685	0	
+
+L 40   4977	*	*	*	4984	4458	*	2869	5104	2142	2887	4698	*	3969	*	2861	3603	4606	*	*	40
+       0	*	*	*	*	*	*	5492	0	0	
+
+P 41   5975	*	*	*	*	*	*	*	*	5115	*	*	220	4809	*	4030	*	*	*	*	41
+       0	*	*	*	*	*	*	5492	0	0	
+
+S 42   3038	*	1544	3199	*	*	*	*	*	4813	*	5149	3543	*	*	2542	3846	4809	*	*	42
+       0	*	*	*	*	*	*	5492	0	0	
+
+I 43   *	*	*	*	*	*	4813	540	*	3815	3498	*	*	*	*	*	*	3095	*	*	43
+       0	*	*	*	*	*	*	5492	0	0	
+
+C 44   *	3436	*	*	3004	*	2438	4813	*	5232	3717	1857	*	*	4458	4300	*	*	*	3507	44
+       0	*	*	*	*	*	*	5492	0	0	
+
+I 45   *	*	*	*	4912	*	*	659	*	3134	*	*	*	*	*	*	*	2186	*	*	45
+       0	*	*	*	*	*	*	5492	0	0	
+
+S 46   2673	*	2189	3498	*	4867	*	4698	3870	4722	*	4813	*	*	5836	1721	*	*	*	*	46
+       0	*	*	*	*	*	*	5492	0	0	
+
+V 47   5693	3488	4813	4365	*	*	*	5115	*	2233	4584	4799	*	*	2823	3826	3309	2824	*	4867	47
+       0	*	*	*	*	*	*	5492	0	0	
+
+K 48   *	*	3175	2564	*	*	4379	3694	4122	4911	4711	*	*	4112	*	2629	*	2020	*	*	48
+       0	*	*	*	*	*	*	5492	0	0	
+
+D 49   *	*	1146	3117	*	4014	*	*	*	*	*	2213	*	*	*	4458	3186	*	*	*	49
+       43	5104	*	0	*	*	*	5492	1000	0	
+
+D 50   *	*	641	2235	*	4085	*	*	*	*	*	4342	*	*	*	4711	*	*	*	*	50
+       0	*	*	*	*	*	*	5492	0	0	
+
+D 51   *	*	1733	2079	*	3579	4397	*	4379	4584	*	4813	*	5091	3751	*	*	4722	*	3954	51
+       91	4038	*	1103	904	*	*	5492	1625	0	
+
+V 52   *	*	*	*	*	*	*	1900	*	2611	*	*	3117	*	*	*	4698	1270	*	*	52
+       0	*	*	*	*	*	*	5492	0	0	
+
+W 53   *	*	*	*	*	*	*	2417	*	4458	3301	*	*	*	4606	*	4397	4809	885	*	53
+       0	*	*	*	*	*	*	5492	0	0	
+
+I 54   *	*	*	*	3579	*	*	1359	*	1838	4379	*	*	*	*	*	*	2331	*	*	54
+       0	*	*	*	*	*	*	5492	0	0	
+
+W 55   *	*	*	*	*	*	*	4458	*	*	*	*	*	*	*	*	*	*	67	*	55
+       0	*	*	*	*	*	*	5492	0	0	
+
+A 56   1721	3709	*	*	*	*	*	*	*	*	*	*	*	*	*	910	3509	*	*	*	56
+       0	*	*	*	*	*	*	5492	0	0	
+
+Q 57   4912	*	*	4813	*	*	4808	*	2789	4379	4724	3081	3184	3698	3402	3180	5693	2885	*	*	57
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 58   *	*	*	*	5091	*	*	3312	*	366	4458	*	*	*	*	*	*	4365	*	*	58
+       43	5104	*	2322	322	*	*	5492	1000	0	
+
+G 59   2786	2872	2684	4166	*	2466	*	*	*	*	5816	*	2924	3766	5887	5882	5693	4913	*	5908	59
+       0	*	*	*	*	*	*	5492	0	0	
+
+A 60   4251	5256	2457	1578	4379	*	*	*	*	*	*	3637	5104	5149	*	4458	4809	*	4912	3264	60
+       0	*	*	*	*	*	*	5492	0	0	
+
+D 61   4135	3423	4087	4109	3475	4379	4675	*	*	3717	4026	5816	5091	5836	4606	5553	*	3135	*	2492	61
+       0	*	*	*	*	*	*	5492	0	0	
+
+S 62   4826	*	3814	3825	*	2851	4296	*	*	3578	*	2583	*	4218	5104	2629	3160	*	*	5232	62
+       0	*	*	*	*	*	*	5492	0	0	
+
+M 63   *	*	3478	2051	4584	5908	6078	4944	*	3806	4148	3535	2778	4698	*	4010	4724	5657	*	4469	63
+       0	*	*	*	*	*	*	5492	0	0	
+
+V 64   3101	*	*	4458	*	4911	4606	5908	3856	*	*	2357	*	5023	*	1758	3574	3789	*	*	64
+       0	*	*	*	*	*	*	5492	0	0	
+
+V 65   3054	*	4813	*	5023	*	3947	3038	3584	3235	*	4777	*	3245	3917	3884	4912	2966	*	*	65
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 66   *	*	4379	*	3694	*	*	3457	*	696	5657	*	*	*	4809	*	5023	4222	*	5232	66
+       0	*	*	*	*	*	*	5492	0	0	
+
+Q 67   2391	*	3371	3343	*	*	5023	4724	*	4813	4711	*	4809	3380	3719	2621	3782	*	*	5115	67
+       0	*	*	*	*	*	*	5492	0	0	
+
+Q 68   3321	*	3717	4809	4698	4606	3713	*	*	5993	5657	*	4379	2336	3707	3227	*	*	*	2579	68
+       28	5696	*	1585	585	*	*	5492	1000	0	
+
+R 69   4458	2286	*	*	*	3603	*	5575	*	3016	5975	3742	*	*	4556	2797	4606	3359	4912	3761	69
+       0	*	*	*	*	*	*	5492	0	0	
+
+A 70   1364	*	*	*	*	3912	*	*	4809	4445	*	*	*	*	*	1109	*	*	*	*	70
+       0	*	*	*	*	*	*	5492	0	0	
+
+Y 71   2002	*	*	2996	3905	3912	4928	4944	*	4379	*	*	4129	4306	4813	4443	3988	5910	*	3191	71
+       0	*	*	*	*	*	*	5492	0	0	
+
+E 72   3629	*	3010	2972	*	4250	*	*	3718	3745	5975	2908	2927	*	3603	3564	5882	*	*	*	72
+       0	*	*	*	*	*	*	5492	0	0	
+
+I 73   *	*	*	*	4867	*	*	2511	*	525	*	*	*	*	*	*	*	3391	*	*	73
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 74   4458	*	*	*	5910	*	*	3128	5104	483	5696	*	*	*	*	5232	*	*	4912	*	74
+       0	*	*	*	*	*	*	5492	0	0	
+
+M 75   3204	*	3578	3372	*	4606	*	*	3384	3577	5431	4347	2658	*	3083	3266	4724	*	*	*	75
+       0	*	*	*	*	*	*	5492	0	0	
+
+T 76   *	4584	3736	3312	3399	*	*	2879	4109	2662	4808	4874	*	3956	*	4469	5431	5910	*	3099	76
+       70	4406	*	0	*	*	*	5492	1713	0	
+
+I 77   *	*	*	*	*	*	*	2356	*	853	2582	*	*	3948	*	*	*	*	*	5696	77
+       52	4809	*	0	*	*	*	5492	1000	0	
+
+M 78   *	*	*	3949	4506	*	*	2046	*	1872	2429	4634	5256	4063	*	4379	*	5975	*	*	78
+       161	3241	*	461	1870	*	*	5492	2490	0	
+
+E 79   4005	*	4944	1719	*	*	*	*	4001	*	5091	2607	2987	4444	3965	3483	5643	*	*	*	79
+       197	2968	*	0	*	*	*	5492	2774	0	
+
+G 80   4912	*	4695	4109	*	2245	3707	*	*	*	*	2875	2497	4722	*	5566	4379	*	*	2624	80
+       112	3742	*	0	*	*	*	5492	1950	0	
+
+C 81   3798	2766	*	3275	5091	*	*	4676	*	2633	*	2825	4497	*	*	3280	3510	3794	*	*	81
+       0	*	*	*	*	*	*	5492	0	0	
+
+H 82   4085	4912	2506	2184	4671	5693	5431	*	*	*	*	4379	1788	5115	*	3975	*	*	*	*	82
+       102	3877	*	0	*	*	*	5492	1613	0	
+
+F 83   5256	4113	4480	*	2007	2833	5657	*	*	3099	*	4319	*	*	4030	4722	*	4599	4912	3037	83
+       143	3409	*	0	*	*	*	5492	1979	0	
+
+A 84   2857	*	*	*	907	*	*	4099	*	*	*	*	*	*	*	3018	3729	3808	*	*	84
+       28	*	5696	*	*	*	*	5492	0	0	
+
+R 85   3691	*	4369	4688	*	*	4175	3938	*	4705	*	5605	3962	3263	3271	4443	*	3080	*	2186	85
+       30	*	5609	*	*	*	0	5487	0	1000	
+
+G 86   5636	*	*	*	4651	2385	*	4819	*	4252	*	5058	2113	*	*	2807	2272	4331	*	*	86
+       0	*	*	*	*	1000	1000	5484	0	1686	
+
+G 87   4369	4441	*	3959	*	565	5092	*	4091	*	*	*	*	*	3693	*	*	*	*	*	87
+       0	*	*	*	*	0	*	5490	0	1000	
+
+Q 88   *	*	*	*	*	4379	5608	*	5104	5091	*	*	*	548	2705	4809	*	*	*	*	88
+       31	5546	*	1000	1000	*	*	5492	1000	0	
+
+L 89   *	*	*	*	5608	*	*	*	*	2015	*	*	815	*	*	*	*	2814	*	5546	89
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 90   2062	2845	*	4097	3847	*	5023	*	*	3162	*	*	*	3280	*	4082	3717	3146	*	*	90
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 91   *	*	*	*	4038	*	*	4458	*	277	4379	*	*	*	*	*	*	*	*	5623	91
+       0	*	*	*	*	*	*	5492	0	0	
+
+G 92   4650	5023	5104	*	4367	2917	3561	5115	*	4379	*	3335	*	*	3838	2872	*	3036	*	2941	92
+       0	*	*	*	*	*	*	5492	0	0	
+
+E 93   *	*	5546	2229	3539	*	*	4438	5887	2047	*	5104	3270	3096	4313	5115	*	*	4458	*	93
+       0	*	*	*	*	*	*	5492	0	0	
+
+Q 94   3563	*	5104	5546	*	3194	5232	3827	*	*	5882	4056	*	5431	4470	5091	3316	1565	*	4458	94
+       0	*	*	*	*	*	*	5492	0	0	
+
+N 95   4867	*	914	2060	*	*	*	*	*	*	*	3473	*	5023	*	3751	*	*	*	*	95
+       0	*	*	*	*	*	*	5492	0	0	
+
+G 96   *	*	1793	3138	*	1722	*	5546	4724	*	*	2398	*	*	5115	5887	*	*	*	*	96
+       31	*	5546	*	*	*	*	5492	0	0	
+
+E 97   2943	*	5867	3312	*	2058	5772	5219	*	*	5589	2896	*	4026	5011	4710	3948	4810	*	3632	97
+       38	5261	*	0	*	0	*	5507	1000	1000	
+
+L 98   4809	*	*	*	3951	*	*	3729	*	549	*	*	*	*	*	*	*	*	*	2828	98
+       0	*	*	*	*	*	*	5492	0	0	
+
+T 99   *	*	*	889	*	*	5104	*	*	4606	4604	5115	*	3975	*	4458	5431	2719	*	4813	99
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 100  5149	*	*	*	4698	*	*	5232	*	257	*	*	*	*	*	*	*	3840	*	*	100
+       0	*	*	*	*	*	*	5492	0	0	
+
+K 101  5115	*	*	*	*	*	4397	*	1962	*	*	*	*	3530	1454	2475	*	4809	*	*	101
+       0	*	*	*	*	*	*	5492	0	0	
+
+A 102  532	*	*	*	*	2389	*	*	*	4085	*	*	*	*	*	*	*	4097	*	*	102
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 103  *	3811	*	4867	*	*	5232	5941	4451	2895	4085	4584	*	2000	4397	3540	*	2415	*	*	103
+       0	*	*	*	*	*	*	5492	0	0	
+
+V 104  5023	*	*	*	2729	*	*	3067	*	2241	3357	*	*	*	*	*	*	1358	*	*	104
+       0	*	*	*	*	*	*	5492	0	0	
+
+H 105  *	*	4005	3498	*	5149	4650	3625	2331	5980	4197	3865	*	5608	2743	2792	4379	*	*	*	105
+       0	*	*	*	*	*	*	5492	0	0	
+
+P 106  3008	*	3349	1892	*	*	4809	*	5643	*	*	*	1644	*	*	3718	4145	*	*	*	106
+       0	*	*	*	*	*	*	5492	0	0	
+
+D 107  5115	*	2132	4172	*	*	4197	4722	3212	5149	*	4809	5941	4711	3323	3281	2779	*	5608	*	107
+       0	*	*	*	*	*	*	5492	0	0	
+
+F 108  1570	3047	*	*	4651	*	4895	*	*	*	*	2857	*	*	5693	4369	4711	4867	4724	2711	108
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 109  4606	*	*	*	3621	*	*	*	*	510	3945	*	*	4458	*	*	*	3943	*	*	109
+       0	*	*	*	*	*	*	5492	0	0	
+
+S 110  3440	*	3068	1986	*	5910	4097	*	*	*	*	2957	*	4174	4458	2716	*	4711	*	4606	110
+       0	*	*	*	*	*	*	5492	0	0	
+
+D 111  5836	*	1351	3808	*	4809	*	*	*	*	4458	2951	*	4724	*	1885	*	*	*	*	111
+       0	*	*	*	*	*	*	5492	0	0	
+
+G 112  2224	*	5149	3194	*	2851	5104	4807	5608	*	4504	*	2528	*	*	3309	3884	4698	*	*	112
+       0	*	*	*	*	*	*	5492	0	0	
+
+E 113  5115	*	3130	1877	*	3907	*	5091	*	*	*	3444	*	2590	4396	3862	3640	4867	*	*	113
+       67	*	4458	*	*	*	*	5492	0	0	
+
+K 114  3378	*	4244	4797	*	2855	4952	*	3592	2885	*	5565	4744	4066	4138	3035	4209	3733	*	*	114
+       0	*	*	*	*	0	*	5391	0	1000	
+
+F 115  *	*	*	*	376	*	*	*	*	3194	3793	*	*	*	*	*	*	4379	*	*	115
+       0	*	*	*	*	*	*	5492	0	0	
+
+S 116  1324	*	*	3808	*	*	*	4813	4379	2821	*	*	*	*	4458	2869	3540	4809	*	*	116
+       0	*	*	*	*	*	*	5492	0	0	
+
+T 117  4458	*	2378	2323	*	5657	*	4724	5887	3925	*	3951	*	2899	5575	3255	3362	*	*	*	117
+       0	*	*	*	*	*	*	5492	0	0	
+
+A 118  1203	4813	*	*	*	*	*	5091	*	4912	3761	*	*	*	*	2780	3541	2624	*	*	118
+       0	*	*	*	*	*	*	5492	0	0	
+
+L 119  *	*	*	*	2901	*	*	2395	*	731	4813	*	*	*	*	*	4724	*	*	*	119
+       0	*	*	*	*	*	*	5492	0	0	
+
+N 120  *	*	1401	1488	*	*	4361	*	*	*	*	4148	*	3794	4711	5608	5104	*	*	*	120
+       0	*	*	*	*	*	*	5492	0	0	
+
+G 121  4698	*	5575	1972	*	1717	3847	*	*	5910	5553	4078	*	4809	*	5023	3895	*	*	3625	121
+       0	*	*	*	*	*	*	5492	0	0	
+
+F 122  *	*	*	*	196	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2978	122
+       0	*	*	*	*	*	*	5492	0	0	
+
+Y 123  *	*	*	*	1259	*	*	3541	*	2845	5149	*	*	*	*	*	4711	3912	*	2157	123
+       0	*	*	*	*	*	*	5492	0	0	
+
+N 124  4332	*	3310	2026	*	*	5050	*	4780	4992	*	5382	*	3007	2995	3704	2685	*	*	*	124
+       0	*	*	*	*	*	*	5448	0	0	
+
+Y 125  4992	*	3026	3710	*	*	*	2661	3462	2804	*	*	*	5712	2465	3465	*	*	*	3528	125
+       0	*	*	*	*	*	*	5448	0	0	
+
+L 126  3951	*	*	*	*	*	*	3969	*	937	2905	*	*	*	*	2948	5029	4718	*	5828	126
+       33	5463	*	2000	415	*	*	5326	1000	0	
+
+E 127  3505	3698	*	2059	*	5099	4780	*	*	3984	4588	2847	*	2264	*	4648	*	4734	*	*	127
+       0	*	*	*	*	*	*	5320	0	0	
+
+V 128  3624	*	3943	2369	*	*	*	4070	*	4241	*	3620	*	2972	3257	3469	3826	3763	*	*	128
+       0	*	*	*	*	*	*	5155	0	0	
+
+F 129  *	3944	*	*	2251	*	*	3013	*	1873	*	*	*	*	*	*	*	4167	*	1877	129
+       0	*	*	*	*	*	*	5155	0	0	
+
+S 130  *	2781	*	*	*	*	2514	*	*	*	5622	2785	*	5664	2431	2364	3843	4478	*	*	130
+       0	*	*	*	*	*	*	5082	0	0	
+
+R 131  5678	*	5616	1928	*	4786	3299	*	3494	*	*	*	*	4803	3521	3282	2029	*	*	*	131
+       0	*	*	*	*	*	*	5082	0	0	
+
+S 132  *	*	*	3894	*	*	*	2439	*	2163	3771	*	*	4139	4746	5056	5115	1742	*	*	132
+       0	*	*	*	*	*	*	4973	0	0	
+
+L 133  *	*	*	*	4648	*	*	2817	*	345	*	*	*	*	*	*	*	5014	*	*	133
+       0	*	*	*	*	*	*	4882	0	0	
+
+M 134  *	*	*	*	*	*	*	2157	*	2028	3016	*	*	*	*	*	*	1297	*	*	134
+       0	*	*	0	*	*	*	3335	0	0	
+
+//

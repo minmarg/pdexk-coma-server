@@ -1,0 +1,168 @@
+HHsearch 1.5
+NAME  d1co4a_ g.47.1.1 (A:) Zinc domain conserved in yeast copper-regulated transcription factors {Synthetic}
+FAM   g.47.1.1
+FILE  d1co4a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1co4a_.a3m -v 1 
+DATE  Mon Jan 21 19:20:26 2013
+LENG  42 match states, 42 columns in multiple alignment
+FILT  104 out of 131 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CEEECCCCEECCCCCCCCCCCCCCCCCCEEEEECCCCCCCCC
+>ss_conf
+922388300000112453346420177402653586688899
+>Consensus
+MilixgxKyACxxCIrGHRssxCxHxdRxLxxvxxkGRPxst
+>d1co4a_ g.47.1.1 (A:) Zinc domain conserved in yeast copper-regulated transcription factors {Synthetic}
+MVVINGVKYACDSCIKSHKAAQCEHNDRPLKILKPRGRPPTT
+>gi|410077743|ref|XP_003956453.1|(1-42:264) hypothetical protein KAFR_0C03260 [Kazachstania africana CBS 2517] >gi|372463037|emb|CCF57318.1| hypothetical protein KAFR_0C03260 [Kazachstania africana CBS 2517]  E=6e-06 s/c=1.28 id=53% cov=102%
+MIVINGVKYACELCIRGHRTHSCNHSDRKLIEVRRKGRPSTT
+>gi|121719414|ref|XP_001276406.1|(1-41:92) Copper fist DNA binding domain protein [Aspergillus clavatus NRRL 1] >gi|119404604|gb|EAW14980.1| Copper fist DNA binding domain protein [Aspergillus clavatus NRRL 1]  E=0.0004 s/c=1.17 id=40% cov=100%
+-MLVNGEKWACGYCVRGHRVSTCQHHDRPLTRINRKGRPSAT
+>gi|366987101|ref|XP_003673317.1|(1-42:407) hypothetical protein NCAS_0A03700 [Naumovozyma castellii CBS 4309] >gi|342299180|emb|CCC66928.1| hypothetical protein NCAS_0A03700 [Naumovozyma castellii CBS 4309]  E=6e-13 s/c=1.83 id=42% cov=102%
+MIIYASEKYACASCIRGHRSSTCKHTNRMLVKVRTRGRPSPT
+>gi|392597017|gb|EIW86339.1|(1-41:407) hypothetical protein CONPUDRAFT_114525 [Coniophora puteana RWD-64-598 SS2]  E=8e-13 s/c=1.86 id=50% cov=100%
+MVYVNDKKFACESCIKGHRSSSCQHNERPLFEVKKKGRPVS-
+>gi|406602385|emb|CCH46038.1|(1-41:444) Metal-activated transcriptional activator protein AMT1 [Wickerhamomyces ciferrii]  E=1e-11 s/c=1.76 id=40% cov=100%
+MILLHNERLACEQCIRGHRAADCQHLNKSLISIKGRGRPPA-
+>gi|328774105|gb|EGF84142.1|(40-80:842) hypothetical protein BATDEDRAFT_21917 [Batrachochytrium dendrobatidis JAM81]  E=2e-07 s/c=1.43 id=36% cov=100%
+MLLYDTLKFACQRCQSGHRSAVCVHLDRRVDEIKAKGRPVS-
+>gi|378734809|gb|EHY61268.1|(40-77:602) hypothetical protein HMPREF1120_09202 [Exophiala dermatitidis NIH/UT8656]  E=8e-06 s/c=1.39 id=39% cov=90%
+---FNGKTYACESCKRGHRVQKCDHgRTRPISETNQPGRPS--
+>gi|408395614|gb|EKJ74792.1|(1-58:526) hypothetical protein FPSE_05040 [Fusarium pseudograminearum CS3096]  E=0.0008 s/c=0.80 id=37% cov=102%
+MPLINGIKMAWyvaawpgligtrrtrEPCIRGHRSTKCTHaNERLMVPVRKPGRPLSS
+>gi|384499454|gb|EIE89945.1|(1-36:226) hypothetical protein RO3G_14656 [Rhizopus delemar RA 99-880]   E=4e-08 s/c=1.68 id=43% cov=88%
+-MIINGQKWSCETCIKGHRATSCNHTNRQLTLIKKKG-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	5131	42	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2698	0	0	
+
+V 2    *	*	*	*	*	*	*	1584	*	4631	2151	*	3177	*	*	*	6270	1850	*	*	2
+       0	*	*	*	*	*	*	2836	0	0	
+
+V 3    *	*	*	*	4448	*	5753	1701	*	1151	6114	*	*	*	*	*	6750	3131	*	4649	3
+       0	*	*	*	*	*	*	2835	0	0	
+
+I 4    *	*	*	*	3678	*	*	913	5144	3315	*	*	*	*	6185	*	6619	2757	*	3467	4
+       21	6114	*	0	*	*	*	2884	1000	0	
+
+N 5    5939	*	1329	4280	*	4459	4768	*	4806	*	*	1376	*	5751	*	6329	*	*	*	*	5
+       0	*	*	*	*	*	*	2908	0	0	
+
+G 6    *	*	3372	4733	*	597	*	*	6508	*	*	3036	*	*	6530	5470	4710	*	*	*	6
+       0	*	*	*	*	*	*	2908	0	0	
+
+V 7    6212	*	4116	1905	6294	*	6237	3909	2117	4715	*	6639	*	4458	6005	*	5053	2327	*	*	7
+       15	6621	*	1000	1000	*	*	2936	1000	0	
+
+K 8    *	*	*	*	*	*	*	*	189	*	*	5711	*	*	5297	4932	4451	*	*	*	8
+       0	*	*	*	*	*	*	2938	0	0	
+
+Y 9    *	*	*	*	3122	*	*	*	*	4720	4343	*	*	*	*	*	*	5691	2709	677	9
+       0	*	*	*	*	*	*	2944	0	0	
+
+A 10   283	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2899	5220	*	*	5862	10
+       0	*	*	*	*	*	*	2915	0	0	
+
+C 11   *	92	*	*	*	*	*	*	*	*	*	*	*	*	*	4506	*	*	5790	*	11
+       26	5790	*	3907	100	*	*	2915	1000	0	
+
+D 12   3088	*	3423	1099	*	4943	*	5120	*	5752	4587	*	*	3558	*	5225	*	3740	6114	*	12
+       0	*	*	*	*	*	*	2915	0	0	
+
+S 13   2880	*	*	4040	6542	*	*	5786	4127	4950	*	6622	2948	4708	3281	1990	3102	5180	*	6943	13
+       26	*	5786	*	*	*	*	2915	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	0	*	2901	0	1000	
+
+I 15   *	*	*	*	5759	*	*	434	4415	4992	6000	*	*	4826	*	*	*	3153	*	*	15
+       0	*	*	*	*	*	*	2897	0	0	
+
+K 16   *	*	*	*	*	*	*	*	2025	*	*	*	*	4988	540	4829	*	*	*	*	16
+       0	*	*	*	*	*	*	2896	0	0	
+
+S 17   *	*	*	*	*	58	*	*	*	*	*	*	*	*	*	4677	*	*	*	*	17
+       0	*	*	*	*	*	*	2896	0	0	
+
+H 18   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2896	0	0	
+
+K 19   *	*	*	*	*	*	*	*	4677	*	*	*	*	*	58	*	*	*	*	*	19
+       5	8130	*	1585	585	*	*	2896	1000	0	
+
+A 20   2572	*	*	*	*	5670	*	*	*	*	*	*	*	6134	*	996	4819	1938	*	*	20
+       0	*	*	*	*	*	*	2896	0	0	
+
+A 21   2679	*	*	*	*	*	6380	*	*	*	*	*	*	4943	6090	671	2675	*	*	*	21
+       0	*	*	*	*	*	*	2896	0	0	
+
+Q 22   5865	*	5246	*	*	3894	6134	6664	2658	5340	*	4025	*	3748	5764	2067	1978	4829	*	*	22
+       0	*	*	*	*	*	*	2896	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2896	0	0	
+
+E 24   4265	*	3806	4677	*	*	5325	*	2409	*	*	2702	*	2605	3507	5308	2782	4398	*	*	24
+       0	*	*	*	*	*	*	2896	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       90	4041	*	0	*	*	*	2896	1547	0	
+
+N 26   6134	*	7565	*	4599	*	3884	6881	4551	3714	*	2833	*	4930	4276	2591	1804	6212	*	4225	26
+       37	5309	*	3853	103	*	*	2896	1467	0	
+
+D 27   6874	*	735	3109	*	4021	6634	6795	6661	*	6633	3735	*	5584	*	*	3975	*	*	6095	27
+       32	5513	*	1585	585	*	*	2896	1342	0	
+
+R 28   *	*	*	6716	*	5103	*	*	4912	*	*	*	*	4471	259	6095	5454	6628	*	*	28
+       0	*	*	*	*	*	*	2896	0	0	
+
+P 29   4759	*	6818	3955	*	*	*	5209	5682	3492	3481	6735	1002	5966	4326	5245	5573	5636	*	5454	29
+       0	*	*	*	*	*	*	2896	0	0	
+
+L 30   *	*	*	*	*	*	*	4942	*	270	3639	*	*	*	*	5454	*	4828	*	*	30
+       0	*	*	*	*	*	*	2896	0	0	
+
+K 31   *	*	4828	*	2794	*	5935	2884	3974	3612	4049	*	*	4130	*	3769	3375	2320	*	4805	31
+       0	*	*	*	*	*	*	2896	0	0	
+
+I 32   6449	*	*	1672	*	*	3489	3781	2550	5105	4186	*	4277	3668	4684	4744	*	4276	*	*	32
+       0	*	*	*	*	*	*	2896	0	0	
+
+L 33   *	*	*	*	*	*	*	1281	*	3660	*	*	*	*	*	*	4942	1069	*	*	33
+       33	5454	*	2000	415	*	*	2896	1000	0	
+
+K 34   6069	*	*	*	*	4149	*	*	1482	*	*	2970	4239	*	1445	5454	*	*	*	*	34
+       0	*	*	*	*	*	*	2896	0	0	
+
+P 35   4097	*	*	*	*	5245	*	*	1356	*	*	6351	2549	4942	2971	3602	3337	*	*	*	35
+       0	*	*	*	*	*	*	2896	0	0	
+
+R 36   4259	*	*	*	*	*	*	*	695	*	*	*	3352	*	2106	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2896	0	0	
+
+G 37   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2899	0	0	
+
+R 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2898	0	0	
+
+P 39   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2864	0	0	
+
+P 40   4927	*	*	*	4441	*	*	3629	*	3344	*	5821	3086	5141	*	1993	6197	1675	*	*	40
+       0	*	*	*	*	*	*	2863	0	0	
+
+T 41   3411	*	*	*	*	*	*	*	*	*	*	*	5704	*	*	1175	1172	*	*	*	41
+       0	*	*	*	*	*	*	2770	0	0	
+
+T 42   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2288	331	*	*	*	42
+       0	*	*	0	*	*	*	2304	0	0	
+
+//

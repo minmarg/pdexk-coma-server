@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1a6bb_ g.40.1.1 (B:) Zinc finger protein ncp10 {Moloney murine leukemia virus, MoMLV [TaxId: 11801]}
+FAM   g.40.1.1
+FILE  d1a6bb_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1a6bb_.a3m -v 1 
+DATE  Mon Jan 21 23:03:16 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHCCCCHHCCCCCCCCCCCCCCCC
+>ss_conf
+9777887664210011012762220343457788888889
+>Consensus
+gxxrrxxlxkDQCAyCkEkGHWxxdCPkxxxxxxxpxpxt
+>d1a6bb_ g.40.1.1 (B:) Zinc finger protein ncp10 {Moloney murine leukemia virus, MoMLV [TaxId: 11801]}
+GERRRSQLDRDQCAYCKEKGHWAKDCPKKPRGPRGPRPQT
+>gi|350578295|ref|XP_003480338.1|(416-451:469) PREDICTED: protein zyg-11 homolog A-like [Sus scrofa]   E=1e-10 s/c=1.94 id=53% cov=90%
+---KRSPLEHDQCAYCKEKGHWKNECPNRPEKKSKAPP--
+>gi|425029688|dbj|BAM67146.1|(482-511:1687) gag-pol precursor polyprotein [Koala retrovirus]   E=4e-08 s/c=2.04 id=62% cov=72%
+----RPPLDKDQCAYCKERGHWARECPRKKNA--------
+>gi|62326507|ref|YP_223870.1|(461-493:500) gag protein [Reticuloendotheliosis virus] >gi|57865345|gb|AAW57299.1| gag protein [Reticuloendotheliosis virus]  E=4e-06 s/c=1.65 id=50% cov=85%
+--KGRPPLGKNQCAYCKEEGHWKKNCPKLVSGATP-----
+>gi|344258234|gb|EGW14338.1|(119-153:163) Gag polyprotein [Cricetulus griseus]   E=1e-05 s/c=1.52 id=66% cov=88%
+-----PHLDRDQCAYCKEKGHWARDCPKKTSRAQPPWPR-
+>gi|224172158|ref|XP_002199375.1|(194-222:1397) PREDICTED: similar to polyprotein [Taeniopygia guttata]   E=3e-05 s/c=1.78 id=50% cov=70%
+-----PQLGKDQCAFCRKFGHWKNQCPERRRG--------
+>gi|351720597|dbj|BAL04139.1|(541-578:1790) gag-pol precursor polyprotein [Feline leukemia virus]   E=8e-11 s/c=1.84 id=59% cov=98%
+GDQRKIPLGKDQCAYCKEKGHWVRDCPKRPR--KKPANST
+>gi|344238590|gb|EGV94693.1|(495-530:538) Gag polyprotein [Cricetulus griseus]   E=3e-08 s/c=1.70 id=59% cov=92%
+GDKRRTRVERNQCAYCKEKGHWVKHCPKNPRRKPTP----
+>gi|38194907|gb|AAR13295.1|(201-234:324) retrovirus-related pol polyprotein [Phaseolus vulgaris]   E=5e-05 s/c=1.50 id=43% cov=88%
+---KGRVVAKDECAFCHEKGHWKKDCPKLQKKEKVPQ---
+>gi|344241036|gb|EGV97139.1|(139-176:179) Gag polyprotein [Cricetulus griseus]   E=7e-08 s/c=1.59 id=55% cov=95%
+-NKNRKPLRRDQCAYCKKLGHWKHECPKQKwVGPPWPRP--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1630	0	0	
+
+E 2    3486	*	2034	1291	*	*	*	*	*	*	*	2660	*	*	*	*	*	3326	*	*	2
+       0	*	*	*	*	*	*	1920	0	0	
+
+R 3    *	*	*	3802	*	*	*	*	1304	*	*	*	*	3802	1147	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2027	0	0	
+
+R 4    *	*	*	*	*	3700	*	*	1667	*	*	3302	*	*	981	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2055	0	0	
+
+R 5    *	*	*	*	*	2423	*	*	3475	*	*	*	*	*	467	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2067	0	0	
+
+S 6    *	*	*	*	*	*	*	4675	3785	4331	*	*	1407	*	2734	2836	2546	*	*	*	6
+       0	*	*	*	*	*	*	2141	0	0	
+
+Q 7    *	*	*	*	*	*	4681	*	2588	*	*	*	1243	2190	3956	*	*	3498	*	*	7
+       0	*	*	*	*	*	*	2141	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	393	*	*	*	*	*	*	*	2067	*	*	8
+       0	*	*	*	*	*	*	2141	0	0	
+
+D 9    3498	*	1160	2472	*	2244	*	*	*	*	*	*	*	*	3785	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2141	0	0	
+
+R 10   *	4041	*	*	*	*	3642	*	610	*	*	*	*	*	2292	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2141	0	0	
+
+D 11   *	*	177	*	*	*	*	*	*	*	*	3111	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2141	0	0	
+
+Q 12   *	*	*	3498	*	*	*	*	*	*	*	*	*	134	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2141	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2141	0	0	
+
+A 14   155	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4606	4041	*	*	*	14
+       0	*	*	*	*	*	*	2141	0	0	
+
+Y 15   *	*	*	*	2309	*	*	*	*	*	*	*	*	*	*	*	*	*	*	325	15
+       0	*	*	*	*	*	*	2141	0	0	
+
+C 16   *	74	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4331	16
+       0	*	*	*	*	*	*	2141	0	0	
+
+K 17   *	*	*	4041	*	*	3498	*	366	*	*	*	*	*	3738	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2141	0	0	
+
+E 18   *	*	*	230	*	*	*	*	2761	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2141	0	0	
+
+K 19   *	*	*	4286	3738	*	*	*	776	3785	*	*	*	4041	2675	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2141	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2141	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2141	0	0	
+
+W 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	22
+       0	*	*	*	*	*	*	2141	0	0	
+
+A 23   1082	*	*	*	*	*	*	3544	1563	*	*	*	*	*	*	*	*	3271	*	*	23
+       0	*	*	*	*	*	*	2141	0	0	
+
+K 24   *	*	*	*	*	*	3785	*	1261	*	*	2988	*	*	1380	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2141	0	0	
+
+D 25   *	*	1004	1819	*	*	3956	*	*	*	*	3670	*	3738	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2141	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       48	4935	*	1000	1000	*	*	2141	1000	0	
+
+P 27   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2141	0	0	
+
+K 28   *	*	*	3738	*	*	*	*	262	*	*	4291	*	*	4646	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2141	0	0	
+
+K 29   *	*	*	*	*	*	*	*	1432	2467	*	3956	*	3785	1682	*	*	*	*	*	29
+       40	*	5196	*	*	*	*	2141	0	0	
+
+P 30   *	*	*	*	*	4879	*	*	2412	*	*	*	1067	3486	3113	*	4640	4162	*	*	30
+       116	3690	*	0	*	*	0	2150	1000	1000	
+
+R 31   *	*	*	4200	*	4350	*	*	3424	*	*	3703	*	*	962	2869	*	3711	*	*	31
+       66	*	4476	*	*	0	*	2138	0	1000	
+
+G 32   3569	*	4447	*	*	1014	*	*	2315	*	*	4256	*	*	3042	*	*	*	*	*	32
+       0	*	*	*	*	*	0	2159	0	1000	
+
+P 33   3058	*	*	3135	*	4483	*	*	2678	4392	*	3485	1654	4271	*	4092	*	*	*	*	33
+       0	*	*	*	*	0	*	2193	0	1000	
+
+R 34   *	*	*	*	*	*	*	*	1491	*	*	*	2550	4250	1851	3702	3905	*	*	*	34
+       0	*	*	*	*	*	*	2271	0	0	
+
+G 35   *	*	*	*	*	2069	*	*	2012	*	*	*	2485	*	4337	*	3688	3124	3421	*	35
+       0	*	*	*	*	*	*	2261	0	0	
+
+P 36   3467	*	*	*	*	*	*	*	*	4388	*	*	317	*	*	*	4087	*	*	*	36
+       0	*	*	*	*	*	*	2276	0	0	
+
+R 37   2384	*	*	*	*	*	*	*	4047	*	*	*	3360	2936	1166	*	*	*	3756	*	37
+       0	*	*	*	*	*	*	2206	0	0	
+
+P 38   *	*	*	*	*	*	*	*	*	*	*	3231	162	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1939	0	0	
+
+Q 39   *	*	*	*	*	*	*	*	*	*	*	*	*	637	2493	2479	*	*	*	*	39
+       0	*	*	*	*	*	*	1553	0	0	
+
+T 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	40
+       0	*	*	0	*	*	*	1469	0	0	
+
+//

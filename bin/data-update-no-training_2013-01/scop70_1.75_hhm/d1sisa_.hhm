@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d1sisa_ g.3.7.2 (A:) Toxin I5a {Scorpion (Buthus eupeus) [TaxId: 34648]}
+FAM   g.3.7.2
+FILE  d1sisa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sisa_.a3m -v 1 
+DATE  Tue Jan 22 02:10:03 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCHHHHHHHHHHHCCCCCCCCCCCCCCC
+>ss_conf
+97777676834688888860888732174112379
+>Consensus
+mCxPCFTtdxxmaxkCxxCCgGxgkCfGpQCLCnr
+>d1sisa_ g.3.7.2 (A:) Toxin I5a {Scorpion (Buthus eupeus) [TaxId: 34648]}
+MCMPCFTTDPNMAKKCRDCCGGNGKCFGPQCLCNR
+>gi|149134070|gb|ABR21063.1|(25-59:67) venom chloride channel toxin-2 [Mesobuthus eupeus]   E=6e-10 s/c=1.93 id=83% cov=103%
+MCMPCFTTRPDMAQQCRDCCGGNGKCFGYQCLCNR
+>gi|48475011|sp|Q9UAD0.1|SCCT_MESMA(25-58:59) RecName: Full=Neurotoxin BmKCT; AltName: Full=BmKCL1; AltName: Full=CT neurotoxin; AltName: Full=Cl(-)-channel toxin; AltName: Full=Short-chain toxin KCT; AltName: Full=TXCL1; Flags: Precursor >gi|5712119|gb|AAD47373.1|AF079059_2 CT neurotoxin precursor [Mesobuthus martensii] >gi|14388611|gb|AAK61823.1|AF159976_1 toxin TXCL1 [Mesobuthus martensii] >gi|23451189|gb|AAN32699.1|AF419252_1 Cl- channel toxin [Mesobuthus martensii] >gi|9858887|gb|AAG01185.1| short-chain toxin KCT precursor [Mesobuthus martensii]  E=9e-09 s/c=1.86 id=83% cov=100%
+-CGPCFTTDANMARKCRECCGGIGKCFGPQCLCNR
+>gi|323709966|gb|ADY02962.1|(1-33:34) chlorotoxin-like peptide [Mesobuthus eupeus]   E=3e-08 s/c=1.87 id=88% cov=97%
+MCMPCFTTDHNMAKKCNDCCGGYGKCFGPQCLC--
+>gi|134334|sp|P15220.1|SCX1_BUTEU(1-34:36) RecName: Full=Insectotoxin-I1 >gi|229630|prf||771311A toxin I1,insecto  E=1e-06 s/c=1.65 id=76% cov=97%
+MCMPCFTTRPDMAQQCRACCKGRGKCFGPQCLC--
+>gi|162416177|sp|P85066.1|SCX1_LEIQH(1-34:34) RecName: Full=Toxin GaTx1   E=5e-06 s/c=1.60 id=71% cov=100%
+-CGPCFTTDHQMEQKCAECCGGIGKCYGPQCLCNR
+>gi|1173403|sp|P45639.1|SCXL_LEIQU(1-36:36) RecName: Full=Chlorotoxin; Short=CTX; Short=ClTx >gi|253722773|pdb|1CHL|A Chain A, Nmr Sequential Assignments And Solution Structure Of Chlorotoxin, A Small Scorpion Toxin That Blocks Chloride Channels >gi|266221|gb|AAB25543.1| chlorotoxin=chloride channel ligand [Leiurus quinquestriatus=scorpions, questriatus, venom, Peptide, 36 aa] >gi|445665|prf||1910194A chlorotoxin  E=9e-06 s/c=1.49 id=79% cov=97%
+MCMPCFTTDHQMARKCDDCCGGKgrGKCYGPQCLC--
+>gi|37076879|sp|P59887.1|SCXL_BUTSI(1-34:36) RecName: Full=Chlorotoxin-like peptide Bs 14; Short=Bs14   E=1e-05 s/c=1.55 id=71% cov=100%
+-CGPCFTKDPETEKKCATCCGGIGRCFGPQCLCNR
+>gi|134379|sp|P01498.1|SCXP_ANDMA(1-34:35) RecName: Full=Neurotoxin P2   E=2e-05 s/c=1.54 id=71% cov=100%
+-CGPCFTTDPYTESKCATCCGGRGKCVGPQCLCNR
+>gi|41017882|sp|P60268.1|SCX3_BUTEU(1-34:36) RecName: Full=Insectotoxin-I3; AltName: Full=BeI3   E=0.0005 s/c=1.41 id=79% cov=94%
+MCMPCFTTDHQTARRCRDCCGGRGrKCFG-QCLC--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1339	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1525	0	0	
+
+M 3    *	*	*	*	*	1376	*	*	*	*	702	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1525	0	0	
+
+F 6    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	7
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 8    *	*	*	*	*	*	*	*	3111	*	*	*	*	*	*	*	177	*	*	*	8
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 9    *	*	322	*	*	*	*	*	*	*	*	*	*	*	2322	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 10   3578	*	*	*	*	*	1576	*	*	*	*	*	784	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1525	0	0	
+
+N 11   *	*	2322	3111	*	*	*	*	*	*	*	1601	*	1978	*	*	*	*	*	3310	11
+       0	*	*	*	*	*	*	1525	0	0	
+
+M 12   *	*	*	*	*	*	*	*	*	*	513	*	*	*	*	*	1740	*	*	*	12
+       0	*	*	*	*	*	*	1525	0	0	
+
+A 13   518	*	*	1730	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1525	0	0	
+
+K 14   *	*	*	*	*	*	*	*	1894	*	*	3434	*	1811	1985	3310	*	*	*	*	14
+       0	*	*	*	*	*	*	1525	0	0	
+
+K 15   *	*	*	*	*	*	*	*	480	*	*	*	*	2322	3594	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1525	0	0	
+
+R 17   1730	*	3538	*	*	*	*	*	*	*	*	3614	*	*	914	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 18   3280	*	966	2568	*	*	*	*	*	*	*	*	*	*	*	*	2207	*	*	*	18
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 21   *	*	*	*	*	157	*	*	3280	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1525	0	0	
+
+N 23   *	*	*	*	*	3434	*	1814	3538	*	*	2567	*	*	1803	*	*	*	*	3614	23
+       130	3538	*	1000	1000	*	*	1525	1000	0	
+
+G 24   *	*	*	*	*	140	*	*	3434	*	*	*	*	*	*	*	*	*	*	*	24
+       125	3594	*	0	*	*	*	1525	1000	0	
+
+K 25   *	*	*	*	*	*	*	*	177	*	*	*	*	*	3111	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1525	0	0	
+
+F 27   *	*	*	*	458	*	*	*	*	*	*	*	*	*	*	*	*	3310	*	2548	27
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 28   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       125	*	3594	*	*	*	*	1525	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	162	*	*	*	*	*	*	3238	29
+       0	*	*	*	*	0	*	1523	0	1000	
+
+Q 30   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1525	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1525	0	0	
+
+N 34   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1434	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1434	0	0	
+
+//

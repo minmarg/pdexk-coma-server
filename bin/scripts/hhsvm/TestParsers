@@ -1,0 +1,105 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use Parsers;
+
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 56 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/TestParsers $
+# ==============================================================================
+
+
+# 2g3w.pos 15,16,37,38,39
+
+# Returns an array of
+# %obj = (
+#               name => "2g3w.pos",
+#               pd_pos => [15, 16],
+#               exk_pos => [37,38,39],
+#         );
+# 
+# Tests positive list parser
+
+my $pos_list_obj = Parsers::parse_pos_list($ARGV[0]);
+
+foreach my $obj (@$pos_list_obj)
+{
+    for my $key (sort keys %$obj)
+    {
+        my $value = $obj->{$key};
+        
+        if($key ne "name")
+        {
+            $value = join(",", @{$obj->{$key}});
+        }
+
+        printf("%20s %20s\n", $key, $value);        
+        
+    }
+}
+
+# %hhm_obj = (seq => [\%seq1], neff =>3.7, stats => [\%obj1, \%obj2 ...], stats_hash => { 1 => \%obj1, 2 => \%obj2 ...})
+# %seq1 = (
+#           header => "Consensus",
+#           seq    => "AxAA",
+#         )
+# %obj = (
+#               amino_acid => "A",
+#               number => 158,
+#               M_M => 0,
+#               M_I => 99999,
+#               M_D => 99999,
+#               I_M => 99999,
+#               I_I => 99999,
+#               D_M => 99999,
+#               D_D => 99999, 
+#               Neff => 3383,
+#               Neff_I => 0, 
+#               Neff_D => 0,
+#               freq => [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+#         );
+
+my $hhm_obj = Parsers::parse_hhm($ARGV[1]);
+
+foreach my $obj (@{$hhm_obj->{stats}})
+{
+    for my $key (sort keys %$obj)
+    {
+        my $value = $obj->{$key};
+        
+        if($key eq "freq")
+        {
+            $value = join(",", @{$obj->{$key}});
+        }
+
+        printf("%20s %20s\n", $key, $value);                
+    }
+}
+
+foreach my $seq_obj (@{$hhm_obj->{seq}})
+{
+    print "$seq_obj->{header}\n$seq_obj->{seq}\n";
+}
+
+print "NEFF: $hhm_obj->{neff}\n";
+
+# An array of    
+# my %obj = (
+#             header => ">test",
+#             seq    => "abac",
+#           );
+my $msa_in_fasta = Parsers::parse_fas($ARGV[2]);
+
+foreach my $obj (@$msa_in_fasta)
+{
+    print "$obj->{header}\n$obj->{seq}\n";
+}
+
+
+
+

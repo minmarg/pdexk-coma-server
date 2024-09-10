@@ -1,0 +1,153 @@
+<html t:type="layout" title="Results"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <div class="header">
+        Job details
+    </div>
+
+    <t:if t:test="job.error">
+        <div class="error">
+            Job finished with errors:<br/>
+            <t:outputraw value="job.error" />
+        </div>
+    </t:if>
+    
+    <table class="summary">
+	    <t:if t:test="job.description">
+	        <tr>
+	            <td>
+	                Description
+	            </td>
+	            <td>
+	                ${job.description}
+	            </td>
+	        </tr>
+	    </t:if>
+	    <tr>
+           <td>
+               Submission date
+           </td>
+           <td>
+               ${job.submissionDate}
+           </td>
+       </tr>
+       <tr>
+           <td>
+               Expiration date
+           </td>
+           <td>
+               ${job.expirationDate}
+           </td>
+       </tr>
+       <tr>
+           <td class="verticalTop">
+                <a name="input_seq" class="help_href" onclick="openHelpWindow('${asset:context:/static_pages/help.html}#input_seq');" href="#input_seq">
+                  Input
+                </a>
+           </td>
+           <td>
+                <a type="text" href="${inputDataPath}" target="_blank">
+                    Sequence or MSA
+                </a>
+                <a type="text" href="${inputParamsPath}" target="_blank">
+                    Parameters
+                </a>
+           </td>
+       </tr>
+       <tr>
+           <td class="verticalTop">
+               <a name="output_logs" class="help_href" onclick="openHelpWindow('${asset:context:/static_pages/help.html}#output_logs');" href="#output_logs">
+                  Logs
+               </a>
+           </td>
+           <td>
+                <a type="text" href="${STDERRLogPath}" target="_blank">
+			        STDERR log
+			    </a>
+			    <a type="text" href="${STDOUTLogPath}" target="_blank">
+			        STDOUT log
+			    </a>
+           </td>
+       </tr> 
+       <tr>
+           <td class="verticalTop">
+               <a name="fma" class="help_href" onclick="openHelpWindow('${asset:context:/static_pages/help.html}#fma');" href="#fma">
+                  Output
+               </a>
+           </td>
+           <td>
+           		<div>
+	                <a type="text" href="${finalMSAPath}" target="_blank">
+	                    Final multiple alignment
+	                </a>
+                </div>
+                <div>
+	                <a type="text" href="${comparisonOfMSAPath}" target="_blank">
+	                    Comparison of MSA
+	                </a>
+                </div>
+                <t:if test="${alignedPDEXKPath}">
+	                <div>
+		                <a type="text" href="${alignedPDEXKPath}" target="_blank">
+		                    Aligned PDEXK
+		                </a>
+	                </div>
+                </t:if>
+                <div>
+	                <a type="text" href="${SVMProbabilityPath}" target="_blank">
+	                    SVM Probability
+	                </a>
+                </div>
+           </td>
+       </tr>
+       <t:if t:test="!job.error">
+           <tr>
+               <td class="verticalTop">
+               <a name="predicted_probability" class="help_href" onclick="openHelpWindow('${asset:context:/static_pages/help.html}#predicted_probability');" href="#predicted_probability">
+                  Probability
+               </a>
+               </td>
+               <td>
+                   <t:if t:test="green">
+	                   <div style="width: 60px; height: auto; text-align: center; color: white; background-color: green;">
+	                        <b>${predictedProbability}</b>
+	                   </div>
+                   </t:if>
+                   <t:if t:test="blue">
+	                   <div style="width: 60px; height: auto; text-align: center; color: white; background-color: blue;">
+	                        <b>${predictedProbability}</b>
+	                   </div>
+                   </t:if>
+                   <t:if t:test="red">
+	                   <div style="width: 60px; height: auto; text-align: center; color: white; background-color: red;">
+	                        <b>${predictedProbability}</b>
+	                   </div>
+                   </t:if>
+               </td>
+           </tr>
+           <t:if t:test="warnAboutNumberOfSequences()">
+       			<tr>
+       				<td colspan="2" style="color: red;">
+       					WARNING! The final multiple sequence alignment contains only ${job.numberofSeq} sequences. The results are unreliable.
+       				</td>
+       			</tr>
+       	   </t:if>
+       </t:if>
+    </table>
+    <t:if test="${alignedPDEXKPath}">
+        <div class="header">
+                Aligned PDEXK
+        </div>
+         <applet width="700" height="500" archive="${asset:context:/applets/jalviewApplet.jar}" code="jalview.bin.JalviewLite">
+                <param name="file" value="${alignedPDEXKPath}"/>
+                <param name="defaultColour" value="% Identity"/>
+                <param name="showFullId" value="False"/>
+                <param name="showAnnotation" value="False"/>
+                <param name="windowWidth" value="200"/>
+                <param name="windowHeight" value="500"/>
+                <param name="embedded" value="true"/>
+         </applet>
+    </t:if>
+
+</html>

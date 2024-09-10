@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1pgya_ a.5.2.1 (A:) Auxilin-like protein Swa2p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   a.5.2.1
+FILE  d1pgya_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1pgya_.a3m -v 1 
+DATE  Tue Jan 22 01:01:16 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHCCCHHHHHHHHHCCCCHHHHHHHHHHHHCC
+>ss_conf
+92005655679999983476677788886087389999999864049
+>Consensus
+xvVDEVkDMEiAkLMSLGLsIdxAxxxYxxGilYexxxxxxkxxxxx
+>d1pgya_ a.5.2.1 (A:) Auxilin-like protein Swa2p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+ALVDEVKDMEIARLMSLGLSIEEATEFYENDVTYERYLEILKSKQKE
+>gi|255720442|ref|XP_002556501.1|(99-141:623) KLTH0H14872p [Lachancea thermotolerans] >gi|238942467|emb|CAR30639.1| KLTH0H14872p [Lachancea thermotolerans CBS 6340]  E=9e-13 s/c=1.78 id=55% cov=94%
+-VVDEVKDMEIARLMSLGLDWDKAAEYYERGILYEQVVDRQKRR---
+>gi|403215148|emb|CCK69648.1|(103-147:585) hypothetical protein KNAG_0C05500 [Kazachstania naganishii CBS 8797]  E=2e-11 s/c=1.61 id=46% cov=98%
+AVVDEVRDMEVAKIMSLGFGIDKAVEFYDSGVLYDELVERRDRRH--
+>gi|156837311|ref|XP_001642684.1|(132-177:686) hypothetical protein Kpol_339p13 [Vanderwaltozyma polyspora DSM 70294] >gi|156113242|gb|EDO14826.1| hypothetical protein Kpol_339p13 [Vanderwaltozyma polyspora DSM 70294]  E=3e-11 s/c=1.55 id=51% cov=100%
+-VVDEVKDMEIAKLMSLGLDIDEATTHYDNGILYETLVSKIRTSNSR
+>gi|387515048|emb|CCH62483.1|(215-261:840) hypothetical protein TBLA_0H01970 [Tetrapisispora blattae CBS 6284]   E=1e-09 s/c=1.41 id=44% cov=102%
+SVVDEVKDMEIAKLMSLGLSIDKAHMYYNKGYLSDDVLRKMQAQKHK
+>gi|254581784|ref|XP_002496877.1|(116-159:635) ZYRO0D10186p [Zygosaccharomyces rouxii] >gi|238939769|emb|CAR27944.1| ZYRO0D10186p [Zygosaccharomyces rouxii]  E=7e-09 s/c=1.45 id=51% cov=96%
+-LVDEVRDMEVAKLMSLGYSIDGANTSYEQGMLYDDVIEERKKKK--
+>gi|367001809|ref|XP_003685639.1|(150-194:693) hypothetical protein TPHA_0E01110 [Tetrapisispora phaffii CBS 4417] >gi|357523938|emb|CCE63205.1| hypothetical protein TPHA_0E01110 [Tetrapisispora phaffii CBS 4417]  E=8e-09 s/c=1.41 id=50% cov=98%
+-IVDEVKDMEIAKLMSLGLSIDEAIKSFEHGILYDTVASRQQAAQR-
+>gi|45201448|ref|NP_987018.1|(118-154:648) AGR352Cp [Ashbya gossypii ATCC 10895] >gi|44986382|gb|AAS54842.1| AGR352Cp [Ashbya gossypii ATCC 10895] >gi|374110269|gb|AEY99174.1| FAGR352Cp [Ashbya gossypii FDAG1]  E=0.0004 s/c=1.29 id=42% cov=81%
+TIADEEQDFELAKLMSLGLDIGAANDYYHRGGRYEQL----------
+>gi|365985005|ref|XP_003669335.1|(144-189:706) hypothetical protein NDAI_0C04320 [Naumovozyma dairenensis CBS 421] >gi|343768103|emb|CCD24092.1| hypothetical protein NDAI_0C04320 [Naumovozyma dairenensis CBS 421]  E=2e-12 s/c=1.64 id=49% cov=100%
+-IVDEVKDMEVARLMSLGLSIDQANKYYDKGILYEDIIRKQREKKLK
+>gi|50289349|ref|XP_447105.1|(130-172:661) hypothetical protein [Candida glabrata CBS 138] >gi|49526414|emb|CAG60038.1| unnamed protein product [Candida glabrata]  E=1e-10 s/c=1.62 id=50% cov=94%
+-VIDEVRDMELAKLMSLGLNIDKASSYYERGITFEDVLRKRKQK---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    1298	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1503	2056	*	*	*	1
+       0	*	*	*	*	*	*	1905	0	0	
+
+L 2    *	*	*	*	*	*	*	2175	*	1904	*	*	*	*	*	*	*	968	*	*	2
+       0	*	*	*	*	*	*	2324	0	0	
+
+V 3    3384	*	*	*	*	*	*	3849	*	*	*	*	*	*	*	*	*	261	*	*	3
+       0	*	*	*	*	*	*	2324	0	0	
+
+D 4    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 5    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2324	0	0	
+
+V 6    *	*	*	3384	*	*	*	*	*	*	*	*	*	*	*	*	*	145	*	*	6
+       0	*	*	*	*	*	*	2324	0	0	
+
+K 7    *	*	*	3715	*	*	*	*	708	*	*	*	*	3384	2211	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2324	0	0	
+
+D 8    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2324	0	0	
+
+M 9    *	*	*	*	3384	*	*	*	*	*	145	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 10   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2324	0	0	
+
+I 11   *	*	*	*	*	*	*	951	*	2598	*	*	*	*	*	*	*	1656	*	*	11
+       0	*	*	*	*	*	*	2324	0	0	
+
+A 12   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2324	0	0	
+
+R 13   *	*	*	*	*	*	*	*	626	*	*	*	*	3922	1805	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2324	0	0	
+
+L 14   *	*	*	*	*	*	*	3670	*	118	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2324	0	0	
+
+M 15   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2324	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	16
+       0	*	*	*	*	*	*	2324	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2324	0	0	
+
+G 18   *	*	*	*	*	96	*	*	*	*	*	3960	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2324	0	0	
+
+L 19   *	*	*	*	3670	*	*	*	*	229	*	*	*	*	*	*	*	*	*	3877	19
+       0	*	*	*	*	*	*	2324	0	0	
+
+S 20   *	*	1871	*	*	3670	*	*	*	*	*	3849	*	*	*	789	*	*	*	*	20
+       0	*	*	*	*	*	*	2324	0	0	
+
+I 21   *	*	*	*	4022	*	*	181	*	*	*	*	*	*	*	*	*	*	4143	*	21
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 22   *	*	513	2296	*	3384	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 23   3384	*	*	2026	*	3877	*	*	1330	*	*	*	*	3099	3715	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2324	0	0	
+
+A 24   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2324	0	0	
+
+T 25   4143	*	*	*	*	*	3928	3772	*	*	*	1572	*	*	*	3849	1951	2835	*	*	25
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 26   *	*	2223	1874	*	*	4022	*	2993	*	3928	*	*	*	*	2885	3002	*	*	*	26
+       0	*	*	*	*	*	*	2324	0	0	
+
+F 27   *	*	*	*	2836	*	3174	*	*	3715	*	*	*	*	*	2824	*	*	*	911	27
+       0	*	*	*	*	*	*	2324	0	0	
+
+Y 28   *	*	*	*	3772	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110	28
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 29   *	*	1721	1347	*	*	3384	*	3715	*	*	3928	*	*	*	3922	*	*	*	*	29
+       0	*	*	*	*	*	*	2324	0	0	
+
+N 30   *	*	3715	*	*	*	3772	*	1738	*	*	3080	*	3877	1805	3670	*	*	*	*	30
+       0	*	*	*	*	*	*	2324	0	0	
+
+D 31   *	*	2861	*	*	214	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2324	0	0	
+
+V 32   *	*	*	*	*	3384	*	1029	*	*	3877	*	*	*	*	*	*	1834	*	3928	32
+       0	*	*	*	*	*	*	2324	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	812	4022	*	*	*	3384	3922	2272	*	*	*	33
+       0	*	*	*	*	*	*	2324	0	0	
+
+Y 34   *	*	*	*	3849	*	*	*	*	*	*	*	*	*	*	3928	*	*	*	209	34
+       0	*	*	*	*	*	*	2324	0	0	
+
+E 35   *	*	1508	625	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2324	0	0	
+
+R 36   *	*	1968	2835	*	*	*	*	*	*	*	4210	*	2206	4024	3715	2352	*	*	*	36
+       0	*	*	*	*	*	*	2324	0	0	
+
+Y 37   *	*	*	*	*	*	*	4254	*	1068	*	*	*	*	*	*	*	1586	*	2861	37
+       0	*	*	*	*	*	*	2324	0	0	
+
+L 38   3661	*	*	*	*	*	*	2314	*	1184	*	*	*	*	*	3808	*	2262	*	*	38
+       0	*	*	*	*	*	*	2218	0	0	
+
+E 39   4069	*	3999	1402	*	*	*	*	3768	*	*	*	*	*	1812	2824	*	*	*	*	39
+       0	*	*	*	*	*	*	2218	0	0	
+
+I 40   3554	*	*	3740	*	*	*	3892	1291	*	*	*	*	3808	2150	3891	*	*	*	*	40
+       0	*	*	*	*	*	*	2218	0	0	
+
+L 41   *	*	*	*	*	*	*	4007	*	2146	2926	*	*	1901	1678	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2218	0	0	
+
+K 42   *	*	3578	3768	*	*	*	*	1002	*	*	*	*	2727	2378	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2218	0	0	
+
+S 43   2727	*	*	2941	*	*	*	*	2814	*	*	*	*	2815	2186	2713	4007	*	*	*	43
+       0	*	*	*	*	*	*	2218	0	0	
+
+K 44   3661	*	*	*	*	*	*	*	1439	*	*	4069	*	2802	1800	4007	*	*	*	*	44
+       0	*	*	*	*	*	*	2218	0	0	
+
+Q 45   *	*	*	3497	*	*	2382	*	1646	*	*	3723	*	2076	3521	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2220	0	0	
+
+K 46   *	*	*	*	*	*	2930	*	3068	3131	*	*	*	2975	1390	2980	*	*	*	*	46
+       0	*	*	*	*	*	*	2031	0	0	
+
+E 47   *	*	*	2630	*	*	*	*	951	*	*	*	*	2733	2551	*	*	*	*	*	47
+       0	*	*	0	*	*	*	1911	0	0	
+
+//

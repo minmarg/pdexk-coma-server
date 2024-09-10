@@ -1,0 +1,2002 @@
+HHsearch 1.5
+NAME  d1g9ga_ a.102.1.2 (A:) Processive endocellulase CelF (Cel48F) {Clostridium cellulolyticum [TaxId: 1521]}
+FAM   a.102.1.2
+FILE  d1g9ga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1g9ga_.a3m -v 1 
+DATE  Mon Jan 21 21:24:13 2013
+LENG  629 match states, 629 columns in multiple alignment
+FILT  83 out of 85 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCHHHHHHHHCCCCCCCCCCHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHCCCCCCEEEEEEEECCCCCCCCCCCCCCCCCCEEECCCCCCCCCEECCCCCCCHHHH
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCHHHHHHHHHHH
+HHCCCCCCCEEEEECCCCCCCCCCCHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCEEEEECCHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHCCEECCCCCEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEEECCCCCHHHHHH
+HHHHHHHHHHHCCHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCHHHHHHHCCCCEEECCCCCCCCCCCCCCCCCCCEEECCHHHHCCCCHHHHHHHHHCC
+CCCEEEEEHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9876511589999999997438657730778784230111102078888765799999999999870410235466789999987303888644566555
+6647667765467888700055434678764556248999975088651222243420561243788888876504222330787662225788852422
+0477667520000666775335133788852356778898888998862760367899888767787677658998852478888874116889998886
+5156889860265157533442101246311102566676787668899999999999999750467860156104668844778778862014433578
+6315848884233215508899999862222689999999988656401558886775376343245478877767777887406897314765015889
+9999999986300057999999999999851688755224543015776526740426886542888751277752312141321487678999998368
+99514420127889999987678875079
+>Consensus
+axxxxxxxYxxRFlxlYxkixdpanGYFSxeGiPYHSvETLiVEAPDyGHeTTSEAxSYxxWLeAmyGxxtgdwsxxxxAWxxmEkyxIPxxxdQpxxxx
+xxYnpxxPAtYAxExdxPxxYPsxlxxxxxvGxDPixxELxsaYGtxxxYxMHWLlDVDNxYGfGxxgxgtxxpsyINTfQRGxqESvweTVPxPsxdxf
+kxGgxnGfldLFtxdxxsyakQWkYTnApDADARavQaaYwAxxWAxeqGxxisxxxxKAaKmGDyLRYxmfDKYFkkIGxxxxagtGkdSxHYLlsWYx
+aWGGxxxxxWaWrIGxShxHxGYQNPlAAyaLsxxxxlkPksxtaxxDWxxSLxRQlEfYxWLQSxEGaiAGGaTNSwxGxYxxxPagxxTFygMxYdxx
+PVYhDPpSNxWfGxQaWsmeRvAexYyxtGdxxakxildKWvxWxxxxxxxxxdGxfxiPsxLxWsGqPdtWxxxxxxxxNxnLhvxVxxxgxDvGvaxs
+xaxtLxyYAaxsgxxxakxxAkxLLDxxWxxxxDxxGvxxxExrxdyxRffxxxVYiPxgwtGxmpnGdxIxxgxtFxxiRsxYkxDpxwxkvxaxlxxg
+xxpxfxYHRFWaQxdiAxAxgxyxxLfxd
+>d1g9ga_ a.102.1.2 (A:) Processive endocellulase CelF (Cel48F) {Clostridium cellulolyticum [TaxId: 1521]}
+ASSPANKVYQDRFESMYSKIKDPANGYFSEQGIPYHSIETLMVEAPDYGHVTTSEAMSYYMWLEAMHGRFSGDFTGFDKSWSVTEQYLIPTEKDQPNTSM
+SRYDANKPATYAPEFQDPSKYPSPLDTSQPVGRDPINSQLTSAYGTSMLYGMHWILDVDNWYGFGARADGTSKPSYINTFQRGEQESTWETIPQPCWDEH
+KFGGQYGFLDLFTKDTGTPAKQFKYTNAPDADARAVQATYWADQWAKEQGKSVSTSVGKATKMGDYLRYSFFDKYFRKIGQPSQAGTGYDAAHYLLSWYY
+AWGGGIDSTWSWIIGSSHNHFGYQNPFAAWVLSTDANFKPKSSNGASDWAKSLDRQLEFYQWLQSAEGAIAGGATNSWNGRYEAVPSGTSTFYGMGYVEN
+PVYADPGSNTWFGMQVWSMQRVAELYYKTGDARAKKLLDKWAKWINGEIKFNADGTFQIPSTIDWEGQPDTWNPTQGYTGNANLHVKVVNYGTDLGCASS
+LANTLTYYAAKSGDETSRQNAQKLLDAMWNNYSDSKGISTVEQRGDYHRFLDQEVFVPAGWTGKMPNGDVIKSGVKFIDIRSKYKQDPEWQTMVAALQAG
+QVPTQRLHRFWAQSEFAVANGVYAILFPD
+>gi|366163896|ref|ZP_09463651.1|(24-647:718) glycoside hydrolase family protein [Acetivibrio cellulolyticus CD2]   E=0 s/c=1.03 id=53% cov=97%
+--SAATESYKDRFNAMYEDIHDSSNGYFDSEGIPYHSVETMCVEAPDYGHESTSEAASYYAWLEAMNGNLNGKWDGLTEAWRVVDKYFIPSETTQ--TGM
+DKYKPSAPGGFANEYDLPDNYPAMTDNT-AVGSDPIHQELVSAYNTYAMYGMHWLVDADNWYGYGGTGQNC---TFINTYQRGPQESCFETVPHPSIENF
+TYGGTQGYADLFIGGSTVP--KWAFTIASDADGRLIQVQYWADKWADKQGTSLSTLNAKAAKLGDYLRYSMFDKYFMKIGaQGKTPGSGYSSCHYLMAWY
+YAWGGGAKGDWSWKIGCSHSHWGYQAPLAAYALANVSDFKPKSTNGAKDWASSYQRQLELYTYLQSNQGAIAGGVTNSLRGQYKTYPAGSSTFYDMIYTE
+APVYEDPPSNQWFGMQAWSMQRMCEVYYETGNEMAKALCDKWIAWAEPECKVSGD-TWQVPSTLKWSGQPDKWTGTR--SNNTNLNVEILNYGNDIGVTG
+STANAFLFYDQATqkwnGDtalgKKAADKALSMLNVVWDTCRDDKGVGHEETNGSLSRIFTQTVYIPSGWTGKMPNGDVIKSGIKFIDIRSKYKQDPWYE
+GIKA-----QDPNDEstfykftLHRFWHEVDYSVALGVAAMF---
+>gi|21449824|emb|CAD32945.1|(44-748:1091) cellulose 1,4-beta-cellobiosidase [Paenibacillus barcinonensis]   E=0 s/c=1.23 id=48% cov=99%
+----ADGINEARFLQLYAQLKDPANGYFSAEGIPYHSIETLLSEAPDYGHMSTSEAYSYWLWLETMYGHYTGDWSKLEAAWDNMEKYIIPVNEgdgNEEQ
+PTMSKYNPNSPATYAAEKPFPDQYPSNLNGQYAAGKDPLDAELKATYGNNQTYLMHWLIDVDNWYGYGNLLNPSHTSTYVNTFQRGEQESVWEAIPHPSQ
+DDKSFGkAGEGFMSLFTKESQAPSAQWRYTNATDADARAVQVLY----WAKEMGYNNSEYLDKAKKMGDFLRYGMYDKYFQKVGSAKNGtptpGTGKDSN
+MYLMAWYTSWggGLGQGGDWAWRIGASHTHQAYQNPVAAYALSDPAgGLIPDSPTAKADWNATLKRQLEFYTWLQSHEGAVGGGATNSIGGSYAAYPAGV
+STFYDMAYQEAPVYRDPDSNTWFGFQAWPLERVAEMYYilaESGDltsenfQMAKKVITKWVDWTKDYVfvgerpvtdaqgyylnaagqrilggtnaqva
+TTPAPGEFWIPGGQEWQGQPDKWNGFSTYTNNPNFHAITKDPVQDTGVLGSYIKALTFFAAGTEAEngtlsakgqEAKDLAQSLLDTAWD-YNDGVGIVT
+EEERKDYFRYFAKEIYLPANWSGTFGQGNTIPGTAgvpsdpakggngvyiGYSDLRPAIKQDPAWAYLDNKYKTsynpttkqweNGAPTFTYHRFWSQVD
+MATAYGEFDRLLGD
+>gi|268611633|ref|ZP_06145360.1|(39-742:851) glycoside hydrolase family protein [Ruminococcus flavefaciens FD-1]   E=0 s/c=1.07 id=46% cov=98%
+----SDESYISMFESLYDDVmtNGVSNGFMSKQnngakkfGIPYHAVETLVVEAPDYGHETTSEAMSYIVWMAAMHdalvasGQTSGD-NDLADAWKIME
+A-LIPGWSTAANRSDIEYDSiwkqeRLKADTAAEGDDPSDYPTE-QPNVDA-INPMYDAYKSAYGSDNgYYLMNWLADVDDWYGFSKGTKGEGKFTFINT
+FQRGEEESCFETVPAPCLEELKWGMEstkkdngNGIKAIFNGLDAVPA-QYSFTNAPDAEDRAIQAIYFANQHGVDCG-EISAL---AGKMGDQCRNDMF
+DKYYKAIAKDtkiTSPSAGMDSKHYLMAWYTAWGGALTASygnykWAWQIGCSHSHQFYQNPLAAYGLLYDKNMNsgMKAKDADADYKESLKRQIEMYLW
+LQSKEGPFAGGCTNSYKGRYETYPADLPTFYDMVFVAHPVYADPGSNHWIGNQVWSTQRLAELYYyvkTNGDQSdvkpgglsledaLEALLERWIKWFEA
+ETKFDyvtEDGEtlpYAIPSNLDWgkgghhtdpDCVPDTWTGTYNPDGNQSLSCTITGYGMgDYGCVSSLCNTLIYYAkannvdAKYANEEGTTTAEkal
+ylanKLLSYQYDAGRDDLSLGFKDHNGSLKRIFEQVVYIPDYYSGKMPDGSELKPGVTFSDIRKSYEKDKMWQDCKAVYDAtGETEDYEYtlHRFWHAGD
+AIMAYGGMALLYPD
+>gi|315570698|gb|ADU33353.1|(23-643:643) glycoside hydrolase family protein 48 [Leptinotarsa decemlineata]   E=0 s/c=1.59 id=53% cov=96%
+--------YLNRFTQQYNKIHDAANGYFSPKGIPYHAVETLIVEAPDYGHQTTSEAYSYWLWLEAMYGAVNGDFSKFTAAWQNMETYMIPNHASQPTN--
+NYYNPGKPATFAPEGDYPNQYPSQMQFNVPVGQDPIYQELVNTYGTSDVYLMNWLLDVDNKYGFGNQpgqcqlGPSVEGPSFMNSFQRGPQESVWRTIPQ
+TTCDNFRFGGQNGFLDLFVGDSH-YEQQWKYTIASDAEARAIQAAFWALQWAKDKNQQgaVSDTISKASKMGDFLRYAFFDKYFKKIGNCigtyaCPGGY
+GKDSAHYLLSWYMAWGGSLYGNWAWRISDFYAHFGYQNPMTAYVMSKVDEFKPRSPTGVSDWEMSLERQIEFYEYLQSKEGAFAGGATNSYEGRYETPPA
+NLmnNTFHGMWYEWEPVYHNPPSNRWFGMQAWSTDRLAQYYYVSGDEKVRPLLDKWVNWVLPEISYDAN-SYKIPEWLDWSGVP------------PAVD
+VSIEKYGTDIGSASALARTLSYYAAKTGDQKVKAVAKGLLDGIWNNHQTTKGVAMEEVMDAYSQF-NEEVYVPPGWVGHYPDGTEIKAPTTFIGIRPWYK
+NDPDWPKVEAYLNGGPAPKFTYHRFWQQCDIAIAQGTYGLLFNE
+>gi|298247141|ref|ZP_06970946.1|(39-673:834) glycoside hydrolase family 48 [Ktedonobacter racemifer DSM 44963] >gi|297549800|gb|EFH83666.1| glycoside hydrolase family 48 [Ktedonobacter racemifer DSM 44963]  E=0 s/c=1.54 id=53% cov=99%
+-ATQATSTYTQRFLTLYGEIKNPVNGYFSPLGIPYHSVETLIVEAPDYGHETTSEAFSFWLWLETTYGEVTGNWQPFTSAWATMDKYMIPSHADQSTN--
+SGYNASSPAQYAPESPNITDYPTQLSTSVSVGQDPLASELQQTYGTADIYGMPWLLDTDNWYGYGHCGDGTTKPSFVNSYQRGASESVWKTVVHPECETF
+TWGRNdgTGFLSLFNtpASGGSYSQQWRYTDAPDADARTVQAAFWAYTWASAQGQasAVASQVAEASKMGDYLRYGTYDKYFKTLGCtstSCAAGSGKNS
+STYLLDWYYAWGGAVPssGSWAWRIGSSAAHQGYQNPLAAWALSSVPALEPKSPSAPGDWATSLQRQLQFYTWLQSSEGAIAGGATNSWNGSYGAPPAGT
+STFYGMAYDWQPVYHDPPSNNWFGFQAWSMERVAEYYYETGNAMAKSILDKWVAWTKSATTVNSNGTYAIPSTLNWSGQPgGNWTSSTTSVNNSGLHVTV
+VDTTTDVGVAAALAKTLLYYSAKSGDTASRTLAQTLLDDMWTNYSDSIGVSNPETRKDYNQF-NDSVSIPSGWTGKNAQGATLDSSTTFLTERPKYPSDP
+AWSKVQTYLNGGSAPTFNYHRFWAQSDIAMAMADVDILF--
+>gi|389577464|ref|ZP_10167492.1|(206-851:1177) Glycosyl hydrolase family 48 [Eubacterium cellulosolvens 6] >gi|389312949|gb|EIM57882.1| Glycosyl hydrolase family 48 [Eubacterium cellulosolvens 6]  E=0 s/c=1.37 id=49% cov=98%
+-----NSKYAKRFKQLYNDMHNGDLTYFDKHGVPYHSVETLMAEAPDQGHESTSEAASYYVWLEAMNGYYTGNYKGVDTAWKIIDKYFIPDETHQSTEGN
+AKYNPNSPATPANEYDTPDQYPAEL--SGTAGKDPIYKELVKEYGDSNVYGMHWLIDCDNFYGFGDG----SEPVFINTYQRGCMEGCFNTIPQPSEEDF
+TKGGlpNAGYLSYFTKEANKPSKQWKYTVASDADARVVQAVYDAVKWsqADGKGKVSSSAISKTTKLGDFLRYSMYDKYFRKIGNGKVNGTKKDSCDYLL
+NWYYAWGGGMDDGWSWRIGSSHAHFGYQNPLAAWILSRDntgfTSFVPGSATAQEDWDKSYDTQLDFYTWLQSEEGGVAGGASNNYNGDYSPAPKNVSTF
+NGLAYTEAPVYHNPDSNQWFGMQTWSMQRIAELYYETGNEQAKALMDKWANWATSQLQRDENGELtdtWMPGTLDWSGQPGTWNSKTHSSDNSDLHVEVV
+GWNHDAGVTGSMANTLAYYAAGLKLDDAtdgdghdyeyyRAIADELLDKVWEMHTDGEGIGDPSviDKATADKWFKSRIDIPEELDgGETALGDPINHDS
+TFLSIRSQYKDDPDYQKLVDA-ENGKESTIVYHRFWANCDVAIAMGVYDQLFGD
+>gi|422935933|ref|YP_007005830.1|(97-801:809) glycoside hydrolase [Erwinia phage vB_EamP-S6] >gi|339508053|gb|AEJ81613.1| glycoside hydrolase [Erwinia phage vB_EamP-S6]  E=0 s/c=1.10 id=44% cov=98%
+------NSYLSRFNYIYDSVHKPENKYFGPQTgatelnvIPLHiaAIDSLIInEAPDYGGESVSETASFWVGLEAWKGYVSGNWDGYNNSWDVIEKYYVP
+SATNQP---VGIYDPKSPADYTAEGDLPSDYPRLGEPTAAKGFDPLYGELMATYGNPRMYLMHWIIDVEGGYGF-KNGDGSKKNVYINTYERGKQESSFE
+TVTHPCWNDWQNGGSiYGYDPLFSQGKQWYpdapfdwGKKWGYTNAPDAEVRAIQWAFWAKKFATEQGKNevISDSTDRAMKMGDYLRYNLFDKYFRQIG
+NNLVGATQsnpYASCHYLINWYGAWGGEVPatgesASWGYRIGCSESHQGYQGLSTAYALATgGGGMKPLSTSAGDIWKSSLYRQIEMIRWLQSPEGAIA
+GGVTNSWNARYETPSDGreKAKFYGMVYTYSPVWHDPPSNKWAGFQSWGQGRTADLFLEVANKNTalaveirpnlEIILDRLVVWFLKNITITS-GSFSV
+PSDLSWTsttpvdGQTTTrpnsegvyeyipssnWDGTGSYANfwnassvpNPNLHCTVATYSPDLGVAASTAYLLTTYAQAKRlmgkfddvipnssftAR
+NAYKVAKQLLDRIWTNYKDDHGIGISEARADYTRYADS-VYVPTEFTGTMPNGDPINQSSTFISLRSFLKEDSRWSEVQAYINNpttVAAPRFTYHRFWA
+QAEYAISCAAMYRYFDD
+>gi|332376899|gb|AEE63589.1|(13-611:612) unknown [Dendroctonus ponderosae]   E=0 s/c=1.28 id=44% cov=91%
+--------YSERFLTLYNQIVDSNNGYYSSHGVPYHSLENMLVETVDHGHETDSEAISYNIWLHAMYGAIADDFAPFNNAWSVIENYLIP----QAQYNM
+DKYNPSLPVGSA---------------QFSVGVDPIYNELKSAYGEEKMYVMHWLLDVDDNFGFGNVQGQCEKgpsaggPSFVHM----GAGSVWQGITY
+PTCDNFTYGGTNGF------SFSSSTPNWHYNAAPDADARVIQAAYWASQWATQKGKisEIQSTLSQVAKLGDFLRYSFYDVLYRQAGNCmgtsCPAASY
+KESAHYLLSWFIGWGGDVNTanGYSWRTGSSEMIIGYQNPVAAYAMVNDPNLSPKSATGAEDWKNSLERQLELYAWIQTSDGSLGGAVTNSWKNVYGTPP
+SDVQgyTFHGLYYENEPL-DDDGTSDWFGMWSWTTDRLAQYYYITGDETARSVLEKWFTWLYQHMTV-SDNSYSVPMMISWSGSLPT-----------NA
+KMNVLESGSRfFGVGSSIARSLSYYAAKSGDSKAKSTAKQLLDVIWKNHKDSKGLYV---RSDLSAFtaVNTKVYIPvDGWTGTYPNGDKITASSSFLDI
+RSWYKQDENWPQLQAYLNGGSAPVVDYHRFWEQADMALALGAYSLLF--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    344	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2238	*	*	*	*	1
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 2    1676	*	*	*	*	*	*	*	*	*	*	3398	3907	*	3679	3019	2470	*	*	2801	2
+       0	*	*	*	*	*	*	2379	0	0	
+
+S 3    2745	*	*	*	*	*	*	*	3706	4268	*	4693	*	3444	*	1205	3267	4207	*	*	3
+       0	*	*	*	*	*	*	2504	0	0	
+
+P 4    2790	*	4587	*	*	4593	*	*	2603	*	*	*	1890	4344	*	2551	4402	*	*	3820	4
+       0	*	*	*	*	*	*	2518	0	0	
+
+A 5    1245	*	5391	4224	*	2569	*	*	*	*	*	4358	*	*	*	2450	5656	3631	*	*	5
+       0	*	*	*	*	*	*	2665	0	0	
+
+N 6    3312	*	1428	5509	*	4743	*	*	*	6002	*	2348	*	*	5952	3481	2733	*	*	*	6
+       0	*	*	*	*	*	*	2720	0	0	
+
+K 7    5828	*	3525	3318	*	3020	*	*	2931	*	*	2188	*	*	*	2181	3310	*	*	*	7
+       0	*	*	*	*	*	*	2789	0	0	
+
+V 8    3613	*	4540	2709	*	*	*	5264	4232	*	*	*	5344	*	*	2771	2062	2104	*	*	8
+       27	5774	*	2585	263	*	*	2825	1000	0	
+
+Y 9    *	*	*	*	5154	*	*	*	*	*	*	4608	*	*	*	*	*	*	*	103	9
+       0	*	*	*	*	*	*	2877	0	0	
+
+Q 10   2528	*	3010	3809	*	5311	*	3986	2475	3997	*	5410	*	5112	6636	3745	3614	3884	*	6166	10
+       0	*	*	*	*	*	*	2894	0	0	
+
+D 11   3133	*	2388	2793	*	7164	*	*	4048	6566	*	5205	*	1539	*	4046	4611	*	*	*	11
+       0	*	*	*	*	*	*	2900	0	0	
+
+R 12   4033	*	*	5481	*	*	6405	*	6095	6234	4367	*	*	6636	289	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2900	0	0	
+
+F 13   5897	*	*	*	48	*	*	*	*	*	*	*	*	*	*	*	*	5943	*	*	13
+       0	*	*	*	*	*	*	2900	0	0	
+
+E 14   *	*	5398	3838	*	*	*	4106	4336	839	3298	3929	*	*	*	*	3786	*	*	*	14
+       0	*	*	*	*	*	*	2900	0	0	
+
+S 15   4490	*	2900	1865	*	*	*	*	*	*	*	*	*	2316	*	3001	2616	*	6937	4325	15
+       0	*	*	*	*	*	*	2900	0	0	
+
+M 16   *	*	*	*	5985	*	5897	4852	*	1007	2431	*	*	2000	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2900	0	0	
+
+Y 17   *	*	*	*	4347	*	5295	*	*	*	*	*	*	*	5724	*	*	*	4555	211	17
+       0	*	*	*	*	*	*	2900	0	0	
+
+S 18   4385	*	2448	2864	*	3073	4685	*	4484	*	*	1373	*	*	*	4541	*	*	*	*	18
+       0	*	*	*	*	*	*	2900	0	0	
+
+K 19   *	*	2035	4258	*	*	*	5897	979	*	*	*	*	2958	*	4852	5943	*	*	*	19
+       0	*	*	*	*	*	*	2900	0	0	
+
+I 20   *	*	*	*	*	*	*	637	*	3233	3289	*	*	*	*	*	*	2753	*	*	20
+       165	3214	*	1000	1000	*	*	2900	1635	0	
+
+K 21   *	*	*	*	*	*	1632	*	1605	*	*	3218	*	4347	*	*	3038	4278	*	5724	21
+       78	*	4240	*	*	*	*	2900	0	0	
+
+D 22   5713	*	999	*	*	2729	*	*	4233	*	*	1995	*	*	*	5279	*	*	*	*	22
+       50	*	4873	*	*	*	0	2887	0	1546	
+
+P 23   4277	*	5355	5348	*	5281	*	*	*	*	*	4867	761	3629	*	3459	5232	4292	*	*	23
+       85	4653	5833	2351	315	827	1197	2894	1405	1812	
+
+A 24   1119	*	4115	4175	*	5849	*	*	4782	*	*	3375	*	4632	*	2751	3774	6124	*	*	24
+       0	*	*	*	*	500	1772	2902	0	1487	
+
+N 25   7160	*	*	*	*	*	*	*	4697	5341	*	402	*	*	*	2532	*	*	*	*	25
+       0	*	*	*	*	0	*	2896	0	1000	
+
+G 26   *	*	5985	5943	*	138	*	*	4852	*	*	*	*	*	*	*	5352	*	*	*	26
+       24	5897	*	2322	322	*	*	2900	1000	0	
+
+Y 27   *	*	*	*	4638	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59	27
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 28   *	*	*	*	334	*	*	*	*	2931	5346	*	*	*	*	*	*	*	*	4290	28
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 29   *	*	4189	*	*	4869	*	*	*	*	*	6955	*	*	4537	218	*	*	*	*	29
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 30   3663	*	5462	3746	*	*	*	*	1973	*	*	*	1300	5236	*	2874	*	*	*	*	30
+       35	5364	*	0	*	*	*	2904	1365	0	
+
+Q 31   *	*	3363	1031	4967	*	3848	*	6279	6216	*	4641	*	2268	*	*	5730	*	5705	*	31
+       163	3223	*	2802	223	*	*	2904	1635	0	
+
+G 32   *	*	*	*	*	132	*	*	6120	*	*	4675	*	*	*	*	4869	*	*	*	32
+       116	3693	*	2206	352	*	*	2904	1740	0	
+
+I 33   *	*	*	*	*	6098	*	886	*	*	*	*	*	*	*	5730	*	1232	*	*	33
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 35   *	*	*	*	*	*	5730	*	*	4869	*	*	*	*	*	*	*	*	*	79	35
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 36   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       50	4869	*	1000	1000	*	*	2904	1000	0	
+
+S 37   2055	*	*	*	*	*	*	*	*	*	*	*	*	*	*	397	*	*	*	*	37
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 38   5296	*	*	*	*	*	*	1892	*	4809	*	*	*	*	4317	*	*	692	*	*	38
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 39   *	*	4869	50	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 40   *	*	*	4641	*	*	*	*	*	*	*	4809	*	*	*	4869	168	*	*	*	40
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 41   *	5730	*	*	4534	*	*	*	*	324	3062	*	*	*	*	*	*	5667	*	*	41
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 42   *	5030	*	*	*	*	*	960	*	2650	2042	6004	*	*	*	*	*	4731	*	*	42
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 43   5367	4268	6872	*	*	*	*	3359	*	*	*	6955	*	*	*	3966	*	423	*	*	43
+       50	4869	*	0	*	*	*	2904	1000	0	
+
+E 44   *	*	6017	22	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 45   93	*	*	*	*	6473	*	6017	*	*	*	*	*	*	*	*	4809	*	*	*	45
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 46   *	5433	*	*	*	*	*	*	*	*	*	*	111	*	*	*	6017	4809	*	*	46
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 47   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 48   *	*	*	*	*	*	1500	*	*	*	*	*	*	3234	*	*	*	*	*	889	48
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 49   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 50   *	*	*	*	*	4869	50	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 51   6491	*	*	549	*	*	*	6726	*	3669	3647	*	*	3354	*	*	*	4644	*	*	51
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 52   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2012	411	*	*	*	52
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 53   5758	*	4809	*	*	*	*	*	*	*	*	*	*	*	*	*	202	3703	*	*	53
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	54
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 55   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 56   228	*	*	*	*	*	*	*	*	5730	*	*	*	*	*	6421	3114	*	*	*	56
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 57   2907	*	*	*	2277	*	6473	4809	*	5657	2678	*	*	*	*	*	*	*	*	1193	57
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 58   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	58
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 59   *	*	*	*	2486	*	*	*	*	*	*	*	*	*	*	*	*	*	*	284	59
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 60   *	*	*	*	6098	*	*	3899	*	2895	4816	4809	*	*	*	*	*	*	1381	1605	60
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 61   5030	*	*	*	*	*	*	2348	*	1568	3574	*	*	*	*	*	4854	1656	*	*	61
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 62   *	*	*	*	*	4869	*	*	*	6098	5730	*	*	*	*	6491	*	*	118	*	62
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 63   *	*	*	*	5758	*	*	*	*	269	3167	*	*	*	*	*	*	4641	*	*	63
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 64   3223	*	*	445	*	4816	4809	*	*	*	*	*	*	3757	*	*	*	*	*	6255	64
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 65   143	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4264	4565	*	*	65
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 66   7066	*	*	5913	*	*	*	*	*	3343	827	*	*	5399	*	5008	3349	3557	4869	4592	66
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 67   *	*	*	*	6046	*	2863	*	4869	*	*	2812	*	5015	5730	*	*	*	*	687	67
+       36	5346	*	2585	263	*	*	2904	1000	0	
+
+G 68   4864	*	3599	*	*	201	*	*	*	*	*	*	*	*	*	6258	*	*	*	*	68
+       30	5615	*	3000	193	*	*	2904	1000	0	
+
+R 69   3161	*	*	5416	*	6726	3981	*	1497	*	*	3896	*	3683	2444	*	*	5403	*	3552	69
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 70   4667	*	*	*	3900	*	6372	2115	*	2154	*	*	*	*	*	*	5346	1751	*	3260	70
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 71   4197	*	*	4856	*	*	*	*	*	*	6643	3906	*	*	*	2586	626	5667	*	*	71
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 72   *	*	4809	5616	*	348	*	*	3583	*	*	5556	*	4217	*	*	*	*	*	*	72
+       59	4641	*	1293	757	*	*	2904	1110	0	
+
+D 73   *	*	672	6509	*	*	*	*	5030	*	*	1803	*	*	*	4505	*	*	*	*	73
+       36	*	5346	*	*	*	*	2904	0	0	
+
+F 74   5536	*	*	*	1756	*	*	*	*	*	*	*	*	*	*	4328	*	*	789	4217	74
+       30	5622	*	3170	170	0	*	2882	1000	1000	
+
+T 75   2936	*	3578	5028	*	5556	*	*	4828	*	*	3970	*	4232	*	1172	2863	*	*	*	75
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 76   4895	*	3970	*	*	1844	5321	*	2467	*	*	6361	2031	*	5678	3823	6258	*	*	4104	76
+       29	5667	*	2322	322	*	*	2904	1000	0	
+
+F 77   *	*	*	*	1110	*	*	6004	*	1704	*	*	*	*	*	5403	*	3442	*	3345	77
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 78   3791	*	4150	2757	*	5295	6508	*	3481	*	6710	1098	*	4641	6098	*	3917	*	*	*	78
+       34	5403	*	1000	1000	*	*	2904	1000	0	
+
+K 79   3174	*	3690	3612	*	4185	4830	*	2223	*	*	2488	*	5504	*	3551	3095	5433	*	*	79
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 80   129	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3905	*	5730	*	*	80
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 81   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	81
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 82   4030	*	1655	3160	*	*	*	*	2689	*	*	4432	*	4147	4606	3132	3372	*	*	*	82
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 83   *	*	*	5730	6101	*	*	2700	4678	5367	*	2345	*	*	*	4024	2130	2091	*	5160	83
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 84   4629	*	*	*	*	*	*	2842	*	3133	765	*	*	*	*	*	3519	5030	*	*	84
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 85   *	*	3959	96	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	85
+       88	*	4085	*	*	*	*	2904	0	0	
+
+Q 86   3789	*	4187	4388	*	*	6589	*	934	*	6529	4129	*	3800	4365	6162	3489	*	*	*	86
+       90	*	4044	*	*	0	*	2846	0	1343	
+
+Y 87   *	*	*	*	3528	*	4081	*	*	*	5645	5380	*	*	*	*	*	3849	6163	460	87
+       0	*	*	*	*	0	*	2843	0	1206	
+
+L 88   5005	*	*	*	3828	6671	*	1310	*	3461	1692	*	*	*	*	*	5496	*	*	3990	88
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 89   *	*	*	*	*	*	*	50	*	*	*	*	*	*	*	*	*	4869	*	*	89
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 90   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	90
+       107	4794	4809	1918	443	*	*	2904	1472	0	
+
+T 91   4340	*	2737	*	*	2940	*	*	*	*	*	4721	*	4356	*	2171	2011	3140	*	*	91
+       39	5232	*	0	*	*	0	2858	1222	1000	
+
+E 92   3221	*	4161	3053	*	*	1915	*	3634	4800	*	4200	*	5240	5922	3508	4085	4606	4340	*	92
+       37	*	5319	*	*	*	0	2858	0	1000	
+
+K 93   1795	*	5486	2830	*	6533	*	*	2981	6544	*	*	*	2734	6225	3666	2931	5203	*	*	93
+       81	4520	6463	1273	771	*	0	2857	1520	1646	
+
+D 94   6276	*	895	4242	*	*	5279	5984	*	*	5998	2628	*	*	*	3124	3991	*	*	*	94
+       70	4869	6248	1769	501	1021	979	2860	1447	1723	
+
+Q 95   4336	*	*	5035	*	*	*	*	*	*	*	4609	*	230	*	5701	7175	*	*	*	95
+       118	5577	4112	1000	1000	*	0	2905	1000	1470	
+
+P 96   3629	*	*	4990	5573	*	*	*	5637	*	*	*	444	5508	*	3694	6324	*	*	*	96
+       235	*	2735	*	*	*	0	2885	0	1933	
+
+N 97   *	*	*	*	*	2804	5904	*	*	*	*	2756	6226	3648	*	3491	1040	*	5398	*	97
+       178	*	3109	*	*	1822	480	2816	0	2435	
+
+T 98   4320	*	*	5042	*	6884	*	5614	5648	*	*	1083	4263	4727	3778	4011	2923	*	*	4572	98
+       347	*	2226	*	*	971	1029	2810	0	2455	
+
+S 99   3397	*	5060	*	*	1988	*	*	*	5347	*	3983	*	5522	*	1514	2613	*	*	*	99
+       285	*	2479	*	*	1358	713	2807	0	2467	
+
+M 100  *	*	4013	*	2311	4991	*	*	*	4197	1551	3120	*	5901	*	5289	*	2719	*	*	100
+       404	*	2033	*	*	1006	994	2876	0	2391	
+
+S 101  3436	*	2891	*	*	2549	*	4024	*	*	*	2726	*	*	*	1425	*	*	*	5892	101
+       48	*	4929	*	*	1596	580	2936	0	2242	
+
+R 102  3410	*	4779	4476	*	3129	*	4676	2034	*	*	3293	*	5256	3652	2876	5034	*	*	4252	102
+       28	*	5692	*	*	460	1874	2911	0	2115	
+
+Y 103  *	*	*	*	*	6519	*	*	*	*	*	*	*	*	*	*	*	*	*	16	103
+       0	*	*	*	*	2824	220	2867	0	1838	
+
+D 104  *	*	2437	*	*	*	*	6179	5900	*	*	576	5235	6588	6423	4375	5847	*	*	*	104
+       55	5182	6673	2322	322	798	1235	2866	1000	1838	
+
+A 105  2081	*	*	*	*	*	*	*	5596	*	*	*	674	5708	*	3368	*	*	*	*	105
+       39	5244	*	2322	322	*	0	2887	1000	1719	
+
+N 106  4842	*	6467	5596	*	4657	*	*	4080	*	*	1935	*	6877	4281	1101	6219	*	4911	*	106
+       0	*	*	*	*	*	0	2887	0	1719	
+
+K 107  4718	*	5312	*	*	6674	6675	*	1543	3512	*	5397	*	6219	6596	1379	6972	4425	*	*	107
+       0	*	*	*	*	*	0	2887	0	1719	
+
+P 108  *	5708	*	*	*	*	*	*	4281	*	*	*	162	*	*	5273	6674	*	*	*	108
+       42	*	5126	*	*	0	*	2887	0	1719	
+
+A 109  105	*	*	*	*	4872	*	*	*	*	*	*	*	*	*	*	*	4788	*	*	109
+       0	*	*	*	*	993	1007	2894	0	1446	
+
+T 110  5712	*	3173	*	*	3896	*	*	*	*	*	*	*	3188	*	3965	669	*	*	*	110
+       11	7106	*	1000	1000	*	0	2893	1000	1000	
+
+Y 111  *	*	*	*	3822	*	*	*	*	*	*	*	5343	*	*	4791	4279	*	*	292	111
+       0	*	*	*	*	*	0	2893	0	1000	
+
+A 112  316	4531	*	6608	*	*	*	4904	*	*	*	6461	*	*	*	4464	4850	5739	*	*	112
+       53	*	4791	*	*	*	0	2893	0	1000	
+
+P 113  1569	*	3625	5254	*	3815	*	*	*	*	*	4584	1328	*	*	4492	*	*	*	*	113
+       0	*	*	*	*	*	0	2846	0	1483	
+
+E 114  5254	*	*	67	*	5683	*	*	*	*	*	*	*	*	*	*	*	*	*	*	114
+       0	*	*	*	*	*	0	2846	0	1483	
+
+F 115  4543	*	6140	6719	4010	2765	2798	*	4515	3419	4508	5615	*	6435	7035	5292	*	*	3753	1944	115
+       0	*	*	*	*	929	1074	2846	0	1483	
+
+Q 116  4865	*	896	4203	*	*	*	*	*	6459	*	3739	2187	5172	5161	6313	*	*	*	*	116
+       0	*	*	*	*	*	0	2858	0	1000	
+
+D 117  *	*	2425	4082	6044	*	4393	*	*	2087	*	5305	*	3641	5459	4467	2295	*	4754	4556	117
+       0	*	*	*	*	*	0	2858	0	1000	
+
+P 118  6451	*	*	*	*	*	*	3932	*	*	6466	*	133	*	*	*	*	*	*	*	118
+       0	*	*	*	*	*	0	2858	0	1000	
+
+S 119  *	*	1787	4233	*	7310	*	*	4730	*	*	3466	*	6216	*	1181	4235	*	*	6071	119
+       0	*	*	*	*	*	0	2858	0	1000	
+
+K 120  5678	*	2185	3280	*	4039	*	*	3992	5215	4998	5057	*	1456	*	5117	*	6313	*	4646	120
+       0	*	*	*	*	*	0	2858	0	1000	
+
+Y 121  *	4606	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5264	100	121
+       0	*	*	*	*	*	0	2858	0	1000	
+
+P 122  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	122
+       52	6453	5368	1585	585	*	0	2858	1000	1000	
+
+S 123  2392	*	*	*	*	3977	*	5122	*	*	6443	5495	*	*	4801	1060	3196	4082	*	*	123
+       0	*	*	*	*	*	0	2837	0	1498	
+
+P 124  2946	*	*	3357	*	*	*	*	3655	3822	5933	6033	2600	1723	3922	4700	6433	7176	*	*	124
+       79	5495	5001	0	*	*	0	2837	1000	1498	
+
+L 125  4367	*	*	*	*	3486	*	4031	*	589	3993	*	*	*	*	6341	5883	5581	5433	*	125
+       38	*	5259	*	*	1640	558	2796	0	1666	
+
+D 126  4891	*	1653	3090	*	4405	5892	6014	6156	*	5181	3497	*	2397	*	3771	4522	6108	*	*	126
+       0	*	*	*	*	1548	604	2807	0	1872	
+
+T 127  4652	*	6420	4892	2328	2977	*	6222	*	5682	*	5132	2998	5059	*	2251	2626	*	*	*	127
+       20	6186	*	0	*	0	*	2829	1000	1473	
+
+S 128  4899	*	4677	5015	*	2431	*	*	5403	*	*	2325	*	2927	*	1800	3858	*	*	*	128
+       23	*	6011	*	*	*	*	2904	0	0	
+
+Q 129  2436	*	4537	*	4344	4801	*	4474	5072	6582	*	5712	*	4603	6240	5597	6964	1165	*	4218	129
+       70	5129	5712	0	*	0	*	2896	1118	1000	
+
+P 130  2812	*	5262	6472	*	5271	*	5134	4912	*	*	*	1350	*	6217	2111	3386	*	*	*	130
+       91	4804	5296	0	*	0	*	2893	1476	1000	
+
+V 131  2495	*	*	*	*	5630	*	*	4409	*	*	*	*	*	*	5445	2922	736	*	*	131
+       45	*	5038	*	*	0	*	2883	0	1000	
+
+G 132  4567	*	*	*	*	107	*	*	*	*	*	5084	*	*	*	*	*	*	*	*	132
+       0	*	*	*	*	0	*	2882	0	1000	
+
+R 133  6671	*	*	3228	4869	*	6787	4108	2921	*	*	5244	5817	1761	4589	2898	4620	3401	*	*	133
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 134  *	*	126	*	*	*	*	*	*	*	*	3582	*	*	*	*	*	*	*	*	134
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 135  5403	*	*	*	*	*	*	*	*	*	*	5758	62	*	*	*	*	*	*	*	135
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 136  *	*	*	*	*	*	*	662	*	1683	5346	*	*	*	*	*	*	4966	*	*	136
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 137  1538	*	3438	*	3475	5196	3488	*	*	*	*	4623	*	*	4952	4093	*	*	5446	2304	137
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 138  2182	*	3266	6501	*	3617	*	*	3905	*	*	2457	5403	2472	*	3056	6621	*	*	*	138
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 139  4537	*	5251	351	*	*	*	*	3766	*	5403	*	*	5220	*	5461	*	*	*	*	139
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 140  *	*	*	*	3599	*	*	*	*	163	*	*	*	*	*	*	*	*	*	5346	140
+       34	5403	*	1585	585	*	*	2904	1000	0	
+
+T 141  4319	*	*	*	*	*	*	*	1441	*	4869	*	*	2763	3767	5500	3110	2510	*	6255	141
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 142  2893	*	6017	*	*	*	*	*	5367	*	*	3946	*	3175	5667	737	5030	*	*	*	142
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 143  997	*	*	5367	*	*	*	*	*	*	*	*	*	*	*	*	1201	4641	*	*	143
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 144  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	144
+       29	5667	*	2000	415	*	*	2904	1000	0	
+
+G 145  *	*	5433	*	*	212	*	*	*	*	*	3749	*	*	*	4672	*	*	*	*	145
+       27	*	5730	*	*	*	*	2904	0	0	
+
+T 146  *	*	5341	4802	*	5597	*	*	5737	*	*	3077	6204	4915	6604	2211	976	*	*	*	146
+       35	5387	*	0	*	0	*	2895	1000	1000	
+
+S 147  5011	*	2210	4809	*	4265	*	*	3563	*	*	2490	3430	6955	*	2511	*	*	4129	3853	147
+       19	*	6247	*	*	*	*	2904	0	0	
+
+M 148  3860	*	1220	3713	*	4512	*	*	3934	*	5293	3838	*	3707	4447	4668	4353	6608	*	*	148
+       96	3952	*	989	1011	0	*	2904	1502	1000	
+
+L 149  *	*	*	*	5382	*	*	1583	*	3299	2612	*	*	*	*	*	3438	2161	*	4028	149
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 150  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	150
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 151  3375	*	*	*	*	1228	*	6120	*	1846	*	*	*	3411	*	4200	*	4809	*	*	151
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 152  *	*	*	*	*	*	*	*	*	5433	46	*	*	*	*	*	6872	*	*	*	152
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 153  *	*	*	*	*	*	112	*	*	*	*	4033	6216	*	*	*	*	*	*	*	153
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 154  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	154
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 155  *	*	*	*	*	*	*	2739	*	234	*	*	*	*	*	*	*	*	*	*	155
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 156  2724	*	*	*	6503	6509	*	2598	*	1129	4080	*	*	3621	*	*	5556	4550	*	*	156
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 157  *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	157
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 158  5014	4651	*	*	*	4244	*	*	*	*	6098	5730	*	*	*	*	6216	270	*	*	158
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 159  *	*	50	4869	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	159
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 160  *	*	3283	*	*	4869	*	*	*	*	*	212	*	*	*	*	*	*	*	*	160
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 161  7186	*	*	*	3718	4869	*	3407	5451	*	*	4809	*	*	*	*	3322	2374	1194	*	161
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 162  *	*	*	*	4809	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52	162
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 163  *	*	*	6252	*	116	*	*	3960	*	*	*	*	*	*	*	*	*	*	*	163
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 164  *	*	*	*	704	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1373	164
+       103	4838	4869	2917	205	*	*	2904	1361	0	
+
+G 165  *	*	*	*	*	37	*	*	*	*	*	*	*	*	*	5307	*	*	*	*	165
+       197	3449	4783	2490	283	0	*	2856	1637	1000	
+
+A 166  4632	5351	3989	3996	5466	4539	4613	*	3701	6438	*	1591	5309	3576	3299	6586	4752	5357	*	*	166
+       78	4251	*	2767	229	*	0	2882	1654	1456	
+
+R 167  2950	2757	*	4077	*	2864	3596	*	7340	3121	*	4362	*	4254	3282	3911	5970	4793	*	*	167
+       144	4818	4069	2200	354	979	1021	2882	1528	1456	
+
+A 168  3650	7292	*	4829	*	825	*	*	*	3351	*	*	4677	3733	*	5096	4349	*	*	5401	168
+       0	*	*	*	*	*	0	2844	0	1943	
+
+D 169  6312	*	1044	4811	*	2839	*	*	4925	*	*	3020	2903	5849	*	6430	6909	*	*	*	169
+       0	*	*	*	*	2010	412	2844	0	1943	
+
+G 170  6250	5967	*	*	5204	864	*	*	7161	*	*	5388	2905	4044	6633	3259	4485	*	*	6643	170
+       80	5176	5267	2593	261	*	0	2863	1329	1737	
+
+T 171  3751	3153	5157	5231	*	5537	*	6607	4986	*	*	5269	*	*	*	2803	1072	4314	*	*	171
+       168	4625	3845	0	*	625	1509	2863	1471	1994	
+
+S 172  5694	5500	4803	3899	*	3752	3354	*	4764	*	*	6408	6318	*	*	1529	1857	*	*	*	172
+       109	3780	*	2659	249	*	0	2874	1736	2009	
+
+K 173  4245	*	*	3745	*	2224	*	6141	1654	*	*	*	*	*	2748	5466	2688	*	*	*	173
+       130	3534	*	2123	376	1681	539	2874	1725	2009	
+
+P 174  3482	4271	*	*	3327	*	*	*	*	*	6390	4357	755	*	*	5089	5635	4148	*	*	174
+       0	*	*	*	*	1019	981	2877	0	1780	
+
+S 175  2829	*	*	*	*	*	*	*	*	*	*	6643	*	*	*	840	2452	3214	*	*	175
+       0	*	*	*	*	0	*	2884	0	1460	
+
+Y 176  *	*	*	*	1387	*	*	*	*	4470	*	*	*	5758	*	*	*	*	*	852	176
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 177  *	*	*	*	*	*	*	249	*	*	6279	*	*	*	*	*	*	2889	*	6519	177
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 178  *	*	*	*	*	*	4809	*	*	*	*	52	*	*	*	*	*	*	*	*	178
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 179  *	*	*	*	*	*	*	*	*	*	4809	4500	*	*	*	4783	178	*	*	*	179
+       52	*	4809	*	*	*	*	2904	0	0	
+
+F 180  *	*	*	*	563	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1630	180
+       0	*	*	*	*	*	0	2858	0	1000	
+
+Q 181  *	*	*	4252	*	5264	*	*	*	*	*	*	*	118	*	*	*	*	*	*	181
+       0	*	*	*	*	*	0	2858	0	1000	
+
+R 182  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	182
+       0	*	*	*	*	*	0	2858	0	1000	
+
+G 183  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	183
+       0	*	*	*	*	0	*	2858	0	1000	
+
+E 184  3400	5367	*	1736	*	4386	*	*	4869	*	*	5730	1603	6752	*	3227	5440	6423	*	*	184
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 185  4453	*	*	3505	*	6288	*	*	*	*	5367	6491	*	518	6508	3198	*	*	*	*	185
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 186  *	*	*	52	*	4809	*	*	*	*	*	*	*	*	*	*	*	*	*	*	186
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 187  *	*	*	*	*	5367	*	*	*	*	*	5433	*	*	*	70	*	*	*	*	187
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 188  6200	2498	*	*	*	*	*	*	*	*	*	*	*	*	*	4869	2857	650	*	*	188
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 189  *	*	*	*	2059	*	*	*	*	*	*	*	*	*	*	*	*	*	432	5730	189
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 190  *	*	*	437	*	*	*	*	3371	*	5433	5367	*	4809	3615	*	*	*	*	*	190
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 191  3531	*	*	*	*	4809	*	*	*	*	*	*	*	*	*	*	188	*	*	*	191
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 192  *	*	*	*	*	*	*	1238	*	*	*	*	*	*	*	*	*	796	*	*	192
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 193  *	*	*	*	*	*	*	*	*	*	*	*	263	*	*	*	2708	6216	*	*	193
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 194  4374	*	*	*	4094	*	1211	*	*	*	*	*	*	1313	*	5433	*	*	*	4809	194
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 195  *	*	*	*	*	5433	*	*	*	*	*	*	119	*	*	6503	4470	*	*	*	195
+       0	*	*	*	*	*	*	2904	0	0	
+
+C 196  6421	1843	*	6216	*	*	*	5433	*	*	*	*	*	*	*	1207	2060	*	*	*	196
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 197  *	1213	*	5367	*	*	*	3782	6423	4374	*	*	*	3438	*	*	6647	4641	1891	*	197
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 198  *	*	1033	1068	*	*	*	*	*	*	*	4869	*	*	*	*	*	*	*	*	198
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 199  3214	*	2421	2389	*	7186	*	*	7217	6647	*	2732	*	4918	7236	3395	2414	5795	*	*	199
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 200  *	*	*	*	621	6787	5664	*	3614	3530	3785	*	*	5195	*	*	*	*	4869	5758	200
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 201  5060	*	*	6726	*	*	*	*	799	*	*	3933	*	3895	4759	5281	2392	*	*	*	201
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 202  6252	*	6649	*	2418	*	3461	6710	5367	*	*	4869	*	*	*	*	*	*	2350	1202	202
+       16	6501	*	1000	1000	*	*	2904	1000	0	
+
+G 203  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	203
+       40	5183	*	546	1666	*	*	2904	1422	0	
+
+G 204  4662	*	*	6501	*	594	*	*	3690	*	3899	3471	*	*	6216	4691	*	*	*	*	204
+       241	2702	*	437	1937	*	*	2904	2348	0	
+
+Q 205  4585	*	*	3267	*	6085	*	*	2380	*	*	3266	2369	3018	3291	4869	3468	*	*	*	205
+       127	3568	*	1538	609	*	*	2904	2006	0	
+
+Y 206  5367	*	*	4183	6649	4211	4865	*	*	*	*	799	*	3593	*	3855	4772	*	*	4076	206
+       121	3634	*	1395	690	*	*	2904	1937	0	
+
+G 207  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	207
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 208  *	*	*	*	725	*	*	3899	*	4641	*	*	*	*	*	*	*	*	*	1797	208
+       52	*	4809	*	*	*	*	2904	0	0	
+
+L 209  5134	*	4817	*	*	5702	*	*	3185	608	3593	*	*	*	*	4095	*	6740	*	*	209
+       0	*	*	*	*	*	0	2858	0	1000	
+
+D 210  4340	*	928	5876	*	3341	*	*	6248	*	*	5536	3044	*	*	2827	6329	*	*	*	210
+       0	*	*	*	*	*	0	2858	0	1000	
+
+L 211  *	*	*	*	6572	*	*	2522	*	339	*	*	*	*	*	*	*	*	*	5324	211
+       0	*	*	*	*	*	0	2858	0	1000	
+
+F 212  *	*	*	*	52	*	*	*	*	*	*	*	*	*	*	6700	*	*	*	5264	212
+       74	*	4320	*	*	*	0	2858	0	1000	
+
+T 213  5821	*	*	*	*	*	*	3923	*	6377	*	2786	*	*	*	3962	909	2620	*	*	213
+       39	6085	6388	1000	1000	481	1818	2847	1000	1682	
+
+K 214  4065	*	6381	*	*	1403	*	*	1536	4815	*	5669	*	3914	4229	*	*	5047	*	*	214
+       36	*	5356	*	*	0	*	2859	0	1424	
+
+D 215  *	*	747	2931	*	3346	*	*	6220	5038	*	5366	*	4476	*	4024	*	*	*	*	215
+       169	*	3174	*	*	0	*	2883	0	1000	
+
+T 216  3655	*	3550	5874	3448	6055	*	5322	4783	*	*	1978	*	6540	6097	1641	4310	*	*	*	216
+       657	*	1451	*	*	0	*	2931	0	1812	
+
+G 217  2268	*	5738	*	*	2371	5568	*	*	*	*	2201	*	2304	*	3615	4116	*	*	*	217
+       328	*	2296	*	*	81	4194	2847	0	2420	
+
+T 218  3408	*	*	6024	5811	*	*	*	4142	*	*	5161	6536	4499	*	1027	2942	4407	4694	5235	218
+       65	*	4494	*	*	0	*	2874	0	2262	
+
+P 219  *	*	*	*	*	*	*	*	*	*	*	*	1723	*	*	4721	*	3562	*	800	219
+       115	4834	4600	2807	222	0	*	2899	1000	1440	
+
+A 220  864	*	*	6211	*	4799	*	*	*	*	*	*	5356	*	*	2400	2850	4363	*	*	220
+       37	*	5291	*	*	*	0	2885	0	1506	
+
+K 221  3745	*	*	6427	*	*	5435	*	908	*	*	4518	3487	3036	3467	*	6336	*	*	*	221
+       0	*	*	*	*	0	*	2866	0	1826	
+
+Q 222  *	*	*	*	*	*	*	*	3947	*	*	4088	*	216	*	6017	*	*	*	*	222
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 223  6371	*	*	*	4380	*	*	*	*	*	*	*	*	*	*	*	*	*	200	3851	223
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 224  3823	*	*	*	*	4869	4809	*	1123	*	*	*	*	*	1586	3899	*	*	*	*	224
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 225  *	*	*	*	2718	*	*	*	*	*	*	*	*	*	*	*	*	*	*	238	225
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 226  *	*	*	*	*	*	*	*	*	*	*	4809	*	*	*	3533	188	*	*	*	226
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 227  3031	*	3228	*	*	*	*	4523	*	*	*	897	*	*	*	3248	6647	3731	*	*	227
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 228  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	228
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 229  *	*	*	*	*	5758	*	*	*	*	*	*	422	*	*	2674	3672	*	*	*	229
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 230  *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	230
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 231  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	231
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 232  *	*	264	2579	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	232
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 233  306	*	3502	*	*	4514	*	*	*	*	*	5730	*	*	*	7379	*	4869	*	*	233
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 234  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	234
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 235  457	5403	*	*	*	*	*	*	*	4614	*	*	*	4363	*	5210	5106	3286	*	*	235
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 236  *	*	*	*	*	*	*	1070	*	*	*	*	*	*	*	*	*	933	*	*	236
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 237  *	*	6726	4769	*	*	*	*	*	5433	*	*	*	127	6046	*	*	*	*	*	237
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 238  502	*	*	*	*	3364	*	*	*	*	*	*	*	*	*	*	*	2620	4869	*	238
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 239  973	*	*	*	*	*	*	3191	*	6085	3095	*	*	5030	*	4804	3528	3378	*	*	239
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 240  *	*	*	*	2531	*	*	*	*	6503	*	*	*	*	*	*	*	*	*	294	240
+       116	*	3697	*	*	*	*	2904	0	0	
+
+W 241  5628	*	3867	6283	3384	*	*	*	*	5376	*	*	*	6528	*	*	*	*	405	6311	241
+       0	*	*	*	*	*	0	2863	0	1466	
+
+A 242  44	*	*	*	*	5054	*	*	*	*	*	*	*	*	*	*	*	*	*	*	242
+       0	*	*	*	*	*	0	2863	0	1466	
+
+D 243  4892	*	3233	6528	*	*	4355	4001	3427	3559	*	2547	*	5350	5270	3137	*	4059	6000	2745	243
+       0	*	*	*	*	*	0	2863	0	1466	
+
+Q 244  *	*	6502	3883	*	*	*	4625	1890	3871	6033	*	*	1888	3828	*	2923	4185	*	*	244
+       36	*	5336	*	*	0	*	2863	0	1466	
+
+W 245  5366	*	*	*	4479	*	5038	*	*	*	*	*	*	*	*	*	*	*	182	5716	245
+       123	5346	4136	1000	1000	*	0	2883	1000	1000	
+
+A 246  146	*	*	*	*	4831	*	6026	4970	*	*	*	*	*	*	6186	*	*	*	*	246
+       47	*	4970	*	*	*	0	2847	0	1830	
+
+K 247  6486	*	3701	4270	*	7242	*	*	1032	*	*	4743	*	4981	6111	4412	2372	4618	*	*	247
+       0	*	*	*	*	*	0	2808	0	1862	
+
+E 248  3258	*	3414	672	*	5239	*	*	5868	*	*	*	*	3255	*	5291	*	*	*	*	248
+       0	*	*	*	*	2285	331	2808	0	1862	
+
+Q 249  *	5041	4527	4601	*	*	6610	*	2981	3849	5914	3755	*	894	*	*	*	6624	6309	5192	249
+       0	*	*	*	*	347	2226	2839	0	1726	
+
+G 250  *	*	*	*	*	81	*	*	*	*	*	4200	*	*	*	*	*	*	*	*	250
+       130	4044	5285	1000	1000	0	*	2891	1733	1000	
+
+K 251  5097	*	*	5423	*	4291	*	*	1274	*	*	5743	*	2917	5691	6485	5979	2381	*	3420	251
+       521	1721	*	1067	936	0	*	2882	2396	1000	
+
+S 252  3783	*	3350	2234	*	4006	*	*	*	*	*	2640	*	3148	*	2205	4640	5367	*	*	252
+       396	2057	*	1000	1000	*	*	2904	2145	0	
+
+V 253  *	5403	5730	*	*	6252	*	1227	*	2898	*	3069	*	*	*	5367	*	2062	*	*	253
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 254  2493	*	4682	6361	*	5403	*	*	*	*	*	6649	5228	3767	*	817	4097	6421	*	*	254
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 255  2191	*	2669	4761	*	3947	*	*	4895	*	*	*	4619	4794	*	2071	3006	4344	*	*	255
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 256  4710	*	6882	6503	*	*	*	3738	*	3462	*	5797	*	4969	*	3838	1483	3423	*	2281	256
+       64	5730	5346	0	*	*	*	2904	1000	0	
+
+V 257  4535	*	*	*	6248	*	*	3015	*	2063	5266	3434	*	*	*	4282	3385	1666	*	*	257
+       0	*	*	*	*	*	0	2882	0	1000	
+
+G 258  1512	*	2756	3925	*	3217	*	*	5657	*	*	4282	*	*	*	2413	3855	*	*	*	258
+       0	*	*	*	*	*	0	2882	0	1000	
+
+K 259  *	*	*	6203	*	*	*	*	309	4328	*	4654	*	4795	4221	*	*	*	*	*	259
+       0	*	*	*	*	0	*	2882	0	1000	
+
+A 260  152	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5542	4537	4809	*	*	260
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 261  859	*	*	*	*	3397	*	*	3170	*	4869	*	*	*	*	2777	3995	*	*	*	261
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 262  *	*	*	4641	*	*	*	*	123	*	5574	*	*	6491	6710	*	*	*	*	*	262
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 263  *	*	*	*	*	*	*	*	*	1813	483	*	*	*	*	*	*	*	*	*	263
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 264  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	264
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 265  *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	265
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 266  *	*	*	4085	2543	*	*	*	*	*	*	*	*	4374	*	*	*	*	6255	498	266
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 267  *	4374	*	*	*	*	*	*	*	71	*	*	*	*	*	*	*	*	*	*	267
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 268  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	268
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 269  *	*	*	*	*	*	*	*	*	4902	*	3055	*	*	*	*	*	*	*	241	269
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 270  1320	*	3411	*	*	3443	*	5758	*	*	*	3750	*	*	*	2104	3502	*	*	*	270
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 271  *	*	*	*	2664	*	6200	*	*	2423	737	*	*	5111	*	*	6216	*	*	*	271
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 272  *	*	*	*	653	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1458	272
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 273  *	*	34	5433	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	273
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 274  *	*	*	*	*	*	*	*	52	*	*	*	*	*	*	*	*	4809	*	*	274
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 275  *	*	*	*	*	*	*	*	*	4809	*	*	*	*	*	*	*	*	*	52	275
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 276  *	*	*	*	273	*	*	*	*	*	5758	*	*	*	*	*	*	*	*	2700	276
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 277  *	*	*	6643	*	*	*	*	773	*	4211	*	*	2918	2302	*	*	6004	*	*	277
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 278  3899	*	*	4156	*	*	*	*	1093	*	*	5705	3734	2356	3759	*	4489	*	*	*	278
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 279  4809	*	*	*	*	*	*	483	*	5538	6098	*	4725	4927	*	*	*	2817	*	*	279
+       22	6046	*	2322	322	*	*	2904	1000	0	
+
+G 280  3906	*	*	*	*	163	*	*	*	*	*	*	*	*	*	4641	*	*	*	*	280
+       321	2326	*	1173	845	*	*	2904	2371	0	
+
+Q 281  *	3028	4154	5730	*	6503	6017	*	3621	*	*	1113	*	3061	*	3438	5615	*	*	*	281
+       309	2374	*	1906	448	*	*	2904	2068	0	
+
+P 282  3891	1893	4026	*	*	3468	*	*	5035	*	*	3136	3896	5216	6200	2475	3646	*	*	*	282
+       595	1565	*	2111	380	*	*	2904	2585	0	
+
+S 283  4217	1252	*	*	*	4982	*	*	3112	4869	*	4969	*	*	*	2537	3108	*	*	5343	283
+       68	4443	*	1832	476	*	*	2904	1681	0	
+
+Q 284  3168	*	*	*	*	*	*	*	4842	*	*	3900	1838	2958	5162	2891	2762	3871	*	*	284
+       120	3954	6046	1540	608	*	*	2904	1550	0	
+
+A 285  899	*	*	*	*	2052	*	*	6242	5390	*	5349	2756	*	*	6278	*	*	*	*	285
+       57	4689	*	2086	387	0	*	2898	1479	1000	
+
+G 286  2882	*	*	*	*	401	*	*	*	*	*	4641	*	*	*	4525	5403	*	*	*	286
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 287  3951	*	5758	*	*	*	5433	*	6098	*	*	4888	*	3776	5111	1768	1300	*	6643	4896	287
+       34	5403	*	1585	585	*	*	2904	1000	0	
+
+G 288  *	*	5433	*	*	239	*	*	5367	*	*	5272	*	4869	*	6726	*	*	*	4809	288
+       50	4869	*	1585	585	*	*	2904	1000	0	
+
+Y 289  *	*	4641	*	*	*	*	*	955	*	4374	*	*	*	2999	*	*	*	*	1885	289
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 290  4869	*	894	2517	*	6647	*	*	*	*	*	2566	*	6787	*	3943	*	*	*	*	290
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 291  2949	*	*	*	*	*	*	*	*	*	*	*	*	*	*	200	*	*	*	*	291
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 292  1116	2320	*	4786	*	*	*	*	3502	*	5032	6085	*	*	*	2570	*	*	*	*	292
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 293  4865	*	5367	*	7421	6004	309	*	*	6474	5133	6955	*	6423	*	5498	5012	*	*	*	293
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 294  *	*	*	*	6017	*	6252	*	*	*	*	5913	*	*	*	*	*	*	*	67	294
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 295  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	295
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 296  *	*	*	*	*	*	*	2694	*	915	1666	*	*	*	*	*	*	*	*	*	296
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 297  2318	*	6216	*	*	5133	*	*	*	*	*	3020	*	*	*	657	*	*	*	*	297
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 298  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	298
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 299  *	*	*	*	4809	*	5433	*	*	*	*	*	*	*	*	*	*	*	*	87	299
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 300  5353	5758	*	*	2935	4869	*	4809	*	*	3850	*	*	*	*	6183	2239	4862	*	1228	300
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 301  488	*	*	*	*	3548	*	*	*	*	*	*	*	*	*	2310	*	*	*	*	301
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 302  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	302
+       75	4304	*	1348	720	*	*	2904	1530	0	
+
+G 303  *	*	*	*	*	14	*	*	*	*	*	*	*	*	*	6649	*	*	*	*	303
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 304  4038	*	*	6183	*	171	*	6649	*	5216	*	*	*	*	*	*	*	*	*	*	304
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 305  1212	*	3569	4869	*	2046	*	*	*	*	*	6183	5078	*	*	2606	*	*	*	*	305
+       14	6647	*	0	*	*	*	2904	1000	0	
+
+I 306  4169	*	*	*	*	6183	*	2933	*	1635	4871	5843	6647	3859	*	6787	2764	3046	*	3837	306
+       34	5433	*	1000	1000	*	*	2904	1000	0	
+
+D 307  6050	*	1674	4482	*	2552	*	*	3813	*	*	2986	4041	4277	*	4262	4000	*	5705	6279	307
+       201	2940	*	1476	643	*	*	2904	2238	0	
+
+S 308  2403	*	5367	*	*	1387	*	*	*	*	*	4412	*	*	*	2877	2176	*	*	*	308
+       208	3001	6787	869	1145	*	*	2904	2231	0	
+
+T 309  3749	*	2645	5232	*	2707	*	*	*	*	*	2164	*	5607	*	1640	5541	*	*	*	309
+       565	1626	*	1197	826	0	*	2906	2226	1000	
+
+W 310  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	87	4088	310
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 311  801	4641	*	*	*	4402	*	*	*	*	*	*	*	*	*	1629	6017	*	*	*	311
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 312  *	*	*	*	4902	*	*	*	*	*	*	*	*	*	*	*	*	*	101	4869	312
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 313  *	*	*	*	*	*	*	5238	3601	*	*	*	*	3223	394	*	*	5446	*	*	313
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 314  *	*	*	5758	*	*	*	116	*	*	*	*	*	*	*	*	4809	5433	*	*	314
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 315  5433	*	*	*	*	69	*	*	*	*	*	*	*	*	*	5389	*	*	*	*	315
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 316  3626	2133	2452	*	*	6491	*	*	*	*	*	*	*	*	*	1041	6474	*	*	*	316
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 317  5433	*	*	*	6279	2842	*	*	*	*	*	*	*	*	*	278	*	*	*	*	317
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 318  2736	*	*	3839	*	*	614	*	*	*	*	*	*	6989	*	4830	4180	*	*	5135	318
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 319  1389	3890	*	*	*	*	*	*	*	*	4809	2935	*	*	*	2272	3848	3211	*	*	319
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 320  *	*	*	*	6017	*	76	4809	*	*	*	*	*	*	*	*	*	*	*	*	320
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 321  6710	*	*	4641	1344	3649	*	4809	*	*	6509	*	*	1612	*	4106	6120	*	5030	*	321
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 322  4623	*	*	*	3223	231	*	*	*	*	*	*	*	*	*	*	*	*	*	*	322
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 323  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	323
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 324  *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	324
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 325  5030	*	*	*	*	4869	*	*	*	*	*	191	*	*	*	4078	*	*	*	*	325
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 326  *	*	*	*	*	*	*	*	*	4099	*	*	158	*	*	*	*	4457	*	*	326
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 327  *	*	*	*	3467	*	*	4902	*	1144	2088	*	*	*	*	4869	*	2698	*	*	327
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 328  206	*	*	*	*	*	*	*	*	*	*	*	*	6247	*	*	3062	*	*	*	328
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 329  56	*	*	*	*	6247	*	*	*	*	*	*	*	*	*	6046	*	6647	*	*	329
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 330  *	*	*	*	*	*	*	*	*	*	6098	*	*	*	*	*	*	*	1705	559	330
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 331  379	*	*	*	*	5346	*	3040	*	*	*	*	*	*	*	*	*	3563	*	*	331
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 332  *	*	*	*	*	*	*	*	*	144	3607	*	*	*	*	6247	*	*	*	*	332
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 333  2814	*	*	*	*	6649	*	*	*	3223	*	*	*	*	*	723	4032	3763	*	*	333
+       52	5416	6372	0	*	*	*	2904	1114	0	
+
+T 334  5395	*	5975	4926	*	*	6727	*	3979	*	*	1973	*	3670	5360	3579	1532	*	*	3889	334
+       74	4318	*	0	*	0	*	2902	1431	1000	
+
+D 335  *	*	1348	2921	6098	4869	*	5135	*	5730	*	6661	6085	4263	*	6183	5457	2248	*	4176	335
+       91	4036	*	1365	709	*	*	2904	1801	0	
+
+A 336  2302	*	3539	*	*	3399	*	5403	5346	4641	*	5282	2219	*	6643	2330	3887	*	*	6473	336
+       42	5133	*	0	*	*	*	2904	1183	0	
+
+N 337  2346	*	2791	2712	*	2687	*	6288	5128	*	*	3014	4187	6371	*	3386	5433	*	*	*	337
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 338  *	*	*	*	2327	*	*	*	*	787	2665	*	*	*	*	3972	*	*	*	*	338
+       27	5730	*	1000	1000	*	*	2904	1000	0	
+
+K 339  3847	*	5730	5459	*	3972	*	3651	963	*	*	4916	*	4961	5600	4809	4070	4278	*	*	339
+       36	5346	*	1000	1000	*	*	2904	1000	0	
+
+P 340  *	*	*	*	*	*	*	*	*	5730	3223	*	211	*	*	*	*	6651	*	*	340
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 341  5640	*	5281	5597	*	5367	*	*	548	4149	6647	5244	*	5144	3885	6252	5398	*	*	*	341
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 342  2776	*	*	*	*	3368	*	*	*	*	*	*	*	*	*	486	4529	*	*	*	342
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 343  1806	*	4641	5730	*	*	*	*	4035	*	*	*	1704	4804	*	2853	3147	*	*	*	343
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 344  *	*	4374	*	*	3124	*	*	*	*	*	2359	*	*	*	3514	850	*	*	*	344
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 345  783	*	*	*	*	1336	*	*	*	*	*	*	*	*	*	5461	*	*	*	*	345
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 346  1771	*	4374	5730	*	4117	*	*	2535	*	*	*	6216	2706	6046	5503	4216	2717	*	*	346
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 347  2767	*	3555	2928	*	6216	*	*	3085	*	*	5587	*	2994	3883	2298	3509	*	*	*	347
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 348  *	*	50	*	*	*	*	4869	*	*	*	*	*	*	*	*	*	*	*	*	348
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 349  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	163	3223	349
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 350  1514	*	5367	3921	*	4390	*	*	2641	*	*	3761	*	2976	*	4411	3270	*	*	*	350
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 351  3231	*	*	4374	*	*	*	5684	1694	*	6279	4161	*	4674	6752	3947	1579	*	*	*	351
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 352  5259	*	*	*	*	6098	*	*	*	*	*	*	*	*	*	102	5166	*	*	*	352
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 353  6509	*	*	*	5261	*	*	*	*	203	4595	*	*	*	*	*	*	*	*	4240	353
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 354  *	*	1696	2774	*	4794	*	*	2209	*	*	5368	*	2870	6671	4990	4148	*	*	4869	354
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 355  *	*	*	*	*	*	*	*	*	*	*	*	*	*	53	*	4784	*	*	*	355
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 356  *	*	*	6255	*	*	*	*	*	*	*	*	*	41	*	6098	*	*	*	*	356
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 357  *	*	*	*	*	*	*	2126	*	577	4060	*	*	*	*	*	*	4625	*	*	357
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 358  *	*	4210	116	*	*	*	*	*	*	*	*	*	5426	*	*	*	*	*	*	358
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 359  *	*	*	*	638	*	*	*	*	1962	3309	*	*	*	*	*	*	*	*	*	359
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 360  *	*	*	*	3934	*	*	4246	*	4537	*	*	*	*	*	*	7105	*	*	266	360
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 361  4045	*	*	3312	*	5227	*	*	6671	3690	*	*	*	1768	2307	*	2211	6252	*	*	361
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 362  *	*	*	*	6258	*	*	*	*	*	*	*	*	*	*	*	*	*	256	2743	362
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 363  *	*	*	*	*	*	*	4809	*	87	*	*	*	*	*	*	*	5433	*	*	363
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 364  *	*	*	*	*	*	*	*	*	5113	*	*	*	42	*	*	*	*	*	*	364
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 365  5490	*	*	*	*	*	*	*	*	*	*	*	*	*	*	194	3268	*	*	*	365
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 366  1537	*	3509	4656	*	*	6085	*	3413	*	*	4845	4086	6473	*	1766	6503	6739	*	*	366
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 367  *	*	2554	382	*	*	*	*	*	*	*	4795	*	6011	*	*	6519	*	*	*	367
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 368  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	368
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 369  794	4555	*	*	*	2341	*	*	*	6509	*	*	2873	*	*	4809	*	*	*	*	369
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 370  *	*	*	*	2496	*	*	496	*	4454	*	*	*	*	*	*	*	3881	*	*	370
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 371  175	*	*	*	*	3331	*	*	*	*	*	*	*	*	*	*	6046	*	*	*	371
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 372  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	372
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 373  4809	*	*	*	*	52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	373
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 374  567	3705	*	*	*	*	*	*	*	*	*	*	*	*	*	6004	*	2103	*	*	374
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 375  *	6004	*	*	*	*	*	*	*	*	*	5758	*	*	*	3894	192	5433	*	*	375
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 376  *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	376
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 377  *	5730	*	*	*	*	*	*	*	*	*	5367	*	*	*	93	5705	*	*	*	377
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 378  *	*	*	*	*	*	*	6085	5509	5128	*	5397	*	*	*	*	*	5524	411	2866	378
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 379  5068	*	3347	4212	*	3267	6371	*	2462	7379	*	1409	*	3808	4675	6288	6101	*	*	*	379
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 380  4869	*	4587	*	*	171	*	*	*	*	*	4809	*	*	*	*	*	*	*	*	380
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 381  3684	*	3537	6183	*	*	4300	*	5052	*	*	4980	*	4155	1158	2887	5430	4414	*	*	381
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 382  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	382
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 383  2372	*	2924	1868	*	2897	*	*	3865	*	5730	*	*	5198	*	2717	*	*	*	*	383
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 384  2293	*	6630	6519	*	*	*	*	3599	*	*	5569	3849	3204	*	5407	1121	6647	*	*	384
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 385  4870	*	*	*	*	*	6098	*	6726	5793	*	*	1031	*	5094	*	*	6884	4895	1462	385
+       22	*	6050	*	*	*	*	2904	0	0	
+
+P 386  7195	*	5546	*	*	*	*	*	*	*	*	*	168	*	*	4342	4959	*	*	*	386
+       0	*	*	*	*	0	*	2898	0	1000	
+
+S 387  1250	*	3250	4632	*	*	*	*	5367	*	*	6050	*	5072	*	1498	6508	*	*	*	387
+       16	6473	*	1000	1000	*	*	2904	1000	0	
+
+G 388  *	*	2542	6726	*	581	*	*	*	*	*	2928	*	*	*	*	5739	*	*	*	388
+       96	3951	*	1000	1000	*	*	2904	1654	0	
+
+T 389  4034	*	5716	*	*	*	5403	3416	3405	3137	*	6519	*	*	4686	6011	1623	2289	*	*	389
+       75	4304	*	1000	1000	*	*	2904	1566	0	
+
+S 390  2845	*	5569	*	*	*	6739	*	*	*	*	5372	1930	4809	*	1294	3317	*	*	*	390
+       121	3637	*	1000	1000	*	*	2904	1619	0	
+
+T 391  6258	*	*	*	*	*	*	*	4505	*	*	*	*	6508	*	6200	123	*	*	*	391
+       19	6258	*	1000	1000	*	*	2904	1000	0	
+
+F 392  *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	392
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 393  *	*	6371	*	*	*	2526	*	*	*	*	5367	*	*	*	*	*	*	*	340	393
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 394  *	*	2161	*	*	384	*	*	*	*	*	6649	*	*	*	*	*	*	*	*	394
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 395  *	*	*	*	*	*	*	*	*	3879	126	*	*	*	*	*	6004	*	*	*	395
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 396  1383	*	*	*	2448	3725	*	6011	*	*	4641	*	*	*	*	6872	*	3143	5197	2706	396
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 397  *	*	*	*	4525	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64	397
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 398  *	*	946	3140	*	*	*	*	*	*	*	*	*	4303	*	*	2616	2700	*	*	398
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 399  4166	*	4783	1366	*	6474	*	*	5730	*	*	4809	3851	*	*	6361	*	6111	1804	3795	399
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 400  2093	*	4121	2611	*	*	2510	*	3439	*	*	4337	*	2373	*	4869	*	*	*	*	400
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 401  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	401
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 402  *	*	*	*	*	5433	*	*	*	4809	*	*	*	*	*	*	*	87	*	*	402
+       52	*	4809	*	*	*	*	2904	0	0	
+
+Y 403  *	5876	*	*	*	5264	*	*	*	*	*	*	*	*	*	*	*	*	3333	221	403
+       0	*	*	*	*	0	*	2858	0	1000	
+
+A 404  2571	*	4809	4741	*	6872	689	*	6661	6710	*	4417	*	6474	4886	*	*	5739	*	*	404
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 405  *	*	90	*	*	*	*	*	*	*	*	4053	*	*	*	*	*	*	*	*	405
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 406  *	*	4809	*	*	*	*	*	*	*	*	*	52	*	*	*	*	*	*	*	406
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 407  5238	*	4682	*	*	1901	*	*	*	*	*	6183	676	*	*	5197	*	*	*	*	407
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 408  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	76	4290	*	*	*	408
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 409  *	*	*	*	*	4902	*	*	*	*	*	140	*	*	*	4809	5433	*	*	*	409
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 410  *	*	4809	5567	*	6183	3223	*	4869	*	*	2407	*	2092	2132	6630	2980	*	*	*	410
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 411  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	411
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 412  4869	*	*	*	493	*	*	3899	*	*	6630	*	*	*	*	*	3597	*	*	3389	412
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 413  *	*	*	*	*	22	*	*	*	*	*	*	*	*	6046	*	*	*	*	*	413
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 414  *	*	*	*	1443	*	*	*	*	*	1024	3223	*	*	*	*	*	*	4902	*	414
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 415  *	*	*	*	*	*	*	*	*	*	*	*	*	52	*	*	*	*	4809	*	415
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 416  1037	*	*	*	*	3992	*	*	*	*	*	*	3167	*	*	3609	4300	2280	*	*	416
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 417  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	417
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 418  4085	*	6491	*	*	2745	*	*	*	*	*	6508	3438	6503	*	709	4184	*	*	*	418
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 419  5569	*	*	*	*	*	*	6252	*	3051	971	*	*	4869	*	*	2720	2748	*	*	419
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 420  *	*	2547	1257	*	4869	6752	*	6046	*	*	*	*	1507	*	*	*	*	*	*	420
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 421  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	421
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 422  6200	*	*	*	*	*	*	3170	*	1714	3722	*	*	*	*	*	3972	1214	*	*	422
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 423  209	3773	*	*	*	*	*	6255	*	*	4361	*	*	*	*	*	*	*	*	*	423
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 424  *	*	4869	541	*	*	*	*	*	*	*	*	*	2153	*	4222	*	*	*	*	424
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 425  *	*	*	*	5572	*	*	*	*	1258	5133	*	*	*	*	*	*	5030	*	995	425
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 426  *	*	*	*	4327	*	*	*	*	6726	*	*	*	*	*	*	*	*	*	88	426
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 427  *	*	*	6630	*	*	5961	*	*	3649	*	7186	*	3617	6491	*	*	*	*	332	427
+       296	2430	*	1820	480	*	*	2904	2176	0	
+
+K 428  3922	*	*	2022	*	*	*	3655	3219	2934	6503	5667	*	3784	7186	5724	4266	2403	*	*	428
+       20	6183	*	1585	585	*	*	2904	1000	0	
+
+T 429  *	*	4968	*	*	*	*	*	3938	*	*	3865	*	*	*	2111	815	4869	*	*	429
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 430  4869	*	6726	*	*	146	*	*	5397	*	*	5122	*	*	*	*	*	*	*	*	430
+       29	5667	*	3000	193	*	*	2904	1000	0	
+
+D 431  *	*	487	5667	*	*	*	*	*	*	*	1907	*	*	*	*	*	*	*	*	431
+       108	3791	*	2950	200	*	*	2904	1725	0	
+
+A 432  1563	*	*	2157	*	*	*	*	2695	*	*	*	3794	4347	*	3451	4673	5655	*	6473	432
+       41	5145	*	2585	263	*	*	2904	1188	0	
+
+R 433  3829	*	4863	6955	*	7363	*	*	2224	4299	3197	4446	*	3559	2361	3248	3706	*	*	*	433
+       54	4766	*	3323	152	*	*	2904	1440	0	
+
+A 434  399	*	*	*	*	5403	*	5461	5730	3951	*	*	*	*	*	*	4869	3685	*	*	434
+       50	4869	*	3322	152	*	*	2904	1000	0	
+
+K 435  *	*	*	2629	*	3450	*	*	718	*	*	*	*	4052	4054	*	*	*	*	5758	435
+       34	5403	*	3585	126	*	*	2904	1000	0	
+
+K 436  1928	*	6491	3748	*	6612	6046	4869	2843	5504	*	4519	4232	2946	6372	3002	3894	*	*	*	436
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 437  6361	*	*	*	*	*	*	1507	*	1639	6643	*	*	*	*	*	*	1714	*	*	437
+       27	5730	*	3807	107	*	*	2904	1000	0	
+
+L 438  *	3202	*	*	*	*	*	4154	*	544	3146	*	*	*	*	*	5416	6255	*	*	438
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 439  *	*	569	2715	*	6647	*	*	3655	*	*	*	*	4555	*	*	4587	*	*	*	439
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 440  *	*	5559	5160	*	*	*	*	336	*	*	5275	*	6372	3050	*	*	*	*	*	440
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 441  *	*	*	*	*	*	*	*	*	4869	*	*	*	*	*	*	*	*	50	*	441
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 442  2769	4641	*	*	4809	*	*	3321	*	*	*	*	*	*	*	6509	*	585	*	*	442
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 443  2141	*	2869	5863	*	5403	*	*	2446	*	*	3721	2908	*	*	3576	3556	4869	*	*	443
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 444  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	62	4573	444
+       60	4629	*	4591	61	*	*	2904	1302	0	
+
+I 445  1381	*	*	*	2823	*	*	3080	*	3968	*	*	*	*	*	5321	5149	2063	*	*	445
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 446  6004	6423	5379	3665	*	6046	*	2449	2489	1728	4702	5883	*	*	*	6647	4980	4088	*	4809	446
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 447  2545	*	4132	3825	*	4064	*	*	4003	*	*	4199	3558	4422	*	1397	6258	*	*	*	447
+       40	5195	*	1352	717	*	*	2904	1204	0	
+
+E 448  6216	*	*	1991	*	*	3563	*	4810	*	*	1430	*	3928	*	*	5111	3669	*	3830	448
+       19	6252	*	3585	126	*	*	2904	1000	0	
+
+I 449  6252	5030	*	*	*	*	*	1798	*	4877	4809	*	*	*	*	5913	1190	2795	*	*	449
+       59	4653	*	4954	47	*	*	2904	1284	0	
+
+K 450  6046	*	5679	4590	6372	*	4767	5615	2231	*	*	4544	*	4133	3753	5133	1288	5080	*	*	450
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 451  6050	*	*	*	2374	*	*	3255	*	2021	*	*	*	*	5367	*	3498	1783	5336	6279	451
+       111	5392	4315	1012	988	*	*	2904	1371	0	
+
+N 452  6388	*	2698	3819	*	3703	*	5688	3680	6033	*	2008	6033	5289	*	3717	2443	*	*	5365	452
+       191	4007	4021	3121	176	0	*	2853	1551	1442	
+
+A 453  2013	*	4191	3516	*	2156	*	5992	*	*	*	6427	3443	*	*	1995	6016	*	*	*	453
+       149	*	3351	*	*	0	*	2904	0	1574	
+
+D 454  6289	*	888	4075	*	6507	*	*	5297	*	*	2244	3676	*	*	5600	4609	*	*	*	454
+       444	4425	2197	379	2115	212	2874	2858	1668	1942	
+
+G 455  4819	*	5468	6394	*	267	*	*	6067	*	*	3808	*	*	*	6284	*	*	*	*	455
+       61	4601	*	1585	585	266	2571	2882	1428	2259	
+
+T 456  6457	*	2900	2540	*	6995	*	*	5476	*	*	3127	*	4762	*	2364	1704	*	*	*	456
+       37	5320	*	1585	585	0	*	2914	1000	1209	
+
+F 457  *	*	*	*	1003	*	*	5111	*	5367	*	*	*	*	*	*	*	6200	3082	1662	457
+       35	5367	*	1585	585	*	*	2904	1000	0	
+
+Q 458  3211	5403	*	2574	*	*	*	*	3673	5555	*	*	*	2604	4137	2651	5564	4555	3464	3923	458
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 459  *	*	*	*	5467	*	4555	796	*	3522	3409	*	*	*	*	*	*	2492	*	*	459
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 460  4555	*	*	*	*	*	*	*	*	6372	*	*	81	*	*	*	*	*	*	*	460
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 461  2359	*	6258	4396	*	3406	*	*	*	*	4809	5433	*	*	*	866	4555	*	*	*	461
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 462  *	*	2831	4509	*	5221	*	*	5397	*	4809	2192	*	*	*	5433	1185	*	4396	*	462
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 463  *	*	*	*	*	*	*	4126	*	187	4742	*	*	5221	*	*	*	*	*	*	463
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 464  4300	*	2185	1616	*	4659	*	6004	3920	*	*	5235	*	4047	5993	3099	4530	5709	*	*	464
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 465  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	465
+       71	4374	*	3003	192	*	*	2904	1205	0	
+
+E 466  6258	*	3993	4238	6671	*	*	*	*	*	*	4815	*	4861	*	898	1973	*	*	*	466
+       50	4869	*	2585	263	*	*	2904	1000	0	
+
+G 467  *	4374	*	*	*	86	*	*	*	*	*	*	*	*	6671	*	*	*	*	*	467
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 468  3905	*	5569	4589	*	*	*	6739	3287	*	*	4555	*	954	*	4809	4851	2947	*	*	468
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 469  *	*	*	*	*	*	*	*	*	4809	*	*	105	*	*	*	4869	*	*	*	469
+       252	5347	2884	0	*	*	*	2904	1278	0	
+
+D 470  4063	*	433	5101	*	4145	*	*	*	*	*	5033	4475	*	*	*	4712	*	*	*	470
+       0	*	*	*	*	*	0	2872	0	1757	
+
+T 471  6442	*	6442	4964	*	*	*	*	3665	*	*	4179	4965	5914	*	4091	507	*	*	*	471
+       143	4332	4475	3598	124	*	0	2872	1317	1757	
+
+W 472  *	*	*	*	*	*	*	*	*	*	*	6378	*	*	*	*	*	*	17	*	472
+       19	6268	*	1000	1000	*	0	2809	1000	1895	
+
+N 473  *	*	3278	5191	*	6378	*	*	4023	*	*	1066	*	6274	5816	4357	2066	*	*	*	473
+       0	*	*	*	*	*	0	2809	0	1895	
+
+P 474  2120	*	*	*	*	959	*	*	5826	*	*	*	2826	6378	*	3557	*	*	*	*	474
+       0	*	*	*	*	*	0	2809	0	1895	
+
+T 475  3442	*	*	6217	3440	5478	*	*	3590	5948	*	*	*	*	*	1730	1399	*	*	*	475
+       281	*	2497	*	*	*	0	2809	0	1895	
+
+Q 476  3205	*	5599	5795	*	4409	*	*	5481	*	*	2054	*	4026	5417	1769	3802	*	*	3431	476
+       245	*	2678	*	*	*	0	2773	0	2399	
+
+G 477  5528	*	*	*	3805	4835	4539	*	*	*	5878	2666	1087	*	*	3060	3974	*	*	*	477
+       648	*	1466	*	*	1397	689	2660	0	2617	
+
+Y 478  5415	*	*	3369	3795	3692	4567	*	*	*	*	3729	3106	4236	*	3447	*	*	*	1507	478
+       0	*	*	*	*	591	1574	2756	0	2525	
+
+T 479  3992	*	5126	*	*	2531	*	*	3368	*	*	4324	3630	6640	*	3416	1417	5081	*	*	479
+       117	*	3688	*	*	*	0	2808	0	2026	
+
+G 480  2247	*	3899	4855	*	1238	*	*	*	*	*	2796	*	*	*	3063	*	*	*	*	480
+       89	4069	*	2644	251	1233	799	2825	1414	2158	
+
+N 481  *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	481
+       0	*	*	*	*	212	2869	2809	0	1895	
+
+A 482  3019	*	*	*	*	6334	*	*	4657	5063	*	6013	1359	4071	*	2235	3092	*	*	*	482
+       0	*	*	*	*	0	*	2858	0	1000	
+
+N 483  6279	*	3506	4955	*	1890	*	*	4899	*	*	982	*	*	*	4126	*	*	*	*	483
+       42	5111	*	1000	1000	*	*	2904	1085	0	
+
+L 484  4448	*	*	*	6085	*	*	6258	*	343	*	*	*	*	*	*	*	3155	*	5274	484
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 485  *	*	6279	*	*	*	553	*	4339	*	*	6011	*	6519	3984	3542	3632	*	*	*	485
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 486  5166	2249	*	*	*	4555	*	*	*	*	4809	*	*	*	*	*	6183	578	*	*	486
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 487  6651	*	6612	2555	*	*	*	4158	2669	*	*	3969	*	5378	4860	3758	1459	4774	*	*	487
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 488  6372	*	*	*	*	*	*	2505	*	6509	*	*	*	*	*	*	3641	473	*	*	488
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 489  2856	*	6371	4639	*	5403	*	4854	2792	4007	*	6258	*	6255	7066	3592	1983	2511	*	*	489
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 490  3759	*	1857	4114	*	2686	*	*	4300	*	*	2877	*	*	6671	2449	4327	7126	*	*	490
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 491  *	*	*	4555	5730	*	3560	*	4921	*	5758	*	3641	*	4534	3931	4220	*	4052	1001	491
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 492  6519	*	*	*	*	869	*	*	*	*	*	4278	*	*	6710	2966	2074	6085	*	*	492
+       58	4672	*	0	*	*	*	2904	1280	0	
+
+T 493  *	*	5331	6423	*	*	4745	*	4785	*	5346	2746	4869	1628	6519	2603	2821	4582	*	*	493
+       101	3881	*	0	*	*	*	2904	1466	0	
+
+D 494  *	*	108	6258	*	5433	*	*	*	*	*	*	*	*	4809	*	*	*	*	*	494
+       52	4809	*	0	*	*	*	2904	1000	0	
+
+L 495  4817	*	*	*	4809	*	*	3030	*	1682	*	*	*	*	*	*	4175	1270	*	5346	495
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 496  6017	*	*	*	*	22	*	*	*	*	*	*	*	*	*	*	*	*	*	*	496
+       0	*	*	*	*	*	*	2904	0	0	
+
+C 497  5072	3011	*	*	*	*	*	3518	*	*	*	*	5433	*	*	4607	2997	812	*	*	497
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 498  773	*	*	*	*	4809	*	3990	*	3438	*	*	*	*	*	6371	3121	3366	*	*	498
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 499  1438	*	*	*	*	1561	*	*	*	*	*	*	*	*	*	1775	*	*	*	*	499
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 500  1643	6255	5233	*	*	4758	*	*	*	*	*	*	*	*	*	729	*	*	*	*	500
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 501  *	*	*	*	5074	*	*	3952	*	1578	4379	*	*	*	*	*	2124	6098	*	1843	501
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 502  405	4374	*	*	*	*	*	3587	*	*	6120	*	*	*	*	4265	*	4406	*	*	502
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 503  *	*	6371	*	*	*	*	*	1325	*	*	1860	*	*	1841	*	*	*	*	4869	503
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 504  1849	*	*	*	*	5111	*	*	*	3496	*	*	*	*	*	4809	849	6149	*	*	504
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 505  *	*	*	*	4617	*	*	*	*	60	*	*	*	*	*	*	*	*	*	*	505
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 506  2975	*	*	6787	*	*	*	2824	*	2695	2814	*	*	*	*	2774	1918	6046	*	*	506
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 507  4952	*	*	*	2212	*	6491	*	*	*	*	6503	*	*	*	*	4399	*	4555	644	507
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 508  *	*	*	*	3641	*	*	*	*	*	*	*	*	*	*	*	*	4555	*	189	508
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 509  210	*	5030	*	*	6491	*	*	*	*	*	*	*	*	*	3413	*	*	*	*	509
+       85	4129	*	3882	101	*	*	2904	1669	0	
+
+A 510  406	*	5388	*	*	*	*	*	3262	6200	5111	*	*	3947	*	6651	*	*	*	*	510
+       17	6423	*	3322	152	*	*	2904	1000	0	
+
+K 511  1611	*	*	5780	*	3011	*	*	1089	*	*	*	*	*	4300	*	6710	*	*	*	511
+       19	6255	*	2585	263	*	*	2904	1000	0	
+
+S 512  3519	*	4555	*	*	6630	*	*	3689	5367	*	6361	*	*	*	1360	1730	5035	*	5346	512
+       45	5030	*	2000	415	*	*	2904	1182	0	
+
+G 513  4048	*	*	3298	*	817	*	*	3433	*	*	4172	*	4077	4236	6651	*	*	*	*	513
+       270	2552	*	3655	119	*	*	2904	2409	0	
+
+D 514  3002	*	1062	*	*	*	4486	*	3953	5367	*	2457	5667	*	*	5035	5730	*	*	6423	514
+       46	5007	*	2461	289	*	*	2904	1367	0	
+
+E 515  3051	*	4158	2357	*	*	6501	*	2858	*	*	6423	*	3198	4869	4002	2417	4730	*	4757	515
+       88	4073	*	3217	164	*	*	2904	1827	0	
+
+T 516  2247	*	4172	2151	*	*	*	*	2794	*	*	3317	*	4317	*	6612	2295	*	*	*	516
+       156	3287	*	2808	222	*	*	2904	1916	0	
+
+S 517  461	*	*	*	*	3897	*	*	*	*	*	*	5276	*	*	3039	*	4699	*	5615	517
+       35	5367	*	3459	138	*	*	2904	1000	0	
+
+R 518  4198	*	*	6612	*	6647	*	5111	1034	3527	*	*	*	4031	2769	5615	5346	*	*	3872	518
+       15	6612	*	2807	222	*	*	2904	1000	0	
+
+Q 519  2828	*	2466	3800	*	*	*	*	4869	*	*	2360	*	3870	6287	3706	2667	*	*	4008	519
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 520  3897	*	*	*	*	6726	*	4859	4705	1987	4403	4396	*	*	6671	*	1737	2368	*	*	520
+       30	5615	*	3459	138	*	*	2904	1000	0	
+
+A 521  205	*	*	*	*	4418	*	*	*	*	*	*	*	*	*	4017	6612	6200	*	*	521
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 522  5249	*	5367	3419	*	*	6630	*	617	4500	*	5403	*	3721	5567	*	*	5111	*	*	522
+       36	5346	*	2807	222	*	*	2904	1000	0	
+
+K 523  2885	*	5399	2359	*	2856	*	*	2682	*	*	6872	*	2227	5403	3631	5291	*	*	*	523
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 524  *	*	*	*	*	*	*	3999	*	228	5030	*	*	*	*	*	*	4244	*	*	524
+       0	*	*	*	*	*	*	2904	0	0	
+
+L 525  *	*	*	*	*	*	*	4321	*	161	4555	*	*	*	*	*	*	6247	*	*	525
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 526  *	*	255	6252	*	6630	*	*	*	*	*	4197	*	6050	*	4374	5575	*	*	*	526
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 527  1676	4336	5291	*	*	2514	*	*	5367	6739	*	*	*	*	2175	6787	6085	3152	*	4452	527
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 528  3246	*	*	5730	*	*	*	1837	*	3086	1717	*	*	4374	*	4641	*	3546	*	*	528
+       128	*	3559	*	*	*	*	2904	0	0	
+
+W 529  *	*	*	*	*	*	*	5634	*	4037	*	*	*	*	*	6488	*	*	286	3509	529
+       118	*	3672	*	*	0	*	2884	0	1717	
+
+N 530  2739	*	2966	2954	*	*	4937	*	2702	5689	*	2970	*	*	*	4278	2520	5646	*	6152	530
+       118	*	3668	*	*	0	*	2891	0	1791	
+
+N 531  4037	*	*	4826	*	3569	3973	*	5917	2313	5285	1351	*	6534	6397	6281	3739	*	*	6640	531
+       123	6182	3875	1000	1000	0	*	2900	1000	1895	
+
+Y 532  6629	3935	5241	6768	5245	3170	2238	*	*	*	*	4534	*	*	*	5413	*	*	*	1081	532
+       0	*	*	*	*	0	*	2893	0	1806	
+
+S 533  3923	*	*	*	*	*	*	*	2861	*	*	3438	*	1816	1624	3806	5367	*	*	*	533
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 534  *	*	257	6247	*	*	*	*	*	*	*	*	*	*	*	*	2736	*	*	*	534
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 535  3167	*	1348	4570	*	2881	*	*	6288	*	*	4110	5105	6050	*	3104	3525	*	*	*	535
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 536  5914	*	*	5367	*	*	4869	2849	1229	2055	*	*	*	6867	6491	*	*	4217	*	4455	536
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 537  *	*	*	*	*	36	*	*	*	*	*	*	*	*	*	5346	*	*	*	*	537
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 538  *	*	*	*	6519	*	*	1614	*	2890	4641	*	*	*	*	*	*	1230	*	4034	538
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 539  1652	*	*	*	*	3137	*	*	*	*	*	*	*	*	*	1383	3669	3829	*	4809	539
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 540  2880	*	5367	*	4374	*	6011	4047	4955	*	5491	4544	*	*	4085	3452	2435	1820	*	*	540
+       52	*	4809	*	*	*	*	2904	0	0	
+
+V 541  6945	*	6676	2434	*	*	*	*	3425	5404	*	*	1293	*	*	3578	2818	4422	*	*	541
+       0	*	*	*	*	*	0	2858	0	1000	
+
+E 542  *	*	4340	111	*	*	*	*	*	*	*	*	*	*	*	5324	*	*	*	*	542
+       36	5324	*	1000	1000	*	0	2858	1000	1000	
+
+Q 543  2982	*	4196	3145	*	*	3916	5630	3283	*	*	7367	6248	3529	*	5761	1654	3745	*	*	543
+       0	*	*	*	*	0	*	2858	0	1000	
+
+R 544  5025	*	*	*	*	*	5195	*	4546	6017	4865	2860	4405	*	611	*	*	6671	*	*	544
+       68	*	4436	*	*	*	*	2904	0	0	
+
+G 545  1945	*	3369	2762	*	1852	*	*	5090	6043	*	6283	5620	5937	6606	3833	4482	*	*	*	545
+       0	*	*	*	*	0	*	2893	0	1619	
+
+D 546  6279	*	443	*	*	*	*	*	*	*	*	*	*	6258	*	2523	3959	*	*	*	546
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 547  5367	*	*	*	5198	*	*	*	*	2528	*	*	*	*	*	*	*	*	6508	388	547
+       0	*	*	*	*	*	*	2904	0	0	
+
+H 548  3563	*	3673	4380	5133	5438	5056	5121	2606	6989	*	2610	*	*	6867	1924	4869	5314	*	6474	548
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 549  4809	*	*	*	*	*	5433	*	3905	*	*	*	*	3899	309	*	*	*	*	*	549
+       11	*	7066	*	*	*	*	2904	0	0	
+
+F 550  *	*	*	*	538	*	*	3815	*	6495	4194	*	*	*	*	*	*	4798	5358	3133	550
+       540	4807	1855	1000	1000	0	*	2907	1000	1000	
+
+L 551  4563	*	2179	6551	800	5545	*	*	*	4739	*	*	*	4937	*	*	6119	4437	*	*	551
+       22	6053	*	2807	222	0	*	2899	1000	2128	
+
+D 552  5216	*	1190	3219	*	5111	*	*	4743	*	*	2253	*	5714	*	4336	3594	*	*	*	552
+       317	2865	4061	2717	238	*	*	2904	1820	0	
+
+Q 553  *	*	2545	2606	*	5032	5615	*	2864	6386	*	6419	*	1573	*	3654	4758	*	*	*	553
+       144	6396	3588	2585	263	0	*	2901	1000	1570	
+
+E 554  6493	*	5316	1312	*	2433	*	*	4273	*	*	*	3448	*	4934	4222	3349	4382	*	*	554
+       0	*	*	*	*	0	*	2846	0	1850	
+
+V 555  *	*	*	*	*	*	*	3192	*	3564	*	*	*	*	*	*	5532	350	*	*	555
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 556  6473	*	5367	*	4539	*	5338	*	*	*	*	*	*	*	*	5027	*	*	4698	273	556
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 557  *	*	*	*	4632	*	*	1101	*	4727	*	*	*	*	*	*	*	1134	*	*	557
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 558  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	558
+       52	4809	*	0	*	*	*	2904	1000	0	
+
+A 559  3065	*	3829	3451	*	6098	6288	*	*	*	*	3104	3175	4597	*	1545	4327	*	*	5038	559
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 560  *	*	5271	3775	*	465	*	*	*	*	*	3657	*	*	*	3992	6661	*	*	5346	560
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 561  *	*	*	*	3050	*	*	*	*	5367	*	*	*	*	*	*	*	*	535	2601	561
+       0	*	*	*	*	*	*	2904	0	0	
+
+T 562  6955	*	5367	*	*	*	*	*	5307	6004	*	3373	*	*	*	1825	981	5491	*	5684	562
+       35	5367	*	0	*	*	*	2904	1000	0	
+
+G 563  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	563
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 564  7243	*	*	4087	*	*	5491	6288	1891	*	*	*	*	5032	4711	6098	1044	4787	*	5307	564
+       0	*	*	*	*	*	*	2904	0	0	
+
+M 565  *	*	*	*	5166	*	*	*	*	*	810	2855	*	*	*	*	3639	*	*	2448	565
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 566  2488	*	*	*	*	3121	*	*	*	*	*	*	501	*	*	*	*	*	*	*	566
+       0	*	*	*	*	*	*	2904	0	0	
+
+N 567  *	*	4033	*	*	*	*	*	*	5367	*	604	*	2215	*	6739	*	*	*	4970	567
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 568  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	568
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 569  3022	*	467	*	*	*	*	*	*	*	*	3438	*	*	*	4374	6279	*	*	*	569
+       0	*	*	*	*	*	*	2904	0	0	
+
+V 570  3262	*	*	3656	*	*	*	*	3261	*	*	4555	3005	4048	5605	*	2535	1778	*	*	570
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 571  *	*	*	*	*	*	*	431	*	2133	*	*	*	*	*	*	*	5034	*	*	571
+       40	5195	*	2803	223	*	*	2904	1204	0	
+
+K 572  3805	*	3392	3348	*	*	*	*	1540	*	*	2333	3945	3863	*	6258	4809	6612	*	*	572
+       37	5311	*	3700	115	*	*	2904	1235	0	
+
+S 573  3143	*	6361	*	*	4008	4087	*	7243	*	*	2451	2395	4051	*	1761	5730	*	*	*	573
+       0	*	*	*	*	*	*	2904	0	0	
+
+G 574  5269	*	4822	6098	*	753	*	*	*	*	*	5245	4951	*	*	2062	4934	*	*	*	574
+       59	4639	*	3444	139	*	*	2904	1318	0	
+
+V 575  2037	*	*	*	*	*	*	2977	5440	*	4985	6371	*	*	6752	1788	5247	2074	*	*	575
+       77	4263	*	3043	187	*	*	2904	1404	0	
+
+K 576  *	*	*	*	*	6085	*	*	3025	*	*	*	*	*	*	2185	638	*	*	*	576
+       0	*	*	*	*	*	*	2904	0	0	
+
+F 577  *	*	*	*	119	*	6046	*	*	*	*	*	*	*	*	*	*	*	*	3966	577
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 578  3684	*	6384	4445	*	*	*	1624	*	1401	7066	*	*	*	*	3179	6183	5082	*	*	578
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 579  *	*	1088	4985	*	4167	*	*	5545	*	*	*	*	*	*	1296	6216	*	*	*	579
+       0	*	*	*	*	*	*	2904	0	0	
+
+I 580  *	*	*	6216	*	*	*	521	*	2158	3928	*	*	*	*	*	*	*	*	*	580
+       0	*	*	*	*	*	*	2904	0	0	
+
+R 581  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	581
+       0	*	*	*	*	*	*	2904	0	0	
+
+S 582  *	*	*	*	*	*	*	*	4374	*	*	*	2132	*	*	633	3666	*	*	*	582
+       0	*	*	*	*	*	*	2904	0	0	
+
+K 583  4433	*	5461	*	1573	5730	*	*	1952	*	3838	5416	*	4784	*	4374	*	*	2840	*	583
+       0	*	*	*	*	*	*	2904	0	0	
+
+Y 584  *	*	*	*	6258	*	*	3438	*	3962	*	*	*	*	*	*	*	*	*	268	584
+       30	5615	*	2807	222	*	*	2904	1000	0	
+
+K 585  *	*	*	3309	*	*	*	*	663	3804	*	*	6216	4054	3713	*	4876	6361	*	*	585
+       29	5667	*	5285	37	*	*	2904	1000	0	
+
+Q 586  *	*	2441	3733	*	*	*	*	2640	6183	*	1943	*	2228	6017	4129	5615	*	*	*	586
+       0	*	*	*	*	*	*	2904	0	0	
+
+D 587  *	*	30	*	*	*	*	*	*	*	*	*	*	*	*	5615	*	*	*	*	587
+       0	*	*	*	*	*	*	2904	0	0	
+
+P 588  *	*	*	4197	*	*	*	*	3719	*	*	5615	382	6491	*	4869	4768	*	*	*	588
+       0	*	*	*	*	*	*	2904	0	0	
+
+E 589  2810	*	1570	3453	*	*	*	*	5016	6508	3267	3287	*	3749	4869	5118	*	*	5030	6247	589
+       0	*	*	*	*	*	*	2904	0	0	
+
+W 590  *	*	*	*	3255	5667	*	*	*	*	*	*	*	*	*	*	5615	*	515	2687	590
+       0	*	*	*	*	*	*	2904	0	0	
+
+Q 591  3652	*	4977	5026	*	*	5430	*	4672	*	5726	*	1372	3029	*	2109	*	5612	*	6012	591
+       0	*	*	*	*	*	*	2907	0	0	
+
+T 592  3604	*	5342	3702	*	5026	*	6242	1026	*	6282	5754	*	3117	4717	*	5873	*	*	3654	592
+       0	*	*	*	*	*	*	2907	0	0	
+
+M 593  5400	5342	*	*	*	*	*	2901	*	1807	5873	*	*	5664	*	*	*	1014	*	*	593
+       0	*	*	*	*	*	*	2907	0	0	
+
+V 594  *	*	5486	1395	*	*	*	5664	2904	5437	*	*	*	1641	*	5291	*	4017	*	6242	594
+       0	*	*	*	*	*	*	2907	0	0	
+
+A 595  976	*	3486	3613	*	6253	*	*	4687	*	*	3361	*	4534	*	3914	4015	*	*	*	595
+       23	*	6006	*	*	*	*	2907	0	0	
+
+A 596  1997	*	6344	*	3997	5644	4549	6242	3508	5246	*	*	*	5128	5422	*	6397	5322	*	1338	596
+       36	*	5334	*	*	*	0	2899	0	1000	
+
+L 597  5727	*	*	*	4637	*	6192	4368	*	769	*	*	*	*	*	*	*	4761	*	1972	597
+       0	*	*	*	*	979	1021	2869	0	1405	
+
+Q 598  3851	*	2447	3216	*	*	*	*	2951	6202	*	1364	*	3837	5213	*	6454	*	*	*	598
+       82	4183	*	2620	256	*	0	2899	1809	1000	
+
+A 599  2892	*	*	4722	*	995	*	*	*	*	*	2764	*	4977	6202	4133	3718	*	*	*	599
+       244	2686	*	2989	194	*	0	2899	2324	1000	
+
+G 600  *	*	*	*	*	330	*	*	*	*	*	3676	*	*	*	5300	5708	3925	*	5977	600
+       37	5300	*	3322	152	0	*	2899	1194	1000	
+
+Q 601  2401	*	6614	2662	*	3433	*	6046	2718	*	*	5105	2757	4031	*	3274	5459	5754	*	*	601
+       0	*	*	*	*	*	*	2907	0	0	
+
+V 602  1111	*	3250	3536	*	5048	*	5127	4822	6042	*	6495	4500	*	*	4610	4700	3298	*	*	602
+       0	*	*	*	*	*	*	2907	0	0	
+
+P 603  6619	*	5400	4471	5298	*	*	*	*	*	*	*	369	*	*	4780	6000	4313	*	5727	603
+       23	6000	*	2322	322	*	*	2907	1000	0	
+
+T 604  6096	*	4156	2281	*	*	*	4849	4597	5612	*	6006	*	7000	3979	4651	1632	2493	*	*	604
+       0	*	*	*	*	*	*	2907	0	0	
+
+Q 605  5612	*	6006	*	610	*	*	4855	5400	4270	3715	*	*	5873	*	*	5727	4419	*	4652	605
+       35	5400	*	2000	415	*	*	2907	1000	0	
+
+R 606  *	*	4807	4004	*	*	*	6653	4074	*	*	2428	*	5400	3462	*	1020	4664	*	*	606
+       23	6006	*	2807	222	*	*	2907	1000	0	
+
+L 607  *	*	*	*	4235	*	*	*	*	4388	*	*	*	*	6502	*	*	*	*	171	607
+       67	4471	*	2514	278	*	*	2907	1337	0	
+
+H 608  *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	608
+       0	*	*	*	*	*	*	2907	0	0	
+
+R 609  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	609
+       0	*	*	*	*	*	*	2907	0	0	
+
+F 610  *	*	*	*	88	*	*	*	*	*	*	*	*	*	*	*	5727	*	6000	5347	610
+       0	*	*	*	*	*	*	2907	0	0	
+
+W 611  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	611
+       0	*	*	*	*	*	*	2907	0	0	
+
+A 612  743	*	5430	4807	*	4644	2558	*	*	*	*	*	*	6273	*	3173	6614	*	*	*	612
+       0	*	*	*	*	*	*	2907	0	0	
+
+Q 613  3219	*	*	4320	*	*	*	*	*	*	*	5364	*	289	*	*	*	*	*	*	613
+       0	*	*	*	*	*	*	2907	0	0	
+
+S 614  1638	3635	*	*	*	3219	*	*	*	*	5727	*	*	*	*	2848	3177	2168	*	*	614
+       0	*	*	*	*	*	*	2907	0	0	
+
+E 615  4428	*	503	2079	*	*	*	*	*	*	*	*	*	*	*	6495	*	*	*	*	615
+       0	*	*	*	*	*	*	2907	0	0	
+
+F 616  3989	*	4638	*	4579	*	6467	1444	*	4977	3127	*	*	*	*	*	5727	2095	*	3697	616
+       0	*	*	*	*	*	*	2907	0	0	
+
+A 617  268	*	*	*	*	5754	*	4371	*	4238	4864	*	*	*	*	6006	*	*	*	*	617
+       0	*	*	*	*	*	*	2907	0	0	
+
+V 618  6978	*	*	*	*	5730	*	2896	*	1956	2143	*	*	*	*	*	2292	2732	*	*	618
+       0	*	*	*	*	*	*	2907	0	0	
+
+A 619  106	*	*	*	*	5902	*	*	*	*	*	*	*	*	*	4216	*	*	*	*	619
+       0	*	*	*	*	*	*	2907	0	0	
+
+N 620  *	4867	*	*	3678	*	*	*	*	2148	2541	2421	*	3670	*	*	*	*	*	2153	620
+       0	*	*	*	*	*	*	2907	0	0	
+
+G 621  1325	*	*	*	*	817	6481	*	*	*	*	*	*	*	*	5499	*	*	*	*	621
+       0	*	*	*	*	*	*	2907	0	0	
+
+V 622  2526	*	2948	2954	*	5342	*	6046	*	3979	4357	5222	*	6662	*	4311	2272	3038	*	*	622
+       0	*	*	*	*	*	*	2907	0	0	
+
+Y 623  5026	*	*	*	4271	*	4529	4549	*	5116	2719	*	*	*	*	*	6664	6209	*	673	623
+       0	*	*	*	*	*	*	2907	0	0	
+
+A 624  1722	*	2547	4933	*	1962	4356	*	*	*	*	*	*	*	*	3168	*	6641	*	3915	624
+       0	*	*	*	*	*	*	2907	0	0	
+
+I 625  5332	*	7201	3118	5722	*	6705	2311	6848	2607	3997	5655	*	4523	2184	*	3935	5430	*	5992	625
+       0	*	*	*	*	*	*	2908	0	0	
+
+L 626  *	*	*	*	3555	*	*	*	*	224	*	*	*	*	*	*	*	*	*	4088	626
+       0	*	*	*	*	*	*	2877	0	0	
+
+F 627  *	*	*	*	360	*	*	4771	*	4533	*	*	*	*	*	*	*	*	*	2825	627
+       0	*	*	*	*	*	*	2872	0	0	
+
+P 628  5458	*	3686	5683	*	1537	*	*	*	*	*	3178	1401	*	*	5323	5544	*	*	*	628
+       0	*	*	*	*	*	*	2792	0	0	
+
+D 629  *	*	1095	1548	*	*	*	*	*	*	*	2398	*	*	*	*	*	*	*	*	629
+       0	*	*	0	*	*	*	2793	0	0	
+
+//

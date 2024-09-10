@@ -1,0 +1,298 @@
+HHsearch 1.5
+NAME  d2co7b2 b.7.2.1 (B:136-220) Periplasmic chaperone SafB {Salmonella typhimurium [TaxId: 90371]}
+FAM   b.7.2.1
+FILE  d2co7b2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2co7b2.a3m -v 1 
+DATE  Tue Jan 22 06:14:31 2013
+LENG  85 match states, 85 columns in multiple alignment
+FILT  110 out of 1050 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  7.1 
+SEQ
+>ss_pred
+CCCHHHHCCEEEEEEECCEEEEECCCCEEEEEEEEEECCEECCCCEEECCCCCEEEECCCCCCCEEEEEEEECCCCCCCCEEEEC
+>ss_conf
+9786752112489881997988729971898878873885637770248987278970788898789998825588990168719
+>Consensus
+kGxpxxaxxxLxxxxxxxxlxvxNpSpyyvtxxxixxxxxxxxxxxmixPxsxxxxxxxxxxxxxvxxxxInDyGxxsxxxxxxL
+>d2co7b2 b.7.2.1 (B:136-220) Periplasmic chaperone SafB {Salmonella typhimurium [TaxId: 90371]}
+KGTPEDVAGNLRWVETGNKLKVENPTPFYMNLASVTVGGKPITGLEYVPPFADKTLNMPGSAHGDIEWRVITDFGGESHPFHYVL
+>gi|193070171|ref|ZP_03051116.1|(143-229:230) pili assembly chaperone [Escherichia coli E110019] >gi|192956490|gb|EDV86948.1| pili assembly chaperone [Escherichia coli E110019]  E=2e-08 s/c=0.71 id=22% cov=98%
+KGTLDDAVAKLTLAAEGDRFRITNNSPFHITVANISLGKTKlLQESPMVSPFGQLTVAAKNTVKRGQTFQLmyVDDLGAyKTRTFT---
+>gi|284009142|emb|CBA76165.1|(141-227:228) fimbrial chaperone protein [Arsenophonus nasoniae]   E=2e-17 s/c=1.05 id=22% cov=101%
+QGDAEESYKLLTFRWLGKQLEVKNPSNYYVTINQLKIGNQivNLNDTDMIAPQEIAYFNISANSSNLISWNSINSYGGISAEMKKNL
+>gi|153831791|ref|ZP_01984458.1|(162-240:242) fimbrial chaperone protein [Vibrio harveyi HY01] >gi|148872301|gb|EDL71118.1| fimbrial chaperone protein [Vibrio harveyi HY01]  E=5e-06 s/c=0.68 id=20% cov=93%
+-----QAFEKIRFIHTEESVRVVNELPWYANFLAIKVGEEKFERIT-VEPFSSINLALEQQlTTQQVQFDILGDDGNTTN-YKSTL
+>gi|423116431|ref|ZP_17104122.1|(139-221:228) hypothetical protein HMPREF9689_04179 [Klebsiella oxytoca 10-5245] >gi|376378613|gb|EHS91372.1| hypothetical protein HMPREF9689_04179 [Klebsiella oxytoca 10-5245]  E=2e-05 s/c=0.63 id=16% cov=86%
+----NEMMKKVSVSQQSGAVCLKNDTPYYITITEIiswhggdlkkkTTDKNLLTSAAFIAPFSCTQVVGTIKPAGHYRAAWIDDYGS---------
+>gi|110832985|ref|YP_691844.1|(155-234:244) type 1 pili chaperone protein FimC [Alcanivorax borkumensis SK2] >gi|110646096|emb|CAL15572.1| type 1 pili chaperone protein FimC [Alcanivorax borkumensis SK2]  E=3e-05 s/c=0.64 id=21% cov=89%
+--SASEAPTSLKISLTEEGVSIKNPAPFSVSFFSPLLEDKtgkkhPLDELLTLLPGEEFIVKCQPCGYTRFHFQSINDFGGI--------
+>gi|308186851|ref|YP_003930982.1|(152-243:248) chaperone protein fimC precursor [Pantoea vagans C9-1] >gi|308057361|gb|ADO09533.1| Chaperone protein fimC precursor [Pantoea vagans C9-1]  E=4e-05 s/c=0.55 id=21% cov=96%
+KGisQPDNILEGLKVAIKKEGVEINNIRPWYLSLTDvaIKTAGKEIVcDADMIAPYSKKIVRCKSaiqfpSNNSVVSLSAMNDQGAkVSEKY----
+>gi|283836237|ref|ZP_06355978.1|(153-224:247) fimbrial chaperone protein [Citrobacter youngae ATCC 29220] >gi|291067596|gb|EFE05705.1| fimbrial chaperone protein [Citrobacter youngae ATCC 29220]  E=4e-05 s/c=0.70 id=21% cov=80%
+---------QVTLEKKGNQYQVNNATGYYVILSNASnrVDGTTAKgfEPMVIPPRTSPVMQVNAADLGSApVLTYVNDYGA---------
+>gi|330822354|ref|YP_004362575.1|(148-225:267) YhcA [Burkholderia gladioli BSR3] >gi|327374191|gb|AEA65545.1| YhcA [Burkholderia gladioli BSR3]  E=0.0006 s/c=0.60 id=23% cov=84%
+----ENKWEYLKWRIQGDQLCVSNDTKmaiRFVNDVTLQPNNVPVTMPkAYALPSSETCTALPAGyaaqAGATVTFSAVSDY-----------
+>gi|22126276|ref|NP_669699.1|(147-246:246) pilin chaperone [Yersinia pestis KIM10+] >gi|45441475|ref|NP_993014.1| pili assembly chaperone [Yersinia pestis biovar Microtus str. 91001] >gi|51596243|ref|YP_070434.1| pili assembly chaperone [Yersinia pseudotuberculosis IP 32953] >gi|108807292|ref|YP_651208.1| pili assembly chaperone [Yersinia pestis Antiqua] >gi|149366143|ref|ZP_01888178.1| probable pili assembly chaperone [Yersinia pestis CA88-4125] >gi|153948481|ref|YP_001401140.1| pili assembly chaperone [Yersinia pseudotuberculosis IP 31758] >gi|170024501|ref|YP_001721006.1| pili assembly chaperone [Yersinia pseudotuberculosis YPIII] >gi|186895277|ref|YP_001872389.1| Pili assembly chaperone, N-terminal [Yersinia pseudotuberculosis PB1/+] >gi|218929034|ref|YP_002346909.1| pili assembly chaperone [Yersinia pestis CO92] >gi|229897315|ref|ZP_04512471.1| probable pili assembly chaperone [Yersinia pestis biovar Orientalis str. PEXU2] >gi|384122276|ref|YP_005504896.1| pili assembly chaperone [Yersinia pestis D106004] >gi|384126324|ref|YP_005508938.1| pili assembly chaperone [Yersinia pestis D182038] >gi|420544435|ref|ZP_15042673.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-01] >gi|420546798|ref|ZP_15044746.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-01] >gi|420552084|ref|ZP_15049470.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-02] >gi|420555140|ref|ZP_15052225.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-03] >gi|420557636|ref|ZP_15054358.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-03] >gi|420560876|ref|ZP_15057207.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-04] >gi|420563111|ref|ZP_15059192.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-04] >gi|420568150|ref|ZP_15063768.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-05] >gi|420571544|ref|ZP_15066867.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-06] >gi|420573850|ref|ZP_15068931.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-06] >gi|420576900|ref|ZP_15071705.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-07] >gi|420579129|ref|ZP_15073721.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-07] >gi|420582174|ref|ZP_15076509.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-08] >gi|420584469|ref|ZP_15078565.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-08] >gi|420589594|ref|ZP_15083176.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-09] >gi|420592540|ref|ZP_15085855.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-10] >gi|420594985|ref|ZP_15088033.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-10] >gi|420600636|ref|ZP_15093072.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-11] >gi|420606082|ref|ZP_15097964.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-12] >gi|420609161|ref|ZP_15100783.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-13] >gi|420611475|ref|ZP_15102825.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-13] >gi|420616807|ref|ZP_15107524.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-14] >gi|420619898|ref|ZP_15110252.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-15] >gi|420622148|ref|ZP_15112266.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-15] >gi|420627247|ref|ZP_15116893.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-16] >gi|420637551|ref|ZP_15126153.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-25] >gi|420640886|ref|ZP_15129190.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-29] >gi|420643123|ref|ZP_15131213.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-29] >gi|420648291|ref|ZP_15135913.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-32] >gi|420653955|ref|ZP_15141004.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-34] >gi|420659421|ref|ZP_15145913.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-36] >gi|420662415|ref|ZP_15148605.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-42] >gi|420664736|ref|ZP_15150672.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-42] >gi|420667479|ref|ZP_15153181.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-45] >gi|420669641|ref|ZP_15155126.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-45] >gi|420674983|ref|ZP_15159986.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-46] >gi|420680577|ref|ZP_15165052.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-47] >gi|420685859|ref|ZP_15169773.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-48] >gi|420688645|ref|ZP_15172280.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-52] >gi|420691049|ref|ZP_15174355.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-52] >gi|420696833|ref|ZP_15179424.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-53] >gi|420702366|ref|ZP_15184031.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-54] >gi|420705868|ref|ZP_15186824.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-55] >gi|420708113|ref|ZP_15188847.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-55] >gi|420713510|ref|ZP_15193681.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-56] >gi|420718962|ref|ZP_15198429.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-58] >gi|420724513|ref|ZP_15203238.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-59] >gi|420730137|ref|ZP_15208270.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-60] >gi|420732762|ref|ZP_15210666.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-61] >gi|420735149|ref|ZP_15212807.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-61] >gi|420740626|ref|ZP_15217735.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-63] >gi|420746136|ref|ZP_15222493.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-64] >gi|420751764|ref|ZP_15227397.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-65] >gi|420778570|ref|ZP_15250793.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-88] >gi|420784152|ref|ZP_15255679.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-89] >gi|420789399|ref|ZP_15260347.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-90] >gi|420794898|ref|ZP_15265299.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-91] >gi|420797628|ref|ZP_15267775.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-92] >gi|420799949|ref|ZP_15269835.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-92] >gi|420805346|ref|ZP_15274709.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-93] >gi|420810648|ref|ZP_15279492.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-94] >gi|420816225|ref|ZP_15284506.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-95] >gi|420819197|ref|ZP_15287229.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-96] >gi|420821496|ref|ZP_15289263.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-96] >gi|420824299|ref|ZP_15291782.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-98] >gi|420826586|ref|ZP_15293823.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-98] >gi|420832291|ref|ZP_15298975.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-99] >gi|420837167|ref|ZP_15303382.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-100] >gi|420840063|ref|ZP_15306025.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-101] >gi|420842336|ref|ZP_15308066.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-101] >gi|420847981|ref|ZP_15313148.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-102] >gi|420853469|ref|ZP_15317903.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-103] >gi|420858839|ref|ZP_15322536.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-113] >gi|421763402|ref|ZP_16200197.1| pili assembly chaperone [Yersinia pestis INS] >gi|21959251|gb|AAM85950.1|AE013842_5 putative pilin chaperone [Yersinia pestis KIM10+] >gi|3818597|gb|AAC69580.1| unknown [Yersinia pestis] >gi|4106628|emb|CAA21383.1| unnamed protein product [Yersinia pestis] >gi|45436336|gb|AAS61891.1| probable pili assembly chaperone [Yersinia pestis biovar Microtus str. 91001] >gi|51589525|emb|CAH21155.1| probable pili assembly chaperone [Yersinia pseudotuberculosis IP 32953] >gi|108779205|gb|ABG13263.1| pili assembly chaperone [Yersinia pestis Antiqua] >gi|115347645|emb|CAL20557.1| probable pili assembly chaperone [Yersinia pestis CO92] >gi|149292556|gb|EDM42630.1| probable pili assembly chaperone [Yersinia pestis CA88-4125] >gi|152959976|gb|ABS47437.1| gram-negative pili assembly chaperone [Yersinia pseudotuberculosis IP 31758] >gi|169751035|gb|ACA68553.1| pili assembly chaperone [Yersinia pseudotuberculosis YPIII] >gi|186698303|gb|ACC88932.1| Pili assembly chaperone, N-terminal [Yersinia pseudotuberculosis PB1/+] >gi|229693652|gb|EEO83701.1| probable pili assembly chaperone [Yersinia pestis biovar Orientalis str. PEXU2] >gi|262361872|gb|ACY58593.1| probable pili assembly chaperone [Yersinia pestis D106004] >gi|262365988|gb|ACY62545.1| probable pili assembly chaperone [Yersinia pestis D182038] >gi|391426707|gb|EIQ88872.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-01] >gi|391428445|gb|EIQ90425.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-02] >gi|391429599|gb|EIQ91434.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-03] >gi|391433876|gb|EIQ95142.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-01] >gi|391438059|gb|EIQ98856.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-03] >gi|391442222|gb|EIR02644.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-04] >gi|391443990|gb|EIR04257.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-05] >gi|391446967|gb|EIR06938.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-06] >gi|391449742|gb|EIR09437.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-04] >gi|391452126|gb|EIR11560.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-06] >gi|391459393|gb|EIR18184.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-07] >gi|391460361|gb|EIR19073.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-08] >gi|391462619|gb|EIR21116.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-09] >gi|391465694|gb|EIR23860.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-07] >gi|391467227|gb|EIR25226.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-08] >gi|391475389|gb|EIR32597.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-10] >gi|391477228|gb|EIR34280.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-11] >gi|391477483|gb|EIR34498.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-12] >gi|391483575|gb|EIR39920.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-10] >gi|391491227|gb|EIR46806.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-13] >gi|391492267|gb|EIR47753.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-15] >gi|391494535|gb|EIR49751.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-14] >gi|391498077|gb|EIR52874.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-13] >gi|391498821|gb|EIR53535.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-15] >gi|391506993|gb|EIR60865.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-16] >gi|391512005|gb|EIR65363.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-25] >gi|391522527|gb|EIR74911.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-29] >gi|391525266|gb|EIR77425.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-34] >gi|391526204|gb|EIR78265.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-32] >gi|391529091|gb|EIR80834.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-29] >gi|391538168|gb|EIR88996.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-36] >gi|391540860|gb|EIR91456.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-42] >gi|391542577|gb|EIR93019.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-45] >gi|391548045|gb|EIR97882.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-42] >gi|391548439|gb|EIR98239.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-45] >gi|391556049|gb|EIS05168.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-46] >gi|391556466|gb|EIS05546.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-47] >gi|391557769|gb|EIS06728.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-48] >gi|391571242|gb|EIS18618.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-52] >gi|391571969|gb|EIS19258.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-53] >gi|391577625|gb|EIS24020.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-52] >gi|391580422|gb|EIS26419.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-54] >gi|391584196|gb|EIS29767.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-55] >gi|391587312|gb|EIS32496.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-56] >gi|391589543|gb|EIS34422.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-55] >gi|391599637|gb|EIS43237.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-58] >gi|391600625|gb|EIS44139.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-60] >gi|391602252|gb|EIS45562.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-59] >gi|391615218|gb|EIS57006.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-61] >gi|391615867|gb|EIS57591.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-63] >gi|391621132|gb|EIS62216.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-64] >gi|391621763|gb|EIS62773.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-61] >gi|391627295|gb|EIS67521.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-65] >gi|391655431|gb|EIS92176.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-88] >gi|391659815|gb|EIS96050.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-89] >gi|391663761|gb|EIS99575.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-90] >gi|391670925|gb|EIT05918.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-91] >gi|391681141|gb|EIT15132.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-93] >gi|391682646|gb|EIT16506.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-92] >gi|391683272|gb|EIT17063.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-94] >gi|391689695|gb|EIT22794.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-92] >gi|391695190|gb|EIT27785.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-95] >gi|391698491|gb|EIT30790.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-96] >gi|391699786|gb|EIT31942.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-98] >gi|391704899|gb|EIT36511.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-96] >gi|391705369|gb|EIT36922.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-98] >gi|391709533|gb|EIT40704.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-99] >gi|391715727|gb|EIT46236.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-100] >gi|391716619|gb|EIT47061.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-101] >gi|391721467|gb|EIT51385.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-101] >gi|391727839|gb|EIT57008.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-102] >gi|391730198|gb|EIT59079.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-103] >gi|391735237|gb|EIT63411.1| gram-negative pili assembly chaperone, C-terminal domain protein [Yersinia pestis PY-113] >gi|411176303|gb|EKS46323.1| pili assembly chaperone [Yersinia pestis INS]  E=1e-05 s/c=0.52 id=17% cov=98%
+---PIDAMGKIKFSLKNidNQYVIiaNNPTPYFVSFGQIQLQSQqknyliAQSMDMMTGPFSTRPYyfeqpPTSLKGKFTVSYIYFDDAGNqvkNSQSVT
+VTL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	475	*	*	*	*	1835	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	5698	0	0	
+
+G 2    5501	*	5788	*	*	361	6084	*	5230	*	*	5369	*	*	*	4612	4287	5417	*	*	2
+       32	5511	*	1000	1000	*	*	6392	1000	0	
+
+T 3    6023	*	2567	*	*	*	*	4601	4369	5882	*	2645	*	5800	4375	2004	2368	4630	*	*	3
+       0	*	*	*	*	*	*	6636	0	0	
+
+P 4    2842	*	*	*	6203	*	*	5866	*	3813	*	5647	747	*	*	4541	6157	3544	*	*	4
+       24	*	5919	*	*	*	*	6705	0	0	
+
+E 5    6757	*	2206	2096	*	4909	*	4865	4716	3772	5546	3522	*	3649	5159	3957	4032	6612	*	6725	5
+       45	5022	*	1021	979	0	*	7034	1770	1000	
+
+D 6    5776	*	2011	1951	6413	6116	5554	*	3369	6498	5962	3439	*	3138	*	4469	4522	6776	*	*	6
+       20	*	6182	*	*	*	*	7095	0	0	
+
+V 7    1146	*	6326	3975	6779	4618	*	3479	6180	5710	4875	5399	6295	5163	5920	3850	4559	3777	*	*	7
+       0	*	*	*	*	0	*	7098	0	1000	
+
+A 8    2639	5583	6460	4239	3980	5676	*	4049	5686	4123	4431	*	3324	6933	5419	5610	5590	2768	3666	3483	8
+       0	*	*	*	*	*	*	7126	0	0	
+
+G 9    3902	*	3207	2217	*	3836	6968	*	2196	*	*	3456	*	3039	5234	4297	5422	*	*	*	9
+       16	6484	*	0	*	*	*	7188	1000	0	
+
+N 10   4372	*	6141	4250	6127	4614	4326	*	2171	5146	7107	2671	*	2692	4136	3609	4839	*	*	4767	10
+       0	*	*	*	*	*	*	7188	0	0	
+
+L 11   6689	*	*	*	*	*	*	2566	*	691	6756	*	*	*	*	5552	*	2546	*	*	11
+       10	7238	*	1000	1000	*	*	7184	1000	0	
+
+R 12   5086	*	5312	4486	*	*	4704	4468	2528	*	*	4453	*	2776	3147	2840	2522	5294	*	*	12
+       0	*	*	*	*	*	*	7184	0	0	
+
+W 13   5970	*	*	*	1734	6306	*	3912	*	3238	*	*	*	*	*	*	*	3315	1369	6554	13
+       55	4737	*	1614	571	*	*	7196	2677	0	
+
+V 14   4883	*	6507	4693	5985	6918	3970	4551	3329	5702	6346	4909	*	3819	2869	1715	4235	5325	5556	6658	14
+       158	3266	*	1350	719	*	*	7196	4350	0	
+
+E 15   4217	*	*	6174	6306	*	4792	3606	2804	2893	*	5535	6597	3434	2327	4292	*	3273	6687	4802	15
+       10	7183	*	1000	1000	*	*	7196	1000	0	
+
+T 16   4496	*	3393	3784	6554	6597	4649	6689	3414	5672	*	3757	*	2586	3577	3134	3137	4266	*	*	16
+       79	4229	*	1749	509	*	*	7196	3186	0	
+
+G 17   3509	*	3306	4586	*	1219	*	*	4434	*	*	2828	5075	4638	5735	4174	*	6853	*	*	17
+       50	4881	*	358	2184	*	*	7196	2292	0	
+
+N 18   4552	*	3512	3438	*	2509	4589	6507	3815	*	*	1913	*	4068	6785	3938	4903	*	5677	5283	18
+       77	4268	*	1934	438	*	*	7196	3188	0	
+
+K 19   3611	*	5302	4911	5518	2465	4488	4905	3077	6581	5403	5504	*	2874	4018	3384	3757	6108	*	5529	19
+       90	4042	*	1713	525	*	*	7196	3534	0	
+
+L 20   *	*	*	*	5170	*	*	2294	*	1182	6630	*	6367	*	*	*	5571	2228	5368	4421	20
+       0	*	*	*	*	*	*	7196	0	0	
+
+K 21   6938	4658	5837	3002	5851	*	5644	3842	3348	4240	7173	5632	*	4359	3421	3491	2912	2725	*	6706	21
+       0	*	*	*	*	*	*	7196	0	0	
+
+V 22   2764	6266	*	*	4271	4728	*	2051	*	2664	*	*	*	*	*	*	6367	1560	*	*	22
+       25	5863	*	1000	1000	*	*	7196	1578	0	
+
+E 23   6568	*	3614	4617	5357	*	4353	5650	2186	5802	*	2934	*	6489	3469	3649	2835	4195	*	5092	23
+       0	*	*	*	*	*	*	7196	0	0	
+
+N 24   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	7196	0	0	
+
+P 25   6137	*	3598	4371	*	6568	6658	5637	4882	*	6769	2658	1008	5121	5168	4763	5492	*	*	*	25
+       0	*	*	*	*	*	*	7196	0	0	
+
+T 26   5389	*	*	*	*	4325	*	*	*	6465	*	*	*	*	6586	961	1355	*	*	*	26
+       0	*	*	*	*	*	*	7196	0	0	
+
+P 27   3543	*	6755	6044	*	3707	*	*	5321	*	*	4579	638	7072	5530	3989	*	6428	*	*	27
+       17	6409	*	1585	585	*	*	7196	1000	0	
+
+F 28   *	*	*	*	2498	*	5328	5444	*	4561	*	5169	*	*	5257	6909	*	*	3737	748	28
+       0	*	*	*	*	*	*	7196	0	0	
+
+Y 29   *	*	*	*	2653	*	2334	5575	*	*	*	4182	*	*	*	4627	*	4281	5707	1134	29
+       0	*	*	*	*	*	*	7196	0	0	
+
+M 30   3594	*	*	*	3767	*	*	1964	*	2633	3726	*	*	*	*	5937	*	1580	*	*	30
+       20	6175	*	2000	415	*	*	7196	1000	0	
+
+N 31   3774	*	*	*	*	*	*	5077	*	*	*	2715	*	5302	5461	1998	1276	4897	*	*	31
+       0	*	*	*	*	*	*	7196	0	0	
+
+L 32   *	*	6409	*	2080	*	*	1990	*	1656	5069	*	*	*	*	*	6306	3150	*	5174	32
+       25	7135	6652	1000	1000	*	*	7196	1000	0	
+
+A 33   2901	*	4709	5436	5564	3950	*	4576	5342	4438	*	4346	*	6431	4581	2106	2912	3304	*	4745	33
+       14	6711	*	1585	585	0	*	7183	1000	1000	
+
+S 34   4539	*	3913	3032	*	3516	5210	*	4286	*	6435	2505	*	3240	4492	2423	4539	6402	*	5423	34
+       92	4021	*	1078	926	*	*	7196	3507	0	
+
+V 35   4017	*	*	*	4569	5866	*	1680	6238	1677	5541	*	6279	*	*	6920	*	2335	*	*	35
+       95	3978	*	1918	443	*	*	7196	3575	0	
+
+T 36   4986	*	6734	3666	4535	5327	5383	5896	2002	3995	6346	4088	6175	3976	5793	3039	3512	5014	7096	4476	36
+       61	4590	*	1836	474	*	*	7196	2645	0	
+
+V 37   3503	*	*	6606	4513	5365	*	2527	5651	2280	5769	5890	5558	6407	*	4171	4708	1956	*	6114	37
+       213	2866	*	1500	630	*	*	7196	4927	0	
+
+G 38   4101	*	2989	5444	*	1734	6440	6648	4034	*	*	2177	5502	4276	5483	4190	6554	5789	*	6790	38
+       29	5634	*	628	1503	*	*	7196	1694	0	
+
+G 39   5186	6777	3281	4515	*	1509	5810	*	3406	6920	7100	2559	*	4234	5416	3453	*	*	*	*	39
+       43	5085	*	1618	569	*	*	7196	2373	0	
+
+K 40   6056	*	7057	4502	6652	4345	5160	5108	1725	6909	7101	3951	*	3338	3991	4319	3058	3740	*	5179	40
+       86	4103	*	1941	435	*	*	7196	3438	0	
+
+P 41   3747	*	4182	3165	*	5206	7080	5255	2583	4655	*	3862	3117	4749	4103	3435	3524	4930	*	*	41
+       114	3716	*	1294	756	*	*	7196	3870	0	
+
+I 42   4713	*	6823	*	4354	5905	6440	1967	5859	2425	*	5933	5561	5889	5202	7019	4317	2440	5257	3903	42
+       119	3915	6308	1872	460	*	*	7196	3924	0	
+
+T 43   4170	*	3039	3285	5136	*	6593	3616	3001	4353	*	3538	3225	4643	6875	4249	3770	4416	*	6432	43
+       299	2418	*	1104	903	0	*	7200	5345	1000	
+
+G 44   4084	*	2669	3081	*	3336	*	*	3111	5492	4998	2927	3730	4323	4684	3917	5976	6827	*	6548	44
+       105	4159	6119	932	1071	*	*	7196	3390	0	
+
+L 45   2911	*	4355	5841	*	3640	5549	3722	3823	4460	5303	4148	2958	7042	*	2429	4905	3832	*	*	45
+       86	4974	5245	691	1394	0	*	7185	2210	1000	
+
+E 46   3809	*	3301	3412	5148	2723	*	3620	5367	3431	4680	5825	5626	5575	6119	4266	3183	3628	*	*	46
+       71	5239	5537	2140	371	0	*	7188	2107	2074	
+
+Y 47   6689	*	*	*	4239	*	6403	4976	*	3946	934	*	*	*	*	6388	3033	4180	*	3106	47
+       113	3885	7082	1272	771	0	*	7161	3721	1809	
+
+V 48   4294	*	*	*	5417	*	*	1471	6888	2106	6597	*	*	*	*	*	5417	1783	*	*	48
+       17	6402	*	2807	222	0	*	7197	1000	1000	
+
+P 49   1456	*	*	3647	*	5751	*	7088	3818	3066	7314	5493	2538	6346	5485	4051	5027	*	*	6266	49
+       27	5729	*	1000	1000	*	*	7196	1803	0	
+
+P 50   6428	*	*	*	*	*	*	*	*	*	*	*	38	*	*	6114	*	*	*	*	50
+       0	*	*	*	*	*	*	7196	0	0	
+
+F 51   5691	*	*	*	1290	3427	4561	*	2871	4483	5160	5796	*	5695	5249	6409	*	*	5556	2941	51
+       0	*	*	*	*	*	*	7196	0	0	
+
+A 52   3627	*	4663	3396	*	2830	*	*	6346	*	*	6848	*	5235	*	836	4786	*	*	*	52
+       0	*	*	*	*	*	*	7196	0	0	
+
+D 53   4588	6810	4638	2254	*	*	4257	6687	3617	*	6489	4939	*	3138	4909	2356	2811	6703	*	5788	53
+       13	6755	*	1585	585	*	*	7196	1000	0	
+
+K 54   3339	*	*	4688	4852	*	4459	4215	3234	3613	5021	5809	*	3144	3489	4448	4001	2709	*	5133	54
+       0	*	*	*	*	*	*	7196	0	0	
+
+T 55   4601	6409	3939	3731	6904	*	5199	4556	4381	4797	*	4431	6602	2840	3124	2809	3514	3550	*	5807	55
+       12	*	6909	*	*	*	*	7196	0	0	
+
+L 56   6233	*	*	*	2507	*	6622	2308	*	2730	5037	*	*	4829	*	6778	4584	2837	3545	3239	56
+       82	4176	*	1852	468	*	0	7197	3491	1000	
+
+N 57   3000	*	3626	3767	5818	*	5778	*	3221	4617	*	3817	2510	5093	5674	3425	3400	4945	6999	6264	57
+       20	7061	7306	1000	1000	0	*	7197	1000	1000	
+
+M 58   4213	5417	*	5542	6730	5231	*	2983	6537	1522	5264	4475	6698	5741	*	4648	4021	2876	4552	*	58
+       117	4050	5821	1432	668	*	0	7202	3709	1000	
+
+P 59   4265	5178	5328	4469	*	6244	6777	4835	2145	7068	*	4562	1875	5373	3996	3393	4172	7152	*	*	59
+       50	5872	5893	1518	620	585	1585	7197	1592	2252	
+
+G 60   2928	*	4046	4687	5600	3403	4884	4986	3186	4142	5459	2971	5026	3583	5744	3128	*	5340	*	*	60
+       184	3061	*	1578	589	692	1392	7193	4635	1984	
+
+S 61   3579	4870	5364	5743	6678	3182	4628	5680	3117	4692	6632	3412	4636	5109	4297	2800	3648	4112	*	*	61
+       188	3192	6289	1581	587	*	0	7193	4570	1000	
+
+A 62   3018	*	5660	6744	*	3769	5537	5750	4942	4256	6778	3750	4868	3423	6294	2461	3231	3081	*	5707	62
+       98	3923	*	1812	484	0	*	7176	3590	1544	
+
+H 63   2765	*	5508	6652	*	2090	5462	4327	4443	4996	*	4059	3624	4753	5199	2470	5046	7096	*	6279	63
+       152	3597	5872	753	1299	*	*	7196	3586	0	
+
+G 64   3565	4812	3121	6691	4878	2194	*	5245	5968	4765	6498	3512	5739	5009	4480	2943	3491	*	*	6467	64
+       45	5025	*	1223	807	0	*	7190	2265	1725	
+
+D 65   4832	*	5997	3167	6626	6781	5129	*	2097	5258	*	3893	6658	3322	3682	3731	2836	4260	*	7038	65
+       61	4984	6648	1274	770	*	*	7196	2648	0	
+
+I 66   3609	*	*	*	4684	*	*	1962	*	2452	5059	*	*	6773	*	*	5691	1503	*	5140	66
+       41	5797	6649	0	*	0	*	7182	1693	1000	
+
+E 67   4592	*	6485	3452	*	6428	4678	4951	3188	5910	*	3940	*	3795	3633	2462	2587	3825	*	6598	67
+       41	5163	*	1790	492	*	0	7182	2321	1000	
+
+W 68   4358	*	*	*	2126	*	*	4635	*	2821	5487	*	6598	*	*	*	*	3779	2030	2396	68
+       0	*	*	*	*	0	*	7182	0	1000	
+
+R 69   4919	*	5118	3664	*	5408	5158	4976	5279	5632	*	3689	*	2809	3592	2195	3216	3993	*	4719	69
+       0	*	*	*	*	*	*	7196	0	0	
+
+V 70   2973	5693	*	6581	3658	6691	*	3819	*	3426	4944	6597	4774	*	*	4019	3094	3107	5051	2429	70
+       36	5836	7148	1000	1000	*	*	7196	1722	0	
+
+I 71   4582	*	*	*	5498	*	*	820	*	2509	5200	*	*	*	*	*	*	2583	*	*	71
+       0	*	*	*	*	0	*	7194	0	1000	
+
+T 72   *	*	2068	*	*	4229	*	*	*	*	*	852	*	*	*	3470	3963	*	*	*	72
+       0	*	*	*	*	*	*	7196	0	0	
+
+D 73   *	*	204	4306	*	*	*	*	*	6308	*	*	*	*	4774	5807	*	6119	*	*	73
+       0	*	*	*	*	*	*	7196	0	0	
+
+F 74   3820	*	5720	5146	2554	*	6598	6569	*	3940	*	4627	*	3848	*	5020	*	*	5357	1118	74
+       0	*	*	*	*	*	*	7194	0	0	
+
+G 75   *	*	*	*	*	41	*	*	*	*	*	5143	*	*	*	*	*	*	*	*	75
+       18	*	6374	*	*	*	*	7172	0	0	
+
+G 76   1302	*	*	6473	*	1825	*	6199	*	6126	6545	3089	*	6210	*	3415	*	4732	*	*	76
+       245	2997	5014	275	2528	0	*	7010	4098	1000	
+
+E 77   3956	*	3767	3468	*	6040	6328	2483	4847	3491	*	4633	*	6278	*	4610	3057	2337	5830	6421	77
+       112	6352	4008	0	*	0	*	6939	1000	1904	
+
+S 78   5080	*	*	4167	*	6236	*	*	4173	4725	4970	4915	*	5780	5954	1631	1584	4254	*	*	78
+       0	*	*	*	*	0	*	6652	0	2572	
+
+H 79   3212	*	3980	2193	*	*	4172	*	2589	*	*	5632	2894	3464	3676	4849	5053	*	*	*	79
+       34	*	5420	*	*	*	*	6674	0	0	
+
+P 80   3523	*	4842	2819	*	*	*	5555	3473	3746	*	*	2943	5856	3789	2985	3002	3647	*	*	80
+       0	*	*	*	*	0	*	6570	0	1000	
+
+F 81   4944	*	*	5678	2430	*	3630	3219	5657	5852	5982	*	*	4891	4774	5453	*	3634	4586	1709	81
+       0	*	*	*	*	*	*	6557	0	0	
+
+H 82   *	*	5806	4131	*	*	3275	*	2281	5499	*	3978	*	3291	3861	2803	2210	*	*	*	82
+       0	*	*	*	*	*	*	6438	0	0	
+
+Y 83   3446	*	*	*	3706	4303	*	4134	4584	3354	*	*	*	3359	*	4221	4280	1899	5242	3516	83
+       0	*	*	*	*	*	*	6200	0	0	
+
+V 84   4020	*	5428	*	*	*	5053	3445	2843	5221	*	5327	2739	5294	5101	5070	1957	3179	*	*	84
+       0	*	*	*	*	*	*	6060	0	0	
+
+L 85   *	*	*	*	*	*	*	3415	*	304	3380	*	*	*	*	*	*	*	*	*	85
+       0	*	*	0	*	*	*	5830	0	0	
+
+//

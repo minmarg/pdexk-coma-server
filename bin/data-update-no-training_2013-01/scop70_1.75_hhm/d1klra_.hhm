@@ -1,0 +1,132 @@
+HHsearch 1.5
+NAME  d1klra_ g.37.1.1 (A:) ZFY {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1klra_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1klra_.a3m -v 1 
+DATE  Mon Jan 21 22:44:17 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCHHHHCCCCCCCC
+>ss_conf
+987788754334773210110002346789
+>Consensus
+KpyxCxxCxxrxAdxSNLKTHiKtkHxxex
+>d1klra_ g.37.1.1 (A:) ZFY {Human (Homo sapiens) [TaxId: 9606]}
+KTYQCQYCEFRSADSSNLKTHIKTKHSKEK
+>gi|148228689|ref|NP_001081639.1|(563-591:794) zinc finger Y-chromosomal protein 1 [Xenopus laevis] >gi|47123880|gb|AAH70611.1| XZFY-1 protein [Xenopus laevis]  E=3e-06 s/c=1.90 id=80% cov=100%
+KPYLCQYCDYRSADSSNLKTHVKTKHSKE-
+>gi|224097349|ref|XP_002193247.1|(531-559:761) PREDICTED: zinc finger protein 711 [Taeniopygia guttata]   E=0.0004 s/c=1.65 id=70% cov=100%
+KPYQCQHCVFRCADQSNLKTHIKTKHGTD-
+>gi|407262484|ref|XP_003946425.1|(691-719:921) PREDICTED: LOW QUALITY PROTEIN: zinc finger Y-chromosomal protein 1 [Mus musculus]  E=3e-06 s/c=1.90 id=80% cov=100%
+KPYECQYCEYKSADSSNLKTHIKSKHSKE-
+>gi|410914116|ref|XP_003970534.1|(519-547:749) PREDICTED: zinc finger protein 711-like [Takifugu rubripes]   E=1e-05 s/c=1.83 id=60% cov=100%
+KPYHCPHCEFRCADQSNLKTHIKSRHGAD-
+>gi|157502229|ref|NP_001098993.1|(531-559:761) zinc finger protein 711 [Danio rerio] >gi|308191619|sp|A7Y7X5.1|ZN711_DANRE RecName: Full=Zinc finger protein 711; AltName: Full=Vitelline envelope protein >gi|157142168|gb|ABV24353.1| zinc finger protein zvep [Danio rerio]  E=2e-05 s/c=1.81 id=60% cov=100%
+KPFHCQHCEFSCADQSNLKTHIKSKHGTD-
+>gi|410915698|ref|XP_003971324.1|(652-680:875) PREDICTED: zinc finger X-chromosomal protein-like [Takifugu rubripes]  E=2e-05 s/c=1.79 id=77% cov=100%
+KPYSCLYCDYKSADSSNLKTHIKTKHSKE-
+>gi|348570618|ref|XP_003471094.1|(430-458:660) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 711-like [Cavia porcellus]  E=2e-05 s/c=1.79 id=70% cov=100%
+KPYQCQYCVFRCADQSNLKTHIKSKHGNN-
+>gi|334350306|ref|XP_003342336.1|(548-575:778) PREDICTED: zinc finger protein 711-like isoform 2 [Monodelphis domestica]  E=0.0001 s/c=1.76 id=61% cov=93%
+KPYHCHHCIFRCADQSNLKTHMKAKHG---
+>gi|345319204|ref|XP_001520904.2|(472-499:702) PREDICTED: zinc finger protein 711 [Ornithorhynchus anatinus]   E=0.0003 s/c=1.74 id=61% cov=93%
+KPYPCPHCLFRCADRSNLKTHIKGRHG---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	92	*	*	*	4020	*	*	*	2
+       0	*	*	*	*	*	*	1574	0	0	
+
+Y 3    *	*	*	*	3683	*	*	*	*	*	*	*	*	*	*	*	*	*	*	117	3
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 4    *	*	*	2554	*	*	2226	*	*	4265	*	*	3588	1447	*	3132	*	*	*	*	4
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 6    *	*	*	*	*	*	3643	*	*	4149	4115	*	2405	697	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1574	0	0	
+
+Y 7    *	*	*	*	4013	*	1336	*	*	*	*	*	*	*	*	*	*	*	*	884	7
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1574	0	0	
+
+E 9    *	*	2590	972	*	*	*	3643	*	3588	*	*	4013	*	*	*	*	3335	*	*	9
+       0	*	*	*	*	*	*	1574	0	0	
+
+F 10   *	*	*	*	979	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1022	10
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 11   *	*	*	*	*	*	*	*	2072	*	*	*	*	*	547	3683	*	*	*	*	11
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 12   *	1165	*	*	*	*	*	*	*	*	*	*	*	*	*	852	*	*	*	*	12
+       0	*	*	*	*	*	*	1574	0	0	
+
+A 13   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1574	0	0	
+
+D 14   *	*	113	*	*	*	*	*	*	*	*	3726	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	*	*	1463	3588	852	*	*	*	*	15
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	16
+       0	*	*	*	*	*	*	1574	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1574	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	20
+       0	*	*	*	*	*	*	1574	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1574	0	0	
+
+I 22   *	*	*	*	*	*	*	618	*	*	3643	*	*	*	*	*	*	1897	*	*	22
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 23   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 24   3643	*	*	*	*	3588	*	*	*	*	*	*	*	*	*	1830	848	*	*	*	24
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 25   *	*	*	*	*	*	*	*	303	*	*	*	*	*	2402	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1574	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 27   *	*	*	*	*	1165	*	*	*	*	*	3726	*	*	*	1063	*	*	*	*	27
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 28   2809	*	*	*	*	*	*	*	855	*	*	3706	*	*	3807	*	2678	*	*	*	28
+       0	*	*	*	*	*	*	1545	0	0	
+
+E 29   *	*	1742	679	*	*	*	*	*	*	*	3706	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1545	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

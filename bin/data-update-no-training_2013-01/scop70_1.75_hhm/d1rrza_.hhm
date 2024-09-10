@@ -1,0 +1,240 @@
+HHsearch 1.5
+NAME  d1rrza_ a.7.10.1 (A:) Glycogen synthesis protein GlgS {Escherichia coli [TaxId: 562]}
+FAM   a.7.10.1
+FILE  d1rrza_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rrza_.a3m -v 1 
+DATE  Tue Jan 22 01:39:50 2013
+LENG  66 match states, 66 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+962022432367999999999754885368764167447889999999999999988647755119
+>Consensus
+mxxxlxsxxNFDFLAxSfArMxxqGrxVdxxaVtGNMxexqrxwFxeRyxxYxxqxxxaxxxeleh
+>d1rrza_ a.7.10.1 (A:) Glycogen synthesis protein GlgS {Escherichia coli [TaxId: 562]}
+MDHSLNSLNNFDFLARSFARMHAEGRPVDILAVTGNMDEEHRTWFCARYAWYCQQMMQARELELEH
+>gi|395235904|ref|ZP_10414104.1|(14-76:77) glycogen synthesis protein GlgS [Enterobacter sp. Ag1] >gi|394729210|gb|EJF29206.1| glycogen synthesis protein GlgS [Enterobacter sp. Ag1]  E=1e-15 s/c=1.37 id=53% cov=97%
+MNRDLQAVKNFDFLARSFAHMQASGQQVNLQAVTGNMSREQKTWFCERFNQYCEEEFRAAELE---
+>gi|157371333|ref|YP_001479322.1|(5-67:70) glycogen synthesis protein [Serratia proteamaculans 568] >gi|157323097|gb|ABV42194.1| Glycogen synthesis protein [Serratia proteamaculans 568]  E=0.0004 s/c=0.76 id=36% cov=97%
+VDRHLYGGGEMDFLASSIALMEWQGREVDAGKVAGNMSESQSRLFFERLSYFRQLYQAATTVE---
+>gi|387887883|ref|YP_006318181.1|(3-66:69) RpoS dependent glycogen biosynthesis protein [Escherichia blattae DSM 4481] >gi|414594834|ref|ZP_11444467.1| glycogen synthesis protein GlgS [Escherichia blattae NBRC 105725] >gi|386922716|gb|AFJ45670.1| RpoS dependent glycogen biosynthesis protein [Escherichia blattae DSM 4481] >gi|403194139|dbj|GAB82119.1| glycogen synthesis protein GlgS [Escherichia blattae NBRC 105725]  E=9e-18 s/c=1.45 id=62% cov=98%
+-NNALYSLENFDFLARTFARMHNQGRRVDINAVTGNMDEAHRQWFCKRYALYCRKEATVKSVALE-
+>gi|375257417|ref|YP_005016587.1|(3-69:69) glycogen synthesis protein GlgS [Klebsiella oxytoca KCTC 1686] >gi|365906895|gb|AEX02348.1| glycogen synthesis protein GlgS [Klebsiella oxytoca KCTC 1686]  E=1e-17 s/c=1.38 id=57% cov=98%
+--NDMYLMKNFDFLAQSFARMNAQGQPVDLQAIVGNMDEAHREWFCQRYELYCRQANKtmSPEAELEH
+>gi|311281116|ref|YP_003943347.1|(4-66:66) Glycogen synthesis protein [Enterobacter cloacae SCF1] >gi|308750311|gb|ADO50063.1| Glycogen synthesis protein [Enterobacter cloacae SCF1]  E=2e-17 s/c=1.46 id=61% cov=97%
+--QDLQALNNFDFLARSFARMYALGEPVDIGAVTGNMNAEQKAWFRARYEHYRKQAERARVLEVQ-
+>gi|410655075|ref|YP_006957591.1|(23-81:81) hypothetical protein [Salmonella enterica subsp. indica] >gi|389597549|gb|AFK90299.1| hypothetical protein [Salmonella enterica subsp. indica]  E=1e-14 s/c=1.40 id=53% cov=77%
+--DDIYALHNFEFLAITFAKMAAQGRTVDIDTVIGNMDETHRKWFTERYQHW--------------
+>gi|429084493|ref|ZP_19147498.1|(4-66:73) FIG00554479: hypothetical protein [Cronobacter condimenti 1330] >gi|426546550|emb|CCJ73539.1| FIG00554479: hypothetical protein [Cronobacter condimenti 1330]  E=2e-18 s/c=1.52 id=50% cov=97%
+--HDIYSFKNFDFLACSFARMNGEGRRIDIDAVTGNMSEAQSAWFRERYNYYRKQGLQQSLVAVQ-
+>gi|377575894|ref|ZP_09804878.1|(6-67:67) glycogen synthesis protein GlgS [Escherichia hermannii NBRC 105704] >gi|377541926|dbj|GAB50043.1| glycogen synthesis protein GlgS [Escherichia hermannii NBRC 105704]  E=4e-12 s/c=1.20 id=37% cov=95%
+-ESNVMSVQNFDFIAFSFARMQLRGRDVNLDNITGNMNATSKKWFQNRYNFYLSEFKDQSVKA---
+>gi|387867733|ref|YP_005699202.1|(12-68:68) hypothetical protein ETAF_1602 [Edwardsiella tarda FL6-60] >gi|304559046|gb|ADM41710.1| hypothetical protein ETAF_1602 [Edwardsiella tarda FL6-60]  E=6e-10 s/c=1.18 id=40% cov=83%
+-----FSTNTMDFLASSIAMMESQGRNISATEVQGNMTAKQRALFNERLAYYRQRYTQE-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	517	*	*	*	*	*	*	1731	*	*	1
+       0	*	*	*	*	*	*	2061	0	0	
+
+D 2    *	*	1981	2061	*	*	*	*	3503	*	*	1255	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2522	0	0	
+
+H 3    *	*	3097	*	*	*	2703	*	4968	*	*	2718	*	2246	2254	2998	*	*	*	*	3
+       0	*	*	*	*	*	*	2660	0	0	
+
+S 4    4462	*	1382	3727	*	*	2735	*	4494	*	*	2326	*	*	*	3777	5137	*	*	*	4
+       56	4703	*	0	*	*	*	2693	1000	0	
+
+L 5    *	*	*	*	*	*	*	1950	*	1024	3282	*	*	*	*	*	*	2770	*	*	5
+       0	*	*	*	*	*	*	2693	0	0	
+
+N 6    4314	*	*	*	3216	*	4763	*	*	*	3609	2381	*	3634	*	*	*	*	*	1149	6
+       0	*	*	*	*	*	*	2782	0	0	
+
+S 7    1514	*	*	*	*	3976	*	*	*	4788	*	*	*	*	*	862	*	*	*	*	7
+       0	*	*	*	*	*	*	2782	0	0	
+
+L 8    *	*	*	*	3872	3976	*	*	*	1300	2890	*	*	*	*	*	3216	2562	*	4314	8
+       74	4314	*	0	*	*	*	2782	1000	0	
+
+N 9    *	*	*	4557	*	3976	3988	*	1802	*	*	1616	*	3609	4672	3370	*	*	*	*	9
+       0	*	*	*	*	*	*	2782	0	0	
+
+N 10   *	*	*	3976	*	*	*	*	*	*	*	271	*	*	*	*	3216	*	*	*	10
+       0	*	*	*	*	*	*	2782	0	0	
+
+F 11   *	*	*	*	361	*	*	*	*	*	2175	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2782	0	0	
+
+D 12   *	*	101	3882	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2597	0	0	
+
+F 13   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2597	0	0	
+
+L 14   *	*	*	*	*	*	*	3627	*	122	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2597	0	0	
+
+R 16   *	4962	*	*	3627	*	*	3882	*	4987	*	*	*	3805	1213	1813	*	*	*	*	16
+       0	*	*	*	*	*	*	2597	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	156	3282	*	*	*	17
+       0	*	*	*	*	*	*	2597	0	0	
+
+F 18   *	*	*	*	420	*	*	1985	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 19   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2597	0	0	
+
+R 20   *	*	*	*	*	*	4401	*	3882	2746	3271	*	*	*	662	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2597	0	0	
+
+M 21   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2597	0	0	
+
+H 22   3329	*	*	1985	*	*	2352	*	*	*	*	3367	*	2318	*	*	*	*	*	2695	22
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 23   1053	*	*	*	*	4962	*	*	4690	3627	*	4838	*	*	*	2392	*	4966	3200	*	23
+       0	*	*	*	*	*	*	2597	0	0	
+
+E 24   4966	*	*	2199	*	*	*	*	*	3267	4619	*	*	1067	3627	4401	*	*	*	*	24
+       0	*	*	*	*	*	*	2597	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2597	0	0	
+
+R 26   *	*	*	4902	4424	*	3625	*	*	*	*	*	*	2006	761	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2597	0	0	
+
+P 27   4690	*	3627	2428	*	*	*	*	*	*	*	3271	1673	4401	3336	3984	3882	*	*	*	27
+       0	*	*	*	*	*	*	2597	0	0	
+
+V 28   *	*	*	*	*	*	*	1616	*	*	*	*	*	*	*	*	*	570	*	*	28
+       0	*	*	*	*	*	*	2597	0	0	
+
+D 29   *	*	441	*	*	*	*	*	*	*	*	2645	*	*	*	3271	*	*	*	*	29
+       0	*	*	*	*	*	*	2597	0	0	
+
+I 30   1985	*	*	*	*	*	*	1253	*	1959	*	*	*	*	*	*	*	3828	*	*	30
+       0	*	*	*	*	*	*	2597	0	0	
+
+L 31   4770	*	1799	4980	*	2814	*	*	4424	5157	*	4838	4690	2252	4251	4633	4292	*	*	*	31
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 32   740	*	4251	4292	*	*	*	*	2746	*	*	3627	*	*	*	*	3882	*	*	*	32
+       0	*	*	*	*	*	*	2597	0	0	
+
+V 33   *	*	*	*	*	*	*	1827	*	*	*	*	*	*	*	*	*	478	*	*	33
+       0	*	*	*	*	*	*	2597	0	0	
+
+T 34   3200	4633	*	*	*	*	*	3882	*	*	*	*	*	3271	*	*	763	3469	*	*	34
+       0	*	*	*	*	*	*	2597	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2597	0	0	
+
+N 36   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2597	0	0	
+
+M 37   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2597	0	0	
+
+D 38   *	*	1459	*	*	*	*	*	*	*	*	3128	*	*	*	1405	2793	*	*	*	38
+       0	*	*	*	*	*	*	2597	0	0	
+
+E 39   2198	*	3871	874	*	4424	*	*	*	*	*	*	*	*	4401	*	*	4633	*	4889	39
+       0	*	*	*	*	*	*	2597	0	0	
+
+E 40   2680	*	3831	1425	*	*	*	*	3452	*	*	*	*	4251	*	3200	2749	*	*	*	40
+       0	*	*	*	*	*	*	2597	0	0	
+
+H 41   *	*	*	*	*	*	1621	*	*	*	*	*	*	752	*	3627	*	*	*	*	41
+       0	*	*	*	*	*	*	2597	0	0	
+
+R 42   *	*	*	*	*	*	*	*	2006	*	*	*	*	3828	978	2532	*	*	*	*	42
+       0	*	*	*	*	*	*	2597	0	0	
+
+T 43   1652	*	*	2937	*	*	4980	*	2749	*	*	*	*	3724	3200	3789	3132	*	*	*	43
+       0	*	*	*	*	*	*	2597	0	0	
+
+W 44   *	*	*	*	*	*	*	*	*	1985	*	*	*	*	*	*	*	*	420	*	44
+       0	*	*	*	*	*	*	2597	0	0	
+
+F 45   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2597	0	0	
+
+C 46   *	1359	*	*	3200	*	*	*	*	4619	*	2797	*	3627	2574	*	3882	*	*	*	46
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 47   4024	*	*	885	*	*	*	*	2847	4424	*	3627	*	2937	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2597	0	0	
+
+R 48   *	*	*	*	*	*	4619	*	*	*	*	*	*	4424	132	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2597	0	0	
+
+Y 49   *	*	*	*	3538	*	*	*	*	1985	*	*	*	*	*	*	*	*	*	597	49
+       0	*	*	*	*	*	*	2597	0	0	
+
+A 50   1849	*	4889	2067	*	*	*	*	*	*	*	2101	*	3882	*	3200	4633	*	*	*	50
+       0	*	*	*	*	*	*	2597	0	0	
+
+W 51   *	*	*	*	3063	*	1884	*	*	2040	*	*	*	4401	4424	*	*	*	5157	2032	51
+       0	*	*	*	*	*	*	2597	0	0	
+
+Y 52   *	*	*	*	3200	*	*	*	*	*	*	*	*	*	*	*	*	*	3882	280	52
+       0	*	*	*	*	*	*	2597	0	0	
+
+C 53   *	1081	*	*	*	*	*	*	*	3505	*	*	*	*	1188	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2699	0	0	
+
+Q 54   *	*	*	4303	*	*	4632	*	2133	*	4772	*	*	1291	2760	3505	*	*	*	*	54
+       0	*	*	*	*	*	*	2699	0	0	
+
+Q 55   *	*	*	2448	*	*	4694	*	4253	3445	*	*	*	809	3988	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2712	0	0	
+
+M 56   1437	*	*	3270	3500	3721	*	*	*	*	4876	*	*	*	*	*	*	3145	*	2213	56
+       52	4812	*	1000	1000	*	*	2712	1000	0	
+
+M 57   4253	*	*	2387	4286	*	*	*	3500	3263	4876	4581	*	2900	4691	4886	2470	4329	*	*	57
+       0	*	*	*	*	*	*	2712	0	0	
+
+Q 58   2497	*	3500	3473	*	*	*	*	4581	*	*	4691	*	2035	2098	4886	4253	*	*	*	58
+       64	4524	*	1000	1000	*	*	2712	1000	0	
+
+A 59   836	*	*	2590	*	*	*	*	*	*	*	*	*	2541	*	4470	*	4140	*	*	59
+       0	*	*	*	*	*	*	2778	0	0	
+
+R 60   3364	*	*	*	*	*	*	*	3403	*	*	*	4388	4190	1391	2402	2887	*	*	*	60
+       0	*	*	*	*	*	*	2675	0	0	
+
+E 61   4501	*	*	1843	*	*	*	4411	2686	4269	*	*	*	*	*	4054	2887	2137	*	*	61
+       0	*	*	*	*	*	*	2675	0	0	
+
+L 62   3516	*	*	*	*	*	*	4533	2028	1834	*	*	4584	*	*	*	*	1727	*	*	62
+       0	*	*	*	*	*	*	2675	0	0	
+
+E 63   1726	*	*	519	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2675	0	0	
+
+L 64   *	*	*	*	*	*	*	*	*	344	*	*	*	*	*	*	*	2235	*	*	64
+       0	*	*	*	*	*	*	2122	0	0	
+
+E 65   *	*	*	519	*	*	*	*	*	*	*	*	*	1726	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2074	0	0	
+
+H 66   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	66
+       0	*	*	0	*	*	*	1560	0	0	
+
+//

@@ -1,0 +1,139 @@
+HHsearch 1.5
+NAME  d1ppjj_ f.23.14.1 (J:) Subunit X (non-heme 7 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase) {Cow (Bos taurus) [TaxId: 9913]}
+FAM   f.23.14.1
+FILE  d1ppjj_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ppjj_.a3m -v 1 
+DATE  Tue Jan 22 00:47:40 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  88 out of 90 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHCCCCCCHHHHHHHCCC
+>ss_conf
+904688889999987422564007888752039
+>Consensus
+fFErxFDxxxdxixdxxNkGkxWKdIkhkYexk
+>d1ppjj_ f.23.14.1 (J:) Subunit X (non-heme 7 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase) {Cow (Bos taurus) [TaxId: 9913]}
+FFERAFDQGADAIYEHINEGKLWKHIKHKYENK
+>gi|350419128|ref|XP_003492079.1|(24-56:56) PREDICTED: cytochrome b-c1 complex subunit 9-like [Bombus impatiens]  E=0.0001 s/c=1.49 id=59% cov=103%
+FFERGFDMIGDTIFDRLNEGKLWKHIKQQYEEQ
+>gi|225708902|gb|ACO10297.1|(25-57:61) Cytochrome b-c1 complex subunit 9 [Caligus rogercresseyi]   E=0.0008 s/c=1.43 id=59% cov=103%
+FAERGFDAITDYIWENNNKGKLWKDIKHKYEEE
+>gi|321456913|gb|EFX68010.1|(29-58:62) hypothetical protein DAPPUDRAFT_63495 [Daphnia pulex]   E=6e-07 s/c=1.89 id=58% cov=94%
+FFERGFDLASEHLYSEINKGKLWKDIKEKY---
+>gi|361130950|gb|EHL02680.1|(38-68:75) putative Cytochrome b-c1 complex subunit 9 [Glarea lozoyensis 74030]  E=3e-06 s/c=1.75 id=47% cov=91%
+-FEMGFDNGMDKIWDSLNKGRQWKDIRAKY---
+>gi|119193462|ref|XP_001247337.1|(30-61:64) predicted protein [Coccidioides immitis RS] >gi|303312053|ref|XP_003066038.1| ubiquinol-cytochrome C reductase, putative [Coccidioides posadasii C735 delta SOWgp] >gi|240105700|gb|EER23893.1| ubiquinol-cytochrome C reductase, putative [Coccidioides posadasii C735 delta SOWgp] >gi|320040014|gb|EFW21948.1| conserved hypothetical protein [Coccidioides posadasii str. Silveira] >gi|392863417|gb|EAS35834.2| hypothetical protein CIMG_01108 [Coccidioides immitis RS]  E=2e-07 s/c=1.83 id=48% cov=100%
+-FEIAFDTVSNRVWDTINKGRQWKDIKHRYINK
+>gi|346470151|gb|AEO34920.1|(74-104:104) hypothetical protein [Amblyomma maculatum]   E=4e-07 s/c=1.84 id=50% cov=97%
+FLERMSDVVADTIFDTVNKGKQWKDIKKNYE--
+>gi|328698406|ref|XP_003240636.1|(28-57:58) PREDICTED: cytochrome b-c1 complex subunit 9-like [Acyrthosiphon pisum]  E=5e-06 s/c=1.80 id=55% cov=94%
+FFERTLDIGIENLYDRINRGKQWKDIAHKY---
+>gi|393246536|gb|EJD54045.1|(29-60:65) ubiquinol-cytochrome C reductase [Auricularia delicata TFB-10046 SS5]  E=0.0003 s/c=1.49 id=30% cov=100%
+-FGVGLDIGVTTFWDRWNKGKQWKDIRDRYIQQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	247	*	*	*	*	2667	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2594	0	0	
+
+F 2    5160	*	*	*	80	*	*	*	*	5264	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2869	0	0	
+
+E 3    *	*	5328	256	*	4080	*	*	*	*	*	*	*	4977	*	4909	6184	*	*	*	3
+       0	*	*	*	*	*	*	2884	0	0	
+
+R 4    *	*	*	*	*	*	6100	3228	*	4328	3377	*	*	*	656	*	*	3349	*	*	4
+       0	*	*	*	*	*	*	2884	0	0	
+
+A 5    1267	*	*	*	5747	1672	*	*	*	5278	4682	*	*	*	*	6708	3424	3564	*	*	5
+       0	*	*	*	*	*	*	2878	0	0	
+
+F 6    6120	5747	*	*	335	*	*	5186	*	4629	*	*	*	*	*	5355	*	5829	*	3953	6
+       0	*	*	*	*	*	*	2878	0	0	
+
+D 7    *	*	314	4744	*	*	3820	*	*	*	*	3510	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2878	0	0	
+
+Q 8    3622	*	6597	5195	*	6259	*	4386	*	3722	4106	4691	*	1640	6110	4038	2830	3174	*	*	8
+       0	*	*	*	*	*	*	2878	0	0	
+
+G 9    2175	*	*	*	*	1197	*	3411	*	4718	*	*	*	6438	*	4740	3644	3618	*	*	9
+       0	*	*	*	*	*	*	2878	0	0	
+
+A 10   1871	6304	*	*	*	3246	*	3964	*	5195	3366	*	*	*	*	2306	2898	3576	*	*	10
+       0	*	*	*	*	*	*	2878	0	0	
+
+D 11   *	*	1006	3775	*	4990	*	*	*	*	*	1966	*	*	*	5406	3420	5345	*	*	11
+       0	*	*	*	*	*	*	2878	0	0	
+
+A 12   1576	6304	*	3978	*	6120	5889	*	2239	5367	6985	4578	*	6532	3166	4447	3892	*	*	4794	12
+       0	*	*	*	*	*	*	2878	0	0	
+
+I 13   *	*	*	*	2840	*	*	1037	*	2626	6318	*	*	*	*	*	*	2525	*	5334	13
+       0	*	*	*	*	*	*	2878	0	0	
+
+Y 14   *	*	*	*	1645	*	*	*	*	*	*	*	*	*	*	*	*	*	1227	1981	14
+       0	*	*	*	*	*	*	2878	0	0	
+
+E 15   *	6264	840	1827	*	6572	*	*	*	4990	*	*	*	4669	5066	5366	6477	*	*	*	15
+       0	*	*	*	*	*	*	2878	0	0	
+
+H 16   6718	*	6386	5889	*	6378	2231	*	4152	*	*	3235	*	4111	2982	2186	2971	*	*	4557	16
+       0	*	*	*	*	*	*	2878	0	0	
+
+I 17   *	*	*	*	6645	*	3844	1492	*	2631	3463	5119	*	*	5195	4929	*	3490	3364	4731	17
+       0	*	*	*	*	*	*	2878	0	0	
+
+N 18   *	*	*	*	*	*	*	*	5753	*	*	135	*	*	*	3820	*	*	*	*	18
+       0	*	*	*	*	*	*	2878	0	0	
+
+E 19   5337	*	*	2131	*	*	*	*	1316	*	*	*	*	4015	1819	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2878	0	0	
+
+G 20   *	*	*	*	*	58	*	*	*	*	*	*	*	*	4669	*	*	*	*	*	20
+       24	5908	*	0	*	*	*	2878	1000	0	
+
+K 21   *	*	*	4782	*	*	*	*	487	*	*	*	*	*	1998	*	*	*	*	*	21
+       53	*	4782	*	*	*	*	2878	0	0	
+
+L 22   5880	*	*	*	*	*	*	*	*	943	*	*	*	1112	*	*	*	*	*	*	22
+       0	*	*	*	*	0	*	2853	0	1000	
+
+W 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	23
+       0	*	*	*	*	*	*	2878	0	0	
+
+K 24   *	*	4583	6290	*	*	*	*	172	*	*	5544	*	4777	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2880	0	0	
+
+H 25   *	*	518	*	*	*	1729	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2880	0	0	
+
+I 26   *	*	*	*	*	*	*	72	*	*	5576	*	*	*	*	*	*	5186	*	*	26
+       0	*	*	*	*	*	*	2880	0	0	
+
+K 27   5850	*	*	5071	4777	*	*	*	669	*	*	*	*	*	1799	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2880	0	0	
+
+H 28   3687	*	2980	5871	*	3834	888	*	4426	*	*	*	*	3327	*	6415	*	*	*	6611	28
+       0	*	*	*	*	*	*	2880	0	0	
+
+K 29   *	*	5625	*	4777	*	*	*	633	*	*	3249	*	3459	3289	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2880	0	0	
+
+Y 30   *	*	*	*	4724	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56	30
+       0	*	*	*	*	*	*	2845	0	0	
+
+E 31   *	*	*	448	*	*	*	2699	*	4300	4010	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2569	0	0	
+
+N 32   *	*	*	2714	*	*	5541	*	2548	*	*	2074	*	2239	*	4526	4327	3150	*	*	32
+       0	*	*	*	*	*	*	2576	0	0	
+
+K 33   *	*	*	2473	*	*	*	*	696	*	*	*	*	2302	*	*	*	*	*	*	33
+       0	*	*	0	*	*	*	2551	0	0	
+
+//

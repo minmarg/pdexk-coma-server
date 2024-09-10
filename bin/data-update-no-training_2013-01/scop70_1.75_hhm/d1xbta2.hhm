@@ -1,0 +1,163 @@
+HHsearch 1.5
+NAME  d1xbta2 g.39.1.14 (A:151-191) Thymidine kinase, TK1, C-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.14
+FILE  d1xbta2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xbta2.a3m -v 1 
+DATE  Tue Jan 22 06:29:07 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  111 out of 432 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCEEEEEECCCCEEEECCCCCCEEECCCCCCC
+>ss_conf
+93564589651267550999778828997412003112479
+>Consensus
+AVCxxCgxxAxxtxRxxxxxxxvxIGgxexYxxxCRxcyxk
+>d1xbta2 g.39.1.14 (A:151-191) Thymidine kinase, TK1, C-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+AVCMECFREAAYTKRLGTEKEVEVIGGADKYHSVCRLCYFK
+>gi|212696061|ref|ZP_03304189.1|(158-198:215) hypothetical protein ANHYDRO_00597 [Anaerococcus hydrogenalis DSM 7454] >gi|212676690|gb|EEB36297.1| hypothetical protein ANHYDRO_00597 [Anaerococcus hydrogenalis DSM 7454]  E=5e-10 s/c=1.63 id=31% cov=102%
+AICASCGEDAWVSFRKSYNEDRIEIGAQDSYQPLCRSCYNR
+>gi|47459450|ref|YP_016312.1|(143-183:200) thymidine kinase [Mycoplasma mobile 163K] >gi|60390016|sp|Q6KH30.1|KITH_MYCMO RecName: Full=Thymidine kinase >gi|47458780|gb|AAT28101.1| thymidine kinase [Mycoplasma mobile 163K]  E=1e-08 s/c=1.52 id=30% cov=98%
+AVCFSCKNAGTHTFRITNDKDQKLLGDTESYQARCRKCH--
+>gi|193216012|ref|YP_001997211.1|(126-162:170) thymidine kinase [Chloroherpeton thalassium ATCC 35110] >gi|193089489|gb|ACF14764.1| Thymidine kinase [Chloroherpeton thalassium ATCC 35110]  E=4e-06 s/c=1.47 id=29% cov=93%
+AVCMKSGLPASRTQRIAPGTDLIDVGHTNKYEARHRA----
+>gi|302386649|ref|YP_003822471.1|(139-183:188) thymidine kinase [Clostridium saccharolyticum WM1] >gi|302197277|gb|ADL04848.1| thymidine kinase [Clostridium saccharolyticum WM1]  E=7e-05 s/c=1.10 id=32% cov=98%
+-VCW-CGNHANMNARIDENgnivrtGQQVSMGANDKYVSLCRKHYKE
+>gi|227431147|ref|ZP_03913203.1|(177-221:234) thymidine kinase [Leuconostoc mesenteroides subsp. cremoris ATCC 19254] >gi|227353099|gb|EEJ43269.1| thymidine kinase [Leuconostoc mesenteroides subsp. cremoris ATCC 19254]  E=1e-08 s/c=1.38 id=32% cov=100%
+-ICSFCGKKATTQLRIVDGKPqregaQVFIGGDEAYIPTCRHHWFK
+>gi|315499297|ref|YP_004088101.1|(141-180:200) thymidine kinase [Asticcacaulis excentricus CB 48] >gi|315417309|gb|ADU13950.1| Thymidine kinase [Asticcacaulis excentricus CB 48]  E=2e-06 s/c=1.38 id=24% cov=100%
+AHCAVCGQPAHKTFKKVEDNVEIQLGHGDLYEPRCNRHWF-
+>gi|392390129|ref|YP_006426732.1|(148-188:196) thymidine kinase [Ornithobacterium rhinotracheale DSM 15997] >gi|390521207|gb|AFL96938.1| thymidine kinase [Ornithobacterium rhinotracheale DSM 15997]  E=0.0001 s/c=1.20 id=19% cov=102%
+AICVKTGNLANYSHRKIKSDKLVELGERAEYEPLSRAVFWE
+>gi|321311046|ref|YP_004193375.1|(148-191:201) thymidine kinase [Mycoplasma haemofelis str. Langford 1] >gi|385860400|ref|YP_005906910.1| thymidine kinase [Mycoplasma haemofelis Ohio2] >gi|319802890|emb|CBY93536.1| thymidine kinase [Mycoplasma haemofelis str. Langford 1] >gi|334194101|gb|AEG73829.1| thymidine kinase [Mycoplasma haemofelis Ohio2]  E=0.0005 s/c=1.07 id=32% cov=100%
+AVCEQCYSIATRSHlRTHDpefSKNNIKIGDGELYEVLCLKCYY-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    117	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3685	*	*	*	*	1
+       0	*	*	*	*	*	*	4547	0	0	
+
+V 2    *	*	*	*	*	*	5408	1442	6610	6190	*	*	*	*	5380	*	*	835	*	*	2
+       0	*	*	*	*	*	*	4874	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       77	*	4273	*	*	*	*	4906	0	0	
+
+M 4    2870	*	*	5191	5373	*	3980	6879	4116	5026	2415	4712	6827	4456	5744	3992	3090	3255	4193	6256	4
+       90	*	4040	*	*	0	*	4896	0	2398	
+
+E 5    *	5794	4094	2886	3631	5897	5792	3304	2506	5456	6056	5002	*	4660	3688	3915	*	3334	*	4517	5
+       0	*	*	*	*	0	*	4867	0	2067	
+
+C 6    *	161	*	*	*	*	*	*	*	*	*	*	*	*	*	4262	4225	*	*	*	6
+       36	5338	*	612	1533	*	*	4906	1694	0	
+
+F 7    5299	*	4960	5595	5877	658	3888	*	4170	*	*	4248	*	6555	5548	5470	*	*	*	4624	7
+       40	5184	*	0	*	*	*	4906	2037	0	
+
+R 8    3690	6156	4741	2994	*	4383	5651	*	2784	4831	*	2821	*	3779	2666	3136	6399	*	*	*	8
+       91	4038	*	0	*	*	*	4906	2275	0	
+
+E 9    5312	*	1930	3111	5618	*	5176	4769	2539	3685	6257	4484	3133	5540	5062	5105	*	6662	*	*	9
+       63	4543	*	506	1757	*	*	4906	2610	0	
+
+A 10   165	*	6013	*	*	3817	*	*	*	*	*	*	*	*	*	5513	*	*	*	*	10
+       0	*	*	*	*	*	*	4906	0	0	
+
+A 11   3046	*	*	*	6414	6064	4212	4452	*	4923	*	3170	3827	5325	5800	2711	2058	4138	5072	6000	11
+       0	*	*	*	*	*	*	4906	0	0	
+
+Y 12   5846	6309	*	*	1199	*	4210	5092	4439	6414	3395	*	*	*	3064	*	5717	4336	*	3182	12
+       23	6013	*	0	*	*	*	4906	1000	0	
+
+T 13   *	*	*	*	*	*	4761	6450	*	*	*	3103	*	6540	*	1558	1134	5102	*	*	13
+       0	*	*	*	*	*	*	4906	0	0	
+
+K 14   4226	*	*	5769	3357	*	2976	4351	3223	3002	5761	*	*	2358	4582	*	6309	4091	6144	3611	14
+       44	5051	*	1609	573	*	*	4906	1674	0	
+
+R 15   6067	*	*	*	*	*	6171	*	3859	6144	*	*	*	*	171	*	*	*	*	*	15
+       73	4341	*	1992	418	*	*	4906	2355	0	
+
+L 16   *	6820	*	*	4655	*	*	1994	2567	1997	5822	*	*	*	6723	*	2548	3854	*	6171	16
+       66	4485	*	2309	325	*	*	4906	2039	0	
+
+G 17   5204	*	5482	*	4879	4197	6042	2217	5168	5973	*	6144	*	5563	*	3063	2895	1744	*	*	17
+       17	6398	*	2585	263	*	*	4906	1000	0	
+
+T 18   3181	*	2616	3372	*	4391	*	*	3411	6748	*	2488	3710	4007	6309	3277	5154	6495	*	7104	18
+       192	3006	*	2781	227	*	*	4906	3410	0	
+
+E 19   5963	7109	2597	2366	*	2561	6908	*	4269	6533	*	2930	5747	5581	*	2405	*	5840	*	*	19
+       47	4975	*	2434	295	*	*	4906	1902	0	
+
+K 20   *	*	3035	3040	*	2174	6686	*	2091	*	6804	3644	*	4906	*	4552	3128	6486	*	*	20
+       139	3448	*	2781	227	*	*	4906	2781	0	
+
+E 21   4164	*	2463	1979	*	4672	*	6613	5491	*	*	3827	2768	3745	4436	4343	4775	6202	*	*	21
+       41	5154	*	2491	283	*	*	4906	1784	0	
+
+V 22   5766	*	5293	4327	*	*	*	3416	5639	2367	*	6042	*	1979	3227	5978	4308	2674	*	*	22
+       32	5505	*	2449	292	*	*	4906	1646	0	
+
+E 23   6562	*	*	1883	5856	*	*	1807	6084	6399	6945	5434	*	5935	*	6525	5894	1674	*	*	23
+       0	*	*	*	*	*	*	4906	0	0	
+
+V 24   6486	*	4499	3427	5717	*	5110	5370	5024	1292	4165	*	*	3239	*	5064	*	2749	*	*	24
+       23	5978	*	0	*	*	*	4906	1267	0	
+
+I 25   *	*	*	*	*	*	*	949	*	2640	6360	*	6169	*	*	*	*	1897	*	5200	25
+       0	*	*	*	*	*	*	4906	0	0	
+
+G 26   *	*	5618	*	*	30	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       11	*	6994	*	*	*	*	4906	0	0	
+
+G 27   3111	6593	2988	3978	*	828	4908	*	*	*	*	5844	*	*	*	4014	*	*	6912	*	27
+       22	*	6016	*	*	0	*	4903	0	1000	
+
+A 28   2783	*	4622	3421	5906	4542	*	5576	3213	5186	5552	2803	*	3980	5785	2792	3904	5057	*	5837	28
+       16	*	6524	*	*	0	*	4896	0	1690	
+
+D 29   5709	*	1619	919	*	5196	*	*	6326	*	*	4119	*	*	*	6604	5719	*	*	*	29
+       54	*	4776	*	*	0	*	4898	0	1000	
+
+K 30   3557	7182	5611	3916	6586	*	6312	4082	2314	3602	3730	6958	*	6569	4113	2701	3892	4083	*	5378	30
+       0	*	*	*	*	0	*	4887	0	2143	
+
+Y 31   *	*	*	*	6061	*	5389	*	*	*	*	*	*	*	*	*	*	*	*	57	31
+       0	*	*	*	*	*	*	4906	0	0	
+
+H 32   5029	6553	*	1555	7023	*	6955	2840	3931	4425	4613	*	*	3335	4549	4670	4314	4080	*	5691	32
+       0	*	*	*	*	*	*	4906	0	0	
+
+S 33   1222	*	*	*	*	*	*	*	*	*	*	*	1362	6392	*	3186	5858	4533	*	*	33
+       0	*	*	*	*	*	*	4906	0	0	
+
+V 34   4047	*	*	*	*	*	*	*	5846	2809	5022	*	*	*	1754	5591	4600	1358	*	*	34
+       0	*	*	*	*	*	*	4906	0	0	
+
+C 35   *	123	*	*	*	*	5670	*	*	*	*	*	*	*	*	4009	*	*	*	*	35
+       0	*	*	*	*	*	*	4906	0	0	
+
+R 36   6389	*	*	5416	7037	6060	6897	*	6293	6040	*	5131	5814	6251	284	6782	*	*	6927	7006	36
+       0	*	*	*	*	*	*	4903	0	0	
+
+L 37   2810	*	4221	3814	*	5559	3801	5873	1982	6039	*	5252	5838	4177	3138	4438	4265	5954	5189	*	37
+       0	*	*	*	*	*	*	4903	0	0	
+
+C 38   4602	414	*	*	*	*	2673	*	*	*	*	*	*	*	*	*	*	4285	*	*	38
+       0	*	*	*	*	*	*	4645	0	0	
+
+Y 39   *	*	*	*	1874	*	3551	*	*	*	*	*	*	*	*	*	*	*	3469	858	39
+       0	*	*	*	*	*	*	4655	0	0	
+
+F 40   6011	*	6142	4479	2298	4867	3544	4992	2718	4376	*	3455	*	6245	6002	*	*	5611	5247	2295	40
+       0	*	*	*	*	*	*	4623	0	0	
+
+K 41   *	*	*	2619	*	*	*	*	767	*	*	*	*	3116	2895	*	*	*	*	*	41
+       0	*	*	0	*	*	*	4312	0	0	
+
+//

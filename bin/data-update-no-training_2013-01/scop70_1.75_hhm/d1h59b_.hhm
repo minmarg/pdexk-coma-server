@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1h59b_ g.3.9.1 (B:) Insulin-like growth factor-binding protein-5 (IGFBP-5) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.9.1
+FILE  d1h59b_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1h59b_.a3m -v 1 
+DATE  Mon Jan 21 21:09:33 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  100 out of 102 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCEECCCCCCCCHHHHHHCCCCCCCCC
+>ss_conf
+976788877740624478870007999843256874056122479
+>Consensus
+sAlxxGxxCGVYTxrCxxGLrCxPxxgexxPLxaLlxGxGxCxxe
+>d1h59b_ g.3.9.1 (B:) Insulin-like growth factor-binding protein-5 (IGFBP-5) {Human (Homo sapiens) [TaxId: 9606]}
+SALAEGQSCGVYTERCAQGLRCLPRQDEEKPLHALLHGRGVCLNE
+>gi|226731849|gb|ACO82021.1|(69-112:245) insulin-like growth factor binding protein 1 [Perca flavescens]   E=1e-05 s/c=1.20 id=56% cov=100%
+-ALEKGSSCGVHTAHCGVGLRCTPRPGEAMPLHALTRGHGVCTED
+>gi|47604926|ref|NP_001001294.1|(68-109:269) insulin-like growth factor-binding protein 1 precursor [Gallus gallus] >gi|46949391|gb|AAT07551.1| insulin-like growth factor binding protein 1 [Gallus gallus]  E=0.0001 s/c=1.17 id=56% cov=96%
+-ALGPGQPCGVYTTRCRHGLRCHVPSGETRPLSALIQGQGKCL--
+>gi|224045767|ref|XP_002192111.1|(52-87:262) PREDICTED: insulin-like growth factor binding protein 3 [Taeniopygia guttata]  E=0.0002 s/c=1.36 id=57% cov=82%
+--------CGIYTERCGAGLSCQPWREEARPLQALLEDRGLCNN-
+>gi|148708660|gb|EDL40607.1|(66-109:256) insulin-like growth factor binding protein 1, isoform CRA_a [Mus musculus]  E=0.0002 s/c=1.10 id=53% cov=100%
+-ALPMGAACGVATARCAQGLSCRALPGEPRPLHALTRGQGACVPE
+>gi|187608371|ref|NP_001119936.1|(56-99:265) insulin-like growth factor-binding protein 2-B precursor [Danio rerio]  E=0.001 s/c=1.06 id=49% cov=100%
+-ARQKGELCGVYTPRCGSGLRCYPSANSELPLEQLIQGLGRCENK
+>gi|224086462|ref|XP_002193960.1|(27-70:281) PREDICTED: insulin-like growth factor binding protein 4 [Taeniopygia guttata]  E=2e-11 s/c=1.63 id=49% cov=100%
+SELPRGTAYGVYTARCGAGLRCYPPRGEPRPLRTLMHGQGICTD-
+>gi|348041202|ref|NP_001154874.2|(67-109:212) insulin-like growth factor binding protein 6b precursor [Danio rerio]  E=8e-10 s/c=1.54 id=57% cov=98%
+TVLALGEPCGVYTLSCARGLRCIPPPREHSPLQALLQGRGFCA--
+>gi|403278610|ref|XP_003930890.1|(62-104:239) PREDICTED: insulin-like growth factor-binding protein 1 [Saimiri boliviensis boliviensis]  E=2e-09 s/c=1.51 id=52% cov=98%
+-ALTLGEPCGVKTARCARGLTCQPLPGERKPLRSLIFGKGVCIQ-
+>gi|395541513|ref|XP_003772687.1|(73-106:246) PREDICTED: insulin-like growth factor-binding protein 6 [Sarcophilus harrisii]  E=2e-06 s/c=1.62 id=53% cov=76%
+---REGEPCGVYTPNCGPGLQCHPPEEDETPLRALL---------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	603	1550	*	*	*	1
+       0	*	*	*	*	*	*	1832	0	0	
+
+A 2    160	*	*	5266	*	*	*	*	*	*	4873	*	*	*	*	*	5782	5239	*	*	2
+       0	*	*	*	*	*	*	2677	0	0	
+
+L 3    *	*	*	*	*	*	*	*	5523	377	*	*	5791	*	2394	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2693	0	0	
+
+A 4    2600	*	*	4103	*	3068	*	6389	4323	*	4637	*	2960	2602	2453	4798	4518	*	*	*	4
+       0	*	*	*	*	*	*	2712	0	0	
+
+E 5    4171	*	*	1040	6663	*	*	*	3339	2965	6951	6905	4544	4210	4024	6461	5630	6060	*	*	5
+       0	*	*	*	*	*	*	2738	0	0	
+
+G 6    *	*	4707	*	*	78	*	*	*	*	*	*	*	*	6154	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2742	0	0	
+
+Q 7    3201	*	4302	1486	*	6704	6530	*	*	7138	4849	7141	*	1475	*	5769	4788	*	*	*	7
+       0	*	*	*	*	*	*	2742	0	0	
+
+S 8    1845	*	6786	*	6617	*	5702	*	*	2997	*	5792	1830	3667	5808	2625	*	*	*	*	8
+       0	*	*	*	*	*	*	2742	0	0	
+
+C 9    *	29	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5647	9
+       0	*	*	*	*	*	*	2750	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2750	0	0	
+
+V 11   *	*	*	*	*	*	*	3709	*	*	*	*	*	*	*	*	*	115	*	*	11
+       0	*	*	*	*	*	*	2750	0	0	
+
+Y 12   4198	*	*	*	*	*	4795	*	6126	*	*	5583	*	*	*	*	5442	*	*	232	12
+       0	*	*	*	*	*	*	2750	0	0	
+
+T 13   6165	*	*	*	*	*	*	5415	*	*	*	5470	5583	*	*	5079	207	5442	*	*	13
+       0	*	*	*	*	*	*	2750	0	0	
+
+E 14   1687	*	*	2574	*	3593	*	*	*	4189	6505	*	1583	*	*	5555	5817	*	*	*	14
+       0	*	*	*	*	*	*	2750	0	0	
+
+R 15   *	*	*	*	6194	6683	4208	*	6354	*	*	3599	4342	*	524	4796	4770	*	*	6622	15
+       0	*	*	*	*	*	*	2750	0	0	
+
+C 16   *	32	*	*	*	*	*	*	*	*	*	*	*	*	5489	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2750	0	0	
+
+A 17   1306	*	*	*	*	1161	*	*	*	*	*	*	*	*	4940	3412	5524	*	*	*	17
+       0	*	*	*	*	*	*	2750	0	0	
+
+Q 18   2904	*	*	5478	*	7091	4340	*	4265	4815	*	6052	3237	2818	3613	1903	3703	6526	*	*	18
+       0	*	*	*	*	*	*	2750	0	0	
+
+G 19   5458	*	*	*	*	68	*	*	*	*	*	*	*	*	*	*	5415	*	*	*	19
+       0	*	*	*	*	*	*	2750	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	48	4943	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2750	0	0	
+
+R 21   *	*	*	*	*	*	*	6341	4910	*	*	6544	*	3376	614	2714	4594	*	*	*	21
+       0	*	*	*	*	*	*	2750	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2750	0	0	
+
+L 23   6620	*	*	*	*	*	3828	5674	*	2982	*	*	*	2039	3001	5299	3979	4394	*	1897	23
+       0	*	*	*	*	*	*	2750	0	0	
+
+P 24   3624	*	*	*	6341	*	4618	6074	*	*	*	*	291	6964	*	*	*	5272	*	*	24
+       0	*	*	*	*	*	*	2750	0	0	
+
+R 25   5767	*	4434	6564	*	*	5566	*	3801	3559	*	4497	1786	4076	2104	3738	5100	*	5877	*	25
+       0	*	*	*	*	*	*	2750	0	0	
+
+Q 26   3647	*	6620	3715	*	6864	*	4989	5226	7001	6810	5587	972	4242	3301	4972	4893	*	*	*	26
+       0	*	*	*	*	*	*	2750	0	0	
+
+D 27   6480	*	2787	3228	*	674	*	*	5299	*	*	5653	*	5781	5381	5442	*	*	*	*	27
+       0	*	*	*	*	*	*	2750	0	0	
+
+E 28   4020	*	2776	895	*	*	*	*	*	*	5470	*	*	6194	*	2646	6165	4482	*	*	28
+       0	*	*	*	*	*	*	2750	0	0	
+
+E 29   3961	*	5395	1316	*	*	4837	*	4812	5544	*	*	2447	4656	5378	3443	3821	6881	*	*	29
+       0	*	*	*	*	*	*	2750	0	0	
+
+K 30   3854	*	*	6194	5872	*	*	*	2559	2424	5266	5442	*	6830	1339	3963	5983	*	*	6480	30
+       0	*	*	*	*	*	*	2750	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2750	0	0	
+
+L 32   *	*	*	*	5799	*	*	*	*	51	*	*	5883	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2750	0	0	
+
+H 33   *	*	6045	4536	*	*	1558	*	5415	6434	*	*	*	1721	2320	4940	*	*	*	5016	33
+       0	*	*	*	*	*	*	2750	0	0	
+
+A 34   405	*	6045	5540	*	*	*	*	*	6694	*	*	*	3956	*	3834	3971	*	*	*	34
+       0	*	*	*	*	*	*	2750	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	25	5848	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2750	0	0	
+
+L 36   *	*	*	*	*	*	*	3286	*	1020	3783	*	*	*	*	*	2469	2728	*	*	36
+       0	*	*	*	*	*	*	2750	0	0	
+
+H 37   *	*	3589	3231	6122	*	2322	6333	5396	3585	5137	5906	*	2273	2376	*	5413	*	*	6877	37
+       0	*	*	*	*	*	*	2750	0	0	
+
+G 38   5468	*	5873	*	*	58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2750	0	0	
+
+R 39   4979	*	*	5030	6368	*	4359	*	5056	3356	*	*	*	1833	1237	5513	5487	*	*	*	39
+       0	*	*	*	*	*	*	2750	0	0	
+
+G 40   3160	*	*	*	*	171	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2750	0	0	
+
+V 41   4190	*	*	*	4168	*	6306	3465	5792	3181	*	*	*	6784	2997	4137	2826	1617	*	*	41
+       0	*	*	*	*	*	*	2736	0	0	
+
+C 42   *	32	*	*	5511	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2748	0	0	
+
+L 43   2829	*	*	5465	*	*	*	4090	*	2396	3356	5527	*	*	5097	3857	2159	2771	*	*	43
+       0	*	*	*	*	*	*	2820	0	0	
+
+N 44   *	*	2770	2192	*	*	*	*	5964	*	*	1194	4163	3664	5950	5028	*	*	*	*	44
+       0	*	*	*	*	*	*	2661	0	0	
+
+E 45   *	*	2053	722	*	*	*	*	2712	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	2315	0	0	
+
+//

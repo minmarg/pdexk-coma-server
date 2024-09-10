@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1jb0m_ f.23.19.1 (M:) Subunit XII of photosystem I reaction centre, PsaM {Synechococcus elongatus [TaxId: 32046]}
+FAM   f.23.19.1
+FILE  d1jb0m_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jb0m_.a3m -v 1 
+DATE  Mon Jan 21 22:00:05 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9751689999999999889999999876309
+>Consensus
+mxlsdtQvxvALxiALiPgilAfRLaTELYK
+>d1jb0m_ f.23.19.1 (M:) Subunit XII of photosystem I reaction centre, PsaM {Synechococcus elongatus [TaxId: 32046]}
+MALTDTQVYVALVIALLPAVLAFRLSTELYK
+>gi|427723690|ref|YP_007070967.1|(1-31:31) Photosystem I reaction center subunit XII [Leptolyngbya sp. PCC 7376] >gi|427355410|gb|AFY38133.1| Photosystem I reaction center subunit XII [Leptolyngbya sp. PCC 7376]  E=2e-05 s/c=1.68 id=72% cov=103%
+MGISETQVYVALLIALVPGILAFRLSTELYK
+>gi|218245714|ref|YP_002371085.1|(1-31:31) photosystem I reaction center subunit XII [Cyanothece sp. PCC 8801] >gi|257058759|ref|YP_003136647.1| photosystem I reaction center subunit XII [Cyanothece sp. PCC 8802] >gi|218166192|gb|ACK64929.1| photosystem I reaction center subunit XII [Cyanothece sp. PCC 8801] >gi|256588925|gb|ACU99811.1| photosystem I reaction center subunit XII [Cyanothece sp. PCC 8802]  E=4e-05 s/c=1.65 id=75% cov=103%
+MALSDTQIIVALIIALLPGFLAFRLATELYK
+>gi|411120265|ref|ZP_11392641.1|(1-31:31) photosystem I reaction center subunit XII [Oscillatoriales cyanobacterium JSC-12] >gi|410710421|gb|EKQ67932.1| photosystem I reaction center subunit XII [Oscillatoriales cyanobacterium JSC-12]  E=5e-05 s/c=1.64 id=72% cov=103%
+MNLSDAQIYWALVIALIPGILAFRLSTELYK
+>gi|428205181|ref|YP_007089534.1|(1-31:31) photosystem I reaction center subunit XII [Chroococcidiopsis thermalis PCC 7203] >gi|428007102|gb|AFY85665.1| photosystem I reaction center subunit XII [Chroococcidiopsis thermalis PCC 7203]  E=5e-05 s/c=1.64 id=72% cov=103%
+MNISDTQVFVALVVALLPGLLAFRLATELYK
+>gi|119485408|ref|ZP_01619736.1|(1-31:31) hypothetical protein L8106_09711 [Lyngbya sp. PCC 8106] >gi|119457164|gb|EAW38290.1| hypothetical protein L8106_09711 [Lyngbya sp. PCC 8106]  E=7e-05 s/c=1.63 id=72% cov=103%
+MSLSDTQVLVALVIALFPGIMAFRLATELYK
+>gi|282900390|ref|ZP_06308340.1|(13-43:43) hypothetical protein CRC_01758 [Cylindrospermopsis raciborskii CS-505] >gi|281194703|gb|EFA69650.1| hypothetical protein CRC_01758 [Cylindrospermopsis raciborskii CS-505]  E=0.0001 s/c=1.60 id=62% cov=103%
+MSISDTQVYIALAVALIPGILAWRLATELYK
+>gi|428778218|ref|YP_007170005.1|(1-31:31) photosystem I reaction center subunit XII [Halothece sp. PCC 7418] >gi|428692497|gb|AFZ45791.1| photosystem I reaction center subunit XII [Halothece sp. PCC 7418]  E=0.0002 s/c=1.58 id=69% cov=103%
+MPLSDTQILIALVVALVPGVLAFRLATELYK
+>gi|428020038|gb|AFY96132.1|(1-29:29) photosystem I reaction center subunit XII [Chamaesiphon minutus PCC 6605]  E=0.0002 s/c=1.67 id=70% cov=97%
+--MSDTQVFIALAIALIPGLLAFRLSTELYK
+>gi|428224118|ref|YP_007108215.1|(14-44:44) photosystem I reaction center subunit XII [Geitlerinema sp. PCC 7407] >gi|427984019|gb|AFY65163.1| photosystem I reaction center subunit XII [Geitlerinema sp. PCC 7407]  E=0.0006 s/c=1.53 id=66% cov=103%
+MALSDMQIYAALAIALVPGILAIRLATELYK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1499	0	0	
+
+A 2    1862	*	*	*	*	3033	*	*	*	*	*	3391	2687	*	*	1705	4463	*	*	*	2
+       0	*	*	*	*	*	*	1500	0	0	
+
+L 3    *	*	*	*	*	*	*	1750	*	686	4592	*	*	*	*	*	*	4660	*	*	3
+       0	*	*	*	*	*	*	1527	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	250	2653	*	*	*	4
+       0	*	*	*	*	*	*	1527	0	0	
+
+D 5    *	*	184	3063	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1527	0	0	
+
+T 6    4227	*	*	*	*	*	*	*	*	*	4145	*	*	*	*	*	168	*	*	*	6
+       0	*	*	*	*	*	*	1527	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1527	0	0	
+
+V 8    *	*	*	*	*	*	*	2030	*	*	*	*	*	*	*	*	*	405	*	*	8
+       0	*	*	*	*	*	*	1527	0	0	
+
+Y 9    *	*	*	*	2414	*	*	4240	*	1681	*	*	*	*	*	*	*	*	*	1160	9
+       0	*	*	*	*	*	*	1527	0	0	
+
+V 10   3291	*	*	*	*	*	*	1593	*	*	*	*	*	*	*	*	*	963	4227	*	10
+       0	*	*	*	*	*	*	1527	0	0	
+
+A 11   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1527	0	0	
+
+V 13   1669	*	*	*	*	*	*	4240	*	4448	*	*	*	*	*	*	*	769	*	*	13
+       0	*	*	*	*	*	*	1527	0	0	
+
+I 14   *	*	*	*	*	*	*	640	*	*	*	*	*	*	*	*	*	1481	*	*	14
+       0	*	*	*	*	*	*	1527	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 17   *	*	*	*	4448	*	*	918	*	2218	*	*	*	*	*	*	*	2252	*	*	17
+       0	*	*	*	*	*	*	1527	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1527	0	0	
+
+A 19   2589	*	*	*	*	262	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1527	0	0	
+
+V 20   *	*	*	*	3343	*	*	819	*	3129	*	*	*	*	*	*	*	2183	*	*	20
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	131	3523	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1527	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1527	0	0	
+
+F 23   *	*	*	*	382	*	*	4145	*	4656	*	*	*	*	*	*	*	*	2872	*	23
+       0	*	*	*	*	*	*	1527	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1527	0	0	
+
+S 26   860	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1154	*	*	*	*	26
+       0	*	*	*	*	*	*	1527	0	0	
+
+T 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	27
+       0	*	*	*	*	*	*	1527	0	0	
+
+E 28   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1527	0	0	
+
+L 29   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1527	0	0	
+
+Y 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	30
+       0	*	*	*	*	*	*	1527	0	0	
+
+K 31   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1527	0	0	
+
+//

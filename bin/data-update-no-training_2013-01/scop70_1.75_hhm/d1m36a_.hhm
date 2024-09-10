@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d1m36a_ g.37.1.2 (A:) Monocytic leukemia zinc finger protein Moz {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.2
+FILE  d1m36a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1m36a_.a3m -v 1 
+DATE  Mon Jan 21 23:27:54 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  101 out of 217 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.5 
+SEQ
+>ss_pred
+CCCCCEEEECCCCCCCCCCHHHHHHHHHHCCCC
+>ss_conf
+987984465142202138878999887525889
+>Consensus
+xaxlpxLyiCEfCLkYmksxxxxxRHxxkCxwf
+>d1m36a_ g.37.1.2 (A:) Monocytic leukemia zinc finger protein Moz {Human (Homo sapiens) [TaxId: 9606]}
+GSRLPKLYLCEFCLKYMKSRTILQQHMKKCGWF
+>gi|357627813|gb|EHJ77368.1|(522-553:769) hypothetical protein KGM_05695 [Danaus plexippus]   E=1e-07 s/c=1.84 id=39% cov=100%
+AARVPRLFVCEFCLSHHKCAAGANRHKAKCVW-
+>gi|328861537|gb|EGG10640.1|(202-232:460) hypothetical protein MELLADRAFT_51796 [Melampsora larici-populina 98AG31]  E=1e-05 s/c=1.70 id=35% cov=94%
+-AHIPILYICEFCLSFFGNESQIHRHRMKCN--
+>gi|196012708|ref|XP_002116216.1|(149-180:408) hypothetical protein TRIADDRAFT_50853 [Trichoplax adhaerens] >gi|190581171|gb|EDV21249.1| hypothetical protein TRIADDRAFT_50853 [Trichoplax adhaerens]  E=2e-05 s/c=1.62 id=36% cov=100%
+-TRANVIFICEFCLKYIGSPSAFARHRDKCKLY
+>gi|50309681|ref|XP_454852.1|(249-278:732) hypothetical protein [Kluyveromyces lactis NRRL Y-1140] >gi|49643987|emb|CAG99939.1| KLLA0E19911p [Kluyveromyces lactis]  E=2e-06 s/c=1.82 id=41% cov=82%
+------IYICDKCLKYMSSKYVYYRHQLKCDY-
+>gi|308807681|ref|XP_003081151.1|(179-206:438) Histone acetyltransferase (MYST family) (ISS) [Ostreococcus tauri] >gi|116059613|emb|CAL55320.1| Histone acetyltransferase (MYST family) (ISS) [Ostreococcus tauri]  E=0.0002 s/c=1.74 id=41% cov=88%
+--KCSKLYLCQYCFKYMRKAKTLMKHRDEC---
+>gi|300123342|emb|CBK24615.2|(49-79:299) unnamed protein product [Blastocystis hominis]   E=0.0004 s/c=1.53 id=45% cov=88%
+--QVPRLYICEYCLKYFKTAQDLDRHSEIC---
+>gi|195503565|ref|XP_002098703.1|(91-118:342) GE23789 [Drosophila yakuba] >gi|194184804|gb|EDW98415.1| GE23789 [Drosophila yakuba]  E=0.001 s/c=1.65 id=45% cov=88%
+--KVPIIYVCEFCLKYMYLRKSYSYHLFHC---
+>gi|388580883|gb|EIM21195.1|(451-483:808) hypothetical protein WALSEDRAFT_38994 [Wallemia sebi CBS 633.66]   E=7e-06 s/c=1.61 id=38% cov=97%
+-TNLPsgRMFICEWCLSYRKSEFQMSRHTLKCKY-
+>gi|167526880|ref|XP_001747773.1|(518-546:807) hypothetical protein [Monosiga brevicollis MX1] >gi|163773877|gb|EDQ87513.1| predicted protein [Monosiga brevicollis MX1]  E=0.0002 s/c=1.67 id=43% cov=91%
+-ATLSDIYLCEYCLRYFPAREQVGRHMDKC---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    471	*	*	*	*	1843	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1691	0	0	
+
+S 2    892	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1936	2325	*	*	*	2
+       0	*	*	*	*	*	*	3304	0	0	
+
+R 3    5874	*	*	6049	*	*	3374	*	1850	*	*	4006	*	2922	1767	4777	4269	*	*	5822	3
+       0	*	*	*	*	*	*	3647	0	0	
+
+L 4    4484	3623	*	*	*	*	*	4821	*	927	4349	4415	*	*	*	5982	5058	2546	*	*	4
+       0	*	*	*	*	*	*	3660	0	0	
+
+P 5    5537	*	3377	6133	*	4462	*	*	4467	*	*	3897	926	6078	*	2809	5232	*	*	*	5
+       72	4359	*	1000	1000	*	*	3645	1483	0	
+
+K 6    5729	3588	5919	6717	*	*	*	3736	1333	6556	4427	6056	*	*	2520	*	3962	3485	*	*	6
+       0	*	*	*	*	*	*	3616	0	0	
+
+L 7    *	*	*	*	*	*	*	2563	*	539	4191	*	*	*	*	*	*	3511	*	*	7
+       0	*	*	*	*	*	*	3664	0	0	
+
+Y 8    *	*	*	*	2575	*	3520	5770	*	*	*	5966	6276	*	*	*	*	*	3129	777	8
+       0	*	*	*	*	*	*	3664	0	0	
+
+L 9    *	*	*	*	4969	*	*	833	*	2067	5676	*	*	*	*	*	*	2891	*	6195	9
+       0	*	*	*	*	*	*	3664	0	0	
+
+C 10   *	50	4881	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3664	0	0	
+
+E 11   5596	*	4620	162	*	*	*	*	*	*	*	*	5238	5748	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3664	0	0	
+
+F 12   *	*	*	*	690	*	4505	*	6235	*	*	6407	*	*	5375	6452	6392	*	5073	2097	12
+       0	*	*	*	*	*	*	3664	0	0	
+
+C 13   *	36	*	*	*	*	*	*	*	*	*	*	*	*	*	5347	*	*	*	*	13
+       0	*	*	*	*	*	*	3664	0	0	
+
+L 14   *	*	*	*	4072	*	*	5981	*	187	4428	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3664	0	0	
+
+K 15   *	5727	6418	5608	*	5820	6497	*	611	6757	*	6201	*	5548	3807	2741	*	*	*	*	15
+       0	*	*	*	*	*	*	3664	0	0	
+
+Y 16   *	*	*	*	3378	*	5599	*	*	*	*	*	5608	*	*	*	*	*	*	213	16
+       0	*	*	*	*	*	*	3664	0	0	
+
+M 17   5185	5156	*	*	2824	5772	5599	5754	*	5849	1050	*	*	5328	5927	4757	4628	4181	*	3805	17
+       0	*	*	*	*	*	*	3664	0	0	
+
+K 18   5860	*	4594	6278	*	3871	*	*	1031	*	6534	5203	4386	6745	2645	3864	6740	5868	*	5607	18
+       0	*	*	*	*	*	*	3664	0	0	
+
+S 19   6572	3798	5315	5132	4536	6248	6761	*	3829	4432	*	3777	*	*	5050	1118	3456	*	*	5215	19
+       0	*	*	*	*	*	*	3664	0	0	
+
+R 20   3113	*	5056	2314	5747	4672	*	*	2842	4152	5513	5423	4005	3991	2540	4401	*	*	*	6657	20
+       0	*	*	*	*	*	*	3664	0	0	
+
+T 21   4157	*	6277	4487	2796	*	4797	6278	2308	5874	*	5557	*	5679	3024	3394	2892	5055	*	4292	21
+       0	*	*	*	*	*	*	3664	0	0	
+
+I 22   3895	3606	6317	4705	*	4268	*	3694	*	5570	3960	*	*	3363	6700	3398	1909	3090	*	*	22
+       0	*	*	*	*	*	*	3664	0	0	
+
+L 23   3833	6161	*	*	3061	*	*	4767	*	1304	4551	6318	*	*	5358	*	6248	5482	6255	2145	23
+       0	*	*	*	*	*	*	3664	0	0	
+
+Q 24   4747	*	5319	3110	6497	4461	5103	6618	2748	3663	5748	4537	*	2774	2947	3884	5341	4929	6278	5465	24
+       0	*	*	*	*	*	*	3664	0	0	
+
+Q 25   6550	*	*	*	6471	*	5603	*	3436	*	6255	*	*	6868	356	5596	*	*	*	4600	25
+       0	*	*	*	*	*	*	3664	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       19	6277	*	3322	152	*	*	3664	1000	0	
+
+M 27   5738	*	5991	6802	*	*	*	4916	2576	2648	2807	*	*	3422	1701	5380	5135	*	*	*	27
+       0	*	*	*	*	*	*	3664	0	0	
+
+K 28   3239	*	3778	3528	6479	4213	5238	5257	3396	2641	4178	*	*	4305	5770	3395	3148	5091	*	*	28
+       0	*	*	*	*	*	*	3664	0	0	
+
+K 29   *	6520	5289	4118	*	*	4636	5462	504	5553	*	6784	*	5245	4058	*	6467	*	*	6693	29
+       17	6442	*	0	*	*	*	3657	1246	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3657	0	0	
+
+G 31   5712	*	4707	4690	*	3582	*	*	3760	4006	*	2389	3150	4500	*	3601	3902	2693	*	4942	31
+       0	*	*	*	*	*	*	3486	0	0	
+
+W 32   *	*	*	*	*	*	*	*	*	2761	*	4901	*	*	*	*	5187	5373	765	2483	32
+       0	*	*	*	*	*	*	3393	0	0	
+
+F 33   *	*	*	*	245	*	*	*	*	3831	*	*	*	*	*	*	*	*	*	3542	33
+       0	*	*	0	*	*	*	2557	0	0	
+
+//

@@ -1,0 +1,110 @@
+HHsearch 1.5
+NAME  d1wjpa2 g.37.1.1 (A:43-66) Zinc finger protein 295, ZNF295 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1wjpa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wjpa2.a3m -v 1 
+DATE  Tue Jan 22 03:55:41 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHHHCCCCCC
+>ss_conf
+97885320003834322211025689
+>Consensus
+avcpycslrffspxlkxehexkcexx
+>d1wjpa2 g.37.1.1 (A:43-66) Zinc finger protein 295, ZNF295 {Human (Homo sapiens) [TaxId: 9606]}
+AVCPYCSLRFFSPELKQEHESKCEXX
+>gi|395518487|ref|XP_003763392.1|(736-759:1050) PREDICTED: zinc finger protein 295 [Sarcophilus harrisii]   E=0.0001 s/c=2.07 id=88% cov=92%
+-VCPYCSLRFFSPDLKHEHESKCE--
+>gi|344294737|ref|XP_003419072.1|(548-571:866) PREDICTED: zinc finger protein 295-like [Loxodonta africana]   E=0.0001 s/c=2.07 id=88% cov=92%
+-VCPYCSLRFFSPELKREHEGKCE--
+>gi|26327035|dbj|BAC27261.1|(578-601:894) unnamed protein product [Mus musculus]   E=0.0003 s/c=2.00 id=83% cov=92%
+-VCPYCSLRFFSPALKQEHEDRCE--
+>gi|224042541|ref|XP_002187202.1|(541-564:857) PREDICTED: zinc finger protein 295 isoform 2 [Taeniopygia guttata]   E=0.0005 s/c=1.97 id=88% cov=92%
+-VCPYCSLRFSSPELKHEHESKCE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+V 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	2
+       0	*	*	*	*	*	*	1191	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1191	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1191	0	0	
+
+Y 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	5
+       0	*	*	*	*	*	*	1191	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1191	0	0	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	7
+       0	*	*	*	*	*	*	1191	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1191	0	0	
+
+R 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1191	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1191	0	0	
+
+F 11   *	*	*	*	323	*	*	*	*	*	*	*	*	*	*	2318	*	*	*	*	11
+       0	*	*	*	*	*	*	1191	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	1191	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1191	0	0	
+
+E 14   2185	*	2366	771	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1191	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1191	0	0	
+
+K 16   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1191	0	0	
+
+Q 17   *	*	*	*	*	*	1342	*	*	*	*	*	*	1307	2313	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1191	0	0	
+
+E 18   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1191	0	0	
+
+H 19   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1191	0	0	
+
+E 20   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1191	0	0	
+
+S 21   *	*	2185	*	*	2313	*	*	*	*	*	*	*	*	*	789	*	*	*	*	21
+       0	*	*	*	*	*	*	1191	0	0	
+
+K 22   *	*	*	*	*	*	*	*	358	*	*	*	*	*	2185	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1191	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1191	0	0	
+
+E 24   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1191	0	0	
+
+X 25   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	25
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

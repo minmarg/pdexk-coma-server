@@ -1,0 +1,196 @@
+HHsearch 1.5
+NAME  d2k57a1 b.38.1.6 (A:2-53) Uncharacterized protein PSPPH2109 {Pseudomonas syringae [TaxId: 317]}
+FAM   b.38.1.6
+FILE  d2k57a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2k57a1.a3m -v 1 
+DATE  Tue Jan 22 07:45:04 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  102 out of 107 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.3 
+SEQ
+>ss_pred
+CCCCEEEEECCCEEEECCCCCCCCCCCCEEEEECCCCEEEECHHHCEEEECC
+>ss_conf
+9972477308938884897761177783889826996675521011055239
+>Consensus
+SSxxvittxDGxxixTxgkPxxdxxtGxyxyxdxxGkxxqInxdxVxxixEl
+>d2k57a1 b.38.1.6 (A:2-53) Uncharacterized protein PSPPH2109 {Pseudomonas syringae [TaxId: 317]}
+ASPTVITLNDGREIQAVDTPKYDEESGFYEFKQLDGKQTRINKDQVRTVKDL
+>gi|398867891|ref|ZP_10623331.1|(22-72:74) hypothetical protein PMI35_05269 [Pseudomonas sp. GM78] >gi|398235509|gb|EJN21332.1| hypothetical protein PMI35_05269 [Pseudomonas sp. GM78]  E=6e-12 s/c=1.45 id=35% cov=100%
+STPTVVTLQNGTQYLTKDMPKTKTKDGFFEFEDISGAKVRVRADEVTTIRQ-
+>gi|163800639|ref|ZP_02194540.1|(18-68:69) conserved domain protein [Vibrio sp. AND4] >gi|159176082|gb|EDP60876.1| conserved domain protein [Vibrio sp. AND4]  E=0.0004 s/c=0.94 id=33% cov=100%
+SSQYLMSTNEGKVITSHGKPDLNEDTGMYEYKDADGKEMSISKDQIVQIIE-
+>gi|171909882|ref|ZP_02925352.1|(22-73:73) hypothetical protein VspiD_01880 [Verrucomicrobium spinosum DSM 4136]  E=5e-12 s/c=1.42 id=34% cov=102%
+SSPYKITLRDGREYFTASRPEFNEKTGYYKFRSLNDRDALIRSDEILMMQEL
+>gi|242240411|ref|YP_002988592.1|(21-72:73) hypothetical protein Dd703_2995 [Dickeya dadantii Ech703] >gi|242132468|gb|ACS86770.1| protein of unknown function DUF903 [Dickeya dadantii Ech703]  E=1e-06 s/c=1.06 id=38% cov=102%
+ASNYVLTTQDGDAIIAEGKPSVDEETGMIAFTDVWGRQQQLNKDNVKQIERV
+>gi|242279759|ref|YP_002991888.1|(22-72:75) hypothetical protein Desal_2293 [Desulfovibrio salexigens DSM 2638] >gi|242122653|gb|ACS80349.1| protein of unknown function DUF903 [Desulfovibrio salexigens DSM 2638]  E=2e-06 s/c=1.09 id=31% cov=92%
+----TITKTDGSTAVSVGAPQYNKDSNTYTYENLGGQQTTIKREDVQQIEE-
+>gi|262044923|ref|ZP_06017965.1|(30-82:84) conserved hypothetical protein [Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884] >gi|259037650|gb|EEW38879.1| conserved hypothetical protein [Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884]  E=7e-08 s/c=1.13 id=30% cov=102%
+SSNQSIKTTDGKTIVTSGKPQVDDDTGLVSYKNAEtGRVEQINRDQVKSMDEL
+>gi|322833437|ref|YP_004213464.1|(20-69:71) hypothetical protein Rahaq_2734 [Rahnella sp. Y9602] >gi|384258571|ref|YP_005402505.1| hypothetical protein Q7S_13615 [Rahnella aquatilis HX2] >gi|321168638|gb|ADW74337.1| protein of unknown function DUF903 [Rahnella sp. Y9602] >gi|380754547|gb|AFE58938.1| hypothetical protein Q7S_13615 [Rahnella aquatilis HX2]  E=1e-07 s/c=1.18 id=22% cov=96%
+ASDYVINTKSGDQFFAHGEPDRDRNTGMTSYTDMNGDYHLMNTNDIAGI---
+>gi|332285617|ref|YP_004417528.1|(22-72:73) lipoprotein [Pusillimonas sp. T7-7] >gi|330429570|gb|AEC20904.1| lipoprotein [Pusillimonas sp. T7-7]  E=1e-06 s/c=1.09 id=31% cov=100%
+STPTEITTKDGQTTMTADEPEINEDKGFVTYEK-DGKEVQTNTSEVQKIEEV
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    1991	*	*	*	*	*	*	*	*	*	*	*	*	*	*	418	*	*	*	*	1
+       0	*	*	*	*	*	*	4146	0	0	
+
+S 2    *	*	4279	*	*	*	*	*	*	*	*	5524	*	*	*	582	1951	*	*	*	2
+       0	*	*	*	*	*	*	4146	0	0	
+
+P 3    *	*	2590	3966	*	*	4613	*	4279	*	*	2611	1276	3732	*	6110	6475	*	*	*	3
+       0	*	*	*	*	*	*	4146	0	0	
+
+T 4    4279	*	*	*	*	*	5031	*	*	*	*	*	*	3163	*	2493	2203	*	*	1281	4
+       0	*	*	*	*	*	*	4146	0	0	
+
+V 5    5142	*	*	4637	*	*	*	3705	4408	3895	*	*	*	5016	*	4837	4840	645	*	*	5
+       0	*	*	*	*	*	*	4130	0	0	
+
+I 6    *	*	*	*	*	*	*	910	*	4197	2410	*	*	*	*	*	*	2151	*	*	6
+       0	*	*	*	*	*	*	4282	0	0	
+
+T 7    3435	*	*	4576	*	*	3994	*	4022	*	4864	5321	*	3785	*	2748	1263	4513	*	*	7
+       0	*	*	*	*	*	*	4286	0	0	
+
+L 8    *	*	*	*	*	*	*	*	4395	1423	5395	*	*	5471	*	*	907	*	*	*	8
+       0	*	*	*	*	*	*	4286	0	0	
+
+N 9    6014	*	6705	*	*	*	6163	*	2053	*	*	1694	*	2498	4021	5113	2963	6049	*	*	9
+       0	*	*	*	*	*	*	4325	0	0	
+
+D 10   *	*	493	4524	*	*	5691	*	*	*	*	2582	*	*	*	4064	*	*	*	*	10
+       0	*	*	*	*	*	*	4325	0	0	
+
+G 11   5628	*	5766	*	*	57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	4325	0	0	
+
+R 12   *	*	4525	4948	*	*	4269	*	3827	*	*	5851	*	2748	1520	3158	2516	*	*	*	12
+       0	*	*	*	*	*	*	4325	0	0	
+
+E 13   6426	*	*	2290	*	*	*	5414	*	4893	2177	*	*	2336	*	5466	1877	6298	*	*	13
+       0	*	*	*	*	*	*	4322	0	0	
+
+I 14   5312	*	*	5691	4343	*	*	941	*	3703	6704	*	*	*	*	*	5090	3885	*	2310	14
+       0	*	*	*	*	*	*	4325	0	0	
+
+Q 15   *	*	5651	*	4141	*	*	2929	*	2228	4596	*	5402	2987	*	*	3040	1911	*	*	15
+       0	*	*	*	*	*	*	4325	0	0	
+
+A 16   2821	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2602	634	4338	*	*	16
+       0	*	*	*	*	*	*	4325	0	0	
+
+V 17   4315	*	2267	3607	*	*	3385	6216	2590	4722	*	6071	4125	3329	5899	6864	4662	3551	*	5323	17
+       0	*	*	*	*	*	*	4325	0	0	
+
+D 18   6629	*	1253	*	*	996	*	*	*	*	*	6014	*	*	*	4224	*	*	*	*	18
+       0	*	*	*	*	*	*	4325	0	0	
+
+T 19   4009	*	*	3311	*	*	4876	6904	879	*	3829	5421	*	5811	4102	6975	3931	7044	*	*	19
+       0	*	*	*	*	*	*	4325	0	0	
+
+P 20   4876	*	*	*	*	*	*	5651	*	*	*	*	80	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	4325	0	0	
+
+K 21   5294	*	2980	2561	*	*	5691	*	1719	*	*	4840	*	3042	5853	3978	5226	3612	*	6700	21
+       62	*	4568	*	*	*	*	4325	0	0	
+
+Y 22   5298	*	*	4585	3210	*	*	3376	4591	2835	*	*	*	*	4897	*	2820	2679	*	2213	22
+       0	*	*	*	*	0	*	4204	0	1415	
+
+D 23   *	*	550	5294	*	*	*	*	3218	*	*	2756	*	6858	6998	*	6486	*	*	6915	23
+       0	*	*	*	*	*	*	4325	0	0	
+
+E 24   4066	*	3587	2456	*	6486	*	*	1742	*	*	3601	6368	5928	4439	3511	3373	5421	*	*	24
+       0	*	*	*	*	*	*	4325	0	0	
+
+E 25   2931	*	1444	2607	*	*	*	*	2922	*	*	5359	6854	5847	5583	3506	6400	*	*	4876	25
+       0	*	*	*	*	*	*	4325	0	0	
+
+S 26   5369	*	2891	6467	*	*	4876	*	5801	*	*	6270	*	*	*	2432	787	*	*	*	26
+       0	*	*	*	*	*	*	4325	0	0	
+
+G 27   *	*	4123	*	*	124	*	*	*	*	*	5312	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	4325	0	0	
+
+F 28   *	*	*	*	1557	*	*	*	*	1946	1817	*	*	*	*	*	4349	*	*	3884	28
+       0	*	*	*	*	*	*	4322	0	0	
+
+Y 29   *	*	*	*	6067	*	*	2314	*	3274	*	*	*	*	*	*	3907	3107	*	1006	29
+       0	*	*	*	*	*	*	4325	0	0	
+
+E 30   3920	*	*	1327	*	4990	*	6049	4201	6400	6021	*	*	5152	4374	1933	3857	*	*	*	30
+       0	*	*	*	*	*	*	4325	0	0	
+
+F 31   *	*	5929	*	1349	*	*	6644	*	*	*	*	*	*	*	*	*	*	*	783	31
+       0	*	*	*	*	*	*	4325	0	0	
+
+K 32   *	*	5659	1616	*	*	*	5998	2186	5929	*	*	*	5140	4011	*	1984	5144	*	5029	32
+       0	*	*	*	*	*	*	4325	0	0	
+
+Q 33   6688	*	596	*	*	5929	*	*	4404	*	*	3954	*	2571	*	4952	*	*	*	*	33
+       95	6949	4176	0	*	*	*	4325	1000	0	
+
+L 34   2085	*	*	3013	*	*	*	2691	6130	2090	5250	*	5885	4139	*	5290	4534	3885	*	*	34
+       29	5657	*	0	*	0	*	4301	1000	1607	
+
+D 35   3518	*	1633	3453	*	5312	*	*	5804	*	*	2473	*	4120	5929	2906	5240	*	5569	5589	35
+       71	4386	*	0	*	*	*	4325	1553	0	
+
+G 36   *	*	4952	*	*	47	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	4325	0	0	
+
+K 37   4415	*	5359	*	*	*	4211	*	1281	*	*	2919	*	4077	2847	6498	4304	3816	*	*	37
+       0	*	*	*	*	*	*	4325	0	0	
+
+Q 38   *	*	4648	2561	7136	*	3868	5327	2364	*	6403	6644	4806	3041	3573	6682	2722	4407	*	5359	38
+       0	*	*	*	*	*	*	4325	0	0	
+
+T 39   4417	*	*	4079	*	6024	3088	3303	5448	6817	4520	*	*	2102	4115	*	3398	2330	*	*	39
+       0	*	*	*	*	*	*	4325	0	0	
+
+R 40   5123	*	*	5442	*	*	*	*	3877	3437	4613	*	*	1191	2246	5386	3752	*	*	*	40
+       0	*	*	*	*	*	*	4322	0	0	
+
+I 41   *	*	*	*	*	*	*	638	*	3577	4586	*	*	*	*	*	5801	2223	*	*	41
+       0	*	*	*	*	*	*	4325	0	0	
+
+N 42   *	*	*	5421	*	*	5047	*	2867	*	*	756	5323	5009	2976	4869	*	*	*	*	42
+       0	*	*	*	*	*	*	4325	0	0	
+
+K 43   2963	*	*	*	*	5202	*	*	1596	*	*	4971	*	2974	2477	3660	3563	6456	*	*	43
+       0	*	*	*	*	*	*	4311	0	0	
+
+D 44   4403	*	807	3803	*	6487	6393	*	6836	*	*	3546	*	4649	6659	3160	5042	*	*	*	44
+       0	*	*	*	*	*	*	4311	0	0	
+
+Q 45   *	*	1562	2055	*	*	*	*	5752	*	*	3684	*	1774	*	6357	*	5669	*	*	45
+       0	*	*	*	*	*	*	4311	0	0	
+
+V 46   *	*	*	*	*	*	*	1902	*	5378	*	*	*	*	*	*	*	497	*	*	46
+       0	*	*	*	*	*	*	4311	0	0	
+
+R 47   2417	*	*	*	*	*	*	*	1831	4233	*	6657	*	3823	2351	3047	4134	5382	*	*	47
+       0	*	*	*	*	*	*	4297	0	0	
+
+T 48   5438	*	6550	2972	*	5336	*	*	4729	5535	5003	4227	*	2234	5967	3759	1621	*	*	4553	48
+       0	*	*	*	*	*	*	4257	0	0	
+
+V 49   *	*	*	*	*	*	*	1099	*	5849	2158	*	*	*	*	*	*	1777	*	*	49
+       0	*	*	*	*	*	*	4257	0	0	
+
+K 50   6608	*	6494	3345	*	*	*	2713	2140	6334	4757	4649	*	4606	3123	2898	4739	3570	*	*	50
+       0	*	*	*	*	*	*	4189	0	0	
+
+D 51   *	*	3179	406	*	*	*	*	*	*	*	*	*	3994	5765	4707	6034	*	*	*	51
+       0	*	*	*	*	*	*	4124	0	0	
+
+L 52   *	*	*	*	*	*	*	3056	*	588	5168	*	*	*	*	*	*	2421	*	*	52
+       0	*	*	0	*	*	*	3373	0	0	
+
+//

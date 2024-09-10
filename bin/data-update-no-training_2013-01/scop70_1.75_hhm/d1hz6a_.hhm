@@ -1,0 +1,241 @@
+HHsearch 1.5
+NAME  d1hz6a_ d.15.7.1 (A:) Immunoglobulin light chain-binding domain of protein L {Peptostreptococcus magnus [TaxId: 1260]}
+FAM   d.15.7.1
+FILE  d1hz6a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1hz6a_.a3m -v 1 
+DATE  Mon Jan 21 21:54:50 2013
+LENG  67 match states, 67 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCHHEEEEEEEEEEECCCEEEEEECCCHHHHHHHHHHHHHHHHHCCCCEEEEECCCCEEEEEEECC
+>ss_conf
+9520206777788860793311220210566678888888765313784788731792489988629
+>Consensus
+hxxxeeVTIKxNlifadGxxQtAeFKGTfeeAtaeayxYAdxlxKxnGexTxDxxdggxtxNIkFAG
+>d1hz6a_ d.15.7.1 (A:) Immunoglobulin light chain-binding domain of protein L {Peptostreptococcus magnus [TaxId: 1260]}
+HHAMEEVTIKANLIFANGSTQTAEFKGTFEKATSEAYAYADTLKKDNGEWTVDVADKGYTLNIKFAG
+>gi|18655716|pdb|1KH0|A(1-65:65) Chain A, Accurate Computer Base Design Of A New Backbone Conformation In The Second Turn Of Protein L >gi|18655717|pdb|1KH0|B Chain B, Accurate Computer Base Design Of A New Backbone Conformation In The Second Turn Of Protein L  E=3e-19 s/c=1.51 id=81% cov=96%
+----EEVTIKANLIFANGSTQTAEFKGTKEKALSEVLAYADTLKKDNGEWTIDkrVTNGVIILNIKFAG
+>gi|150674|gb|AAA67503.1|(257-317:992) protein L [Finegoldia magna] >gi|745058|prf||2015385A protein L   E=2e-17 s/c=1.52 id=85% cov=93%
+------VTIKANLIFADGSTQNAEFKGTFAKAVSDAYAYADALKKDNGEYTVDVADKGLTLNIKFAG
+>gi|150674|gb|AAA67503.1|(403-463:992) protein L [Finegoldia magna] >gi|745058|prf||2015385A protein L   E=1e-15 s/c=1.41 id=69% cov=93%
+------VTIKVNLIFADGKIQTAEFKGTFEEATAKAYAYANLLAKENGEYTADLEDGGNTINIKFAG
+>gi|297588180|ref|ZP_06946824.1|(337-397:727) probable protein L precursor [Finegoldia magna ATCC 53516] >gi|297574869|gb|EFH93589.1| probable protein L precursor [Finegoldia magna ATCC 53516]  E=2e-19 s/c=1.62 id=69% cov=93%
+------VTIKANLIYADGKTQTAEFKGTFAEATAEAYRYADLLAKENGKYTADLEDGGYTINIRFAG
+>gi|150674|gb|AAA67503.1|(477-537:992) protein L [Finegoldia magna] >gi|745058|prf||2015385A protein L   E=2e-18 s/c=1.57 id=74% cov=93%
+------VTIKVNLIFADGKTQTAEFKGTFEEATAEAYRYADLLAKVNGEYTADLEDGGYTINIKFAG
+>gi|322065|pir||A45063(113-173:455) immunoglobulin-binding protein LG - Peptostreptococcus magnus >gi|261706|gb|AAA03280.1| protein LG [Finegoldia magna]  E=1e-16 s/c=1.47 id=85% cov=93%
+------VTIKANLIYADGKTQTAEFKGTFEEATAEAYRYADALKKDNGEYTVDVADKGYTLNIKFAG
+>gi|67463678|pdb|1XCQ|L(19-79:80) Chain L, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a,L57h,Y64w) In Space Group P21 >gi|67463682|pdb|1XCQ|M Chain M, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a,L57h,Y64w) In Space Group P21 >gi|67463685|pdb|1XCQ|N Chain N, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a,L57h,Y64w) In Space Group P21 >gi|67463689|pdb|1XCQ|O Chain O, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a,L57h,Y64w) In Space Group P21 >gi|67463694|pdb|1XCT|L Chain L, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a, L57h, Y64w) In Space Group P21212 >gi|67463697|pdb|1XCT|M Chain M, Complex Hcv Core-Fab 19d9d6-Protein L Mutant (D55a, L57h, Y64w) In Space Group P21212  E=1e-16 s/c=1.47 id=68% cov=93%
+------VTIKVNLIFADGKIQTAEFKGTFEEATAEAYRYAALHAKVNGEWTADLEDGGNHMNIKFAG
+>gi|297588180|ref|ZP_06946824.1|(405-470:727) probable protein L precursor [Finegoldia magna ATCC 53516] >gi|297574869|gb|EFH93589.1| probable protein L precursor [Finegoldia magna ATCC 53516]  E=7e-13 s/c=1.08 id=57% cov=100%
+-EEKEQVTIKENIYFEDGTVQTATFKGTFAEATAEAYRYADLLSKEHGKYTADLEDGGYTINIRFAG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+H 2    *	*	*	1000	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1342	0	0	
+
+A 3    1000	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1342	0	0	
+
+M 4    *	*	*	*	*	*	*	*	1000	*	1000	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1342	0	0	
+
+E 5    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1428	0	0	
+
+E 6    *	*	*	689	*	*	*	*	*	*	*	*	*	1397	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1428	0	0	
+
+V 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	7
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	8
+       0	*	*	*	*	*	*	1497	0	0	
+
+I 9    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 11   850	*	*	2774	*	*	*	*	*	*	*	*	*	*	*	*	*	1742	*	*	11
+       0	*	*	*	*	*	*	1497	0	0	
+
+N 12   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1497	0	0	
+
+L 13   *	*	*	*	*	*	*	2774	*	228	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1497	0	0	
+
+I 14   *	*	*	*	*	*	*	228	*	*	*	*	*	*	*	*	*	*	*	2774	14
+       0	*	*	*	*	*	*	1497	0	0	
+
+F 15   *	*	*	*	302	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2405	15
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 16   228	*	*	2774	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1497	0	0	
+
+N 17   *	*	417	*	*	*	*	*	*	*	*	1995	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1497	0	0	
+
+G 18   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1497	0	0	
+
+S 19   *	*	*	*	*	*	*	*	1036	*	*	*	*	*	*	1450	2774	*	*	*	19
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 20   *	*	*	*	*	*	*	2241	*	*	*	*	*	*	*	*	639	2774	*	*	20
+       0	*	*	*	*	*	*	1497	0	0	
+
+Q 21   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 22   *	*	*	*	*	*	*	*	*	*	*	3118	*	*	*	*	176	*	*	*	22
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 23   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1497	0	0	
+
+E 24   *	*	*	228	*	*	*	*	*	*	*	*	*	*	*	*	2774	*	*	*	24
+       0	*	*	*	*	*	*	1497	0	0	
+
+F 25   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 26   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1497	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	28
+       0	*	*	*	*	*	*	1497	0	0	
+
+F 29   *	*	*	*	239	*	*	*	2711	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1497	0	0	
+
+E 30   1485	*	*	637	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 31   *	*	*	658	*	*	*	*	1450	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 32   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	2711	*	*	*	*	*	*	450	3118	*	*	33
+       0	*	*	*	*	*	*	1497	0	0	
+
+S 34   658	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1450	*	*	*	*	34
+       0	*	*	*	*	*	*	1497	0	0	
+
+E 35   *	*	3118	348	*	*	*	*	3333	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 36   239	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2711	*	*	36
+       0	*	*	*	*	*	*	1497	0	0	
+
+Y 37   *	*	*	*	*	*	*	*	*	2711	*	*	*	*	*	*	*	*	*	239	37
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 38   1104	*	*	*	*	*	*	*	*	*	*	*	*	*	903	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1497	0	0	
+
+Y 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	39
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 40   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1497	0	0	
+
+D 41   3154	*	343	*	*	*	*	*	*	*	*	3333	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 42   2264	*	*	*	*	*	*	*	*	887	*	*	*	*	*	*	1995	*	*	*	42
+       0	*	*	*	*	*	*	1497	0	0	
+
+L 43   *	*	*	*	*	*	3154	*	*	172	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 44   1341	*	*	*	*	*	*	*	1123	*	*	*	*	*	*	2774	*	*	*	*	44
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 45   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1497	0	0	
+
+D 46   *	*	1123	1551	*	*	*	*	*	*	*	*	*	*	*	*	*	2324	*	*	46
+       0	*	*	*	*	*	*	1497	0	0	
+
+N 47   *	*	*	*	*	*	2774	*	*	*	*	228	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1497	0	0	
+
+G 48   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1497	0	0	
+
+E 49   *	*	*	400	*	*	*	*	2047	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1497	0	0	
+
+W 50   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1461	651	50
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	51
+       0	*	*	*	*	*	*	1497	0	0	
+
+V 52   887	*	*	*	*	*	*	2711	*	*	*	*	*	*	*	*	*	1706	*	*	52
+       0	*	*	*	*	*	*	1497	0	0	
+
+D 53   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       239	2711	*	1000	1000	*	*	1497	1000	0	
+
+V 54   *	*	*	*	*	*	*	*	*	887	*	*	*	*	*	*	*	1123	*	*	54
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 55   1706	*	*	887	*	*	*	*	*	*	*	*	*	*	*	*	2711	*	*	*	55
+       0	*	*	*	*	*	*	1497	0	0	
+
+D 56   *	*	239	*	*	*	*	*	*	*	*	2711	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 57   *	*	*	*	*	528	*	*	1706	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	1497	0	0	
+
+G 58   *	*	*	*	*	239	*	*	*	*	*	*	*	*	*	*	*	2711	*	*	58
+       0	*	*	*	*	*	*	1497	0	0	
+
+Y 59   *	*	*	*	*	*	*	2711	*	3118	*	2241	*	*	*	*	*	*	*	942	59
+       0	*	*	*	*	*	*	1497	0	0	
+
+T 60   *	*	*	*	*	*	3154	2711	*	*	*	*	*	*	*	*	444	*	*	*	60
+       0	*	*	*	*	*	*	1497	0	0	
+
+L 61   *	*	*	*	*	*	*	1223	*	1123	3154	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1497	0	0	
+
+N 62   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	1497	0	0	
+
+I 63   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	1497	0	0	
+
+K 64   *	*	*	*	*	*	*	*	400	*	*	*	*	*	2047	*	*	*	*	*	64
+       0	*	*	*	*	*	*	1497	0	0	
+
+F 65   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	1497	0	0	
+
+A 66   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	1497	0	0	
+
+G 67   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	0	*	*	*	1497	0	0	
+
+//

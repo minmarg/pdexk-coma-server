@@ -1,0 +1,40 @@
+<html t:type="layout" title="Administrator"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+        <t:form t:id="loginForm">
+            <t:errors/>
+
+            <div class="header">
+                  Administrator login page
+            </div>
+
+            <table>  
+                <tr>
+                    <td class="left">
+                        Username 
+                    </td>
+                    <td class="right">
+                        <t:textfield t:id="username" t:value="username" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="left">
+                        Password 
+                    </td>
+                    <td class="right">
+                        <t:passwordfield t:id="password" t:value="password" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                   <td class="left">
+                   </td>
+                   <td class="right">
+                        <input type="submit" t:type="submit" t:id="loginButton" id="loginButton" value="Login"/>
+                   </td>
+                </tr> 
+            </table>
+            
+        </t:form>
+
+</html>

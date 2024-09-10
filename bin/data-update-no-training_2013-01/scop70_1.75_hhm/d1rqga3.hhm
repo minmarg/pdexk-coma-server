@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d1rqga3 g.41.1.1 (A:139-173) Methionyl-tRNA synthetase (MetRS), Zn-domain {Pyrococcus abyssi [TaxId: 29292]}
+FAM   g.41.1.1
+FILE  d1rqga3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rqga3.a3m -v 1 
+DATE  Tue Jan 22 02:02:30 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  121 out of 536 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCHHCCCCCCC
+>ss_conf
+91038877988876554020787149420248899
+>Consensus
+VxGxCPxCxxxxaxGDqCdxCGxxxxpxeLixPxC
+>d1rqga3 g.41.1.1 (A:139-173) Methionyl-tRNA synthetase (MetRS), Zn-domain {Pyrococcus abyssi [TaxId: 29292]}
+VIGTCPYCGAEDQKGDQCEVCGRPLTPEILINPRC
+>gi|259907081|ref|YP_002647437.1|(252-284:658) methionine-tRNA ligase [Erwinia pyrifoliae Ep1/96] >gi|387869799|ref|YP_005801169.1| protein metG [Erwinia pyrifoliae DSM 12163] >gi|224962703|emb|CAX54158.1| Putative Methionine-tRNA ligase [Erwinia pyrifoliae Ep1/96] >gi|283476882|emb|CAY72733.1| metG [Erwinia pyrifoliae DSM 12163]  E=0.0003 s/c=1.45 id=45% cov=94%
+IKGVCPHCHSASD-GNACEQCGRPNDCADLINP--
+>gi|327277846|ref|XP_003223674.1|(408-442:908) PREDICTED: LOW QUALITY PROTEIN: methionyl-tRNA synthetase, cytoplasmic-like [Anolis carolinensis]  E=5e-13 s/c=2.21 id=44% cov=103%
+VEGTCPFCNYEEARGDQCDKCGKLINATELKKPVC
+>gi|426403701|ref|YP_007022672.1|(141-175:688) methionyl-tRNA synthetase [Bdellovibrio bacteriovorus str. Tiberius] >gi|425860369|gb|AFY01405.1| methionyl-tRNA synthetase [Bdellovibrio bacteriovorus str. Tiberius]  E=1e-10 s/c=1.97 id=44% cov=103%
+VKGTCPKCGAKEQYGDSCDVCASTYSPSDMKDVHC
+>gi|387594327|gb|EIJ89351.1|(139-173:543) methionyl-tRNA synthetase [Nematocida parisii ERTm3] >gi|387596829|gb|EIJ94450.1| methionyl-tRNA synthetase [Nematocida parisii ERTm1]  E=1e-07 s/c=1.69 id=39% cov=103%
+INGTCGICGSDSARGDQCDGCSAILAIDEIISPYC
+>gi|111025437|ref|YP_707857.1|(140-174:491) methionine--tRNA ligase [Rhodococcus jostii RHA1] >gi|110824416|gb|ABG99699.1| methionine--tRNA ligase [Rhodococcus jostii RHA1]  E=1e-07 s/c=1.68 id=39% cov=103%
+VAGRCPRCGSSDAYGIDCEQCGLYHDDAELLDAVC
+>gi|429765072|ref|ZP_19297377.1|(137-170:542) methionine--tRNA ligase [Clostridium celatum DSM 1785] >gi|429187017|gb|EKY27939.1| methionine--tRNA ligase [Clostridium celatum DSM 1785]  E=5e-05 s/c=1.49 id=37% cov=100%
+IVGKCPKCQ-EEATGDGCENCHEEFEVNELIDIKC
+>gi|339445487|ref|YP_004711491.1|(164-198:676) methionyl-tRNA synthetase [Eggerthella sp. YY7918] >gi|338905239|dbj|BAK45090.1| methionyl-tRNA synthetase [Eggerthella sp. YY7918]  E=2e-05 s/c=1.47 id=41% cov=97%
+VQGRCPVqgCKSEHGYADECDL-GHSYAPEDLIAPK-
+>gi|386848545|ref|YP_006266558.1|(139-171:512) methionyl-tRNA synthetase [Actinoplanes sp. SE50/110] >gi|359836049|gb|AEV84490.1| methionyl-tRNA synthetase [Actinoplanes sp. SE50/110]  E=5e-05 s/c=1.52 id=44% cov=97%
+VRGSCPVCLADGCAG-LCESCGTWVASGDLIDPR-
+>gi|116515014|ref|YP_802643.1|(142-174:547) hypothetical protein BCc_072 [Buchnera aphidicola BCc] >gi|116256868|gb|ABJ90550.1| methionyl-tRNA synthetase [Buchnera aphidicola BCc]  E=4e-10 s/c=2.05 id=38% cov=97%
+IKGICPKCKSNNQYGDNCDYCGAFYNAIELLNP--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	1617	*	*	*	*	*	*	*	*	*	569	*	*	1
+       0	*	*	*	*	*	*	3857	0	0	
+
+I 2    4164	*	7285	1580	*	*	*	4352	2436	*	*	4383	*	4607	3516	4457	4419	3310	*	*	2
+       0	*	*	*	*	*	*	3857	0	0	
+
+G 3    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3893	0	0	
+
+T 4    4759	*	6373	3622	*	6132	*	3091	3125	*	*	5188	*	5720	4374	6417	1121	4120	*	*	4
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3893	0	0	
+
+P 6    5856	*	*	*	*	6168	*	*	5795	*	*	*	161	*	*	5717	*	*	*	4729	6
+       0	*	*	*	*	*	*	3893	0	0	
+
+Y 7    6519	5534	5802	4604	3987	*	2751	3739	2069	4147	*	3901	*	5706	4462	5319	7213	3445	*	3793	7
+       73	4338	*	1000	1000	*	*	3893	1901	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       30	*	5617	*	*	*	*	3899	0	0	
+
+G 9    5544	*	4466	5950	6181	1084	4057	*	2879	3856	*	4564	*	4986	5674	3985	6649	*	*	*	9
+       80	*	4206	*	*	0	*	3903	0	1651	
+
+A 10   2495	*	5226	*	3465	4825	6170	*	4965	*	6641	3394	*	*	*	1799	4638	5444	*	2569	10
+       41	*	5166	*	*	0	*	3822	0	2179	
+
+E 11   3985	*	3171	1649	*	5216	7070	*	2849	5492	*	5876	3140	6006	*	4301	3873	5229	*	5645	11
+       87	*	4102	*	*	0	*	3886	0	1551	
+
+D 12   5386	*	1750	3071	*	3509	3973	4751	3876	5522	5490	3415	*	5508	4683	3408	*	6624	*	*	12
+       32	*	5497	*	*	0	*	3884	0	1990	
+
+Q 13   775	4756	6335	5433	*	4568	*	*	*	*	*	*	*	2159	*	5223	5646	5048	*	*	13
+       95	*	3974	*	*	0	*	3885	0	1522	
+
+K 14   4880	*	5261	*	6166	*	4695	*	5398	*	*	5714	*	*	1132	5183	5455	6691	*	1606	14
+       0	*	*	*	*	0	*	3841	0	1892	
+
+G 15   4255	*	*	*	*	172	*	*	*	*	*	*	*	*	*	4053	*	*	*	*	15
+       17	*	6422	*	*	*	*	3899	0	0	
+
+D 16   *	*	216	*	*	5203	*	4749	*	*	*	4245	*	*	*	*	*	*	*	5513	16
+       0	*	*	*	*	0	*	3887	0	1000	
+
+Q 17   4518	*	5969	3036	6109	5025	4369	*	*	4297	*	3480	*	992	*	3932	*	6850	*	7052	17
+       0	*	*	*	*	*	*	3899	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3899	0	0	
+
+E 19   6851	*	1157	1163	*	5635	*	*	*	*	*	5059	5269	6773	*	*	6514	*	*	*	19
+       21	6141	*	0	*	*	*	3899	1172	0	
+
+V 20   3511	7176	6179	4998	6588	2929	5331	4541	2856	4900	*	2875	*	3964	4660	3109	5264	3512	*	6705	20
+       62	6386	5052	0	*	*	*	3899	1152	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	0	*	3884	0	1433	
+
+G 22   4336	7007	6323	*	*	405	6250	*	*	6621	*	6109	*	6052	6661	3284	6744	*	*	*	22
+       0	*	*	*	*	*	*	3899	0	0	
+
+R 23   2493	5858	*	4473	*	7191	3215	5463	3263	4238	5535	6086	*	4445	2708	3097	3574	5869	6323	*	23
+       0	*	*	*	*	*	*	3899	0	0	
+
+P 24   5899	*	7166	4849	5007	*	4565	3185	*	2540	6034	5022	3175	4715	*	3583	2459	3548	5773	5485	24
+       25	*	5862	*	*	*	*	3899	0	0	
+
+L 25   *	*	*	*	3805	*	5098	3721	*	1386	6516	3651	*	*	*	*	*	4161	*	1764	25
+       9	7267	*	0	*	*	0	3892	1000	1287	
+
+T 26   3255	5864	2345	2221	*	*	6726	*	5853	5652	6570	2254	*	*	6254	2786	4577	*	*	*	26
+       0	*	*	*	*	0	*	3892	0	1287	
+
+P 27   2583	4974	4810	*	5265	*	*	5245	*	*	*	5858	991	7170	*	2982	6091	4485	*	*	27
+       0	*	*	*	*	*	*	3899	0	0	
+
+E 28   3482	*	3913	3141	7452	4408	6740	3064	5180	3346	5657	4734	*	*	4517	4423	2169	4427	*	7236	28
+       16	6521	*	0	*	*	*	3899	1000	0	
+
+I 29   6353	*	1848	883	*	*	*	5888	5085	6995	*	6527	*	4086	*	6260	5955	*	*	6109	29
+       12	6956	*	4322	74	*	*	3899	1000	0	
+
+L 30   *	*	*	*	*	*	*	3180	*	236	6132	*	*	*	*	*	*	5241	*	*	30
+       0	*	*	*	*	*	*	3899	0	0	
+
+I 31   6645	*	*	4172	*	*	6778	1247	2460	2357	*	*	*	*	6876	6225	5239	3667	*	*	31
+       0	*	*	*	*	*	*	3899	0	0	
+
+N 32   5662	*	1676	2616	*	6527	5404	*	4918	*	*	1487	*	5632	7306	4962	*	6521	*	6588	32
+       16	6521	*	2585	263	*	*	3899	1000	0	
+
+P 33   4235	*	*	*	7150	*	*	5380	4505	*	*	*	355	*	5544	6897	5261	4881	*	*	33
+       0	*	*	*	*	*	*	3899	0	0	
+
+R 34   *	*	*	6113	*	*	4203	5283	1553	*	*	*	*	5053	1376	*	4462	3650	*	5372	34
+       0	*	*	*	*	*	*	3826	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	3543	0	0	
+
+//

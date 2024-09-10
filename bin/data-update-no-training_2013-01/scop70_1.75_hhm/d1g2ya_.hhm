@@ -1,0 +1,121 @@
+HHsearch 1.5
+NAME  d1g2ya_ a.34.2.1 (A:) Hepatocyte nuclear factor 1 (HNF-1), N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.34.2.1
+FILE  d1g2ya_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1g2ya_.a3m -v 1 
+DATE  Mon Jan 21 20:52:38 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHCCCCHHHHHHHHC
+>ss_conf
+9105888899999999851564789987519
+>Consensus
+mvsklsqlqxellxallesglskexlixalg
+>d1g2ya_ a.34.2.1 (A:) Hepatocyte nuclear factor 1 (HNF-1), N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+MVSKLSQLQTEMLAALLESGLSKEALIQALG
+>gi|126324333|ref|XP_001365068.1|(1-31:627) PREDICTED: hepatocyte nuclear factor 1-alpha [Monodelphis domestica]  E=3e-05 s/c=1.66 id=81% cov=103%
+MVSQLSQLQTELLAALLESGLTKETLIRALG
+>gi|345329153|ref|XP_003431342.1|(1-31:553) PREDICTED: hepatocyte nuclear factor 1-alpha-like [Ornithorhynchus anatinus]  E=5e-05 s/c=1.65 id=81% cov=103%
+MVSKLSQLQAELLTALLESGLSKETLIRALG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1155	0	0	
+
+V 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	2
+       0	*	*	*	*	*	*	1155	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	3
+       0	*	*	*	*	*	*	1155	0	0	
+
+K 4    *	*	*	*	*	*	*	*	579	*	*	*	*	1597	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 5    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1155	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	6
+       0	*	*	*	*	*	*	1155	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1155	0	0	
+
+Q 9    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1155	0	0	
+
+T 10   1597	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	579	*	*	*	10
+       0	*	*	*	*	*	*	1155	0	0	
+
+E 11   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1155	0	0	
+
+M 12   *	*	*	*	*	*	*	*	*	597	1562	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1155	0	0	
+
+A 14   579	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1597	*	*	*	14
+       0	*	*	*	*	*	*	1155	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1155	0	0	
+
+E 18   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1155	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1155	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1155	0	0	
+
+S 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	579	1597	*	*	*	22
+       0	*	*	*	*	*	*	1155	0	0	
+
+K 23   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1155	0	0	
+
+E 24   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1155	0	0	
+
+A 25   1562	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	597	*	*	*	25
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1155	0	0	
+
+I 27   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1155	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	*	*	*	*	*	1562	597	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1155	0	0	
+
+A 29   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1155	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1155	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1155	0	0	
+
+//

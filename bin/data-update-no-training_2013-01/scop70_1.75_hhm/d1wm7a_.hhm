@@ -1,0 +1,117 @@
+HHsearch 1.5
+NAME  d1wm7a_ g.3.7.2 (A:) Neurotoxin bmp01 {Chinese scorpion (Buthus martensii karsch) [TaxId: 34649]}
+FAM   g.3.7.2
+FILE  d1wm7a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wm7a_.a3m -v 1 
+DATE  Tue Jan 22 04:08:36 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  4 out of 6 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCHHHHCCCCCCCCCCCCCCCCCCC
+>ss_conf
+97322112220221101246773101689
+>Consensus
+ascedcpehcxtqxarakcdndkcvcepk
+>d1wm7a_ g.3.7.2 (A:) Neurotoxin bmp01 {Chinese scorpion (Buthus martensii karsch) [TaxId: 34649]}
+ATCEDCPEHCATQNARAKCDNDKCVCEPK
+>gi|324497672|gb|ADY39486.1|(33-59:59) gamma-buthitoxin-Hj1a [Hottentotta judaicus]   E=2e-06 s/c=2.06 id=86% cov=97%
+--CEDCPEHCSQQNARAKCENDKCVCEPK
+>gi|148970463|gb|ABR20125.1|(29-57:57) venom K-toxin [Mesobuthus eupeus]   E=3e-06 s/c=1.90 id=83% cov=100%
+-SCEDCPEHCATKDQRAKCDNDKCVCEPK
+>gi|212278311|gb|ACJ23140.1|(29-55:57) putative potassium channel toxin Tx203 [Buthus occitanus israelis]  E=1e-05 s/c=1.97 id=85% cov=93%
+-SCEDCPEHCSTQKARAKCDNDKCVCE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	578	1599	*	*	*	2
+       0	*	*	*	*	*	*	1151	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1176	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1176	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1176	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1176	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1176	0	0	
+
+E 8    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1176	0	0	
+
+H 9    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1176	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1176	0	0	
+
+A 11   1000	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	11
+       0	*	*	*	*	*	*	1176	0	0	
+
+T 12   *	*	*	*	*	*	*	*	*	*	*	*	*	1943	*	*	434	*	*	*	12
+       0	*	*	*	*	*	*	1176	0	0	
+
+Q 13   *	*	*	*	*	*	*	*	1907	*	*	*	*	447	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1176	0	0	
+
+N 14   *	*	1907	*	*	*	*	*	2059	*	*	1019	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1176	0	0	
+
+A 15   447	*	*	*	*	*	*	*	*	*	*	*	*	1907	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1176	0	0	
+
+R 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1176	0	0	
+
+A 17   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1176	0	0	
+
+K 18   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1176	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1176	0	0	
+
+D 20   *	*	434	1943	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1176	0	0	
+
+N 21   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1176	0	0	
+
+D 22   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1176	0	0	
+
+K 23   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1176	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1176	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	25
+       0	*	*	*	*	*	*	1176	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1176	0	0	
+
+E 27   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1176	0	0	
+
+P 28   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1154	0	0	
+
+K 29   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1154	0	0	
+
+//

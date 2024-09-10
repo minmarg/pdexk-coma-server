@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1x41a1 a.4.1.1 (A:8-54) Transcriptional adaptor 2-like, TADA2L, isoform b {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.4.1.1
+FILE  d1x41a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x41a1.a3m -v 1 
+DATE  Tue Jan 22 04:25:06 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  103 out of 3515 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.5 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHCCCHHHHHHHHHCCCCCHHHHHHHHHCCC
+>ss_conf
+98877888999999998405437899997648998578999733149
+>Consensus
+dxxWtxxEdxxLxxxvxxxGxxxWxxIaxxixxRtxxqcxxxyxxxf
+>d1x41a1 a.4.1.1 (A:8-54) Transcriptional adaptor 2-like, TADA2L, isoform b {Human (Homo sapiens) [TaxId: 9606]}
+DPSWTAQEEMALLEAVMDCGFGNWQDVANQMCTKTKEECEKHYMKYF
+>gi|213406047|ref|XP_002173795.1|(286-330:584) transcription regulatory protein SWI3 [Schizosaccharomyces japonicus yFS275] >gi|212001842|gb|EEB07502.1| transcription regulatory protein SWI3 [Schizosaccharomyces japonicus yFS275]  E=1e-07 s/c=1.31 id=26% cov=98%
+EHKWTSQELLLLSEGIELY-PNDWKKVSEHVGTKNADECILKFLQI-
+>gi|123490117|ref|XP_001325540.1|(76-120:401) hypothetical protein [Trichomonas vaginalis G3] >gi|121908441|gb|EAY13317.1| hypothetical protein TVAG_164270 [Trichomonas vaginalis G3]  E=8e-06 s/c=1.18 id=26% cov=98%
+--DWDLNDEALLLGCINSLGVGNWNDIAKRIPNHDPVDIQTHYTNIY
+>gi|301107836|ref|XP_002903000.1|(72-116:354) myb-like DNA-binding protein, putative [Phytophthora infestans T30-4] >gi|262098118|gb|EEY56170.1| myb-like DNA-binding protein, putative [Phytophthora infestans T30-4]  E=0.0001 s/c=1.10 id=24% cov=98%
+-SSWTPQEDDKLRKLVHQLGGRNWSEISTYFPSRDRKRCRERFVNH-
+>gi|125560121|gb|EAZ05569.1|(103-149:383) hypothetical protein OsI_27782 [Oryza sativa Indica Group]   E=1e-11 s/c=1.53 id=26% cov=100%
+-EAWSEEEHKKFLLGLSKLGKGDWRGISrNYVGSRTPTQVASHAQKYF
+>gi|345806176|ref|XP_548372.3|(296-340:1482) PREDICTED: snRNA-activating protein complex subunit 4 [Canis lupus familiaris]  E=0.0002 s/c=1.07 id=24% cov=96%
+--EWSGQEVDQLKAIAAKHGHLQWQTIAKELGTnRSAFQCLQKYQQH-
+>gi|15237801|ref|NP_197754.1|(11-56:337) Homeodomain-like transcriptional regulator [Arabidopsis thaliana] >gi|8809695|dbj|BAA97236.1| unnamed protein product [Arabidopsis thaliana] >gi|67633814|gb|AAY78831.1| myb family transcription factor [Arabidopsis thaliana] >gi|332005811|gb|AED93194.1| Homeodomain-like transcriptional regulator [Arabidopsis thaliana]  E=0.0002 s/c=1.05 id=25% cov=94%
+-SSWSKDDDIAFEKALAIYNDKteiRWKKIATVVPGKTLEQVIEHYN---
+>gi|123975796|ref|XP_001330410.1|(74-117:176) Myb-like DNA-binding domain containing protein [Trichomonas vaginalis G3] >gi|121896566|gb|EAY01714.1| Myb-like DNA-binding domain containing protein [Trichomonas vaginalis G3]  E=0.0005 s/c=1.07 id=18% cov=96%
+-ASWTSEEDEIILQMHKIHGPK-WSLISKSLDGRSGNNVKNRWYKF-
+>gi|123455693|ref|XP_001315588.1|(19-60:188) Myb-like DNA-binding domain containing protein [Trichomonas vaginalis G3] >gi|121898269|gb|EAY03365.1| Myb-like DNA-binding domain containing protein [Trichomonas vaginalis G3]  E=2e-05 s/c=1.23 id=24% cov=87%
+------EQDNTLKELVQRYGASQWEQKAALIPGKTARQCRDRWFNY-
+>gi|348685068|gb|EGZ24883.1|(27-71:118) hypothetical protein PHYSODRAFT_256947 [Phytophthora sojae]   E=0.0006 s/c=1.04 id=23% cov=91%
+EYGWTPHERQVFWAALDRYPRGPWTVIAEFIGTKSTRQAMTH-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	947	1055	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4763	0	0	
+
+P 2    3579	*	4355	2477	*	3201	5670	*	3875	*	*	5097	2608	5067	4547	2149	*	*	*	*	2
+       0	*	*	*	*	*	*	5593	0	0	
+
+S 3    3316	*	3245	2481	*	3423	3539	*	4305	*	*	3616	4069	4793	5654	2790	4522	*	*	*	3
+       0	*	*	*	*	*	*	6055	0	0	
+
+W 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	4
+       0	*	*	*	*	*	*	6395	0	0	
+
+T 5    5614	*	6247	5106	6259	4463	*	*	5666	5391	*	3990	5871	5882	*	1854	1176	5706	*	*	5
+       0	*	*	*	*	*	*	6414	0	0	
+
+A 6    2763	6259	4463	2494	*	5848	7152	5678	3672	4188	4981	5336	3189	4049	4088	3970	4334	6566	5511	6921	6
+       0	*	*	*	*	*	*	6414	0	0	
+
+Q 7    3185	*	3067	1389	*	*	4772	4907	4377	6474	*	4037	*	3464	5025	5135	5871	5871	*	6073	7
+       0	*	*	*	*	*	*	6414	0	0	
+
+E 8    5692	*	2622	389	*	*	*	6514	*	5871	*	*	*	5222	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	6414	0	0	
+
+E 9    *	*	1252	2434	6423	*	3451	6449	5567	4804	*	5563	*	4376	4790	*	4490	3761	*	*	9
+       0	*	*	*	*	*	*	6414	0	0	
+
+M 10   3229	*	3534	3028	6399	6866	4670	*	3301	3334	4235	4610	*	2684	3504	5000	5514	5478	6557	*	10
+       0	*	*	*	*	*	*	6414	0	0	
+
+A 11   4233	*	5102	5620	*	5187	*	3518	2616	2171	5622	5856	*	4329	2140	4857	5361	5353	*	*	11
+       0	*	*	*	*	*	*	6414	0	0	
+
+L 12   6453	*	*	*	2756	*	*	3804	*	508	5408	*	*	*	*	*	*	6119	*	5167	12
+       0	*	*	*	*	*	*	6414	0	0	
+
+L 13   4619	6774	*	4191	5344	*	5657	2519	3616	1664	4829	*	*	4395	4187	7197	5228	3833	6104	5398	13
+       0	*	*	*	*	*	*	6414	0	0	
+
+E 14   3994	*	3096	2336	6077	6250	5756	*	3125	4233	*	5254	*	2648	3462	4110	4599	6104	*	5817	14
+       0	*	*	*	*	*	*	6414	0	0	
+
+A 15   1565	5445	*	*	4683	2506	6500	4630	*	2360	5703	*	*	5165	*	5491	4729	4203	*	5917	15
+       28	6816	6565	1585	585	*	*	6414	1000	0	
+
+V 16   4086	4010	*	*	5531	*	6407	2295	*	2218	6264	*	*	*	6431	*	*	1518	*	4236	16
+       29	5654	*	2680	245	*	0	6399	1624	1000	
+
+M 17   3471	*	5091	2551	6075	6431	4582	4457	2992	5423	5172	3282	5599	3092	3639	4006	4788	*	*	*	17
+       16	6498	*	1585	585	0	*	6399	1000	1000	
+
+D 18   4910	*	5600	3089	*	6096	6939	3303	2293	3278	5870	*	*	3373	3166	4527	3544	4534	*	*	18
+       0	*	*	*	*	*	*	6411	0	0	
+
+C 19   *	5659	*	*	2708	6573	1901	5088	*	3253	*	4391	*	5427	*	6730	*	5810	*	1659	19
+       105	6560	4062	2000	415	*	*	6411	1000	0	
+
+G 20   5617	*	5581	*	*	393	*	*	4601	*	*	5459	4627	4931	6326	4957	*	*	*	6046	20
+       105	6886	4013	1585	585	255	2625	6389	1000	3078	
+
+F 21   4550	5452	6409	3704	6483	4659	4564	4737	4809	3124	*	4288	3968	5291	3531	4368	3081	3882	6497	3434	21
+       95	7090	4146	2322	322	0	*	6399	1000	3420	
+
+G 22   6309	5449	3864	4195	*	1433	4722	6531	3270	4101	5538	3807	6354	4517	4847	4577	6777	6075	*	6522	22
+       44	*	5056	*	*	0	*	6385	0	2912	
+
+N 23   6853	*	2008	5650	5639	5682	6406	*	3557	*	*	1491	6089	3803	5220	3233	*	*	*	6480	23
+       100	3903	*	1967	426	0	*	6402	3086	2135	
+
+W 24   *	5947	*	*	5234	*	*	*	*	6073	*	*	*	*	*	*	*	*	134	5015	24
+       0	*	*	*	*	*	*	6746	0	0	
+
+Q 25   3652	*	3490	3140	*	4832	5410	6079	2457	6486	6808	4134	5206	3762	4478	2970	3608	5506	*	6945	25
+       0	*	*	*	*	*	*	6746	0	0	
+
+D 26   3244	*	3197	3441	5604	5075	5473	4343	2280	3257	6836	4618	6486	5644	4275	5615	3359	6567	*	*	26
+       0	*	*	*	*	*	*	6746	0	0	
+
+V 27   *	5391	*	*	6205	*	*	690	*	4711	5976	*	*	*	*	*	*	1792	*	*	27
+       27	5755	*	2301	327	*	*	6746	1226	0	
+
+A 28   897	*	*	*	*	4908	6794	*	6649	*	*	*	5215	4708	*	1653	5891	6538	*	*	28
+       20	6151	*	0	*	*	*	6746	1094	0	
+
+N 29   4156	*	5009	3106	*	*	6152	5320	2560	5789	5824	3308	6834	3389	3120	2823	4194	6022	6681	6522	29
+       27	5754	*	2149	369	*	*	6746	1577	0	
+
+Q 30   3488	4806	5892	4109	3070	6587	2721	4961	4057	3942	5002	5708	*	4449	3831	4635	*	4381	5682	3510	30
+       0	*	*	*	*	*	*	6746	0	0	
+
+M 31   5215	*	*	*	3610	*	*	2206	*	2014	3234	*	*	*	*	*	*	1642	*	*	31
+       46	5003	*	0	*	*	*	6746	1672	0	
+
+C 32   5125	6562	4341	4633	*	1504	*	4820	3293	5870	*	5507	1919	6916	5895	5693	6597	6937	*	6093	32
+       109	3973	6819	1052	950	*	*	6746	2935	0	
+
+T 33   *	*	4238	6855	6613	1982	5581	*	4889	*	6365	2526	*	5898	5706	2804	2088	*	*	5620	33
+       115	3710	*	514	1739	0	*	6734	3261	1000	
+
+K 34   5680	*	*	*	*	*	4435	*	1690	*	*	*	*	*	680	*	*	*	*	*	34
+       53	4795	*	0	*	*	*	6736	1904	0	
+
+T 35   *	5624	4592	5667	*	*	6934	6145	5750	*	*	3182	*	*	*	1467	1351	6200	*	*	35
+       0	*	*	*	*	*	*	6736	0	0	
+
+K 36   1818	*	3804	4065	*	4278	6446	6576	4581	4868	7732	5788	2164	5207	4589	4625	4762	5568	5474	*	36
+       0	*	*	*	*	*	*	6736	0	0	
+
+E 37   3398	*	3826	2674	5980	5705	6416	4028	2847	5596	6647	5080	*	5092	3126	3356	4688	4426	*	4509	37
+       0	*	*	*	*	*	*	6736	0	0	
+
+E 38   5701	*	3325	2595	*	5644	5416	*	6078	6838	5720	*	*	823	6832	4173	*	*	*	*	38
+       0	*	*	*	*	*	*	6736	0	0	
+
+C 39   4790	716	*	*	*	*	*	2923	*	5128	*	*	*	*	*	*	*	2360	*	*	39
+       0	*	*	*	*	*	*	6736	0	0	
+
+E 40   5039	6913	*	3988	6678	*	5267	3848	2358	5230	5502	6660	*	3423	1480	4271	*	5258	*	6671	40
+       0	*	*	*	*	*	*	6638	0	0	
+
+K 41   3958	*	3242	2728	*	*	6798	5231	3939	3980	5624	3207	*	3309	3806	3271	3889	6623	*	4940	41
+       18	*	6331	*	*	*	*	6638	0	0	
+
+H 42   *	*	*	*	*	*	1315	*	3923	6223	6276	*	*	4307	1348	*	*	*	6127	4374	42
+       0	*	*	*	*	0	*	6480	0	1000	
+
+Y 43   3416	*	*	*	2415	*	5412	*	*	6152	*	*	*	*	*	*	*	6485	2280	1107	43
+       0	*	*	*	*	*	*	6576	0	0	
+
+M 44   *	*	5175	3563	5257	*	3705	3905	4773	2884	4615	2740	*	2632	4616	6125	4174	4305	*	4913	44
+       15	6577	*	2585	263	*	*	6545	1000	0	
+
+K 45   6057	*	3984	3852	*	*	6226	*	1710	5903	*	2124	*	2992	5242	5050	3734	*	*	5061	45
+       0	*	*	*	*	*	*	6511	0	0	
+
+Y 46   5056	3808	*	*	2858	*	2742	3350	*	4757	*	*	*	*	*	*	*	3119	*	1470	46
+       0	*	*	*	*	*	*	6403	0	0	
+
+F 47   *	*	*	*	731	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1331	47
+       0	*	*	0	*	*	*	5089	0	0	
+
+//

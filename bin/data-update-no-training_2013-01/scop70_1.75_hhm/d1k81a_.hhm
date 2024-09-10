@@ -1,0 +1,146 @@
+HHsearch 1.5
+NAME  d1k81a_ g.59.1.1 (A:) Zinc-binding domain of translation initiation factor 2 beta {Archaeon Methanococcus jannaschii [TaxId: 2190]}
+FAM   g.59.1.1
+FILE  d1k81a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1k81a_.a3m -v 1 
+DATE  Mon Jan 21 22:38:41 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  103 out of 169 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCEEEECCCEEEEEECCCCCCCCCCCC
+>ss_conf
+946888895864774793688884888961623669
+>Consensus
+VxCxxCxspdTxLxkexRlxxlxCxaCGAxxxVxxI
+>d1k81a_ g.59.1.1 (A:) Zinc-binding domain of translation initiation factor 2 beta {Archaeon Methanococcus jannaschii [TaxId: 2190]}
+VICRECGKPDTKIIKEGRVHLLKCMACGAIRPIRMI
+>gi|313126283|ref|YP_004036553.1|(100-135:135) translation initiation factor 2 subunit beta (aeif-2b) [Halogeometricum borinquense DSM 11551] >gi|312292648|gb|ADQ67108.1| translation initiation factor 2 subunit beta (aeIF-2b) [Halogeometricum borinquense DSM 11551]  E=5e-05 s/c=1.39 id=41% cov=103%
+VLCSECDSPDTRLVTEQGAMVLKCDACGALSAVPDL
+>gi|305663520|ref|YP_003859808.1|(109-144:144) translation initiation factor IF-2 [Ignisphaera aggregans DSM 17230] >gi|304378089|gb|ADM27928.1| Translation initiation factor IF2/IF5 [Ignisphaera aggregans DSM 17230]  E=4e-07 s/c=1.59 id=41% cov=103%
+VKCPTCKSYDTELIREGKIWYIRCLACGAISSIKPV
+>gi|269986612|gb|EEZ92894.1|(97-132:133) Translation initiation factor IF2/IF5 [Candidatus Parvarchaeum acidiphilum ARMAN-4]  E=2e-06 s/c=1.53 id=38% cov=103%
+VVCKQCNSPDTQMEKVEKNYFVKCLGCGAEYPVGRI
+>gi|307103652|gb|EFN51910.1|(221-258:275) hypothetical protein CHLNCDRAFT_37108 [Chlorella variabilis]   E=2e-05 s/c=1.37 id=32% cov=103%
+VLCNSCKSVDTLLDRDssTRIMFLRCQQCSASRTVSAI
+>gi|340053756|emb|CCC48049.1|(283-318:340) putative translation initiation factor [Trypanosoma vivax Y486]   E=0.0002 s/c=1.34 id=41% cov=103%
+VKCNACHKIDTTLTKEGRRIELRCNWCTATRSVQTL
+>gi|428168775|gb|EKX37716.1|(139-176:194) translation initiation factor 2, beta subunit [Guillardia theta CCMP2712]  E=0.0004 s/c=1.24 id=30% cov=103%
+VQCQMCKNYDSQLVKDsmTRLTFLECNRCGARMSVQNV
+>gi|388583991|gb|EIM24292.1|(245-280:296) hypothetical protein WALSEDRAFT_30978 [Wallemia sebi CBS 633.66]   E=2e-12 s/c=2.09 id=35% cov=103%
+VTCKTCKSPETNLTKENRLYFMTCESCGSRRSVAAI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	5465	*	*	*	*	*	*	*	*	*	33	*	*	1
+       0	*	*	*	*	*	*	3879	0	0	
+
+I 2    4505	*	*	5980	5037	*	*	2395	3674	2746	3938	*	*	3090	4518	4827	2924	3813	*	5172	2
+       0	*	*	*	*	*	*	3879	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3881	0	0	
+
+R 4    5988	*	5311	6876	*	4276	3320	*	2908	5941	*	3479	2062	4490	4592	2492	6936	6068	6639	5435	4
+       0	*	*	*	*	*	*	3881	0	0	
+
+E 5    4607	*	6831	1757	*	4664	6830	4156	*	6212	3365	4838	*	5408	*	4175	2121	3384	*	*	5
+       0	*	*	*	*	*	*	3881	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3881	0	0	
+
+G 7    *	*	5342	4390	*	1790	4066	*	1828	5994	*	3204	*	4798	3176	5247	*	*	*	*	7
+       0	*	*	*	*	*	*	3881	0	0	
+
+K 8    4315	*	*	*	*	5050	*	*	4134	3999	*	5471	*	6068	3350	589	*	*	*	*	8
+       0	*	*	*	*	*	*	3881	0	0	
+
+P 9    *	*	*	*	6774	*	6596	3509	*	3728	6066	*	827	*	*	4009	4742	4436	6261	3647	9
+       41	5148	*	0	*	*	*	3881	1183	0	
+
+D 10   *	6303	527	4168	*	*	5434	*	5485	*	*	2478	*	6307	*	*	*	*	*	*	10
+       15	6589	*	0	*	*	*	3881	1000	0	
+
+T 11   5849	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5471	59	*	*	*	11
+       0	*	*	*	*	*	*	3881	0	0	
+
+K 12   *	*	4557	2820	6404	*	3957	3429	2610	4290	*	4983	*	3844	3187	4830	3355	3790	*	5988	12
+       0	*	*	*	*	*	*	3881	0	0	
+
+I 13   *	*	*	*	4758	*	*	2300	*	568	3810	*	*	*	*	*	6144	*	*	*	13
+       0	*	*	*	*	*	*	3881	0	0	
+
+I 14   5959	6088	5585	2329	*	*	6404	2389	4393	6199	6738	6265	*	4138	5687	4752	2543	2488	*	*	14
+       22	6052	*	0	*	*	*	3881	1000	0	
+
+K 15   *	*	5432	5357	*	*	*	*	861	*	*	5244	*	*	1617	5090	5641	*	*	*	15
+       18	6303	*	1000	1000	*	*	3881	1000	0	
+
+E 16   *	*	1928	1185	*	*	6570	*	4601	6696	5782	5640	*	4619	3892	4776	*	4721	*	6020	16
+       286	2476	*	1000	1000	*	*	3881	2661	0	
+
+G 17   6475	*	2668	4059	*	2588	*	*	2916	*	*	2382	*	3989	5465	5372	2631	6694	*	*	17
+       42	5115	*	608	1539	*	*	3881	1797	0	
+
+R 18   *	*	6069	5975	*	3402	*	*	2891	*	*	*	*	*	435	*	*	*	*	*	18
+       26	5784	*	0	*	*	*	3881	1341	0	
+
+V 19   3646	*	6052	*	5922	*	*	2787	*	1170	5994	6176	*	6979	5899	*	4717	2272	*	*	19
+       0	*	*	*	*	*	*	3881	0	0	
+
+H 20   6144	*	5632	4499	2694	*	4450	4489	*	3195	5116	5945	*	6292	5260	4078	3649	*	3435	1988	20
+       0	*	*	*	*	*	*	3881	0	0	
+
+L 21   6611	*	*	5899	1204	*	*	3082	*	4150	3422	*	*	5190	6052	6265	4550	3121	*	4102	21
+       0	*	*	*	*	*	*	3881	0	0	
+
+L 22   *	6005	*	*	*	*	*	3152	6069	648	3998	*	*	5398	*	*	*	2916	*	*	22
+       0	*	*	*	*	*	*	3881	0	0	
+
+K 23   6570	5640	5571	4100	*	*	3481	4490	1598	*	*	5365	*	5212	2097	4638	5613	3641	*	*	23
+       0	*	*	*	*	*	*	3881	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3881	0	0	
+
+M 25   6176	*	2839	1838	*	6786	5784	*	3757	3959	6908	2750	*	3123	5452	4801	4103	6324	*	*	25
+       0	*	*	*	*	*	*	3881	0	0	
+
+A 26   789	*	4835	6721	*	6175	*	5502	4207	*	*	4711	*	4871	3813	4392	4366	5049	5894	*	26
+       0	*	*	*	*	*	*	3885	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3885	0	0	
+
+G 28   *	*	*	*	*	290	*	*	6209	*	*	4459	*	4061	*	4884	5078	*	*	*	28
+       0	*	*	*	*	*	*	3885	0	0	
+
+A 29   546	*	*	*	*	4786	*	*	*	*	*	*	*	*	*	1841	*	*	*	*	29
+       0	*	*	*	*	*	*	3885	0	0	
+
+I 30   6083	*	*	2754	5901	6974	4751	4785	2862	4884	6164	5021	*	4433	2190	2986	3618	5669	5060	*	30
+       0	*	*	*	*	*	*	3885	0	0	
+
+R 31   5081	4263	*	*	*	7010	5051	6084	4982	*	5468	5006	*	4523	1101	2794	3444	*	*	4850	31
+       0	*	*	*	*	*	*	3888	0	0	
+
+P 32   4250	4662	*	*	*	*	*	*	*	*	*	*	1397	*	*	1299	3038	*	*	*	32
+       0	*	*	*	*	*	*	3869	0	0	
+
+I 33   6330	*	*	*	*	*	*	3280	*	4029	*	*	*	*	5957	*	*	309	*	*	33
+       0	*	*	*	*	*	*	3871	0	0	
+
+R 34   2793	*	5978	4712	*	4349	5364	*	2011	*	*	4423	4035	3016	3397	3082	4802	*	*	*	34
+       0	*	*	*	*	*	*	3930	0	0	
+
+M 35   2259	*	4837	5583	*	4865	6378	*	3340	5964	6211	2633	3930	4721	3979	3433	3138	5250	*	*	35
+       0	*	*	*	*	*	*	4011	0	0	
+
+I 36   *	*	*	*	*	*	*	688	*	2100	*	*	*	*	*	*	*	2775	*	*	36
+       0	*	*	0	*	*	*	3921	0	0	
+
+//

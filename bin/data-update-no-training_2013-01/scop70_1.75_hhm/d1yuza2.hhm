@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1yuza2 g.41.5.1 (A:167-202) Nigerythrin, C-terminal domain {Desulfovibrio vulgaris [TaxId: 881]}
+FAM   g.41.5.1
+FILE  d1yuza2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1yuza2.a3m -v 1 
+DATE  Tue Jan 22 05:07:15 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  109 out of 591 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.4 
+SEQ
+>ss_pred
+CCCCEEECCCCCEEEECCCCCCCCCCCCCHHHCCCC
+>ss_conf
+998855507788566389898088778882431239
+>Consensus
+DxxxxxxCxvCGyixxgxxPexCPvCxxxxxxFxxf
+>d1yuza2 g.41.5.1 (A:167-202) Nigerythrin, C-terminal domain {Desulfovibrio vulgaris [TaxId: 881]}
+DDDKFHLCPICGYIHKGEDFEKCPICFRPKDTFTAY
+>gi|407002177|gb|EKE19003.1|(131-164:167) rubrerythrin [uncultured bacterium]   E=0.0002 s/c=1.42 id=40% cov=97%
+EDAKYFICQVCGQIELAEAPENCPVCKSPASSFT--
+>gi|282165038|ref|YP_003357423.1|(147-180:183) rubrerythrin [Methanocella paludicola SANAE] >gi|282157352|dbj|BAI62440.1| rubrerythrin [Methanocella paludicola SANAE]  E=9e-05 s/c=1.46 id=27% cov=92%
+--GELYVCDICGLVMEEKPPENCPVCRAKQFRFR--
+>gi|158321353|ref|YP_001513860.1|(170-205:209) rubrerythrin [Alkaliphilus oremlandii OhILAs] >gi|158141552|gb|ABW19864.1| Rubrerythrin [Alkaliphilus oremlandii OhILAs]  E=8e-06 s/c=1.47 id=27% cov=103%
+DQNTVHVCTVCGHTLAGDLTDPCPVCKVGVNMFKTF
+>gi|350565165|ref|ZP_08933954.1|(155-191:195) rubrerythrin [Peptoniphilus indolicus ATCC 29427] >gi|348664049|gb|EGY80573.1| rubrerythrin [Peptoniphilus indolicus ATCC 29427]  E=6e-10 s/c=1.81 id=41% cov=103%
+DEVVLWKCNNCGYIHEGmEAPEVCPACAHPRAHFEVF
+>gi|254169175|ref|ZP_04876011.1|(132-168:168) rubredoxin, putative [Aciduliprofundum boonei T469] >gi|197621910|gb|EDY34489.1| rubredoxin, putative [Aciduliprofundum boonei T469]  E=8e-10 s/c=1.79 id=38% cov=103%
+EEKSIYICPVCGYTYMGdEPPDKCPVCGAPQDKFVKF
+>gi|340756766|ref|ZP_08693371.1|(58-91:537) NADH dehydrogenase [Fusobacterium varium ATCC 27725] >gi|251834033|gb|EES62596.1| NADH dehydrogenase [Fusobacterium varium ATCC 27725]  E=0.0003 s/c=1.40 id=29% cov=94%
+--GKAWKCTVCDEIFsEDEVPDTCPVCGVGKELFEE-
+>gi|269216513|ref|ZP_06160367.1|(2-35:166) rubrerythrin protein [Slackia exigua ATCC 700122] >gi|402829797|ref|ZP_10878670.1| rubrerythrin [Slackia sp. CM382] >gi|269130042|gb|EEZ61124.1| rubrerythrin protein [Slackia exigua ATCC 700122] >gi|402283464|gb|EJU31978.1| rubrerythrin [Slackia sp. CM382]  E=0.0002 s/c=1.42 id=38% cov=94%
+---KVYRCKFCGYLEVGEIPEECPMCHAKGSvAFSEY
+>gi|189500576|ref|YP_001960046.1|(131-164:166) rubrerythrin [Chlorobium phaeobacteroides BS1] >gi|189496017|gb|ACE04565.1| Rubrerythrin [Chlorobium phaeobacteroides BS1]  E=8e-07 s/c=1.66 id=40% cov=97%
+-ETEVWLCPICGHIELGTPPEKCPICNARAAAYVQ-
+>gi|188586977|ref|YP_001918522.1|(147-182:182) rubrerythrin [Natranaerobius thermophilus JW/NM-WN-LF] >gi|179351664|gb|ACB85934.1| Rubrerythrin [Natranaerobius thermophilus JW/NM-WN-LF]  E=1e-05 s/c=1.46 id=35% cov=103%
+DIDEVSVCGKCGYTTTEGVPDYCPICGAPRNRFKSY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	482	1964	*	*	*	*	*	*	*	5183	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4165	0	0	
+
+D 2    6147	*	1675	1788	5125	4046	*	4846	*	5887	*	3857	*	5688	*	4010	4927	4086	*	*	2
+       0	*	*	*	*	*	*	4502	0	0	
+
+D 3    4040	*	2730	1928	*	2662	5493	*	3095	*	6693	4632	*	4201	5554	4841	5041	4732	*	*	3
+       0	*	*	*	*	*	*	4524	0	0	
+
+K 4    5192	*	4978	3088	6281	4395	*	3848	1865	*	*	5327	3452	5182	4527	3530	3913	3667	*	*	4
+       0	*	*	*	*	*	*	4422	0	0	
+
+F 5    4234	*	*	5111	3867	7076	*	2242	4989	3380	6448	*	5385	4952	5865	5489	5623	2178	*	2692	5
+       0	*	*	*	*	*	*	4473	0	0	
+
+H 6    *	*	*	*	3450	*	3392	*	*	6121	*	*	*	5727	*	5356	*	*	1261	1563	6
+       0	*	*	*	*	*	*	4358	0	0	
+
+L 7    *	*	*	6461	6880	*	*	2472	2918	3320	4370	*	*	4653	3326	*	5156	1508	*	*	7
+       0	*	*	*	*	*	*	4358	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4384	0	0	
+
+P 9    5168	*	5420	3285	*	5612	*	4143	3902	3648	4738	6191	2221	3955	3567	4040	2862	6687	*	*	9
+       0	*	*	*	*	*	*	4384	0	0	
+
+I 10   *	6916	6235	4764	6489	5897	6949	2352	4089	4546	7048	3077	*	6100	*	6433	4915	1242	*	*	10
+       0	*	*	*	*	*	*	4384	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	4384	0	0	
+
+G 12   *	*	6154	*	*	100	*	*	*	*	*	6031	*	*	*	5898	*	*	5573	*	12
+       31	5573	*	0	*	*	*	4384	1000	0	
+
+Y 13   *	*	*	4925	3881	*	2117	*	*	5425	*	3893	*	6258	*	*	*	6620	6644	876	13
+       0	*	*	*	*	*	*	4384	0	0	
+
+I 14   5573	*	*	5654	*	6640	*	1450	*	3519	6557	5090	*	*	*	6333	1864	2568	*	*	14
+       24	6920	6947	0	*	*	*	4384	1000	0	
+
+H 15   5383	4429	*	3380	3566	5719	2076	4737	*	4586	3921	*	*	5519	6717	5711	4405	2962	*	3037	15
+       61	4604	*	569	1618	0	*	4384	2012	1000	
+
+K 16   3986	*	4226	2068	4830	*	5157	3302	3244	4278	5731	6235	7085	6642	4906	6100	3271	3771	5573	5160	16
+       23	5975	*	0	*	*	*	4384	1555	0	
+
+G 17   5469	*	2919	3959	*	673	*	*	4680	*	*	4188	*	*	6621	4711	6442	*	*	*	17
+       492	1841	6715	0	*	*	*	4384	3442	0	
+
+E 18   4190	5167	2933	1554	6459	5295	5500	*	2687	6306	*	5170	6764	4770	5542	4068	4396	*	*	5896	18
+       252	2738	6610	63	4557	0	*	4388	3115	1000	
+
+D 19   1212	*	6107	*	*	*	*	4788	*	4043	4530	5277	1963	*	5803	*	4336	3967	*	*	19
+       23	5986	*	829	1194	0	*	4380	1456	1000	
+
+F 20   *	6715	*	5075	5535	*	*	6564	*	*	*	*	241	*	*	5294	5501	4834	*	*	20
+       42	5139	*	2589	262	*	*	4384	1729	0	
+
+E 21   4754	*	2125	1267	*	5069	*	*	3708	5711	5783	3815	6463	6937	5506	5354	*	5911	*	5568	21
+       40	5199	*	1360	712	*	*	4384	1809	0	
+
+K 22   4737	*	5448	4043	*	*	6529	4084	1649	*	5356	3652	5059	4571	3431	5455	5003	2687	*	6353	22
+       10	7144	*	1000	1000	*	*	4384	1000	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	4384	0	0	
+
+P 24   *	*	*	5848	*	*	*	*	*	*	*	*	54	*	*	*	*	5686	*	*	24
+       0	*	*	*	*	*	*	4384	0	0	
+
+I 25   3510	*	*	*	5090	*	*	1715	6031	3865	*	6033	*	*	6608	4890	*	1264	*	5752	25
+       0	*	*	*	*	*	*	4384	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	4384	0	0	
+
+F 27   5873	*	4380	6691	5330	1359	4242	*	2258	4203	6881	3413	*	5054	6263	5452	6108	6433	*	*	27
+       0	*	*	*	*	*	*	4384	0	0	
+
+R 28   1337	6643	*	6811	5311	6920	2791	*	5370	6524	*	*	*	4829	6132	6258	4911	2270	*	3856	28
+       0	*	*	*	*	*	*	4384	0	0	
+
+P 29   4802	*	4031	4621	6659	3300	6309	*	2859	5824	*	5686	1150	6821	5375	4463	5874	5838	*	*	29
+       0	*	*	*	*	*	*	4384	0	0	
+
+K 30   3066	*	6966	5767	*	3178	6312	6824	1618	*	*	5853	4622	2713	3723	4035	5441	6479	*	6033	30
+       0	*	*	*	*	*	*	4384	0	0	
+
+D 31   3021	*	2687	2109	6241	3901	*	*	3495	*	*	4227	*	*	4284	2634	4995	*	6875	6030	31
+       0	*	*	*	*	*	*	4383	0	0	
+
+T 32   3786	*	5032	*	3396	6490	4551	5037	2284	4266	4517	5294	*	4843	3003	4254	5211	5640	*	2919	32
+       0	*	*	*	*	*	*	4383	0	0	
+
+F 33   *	*	*	*	189	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3024	33
+       0	*	*	*	*	*	*	4383	0	0	
+
+T 34   *	*	6389	2633	*	*	*	4201	1885	4275	6274	5990	*	4725	3288	6474	3543	2441	*	*	34
+       0	*	*	*	*	*	*	4347	0	0	
+
+A 35   2069	*	5768	1887	*	*	*	6130	3786	3658	*	*	4523	3265	4296	4989	5029	4434	*	*	35
+       0	*	*	*	*	*	*	4337	0	0	
+
+Y 36   *	*	*	*	659	*	*	*	*	*	*	*	*	*	*	*	*	*	4559	1625	36
+       0	*	*	0	*	*	*	4087	0	0	
+
+//

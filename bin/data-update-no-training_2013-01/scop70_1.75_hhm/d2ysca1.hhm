@@ -1,0 +1,120 @@
+HHsearch 1.5
+NAME  d2ysca1 b.72.1.1 (A:8-33) Amyloid beta A4 precursor protein-binding family B member 3, APBB3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.72.1.1
+FILE  d2ysca1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ysca1.a3m -v 1 
+DATE  Tue Jan 22 08:25:57 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCEEECCCCEEEEECCCCCCC
+>ss_conf
+98754213103664257733877679
+>Consensus
+xLPpGWxxixDxagtYyWhiPtGtTQ
+>d2ysca1 b.72.1.1 (A:8-33) Amyloid beta A4 precursor protein-binding family B member 3, APBB3 {Human (Homo sapiens) [TaxId: 9606]}
+GLPPGWRKIHDAAGTYYWHVPSGSTQ
+>gi|348529476|ref|XP_003452239.1|(354-378:830) PREDICTED: amyloid beta A4 precursor protein-binding family B member 2-like [Oreochromis niloticus]  E=4e-05 s/c=2.05 id=69% cov=100%
+-LPPGWKKITDMAGIYYWHIPTGTTQ
+>gi|410914904|ref|XP_003970927.1|(31-55:485) PREDICTED: amyloid beta A4 precursor protein-binding family B member 3-like [Takifugu rubripes]  E=0.0004 s/c=1.91 id=69% cov=100%
+-LPSGWRTIKDSTGTYYWHVPTGTTQ
+>gi|327270501|ref|XP_003220028.1|(31-55:492) PREDICTED: amyloid beta A4 precursor protein-binding family B member 3-like [Anolis carolinensis]  E=2e-09 s/c=2.63 id=81% cov=100%
+-LPPGWRKIHDSSGTYYWHVPTGTTQ
+>gi|291243134|ref|XP_002741458.1|(429-453:741) PREDICTED: amyloid beta (A4) precursor protein-binding, family B, member 2 (Fe65-like)-like, partial [Saccoglossus kowalevskii]  E=8e-09 s/c=2.54 id=73% cov=100%
+-LPPGWREVTDSSGTYYWHVPSGTTQ
+>gi|345324784|ref|XP_001507097.2|(174-198:641) PREDICTED: amyloid beta A4 precursor protein-binding family B member 2-like [Ornithorhynchus anatinus]  E=9e-09 s/c=2.52 id=65% cov=100%
+-LPPGWKRISDIAGFYYWHIPTGTTQ
+>gi|148222681|ref|NP_001087003.1|(184-208:610) amyloid beta (A4) precursor protein-binding, family B, member 1 (Fe65) [Xenopus laevis] >gi|50417710|gb|AAH77881.1| Apbb1-prov protein [Xenopus laevis]  E=1e-07 s/c=2.40 id=58% cov=100%
+-LPSGWMRVQDTSGTYYWHIPTGTTQ
+>gi|47215525|emb|CAG06255.1|(30-54:564) unnamed protein product [Tetraodon nigroviridis]   E=3e-06 s/c=2.19 id=62% cov=100%
+-LPPGWREISDSSEVYFWHVPTGTTQ
+>gi|390358671|ref|XP_787988.3|(415-439:879) PREDICTED: uncharacterized protein LOC582967 [Strongylocentrotus purpuratus]  E=4e-08 s/c=2.44 id=73% cov=100%
+-LPPGWREVADAHGTYYWHVPTGTTQ
+>gi|74142164|dbj|BAE31851.1|(293-317:738) unnamed protein product [Mus musculus]   E=9e-08 s/c=2.40 id=62% cov=100%
+-LPPGWKRVNDIAGTYYWYIPTGTTQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1616	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1616	0	0	
+
+P 4    3937	*	*	*	*	*	*	*	*	*	*	*	408	*	*	2464	*	*	*	*	4
+       0	*	*	*	*	*	*	1616	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1616	0	0	
+
+W 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	6
+       0	*	*	*	*	*	*	1616	0	0	
+
+R 7    *	*	*	*	*	*	*	*	1410	*	3009	*	*	*	1001	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1616	0	0	
+
+K 8    *	*	*	2240	*	*	*	*	2215	*	3869	*	*	*	1584	*	2547	*	*	*	8
+       0	*	*	*	*	*	*	1616	0	0	
+
+I 9    *	*	*	*	*	*	*	789	*	*	3869	*	*	*	*	*	*	1504	*	*	9
+       0	*	*	*	*	*	*	1616	0	0	
+
+H 10   4017	*	*	*	*	*	3096	*	3031	*	*	2667	*	4085	3133	2371	2512	*	*	*	10
+       0	*	*	*	*	*	*	1616	0	0	
+
+D 11   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1616	0	0	
+
+A 12   2925	*	*	*	*	*	*	1959	*	*	3072	*	*	*	*	1648	2532	*	*	*	12
+       0	*	*	*	*	*	*	1616	0	0	
+
+A 13   974	*	*	*	*	*	4017	*	*	*	*	*	*	*	*	1435	4073	*	*	*	13
+       0	*	*	*	*	*	*	1616	0	0	
+
+G 14   *	*	*	3419	*	142	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1616	0	0	
+
+T 15   *	*	*	*	4210	*	*	2582	*	*	*	*	*	*	*	*	545	3419	*	*	15
+       0	*	*	*	*	*	*	1616	0	0	
+
+Y 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	16
+       0	*	*	*	*	*	*	1616	0	0	
+
+Y 17   *	*	*	*	3419	*	*	*	*	*	*	*	*	*	*	*	*	*	*	142	17
+       0	*	*	*	*	*	*	1616	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	1616	0	0	
+
+H 19   *	*	*	*	*	*	96	*	*	*	*	*	*	*	*	*	*	*	*	3954	19
+       0	*	*	*	*	*	*	1616	0	0	
+
+V 20   *	*	*	*	*	*	*	999	*	*	*	*	*	*	*	*	*	1001	*	*	20
+       0	*	*	*	*	*	*	1616	0	0	
+
+P 21   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1616	0	0	
+
+S 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2985	195	*	*	*	22
+       0	*	*	*	*	*	*	1616	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1616	0	0	
+
+S 24   3990	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3838	206	*	*	*	24
+       0	*	*	*	*	*	*	1616	0	0	
+
+T 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	25
+       0	*	*	*	*	*	*	1616	0	0	
+
+Q 26   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	26
+       0	*	*	0	*	*	*	1616	0	0	
+
+//

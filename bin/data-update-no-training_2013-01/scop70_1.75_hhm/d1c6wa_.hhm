@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  d1c6wa_ g.3.6.2 (A:) Maurocalcin {Scorpio maurus [TaxId: 53956]}
+FAM   g.3.6.2
+FILE  d1c6wa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1c6wa_.a3m -v 1 
+DATE  Mon Jan 21 18:57:25 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  4 out of 6 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCHHHHHHHHHCCCHHHHHHHHHCCCCHHCCCC
+>ss_conf
+921246786411210345565403787110149
+>Consensus
+gdclphlkrckenxdccskkckrrgtnxekrcr
+>d1c6wa_ g.3.6.2 (A:) Maurocalcin {Scorpio maurus [TaxId: 53956]}
+GDCLPHLKLCKENKDCCSKKCKRRGTNIEKRCR
+>gi|41017866|sp|P60252.1|SCX1_OPICA(34-66:66) RecName: Full=Opicalcin-1; AltName: Full=Opicalcine-1; Flags: Precursor >gi|37539456|gb|AAP73822.1| opicalcine 1 preproprotein [Opistophthalmus carinatus]  E=3e-08 s/c=1.85 id=88% cov=103%
+GDCLPHLKRCKENNDCCSKKCKRRGTNPEKRCR
+>gi|37079268|sp|P59868.1|IPTXA_PANIM(1-33:33) RecName: Full=Imperatoxin-A; Short=IpTxa; AltName: Full=Imperatoxin activator >gi|253722897|pdb|1IE6|A Chain A, Solution Structure Of Imperatoxin A  E=3e-06 s/c=1.67 id=79% cov=103%
+GDCLPHLKRCKADNDCCGKKCKRRGTNAEKRCR
+>gi|259496155|sp|B8QG00.1|SCXC_HADGE(43-74:74) RecName: Full=Hadrucalcin; Short=HdCa; Flags: Precursor >gi|186972315|gb|ACC99422.1| hadrucalcin precursor [Hadrurus gertschi]  E=1e-05 s/c=1.65 id=76% cov=100%
+-DCIKHLQRCRENKDCCSKKCSRRGTNPEKRCR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1139	0	0	
+
+D 2    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1243	0	0	
+
+L 4    *	*	*	*	*	*	*	1857	*	466	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1243	0	0	
+
+P 5    *	*	*	*	*	*	*	*	1857	*	*	*	466	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1243	0	0	
+
+H 6    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1243	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 8    *	*	*	*	*	*	*	*	466	*	*	*	*	1857	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1243	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	2061	*	*	*	*	395	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 11   *	*	*	*	*	*	*	*	466	*	*	*	*	*	1857	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1243	0	0	
+
+E 12   1941	*	*	435	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1243	0	0	
+
+N 13   *	*	1941	*	*	*	*	*	*	*	*	435	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 14   *	*	*	*	*	*	*	*	956	*	*	1046	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1243	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1243	0	0	
+
+S 18   *	*	*	*	*	1941	*	*	*	*	*	*	*	*	*	435	*	*	*	*	18
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 20   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 22   *	*	*	*	*	*	*	*	466	*	*	*	*	*	*	1857	*	*	*	*	22
+       0	*	*	*	*	*	*	1243	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1243	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1243	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1243	0	0	
+
+T 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	26
+       0	*	*	*	*	*	*	1243	0	0	
+
+N 27   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1243	0	0	
+
+I 28   1941	*	*	*	*	*	*	2061	*	*	*	*	1000	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1243	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1243	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1243	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1243	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1243	0	0	
+
+R 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	33
+       0	*	*	0	*	*	*	1243	0	0	
+
+//

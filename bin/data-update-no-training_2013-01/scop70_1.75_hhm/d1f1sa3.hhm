@@ -1,0 +1,261 @@
+HHsearch 1.5
+NAME  d1f1sa3 b.24.1.1 (A:912-984) Hyaluronate lyase {Streptococcus agalactiae [TaxId: 1311]}
+FAM   b.24.1.1
+FILE  d1f1sa3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1f1sa3.a3m -v 1 
+DATE  Mon Jan 21 20:34:19 2013
+LENG  73 match states, 73 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CEEEEECCCCEEEEEECCCCEEEEEEECCCCEEECCCEEEEECCEEEEEEECCCEEEEEECCCCCCCCCCCCC
+>ss_conf
+9078741873467873578747899873981566074378405448998508924467666742353321269
+>Consensus
+xvxvleNxxxxQxvyDkxqxxwgVVKYdDxxxxixxxlxlxkaGlYxiqKxgnxykxxyynPxtxxxxxxxxx
+>d1f1sa3 b.24.1.1 (A:912-984) Hyaluronate lyase {Streptococcus agalactiae [TaxId: 1311]}
+EVELLENSSKQQVIYDKNSQTWAVIKHDNQESLINNQFKMNKAGLYLVQKVGNDYQNVYYQPQTMTKTDQLAI
+>gi|34495402|gb|AAQ73523.1|(935-1007:1063) hyaluronate lyase precursor [Streptococcus constellatus subsp. pharyngis]  E=2e-16 s/c=1.22 id=33% cov=99%
+--SLLENNDKLQAVYDAKQKIWGIVKYDDSASTISNKFQVLKRGIYTIRKENSGYKVSYYNPETKNSASKDSV
+>gi|389856407|ref|YP_006358650.1|(991-1055:1168) hyaluronidase [Streptococcus suis ST1] >gi|353740125|gb|AER21132.1| hyaluronidase [Streptococcus suis ST1]  E=8e-16 s/c=1.33 id=32% cov=90%
+-VKLLHQDRDLQVVYDQEQNVWGVVKYTDTAYKLTDDITLTDSGLYTIQKVEGGYRIAFYNPSTRT-------
+>gi|195978404|ref|YP_002123648.1|(1001-1060:1063) hyaluronate lyase precursor HylB [Streptococcus equi subsp. zooepidemicus MGCS10565] >gi|195975109|gb|ACG62635.1| hyaluronate lyase precursor HylB [Streptococcus equi subsp. zooepidemicus MGCS10565]  E=2e-12 s/c=1.26 id=43% cov=84%
+-IEVLQNDSKLQLIHDKKQDLLAVAKYNQAKEVINGQLSLEKSGLYLYQKVGNDFKQLSFK------------
+>gi|395241271|ref|ZP_10418286.1|(957-1018:1217) Hyaluronidase [Lactobacillus pasteurii CRBIP 24.76] >gi|394481383|emb|CCI84526.1| Hyaluronidase [Lactobacillus pasteurii CRBIP 24.76]  E=1e-08 s/c=1.02 id=22% cov=86%
+DVKVVEQTNDIQAVYDKENNMYGVVKYNDNPYMLSKDLVLKQAGIYIIKKINDGYELSFSHP-----------
+>gi|357237798|ref|ZP_09125138.1|(997-1060:1060) polysaccharide lyase family 8, N-terminal alpha-helical domain protein [Streptococcus ictaluri 707-05] >gi|356753547|gb|EHI70657.1| polysaccharide lyase family 8, N-terminal alpha-helical domain protein [Streptococcus ictaluri 707-05]  E=3e-08 s/c=0.96 id=29% cov=89%
+-VKVLRNDKQFQVLHDQKQDLWTVVKYQDGQETLYPNMMLDKAGLYLFQKEGDHFKELSHRNLTK--------
+>gi|406658043|ref|ZP_11066183.1|(1014-1083:1167) hyaluronate lyase [Streptococcus iniae 9117] >gi|405578258|gb|EKB52372.1| hyaluronate lyase [Streptococcus iniae 9117]  E=1e-14 s/c=1.19 id=42% cov=88%
+DITIIENSKQQQLIHDKGNDIWALIKYKDDKLTVNNYLRTEKAGLYLFKNMGDYYQENYYQPD----------
+>gi|422697909|ref|ZP_16755837.1|(998-1059:1178) LPXTG-motif protein cell wall anchor domain protein [Enterococcus faecalis TX1346] >gi|315173541|gb|EFU17558.1| LPXTG-motif protein cell wall anchor domain protein [Enterococcus faecalis TX1346]  E=2e-13 s/c=1.27 id=29% cov=86%
+-IEVIQNDETAQAIYDKELNSWGIVLYEDQGFKVDENLTVTKQGIYSIKKEKNQYSLSYYNPS----------
+>gi|259046916|ref|ZP_05737317.1|(932-994:1106) hyaluronoglucosaminidase [Granulicatella adiacens ATCC 49175] >gi|259036359|gb|EEW37614.1| hyaluronoglucosaminidase [Granulicatella adiacens ATCC 49175]  E=1e-12 s/c=1.21 id=28% cov=88%
+DIQVVENSEKTQAVFDKTNQIYGVVKYDDSELTLEDGLVLKEKGIYTIKKEGNKLDIAFLNPE----------
+>gi|283768574|ref|ZP_06341486.1|(1089-1149:1279) putative phage head-tail adaptor [Bulleidia extructa W1219] >gi|283104966|gb|EFC06338.1| putative phage head-tail adaptor [Bulleidia extructa W1219]  E=7e-09 s/c=1.05 id=29% cov=85%
+-IQLVKNTKETQVVYDRRQKSYGIVKYDTTPETF-GDVKVNQKGVYALLN-GNG---SYYNPISMKE------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	1166	1883	*	*	*	*	2750	*	*	*	*	2892	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2824	0	0	
+
+V 2    *	*	*	*	*	*	*	1113	*	*	*	*	*	*	*	3729	*	1113	*	*	2
+       0	*	*	*	*	*	*	3400	0	0	
+
+E 3    *	*	*	1827	*	*	*	*	1761	*	*	*	*	2175	*	3097	3560	*	*	*	3
+       0	*	*	*	*	*	*	3399	0	0	
+
+L 4    *	*	*	*	*	*	*	2718	*	1239	*	*	*	*	*	*	*	1236	*	*	4
+       0	*	*	*	*	*	*	3424	0	0	
+
+L 5    *	*	*	*	*	*	*	2321	*	969	*	*	*	*	*	*	*	1790	*	*	5
+       0	*	*	*	*	*	*	3424	0	0	
+
+E 6    *	*	*	1331	*	*	3894	*	3043	*	*	*	*	1853	2866	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3424	0	0	
+
+N 7    *	*	*	*	*	*	*	*	*	*	*	224	*	2799	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3424	0	0	
+
+S 8    *	*	1538	*	*	*	*	*	*	*	*	1826	*	*	*	2159	2741	*	*	*	8
+       0	*	*	*	*	*	*	3424	0	0	
+
+S 9    3870	*	3377	2415	*	*	*	*	1744	*	*	3710	*	*	3894	2282	*	*	*	*	9
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 10   *	*	2268	3772	*	*	*	*	1694	*	*	*	*	2150	*	3870	3101	*	*	*	10
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 11   3887	*	*	*	3770	*	*	3710	*	1261	*	*	*	2709	*	*	2794	3870	*	*	11
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 12   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3424	0	0	
+
+V 13   1397	*	*	*	*	*	*	3968	*	2681	*	*	*	*	*	4352	*	1508	*	*	13
+       0	*	*	*	*	*	*	3424	0	0	
+
+I 14   *	*	*	*	*	*	*	1468	*	2866	*	*	*	*	*	*	*	996	*	*	14
+       0	*	*	*	*	*	*	3424	0	0	
+
+Y 15   *	*	*	*	3816	*	1771	*	*	*	*	*	*	*	*	*	*	*	*	653	15
+       0	*	*	*	*	*	*	3424	0	0	
+
+D 16   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 17   2227	*	*	*	*	*	3968	*	975	*	*	*	*	2831	3772	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3424	0	0	
+
+N 18   *	*	3870	2243	*	3581	*	*	1706	*	*	3849	*	4375	3772	3867	3816	*	*	*	18
+       0	*	*	*	*	*	*	3424	0	0	
+
+S 19   *	*	*	3870	*	*	*	*	*	3887	*	2114	*	1014	*	2858	*	*	*	*	19
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 20   *	*	1771	3870	*	4352	*	*	2398	*	*	2243	*	2407	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3424	0	0	
+
+T 21   *	*	*	*	*	*	*	2303	*	1847	3710	*	*	*	*	2257	3849	2605	*	*	21
+       0	*	*	*	*	*	*	3424	0	0	
+
+W 22   *	*	*	*	*	*	*	*	*	3789	*	*	*	*	*	*	*	*	500	2180	22
+       0	*	*	*	*	*	*	3424	0	0	
+
+A 23   2150	*	*	*	*	813	*	*	*	*	*	*	*	*	*	*	2281	*	*	*	23
+       0	*	*	*	*	*	*	3424	0	0	
+
+V 24   *	*	*	*	*	*	*	1806	*	3581	*	*	*	*	*	*	*	666	*	*	24
+       0	*	*	*	*	*	*	3424	0	0	
+
+I 25   3789	*	*	*	*	*	*	2175	*	*	*	*	*	*	*	*	*	502	*	*	25
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 26   *	*	*	*	*	*	*	*	322	2879	*	3968	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3424	0	0	
+
+H 27   *	*	*	*	*	*	3849	*	3867	*	*	*	*	*	*	*	*	*	*	214	27
+       0	*	*	*	*	*	*	3424	0	0	
+
+D 28   *	*	1227	2879	*	*	3968	*	3581	*	*	2749	*	3770	*	*	3894	*	*	*	28
+       0	*	*	*	*	*	*	3424	0	0	
+
+N 29   *	*	481	*	*	*	*	*	*	*	*	3849	*	3789	*	3867	3772	*	*	*	29
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 30   3789	*	3581	*	*	2866	*	*	3867	*	3870	3710	*	2868	*	2209	2832	*	*	*	30
+       0	*	*	*	*	*	*	3424	0	0	
+
+E 31   3116	*	*	2832	*	3887	*	*	2681	*	*	*	1513	3770	*	*	*	3364	*	*	31
+       0	*	*	*	*	*	*	3424	0	0	
+
+S 32   *	*	*	2192	2290	*	*	*	*	2694	*	*	*	3968	*	2220	*	*	*	2799	32
+       0	*	*	*	*	*	*	3424	0	0	
+
+L 33   *	*	*	3870	*	*	*	*	2891	2858	3710	*	*	*	3968	*	1164	3789	*	*	33
+       0	*	*	*	*	*	*	3424	0	0	
+
+I 34   *	*	*	*	3772	*	*	1036	*	1796	*	*	*	*	*	*	*	2726	*	*	34
+       110	*	3772	*	*	*	*	3424	0	0	
+
+N 35   *	*	2779	3694	*	*	*	*	*	*	*	1381	*	*	*	2035	3802	*	*	3690	35
+       0	*	*	*	*	0	*	3339	0	1000	
+
+N 36   *	*	1998	3887	*	2225	*	*	3710	*	*	1651	3770	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 37   3870	*	2205	*	*	3816	*	*	4379	*	*	2828	*	1630	4375	*	*	*	*	3581	37
+       0	*	*	*	*	*	*	3424	0	0	
+
+F 38   *	*	*	*	2220	*	*	2292	*	1202	3770	*	*	*	*	*	*	3772	*	*	38
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 39   *	*	*	*	*	*	*	*	2810	*	3770	*	*	2226	3581	3789	1905	2762	*	*	39
+       0	*	*	*	*	*	*	3424	0	0	
+
+M 40   *	*	*	*	*	*	*	*	*	834	3849	*	*	*	*	*	3581	1806	*	*	40
+       0	*	*	*	*	*	*	3424	0	0	
+
+N 41   *	*	3770	2186	*	*	*	*	2762	3365	*	2810	*	*	4375	*	1880	*	*	*	41
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 42   *	*	3894	3816	*	*	*	*	636	*	*	3867	*	2741	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	3424	0	0	
+
+A 43   1201	*	*	*	*	*	*	*	2234	*	*	*	*	3887	2784	2841	*	*	*	*	43
+       0	*	*	*	*	*	*	3424	0	0	
+
+G 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	3424	0	0	
+
+L 45   *	*	*	*	*	*	*	1592	*	1065	*	*	*	*	*	*	*	2392	*	*	45
+       0	*	*	*	*	*	*	3424	0	0	
+
+Y 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	46
+       0	*	*	*	*	*	*	3424	0	0	
+
+L 47   3772	*	*	*	*	*	*	3710	*	1464	3867	*	*	*	*	2879	1819	*	*	*	47
+       0	*	*	*	*	*	*	3424	0	0	
+
+V 48   *	*	*	*	2672	*	*	1012	*	3772	*	*	*	*	*	*	*	2858	*	2876	48
+       0	*	*	*	*	*	*	3424	0	0	
+
+Q 49   *	*	*	*	*	*	*	*	1446	3772	*	*	*	1270	2784	*	*	*	*	*	49
+       0	*	*	*	*	*	*	3424	0	0	
+
+K 50   *	*	*	*	*	*	*	*	246	*	*	2673	*	*	*	*	*	*	*	*	50
+       110	*	3772	*	*	*	*	3424	0	0	
+
+V 51   *	*	*	1376	*	*	*	3556	3754	3747	3458	*	*	*	*	*	*	1785	*	*	51
+       111	*	3754	*	*	0	*	3339	0	1000	
+
+G 52   *	*	4254	3782	*	596	*	*	3643	*	*	2909	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	0	*	3350	0	1000	
+
+N 53   *	*	1512	*	*	3894	*	*	*	*	*	905	*	*	*	4379	*	*	*	*	53
+       0	*	*	*	*	*	*	3424	0	0	
+
+D 54   *	*	2819	2595	*	1916	3770	*	3816	*	*	*	*	3887	*	*	3867	3968	*	3581	54
+       110	*	3772	*	*	*	*	3424	0	0	
+
+Y 55   *	*	*	*	2181	*	*	*	*	3694	*	*	*	*	*	*	*	*	*	510	55
+       0	*	*	*	*	*	0	3339	0	1000	
+
+Q 56   *	*	3694	3556	*	*	*	*	1139	*	*	*	*	2588	2778	3804	*	*	*	*	56
+       0	*	*	*	*	*	0	3339	0	1000	
+
+N 57   *	*	*	2569	*	*	*	1853	*	2162	*	3730	*	3716	*	*	*	2476	*	*	57
+       0	*	*	*	*	0	*	3339	0	1000	
+
+V 58   1967	*	*	*	*	*	*	*	*	2255	*	3581	*	*	*	1389	*	3849	*	*	58
+       0	*	*	*	*	*	*	3424	0	0	
+
+Y 59   *	*	*	*	2220	*	*	*	*	*	*	*	*	*	*	2255	3867	*	*	979	59
+       0	*	*	*	*	*	*	3424	0	0	
+
+Y 60   *	*	*	*	2708	*	3418	*	*	3777	*	*	*	*	*	3655	*	*	*	734	60
+       0	*	*	*	*	*	*	3350	0	0	
+
+Q 61   *	*	*	*	*	*	3655	*	3622	*	*	770	*	2649	3418	*	*	*	*	*	61
+       0	*	*	*	*	*	*	3350	0	0	
+
+P 62   *	*	*	*	*	*	*	*	*	*	*	3211	165	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	3276	0	0	
+
+Q 63   *	*	3149	1844	*	*	*	3340	*	2981	*	*	*	3230	*	1853	*	*	*	*	63
+       0	*	*	*	*	*	*	3153	0	0	
+
+T 64   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2651	250	*	*	*	64
+       0	*	*	*	*	*	*	2570	0	0	
+
+M 65   *	*	*	*	*	*	*	*	1340	*	1573	*	*	3223	2630	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2570	0	0	
+
+T 66   *	*	*	*	*	*	*	*	2252	*	*	2610	*	*	*	2641	1101	*	*	*	66
+       0	*	*	*	*	*	*	2236	0	0	
+
+K 67   *	*	*	1913	*	*	*	*	1715	*	*	*	*	*	*	1219	*	*	*	*	67
+       0	*	*	*	*	*	*	1954	0	0	
+
+T 68   753	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1298	*	*	*	68
+       0	*	*	*	*	*	*	1645	0	0	
+
+D 69   *	*	1298	*	*	*	*	*	*	*	*	*	*	*	*	753	*	*	*	*	69
+       0	*	*	*	*	*	*	1645	0	0	
+
+Q 70   *	*	*	*	*	*	*	*	753	*	*	*	*	1298	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1645	0	0	
+
+L 71   *	*	1000	*	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	1582	0	0	
+
+A 72   1000	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	72
+       0	*	*	*	*	*	*	1582	0	0	
+
+I 73   *	*	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	1000	*	*	73
+       0	*	*	0	*	*	*	1582	0	0	
+
+//

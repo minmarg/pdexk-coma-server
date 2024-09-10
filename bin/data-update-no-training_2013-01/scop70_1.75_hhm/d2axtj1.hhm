@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d2axtj1 f.23.32.1 (J:7-40) Photosystem II reaction center protein J, PsbJ {Thermosynechococcus elongatus [TaxId: 146786]}
+FAM   f.23.32.1
+FILE  d2axtj1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2axtj1.a3m -v 1 
+DATE  Tue Jan 22 05:39:31 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  74 out of 76 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+9723356888899999999999975443013459
+>Consensus
+rIPLWlvxtvaGxxvixxvglFfYGsYsGlGSsl
+>d2axtj1 f.23.32.1 (J:7-40) Photosystem II reaction center protein J, PsbJ {Thermosynechococcus elongatus [TaxId: 146786]}
+RIPLWIVATVAGMGVIVIVGLFFYGAYAGLGSSL
+>gi|290760276|gb|ADD54631.1|(6-39:39) photosystem II J protein [Galdieria sulphuraria]   E=4e-05 s/c=1.51 id=57% cov=103%
+RVPLWLIATIGGIGLITVMGLFFYGSYSGIGSAL
+>gi|11467324|ref|NP_043181.1|(7-40:40) photosystem II protein J [Cyanophora paradoxa] >gi|131345|sp|P19155.1|PSBJ_CYAPA RecName: Full=Photosystem II reaction center protein J; Short=PSII-J >gi|336629|gb|AAA31698.1| cytochrome b-559 apoprotein (psbJ) [Cyanophora paradoxa] >gi|1016125|gb|AAA81212.1| PsbJ subunit of photosystem II reaction center complex [Cyanophora paradoxa]  E=7e-05 s/c=1.48 id=66% cov=103%
+RIPLWLVATVAGLAAIGVLGIFFYGGYSGLGSSI
+>gi|254422555|ref|ZP_05036273.1|(6-39:39) PsbJ superfamily [Synechococcus sp. PCC 7335] >gi|196190044|gb|EDX85008.1| PsbJ superfamily [Synechococcus sp. PCC 7335]  E=0.0001 s/c=1.47 id=66% cov=103%
+KIPLWIVATVAGIGVLGVVGIFFYGSYVGTGSAV
+>gi|108796718|ref|YP_636528.1|(9-42:42) photosystem II protein J [Zygnema circumcarinatum] >gi|122211730|sp|Q32RJ8.1|PSBJ_ZYGCR RecName: Full=Photosystem II reaction center protein J; Short=PSII-J >gi|61393702|gb|AAX45844.1| J protein of photosystem II [Zygnema circumcarinatum]  E=0.0001 s/c=1.47 id=66% cov=103%
+RIPLWFIGVIAGIAALSIVGLFFYGAYSGLGSSL
+>gi|7524823|ref|NP_045825.1|(9-42:42) photosystem II protein J [Chlorella vulgaris] >gi|3024464|sp|P56338.1|PSBJ_CHLVU RecName: Full=Photosystem II reaction center protein J; Short=PSII-J >gi|2224416|dbj|BAA57900.1| photosystem II PsbJ protein [Chlorella vulgaris]  E=0.0002 s/c=1.43 id=63% cov=103%
+RIPLWLVGTVAGTAALTLVAVFFYGSYVGLGSSL
+>gi|301500990|ref|YP_003795455.1|(6-39:39) photosystem II protein J [Alveolata sp. CCMP3155] >gi|301501003|ref|YP_003795468.1| photosystem II protein J [Alveolata sp. CCMP3155] >gi|300069536|gb|ADJ66643.1| photosystem II protein J (chloroplast) [Chromerida sp. RM11] >gi|300069549|gb|ADJ66656.1| photosystem II protein J (chloroplast) [Chromerida sp. RM11]  E=0.0005 s/c=1.41 id=54% cov=103%
+RVPLWLIACIGGMAVLTLLGLFIYGSYSGLGSSI
+>gi|215400804|ref|YP_002327565.1|(6-39:39) PSII protein J [Vaucheria litorea] >gi|194441254|gb|ACF70982.1| PSII protein J [Vaucheria litorea]  E=0.0005 s/c=1.41 id=60% cov=103%
+RIPLWLIALIGGLGVLAVVGSFIFGAYSGLGSSL
+>gi|11467535|ref|NP_043681.1|(6-39:39) photosystem II protein J [Odontella sinensis] >gi|1346862|sp|P49512.1|PSBJ_ODOSI RecName: Full=Photosystem II reaction center protein J; Short=PSII-J >gi|1185230|emb|CAA91713.1| PSII, protein J [Odontella sinensis]  E=0.0007 s/c=1.38 id=63% cov=103%
+RIPLWLVGLVGGLAVITMLSLFLYGAYSGLGSSL
+>gi|372000559|gb|AEX65356.1|(7-40:40) photosystem II reaction center protein J [Blossfeldia liliputana] >gi|372000575|gb|AEX65364.1| photosystem II reaction center protein J [Weingartia kargliana]  E=0.0008 s/c=1.38 id=63% cov=103%
+RIPLWIIGIVTGILVIGLIGIFFYGSYSGLGSSL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	3197	*	*	*	*	*	167	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1851	0	0	
+
+I 2    *	*	*	*	*	*	*	195	*	4535	*	*	*	*	*	*	*	3587	*	*	2
+       0	*	*	*	*	*	*	1865	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1865	0	0	
+
+L 4    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1865	0	0	
+
+W 5    *	5415	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34	*	5
+       0	*	*	*	*	*	*	1865	0	0	
+
+I 6    *	*	*	*	4954	*	*	2085	*	865	4157	*	*	*	*	*	*	2977	*	*	6
+       0	*	*	*	*	*	*	1865	0	0	
+
+V 7    *	*	*	*	*	*	*	1593	*	*	*	*	*	*	*	*	*	581	*	*	7
+       0	*	*	*	*	*	*	1865	0	0	
+
+A 8    958	*	*	*	*	1111	*	*	*	*	*	*	*	*	*	5485	*	*	*	*	8
+       0	*	*	*	*	*	*	1865	0	0	
+
+T 9    *	5680	*	*	*	*	*	5966	*	3513	*	*	*	*	*	*	354	3402	*	*	9
+       0	*	*	*	*	*	*	1865	0	0	
+
+V 10   5231	*	*	*	5966	*	*	1648	*	4836	5046	*	*	*	*	*	*	803	*	*	10
+       0	*	*	*	*	*	*	1865	0	0	
+
+A 11   650	*	*	*	*	2353	*	*	*	*	5711	*	*	*	*	*	3241	4575	*	*	11
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1865	0	0	
+
+M 13   *	*	*	*	*	*	*	1687	*	1881	2453	*	*	*	*	*	2206	5754	*	*	13
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 14   1683	*	*	*	*	1050	*	5711	*	3036	*	*	4962	*	*	*	*	4943	*	*	14
+       0	*	*	*	*	*	*	1865	0	0	
+
+V 15   2459	*	*	*	*	*	*	4126	*	4823	*	*	*	*	*	*	*	463	*	*	15
+       0	*	*	*	*	*	*	1865	0	0	
+
+I 16   *	*	*	*	*	*	*	516	*	1733	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1865	0	0	
+
+V 17   2621	*	*	*	5231	1772	*	*	*	*	*	*	*	*	*	3407	1824	2822	*	*	17
+       0	*	*	*	*	*	*	1865	0	0	
+
+I 18   *	*	*	*	*	*	*	3154	*	1406	4823	*	*	*	*	*	*	1074	*	*	18
+       0	*	*	*	*	*	*	1865	0	0	
+
+V 19   *	*	*	*	*	*	*	3363	*	1552	4587	*	*	*	*	*	*	943	*	*	19
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 20   3969	*	*	*	*	220	*	*	*	*	*	*	*	*	*	3689	*	*	*	*	20
+       0	*	*	*	*	*	*	1865	0	0	
+
+L 21   *	*	*	*	*	*	*	1428	*	1058	*	*	*	*	*	4988	4960	3562	*	*	21
+       0	*	*	*	*	*	*	1865	0	0	
+
+F 22   *	*	*	*	37	*	*	*	*	5313	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1865	0	0	
+
+F 23   *	*	*	*	220	*	*	3323	*	5540	*	*	*	*	*	5631	*	*	*	*	23
+       0	*	*	*	*	*	*	1865	0	0	
+
+Y 24   *	*	*	*	4988	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46	24
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1865	0	0	
+
+A 26   1238	*	*	*	*	5687	*	*	*	*	*	*	*	*	*	845	*	*	*	*	26
+       0	*	*	*	*	*	*	1865	0	0	
+
+Y 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	27
+       0	*	*	*	*	*	*	1865	0	0	
+
+A 28   1706	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1022	4090	2813	*	*	28
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 29   *	*	*	*	*	47	4960	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1865	0	0	
+
+L 30   *	*	*	*	*	*	*	3996	*	425	*	*	*	*	*	*	5689	2529	*	*	30
+       0	*	*	*	*	*	*	1865	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1865	0	0	
+
+S 32   5046	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44	*	*	*	*	32
+       0	*	*	*	*	*	*	1865	0	0	
+
+S 33   2583	*	*	*	*	5644	*	*	*	*	*	*	*	*	*	298	*	*	*	*	33
+       0	*	*	*	*	*	*	1850	0	0	
+
+L 34   *	*	*	*	*	*	*	3904	*	497	2943	*	*	*	*	*	*	3403	*	*	34
+       0	*	*	0	*	*	*	1828	0	0	
+
+//

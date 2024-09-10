@@ -1,0 +1,120 @@
+HHsearch 1.5
+NAME  d1a7ia1 g.39.1.3 (A:8-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+FAM   g.39.1.3
+FILE  d1a7ia1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1a7ia1.a3m -v 1 
+DATE  Tue Jan 22 00:16:35 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCEECCCEEEECCCCCCCCCC
+>ss_conf
+9654667710010000016632111159
+>Consensus
+nkcgxcxxtvyxaeevqcdgrsfhkxcf
+>d1a7ia1 g.39.1.3 (A:8-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+NKCGACGRTVYHAEEVQCDGRSFHRCCF
+>gi|147900845|ref|NP_001087442.1|(8-35:192) cysteine and glycine-rich protein 2 [Xenopus laevis] >gi|51260944|gb|AAH79792.1| MGC86339 protein [Xenopus laevis]  E=2e-06 s/c=1.98 id=79% cov=104%
+NKCGACGSNVYHAEEVQCDGKSYHKCCF
+>gi|209730884|gb|ACI66311.1|(8-35:193) Cysteine and glycine-rich protein 2 [Salmo salar]   E=4e-06 s/c=1.95 id=83% cov=104%
+NKCGACQGTVYHAEEVQCDGKSFHKCCF
+>gi|90103344|gb|ABD85516.1|(7-34:92) cysteine and glycine-rich protein 1 [Ictalurus punctatus]   E=6e-05 s/c=1.80 id=76% cov=104%
+NKCGCCQKTVYFAEEVQCDGRSFHKSCF
+>gi|109107042|ref|XP_001095430.1|(9-35:194) PREDICTED: cysteine and glycine-rich protein 3 isoform 2 [Macaca mulatta] >gi|149719519|ref|XP_001505029.1| PREDICTED: cysteine and glycine-rich protein 3-like [Equus caballus] >gi|402894051|ref|XP_003910187.1| PREDICTED: cysteine and glycine-rich protein 3 [Papio anubis] >gi|355566940|gb|EHH23319.1| Cysteine-rich protein 3 [Macaca mulatta] >gi|355752274|gb|EHH56394.1| Cysteine-rich protein 3 [Macaca fascicularis]  E=6e-05 s/c=1.87 id=75% cov=100%
+-KCGACEKTVYHAEEIQCNGRSFHKTCF
+>gi|226442720|ref|NP_001139935.1|(7-34:192) Cysteine and glycine-rich protein 1 [Salmo salar] >gi|221220190|gb|ACM08756.1| Cysteine and glycine-rich protein 1 [Salmo salar]  E=0.0007 s/c=1.68 id=69% cov=104%
+NKCGCCQKTVYFAEEVQCEGKYFHKCCF
+>gi|410912684|ref|XP_003969819.1|(9-35:193) PREDICTED: cysteine and glycine-rich protein 3-like [Takifugu rubripes]  E=0.001 s/c=1.73 id=68% cov=100%
+-KCAACEKTVYHAEEIQCNSRSFHKTCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1360	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1464	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1464	0	0	
+
+G 4    3133	3478	*	*	*	329	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1464	0	0	
+
+A 5    619	2002	*	*	*	*	*	*	*	*	*	*	*	*	3332	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1464	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1464	0	0	
+
+G 7    *	*	*	2320	*	2318	*	*	*	*	*	3478	*	973	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1464	0	0	
+
+R 8    *	*	*	*	*	1999	*	*	864	*	*	*	*	*	3525	3138	*	*	*	*	8
+       0	*	*	*	*	*	*	1464	0	0	
+
+T 9    *	*	*	*	*	*	*	*	*	*	*	3138	*	*	*	*	174	*	*	*	9
+       0	*	*	*	*	*	*	1464	0	0	
+
+V 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	10
+       0	*	*	*	*	*	*	1464	0	0	
+
+Y 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	11
+       0	*	*	*	*	*	*	1464	0	0	
+
+H 12   *	*	*	*	1519	*	619	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1464	0	0	
+
+A 13   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1464	0	0	
+
+E 14   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1464	0	0	
+
+E 15   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1464	0	0	
+
+V 16   *	*	*	*	*	*	*	2320	*	*	*	*	*	*	*	*	*	323	*	*	16
+       0	*	*	*	*	*	*	1464	0	0	
+
+Q 17   *	*	*	*	*	*	*	*	*	3332	*	*	*	151	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1464	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1464	0	0	
+
+D 19   *	*	679	2512	*	*	*	*	*	*	*	2320	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1464	0	0	
+
+G 20   *	*	*	*	*	175	*	*	*	*	*	*	*	*	*	3133	*	*	*	*	20
+       0	*	*	*	*	*	*	1464	0	0	
+
+R 21   *	*	*	*	*	*	*	*	1142	*	*	*	*	*	870	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1464	0	0	
+
+S 22   *	*	*	*	3483	*	*	*	*	*	*	*	*	*	*	284	*	*	*	3487	22
+       0	*	*	*	*	*	*	1464	0	0	
+
+F 23   *	*	*	*	174	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3138	23
+       0	*	*	*	*	*	*	1464	0	0	
+
+H 24   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1464	0	0	
+
+R 25   *	*	*	*	*	*	*	*	274	*	*	*	*	*	2532	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1464	0	0	
+
+C 26   *	1151	*	*	*	*	*	*	3483	*	*	*	*	*	*	1944	2320	*	*	*	26
+       0	*	*	*	*	*	*	1464	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1464	0	0	
+
+F 28   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1464	0	0	
+
+//

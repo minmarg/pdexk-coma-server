@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d1b8ta1 g.39.1.3 (A:1-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+FAM   g.39.1.3
+FILE  d1b8ta1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1b8ta1.a3m -v 1 
+DATE  Mon Jan 21 18:50:43 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCEEECCCCCCCCCC
+>ss_conf
+98888886042125520010001006653112259
+>Consensus
+mpnxgggnkcgxcxktvyxaeevqcxgxsfhkscf
+>d1b8ta1 g.39.1.3 (A:1-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+MPNWGGGKKCGVCQKAVYFAEEVQCEGSSFHKSCF
+>gi|426240601|ref|XP_004014186.1|(1-35:209) PREDICTED: cysteine and glycine-rich protein 1-like [Ovis aries]   E=9e-11 s/c=2.00 id=83% cov=103%
+MPNWGGGKTCGVCRKTVYFAEEVQCEGGSFHRSCF
+>gi|387914776|gb|AFK10997.1|(19-53:210) cysteine and glycine-rich protein 1-like isoform 1 [Callorhinchus milii]  E=3e-09 s/c=1.86 id=78% cov=103%
+MPNLGGGNKCGVCQKNVYFAEEMQCDGKSYHKSCF
+>gi|109107042|ref|XP_001095430.1|(1-35:194) PREDICTED: cysteine and glycine-rich protein 3 isoform 2 [Macaca mulatta] >gi|149719519|ref|XP_001505029.1| PREDICTED: cysteine and glycine-rich protein 3-like [Equus caballus] >gi|402894051|ref|XP_003910187.1| PREDICTED: cysteine and glycine-rich protein 3 [Papio anubis] >gi|355566940|gb|EHH23319.1| Cysteine-rich protein 3 [Macaca mulatta] >gi|355752274|gb|EHH56394.1| Cysteine-rich protein 3 [Macaca fascicularis]  E=1e-08 s/c=1.79 id=72% cov=103%
+MPNWGGGAKCGACEKTVYHAEEIQCNGRSFHKTCF
+>gi|41053804|ref|NP_957191.1|(1-35:193) cysteine and glycine-rich protein 2 [Danio rerio] >gi|39794621|gb|AAH64303.1| Zgc:77740 [Danio rerio]  E=9e-07 s/c=1.62 id=69% cov=103%
+MPNWGGGNKCCACNGTVYHAEEVQCDGKSFHKCCF
+>gi|47211661|emb|CAF96117.1|(1-34:134) unnamed protein product [Tetraodon nigroviridis]   E=1e-06 s/c=1.65 id=80% cov=100%
+MP-FGGGNKCGCCQKTVYFAEEVQCEGKSWHKSCF
+>gi|90103268|gb|ABD85479.1|(1-34:44) cysteine and glycine-rich protein 1 [Ictalurus punctatus]   E=3e-06 s/c=1.62 id=77% cov=100%
+MP-LGGGNKCGCCQKTVYFAEEVQCDRRSFHKSCF
+>gi|354488957|ref|XP_003506632.1|(1-35:201) PREDICTED: cysteine and glycine-rich protein 2-like [Cricetulus griseus] >gi|344241224|gb|EGV97327.1| Cysteine and glycine-rich protein 2 [Cricetulus griseus]  E=4e-09 s/c=1.85 id=67% cov=103%
+MPVWGGGNKCGACARTVYHAEEVQCDGRSFHRCCF
+>gi|147900845|ref|NP_001087442.1|(1-35:192) cysteine and glycine-rich protein 2 [Xenopus laevis] >gi|51260944|gb|AAH79792.1| MGC86339 protein [Xenopus laevis]  E=5e-08 s/c=1.75 id=69% cov=103%
+MPNWGGGNKCGACGSNVYHAEEVQCDGKSYHKCCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1477	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       644	*	1474	*	*	*	*	1477	0	0	
+
+N 3    *	*	*	*	*	*	*	*	*	*	*	182	*	*	*	*	*	3080	*	*	3
+       0	*	*	*	*	0	*	1460	0	1184	
+
+W 4    *	*	*	*	3950	*	*	*	*	1470	*	*	*	*	*	*	*	*	800	*	4
+       0	*	*	*	*	*	*	1477	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1477	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1477	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1477	0	0	
+
+K 8    3492	*	*	*	*	*	*	*	2271	*	*	506	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1477	0	0	
+
+K 9    *	*	*	*	*	*	*	*	112	*	*	*	*	*	*	*	3747	*	*	*	9
+       0	*	*	*	*	*	*	1477	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1477	0	0	
+
+G 11   *	3886	*	*	*	212	*	*	*	*	*	*	*	*	*	3851	*	*	*	*	11
+       0	*	*	*	*	*	*	1477	0	0	
+
+V 12   1446	1772	*	*	*	*	*	*	*	*	*	*	*	*	3895	*	*	1873	*	*	12
+       0	*	*	*	*	*	*	1477	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1477	0	0	
+
+Q 14   3668	*	*	3492	*	3851	*	*	4147	*	*	3886	*	825	3747	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1477	0	0	
+
+K 15   *	*	*	*	*	2941	*	*	470	*	*	*	*	*	3668	3851	*	*	*	*	15
+       0	*	*	*	*	*	*	1477	0	0	
+
+A 16   3980	*	*	*	*	*	*	*	*	*	*	2887	*	*	*	3851	450	*	*	*	16
+       0	*	*	*	*	*	*	1477	0	0	
+
+V 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	17
+       0	*	*	*	*	*	*	1477	0	0	
+
+Y 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	18
+       0	*	*	*	*	*	*	1477	0	0	
+
+F 19   *	*	*	*	660	*	1446	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1477	0	0	
+
+A 20   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1477	0	0	
+
+E 21   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1477	0	0	
+
+E 22   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1477	0	0	
+
+V 23   *	*	*	*	*	*	*	3492	*	*	3924	*	*	*	*	*	*	243	*	*	23
+       0	*	*	*	*	*	*	1477	0	0	
+
+Q 24   *	*	*	*	*	*	*	*	*	3895	*	*	*	100	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1477	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1477	0	0	
+
+E 26   *	*	1081	1190	*	*	*	*	*	*	*	3492	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1477	0	0	
+
+G 27   *	*	*	*	*	92	*	*	*	*	*	*	*	*	4023	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1477	0	0	
+
+S 28   *	*	*	*	*	2798	*	*	1364	*	*	*	*	4147	1523	3980	*	*	*	*	28
+       0	*	*	*	*	*	*	1477	0	0	
+
+S 29   *	*	*	*	3998	*	*	*	*	*	*	*	*	*	*	186	*	*	*	4101	29
+       0	*	*	*	*	*	*	1477	0	0	
+
+F 30   *	*	*	*	322	*	*	*	*	*	*	*	*	*	*	*	*	*	3950	2887	30
+       0	*	*	*	*	*	*	1477	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1477	0	0	
+
+K 32   *	*	*	*	*	*	*	*	331	*	*	*	*	*	2287	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1477	0	0	
+
+S 33   *	1868	*	*	*	*	*	*	*	*	*	*	*	*	*	650	3492	*	*	*	33
+       0	*	*	*	*	*	*	1477	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1477	0	0	
+
+F 35   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1477	0	0	
+
+//

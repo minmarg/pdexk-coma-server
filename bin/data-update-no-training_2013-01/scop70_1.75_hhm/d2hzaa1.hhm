@@ -1,0 +1,186 @@
+HHsearch 1.5
+NAME  d2hzaa1 a.43.1.3 (A:1-48) Nickel responsive regulator NikR, N-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   a.43.1.3
+FILE  d2hzaa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2hzaa1.a3m -v 1 
+DATE  Tue Jan 22 07:37:14 2013
+LENG  48 match states, 48 columns in multiple alignment
+FILT  110 out of 307 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCEECCCCCHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+962203369899999999998479998778999999999999987509
+>Consensus
+MxrxsvslpxxLlxxxDxxvxxxgyxnRSEaIRdliRxxlxxxxxxex
+>d2hzaa1 a.43.1.3 (A:1-48) Nickel responsive regulator NikR, N-terminal domain {Escherichia coli [TaxId: 562]}
+MQRVTITLDDDLLETLDSLSQRRGYNNRSEAIRDILRSALAQEATQQH
+>gi|406674007|ref|ZP_11081223.1|(5-50:134) nickel-responsive transcriptional regulator NikR [Bergeyella zoohelcum CCUG 30536] >gi|423317207|ref|ZP_17295112.1| nickel-responsive transcriptional regulator NikR [Bergeyella zoohelcum ATCC 43767] >gi|405581679|gb|EKB55693.1| nickel-responsive transcriptional regulator NikR [Bergeyella zoohelcum ATCC 43767] >gi|405584973|gb|EKB58815.1| nickel-responsive transcriptional regulator NikR [Bergeyella zoohelcum CCUG 30536]  E=4e-09 s/c=1.40 id=30% cov=98%
+--RFGVSLDEDVLSDLDDFVAEHQFPNRSQAIRHLVENRLVENNWNKN
+>gi|359429616|ref|ZP_09220640.1|(22-69:160) nickel responsive regulator [Acinetobacter sp. NBRC 100985] >gi|358235077|dbj|GAB02179.1| nickel responsive regulator [Acinetobacter sp. NBRC 100985]  E=9e-06 s/c=1.10 id=29% cov=102%
+LTRISITVPEKTVEALDQKIVEEHYESRSQAIVDMINRHLIHQYTTEN
+>gi|148508099|gb|ABQ75894.1|(20-67:78) probable transcriptional regulator [uncultured haloarchaeon]   E=1e-05 s/c=1.09 id=29% cov=102%
+MERVTLRIPKQQIEEVEQMVETGEFPNRSEAIRSAVREMINEQQDDRH
+>gi|357419877|ref|YP_004932869.1|(4-50:135) CopG family transcriptional regulator [Thermovirga lienii DSM 17291] >gi|355397343|gb|AER66772.1| transcriptional regulator NikR, CopG family [Thermovirga lienii DSM 17291]  E=7e-12 s/c=1.56 id=25% cov=100%
+LARFSISLPESLLEEFDRWIEKKGHTSRSDVLRQLIRNYISETYWEE-
+>gi|257051252|ref|YP_003129085.1|(13-58:172) transcriptional regulator NikR, CopG family [Halorhabdus utahensis DSM 12940] >gi|256690015|gb|ACV10352.1| transcriptional regulator NikR, CopG family [Halorhabdus utahensis DSM 12940]  E=6e-08 s/c=1.31 id=32% cov=98%
+LDRVSLTLPPEMTDRLDGIVTEWDYASRSEAVRDALRDFFTTYEWE--
+>gi|429216618|ref|YP_007174608.1|(1-47:70) putative transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain [Caldisphaera lagunensis DSM 15908] >gi|429133147|gb|AFZ70159.1| putative transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain [Caldisphaera lagunensis DSM 15908]  E=4e-07 s/c=1.22 id=29% cov=100%
+MKLITVKMPDLYVKGIDELVKAERYSSRSEVIRIAIRELLKRELWGE-
+>gi|118576248|ref|YP_875991.1|(6-51:131) transcriptional regulator [Cenarchaeum symbiosum A] >gi|118194769|gb|ABK77687.1| transcriptional regulator [Cenarchaeum symbiosum A]  E=0.0001 s/c=1.08 id=27% cov=94%
+---ISVSLNSEMIRELDKLQESLGFTGRSEIVRAGIRTFVQEEKQKQ-
+>gi|428309103|ref|YP_007120080.1|(1-47:91) putative addiction module antidote protein, CC2985 family [Microcoleus sp. PCC 7113] >gi|428250715|gb|AFZ16674.1| putative addiction module antidote protein, CC2985 family [Microcoleus sp. PCC 7113]  E=0.0005 s/c=1.00 id=21% cov=100%
+MTSINISLPESMKAYIEEQVATGGYGTVSEYFRELIRQDQKRKAKER-
+>gi|406994589|gb|EKE13570.1|(6-52:83) hypothetical protein ACD_13C00010G0056 [uncultured bacterium]   E=0.001 s/c=0.98 id=29% cov=100%
+MSTINISLPDKLKEAGEDLVKAGFYSSFSDLVRDSLRNSIEKTNLDQ-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	1880	457	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4717	0	0	
+
+Q 2    2755	*	5149	2403	*	*	5563	6374	2632	*	*	6379	5167	3303	5454	3559	2923	4072	*	*	2
+       0	*	*	*	*	*	*	4732	0	0	
+
+R 3    *	*	*	*	*	*	*	4579	6314	4261	*	*	*	*	550	6369	2862	4046	*	*	3
+       0	*	*	*	*	*	*	4878	0	0	
+
+V 4    *	*	*	*	1754	*	6227	1772	*	4085	4436	*	*	*	5960	*	5708	1960	*	*	4
+       0	*	*	*	*	*	*	4903	0	0	
+
+T 5    6078	6853	*	*	*	2991	*	*	*	*	6241	2839	*	*	*	1265	1828	*	*	*	5
+       0	*	*	*	*	*	*	4903	0	0	
+
+I 6    *	*	*	*	4101	*	*	1478	*	3789	5532	*	*	*	*	*	*	1032	*	*	6
+       0	*	*	*	*	*	*	4907	0	0	
+
+T 7    4073	*	*	*	*	*	4407	*	4320	*	*	*	*	6622	4379	739	2555	5975	*	*	7
+       0	*	*	*	*	*	*	4907	0	0	
+
+L 8    6517	*	*	*	6293	*	*	2715	*	720	2933	*	*	*	*	*	*	3537	*	*	8
+       0	*	*	*	*	*	*	4907	0	0	
+
+D 9    6735	*	2553	3052	*	6599	*	*	*	*	*	4582	817	6035	*	5692	4462	*	*	*	9
+       0	*	*	*	*	*	*	4907	0	0	
+
+D 10   4092	*	1811	1885	*	5078	5605	*	3286	6673	*	5284	4246	4192	5481	4390	5644	*	*	*	10
+       0	*	*	*	*	*	*	4907	0	0	
+
+D 11   4676	*	2416	2377	6293	5635	*	*	3655	6004	*	4283	3896	3906	5174	2343	4537	*	*	*	11
+       0	*	*	*	*	*	*	4907	0	0	
+
+L 12   6217	*	*	*	5621	*	*	4407	*	562	3145	*	*	4359	*	*	6221	5212	*	4667	12
+       0	*	*	*	*	*	*	4904	0	0	
+
+L 13   2993	*	*	5978	5460	*	*	3652	3841	1043	4324	*	*	*	5430	6291	5965	3332	*	*	13
+       0	*	*	*	*	*	*	4903	0	0	
+
+E 14   3056	*	2439	2189	*	6755	4792	*	3578	*	6554	3787	6676	3161	5094	3724	5591	5923	*	*	14
+       0	*	*	*	*	*	*	4903	0	0	
+
+T 15   2770	*	3967	1970	4074	4088	6840	7149	3289	5691	*	7077	*	3253	3375	6716	6911	7105	6223	4991	15
+       0	*	*	*	*	*	*	4903	0	0	
+
+L 16   *	*	*	*	1823	5937	*	2183	*	1649	6032	*	*	*	*	*	*	2768	*	*	16
+       0	*	*	*	*	*	*	4903	0	0	
+
+D 17   *	*	290	2996	*	*	*	*	*	*	*	4140	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	4903	0	0	
+
+S 18   3015	*	3786	2106	*	4872	*	*	3173	4954	6030	5617	*	3173	2658	4195	5261	6858	*	*	18
+       0	*	*	*	*	*	*	4903	0	0	
+
+L 19   6588	*	6239	5044	3420	*	5213	3818	5738	1800	3396	*	*	3376	3646	*	5131	4485	4875	3829	19
+       0	*	*	*	*	*	*	4903	0	0	
+
+S 20   3957	6814	*	*	6134	*	*	2374	*	3248	4253	*	*	4732	5820	6911	5855	1172	4743	*	20
+       19	*	6258	*	*	*	*	4903	0	0	
+
+Q 21   2799	*	4871	2150	6494	6424	5665	6081	2151	6242	*	*	*	4500	3372	3883	4339	4535	*	*	21
+       0	*	*	*	*	0	*	4845	0	1000	
+
+R 22   3675	*	4782	2319	*	5181	5387	6891	2991	4640	*	5003	*	3540	2884	3273	3436	6537	*	*	22
+       0	*	*	*	*	*	*	4903	0	0	
+
+R 23   6716	*	6840	4448	*	2135	3559	*	3052	3760	*	4445	*	4050	2143	4489	6721	6695	5702	6214	23
+       14	6695	*	0	*	*	*	4903	1000	0	
+
+G 24   6755	6537	5310	4375	5937	734	5683	5776	5661	4706	*	5161	*	4516	4057	5972	6354	5433	*	6594	24
+       17	7216	7566	0	*	*	*	4903	1000	0	
+
+Y 25   4907	6243	*	*	2317	*	6460	*	*	4958	6526	*	*	*	*	5703	*	5909	*	594	25
+       0	*	*	*	*	0	*	4862	0	1000	
+
+N 26   2580	*	5285	4019	6588	3514	*	6892	5056	*	6749	4719	2542	3607	5635	2421	3651	5545	*	*	26
+       0	*	*	*	*	*	*	4903	0	0	
+
+N 27   *	*	*	*	*	3714	*	*	*	*	*	1196	*	*	*	1375	3294	*	*	*	27
+       0	*	*	*	*	*	*	4903	0	0	
+
+R 28   6223	*	*	*	5937	*	*	*	5575	*	*	*	*	6740	211	5361	5695	4947	*	*	28
+       0	*	*	*	*	*	*	4903	0	0	
+
+S 29   5560	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31	*	*	*	*	29
+       0	*	*	*	*	*	*	4903	0	0	
+
+E 30   5326	*	4145	436	*	6542	*	6308	5499	6243	*	*	*	3053	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	4903	0	0	
+
+A 31   1000	5533	*	*	3092	4536	*	5216	*	3500	5482	*	*	*	*	*	*	3657	*	3304	31
+       0	*	*	*	*	*	*	4903	0	0	
+
+I 32   *	*	*	*	3839	*	*	856	*	3382	5263	*	*	*	*	*	6477	2032	*	*	32
+       0	*	*	*	*	*	*	4903	0	0	
+
+R 33   4372	6609	*	*	*	*	*	*	5715	*	*	*	*	*	216	6314	6219	5367	*	6469	33
+       0	*	*	*	*	*	*	4903	0	0	
+
+D 34   3211	*	927	3086	*	5751	5571	6655	*	*	5542	*	*	3988	6335	4977	5243	5776	*	5284	34
+       0	*	*	*	*	*	*	4901	0	0	
+
+I 35   1918	*	*	*	*	3983	*	4677	*	978	3820	*	*	*	*	5440	6413	5661	*	*	35
+       0	*	*	*	*	*	*	4901	0	0	
+
+L 36   5207	*	*	*	6235	*	*	1191	*	1832	4482	*	*	*	*	*	5885	2481	*	*	36
+       0	*	*	*	*	*	*	4901	0	0	
+
+R 37   6157	*	*	6620	*	*	6295	*	4746	6417	*	4945	*	*	182	*	*	*	*	*	37
+       14	*	6705	*	*	*	*	4895	0	0	
+
+S 38   3690	*	2449	2260	*	6316	6620	*	3241	4606	6532	3156	*	3670	3545	4558	5488	*	*	6759	38
+       0	*	*	*	*	0	*	4882	0	1000	
+
+A 39   2949	*	3910	4173	3123	4051	4251	*	4577	3096	4349	5636	*	5387	3833	4578	6708	6656	5815	3063	39
+       18	6368	*	2322	322	*	*	4882	1000	0	
+
+L 40   6206	*	*	7018	4496	*	*	2264	*	921	6095	6008	*	3607	6807	*	*	3703	*	*	40
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 41   2822	*	5210	3588	6313	5865	5386	3677	3979	5488	*	5645	*	3995	3782	3676	3002	2615	*	6754	41
+       0	*	*	*	*	*	*	4949	0	0	
+
+Q 42   3815	*	4310	1484	*	6190	5497	*	3453	*	*	6843	6134	2960	2590	5194	4347	*	*	*	42
+       0	*	*	*	*	*	*	4942	0	0	
+
+E 43   3759	6219	3130	2029	6421	*	4178	6293	2990	*	7067	5224	6068	2818	5238	5149	4476	6740	*	4380	43
+       0	*	*	*	*	*	*	5027	0	0	
+
+A 44   2567	*	6863	2957	6338	5667	6732	*	2846	3867	6554	4533	*	3656	2889	3556	4175	*	*	4784	44
+       0	*	*	*	*	*	*	5052	0	0	
+
+T 45   3388	*	4639	5315	5898	6124	*	6399	5953	2476	*	*	4676	4702	4167	4695	5128	*	1372	6203	45
+       0	*	*	*	*	*	*	5032	0	0	
+
+Q 46   4159	*	3844	1761	*	5413	*	*	3166	6862	5660	4932	*	2659	3342	3740	4275	*	*	*	46
+       0	*	*	*	*	*	*	4980	0	0	
+
+Q 47   *	*	2959	1114	*	*	*	*	3830	*	*	*	*	2311	3070	5762	*	*	*	*	47
+       0	*	*	*	*	*	*	4770	0	0	
+
+H 48   *	*	*	*	*	*	1789	*	*	*	*	1206	*	1851	*	*	*	*	*	*	48
+       0	*	*	0	*	*	*	3690	0	0	
+
+//

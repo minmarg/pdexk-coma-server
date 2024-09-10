@@ -1,0 +1,130 @@
+HHsearch 1.5
+NAME  d1rmda1 g.37.1.1 (A:87-116) V(D)J recombination activating protein 1 (RAG1), dimerization domain {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.37.1.1
+FILE  d1rmda1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rmda1.a3m -v 1 
+DATE  Tue Jan 22 04:42:23 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  61 out of 63 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CEEECCCCCCCCCCCHHHHHHHHCCCCCCC
+>ss_conf
+910178212211122233332120135789
+>Consensus
+LxVkCPxkxCxeEvsLeKYnhHvSsHKexk
+>d1rmda1 g.37.1.1 (A:87-116) V(D)J recombination activating protein 1 (RAG1), dimerization domain {Mouse (Mus musculus) [TaxId: 10090]}
+LMVKCPAQDCNEEVSLEKYNHHVSSHKESK
+>gi|347668369|gb|AEP18794.1|(209-238:341) recombination activating protein 1, partial [Cratogeomys castanops]   E=3e-06 s/c=1.84 id=74% cov=103%
+LLVRCPAKECNEEISLERYNRHVSSHKESK
+>gi|337299106|ref|NP_001229683.1|(357-386:1046) recombination activating gene 1 [Ornithorhynchus anatinus]   E=4e-06 s/c=1.82 id=74% cov=103%
+LVVRCPAEECDEEVSLEKYNHHASSHKETK
+>gi|395543670|ref|XP_003773737.1|(358-387:1047) PREDICTED: V(D)J recombination-activating protein 1 [Sarcophilus harrisii]  E=5e-05 s/c=1.69 id=68% cov=103%
+LLVKCPVNDCDKEVSFEKYNQHISSHKEPK
+>gi|57099819|ref|XP_540538.1|(354-382:1043) PREDICTED: V(D)J recombination-activating protein 1 [Canis lupus familiaris]  E=6e-05 s/c=1.74 id=67% cov=100%
+LMVRCPAKGCDEEVSLERYNQHVAGHKDS-
+>gi|347668307|gb|AEP18763.1|(196-222:309) recombination activating protein 1, partial [Solenodon paradoxus]   E=9e-05 s/c=1.86 id=75% cov=93%
+--VKCPAKECKEEVSLEKYNHHIASHKDS-
+>gi|394996170|gb|AFN43552.1|(313-342:346) recombination activating protein 1, partial [Calodactylodes illingworthorum]  E=0.0002 s/c=1.64 id=68% cov=103%
+LAVRCPVKDCHEEVTLGKYNHHLSSHKEKK
+>gi|56422987|gb|AAV90808.1|(323-352:973) recombination activating gene 1, partial [Ctenotus robustus]   E=0.0005 s/c=1.59 id=61% cov=103%
+LAVTCPVKECDEEISLEKYGHHLSSHKDAK
+>gi|307148536|gb|ADN38120.1|(253-282:437) recombination-activating protein 1 [Calumma furcifer]   E=0.0002 s/c=1.62 id=58% cov=103%
+LTLRCPIKDCQEEVILGKYSHHFSSHKEAE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1782	0	0	
+
+M 2    2221	*	*	*	*	*	*	3148	*	3667	1729	*	5243	*	*	*	3651	2425	*	*	2
+       0	*	*	*	*	*	*	1782	0	0	
+
+V 3    *	*	*	*	*	*	*	*	*	3769	*	*	*	*	*	*	*	110	*	*	3
+       0	*	*	*	*	*	*	1781	0	0	
+
+K 4    *	*	*	*	*	*	*	*	945	*	*	*	*	*	1203	*	4431	*	*	*	4
+       0	*	*	*	*	*	*	1781	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	45	*	*	5017	*	*	*	*	6
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 7    833	*	*	*	*	6150	*	4409	*	*	4763	*	*	*	*	5705	*	1638	*	*	7
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 8    *	*	*	3563	*	*	*	*	503	*	*	5250	5017	2995	*	5203	*	*	*	*	8
+       0	*	*	*	*	*	*	1781	0	0	
+
+D 9    *	*	1181	1071	*	3592	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1781	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1781	0	0	
+
+N 11   *	*	1930	*	*	*	2794	*	4382	*	*	1470	*	3740	5524	4141	*	*	*	4998	11
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 12   *	*	*	277	*	*	*	*	3267	*	*	*	*	4348	*	*	5524	*	*	*	12
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 13   *	*	5418	68	*	*	*	*	*	*	*	*	*	5447	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 14   *	*	*	*	*	*	*	2194	*	*	*	*	*	*	*	*	*	356	*	*	14
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 15   *	*	*	*	*	*	*	3712	*	*	*	*	5474	*	*	453	2549	*	*	*	15
+       0	*	*	*	*	*	*	1782	0	0	
+
+L 16   *	*	*	*	4417	*	*	*	*	69	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 17   *	*	*	385	*	2269	*	*	*	*	*	*	*	*	5218	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1781	0	0	
+
+K 18   *	*	*	*	*	*	*	*	74	*	*	*	*	*	4330	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1781	0	0	
+
+Y 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	19
+       0	*	*	*	*	*	*	1781	0	0	
+
+N 20   *	3951	*	*	*	5341	*	*	*	*	*	414	*	*	*	2644	*	*	*	*	20
+       0	*	*	*	*	*	*	1781	0	0	
+
+H 21   *	*	5884	*	*	*	480	*	*	*	*	*	*	2215	4302	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1781	0	0	
+
+H 22   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 23   5577	*	*	*	4409	*	*	2584	*	2078	*	*	*	*	*	*	*	920	*	*	23
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 24   3995	*	*	*	*	*	*	*	*	*	*	*	*	*	*	93	*	*	*	*	24
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 25   *	*	*	*	*	4131	*	*	*	*	*	*	*	*	*	133	4998	*	*	*	25
+       0	*	*	*	*	*	*	1781	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1781	0	0	
+
+K 27   *	*	*	*	*	*	*	*	113	*	*	*	*	*	4202	*	5556	*	*	*	27
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 28   6073	*	2257	578	*	4133	*	*	5805	*	*	*	*	4998	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 29   2552	*	*	5898	*	*	*	*	3154	*	*	*	3090	5218	*	902	5577	*	*	*	29
+       0	*	*	*	*	*	*	1781	0	0	
+
+K 30   *	*	*	4354	*	*	*	*	128	*	*	*	*	4791	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1772	0	0	
+
+//

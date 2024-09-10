@@ -1,0 +1,274 @@
+HHsearch 1.5
+NAME  d2f69a1 b.76.2.1 (A:116-193) Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.76.2.1
+FILE  d2f69a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2f69a1.a3m -v 1 
+DATE  Tue Jan 22 06:34:32 2013
+LENG  78 match states, 78 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCEEEEEECCCCEEEECCCCCCCCCCCEEEEECCCCCEEEEEEECCCCCCCCCCEEEEECCCCCCEEEECCCCCEECC
+>ss_conf
+936688838997687021674553645058972798157887620431000100124521589437987388850119
+>Consensus
+xGxCwxyxpdGGslvGeVnxdGEmTGdxIAYiYPDxxTalyGsFxdGemixaklAxvxxxxxgxPxfexxxxxxvYxf
+>d2f69a1 b.76.2.1 (A:116-193) Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+HGVCWIYYPDGGSLVGEVNEDGEMTGEKIAYVYPDERTALYGKFIDGEMIEGKLATLMSTEEGRPHFELMPGNSVYHF
+>gi|50539972|ref|NP_001002456.1|(116-193:373) histone-lysine N-methyltransferase SETD7 [Danio rerio] >gi|82183256|sp|Q6DHG0.1|SETD7_DANRE RecName: Full=Histone-lysine N-methyltransferase SETD7; AltName: Full=SET domain-containing protein 7 >gi|49900495|gb|AAH76014.1| SET domain containing (lysine methyltransferase) 7 [Danio rerio]  E=2e-24 s/c=1.47 id=62% cov=101%
+YGMCWVYYPDGACVVGEVNEEGEMTGKAVAYVYPDGRTALYGSFVDGELIEARLATLTTQENGRPHFTVDPDSPIYCY
+>gi|348533696|ref|XP_003454341.1|(117-193:370) PREDICTED: histone-lysine N-methyltransferase SETD7-like [Oreochromis niloticus]  E=1e-23 s/c=1.45 id=60% cov=100%
+-GECWVYYPDRGCVFGEVNEDGEMTGDSVAYIYPDGRTALYGSFVDGELIEARLAAVISNQTGRPRFEISPNSPVYSY
+>gi|327273870|ref|XP_003221702.1|(130-207:380) PREDICTED: histone-lysine N-methyltransferase SETD7-like [Anolis carolinensis]  E=2e-30 s/c=1.73 id=71% cov=101%
+HGICWIYHPDGGHLVGEVNDEGEMTGDKIAYVYPDKKTAYYGQFIDGEMIDAKLATLISVEGGKPQFEVLPGSPVYSF
+>gi|410927338|ref|XP_003977106.1|(117-193:370) PREDICTED: histone-lysine N-methyltransferase SETD7-like [Takifugu rubripes]  E=2e-28 s/c=1.66 id=58% cov=100%
+-GECWLFNPDGGSIFGEVNKDGEMTGEAIAYIYPDRCTALYGSFVNGELIAARLATVIFSKSGRPHFEIVPNSPLYSY
+>gi|260827439|ref|XP_002608672.1|(116-190:363) hypothetical protein BRAFLDRAFT_120570 [Branchiostoma floridae] >gi|229294024|gb|EEN64682.1| hypothetical protein BRAFLDRAFT_120570 [Branchiostoma floridae]  E=3e-23 s/c=1.48 id=47% cov=97%
+-GFCWIYSQDGGCICGDVNDEGEMSGKNIAYIYPDMKLALIGSFVDGEMVKGKLAEVVGISQDRPQFKMVSDGGIF--
+>gi|225713840|gb|ACO12766.1|(149-215:416) Histone-lysine N-methyltransferase SETD7 [Lepeophtheirus salmonis]   E=7e-05 s/c=0.75 id=32% cov=81%
+----------GGFLLNLDHSNSEFSGDNIVYLYPDCQTAFVGTFDQSSMVSAQANEVINTRNnccglNYPIFELLND------
+>gi|196005737|ref|XP_002112735.1|(106-182:346) hypothetical protein TRIADDRAFT_26073 [Trichoplax adhaerens] >gi|190584776|gb|EDV24845.1| hypothetical protein TRIADDRAFT_26073, partial [Trichoplax adhaerens]  E=1e-21 s/c=1.38 id=41% cov=100%
+-GLCWHFDEFGGSIVGLVDDDGEFTGDEIAYLYPDQETVLYGSFEEGRMVCAKAASFQGVRNNKLIIENLDTEEKYSF
+>gi|74841499|sp|Q7Z0G7.1|SETD7_HALRO(120-199:386) RecName: Full=Histone-lysine N-methyltransferase SETD7; AltName: Full=SET domain-containing protein 7 >gi|32394726|gb|AAM96825.1| lysine methyltransferase [Halocynthia roretzi]  E=6e-17 s/c=1.13 id=45% cov=97%
+-GLCFYYFPDGGSLIGNVNASGDLSADNIAYIYPDRTTALIGSFEEGDMITAKEANVTITGEkgeeiSFPTVNSISPDPVY--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	*	*	*	282	*	*	*	*	*	*	*	*	*	*	*	*	2493	1
+       0	*	*	*	*	*	*	1510	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2297	0	0	
+
+V 3    *	*	*	2312	3270	*	*	2272	*	1928	3918	*	*	*	*	*	*	2653	*	*	3
+       0	*	*	*	*	*	*	2297	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2297	0	0	
+
+W 5    *	*	*	*	3010	*	*	*	*	*	*	*	*	*	*	*	*	*	191	*	5
+       0	*	*	*	*	*	*	2297	0	0	
+
+I 6    *	*	*	*	3853	*	2850	1090	*	3847	*	*	*	*	*	*	*	2957	*	3010	6
+       0	*	*	*	*	*	*	2297	0	0	
+
+Y 7    *	*	*	*	2264	*	4257	*	*	*	*	*	*	*	*	*	*	*	*	435	7
+       0	*	*	*	*	*	*	2297	0	0	
+
+Y 8    *	*	2850	*	3010	*	3001	*	*	*	*	3847	*	*	*	3270	*	*	*	1188	8
+       0	*	*	*	*	*	*	2297	0	0	
+
+P 9    *	*	*	2850	*	*	*	*	*	*	*	*	400	3270	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2297	0	0	
+
+D 10   *	*	215	*	2850	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2297	0	0	
+
+G 11   *	*	*	*	*	85	*	*	*	*	*	*	*	*	4123	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 12   4041	*	*	*	*	90	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2508	0	0	
+
+S 13   *	2281	*	*	3061	*	4367	*	*	*	*	*	*	*	*	785	4449	*	*	*	13
+       0	*	*	*	*	*	*	2508	0	0	
+
+L 14   *	*	*	*	*	*	*	1910	*	842	*	*	*	*	*	*	*	2506	*	*	14
+       0	*	*	*	*	*	*	2508	0	0	
+
+V 15   *	3513	*	*	2496	*	*	3142	*	3061	*	*	*	*	*	*	*	994	*	*	15
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 16   *	*	*	*	*	184	*	*	*	*	*	3061	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 17   *	*	3513	829	*	*	*	*	*	2081	*	3142	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2508	0	0	
+
+V 18   *	*	3061	*	*	*	*	*	*	4110	*	*	*	*	*	*	*	282	*	*	18
+       0	*	*	*	*	*	*	2508	0	0	
+
+N 19   *	*	3102	*	*	*	3061	*	*	*	*	389	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 20   3142	*	1986	1144	*	*	*	*	4012	*	*	*	*	*	*	3061	*	*	*	*	20
+       0	*	*	*	*	*	*	2508	0	0	
+
+D 21   *	*	1101	2043	*	*	*	*	*	*	*	2492	*	*	*	3142	*	*	*	*	21
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 22   *	*	*	4110	*	282	*	*	*	*	*	*	*	*	*	3061	*	*	*	*	22
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 23   *	*	2573	265	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2508	0	0	
+
+M 24   *	*	*	*	2081	*	*	*	*	3142	621	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2508	0	0	
+
+T 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1640	558	*	*	*	25
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 26   3142	*	*	*	*	173	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 27   *	*	847	1758	*	*	*	*	2753	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2508	0	0	
+
+K 28   3026	*	*	3102	*	*	*	*	1622	*	*	1640	*	*	*	3117	*	*	*	*	28
+       0	*	*	*	*	*	*	2508	0	0	
+
+I 29   *	*	*	*	*	*	*	274	*	*	*	*	*	*	*	*	*	2532	*	*	29
+       0	*	*	*	*	*	*	2508	0	0	
+
+A 30   184	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3061	*	*	30
+       0	*	*	*	*	*	*	2508	0	0	
+
+Y 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	31
+       0	*	*	*	*	*	*	2508	0	0	
+
+V 32   *	*	*	*	*	*	*	1403	*	2081	*	*	*	*	*	*	*	1375	*	*	32
+       0	*	*	*	*	*	*	2508	0	0	
+
+Y 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	33
+       0	*	*	*	*	*	*	2508	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2508	0	0	
+
+D 35   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 36   *	3061	*	4628	*	1708	*	*	4367	*	3513	*	*	2605	2100	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2508	0	0	
+
+R 37   *	4012	*	3102	*	*	*	*	2451	*	*	*	*	3061	1302	*	3142	*	*	*	37
+       0	*	*	*	*	*	*	2508	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	3513	4191	*	*	*	*	*	222	*	*	*	38
+       0	*	*	*	*	*	*	2508	0	0	
+
+A 39   327	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3533	3102	*	*	39
+       0	*	*	*	*	*	*	2508	0	0	
+
+L 40   *	*	*	*	3061	*	*	4449	*	518	*	*	*	*	*	*	*	4623	*	3391	40
+       0	*	*	*	*	*	*	2508	0	0	
+
+Y 41   *	*	*	*	4416	*	*	2315	*	*	*	*	*	*	*	*	*	3061	*	661	41
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2508	0	0	
+
+K 43   *	*	*	*	*	*	*	*	2124	*	*	*	*	4367	4416	848	3061	*	*	*	43
+       0	*	*	*	*	*	*	2508	0	0	
+
+F 44   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2508	0	0	
+
+I 45   *	*	3061	2122	*	*	*	1622	*	*	*	*	*	*	*	*	*	1619	*	*	45
+       0	*	*	*	*	*	*	2508	0	0	
+
+D 46   *	*	765	2122	*	*	*	*	*	*	*	4012	*	3061	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 47   4191	*	*	*	*	277	*	*	*	*	*	*	*	*	*	3061	*	*	*	*	47
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 48   *	*	3142	621	*	*	*	*	*	*	*	*	*	*	3102	3061	*	*	*	*	48
+       0	*	*	*	*	*	*	2508	0	0	
+
+M 49   *	*	*	*	*	*	*	*	*	1624	566	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2508	0	0	
+
+I 50   *	*	*	*	*	*	*	802	*	3284	*	*	*	*	*	*	*	1626	*	*	50
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 51   4012	3102	4367	1342	*	*	*	*	3513	*	4110	*	*	*	*	3061	3142	*	*	*	51
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 52   550	*	*	*	*	1657	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2508	0	0	
+
+K 53   *	*	*	*	*	*	*	*	639	*	*	*	*	3061	2071	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2508	0	0	
+
+L 54   2081	*	*	3142	*	*	*	*	*	621	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2508	0	0	
+
+A 55   184	*	*	*	*	*	*	*	*	*	*	3061	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2508	0	0	
+
+T 56   4123	*	*	2269	*	*	*	4191	*	*	*	3142	*	*	*	3102	1150	*	*	*	56
+       68	*	4449	*	*	*	*	2508	0	0	
+
+L 57   *	*	*	*	3079	*	*	*	*	1439	*	*	*	*	*	*	*	963	*	*	57
+       0	*	*	*	*	0	*	2509	0	1000	
+
+M 58   *	*	*	*	*	*	*	1798	*	*	2898	*	*	3102	*	*	1418	3513	*	*	58
+       0	*	*	*	*	*	*	2508	0	0	
+
+S 59   3400	4110	*	*	4012	2293	*	3142	*	*	*	3061	*	*	*	1799	4041	*	*	*	59
+       0	*	*	*	*	*	*	2508	0	0	
+
+T 60   *	*	*	*	*	*	*	2781	*	*	*	4123	*	4041	*	4012	1466	1679	*	*	60
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 61   *	*	4191	1596	*	2546	*	*	4012	*	*	*	*	4123	2081	3513	*	*	*	*	61
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 62   *	*	4416	1545	*	4367	*	*	*	*	*	1494	*	3513	*	4012	4123	*	*	*	62
+       383	2101	*	2322	322	*	*	2508	1591	0	
+
+G 63   *	*	3513	*	*	829	*	*	*	*	*	2081	*	*	*	3142	*	*	*	*	63
+       0	*	*	*	*	*	*	2508	0	0	
+
+R 64   *	*	*	*	3142	*	*	*	1473	*	*	*	*	*	1298	*	*	*	*	3061	64
+       0	*	*	*	*	*	*	2508	0	0	
+
+P 65   *	*	*	*	*	*	*	*	*	3102	*	*	179	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2508	0	0	
+
+H 66   *	*	*	*	*	*	1706	2081	*	*	*	*	*	2451	3117	*	3142	*	*	4449	66
+       0	*	*	*	*	*	*	2508	0	0	
+
+F 67   *	*	*	*	377	*	*	3102	*	*	*	*	*	*	*	*	*	3142	*	*	67
+       0	*	*	*	*	*	*	2508	0	0	
+
+E 68   *	*	*	438	*	*	*	*	3513	*	*	3142	*	*	*	*	4041	*	*	*	68
+       0	*	*	*	*	*	*	2508	0	0	
+
+L 69   *	*	*	*	*	*	*	2496	*	1517	3513	3102	*	*	*	3142	*	2680	*	*	69
+       0	*	*	*	*	*	*	2508	0	0	
+
+M 70   *	*	4041	*	*	*	*	2324	*	1812	4628	*	*	*	*	3117	4384	1993	*	*	70
+       0	*	*	*	*	*	*	2508	0	0	
+
+P 71   *	*	3102	*	*	*	*	*	*	4416	*	3061	1095	*	*	2007	*	*	*	*	71
+       0	*	*	*	*	*	*	2508	0	0	
+
+G 72   *	*	1899	*	*	1889	*	*	*	*	*	2108	3142	*	*	*	3102	*	*	*	72
+       0	*	*	*	*	*	*	2508	0	0	
+
+N 73   *	*	3010	2850	*	2600	*	*	*	*	*	3355	*	*	*	1075	*	*	*	*	73
+       0	*	*	*	*	*	*	2297	0	0	
+
+S 74   *	*	*	2388	*	3270	*	*	*	*	*	*	830	*	*	2809	*	*	*	*	74
+       0	*	*	*	*	*	*	2297	0	0	
+
+V 75   *	*	*	*	*	*	*	2558	2850	2529	*	*	*	*	*	*	*	948	*	*	75
+       0	*	*	*	*	*	*	2297	0	0	
+
+Y 76   *	*	*	*	3230	*	*	*	*	*	*	*	*	*	*	*	*	*	*	163	76
+       0	*	*	*	*	*	*	2300	0	0	
+
+H 77   *	3389	*	*	*	*	2302	*	*	*	*	3449	*	*	*	713	*	*	*	*	77
+       0	*	*	*	*	*	*	1992	0	0	
+
+F 78   *	*	*	*	545	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1668	78
+       0	*	*	0	*	*	*	1959	0	0	
+
+//

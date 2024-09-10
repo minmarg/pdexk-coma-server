@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d1fwoa_ g.3.16.1 (A:) Oryzain beta chain {Rice (Oryza sativa) [TaxId: 4530]}
+FAM   g.3.16.1
+FILE  d1fwoa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1fwoa_.a3m -v 1 
+DATE  Mon Jan 21 20:45:29 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  73 out of 75 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCEEECCCCCCCEEECCCCCC
+>ss_conf
+97488873088999606301445610321002479
+>Consensus
+xxvCDxxxsCpxxsTCCCxxexxxxCxxWGCCplE
+>d1fwoa_ g.3.16.1 (A:) Oryzain beta chain {Rice (Oryza sativa) [TaxId: 4530]}
+DHVCDDNFSCPAGSTCSSAFGFRNLSLVWGCSPVE
+>gi|222425026|dbj|BAH20463.1|(386-420:473) cysteine protease [Spinacia oleracea]   E=2e-08 s/c=1.79 id=33% cov=103%
+DVTCDEYYTCPSSTTCCCVYEYGPYCFAWGCCPLE
+>gi|3980198|emb|CAA46863.1|(376-405:464) thiolprotease [Pisum sativum]   E=7e-06 s/c=1.79 id=42% cov=89%
+-----DSYSCAEGSTCCCIFDYGGSCFEWGCCPLE
+>gi|162463334|ref|NP_001104878.1|(399-432:493) maize insect resistance2 precursor [Zea mays] >gi|2425064|gb|AAB88262.1| cysteine proteinase Mir2 [Zea mays]  E=5e-05 s/c=1.50 id=34% cov=100%
+-NVCNAEYSCPEATTCCCVSEYRGKCLAYGCCELE
+>gi|168058022|ref|XP_001781010.1|(370-404:457) predicted protein [Physcomitrella patens subsp. patens] >gi|162667567|gb|EDQ54194.1| predicted protein [Physcomitrella patens subsp. patens]  E=0.0002 s/c=1.41 id=35% cov=97%
+--ICDKWRTCPAENTCCCTFPVGKSCLAWGCCALD
+>gi|384253406|gb|EIE26881.1|(380-412:481) hypothetical protein COCSUDRAFT_21961 [Coccomyxa subellipsoidea C-169]  E=8e-08 s/c=1.81 id=38% cov=97%
+--VCDTATSCPPASTCCCMREFFGYCFTWACCPLK
+>gi|125592011|gb|EAZ32361.1|(330-361:416) hypothetical protein OsJ_16571 [Oryza sativa Japonica Group]   E=1e-08 s/c=1.96 id=55% cov=94%
+---CDRYSKCPAGTTCCCNYGIRNHCIVWGCCPVE
+>gi|168017893|ref|XP_001761481.1|(378-409:471) predicted protein [Physcomitrella patens subsp. patens] >gi|162687165|gb|EDQ73549.1| predicted protein [Physcomitrella patens subsp. patens]  E=2e-08 s/c=1.93 id=52% cov=94%
+---CDSSHSCPASSTCCCAFNIGKYCLQWGCCPME
+>gi|357133074|ref|XP_003568153.1|(370-401:565) PREDICTED: cysteine proteinase RD21a-like [Brachypodium distachyon]   E=3e-05 s/c=1.60 id=33% cov=94%
+---CSAFTSCPEGSTCCCSWRALGFCLSWSCCELD
+>gi|358345461|ref|XP_003636796.1|(370-401:475) Cysteine proteinase [Medicago truncatula] >gi|355502731|gb|AES83934.1| Cysteine proteinase [Medicago truncatula]  E=0.0002 s/c=1.52 id=27% cov=94%
+---CGDFSYCTTEETCCCLYELFDFCLAYGCCEYE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	444	1917	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1759	0	0	
+
+H 2    *	*	*	*	*	*	1196	*	*	*	*	2153	*	*	*	2211	*	3029	*	*	2
+       0	*	*	*	*	*	*	1890	0	0	
+
+V 3    *	*	*	*	*	*	*	3745	*	*	4579	*	*	*	*	*	5630	212	*	*	3
+       0	*	*	*	*	*	*	2391	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2865	0	0	
+
+D 5    *	*	338	*	*	2953	*	*	*	*	*	5246	*	*	*	4222	*	*	*	*	5
+       0	*	*	*	*	*	*	2865	0	0	
+
+D 6    3585	*	1450	2814	*	*	*	*	3093	*	*	2841	*	6010	4462	3910	5366	*	*	*	6
+       0	*	*	*	*	*	*	2864	0	0	
+
+N 7    5366	*	5000	5249	2446	*	*	*	*	*	*	2856	*	*	*	3924	5487	*	4336	1124	7
+       0	*	*	*	*	*	*	2864	0	0	
+
+F 8    5214	*	5473	*	2813	*	4527	*	*	*	*	3537	*	*	4336	2681	3271	6312	*	1486	8
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 9    5038	*	*	3814	*	*	*	*	4609	*	*	*	*	4413	*	1010	2563	5944	*	2959	9
+       0	*	*	*	*	*	*	2864	0	0	
+
+C 10   *	33	*	*	*	*	*	*	*	*	*	*	*	*	5456	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2864	0	0	
+
+P 11   3336	*	*	*	*	*	*	*	*	*	*	6011	346	*	*	3736	5413	*	*	*	11
+       0	*	*	*	*	*	*	2864	0	0	
+
+A 12   1583	*	3793	1971	*	5746	*	*	*	*	6682	5856	4425	6329	*	2628	4066	6284	*	*	12
+       0	*	*	*	*	*	*	2864	0	0	
+
+G 13   3554	*	3372	3638	*	1557	4909	*	5192	*	*	6659	*	*	6254	1741	6033	*	*	*	13
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 14   4626	*	*	3167	*	*	*	*	*	*	6403	3021	*	5857	*	1446	1604	*	*	*	14
+       0	*	*	*	*	*	*	2864	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	15
+       0	*	*	*	*	*	*	2864	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 17   *	96	*	*	*	*	*	*	*	*	*	*	*	*	*	3953	*	*	*	*	17
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 18   *	96	*	*	*	*	*	*	*	*	*	*	*	*	*	3953	*	*	*	*	18
+       0	*	*	*	*	*	*	2864	0	0	
+
+A 19   3000	*	*	*	*	*	*	2334	*	2371	3577	5845	*	*	5406	4282	3979	2037	*	*	19
+       0	*	*	*	*	*	*	2864	0	0	
+
+F 20   *	*	*	*	1172	*	5746	*	*	4652	6160	5856	*	*	4425	5249	*	5930	4670	1565	20
+       0	*	*	*	*	*	*	2864	0	0	
+
+G 21   *	*	5333	856	*	2553	*	*	4829	*	*	5672	3174	5077	4670	*	5815	*	*	*	21
+       0	*	*	*	*	*	*	2864	0	0	
+
+F 22   4670	*	*	*	1493	*	*	3416	*	4649	5768	*	*	*	5746	*	*	3795	*	1462	22
+       0	*	*	*	*	*	*	2864	0	0	
+
+R 23   4551	*	*	*	2533	1291	6403	*	6284	4670	*	6106	*	5769	2245	6732	*	*	6708	4347	23
+       0	*	*	*	*	*	*	2864	0	0	
+
+N 24   *	*	3386	5473	*	1858	5498	*	2365	*	*	1944	4563	6751	4567	5403	6329	*	*	*	24
+       0	*	*	*	*	*	*	2864	0	0	
+
+L 25   6527	*	*	5805	2301	*	4647	*	3695	3325	3708	*	*	5815	5253	4005	6467	4619	*	1659	25
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 26   *	96	*	*	*	*	*	*	*	*	*	*	*	*	*	3953	*	*	*	*	26
+       0	*	*	*	*	*	*	2864	0	0	
+
+L 27   *	*	*	*	1097	*	*	4215	*	1325	5769	*	*	*	*	*	*	*	*	4031	27
+       0	*	*	*	*	*	*	2864	0	0	
+
+V 28   1786	*	*	3848	*	3515	*	4353	*	5406	6403	*	*	4283	*	3033	4425	2115	*	5815	28
+       0	*	*	*	*	*	*	2864	0	0	
+
+W 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	243	2691	29
+       0	*	*	*	*	*	*	2864	0	0	
+
+G 30   4425	*	*	*	*	129	*	*	*	*	*	*	*	*	*	4670	*	*	*	*	30
+       0	*	*	*	*	*	*	2864	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2864	0	0	
+
+S 32   *	131	*	*	*	*	*	*	*	*	*	*	*	*	*	3522	*	*	*	*	32
+       0	*	*	*	*	*	*	2864	0	0	
+
+P 33   5788	*	*	3325	*	5389	*	*	*	*	*	*	340	4929	*	4825	*	*	*	*	33
+       0	*	*	*	*	*	*	2791	0	0	
+
+V 34   5232	*	*	*	*	*	*	4969	*	669	3714	*	*	*	*	*	*	2861	*	3342	34
+       0	*	*	*	*	*	*	2791	0	0	
+
+E 35   *	*	3070	288	*	*	*	*	4439	*	*	*	*	5966	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	2766	0	0	
+
+//

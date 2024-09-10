@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1z1ba1 d.10.1.4 (A:11-59) lambda integrase N-terminal domain {Bacteriophage lambda [TaxId: 10710]}
+FAM   d.10.1.4
+FILE  d1z1ba1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1z1ba1.a3m -v 1 
+DATE  Tue Jan 22 04:59:29 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  70 out of 72 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEECCCCCCCEECCCCCHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9873111158983573038898222378677889999999989987249
+>Consensus
+dLPpNLYxxxxxyxxyRxPxTGkxxglGxdxxxAixxAieANxxixxxx
+>d1z1ba1 d.10.1.4 (A:11-59) lambda integrase N-terminal domain {Bacteriophage lambda [TaxId: 10710]}
+DLPPNLYIRNNGYYCYRDPRTGKEFGLGRDRRIAITEAIQANIELFSGH
+>gi|83311040|ref|YP_421304.1|(12-58:370) integrase [Magnetospirillum magneticum AMB-1] >gi|82945881|dbj|BAE50745.1| Integrase [Magnetospirillum magneticum AMB-1]  E=2e-06 s/c=1.19 id=44% cov=98%
+DWPANLRCRRDGYYSWVNPTDGREYGLGRDKRAAFAQAVEANLQIMA--
+>gi|377812692|ref|YP_005041941.1|(13-56:360) integrase [Burkholderia sp. YI23] >gi|357937496|gb|AET91054.1| integrase [Burkholderia sp. YI23]  E=2e-06 s/c=1.27 id=40% cov=92%
+-WPENLYQNADGYFWFRNPITKKTAGCGTDLQKAIKMVKAANLGL----
+>gi|78485001|ref|YP_390926.1|(12-63:372) Phage integrase [Thiomicrospira crunogena XCL-2] >gi|78363287|gb|ABB41252.1| Phage integrase [Thiomicrospira crunogena XCL-2]  E=2e-05 s/c=1.00 id=35% cov=98%
+-LPPNLYAKKDKrngkvYYQYKSPLDGKFYSFGTDKNQAVNDAVALNHNIYDA-
+>gi|238790900|ref|ZP_04634651.1|(11-61:325) Phage integrase [Yersinia frederiksenii ATCC 33641] >gi|238721020|gb|EEQ12709.1| Phage integrase [Yersinia frederiksenii ATCC 33641]  E=2e-08 s/c=1.23 id=42% cov=102%
+NLPKNLtFRRVQQTFYWRNPLTGKELSLGKIaRRDAISQAIEANNFIEQNY
+>gi|417622671|ref|ZP_12272988.1|(13-63:375) prophage lambda integrase [Escherichia coli STEC_H.1.8] >gi|345383857|gb|EGX13728.1| prophage lambda integrase [Escherichia coli STEC_H.1.8]  E=5e-05 s/c=1.00 id=40% cov=96%
+---PNLYplysrKSKKIYWRYKHPITGKFHALGTDETVATEIAIEANRRIAEQH
+>gi|312962042|ref|ZP_07776539.1|(13-57:378) hypothetical protein PFWH6_3963 [Pseudomonas fluorescens WH6] >gi|311283852|gb|EFQ62436.1| hypothetical protein PFWH6_3963 [Pseudomonas fluorescens WH6]  E=9e-08 s/c=1.32 id=43% cov=90%
+-LPPNLYP-NGKYWRYRNPVTGVMTSINRPLEEAIKLARAANLKV----
+>gi|385331748|ref|YP_005885699.1|(12-59:373) prophage lambda integrase [Marinobacter adhaerens HP15] >gi|311694898|gb|ADP97771.1| prophage lambda integrase [Marinobacter adhaerens HP15]  E=2e-06 s/c=1.14 id=37% cov=88%
+DLVENLYGSTKNgvtYYQYKHPVTGQYHSMGTNKQEANAAARQLN-------
+>gi|402568757|ref|YP_006618101.1|(12-60:359) integrase family protein [Burkholderia cepacia GG4] >gi|402249954|gb|AFQ50407.1| integrase family protein [Burkholderia cepacia GG4]  E=2e-08 s/c=1.27 id=39% cov=100%
+NWPEHLHEPRPGYFTWYDPRTKKTHVLGRIpLAQAIYEATEANMLVATG-
+>gi|424071793|ref|ZP_17809215.1|(14-61:371) Integrase [Pseudomonas syringae pv. avellanae str. ISPaVe037] >gi|407998435|gb|EKG38848.1| Integrase [Pseudomonas syringae pv. avellanae str. ISPaVe037]  E=5e-08 s/c=1.26 id=44% cov=98%
+-LPQNLYMdDRRGTYRYRRPTDGKWFQFGTDRIKAVDAAKQLNLAFMQG-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	742	*	*	*	*	*	*	*	*	1314	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2855	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	307	5358	*	*	*	*	*	*	*	2580	*	2
+       0	*	*	*	*	*	*	3401	0	0	
+
+P 3    *	*	*	4915	*	*	*	*	*	*	*	*	219	*	*	3802	*	4787	*	*	3
+       0	*	*	*	*	*	*	3401	0	0	
+
+P 4    3545	*	4650	3250	*	*	*	*	3606	*	*	*	837	4173	3795	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3612	0	0	
+
+N 5    *	*	*	*	*	5671	4302	*	*	*	*	204	*	*	*	*	*	*	*	4027	5
+       0	*	*	*	*	*	*	3639	0	0	
+
+L 6    *	*	*	*	5099	*	*	*	*	43	*	*	*	*	*	*	*	*	*	*	6
+       234	2740	*	0	*	*	*	3640	1639	0	
+
+Y 7    *	*	4366	*	5757	*	4309	*	*	*	*	*	*	5625	5559	6203	*	*	*	273	7
+       171	3784	4675	2322	322	*	*	3640	1434	0	
+
+I 8    4725	2385	*	4336	5676	5643	*	6716	3050	4546	5687	5041	4190	3573	2052	*	*	3665	*	*	8
+       80	5687	4868	0	*	0	*	3606	1000	1472	
+
+R 9    6213	*	4181	4649	6159	5839	*	*	1852	*	6213	3858	4354	*	1454	4286	*	4817	*	*	9
+       117	5758	4076	0	*	0	*	3601	1000	1000	
+
+N 10   3708	*	*	*	6355	*	4421	*	3424	3290	*	1991	*	5556	2638	3523	3084	5721	*	6393	10
+       61	*	4592	*	*	0	*	3638	0	1823	
+
+N 11   4446	*	1451	6120	*	2863	*	*	3142	*	*	3231	4989	4641	3236	5849	*	*	*	5534	11
+       0	*	*	*	*	0	*	3631	0	1516	
+
+G 12   4508	*	*	*	*	1293	*	3962	1726	*	*	4884	*	5761	3719	6199	*	4659	*	*	12
+       457	1882	*	2148	369	*	*	3642	2475	0	
+
+Y 13   5497	*	*	*	4707	*	*	*	*	5463	*	*	*	*	*	3262	3905	*	*	423	13
+       26	5818	*	0	*	*	*	3639	1000	0	
+
+Y 14   *	*	*	*	1775	*	*	5663	*	*	*	*	*	*	*	*	*	*	1760	1348	14
+       31	*	5561	*	*	*	*	3639	0	0	
+
+C 15   5209	3434	*	*	5908	*	*	4135	5718	*	*	*	*	2569	2053	3295	3995	4812	3605	3381	15
+       0	*	*	*	*	0	*	3627	0	1000	
+
+Y 16   *	*	*	*	3948	*	*	*	*	*	*	*	*	*	*	*	*	*	1987	550	16
+       0	*	*	*	*	*	*	3639	0	0	
+
+R 17   *	*	*	*	*	*	*	*	2139	*	*	*	*	*	471	*	*	5579	*	5017	17
+       0	*	*	*	*	*	*	3639	0	0	
+
+D 18   *	*	2210	*	*	*	1676	*	*	*	*	1470	*	*	3736	4843	*	*	*	*	18
+       0	*	*	*	*	*	*	3639	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	71	*	*	*	5207	5561	*	*	19
+       0	*	*	*	*	*	*	3639	0	0	
+
+R 20   4711	*	5492	5136	*	*	6100	2195	*	2326	6355	*	*	*	2395	*	3564	2382	*	*	20
+       0	*	*	*	*	*	*	3639	0	0	
+
+T 21   *	*	3246	*	*	*	*	*	*	*	*	3961	*	*	*	3398	443	*	*	*	21
+       0	*	*	*	*	*	*	3639	0	0	
+
+G 22   *	*	4611	*	*	352	*	*	2847	*	*	5457	*	*	6190	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3639	0	0	
+
+K 23   4707	*	*	4045	*	*	*	6379	720	*	*	*	*	3446	3417	4253	*	4504	*	*	23
+       0	*	*	*	*	*	*	3639	0	0	
+
+E 24   *	*	*	1423	1951	*	*	*	6059	*	3897	5133	*	*	5492	5207	3358	5096	4243	5104	24
+       0	*	*	*	*	*	*	3639	0	0	
+
+F 25   4746	*	*	*	2257	*	1729	2811	*	4389	5694	*	*	*	5686	*	4911	*	*	2399	25
+       0	*	*	*	*	*	*	3639	0	0	
+
+G 26   4493	*	*	*	*	956	*	*	*	*	*	*	3429	4362	*	2121	4731	5017	*	*	26
+       0	*	*	*	*	*	*	3639	0	0	
+
+L 27   *	4746	*	*	2891	*	*	3823	*	595	4110	*	*	*	*	*	*	4744	*	*	27
+       0	*	*	*	*	*	*	3639	0	0	
+
+G 28   *	*	*	*	*	49	*	*	*	*	*	4911	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3639	0	0	
+
+R 29   6899	5663	4847	*	*	*	*	*	3301	*	*	*	5832	3620	1723	3705	1649	*	*	4707	29
+       76	4289	*	0	*	*	*	3639	1647	0	
+
+D 30   *	*	939	5713	*	*	*	2162	*	*	*	2422	4911	*	*	*	*	5954	*	*	30
+       276	2520	*	0	*	*	*	3639	2055	0	
+
+R 31   5094	*	6476	2804	5207	6435	*	*	1763	3302	*	*	*	4138	1759	5086	*	*	*	*	31
+       0	*	*	*	*	*	*	3639	0	0	
+
+R 32   2085	*	3812	3110	*	6803	*	4825	2950	*	*	5909	*	3959	1977	5080	4674	*	*	*	32
+       52	4807	*	0	*	*	*	3639	1402	0	
+
+I 33   2923	*	2639	1895	*	*	*	4723	2808	3960	4828	*	*	4069	6221	5540	6435	4685	*	6190	33
+       0	*	*	*	*	*	*	3639	0	0	
+
+A 34   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3639	0	0	
+
+I 35   *	*	*	4096	5579	*	6263	1098	2941	*	*	5838	*	5492	4169	4282	6404	2721	*	*	35
+       0	*	*	*	*	*	*	3639	0	0	
+
+T 36   2042	*	3451	3503	*	6199	*	*	3473	6059	6701	3074	*	4159	4010	3526	3401	*	*	5017	36
+       0	*	*	*	*	*	*	3639	0	0	
+
+E 37   2526	*	5909	2394	*	*	*	2653	*	4911	4746	*	*	1603	5686	*	6710	4973	*	*	37
+       0	*	*	*	*	*	*	3639	0	0	
+
+A 38   55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4746	*	*	38
+       0	*	*	*	*	*	*	3639	0	0	
+
+I 39   4684	*	*	*	*	*	*	1124	3278	5318	*	*	*	5694	2891	4183	3757	3458	*	*	39
+       0	*	*	*	*	*	*	3639	0	0	
+
+Q 40   2446	*	6492	1011	*	*	*	5492	5985	*	*	*	*	2681	*	4168	4068	*	*	*	40
+       0	*	*	*	*	*	*	3639	0	0	
+
+A 41   364	*	*	*	*	*	*	*	*	2702	4287	*	5780	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3639	0	0	
+
+N 42   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	3639	0	0	
+
+I 43   3836	*	*	*	*	*	3807	4447	*	2025	3166	2803	*	3995	3464	3509	5044	4612	*	*	43
+       0	*	*	*	*	*	*	3762	0	0	
+
+E 44   3726	*	6028	3231	3739	4719	5850	4900	4724	3390	6101	5727	*	3498	2264	*	4654	6165	*	3036	44
+       0	*	*	*	*	*	*	3762	0	0	
+
+L 45   *	*	*	*	4042	*	*	1026	*	1421	*	*	*	*	*	*	*	3744	*	*	45
+       0	*	*	*	*	*	*	3748	0	0	
+
+F 46   2360	*	4564	2976	3625	*	*	*	*	2781	2223	*	*	*	*	*	4832	*	*	2643	46
+       0	*	*	*	*	*	*	3380	0	0	
+
+S 47   4526	*	3751	2358	*	3841	*	*	2923	*	*	4603	*	2278	3887	3395	3726	*	*	*	47
+       0	*	*	*	*	*	*	3303	0	0	
+
+G 48   4396	*	*	*	*	1790	*	*	*	*	*	1690	*	3274	*	2607	3542	*	*	*	48
+       0	*	*	*	*	*	*	3212	0	0	
+
+H 49   *	*	*	*	2897	*	1484	*	*	*	*	*	*	*	*	*	*	*	*	977	49
+       0	*	*	0	*	*	*	2457	0	0	
+
+//

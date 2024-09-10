@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d1deeg_ a.8.1.1 (G:) Immunoglobulin-binding protein A modules {Staphylococcus aureus [TaxId: 1280]}
+FAM   a.8.1.1
+FILE  d1deeg_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1deeg_.a3m -v 1 
+DATE  Mon Jan 21 19:35:57 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCHHHHHHHHCCCCCHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+930156675526899867778888754127013588999987510025789
+>Consensus
+eqqnAfxEIxxlPnLnxeQrnxfIqSLkDDPSqSanxLaEAkklNdaQaPk
+>d1deeg_ a.8.1.1 (G:) Immunoglobulin-binding protein A modules {Staphylococcus aureus [TaxId: 1280]}
+DQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK
+>gi|282902702|ref|ZP_06310595.1|(230-280:534) immunoglobulin G binding protein A [Staphylococcus aureus subsp. aureus C160] >gi|282921384|ref|ZP_06329102.1| immunoglobulin G-binding protein A [Staphylococcus aureus subsp. aureus C427] >gi|282315799|gb|EFB46183.1| immunoglobulin G-binding protein A [Staphylococcus aureus subsp. aureus C427] >gi|282597161|gb|EFC02120.1| immunoglobulin G binding protein A [Staphylococcus aureus subsp. aureus C160]  E=4e-16 s/c=1.72 id=79% cov=102%
+EQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK
+>gi|386318068|ref|YP_006014231.1|(101-150:462) immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99] >gi|197253294|gb|ACH54083.1| protein A [Staphylococcus pseudintermedius ED99] >gi|323463239|gb|ADX75392.1| immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99]  E=8e-12 s/c=1.47 id=67% cov=100%
+EQQNAFYEILHLPNLTEEQRNGYIQSLKDDPSVSANILVEAKNMNVNQTP-
+>gi|167744864|pdb|2OTK|E(19-69:71) Chain E, Structure Of Alzheimer Ab Peptide In Complex With An Engineered Binding Protein >gi|167744865|pdb|2OTK|F Chain F, Structure Of Alzheimer Ab Peptide In Complex With An Engineered Binding Protein  E=7e-13 s/c=1.51 id=60% cov=102%
+EMASAGGEIVYLPNLNPDQLCAFIHSLHDDPSQSANLLAEAKKLNDAQAPK
+>gi|109157194|pdb|2B87|A(12-58:58) Chain A, Structural Basis For Molecular Recognition In An Affibody:affibody Complex >gi|109157196|pdb|2B88|A Chain A, Structural Basis For Molecular Recognition In An Affibody:affibody Complex  E=8e-13 s/c=1.64 id=65% cov=94%
+----ATWEIFNLPNLNGVQVKAFIDSLRDDPSQSANLLAEAKKLNDAQAPK
+>gi|343781193|pdb|3S1K|A(8-59:59) Chain A, The Development Of Peptide-Based Tools For The Analysis Of Angiogenesis >gi|343781194|pdb|3S1K|B Chain B, The Development Of Peptide-Based Tools For The Analysis Of Angiogenesis  E=6e-11 s/c=1.36 id=58% cov=102%
+EMHNAYAiEIALLPNLNDQQFHAFIWSLIDDPSQSANLLAEAKKLNDAQAPK
+>gi|332138260|pdb|3QWO|C(5-53:57) Chain C, Crystal Structure Of A Motavizumab Epitope-Scaffold Bound To Motavizumab Fab >gi|332138261|pdb|3QWO|P Chain P, Crystal Structure Of A Motavizumab Epitope-Scaffold Bound To Motavizumab Fab  E=3e-07 s/c=1.19 id=58% cov=98%
+EKKLASNEIANLPNLNEEQRSAFLSSINDDPSQSANLLAEAKKLNDAQA--
+>gi|386318068|ref|YP_006014231.1|(43-89:462) immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99] >gi|197253294|gb|ACH54083.1| protein A [Staphylococcus pseudintermedius ED99] >gi|323463239|gb|ADX75392.1| immunoglobulin G binding protein A spa1 [Staphylococcus pseudintermedius ED99]  E=3e-11 s/c=1.51 id=71% cov=94%
+-QQNAFSEVVKLPNLSEEQRNGFIQSLKDDPSTSQDVLNEAKKLNDSQ---
+>gi|302202596|gb|ADL09407.1|(43-91:418) IgG-binding protein A [Staphylococcus hyicus]   E=3e-12 s/c=1.52 id=64% cov=98%
+-QQNAFYEIVNLPNLTDEQRNGYIQSLKDDPSVSANILQQAQATNANQAP-
+>gi|302202596|gb|ADL09407.1|(161-210:418) IgG-binding protein A [Staphylococcus hyicus]   E=1e-13 s/c=1.58 id=71% cov=100%
+-QQNAFYEILNLPYLSEEQRNGFIQSLKDDPSVSNDILAEAKKANDAQAPQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	2453	291	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1634	0	0	
+
+Q 2    *	*	*	*	*	*	*	*	3455	*	2220	*	*	616	4582	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1751	0	0	
+
+Q 3    3725	*	*	*	*	*	3868	*	3455	*	*	*	*	527	3825	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1751	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	3455	*	432	*	*	*	2579	*	*	*	*	4
+       0	*	*	*	*	*	*	1751	0	0	
+
+A 5    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1812	0	0	
+
+F 6    *	*	*	*	653	4027	*	4182	*	*	*	*	*	*	*	3620	4266	*	*	3130	6
+       0	*	*	*	*	*	*	1812	0	0	
+
+Y 7    4127	*	*	*	*	3102	*	*	*	*	*	3620	*	*	*	4126	*	*	3198	789	7
+       85	4127	*	0	*	*	*	1812	1000	0	
+
+E 8    *	*	*	80	*	*	*	*	*	*	*	*	*	4218	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1790	0	0	
+
+I 9    *	*	*	*	*	*	*	242	*	*	*	*	*	*	*	*	*	2694	*	*	9
+       0	*	*	*	*	*	*	1790	0	0	
+
+L 10   2586	*	*	*	4292	*	*	*	*	1105	4172	*	*	*	*	*	*	1932	*	*	10
+       0	*	*	*	*	*	*	1790	0	0	
+
+N 11   *	*	*	*	*	*	2069	*	4133	3417	*	1106	*	*	4231	*	4583	*	*	4278	11
+       0	*	*	*	*	*	*	1789	0	0	
+
+M 12   *	*	*	*	*	*	*	*	*	322	2320	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1789	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1789	0	0	
+
+N 14   *	*	*	*	*	*	*	*	*	*	*	122	*	*	*	*	*	*	*	3626	14
+       0	*	*	*	*	*	*	1789	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1789	0	0	
+
+N 16   *	*	*	*	*	*	*	*	*	*	*	707	*	*	*	3307	1805	*	*	*	16
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 17   4255	*	2619	845	*	4357	*	*	*	*	*	4493	4278	*	5048	4231	*	*	*	*	17
+       0	*	*	*	*	*	*	1789	0	0	
+
+A 18   4581	*	2779	798	*	*	*	*	*	4231	*	*	4583	3417	*	*	*	4357	*	*	18
+       0	*	*	*	*	*	*	1789	0	0	
+
+Q 19   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1789	0	0	
+
+R 20   *	*	*	*	4344	*	*	*	3537	4278	*	*	*	4642	576	*	*	3292	*	*	20
+       0	*	*	*	*	*	*	1789	0	0	
+
+N 21   *	4278	*	*	*	*	4344	*	3466	*	*	701	*	*	3744	3933	*	4231	*	*	21
+       0	*	*	*	*	*	*	1789	0	0	
+
+G 22   1230	*	*	*	*	802	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1789	0	0	
+
+F 23   *	*	*	*	213	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2867	23
+       0	*	*	*	*	*	*	1789	0	0	
+
+I 24   *	*	*	*	*	*	*	98	*	3933	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1789	0	0	
+
+Q 25   *	*	4357	*	4583	*	4278	*	*	*	*	4231	*	701	3744	3933	*	*	4344	*	25
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	26
+       0	*	*	*	*	*	*	1789	0	0	
+
+L 27   *	*	*	*	*	*	*	3933	*	98	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1789	0	0	
+
+K 28   *	*	*	*	*	*	4278	4344	701	*	*	3933	*	*	2918	*	*	*	4583	4493	28
+       0	*	*	*	*	*	*	1789	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1789	0	0	
+
+D 30   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1789	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	32
+       0	*	*	*	*	*	*	1789	0	0	
+
+Q 33   *	*	*	*	*	*	*	*	*	*	*	*	*	707	*	*	4133	1598	*	*	33
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	34
+       0	*	*	*	*	*	*	1789	0	0	
+
+T 35   498	*	*	*	*	*	*	*	3793	*	*	3046	*	4133	*	*	4581	*	*	*	35
+       0	*	*	*	*	*	*	1789	0	0	
+
+N 36   *	*	2238	4710	*	*	*	*	*	*	*	415	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1789	0	0	
+
+V 37   *	*	*	*	*	*	*	1598	*	1068	*	*	*	*	*	*	*	2374	*	*	37
+       0	*	*	*	*	*	*	1789	0	0	
+
+L 38   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1789	0	0	
+
+G 39   731	*	*	*	*	3409	*	*	*	*	*	4133	*	3798	*	4822	*	2845	*	*	39
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 40   *	*	*	108	*	*	*	*	*	*	*	*	*	3798	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1789	0	0	
+
+A 41   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1789	0	0	
+
+K 42   *	*	*	*	*	*	*	*	262	*	*	*	*	2591	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1789	0	0	
+
+K 43   3798	*	*	*	*	*	*	*	213	*	*	3938	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1789	0	0	
+
+L 44   4504	*	*	*	*	*	*	*	*	288	3938	*	*	*	*	*	3798	*	*	*	44
+       0	*	*	*	*	*	*	1789	0	0	
+
+N 45   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 46   3798	*	348	3697	*	*	*	*	*	*	*	*	*	*	*	*	*	3938	*	*	46
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 47   933	*	*	*	*	*	*	*	*	*	*	2867	*	*	*	1958	4642	4583	*	*	47
+       0	*	*	*	*	*	*	1789	0	0	
+
+Q 48   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	48
+       47	*	4963	*	*	*	*	1789	0	0	
+
+A 49   102	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3868	*	*	*	49
+       0	*	*	*	*	0	*	1763	0	1000	
+
+P 50   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1693	0	0	
+
+K 51   *	*	*	*	*	*	*	*	238	*	*	*	*	2719	*	*	*	*	*	*	51
+       0	*	*	0	*	*	*	1587	0	0	
+
+//

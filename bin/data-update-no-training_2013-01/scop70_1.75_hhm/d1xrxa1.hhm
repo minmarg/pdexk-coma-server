@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d1xrxa1 a.43.1.7 (A:1-35) SeqA {Escherichia coli [TaxId: 562]}
+FAM   a.43.1.7
+FILE  d1xrxa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xrxa1.a3m -v 1 
+DATE  Tue Jan 22 04:30:38 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  51 out of 53 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHHHHCCCHHHHHHHHHCC
+>ss_conf
+97343248999999986786157888999988429
+>Consensus
+MKxIeiddeLYxyIasxtxxiGEsaSdILRRllxl
+>d1xrxa1 a.43.1.7 (A:1-35) SeqA {Escherichia coli [TaxId: 562]}
+MKTIEVDDELYSYIASHTKHIGESASDILRRMLKF
+>gi|336451421|ref|ZP_08621859.1|(1-35:181) negative regulator of replication initiationR [Idiomarina sp. A28L] >gi|336281792|gb|EGN75064.1| negative regulator of replication initiationR [Idiomarina sp. A28L]  E=1e-07 s/c=1.69 id=69% cov=103%
+MKKIDIDDELYTFIAAHTQHIGESASSILRRLLGF
+>gi|77360576|ref|YP_340151.1|(1-35:197) replication initiation regulator SeqA [Pseudoalteromonas haloplanktis TAC125] >gi|123588160|sp|Q3IGV1.1|SEQA_PSEHT RecName: Full=Negative modulator of initiation of replication >gi|76875487|emb|CAI86708.1| SeqA protein, recognizes hemimethylated GATC motifs; negative modulator of replication initiation; SeqA foci required for chromosome segregation [Pseudoalteromonas haloplanktis TAC125]  E=3e-05 s/c=1.47 id=67% cov=103%
+MKQIDIDDELYQYIASNTQSIGESASTILRRLLNL
+>gi|374336057|ref|YP_005092744.1|(6-40:170) SeqA protein [Oceanimonas sp. GK1] >gi|372985744|gb|AEY01994.1| SeqA protein [Oceanimonas sp. GK1]  E=2e-10 s/c=1.95 id=75% cov=103%
+MKTIEVDEELYRYIAGNTRHIGESASDILRRLLNL
+>gi|407792757|ref|ZP_11139793.1|(41-75:204) replication initiation regulator SeqA [Idiomarina xiamenensis 10-D-4] >gi|407217015|gb|EKE86851.1| replication initiation regulator SeqA [Idiomarina xiamenensis 10-D-4]  E=8e-10 s/c=1.90 id=75% cov=103%
+MKRIELDDDLYAYIASHTQQIGESASDILRRLLAF
+>gi|238897504|ref|YP_002923183.1|(1-35:176) negative modulator of replication initiation [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)] >gi|357580480|sp|C4K392.1|SEQA_HAMD5 RecName: Full=Negative modulator of initiation of replication >gi|229465261|gb|ACQ67035.1| negative modulator of replication initiation [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]  E=3e-08 s/c=1.74 id=69% cov=103%
+MKLIEVDEELYRYIAAHTQYIGESASEILRRMFSL
+>gi|410614522|ref|ZP_11325565.1|(1-33:192) negative modulator of initiation of replication [Glaciecola psychrophila 170] >gi|410165846|dbj|GAC39454.1| negative modulator of initiation of replication [Glaciecola psychrophila 170]  E=5e-08 s/c=1.82 id=62% cov=97%
+MKSIQIEDDLYHFIASQTQDIGESASDILRRLV--
+>gi|170726624|ref|YP_001760650.1|(1-35:179) replication initiation regulator SeqA [Shewanella woodyi ATCC 51908] >gi|357580484|sp|B1KEH7.1|SEQA_SHEWM RecName: Full=Negative modulator of initiation of replication >gi|169811971|gb|ACA86555.1| SeqA family protein [Shewanella woodyi ATCC 51908]  E=5e-08 s/c=1.72 id=67% cov=103%
+MKYIEVDEELYRLIASKTERIGESASEILRRLLGL
+>gi|387816093|ref|YP_005431588.1|(7-41:165) negative regulator of replication initiation seq A [Marinobacter hydrocarbonoclasticus ATCC 49840] >gi|381341118|emb|CCG97165.1| putative negative regulator of replication initiation seq A [Marinobacter hydrocarbonoclasticus ATCC 49840]  E=2e-07 s/c=1.67 id=61% cov=103%
+MRTIEIDDDLYTHIASQTLEIGESANSILRRILGL
+>gi|90409411|ref|ZP_01217485.1|(1-35:213) SeqA [Psychromonas sp. CNPT3] >gi|90309483|gb|EAS37694.1| SeqA [Psychromonas sp. CNPT3]  E=2e-06 s/c=1.58 id=50% cov=103%
+MKNIEIEDDLYKYILANIKEFGETPSQILRRLLAL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1756	0	0	
+
+K 2    *	*	*	*	*	*	*	*	79	*	*	*	*	*	4233	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1756	0	0	
+
+T 3    *	*	*	*	*	*	*	4181	4252	5127	*	2600	*	5705	3941	4215	1074	*	*	3545	3
+       0	*	*	*	*	*	*	1756	0	0	
+
+I 4    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1756	0	0	
+
+E 5    *	*	3801	235	*	*	*	*	*	*	*	*	*	5297	*	5135	5348	*	*	*	5
+       0	*	*	*	*	*	*	1756	0	0	
+
+V 6    *	*	*	*	*	*	*	1031	*	4194	*	*	*	*	*	*	*	1133	*	*	6
+       0	*	*	*	*	*	*	1756	0	0	
+
+D 7    *	*	293	2445	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1756	0	0	
+
+D 8    *	*	666	1435	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1756	0	0	
+
+E 9    *	*	1184	940	*	*	*	*	*	*	*	*	*	4691	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1756	0	0	
+
+L 10   *	*	*	*	*	*	*	4691	*	57	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1756	0	0	
+
+Y 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	11
+       0	*	*	*	*	*	*	1756	0	0	
+
+S 12   3877	*	*	*	5719	5348	3838	*	3269	*	*	*	*	2183	1422	4938	3493	*	*	*	12
+       0	*	*	*	*	*	*	1756	0	0	
+
+Y 13   *	*	*	*	2310	*	3774	*	*	5491	*	*	*	*	*	*	*	*	*	508	13
+       0	*	*	*	*	*	*	1756	0	0	
+
+I 14   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1756	0	0	
+
+A 15   158	*	*	*	*	*	*	*	*	3269	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1756	0	0	
+
+S 16   2592	*	*	*	*	3443	*	*	*	*	*	*	*	*	*	484	5199	*	*	*	16
+       0	*	*	*	*	*	*	1756	0	0	
+
+H 17   *	*	*	5757	*	*	2174	*	3542	*	*	2079	*	1497	3591	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1756	0	0	
+
+T 18   *	*	*	*	*	*	*	3269	*	*	*	*	*	*	*	*	158	*	*	*	18
+       0	*	*	*	*	*	*	1756	0	0	
+
+K 19   *	*	*	2848	*	*	*	*	2842	3022	*	*	*	993	3381	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1756	0	0	
+
+H 20   3405	*	3954	3248	5199	*	1486	*	5948	*	*	5975	*	3725	3379	3070	*	*	*	5127	20
+       0	*	*	*	*	*	*	1756	0	0	
+
+I 21   *	*	*	*	3269	*	*	158	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1756	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1756	0	0	
+
+E 23   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1756	0	0	
+
+S 24   *	*	5135	*	*	*	*	*	*	*	*	5398	*	*	*	306	2847	*	*	*	24
+       0	*	*	*	*	*	*	1756	0	0	
+
+A 25   158	*	*	*	*	*	*	*	*	*	*	*	3269	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1756	0	0	
+
+S 26   *	*	*	*	*	*	*	*	*	*	*	4233	*	*	*	79	*	*	*	*	26
+       0	*	*	*	*	*	*	1756	0	0	
+
+D 27   5199	*	782	2956	*	*	*	*	*	*	*	*	*	3076	*	3789	4392	5398	*	*	27
+       0	*	*	*	*	*	*	1756	0	0	
+
+I 28   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1756	0	0	
+
+L 29   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1756	0	0	
+
+R 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1756	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1756	0	0	
+
+M 32   *	*	*	*	*	*	*	3135	*	352	3287	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1756	0	0	
+
+L 33   *	*	*	*	5127	*	*	5620	*	169	*	*	*	*	*	*	*	4026	*	*	33
+       0	*	*	*	*	*	*	1756	0	0	
+
+K 34   2970	*	*	5128	*	2035	*	*	2859	*	*	1944	*	5412	4048	3083	*	*	*	*	34
+       0	*	*	*	*	*	*	1803	0	0	
+
+F 35   *	*	*	*	1790	*	*	*	*	492	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1798	0	0	
+
+//

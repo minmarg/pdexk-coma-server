@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  d1wjva2 g.37.1.2 (A:36-66) Cell growth regulating nucleolar protein LyaR {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.37.1.2
+FILE  d1wjva2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wjva2.a3m -v 1 
+DATE  Tue Jan 22 04:09:23 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  104 out of 153 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CEEEEEECCCCCCCCEECCCCEECCCCCCCC
+>ss_conf
+9252211794136750113430204334479
+>Consensus
+exxsCiDCxxxFxxxxyxxHtsCItExeKYG
+>d1wjva2 g.37.1.2 (A:36-66) Cell growth regulating nucleolar protein LyaR {Mouse (Mus musculus) [TaxId: 10090]}
+ECLSCIDCGKDFWGDDYKSHVKCISEGQKYG
+>gi|53793459|dbj|BAD53219.1|(43-71:447) hypothetical protein [Oryza sativa Japonica Group]   E=0.0001 s/c=1.69 id=50% cov=97%
+--LSCIDCGESFSQETVQGHAQCISGAEKYG
+>gi|358249849|emb|CCE72915.1|(29-57:173) Piso0_000518 [Millerozyma farinosa CBS 7064] >gi|358350197|emb|CCE73476.1| Piso0_000518 [Millerozyma farinosa CBS 7064]  E=4e-08 s/c=2.10 id=47% cov=97%
+-YFTCIDCSTTFQGTDYRQHTSCITEAEKY-
+>gi|323448857|gb|EGB04750.1|(30-57:112) hypothetical protein AURANDRAFT_16873, partial [Aureococcus anophagefferens]  E=0.0004 s/c=1.69 id=41% cov=94%
+--ITCVDCNKSFYDDSYLQHSTCMSEAERY-
+>gi|154341076|ref|XP_001566491.1|(28-57:322) putative RNA binding protein [Leishmania braziliensis MHOM/BR/75/M2904] >gi|134063814|emb|CAM40003.1| putative RNA binding protein [Leishmania braziliensis MHOM/BR/75/M2904]  E=6e-08 s/c=2.00 id=32% cov=100%
+DTFTCVDCMRVFDLHTIKGHTSCMTEEEKY-
+>gi|91078332|ref|XP_973355.1|(30-59:262) PREDICTED: similar to CG12909 CG12909-PA [Tribolium castaneum] >gi|270003899|gb|EFA00347.1| hypothetical protein TcasGA2_TC003187 [Tribolium castaneum]  E=2e-06 s/c=1.84 id=45% cov=100%
+KSLTCVDCFKDFKNEEYAVHTKCITEEERY-
+>gi|145345487|ref|XP_001417240.1|(28-57:204) predicted protein [Ostreococcus lucimarinus CCE9901] >gi|144577467|gb|ABO95533.1| predicted protein [Ostreococcus lucimarinus CCE9901]  E=2e-05 s/c=1.73 id=42% cov=100%
+EAFSCIDCSATFDRRSVQNHVACVTEHEKY-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2497	751	*	*	*	*	3230	*	*	*	*	3034	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2421	0	0	
+
+C 2    4722	4509	*	*	*	*	5320	4140	*	*	5192	*	*	*	*	2841	4539	2067	*	1366	2
+       0	*	*	*	*	*	*	2657	0	0	
+
+L 3    *	*	*	*	2630	*	*	5067	*	1225	5882	*	*	*	*	*	*	1888	*	3417	3
+       0	*	*	*	*	*	*	2924	0	0	
+
+S 4    5848	*	5835	*	*	*	*	*	*	*	*	5870	*	*	*	992	1168	*	*	*	4
+       0	*	*	*	*	*	*	3083	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3086	0	0	
+
+I 6    *	*	*	*	*	*	*	890	*	3068	3417	*	*	*	*	*	6054	2104	*	*	6
+       0	*	*	*	*	*	*	3083	0	0	
+
+D 7    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3083	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3083	0	0	
+
+G 9    *	*	*	*	4552	1746	6166	*	6035	3624	3072	3081	*	4278	*	2068	*	*	*	5517	9
+       0	*	*	*	*	*	*	3083	0	0	
+
+K 10   3974	6378	6265	3719	5975	*	*	*	1464	5455	6480	4138	*	3836	4237	*	2880	3219	*	*	10
+       0	*	*	*	*	*	*	3083	0	0	
+
+D 11   5922	*	1850	4816	*	*	4808	6690	6619	6265	5938	*	*	5241	*	3276	1648	3040	*	6023	11
+       0	*	*	*	*	*	*	3083	0	0	
+
+F 12   *	*	*	*	60	*	*	*	*	5781	*	*	*	*	*	*	*	*	*	5455	12
+       32	5501	*	0	*	*	*	3083	1202	0	
+
+W 13   5376	*	2130	3754	6271	4408	4481	6962	5300	6720	5646	4400	4112	4338	4776	3719	4029	5969	3495	3782	13
+       18	6360	*	0	*	*	*	3083	1228	0	
+
+G 14   6698	6662	5550	5646	*	1076	5566	4935	5214	5128	6392	4870	*	4162	2784	4595	4510	*	*	5432	14
+       110	3762	*	0	*	*	*	3083	1671	0	
+
+D 15   3947	*	2157	3036	4708	4118	4550	6885	5904	*	6278	3327	6947	3511	5133	5755	3106	5140	6816	5922	15
+       12	6947	*	0	*	*	*	3083	1000	0	
+
+D 16   4412	*	2343	2100	*	5258	*	*	*	*	*	*	*	4001	*	2174	2235	*	*	*	16
+       0	*	*	*	*	*	*	3083	0	0	
+
+Y 17   5199	*	*	*	3912	*	5838	4524	*	*	*	*	*	*	*	*	*	2126	4291	823	17
+       0	*	*	*	*	*	*	3083	0	0	
+
+K 18   4633	*	5472	4463	*	*	5938	4809	1322	6256	*	3819	*	2682	2800	5940	6806	4995	*	*	18
+       0	*	*	*	*	*	*	3083	0	0	
+
+S 19   2777	*	4112	4398	*	2478	*	*	4758	5872	*	3153	5307	3701	*	2259	4145	5716	*	5938	19
+       0	*	*	*	*	*	*	3083	0	0	
+
+H 20   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3083	0	0	
+
+V 21   5050	5318	*	*	*	*	*	3903	5224	*	*	3645	*	*	*	4589	651	3427	*	*	21
+       0	*	*	*	*	*	*	3083	0	0	
+
+K 22   5295	*	*	*	*	*	*	*	2002	*	*	*	*	2445	6367	1138	3745	*	*	*	22
+       0	*	*	*	*	*	*	3083	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3083	0	0	
+
+I 24   *	*	*	*	*	*	*	644	*	*	3319	*	*	*	*	*	5517	2072	*	*	24
+       0	*	*	*	*	*	*	3083	0	0	
+
+S 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1182	839	*	*	*	25
+       22	6035	*	0	*	*	*	3083	1000	0	
+
+E 26   *	*	*	44	*	5050	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3083	0	0	
+
+G 27   1311	*	2477	2911	*	6833	3784	*	5079	*	*	3705	*	5029	*	6597	5555	4863	*	*	27
+       0	*	*	*	*	*	*	3083	0	0	
+
+Q 28   6173	*	4444	632	6035	*	*	*	5922	*	*	*	*	2066	6448	*	6271	*	*	*	28
+       0	*	*	*	*	*	*	3083	0	0	
+
+K 29   *	*	*	*	*	*	*	*	221	*	*	*	*	*	2818	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3083	0	0	
+
+Y 30   *	*	*	*	*	*	4599	*	*	*	*	*	*	*	*	*	*	*	*	61	30
+       0	*	*	*	*	*	*	3065	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	2500	0	0	
+
+//

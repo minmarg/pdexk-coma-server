@@ -1,0 +1,178 @@
+<html>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+    <title>PDEXK Web Server: Help</title>
+  <body>
+    <div id="container">
+        <div class="title" style="font-size: 25px; margin-top: 5px; padding: 10px; text-align: center;">
+            PDEXK server HELP
+        </div>
+        The PDEXK server is for detecting new protein families of the PDEXK superfamily using HHsearch 
+        profile-profile alignments and Support Vector Machines. A short description of server input 
+        options and output is given below.<br/>
+        <br/>
+        
+        <div class="title">
+            <a name="server_input">
+               Server input
+            </a>
+        </div>
+        
+		<!--Input-->
+		<a name="input" class="group">
+		Input
+		</a><br/><br/>
+		
+		<a name="paste_sequence" class="anchor">
+		Paste protein sequence or multiple alignment
+		</a><br/>
+		<span class="description">
+		Paste a single protein sequence or multiple alignment in the format defined by the 'Input type'.
+		Currently, only the FASTA format is accepted. If a multiple sequence alignment is provided, 
+		the length of aligned sequences must be the same.
+		</span><br/><br/>
+		
+		<!--Upload a local file-->
+		<a name="upload_local" class="anchor">
+		Upload a local file
+		</a><br/>
+		<span class="description">
+		Optionally, user may upload a local file containing a single protein sequence or multiple sequence alignment in the format defined by the 'Input type'.
+		</span><br/><br/>
+		
+		<!--Input type-->
+		<a name="input_type" class="anchor">
+		Input type
+		</a><br/>
+		<span class="description">
+		Describes the format of input protein sequence(s). Currently, The FASTA format is available. Each sequence in this format has a description line starting with symbol '>', e.g.:<br/>
+		>3i1m_R mol:protein length:75  30S ribosomal protein S18<br/>
+		MARYFRRRKFCRFTAEGVQEIDYKDIATLKNYITESGKIVPSRITGTRAKYQRQLARAIKRARYLSLLPYTDRHQ
+		</span><br/><br/>
+		
+		<!--E-mail results to-->
+		<a name="email_results_to" class="anchor">
+		E-mail results to
+		</a><br/>
+		<span class="description">
+		Once the job is finished, the results will be sent to the E-mail address provided in this field. It is strongly recommended to provide E-mail address, as the E-mail message contains the link to the results of the finished job. 
+		</span><br/><br/>
+		
+		<!--Job description (max 20 characters)-->
+		<a name="job_description" class="anchor">
+		Job description (max 20 characters)
+		</a><br/>
+		<span class="description">
+		A user may provide an optional job identifier of maximum length of 20 characters.
+		</span><br/><br/>
+		
+		<!--Construction of query-based multiple alignment using PSI-BLAS-->
+        <a name="construction_msa" class="group">
+        Construction of multiple sequence alignment using PSI-BLAST
+        </a><br/><br/>
+        
+        <!--Do not run PSI-BLAST (use my input multiple alignment)-->
+        <a name="do_not_run_psiblast" class="anchor">
+        Do not run PSI-BLAST (use my input multiple alignment)
+        </a><br/>
+        <span class="description">
+        Providing a custom multiple sequence alignment as an input and checking this option disallows PSI-BLAST (Altschul SF, et al., 1997, Nucleic Acids Res., 25:3389-402) run using the provided multiple sequence alignment for jumpstart; the input alignment is used directly to construct query profile.      </span><br/><br/>
+        
+        <!--Let the server handle PSI-BLAST run-->
+        <a name="let_the_server_handle" class="anchor">
+        Let the server handle PSI-BLAST run
+        </a><br/>
+        <span class="description">
+        Selecting this option means that the server will take control of the process of profile construction.     </span><br/><br/>
+		
+		<div class="title">
+			<a name="server_output">
+	           Server output
+	        </a>
+		</div>
+        
+        <a name="input_seq" class="anchor">
+        Sequence or MSA
+        </a><br/>
+        <span class="description">
+        A file that contains an input sequence or an input multiple sequence alignment.     </span><br/><br/>
+        
+        <a name="input_par" class="anchor">
+        Parameters
+        </a><br/>
+        <span class="description">
+        A file that contains an input parameters for the server run.     </span><br/><br/>
+        
+        <a name="output_logs" class="anchor">
+        STDERR log, STDOUT log 
+        </a><br/>
+        <span class="description">
+        Output files of the standard output and standard error streams.</span><br/><br/>
+ 
+        <a name="fma" class="anchor">
+        Final multiple alignment 
+        </a><br/>
+        <span class="description">
+        A constructed final multiple alignment if PSI-BlAST was used. Otherwise only secondary structure information is added to the input multiple sequence alignment.     </span><br/><br/>
+
+        <a name="comparison_of_msa" class="anchor">
+        Comparison of MSA 
+        </a><br/>
+        <span class="description">
+        An HHsearch (Söding J, 2005, Bioinformatics, 21:951-60) output file. </span><br/><br/>
+
+        <a name="aligned_pdexk" class="anchor">
+        Aligned PDEXK  
+        </a><br/>
+        <span class="description">
+        A pseudo multiple sequence alignment of the following structure:
+        <ol>
+		  <li>>ss_pre, secondary structure sequence predicted by PSIPRED (Jones DT, 1999, J Mol Biol., 292:195-202).</li>
+		  <li>>Consensus, consensus sequence of HHsearch.</li>
+		  <li>>A1W682_ACISJ/1, query sequence (or the first sequence in the provided MSA).</li>
+		  <li>>DELIM1, delimiter line.</li>
+		  <li>>PDEXK_family_pdexk, definition line of the conservative positions of PDEXK_family. 1 - E; 2 - PD; 3 - EXK.</li>
+		  <li>>PDEXK_family, PDEXK protein family aligned with query.</li>
+		  <li>>DELIM2, delimiter line.</li>
+		  <li>Final multiple alignment.</li>
+        </ol>
+        </span>
+
+        <a name="svm_probability" class="anchor">
+        SVM Probability  
+        </a><br/>
+        <span class="description">
+        A file of SVM (Lin H-T, Li L, 2008, J Mach Learn Res., 9:285-312) probabilities.
+        The file structure is as follows: name of a classifier, its training accuracy and probability.</span><br/><br/>
+        
+        <a name="predicted_probability" class="anchor">
+        Probability   
+        </a><br/>
+        <span class="description">
+	        <div style="width: 600px; height: auto;  margin: 5px; padding: 5px; color: white; background-color: green;">
+	             <b>[0.8, 1.0]. A query protein family is considered as a member of PDEXK clan.</b>
+	        </div>
+	        <div style="width: 600px; height: auto; margin: 5px; padding: 5px; color: white; background-color: blue;">
+		         <b>[0.5, 0.8). Uncertain.</b>
+		    </div><div style="width: 600px; height: auto; margin: 5px; padding: 5px; color: white; background-color: red;">
+	             <b>[0.0, 0.5). Unlikely. -1 means that no PDEXK was aligned with the query.</b>
+	        </div>
+        </span><br/>
+        
+        <div class="title">
+            <a name="server_output">
+               References
+            </a>
+        </div>
+        <span class="description">
+            <ol>
+                <li>
+                    Laganeckas M, Margelevičius M, Venclovas Č. (2011)
+                    Identification of new homologs of PD-(D/E)XK nucleases by Support Vector Machines 
+                    trained on data derived from profile-profile alignments.
+                    Nucleic Acids Res. 39(4), 1187-96.
+                </li>
+            </ol>
+        </span>
+    </div>
+  </body>
+</html>

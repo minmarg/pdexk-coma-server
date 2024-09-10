@@ -1,0 +1,206 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use File::Basename;
+use HHParser;
+use Parsers;
+use Utils;
+use SOptions;
+use SUsage;
+
+# ==============================================================================
+# $Author: Mindaugas.laganeckas@gmail.com $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 75 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/SVMPositiveData $
+# ==============================================================================
+
+my %data_info = (   class_label         => 1, 
+                    mode                => "train",
+                    lower_limit         => 0,
+                    upper_limit         => 100,
+                    no_hhsearch_prob    => 0,
+                    use_e_pos           => 0,
+                );
+
+@ARGV = getOptions
+(
+#** Extracts positive data for SVM. Input is HHseach output file. The script graps all 
+#** alignments with PDEXK and checks if conservative positions were aligned (one or both).
+#** If so, then extracts features for each alignment separately. 
+#** In that way the new objects of positive set will be made.
+#**
+#** -i,--input                  Input file (hhsearch out. An extension must be ".out").
+#** -p,--pos                    File with a list of positions
+#** -q,--q_hhm                  List with query .hhm files
+#** -t,--t_hhm                  List with template .hhm files
+#** -m,--mode                   Mode: train|test (Default: train)
+#** -l,--lower_limit            For train mode. Lower limit for HHsearch prob of the aligmnent. (Default: 0)
+#** -u,--upper_limit            For train mode. Upper limit for HHsearch prob of the aligmnent. (Default: 100)
+#** -n,--no_hhsearch_prob       Don't use HHsearch prob in classification (Default: 0 (use))
+#** -e,--use_e_pos              Use E position info in classification (Default: 0 (not use))
+#** -c,--class_label            Class label for SVM objects (Default: 1)
+#** -h,-?,--help,--usage        Print short usage message (this message) and exit.
+
+    "-i,--input"             => sub {$data_info{input}              = get_value()},
+    "-p,--pos"               => sub {$data_info{pos}                = get_value()},
+    "-q,--q_hhm"             => sub {$data_info{q_hhm}              = get_value()},
+    "-t,--t_hhm"             => sub {$data_info{t_hhm}              = get_value()},
+    "-m,--mode"              => sub {$data_info{mode}               = get_value()},
+    "-l,--lower_limit"       => sub {$data_info{lower_limit}        = get_value()},
+    "-u,--upper_limit"       => sub {$data_info{upper_limit}        = get_value()},
+    "-n,--no_hhsearch_prob"  => sub {$data_info{no_hhsearch_prob}   = get_value()},
+    "-e,--use_e_pos"         => sub {$data_info{use_e_pos}          = get_value()},
+    "-c,--class_label"       => sub {$data_info{class_label}        = get_value()},
+    "-h,-?,--help,--usage"   => sub {SUsage::usage; exit                         },
+);
+
+# HHout obj:
+# %main_obj = (
+#              query => "PF00002",
+#              header => "7 transmembrane receptor (Secretin family)",
+#              match_columns => 293,
+#              used_no_of_seqs => 117,
+#              all_no_of_seqs => 762,
+#              neff => 6.6,
+#              searched_HMMs => 13774,
+#              hits =>   {1 => ####, ...}
+#              aligns => {1 => ######, ...}
+#              );
+# 
+#  Hits and aligns point to the structures showed bellow. 
+# 
+# #### my %obj = (number => 1, 
+#             template => "d1u19a_", 
+#             prob => 98.8, 
+#             evalue => 8.9E-09, 
+#             pvalue => 6.5E-13, 
+#             score => 63.7, 
+#             ss => 6.9, 
+#             cols => 244, 
+#             query_hmm_begin => 14, 
+#             query_hmm_end => 292, 
+#             template_hmm_begin => 50, 
+#             template_hmm_end => 312, 
+#             hierarchy => "f.13.1.2"); #Nan!
+# ####### my %obj = 
+#         (
+#             match => "++.=.+..+-|.++.-..+..........+.+++.+--..=|+++.-.+", 
+#             q_cons => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_cons => "~v~W~iYPi~y~l~~~g~~~~~~~~~~~~y~i~D~i~K~~FG~~i~~~a", 
+#             q_seq => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_seq => "VILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA"
+#         );
+
+if((!defined($data_info{input})) || (!defined($data_info{pos}))  || 
+   (!defined($data_info{q_hhm})) || (!defined($data_info{t_hhm})))
+{
+    SUsage::usage; exit;
+}
+
+my $hh_obj    = HHParser::parse_hh_out($data_info{input});
+
+my $positions = Parsers::parse_pos_list($data_info{pos});
+# Are c.52 aligned?
+my $possible_PDEXK;
+ 
+if($data_info{mode} eq "train")
+{
+    $possible_PDEXK = Utils::find_PDEXK($hh_obj, $positions, 
+                            $data_info{lower_limit}, $data_info{upper_limit});
+}
+else
+{
+    $possible_PDEXK = Utils::find_PDEXK($hh_obj, $positions, 0, 100);
+}
+
+if(scalar(@$possible_PDEXK) > 0)
+{
+    my $query_list    = Parsers::parse_list($data_info{q_hhm}, ".hhm");
+    my $template_list = Parsers::parse_list($data_info{t_hhm}, ".hhm");
+    
+    my $hhm_obj       = Parsers::parse_hhm($query_list->{fileparse($data_info{input}, ".out")});
+    
+    # Counting templates by superfamilies
+    my $ratio = 0.0;
+    {
+        my $pdexk_superfamily = "c.52";
+        my $distribution_by_superfamily = Utils::distribution_by_superfamily($hh_obj, $positions, "template", $pdexk_superfamily);
+        $ratio = $distribution_by_superfamily->{$pdexk_superfamily};
+    }
+
+    #     Aligned both conservative positions
+    my @aligned_with_conservative_pos_AND; 
+    #     Aligned only one of conservative positions
+    my @aligned_with_conservative_pos_OR;  
+
+    # Tests if conservative positions are aligned
+    foreach my $obj (@$possible_PDEXK)
+    {
+        # %pos = (
+        #               name => "2g3w.pos",
+        #               pd_pos => [15, 16],
+        #               exk_pos => [37,38,39],
+        #         );
+
+        my $possible_position = Utils::get_PDEXK_positions($positions, $hh_obj->{hits}->{$obj}->{template});
+        
+        if(defined($possible_position))
+        {
+            my $alignment_mode = Utils::test_aligned_region($hh_obj, $possible_position, $obj, "template");
+            
+            if($alignment_mode == 2)
+            {
+                my $scores = Utils::score_manager($template_list->{$hh_obj->{hits}->{$obj}->{template}},
+                                                  $hh_obj->{aligns}->{$obj}, 
+                                                  $hh_obj->{hits}->{$obj},
+                                                  $possible_position,
+                                                  "positive",
+                                                  $hh_obj->{match_columns},
+                                                  $hhm_obj,
+                                                  $data_info{no_hhsearch_prob},
+                                                  $data_info{use_e_pos});
+#                 push(@$scores, $ratio);
+            
+                push(@aligned_with_conservative_pos_AND, {index => $obj, pos => $possible_position, scores => $scores});
+            }
+            elsif($alignment_mode == 1)
+            {
+                my $scores = Utils::score_manager($template_list->{$hh_obj->{hits}->{$obj}->{template}},
+                                                  $hh_obj->{aligns}->{$obj}, 
+                                                  $hh_obj->{hits}->{$obj},
+                                                  $possible_position,
+                                                  "positive",
+                                                  $hh_obj->{match_columns},
+                                                  $hhm_obj,
+                                                  $data_info{no_hhsearch_prob},
+                                                  $data_info{use_e_pos});
+#                 push(@$scores, $ratio);
+            
+                push(@aligned_with_conservative_pos_OR, {index => $obj, pos => $possible_position, scores => $scores});
+            }
+        } 
+        elsif(!defined($possible_position))
+        {
+            print STDERR "ERR: $0: can't find the positions of the following template $hh_obj->{hits}->{$obj}->{template}";            
+        }
+    }
+    
+    if(scalar(@aligned_with_conservative_pos_AND) > 0 || scalar(@aligned_with_conservative_pos_OR) > 0)
+    {
+        my @aligned_with_conservative_pos = (@aligned_with_conservative_pos_AND, @aligned_with_conservative_pos_OR);
+        
+        foreach my $index (@aligned_with_conservative_pos)
+        {
+            Utils::print_svm_features($hh_obj, $index, $data_info{class_label});
+        }
+    }
+}
+
+
+
+
+
+

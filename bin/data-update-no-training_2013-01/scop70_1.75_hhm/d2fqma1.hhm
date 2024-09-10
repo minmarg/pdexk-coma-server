@@ -1,0 +1,235 @@
+HHsearch 1.5
+NAME  d2fqma1 d.378.1.1 (A:107-171) Phosphoprotein P (M1) {Vesicular stomatitis indiana virus [TaxId: 11277]}
+FAM   d.378.1.1
+FILE  d2fqma1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2fqma1.a3m -v 1 
+DATE  Tue Jan 22 07:05:12 2013
+LENG  65 match states, 65 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHCCCCCCCCCEEEEECCCEEEEECC
+>ss_conf
+99788311279973588865888772457889999998762025534210046435874587429
+>Consensus
+xWkqPelesdgxgKsLxLxxPxGLtxeQxsQWxxTIeAvvqSaKYWNiaECxxexxxxxiilkxR
+>d2fqma1 d.378.1.1 (A:107-171) Phosphoprotein P (M1) {Vesicular stomatitis indiana virus [TaxId: 11277]}
+DWKQPELESDEHGKTLRLTLPEGLSGEQKSQWMLTIKAVVQSAKHWNLAECTFEASGEGVIIKKR
+>gi|336309160|gb|AEI52256.1|(106-170:265) phosphoprotein [Maraba virus] >gi|343789875|gb|AEM60939.1| phosphoprotein [Vesicular stomatitis virus]  E=2e-22 s/c=1.66 id=71% cov=102%
+DWKQPELESDGDGKTLRLTIPDGLTGEQKSQWLATIKAVVQSAKYWNISECSFESYEQGVLIRER
+>gi|171673118|gb|ACB47440.1|(102-166:260) phosphoprotein [Vesicular stomatitis Alagoas virus]   E=1e-15 s/c=1.33 id=55% cov=102%
+EWKLPELESDSTGKSLKLFIPDNLTQEQKSQWIATIEALVQSARYWNIAECSVEKTSQGITLKER
+>gi|343789873|gb|AEM60938.1|(111-175:270) phosphoprotein [Vesicular stomatitis virus]   E=2e-24 s/c=1.77 id=73% cov=102%
+DWKQPELESDGNGKTLRLTMPEGLSNEQQSQWLSTIKAVVQSAKYWNIAECTLESTKSGVVMKER
+>gi|171673112|gb|ACB47435.1|(105-169:264) phosphoprotein [Cocal virus]   E=2e-24 s/c=1.77 id=62% cov=102%
+NWKQPELESSGDGKTLLLTVPEGLTTEQRTQWNATIKALVQSAKYWNIAECTVEDIDQGIMMKER
+>gi|397790845|gb|AFO67848.1|(102-166:274) phosphoprotein [Vesicular stomatitis New Jersey virus]   E=7e-24 s/c=1.74 id=42% cov=102%
+DWTQPVMKENGGEKSLSLFHPVGLTKIQTDQWRKTIEAVCESSKYWNLSECQIMNSDNCLILKGR
+>gi|343789893|gb|AEM60948.1|(102-166:261) phosphoprotein [Vesicular stomatitis virus]   E=2e-23 s/c=1.72 id=58% cov=102%
+EWKPPELESDSTGKSLTLTIPGGLTTEQRSQWTSTIEALVQSAKYWNIAECSVEKTGHEIILRER
+>gi|397790809|gb|AFO67818.1|(103-166:274) phosphoprotein [Vesicular stomatitis New Jersey virus]   E=9e-22 s/c=1.66 id=37% cov=100%
+-WTQPVIKENGGERSLSLFPPVGLTQVQTEQWKKTIETVCESSKYWNLSECQIVTSGNCLILRGQ
+>gi|343789877|gb|AEM60940.1|(11-263:264) phosphoprotein [Vesicular stomatitis virus] >gi|343789879|gb|AEM60941.1| phosphoprotein [Vesicular stomatitis virus]  E=1e-114 s/c=0.39 id=62% cov=102%
+NWKQPELESDGDGKTLLLTAPDGLTPEQRTQWNATIKALVQSAKYWNIAECSVEDNERGIVIKER
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	992	2026	*	*	*	*	*	*	*	1989	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2016	0	0	
+
+W 2    *	*	*	*	*	*	*	*	*	3723	*	*	*	*	*	*	*	*	114	*	2
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 3    *	*	*	*	*	*	*	*	605	*	*	*	*	*	*	*	1546	*	*	*	3
+       0	*	*	*	*	*	*	2062	0	0	
+
+Q 4    *	*	*	*	*	*	*	*	*	2650	*	*	3842	375	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2062	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 6    *	*	*	605	*	*	*	*	*	*	*	*	*	*	*	*	*	1546	*	*	6
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 7    *	*	*	*	*	*	*	3319	*	605	2045	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 8    *	*	*	605	*	*	*	*	1546	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2062	0	0	
+
+S 9    *	*	*	1546	*	*	*	*	*	*	*	*	*	*	*	605	*	*	*	*	9
+       0	*	*	*	*	*	*	2062	0	0	
+
+D 10   *	*	773	*	*	*	*	*	*	*	*	1546	*	*	*	3788	*	*	*	*	10
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 11   *	*	*	2786	*	676	*	*	*	*	*	*	*	*	*	2126	*	*	*	*	11
+       0	*	*	*	*	*	*	2062	0	0	
+
+H 12   *	*	2276	*	*	1546	2786	*	*	*	*	3702	*	*	*	*	2126	*	*	*	12
+       0	*	*	*	*	*	*	2062	0	0	
+
+G 13   *	*	*	1546	*	605	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 14   *	*	*	*	*	*	*	*	152	*	*	*	*	*	3319	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2062	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	807	1223	*	*	*	15
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2062	0	0	
+
+R 17   *	*	*	*	*	*	*	*	3579	2814	*	*	*	*	1805	1546	2781	*	*	*	17
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2062	0	0	
+
+T 19   *	*	*	*	1230	*	*	*	*	*	*	*	*	*	*	*	801	*	*	*	19
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 20   3840	*	*	*	*	*	3626	1769	*	2786	3702	*	1935	*	*	*	*	3788	*	*	20
+       0	*	*	*	*	*	*	2062	0	0	
+
+P 21   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 22   *	*	2199	1765	*	2781	*	*	*	*	*	*	*	*	*	*	*	1546	*	*	22
+       0	*	*	*	*	*	*	2062	0	0	
+
+G 23   *	*	*	*	*	126	*	*	*	*	*	3579	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2062	0	0	
+
+S 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2173	362	*	*	*	25
+       0	*	*	*	*	*	*	2062	0	0	
+
+G 26   *	*	*	*	*	2256	*	*	2045	*	*	3702	3840	2443	*	*	2199	*	*	*	26
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 27   *	*	*	605	*	*	*	2614	*	*	*	*	*	*	*	*	*	2480	*	*	27
+       0	*	*	*	*	*	*	2062	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 29   *	*	*	*	*	*	*	*	1771	*	*	*	*	3702	1798	*	1546	*	*	*	29
+       0	*	*	*	*	*	*	2062	0	0	
+
+S 30   *	*	3626	1935	*	*	*	*	*	*	*	*	*	*	*	957	2814	*	*	*	30
+       0	*	*	*	*	*	*	2062	0	0	
+
+Q 31   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2062	0	0	
+
+W 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	32
+       0	*	*	*	*	*	*	2062	0	0	
+
+M 33   *	*	*	*	*	*	*	3579	2454	2286	3625	2814	*	*	2643	*	2781	*	*	*	33
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 34   1785	*	*	*	*	*	*	*	1546	3625	*	*	*	*	*	1805	*	*	*	*	34
+       0	*	*	*	*	*	*	2062	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	35
+       0	*	*	*	*	*	*	2062	0	0	
+
+I 36   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 37   *	*	*	807	*	*	*	*	1223	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2062	0	0	
+
+A 38   152	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3319	*	*	*	38
+       0	*	*	*	*	*	*	2062	0	0	
+
+V 39   *	*	*	*	*	*	*	*	*	1429	*	*	*	*	*	*	*	670	*	*	39
+       0	*	*	*	*	*	*	2062	0	0	
+
+V 40   *	1546	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	605	*	*	40
+       0	*	*	*	*	*	*	2062	0	0	
+
+Q 41   *	*	*	1546	*	*	*	*	*	*	*	*	*	605	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2062	0	0	
+
+S 42   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	42
+       0	*	*	*	*	*	*	2062	0	0	
+
+A 43   605	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1546	*	*	*	*	43
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 44   *	*	*	*	*	*	*	*	126	*	*	*	*	*	3579	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2062	0	0	
+
+H 45   *	*	*	*	*	*	3625	*	*	*	*	*	*	*	*	*	*	*	*	122	45
+       0	*	*	*	*	*	*	2062	0	0	
+
+W 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	46
+       0	*	*	*	*	*	*	2062	0	0	
+
+N 47   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2062	0	0	
+
+L 48   *	*	*	*	*	*	*	964	*	1036	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2062	0	0	
+
+A 49   754	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1297	*	*	*	*	49
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 50   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2062	0	0	
+
+C 51   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2062	0	0	
+
+T 52   *	*	*	*	*	*	*	*	*	*	*	*	*	1924	3661	1461	1765	*	*	*	52
+       0	*	*	*	*	*	*	2062	0	0	
+
+F 53   *	*	*	*	2256	*	*	1546	*	3702	*	*	*	*	*	*	*	1429	*	*	53
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 54   *	*	*	605	*	*	*	*	*	3603	3626	*	*	*	*	*	*	2480	*	*	54
+       0	*	*	*	*	*	*	2062	0	0	
+
+A 55   2786	*	2814	*	*	*	*	*	2126	*	*	2614	*	*	*	2825	2480	*	*	*	55
+       0	*	*	*	*	*	*	2062	0	0	
+
+S 56   *	*	*	*	*	*	*	3788	*	3603	3723	3840	*	*	*	1303	2119	*	*	3958	56
+       0	*	*	*	*	*	*	2062	0	0	
+
+G 57   *	*	1426	2208	*	1994	*	*	3702	*	*	*	*	*	*	3579	*	*	*	*	57
+       0	*	*	*	*	*	*	2062	0	0	
+
+E 58   *	*	2632	3625	*	*	2781	*	*	*	*	2464	*	1815	3840	3702	*	*	*	*	58
+       0	*	*	*	*	*	*	2062	0	0	
+
+G 59   *	1942	*	3842	*	966	*	*	*	*	3723	*	*	*	*	3603	*	*	*	*	59
+       0	*	*	*	*	*	*	2062	0	0	
+
+V 60   *	*	*	*	*	*	*	1429	*	1546	*	*	*	*	*	*	*	1805	*	*	60
+       0	*	*	*	*	*	*	2062	0	0	
+
+I 61   *	*	*	*	*	*	*	861	*	3958	3788	*	*	*	*	*	2591	2770	*	*	61
+       0	*	*	*	*	*	*	2062	0	0	
+
+I 62   *	*	*	*	*	*	*	1781	*	1012	2230	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 63   *	*	*	*	*	*	*	*	711	*	*	*	*	*	1362	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2062	0	0	
+
+K 64   *	*	*	964	*	1299	*	*	3625	*	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2062	0	0	
+
+R 65   *	*	*	*	*	*	*	*	*	*	*	*	*	3319	152	*	*	*	*	*	65
+       0	*	*	0	*	*	*	2062	0	0	
+
+//

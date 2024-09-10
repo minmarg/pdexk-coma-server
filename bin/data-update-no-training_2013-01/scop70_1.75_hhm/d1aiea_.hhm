@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1aiea_ a.53.1.1 (A:) p53 tetramerization domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.53.1.1
+FILE  d1aiea_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1aiea_.a3m -v 1 
+DATE  Mon Jan 21 18:43:36 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  16 out of 18 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CEEEEEECCCHHHHHHHHHHHHHHCCCCCCC
+>ss_conf
+9167875161577899987666300023469
+>Consensus
+eyftlkirgrxrfemfrelnealelkdaxax
+>d1aiea_ a.53.1.1 (A:) p53 tetramerization domain {Human (Homo sapiens) [TaxId: 9606]}
+EYFTLQIRGRERFEMFRELNEALELKDAQAG
+>gi|301778209|ref|XP_002924483.1|(314-344:381) PREDICTED: cellular tumor antigen p53-like [Ailuropoda melanoleuca]   E=1e-08 s/c=2.04 id=88% cov=103%
+EYFTLQIRGRERFNMFRELNEALELKDALSG
+>gi|189083686|ref|NP_112251.2|(324-354:391) cellular tumor antigen p53 [Rattus norvegicus] >gi|129372|sp|P10361.1|P53_RAT RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53 >gi|56829|emb|CAA31457.1| unnamed protein product [Rattus norvegicus] >gi|68534537|gb|AAH98663.1| Tumor protein p53 [Rattus norvegicus] >gi|127799258|gb|AAH81788.2| Tumor protein p53 [Rattus norvegicus] >gi|149053055|gb|EDM04872.1| tumor protein p53, isoform CRA_b [Rattus norvegicus]  E=2e-08 s/c=2.01 id=88% cov=103%
+EYFTLKIRGRERFEMFRELNEALELKDARAA
+>gi|16266760|dbj|BAB69969.1|(323-353:390) p53 [Meriones unguiculatus]   E=6e-08 s/c=1.95 id=84% cov=103%
+EYFTLKIRGRKRFEVFRELNEALELKDAQAA
+>gi|129370|sp|Q00366.1|P53_MESAU(329-358:396) RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53 >gi|191415|gb|AAA37085.1| tumor suppressing protein [Mesocricetus auratus]  E=1e-07 s/c=1.99 id=84% cov=100%
+EYFTLKIRGQERFKMFQELNEALELKDAQA-
+>gi|395533528|ref|XP_003768810.1|(303-333:371) PREDICTED: cellular tumor antigen p53 [Sarcophilus harrisii]   E=1e-06 s/c=1.81 id=75% cov=103%
+EYFTLQIRGRHRYELLRELNEALELKEAHSG
+>gi|113203521|gb|ABI33869.1|(318-344:387) tumor suppressor p53 [Ambystoma mexicanum]   E=4e-05 s/c=1.90 id=79% cov=90%
+ETFTLQIHGRERYEMFKKLNEALELKD----
+>gi|395836482|ref|XP_003791183.1|(323-352:390) PREDICTED: cellular tumor antigen p53 isoform 1 [Otolemur garnettii] >gi|395836484|ref|XP_003791184.1| PREDICTED: cellular tumor antigen p53 isoform 2 [Otolemur garnettii]  E=3e-09 s/c=2.17 id=87% cov=100%
+EYFTLKIRGRERYEMFRELNEALEIKDAQA-
+>gi|10720190|sp|O36006.1|P53_MARMO(324-353:391) RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53 >gi|2440123|emb|CAA04478.1| tumor suppressor [Marmota monax]  E=1e-08 s/c=2.10 id=87% cov=100%
+EYFTLKIRGRARFEMFQELNEALELKDAQA-
+>gi|289629257|ref|NP_001166211.1|(324-353:391) cellular tumor antigen p53 [Cavia porcellus] >gi|10720197|sp|Q9WUR6.1|P53_CAVPO RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53 >gi|4884046|emb|CAB43196.1| p53 protein [Cavia porcellus]  E=5e-07 s/c=1.92 id=71% cov=100%
+EYFTLKIRGRKNFEILREINEALEFKDAQT-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1432	0	0	
+
+Y 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3315	*	*	153	2
+       0	*	*	*	*	*	*	1432	0	0	
+
+F 3    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1432	0	0	
+
+T 4    *	*	*	*	*	*	*	4099	*	*	*	*	*	*	*	*	87	*	*	*	4
+       0	*	*	*	*	*	*	1432	0	0	
+
+L 5    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1432	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	777	*	*	*	*	1264	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1432	0	0	
+
+I 7    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1432	0	0	
+
+R 8    *	*	*	*	*	*	3315	*	*	*	*	*	*	*	153	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1432	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1432	0	0	
+
+R 10   *	*	*	*	*	*	*	*	*	*	*	*	*	3768	110	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1432	0	0	
+
+E 11   4224	*	*	707	*	*	3808	*	2423	*	*	*	*	3716	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1432	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	3478	*	*	136	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1432	0	0	
+
+F 13   *	*	*	*	523	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1718	13
+       0	*	*	*	*	*	*	1432	0	0	
+
+E 14   *	*	*	214	*	*	*	*	3768	*	*	3958	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1432	0	0	
+
+M 15   *	*	*	*	*	*	*	3478	*	2761	617	*	*	4053	*	*	*	4310	*	*	15
+       0	*	*	*	*	*	*	1432	0	0	
+
+F 16   *	*	*	*	391	*	*	*	*	2076	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1432	0	0	
+
+R 17   *	*	*	*	*	*	*	*	3315	*	*	*	*	2978	372	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1432	0	0	
+
+E 18   *	*	*	153	*	*	*	*	3315	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1432	0	0	
+
+L 19   *	*	*	*	*	*	*	2592	*	370	*	*	*	*	4053	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1432	0	0	
+
+N 20   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1432	0	0	
+
+E 21   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1432	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1432	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1432	0	0	
+
+E 24   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1432	0	0	
+
+L 25   *	*	*	*	3478	*	*	4161	*	227	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1432	0	0	
+
+K 26   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1432	0	0	
+
+D 27   *	*	230	2761	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1432	0	0	
+
+A 28   96	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3958	*	*	*	28
+       0	*	*	*	*	*	*	1383	0	0	
+
+Q 29   *	*	*	*	*	*	2217	*	*	3818	*	*	*	604	4149	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1383	0	0	
+
+A 30   695	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2098	2750	*	*	*	30
+       0	*	*	*	*	*	*	1383	0	0	
+
+G 31   1370	*	*	*	*	706	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1272	0	0	
+
+//

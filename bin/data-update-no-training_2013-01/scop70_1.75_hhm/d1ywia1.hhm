@@ -1,0 +1,122 @@
+HHsearch 1.5
+NAME  d1ywia1 b.72.1.1 (A:15-42) Huntingtin-interacting protein HYPA/FBP11 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.72.1.1
+FILE  d1ywia1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ywia1.a3m -v 1 
+DATE  Tue Jan 22 05:03:13 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  109 out of 533 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCEEEECCCCCEEEEECCCCCEEECCC
+>ss_conf
+9851443899975675588890563079
+>Consensus
+SxWxexxtxxGxxYYyNxxTxesxWexP
+>d1ywia1 b.72.1.1 (A:15-42) Huntingtin-interacting protein HYPA/FBP11 {Human (Homo sapiens) [TaxId: 9606]}
+SMWTEHKSPDGRTYYYNTETKQSTWEKP
+>gi|357017087|gb|AET50572.1|(111-138:299) hypothetical protein [Eimeria tenella]   E=2e-05 s/c=1.85 id=41% cov=104%
+SPWQQYFTHDGHAYYYNSQTGVTQWERP
+>gi|348676230|gb|EGZ16048.1|(195-221:515) hypothetical protein PHYSODRAFT_263181 [Phytophthora sojae]   E=0.0003 s/c=1.78 id=43% cov=100%
+-VWTAHDAGNGTLYYFNSKTRVSVWERP
+>gi|170587756|ref|XP_001898640.1|(1315-1342:1449) SET domain containing protein [Brugia malayi] >gi|158593910|gb|EDP32504.1| SET domain containing protein [Brugia malayi]  E=0.0006 s/c=1.68 id=41% cov=104%
+SLWIQATTEEGAVYYYNKETRESVWTLP
+>gi|321478279|gb|EFX89236.1|(269-295:1044) hypothetical protein DAPPUDRAFT_220367 [Daphnia pulex]   E=0.0003 s/c=1.78 id=39% cov=100%
+-VWVETKAGDGKSYYYHAKSRETTWTRP
+>gi|359376614|emb|CCE87196.1|(4-31:652) Piso0_005739 [Millerozyma farinosa CBS 7064]   E=0.0002 s/c=1.71 id=41% cov=104%
+NVWKEAVDDHGRTYFYNPITNKTSWTKP
+>gi|71420486|ref|XP_811501.1|(781-808:1165) myosin IB heavy chain [Trypanosoma cruzi strain CL Brener] >gi|70876171|gb|EAN89650.1| myosin IB heavy chain, putative [Trypanosoma cruzi]  E=0.0001 s/c=1.74 id=41% cov=104%
+SAWKEFWTEAGKRYYHNAIFQQSQWERP
+>gi|291224641|ref|XP_002732312.1|(100-127:501) PREDICTED: phospholipase C, gamma 1-like [Saccoglossus kowalevskii]   E=0.0008 s/c=1.66 id=41% cov=104%
+SDWTIYQSPEGKPYYVHQVTRETRWEPP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    3610	*	*	*	*	*	*	*	*	*	*	4213	*	*	*	392	3294	*	*	*	1
+       0	*	*	*	*	*	*	3822	0	0	
+
+M 2    3756	*	3122	4203	*	4071	5142	4050	4915	2631	5718	6126	4218	5671	5953	3979	*	2134	*	*	2
+       0	*	*	*	*	*	*	4008	0	0	
+
+W 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	3
+       0	*	*	*	*	*	*	4003	0	0	
+
+T 4    5497	5690	6497	4178	6520	*	5614	5047	2206	5132	*	5770	*	3489	3571	3100	2666	3209	*	6448	4
+       0	*	*	*	*	*	*	4003	0	0	
+
+E 5    3706	*	*	609	*	*	*	5345	5330	*	*	*	*	3774	6186	4497	4589	4447	*	*	5
+       0	*	*	*	*	*	*	4003	0	0	
+
+H 6    2730	*	*	6336	3603	5012	2113	6724	*	4388	6517	6770	*	5360	*	4291	5472	4149	*	1938	6
+       0	*	*	*	*	*	*	4003	0	0	
+
+K 7    4699	*	6776	6253	3650	*	*	3718	1995	5782	6851	7070	*	3970	2903	6931	2583	3765	5833	4845	7
+       0	*	*	*	*	*	*	4003	0	0	
+
+S 8    2629	5523	2870	6759	*	6176	*	*	6198	*	6432	4498	*	*	*	2607	1241	*	*	*	8
+       47	4955	*	0	*	*	*	4003	1794	0	
+
+P 9    3101	*	3338	2502	*	5203	6781	*	4432	*	5555	*	1380	*	6239	3453	6014	*	*	*	9
+       10	7124	*	0	*	*	*	4003	1000	0	
+
+D 10   4971	*	1392	2154	*	4860	6539	*	4787	*	*	3037	*	3808	*	4014	5274	*	*	*	10
+       13	6827	*	0	*	*	*	4003	1000	0	
+
+G 11   *	*	5555	*	*	120	*	*	*	*	*	4695	*	*	*	5634	*	*	*	*	11
+       14	6724	*	1000	1000	*	*	4003	1000	0	
+
+R 12   4917	*	5855	5219	*	*	4472	5882	1890	5645	*	6423	*	4118	1644	*	4397	4279	6214	3851	12
+       0	*	*	*	*	*	*	4003	0	0	
+
+T 13   5322	*	6633	4509	5492	*	6142	4282	2743	4215	5917	*	2155	7061	5833	4165	2679	2717	*	*	13
+       0	*	*	*	*	*	*	4003	0	0	
+
+Y 14   *	*	*	*	4063	*	*	*	*	*	*	*	*	*	*	*	*	*	*	89	14
+       0	*	*	*	*	*	*	4003	0	0	
+
+Y 15   *	*	*	*	3462	*	*	*	*	*	*	*	*	*	*	*	*	*	3185	323	15
+       0	*	*	*	*	*	*	4003	0	0	
+
+Y 16   6253	*	*	*	2835	*	3194	*	*	*	6475	*	*	*	*	5247	*	5503	3604	748	16
+       0	*	*	*	*	*	*	4003	0	0	
+
+N 17   *	*	*	*	*	*	3153	*	*	*	*	231	*	*	*	4807	*	*	*	*	17
+       0	*	*	*	*	*	*	4003	0	0	
+
+T 18   2517	4615	*	4470	*	5304	5404	*	3359	5515	5011	6775	5145	5586	4537	2416	2851	3148	*	*	18
+       0	*	*	*	*	*	*	4003	0	0	
+
+E 19   4096	*	4781	2646	*	*	*	2753	2968	5309	7017	5131	*	3830	3383	4196	4368	2851	*	*	19
+       0	*	*	*	*	*	*	4003	0	0	
+
+T 20   *	*	6218	*	5833	*	*	*	5917	5882	*	*	*	*	*	4067	191	*	*	*	20
+       0	*	*	*	*	*	*	4003	0	0	
+
+K 21   5789	5523	*	5513	*	1663	*	*	2329	*	5542	3259	*	3482	2348	6416	*	*	*	*	21
+       0	*	*	*	*	*	*	4003	0	0	
+
+Q 22   5058	*	*	957	*	*	6588	*	3153	6199	*	*	*	2970	*	5314	5228	2847	*	*	22
+       0	*	*	*	*	*	*	4003	0	0	
+
+S 23   6142	*	*	*	*	*	*	*	5946	*	*	*	*	*	6334	898	1373	4847	*	*	23
+       0	*	*	*	*	*	*	4003	0	0	
+
+T 24   6125	*	6351	*	*	*	*	*	4108	*	*	*	*	1871	3747	2959	1904	2542	*	*	24
+       0	*	*	*	*	*	*	4003	0	0	
+
+W 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	150	3343	25
+       0	*	*	*	*	*	*	4003	0	0	
+
+E 26   *	*	2426	1049	*	*	6912	5424	4924	5422	*	*	*	5999	6827	5012	2872	4718	*	6271	26
+       0	*	*	*	*	*	*	4003	0	0	
+
+K 27   6834	*	5711	6857	6558	*	5651	5169	1557	4483	3540	5561	3943	5713	1800	6668	*	4946	*	*	27
+       0	*	*	*	*	*	*	4003	0	0	
+
+P 28   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	4003	0	0	
+
+//

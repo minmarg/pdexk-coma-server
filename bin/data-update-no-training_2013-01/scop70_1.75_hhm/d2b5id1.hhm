@@ -1,0 +1,234 @@
+HHsearch 1.5
+NAME  d2b5id1 g.18.1.1 (D:1-64) Interleukin-2 receptor alpha chain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.18.1.1
+FILE  d2b5id1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2b5id1.a3m -v 1 
+DATE  Tue Jan 22 05:34:51 2013
+LENG  64 match states, 64 columns in multiple alignment
+FILT  18 out of 20 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEEECCCCCCCEEECCCCCCEEECCCCCEEEEECCCCCCCCCCCCCEEECC
+>ss_conf
+9878889976641232012144644743334431642589717887058876543340125069
+>Consensus
+exCxxdPPxixxATFKaxxYKxGTxlnCeCkxGFRRikxgsxymxCxGNsSHssWenxCqCxsx
+>d2b5id1 g.18.1.1 (D:1-64) Interleukin-2 receptor alpha chain {Human (Homo sapiens) [TaxId: 9606]}
+ELCDDDPPEIPHATFKAMAYKEGTMLNCECKRGFRRIKSGSLYMLCTGNSSHSSWDNQCQCTSS
+>gi|348575590|ref|XP_003473571.1|(8-68:415) PREDICTED: interleukin-2 receptor subunit alpha-like [Cavia porcellus]  E=3e-17 s/c=1.50 id=66% cov=97%
+EDCDQDPPSISYATFKALTYKNGTMVICDCKKGFRRIKNGSMYLLCKGN---SSWANKCQCAST
+>gi|126010725|gb|AAI33547.1|(22-82:275) IL2RA protein [Bos taurus] >gi|296481514|gb|DAA23629.1| interleukin-2 receptor subunit alpha precursor [Bos taurus]  E=1e-12 s/c=1.25 id=55% cov=97%
+EACHDDPPSLRNAMFKVFRYEVGTMINCDCKTGFRRV---SAVMRCVGDSSHSAWENRCFCNST
+>gi|344278005|ref|XP_003410787.1|(8-71:247) PREDICTED: interleukin-2 receptor subunit alpha-like [Loxodonta africana]  E=2e-24 s/c=1.80 id=69% cov=102%
+EFCYDGPPEIRYATFKAHTYKNGTILNCECKKGFRRIRNGSPYILCTGNSSHVSWENKCQCMSN
+>gi|162462141|ref|NP_001104812.1|(22-85:275) interleukin-2 receptor subunit alpha precursor [Equus caballus] >gi|158389791|gb|ABW37748.1| CD25 [Equus caballus]  E=1e-22 s/c=1.70 id=62% cov=102%
+ELCEDDPPTLRHATFKALTYKVGTLLNCNCEKGFRRISKGSLAMVCKGNSSHSFWEQTCHCVRT
+>gi|291414094|ref|XP_002723299.1|(159-221:407) PREDICTED: interleukin 2 receptor, alpha-like, partial [Oryctolagus cuniculus]  E=2e-22 s/c=1.71 id=69% cov=100%
+DFC-DDPPQLSKATFRALAYKIGTMLTCDCEAGFRRVKYGSSYMLCTGNSSHSFWDNRCQCTSN
+>gi|217331006|gb|ACK38233.1|(22-83:271) interleukin 2 receptor alpha chain [Tupaia belangeri]   E=7e-22 s/c=1.73 id=67% cov=98%
+EICDDNPPEVKYATFKASAYKHGTMLNCECKERFRR-KNGSPFVICAGNPSHPSWDDKCQCES-
+>gi|47523182|ref|NP_999000.1|(23-85:270) interleukin-2 receptor subunit alpha precursor [Sus scrofa] >gi|3913907|sp|O02733.1|IL2RA_PIG RecName: Full=Interleukin-2 receptor subunit alpha; Short=IL-2 receptor subunit alpha; Short=IL-2-RA; Short=IL-2R subunit alpha; Short=IL2-RA; AltName: CD_antigen=CD25; Flags: Precursor >gi|2058522|gb|AAC48781.1| interleukin-2 receptor alpha chain [Sus scrofa]  E=2e-21 s/c=1.67 id=55% cov=100%
+-ACVQQPPSLRNATFKILGYKVGTTLNCDCQRGFRRDPSSGPYMICRGNSSHSFWENKCQCMPT
+>gi|301769961|ref|XP_002920402.1|(291-351:542) PREDICTED: hypothetical protein LOC100466247 [Ailuropoda melanoleuca]  E=2e-21 s/c=1.72 id=55% cov=97%
+DLCDGNPPDLKHATYRALEYKTGTVLNCGCERGYRRLSN---FMHCAGNASHASWENRCQCRST
+>gi|68726473|gb|AAY99621.1|(22-80:252) interleukin 2 receptor alpha, partial [Mesocricetus auratus]   E=2e-18 s/c=1.62 id=63% cov=94%
+EMCMHDPPKVAYATFKAPAYKNGTILNCECKRGFRRIKE-LVYMVCLEN----SWSKSCQCSSN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2297	451	*	*	*	*	*	*	*	*	*	3941	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2072	0	0	
+
+L 2    2456	*	4029	*	3020	*	*	3763	*	1143	3227	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2133	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       92	*	4024	*	*	*	*	2161	0	0	
+
+D 4    *	*	1080	2998	*	*	3343	*	*	4252	4163	*	*	*	*	*	*	2835	*	4186	4
+       0	*	*	*	*	0	*	2141	0	1000	
+
+D 5    *	*	913	3259	*	3756	4225	*	*	*	*	*	*	2418	*	*	*	*	*	4324	5
+       0	*	*	*	*	*	*	2161	0	0	
+
+D 6    *	*	826	*	*	4293	4149	*	*	*	*	2035	*	3567	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2161	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2161	0	0	
+
+P 8    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2161	0	0	
+
+E 9    *	*	3033	1664	*	*	*	4149	4225	*	*	4520	*	4024	4290	2119	3917	*	*	*	9
+       0	*	*	*	*	*	*	2161	0	0	
+
+I 10   *	*	*	*	*	*	*	1505	*	1243	*	*	*	*	*	*	*	2150	*	*	10
+       0	*	*	*	*	*	*	2161	0	0	
+
+P 11   3275	*	*	*	*	*	*	*	2399	*	*	*	3444	4377	1764	2550	3295	*	*	*	11
+       0	*	*	*	*	*	*	2161	0	0	
+
+H 12   *	*	*	*	*	*	1623	*	4024	*	*	2138	*	*	*	*	*	*	*	1370	12
+       0	*	*	*	*	*	*	2161	0	0	
+
+A 13   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2139	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	3071	*	*	*	*	*	183	*	*	*	14
+       0	*	*	*	*	*	*	2139	0	0	
+
+F 15   *	*	*	*	110	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3769	15
+       0	*	*	*	*	*	*	2139	0	0	
+
+K 16   *	*	*	*	*	*	*	*	204	*	*	*	*	*	2921	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2139	0	0	
+
+A 17   325	*	*	*	*	*	*	3595	*	*	*	*	*	*	*	*	*	3071	*	*	17
+       0	*	*	*	*	*	*	2139	0	0	
+
+M 18   *	*	*	*	3071	*	3260	*	*	819	4613	*	3323	*	*	3855	*	*	*	*	18
+       0	*	*	*	*	*	*	2139	0	0	
+
+A 19   1441	*	*	3769	*	3595	*	*	*	*	*	*	*	*	3071	4354	1701	*	*	*	19
+       0	*	*	*	*	*	*	2139	0	0	
+
+Y 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	20
+       0	*	*	*	*	*	*	2139	0	0	
+
+K 21   *	*	*	3799	*	*	*	*	108	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2139	0	0	
+
+E 22   *	*	*	3457	*	*	3855	4090	3254	*	*	2324	*	*	*	4378	2626	1908	*	*	22
+       0	*	*	*	*	*	*	2139	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2139	0	0	
+
+T 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	24
+       0	*	*	*	*	*	*	2139	0	0	
+
+M 25   *	*	*	*	*	*	*	2337	*	3059	1204	*	*	*	*	*	2918	3110	*	*	25
+       0	*	*	*	*	*	*	2139	0	0	
+
+L 26   *	*	*	*	*	*	*	2520	*	366	*	*	*	*	*	*	*	4327	*	*	26
+       0	*	*	*	*	*	*	2139	0	0	
+
+N 27   *	*	4177	*	*	*	*	4327	*	*	*	258	*	*	*	*	4090	*	*	*	27
+       0	*	*	*	*	*	*	2139	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2139	0	0	
+
+E 29   *	*	1503	974	*	3769	*	*	*	*	*	3951	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2139	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2139	0	0	
+
+K 31   *	*	*	2064	*	*	*	*	671	*	*	*	*	3595	*	4316	*	*	*	*	31
+       0	*	*	*	*	*	*	2139	0	0	
+
+R 32   4090	*	*	3855	*	4335	*	*	1915	*	*	*	*	*	1189	*	3071	*	*	*	32
+       0	*	*	*	*	*	*	2139	0	0	
+
+G 33   *	*	*	*	*	103	*	*	*	*	*	*	*	*	3855	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2139	0	0	
+
+F 34   *	*	*	*	189	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3025	34
+       0	*	*	*	*	*	*	2139	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2139	0	0	
+
+R 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	36
+       103	*	3855	*	*	*	*	2139	0	0	
+
+I 37   *	*	3520	*	*	*	*	755	*	2915	*	*	*	*	*	*	*	2413	*	*	37
+       272	*	2543	*	*	0	*	2102	0	1000	
+
+K 38   *	*	*	*	*	*	*	*	853	*	*	*	3359	*	2983	2167	*	*	*	*	38
+       0	*	*	*	*	*	0	2097	0	1372	
+
+S 39   *	*	*	2538	*	*	*	*	3699	*	*	1285	*	*	*	1905	*	*	*	3771	39
+       434	*	1944	*	*	*	0	2097	0	1372	
+
+G 40   *	*	*	*	*	195	*	*	*	*	*	*	*	*	*	2985	*	*	*	*	40
+       0	*	*	*	*	298	2424	1918	0	1707	
+
+S 41   *	*	*	*	*	3537	*	*	*	2654	*	*	*	*	*	405	*	*	*	*	41
+       0	*	*	*	*	*	0	2086	0	1000	
+
+L 42   2975	*	*	*	*	*	*	4117	*	3142	4258	*	1632	*	*	3082	*	2259	*	*	42
+       0	*	*	*	*	0	*	2086	0	1000	
+
+Y 43   3951	*	*	*	2406	*	*	*	*	*	*	*	*	*	*	*	*	3071	*	672	43
+       0	*	*	*	*	*	*	2139	0	0	
+
+M 44   *	*	*	*	*	*	*	3341	*	3250	460	*	*	*	*	*	*	3855	*	*	44
+       0	*	*	*	*	*	*	2139	0	0	
+
+L 45   *	*	*	*	*	*	3110	2719	*	1514	*	*	*	*	2201	*	*	2603	*	*	45
+       0	*	*	*	*	*	*	2139	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2139	0	0	
+
+T 47   1809	*	*	*	*	*	*	4177	3127	2748	*	*	*	*	3595	*	2051	3799	*	*	47
+       0	*	*	*	*	*	*	2139	0	0	
+
+G 48   *	*	*	3323	*	152	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2139	0	0	
+
+N 49   *	*	3799	*	*	*	*	*	*	*	*	188	*	*	*	4316	*	*	*	*	49
+       423	*	1977	*	*	*	*	2139	0	0	
+
+S 50   3492	*	*	*	*	*	*	*	*	*	*	*	3397	*	*	293	*	*	*	*	50
+       0	*	*	*	*	*	0	2019	0	1570	
+
+S 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	51
+       0	*	*	*	*	*	0	2019	0	1570	
+
+H 52   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	1134	877	2019	0	1570	
+
+S 53   2906	*	*	*	*	*	*	*	*	*	*	*	3590	*	*	468	*	4050	*	*	53
+       0	*	*	*	*	0	*	2046	0	1218	
+
+S 54   3071	*	*	*	1968	*	*	*	*	*	*	*	*	*	*	677	*	*	*	*	54
+       0	*	*	*	*	*	*	2139	0	0	
+
+W 55   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	55
+       0	*	*	*	*	*	*	2139	0	0	
+
+D 56   3250	*	2196	922	*	*	*	*	*	*	*	*	*	*	*	2748	*	*	*	*	56
+       0	*	*	*	*	*	*	2139	0	0	
+
+N 57   *	*	3855	4378	*	*	*	*	4270	*	*	582	*	3951	*	3344	*	*	*	*	57
+       0	*	*	*	*	*	*	2139	0	0	
+
+Q 58   *	*	*	*	*	*	*	*	1329	*	*	4354	*	2865	1994	3323	3951	*	*	*	58
+       0	*	*	*	*	*	*	2139	0	0	
+
+C 59   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2139	0	0	
+
+Q 60   *	*	*	*	3799	*	3951	*	*	4405	*	*	*	377	4435	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2139	0	0	
+
+C 61   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2139	0	0	
+
+T 62   4327	*	*	3855	*	*	*	3374	4557	*	2463	3071	*	*	3769	4270	2347	3059	*	*	62
+       0	*	*	*	*	*	*	2139	0	0	
+
+S 63   *	*	*	*	*	*	*	*	*	*	*	*	3595	*	3122	318	*	*	*	*	63
+       0	*	*	*	*	*	*	2139	0	0	
+
+S 64   3937	*	*	*	*	*	*	*	*	*	*	1739	*	*	*	2586	1094	*	*	*	64
+       0	*	*	0	*	*	*	2141	0	0	
+
+//

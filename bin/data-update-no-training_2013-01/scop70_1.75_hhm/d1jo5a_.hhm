@@ -1,0 +1,186 @@
+HHsearch 1.5
+NAME  d1jo5a_ f.3.1.1 (A:) Light-harvesting complex subunits {Rhodobacter sphaeroides [TaxId: 1063]}
+FAM   f.3.1.1
+FILE  d1jo5a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jo5a_.a3m -v 1 
+DATE  Mon Jan 21 22:19:20 2013
+LENG  48 match states, 48 columns in multiple alignment
+FILT  105 out of 108 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+987667656589899999999999999999999999999999615789
+>Consensus
+aDxxxxsxsGLTxxEAkEfHxxfxxxxxxfxxiAvvAHilxwxwrPWl
+>d1jo5a_ f.3.1.1 (A:) Light-harvesting complex subunits {Rhodobacter sphaeroides [TaxId: 1063]}
+ADKSDLGYTGLTDEQAQELHSVYMSGLWLFSAVAIVAHLAVYIWRPWF
+>gi|395491916|ref|ZP_10423495.1|(2-52:53) antenna complex alpha/subunit beta [Sphingomonas sp. PAMC 26617]   E=1e-08 s/c=1.24 id=44% cov=100%
+SDKRDERFgpgTYLTPEEAKEFHKIFMTSFALFTAIAVVAHILMWTWKPW-
+>gi|304393696|ref|ZP_07375624.1|(2-48:71) conserved domain protein [Ahrensia sp. R2A130] >gi|303294703|gb|EFL89075.1| conserved domain protein [Ahrensia sp. R2A130]  E=4e-06 s/c=1.16 id=35% cov=100%
+ASPENVSMTGMTVGEAREFHSIFVKSTIAFTGWAFAAHMLVWFWRPW-
+>gi|312115052|ref|YP_004012648.1|(2-49:50) antenna complex alpha/subunit beta [Rhodomicrobium vannielii ATCC 17100] >gi|311220181|gb|ADP71549.1| antenna complex alpha/beta subunit [Rhodomicrobium vannielii ATCC 17100]  E=0.0002 s/c=1.01 id=43% cov=102%
+ADPVKVYPTGLTLAEAEELHGHVINGTRVFGAIAVVAHVLAYIYTPWL
+>gi|384263547|ref|YP_005418736.1|(11-58:58) hypothetical protein RSPPHO_03140 [Rhodospirillum photometricum DSM 122] >gi|378404650|emb|CCG09766.1| unnamed protein product [Rhodospirillum photometricum DSM 122]  E=0.0006 s/c=0.98 id=39% cov=102%
+ADNTKVYPSGLTEKEAQEFHSWYTQGLGAWIVLSAFAHVFTYHYLPWF
+>gi|1708815|sp|P80591.1|LHB2_RHOTE(2-47:48) RecName: Full=Light-harvesting polypeptide B-885 beta-2 chain; AltName: Full=Antenna pigment polypeptide beta-2 chain; AltName: Full=LH-1  E=5e-08 s/c=1.31 id=42% cov=90%
+------SLSGLTEQEAQEFGTLYTQGVAFVAVIAIVAHALVWAWRPWL
+>gi|254504906|ref|ZP_05117057.1|(5-48:48) hypothetical protein SADFL11_4945 [Labrenzia alexandrii DFL-11] >gi|222440977|gb|EEE47656.1| hypothetical protein SADFL11_4945 [Labrenzia alexandrii DFL-11]  E=5e-06 s/c=1.22 id=30% cov=90%
+------TLTGLSREEAQEFHRLFVKFAIAMSLAPFLAHISMWLYKPWL
+>gi|344338425|ref|ZP_08769357.1|(10-50:50) hypothetical protein ThimaDRAFT_1095 [Thiocapsa marina 5811] >gi|343801707|gb|EGV19649.1| hypothetical protein ThimaDRAFT_1095 [Thiocapsa marina 5811]  E=1e-05 s/c=1.28 id=38% cov=88%
+-------LSGLTDAQAKEFHEHWKHGVFSWVAIATVVHVVTWVYQPWF
+>gi|374622495|ref|ZP_09695019.1|(2-49:49) antenna complex alpha/subunit beta [Ectothiorhodospira sp. PHS-1] >gi|373941620|gb|EHQ52165.1| antenna complex alpha/subunit beta [Ectothiorhodospira sp. PHS-1]  E=6e-09 s/c=1.32 id=39% cov=102%
+SDEYVQSISGLTEEQAKEFHEQFKTTFTVFMALAAAAHFLVYVWRPFY
+>gi|126264|sp|P11696.1|LHB2_ECTHL(5-43:65) RecName: Full=Light-harvesting protein B800/830/1020 beta-2 chain; AltName: Full=Antenna pigment protein beta-2 chain; AltName: Full=EHS-beta-2 >gi|226043|prf||1408184A light harvesting protein 7.4kD  E=7e-07 s/c=1.45 id=41% cov=81%
+--------TGLTDEECQEIHEMNMLGMHAYWSIGLIANALAYAWRP--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    306	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2388	*	*	*	*	1
+       0	*	*	*	*	*	*	2824	0	0	
+
+D 2    *	*	255	3149	*	*	*	*	*	*	*	*	*	*	*	4334	*	*	*	*	2
+       0	*	*	*	*	*	*	3085	0	0	
+
+K 3    3949	*	*	2423	*	*	*	*	1870	*	*	2571	3018	3808	*	4269	5079	5034	*	*	3
+       0	*	*	*	*	*	*	3246	0	0	
+
+S 4    *	*	*	4129	*	5033	*	*	4175	*	*	1702	*	4092	3018	2320	3091	5706	*	5022	4
+       22	*	6028	*	*	*	*	3188	0	0	
+
+D 5    *	*	1729	3184	*	*	*	*	2428	*	5567	2401	*	4607	4690	4145	6050	4626	*	*	5
+       0	*	*	*	*	*	0	3211	0	1000	
+
+L 6    5608	*	5715	4066	*	4445	*	*	3399	2510	4196	5771	6446	5702	6274	*	3965	1307	*	*	6
+       65	*	4509	*	*	*	0	3231	0	1000	
+
+G 7    *	*	*	*	*	3933	*	*	*	*	*	*	*	5778	5285	614	3372	*	3723	3944	7
+       0	*	*	*	*	2214	350	3253	0	1524	
+
+Y 8    *	*	*	*	2829	*	*	4105	*	1245	3143	*	2318	*	*	6462	5307	5744	*	6609	8
+       37	5300	*	1585	585	0	*	3286	1109	1541	
+
+T 9    4848	*	*	*	*	*	*	*	*	*	*	*	*	*	*	987	1118	*	*	*	9
+       0	*	*	*	*	*	*	3403	0	0	
+
+G 10   *	*	*	*	*	125	5798	*	*	*	*	*	*	*	*	*	5624	*	*	4476	10
+       0	*	*	*	*	*	*	3412	0	0	
+
+L 11   *	*	*	*	*	*	*	5758	*	100	5349	*	*	*	*	*	*	5401	*	*	11
+       0	*	*	*	*	*	*	3418	0	0	
+
+T 12   *	*	*	*	*	*	*	*	*	*	*	5908	*	*	*	2755	260	*	*	*	12
+       0	*	*	*	*	*	*	3418	0	0	
+
+D 13   4249	*	1845	1387	*	*	5720	4359	*	4407	*	*	4121	*	4921	5043	6119	4775	*	*	13
+       0	*	*	*	*	*	*	3418	0	0	
+
+E 14   2355	*	4331	1274	*	3540	*	*	5293	*	*	5284	5360	3540	4674	4435	6905	*	*	*	14
+       0	*	*	*	*	*	*	3418	0	0	
+
+Q 15   5705	*	*	428	*	*	*	*	*	*	*	*	*	2074	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	3418	0	0	
+
+A 16   159	4554	*	*	*	*	*	*	*	*	*	*	*	*	*	4017	*	*	*	*	16
+       0	*	*	*	*	*	*	3418	0	0	
+
+Q 17   6547	*	*	2596	*	*	*	*	1337	6023	7065	6725	*	1734	4135	5864	*	5585	*	*	17
+       0	*	*	*	*	*	*	3418	0	0	
+
+E 18   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3418	0	0	
+
+L 19   *	*	*	*	633	*	*	3422	*	2282	*	*	*	*	*	*	*	4147	*	*	19
+       0	*	*	*	*	*	*	3418	0	0	
+
+H 20   *	*	*	*	*	5517	141	*	*	*	4790	5584	*	6119	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3418	0	0	
+
+S 21   3276	*	6205	3111	*	2148	*	*	2321	*	*	5322	*	*	4005	2170	4954	*	*	*	21
+       0	*	*	*	*	*	*	3418	0	0	
+
+V 22   5150	*	*	*	5104	4967	4000	2148	*	3105	4242	*	*	2770	*	4790	5908	3114	4981	3223	22
+       0	*	*	*	*	*	*	3418	0	0	
+
+Y 23   *	*	*	*	896	*	*	5324	*	4675	*	4554	6311	*	*	*	*	3495	5098	2150	23
+       0	*	*	*	*	*	*	3418	0	0	
+
+M 24   *	*	*	4790	*	*	*	2785	3074	4168	1943	*	*	5407	*	4540	3251	2232	*	*	24
+       0	*	*	*	*	*	*	3418	0	0	
+
+S 25   5185	*	2954	*	*	4589	5465	5720	3065	4200	5931	5351	*	2556	*	2812	2450	4319	*	*	25
+       0	*	*	*	*	*	*	3418	0	0	
+
+G 26   5434	*	*	*	4921	1125	*	*	*	*	*	*	*	*	*	1673	2710	*	5720	*	26
+       0	*	*	*	*	*	*	3418	0	0	
+
+L 27   3580	*	*	*	1597	*	*	6575	*	3312	2340	*	*	*	*	*	2651	4491	6082	4085	27
+       0	*	*	*	*	*	*	3418	0	0	
+
+W 28   3573	*	*	*	4863	5265	4554	3114	*	3743	4097	*	*	*	2596	3783	2467	4282	3531	7051	28
+       0	*	*	*	*	*	*	3418	0	0	
+
+L 29   1974	*	*	*	5517	2797	*	3670	*	2740	6430	*	*	*	*	4901	4032	2027	*	*	29
+       0	*	*	*	*	*	*	3418	0	0	
+
+F 30   *	*	*	*	419	*	*	*	*	*	4921	*	*	*	*	*	*	5517	3702	3056	30
+       0	*	*	*	*	*	*	3418	0	0	
+
+S 31   5123	*	*	*	3238	3518	*	3196	*	3644	4497	*	*	*	*	4204	2393	1958	4554	*	31
+       0	*	*	*	*	*	*	3418	0	0	
+
+A 32   1599	*	*	*	6366	1814	*	4809	*	4596	*	*	*	*	*	4166	5012	2253	*	*	32
+       0	*	*	*	*	*	*	3418	0	0	
+
+V 33   4571	*	*	*	5407	*	*	1105	*	2740	5336	*	*	*	*	*	6061	1926	5898	*	33
+       0	*	*	*	*	*	*	3418	0	0	
+
+A 34   334	5122	*	*	*	4554	*	*	*	*	*	*	4921	*	*	4981	*	3820	*	*	34
+       0	*	*	*	*	*	*	3418	0	0	
+
+I 35   2437	6393	*	*	4328	6056	*	2990	*	2839	*	*	*	*	*	4532	5145	1316	*	*	35
+       0	*	*	*	*	*	*	3418	0	0	
+
+V 36   3029	*	6527	*	3157	*	*	2560	*	2460	*	*	*	*	*	*	6082	1364	*	*	36
+       0	*	*	*	*	*	*	3418	0	0	
+
+A 37   116	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3699	*	*	37
+       0	*	*	*	*	*	*	3418	0	0	
+
+H 38   *	*	*	*	*	*	63	*	*	*	*	4554	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3418	0	0	
+
+L 39   3307	*	*	*	3031	*	*	1693	*	2458	5898	*	*	*	*	*	*	1979	*	6061	39
+       0	*	*	*	*	*	*	3418	0	0	
+
+A 40   3148	*	*	*	3612	*	*	*	*	415	*	*	*	*	*	4921	*	5465	*	*	40
+       0	*	*	*	*	*	*	3418	0	0	
+
+V 41   1507	*	*	*	*	*	*	4507	*	6564	4190	*	*	*	*	4856	3084	1372	*	*	41
+       0	*	*	*	*	*	*	3418	0	0	
+
+Y 42   4743	*	*	*	3348	*	*	5304	*	5335	6814	*	*	*	*	*	*	*	841	2017	42
+       0	*	*	*	*	*	*	3418	0	0	
+
+I 43   2049	*	*	*	3224	*	6309	2743	5158	2962	3107	5513	*	6955	*	4211	4490	3497	*	*	43
+       0	*	*	*	*	*	*	3418	0	0	
+
+W 44   3261	*	5829	*	5565	*	*	*	5006	5576	*	6223	*	*	*	5151	*	*	893	2153	44
+       0	*	*	*	*	*	*	3418	0	0	
+
+R 45   6850	*	*	*	6980	*	6585	*	2493	3993	*	4834	*	4651	992	4671	3111	*	*	*	45
+       0	*	*	*	*	*	*	3418	0	0	
+
+P 46   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	3418	0	0	
+
+W 47   *	*	*	*	4960	*	*	*	*	*	*	*	*	*	*	*	*	*	47	*	47
+       0	*	*	*	*	*	*	3348	0	0	
+
+F 48   *	*	*	*	1404	*	*	*	*	845	*	*	*	*	*	*	*	*	*	3934	48
+       0	*	*	0	*	*	*	3325	0	0	
+
+//

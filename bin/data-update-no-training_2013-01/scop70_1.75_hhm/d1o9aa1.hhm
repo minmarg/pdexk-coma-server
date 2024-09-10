@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d1o9aa1 g.27.1.1 (A:17-60) Fibronectin {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.27.1.1
+FILE  d1o9aa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1o9aa1.a3m -v 1 
+DATE  Tue Jan 22 00:05:05 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCEEEECCCCCCHHCCCCEEEEEEECCCCCEEECCCC
+>ss_conf
+98873547706412631012104867678631487553105789
+>Consensus
+xqxgCxdnGxxYxvnxQWerxYlGsxlxCTCxGxxxGxxCxskp
+>d1o9aa1 g.27.1.1 (A:17-60) Fibronectin {Human (Homo sapiens) [TaxId: 9606]}
+SKPGCYDNGKHYQINQQWERTYLGNALVCTCYGGSRGFNCESKP
+>gi|410897239|ref|XP_003962106.1|(42-84:2499) PREDICTED: fibronectin-like [Takifugu rubripes]   E=5e-07 s/c=1.33 id=57% cov=100%
+SQDGCLENGRFYAVNDQWERPYLGSILVCTCHGVA-GIKCKSKP
+>gi|311213923|ref|NP_001185641.1|(2388-2428:2483) fibronectin precursor [Gallus gallus]   E=1e-12 s/c=1.87 id=45% cov=95%
+-ETTCYDDGKMYQVGEQWQKEYFGAICSCTCYGGQQGWRCDN--
+>gi|319996725|ref|NP_001188453.1|(44-86:2503) fibronectin-1 precursor [Oryzias latipes] >gi|301335108|dbj|BAJ12058.1| fibronectin-1 [Oryzias latipes]  E=3e-11 s/c=1.66 id=50% cov=100%
+NQEGCTENGHFYSINEQWERPFRGSTLICTCHGVA-GIKCNSKP
+>gi|190338028|gb|AAI62574.1|(42-84:2480) Fn1 protein [Danio rerio]   E=6e-10 s/c=1.57 id=50% cov=100%
+SQDGCVMDGQFYGAGEQWERIYLGSTLLCTCHGVSK-IECKSKP
+>gi|348511709|ref|XP_003443386.1|(42-84:2499) PREDICTED: fibronectin-like isoform 2 [Oreochromis niloticus]   E=2e-12 s/c=1.76 id=55% cov=100%
+SQEGCMENGQFYGINEQWERQFLDSTLVCTCHGVA-GIKCKSKP
+>gi|119852235|dbj|BAF42760.1|(49-90:2295) fibronectin [Silurus asotus]   E=2e-12 s/c=1.80 id=53% cov=98%
+-QVGCTENGRIYRVNDQWERPYMGSTLLCTCKGPSGGVQCESK-
+>gi|47230600|emb|CAF99793.1|(629-666:672) unnamed protein product [Tetraodon nigroviridis]   E=4e-14 s/c=2.11 id=49% cov=89%
+----CYDNGQAYQVGNQWQKEYMGAICTCTCFGGQQGWRCEN--
+>gi|61651682|ref|NP_001013279.1|(54-95:2408) fibronectin precursor [Danio rerio] >gi|47026625|gb|AAT08488.1| fibronectin 3 [Danio rerio]  E=3e-10 s/c=1.61 id=51% cov=98%
+-ESGCNDNGRVYRMNDEWERPYMDSTLKCTCEGAS-GVKCRSKP
+>gi|47230599|emb|CAF99792.1|(48-87:1395) unnamed protein product [Tetraodon nigroviridis]   E=8e-10 s/c=1.66 id=54% cov=93%
+---GCEENGRTYRLNEQWEKEYLGSTLVCTCNGAA-GIKCKTKP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	1270	*	*	*	772	*	*	*	*	1
+       0	*	*	*	*	*	*	1652	0	0	
+
+K 2    *	*	*	1878	*	*	*	*	2014	*	*	*	*	1058	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2173	0	0	
+
+P 3    *	*	2636	2672	*	*	*	*	3756	3933	*	*	3104	3924	*	3207	2609	3500	*	*	3
+       0	*	*	*	*	*	*	2173	0	0	
+
+G 4    *	*	*	*	*	326	*	*	*	*	*	*	*	*	*	*	2306	*	*	*	4
+       0	*	*	*	*	*	*	2114	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2264	0	0	
+
+Y 6    *	*	*	4140	4700	*	*	*	*	3654	4196	3634	*	*	*	*	3037	3976	*	986	6
+       0	*	*	*	*	*	*	2264	0	0	
+
+D 7    *	*	681	1678	*	*	*	*	*	*	3976	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2264	0	0	
+
+N 8    *	*	1781	3744	*	*	*	*	*	*	*	657	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2264	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2264	0	0	
+
+K 10   *	*	*	*	*	*	3354	*	1353	*	*	*	*	2112	1840	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2264	0	0	
+
+H 11   4739	*	*	*	1968	*	3139	3969	*	3653	2771	*	*	*	*	*	2913	3634	*	3470	11
+       0	*	*	*	*	*	*	2264	0	0	
+
+Y 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	12
+       0	*	*	*	*	*	*	2264	0	0	
+
+Q 13   4655	*	*	*	*	2663	3114	*	4774	*	*	*	*	1354	2314	4107	*	*	*	*	13
+       0	*	*	*	*	*	*	2264	0	0	
+
+I 14   3976	*	*	*	*	*	*	1518	*	4140	3634	*	*	*	*	*	*	1152	*	*	14
+       0	*	*	*	*	*	*	2264	0	0	
+
+N 15   *	*	*	*	*	1311	*	*	*	*	*	744	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2264	0	0	
+
+Q 16   *	*	2159	1529	*	*	*	*	*	*	*	2147	*	2295	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2264	0	0	
+
+Q 17   *	*	*	3634	*	*	*	*	*	*	*	*	*	121	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2264	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	2264	0	0	
+
+E 19   *	*	*	598	*	*	*	*	*	*	*	*	*	1559	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2264	0	0	
+
+R 20   *	*	*	*	*	*	*	*	1336	*	*	*	*	*	728	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2264	0	0	
+
+T 21   *	*	*	1336	*	*	*	2868	*	*	*	*	1827	4196	*	*	2939	*	*	*	21
+       0	*	*	*	*	*	*	2264	0	0	
+
+Y 22   *	*	*	*	3151	*	*	*	*	*	*	*	*	*	*	*	*	*	*	172	22
+       0	*	*	*	*	*	*	2264	0	0	
+
+L 23   *	*	*	*	4680	*	*	*	*	560	2459	*	*	4541	4107	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2264	0	0	
+
+G 24   *	*	2888	*	*	209	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2264	0	0	
+
+N 25   1737	*	*	*	*	*	*	*	*	*	*	2295	*	*	*	1131	4661	*	*	*	25
+       0	*	*	*	*	*	*	2264	0	0	
+
+A 26   3669	*	*	*	*	*	*	1255	*	*	*	*	*	*	*	*	993	*	*	*	26
+       0	*	*	*	*	*	*	2264	0	0	
+
+L 27   *	1559	*	*	*	*	*	*	*	598	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2264	0	0	
+
+V 28   *	*	*	*	*	*	*	3338	3634	2973	*	*	*	*	*	3137	2147	1500	*	*	28
+       0	*	*	*	*	*	*	2264	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2264	0	0	
+
+T 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	30
+       0	*	*	*	*	*	*	2264	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2264	0	0	
+
+Y 32   *	*	*	3634	3136	*	1986	*	3969	*	*	4140	*	*	*	*	*	*	*	1208	32
+       0	*	*	*	*	*	*	2264	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2264	0	0	
+
+G 34   2865	*	*	*	*	880	*	*	*	*	*	*	3969	*	*	*	*	1968	*	*	34
+       0	*	*	*	*	*	*	2264	0	0	
+
+S 35   2007	*	*	*	*	4271	*	*	*	4541	*	*	*	1754	*	1474	*	*	*	*	35
+       576	*	1603	*	*	*	*	2264	0	0	
+
+R 36   *	*	*	*	*	3035	*	*	3078	*	*	*	*	1298	1502	*	*	*	*	*	36
+       182	*	3078	*	*	0	*	1991	0	1544	
+
+G 37   *	*	*	*	*	80	*	*	*	*	*	*	*	*	*	*	*	4211	*	*	37
+       0	*	*	*	*	0	*	2215	0	1000	
+
+F 38   *	*	*	*	2295	*	*	1679	*	*	*	*	*	*	*	*	*	2792	1559	*	38
+       0	*	*	*	*	*	*	2264	0	0	
+
+N 39   *	*	*	3976	*	*	*	*	1603	*	*	2295	*	3969	1559	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2264	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2264	0	0	
+
+E 41   *	*	2707	1139	*	*	*	*	1976	*	*	4107	*	*	3634	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2264	0	0	
+
+S 42   *	*	*	*	*	*	*	*	*	*	*	1559	*	*	*	728	4140	*	*	*	42
+       0	*	*	*	*	*	*	2264	0	0	
+
+K 43   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1872	0	0	
+
+P 44   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	44
+       0	*	*	0	*	*	*	1829	0	0	
+
+//

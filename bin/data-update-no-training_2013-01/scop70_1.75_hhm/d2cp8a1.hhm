@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d2cp8a1 a.5.2.1 (A:8-48) Migration-inducing protein 19 NBR1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.5.2.1
+FILE  d2cp8a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cp8a1.a3m -v 1 
+DATE  Tue Jan 22 06:06:50 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  24 out of 26 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCHHHHHHHHHCCCCCCHHHHHHHHHCCCCHHHHHHHHHCC
+>ss_conf
+97778999986256763677999873187678899988509
+>Consensus
+qxxxxMxxLxEMGFxdrxlNqrLLxKHxxxlxxvVxELlqx
+>d2cp8a1 a.5.2.1 (A:8-48) Migration-inducing protein 19 NBR1 {Human (Homo sapiens) [TaxId: 9606]}
+QTAALMAHLFEMGFCDRQLNLRLLKKHNYNILQVVTELLQL
+>gi|340382424|ref|XP_003389719.1|(371-405:420) PREDICTED: next to BRCA1 gene 1 protein-like [Amphimedon queenslandica]  E=4e-05 s/c=1.47 id=47% cov=88%
+-----MEELISMGFANRAVNSRLLKKHGNDVELVLNELLE-
+>gi|410901683|ref|XP_003964325.1|(959-996:1006) PREDICTED: next to BRCA1 gene 1 protein-like [Takifugu rubripes]   E=3e-10 s/c=1.80 id=59% cov=95%
+---TMMAVLVEMGFGDRTLNQRLLNKYNFNLLDVVNELVQM
+>gi|348522532|ref|XP_003448778.1|(1000-1040:1051) PREDICTED: next to BRCA1 gene 1 protein-like [Oreochromis niloticus]   E=1e-09 s/c=1.62 id=50% cov=102%
+QGPSKMDQLLEMGFRDQRMNRRLLKKHFYSLEHTVDELVQL
+>gi|291233461|ref|XP_002736671.1|(979-1015:1027) PREDICTED: neighbor of BRCA1 gene 1-like [Saccoglossus kowalevskii]   E=9e-09 s/c=1.71 id=50% cov=93%
+--PSAMEQLIDMGFCNRQFNAQLLEKHHNNLERVVQELL--
+>gi|405976015|gb|EKC40539.1|(1032-1066:1077) hypothetical protein CGI_10025593 [Crassostrea gigas]   E=5e-07 s/c=1.64 id=50% cov=88%
+-----MKKLIEMGFCNRKKNQELLTKHNSDLDRVLAELLR-
+>gi|196000875|ref|XP_002110305.1|(848-886:897) predicted protein [Trichoplax adhaerens] >gi|190586256|gb|EDV26309.1| predicted protein [Trichoplax adhaerens]  E=2e-08 s/c=1.59 id=48% cov=98%
+-NPNLMEELVRMGFCDRKVNQELLDKYPDNVNAVITDLLQ-
+>gi|156388111|ref|XP_001634545.1|(1312-1347:1357) predicted protein [Nematostella vectensis] >gi|156221629|gb|EDO42482.1| predicted protein [Nematostella vectensis]  E=2e-07 s/c=1.64 id=46% cov=90%
+-----MDRLIEMGFADRRLNQKILNKHKNRLDAAINELLSL
+>gi|72159083|ref|XP_791508.1|(1062-1098:1109) PREDICTED: next to BRCA1 gene 1 protein-like [Strongylocentrotus purpuratus]  E=3e-08 s/c=1.67 id=47% cov=93%
+---SSMDQLIEMGFGDRTKNQQLLEKHNDDVSKCVQDLLQ-
+>gi|427788753|gb|JAA59828.1|(762-794:821) Putative next to brca1 protein [Rhipicephalus pulchellus]   E=2e-05 s/c=1.59 id=50% cov=83%
+------SKLFEMGFRNRELNSVLLKKYSGDIQKVIEELV--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	3297	*	*	2549	*	*	*	*	*	*	459	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2012	0	0	
+
+T 2    *	*	1811	3911	*	3331	*	*	*	*	3540	2794	*	*	*	*	1648	*	*	*	2
+       0	*	*	*	*	*	*	2218	0	0	
+
+A 3    1165	*	*	*	*	*	*	*	*	*	*	*	1208	*	3043	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2308	0	0	
+
+A 4    2187	*	*	*	*	*	*	*	*	*	*	3245	*	*	*	1271	2741	3172	*	*	4
+       0	*	*	*	*	*	*	2337	0	0	
+
+L 5    3722	*	*	*	4094	*	*	*	3867	1304	1894	*	*	*	*	3746	*	4366	*	*	5
+       0	*	*	*	*	*	*	2337	0	0	
+
+M 6    *	*	*	*	*	*	*	*	*	2476	286	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 7    1220	*	2236	2576	*	*	*	*	4080	*	*	*	*	*	*	2924	*	*	*	*	7
+       0	*	*	*	*	*	*	2543	0	0	
+
+H 8    *	*	*	3092	*	*	3159	3870	3096	*	3866	4531	*	2367	3860	3759	*	2868	*	*	8
+       0	*	*	*	*	*	*	2543	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2565	0	0	
+
+F 10   *	3765	*	*	1880	*	*	1891	*	2757	*	*	*	4676	*	4540	*	2688	*	*	10
+       0	*	*	*	*	*	*	2565	0	0	
+
+E 11   *	*	4300	254	*	*	*	*	*	*	*	*	*	*	4076	4285	*	*	*	*	11
+       0	*	*	*	*	*	*	2565	0	0	
+
+M 12   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2565	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2565	0	0	
+
+F 14   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2565	0	0	
+
+C 15   2807	1282	*	*	*	2704	*	*	*	*	*	*	*	*	1981	4676	*	*	*	*	15
+       0	*	*	*	*	*	*	2565	0	0	
+
+D 16   *	*	566	*	*	*	*	*	*	*	*	1624	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2565	0	0	
+
+R 17   *	*	*	*	*	*	4400	*	*	*	*	*	*	2688	326	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2565	0	0	
+
+Q 18   3574	*	*	4412	*	*	4540	*	3146	*	*	*	3894	1393	2478	*	3549	*	*	*	18
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 19   *	*	*	*	4300	*	*	*	3264	548	4311	*	*	*	*	*	*	3177	*	*	19
+       0	*	*	*	*	*	*	2565	0	0	
+
+N 20   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 21   4300	*	*	*	*	*	*	*	*	2142	*	*	*	925	4311	2780	*	*	*	*	21
+       0	*	*	*	*	*	*	2565	0	0	
+
+R 22   *	*	*	3146	*	*	*	*	3978	*	*	*	*	2267	939	*	*	3406	*	*	22
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 23   *	*	*	*	*	*	*	3978	*	95	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2565	0	0	
+
+K 25   *	*	3402	3305	*	*	4971	*	1376	*	*	3344	*	4935	2305	*	4220	*	*	*	25
+       0	*	*	*	*	*	*	2565	0	0	
+
+K 26   *	*	*	*	*	*	*	*	82	*	*	*	*	*	4170	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2565	0	0	
+
+H 27   *	*	*	*	*	*	220	*	*	*	*	*	*	*	*	*	*	*	*	2823	27
+       0	*	*	*	*	*	*	2565	0	0	
+
+N 28   *	*	4969	*	4311	3066	3476	*	3978	*	*	1229	4076	*	*	2652	*	*	*	*	28
+       0	*	*	*	*	*	*	2565	0	0	
+
+Y 29   *	4540	3188	*	4835	2986	5138	*	*	*	*	1866	*	*	4935	4220	*	*	*	1752	29
+       0	*	*	*	*	*	*	2565	0	0	
+
+N 30   *	*	1608	*	*	*	*	*	*	*	*	1291	*	*	3071	2794	*	*	*	*	30
+       0	*	*	*	*	*	*	2565	0	0	
+
+I 31   *	*	*	*	*	*	*	3053	*	802	3101	*	*	*	*	*	*	2400	*	*	31
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 32   3343	*	3094	2713	*	*	*	4703	*	1970	3970	3402	*	3406	*	4310	*	4829	*	*	32
+       0	*	*	*	*	*	*	2565	0	0	
+
+Q 33   3026	*	2331	4703	*	*	3107	*	2789	4285	*	*	4170	2914	2839	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2565	0	0	
+
+V 34   3071	4310	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3107	485	*	*	34
+       0	*	*	*	*	*	*	2565	0	0	
+
+V 35   *	*	*	*	*	*	*	2204	*	3252	*	*	*	*	*	*	*	561	*	*	35
+       0	*	*	*	*	*	*	2565	0	0	
+
+T 36   4220	*	4311	3406	*	*	*	*	*	*	*	1665	4824	3305	*	*	1516	*	*	*	36
+       0	*	*	*	*	*	*	2565	0	0	
+
+E 37   *	*	2597	261	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 38   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2565	0	0	
+
+L 39   *	*	*	*	*	*	*	3169	*	759	*	*	*	*	*	*	*	1747	*	*	39
+       0	*	*	*	*	*	*	2565	0	0	
+
+Q 40   4404	*	*	3830	*	*	*	*	*	*	*	*	*	432	3901	3753	*	*	*	*	40
+       0	*	*	*	*	*	*	2457	0	0	
+
+L 41   *	*	*	*	*	*	*	1869	*	1390	1537	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	2119	0	0	
+
+//

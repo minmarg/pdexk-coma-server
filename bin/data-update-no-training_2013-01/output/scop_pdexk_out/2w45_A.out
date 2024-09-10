@@ -1,0 +1,215 @@
+Query         2w45_A Nuclease, alkaline exonuclease; endonuclease, gamma-herpesviru
+Match_columns 276
+No_of_seqs    68 out of 70
+Neff          4.5 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:50 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/2w45_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//2w45_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2w45_A Nuclease, alkaline exon 100.0       0       0  837.8  27.7  276    1-276     1-276 (276)
+  2 3fhd_A herpesviral protein SOX 100.0       0       0  388.8  11.3  132    2-133    11-143 (143)
+  3 d1avqa_ c.52.1.13 (A:) lambda   96.4  0.0014   1E-07   39.5   3.9   59    3-76     78-136 (228)
+  4 3k93_A Phage related exonuclea  87.2    0.22 1.6E-05   26.2   3.1   61    2-78      2-62  (141)
+  5 d2dt7b1 a.217.1.1 (B:134-217)   31.4     9.3 0.00068   16.2   1.5   17  193-209    64-82  (84)
+  6 d1mpga2 d.129.1.2 (A:1-99) 3-M  29.0      15  0.0011   14.9   2.3   23  101-123    12-34  (99)
+  7 d1y14b2 d.230.1.1 (B:1-80) N-t  19.5 1.1E+02  0.0081    9.6   5.2   60    3-77     14-77  (80)
+  8 d1x52a1 d.79.3.2 (A:8-118) Cel  17.2      53  0.0039   11.6   3.1   60  126-191    46-111 (111)
+  9 d2c35b2 d.230.1.1 (B:1-77) N-t  14.4 1.9E+02   0.014    8.2   5.3   60    3-76     14-74  (77)
+ 10 d1vzya2 g.81.1.1 (A:234-290) H  11.1      40  0.0029   12.3   1.0   23   70-99     31-56  (57)
+
+No 1  
+>2w45_A Nuclease, alkaline exonuclease; endonuclease, gamma-herpesviru
+Probab=100.00  E-value=0  Score=837.81  Aligned_columns=276  Identities=100%
+
+Q ss_pred             CCCHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEECCCCCCCEECCCCCCEEEEEECCEECC
+Q ss_conf             95022421026578998876300178665665510454777743545454440477778123078860688760300114
+Q 2w45_A            1 FGGPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNVESQGDFILFTDRSCIYEIKCRFKYLF   80 (276)
+Q Consensus         1 ~a~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~~~~~l~~~~~~~iyEIKCR~KYlf   80 (276)
+                      ||+||+||++||++||+||++||+|++|++++|||||||+|||||||||||+|+++++++|.++++++||||||||||||
+T Consensus         1 ~a~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~~~~~l~~~~~~~iyEIKCR~KYlf   80 (276)
+T 2w45_A            1 FGGPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNVESQGDFILFTDRSCIYEIKCRFKYLF   80 (276)
+T ss_pred             CCCHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEECCCCCCCEECCCCCCEEEEEECCEECC
+T ss_conf             95022421026578998876300178665665510454777743545454440477778123078860688760300114
+
+
+Q ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCEEEEECCCCCCCCCCCCCCCCCCHHHHHHHH
+Q ss_conf             80124224799999984789889999997468980785348666863212442073337887566667774367999998
+Q 2w45_A           81 SKSEFDPIYPSYTALYKRPCKRSFIRFINSIARPTVEYVPDGRLPSEGDYLLTQDEAWNLKDVRKRKLGPGHDLVADSLA  160 (276)
+Q Consensus        81 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~Si~~P~VEy~~~g~~Ps~~E~Lvt~d~~w~~~~~r~r~~~~~~~~~~~~l~  160 (276)
+                      +|+|++|+|++|++||++|++++|++||+||++||||||++|++||++|||||||+.|+.+++|+|+++++|+++++||+
+T Consensus        81 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~Si~~P~VEy~~~g~~Ps~~E~Lvt~d~~w~~~~~r~r~~~~~~~~~~~~l~  160 (276)
+T 2w45_A           81 SKSEFDPIYPSYTALYKRPCKRSFIRFINSIARPTVEYVPDGRLPSEGDYLLTQDEAWNLKDVRKRKLGPGHDLVADSLA  160 (276)
+T ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCEEEEECCCCCCCCCCCCCCCCCCHHHHHHHH
+T ss_conf             80124224799999984789889999997468980785348666863212442073337887566667774367999998
+
+
+Q ss_pred             HCCCCCEEEEEECCCCCCCCEECEEEEEEECCEECCCCCCHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCEEEEEEEEEE
+Q ss_conf             34788117998438887665311035664040554887635567778888865303677766674568841689987420
+Q 2w45_A          161 ANRGVESMLYVMTDPSENAGRIGIKDRVPVNIFINPRHNYFYQVLLQYKIVGDYVRHSGGGKPGRDCSPRVNIVTAFFRK  240 (276)
+Q Consensus       161 lN~~~~S~V~if~dp~~~~g~i~~~~~f~~pvF~NPRH~yf~QilvQ~yVls~Y~~h~~pe~~~~~~~p~~~LVTaifR~  240 (276)
+                      +|++++|+||||+||++++|+|+++++|++|||+||||+||||||||||||||||+|+|||+|+++++|++||||||||+
+T Consensus       161 lN~~~~S~V~if~dp~~~~g~i~~~~~f~~pvF~NPRH~yf~QilvQ~yVls~Y~~h~~pe~~~~~~~p~~~LVTaifR~  240 (276)
+T 2w45_A          161 ANRGVESMLYVMTDPSENAGRIGIKDRVPVNIFINPRHNYFYQVLLQYKIVGDYVRHSGGGKPGRDCSPRVNIVTAFFRK  240 (276)
+T ss_pred             HCCCCCEEEEEECCCCCCCCEECEEEEEEECCEECCCCCCHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCEEEEEEEEEE
+T ss_conf             34788117998438887665311035664040554887635567778888865303677766674568841689987420
+
+
+Q ss_pred             CCCCCCCCCCCCCCCCCCCCCCCCEEEEECCEEECC
+Q ss_conf             662345543236773128756365789863527479
+Q 2w45_A          241 RSPLDPATCTLGSDLLLDASVEIPVAVLVTPVVLPD  276 (276)
+Q Consensus       241 R~~~e~g~~~~~~~~~~~~~~~IPv~lIVTPV~id~  276 (276)
+                      |+++|+|+++++.+.++++++||||+||||||+|||
+T Consensus       241 R~~~e~g~~~~~~~~~~~~~~~IPv~lIVTPV~id~  276 (276)
+T 2w45_A          241 RSPLDPATCTLGSDLLLDASVEIPVAVLVTPVVLPD  276 (276)
+T ss_pred             CCCCCCCCCCCCCCCCCCCCCCCCEEEEECCEEECC
+T ss_conf             662345543236773128756365789863527479
+
+
+No 2  
+>3fhd_A herpesviral protein SOX, PDEXK superfamily
+Probab=100.00  E-value=0  Score=388.77  Aligned_columns=132  Identities=47%
+
+Q ss_pred             CCHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEEC-CCCCCCEECCCCCCEEEEEECCEECC
+Q ss_conf             50224210265789988763001786656655104547777435454544404-77778123078860688760300114
+Q 2w45_A            2 GGPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNV-ESQGDFILFTDRSCIYEIKCRFKYLF   80 (276)
+Q Consensus         2 a~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~-~~~~~~l~~~~~~~iyEIKCR~KYlf   80 (276)
+                      +++|.||++||++||+||++|+++++|++++|||||||+|||||||||||+|+ +++++.|.+++++.||||||||||||
+T Consensus        11 s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~KYlf   90 (143)
+T 3fhd_A           11 SKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFKYTF   90 (143)
+T ss_pred             CHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCEECC
+T ss_conf             54431054475789999876413788755555103447777312221201315638876076569861777640200114
+
+
+Q ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCEEEE
+Q ss_conf             80124224799999984789889999997468980785348666863212442
+Q 2w45_A           81 SKSEFDPIYPSYTALYKRPCKRSFIRFINSIARPTVEYVPDGRLPSEGDYLLT  133 (276)
+Q Consensus        81 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~Si~~P~VEy~~~g~~Ps~~E~Lvt  133 (276)
+                      +|+|+||++++|++||++|++++|++||+||++||||||++|++||++|||||
+T Consensus        91 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~si~~P~VEy~~~g~~Ps~~E~Lvt  143 (143)
+T 3fhd_A           91 AKMECDPIYAAYQRLYEAPGKLALKDFFYSISKPAVEYVGLGKLPSESDYLVA  143 (143)
+T ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCC
+T ss_conf             84446411689999873778879999987468980563338665784321349
+
+
+No 3  
+>d1avqa_ c.52.1.13 (A:) lambda exonuclease {Bacteriophage lambda [TaxId: 10710]}
+Probab=96.40   E-value=0.0014  Score=39.50  Aligned_columns=59  Identities=20%
+
+Q ss_pred             CHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEECCCCCCCEECCCCCCEEEEEECC
+Q ss_conf             02242102657899887630017866566551045477774354545444047777812307886068876030
+Q 2w45_A            3 GPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNVESQGDFILFTDRSCIYEIKCRF   76 (276)
+Q Consensus         3 ~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~~~~~l~~~~~~~iyEIKCR~   76 (276)
+                      .++..|..+|+.++....... +  .....||+++++.-..+|||.|-.++.            ..+.||||-+
+T Consensus        78 ~a~~~G~~~E~~a~~~~~~~~-~--~~v~~~g~~~~~~~~~~~ASpDg~i~~------------~~~lEiKcp~  136 (228)
+T d1avqa_          78 KALAWGKQYENDARTLFEFTS-G--VNVTESPIIYRDESMRTACSPDGLCSD------------GNGLELKCPF  136 (228)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH-C--CEEEECCEEECCCCCCCEECCCCEEEC------------CCEEEEECCC
+T ss_conf             888862752799999999974-6--723424547726877410064321331------------6236875343
+
+
+No 4  
+>3k93_A Phage related exonuclease; structural genomics, joint center f
+Probab=87.25   E-value=0.22  Score=26.17  Aligned_columns=61  Identities=18%
+
+Q ss_pred             CCHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEECCCCCCCEECCCCCCEEEEEECCEE
+Q ss_conf             50224210265789988763001786656655104547777435454544404777781230788606887603001
+Q 2w45_A            2 GGPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNVESQGDFILFTDRSCIYEIKCRFKY   78 (276)
+Q Consensus         2 a~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~~~~~l~~~~~~~iyEIKCR~KY   78 (276)
+                      ...+..|...|+.|+.+... ..|-.  ..-+|  .......+|||.|-.+.           ..-.+.||||=+.+
+T Consensus         2 N~~t~~G~~lE~~a~~~~~~-~~g~~--v~~~~--~~~~~~~l~aspDg~~~-----------~~~~ilEIKcp~~~   62 (141)
+T 3k93_A            2 NKYTQKGNELEEQAIKLSGV-TRGLA--LKKNT--ERRENEFITGECDIYVP-----------SRKLIIDTKCSWDI   62 (141)
+T ss_pred             CHHHHHHHHHHHHHHHHHHH-HHCCE--EEECC--CCCCCCCEEECCCCEEC-----------CCCCEEECCCCCCC
+T ss_conf             65778626116999999988-75881--01044--40034630203252453-----------88810102542000
+
+
+No 5  
+>d2dt7b1 a.217.1.1 (B:134-217) Splicing factor 3 subunit 1, SF3A1 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=31.44   E-value=9.3  Score=16.19  Aligned_columns=17  Identities=24%
+
+Q ss_pred             EECCCCCC--HHHHHHHHH
+Q ss_conf             55488763--556777888
+Q 2w45_A          193 FINPRHNY--FYQVLLQYK  209 (276)
+Q Consensus       193 F~NPRH~y--f~QilvQ~y  209 (276)
+                      |.||.|++  |||-+|++|
+T Consensus        64 FL~~~~~~~~yy~~~v~~Y   82 (84)
+T d2dt7b1          64 FLRPQHSLFNYFTKLVEQY   82 (84)
+T ss_pred             CCCCCCCCCHHHHHHHHHH
+T ss_conf             6489987465789999863
+
+
+No 6  
+>d1mpga2 d.129.1.2 (A:1-99) 3-Methyladenine DNA glycosylase II (gene alkA or aidA) {Escherichia coli [TaxId: 562]}
+Probab=28.99   E-value=15  Score=14.86  Aligned_columns=23  Identities=26%
+
+Q ss_pred             HHHHHHHHHHCCCCEEEEECCCC
+Q ss_conf             88999999746898078534866
+Q 2w45_A          101 KRSFIRFINSIARPTVEYVPDGR  123 (276)
+Q Consensus       101 ~~~~~~Fi~Si~~P~VEy~~~g~  123 (276)
+                      -..+.+|+..+.+||||.+.+|.
+T Consensus        12 w~~ll~Fl~~Rai~GvE~v~~~~   34 (99)
+T d1mpga2          12 WSWMLGFLAARAVSSVETVADSY   34 (99)
+T ss_pred             HHHHHHHHHHCCCCCCEEECCCC
+T ss_conf             78999998730025515762990
+
+
+No 7  
+>d1y14b2 d.230.1.1 (B:1-80) N-terminal, heterodimerisation domain of RBP7 (RpoE) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Probab=19.53   E-value=1.1e+02  Score=9.58  Aligned_columns=60  Identities=33%
+
+Q ss_pred             CHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEE-C--CC-CCCCEECCCCCCEEEEEECCE
+Q ss_conf             022421026578998876300178665665510454777743545454440-4--77-778123078860688760300
+Q 2w45_A            3 GPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVN-V--ES-QGDFILFTDRSCIYEIKCRFK   77 (276)
+Q Consensus         3 ~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~-~--~~-~~~~l~~~~~~~iyEIKCR~K   77 (276)
+                      .|-.||..-+..++..|..-+.++.  ..++|+-+             |+. .  .+ .+|.+...+++..|+++.|+=
+T Consensus        14 ~P~~l~~~~~~~i~~~L~~~~egk~--~~~~G~ii-------------~V~~~d~~~i~~G~I~~gdG~~~~~V~f~ai   77 (80)
+T d1y14b2          14 HPSFFGPRMKQYLKTKLLEEVEGSC--TGKFGYIL-------------CVLDYDNIDIQRGRILPTDGSAEFNVKYRAV   77 (80)
+T ss_pred             CHHHCCCCHHHHHHHHHHHHHCCEE--ECCCCEEE-------------EEEEEECCCCCCCEEECCCCEEEEEEEEEEE
+T ss_conf             7478092368899998766508778--24865799-------------9862202102598786289837998999899
+
+
+No 8  
+>d1x52a1 d.79.3.2 (A:8-118) Cell division protein pelota {Human (Homo sapiens) [TaxId: 9606]}
+Probab=17.21   E-value=53  Score=11.56  Aligned_columns=60  Identities=20%
+
+Q ss_pred             CCCCEEEEECCCCCCCCCCCCCCCCCCHHHHHHHHHCCCCCEEEEEECCCCCCCCEE---C---EEEEEEEC
+Q ss_conf             632124420733378875666677743679999983478811799843888766531---1---03566404
+Q 2w45_A          126 SEGDYLLTQDEAWNLKDVRKRKLGPGHDLVADSLAANRGVESMLYVMTDPSENAGRI---G---IKDRVPVN  191 (276)
+Q Consensus       126 s~~E~Lvt~d~~w~~~~~r~r~~~~~~~~~~~~l~lN~~~~S~V~if~dp~~~~g~i---~---~~~~f~~p  191 (276)
+                      ++-|-|+-.|..++..+...|+      .+..++...+....+|+++++-.....++   +   ...||++|
+T Consensus        46 GAve~Llisd~l~r~~d~~~r~------~~~~l~~~~~~~g~~v~ivs~~~~~G~~L~~lGGiaaiLRy~ip  111 (111)
+T d1x52a1          46 MAIDTLLISDELFRHQDVATRS------RYVRLVDSVKENAGTVRIFSSLHVSGEQLSQLTGVAAILRFPVP  111 (111)
+T ss_pred             CCCCEEEEECHHHCCCCCCHHH------HHHHHHHHHHHCCCEEEEECCCCCHHHHHHCCCCEEEEECCCCC
+T ss_conf             8750887401000378821078------99999999986498798974998435887607987988138899
+
+
+No 9  
+>d2c35b2 d.230.1.1 (B:1-77) N-terminal, heterodimerisation domain of RBP7 (RpoE) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=14.37   E-value=1.9e+02  Score=8.21  Aligned_columns=60  Identities=23%
+
+Q ss_pred             CHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEECCCC-CCCEECCCCCCEEEEEECC
+Q ss_conf             0224210265789988763001786656655104547777435454544404777-7812307886068876030
+Q 2w45_A            3 GPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNVESQ-GDFILFTDRSCIYEIKCRF   76 (276)
+Q Consensus         3 ~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~~-~~~l~~~~~~~iyEIKCR~   76 (276)
+                      .|-.||..-+..++..|..-++++  +..++|+.+..        .    .+.+- ++.+...+++..|+++.|+
+T Consensus        14 ~P~~l~~~~~~~i~~~L~~kyegk--v~~~~G~iI~v--------~----di~~i~~g~I~~gdG~~~~~V~F~a   74 (77)
+T d2c35b2          14 HPRYFGPNLLNTVKQKLFTEVEGT--CTGKYGFVIAV--------T----TIDNIGAGVIQPGRGFVLYPVKYKA   74 (77)
+T ss_pred             CHHHCCCCHHHHHHHHHHHHHCCE--EECCCCEEEEE--------E----EEEECCCCEEECCCCEEEEEEEEEE
+T ss_conf             735629877899999865640857--81785389997--------7----5212489788529983799899999
+
+
+No 10 
+>d1vzya2 g.81.1.1 (A:234-290) HSP33, C-terminal domain {Bacillus subtilis [TaxId: 1423]}
+Probab=11.07   E-value=40  Score=12.33  Aligned_columns=23  Identities=39%
+
+Q ss_pred             EEEEEC---CEECCCCCCCCHHHHHHHHHHHCC
+Q ss_conf             887603---001148012422479999998478
+Q 2w45_A           70 YEIKCR---FKYLFSKSEFDPIYPSYTALYKRP   99 (276)
+Q Consensus        70 yEIKCR---~KYlf~~~d~~pl~~~y~~ll~~p   99 (276)
+                      -||.|.   -+|.|++.|       .++|++..
+T Consensus        31 iev~C~fC~~~Y~f~~~e-------l~~l~~~~   56 (57)
+T d1vzya2          31 AEAVCHFCNEKYLFTKEE-------LEGLRDQT   56 (57)
+T ss_pred             EEEEECCCCCCCCCCHHH-------HHHHHHHC
+T ss_conf             788752589700049899-------99987514
+
+
+Done!

@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d2daha1 a.5.2.1 (A:8-48) Ubiquilin-3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.5.2.1
+FILE  d2daha1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2daha1.a3m -v 1 
+DATE  Tue Jan 22 06:32:04 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  106 out of 297 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.7 
+SEQ
+>ss_pred
+CHHHHHHHHHHCCCCCHHHHHHHHHHHCCCHHHHHHHHHHC
+>ss_conf
+91888999986489887889999987389888999987419
+>Consensus
+qyxxQLxxLxxMGFxdxxxnxxaLxxxxGdixxAiexLxxs
+>d2daha1 a.5.2.1 (A:8-48) Ubiquilin-3 {Human (Homo sapiens) [TaxId: 9606]}
+HFQVQLEQLRSMGFLNREANLQALIATGGDVDAAVEKLRQS
+>gi|219114787|ref|XP_002178189.1|(537-576:614) predicted protein [Phaeodactylum tricornutum CCAP 1055/1] >gi|217409924|gb|EEC49854.1| predicted protein [Phaeodactylum tricornutum CCAP 1055/1]  E=3e-08 s/c=1.52 id=34% cov=100%
+-YRTQLRSLYDMGFDDEARNVAALERVHGNLNRAVDALLSS
+>gi|341883388|gb|EGT39323.1|(273-311:314) hypothetical protein CAEBREN_14890 [Caenorhabditis brenneri]   E=0.0002 s/c=1.23 id=38% cov=98%
+-YEQQAAILREYGFENDDLIQLALEQCNGDVHAAMEFLIE-
+>gi|50293251|ref|XP_449037.1|(212-250:505) hypothetical protein [Candida glabrata CBS 138] >gi|49528350|emb|CAG62007.1| unnamed protein product [Candida glabrata]  E=1e-07 s/c=1.53 id=35% cov=98%
+-YGRELRQLRELGFTNEQKNIDAITYSHGDVNGALDYLNR-
+>gi|367003902|ref|XP_003686684.1|(228-266:466) hypothetical protein TPHA_0H00400 [Tetrapisispora phaffii CBS 4417] >gi|357524986|emb|CCE64250.1| hypothetical protein TPHA_0H00400 [Tetrapisispora phaffii CBS 4417]  E=1e-05 s/c=1.34 id=26% cov=93%
+-YSRHIKNLEQMGYTDIDNNAEALSIAHGDINQAIDIL---
+>gi|398395441|ref|XP_003851179.1|(264-303:748) hypothetical protein MYCGRDRAFT_110159 [Zymoseptoria tritici IPO323] >gi|339471058|gb|EGP86155.1| hypothetical protein MYCGRDRAFT_110159 [Zymoseptoria tritici IPO323]  E=1e-05 s/c=1.31 id=32% cov=100%
+NFGLKLERLQEMGFPDQMKNSEVLKSMNGNLEKTVEALTR-
+>gi|123479527|ref|XP_001322921.1|(292-328:336) Ubiquitin family protein [Trichomonas vaginalis G3] >gi|121905776|gb|EAY10698.1| Ubiquitin family protein [Trichomonas vaginalis G3]  E=2e-05 s/c=1.40 id=32% cov=93%
+-FPSQLQFLKARGFINEDNDIMALVKANGNIQKAISYL---
+>gi|290973909|ref|XP_002669689.1|(417-455:455) predicted protein [Naegleria gruberi] >gi|284083240|gb|EFC36945.1| predicted protein [Naegleria gruberi]  E=2e-05 s/c=1.33 id=28% cov=95%
+-YAVEQQLLRDMGFVDDQANTRLLKKHNGNIQKVITDLL--
+>gi|289741719|gb|ADD19607.1|(347-387:389) hypothetical conserved protein [Glossina morsitans morsitans]   E=3e-06 s/c=1.33 id=33% cov=102%
+QYSEQLRTMAQMGFLNHDENLNYLNLANGNIENAVNLLMAA
+>gi|156088545|ref|XP_001611679.1|(354-392:404) hypothetical protein [Babesia bovis T2Bo] >gi|154798933|gb|EDO08111.1| hypothetical protein BBOV_III005480 [Babesia bovis]  E=4e-05 s/c=1.30 id=35% cov=98%
+-YAHELQQMLDMGLEDRDLCITVLEASDGDLVAAID-LFQS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	*	*	*	3138	*	*	*	*	2072	*	625	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3461	0	0	
+
+F 2    *	*	*	*	1459	*	*	*	*	*	*	*	*	*	*	*	*	*	4590	750	2
+       0	*	*	*	*	*	*	4656	0	0	
+
+Q 3    2196	*	6618	2439	*	4986	5998	*	4507	*	*	*	5820	2674	3390	2224	6366	*	*	*	3
+       0	*	*	*	*	*	*	4694	0	0	
+
+V 4    4184	*	5269	2942	6134	7094	4994	*	3515	5786	*	*	4439	3548	3122	2047	3610	4364	6436	*	4
+       0	*	*	*	*	*	*	4694	0	0	
+
+Q 5    *	*	*	2591	*	6106	6243	*	3180	*	*	*	*	567	*	5566	*	*	*	*	5
+       0	*	*	*	*	*	*	4690	0	0	
+
+L 6    4635	*	*	*	*	*	*	4615	*	488	2725	*	*	6190	*	*	*	4601	*	*	6
+       0	*	*	*	*	*	*	4815	0	0	
+
+E 7    2426	*	4273	2301	*	5542	6005	6455	4036	5944	*	3834	*	2641	3214	4136	4693	*	*	*	7
+       0	*	*	*	*	*	*	4815	0	0	
+
+Q 8    3726	6757	*	4193	5264	*	5689	3307	5024	4326	5199	5620	*	1719	3952	3750	3237	6070	*	5488	8
+       0	*	*	*	*	*	*	4815	0	0	
+
+L 9    *	*	*	*	5975	*	*	6187	*	211	3230	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4815	0	0	
+
+R 10   3610	6005	*	3688	6858	5489	4282	5442	2874	5983	*	3582	*	2978	1758	4553	*	6430	*	7146	10
+       0	*	*	*	*	*	*	4815	0	0	
+
+S 11   3200	*	1929	1661	*	5784	*	*	*	5683	5723	6710	*	3277	6005	3293	5296	*	*	*	11
+       0	*	*	*	*	*	*	4815	0	0	
+
+M 12   *	*	*	*	6377	*	*	6521	6209	3656	275	*	*	5488	5815	*	*	*	*	5800	12
+       0	*	*	*	*	*	*	4815	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	4815	0	0	
+
+F 14   *	*	*	*	318	*	5345	5389	*	3816	*	*	*	*	*	*	*	6079	*	3969	14
+       41	6750	5761	0	*	*	*	4815	1000	0	
+
+L 15   7213	6203	5910	3901	4967	4615	5840	4765	4150	4295	5708	4617	4436	6587	4762	3250	1738	3930	*	4716	15
+       0	*	*	*	*	0	*	4803	0	1490	
+
+N 16   *	*	643	5540	*	*	*	*	*	*	*	1564	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	4815	0	0	
+
+R 17   5677	*	2778	1908	5116	6642	4058	4477	4873	6591	*	5483	6703	5842	2522	7044	3411	5386	6271	5807	17
+       0	*	*	*	*	*	*	4815	0	0	
+
+E 18   3279	*	2223	2572	*	*	4792	6593	3624	6079	6340	4590	6070	2657	3838	4685	5277	6584	*	*	18
+       0	*	*	*	*	*	*	4815	0	0	
+
+A 19   2422	*	5521	3906	6732	*	6003	5851	2517	3295	*	3909	*	4708	2309	*	5182	4449	6178	6348	19
+       6	*	7803	*	*	*	*	4815	0	0	
+
+N 20   5291	2980	5810	*	*	*	*	3200	*	*	*	507	*	*	*	5845	*	*	*	*	20
+       0	*	*	*	*	0	*	4819	0	1000	
+
+L 21   3780	*	*	5020	*	*	*	1900	5771	1472	5202	*	*	5800	4592	5571	3969	3675	*	*	21
+       0	*	*	*	*	*	*	4815	0	0	
+
+Q 22   4827	4305	4308	2455	*	6455	5674	6732	3868	5165	4614	4897	*	2535	2468	4385	3856	*	*	*	22
+       0	*	*	*	*	*	*	4815	0	0	
+
+A 23   553	5975	*	6924	6608	6070	*	4467	*	4592	5559	*	*	*	*	5588	*	3073	*	5546	23
+       0	*	*	*	*	*	*	4815	0	0	
+
+L 24   *	*	*	*	5488	*	*	5025	*	99	6200	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	4815	0	0	
+
+I 25   *	*	*	2429	*	5429	*	3364	2663	3787	4638	4310	*	3352	3253	4510	4380	3674	*	*	25
+       0	*	*	*	*	*	*	4815	0	0	
+
+A 26   2234	*	6654	3440	*	4047	6584	3495	3249	3608	5175	*	*	3526	3264	3727	6324	5507	*	6631	26
+       0	*	*	*	*	*	*	4815	0	0	
+
+T 27   2231	3709	*	*	*	5509	5343	*	*	4229	5525	6348	*	*	*	2464	1764	3690	*	5416	27
+       0	*	*	*	*	*	*	4815	0	0	
+
+G 28   5823	6209	3686	4374	7096	2112	3110	*	4592	5993	*	1501	*	5073	5359	5390	*	*	*	*	28
+       0	*	*	*	*	*	*	4815	0	0	
+
+G 29   *	*	*	5438	*	34	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	4815	0	0	
+
+D 30   *	*	991	6506	*	*	*	*	5685	*	*	1392	*	*	*	3547	*	*	*	*	30
+       0	*	*	*	*	*	*	4815	0	0	
+
+V 31   6094	*	*	*	6519	*	*	1675	*	2192	4793	*	*	*	*	*	4155	1513	*	*	31
+       0	*	*	*	*	*	*	4815	0	0	
+
+D 32   5417	*	3243	2244	5863	5807	4576	5685	*	*	*	2040	6271	2774	5004	3513	5342	5823	*	*	32
+       0	*	*	*	*	*	*	4815	0	0	
+
+A 33   2068	*	*	5106	7418	3550	*	7049	2873	3879	4271	5775	*	4316	2696	4280	3654	6006	*	6919	33
+       0	*	*	*	*	*	*	4815	0	0	
+
+A 34   242	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5234	3680	4322	*	*	34
+       0	*	*	*	*	*	*	4815	0	0	
+
+V 35   4924	*	*	*	*	*	*	1301	*	2907	5836	*	*	*	*	5748	4555	1517	*	*	35
+       0	*	*	*	*	*	*	4785	0	0	
+
+E 36   *	*	2183	1299	*	6610	4666	*	4184	*	*	3944	*	4186	5042	4182	4333	6206	*	*	36
+       13	*	6798	*	*	*	*	4755	0	0	
+
+K 37   4861	*	4618	6673	4288	*	5293	2690	3498	2621	5131	6022	*	5510	3336	5607	3597	5031	6999	2990	37
+       0	*	*	*	*	0	*	4603	0	1000	
+
+L 38   *	*	*	*	*	*	*	3245	*	212	5011	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	4610	0	0	
+
+R 39   4431	*	6347	4400	3826	*	*	3459	3490	1219	6062	6033	*	5298	5591	5777	4464	3755	*	*	39
+       0	*	*	*	*	*	*	4570	0	0	
+
+Q 40   4625	*	*	2786	*	5160	*	*	3184	*	*	4620	*	2674	1711	2526	*	*	*	*	40
+       0	*	*	*	*	*	*	4506	0	0	
+
+S 41   1514	*	*	*	*	*	*	*	*	*	*	*	*	*	*	622	*	*	*	*	41
+       0	*	*	0	*	*	*	3350	0	0	
+
+//

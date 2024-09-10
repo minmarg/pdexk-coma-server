@@ -1,0 +1,132 @@
+HHsearch 1.5
+NAME  d1rutx1 g.39.1.3 (X:19-48) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1rutx1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rutx1.a3m -v 1 
+DATE  Tue Jan 22 01:51:33 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  106 out of 173 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHCCCCCCCCC
+>ss_conf
+987777889824224531251112334469
+>Consensus
+sxxxCaGCxxxIxDRflLxvxdxxWHxxCL
+>d1rutx1 g.39.1.3 (X:19-48) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+SWKRCAGCGGKIADRFLLYAMDSYWHSRCL
+>gi|340377757|ref|XP_003387395.1|(6-30:272) PREDICTED: LIM/homeobox protein Lhx5-like [Amphimedon queenslandica]  E=0.0004 s/c=1.89 id=46% cov=87%
+----CAGCSEPIMERFLMKVLDKSWHVQC-
+>gi|91077954|ref|XP_967240.1|(124-153:472) PREDICTED: similar to CG32105 CG32105-PB [Tribolium castaneum]   E=0.0004 s/c=1.58 id=45% cov=103%
+TYEMCEGCGQKIHDRYLMRVADASWHEHCL
+>gi|306526228|sp|Q25132.2|LHX3_HALRO(281-307:692) RecName: Full=LIM/homeobox protein Lhx3; Short=Hr-Lhx3; Short=LIM homeobox protein 3; AltName: Full=LIM/homeobox protein LIM; Short=HrLIM  E=6e-05 s/c=1.85 id=46% cov=93%
+---KCTGCEHRIFDRFILKVQDKPWHSQGL
+>gi|242020913|ref|XP_002430895.1|(32-61:237) LIM-only protein, putative [Pediculus humanus corporis] >gi|212516106|gb|EEB18157.1| LIM-only protein, putative [Pediculus humanus corporis]  E=7e-05 s/c=1.65 id=42% cov=103%
+SMEMCQGCRKPIRDRYLLNSLGRNWHEDCL
+>gi|270154817|gb|ACZ62637.1|(52-81:174) LIM domain only protein [Paracentrotus lividus]   E=0.0002 s/c=1.60 id=48% cov=103%
+SYLECLGCKESIKDRYFLRAMEKYWHEDCL
+>gi|47221465|emb|CAG08127.1|(15-44:535) unnamed protein product [Tetraodon nigroviridis]   E=0.0003 s/c=1.59 id=46% cov=93%
+---QCASCGMDIQDRYLLKVNNLNWHLGCL
+>gi|307166312|gb|EFN60494.1|(138-162:487) LIM/homeobox protein Lhx9 [Camponotus floridanus]   E=0.0004 s/c=1.89 id=50% cov=87%
+-----GGCGREIAERWYLRAADRAWHCGCL
+>gi|308485364|ref|XP_003104881.1|(74-103:415) CRE-LIN-11 protein [Caenorhabditis remanei] >gi|308257579|gb|EFP01532.1| CRE-LIN-11 protein [Caenorhabditis remanei]  E=0.0007 s/c=1.55 id=35% cov=103%
+SGNECAACAQPILDRYVFTVLGKCWHQSCL
+>gi|91078266|ref|XP_971202.1|(80-108:343) PREDICTED: similar to GA10520-PA [Tribolium castaneum]   E=5e-05 s/c=1.73 id=43% cov=100%
+-YRLCSACGEPISDKFLLEVSGRSWHARCL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2055	*	*	*	*	*	*	*	*	*	*	*	*	*	*	634	3119	*	*	*	1
+       0	*	*	*	*	*	*	2523	0	0	
+
+W 2    *	*	*	*	*	2361	*	*	3620	3807	2660	*	*	*	*	*	*	3980	2878	1761	2
+       0	*	*	*	*	*	*	2608	0	0	
+
+K 3    *	*	*	2567	*	*	*	*	2554	4949	*	4356	*	2100	1528	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3045	0	0	
+
+R 4    4585	6316	*	2672	*	5042	4863	*	2500	3784	4556	6245	5969	3208	3650	2991	3952	5334	*	*	4
+       0	*	*	*	*	*	*	3225	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3420	0	0	
+
+A 6    807	6385	6763	3731	*	3038	*	*	*	5438	*	*	*	6269	5827	4269	3853	4814	*	*	6
+       0	*	*	*	*	*	*	3426	0	0	
+
+G 7    3890	*	*	*	*	253	*	*	4933	*	*	6189	*	*	*	4412	*	*	*	*	7
+       0	*	*	*	*	*	*	3426	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3426	0	0	
+
+G 9    5307	*	4191	3328	*	1087	4335	*	5040	*	*	3608	*	3519	4716	4356	6205	*	*	*	9
+       0	*	*	*	*	*	*	3426	0	0	
+
+G 10   5077	6624	4520	2580	6079	3242	4589	7010	3012	4061	5484	4704	*	3065	3345	4525	5199	5629	*	5246	10
+       0	*	*	*	*	*	*	3426	0	0	
+
+K 11   4297	*	5416	4476	6965	*	5640	5850	2672	3845	6665	6693	1479	4337	3216	5693	5787	4787	*	*	11
+       0	*	*	*	*	*	*	3426	0	0	
+
+I 12   *	*	*	*	*	*	*	45	*	*	*	*	*	*	*	*	*	5027	*	*	12
+       0	*	*	*	*	*	*	3426	0	0	
+
+A 13   3818	5134	5799	5470	4552	6404	6088	6424	4624	2365	5220	6858	*	3551	3162	3572	3819	3114	*	4584	13
+       0	*	*	*	*	*	*	3426	0	0	
+
+D 14   *	*	213	2868	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3426	0	0	
+
+R 15   *	*	*	*	*	*	*	*	2699	*	*	*	*	5691	275	*	*	*	*	*	15
+       0	*	*	*	*	*	*	3426	0	0	
+
+F 16   *	*	*	*	1052	*	*	*	*	*	*	*	*	*	*	5777	5978	*	5040	1142	16
+       0	*	*	*	*	*	*	3426	0	0	
+
+L 17   *	*	*	*	3416	*	*	3301	*	771	6440	*	*	*	*	*	*	4563	*	2598	17
+       0	*	*	*	*	*	*	3426	0	0	
+
+L 18   *	*	*	*	4536	*	*	*	*	289	3214	*	*	*	*	*	*	5990	*	6063	18
+       0	*	*	*	*	*	*	3426	0	0	
+
+Y 19   *	6546	*	5589	3968	*	3808	*	1414	3600	5836	3778	*	4732	2754	4889	5520	6079	5948	6288	19
+       0	*	*	*	*	*	*	3426	0	0	
+
+A 20   1498	*	*	*	*	*	*	5774	*	5587	*	*	*	*	*	5022	*	796	*	*	20
+       0	*	*	*	*	*	*	3426	0	0	
+
+M 21   3558	*	5948	5777	*	4252	*	5435	*	1691	3063	2816	*	4354	6758	4228	6814	3141	*	*	21
+       16	6521	*	0	*	*	*	3426	1000	0	
+
+D 22   *	*	755	2393	*	3022	*	*	*	*	*	4515	*	5225	*	*	5417	*	*	*	22
+       0	*	*	*	*	*	*	3426	0	0	
+
+S 23   4594	*	6685	5846	*	4502	6089	*	2622	3551	5087	4732	*	3881	1216	4070	*	*	*	*	23
+       0	*	*	*	*	*	*	3426	0	0	
+
+Y 24   3153	4160	*	6645	3453	*	6732	5258	5904	4756	*	4925	4128	4635	5123	2364	4389	4173	*	2437	24
+       0	*	*	*	*	*	*	3426	0	0	
+
+W 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48	4933	25
+       0	*	*	*	*	*	*	3426	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3426	0	0	
+
+S 27   3081	5613	*	1762	6313	5021	6077	5546	*	6249	4910	4223	*	5307	*	3335	2873	2986	*	*	27
+       0	*	*	*	*	*	*	3426	0	0	
+
+R 28   5018	6863	2638	3565	*	3123	4844	*	3664	*	*	3979	5027	2786	3337	2911	5970	*	*	*	28
+       0	*	*	*	*	*	*	3426	0	0	
+
+C 29   *	41	*	*	*	5157	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3426	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	3249	0	0	
+
+//

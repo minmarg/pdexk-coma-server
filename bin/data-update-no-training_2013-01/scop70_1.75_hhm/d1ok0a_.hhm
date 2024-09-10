@@ -1,0 +1,264 @@
+HHsearch 1.5
+NAME  d1ok0a_ b.5.1.1 (A:) alpha-Amylase inhibitor tendamistat {Streptomyces tendae [TaxId: 1932]}
+FAM   b.5.1.1
+FILE  d1ok0a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ok0a_.a3m -v 1 
+DATE  Tue Jan 22 00:25:06 2013
+LENG  74 match states, 74 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEECCCCEEEEEECCCCCCEEEEEEECCCCCCCEEEECCCCEEECCCCCCCCCCCHHHHHHCC
+>ss_conf
+98666776220554056205541068675147888850698555145379843202247678865712230039
+>Consensus
+xxtvxxpAPxCVxxxqsWRYTxvxNxCaxtvsVtVxYxdGxxxPCrvxxPGxxTfxGyGtxGnxxhxxxlaxcx
+>d1ok0a_ b.5.1.1 (A:) alpha-Amylase inhibitor tendamistat {Streptomyces tendae [TaxId: 1932]}
+DTTVSEPAPSCVTLYQSWRYSQADNGCAETVTVKVVYEDDTEGLCYAVAPGQITTVGDGYIGSHGHARYLARCL
+>gi|6970437|dbj|BAA90724.1|(36-103:106) proteinaceous alpha-amylase inhibitor Paim [Streptomyces corchorusii]  E=1e-22 s/c=1.60 id=55% cov=93%
+-----EPAPACVVMYESWRYTTAANNCADTVSVSVAYQDGATGPCATLPPGAVTTVGEGYLGEHGHPDHLALC-
+>gi|263784|gb|AAB24968.1|(2-64:78) AI-409=alpha-amylase inhibitor [Streptomyces chartreusis, 409, Peptide, 78 aa] >gi|444099|prf||1906219A alpha amylase inhibitor AI-409  E=2e-17 s/c=1.46 id=43% cov=85%
+--TVGEPAPQCVEYFQSWRYTDVHNGCLVAVSVTVEYTNGQWAPCRVIEPgGRATFAGYGTNGNY----------
+>gi|239992562|ref|ZP_04713226.1|(34-89:101) alpha-amylase inhibitor [Streptomyces roseosporus NRRL 11379]   E=2e-10 s/c=1.24 id=39% cov=76%
+---------ECVVYHQGWRYTDVVNGCAIGVAVTVEYTNGQEAPCRILGPGeRATFAGYGTNGNY----------
+>gi|189231561|emb|CAQ57889.1|(43-99:113) alpha-amylase inhibitor Gaim [Streptomyces glaucescens]   E=7e-07 s/c=1.00 id=42% cov=77%
+-------APECVTFSADWRYTFVTNNCPDTHTLKVVYRDGTDVPSRVAPPGAmVTFPGHGTTGN-----------
+>gi|123964|sp|P20078.1|IAA2_STRGS(40-96:120) RecName: Full=Alpha-amylase inhibitor Haim-2; AltName: Full=Haim II; Flags: Precursor >gi|80841|pir||A31835 alpha-amylase inhibitor - Streptomyces microflavus >gi|556425|gb|AAA50324.1| alpha-amylase inhibitor [Streptomyces griseosporeus]  E=2e-06 s/c=0.97 id=39% cov=77%
+-------APACVHFTADWRYTFVTNDCSIDYSVTVAYGDGTDVPCRSANPGDIlTFPGYGTRGN-----------
+>gi|29827438|ref|NP_822072.1|(40-95:119) alpha-amylase inhibitor [Streptomyces avermitilis MA-4680] >gi|29604537|dbj|BAC68607.1| putative secreted alpha-amylase inhibitor [Streptomyces avermitilis MA-4680]  E=3e-06 s/c=0.98 id=36% cov=76%
+--------PACVHINSDWRYTFVTNDCSSAYDVTVVYRDGANVPCRVASPGDiISFPGYGTQGN-----------
+>gi|123980|sp|P04082.1|IAA_STRAU(3-36:36) RecName: Full=Alpha-amylase inhibitor AI-3688   E=0.0001 s/c=1.45 id=54% cov=47%
+----GSPAPDCVESFQSWRYTDVRNGCSDAVTVVVQYE------------------------------------
+>gi|418467210|ref|ZP_13038102.1|(42-97:112) alpha-amylase inhibitor Scaim [Streptomyces coelicoflavus ZG0656] >gi|371552178|gb|EHN79434.1| alpha-amylase inhibitor Scaim [Streptomyces coelicoflavus ZG0656]  E=2e-15 s/c=1.53 id=45% cov=76%
+----------CVEYYQSWRYTDVVNNCAETVAVTVEYTNGQDAPCRVIAPGaWATFAGYGTDGNYA---------
+>gi|291435705|ref|ZP_06575095.1|(45-101:115) alpha-amylase inhibitor [Streptomyces ghanaensis ATCC 14672] >gi|291338600|gb|EFE65556.1| alpha-amylase inhibitor [Streptomyces ghanaensis ATCC 14672]  E=1e-14 s/c=1.45 id=40% cov=77%
+-------APACVEVGADWRYAFVTNTCSSTYTLTVAYSDGREVPCRVVHPGdRVTFPGHGTRGD-----------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	3
+       0	*	*	*	*	*	*	1479	0	0	
+
+V 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	4
+       0	*	*	*	*	*	*	1479	0	0	
+
+S 5    *	*	*	*	*	528	*	*	*	*	*	*	*	*	*	1707	*	*	*	*	5
+       0	*	*	*	*	*	*	1562	0	0	
+
+E 6    *	*	*	684	*	*	*	*	*	*	*	*	*	*	*	1405	*	*	*	*	6
+       0	*	*	*	*	*	*	1720	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1720	0	0	
+
+A 8    188	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3030	*	*	8
+       0	*	*	*	*	*	*	2151	0	0	
+
+P 9    3316	*	*	*	*	*	*	*	*	*	*	*	153	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2228	0	0	
+
+S 10   1240	*	4268	1766	*	*	*	*	*	*	*	*	*	3532	*	2792	*	*	*	*	10
+       0	*	*	*	*	*	*	2291	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2291	0	0	
+
+V 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	12
+       0	*	*	*	*	*	*	2291	0	0	
+
+T 13   *	*	*	1311	*	*	2502	*	*	*	*	*	*	*	*	*	2148	2362	*	*	13
+       0	*	*	*	*	*	*	2291	0	0	
+
+L 14   *	*	*	*	2497	*	*	3398	*	2940	3112	*	*	*	*	3109	*	3386	*	1887	14
+       0	*	*	*	*	*	*	2291	0	0	
+
+Y 15   *	*	*	*	2025	3386	3664	*	*	*	*	3398	*	*	*	3390	3613	*	*	1700	15
+       0	*	*	*	*	*	*	2291	0	0	
+
+Q 16   1874	*	*	3112	*	*	*	*	*	*	*	*	*	953	*	3398	*	*	*	*	16
+       0	*	*	*	*	*	*	2291	0	0	
+
+S 17   *	*	1444	*	*	3664	*	*	*	*	*	*	*	*	*	853	*	*	*	*	17
+       0	*	*	*	*	*	*	2291	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	2291	0	0	
+
+R 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2291	0	0	
+
+Y 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	20
+       0	*	*	*	*	*	*	2291	0	0	
+
+S 21   3386	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2940	369	*	*	*	21
+       0	*	*	*	*	*	*	2291	0	0	
+
+Q 22   *	*	1372	*	1444	*	*	*	*	*	*	*	*	2940	*	*	3112	*	*	*	22
+       0	*	*	*	*	*	*	2291	0	0	
+
+A 23   2023	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	407	*	*	23
+       0	*	*	*	*	*	*	2291	0	0	
+
+D 24   3112	*	2940	*	*	*	2294	*	*	*	*	*	*	*	4580	*	1444	2830	*	*	24
+       0	*	*	*	*	*	*	2291	0	0	
+
+N 25   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2291	0	0	
+
+G 26   *	*	2502	*	*	1136	*	*	*	*	*	1873	*	*	*	*	3386	*	*	*	26
+       0	*	*	*	*	*	*	2291	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2291	0	0	
+
+A 28   1146	*	*	*	*	*	*	*	*	3953	*	*	3390	*	*	1365	*	*	*	*	28
+       0	*	*	*	*	*	*	2291	0	0	
+
+E 29   *	*	1652	1909	*	*	*	2639	*	*	*	*	*	*	*	2392	*	3953	*	*	29
+       0	*	*	*	*	*	*	2291	0	0	
+
+T 30   1908	*	3613	*	*	3664	*	*	*	*	*	*	*	*	*	*	803	*	*	*	30
+       0	*	*	*	*	*	*	2291	0	0	
+
+V 31   *	*	*	*	*	*	3390	*	*	*	*	*	*	*	*	*	*	661	*	1877	31
+       0	*	*	*	*	*	*	2291	0	0	
+
+T 32   2830	*	3398	*	*	*	*	*	*	*	*	*	*	*	*	1317	1461	*	*	*	32
+       0	*	*	*	*	*	*	2291	0	0	
+
+V 33   *	*	*	*	*	*	*	*	*	2388	*	*	*	*	*	*	*	306	*	*	33
+       0	*	*	*	*	*	*	2291	0	0	
+
+K 34   *	*	*	*	*	*	*	*	2148	*	*	*	*	*	*	3112	697	4580	*	*	34
+       0	*	*	*	*	*	*	2291	0	0	
+
+V 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	35
+       0	*	*	*	*	*	*	2291	0	0	
+
+V 36   1771	*	*	1537	*	*	*	*	*	*	*	*	*	4580	*	*	*	1641	*	*	36
+       0	*	*	*	*	*	*	2291	0	0	
+
+Y 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	37
+       0	*	*	*	*	*	*	2291	0	0	
+
+E 38   *	*	*	2539	*	3613	*	*	*	*	*	*	*	3112	2394	3386	1537	*	*	*	38
+       0	*	*	*	*	*	*	2291	0	0	
+
+D 39   *	*	651	*	*	*	3851	*	*	*	*	1766	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2280	0	0	
+
+D 40   *	*	2877	*	*	211	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2280	0	0	
+
+T 41   2195	*	*	*	*	*	*	*	*	*	*	*	*	1461	3341	*	1646	*	*	*	41
+       0	*	*	*	*	*	*	2280	0	0	
+
+E 42   *	*	2010	1659	*	*	*	*	*	*	*	3352	*	*	*	*	3053	*	2206	*	42
+       0	*	*	*	*	*	*	2280	0	0	
+
+G 43   1461	*	*	*	*	1963	*	*	*	*	*	*	*	*	*	*	*	1396	*	*	43
+       0	*	*	*	*	*	*	2280	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	2877	*	*	211	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2280	0	0	
+
+C 45   *	150	*	*	*	*	*	*	*	*	*	*	*	*	*	3336	*	*	*	*	45
+       0	*	*	*	*	*	*	2280	0	0	
+
+Y 46   3053	*	*	*	*	*	*	*	*	*	*	*	*	*	590	*	*	3661	*	2877	46
+       0	*	*	*	*	*	*	2280	0	0	
+
+A 47   2877	*	*	*	*	*	*	3612	*	*	*	*	*	*	*	3567	2325	1005	*	*	47
+       0	*	*	*	*	*	*	2280	0	0	
+
+V 48   1830	*	*	*	*	*	*	1828	*	2306	*	*	*	*	*	*	*	2090	*	*	48
+       0	*	*	*	*	*	*	2280	0	0	
+
+A 49   2315	*	*	2861	*	3612	3341	*	*	*	*	3567	2188	3661	*	3352	*	*	*	*	49
+       0	*	*	*	*	*	*	2280	0	0	
+
+P 50   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	50
+       230	2762	*	0	*	*	*	2280	1122	0	
+
+G 51   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       406	2027	*	0	*	*	*	2280	1536	0	
+
+Q 52   2188	*	2456	*	*	3851	*	*	*	*	*	*	*	2877	2007	*	*	*	2796	*	52
+       447	1909	*	0	*	*	*	2280	1627	0	
+
+I 53   1461	*	*	*	*	*	*	1651	*	*	*	*	*	*	*	*	*	1652	*	*	53
+       127	3567	*	0	*	*	*	2280	1000	0	
+
+T 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3352	149	*	*	*	54
+       0	*	*	*	*	*	*	2280	0	0	
+
+T 55   *	*	*	*	428	*	*	*	*	*	*	*	*	*	*	*	1963	*	*	*	55
+       0	*	*	*	*	*	*	2280	0	0	
+
+V 56   1461	*	*	*	*	*	*	*	*	*	*	*	1396	*	*	*	*	1963	*	*	56
+       0	*	*	*	*	*	*	2280	0	0	
+
+G 57   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2280	0	0	
+
+D 58   *	*	2877	3053	*	*	2338	*	*	*	*	*	*	*	*	*	*	*	*	874	58
+       0	*	*	*	*	*	*	2280	0	0	
+
+G 59   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2280	0	0	
+
+Y 60   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	428	*	*	1963	60
+       0	*	*	*	*	*	*	2280	0	0	
+
+I 61   *	*	2898	*	*	*	*	2877	*	3053	*	2125	*	3352	2449	*	3336	*	*	*	61
+       0	*	*	*	*	*	*	2280	0	0	
+
+G 62   *	*	*	*	*	119	*	*	*	*	*	*	*	*	*	3661	*	*	*	*	62
+       0	*	*	*	*	*	*	2280	0	0	
+
+S 63   *	*	3341	3053	*	*	*	*	*	*	*	633	*	*	*	2877	*	*	*	*	63
+       0	*	*	*	*	*	*	2280	0	0	
+
+H 64   *	*	*	*	*	*	1286	*	*	*	*	*	*	*	*	*	*	*	*	761	64
+       0	*	*	*	*	*	*	1879	0	0	
+
+G 65   1527	*	*	*	*	615	*	*	*	*	*	*	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	1705	0	0	
+
+H 66   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	1358	0	0	
+
+A 67   1000	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	1358	0	0	
+
+R 68   *	*	1000	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	68
+       0	*	*	*	*	*	*	1358	0	0	
+
+Y 69   *	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	1000	69
+       0	*	*	*	*	*	*	1358	0	0	
+
+L 70   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1358	0	0	
+
+A 71   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	1358	0	0	
+
+R 72   *	*	*	*	*	*	*	*	*	1000	*	*	*	*	1000	*	*	*	*	*	72
+       0	*	*	*	*	*	*	1358	0	0	
+
+C 73   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	1358	0	0	
+
+L 74   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	74
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

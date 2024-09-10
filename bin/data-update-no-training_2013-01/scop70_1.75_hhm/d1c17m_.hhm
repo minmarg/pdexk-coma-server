@@ -1,0 +1,568 @@
+HHsearch 1.5
+NAME  d1c17m_ f.18.1.1 (M:) F1F0 ATP synthase subunit A {Escherichia coli [TaxId: 562]}
+FAM   f.18.1.1
+FILE  d1c17m_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1c17m_.a3m -v 1 
+DATE  Mon Jan 21 20:02:50 2013
+LENG  171 match states, 171 columns in multiple alignment
+FILT  118 out of 2397 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.4 
+SEQ
+>ss_pred
+CCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+>ss_conf
+9986303989999999999998988742565434445432100012355214588999999999999999999833989999861688724789999999
+99999998699999999999999999999999999999999999999999999999999999999999739
+>Consensus
+hxkxkxxxPxixtlFxfIlxxNxxgLiPxxxxxxxxxxxxxxxxxxxxpTsxxxxtxxlalxxxxxxxxxgixxxGxxxxxxxxxxpxxxxxxlxpxxxx
+iexisxxxrpiSLsxRLfgNixAGhillxlixxxxxxxxxxxxxxxxxxfelxvxxiQAyVFxxLtxvYis
+>d1c17m_ f.18.1.1 (M:) F1F0 ATP synthase subunit A {Escherichia coli [TaxId: 562]}
+HGKSKLIAPLALTIFVWVFLMNLMDLLPIDLLPYIAEHVLGLPALRVVPSADVNVTLSMALGVFILILFYSIKMKGIGGFTKELTLQPFNHWAFIPVNLI
+LEGVSLLSKPVSLGLRLFGNMYAGELIFILIAGLLPWWSQWILNVPWAIFHILIITLQAFIFMVLTIVYLS
+>gi|296417799|ref|XP_002838539.1|(62-235:242) hypothetical protein [Tuber melanosporum Mel28] >gi|295634480|emb|CAZ82730.1| unnamed protein product [Tuber melanosporum]  E=5e-16 s/c=0.50 id=21% cov=95%
+--KGQIYFPFIYSLFIFILINNLLGMV------EASPYDNIDNIFTFASTSHFILTFSISFTIVLGATLLGFQKHGLGFFSLFVPAGCPLALAYYLFLVL
+IEFISYLSRAISLGLRLAPNIVSGHLLLAILSGLtynimatgllsfIIGLLPLSFIIAFCGLEIAIAFIQAQVFVVLTASYI-
+>gi|374585272|ref|ZP_09658364.1|(146-340:347) ATP synthase F0 subcomplex A subunit [Leptonema illini DSM 21528] >gi|373874133|gb|EHQ06127.1| ATP synthase F0 subcomplex A subunit [Leptonema illini DSM 21528]  E=4e-22 s/c=0.55 id=24% cov=99%
+HHPSQGFLAYVITAFFFILFSNILGLFPPIGeiiditknlvtghsiahhaAPGELPSPLLAIWPGITVTGDIAVTFTMAAMTVVMIYAAGFKYQGVQYVW
+H--AVPGGVPWWLFPIMWPIEfIIGPLAKGFALMIRLLANMTAGHVIILVLLGFIFQYRSWgLVPVsmlgagAIYLLELMVAFLQAFIFTLLSSIFI-
+>gi|15901360|ref|NP_345964.1|(89-229:238) ATP synthase F0F1 subunit A [Streptococcus pneumoniae TIGR4] >gi|15903408|ref|NP_358958.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae R6] >gi|111657415|ref|ZP_01408168.1| hypothetical protein SpneT_02001385 [Streptococcus pneumoniae TIGR4] >gi|116516382|ref|YP_816802.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae D39] >gi|149011747|ref|ZP_01832943.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SP19-BS75] >gi|149021780|ref|ZP_01835787.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SP23-BS72] >gi|168492582|ref|ZP_02716725.1| ATP synthase F0, A subunit [Streptococcus pneumoniae CDC0288-04] >gi|168493414|ref|ZP_02717557.1| ATP synthase F0, A subunit [Streptococcus pneumoniae CDC3059-06] >gi|169834039|ref|YP_001694919.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae Hungary19A-6] >gi|182684467|ref|YP_001836214.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae CGSP14] >gi|221232225|ref|YP_002511378.1| ATP synthase A chain [Streptococcus pneumoniae ATCC 700669] >gi|225854957|ref|YP_002736469.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae JJA] >gi|225857138|ref|YP_002738649.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae P1031] >gi|225861346|ref|YP_002742855.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae Taiwan19F-14] >gi|298229180|ref|ZP_06962861.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae str. Canada MDR_19F] >gi|298255867|ref|ZP_06979453.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae str. Canada MDR_19A] >gi|298503248|ref|YP_003725188.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae TCH8431/19A] >gi|303254150|ref|ZP_07340263.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae BS455] >gi|303260735|ref|ZP_07346695.1| ATP synthase subunit A [Streptococcus pneumoniae SP-BS293] >gi|303263062|ref|ZP_07348994.1| ATP synthase subunit A [Streptococcus pneumoniae SP14-BS292] >gi|303264466|ref|ZP_07350386.1| ATP synthase subunit A [Streptococcus pneumoniae BS397] >gi|303267444|ref|ZP_07353298.1| ATP synthase subunit A [Streptococcus pneumoniae BS457] >gi|303269781|ref|ZP_07355530.1| ATP synthase subunit A [Streptococcus pneumoniae BS458] >gi|342164130|ref|YP_004768769.1| F0F1 ATP synthase subunit A [Streptococcus pseudopneumoniae IS7493] >gi|383939220|ref|ZP_09992399.1| ATP synthase F0, A subunit [Streptococcus pseudopneumoniae SK674] >gi|387626739|ref|YP_006062915.1| ATP synthase subunit A [Streptococcus pneumoniae INV104] >gi|387759644|ref|YP_006066622.1| ATP synthase subunit A [Streptococcus pneumoniae INV200] >gi|387788565|ref|YP_006253633.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae ST556] >gi|405760580|ref|YP_006701176.1| ATP synthase subunit A [Streptococcus pneumoniae SPNA45] >gi|410476889|ref|YP_006743648.1| F0 ATP synthase subunit A [Streptococcus pneumoniae gamPNI0373] >gi|415699500|ref|ZP_11457653.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 459-5] >gi|415749924|ref|ZP_11477868.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SV35] >gi|415752740|ref|ZP_11479722.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SV36] >gi|417312988|ref|ZP_12099700.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04375] >gi|417686957|ref|ZP_12336231.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41301] >gi|417694403|ref|ZP_12343590.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47901] >gi|417698911|ref|ZP_12348082.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41317] >gi|418074344|ref|ZP_12711597.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11184] >gi|418078950|ref|ZP_12716172.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 4027-06] >gi|418081142|ref|ZP_12718352.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6735-05] >gi|418083313|ref|ZP_12720510.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44288] >gi|418085502|ref|ZP_12722681.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47281] >gi|418087198|ref|ZP_12724367.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47033] >gi|418089870|ref|ZP_12727025.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA43265] >gi|418094296|ref|ZP_12731423.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA49138] >gi|418098841|ref|ZP_12735939.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6901-05] >gi|418100969|ref|ZP_12738053.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7286-06] >gi|418103172|ref|ZP_12740245.1| ATP synthase F0, A subunit [Streptococcus pneumoniae NP070] >gi|418105569|ref|ZP_12742626.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44500] >gi|418115039|ref|ZP_12752025.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5787-06] >gi|418117194|ref|ZP_12754163.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6963-05] >gi|418123849|ref|ZP_12760780.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44378] >gi|418128394|ref|ZP_12765287.1| ATP synthase F0, A subunit [Streptococcus pneumoniae NP170] >gi|418130672|ref|ZP_12767555.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA07643] >gi|418134836|ref|ZP_12771693.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11426] >gi|418139844|ref|ZP_12776670.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13338] >gi|418142020|ref|ZP_12778833.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13455] >gi|418146712|ref|ZP_12783490.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13637] >gi|418148889|ref|ZP_12785652.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13856] >gi|418151019|ref|ZP_12787765.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA14798] >gi|418153186|ref|ZP_12789925.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA16121] >gi|418157795|ref|ZP_12794511.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA16833] >gi|418160211|ref|ZP_12796910.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17227] >gi|418164775|ref|ZP_12801445.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17371] >gi|418167115|ref|ZP_12803770.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17971] >gi|418173858|ref|ZP_12810470.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41277] >gi|418178572|ref|ZP_12815155.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41565] >gi|418180875|ref|ZP_12817444.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41688] >gi|418182530|ref|ZP_12819091.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA43380] >gi|418187506|ref|ZP_12824029.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47360] >gi|418194095|ref|ZP_12830585.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47439] >gi|418196139|ref|ZP_12832617.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47688] >gi|418198338|ref|ZP_12834797.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47778] >gi|418200621|ref|ZP_12837064.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47976] >gi|418202735|ref|ZP_12839164.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA52306] >gi|418216963|ref|ZP_12843643.1| ATP synthase F0, A subunit [Streptococcus pneumoniae Netherlands15B-37] >gi|418223712|ref|ZP_12850352.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5185-06] >gi|418228016|ref|ZP_12854633.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 3063-00] >gi|418230242|ref|ZP_12856842.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP01] >gi|418973093|ref|ZP_13521128.1| ATP synthase F0, A subunit [Streptococcus pseudopneumoniae ATCC BAA-960] >gi|419425458|ref|ZP_13965654.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7533-05] >gi|419427572|ref|ZP_13967753.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5652-06] >gi|419429712|ref|ZP_13969876.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11856] >gi|419431903|ref|ZP_13972036.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP05] >gi|419433746|ref|ZP_13973864.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA40183] >gi|419436304|ref|ZP_13976392.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 8190-05] >gi|419438546|ref|ZP_13978614.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13499] >gi|419440703|ref|ZP_13980748.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA40410] >gi|419442867|ref|ZP_13982894.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13224] >gi|419445022|ref|ZP_13985037.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA19923] >gi|419447168|ref|ZP_13987173.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7879-04] >gi|419449302|ref|ZP_13989298.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 4075-00] >gi|419451100|ref|ZP_13991086.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP02] >gi|419453717|ref|ZP_13993687.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP03] >gi|419455877|ref|ZP_13995834.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP04] >gi|419465060|ref|ZP_14004951.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04175] >gi|419469325|ref|ZP_14009194.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA06083] >gi|419473580|ref|ZP_14013429.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13430] >gi|419475834|ref|ZP_14015672.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA14688] >gi|419478164|ref|ZP_14017988.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA18068] >gi|419486992|ref|ZP_14026754.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44128] >gi|419495698|ref|ZP_14035415.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47461] >gi|419497887|ref|ZP_14037594.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47522] >gi|419502162|ref|ZP_14041846.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47628] >gi|419506411|ref|ZP_14046072.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA49194] >gi|419515033|ref|ZP_14054658.1| ATP synthase F0, A subunit [Streptococcus pneumoniae England14-9] >gi|419519221|ref|ZP_14058827.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA08825] >gi|419521439|ref|ZP_14061034.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA05245] >gi|419527848|ref|ZP_14067391.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17719] >gi|419534973|ref|ZP_14074473.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17457] >gi|421206961|ref|ZP_15664013.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2090008] >gi|421209290|ref|ZP_15666303.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2070005] >gi|421225343|ref|ZP_15682082.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2070768] >gi|421230137|ref|ZP_15686801.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2061376] >gi|421232230|ref|ZP_15688871.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2080076] >gi|421234419|ref|ZP_15691037.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2061617] >gi|421238149|ref|ZP_15694719.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2071247] >gi|421240983|ref|ZP_15697528.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2080913] >gi|421243431|ref|ZP_15699947.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2081074] >gi|421245370|ref|ZP_15701868.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2081685] >gi|421247751|ref|ZP_15704233.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2082170] >gi|421249743|ref|ZP_15706200.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2082239] >gi|421266513|ref|ZP_15717393.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SPAR27] >gi|421270935|ref|ZP_15721789.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SPAR48] >gi|421281455|ref|ZP_15732252.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04672] >gi|421285846|ref|ZP_15736622.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA60190] >gi|421287782|ref|ZP_15738545.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58771] >gi|421292404|ref|ZP_15743138.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA56348] >gi|421296354|ref|ZP_15747064.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58581] >gi|421303015|ref|ZP_15753679.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17484] >gi|421307726|ref|ZP_15758368.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA60132] >gi|421309921|ref|ZP_15760546.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA62681] >gi|421312337|ref|ZP_15762939.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58981] >gi|61219225|sp|P0A2Y8.1|ATP6_STRPN RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|61219226|sp|P0A2Y9.1|ATP6_STRR6 RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|122277700|sp|Q04HT4.1|ATP6_STRP2 RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|226739827|sp|B1ICT4.1|ATP6_STRPI RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|226739828|sp|B2IQX5.1|ATP6_STRPS RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|254807662|sp|B8ZLB4.1|ATP6_STRPJ RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|254807663|sp|C1CF98.1|ATP6_STRZJ RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|254807664|sp|C1CLL1.1|ATP6_STRZP RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|254807665|sp|C1CSD3.1|ATP6_STRZT RecName: Full=ATP synthase subunit a; AltName: Full=ATP synthase F0 sector subunit a; AltName: Full=F-ATPase subunit 6 >gi|15004342|gb|AAK77042.1|AF334396_2 H+-transporting ATP synthase subunit a [Streptococcus pneumoniae] >gi|9230569|gb|AAF85905.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|9230572|gb|AAF85907.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|9230575|gb|AAF85909.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|14973003|gb|AAK75604.1| ATP synthase F0, A subunit [Streptococcus pneumoniae TIGR4] >gi|15459013|gb|AAL00169.1| Proton-translocating ATPase, F0 sector, subunit a [Streptococcus pneumoniae R6] >gi|16754743|emb|CAA81453.2| adenosine triphosphatase [Streptococcus pneumoniae] >gi|21434823|gb|AAL33729.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434878|gb|AAL33733.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434887|gb|AAL33735.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434896|gb|AAL33737.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434904|gb|AAL33739.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434913|gb|AAL33741.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434921|gb|AAL33745.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434929|gb|AAL33747.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|21434938|gb|AAL33749.1| F0F1 H+-ATPase A subunit [Streptococcus pneumoniae] >gi|32448557|gb|AAO34529.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|32448560|gb|AAO34531.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|32448565|gb|AAO34527.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|32448568|gb|AAO34533.1| adenosine triphosphatase subunit A [Streptococcus pneumoniae] >gi|110277373|gb|ABG57207.1| AtpA [Streptococcus pseudopneumoniae] >gi|110277378|gb|ABG57211.1| AtpA [Streptococcus pseudopneumoniae ATCC BAA-960] >gi|110277383|gb|ABG57215.1| AtpA [Streptococcus mitis] >gi|110277388|gb|ABG57219.1| AtpA [Streptococcus mitis] >gi|110277393|gb|ABG57223.1| AtpA [Streptococcus mitis] >gi|110277398|gb|ABG57227.1| AtpA [Streptococcus mitis] >gi|110277403|gb|ABG57231.1| AtpA [Streptococcus mitis] >gi|110277408|gb|ABG57235.1| AtpA [Streptococcus mitis] >gi|110277413|gb|ABG57239.1| AtpA [Streptococcus mitis] >gi|110277418|gb|ABG57243.1| AtpA [Streptococcus mitis] >gi|116076958|gb|ABJ54678.1| ATP synthase F0, A subunit [Streptococcus pneumoniae D39] >gi|147764178|gb|EDK71110.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SP19-BS75] >gi|147930016|gb|EDK81003.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SP23-BS72] >gi|168996541|gb|ACA37153.1| ATP synthase F0, A subunit [Streptococcus pneumoniae Hungary19A-6] >gi|182629801|gb|ACB90749.1| ATP synthase subunit A [Streptococcus pneumoniae CGSP14] >gi|183573281|gb|EDT93809.1| ATP synthase F0, A subunit [Streptococcus pneumoniae CDC0288-04] >gi|183576703|gb|EDT97231.1| ATP synthase F0, A subunit [Streptococcus pneumoniae CDC3059-06] >gi|220674686|emb|CAR69259.1| ATP synthase A chain [Streptococcus pneumoniae ATCC 700669] >gi|225723533|gb|ACO19386.1| ATP synthase F0, A subunit [Streptococcus pneumoniae JJA] >gi|225725729|gb|ACO21581.1| ATP synthase F0, A subunit [Streptococcus pneumoniae P1031] >gi|225728370|gb|ACO24221.1| ATP synthase F0, A subunit [Streptococcus pneumoniae Taiwan19F-14] >gi|298238843|gb|ADI69974.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae TCH8431/19A] >gi|301794525|emb|CBW36967.1| ATP synthase A chain [Streptococcus pneumoniae INV104] >gi|301802233|emb|CBW34983.1| ATP synthase A chain [Streptococcus pneumoniae INV200] >gi|302598876|gb|EFL65909.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae BS455] >gi|302635825|gb|EFL66328.1| ATP synthase subunit A [Streptococcus pneumoniae SP14-BS292] >gi|302638138|gb|EFL68613.1| ATP synthase subunit A [Streptococcus pneumoniae SP-BS293] >gi|302640674|gb|EFL71072.1| ATP synthase subunit A [Streptococcus pneumoniae BS458] >gi|302643035|gb|EFL73328.1| ATP synthase subunit A [Streptococcus pneumoniae BS457] >gi|302646278|gb|EFL76505.1| ATP synthase subunit A [Streptococcus pneumoniae BS397] >gi|327389696|gb|EGE88041.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04375] >gi|332073847|gb|EGI84325.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41301] >gi|332199557|gb|EGJ13632.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41317] >gi|332200952|gb|EGJ15023.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47901] >gi|341934012|gb|AEL10909.1| F0F1 ATP synthase subunit A [Streptococcus pseudopneumoniae IS7493] >gi|353746477|gb|EHD27137.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 4027-06] >gi|353748413|gb|EHD29065.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11184] >gi|353751881|gb|EHD32512.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6735-05] >gi|353754533|gb|EHD35145.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44288] >gi|353756211|gb|EHD36812.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47281] >gi|353758214|gb|EHD38806.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47033] >gi|353761416|gb|EHD41985.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA43265] >gi|353764792|gb|EHD45340.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA49138] >gi|353769331|gb|EHD49850.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6901-05] >gi|353771430|gb|EHD51939.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7286-06] >gi|353775070|gb|EHD55553.1| ATP synthase F0, A subunit [Streptococcus pneumoniae NP070] >gi|353776505|gb|EHD56981.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44500] >gi|353785123|gb|EHD65542.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5787-06] >gi|353787875|gb|EHD68273.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 6963-05] >gi|353795669|gb|EHD76015.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44378] >gi|353798893|gb|EHD79216.1| ATP synthase F0, A subunit [Streptococcus pneumoniae NP170] >gi|353801996|gb|EHD82296.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA07643] >gi|353806271|gb|EHD86545.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13455] >gi|353811762|gb|EHD92001.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13856] >gi|353812287|gb|EHD92522.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13637] >gi|353814229|gb|EHD94455.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA14798] >gi|353817737|gb|EHD97939.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA16121] >gi|353821944|gb|EHE02120.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17227] >gi|353824243|gb|EHE04417.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA16833] >gi|353829107|gb|EHE09241.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17971] >gi|353829636|gb|EHE09767.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17371] >gi|353837814|gb|EHE17895.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41277] >gi|353842631|gb|EHE22677.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41565] >gi|353842947|gb|EHE22992.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA41688] >gi|353849491|gb|EHE29496.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47360] >gi|353850767|gb|EHE30771.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA43380] >gi|353858949|gb|EHE38907.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47439] >gi|353860757|gb|EHE40697.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47688] >gi|353862437|gb|EHE42369.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47778] >gi|353864162|gb|EHE44080.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47976] >gi|353867292|gb|EHE47187.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA52306] >gi|353870236|gb|EHE50109.1| ATP synthase F0, A subunit [Streptococcus pneumoniae Netherlands15B-37] >gi|353878510|gb|EHE58340.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5185-06] >gi|353880411|gb|EHE60226.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 3063-00] >gi|353885746|gb|EHE65532.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP01] >gi|353902073|gb|EHE77603.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11426] >gi|353905317|gb|EHE80756.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13338] >gi|379138307|gb|AFC95098.1| F0F1 ATP synthase subunit A [Streptococcus pneumoniae ST556] >gi|379536660|gb|EHZ01846.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04175] >gi|379536953|gb|EHZ02138.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13499] >gi|379538739|gb|EHZ03919.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA05245] >gi|379544960|gb|EHZ10103.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA06083] >gi|379549890|gb|EHZ14992.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA11856] >gi|379550744|gb|EHZ15840.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13430] >gi|379551567|gb|EHZ16661.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA13224] >gi|379559526|gb|EHZ24554.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA14688] >gi|379563770|gb|EHZ28770.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17457] >gi|379565600|gb|EHZ30592.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA18068] >gi|379566001|gb|EHZ30992.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17719] >gi|379572715|gb|EHZ37672.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA19923] >gi|379576747|gb|EHZ41671.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA40183] >gi|379577773|gb|EHZ42690.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA40410] >gi|379585361|gb|EHZ50217.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA44128] >gi|379593784|gb|EHZ58595.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47461] >gi|379598720|gb|EHZ63505.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47522] >gi|379600375|gb|EHZ65156.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA47628] >gi|379608325|gb|EHZ73071.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA49194] >gi|379613125|gb|EHZ77838.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 8190-05] >gi|379614708|gb|EHZ79418.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7879-04] >gi|379617765|gb|EHZ82445.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 5652-06] >gi|379618919|gb|EHZ83593.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 7533-05] >gi|379621920|gb|EHZ86556.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 4075-00] >gi|379622805|gb|EHZ87439.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP02] >gi|379625787|gb|EHZ90413.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP03] >gi|379627853|gb|EHZ92459.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP04] >gi|379628984|gb|EHZ93585.1| ATP synthase F0, A subunit [Streptococcus pneumoniae EU-NP05] >gi|379635582|gb|EIA00141.1| ATP synthase F0, A subunit [Streptococcus pneumoniae England14-9] >gi|379641058|gb|EIA05596.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA08825] >gi|381308387|gb|EIC49230.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SV36] >gi|381315697|gb|EIC56455.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 459-5] >gi|381318218|gb|EIC58943.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SV35] >gi|383350338|gb|EID28212.1| ATP synthase F0, A subunit [Streptococcus pseudopneumoniae ATCC BAA-960] >gi|383713876|gb|EID69903.1| ATP synthase F0, A subunit [Streptococcus pseudopneumoniae SK674] >gi|395573386|gb|EJG33976.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2070005] >gi|395574297|gb|EJG34875.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2090008] >gi|395589395|gb|EJG49714.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2070768] >gi|395593663|gb|EJG53905.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2061376] >gi|395594733|gb|EJG54968.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2080076] >gi|395600273|gb|EJG60430.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2061617] >gi|395603498|gb|EJG63634.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2071247] >gi|395607025|gb|EJG67124.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2081074] >gi|395607361|gb|EJG67458.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2080913] >gi|395607897|gb|EJG67993.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2081685] >gi|395613209|gb|EJG73238.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2082170] >gi|395613437|gb|EJG73465.1| ATP synthase F0, A subunit [Streptococcus pneumoniae 2082239] >gi|395866581|gb|EJG77709.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SPAR27] >gi|395867149|gb|EJG78273.1| ATP synthase F0, A subunit [Streptococcus pneumoniae SPAR48] >gi|395880720|gb|EJG91771.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA04672] >gi|395885833|gb|EJG96854.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA60190] >gi|395886345|gb|EJG97361.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58771] >gi|395891711|gb|EJH02705.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA56348] >gi|395895875|gb|EJH06845.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58581] >gi|395901637|gb|EJH12573.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA17484] >gi|395907111|gb|EJH18005.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA60132] >gi|395909191|gb|EJH20067.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA58981] >gi|395909536|gb|EJH20411.1| ATP synthase F0, A subunit [Streptococcus pneumoniae GA62681] >gi|404277469|emb|CCM07996.1| ATP synthase A chain [Streptococcus pneumoniae SPNA45] >gi|406369834|gb|AFS43524.1| ATP synthase F0, A subunit [Streptococcus pneumoniae gamPNI0373]  E=2e-14 s/c=0.58 id=26% cov=80%
+-------------------IANNLGLM-------TKLQTIDGTNWWSSPTANLQYDLTLSFLVILLTHIESVRRRGFKKSIKSFMSPVFV--------IP
+MNILEEFTNFLSLALRIFGNIFAGEVMTSLLLLLShqaiyWYPVAFGANLAWTAFSVFISCIQAYVFTLLTSVYL-
+>gi|255961297|ref|YP_003097479.1|(95-202:251) ATP synthase CFO A chain [Selaginella moellendorffii] >gi|302824465|ref|XP_002993875.1| hypothetical protein SELMODRAFT_137882 [Selaginella moellendorffii] >gi|254941469|gb|ACT88984.1| ATP synthase CFO A chain [Selaginella moellendorffii] >gi|300138242|gb|EFJ05016.1| hypothetical protein SELMODRAFT_137882, partial (mitochondrion) [Selaginella moellendorffii]  E=4e-09 s/c=0.60 id=23% cov=60%
+--------PSIGTMSLSIFVPNWSGaLIPWRISESPHGEL-------AAPTNDTNTTVALALPTPVAYSYAGPRKKGSSHFGRHIQP--------TPIPS
+PTNTSEDFTKPSPPSSRLPGNISADE----------------------------------------------
+>gi|226968604|ref|YP_002808554.1|(47-204:207) ATP synthase F0 subunit 6 [Panonychus ulmi] >gi|187370807|gb|ACD02437.1| ATPase subunit 6 [Panonychus ulmi]  E=9e-06 s/c=0.34 id=21% cov=91%
+--------------FLFIFMNIIKDFFFVMMFSFIlLMNFLSLNFFSFNMTSQISMNLYMIMILWLPILLISLTKMNNSFLIH--ILPLGTSNLLIPMMI
+LIELLSFLIRPLTLILRLTINMIAGHILIHLISSTILFnnmLYFYMVIYLYMLMKFLVSFIQSYIITTLLKLYI-
+>gi|397677697|ref|YP_006519233.1|(75-238:247) F0F1 ATP synthase subunit A [Mycoplasma wenyonii str. Massachusetts] >gi|395455962|gb|AFN64904.1| F0F1 ATP synthase subunit A [Mycoplasma wenyonii str. Massachusetts]  E=3e-05 s/c=0.31 id=25% cov=89%
+--RYSFVIPFFIYIVFYFWGSSLVGMFGFNGISTFA-----------------IVPISIATLVFLGTIFLGVTAKGWGFCRDYCIWLKWKGKKILPIPDV
+LKVLGEVGKIVSLGLRLWGNYFAGAIVLFMVKHFLeevlktlggtsgSVYTGTALFPLHIYFDIVDGALHSMIFLLLTFSYWS
+>gi|147669177|ref|YP_001213995.1|(126-301:314) ATP synthase F0 subunit A [Dehalococcoides sp. BAV1] >gi|146270125|gb|ABQ17117.1| ATP synthase F0 subcomplex A subunit [Dehalococcoides sp. BAV1]  E=1e-17 s/c=0.53 id=25% cov=95%
+---GRKFFPLVATIFLFIIVNAWMNLLPGYNTIFIELGNGHEAHLLRGANTDINLPLALAAITFFMVEYWGIKTLGGFHYLSKFFnfkplinafrhkegV
+IGIFNGVISIFVGLLEFFLEFVRIISLTFRLFGNMIGGEILILMI----TFLAPFIIGIPFYGLEMLVGFVQALVFCNLALVF--
+>gi|289449449|ref|YP_003475409.1|(116-257:270) ATP synthase subunit A [Clostridiales genomosp. BVAB3 str. UPII9-5] >gi|289183996|gb|ADC90421.1| ATP synthase, A subunit [Clostridiales genomosp. BVAB3 str. UPII9-5]  E=1e-06 s/c=0.40 id=23% cov=84%
+-HRNKFLGAYVFGAGVYIFTGTLFELFGVQMIST-----AGNPVNLSAPLADINGAIALGCFSYLVIMSGGLVSNGVRG--------------------V
+LLTLKEFSLPISLSFRLFGALLSGLLVTELVYYYLSLSFILPVAVGVM-FTLMHAFIQAYVLTMLTALF--
+>gi|55583312|dbj|BAD69577.1|(77-235:242) ATP synthase subunit 6 [Lingula anatina]   E=1e-07 s/c=0.37 id=25% cov=88%
+---SKGVGPFLSGVFFCMLFINLVSLTP----------------LGVVYSAHIVFTLPLAVVLWATLVLKGLWNGRVF--LSSEFLSSSIPRFLAIPFAC
+LEILGHIIRPLTLSARFSVNAMAGHIMYKSVLaysaklakvSLLKGGLVFMLSMGCFAAEICICFLQAYVFFILLNVYFN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4169	0	0	
+
+G 2    *	*	4891	*	*	1319	1676	*	4790	*	*	3794	*	4670	4741	3888	*	*	*	*	2
+       44	5042	*	0	*	*	*	5011	1000	0	
+
+K 3    4533	*	4829	5911	*	*	*	5505	1192	*	*	4581	5335	3953	2034	4661	*	*	6002	6068	3
+       0	*	*	*	*	*	*	5694	0	0	
+
+S 4    2248	*	5896	5092	*	2206	5126	5006	*	6116	*	3268	*	5600	4690	3107	3775	6262	*	3521	4
+       42	5126	*	0	*	*	*	5928	1070	0	
+
+K 5    4391	*	5199	6033	*	5889	*	*	1401	*	4241	5927	*	4143	1671	4644	5806	*	*	5917	5
+       41	5875	6485	0	*	*	*	5944	1000	0	
+
+L 6    6169	*	*	*	2708	3865	6120	4794	2043	5049	4561	*	3769	4858	2621	3332	6043	*	*	6161	6
+       24	*	5894	*	*	0	*	5945	0	1000	
+
+I 7    *	*	*	*	1385	*	*	2981	*	3206	5940	*	*	*	*	*	*	2596	4276	2749	7
+       46	*	4980	*	*	*	0	5989	0	1000	
+
+A 8    2585	*	*	*	3516	2909	*	4561	6383	1906	*	5273	*	*	5670	5003	3360	3088	*	*	8
+       0	*	*	*	*	0	*	5995	0	1963	
+
+P 9    4606	*	*	6031	*	6181	*	6445	6364	5300	5329	6513	418	*	*	3573	6312	*	*	*	9
+       0	*	*	*	*	*	*	6127	0	0	
+
+L 10   *	*	*	*	1738	*	*	3975	*	1737	4757	*	*	*	*	6286	6527	4754	5890	2170	10
+       0	*	*	*	*	*	*	6407	0	0	
+
+A 11   3242	4588	*	*	3024	6977	*	1622	6132	2438	6062	*	*	*	*	4509	*	2845	*	*	11
+       0	*	*	*	*	*	*	6443	0	0	
+
+L 12   3341	*	*	*	2786	2611	*	3586	*	2574	4810	*	*	*	*	4118	4021	3144	4998	4570	12
+       0	*	*	*	*	*	*	6443	0	0	
+
+T 13   3413	6172	*	*	6678	3047	*	4998	*	6295	5222	*	*	*	*	2544	1132	4893	*	5097	13
+       38	*	5274	*	*	*	*	6459	0	0	
+
+I 14   4219	6446	*	*	4148	*	*	2740	*	1122	3967	*	*	*	*	*	5712	2617	*	5427	14
+       17	6442	*	0	*	0	*	6439	1000	1515	
+
+F 15   4871	*	*	*	336	4687	*	4548	*	5002	*	*	*	*	*	6314	5991	5956	7140	6762	15
+       33	6211	6751	2000	415	*	*	6497	1000	0	
+
+V 16   5710	4774	*	*	2369	6629	*	2833	6313	2163	3340	6240	*	*	*	5754	3239	3241	6455	6531	16
+       0	*	*	*	*	0	*	6490	0	1000	
+
+W 17   6826	4734	*	*	946	5046	*	4366	*	3935	5166	*	*	6762	*	5318	4389	*	5902	2611	17
+       12	*	6913	*	*	*	*	6497	0	0	
+
+V 18   *	*	*	*	4618	*	*	968	6392	2513	4846	*	*	*	*	5733	6731	2337	*	*	18
+       0	*	*	*	*	*	0	6494	0	1000	
+
+F 19   3525	*	*	*	2275	5844	*	3227	*	1264	4310	*	6223	*	*	*	6697	4132	4819	*	19
+       0	*	*	*	*	*	0	6495	0	1000	
+
+L 20   4950	5774	*	*	1867	4963	*	2686	*	3314	4117	6065	7023	*	*	4276	4394	2389	7219	6633	20
+       0	*	*	*	*	*	0	6501	0	1000	
+
+M 21   2746	3650	*	5498	5333	3918	*	5488	*	4428	2975	3673	6317	6325	6226	1679	*	6130	5731	*	21
+       0	*	*	*	*	*	0	6501	0	1000	
+
+N 22   5911	6130	6451	*	*	5782	*	6031	*	*	*	200	*	*	*	5342	5568	*	*	6935	22
+       25	*	5847	*	*	*	0	6501	0	1000	
+
+L 23   6806	*	*	6481	4373	*	*	2716	*	1475	3737	5902	*	6637	*	6953	5092	3444	2801	4472	23
+       15	6608	*	0	*	*	0	6502	1000	1956	
+
+M 24   5557	5304	*	*	2817	6498	*	3115	6028	1832	2716	6761	*	*	*	3532	5123	3615	5780	6318	24
+       36	6773	5981	0	*	*	0	6502	1000	1956	
+
+D 25   5237	*	4482	5524	6584	658	*	6712	*	*	*	6633	*	*	*	2285	4719	*	*	*	25
+       57	5078	6733	0	*	2213	350	6493	1681	2785	
+
+L 26   7006	*	*	6932	5339	*	*	3000	6437	701	3433	*	*	*	*	6524	*	3409	*	6610	26
+       71	5576	5191	3225	163	2200	354	6491	1430	2805	
+
+L 27   *	*	6429	*	1950	*	*	1486	*	2543	5245	*	*	*	*	*	4798	2849	*	*	27
+       191	*	3013	*	*	*	0	6480	0	3266	
+
+P 28   *	*	*	*	4779	3672	*	*	*	5358	*	5523	322	*	*	6502	6036	*	*	6326	28
+       361	4808	2428	1260	780	3085	181	6361	1981	4490	
+
+I 29   3701	*	*	*	2475	3001	*	4681	*	3388	5082	5837	5257	6575	*	*	*	2610	4719	2334	29
+       186	5408	3360	2148	369	*	0	6289	1593	5177	
+
+D 30   3589	*	4404	*	4675	3703	5655	2781	4113	5162	4394	4499	6001	4077	5960	2326	5093	3735	*	5948	30
+       144	*	3394	*	*	4104	86	6206	0	5338	
+
+L 31   6097	*	*	*	1674	3148	*	3436	*	2981	3753	5885	5064	4148	*	4882	5934	6152	4825	3988	31
+       330	4924	2545	3455	138	3174	169	6174	1541	5529	
+
+L 32   4151	4846	4702	*	2960	4110	*	2495	6094	2629	4287	5828	5932	*	*	3444	3051	4937	*	*	32
+       124	6042	3890	4755	54	4931	48	6000	1000	5632	
+
+P 33   *	*	4790	4639	6017	3646	*	3524	4491	3495	5895	*	1849	*	*	2393	3795	4930	5736	*	33
+       135	5995	3760	3322	152	3209	165	5892	1000	5728	
+
+Y 34   *	*	*	3787	4052	3232	3827	5875	4981	3056	5513	5699	5039	4898	*	3323	2721	4156	4332	4081	34
+       123	*	3614	*	*	3742	112	5869	0	5658	
+
+I 35   4383	*	5786	4133	2838	4032	*	2276	5748	2787	5604	4828	3190	*	*	*	3526	4213	*	*	35
+       138	4197	4763	2024	407	4278	76	5817	1600	5708	
+
+A 36   2758	*	*	3347	4697	2968	5673	3513	4737	3551	*	4770	6205	4257	6091	2972	3732	*	*	4731	36
+       67	*	4453	*	*	3883	101	5862	0	5604	
+
+E 37   3330	*	6119	2990	4819	3894	5834	4732	5331	4047	4496	4820	4601	*	5897	2696	2623	5165	*	4843	37
+       31	5570	*	3000	193	4243	78	5870	1000	5583	
+
+H 38   6225	*	4658	3467	4766	3315	2961	3601	*	3721	4948	2355	4890	5983	6172	5760	4020	4640	*	5561	38
+       49	5801	5985	0	*	4700	57	5905	1000	5522	
+
+V 39   4338	*	4880	5053	2756	5095	6085	3527	6092	3554	5284	3604	5761	*	*	3544	3395	2984	4805	4697	39
+       71	*	4389	*	*	3592	125	5912	0	5419	
+
+L 40   3472	*	4409	4599	3323	4343	3461	3179	5884	2515	*	5585	3666	*	*	4486	3965	4952	4696	*	40
+       67	5919	5099	1000	1000	3239	162	5916	1000	5548	
+
+G 41   3415	*	4461	5012	4555	1231	4896	5642	*	4086	*	4289	6027	*	*	3520	5049	4362	5948	*	41
+       21	6095	*	1585	585	4488	66	5925	1000	5389	
+
+L 42   3932	*	4232	4285	3643	4598	3599	3121	6103	2099	5903	5703	6088	*	6203	3888	4906	3823	*	5184	42
+       81	4189	*	1373	704	5417	34	5964	2086	5366	
+
+P 43   4403	*	5749	3436	5779	4996	5009	2585	4193	3607	*	4442	2636	*	6127	3487	5222	3465	*	5057	43
+       18	6326	*	1585	585	3084	181	5965	1000	5453	
+
+A 44   2748	*	*	4572	3599	3105	4030	4332	*	5058	5928	3905	2250	5627	*	5101	4540	5838	6028	4297	44
+       17	*	6429	*	*	1864	464	6051	0	5380	
+
+L 45   4703	*	5976	*	2783	2537	*	4752	*	1902	5254	6068	6182	*	*	*	*	4042	2822	3912	45
+       35	*	5381	*	*	3794	108	6178	0	4853	
+
+R 46   4494	6289	*	5144	2241	3839	*	4077	4392	2209	5426	3848	5794	*	4341	3972	5056	*	4158	*	46
+       36	6476	6187	2585	263	2704	240	6202	1000	4960	
+
+V 47   4165	*	6471	3707	4018	3877	5672	4222	3317	4853	4706	*	5272	4842	2264	4068	4208	4124	6294	5188	47
+       31	5568	*	1999	415	791	1245	6250	1527	4847	
+
+V 48   2456	6663	*	5176	6152	4153	*	6571	*	5521	*	5844	2057	7177	*	2343	2803	4112	6090	*	48
+       73	6719	4638	3000	193	1852	468	6419	1000	3732	
+
+P 49   2773	*	*	*	5300	4795	*	3881	6403	3887	5903	*	1019	*	*	5638	*	3562	*	5064	49
+       20	*	6147	*	*	642	1477	6418	0	4041	
+
+S 50   4997	*	*	*	*	5079	*	6444	6287	5011	*	3674	6501	*	*	3076	600	5969	*	*	50
+       0	*	*	*	*	1319	739	6459	0	2697	
+
+A 51   1860	*	6883	*	*	3379	6672	5778	4906	6470	*	4528	6528	6547	6009	1432	3376	*	*	*	51
+       0	*	*	*	*	*	0	6450	0	2012	
+
+D 52   6717	*	1396	6199	6656	5103	2415	*	*	6404	*	2683	*	4490	5357	4023	4190	6754	*	6903	52
+       0	*	*	*	*	1558	599	6450	0	2012	
+
+V 53   3671	*	*	*	3661	6530	*	2085	*	1818	4125	*	4469	*	*	5786	6386	3252	4604	4892	53
+       0	*	*	*	*	981	1019	6478	0	1629	
+
+N 54   4790	*	*	5546	6348	3438	6802	4099	*	4809	5079	1534	*	7023	*	2100	4359	3832	*	*	54
+       0	*	*	*	*	*	0	6520	0	1000	
+
+V 55   7201	*	*	*	3057	4592	5824	3274	*	3359	3769	*	6551	*	6237	6682	2491	1680	*	5944	55
+       18	6320	*	2585	263	*	0	6520	1000	1000	
+
+T 56   4539	6348	5094	6724	*	5646	*	5710	*	*	*	3626	3123	*	*	5065	688	6747	*	6487	56
+       0	*	*	*	*	*	0	6520	0	1000	
+
+L 57   3346	*	*	*	2318	5122	*	3318	*	1409	3838	*	6787	*	*	5298	6018	4086	*	5893	57
+       18	*	6305	*	*	*	0	6512	0	1000	
+
+S 58   1709	4579	*	*	4692	2649	*	5941	*	7136	5730	4939	6233	6753	*	2981	2971	3518	*	6019	58
+       0	*	*	*	*	1009	991	6497	0	1470	
+
+M 59   *	7041	*	*	3014	*	*	3260	*	809	2733	*	*	*	*	*	*	5904	5801	6879	59
+       0	*	*	*	*	*	0	6502	0	1000	
+
+A 60   723	6638	*	*	*	2640	*	6028	*	*	*	*	6261	*	*	2697	5133	*	*	6299	60
+       13	*	6769	*	*	*	0	6502	0	1000	
+
+L 61   4001	4995	*	*	2947	*	6478	2805	*	1293	4438	*	*	*	6278	6403	5353	3075	*	*	61
+       0	*	*	*	*	*	0	6496	0	1560	
+
+G 62   4057	5323	6278	*	3313	4581	*	2469	*	3280	3428	*	3696	*	6834	4170	3875	2723	5494	*	62
+       0	*	*	*	*	*	0	6496	0	1560	
+
+V 63   3896	6540	*	*	4576	6743	*	4311	*	2781	4331	6278	6258	*	*	2647	2650	1948	6501	6635	63
+       0	*	*	*	*	*	0	6496	0	1560	
+
+F 64   5479	7244	*	*	1673	*	6478	3784	*	3968	3752	*	6380	*	*	4484	6857	3229	2192	4486	64
+       0	*	*	*	*	*	0	6496	0	1560	
+
+I 65   5171	4848	*	*	2952	4163	*	2202	*	1996	*	*	*	*	*	4286	6977	2151	*	*	65
+       16	6540	*	0	*	*	0	6496	1000	1560	
+
+L 66   3214	*	*	*	6936	3244	*	3283	*	2472	3514	6979	6007	5970	*	3373	3232	3093	6501	4742	66
+       0	*	*	*	*	*	0	6496	0	1560	
+
+I 67   3509	5385	6478	*	3993	4698	*	2650	*	4536	6129	*	*	*	*	3890	2995	2417	4643	2849	67
+       0	*	*	*	*	*	0	6496	0	1560	
+
+L 68   6875	6979	*	6678	3707	*	3263	2841	*	2537	4470	3944	*	2878	*	6380	3347	4286	5677	4212	68
+       9	*	7323	*	*	*	0	6496	0	1560	
+
+F 69   3206	*	*	*	2630	4918	*	2396	*	2670	5218	*	*	*	5959	4482	*	3698	5071	2685	69
+       20	*	6219	*	*	*	0	6488	0	1839	
+
+Y 70   2658	*	7213	4916	4919	5094	5351	3494	6210	2722	4572	4302	6232	7104	*	4411	4203	3280	5138	3119	70
+       0	*	*	*	*	1689	535	6467	0	2229	
+
+S 71   2747	6528	7247	*	*	929	6541	*	4870	*	*	4474	6463	*	*	2948	4482	4927	*	*	71
+       49	*	4900	*	*	*	0	6476	0	2001	
+
+I 72   4905	6339	*	*	2269	*	5538	1389	*	2432	6039	*	6346	*	*	*	5475	3437	5987	*	72
+       56	*	4726	*	*	1498	631	6435	0	3036	
+
+K 73   5849	*	*	*	4476	5463	6253	4708	1764	5057	5794	4913	*	4592	1941	4873	3980	4412	5363	5851	73
+       0	*	*	*	*	1042	959	6439	0	3395	
+
+M 74   3823	*	*	3648	5187	5882	4376	4692	2567	6492	5877	4336	*	5766	3016	4317	3562	3682	*	3093	74
+       26	5803	*	1072	931	1952	432	6468	1607	2371	
+
+K 75   *	*	6317	*	4813	5018	3191	5050	2341	4043	4572	2802	6463	3266	3247	4957	4741	5888	*	5020	75
+       115	6513	3924	1000	1000	1566	594	6476	1000	2001	
+
+G 76   *	*	6336	*	*	508	6627	*	4121	6463	*	4215	5785	*	4990	4425	6809	*	4829	6429	76
+       57	6847	5071	2000	415	1320	738	6473	1000	3564	
+
+I 77   4759	*	*	5565	3050	6569	*	2556	*	2257	5687	5071	4191	*	6070	4875	4494	2564	4388	5848	77
+       41	*	5155	*	*	758	1291	6495	0	3681	
+
+G 78   4884	7268	*	*	4094	2529	5528	3693	2270	4071	*	4781	4970	6444	3534	3391	*	4228	4667	6994	78
+       90	6509	4336	2000	415	817	1209	6487	1000	3328	
+
+G 79   4101	*	4130	5393	3277	1913	3374	6838	2978	6693	6091	4583	*	*	6002	3733	6783	6273	*	3624	79
+       16	*	6473	*	*	1739	514	6455	0	3583	
+
+F 80   6059	5963	*	*	1750	*	4555	5234	*	3351	5668	6664	*	*	6975	5174	*	4994	3720	1591	80
+       74	6453	4699	2585	263	860	1155	6433	1000	3287	
+
+T 81   4617	*	*	*	2783	4218	*	2263	5620	1843	4944	*	6726	*	3998	4556	5423	5467	4061	*	81
+       0	*	*	*	*	*	0	6464	0	3353	
+
+K 82   4201	6473	5362	7434	6556	5269	3483	4809	1357	4615	4269	5212	6938	*	3490	3855	5525	5908	*	5161	82
+       138	*	3456	*	*	509	1749	6464	0	3353	
+
+E 83   5218	*	5251	3833	3710	3297	2261	7140	3967	7007	6915	4051	6414	7359	4939	2465	5657	*	5542	3842	83
+       26	6842	6752	2322	322	*	0	6386	1000	3802	
+
+L 84   5851	5926	*	5009	1920	5889	4236	3935	*	1890	4313	6144	*	*	*	5726	5149	4835	7169	3155	84
+       148	6767	3505	2000	415	405	2031	6380	1000	3934	
+
+T 85   3679	5434	*	*	1753	*	*	4004	5791	2283	5806	4243	5005	5216	*	5447	4563	3030	*	*	85
+       165	4013	4432	3220	164	930	1073	6458	2810	4029	
+
+L 86   5569	*	5741	4311	3431	5239	*	3302	4523	2490	5606	4985	2283	5210	6654	5326	6763	3265	4837	*	86
+       77	*	4265	*	*	2351	315	6431	0	3787	
+
+Q 87   5589	*	*	3861	6564	4065	5563	4306	4344	5057	6852	4092	1085	5264	5620	4670	5848	4871	*	6235	87
+       215	6054	3016	560	1636	2436	295	6403	1527	4037	
+
+P 88   4194	6321	6216	6593	5475	2128	4972	4181	3398	4487	*	*	2196	4648	6054	3689	6798	4887	5287	6359	88
+       43	*	5106	*	*	1908	447	6372	0	4741	
+
+F 89   5785	*	6606	5806	2736	1332	*	3570	6642	4605	4806	*	6353	*	*	4380	5107	3432	4612	6316	89
+       254	6629	2725	0	*	3337	150	6372	1000	4397	
+
+N 90   4505	5512	5377	*	5164	3204	5248	4752	3740	3655	5072	4140	3074	*	5106	3686	3011	3165	*	6901	90
+       87	6435	4403	1000	1000	4248	78	6272	1000	4992	
+
+H 91   3627	*	6211	5289	5238	3377	3436	*	4156	6695	*	4684	1514	*	6357	3489	5127	4615	4671	*	91
+       74	5359	5276	1301	751	2306	326	6235	1580	5168	
+
+W 92   6444	*	*	5992	4111	4281	6836	3571	3750	2497	5360	4240	4504	6168	5878	6686	4728	4664	1894	6526	92
+       66	*	4473	*	*	3103	179	6253	0	4897	
+
+A 93   2862	*	*	*	3615	4861	*	3938	4785	2668	5316	*	2421	6489	*	5585	6330	3363	4139	3690	93
+       0	*	*	*	*	2480	285	6252	0	4979	
+
+F 94   6553	*	*	6235	3201	5477	*	3044	6266	1109	3263	*	*	6500	5917	*	5206	3960	*	5388	94
+       57	4685	*	941	1061	1532	612	6290	2038	4706	
+
+I 95   2706	6374	6658	6451	4564	4655	6133	2893	5800	3245	4103	4096	6708	6350	*	4140	4637	3328	4930	3453	95
+       37	6528	6076	2000	415	1434	667	6394	1000	4269	
+
+P 96   4587	*	*	*	4180	5652	*	3963	5537	3574	5701	6654	771	*	*	6480	6375	4546	4936	*	96
+       16	6530	*	0	*	1034	967	6426	1000	3838	
+
+V 97   5270	*	*	*	2255	*	*	2172	6230	2217	3733	*	4540	*	*	*	6898	2489	6705	*	97
+       28	6743	6705	0	*	2959	199	6457	1000	2862	
+
+N 98   5256	*	6847	6843	3392	5770	*	3090	6744	2285	2052	3381	4657	6739	*	6489	4900	3641	*	*	98
+       44	6744	5610	1585	585	2744	233	6467	1000	3039	
+
+L 99   4020	*	5919	*	2843	3576	*	3145	*	2532	6648	6816	4880	*	*	4483	5786	2134	4300	5761	99
+       105	4055	6678	1971	425	2203	353	6479	2992	3255	
+
+I 100  5361	5025	*	*	4122	5933	*	3178	*	2266	5025	*	1761	*	*	*	6879	2538	4425	*	100
+       67	5642	5315	2159	366	1136	876	6509	1658	3173	
+
+L 101  5814	*	*	5148	4065	6764	*	1426	*	1605	4254	*	6257	6753	*	6214	5085	3909	*	*	101
+       25	5862	*	1001	999	1781	496	6575	1581	3297	
+
+E 102  6013	*	4396	775	6858	6621	4006	7014	4454	5446	*	2510	*	5655	*	*	*	*	*	*	102
+       58	6483	5144	0	*	1329	732	6587	1000	2713	
+
+G 103  5354	6213	*	6288	3989	6981	*	2139	6450	2078	4609	*	6243	*	*	4348	3354	2496	5336	*	103
+       0	*	*	*	*	1450	658	6579	0	2841	
+
+V 104  5870	*	*	6812	3635	*	*	1256	*	1930	*	*	*	*	*	5134	*	2442	*	*	104
+       30	7011	6305	0	*	2087	387	6584	1000	2202	
+
+S 105  4704	*	4762	2793	*	2465	*	*	5616	5725	*	*	6245	*	*	1177	4276	4919	5658	*	105
+       34	5409	*	0	*	*	0	6561	1705	2300	
+
+L 106  *	*	3926	2074	3647	*	4110	3436	5986	2981	5831	4304	6478	4665	5134	6999	6975	4774	6542	3136	106
+       17	*	6446	*	*	441	1926	6561	0	2300	
+
+L 107  6041	6325	*	*	1905	6838	*	2099	*	1635	*	*	7296	*	*	5242	7046	3484	6437	*	107
+       0	*	*	*	*	1039	962	6524	0	1577	
+
+S 108  2285	6551	*	*	4931	6019	*	2269	*	3994	5492	5625	*	*	*	2394	2932	3295	*	*	108
+       26	5828	*	1796	490	*	0	6543	1554	1000	
+
+K 109  *	*	*	*	7176	7124	7218	*	2008	5207	7296	4188	4255	5590	859	*	5805	*	*	*	109
+       0	*	*	*	*	0	*	6543	0	1000	
+
+P 110  3840	5372	*	*	4499	6528	6821	3066	*	3277	6797	*	862	*	*	*	6072	4459	*	*	110
+       0	*	*	*	*	*	*	6603	0	0	
+
+V 111  5429	6821	*	*	3088	*	*	1975	*	1611	4862	*	*	*	*	5249	6804	2329	*	*	111
+       0	*	*	*	*	*	*	6603	0	0	
+
+S 112  3364	*	*	*	*	*	*	*	*	*	*	5766	6496	*	*	859	1761	5206	*	*	112
+       0	*	*	*	*	*	*	6603	0	0	
+
+L 113  *	*	*	*	6043	*	4241	4229	*	291	5262	*	6496	6956	*	*	5939	*	*	*	113
+       0	*	*	*	*	*	*	6603	0	0	
+
+G 114  2245	5002	*	*	*	2588	*	6037	*	*	6528	*	*	*	*	1148	3262	6633	*	*	114
+       0	*	*	*	*	*	*	6603	0	0	
+
+L 115  4268	*	*	*	2434	*	*	2748	*	1702	3330	*	*	*	*	6496	5803	2487	*	*	115
+       0	*	*	*	*	*	*	6603	0	0	
+
+R 116  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	116
+       0	*	*	*	*	*	*	6603	0	0	
+
+L 117  *	*	*	*	6327	*	5883	4065	*	171	6112	*	*	6942	*	*	*	*	*	*	117
+       0	*	*	*	*	*	*	6603	0	0	
+
+F 118  3681	5265	*	*	800	7522	*	*	*	6528	4686	*	6496	*	*	4087	3816	5717	4718	3866	118
+       0	*	*	*	*	*	*	6603	0	0	
+
+G 119  1901	4910	*	*	*	1028	*	4417	*	5740	5323	*	6550	*	*	6309	5631	4178	5698	*	119
+       0	*	*	*	*	*	*	6603	0	0	
+
+N 120  5206	*	*	*	*	*	*	*	*	*	*	67	*	*	*	*	5777	*	*	*	120
+       0	*	*	*	*	*	*	6603	0	0	
+
+M 121  6327	*	*	*	6996	*	*	1208	*	3817	1439	*	*	*	*	*	*	3438	*	6078	121
+       0	*	*	*	*	*	*	6603	0	0	
+
+Y 122  6205	*	*	*	1863	*	*	3141	*	2240	3421	*	*	*	*	4336	3100	4028	*	3927	122
+       0	*	*	*	*	*	*	6603	0	0	
+
+A 123  599	*	*	*	*	2625	*	6288	*	*	6658	*	*	*	*	3074	5075	7213	*	*	123
+       9	*	7364	*	*	*	*	6603	0	0	
+
+G 124  4818	*	4439	6054	*	225	*	*	6099	*	*	*	*	*	*	5427	*	*	6686	*	124
+       29	5657	*	3215	164	*	0	6604	1451	1000	
+
+E 125  4199	*	4629	2169	5970	5814	1139	5835	5873	4693	*	*	*	7396	*	4001	5194	5255	*	*	125
+       0	*	*	*	*	*	0	6604	0	1000	
+
+L 126  4562	*	*	*	5078	*	*	1691	*	2020	3859	6319	*	*	*	6258	3413	2448	*	*	126
+       10	*	7239	*	*	*	0	6581	0	1000	
+
+I 127  6443	*	*	*	6961	*	*	1968	*	1269	3596	*	*	*	*	6257	6089	2325	*	*	127
+       37	5902	6885	1819	481	1085	920	6583	1566	1513	
+
+F 128  5688	6474	*	*	4782	6920	*	2777	*	1326	3000	*	*	*	*	6128	3816	2775	*	5405	128
+       36	5359	*	2762	230	1009	991	6577	2067	1521	
+
+I 129  2883	6883	5830	4118	5122	3103	3395	4176	3603	3302	5253	5646	*	*	*	3390	3594	4075	5801	*	129
+       29	*	5668	*	*	*	0	6582	0	1000	
+
+L 130  4043	*	*	*	6600	*	*	3093	6467	1429	3175	*	*	*	*	5065	4251	2140	6777	*	130
+       49	5654	6202	2322	322	1680	540	6568	1639	1756	
+
+I 131  6219	4911	*	*	3139	6858	*	1815	*	2005	3750	*	7251	*	*	6244	6923	2516	7097	6226	131
+       180	3219	6642	2717	238	*	0	6506	3911	2405	
+
+A 132  2408	*	*	6841	4418	3352	7241	5187	5967	3324	6689	5538	5410	6873	6686	2314	4288	4791	*	2768	132
+       76	4769	6063	2626	255	*	0	6495	2555	2552	
+
+G 133  4346	6926	*	6126	3757	1698	5225	5870	5937	4191	5617	3912	*	5650	6287	2656	4579	4651	6857	3997	133
+       45	5037	*	2514	278	1784	495	6496	1975	3052	
+
+L 134  3246	6784	*	*	2632	4447	6890	4125	*	1706	3421	5663	*	*	*	4835	4627	3784	*	4479	134
+       130	3709	6706	3358	148	2297	328	6498	3228	2602	
+
+L 135  3847	7260	*	*	2913	4345	*	2579	*	1956	4705	5402	*	*	*	4237	4592	2640	*	*	135
+       186	3513	4898	3420	142	2251	340	6489	3812	2651	
+
+P 136  3594	*	*	5404	3448	3225	*	5044	5493	3189	4837	4430	2450	4922	*	3236	4645	4450	4864	6737	136
+       135	5007	4107	3871	102	862	1152	6549	2617	3327	
+
+W 137  3714	*	*	6445	2407	2942	6193	3732	7109	3556	4601	5900	5676	4603	*	3438	5383	4715	3460	4363	137
+       107	4237	5752	2209	352	3050	186	6531	2474	3391	
+
+W 138  3955	*	*	6771	3105	5045	*	2699	*	2587	4461	*	4091	6219	*	4251	5155	2836	4128	3964	138
+       88	4235	7312	2919	205	*	0	6536	2841	3574	
+
+S 139  2968	*	*	*	3939	3319	5759	3489	*	2447	6981	4172	4384	5475	6363	4147	3584	3390	6935	5234	139
+       46	4989	*	3003	192	1281	765	6539	1991	3634	
+
+Q 140  3832	*	6247	6453	5291	3259	6611	4647	6972	3422	4797	5800	2484	4403	*	3099	3912	2721	6782	*	140
+       86	4385	6680	3078	182	500	1771	6581	2795	2830	
+
+W 141  4145	*	6655	*	2153	4040	*	3170	*	2241	7255	*	6977	*	*	4186	4561	3103	4207	4541	141
+       127	3795	6387	2557	269	508	1753	6576	3429	2036	
+
+I 142  3171	6295	*	*	4036	4519	*	2453	*	1777	4037	6280	4145	6783	*	4898	*	3209	5939	*	142
+       18	*	6339	*	*	0	*	6564	0	1555	
+
+L 143  3899	6624	*	*	3581	4161	*	2639	*	1834	4614	*	3468	*	*	5559	4666	2732	*	*	143
+       51	4853	*	2481	285	*	0	6561	2328	1000	
+
+N 144  4213	*	*	7340	4354	3113	6686	4320	*	3501	4924	4200	2109	4147	*	2907	5197	3794	*	5717	144
+       31	5574	*	1436	666	0	*	6561	1890	1000	
+
+V 145  4648	5635	*	*	3825	5850	*	2382	*	2184	3877	*	4674	*	*	4619	4413	2120	*	6031	145
+       91	4500	5912	2857	214	*	*	6580	2771	0	
+
+P 146  2439	*	*	6500	4193	3363	*	3941	*	2346	5848	7055	2057	*	*	6670	*	3110	*	*	146
+       66	4492	*	2469	287	*	0	6573	2706	1205	
+
+W 147  7234	6264	*	*	1554	5746	3676	3491	*	2688	4760	6988	*	6675	*	5521	6899	4671	2886	4656	147
+       22	6817	7309	2322	322	*	0	6506	1000	1205	
+
+A 148  3845	5705	6963	*	4418	5614	7087	3196	6741	2402	3440	*	6660	4693	*	4540	2799	3446	5143	3767	148
+       50	5423	6550	2235	345	714	1358	6576	1891	1671	
+
+I 149  3097	4580	*	*	2866	3082	*	3187	*	2628	3719	*	*	*	*	6745	*	3589	*	2775	149
+       24	5927	*	2432	296	1047	955	6569	1535	1555	
+
+F 150  6314	*	*	*	1075	*	*	5925	*	1538	3769	*	*	*	*	*	*	6698	5866	4275	150
+       96	3952	*	2237	344	*	0	6584	3215	1000	
+
+H 151  *	*	2517	791	*	3690	4621	*	6020	*	*	5897	*	*	*	3678	5735	*	*	*	151
+       14	*	6683	*	*	0	*	6575	0	1000	
+
+I 152  5480	6061	*	*	3381	6335	*	2292	*	1411	3305	*	*	*	*	*	5480	2904	6767	7060	152
+       15	6625	*	0	*	*	0	6559	1000	1000	
+
+L 153  3897	5273	*	*	1197	4001	*	3724	*	2196	4498	*	*	*	*	*	*	3829	*	*	153
+       0	*	*	*	*	*	0	6559	0	1000	
+
+I 154  5068	*	4090	5501	6960	5072	6278	2575	*	7162	5784	7336	*	*	*	4050	4941	871	*	*	154
+       0	*	*	*	*	0	*	6559	0	1000	
+
+I 155  1660	3581	7071	*	7202	1327	*	6034	*	5420	6273	*	*	6896	*	2974	*	*	*	*	155
+       0	*	*	*	*	*	*	6571	0	0	
+
+T 156  3381	3640	*	*	1986	4437	*	3378	*	2723	6985	*	6407	*	*	5551	4101	2779	*	4938	156
+       0	*	*	*	*	*	*	6571	0	0	
+
+L 157  *	*	*	*	6541	*	*	1152	*	1345	6916	*	*	*	*	6258	*	3009	*	*	157
+       0	*	*	*	*	*	*	6571	0	0	
+
+Q 158  *	*	*	*	*	*	6055	*	*	*	*	*	*	22	*	*	*	*	*	*	158
+       0	*	*	*	*	*	*	6571	0	0	
+
+A 159  409	*	*	*	*	4760	*	*	*	*	6505	*	6314	*	*	3116	3817	*	*	*	159
+       0	*	*	*	*	*	*	6571	0	0	
+
+F 160  7311	*	*	*	2252	5482	6258	6087	*	2959	4260	*	*	6538	*	6479	6432	4201	*	1105	160
+       0	*	*	*	*	*	*	6571	0	0	
+
+I 161  *	*	*	*	*	*	*	1353	*	6195	*	*	*	*	*	*	*	749	*	*	161
+       0	*	*	*	*	*	*	6571	0	0	
+
+F 162  *	*	*	*	128	*	*	5442	*	5053	*	*	*	*	*	*	*	7120	*	5355	162
+       0	*	*	*	*	*	*	6556	0	0	
+
+M 163  3711	3777	*	*	4660	4990	*	5344	*	4610	4841	6497	*	*	*	2501	1547	2875	*	6253	163
+       0	*	*	*	*	*	*	6556	0	0	
+
+V 164  *	*	*	*	3460	5728	*	2355	6595	1797	2995	5784	*	*	7202	4962	3051	3420	*	*	164
+       0	*	*	*	*	*	*	6498	0	0	
+
+L 165  *	*	*	*	*	*	*	5852	*	25	*	*	*	*	*	*	*	*	*	*	165
+       0	*	*	*	*	*	*	6498	0	0	
+
+T 166  3668	6754	*	*	6320	*	*	5354	*	3098	3851	*	*	*	*	2093	1276	4588	*	*	166
+       0	*	*	*	*	*	*	6498	0	0	
+
+I 167  2389	4434	*	*	5473	4830	*	3397	6035	3559	4057	5314	*	*	*	2057	3468	3682	*	5941	167
+       0	*	*	*	*	*	*	6498	0	0	
+
+V 168  3693	*	*	*	5958	6732	*	2457	*	2078	5045	*	*	6995	*	4001	3862	1695	*	*	168
+       0	*	*	*	*	*	*	6498	0	0	
+
+Y 169  *	*	*	*	2329	*	*	*	*	6758	*	*	*	*	*	*	*	*	*	337	169
+       0	*	*	*	*	*	*	6472	0	0	
+
+L 170  *	*	*	*	3465	*	*	1258	*	2133	3792	*	*	*	*	5501	6539	3207	5083	5600	170
+       0	*	*	*	*	*	*	6303	0	0	
+
+S 171  2019	*	*	*	*	*	*	*	*	*	*	2834	*	*	*	706	*	*	*	*	171
+       0	*	*	0	*	*	*	5730	0	0	
+
+//

@@ -1,0 +1,215 @@
+Query         d1y0ka1 c.52.1.31 (A:1-209) Hypothetical protein PA4535 {Pseudomonas aeruginosa [TaxId: 287]}
+Match_columns 209
+No_of_seqs    11 out of 13
+Neff          2.2 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:37 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1y0ka1.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1y0ka1.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1y0ka1 c.52.1.31 (A:1-209) Hy 100.0       0       0  752.6  18.9  209    1-209     1-209 (209)
+  2 d1g7oa1 a.45.1.1 (A:76-215) Gl  29.4      40  0.0029   13.2   4.4   64   95-166    57-124 (140)
+  3 2gb7_A R.ECL18KI; ECL18KI-DNA   22.1      42  0.0031   13.0   3.5   79   33-116    13-106 (151)
+  4 d1vsra_ c.52.1.15 (A:) Very sh  20.8      31  0.0022   13.8   2.5   96   32-129     4-123 (134)
+  5 d1f9ya_ d.58.30.1 (A:) 6-hydro  17.8      25  0.0018   14.4   1.5   32  126-160    86-117 (158)
+  6 d1cbka_ d.58.30.1 (A:) 6-hydro  16.9      27   0.002   14.2   1.5   31  126-159    86-116 (160)
+  7 d1pxva_ d.3.1.1 (A:) Staphopai  14.7      44  0.0032   12.9   2.2   70   92-165    34-103 (183)
+  8 d1p6xa_ c.37.1.1 (A:) Thymidin  12.9 1.6E+02   0.012    9.5   4.6    1  153-153   288-288 (333)
+  9 d1cmra_ g.3.7.2 (A:) Charybdot  12.2      38  0.0027   13.3   1.2   10   29-38      5-15  (31)
+ 10 d3e9oa1 c.55.3.14 (A:1835-2087   9.3      90  0.0065   11.1   2.3   67   81-151    68-139 (253)
+
+No 1  
+>d1y0ka1 c.52.1.31 (A:1-209) Hypothetical protein PA4535 {Pseudomonas aeruginosa [TaxId: 287]}
+Probab=100.00  E-value=0  Score=752.64  Aligned_columns=209  Identities=100%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCHHHHHHCCCEEEEECCCCCCCCH
+Q ss_conf             97046899999999998998861367536788999999870884341223575446423533403603655036300001
+Q d1y0ka1           1 MNEADYLRLLTRQAEQANDFLSNARKWDRERWVCQRFLEALNVPYRQEDFAAPGEQPPDVLFKGAGFEVFFVLDEGRRLN   80 (209)
+Q Consensus         1 m~d~dyl~ll~~~aeqan~flSnarKweRERWvc~rflq~lni~y~~~~f~~p~~eppDvlfrd~~Fev~~vLdegrRln   80 (209)
+                      |||||||++||+||||||+||||||||||||||||+|||+|||+|+++||+||+||||||+||||+||||||||||||+|
+T Consensus         1 m~d~dyl~ll~~~aeqan~flSnarKweRERWvc~rflq~lni~y~~~~f~~p~~eppDvlfrd~~Fev~~vLdegrRln   80 (209)
+T d1y0ka1           1 MNEADYLRLLTRQAEQANDFLSNARKWDRERWVCQRFLEALNVPYRQEDFAAPGEQPPDVLFKGAGFEVFFVLDEGRRLN   80 (209)
+T ss_pred             CCCHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCHHHHHHCCCEEEEECCCCCCCCH
+T ss_conf             97046899999999998998861367536788999999870884341223575446423533403603655036300001
+
+
+Q ss_pred             HHHHHHHHHHHHHCCHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCC
+Q ss_conf             45679998877513789998542054568988999998899999885334305871110311112256764322789987
+Q d1y0ka1          81 EEWREELTRRRQAVSLRQLIRREERPQRIAAAELQARLAPTLRKKAHNYSERGIDHGELDLLAFVNLKRAVPDFNTPFPP  160 (209)
+Q Consensus        81 dewr~eLqrrr~a~sl~~lvrre~~pkri~~~el~~rL~ptL~kka~ny~erg~~~~~LDlla~~~Lkre~ld~n~~fpp  160 (209)
+                      ||||+||||||+|+||+||||||++||||||+|+++||||||+||||||+|||+||||||||||+|||||++|+||||||
+T Consensus        81 dewr~eLqrrr~a~sl~~lvrre~~pkri~~~el~~rL~ptL~kka~ny~erg~~~~~LDlla~~~Lkre~ld~n~~fpp  160 (209)
+T d1y0ka1          81 EEWREELTRRRQAVSLRQLIRREERPQRIAAAELQARLAPTLRKKAHNYSERGIDHGELDLLAFVNLKRAVPDFNTPFPP  160 (209)
+T ss_pred             HHHHHHHHHHHHHCCHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCC
+T ss_conf             45679998877513789998542054568988999998899999885334305871110311112256764322789987
+
+
+Q ss_pred             CHHHHHHHHHHHHHHHCCCEEEEEECCCCHHHHHHHHHHHHHHHCCCCC
+Q ss_conf             0467875456677652121045662587528888620132124301259
+Q d1y0ka1         161 PTEYLRQGWRSLSMVGPTFARVLFAHSGAPEFLRANLGRSILFDAGVGL  209 (209)
+Q Consensus       161 pte~lr~GWRSlS~v~p~fArVlfa~~dAP~fLr~~lgr~v~~d~g~~l  209 (209)
+                      |||||||||||||+||||||||||||||||+|||+||||||+||+||||
+T Consensus       161 pte~lr~GWRSlS~v~p~fArVlfa~~dAP~fLr~~lgr~v~~d~g~~l  209 (209)
+T d1y0ka1         161 PTEYLRQGWRSLSMVGPTFARVLFAHSGAPEFLRANLGRSILFDAGVGL  209 (209)
+T ss_pred             CHHHHHHHHHHHHHHHCCCEEEEEECCCCHHHHHHHHHHHHHHHCCCCC
+T ss_conf             0467875456677652121045662587528888620132124301259
+
+
+No 2  
+>d1g7oa1 a.45.1.1 (A:76-215) Glutaredoxin 2 {Escherichia coli [TaxId: 562]}
+Probab=29.41   E-value=40  Score=13.18  Aligned_columns=64  Identities=16%
+
+Q ss_pred             CHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHH---CCCCCHHHHHHHHHHHHHHHHCCCCCCCC-HHHHH
+Q ss_conf             78999854205456898899999889999988533430---58711103111122567643227899870-46787
+Q d1y0ka1          95 SLRQLIRREERPQRIAAAELQARLAPTLRKKAHNYSER---GIDHGELDLLAFVNLKRAVPDFNTPFPPP-TEYLR  166 (209)
+Q Consensus        95 sl~~lvrre~~pkri~~~el~~rL~ptL~kka~ny~er---g~~~~~LDlla~~~Lkre~ld~n~~fppp-te~lr  166 (209)
+                      |..+++..        ..+++..+.+.|.+.+..-...   +-.+|-=||+.|.-|..=..--|+.||+. ..|+.
+T Consensus        57 ~F~~~l~~--------t~~~~~~l~~~L~~L~~ll~~~~~~~~~LS~dDi~lFp~LR~LtiVkgi~~P~~v~~Y~~  124 (140)
+T d1g7oa1          57 NFADLLAH--------SDGLIKNISDDLRALDKLIVKPNAVNGELSEDDIQLFPLLRNLTLVAGINWPSRVADYRD  124 (140)
+T ss_pred             CHHHHHHH--------HHHHHHHHHHHHHHHHHHHHCCCCCCCCCCHHHHHHHHHHHHHHHHCCCCCCHHHHHHHH
+T ss_conf             98999971--------199999999999999998614545677664899999888852002136878888999999
+
+
+No 3  
+>2gb7_A R.ECL18KI; ECL18KI-DNA complex, type II restriction endonuclea
+Probab=22.15   E-value=42  Score=13.01  Aligned_columns=79  Identities=9%
+
+Q ss_pred             HHHHHHHHCCCCCCCCCCC-------CCCCCCHHHHH------HCCCEEEEECCCCCCCCHHHHHHHHHHHHH--HCCHH
+Q ss_conf             9999998708843412235-------75446423533------403603655036300001456799988775--13789
+Q d1y0ka1          33 VCQRFLEALNVPYRQEDFA-------APGEQPPDVLF------KGAGFEVFFVLDEGRRLNEEWREELTRRRQ--AVSLR   97 (209)
+Q Consensus        33 vc~rflq~lni~y~~~~f~-------~p~~eppDvlf------rd~~Fev~~vLdegrRlndewr~eLqrrr~--a~sl~   97 (209)
+                      ....++...||+|..+-.+       +-....||-+|      .+-.+.. .+|---+-+.|-||.-|...-.  +-.+ 
+T Consensus        13 hl~~if~~~gi~~~~q~~~~~~~~~~tE~~kkpDFifP~~~~y~~~~~~~-~~lsaKtTlreRWrQvl~Ea~r~~i~~~-   90 (151)
+T 2gb7_A           13 ILELLMMGAGIPVDVQGAIGKSFFQKNQIGKLVDLVMPGVVQYTSNKRNT-MLISAKTTLRERWQEVPEEVNRTGIREM-   90 (151)
+T ss_pred             HHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCEECCCHHHHHCCCCCE-EEEEECCHHHHHHHHHHHHHHHCCCCEE-
+T ss_conf             99999985088422123345420000134565534417655520677766-8897310024677777767875038816-
+
+
+Q ss_pred             HHHHHHCCCCCCCHHHHHH
+Q ss_conf             9985420545689889999
+Q d1y0ka1          98 QLIRREERPQRIAAAELQA  116 (209)
+Q Consensus        98 ~lvrre~~pkri~~~el~~  116 (209)
+                      -|+  + ....|+.+++..
+T Consensus        91 ~L~--T-L~~~IS~~q~~e  106 (151)
+T 2gb7_A           91 YLA--T-LDDSFSEETINI  106 (151)
+T ss_pred             EEE--E-CCCCCCHHHHHH
+T ss_conf             898--5-179988889999
+
+
+No 4  
+>d1vsra_ c.52.1.15 (A:) Very short patch repair (VSR) endonuclease {Escherichia coli [TaxId: 562]}
+Probab=20.84   E-value=31  Score=13.84  Aligned_columns=96  Identities=19%
+
+Q ss_pred             HHHHHHHHHCCCCCCCCCCCCCCCCCHHHHHHCCCEEEEEC-----------CCCCCCCHHHHHHHHHHHH--HHCCHHH
+Q ss_conf             89999998708843412235754464235334036036550-----------3630000145679998877--5137899
+Q d1y0ka1          32 WVCQRFLEALNVPYRQEDFAAPGEQPPDVLFKGAGFEVFFV-----------LDEGRRLNEEWREELTRRR--QAVSLRQ   98 (209)
+Q Consensus        32 Wvc~rflq~lni~y~~~~f~~p~~eppDvlfrd~~Fev~~v-----------LdegrRlndewr~eLqrrr--~a~sl~~   98 (209)
+                      ..+-+.|-+.|+.|+.+.=.-||  .||.+|..-+--||.=           -.--.-..+=|.+++++-+  -....+.
+T Consensus         4 ~~vR~~L~~~G~RyRl~~k~lpG--kPDiv~~~~k~aIFv~GCFWHgh~c~~~~~Pktn~efW~~Ki~~N~~RD~~~~~~   81 (134)
+T d1vsra_           4 KRLASLLTGQGLAFRVQDASLPG--RPDFVVDEYRCVIFTHGCFWHHHHCYLFKVPATRTEFWLEKIGKNVERDRRDISR   81 (134)
+T ss_pred             HHHHHHHHHCCCEEEECCCCCCC--CCCEEECCCCEEEEEEHHHHCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHH
+T ss_conf             88999998779807536888899--7666643775688865242205798887668763788899999989999999999
+
+
+Q ss_pred             HHHH----------HCCCC-CCCHHHHHHHHHHHHHHHHHHH
+Q ss_conf             9854----------20545-6898899999889999988533
+Q d1y0ka1          99 LIRR----------EERPQ-RIAAAELQARLAPTLRKKAHNY  129 (209)
+Q Consensus        99 lvrr----------e~~pk-ri~~~el~~rL~ptL~kka~ny  129 (209)
+                      |...          |.+.+ +.+..++..+|..-|...+...
+T Consensus        82 L~~~GW~Vl~vWEC~lk~~~k~~~~~~~~~l~~~l~~~~~~~  123 (134)
+T d1vsra_          82 LQELGWRVLIVWECALRGREKLTDEALTERLEEWICGEGASA  123 (134)
+T ss_pred             HHHCCCEEEEEEECCCCCCCCCCHHHHHHHHHHHHHCCCCCC
+T ss_conf             997499189997302078555888899999999973688531
+
+
+No 5  
+>d1f9ya_ d.58.30.1 (A:) 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase, HPPK {Escherichia coli [TaxId: 562]}
+Probab=17.80   E-value=25  Score=14.40  Aligned_columns=32  Identities=25%
+
+Q ss_pred             HHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCC
+Q ss_conf             85334305871110311112256764322789987
+Q d1y0ka1         126 AHNYSERGIDHGELDLLAFVNLKRAVPDFNTPFPP  160 (209)
+Q Consensus       126 a~ny~erg~~~~~LDlla~~~Lkre~ld~n~~fpp  160 (209)
+                      .+.|.+|-+|+   |||.|-+..-.-.++.+|-|-
+T Consensus        86 ~~~~gpRtiDl---DIL~~~~~~~~~~~L~iPHp~  117 (158)
+T d1f9ya_          86 AERWGPRTLDL---DIMLFGNEVINTERLTVPHYD  117 (158)
+T ss_pred             CCCCCCCEEEE---EEEECCCEEECCCCCEECCHH
+T ss_conf             65468810354---665058806527864517756
+
+
+No 6  
+>d1cbka_ d.58.30.1 (A:) 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase, HPPK {Haemophilus influenzae [TaxId: 727]}
+Probab=16.88   E-value=27  Score=14.16  Aligned_columns=31  Identities=26%
+
+Q ss_pred             HHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCC
+Q ss_conf             8533430587111031111225676432278998
+Q d1y0ka1         126 AHNYSERGIDHGELDLLAFVNLKRAVPDFNTPFP  159 (209)
+Q Consensus       126 a~ny~erg~~~~~LDlla~~~Lkre~ld~n~~fp  159 (209)
+                      ...|.+|-+|   +|||+|-+...+..++-.|-|
+T Consensus        86 ~~~~g~R~lD---iDil~~~~~v~~~~~L~lPHp  116 (160)
+T d1cbka_          86 LRRWGERTLD---LDILLYGNEIIQNERLTIPHY  116 (160)
+T ss_pred             CCCCCCCCEE---EEEECCCCCEECCCCCEECCC
+T ss_conf             7666673014---354427880551764364572
+
+
+No 7  
+>d1pxva_ d.3.1.1 (A:) Staphopain SspB {Staphylococcus aureus [TaxId: 1280]}
+Probab=14.67   E-value=44  Score=12.90  Aligned_columns=70  Identities=9%
+
+Q ss_pred             HHCCHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCCCHHHH
+Q ss_conf             51378999854205456898899999889999988533430587111031111225676432278998704678
+Q d1y0ka1          92 QAVSLRQLIRREERPQRIAAAELQARLAPTLRKKAHNYSERGIDHGELDLLAFVNLKRAVPDFNTPFPPPTEYL  165 (209)
+Q Consensus        92 ~a~sl~~lvrre~~pkri~~~el~~rL~ptL~kka~ny~erg~~~~~LDlla~~~Lkre~ld~n~~fpppte~l  165 (209)
+                      +++.|+.+|.....-..++|++++..+.|.+.-++..+  .|.-+  -++|-|..-+--.++...-+|+..+--
+T Consensus        34 a~Ya~aailN~~~~~~~~~Ak~imk~~yPn~s~~eL~~--~~~~~--~~~i~y~~s~g~~~~~~nr~~s~~eVk  103 (183)
+T d1pxva_          34 AGFSMAALLNATKNTDTYNAHDIMRTLYPEVSEQDLPN--CATFP--NQMIEYGKSQGRDIHYQEGVPSYNQVD  103 (183)
+T ss_pred             HHHHHHHHHHHHCCCCCCCHHHHHHHHCCCCCHHHHHC--CCCCH--HHHHHHHHHHCCCCEECCCCCCHHHHH
+T ss_conf             78999998852037764348899998657987466302--68898--999999987287411115887888988
+
+
+No 8  
+>d1p6xa_ c.37.1.1 (A:) Thymidine kinase {Equine herpesvirus type 4 [TaxId: 10331]}
+Probab=12.95   E-value=1.6e+02  Score=9.55  Aligned_columns=1  Identities=100%
+
+Q ss_pred             H
+Q ss_conf             2
+Q d1y0ka1         153 D  153 (209)
+Q Consensus       153 d  153 (209)
+                      |
+T Consensus       288 d  288 (333)
+T d1p6xa_         288 D  288 (333)
+T ss_pred             C
+T ss_conf             1
+
+
+No 9  
+>d1cmra_ g.3.7.2 (A:) Charybdotoxin {Scorpion (Leiurus quinquestriatus hebraeus) [TaxId: 6884]}
+Probab=12.24   E-value=38  Score=13.32  Aligned_columns=10  Identities=60%
+
+Q ss_pred             HHHH-HHHHHH
+Q ss_conf             6788-999999
+Q d1y0ka1          29 RERW-VCQRFL   38 (209)
+Q Consensus        29 RERW-vc~rfl   38 (209)
+                      .|+| ||||+-
+T Consensus         5 kecwsvcqrlh   15 (31)
+T d1cmra_           5 KECWSVCQRLH   15 (31)
+T ss_pred             HHHHHHHHHHH
+T ss_conf             56799998861
+
+
+No 10 
+>d3e9oa1 c.55.3.14 (A:1835-2087) Pre-mRNA-splicing factor 8, Prp8 {Saccharomyces cerevisiae [TaxId: 4932]}
+Probab=9.28    E-value=90  Score=11.07  Aligned_columns=67  Identities=19%
+
+Q ss_pred             HHHHHHHHHHHHHCCHHHHHH---HHCCCCCCCHH--HHHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHH
+Q ss_conf             456799988775137899985---42054568988--999998899999885334305871110311112256764
+Q d1y0ka1          81 EEWREELTRRRQAVSLRQLIR---REERPQRIAAA--ELQARLAPTLRKKAHNYSERGIDHGELDLLAFVNLKRAV  151 (209)
+Q Consensus        81 dewr~eLqrrr~a~sl~~lvr---re~~pkri~~~--el~~rL~ptL~kka~ny~erg~~~~~LDlla~~~Lkre~  151 (209)
+                      +-.+..|.|-+.|+....|+|   .|..||.|-..  ..+|-|+..    -..|..-.+..++|++-|-+.+|-+-
+T Consensus        68 QKRl~qlakwktAeEv~alirSlP~eEqPkqiIVtrk~mldple~~----lldfPnI~Ik~sel~lpF~~~lki~k  139 (253)
+T d3e9oa1          68 QKRLSQLAKWKTAEEVSALVRSLPKEEQPKQIIVTRKAMLDPLEVH----MLDFPNIAIRPTELRLPFSAAMSIDK  139 (253)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHCCHHHCCCEEEEECHHHHHHHHHH----HHHCCCCEEECCCCCCCHHHHHHHHH
+T ss_conf             3566678877649999999973573145875999616667889987----53168623533546510787510455
+
+
+Done!

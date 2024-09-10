@@ -1,0 +1,106 @@
+HHsearch 1.5
+NAME  d2heyr2 g.24.1.1 (R:143-166) Tumor necrosis factor receptor superfamily member 4,  OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.1
+FILE  d2heyr2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2heyr2.a3m -v 1 
+DATE  Tue Jan 22 07:07:38 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCEECC
+>ss_conf
+98665555542216677887510039
+>Consensus
+pwtnctxagkxtxxpasnssdaicxx
+>d2heyr2 g.24.1.1 (R:143-166) Tumor necrosis factor receptor superfamily member 4,  OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+PWTNCTLAGKHTLQPASNSSDAICXX
+>gi|403297748|ref|XP_003939714.1|(139-162:273) PREDICTED: tumor necrosis factor receptor superfamily member 4 [Saimiri boliviensis boliviensis]  E=0.0006 s/c=1.97 id=84% cov=96%
+PWTNCTLAGKSTQQPASNSSDAVC--
+>gi|395840775|ref|XP_003793227.1|(144-167:278) PREDICTED: tumor necrosis factor receptor superfamily member 4 [Otolemur garnettii]  E=0.0007 s/c=1.96 id=84% cov=96%
+PWTNCSAAGKHTLYPASNSSDAIC--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1175	0	0	
+
+W 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	2
+       0	*	*	*	*	*	*	1175	0	0	
+
+T 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	3
+       0	*	*	*	*	*	*	1175	0	0	
+
+N 4    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1175	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1175	0	0	
+
+T 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1541	608	*	*	*	6
+       0	*	*	*	*	*	*	1175	0	0	
+
+L 7    1541	*	*	*	*	*	*	*	*	608	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1175	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1175	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1175	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1175	0	0	
+
+H 11   *	*	*	*	*	*	608	*	*	*	*	*	*	*	*	1541	*	*	*	*	11
+       0	*	*	*	*	*	*	1175	0	0	
+
+T 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	12
+       0	*	*	*	*	*	*	1175	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	608	*	*	*	1541	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1175	0	0	
+
+Q 14   *	*	*	*	*	*	*	*	*	*	*	*	*	608	*	*	*	*	*	1541	14
+       0	*	*	*	*	*	*	1175	0	0	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1175	0	0	
+
+A 16   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1175	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	17
+       0	*	*	*	*	*	*	1175	0	0	
+
+N 18   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1175	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1175	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	20
+       0	*	*	*	*	*	*	1175	0	0	
+
+D 21   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1175	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1175	0	0	
+
+I 23   *	*	*	*	*	*	*	608	*	*	*	*	*	*	*	*	*	1541	*	*	23
+       0	*	*	*	*	*	*	1175	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1175	0	0	
+
+X 25   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	25
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

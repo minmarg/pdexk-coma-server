@@ -1,0 +1,130 @@
+HHsearch 1.5
+NAME  d1q90g_ f.23.26.1 (G:) PetG subunit of the cytochrome b6f complex {Chlamydomonas reinhardtii [TaxId: 3055]}
+FAM   f.23.26.1
+FILE  d1q90g_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1q90g_.a3m -v 1 
+DATE  Tue Jan 22 00:52:04 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  39 out of 41 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+>ss_conf
+925899999999999999999999998629
+>Consensus
+mvEpllxGivlGliPvTlxGlfvxAylQyx
+>d1q90g_ f.23.26.1 (G:) PetG subunit of the cytochrome b6f complex {Chlamydomonas reinhardtii [TaxId: 3055]}
+MVEPLLCGIVLGLVPVTIAGLFVTAYLQYL
+>gi|428300955|ref|YP_007139261.1|(9-37:45) Cytochrome b6-f complex subunit 5 [Calothrix sp. PCC 6303] >gi|428237499|gb|AFZ03289.1| Cytochrome b6-f complex subunit 5 [Calothrix sp. PCC 6303]  E=0.0002 s/c=1.69 id=70% cov=100%
+VIEPLLCGIVLGLIPITLAGLFYKAYVQY-
+>gi|116073103|ref|ZP_01470365.1|(11-39:47) cytochrome b6-f complex subunit V [Synechococcus sp. RS9916] >gi|116068408|gb|EAU74160.1| cytochrome b6-f complex subunit V [Synechococcus sp. RS9916]  E=0.0002 s/c=1.69 id=73% cov=100%
+MIEPLLCGIVLGLIPVTLLGLFVAAWNQY-
+>gi|226968657|ref|YP_002808617.1|(1-29:37) cytochrome b6-f complex subunit V [Micromonas sp. RCC299] >gi|226431135|gb|ACO55541.1| cytochrome b6-f complex subunit V [Micromonas sp. RCC299]  E=0.0003 s/c=1.66 id=73% cov=100%
+MIEALLFGIVLGMIPVTLSGLFVTAYLQY-
+>gi|215400808|ref|YP_002327569.1|(1-29:37) cytochrome b6/f complex subunit 5 [Vaucheria litorea] >gi|194441258|gb|ACF70986.1| cytochrome b6/f complex subunit 5 [Vaucheria litorea]  E=0.0004 s/c=1.66 id=77% cov=100%
+MIEPLLFGIVLGIVPVTIIGLFIAAYLQY-
+>gi|218440585|ref|YP_002378914.1|(1-29:38) cytochrome b6-f complex subunit PetG [Cyanothece sp. PCC 7424] >gi|226700214|sp|B7KHU9.1|PETG_CYAP7 RecName: Full=Cytochrome b6-f complex subunit 5; AltName: Full=Cytochrome b6-f complex subunit PetG; AltName: Full=Cytochrome b6-f complex subunit V >gi|218173313|gb|ACK72046.1| cytochrome b6/f complex subunit 5 [Cyanothece sp. PCC 7424]  E=0.0004 s/c=1.65 id=70% cov=100%
+MIEPLVLGLVMGLVPITLAGLFVAAYLQY-
+>gi|11465784|ref|NP_053928.1|(1-29:37) cytochrome b6/f complex subunit V [Porphyra purpurea] >gi|1730496|sp|P51318.1|PETG_PORPU RecName: Full=Cytochrome b6-f complex subunit 5; AltName: Full=Cytochrome b6-f complex subunit PetG; AltName: Full=Cytochrome b6-f complex subunit V >gi|1276784|gb|AAC08204.1| Cytochrome b6-f complex subunit 5 (chloroplast) [Porphyra purpurea] >gi|378787355|gb|AFC39986.1| cytochrome b6/f complex subunit V [Porphyra umbilicalis]  E=0.0004 s/c=1.65 id=73% cov=100%
+MVEPLLSGIILGLIPVTLSGLLVAAYLQY-
+>gi|11466998|ref|NP_041905.1|(1-30:37) cytochrome b6/f complex subunit V [Euglena gracilis] >gi|266749|sp|P30396.1|PETG_EUGGR RecName: Full=Cytochrome b6-f complex subunit 5; AltName: Full=Cytochrome b6-f complex subunit PetG; AltName: Full=Cytochrome b6-f complex subunit V >gi|14359|emb|CAA77909.1| PET subunit V [Euglena gracilis] >gi|415748|emb|CAA50092.1| cytochrome b6-f complex, subunit V [Euglena gracilis]  E=0.0005 s/c=1.58 id=71% cov=103%
+MVETLLSGIILGLIPITICGLFFTAYLQYM
+>gi|308746062|ref|YP_003934577.1|(1-29:38) cytochrome b6/f complex subunit V [Cheilanthes lindheimeri] >gi|302375495|gb|ADL29869.1| cytochrome b6/f complex subunit V [Cheilanthes lindheimeri]  E=0.0007 s/c=1.62 id=73% cov=100%
+MVEASLSGIVLGSIPITLAGLFVTAYLQY-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	77	*	*	*	*	*	*	4259	*	*	1
+       0	*	*	*	*	*	*	1573	0	0	
+
+V 2    *	*	*	*	*	*	*	1102	*	*	*	*	*	*	*	*	*	905	*	*	2
+       0	*	*	*	*	*	*	1573	0	0	
+
+E 3    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1573	0	0	
+
+P 4    3255	*	*	*	*	*	*	*	*	*	*	*	520	*	*	4997	3057	4433	*	*	4
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 5    *	*	*	*	*	*	*	5112	*	129	*	*	*	*	*	4145	*	*	*	*	5
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	147	*	*	*	*	*	*	*	3364	*	*	6
+       0	*	*	*	*	*	*	1573	0	0	
+
+C 7    5283	1964	*	*	3079	*	*	*	*	2988	*	*	*	*	*	1078	*	*	*	*	7
+       0	*	*	*	*	*	*	1573	0	0	
+
+G 8    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1573	0	0	
+
+I 9    *	*	*	*	*	*	*	89	*	4061	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1573	0	0	
+
+V 10   *	*	*	*	*	*	*	4063	*	*	*	*	*	*	*	*	4749	147	*	*	10
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	89	4061	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1573	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 13   *	*	*	*	*	*	*	4918	*	213	3769	*	*	*	*	5013	*	*	*	*	13
+       0	*	*	*	*	*	*	1573	0	0	
+
+V 14   *	*	*	*	*	*	*	795	*	*	4198	*	*	*	*	*	*	1437	*	*	14
+       0	*	*	*	*	*	*	1573	0	0	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1573	0	0	
+
+V 16   4910	*	*	*	*	*	*	1054	*	*	*	*	*	*	*	*	*	1044	*	*	16
+       0	*	*	*	*	*	*	1573	0	0	
+
+T 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	17
+       0	*	*	*	*	*	*	1573	0	0	
+
+I 18   *	*	*	*	*	*	*	1754	*	507	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1573	0	0	
+
+A 19   899	5067	*	*	*	*	*	3589	*	3968	5457	*	*	*	*	3548	3305	3692	*	*	19
+       0	*	*	*	*	*	*	1573	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 21   *	*	*	*	*	*	*	5158	*	92	*	*	*	*	*	4883	*	*	*	*	21
+       0	*	*	*	*	*	*	1573	0	0	
+
+F 22   *	*	*	*	83	*	*	*	*	4163	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1573	0	0	
+
+V 23   *	*	*	*	4313	*	*	4918	*	*	5522	*	*	*	*	*	5184	295	*	4259	23
+       0	*	*	*	*	*	*	1573	0	0	
+
+T 24   1113	*	*	*	*	*	*	*	4259	*	*	*	*	*	*	4369	1194	*	*	*	24
+       0	*	*	*	*	*	*	1573	0	0	
+
+A 25   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1573	0	0	
+
+Y 26   *	*	*	*	4100	*	*	*	*	*	*	*	*	*	*	*	*	*	2870	313	26
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	503	4910	3170	*	3970	*	4883	*	4259	*	*	27
+       0	*	*	*	*	*	*	1573	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1573	0	0	
+
+Y 29   *	*	*	*	4865	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50	29
+       0	*	*	*	*	*	*	1573	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	1000	1000	*	*	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1203	0	0	
+
+//

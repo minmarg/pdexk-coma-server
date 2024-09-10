@@ -1,0 +1,132 @@
+HHsearch 1.5
+NAME  d1j2oa1 g.39.1.3 (A:1-30) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1j2oa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1j2oa1.a3m -v 1 
+DATE  Mon Jan 21 22:06:38 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  104 out of 112 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHHHHHCCCC
+>ss_conf
+998877788883406888889865302459
+>Consensus
+GsxxxCaGCxxxIxDRflLxalDrxWHxxC
+>d1j2oa1 g.39.1.3 (A:1-30) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+GSLLTCGGCQQNIGDRYFLKAIDQYWHEDC
+>gi|49659006|emb|CAD37944.1|(114-143:342) homeobox protein LHX [Suberites domuncula]   E=0.0002 s/c=1.61 id=42% cov=103%
+GNIPCCAGCHHPIVDRFILKVLDKPWHSKC
+>gi|391348067|ref|XP_003748273.1|(95-124:365) PREDICTED: insulin gene enhancer protein isl-1-like [Metaseiulus occidentalis]  E=5e-08 s/c=2.01 id=55% cov=103%
+GAQPECAGCQKPIRERYLLRALDQLWHEDC
+>gi|170039913|ref|XP_001847762.1|(79-108:174) conserved hypothetical protein [Culex quinquefasciatus] >gi|167863504|gb|EDS26887.1| conserved hypothetical protein [Culex quinquefasciatus]  E=2e-06 s/c=1.83 id=45% cov=103%
+GPVKHCAGCGGKITERFFLHALDRYWHNNC
+>gi|189238568|ref|XP_969484.2|(149-178:497) PREDICTED: similar to LIM homeobox 1b [Tribolium castaneum]   E=1e-05 s/c=1.75 id=35% cov=103%
+GMLISCAACDKPILDKFLLNVLERTWHADC
+>gi|340722532|ref|XP_003399658.1|(107-135:486) PREDICTED: LIM/homeobox protein Lhx3-like [Bombus terrestris]   E=6e-05 s/c=1.73 id=43% cov=100%
+-SIPKCGGCQEAILDKYVLRVLERCWHARC
+>gi|391346181|ref|XP_003747357.1|(53-83:434) PREDICTED: LIM homeobox transcription factor 1-beta.1-like [Metaseiulus occidentalis]  E=0.0009 s/c=1.49 id=48% cov=103%
+GSRLEvCAGCERPIVDRYIMKVRESSWHESC
+>gi|115727487|ref|XP_782032.2|(49-78:474) PREDICTED: LIM/homeobox protein Lhx9 [Strongylocentrotus purpuratus]  E=0.0004 s/c=1.58 id=45% cov=103%
+GSPAVCAGCGGRICDRFYLLAADRQWHTQC
+>gi|256071672|ref|XP_002572163.1|(3-29:294) lim-only [Schistosoma mansoni] >gi|353229928|emb|CCD76099.1| putative lim-only [Schistosoma mansoni]  E=0.0008 s/c=1.73 id=39% cov=93%
+---ISCAGCGGPIVEKTLLNAIDRFWHTSC
+>gi|195353746|ref|XP_002043364.1|(213-238:535) GM16501 [Drosophila sechellia] >gi|194127487|gb|EDW49530.1| GM16501 [Drosophila sechellia]  E=0.0009 s/c=1.78 id=42% cov=87%
+-----CSGCGRQIQDRFYLSAVEKRWHASC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2618	0	0	
+
+S 2    3828	*	4323	4431	*	*	*	*	*	*	3927	4648	3439	*	*	901	3323	*	*	*	2
+       0	*	*	*	*	*	*	2878	0	0	
+
+L 3    4806	*	*	4637	*	*	*	1963	*	2461	2557	*	4592	4211	4179	*	*	3102	*	4352	3
+       0	*	*	*	*	*	*	2865	0	0	
+
+L 4    4681	*	*	*	*	*	*	3478	3392	1638	5395	*	2323	*	5178	5308	*	2488	*	*	4
+       76	*	4288	*	*	*	*	2919	0	0	
+
+T 5    *	6093	5560	2090	*	*	4613	*	2328	6215	6316	4991	*	2701	*	2826	3916	3822	*	*	5
+       58	4657	*	0	*	0	*	2854	1000	1100	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2878	0	0	
+
+G 7    408	*	*	5925	*	3045	*	*	*	6181	*	*	*	*	5289	5501	4408	*	*	*	7
+       0	*	*	*	*	*	*	2878	0	0	
+
+G 8    4611	*	*	*	*	114	*	*	*	*	*	5983	*	*	*	5714	*	*	*	*	8
+       0	*	*	*	*	*	*	2878	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2878	0	0	
+
+Q 10   6399	6565	3471	3651	*	1253	5019	*	4029	*	*	3771	*	2734	*	3785	*	*	*	*	10
+       0	*	*	*	*	*	*	2878	0	0	
+
+Q 11   5658	*	4619	3262	*	2224	4681	6527	2104	4735	*	4728	*	3554	2917	6789	6689	6943	*	5714	11
+       0	*	*	*	*	*	*	2878	0	0	
+
+N 12   4210	*	*	*	6047	*	3709	6772	2283	5838	6133	5765	1499	5312	3155	4811	4835	5167	*	*	12
+       0	*	*	*	*	*	*	2878	0	0	
+
+I 13   *	*	*	*	*	*	*	37	*	*	*	*	*	*	*	*	*	5302	*	*	13
+       0	*	*	*	*	*	*	2878	0	0	
+
+G 14   3863	5740	6141	4589	4716	4982	6522	5390	3893	2296	4496	*	*	4154	4681	3524	3042	3169	*	5477	14
+       0	*	*	*	*	*	*	2878	0	0	
+
+D 15   *	*	271	2548	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2878	0	0	
+
+R 16   *	*	*	*	*	*	*	*	3094	*	*	*	*	5644	213	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2878	0	0	
+
+Y 17   *	*	*	*	720	*	*	*	*	*	*	*	*	*	*	*	5335	*	5258	1548	17
+       0	*	*	*	*	*	*	2878	0	0	
+
+F 18   *	*	*	*	3429	*	*	2684	*	741	6261	*	*	*	*	*	*	5237	*	3138	18
+       0	*	*	*	*	*	*	2878	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	165	3541	*	*	*	*	*	*	*	*	5477	19
+       0	*	*	*	*	*	*	2878	0	0	
+
+K 20   *	6310	*	*	4993	*	3039	*	1366	3298	*	3126	*	5103	3004	4917	6556	*	*	4941	20
+       0	*	*	*	*	*	*	2878	0	0	
+
+A 21   1012	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5812	5807	1094	*	*	21
+       0	*	*	*	*	*	*	2878	0	0	
+
+I 22   5665	6632	*	*	*	*	*	4983	*	972	2468	5159	*	4397	6290	4781	*	3020	*	*	22
+       0	*	*	*	*	*	*	2878	0	0	
+
+D 23   *	*	417	1995	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2878	0	0	
+
+Q 24   6273	*	*	5663	*	6344	6141	6824	2472	3628	4999	6388	*	3912	981	4197	*	*	*	*	24
+       0	*	*	*	*	*	*	2878	0	0	
+
+Y 25   3118	5241	*	*	3220	6775	5174	6304	5612	4501	6310	6792	3815	3680	5577	3082	3997	6344	*	1987	25
+       0	*	*	*	*	*	*	2878	0	0	
+
+W 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	26
+       0	*	*	*	*	*	*	2878	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2878	0	0	
+
+E 28   2118	*	*	1662	*	4709	5802	6546	*	*	5976	3698	*	6586	*	3029	3243	4181	*	*	28
+       0	*	*	*	*	*	*	2875	0	0	
+
+D 29   4442	6433	2067	3782	*	3635	6227	*	2994	*	*	4699	6805	3031	3698	2697	6556	*	*	*	29
+       0	*	*	*	*	*	*	2875	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	2875	0	0	
+
+//

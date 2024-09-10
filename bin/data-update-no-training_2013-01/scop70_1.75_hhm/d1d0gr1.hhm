@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d1d0gr1 g.24.1.1 (R:21-61) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.1
+FILE  d1d0gr1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1d0gr1.a3m -v 1 
+DATE  Mon Jan 21 19:34:42 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  27 out of 29 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+98777788887620345777645426747414677634359
+>Consensus
+xSPxxglCPxGxhxsExxgxCxxCxxGvDYTxhsNxLxsCl
+>d1d0gr1 g.24.1.1 (R:21-61) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+SSPSEGLCPPGHHISEDGRDCISCKYGQDYSTHWNDLLFCL
+>gi|297478061|ref|XP_002689823.1|(57-96:324) PREDICTED: tumor necrosis factor receptor superfamily member 10B [Bos taurus] >gi|296484593|gb|DAA26708.1| hypothetical protein BOS_9071 [Bos taurus]  E=1e-06 s/c=1.42 id=41% cov=100%
+-SPQQKLCPPGLYMKEAIGGCATYTNGIDYTNHSNALPSCL
+>gi|157820147|ref|NP_001102343.1|(32-69:267) tumor necrosis factor receptor superfamily, member 10b precursor [Rattus norvegicus] >gi|149049870|gb|EDM02194.1| tumor necrosis factor receptor superfamily, member 10b (predicted) [Rattus norvegicus]  E=1e-06 s/c=1.49 id=38% cov=95%
+-SPLE--CPAGQYLSKEDGSCKACIDGENYTSGPNVLPSCL
+>gi|350592274|ref|XP_003483434.1|(84-117:167) PREDICTED: tumor necrosis factor receptor superfamily member 10D-like [Sus scrofa]  E=9e-06 s/c=1.57 id=43% cov=85%
+-------CPPGFHVEDASGECVRCTDGVDYTSHPNTLFSCL
+>gi|351703106|gb|EHB06025.1|(32-62:399) Tumor necrosis factor receptor superfamily member 10B [Heterocephalus glaber]  E=0.0002 s/c=1.59 id=34% cov=78%
+----------GSYLSEKSGQCEECEEGVDYTSYSNNLPACI
+>gi|332247539|ref|XP_003272916.1|(126-165:471) PREDICTED: tumor necrosis factor receptor superfamily member 10A [Nomascus leucogenys]  E=3e-11 s/c=1.79 id=46% cov=100%
+-SPLEELCPPGSHRSEHLGACNRCTEGVGYTNASNNLFACL
+>gi|380849721|gb|AFE85494.1|(67-105:367) Tnfrsf10b [Mus caroli]   E=8e-11 s/c=1.79 id=42% cov=98%
+-SPSGGLCPAGQYLS-SSGNCKPCREGFDFTNHSNHLHSCI
+>gi|45383384|ref|NP_989717.1|(39-79:225) death domain-containing tumor necrosis factor receptor superfamily member 23 precursor [Gallus gallus] >gi|31322664|gb|AAP41834.1| death domain-containing tumor necrosis factor receptor superfamily member 23 variant 2 [Gallus gallus]  E=0.0007 s/c=1.15 id=42% cov=88%
+------LCPAGTYVAQHcriphsRGKCASCTEGRDYTAHANGLEECL
+>gi|354467534|ref|XP_003496224.1|(72-111:290) PREDICTED: tumor necrosis factor receptor superfamily member 10B-like [Cricetulus griseus]  E=6e-08 s/c=1.52 id=41% cov=100%
+-SPSEGNCTRGYYLPVENSDCMPCKNGIDYTNSSNNLDSCI
+>gi|335300930|ref|XP_001926426.3|(15-53:421) PREDICTED: tumor necrosis factor receptor superfamily member 10A-like [Sus scrofa]  E=9e-07 s/c=1.45 id=51% cov=90%
+-----GLCclKAGYHVSEDGKNCTSCIHGVDFTIYWNVLPSCL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	1
+       0	*	*	*	*	*	*	1070	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	2
+       0	*	*	*	*	*	*	2399	0	0	
+
+P 3    3728	*	*	*	*	*	*	*	*	*	*	*	113	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2399	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	1976	*	*	*	2618	*	1448	2209	*	*	*	4
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 5    *	*	3844	1165	*	2552	*	*	*	*	*	*	*	2813	4128	*	*	*	*	3129	5
+       141	*	3428	*	*	*	*	2541	0	0	
+
+G 6    4054	*	*	2982	*	569	*	*	2845	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	0	2507	0	1000	
+
+L 7    *	3727	*	4190	*	*	*	*	*	524	*	3464	3582	*	*	*	*	*	*	*	7
+       0	*	*	*	*	0	*	2616	0	1000	
+
+C 8    3957	96	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       82	4173	*	1000	1000	*	*	2746	1000	0	
+
+P 9    *	*	*	*	*	*	*	*	4173	4908	*	*	244	*	*	*	3902	*	*	*	9
+       0	*	*	*	*	*	*	2746	0	0	
+
+P 10   1172	*	*	*	*	*	*	*	*	*	*	*	1235	*	3902	*	3957	*	*	*	10
+       0	*	*	*	*	*	*	2746	0	0	
+
+G 11   *	*	*	*	*	95	*	*	*	*	*	*	*	*	3976	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2774	0	0	
+
+H 12   *	*	*	*	3089	*	2965	*	*	4164	*	*	*	2732	*	2196	3201	*	*	2177	12
+       0	*	*	*	*	*	*	2774	0	0	
+
+H 13   *	*	*	*	*	*	754	*	*	*	*	*	*	*	*	*	*	*	*	1296	13
+       0	*	*	*	*	*	*	2774	0	0	
+
+I 14   *	*	*	*	*	*	*	2358	*	1753	3522	*	*	*	2130	*	*	2375	*	*	14
+       0	*	*	*	*	*	*	2774	0	0	
+
+S 15   3919	*	*	3870	*	*	*	*	4164	*	*	*	3951	*	*	425	*	*	*	*	15
+       61	*	4588	*	*	*	*	2774	0	0	
+
+E 16   *	*	4716	379	*	*	*	*	4117	*	*	*	*	3867	*	*	*	3904	*	*	16
+       89	*	4064	*	*	0	*	2762	0	1000	
+
+D 17   2943	*	1432	2935	*	*	2007	*	4598	*	*	*	*	*	*	4385	*	*	*	5024	17
+       102	3877	*	2585	263	*	0	2790	1000	1116	
+
+G 18   *	*	4083	*	*	2298	*	3452	*	5045	*	3375	*	*	3877	1762	2675	*	*	*	18
+       0	*	*	*	*	0	*	2790	0	1116	
+
+R 19   *	*	*	*	*	794	*	*	4261	*	*	*	*	*	1923	3951	4551	*	*	*	19
+       0	*	*	*	*	*	*	2774	0	0	
+
+D 20   2130	*	2149	3807	*	3522	*	*	3919	*	*	2758	*	4686	*	3440	*	*	*	4551	20
+       0	*	*	*	*	*	*	2774	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2774	0	0	
+
+I 22   2707	*	*	4686	*	*	*	2194	2732	4551	3951	2512	*	*	*	*	3482	3904	*	*	22
+       0	*	*	*	*	*	*	2774	0	0	
+
+S 23   3589	*	*	4686	*	4235	*	*	*	*	*	*	1463	5228	3913	1674	4164	*	*	*	23
+       0	*	*	*	*	*	*	2774	0	0	
+
+C 24   *	83	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4164	24
+       0	*	*	*	*	*	*	2774	0	0	
+
+K 25   *	*	*	4686	*	*	*	3225	2375	*	*	5158	*	3899	3111	*	1150	*	*	*	25
+       0	*	*	*	*	*	*	2774	0	0	
+
+Y 26   *	*	2639	1319	*	*	4261	*	5145	*	*	2415	*	*	*	*	*	*	*	2550	26
+       0	*	*	*	*	*	*	2774	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2774	0	0	
+
+Q 28   *	*	*	4189	4588	*	*	2009	*	*	*	*	*	2358	3919	*	*	1344	*	*	28
+       0	*	*	*	*	*	*	2774	0	0	
+
+D 29   *	*	169	*	*	4161	*	*	*	*	*	4189	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2774	0	0	
+
+Y 30   *	*	*	*	3415	*	*	*	*	*	*	*	*	*	*	*	*	*	*	142	30
+       0	*	*	*	*	*	*	2774	0	0	
+
+S 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2965	198	*	*	*	31
+       0	*	*	*	*	*	*	2774	0	0	
+
+T 32   3919	*	*	*	*	*	*	3775	*	*	*	1418	4967	*	*	2006	2281	*	*	*	32
+       0	*	*	*	*	*	*	2774	0	0	
+
+H 33   2763	*	5158	*	*	3675	834	*	*	*	*	*	*	*	*	3951	*	5076	*	3458	33
+       0	*	*	*	*	*	*	2774	0	0	
+
+W 34   3919	*	*	*	*	*	*	*	4744	*	*	*	3443	*	4551	958	*	*	2016	*	34
+       0	*	*	*	*	*	*	2774	0	0	
+
+N 35   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2774	0	0	
+
+D 36   4164	*	2965	4551	*	3919	2836	*	*	4744	*	1591	*	*	*	5469	3870	3225	*	*	36
+       46	4990	*	0	*	*	*	2774	1000	0	
+
+L 37   *	*	*	4270	3803	*	*	*	*	249	*	*	*	*	*	*	*	4834	*	*	37
+       0	*	*	*	*	*	*	2774	0	0	
+
+L 38   *	*	3379	3919	2839	*	4588	*	*	1817	*	*	1577	*	*	4744	*	*	*	*	38
+       0	*	*	*	*	*	*	2774	0	0	
+
+F 39   3045	*	*	3919	2926	*	*	*	*	*	*	*	*	*	*	554	*	*	*	*	39
+       0	*	*	*	*	*	*	2774	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2774	0	0	
+
+L 41   *	*	*	*	3039	*	*	2158	*	612	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	2784	0	0	
+
+//

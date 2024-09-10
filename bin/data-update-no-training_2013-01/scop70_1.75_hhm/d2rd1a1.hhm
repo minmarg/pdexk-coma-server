@@ -1,0 +1,198 @@
+HHsearch 1.5
+NAME  d2rd1a1 b.38.1.6 (A:22-73) Putative outer membrane lipoprotein STM1585 {Salmonella typhimurium [TaxId: 90371]}
+FAM   b.38.1.6
+FILE  d2rd1a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2rd1a1.a3m -v 1 
+DATE  Tue Jan 22 08:49:24 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  102 out of 107 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.7 
+SEQ
+>ss_pred
+CCEEEEECCCCEEEECCCCCCCCCCCCEEEEECCCCEEEECCHHCCEEEECC
+>ss_conf
+9714770489788757977531776717898179966713100210877429
+>Consensus
+SxyvixTxDGxxIxtxGKPxxDxdTGmxxYxDxxGxxxqINxdxVxxixExx
+>d2rd1a1 b.38.1.6 (A:22-73) Putative outer membrane lipoprotein STM1585 {Salmonella typhimurium [TaxId: 90371]}
+TNYVMTTKNGQTIVTQGKPQLDKETGMTSYTDQEGNQREINSNDVAQLIKAD
+>gi|350533269|ref|ZP_08912210.1|(19-68:69) hypothetical protein VrotD_19181 [Vibrio rotiferianus DAT722]   E=0.0005 s/c=0.95 id=37% cov=98%
+SQYLMSTNEGKMITSYGKPDLNEETGMYEYEDVDGKEMSISKDEIVQIIE--
+>gi|428934486|ref|ZP_19008003.1|(22-71:72) hypothetical protein MTE1_16861 [Klebsiella pneumoniae JHCK1] >gi|426302673|gb|EKV64867.1| hypothetical protein MTE1_16861 [Klebsiella pneumoniae JHCK1]  E=8e-15 s/c=1.66 id=39% cov=98%
+SDYVISTNDGHMMTTHGKPEKDKSTGLISYKDTDGNVHQIHQSDVKEIVE--
+>gi|291617324|ref|YP_003520066.1|(84-136:137) hypothetical protein PANA_1771 [Pantoea ananatis LMG 20103] >gi|386015704|ref|YP_005933987.1| lipoprotein YdgR [Pantoea ananatis AJ13355] >gi|291152354|gb|ADD76938.1| YgdR [Pantoea ananatis LMG 20103] >gi|327393769|dbj|BAK11191.1| predicted lipoprotein YdgR [Pantoea ananatis AJ13355]  E=1e-13 s/c=1.49 id=40% cov=102%
+SNQSIKTSDGRTIVTDGKPQIDSDTGLVSYRDAQtGKTEQINRDQISNMSELD
+>gi|300716288|ref|YP_003741091.1|(22-73:74) lipoprotein [Erwinia billingiae Eb661] >gi|299062124|emb|CAX59240.1| Putative lipoprotein [Erwinia billingiae Eb661]  E=5e-10 s/c=1.29 id=38% cov=102%
+SDHVLQMKDGSTVVVQGKPEVDKATGMVMYTDENGKQQAVNQDQIKEMNSLN
+>gi|378445084|ref|YP_005232716.1|(37-77:84) putative lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. D23580] >gi|378699551|ref|YP_005181508.1| putative lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|378989011|ref|YP_005252175.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1] >gi|379700842|ref|YP_005242570.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74] >gi|16420200|gb|AAL20590.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] >gi|261246863|emb|CBG24680.1| putative lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. D23580] >gi|267993603|gb|ACY88488.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S] >gi|301158199|emb|CBW17698.1| hypothetical lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|323129941|gb|ADX17371.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74] >gi|332988558|gb|AEF07541.1| putative outer membrane lipoprotein [Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1]  E=4e-05 s/c=1.23 id=40% cov=81%
+---------GEIIETQGKPEVDTATGMTKYADVYGYHRVMKTSEIVQTTE--
+>gi|322832782|ref|YP_004212809.1|(29-78:80) hypothetical protein Rahaq_2071 [Rahnella sp. Y9602] >gi|384257967|ref|YP_005401901.1| hypothetical protein Q7S_10500 [Rahnella aquatilis HX2] >gi|321167983|gb|ADW73682.1| protein of unknown function DUF903 [Rahnella sp. Y9602] >gi|380753943|gb|AFE58334.1| hypothetical protein Q7S_10500 [Rahnella aquatilis HX2]  E=6e-12 s/c=1.47 id=31% cov=98%
+TSYAIQTNDARTIISDGKPK-EADSGLLEYTDANGVKQQISKTEVKQVTEL-
+>gi|146306773|ref|YP_001187238.1|(26-73:73) hypothetical protein Pmen_1742 [Pseudomonas mendocina ymp] >gi|421504151|ref|ZP_15951095.1| hypothetical protein A471_12748 [Pseudomonas mendocina DLHK] >gi|145574974|gb|ABP84506.1| protein of unknown function DUF903 [Pseudomonas mendocina ymp] >gi|400345252|gb|EJO93618.1| hypothetical protein A471_12748 [Pseudomonas mendocina DLHK]  E=2e-10 s/c=1.42 id=29% cov=94%
+---VITLTDGREIQTVDKPKYDEESGFYEFEQLDGKRATINKDQVQTVKEL-
+>gi|332285617|ref|YP_004417528.1|(27-72:73) lipoprotein [Pusillimonas sp. T7-7] >gi|330429570|gb|AEC20904.1| lipoprotein [Pusillimonas sp. T7-7]  E=2e-05 s/c=1.13 id=28% cov=90%
+----ITTKDGQTTMTADEPEINEDKGFVTYE-KDGKEVQTNTSEVQKIEEV-
+>gi|242279759|ref|YP_002991888.1|(24-72:75) hypothetical protein Desal_2293 [Desulfovibrio salexigens DSM 2638] >gi|242122653|gb|ACS80349.1| protein of unknown function DUF903 [Desulfovibrio salexigens DSM 2638]  E=0.0008 s/c=0.94 id=30% cov=96%
+-HHTITKTDGSTAVSVGAPQYNKDSNTYTYENLGGQQTTIKREDVQQIEE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	187	3038	*	*	*	1
+       0	*	*	*	*	*	*	3132	0	0	
+
+N 2    *	*	1916	4064	*	*	3018	*	*	*	*	1452	*	3656	*	3227	*	*	*	*	2
+       0	*	*	*	*	*	*	3380	0	0	
+
+Y 3    *	*	*	*	*	*	3213	*	*	*	*	*	*	3810	*	*	*	*	*	285	3
+       0	*	*	*	*	*	*	3380	0	0	
+
+V 4    3105	*	*	5606	*	*	*	2935	*	4992	*	*	*	*	*	5466	4426	662	*	*	4
+       0	*	*	*	*	*	*	3541	0	0	
+
+M 5    *	*	*	*	*	*	*	1099	*	3340	1325	*	*	*	*	*	*	4815	*	*	5
+       0	*	*	*	*	*	*	3657	0	0	
+
+T 6    2689	*	*	4082	*	*	2405	*	4132	*	*	5127	*	3534	*	2365	2114	*	*	*	6
+       0	*	*	*	*	*	*	3657	0	0	
+
+T 7    5251	*	*	*	*	*	*	*	3853	3373	5428	*	*	5433	*	*	393	*	*	*	7
+       0	*	*	*	*	*	*	3657	0	0	
+
+K 8    5929	*	5429	*	*	*	5917	6723	1439	*	*	1565	*	6431	5075	4465	2995	6007	*	*	8
+       0	*	*	*	*	*	*	3704	0	0	
+
+N 9    *	*	362	4240	*	*	*	*	*	*	*	3861	*	*	*	3319	*	*	*	*	9
+       0	*	*	*	*	*	*	3734	0	0	
+
+G 10   5487	*	5970	*	*	56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3778	0	0	
+
+Q 11   *	*	4495	4075	*	*	3988	*	3329	*	*	5384	*	2525	1277	3428	5030	*	*	*	11
+       0	*	*	*	*	*	*	3778	0	0	
+
+T 12   5887	*	*	3201	*	*	*	5059	*	5173	1614	*	*	4409	*	6191	1220	*	*	*	12
+       0	*	*	*	*	*	*	3778	0	0	
+
+I 13   4819	*	*	6271	4314	*	*	444	*	3462	6781	*	*	*	*	*	5412	4535	*	*	13
+       0	*	*	*	*	*	*	3778	0	0	
+
+V 14   6400	*	5384	4980	5235	*	*	3285	*	3029	4013	*	6080	3201	*	*	2771	1519	*	*	14
+       0	*	*	*	*	*	*	3778	0	0	
+
+T 15   2469	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2234	775	5466	*	*	15
+       0	*	*	*	*	*	*	3778	0	0	
+
+Q 16   4909	*	1745	3348	*	*	3168	*	4484	4479	*	5605	4491	2901	*	5780	5160	3529	*	4729	16
+       0	*	*	*	*	*	*	3778	0	0	
+
+G 17   *	*	2381	*	*	423	*	*	*	*	*	5956	*	*	*	4437	*	*	*	*	17
+       0	*	*	*	*	*	*	3778	0	0	
+
+K 18   3814	*	*	3562	*	*	*	*	302	*	*	*	*	*	5736	*	6119	*	*	*	18
+       0	*	*	*	*	*	*	3778	0	0	
+
+P 19   *	*	*	*	*	*	*	5384	*	*	*	*	35	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3778	0	0	
+
+Q 20   4562	*	3873	2327	*	*	5574	*	1841	*	7194	*	*	2719	4764	3636	6255	3693	*	5398	20
+       69	*	4414	*	*	*	*	3778	0	0	
+
+L 21   *	*	*	4496	*	*	*	3137	4165	2234	*	*	*	6101	4750	*	4291	1868	*	2344	21
+       0	*	*	*	*	0	*	3777	0	1376	
+
+D 22   *	*	248	4993	*	*	*	*	*	*	*	2985	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3778	0	0	
+
+K 23   4132	*	2992	2181	*	6771	*	*	1834	*	*	3314	4648	6905	4314	3742	4908	*	*	*	23
+       0	*	*	*	*	*	*	3778	0	0	
+
+E 24   3173	*	1103	2085	*	6120	*	*	4409	*	*	5235	*	5344	*	4249	5466	*	*	*	24
+       0	*	*	*	*	*	*	3778	0	0	
+
+T 25   4858	*	*	*	*	*	*	*	5412	*	*	5255	*	*	*	2516	432	*	*	*	25
+       0	*	*	*	*	*	*	3778	0	0	
+
+G 26   *	*	*	*	*	52	*	*	*	*	*	4819	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3778	0	0	
+
+M 27   *	*	*	*	2500	*	*	*	*	1440	1254	*	*	*	*	*	4819	*	*	*	27
+       0	*	*	*	*	*	*	3778	0	0	
+
+T 28   *	*	*	*	*	*	*	1546	*	2993	*	*	*	*	*	*	3124	2723	*	1912	28
+       0	*	*	*	*	*	*	3778	0	0	
+
+S 29   4595	*	*	2291	*	4856	*	6036	3707	6534	5466	*	*	6297	3629	1298	3405	*	*	*	29
+       0	*	*	*	*	*	*	3778	0	0	
+
+Y 30   *	*	5276	*	2970	*	*	*	*	*	*	*	*	*	*	*	*	*	*	240	30
+       0	*	*	*	*	*	*	3778	0	0	
+
+T 31   4980	*	*	2066	*	*	5846	6983	1853	5276	*	*	*	7360	5571	*	1759	5030	*	4365	31
+       65	*	4507	*	*	*	*	3778	0	0	
+
+D 32   *	*	379	*	*	5241	*	*	*	*	*	3457	*	3140	*	*	*	*	*	*	32
+       21	6121	*	0	*	0	*	3727	1000	1393	
+
+Q 33   1501	*	*	2770	*	*	*	5402	4089	2880	4672	*	5699	3785	6247	5251	4772	3743	*	*	33
+       23	5970	*	0	*	*	*	3778	1000	0	
+
+E 34   4154	*	1846	3024	*	4819	*	*	6056	*	*	2285	*	3702	5276	4641	4913	*	5194	3577	34
+       53	4798	*	0	*	*	*	3778	1483	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3778	0	0	
+
+N 36   6036	*	4932	*	*	*	3551	5861	1949	*	*	2049	*	4393	3294	6575	4195	3286	*	4980	36
+       0	*	*	*	*	*	*	3778	0	0	
+
+Q 37   6335	*	7045	1953	6384	*	3825	4902	2489	*	5114	6220	4927	2767	4814	6119	3704	4256	*	5235	37
+       0	*	*	*	*	*	*	3778	0	0	
+
+R 38   6255	*	*	4375	*	5736	2674	5398	5150	5346	3906	*	*	1480	3149	*	3999	3533	*	*	38
+       0	*	*	*	*	*	*	3778	0	0	
+
+E 39   4357	*	*	5514	*	*	6400	*	4557	4826	4331	*	*	714	4232	5447	3786	4980	*	*	39
+       0	*	*	*	*	*	*	3778	0	0	
+
+I 40   *	*	*	*	*	*	*	479	*	3793	3674	*	*	*	*	*	5412	3207	*	*	40
+       0	*	*	*	*	*	*	3778	0	0	
+
+N 41   *	*	*	*	*	*	5201	*	3541	*	*	385	5251	4770	6080	4527	*	*	*	*	41
+       0	*	*	*	*	*	*	3778	0	0	
+
+S 42   *	*	*	*	*	4604	4948	*	1905	*	*	4467	*	2768	1781	3759	3286	*	*	*	42
+       0	*	*	*	*	*	*	3778	0	0	
+
+N 43   5523	*	1057	4086	*	6575	5826	*	6901	*	*	3426	*	5979	6667	2045	4603	*	*	*	43
+       0	*	*	*	*	*	*	3778	0	0	
+
+D 44   6614	*	1338	2416	*	6818	*	*	5956	*	*	4003	*	1754	*	6667	*	6251	*	*	44
+       0	*	*	*	*	*	*	3756	0	0	
+
+V 45   *	*	*	*	*	*	*	1903	*	4686	*	*	*	*	*	*	*	527	*	*	45
+       0	*	*	*	*	*	*	3756	0	0	
+
+A 46   4042	*	*	*	*	*	*	6055	1411	*	*	6074	*	3422	2899	2529	3716	4139	*	*	46
+       0	*	*	*	*	*	*	3716	0	0	
+
+Q 47   5682	*	6731	1995	*	5240	*	*	5406	*	*	4454	*	1365	6040	3951	2677	*	*	*	47
+       0	*	*	*	*	*	*	3716	0	0	
+
+L 48   *	*	*	*	*	*	*	1153	*	3986	1652	*	*	*	*	*	5842	2722	*	*	48
+       0	*	*	*	*	*	*	3716	0	0	
+
+I 49   5758	*	6394	3437	*	7184	*	2005	4708	6338	3911	5391	*	*	5301	3293	3339	1976	*	*	49
+       0	*	*	*	*	*	*	3685	0	0	
+
+K 50   6030	*	5072	312	*	*	*	*	3673	*	*	*	*	4742	*	4897	*	*	*	*	50
+       0	*	*	*	*	*	*	3685	0	0	
+
+A 51   2866	*	4971	*	*	*	*	3536	4321	1080	4723	*	*	*	*	4677	*	2790	*	*	51
+       0	*	*	*	*	*	*	3189	0	0	
+
+D 52   *	*	672	2755	*	*	*	*	*	*	*	2158	*	*	*	*	*	*	*	*	52
+       0	*	*	0	*	*	*	2419	0	0	
+
+//

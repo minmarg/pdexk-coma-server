@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d2co8a1 g.39.1.3 (A:44-76) Nedd9 interacting protein with calponin homology, NICAL (MICAL1) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2co8a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2co8a1.a3m -v 1 
+DATE  Tue Jan 22 05:56:11 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCEEEECCCCCCC
+>ss_conf
+950255300677444588885055430378889
+>Consensus
+rchxceatlwpgxyxqhpxdghfyclqhlpqxd
+>d2co8a1 g.39.1.3 (A:44-76) Nedd9 interacting protein with calponin homology, NICAL (MICAL1) {Human (Homo sapiens) [TaxId: 9606]}
+RCHTCEATLWPGGYEQHPGDGHFYCLQHLPQTD
+>gi|395816767|ref|XP_003781862.1|(811-843:1156) PREDICTED: protein-methionine sulfoxide oxidase MICAL1 [Otolemur garnettii]  E=7e-10 s/c=2.03 id=82% cov=103%
+RCHTCEATLWPGGYGRLPGDKHFYCLQHLPQLD
+>gi|426234562|ref|XP_004011263.1|(634-665:981) PREDICTED: protein-methionine sulfoxide oxidase MICAL1 isoform 2 [Ovis aries]  E=1e-09 s/c=2.07 id=82% cov=100%
+RCRICEATLWPGGYGRHPGDGYFYCLQHLPQT-
+>gi|291396739|ref|XP_002714937.1|(698-730:1037) PREDICTED: microtubule associated monoxygenase, calponin and LIM domain containing 1-like [Oryctolagus cuniculus]  E=1e-09 s/c=2.00 id=79% cov=103%
+RCHSCEATLWPGSYAQHPEDKHFYCLQHLPQPD
+>gi|395534752|ref|XP_003769403.1|(725-756:1001) PREDICTED: protein-methionine sulfoxide oxidase MICAL1 [Sarcophilus harrisii]  E=9e-09 s/c=1.98 id=76% cov=100%
+-CHSCEAPLWPEGYRQHPGDGHFYCLLHFPQSD
+>gi|125991892|ref|NP_001075051.1|(723-754:1070) protein-methionine sulfoxide oxidase MICAL1 [Bos taurus] >gi|124828979|gb|AAI33299.1| Microtubule associated monoxygenase, calponin and LIM domain containing 1 [Bos taurus]  E=1e-13 s/c=2.49 id=85% cov=100%
+RCHICEATLWPGGYRQHPGDGYLYCLQHLPQT-
+>gi|281346607|gb|EFB22191.1|(727-758:1074) hypothetical protein PANDA_015235 [Ailuropoda melanoleuca]   E=2e-13 s/c=2.47 id=85% cov=100%
+RCHTCEAMLWQGGYGQHPEDGHFYCLQHLPQT-
+>gi|311244324|ref|XP_001925172.2|(723-754:1070) PREDICTED: NEDD9-interacting protein with calponin homology and LIM domains isoform 1 [Sus scrofa]  E=4e-13 s/c=2.44 id=76% cov=100%
+RCWVCEVTLWPGAYGQHPEDGHFYCLQHLPQP-
+>gi|355702483|gb|AES01946.1|(641-672:942) microtubule associated monooxygenase, calponin and LIM domain containing 1 [Mustela putorius furo]  E=2e-12 s/c=2.37 id=76% cov=100%
+RCRTCEATLRPGDYGQHPGDGYFYCFQHLPQP-
+>gi|149722869|ref|XP_001504053.1|(723-753:1067) PREDICTED: NEDD9-interacting protein with calponin homology and LIM domains isoform 1 [Equus caballus]  E=1e-11 s/c=2.35 id=78% cov=97%
+-CHRCEATLRLGDYGQHPGDGHFYCLQHLPQP-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1387	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1478	0	0	
+
+H 3    *	*	*	*	*	*	434	*	*	*	*	*	*	*	2606	*	*	*	3385	*	3
+       0	*	*	*	*	*	*	1478	0	0	
+
+T 4    3741	*	*	*	*	*	*	2704	*	*	*	*	*	*	3610	2306	1351	3385	*	*	4
+       0	*	*	*	*	*	*	1478	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1478	0	0	
+
+E 6    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1478	0	0	
+
+A 7    145	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3385	*	*	7
+       0	*	*	*	*	*	*	1478	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	3659	*	3058	*	*	*	321	*	*	*	8
+       0	*	*	*	*	*	*	1478	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1478	0	0	
+
+W 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2538	*	*	*	273	*	10
+       0	*	*	*	*	*	*	1478	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	3610	*	*	253	3659	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1478	0	0	
+
+G 12   *	*	*	3058	*	185	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1478	0	0	
+
+G 13   3385	*	2538	*	*	622	*	*	*	*	*	*	*	*	*	3605	*	*	*	*	13
+       0	*	*	*	*	*	*	1478	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	1478	0	0	
+
+E 15   3605	*	*	3943	*	769	*	*	*	*	*	*	*	*	1910	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1478	0	0	
+
+Q 16   *	*	*	*	*	*	*	*	*	*	*	*	*	260	2601	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1478	0	0	
+
+H 17   *	*	*	*	*	*	137	*	*	3461	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1478	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       112	*	3741	*	*	*	*	1478	0	0	
+
+G 19   *	*	*	1509	*	624	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	0	*	1477	0	1000	
+
+D 20   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1478	0	0	
+
+G 21   *	*	*	*	*	274	*	*	2531	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1478	0	0	
+
+H 22   *	*	*	*	*	*	403	*	*	*	*	*	*	*	*	*	*	*	*	2036	22
+       0	*	*	*	*	*	*	1478	0	0	
+
+F 23   *	*	*	*	120	*	*	*	*	3653	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1478	0	0	
+
+Y 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	24
+       0	*	*	*	*	*	*	1478	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1478	0	0	
+
+L 26   *	*	*	*	3469	*	*	*	*	137	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1478	0	0	
+
+Q 27   *	*	*	*	*	*	*	*	*	3058	*	*	*	185	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1478	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1478	0	0	
+
+L 29   *	*	*	*	3058	*	*	*	*	185	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1478	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1478	0	0	
+
+Q 31   *	*	*	*	*	3741	*	*	*	*	*	*	*	112	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1478	0	0	
+
+T 32   *	*	*	3910	*	*	*	*	*	3461	*	*	1514	*	*	3058	1425	*	*	*	32
+       0	*	*	*	*	*	*	1478	0	0	
+
+D 33   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	0	*	*	*	1330	0	0	
+
+//

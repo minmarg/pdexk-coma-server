@@ -1,0 +1,118 @@
+HHsearch 1.5
+NAME  d2d8za1 g.39.1.3 (A:8-32) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2d8za1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2d8za1.a3m -v 1 
+DATE  Tue Jan 22 06:13:57 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+97468631337643355884012269
+>Consensus
+CxxCkkxITsGGvtYxxqPWHxeCFx
+>d2d8za1 g.39.1.3 (A:8-32) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+CVQCKKPITTGGVTYREQPWHKECFX
+>gi|410906469|ref|XP_003966714.1|(162-186:279) PREDICTED: four and a half LIM domains protein 2-like [Takifugu rubripes]  E=0.0001 s/c=1.97 id=77% cov=100%
+CFYCKMPITTGGVNYRDQPWHKECF-
+>gi|71051382|gb|AAH99213.1|(161-185:280) Fhl4 protein [Rattus norvegicus] >gi|149067369|gb|EDM17102.1| rCG49109 [Rattus norvegicus]  E=0.0004 s/c=1.91 id=69% cov=100%
+CVKCNKPITSGGVSYQDQPWHSECF-
+>gi|224097870|ref|XP_002191091.1|(179-203:297) PREDICTED: similar to four and a half LIM domains 1 protein [Taeniopygia guttata]  E=0.0007 s/c=1.88 id=69% cov=100%
+CAKCKNPITSGGLTYQEQPWHSECF-
+>gi|327261498|ref|XP_003215567.1|(163-187:275) PREDICTED: four and a half LIM domains protein 5-like [Anolis carolinensis]  E=0.0008 s/c=1.88 id=77% cov=100%
+CYSCKKVITTGGVTYHDQPWHKECF-
+>gi|348510897|ref|XP_003442981.1|(164-188:281) PREDICTED: four and a half LIM domains protein 2-like [Oreochromis niloticus]  E=0.001 s/c=1.86 id=73% cov=100%
+CSACKKAITTGGVTYQEKPWHRECF-
+>gi|91082225|ref|XP_976021.1|(420-444:539) PREDICTED: similar to Limpet CG32171-PD isoform 4 [Tribolium castaneum]  E=0.0003 s/c=1.94 id=62% cov=100%
+CIKCNKVITSGGVTYKNEPWHRECF-
+>gi|166797040|gb|AAI59223.1|(162-186:280) Four and a half LIM domains [Danio rerio]   E=0.0003 s/c=1.92 id=73% cov=100%
+CACCKKPITTGGVNYQDQPWHSECF-
+>gi|225715518|gb|ACO13605.1|(178-202:296) Four and a half LIM domains protein 1 [Esox lucius]   E=0.0007 s/c=1.88 id=62% cov=100%
+CFHCKQPITSGGISYQDQPWHSECF-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1729	0	0	
+
+V 2    3323	*	*	*	3297	*	*	2677	*	*	4651	*	*	*	*	2541	*	1379	*	4445	2
+       0	*	*	*	*	*	*	1729	0	0	
+
+Q 3    4196	4580	*	*	*	4363	3513	*	1100	*	*	*	*	2645	*	3497	*	*	*	4255	3
+       0	*	*	*	*	*	*	1729	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1729	0	0	
+
+K 5    *	*	*	*	*	*	*	*	673	*	*	1935	*	4492	3902	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1729	0	0	
+
+K 6    *	*	*	*	*	*	*	*	328	*	4255	4106	*	3427	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1729	0	0	
+
+P 7    2704	*	*	*	*	*	*	2980	*	*	*	*	949	*	*	*	*	2308	*	*	7
+       0	*	*	*	*	*	*	1729	0	0	
+
+I 8    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1729	0	0	
+
+T 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3902	100	*	*	*	9
+       0	*	*	*	*	*	*	1729	0	0	
+
+T 10   4310	*	*	*	*	*	*	*	*	*	*	*	*	*	*	928	1238	*	*	*	10
+       0	*	*	*	*	*	*	1729	0	0	
+
+G 11   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1729	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1729	0	0	
+
+V 13   *	*	*	*	*	*	*	3327	*	4106	*	*	*	*	*	*	*	248	*	*	13
+       0	*	*	*	*	*	*	1729	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	*	2514	*	*	*	2528	618	*	*	*	14
+       0	*	*	*	*	*	*	1729	0	0	
+
+Y 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	15
+       0	*	*	*	*	*	*	1729	0	0	
+
+R 16   *	*	*	*	*	*	3478	*	2064	*	*	*	*	1249	1999	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1729	0	0	
+
+E 17   *	*	1033	2128	*	*	*	*	*	*	*	1822	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1729	0	0	
+
+Q 18   *	*	*	1822	*	*	*	*	4196	*	*	*	*	594	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1729	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1729	0	0	
+
+W 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	20
+       0	*	*	*	*	*	*	1729	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1729	0	0	
+
+K 22   4313	*	*	*	*	*	*	*	2208	*	*	*	*	*	1261	1662	*	*	*	*	22
+       0	*	*	*	*	*	*	1729	0	0	
+
+E 23   *	*	3499	286	*	*	3454	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1729	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1729	0	0	
+
+F 25   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1729	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

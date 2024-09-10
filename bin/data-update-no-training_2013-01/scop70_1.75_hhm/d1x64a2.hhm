@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1x64a2 g.39.1.3 (A:53-83) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1x64a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x64a2.a3m -v 1 
+DATE  Tue Jan 22 04:15:16 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  34 out of 36 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCEEECCEEEECCCCCCCC
+>ss_conf
+9676678631255165478553233322369
+>Consensus
+vCxdCxxNLKqkGxFfvexxlyCExHArxRx
+>d1x64a2 g.39.1.3 (A:53-83) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+VCADCNLNLKQKGYFFVEGELYCETHARART
+>gi|410917726|ref|XP_003972337.1|(270-299:315) PREDICTED: PDZ and LIM domain protein 3-like [Takifugu rubripes]   E=5e-08 s/c=2.03 id=74% cov=100%
+VCSHCDVNLKQQGYFFVEGQLYCEAHARAR-
+>gi|111955351|ref|NP_001036183.1|(270-299:315) PDZ and LIM domain protein 3 [Danio rerio] >gi|110456871|gb|ABG74896.1| PDZ-LIM protein ALP [Danio rerio] >gi|190337724|gb|AAI63828.1| PDZ and LIM domain 3b [Danio rerio] >gi|190337730|gb|AAI63837.1| PDZ and LIM domain 3b [Danio rerio] >gi|220678628|emb|CAX12844.1| PDZ and LIM domain 3b [Danio rerio]  E=5e-08 s/c=2.03 id=71% cov=100%
+VCSDCGMNLKQKGYFFVDGQMYCEAHARMR-
+>gi|395504395|ref|XP_003756537.1|(317-346:367) PREDICTED: PDZ and LIM domain protein 4 [Sarcophilus harrisii]   E=1e-07 s/c=1.98 id=71% cov=100%
+MCSDCGLNLKQRGYFFIEERLYCETHAKAR-
+>gi|126272939|ref|XP_001367140.1|(284-313:328) PREDICTED: PDZ and LIM domain protein 1-like [Monodelphis domestica]  E=2e-05 s/c=1.75 id=68% cov=100%
+VCSDCGTNLKQKGHFFVEDCIYCEKHARER-
+>gi|345321234|ref|XP_001517437.2|(340-369:380) PREDICTED: PDZ and LIM domain protein 2-like [Ornithorhynchus anatinus]  E=6e-05 s/c=1.69 id=65% cov=100%
+VCADCGLNLKMRGHFWVGDELFCEKHARLR-
+>gi|66773346|ref|NP_001019547.1|(269-299:307) PDZ and LIM domain protein 3 [Danio rerio] >gi|66267277|gb|AAH95249.1| PDZ and LIM domain 3a [Danio rerio]  E=1e-08 s/c=2.01 id=62% cov=103%
+VCTECEENLKQKGYYFIDDELYCESHAHARA
+>gi|405960428|gb|EKC26353.1|(281-308:324) PDZ and LIM domain protein 1 [Crassostrea gigas]   E=8e-07 s/c=2.01 id=62% cov=94%
+-CTSCGVNLKQKGYFVVDGRLYCEVHAKQ--
+>gi|148223377|ref|NP_001088581.1|(111-139:150) PDZ and LIM domain 2 (mystique) [Xenopus laevis] >gi|54648213|gb|AAH85021.1| LOC495459 protein [Xenopus laevis]  E=1e-05 s/c=1.81 id=50% cov=97%
+VCTDCGMNLRMRGHFWAGEQLVCEKHARA--
+>gi|119586140|gb|EAW65736.1|(220-246:322) hCG1642409, isoform CRA_b [Homo sapiens]   E=1e-05 s/c=1.95 id=57% cov=90%
+LCTDCCTNLKQRDHFFVEDQIYCEKHA----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	3931	*	4092	2557	*	*	*	*	*	*	503	*	*	1
+       0	*	*	*	*	*	*	1865	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1914	0	0	
+
+A 3    3052	*	3242	*	*	*	*	*	*	*	*	*	*	*	*	1416	1326	*	*	*	3
+       0	*	*	*	*	*	*	1914	0	0	
+
+D 4    *	*	319	3546	*	*	4698	*	*	*	*	5248	*	*	*	4384	*	*	*	*	4
+       0	*	*	*	*	*	*	1925	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1925	0	0	
+
+N 6    *	4530	2645	3308	*	787	*	*	*	*	*	3105	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1925	0	0	
+
+L 7    *	*	*	3308	*	*	*	4411	*	1533	2837	*	*	*	*	*	3251	1936	*	*	7
+       0	*	*	*	*	*	*	1925	0	0	
+
+N 8    *	*	*	*	*	*	*	*	*	*	*	72	*	*	*	4370	*	*	*	*	8
+       0	*	*	*	*	*	*	1925	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1925	0	0	
+
+K 10   *	*	*	*	*	*	*	*	95	*	*	*	*	*	3970	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1925	0	0	
+
+Q 11   *	*	*	*	*	*	*	*	*	*	2369	*	*	310	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1925	0	0	
+
+K 12   *	*	*	*	*	*	*	*	808	*	*	*	*	4698	1357	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1925	0	0	
+
+G 13   *	*	4530	*	*	64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1925	0	0	
+
+Y 14   *	*	*	*	*	*	1005	*	*	*	*	*	*	*	*	*	*	*	*	995	14
+       0	*	*	*	*	*	*	1925	0	0	
+
+F 15   *	*	*	*	78	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4248	15
+       0	*	*	*	*	*	*	1925	0	0	
+
+F 16   *	*	*	*	399	*	*	*	*	*	*	*	*	*	*	*	*	4384	2369	*	16
+       0	*	*	*	*	*	*	1925	0	0	
+
+V 17   3970	*	*	*	*	*	*	2141	*	4204	*	*	*	*	*	*	*	610	*	*	17
+       0	*	*	*	*	*	*	1925	0	0	
+
+E 18   *	*	2119	849	*	2221	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1925	0	0	
+
+G 19   *	*	1057	2036	*	2017	*	*	*	*	*	5140	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1925	0	0	
+
+E 20   *	4424	*	2223	*	*	*	*	3234	*	*	3621	*	1331	3355	*	5320	4981	*	*	20
+       0	*	*	*	*	*	*	1925	0	0	
+
+L 21   *	*	*	*	*	*	*	1708	*	854	2829	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1925	0	0	
+
+Y 22   *	*	*	*	3430	*	*	*	*	*	*	*	*	*	*	*	*	3970	*	246	22
+       0	*	*	*	*	*	*	1925	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1925	0	0	
+
+E 24   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1925	0	0	
+
+T 25   3129	*	*	*	*	*	*	5374	1260	*	5308	*	*	*	*	3215	1925	4384	*	*	25
+       0	*	*	*	*	*	*	1925	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1925	0	0	
+
+A 27   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1925	0	0	
+
+R 28   *	*	*	*	*	*	3255	*	2254	*	4951	*	*	*	614	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1912	0	0	
+
+A 29   1043	*	*	1559	*	*	*	*	5121	4757	5059	*	*	3655	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1912	0	0	
+
+R 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1785	0	0	
+
+T 31   1732	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2080	1113	*	*	*	31
+       0	*	*	0	*	*	*	1363	0	0	
+
+//

@@ -1,0 +1,120 @@
+HHsearch 1.5
+NAME  d1ozbi_ g.74.1.1 (I:) Preprotein translocase SecA C-terminal domain {Haemophilus influenzae [TaxId: 727]}
+FAM   g.74.1.1
+FILE  d1ozbi_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ozbi_.a3m -v 1 
+DATE  Tue Jan 22 00:31:19 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  103 out of 863 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHCCCCCCCC
+>ss_conf
+98888896888613432147534579
+>Consensus
+igrNxxCpCGSGkKyKxCcgxxxAxx
+>d1ozbi_ g.74.1.1 (I:) Preprotein translocase SecA C-terminal domain {Haemophilus influenzae [TaxId: 727]}
+IGRNEPCPCGSGKKYKHCHGSRVAXX
+>gi|355671735|ref|ZP_09058004.1|(10-33:296) methionine aminopeptidase, type I [Clostridium citroniae WAL-17108] >gi|354815534|gb|EHF00127.1| methionine aminopeptidase, type I [Clostridium citroniae WAL-17108]  E=0.0002 s/c=2.02 id=52% cov=96%
+LGRNDLCWCKSGRKYKKCHSDFDA--
+>gi|257453625|ref|ZP_05618915.1|(159-182:182) SEC-C motif domain protein [Enhydrobacter aerosaccus SK60] >gi|257449083|gb|EEV24036.1| SEC-C motif domain protein [Enhydrobacter aerosaccus SK60]  E=0.0002 s/c=2.01 id=52% cov=96%
+VTQKQPCPCGSGEKYKRCCGQFLA--
+>gi|257093434|ref|YP_003167075.1|(4-27:805) SEC-C motif domain-containing protein [Candidatus Accumulibacter phosphatis clade IIA str. UW-1] >gi|257045958|gb|ACV35146.1| SEC-C motif domain protein [Candidatus Accumulibacter phosphatis clade IIA str. UW-1]  E=3e-08 s/c=2.54 id=56% cov=96%
+VGRNDPCPCGSGRKFKACCQAKSA--
+>gi|429194890|ref|ZP_19186955.1|(368-389:390) hypothetical protein STRIP9103_01900 [Streptomyces ipomoeae 91-03] >gi|428669409|gb|EKX68367.1| hypothetical protein STRIP9103_01900 [Streptomyces ipomoeae 91-03]  E=6e-06 s/c=2.42 id=57% cov=88%
+--RNGPCWCGSQRKYKKCCGNPAA--
+>gi|170700548|ref|ZP_02891550.1|(284-305:306) SEC-C motif domain protein [Burkholderia ambifaria IOP40-10] >gi|170134538|gb|EDT02864.1| SEC-C motif domain protein [Burkholderia ambifaria IOP40-10]  E=1e-05 s/c=2.37 id=57% cov=88%
+VPRNARCPCGSGKRYKECCGAL----
+>gi|410636270|ref|ZP_11346867.1|(366-387:388) SecC motif-containing protein [Glaciecola lipolytica E3] >gi|410144171|dbj|GAC14072.1| SecC motif-containing protein [Glaciecola lipolytica E3]  E=1e-05 s/c=2.37 id=57% cov=88%
+LSRNDICHCGSGLKFKHCHGKL----
+>gi|149196975|ref|ZP_01874028.1|(458-480:488) arylsulphatase A [Lentisphaera araneosa HTCC2155] >gi|149140085|gb|EDM28485.1| arylsulphatase A [Lentisphaera araneosa HTCC2155]  E=2e-05 s/c=2.23 id=55% cov=85%
+IGLNDPCPCGKDVRYKKCCGK-----
+>gi|160940018|ref|ZP_02087363.1|(569-590:590) hypothetical protein CLOBOL_04907 [Clostridium bolteae ATCC BAA-613] >gi|158436598|gb|EDP14365.1| hypothetical protein CLOBOL_04907 [Clostridium bolteae ATCC BAA-613]  E=9e-05 s/c=2.25 id=52% cov=88%
+IDPDAPCPCGSGKRYRQCCGRK----
+>gi|221133448|ref|ZP_03559753.1|(160-183:183) SEC-C motif domain protein [Glaciecola sp. HTCC2999]   E=0.0006 s/c=1.96 id=56% cov=96%
+IKRNDKCVCGSNKKYKQCCLPKVA--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	1004	*	2967	5158	*	*	*	*	*	*	1534	*	*	1
+       0	*	*	*	*	*	*	2599	0	0	
+
+G 2    5490	*	5051	*	*	757	6768	*	4713	*	6790	5167	5270	*	6087	2427	4876	*	*	6472	2
+       0	*	*	*	*	*	*	2594	0	0	
+
+R 3    6274	*	*	*	*	5593	*	*	6031	4908	*	*	3587	5780	399	5205	*	5030	*	*	3
+       19	6239	*	2322	322	*	*	2603	1000	0	
+
+N 4    *	*	5426	*	*	*	*	*	5065	*	*	182	*	*	4544	5476	*	*	*	*	4
+       0	*	*	*	*	*	*	2603	0	0	
+
+E 5    2845	*	1324	2434	*	5793	*	*	5209	*	*	4959	*	3580	5608	5158	4748	5079	*	*	5
+       0	*	*	*	*	*	*	2603	0	0	
+
+P 6    4600	*	5197	5305	5593	*	5453	6962	4182	3041	7026	6177	935	4361	4704	6075	5977	5993	*	*	6
+       0	*	*	*	*	*	*	2603	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2603	0	0	
+
+P 8    6606	*	6985	6997	*	6193	4623	5668	*	6765	*	*	531	*	*	5389	6769	4157	3306	6840	8
+       0	*	*	*	*	*	*	2603	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2603	0	0	
+
+G 10   *	*	5098	5330	*	233	6304	*	5829	6540	*	4570	*	6367	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2603	0	0	
+
+S 11   5079	*	*	*	*	*	*	*	4908	*	*	*	*	*	*	94	*	*	*	*	11
+       0	*	*	*	*	*	*	2603	0	0	
+
+G 12   5606	*	4908	5977	*	315	*	*	5403	*	*	5738	*	5756	5580	6074	5079	*	*	*	12
+       0	*	*	*	*	*	*	2603	0	0	
+
+K 13   *	*	6083	4087	*	*	6596	4877	842	3729	5296	6113	*	4780	2922	*	*	4627	*	*	13
+       43	5079	*	2585	263	*	*	2603	1000	0	
+
+K 14   *	*	*	*	*	*	*	*	447	*	*	*	5433	*	2154	*	5758	*	*	*	14
+       0	*	*	*	*	*	*	2603	0	0	
+
+Y 15   *	*	*	*	1765	*	*	*	*	4784	*	*	*	*	*	*	*	*	5775	619	15
+       0	*	*	*	*	*	*	2603	0	0	
+
+K 16   *	*	*	5330	*	5419	*	*	129	*	*	*	*	*	4748	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2603	0	0	
+
+H 17   3786	*	5419	4607	6922	*	2433	*	1981	5977	*	3490	*	2805	3343	6109	*	5593	*	4850	17
+       0	*	*	*	*	*	*	2603	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2603	0	0	
+
+H 19   *	839	*	*	*	*	1181	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2603	0	0	
+
+G 20   4197	*	*	6507	*	331	*	*	*	4850	4905	*	*	6535	*	4661	*	*	*	5557	20
+       0	*	*	*	*	*	*	2575	0	0	
+
+S 21   2636	*	5734	6483	*	5915	*	*	1798	*	6643	3773	4208	4253	2598	2938	5663	*	*	*	21
+       0	*	*	*	*	*	*	2563	0	0	
+
+R 22   4435	*	5221	6052	4417	5107	*	3668	2773	2119	5408	3315	4624	5621	3069	4653	6661	5877	*	6617	22
+       0	*	*	*	*	*	*	2629	0	0	
+
+V 23   3750	*	4165	3056	*	4507	*	3257	5379	3174	5810	*	5387	5999	4878	4901	3115	2318	*	5296	23
+       0	*	*	*	*	*	*	2685	0	0	
+
+A 24   128	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3563	*	*	*	*	24
+       0	*	*	*	*	*	*	2488	0	0	
+
+X 25   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	25
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

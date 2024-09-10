@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1b9wa1 g.3.11.4 (A:1-45) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium cynomolgi) [TaxId: 5827]}
+FAM   g.3.11.4
+FILE  d1b9wa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1b9wa1.a3m -v 1 
+DATE  Mon Jan 21 18:48:57 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCEEEECCCCCCCCCEEECCCCCEEEEEEEEECCCCEECCCC
+>ss_conf
+998740240458877551332388813566410241585664789
+>Consensus
+xxsxHxCidTxxPeNAgCxRyxdgxEEwRCLLxfKxxxxxCVxxp
+>d1b9wa1 g.3.11.4 (A:1-45) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium cynomolgi) [TaxId: 5827]}
+MSSEHRCIDTNVPENAACYRYLDGTEEWRCLLYFKEDAGKCVPAP
+>gi|5733668|gb|AAD49710.1|(2-44:94) merozoite surface protein-1 [Plasmodium yoelii] >gi|5733670|gb|AAD49711.1| merozoite surface protein-1 [Plasmodium yoelii]  E=2e-05 s/c=1.22 id=53% cov=96%
+VDPKHVCVDTsNIPEHAGCFRYDDGHEEWKCLLGFKRENNTCV---
+>gi|66570964|emb|CAH10838.1|(1516-1556:1622) merozoite surface protein 1 [Plasmodium gallinaceum]   E=2e-05 s/c=1.27 id=48% cov=93%
+--SKHKCLKTVCPINAGCIRRLNGEEECRCFLNYKKDGNICIP--
+>gi|153607566|dbj|BAF74050.1|(1721-1765:1830) merozoite surface protein-1 [Plasmodium hylobati]   E=3e-18 s/c=2.09 id=70% cov=102%
+IGTGHKCIDTQVPENAACYRYLDGREEWRCKLNFKKEGDKCVPAP
+>gi|269854048|gb|ACZ51238.1|(1622-1665:1730) merozoite surface protein 1 [Plasmodium ovale]   E=7e-17 s/c=2.04 id=58% cov=100%
+MGSKHKCIDITYPDNAGCYRFSDGREEWRCLLNFKKVGETCVPN-
+>gi|127329|sp|P04934.2|MSP1_PLAFC(1615-1657:1726) RecName: Full=Merozoite surface protein 1; AltName: Full=Merozoite surface antigens; AltName: Full=PMMSA; AltName: Full=p195; Flags: Precursor >gi|9895|emb|CAA27446.1| unnamed protein product [Plasmodium falciparum]  E=2e-15 s/c=1.97 id=45% cov=98%
+--SQHQCVKKQCPENSGCFRHLDEREECKCLLNYKQEGDKCVENP
+>gi|160598|gb|AAA29730.1|(1668-1712:1785) major merozoite surface antigen [Plasmodium chabaudi] >gi|222425459|dbj|BAH20668.1| merozoite surface protein 1 [Plasmodium chabaudi chabaudi]  E=4e-15 s/c=1.86 id=59% cov=98%
+IGSNHVCISTSTPDNAGCFRYDDGTEEWRCLLGFKKddDGNRCVA--
+>gi|68073181|ref|XP_678505.1|(1442-1485:1556) merozoite surface protein 1, precursor [Plasmodium berghei strain ANKA] >gi|56498995|emb|CAH95614.1| merozoite surface protein 1, precursor, putative [Plasmodium berghei]  E=3e-14 s/c=1.84 id=45% cov=98%
+IDPKHVCINTrDIPANAGCFRYDNGNEEWRCLLGYKKNNNTCIE--
+>gi|269854046|gb|ACZ51237.1|(1642-1684:1751) merozoite surface protein 1 [Plasmodium malariae]   E=1e-13 s/c=1.84 id=55% cov=98%
+ISAKHACTETKYPENAGCYRYEDGKEVWRCLLNYKLVDGGCVE--
+>gi|82596427|ref|XP_726257.1|(1657-1702:1772) merozoite surface protein 1 precursor [Plasmodium yoelii yoelii 17XNL] >gi|127336|sp|P13828.1|MSP1_PLAYO RecName: Full=Merozoite surface protein 1; AltName: Full=230 kDa merozoite surface antigen; Short=Py230; AltName: Full=Merozoite surface antigens; AltName: Full=PMMSA; Flags: Precursor >gi|160493|gb|AAA29702.1| major merozoite surface antigen [Plasmodium yoelii] >gi|23481590|gb|EAA17822.1| merozoite surface protein 1 precursor [Plasmodium yoelii yoelii]  E=1e-13 s/c=1.71 id=47% cov=100%
+VDPKHVCVDTrDIPKNAGCFRDDNGTEEWRCLLGYKKgEGNTCVEN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	1245	*	*	1311	*	*	*	*	*	*	2515	*	*	1
+       0	*	*	*	*	*	*	1920	0	0	
+
+S 2    *	*	1853	*	*	1093	*	*	*	*	*	*	*	*	*	1974	*	*	*	*	2
+       0	*	*	*	*	*	*	1920	0	0	
+
+S 3    3775	*	*	*	*	*	*	*	*	*	*	*	2393	*	*	534	4436	*	*	*	3
+       0	*	*	*	*	*	*	2107	0	0	
+
+E 4    5075	*	4672	2045	*	4452	*	*	1270	*	*	2873	*	3444	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2093	0	0	
+
+H 5    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2093	0	0	
+
+R 6    3791	*	*	*	*	*	*	*	1255	*	*	*	*	3444	4713	*	4955	1528	*	*	6
+       0	*	*	*	*	*	*	2093	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 8    *	*	*	*	*	*	*	893	*	3658	*	*	*	*	*	*	3184	1877	*	*	8
+       0	*	*	*	*	*	*	2087	0	0	
+
+D 9    *	*	871	3943	*	4809	*	*	2189	*	*	3863	*	*	*	3955	*	*	*	*	9
+       0	*	*	*	*	*	*	2136	0	0	
+
+T 10   *	*	*	*	*	*	*	4331	3874	*	*	*	*	*	*	*	181	*	*	*	10
+       336	2266	*	0	*	*	*	2136	1351	0	
+
+N 11   *	*	2808	*	*	*	*	*	3943	*	3726	1767	*	3242	4108	4968	3585	2797	*	*	11
+       0	*	*	*	*	*	*	2136	0	0	
+
+V 12   *	2799	*	*	*	*	*	1647	*	*	*	*	*	*	*	*	3455	1594	*	3124	12
+       0	*	*	*	*	*	*	2136	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	113	3726	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2136	0	0	
+
+E 14   4574	*	2269	1004	*	*	*	3728	3311	*	*	*	*	3726	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2136	0	0	
+
+N 15   *	*	*	*	*	*	3939	*	*	*	*	219	*	*	*	3726	*	*	*	*	15
+       0	*	*	*	*	*	*	2136	0	0	
+
+A 16   224	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2798	*	*	*	*	16
+       0	*	*	*	*	*	*	2136	0	0	
+
+A 17   1594	*	*	*	*	580	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2136	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2136	0	0	
+
+Y 19   *	*	*	*	1063	*	*	3728	*	*	*	*	*	*	*	*	*	*	*	1165	19
+       0	*	*	*	*	*	*	2136	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2136	0	0	
+
+Y 21   *	*	3846	*	4331	*	2798	*	*	*	*	*	*	*	3728	*	*	*	*	596	21
+       0	*	*	*	*	*	*	2136	0	0	
+
+L 22   *	*	1578	3943	5000	*	*	*	*	946	*	*	*	*	*	4331	*	*	*	*	22
+       0	*	*	*	*	*	*	2136	0	0	
+
+D 23   *	*	417	*	*	*	*	*	*	*	*	1995	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2136	0	0	
+
+G 24   *	*	*	2798	*	224	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2136	0	0	
+
+T 25   *	*	*	3728	*	*	4717	*	2972	*	*	3771	*	*	1643	*	1452	*	*	*	25
+       0	*	*	*	*	*	*	2136	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2136	0	0	
+
+E 27   *	*	*	97	*	*	*	*	*	*	*	*	*	*	*	*	*	3943	*	*	27
+       0	*	*	*	*	*	*	2136	0	0	
+
+W 28   *	2189	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	357	*	28
+       0	*	*	*	*	*	*	2136	0	0	
+
+R 29   *	*	*	*	*	*	*	*	2459	*	*	*	*	*	290	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2136	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2136	0	0	
+
+L 31   *	*	*	*	3728	*	*	*	4738	173	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2136	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2136	0	0	
+
+Y 33   *	*	*	*	*	1464	*	*	5017	*	*	994	*	*	*	*	3882	*	*	4777	33
+       0	*	*	*	*	*	*	2136	0	0	
+
+F 34   *	*	*	*	893	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1115	34
+       0	*	*	*	*	*	*	2136	0	0	
+
+K 35   *	*	*	*	*	*	*	*	61	*	*	*	*	*	4604	*	*	*	*	*	35
+       102	3874	*	1000	1000	*	*	2136	1107	0	
+
+E 36   4604	*	4809	2165	*	*	*	*	1354	3382	*	*	*	2798	3851	*	*	*	*	*	36
+       93	3999	*	562	1631	*	*	2136	1273	0	
+
+D 37   *	*	1764	1283	*	4684	*	*	*	4893	*	4574	*	*	*	*	*	2474	*	*	37
+       0	*	*	*	*	*	*	2136	0	0	
+
+A 38   4747	*	3914	3110	*	928	*	*	*	*	*	2207	*	*	*	4705	*	*	*	*	38
+       0	*	*	*	*	*	*	2135	0	0	
+
+G 39   *	*	2831	4305	*	1418	*	*	*	*	*	1806	*	*	*	3717	3787	*	*	*	39
+       0	*	*	*	*	*	*	2135	0	0	
+
+K 40   *	*	*	*	*	3307	*	3715	1045	*	*	4652	*	*	3795	*	2145	*	*	*	40
+       59	4652	*	0	*	*	*	2135	1000	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2135	0	0	
+
+V 42   *	*	*	*	*	*	*	2646	*	*	*	*	*	*	*	*	*	251	*	*	42
+       0	*	*	*	*	*	*	2126	0	0	
+
+P 43   2832	*	*	1395	*	*	*	*	*	*	*	*	1061	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2112	0	0	
+
+A 44   783	*	*	*	*	*	*	*	*	*	*	1256	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1855	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	1574	0	0	
+
+//

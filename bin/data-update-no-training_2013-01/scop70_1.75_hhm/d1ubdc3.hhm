@@ -1,0 +1,132 @@
+HHsearch 1.5
+NAME  d1ubdc3 g.37.1.1 (C:351-380) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1ubdc3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ubdc3.a3m -v 1 
+DATE  Tue Jan 22 02:58:16 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  115 out of 8953 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCEECCCCCCCCEEEECCCCEEEEEEECCC
+>ss_conf
+960579999887553546681554675279
+>Consensus
+kpfxCxxxgCxkxFxxxxxLxxHxrxHtgE
+>d1ubdc3 g.37.1.1 (C:351-380) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+KPFQCTFEGCGKRFSLDFNLRTHVRIHTGD
+>gi|340379004|ref|XP_003388017.1|(438-467:1305) PREDICTED: hypothetical protein LOC100641938 [Amphimedon queenslandica]  E=4e-05 s/c=1.69 id=35% cov=103%
+KPYVCTWPLCDRKFTRSDELHRHLKTHTGE
+>gi|345492909|ref|XP_001599170.2|(130-157:822) PREDICTED: hypothetical protein LOC100113921 [Nasonia vitripennis]   E=0.0001 s/c=1.75 id=38% cov=97%
+--YTCEYDGCSRTYSTVGNLRTHMKTHKGE
+>gi|242011176|ref|XP_002426331.1|(190-219:307) transforming growth factor-beta-inducible early growth response protein, putative [Pediculus humanus corporis] >gi|212510408|gb|EEB13593.1| transforming growth factor-beta-inducible early growth response protein, putative [Pediculus humanus corporis]  E=6e-06 s/c=1.78 id=35% cov=103%
+RIFKCQHLGCTKNYFKSSHLKAHMRTHTGE
+>gi|358389664|gb|EHK27256.1|(230-255:491) hypothetical protein TRIVIDRAFT_140226 [Trichoderma virens Gv29-8]   E=0.001 s/c=1.78 id=37% cov=90%
+----CDGPNCGKAFVQKTHRDIHRRTHTGQ
+>gi|344290001|ref|XP_003416728.1|(479-509:1503) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein GLI2-like [Loxodonta africana]  E=0.0003 s/c=1.54 id=35% cov=103%
+KPYVCEHEACNKAFSNASDRAKHQnRTHSNE
+>gi|156841446|ref|XP_001644096.1|(431-454:510) hypothetical protein Kpol_505p15 [Vanderwaltozyma polyspora DSM 70294] >gi|156114731|gb|EDO16238.1| hypothetical protein Kpol_505p15 [Vanderwaltozyma polyspora DSM 70294]  E=0.0008 s/c=1.93 id=38% cov=80%
+KPYICKVDGCNKKFTQLGNMKVH-------
+>gi|241695315|ref|XP_002413051.1|(379-407:879) zinc finger protein, putative [Ixodes scapularis] >gi|215506865|gb|EEC16359.1| zinc finger protein, putative [Ixodes scapularis]  E=0.0005 s/c=1.62 id=33% cov=100%
+RPFKCPEEDCDWAFATEYKLKRHQETHAG-
+>gi|392592340|gb|EIW81666.1|(333-360:558) hypothetical protein CONPUDRAFT_136509 [Coniophora puteana RWD-64-598 SS2]  E=4e-05 s/c=1.81 id=38% cov=97%
+RPYRCPYPGCGREFNVNSNMRRHWRNHS--
+>gi|156837011|ref|XP_001642542.1|(608-635:756) hypothetical protein Kpol_344p4 [Vanderwaltozyma polyspora DSM 70294] >gi|156113084|gb|EDO14684.1| hypothetical protein Kpol_344p4 [Vanderwaltozyma polyspora DSM 70294]  E=0.0005 s/c=1.68 id=31% cov=97%
+RPYICDFQECNKSFVRNHDLVRHKKSHS--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	719	*	*	*	*	*	1349	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4762	0	0	
+
+P 2    5719	6580	5992	*	*	*	*	5396	3356	*	6698	6337	691	5310	3611	4686	5851	5114	*	*	2
+       0	*	*	*	*	*	*	4768	0	0	
+
+F 3    *	*	*	*	1178	*	2798	*	*	5810	*	6458	*	*	*	*	*	*	5857	1443	3
+       0	*	*	*	*	*	*	4936	0	0	
+
+Q 4    3875	*	*	4459	6616	5607	*	3909	2082	5692	7152	*	4683	4288	3440	5477	4013	2002	*	6616	4
+       0	*	*	*	*	*	*	4936	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	4936	0	0	
+
+T 6    6901	*	3258	3252	*	5715	4461	*	3646	*	*	4110	1913	4260	5348	3588	2790	*	6668	*	6
+       15	*	6589	*	*	*	*	4936	0	0	
+
+F 7    5097	*	*	3597	2461	*	2954	4150	*	4210	*	*	*	*	*	6439	5730	3323	3063	2204	7
+       65	*	4514	*	*	*	0	4924	0	1000	
+
+E 8    5017	*	3660	2524	*	4900	5326	6628	3695	4539	*	5683	1487	5148	5225	4319	5293	5605	*	*	8
+       0	*	*	*	*	2665	248	4971	0	2527	
+
+G 9    6778	*	3217	3768	6826	1018	6511	5781	6319	*	*	2847	*	6501	6004	4739	3998	*	*	*	9
+       0	*	*	*	*	0	*	4987	0	2514	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	4936	0	0	
+
+G 11   6886	*	2633	4185	*	1497	4970	*	4149	6549	*	2915	5799	4959	5063	4987	4047	5833	*	*	11
+       0	*	*	*	*	*	*	4936	0	0	
+
+K 12   4908	*	5972	6608	*	*	*	*	656	*	5189	6369	*	5849	2467	5319	*	*	5613	5476	12
+       0	*	*	*	*	*	*	4936	0	0	
+
+R 13   2446	*	6824	6587	*	5216	6186	*	4041	6147	5558	5900	5833	4847	2326	2151	3262	4496	6616	6941	13
+       0	*	*	*	*	*	*	4936	0	0	
+
+F 14   *	*	*	*	241	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2701	14
+       0	*	*	*	*	*	*	4936	0	0	
+
+S 15   2577	6733	*	*	5889	4412	5728	5361	3891	4390	6820	3869	6376	*	5173	2575	2087	5134	*	4263	15
+       0	*	*	*	*	*	*	4936	0	0	
+
+L 16   6002	*	4565	6884	*	*	6708	*	3491	5885	*	4370	*	3204	1631	4414	2223	4460	5811	6147	16
+       0	*	*	*	*	*	*	4936	0	0	
+
+D 17   4083	*	6898	6435	5858	5972	4563	*	2324	3742	4700	4494	4321	4489	3410	2103	5959	4299	*	*	17
+       0	*	*	*	*	*	*	4936	0	0	
+
+F 18   4817	*	3358	3694	5318	3070	3998	*	6340	*	*	4852	*	4806	6689	1822	4571	4927	5811	3120	18
+       0	*	*	*	*	*	*	4936	0	0	
+
+N 19   3674	*	3210	4256	*	*	2058	6896	4345	5685	*	1833	*	5456	4440	4114	5574	5972	*	*	19
+       0	*	*	*	*	*	*	4936	0	0	
+
+L 20   6667	6624	*	*	6847	*	*	5859	6736	355	3987	*	*	5851	4581	*	*	4613	*	*	20
+       0	*	*	*	*	*	*	4936	0	0	
+
+R 21   4043	6578	4397	4822	*	5496	*	5494	1626	4792	*	5729	*	3885	2462	5396	3037	5710	*	6825	21
+       0	*	*	*	*	*	*	4936	0	0	
+
+T 22   3461	*	4126	4683	*	4688	*	4220	3554	*	*	5773	*	4830	1659	3840	3401	3311	*	*	22
+       0	*	*	*	*	*	*	4936	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	4936	0	0	
+
+V 24   5763	*	*	3252	5511	*	*	3231	4134	3045	2626	5622	*	2722	4542	4903	5208	3486	6587	4917	24
+       59	4649	*	0	*	*	*	4936	2219	0	
+
+R 25   5648	6375	*	5614	6632	*	6107	*	2835	4118	*	6721	*	4615	679	5788	6568	6157	*	6972	25
+       8	7451	*	0	*	*	*	4939	1000	0	
+
+I 26   4791	4773	*	*	6236	5667	*	2629	3983	3837	6575	5114	*	*	4333	4069	1620	2995	*	*	26
+       0	*	*	*	*	*	*	4939	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	4941	0	0	
+
+T 28   5394	*	*	5444	*	*	*	*	4405	4753	*	4730	*	6131	5119	2408	738	*	*	*	28
+       0	*	*	*	*	*	*	4803	0	0	
+
+G 29   6055	*	4867	*	*	482	*	*	5558	6528	6271	2894	*	4881	*	5541	*	*	*	*	29
+       0	*	*	*	*	*	*	4510	0	0	
+
+D 30   *	*	2763	406	*	*	*	*	*	*	*	*	*	3352	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	4500	0	0	
+
+//

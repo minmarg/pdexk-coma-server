@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1ahla_ g.9.1.1 (A:) Anthopleurin-A {Giant green sea anemone (Anthopleura xanthogrammica) [TaxId: 6112]}
+FAM   g.9.1.1
+FILE  d1ahla_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ahla_.a3m -v 1 
+DATE  Mon Jan 21 18:51:01 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCEEEEEEECCCCCHHHHHHCCCCCCHHHHCCC
+>ss_conf
+9875436888875577520477732488800122002578704220069
+>Consensus
+GvpCxCdsDGPxvRgntLsGtvWxxxxxCpsGWhxCxxxxxxixxCCkx
+>d1ahla_ g.9.1.1 (A:) Anthopleurin-A {Giant green sea anemone (Anthopleura xanthogrammica) [TaxId: 6112]}
+GVSCLCDSDGPSVRGNTLSGTLWLYPSGCPSGWHNCKAHGPTIGWCCKQ
+>gi|136521|sp|P01533.1|TXA1_ANESU(1-46:46) RecName: Full=Neurotoxin-1; AltName: Full=As1; AltName: Full=Toxin ATX-I >gi|159162089|pdb|1ATX|A Chain A, Three-Dimensional Structure Of The Neurotoxin Atx Ia From Anemonia Sulcata In Aqueous Solution Determined By Nuclear Magnetic Resonance Spectroscopy  E=2e-08 s/c=1.36 id=62% cov=96%
+GAACLCKSDGPNTRGNSMSGTIWVF--GCPSGWNNCEGR-AIIGYCCKQ
+>gi|159492288|gb|ABW97332.1|(39-85:85) neurotoxin 1-2 precursor [Nematostella vectensis]   E=7e-06 s/c=1.14 id=48% cov=98%
+GIPCACDSDGPDIRSASLSGIVWM--GSCPSGWKKCKSYYSIVADCCNQ
+>gi|97217050|sp|P0C1F5.1|TX3_BUNGR(1-48:48) RecName: Full=Neurotoxin Bg-3; AltName: Full=Bg III; Short=BgIII   E=2e-06 s/c=1.15 id=69% cov=100%
+GASCRCDSDGPTSRGDTLTGTLWLIGR-CPSGWHNCRGSGPFIGYCCKQ
+>gi|159492340|gb|ABW97358.1|(29-82:82) putative neurotoxin 2-1 precursor [Actinia equina]   E=3e-09 s/c=1.20 id=52% cov=102%
+GVPCLCVSDGPRPRGNNLSGIMWMKTGgyggnGCPKGWHFCGKSRGFFSDCCKR
+>gi|158706401|sp|P0C5G5.1|TXRC1_HETCR(1-47:47) RecName: Full=Toxin Rc-1; AltName: Full=Rc I   E=8e-07 s/c=1.21 id=58% cov=98%
+GVPCRCDSDGPSVHGNTLSGTIWV--GSCETGWHKCNTEHNLFHECCKQ
+>gi|262215887|gb|ACY36938.1|(35-77:82) sodium channel neurotoxin [Urticina crassicornis]   E=0.0002 s/c=1.14 id=48% cov=90%
+-IPCRCDIDGPSVRG-TLSGSV--DPWNCNTGWKKCTSFYTAVASCC--
+>gi|57012555|sp|P69943.1|AETX1_ANEER(1-46:47) RecName: Full=Toxin AETX-1; AltName: Full=AETX I   E=0.0002 s/c=1.07 id=49% cov=96%
+GAPCLCANSGPNTRGNDLNGIVWVF--GCPSGWHDCHGRA-MVGYCCQE
+>gi|57012800|sp|Q76CA3.1|GIG2_STIGI(31-74:74) RecName: Full=Gigantoxin-2; AltName: Full=Gigantoxin II; Short=Gigt II; Flags: Precursor >gi|38304187|dbj|BAD01577.1| sodium channel toxin [Stichodactyla gigantea]  E=9e-09 s/c=1.44 id=69% cov=92%
+GVPCRCDSDGPHVRGNTLTGTVWVF--GCPSGWHKCQKGSST---CCKQ
+>gi|206557801|sp|B1B5I9.1|SHTX4_STIHA(36-81:84) RecName: Full=Sodium channel toxin SHTX-4; AltName: Full=Sodium channel toxin SHTX IV; Flags: Precursor >gi|169788689|dbj|BAG12825.1| sodium channel peptide toxin [Stichodactyla haddoni]  E=6e-09 s/c=1.39 id=38% cov=96%
+-AACKCDDDGPDIRSATLTGTV--DFWNCNEGWEKCTAVYTAVASCCRK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2171	0	0	
+
+V 2    1670	*	*	*	4406	*	*	2967	*	*	*	*	*	*	*	*	*	969	*	*	2
+       0	*	*	*	*	*	*	2497	0	0	
+
+S 3    1590	*	*	*	*	*	*	*	*	*	*	*	863	*	*	3082	*	*	*	*	3
+       0	*	*	*	*	*	*	2497	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2497	0	0	
+
+L 5    4587	*	*	*	*	*	*	*	2458	1126	*	*	*	*	1652	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2497	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2497	0	0	
+
+D 7    3275	*	483	4632	*	*	*	*	4463	*	*	*	*	*	*	*	*	3388	*	*	7
+       0	*	*	*	*	*	*	2497	0	0	
+
+S 8    4814	*	2458	*	*	*	*	4597	*	*	*	4008	*	*	*	558	*	*	*	*	8
+       0	*	*	*	*	*	*	2497	0	0	
+
+D 9    *	*	166	4419	*	*	*	*	*	*	*	*	*	*	*	4008	*	*	*	*	9
+       0	*	*	*	*	*	*	2497	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2497	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2497	0	0	
+
+S 12   *	*	1922	*	*	*	4926	*	*	*	*	2858	*	*	3488	1479	3092	*	*	*	12
+       0	*	*	*	*	*	*	2497	0	0	
+
+V 13   *	*	*	*	*	*	*	2384	*	*	*	*	3488	*	*	3716	2369	1154	*	*	13
+       0	*	*	*	*	*	*	2497	0	0	
+
+R 14   *	*	*	*	*	*	2971	*	*	*	*	*	*	*	257	4814	*	*	*	*	14
+       0	*	*	*	*	*	*	2497	0	0	
+
+G 15   *	*	*	*	*	442	*	*	*	*	*	*	*	*	*	2203	4419	*	*	*	15
+       61	*	4597	*	*	*	*	2497	0	0	
+
+N 16   1820	*	4386	*	*	*	*	*	*	*	*	580	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	0	*	2481	0	1000	
+
+T 17   *	*	4008	*	*	*	*	*	4474	*	*	4307	3412	*	*	2697	751	*	*	*	17
+       0	*	*	*	*	*	*	2497	0	0	
+
+L 18   *	*	*	*	3789	*	*	*	*	181	4463	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2497	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	4008	*	*	*	721	1594	*	*	*	19
+       0	*	*	*	*	*	*	2497	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2497	0	0	
+
+T 21   *	*	*	*	*	*	*	1841	*	*	*	*	*	*	*	4597	557	*	*	*	21
+       0	*	*	*	*	*	*	2497	0	0	
+
+L 22   *	*	*	*	*	*	*	1882	*	2472	4307	*	*	*	*	*	*	1097	*	5037	22
+       442	*	1923	*	*	*	*	2497	0	0	
+
+W 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	23
+       0	*	*	*	*	*	0	2183	0	1503	
+
+L 24   *	*	*	*	4321	*	*	*	*	1537	2252	*	*	*	*	*	*	1339	*	*	24
+       779	*	1262	*	*	0	*	2183	0	1503	
+
+Y 25   *	*	1489	*	1566	*	*	3894	2877	*	*	*	*	*	*	*	*	*	*	3287	25
+       595	*	1566	*	*	2727	236	2418	0	1806	
+
+P 26   *	*	*	*	3923	3466	*	*	*	1596	*	*	2051	*	*	*	1881	*	*	*	26
+       0	*	*	*	*	888	1122	2186	0	2009	
+
+S 27   2988	*	*	*	*	969	*	*	*	*	*	*	*	*	4022	3455	4106	*	2714	*	27
+       299	2995	4022	2322	322	0	*	2349	1135	1686	
+
+G 28   *	*	*	*	*	860	*	*	*	*	*	2989	*	*	*	1630	*	*	*	*	28
+       0	*	*	*	*	0	*	2468	0	1000	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2497	0	0	
+
+P 30   3545	*	*	4578	*	*	*	*	*	*	*	1923	716	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2497	0	0	
+
+S 31   4419	*	*	3276	*	*	*	*	3388	*	*	*	*	*	*	776	2551	*	*	*	31
+       0	*	*	*	*	*	*	2497	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2497	0	0	
+
+W 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	33
+       0	*	*	*	*	*	*	2497	0	0	
+
+H 34   *	*	*	2458	*	4602	625	*	3592	*	*	4463	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2497	0	0	
+
+N 35   *	*	3275	*	3388	*	*	5116	1103	*	*	1705	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2497	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2497	0	0	
+
+K 37   2803	*	*	4463	*	3388	4008	4632	2048	*	*	2971	*	4926	3290	*	3199	*	*	*	37
+       0	*	*	*	*	*	*	2497	0	0	
+
+A 38   2449	*	3952	*	*	2154	*	*	2709	*	*	*	*	*	*	1588	4578	*	*	*	38
+       0	*	*	*	*	*	*	2497	0	0	
+
+H 39   *	*	5116	2971	3751	4926	2692	*	*	*	*	*	*	*	2750	2307	4632	4690	*	2719	39
+       67	*	4463	*	*	*	*	2497	0	0	
+
+G 40   3171	*	*	*	*	1721	4530	*	*	*	*	4355	*	*	3329	4855	*	*	*	1476	40
+       170	*	3171	*	*	0	*	2475	0	1000	
+
+P 41   4180	*	*	4308	*	3241	*	*	*	*	*	3464	1622	*	*	3587	1786	*	*	*	41
+       0	*	*	*	*	0	*	2397	0	1279	
+
+T 42   3054	*	*	*	2981	*	*	2021	*	2604	4008	4694	*	*	*	*	2491	3976	*	*	42
+       48	*	4927	*	*	*	*	2497	0	0	
+
+I 43   3604	*	*	*	2790	*	*	1222	*	3637	*	*	*	*	*	*	*	1921	*	*	43
+       0	*	*	*	*	*	0	2492	0	1000	
+
+G 44   1668	*	*	*	*	1138	3436	*	*	*	*	*	*	*	*	3341	*	*	*	4653	44
+       0	*	*	*	*	*	0	2492	0	1000	
+
+W 45   4982	*	1788	2920	*	*	*	*	*	*	*	*	*	*	*	2697	4556	*	2639	2401	45
+       0	*	*	*	*	0	*	2492	0	1000	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2497	0	0	
+
+C 47   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2497	0	0	
+
+K 48   *	*	*	*	*	*	*	*	521	*	*	4444	*	3959	2375	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2481	0	0	
+
+Q 49   *	*	*	3268	*	*	*	*	1581	*	*	*	*	1321	2628	*	*	*	*	*	49
+       0	*	*	0	*	*	*	2481	0	0	
+
+//

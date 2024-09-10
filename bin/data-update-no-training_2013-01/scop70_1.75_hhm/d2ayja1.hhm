@@ -1,0 +1,210 @@
+HHsearch 1.5
+NAME  d2ayja1 g.41.8.7 (A:1-56) Ribosomal protein L40e {Sulfolobus solfataricus [TaxId: 2287]}
+FAM   g.41.8.7
+FILE  d2ayja1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ayja1.a3m -v 1 
+DATE  Tue Jan 22 05:43:56 2013
+LENG  56 match states, 56 columns in multiple alignment
+FILT  97 out of 99 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHCCCCHHHHHCCCCCCCCCCCCCCCCCCCCCCCHHCCCCCCC
+>ss_conf
+99857778999987411200110048879877623461788887621110456679
+>Consensus
+mPixePxlxxlAxkxxxxkxICrkCyArxppxAtxCRKChsxxLRpKkkxlxxkKx
+>d2ayja1 g.41.8.7 (A:1-56) Ribosomal protein L40e {Sulfolobus solfataricus [TaxId: 2287]}
+MPLTDPAKLQIVQQRVFLKKVCRKCGALNPIRATKCRRCHSTNLRLKKKELPTKKG
+>gi|407465163|ref|YP_006776045.1|(1-55:55) 50S ribosomal protein L40e [Candidatus Nitrosopumilus sp. AR2] >gi|407048351|gb|AFS83103.1| 50S ribosomal protein L40e [Candidatus Nitrosopumilus sp. AR2]  E=5e-09 s/c=1.17 id=50% cov=100%
+MPVTDPEKKRIAQQARLVMKICFKCGCRNDIDATRCRKCRNPYLRLKNRNLGVKK-
+>gi|218884173|ref|YP_002428555.1|(1-57:58) 50S ribosomal protein L40e [Desulfurococcus kamchatkensis 1221n] >gi|390938663|ref|YP_006402401.1| 50S ribosomal protein L40e [Desulfurococcus fermentans DSM 16532] >gi|218765789|gb|ACL11188.1| 50S ribosomal protein L40e [Desulfurococcus kamchatkensis 1221n] >gi|390191770|gb|AFL66826.1| Ribosomal protein L40e [Desulfurococcus fermentans DSM 16532]  E=2e-08 s/c=1.09 id=53% cov=102%
+MPVNNPELQKIVFNRVLNKMVCRRCGALNPPGATKCRRCRSKGtLRPKKAVRTATKA
+>gi|119719214|ref|YP_919709.1|(1-50:51) 50S ribosomal protein L40e [Thermofilum pendens Hrk 5] >gi|166234622|sp|A1RWX6.1|RL40_THEPD RecName: Full=50S ribosomal protein L40e >gi|119524334|gb|ABL77706.1| LSU ribosomal protein L40E [Thermofilum pendens Hrk 5]  E=9e-07 s/c=1.14 id=47% cov=91%
+MPIRDPEKLQLALEHHFKVKICRRCNARNPWNAERCRRCKSRDLRPKRYK------
+>gi|357128139|ref|XP_003565733.1|(82-132:139) PREDICTED: ubiquitin-60S ribosomal protein L40-2-like [Brachypodium distachyon]  E=8e-06 s/c=1.05 id=43% cov=88%
+-PRIDPNLRILALKHNENKMVCRKCFARLPVRSINCRkkKCgHSNQVRPKKK-------
+>gi|355747111|gb|EHH51725.1|(77-134:146) hypothetical protein EGM_11159 [Macaca fascicularis]   E=6e-05 s/c=0.87 id=44% cov=98%
+--IIEPSLPQLFQKRNFDKMICRKCYACLHPHAVNcCKKCdHTNNLHSKKKVkaLPSSKG
+>gi|159108136|ref|XP_001704341.1|(77-122:127) Ubiquitin/ribosomal protein CEP52 [Giardia lamblia ATCC 50803] >gi|157432401|gb|EDO76667.1| Ubiquitin/ribosomal protein CEP52 [Giardia lamblia ATCC 50803]  E=6e-14 s/c=1.73 id=43% cov=84%
+--VMEPTLINLAREYNQNMMICRHCYARNPLRATNCRRCRGTNLRKKK--------
+>gi|300702266|ref|XP_002995152.1|(72-125:125) hypothetical protein NCER_102067 [Nosema ceranae BRL01] >gi|239603998|gb|EEQ81481.1| hypothetical protein NCER_102067 [Nosema ceranae BRL01]  E=8e-05 s/c=0.92 id=33% cov=91%
+----DENDRELANKRN-KRLICRRCNVRLSVNATNCRKkgCGSKDLRPKKQLKAVKK-
+>gi|82887849|ref|XP_889266.1|(111-164:177) PREDICTED: ubiquitin-60S ribosomal protein L40-like [Mus musculus] >gi|149250421|ref|XP_001476577.1| PREDICTED: ubiquitin-60S ribosomal protein L40-like [Mus musculus]  E=4e-09 s/c=1.19 id=35% cov=82%
+-------LRQLAQKYSCDKITYHKCYAHLYPRAVNChKKCdhthRHTNLRREKKDSG----
+>gi|222478809|ref|YP_002565046.1|(7-48:49) ribosomal protein L40e [Halorubrum lacusprofundi ATCC 49239] >gi|254803703|sp|B9LSD1.1|RL40_HALLT RecName: Full=50S ribosomal protein L40e >gi|222451711|gb|ACM55976.1| Ribosomal protein L40e [Halorubrum lacusprofundi ATCC 49239]  E=0.0001 s/c=1.17 id=37% cov=77%
+-----------AERRNLDRHICMRCNARNSPDADRCRKCGYTNLRPKAKERRA---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2298	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2675	0	0	
+
+L 3    *	*	*	*	*	*	*	545	6031	4466	5446	*	*	*	5484	*	*	2259	*	*	3
+       0	*	*	*	*	*	*	2939	0	0	
+
+T 4    *	*	*	5274	*	*	*	1244	5152	*	4651	3787	*	4958	4109	4690	1945	*	*	5438	4
+       41	5153	*	0	*	*	*	2945	1189	0	
+
+D 5    *	*	1072	1034	*	*	*	*	5715	*	*	5898	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2969	0	0	
+
+P 6    5271	*	*	5579	*	*	*	*	*	6721	*	*	133	6407	*	*	*	5667	*	*	6
+       0	*	*	*	*	*	*	2963	0	0	
+
+A 7    3336	*	*	2176	5436	*	*	*	*	*	*	3366	*	*	*	1334	3464	3793	*	*	7
+       0	*	*	*	*	*	*	2963	0	0	
+
+K 8    *	*	5602	*	5047	*	*	6744	1898	638	6670	*	*	*	*	*	5716	*	*	*	8
+       0	*	*	*	*	*	*	3011	0	0	
+
+L 9    3863	3644	*	6112	*	*	4961	4345	2795	2204	5440	*	5630	5929	2039	*	*	3452	*	*	9
+       0	*	*	*	*	*	*	3011	0	0	
+
+Q 10   2312	*	*	4277	*	*	6085	4076	3399	6122	*	4851	*	1394	3642	5617	*	4373	*	*	10
+       0	*	*	*	*	*	*	3034	0	0	
+
+I 11   *	*	*	5287	*	*	*	1611	*	674	*	*	*	*	*	*	*	5621	*	*	11
+       0	*	*	*	*	*	*	3033	0	0	
+
+V 12   339	*	*	*	5199	*	*	*	*	*	*	*	*	*	*	6411	*	2551	*	*	12
+       0	*	*	*	*	*	*	3147	0	0	
+
+Q 13   5853	*	*	3155	6728	*	*	4819	4117	3846	6535	6155	*	1215	3451	4382	6705	4725	*	4162	13
+       0	*	*	*	*	*	*	3153	0	0	
+
+Q 14   5710	*	4291	3547	*	*	*	*	639	*	*	4341	*	3598	4958	5144	6711	*	*	*	14
+       0	*	*	*	*	*	*	3153	0	0	
+
+R 15   3745	*	*	*	5200	*	3311	*	6374	*	*	*	*	*	1613	6988	4301	*	*	1322	15
+       0	*	*	*	*	*	*	3153	0	0	
+
+V 16   *	*	*	*	*	*	6473	5282	4671	4065	5242	1025	*	*	3111	4012	5882	2723	*	*	16
+       54	*	4773	*	*	*	*	3153	0	0	
+
+F 17   6884	1745	*	3488	2673	*	*	7144	*	1773	*	*	*	4276	*	6497	6691	5138	4414	*	17
+       0	*	*	*	*	845	1174	3134	0	1366	
+
+L 18   *	*	1836	2539	5590	5194	5718	6150	3438	4844	6719	2096	*	5995	5303	*	6445	5058	*	6181	18
+       0	*	*	*	*	*	0	3146	0	1000	
+
+K 19   *	*	*	*	4713	*	*	5934	464	*	3715	*	*	*	4036	*	*	4539	*	4631	19
+       0	*	*	*	*	*	0	3146	0	1000	
+
+K 20   5796	*	*	*	*	*	5938	4617	1898	3858	1564	*	*	3409	5413	4274	4590	*	5716	5682	20
+       0	*	*	*	*	*	0	3146	0	1000	
+
+V 21   *	*	*	*	*	*	*	623	*	*	*	*	*	*	*	*	4617	1691	*	*	21
+       0	*	*	*	*	*	0	3146	0	1000	
+
+C 22   *	108	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4986	4617	22
+       0	*	*	*	*	0	*	3146	0	1000	
+
+R 23   *	6519	*	*	3687	*	4323	*	*	5297	3526	*	*	*	416	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3153	0	0	
+
+K 24   *	*	4712	5611	*	*	5839	6688	706	*	5472	4194	*	6482	2433	*	6212	*	*	6132	24
+       0	*	*	*	*	*	*	3153	0	0	
+
+C 25   *	83	*	*	*	5472	*	*	*	*	*	*	*	*	*	*	*	*	*	4898	25
+       0	*	*	*	*	*	*	3153	0	0	
+
+G 26   *	5486	*	*	6255	1649	5713	*	*	*	*	3515	*	*	*	*	*	*	*	891	26
+       0	*	*	*	*	*	*	3153	0	0	
+
+A 27   251	5997	5207	*	*	5619	5472	*	4898	*	*	*	*	*	*	6016	6497	6155	*	*	27
+       0	*	*	*	*	*	*	3153	0	0	
+
+L 28   *	5059	*	*	*	*	4396	6705	4657	2941	*	*	4898	*	575	6072	5432	*	*	*	28
+       0	*	*	*	*	*	*	3153	0	0	
+
+N 29   *	*	*	*	4333	*	*	*	*	976	*	1178	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3153	0	0	
+
+P 30   5307	*	5082	*	*	*	2641	*	*	*	*	*	672	*	*	3088	*	*	*	4664	30
+       0	*	*	*	*	*	*	3153	0	0	
+
+I 31   5507	*	*	5540	6871	*	*	3447	4868	3671	5433	*	897	5882	*	5551	*	3427	4643	6374	31
+       0	*	*	*	*	*	*	3153	0	0	
+
+R 32   6132	4750	4386	6601	*	2934	3664	*	3319	*	*	3815	*	*	1285	4272	4404	*	*	*	32
+       0	*	*	*	*	*	*	3153	0	0	
+
+A 33   121	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4226	*	5207	*	*	33
+       0	*	*	*	*	*	*	3153	0	0	
+
+T 34   *	*	6444	3729	*	*	5604	4811	4411	*	*	*	*	5107	*	3957	989	2234	*	*	34
+       0	*	*	*	*	*	*	3153	0	0	
+
+K 35   *	*	*	5882	*	*	5380	*	2039	*	*	1076	*	4026	2882	5810	5239	*	*	*	35
+       66	4479	*	0	*	*	*	3153	1167	0	
+
+C 36   *	33	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5486	36
+       245	2680	*	417	1995	*	*	3153	1733	0	
+
+R 37   *	*	*	4898	*	*	*	*	3087	*	*	*	*	*	237	*	*	*	*	*	37
+       437	1935	*	1000	1000	*	*	3153	2010	0	
+
+R 38   *	*	*	*	*	*	*	*	504	*	*	*	*	5540	1870	*	*	*	*	*	38
+       106	3822	*	1281	765	*	*	3153	1758	0	
+
+C 39   *	53	*	*	*	4802	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       944	1058	*	343	2239	*	*	3145	2134	0	
+
+H 40   *	*	*	*	*	2555	850	*	4019	*	*	*	*	*	2228	*	*	*	*	*	40
+       0	*	*	*	*	*	*	3145	0	0	
+
+S 41   *	4321	*	*	*	4374	3903	*	*	*	*	3953	*	*	*	1102	2180	*	*	3578	41
+       0	*	*	*	*	*	*	3145	0	0	
+
+T 42   *	*	6841	*	*	6351	5704	*	2458	*	*	1684	5050	*	4633	2610	2755	4907	*	4300	42
+       0	*	*	*	*	*	*	3145	0	0	
+
+N 43   *	*	2817	4898	*	3540	7049	*	*	*	*	1158	*	2374	*	5019	*	*	*	4082	43
+       38	5256	*	0	*	*	*	3145	1192	0	
+
+L 44   *	*	*	*	*	*	*	3982	*	202	5539	*	*	*	*	*	5281	5619	*	*	44
+       0	*	*	*	*	*	*	3145	0	0	
+
+R 45   *	5204	*	*	*	*	5534	*	*	5274	*	*	*	*	112	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3148	0	0	
+
+L 46   4663	*	*	7107	5931	*	*	4222	5221	2577	6823	*	883	*	3784	4398	*	*	5801	*	46
+       0	*	*	*	*	*	*	3148	0	0	
+
+K 47   *	*	*	4445	*	*	*	*	184	*	*	*	5298	*	4367	*	*	*	*	*	47
+       0	*	*	*	*	*	*	3136	0	0	
+
+K 48   3497	*	*	6133	*	*	5725	*	498	*	*	3599	*	*	3844	5812	*	*	*	*	48
+       0	*	*	*	*	*	*	3136	0	0	
+
+K 49   3370	*	*	*	*	*	*	*	536	5820	*	*	*	5635	2765	*	*	*	*	5116	49
+       0	*	*	*	*	*	*	3067	0	0	
+
+E 50   4532	*	3594	1289	*	*	*	*	3044	4756	5600	3518	*	*	*	*	3488	3192	*	*	50
+       99	3910	*	1000	1000	*	*	3058	1000	0	
+
+L 51   4863	*	*	*	*	*	*	3960	4386	929	*	*	*	*	2343	3572	*	4412	*	*	51
+       0	*	*	*	*	*	*	3086	0	0	
+
+P 52   2921	*	*	*	*	1414	*	*	*	*	*	*	2449	*	2300	*	3789	4880	*	*	52
+       0	*	*	*	*	*	*	3008	0	0	
+
+T 53   1400	*	*	*	*	3851	*	4716	3885	*	3608	*	*	*	4752	3468	3253	2925	*	*	53
+       0	*	*	*	*	*	*	2832	0	0	
+
+K 54   4867	*	*	*	4520	4177	*	*	617	*	*	*	*	*	*	3226	3782	4817	*	*	54
+       0	*	*	*	*	*	*	2733	0	0	
+
+K 55   *	*	*	*	*	*	*	*	119	*	*	*	*	*	3663	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2698	0	0	
+
+G 56   877	*	*	*	*	1134	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	0	*	*	*	2094	0	0	
+
+//

@@ -1,0 +1,142 @@
+HHsearch 1.5
+NAME  d1rkla_ f.23.30.1 (A:) Oligosaccharyltransferase subunit ost4p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   f.23.30.1
+FILE  d1rkla_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rkla_.a3m -v 1 
+DATE  Tue Jan 22 01:28:24 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+986222647899999999999999998752125689
+>Consensus
+MIsDxQLNxlxixfGxxMmTLIViYHavdSTxxxKx
+>d1rkla_ f.23.30.1 (A:) Oligosaccharyltransferase subunit ost4p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+MISDEQLNSLAITFGIVMMTLIVIYHAVDSTMSPKN
+>gi|401626525|gb|EJS44468.1|(1-36:36) ost4p [Saccharomyces arboricola H-6]   E=1e-09 s/c=1.85 id=86% cov=100%
+MISDEQLNSLTITFGVVMMTLIVVYHAVDSTMFPK-
+>gi|387514547|emb|CCH61983.1|(1-35:38) hypothetical protein TBLA_0G00340 [Tetrapisispora blattae CBS 6284]  E=4e-06 s/c=1.56 id=72% cov=100%
+MISDNQLNSLVIFFGLTMMTLIVIYHVVDSTFNEK-
+>gi|367008246|ref|XP_003678623.1|(1-35:38) hypothetical protein TDEL_0A00800 [Torulaspora delbrueckii] >gi|359746280|emb|CCE89412.1| hypothetical protein TDEL_0A00800 [Torulaspora delbrueckii]  E=6e-05 s/c=1.45 id=61% cov=100%
+MINDNQLNTLVISLGLVMMTLIVVYHAISSTVGKK-
+>gi|366995261|ref|XP_003677394.1|(1-35:37) hypothetical protein NCAS_0G01540 [Naumovozyma castellii CBS 4309] >gi|342303263|emb|CCC71041.1| hypothetical protein NCAS_0G01540 [Naumovozyma castellii CBS 4309]  E=9e-05 s/c=1.43 id=64% cov=100%
+MISDMQLNAMALGFGFLMVTLIVCYHAVDSTFVKK-
+>gi|156845914|ref|XP_001645846.1|(1-36:36) hypothetical protein Kpol_1054p35 [Vanderwaltozyma polyspora DSM 70294] >gi|156116515|gb|EDO17988.1| hypothetical protein Kpol_1054p35 [Vanderwaltozyma polyspora DSM 70294]  E=0.0001 s/c=1.38 id=62% cov=103%
+MITDDQLNGIVIIFGITMMTLIVIYHVMSSTISGKH
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1691	0	0	
+
+I 2    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1691	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	2469	*	*	*	655	2441	*	*	*	3
+       0	*	*	*	*	*	*	1691	0	0	
+
+D 4    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1691	0	0	
+
+E 5    *	*	2441	1799	*	*	*	*	*	*	2339	1596	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1691	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1691	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1691	0	0	
+
+N 8    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1691	0	0	
+
+S 9    2339	*	*	*	*	2441	*	*	*	*	*	*	*	*	*	1193	2469	*	*	*	9
+       0	*	*	*	*	*	*	1691	0	0	
+
+L 10   *	*	*	*	*	*	*	2441	*	694	2339	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1691	0	0	
+
+A 11   1578	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2736	957	*	*	11
+       0	*	*	*	*	*	*	1691	0	0	
+
+I 12   *	*	*	*	*	*	*	318	*	2339	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1691	0	0	
+
+T 13   *	*	*	*	2735	2339	*	2441	*	*	*	*	*	*	*	2469	1799	*	*	*	13
+       0	*	*	*	*	*	*	1691	0	0	
+
+F 14   *	*	*	*	287	*	*	*	*	2469	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1691	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1691	0	0	
+
+I 16   *	*	*	*	2339	*	*	1637	*	1596	*	*	*	*	*	*	*	2736	*	*	16
+       0	*	*	*	*	*	*	1691	0	0	
+
+V 17   *	*	*	*	*	*	*	*	*	2339	*	*	*	*	*	*	1580	1095	*	*	17
+       0	*	*	*	*	*	*	1691	0	0	
+
+M 18   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1691	0	0	
+
+M 19   *	*	*	*	*	*	*	*	*	*	318	*	*	*	*	*	*	2339	*	*	19
+       0	*	*	*	*	*	*	1691	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	20
+       0	*	*	*	*	*	*	1691	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1691	0	0	
+
+I 22   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1691	0	0	
+
+V 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	23
+       0	*	*	*	*	*	*	1691	0	0	
+
+I 24   *	2339	*	*	*	*	*	1084	*	*	*	*	*	*	*	*	*	1596	*	*	24
+       0	*	*	*	*	*	*	1691	0	0	
+
+Y 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	25
+       0	*	*	*	*	*	*	1691	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1691	0	0	
+
+A 27   587	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1580	*	*	27
+       0	*	*	*	*	*	*	1691	0	0	
+
+V 28   *	*	*	*	*	*	*	2469	*	*	2441	*	*	*	*	*	*	655	*	*	28
+       0	*	*	*	*	*	*	1691	0	0	
+
+D 29   *	*	655	*	*	*	*	*	*	*	*	*	*	*	*	1455	*	*	*	*	29
+       0	*	*	*	*	*	*	1691	0	0	
+
+S 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	30
+       0	*	*	*	*	*	*	1691	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	31
+       0	*	*	*	*	*	*	1691	0	0	
+
+M 32   *	*	*	*	1524	*	*	2441	*	*	1799	*	*	*	*	*	*	2469	*	*	32
+       0	*	*	*	*	*	*	1691	0	0	
+
+S 33   *	*	*	*	2736	2469	*	*	*	*	*	2735	*	*	*	1637	*	2339	*	*	33
+       0	*	*	*	*	*	*	1691	0	0	
+
+P 34   *	*	*	2735	*	2441	*	*	1403	*	*	*	1799	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1691	0	0	
+
+K 35   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1691	0	0	
+
+N 36   *	*	*	*	*	*	1000	*	*	*	*	1000	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	1284	0	0	
+
+//

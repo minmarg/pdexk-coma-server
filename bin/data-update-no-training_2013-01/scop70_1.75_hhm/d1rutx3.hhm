@@ -1,0 +1,133 @@
+HHsearch 1.5
+NAME  d1rutx3 g.39.1.3 (X:83-113) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1rutx3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rutx3.a3m -v 1 
+DATE  Tue Jan 22 01:52:48 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  104 out of 207 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCEEECCCCCEEEEECC
+>ss_conf
+9876666788877220240156834231159
+>Consensus
+xtgxCaxCxxxIxxxexVmRAxxxVyHlxCF
+>d1rutx3 g.39.1.3 (X:83-113) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+NSGACSACGQSIPASELVMRAQGNVYHLKCF
+>gi|345305572|ref|XP_001507645.2|(331-359:397) PREDICTED: hypothetical protein LOC100076235 [Ornithorhynchus anatinus]  E=2e-06 s/c=1.90 id=47% cov=97%
+--GLCASCDKRIRAYEMTMRVKDKVYHLECF
+>gi|339238047|ref|XP_003380578.1|(71-97:337) LIM/homeobox protein Lhx9 [Trichinella spiralis] >gi|316976506|gb|EFV59791.1| LIM/homeobox protein Lhx9 [Trichinella spiralis]  E=0.0001 s/c=1.82 id=46% cov=90%
+----CSRCNRVVLPKDLVMRARDYVFHLHCF
+>gi|259013450|ref|NP_001158468.1|(78-104:383) ISL LIM homeobox 1 [Saccoglossus kowalevskii] >gi|197320557|gb|ACH68440.1| islet homeobox protein [Saccoglossus kowalevskii]  E=0.0004 s/c=1.75 id=32% cov=90%
+----CAKCNLGFSKNDFVMRARNKIFHIDCF
+>gi|328708271|ref|XP_001949712.2|(121-148:346) PREDICTED: LIM/homeobox protein Awh-like [Acyrthosiphon pisum]   E=8e-07 s/c=2.00 id=48% cov=94%
+---VCSKCSKGISASHWVRKARDHVYHLACF
+>gi|50344739|ref|NP_001002043.1|(78-107:323) islet1, like [Danio rerio] >gi|37682137|gb|AAQ97995.1| ISL1 transcription factor, LIM/homeodomain [Danio rerio]  E=0.001 s/c=1.54 id=39% cov=100%
+-TSKCAKCDKAFISKEFVMRSQVNIYHVQCF
+>gi|326668246|ref|XP_685757.4|(93-120:270) PREDICTED: LIM/homeobox protein Lhx6 [Danio rerio]   E=7e-05 s/c=1.77 id=39% cov=90%
+----CARCGHQVSANDWIRRAGNDIYHLACF
+>gi|405971991|gb|EKC36790.1|(68-96:343) LIM homeobox transcription factor 1-beta [Crassostrea gigas]   E=0.0001 s/c=1.70 id=48% cov=94%
+---SCNGCGMFVIPTEFVMRAKGYVYHQQCF
+>gi|260447067|ref|NP_001159513.1|(86-115:333) ISL LIM homeobox 2 [Xenopus (Silurana) tropicalis] >gi|257043811|gb|ACV33233.1| islet 2 [Xenopus (Silurana) tropicalis]  E=0.0002 s/c=1.62 id=48% cov=100%
+-SARCPRCQGTLPRSELVMRVGERVYHTDCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	2631	*	*	*	*	254	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1787	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1105	903	*	*	*	2
+       0	*	*	*	*	*	*	2607	0	0	
+
+G 3    3588	*	*	*	*	268	*	*	*	*	*	*	*	*	*	3532	*	*	*	*	3
+       0	*	*	*	*	*	*	2904	0	0	
+
+A 4    2644	*	*	*	*	*	3889	2917	3935	4448	4663	*	*	4434	3062	3414	3846	3087	*	4563	4
+       0	*	*	*	*	*	*	3150	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3512	0	0	
+
+S 6    1350	4649	4544	*	6636	4945	6660	*	*	5049	*	4447	6182	*	*	1705	4536	5503	*	6528	6
+       0	*	*	*	*	*	*	3512	0	0	
+
+A 7    3104	5337	*	*	6413	2016	*	*	2545	*	5903	6732	*	6755	2078	3302	*	4186	*	*	7
+       0	*	*	*	*	*	*	3512	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3512	0	0	
+
+G 9    5732	5883	3392	4165	4848	1799	4982	*	5917	3407	6705	3152	*	4136	3735	3823	5378	*	*	*	9
+       0	*	*	*	*	*	*	3512	0	0	
+
+Q 10   5168	*	5838	2706	5897	4150	5717	5826	2706	3948	4994	5402	*	2199	2626	7004	*	5013	*	*	10
+       0	*	*	*	*	*	*	3512	0	0	
+
+S 11   3572	*	*	*	5919	1749	*	5348	4431	5091	5519	5670	4798	4918	3207	3276	3259	4154	*	5721	11
+       0	*	*	*	*	*	*	3512	0	0	
+
+I 12   *	*	*	*	3016	*	*	490	*	3470	*	*	*	*	*	*	*	3753	*	*	12
+       0	*	*	*	*	*	*	3512	0	0	
+
+P 13   3236	4329	4967	4502	5720	4274	5064	4770	*	3653	*	4898	2300	4121	4693	2476	5268	*	*	6274	13
+       0	*	*	*	*	*	*	3512	0	0	
+
+A 14   1846	*	*	*	*	5503	*	*	4555	6280	*	*	1323	*	3708	2571	*	*	*	*	14
+       0	*	*	*	*	*	*	3512	0	0	
+
+S 15   5790	6960	3899	5556	4424	6682	4607	6528	5173	6413	*	2274	*	5340	*	1886	2342	*	*	4693	15
+       0	*	*	*	*	*	*	3512	0	0	
+
+E 16   5917	*	1484	928	*	*	5861	*	*	*	5903	*	*	4254	*	6152	*	*	*	*	16
+       0	*	*	*	*	*	*	3512	0	0	
+
+L 17   6383	*	*	*	2674	*	*	5276	*	1378	3261	*	*	*	*	*	*	3108	2606	4794	17
+       0	*	*	*	*	*	*	3512	0	0	
+
+V 18   *	*	*	*	*	*	*	3668	*	*	5580	*	*	*	*	*	5815	180	*	*	18
+       0	*	*	*	*	*	*	3512	0	0	
+
+M 19   *	*	*	*	*	*	5988	*	*	*	730	*	*	5721	1523	*	6100	*	*	*	19
+       0	*	*	*	*	*	*	3512	0	0	
+
+R 20   *	*	*	*	*	*	*	*	2746	*	*	*	*	*	266	*	5698	*	*	*	20
+       0	*	*	*	*	*	*	3512	0	0	
+
+A 21   313	5131	*	*	*	*	*	5503	*	*	*	*	*	*	*	4394	*	3368	*	*	21
+       15	6588	*	2000	415	*	*	3512	1000	0	
+
+Q 22   6453	*	*	*	*	3004	5184	*	2459	3343	*	5022	*	2706	1541	6437	*	*	*	5897	22
+       9	7410	*	3322	152	*	*	3512	1000	0	
+
+G 23   5830	6720	1557	2497	*	2880	4234	*	6675	*	*	3644	*	4017	*	4031	4617	6214	*	*	23
+       0	*	*	*	*	*	*	3512	0	0	
+
+N 24   5665	6077	5783	*	5090	*	2659	*	2747	3243	6715	1890	*	4091	4816	4015	*	*	*	3843	24
+       0	*	*	*	*	*	*	3512	0	0	
+
+V 25   6274	*	*	*	*	*	*	2936	*	6133	*	*	6092	*	*	6267	5060	350	*	*	25
+       0	*	*	*	*	*	*	3512	0	0	
+
+Y 26   *	*	*	*	1787	*	*	*	*	*	*	*	*	*	*	*	*	*	*	493	26
+       0	*	*	*	*	*	*	3512	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3512	0	0	
+
+L 28   *	*	*	*	*	*	*	3478	*	643	4732	*	4711	5919	*	*	5361	2705	*	*	28
+       0	*	*	*	*	*	*	3512	0	0	
+
+K 29   2250	*	2877	3196	*	5408	3337	*	3855	*	*	3660	5228	3865	3831	3615	5235	*	*	*	29
+       11	6980	*	1585	585	*	*	3512	1000	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3512	0	0	
+
+F 31   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	3517	0	0	
+
+//

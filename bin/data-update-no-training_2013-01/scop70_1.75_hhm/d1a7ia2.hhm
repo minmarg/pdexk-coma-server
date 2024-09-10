@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d1a7ia2 g.39.1.3 (A:36-67) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+FAM   g.39.1.3
+FILE  d1a7ia2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1a7ia2.a3m -v 1 
+DATE  Tue Jan 22 00:11:40 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  98 out of 100 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEECCCCCCCCCCCCCCCC
+>ss_conf
+97788870474210002788532346554679
+>Consensus
+xCxxCxKxLDStxlxehdxexyCKxCyxkxfG
+>d1a7ia2 g.39.1.3 (A:36-67) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+LCMVCRKNLDSTTVAIHDAEVYCKSCYGKKYG
+>gi|195586313|ref|XP_002082922.1|(38-68:289) GD11833 [Drosophila simulans] >gi|194194931|gb|EDX08507.1| GD11833 [Drosophila simulans]  E=4e-05 s/c=1.63 id=50% cov=100%
+-CSMCNKALDSTNCTEHEKELFCKNCHGRKYG
+>gi|392563391|gb|EIW56570.1|(315-345:359) hypothetical protein TRAVEDRAFT_151146 [Trametes versicolor FP-101664 SS1]  E=0.0003 s/c=1.54 id=44% cov=100%
+-CAECGHTLDSGKVADKEGEPFCHRCYGKRFG
+>gi|339241919|ref|XP_003376885.1|(230-260:657) cysteine and glycine-rich protein 1 [Trichinella spiralis] >gi|316974378|gb|EFV57870.1| cysteine and glycine-rich protein 1 [Trichinella spiralis]  E=3e-06 s/c=1.76 id=47% cov=100%
+-CAECNKILESAVACENNGEVYCKTCYGRKFG
+>gi|164661189|ref|XP_001731717.1|(9-39:209) hypothetical protein MGL_0985 [Malassezia globosa CBS 7966] >gi|159105618|gb|EDP44503.1| hypothetical protein MGL_0985 [Malassezia globosa CBS 7966]  E=4e-05 s/c=1.64 id=38% cov=100%
+-CVVCNRRLDSVSLLEHDGEPFCSNCHRTHLG
+>gi|58268968|ref|XP_571640.1|(31-61:267) hypothetical protein [Cryptococcus neoformans var. neoformans JEC21] >gi|134112648|ref|XP_774867.1| hypothetical protein CNBF0320 [Cryptococcus neoformans var. neoformans B-3501A] >gi|50257515|gb|EAL20220.1| hypothetical protein CNBF0320 [Cryptococcus neoformans var. neoformans B-3501A] >gi|57227875|gb|AAW44333.1| conserved hypothetical protein [Cryptococcus neoformans var. neoformans JEC21]  E=0.0005 s/c=1.52 id=38% cov=100%
+-CLNCGKRLDSGSLVEHDSHPYCQRCHVVLFG
+>gi|403416526|emb|CCM03226.1|(317-347:361) predicted protein [Fibroporia radiculosa]   E=3e-06 s/c=1.76 id=41% cov=100%
+-CTECNTHLDSTRLTERDGNPFCHRCYSKLYG
+>gi|328852698|gb|EGG01842.1|(52-82:462) hypothetical protein MELLADRAFT_49983 [Melampsora larici-populina 98AG31]  E=3e-06 s/c=1.75 id=38% cov=100%
+-CTSCGRTLDAVNLFEHDHVPYCKMCHSKAFG
+>gi|281202130|gb|EFA76335.1|(37-68:84) hypothetical protein PPL_10100 [Polysphondylium pallidum PN500]   E=0.0001 s/c=1.54 id=45% cov=103%
+VCTTCKKSLDSTNLCENENKPYCKACYGKNFG
+>gi|358055026|dbj|GAA98795.1|(52-82:250) hypothetical protein E5Q_05483 [Mixia osmundae IAM 14324]   E=0.001 s/c=1.49 id=31% cov=100%
+-CLGCKKTLQPGALVDHEGDPYCKHCHSRAFG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	4363	*	887	3453	*	*	*	*	*	*	1647	*	*	1
+       0	*	*	*	*	*	*	2144	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3297	0	0	
+
+M 3    2666	*	*	4789	5469	2958	*	*	3749	4106	3264	4452	*	*	4784	4700	2034	4216	*	*	3
+       0	*	*	*	*	*	*	3298	0	0	
+
+V 4    3793	7008	*	2600	*	5303	5125	3839	5138	2777	4113	3535	*	5476	*	2946	5015	2945	*	*	4
+       0	*	*	*	*	*	*	3294	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3302	0	0	
+
+R 6    *	*	5545	*	*	2299	4798	*	2547	*	*	1225	*	5522	3309	5809	*	*	*	*	6
+       0	*	*	*	*	*	*	3302	0	0	
+
+K 7    *	*	*	*	*	*	5997	*	293	*	*	*	*	*	3888	5453	3689	*	*	*	7
+       0	*	*	*	*	*	*	3302	0	0	
+
+N 8    5441	*	*	*	5826	3845	6424	5950	4964	2977	3952	4023	*	5809	1506	3894	3195	5045	*	*	8
+       0	*	*	*	*	*	*	3302	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	35	*	*	*	*	*	*	*	5399	*	*	9
+       0	*	*	*	*	*	*	3302	0	0	
+
+D 10   *	*	213	3513	*	*	*	*	*	*	*	*	*	5314	*	5356	*	*	*	*	10
+       0	*	*	*	*	*	*	3302	0	0	
+
+S 11   4568	*	*	*	*	*	*	*	*	*	*	*	3957	*	*	163	*	*	*	*	11
+       0	*	*	*	*	*	*	3302	0	0	
+
+T 12   5950	5826	*	*	4579	3053	*	*	*	4737	5018	6497	*	*	*	3831	891	4534	*	3796	12
+       0	*	*	*	*	*	*	3302	0	0	
+
+T 13   5314	*	*	*	*	5041	*	6588	4495	5820	*	1999	*	5630	3802	2645	1498	5950	*	*	13
+       0	*	*	*	*	*	*	3302	0	0	
+
+V 14   4680	2981	*	*	*	*	*	4108	*	980	5808	*	*	*	*	5338	*	2140	*	*	14
+       0	*	*	*	*	*	*	3302	0	0	
+
+A 15   1711	3444	*	*	5361	6741	*	*	*	3897	6379	6636	*	5402	6214	4901	2059	2562	*	*	15
+       0	*	*	*	*	*	*	3302	0	0	
+
+I 16   5464	*	2566	543	*	*	*	4615	*	*	*	6554	5968	5873	*	*	*	4740	*	*	16
+       0	*	*	*	*	*	*	3302	0	0	
+
+H 17   5873	*	*	*	*	*	627	*	2867	*	*	3542	*	*	3153	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3302	0	0	
+
+D 18   5714	*	1065	1775	*	4715	6753	*	5356	*	*	3581	*	5185	*	6593	6808	6831	*	*	18
+       0	*	*	*	*	*	*	3302	0	0	
+
+A 19   4001	*	3820	3184	*	1070	5361	*	4178	*	*	3870	*	4572	6415	4324	6497	*	*	5813	19
+       36	5356	*	1000	1000	*	*	3302	1168	0	
+
+E 20   *	*	2643	814	*	*	5711	*	4983	5829	*	4435	*	3532	6844	5691	5809	5361	*	*	20
+       0	*	*	*	*	*	*	3302	0	0	
+
+V 21   4832	*	*	*	*	*	*	1890	*	2533	6135	*	1303	*	*	*	*	3283	*	*	21
+       0	*	*	*	*	*	*	3302	0	0	
+
+Y 22   *	*	*	*	1726	*	*	*	*	5453	*	*	*	*	*	*	*	*	5871	604	22
+       0	*	*	*	*	*	*	3302	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3302	0	0	
+
+K 24   *	*	*	*	*	*	4712	*	411	*	*	6269	*	5711	3565	4497	4360	*	*	*	24
+       0	*	*	*	*	*	*	3302	0	0	
+
+S 25   3029	*	*	*	*	4312	4731	4842	*	6604	5361	3333	4601	3334	3467	2055	3455	4493	*	6183	25
+       0	*	*	*	*	*	*	3302	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3302	0	0	
+
+Y 27   *	*	*	*	*	*	1306	*	*	*	*	*	*	*	*	*	*	*	*	747	27
+       0	*	*	*	*	*	*	3302	0	0	
+
+G 28   3439	6264	*	*	*	1056	*	5799	4990	5693	*	4287	*	*	3983	2871	5898	3696	*	*	28
+       0	*	*	*	*	*	*	3302	0	0	
+
+K 29   *	*	*	5820	*	*	*	*	678	*	*	6062	*	5541	1821	*	5730	5711	*	*	29
+       0	*	*	*	*	*	*	3302	0	0	
+
+K 30   3683	6936	*	5308	5384	5608	3740	6269	1733	2205	6589	2754	*	5022	4748	6379	*	*	*	*	30
+       0	*	*	*	*	*	*	3302	0	0	
+
+Y 31   *	*	*	*	577	*	4123	*	*	4774	*	*	*	*	*	*	*	*	6105	2177	31
+       0	*	*	*	*	*	*	3302	0	0	
+
+G 32   5305	*	*	*	*	37	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	3200	0	0	
+
+//

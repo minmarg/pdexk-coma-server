@@ -1,0 +1,403 @@
+HHsearch 1.5
+NAME  d1gsma2 b.1.1.4 (A:91-206) Mucosal addressin cell adhesion molecule-1 (MADCAM-1) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.1.1.4
+FILE  d1gsma2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1gsma2.a3m -v 1 
+DATE  Mon Jan 21 21:02:40 2013
+LENG  116 match states, 116 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCEEECHHHHCCCCCEEEEEEEECCCCCCCEEEEEEEECCCCCCCCCCCCCCCHHHCCCCCCCCCEEEEEECCCCCCCCCCCCCCEEEEEEEEECCC
+EEECCCCCCCEEEECC
+>ss_conf
+9887223220410468840234420003698760577775346311220003731000001467766502332000115757788774045677641277
+0101346662367359
+>Consensus
+AFPdQLtVSPxxLvpgDxeVaCTAHnvtPxxpxxLSfsLllGdqeLEGxqaLxxxxxeeeeexqxxedxLFrvTqRWlLPxlxtpxppxLhCqaTMxLpg
+lxLshxxxiPVLxxxx
+>d1gsma2 b.1.1.4 (A:91-206) Mucosal addressin cell adhesion molecule-1 (MADCAM-1) {Human (Homo sapiens) [TaxId: 9606]}
+AFPNQLTVSPAALVPGDPEVACTAHKVTPVDPNALSFSLLVGGQELEGAQALGPEVQEEEEEPQGDEDVLFRVTERWRLPPLGTPVPPALYCQATMRLPG
+LELSHRQAIPVLIEGR
+>gi|395831580|ref|XP_003788874.1|(112-222:348) PREDICTED: mucosal addressin cell adhesion molecule 1 [Otolemur garnettii]  E=4e-32 s/c=1.26 id=73% cov=96%
+AFPDQLTVSPATLVPGvDQEVACTAHKVTPVGSDALSFSLILGDRELEGVQALGSPEIEEEPQED--EDLLFHVTQRWLLPPLGTPILPNLYCQATMRLP
+GLELSRHQAIPIL----
+>gi|354480906|ref|XP_003502644.1|(110-220:407) PREDICTED: mucosal addressin cell adhesion molecule 1-like [Cricetulus griseus] >gi|344243355|gb|EGV99458.1| Mucosal addressin cell adhesion molecule 1 [Cricetulus griseus]  E=7e-27 s/c=1.11 id=62% cov=95%
+AFPDQLVVSPKFLVPGeDQEVSCTAHNIFPPGPDILSFALLLGEQSLEGAQALEP---EQEEETQGAEvTTLFRMTQRWLLPSLETPAPPVLYCQATMKI
+LDLVLTRKRELPVL----
+>gi|83715994|ref|NP_001032910.1|(112-220:424) mucosal addressin cell adhesion molecule 1 precursor [Bos taurus] >gi|119929967|ref|XP_001256482.1| PREDICTED: mucosal addressin cell adhesion molecule 1-like [Bos taurus] >gi|82754525|gb|ABB89994.1| mucosal addressin cellular adhesion molecule-1 [Bos taurus] >gi|296485377|gb|DAA27492.1| mucosal vascular addressin cell adhesion molecule 1 [Bos taurus]  E=8e-39 s/c=1.50 id=64% cov=94%
+AFPDQLTVSPEAVVPGrDQEVACTAHNVTPPGPDTLSMSLLLGDRELEGVEAL-PNVT---EEPQEGEDSLFQVTQRWLLPTSETSSLRTLHCQVTMRLP
+GRELTHHRTIPVL----
+>gi|145386541|ref|NP_038619.2|(110-220:405) mucosal addressin cell adhesion molecule 1 precursor [Mus musculus] >gi|148699735|gb|EDL31682.1| mucosal vascular addressin cell adhesion molecule 1, isoform CRA_a [Mus musculus] >gi|447772|prf||1915321A mucosal addressin  E=3e-38 s/c=1.45 id=66% cov=96%
+AFPDQLVVSPEFLVPGqDQVVSCTAHNIWPADPNSLSFALLLGEQRLEGAQALEPEQEEEIQEAEGTP--LFRMTQRWRLPSLGTPAPPALHCQVTMQLP
+KLVLTHRKEIPVL----
+>gi|355700418|gb|AES01443.1|(1-109:115) mucosal vascular addressin cell adhesion molecule 1 [Mustela putorius furo]  E=2e-37 s/c=1.45 id=69% cov=94%
+-FPDQLTVSPVTLVArRDQEVACTAHNVTPANPEALSLSLLLGDQELEGVQALDWDV---EEEPQQGEDQLLRVTQRWLLPPLETPTPLTLHCRATMNLP
+GLRLSHQRAIPVL----
+>gi|410949937|ref|XP_003981673.1|(112-221:380) PREDICTED: mucosal addressin cell adhesion molecule 1 [Felis catus]   E=5e-36 s/c=1.39 id=76% cov=95%
+AFPAQLTVSPVALVAkQDREVACTAHNVTPVSPEALSLSLLLGDRELEGVQALGRDV---EEEPQQGEDLLFRVTERWLLPPLGTPTPPTLHCQATMKLP
+GLELSHHQPIPVL----
+>gi|351713999|gb|EHB16918.1|(21-111:313) Mucosal addressin cell adhesion molecule 1 [Heterocephalus glaber]   E=3e-21 s/c=1.14 id=74% cov=78%
+AFPDQLTVSPATLEPGrDREVACTAHSVTPQDPDTLSFSLLLGDQELEGLQALGREEAEEEA-AVETEDPLF-----W----------------ATMQLP
+GLELSHRQPLPVL----
+>gi|83921625|ref|NP_001033087.1|(112-221:390) mucosal addressin cell adhesion molecule 1 precursor [Sus scrofa] >gi|82754523|gb|ABB89993.1| mucosal addressin cellular adhesion molecule-1 [Sus scrofa]  E=4e-43 s/c=1.61 id=69% cov=95%
+AFPDQLTVSPESLVPGrDREVACTAHNVSPARPDVFSMSLLLGDQELEGVQTLDRDVM---EEPQEDEDPLFQVTERWLLPPLGIPAPPTLHCQVTMSLP
+GLNRSHRQSIPVL----
+>gi|348550218|ref|XP_003460929.1|(147-260:524) PREDICTED: mucosal addressin cell adhesion molecule 1-like [Cavia porcellus]  E=3e-36 s/c=1.35 id=66% cov=97%
+AFPDQLTVSPAALEPeqQDAQVGCTAHNVTPWDPDTLSFSLILGDQELEGVQILGREEEEEEEATPEAEGPLFRVTQRWLLPALRPRVPTTLHCQVTMRL
+PGLELSHRQPLPVL----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1773	0	0	
+
+F 2    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1781	0	0	
+
+N 4    4307	*	164	*	*	*	*	*	*	*	*	4141	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 5    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1781	0	0	
+
+T 7    *	*	*	3718	*	*	*	*	*	*	*	*	*	*	*	*	392	2629	*	*	7
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 8    *	*	*	*	*	*	*	3962	*	*	*	*	*	*	*	*	*	96	*	*	8
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	114	3718	*	*	*	9
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 11   1351	*	*	1757	*	*	*	*	3529	*	*	*	*	*	*	*	*	2148	*	*	11
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 12   998	*	*	*	2073	*	*	*	*	*	*	*	*	*	*	3786	2403	*	*	*	12
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	108	*	*	*	*	*	*	*	3791	*	*	13
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 14   *	*	*	2919	*	4012	*	*	*	*	*	*	*	*	*	*	*	312	*	*	14
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 15   2148	*	*	*	*	*	*	*	*	*	*	*	369	*	*	*	*	*	*	*	15
+       528	1707	*	330	2291	*	*	1781	1373	0	
+
+G 16   4012	*	*	*	*	663	*	*	*	*	*	*	*	2025	4045	*	*	*	*	*	16
+       1032	969	*	0	*	*	*	1781	1672	0	
+
+D 17   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 18   3631	*	*	*	*	*	*	*	*	*	*	*	3048	828	2088	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 19   *	*	*	380	*	*	*	*	*	*	*	*	*	3631	*	*	*	2727	*	*	19
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	20
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 21   553	*	*	*	*	3631	*	*	*	*	*	*	*	*	*	2073	*	*	*	*	21
+       0	*	*	*	*	*	*	1781	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1781	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	23
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 24   96	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3962	*	*	24
+       0	*	*	*	*	*	*	1781	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1781	0	0	
+
+K 26   *	*	*	*	*	*	*	*	1945	*	*	538	*	*	*	4279	*	*	*	*	26
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 27   *	*	*	*	*	*	*	2073	*	*	*	*	*	*	*	*	*	392	*	*	27
+       0	*	*	*	*	*	*	1781	0	0	
+
+T 28   3962	*	*	*	3529	*	*	*	*	*	*	*	*	*	*	3786	677	*	2727	*	28
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 30   1118	*	*	*	*	*	*	*	*	*	*	*	2654	4279	*	*	*	2010	3631	*	30
+       0	*	*	*	*	*	*	1781	0	0	
+
+D 31   *	*	1358	*	*	1681	*	*	*	*	*	4045	*	*	3786	2599	*	*	*	*	31
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 32   *	*	*	*	*	*	*	*	*	*	*	*	115	*	*	3700	*	*	*	*	32
+       0	*	*	*	*	*	*	1781	0	0	
+
+N 33   *	*	953	2148	*	*	*	*	*	*	*	1955	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 34   1240	*	*	*	*	*	*	3529	*	*	*	*	*	*	*	2727	1908	3786	*	*	34
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 35   *	*	*	*	3786	*	*	*	*	109	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	36
+       0	*	*	*	*	*	*	1781	0	0	
+
+F 37   *	*	*	*	667	*	*	*	*	2148	2789	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 38   2073	*	*	*	*	*	*	*	*	*	*	*	*	*	*	392	*	*	*	*	38
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 39   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 40   *	*	*	*	*	*	*	2665	*	247	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 41   *	*	*	*	*	*	*	*	*	205	*	*	*	*	3718	*	*	4141	*	*	41
+       0	*	*	*	*	*	*	1781	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1781	0	0	
+
+G 43   *	*	636	2073	*	3075	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 44   *	*	*	*	*	*	*	*	*	*	*	*	*	561	1634	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 45   *	*	*	392	*	*	*	*	*	*	*	*	*	*	3736	2620	*	*	*	*	45
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 46   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	46
+       90	*	4044	*	*	*	*	1781	0	0	
+
+E 47   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	0	1771	0	1000	
+
+G 48   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	0	*	1771	0	1000	
+
+A 49   1250	*	*	*	*	4044	*	*	*	4279	*	*	*	*	*	*	*	1098	*	*	49
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 50   *	*	*	2360	*	*	*	*	*	*	*	*	*	313	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 51   240	*	*	*	*	*	*	3631	*	*	*	*	*	*	*	*	3786	*	*	*	51
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 52   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	52
+       208	*	2897	*	*	*	*	1781	0	0	
+
+G 53   *	*	2707	1909	*	983	*	*	*	*	*	*	*	*	*	3744	*	*	*	*	53
+       0	*	*	*	*	1027	974	1755	0	1241	
+
+P 54   *	*	*	*	*	*	*	*	*	*	*	*	1399	*	1566	3614	3646	*	3040	*	54
+       136	*	3472	*	*	0	*	1777	0	1000	
+
+E 55   *	*	1636	951	*	*	*	*	*	*	*	3683	3591	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	0	1739	0	1000	
+
+V 56   *	*	*	2137	*	*	*	*	*	3911	*	*	*	2497	*	*	*	918	*	*	56
+       401	*	2042	*	*	*	0	1739	0	1000	
+
+Q 57   3758	*	*	956	*	*	*	3191	*	*	3229	*	*	3543	*	*	3201	*	*	*	57
+       350	*	2215	*	*	1818	481	1689	0	1416	
+
+E 58   *	*	*	167	*	*	*	*	*	*	*	*	*	*	*	*	*	3196	*	*	58
+       0	*	*	*	*	*	0	1674	0	1405	
+
+E 59   *	*	*	200	*	*	*	*	*	*	*	*	*	2948	*	*	*	*	*	*	59
+       0	*	*	*	*	694	1388	1674	0	1405	
+
+E 60   *	*	*	275	*	*	*	3549	*	*	3501	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	0	*	1734	0	1233	
+
+E 61   4279	*	*	473	*	*	*	*	*	*	*	*	3700	2727	*	*	*	*	*	*	61
+       76	*	4279	*	*	*	*	1781	0	0	
+
+E 62   3510	*	*	269	*	*	*	*	*	*	*	*	*	3606	*	*	*	*	*	*	62
+       0	*	*	*	*	0	*	1775	0	1000	
+
+P 63   2982	*	*	3700	*	*	*	*	*	*	*	*	1026	*	*	4012	2039	*	*	*	63
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 64   *	*	3700	2727	*	*	*	*	*	*	*	*	3631	644	*	*	*	4279	*	*	64
+       115	*	3700	*	*	*	*	1781	0	0	
+
+G 65   *	*	*	1187	*	1662	*	*	*	*	*	*	*	2030	*	*	*	*	*	*	65
+       0	*	*	*	*	*	0	1756	0	1000	
+
+D 66   2459	*	2279	3842	*	1628	*	*	*	*	*	*	*	*	*	*	2193	*	*	*	66
+       123	*	3610	*	*	0	*	1756	0	1000	
+
+E 67   *	*	*	142	*	*	*	*	*	*	*	*	3410	*	*	*	*	*	*	*	67
+       306	3362	3410	0	*	*	0	1761	1000	1000	
+
+D 68   *	*	349	*	*	3444	*	*	*	*	*	*	*	*	*	*	3023	*	*	*	68
+       0	*	*	*	*	1000	1000	1720	0	1105	
+
+V 69   *	*	*	*	*	*	*	*	*	1975	3918	*	1687	3972	*	3718	3329	2948	*	*	69
+       0	*	*	*	*	0	*	1765	0	1000	
+
+L 70   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1781	0	0	
+
+F 71   *	*	*	*	90	*	*	*	*	4045	*	*	*	*	*	*	*	*	*	*	71
+       76	*	4279	*	*	*	*	1781	0	0	
+
+R 72   *	*	*	*	*	*	3606	*	*	*	*	*	*	1764	682	*	*	*	*	*	72
+       0	*	*	*	*	*	0	1775	0	1000	
+
+V 73   *	*	*	*	*	*	*	*	*	*	2562	*	*	*	*	*	*	268	*	*	73
+       0	*	*	*	*	*	0	1775	0	1000	
+
+T 74   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	74
+       0	*	*	*	*	*	0	1775	0	1000	
+
+E 75   *	*	*	1673	*	2955	*	*	*	*	*	*	*	843	*	*	*	*	*	*	75
+       0	*	*	*	*	*	0	1775	0	1000	
+
+R 76   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	76
+       0	*	*	*	*	0	*	1775	0	1000	
+
+W 77   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	77
+       76	*	4279	*	*	*	*	1781	0	0	
+
+R 78   *	*	*	*	*	*	*	*	*	459	*	*	*	*	1875	*	*	*	*	*	78
+       0	*	*	*	*	*	0	1775	0	1000	
+
+L 79   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	0	1775	0	1000	
+
+P 80   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	0	1775	0	1000	
+
+P 81   3510	*	*	*	*	*	*	*	*	*	*	*	1131	*	*	1677	2807	*	*	*	81
+       0	*	*	*	*	*	0	1775	0	1000	
+
+L 82   *	*	*	*	*	*	*	*	*	113	*	*	*	*	*	3731	*	*	*	*	82
+       0	*	*	*	*	*	0	1775	0	1000	
+
+G 83   3887	*	3970	1812	*	1011	*	*	*	*	*	*	*	*	3510	*	*	*	*	*	83
+       0	*	*	*	*	*	0	1775	0	1000	
+
+T 84   *	*	*	*	*	*	*	3723	*	*	*	*	3510	*	*	*	258	*	*	*	84
+       0	*	*	*	*	*	0	1775	0	1000	
+
+P 85   *	*	*	*	*	*	4150	*	*	*	*	*	357	*	3510	3731	*	*	*	*	85
+       0	*	*	*	*	*	0	1775	0	1000	
+
+V 86   1359	*	*	*	*	*	*	3606	*	*	*	*	*	*	*	3731	2077	2213	*	*	86
+       0	*	*	*	*	*	0	1775	0	1000	
+
+P 87   *	*	*	*	*	*	*	*	*	1715	*	*	524	*	*	*	*	*	*	*	87
+       0	*	*	*	*	*	0	1775	0	1000	
+
+P 88   *	*	*	*	*	*	*	*	*	3064	*	*	479	*	3731	*	3510	*	*	*	88
+       0	*	*	*	*	*	0	1775	0	1000	
+
+A 89   1265	*	*	*	*	*	*	*	*	*	*	3606	*	*	*	*	1279	3476	*	*	89
+       0	*	*	*	*	*	0	1775	0	1000	
+
+L 90   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	0	1775	0	1000	
+
+Y 91   *	*	*	*	*	*	688	*	*	*	*	*	*	*	*	*	*	*	*	1398	91
+       0	*	*	*	*	*	0	1775	0	1000	
+
+C 92   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	92
+       0	*	*	*	*	*	0	1775	0	1000	
+
+Q 93   *	*	*	*	*	*	*	*	*	*	*	*	*	292	2447	*	*	*	*	*	93
+       0	*	*	*	*	0	*	1775	0	1000	
+
+A 94   681	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1409	*	*	94
+       0	*	*	*	*	*	*	1781	0	0	
+
+T 95   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	95
+       0	*	*	*	*	*	*	1781	0	0	
+
+M 96   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	96
+       0	*	*	*	*	*	*	1781	0	0	
+
+R 97   *	*	*	*	*	*	*	*	2388	*	*	4045	*	2303	1277	3786	4044	*	*	*	97
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 98   *	*	*	*	*	*	*	3529	*	131	*	*	*	*	*	*	*	*	*	*	98
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 99   *	*	*	*	*	*	*	*	*	3529	*	*	131	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	1781	0	0	
+
+G 100  *	*	3529	*	*	392	*	*	2727	*	*	*	*	*	*	*	*	*	*	*	100
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 101  *	*	*	*	*	*	*	*	*	206	*	*	*	*	3791	*	*	4044	*	*	101
+       0	*	*	*	*	*	*	1781	0	0	
+
+E 102  *	*	*	958	*	*	*	*	4215	*	*	3786	*	4044	4045	*	*	2073	*	*	102
+       0	*	*	*	*	*	*	1781	0	0	
+
+L 103  *	*	*	*	*	*	*	*	*	109	*	*	*	*	3786	*	*	*	*	*	103
+       0	*	*	*	*	*	*	1781	0	0	
+
+S 104  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	535	1690	*	*	*	104
+       0	*	*	*	*	*	*	1781	0	0	
+
+H 105  *	*	*	*	*	*	354	*	*	*	*	*	*	*	2201	*	*	*	*	*	105
+       0	*	*	*	*	*	*	1781	0	0	
+
+R 106  *	*	*	*	*	*	1980	*	3529	3962	*	*	*	3045	1076	*	*	*	*	*	106
+       0	*	*	*	*	*	*	1781	0	0	
+
+Q 107  *	*	*	*	*	*	*	*	3736	*	*	*	*	957	1287	*	*	*	*	*	107
+       0	*	*	*	*	*	*	1781	0	0	
+
+A 108  1201	*	*	2629	*	*	*	*	3718	*	*	*	2452	*	*	3786	3791	*	*	*	108
+       0	*	*	*	*	*	*	1781	0	0	
+
+I 109  *	*	*	*	*	*	*	356	*	2192	*	*	*	*	*	*	*	*	*	*	109
+       0	*	*	*	*	*	*	1781	0	0	
+
+P 110  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	110
+       0	*	*	*	*	*	*	1781	0	0	
+
+V 111  *	*	*	*	*	*	*	3614	*	*	*	*	*	*	*	*	*	123	*	*	111
+       0	*	*	*	*	*	*	1777	0	0	
+
+L 112  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	112
+       0	*	*	*	*	*	*	1777	0	0	
+
+I 113  *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	1000	0	0	
+
+E 114  *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	114
+       0	*	*	*	*	*	*	1000	0	0	
+
+G 115  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	115
+       0	*	*	*	*	*	*	1000	0	0	
+
+R 116  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	116
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

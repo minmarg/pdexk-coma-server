@@ -1,0 +1,221 @@
+HHsearch 1.5
+NAME  d1l2pa_ f.23.21.1 (A:) F1F0 ATP synthase subunit B, membrane domain {Escherichia coli [TaxId: 562]}
+FAM   f.23.21.1
+FILE  d1l2pa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1l2pa_.a3m -v 1 
+DATE  Mon Jan 21 23:04:30 2013
+LENG  61 match states, 61 columns in multiple alignment
+FILT  105 out of 282 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9578888988888888888888888888888888888888888888888888899987339
+>Consensus
+texLxeAkxeAaxIixxAxkxaxqIieeakxxAxxExxrIxxxAxxeIexErxxaxxxLRk
+>d1l2pa_ f.23.21.1 (A:) F1F0 ATP synthase subunit B, membrane domain {Escherichia coli [TaxId: 562]}
+TDQLKKAKAEAQVIIEQANKRRSQILDEAKAEAEQERTKIVAQAQAEIEAERKRAREELRK
+>gi|124003476|ref|ZP_01688325.1|(965-1020:1097) putative outer membrane protein [Microscilla marina ATCC 23134] >gi|123991045|gb|EAY30497.1| putative outer membrane protein [Microscilla marina ATCC 23134]  E=0.0003 s/c=0.86 id=28% cov=89%
+-DKIEEGKDKAKEVLADAQKRADAIMAEARQKvdaAKAEARKKLDEAKKQADAEYNK-------
+>gi|340794790|ref|YP_004760253.1|(85-143:185) ATP synthase subunit B [Corynebacterium variabile DSM 44702] >gi|340534700|gb|AEK37180.1| ATP synthase B chain [Corynebacterium variabile DSM 44702]  E=3e-07 s/c=0.98 id=32% cov=98%
+--QLAEARTEASQIRDDARAQGQKIIAEANTKAEAEVKRKAADGEKALLAQRDAVVSDLRK
+>gi|118603009|ref|YP_904224.1|(63-121:157) ATP synthase F0, B subunit [Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)] >gi|226694459|sp|A1AXU6.1|ATPF_RUTMC RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b; AltName: Full=ATPase subunit I; AltName: Full=F-type ATPase subunit b; Short=F-ATPase subunit b >gi|118567948|gb|ABL02753.1| ATP synthase F0, B subunit [Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)]  E=8e-06 s/c=0.90 id=33% cov=98%
+-EMINQSKDQAAEIIANATRQASNMVEDAKDVALKEAGKVKAQAQAQLEQDTIQTRNELK-
+>gi|406978627|gb|EKE00555.1|(64-122:156) ATP synthase F0, B subunit [uncultured bacterium]   E=0.0004 s/c=0.81 id=33% cov=98%
+--QLQEAKNQAAAILDQANQQANTLIEEGRIKAQEECANILARARMDIEQEISKTKLELQQ
+>gi|302346241|ref|YP_003814539.1|(67-125:170) ATP synthase F0, B subunit [Prevotella melaninogenica ATCC 25845] >gi|302150336|gb|ADK96597.1| ATP synthase F0, B subunit [Prevotella melaninogenica ATCC 25845]  E=0.001 s/c=0.78 id=28% cov=98%
+-ELLMEAREKQAQILREASETRETIVGQAQEKARDESARILSEAKAEIESQKQAAIRDIR-
+>gi|402081576|gb|EJT76721.1|(48-106:663) hypothetical protein GGTG_06637 [Gaeumannomyces graminis var. tritici R3-111a-1]  E=1e-07 s/c=1.00 id=30% cov=98%
+--KIRELEEENRSLRERAEKQAEKQVEEIRRQAEKEAEEIRQQAKKEAEEIRRQAEETLRQ
+>gi|15608447|ref|NP_215823.1|(59-118:446) ATP synthase F0F1 subunit delta [Mycobacterium tuberculosis H37Rv] >gi|31792500|ref|NP_854993.1| ATP synthase F0F1 subunit delta [Mycobacterium bovis AF2122/97] >gi|121637236|ref|YP_977459.1| F0F1 ATP synthase subunit delta [Mycobacterium bovis BCG str. Pasteur 1173P2] >gi|148661095|ref|YP_001282618.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis H37Ra] >gi|148822525|ref|YP_001287279.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis F11] >gi|167969635|ref|ZP_02551912.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis H37Ra] >gi|224989711|ref|YP_002644398.1| ATP synthase delta chain [Mycobacterium bovis BCG str. Tokyo 172] >gi|253799647|ref|YP_003032648.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 1435] >gi|254231565|ref|ZP_04924892.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis C] >gi|254364204|ref|ZP_04980250.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis str. Haarlem] >gi|254550315|ref|ZP_05140762.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis '98-R604 INH-RIF-EM'] >gi|289442746|ref|ZP_06432490.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T46] >gi|289569319|ref|ZP_06449546.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T17] >gi|289573970|ref|ZP_06454197.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis K85] >gi|289745053|ref|ZP_06504431.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis 02_1987] >gi|289749864|ref|ZP_06509242.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T92] >gi|289753384|ref|ZP_06512762.1| F-ATPase delta [Mycobacterium tuberculosis EAS054] >gi|289757407|ref|ZP_06516785.1| F-ATPase delta [Mycobacterium tuberculosis T85] >gi|289761462|ref|ZP_06520840.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis GM 1503] >gi|294994863|ref|ZP_06800554.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis 210] >gi|297633859|ref|ZP_06951639.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis KZN 4207] >gi|297730846|ref|ZP_06959964.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis KZN R506] >gi|306775479|ref|ZP_07413816.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu001] >gi|306781610|ref|ZP_07419947.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu002] >gi|306784032|ref|ZP_07422354.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu003] >gi|306788394|ref|ZP_07426716.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu004] >gi|306792722|ref|ZP_07431024.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu005] >gi|306797127|ref|ZP_07435429.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu006] >gi|306803007|ref|ZP_07439675.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu008] >gi|306807197|ref|ZP_07443865.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu007] >gi|306967396|ref|ZP_07480057.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu009] >gi|306971588|ref|ZP_07484249.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu010] >gi|307079303|ref|ZP_07488473.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu011] >gi|307083871|ref|ZP_07492984.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu012] >gi|313658179|ref|ZP_07815059.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis KZN V2475] >gi|339631375|ref|YP_004723017.1| ATP synthase subunit delta [Mycobacterium africanum GM041182] >gi|340626323|ref|YP_004744775.1| putative ATP synthase delta chain ATPH [Mycobacterium canettii CIPT 140010059] >gi|375296888|ref|YP_005101155.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 4207] >gi|378771070|ref|YP_005170803.1| ATP synthase subunit delta [Mycobacterium bovis BCG str. Mexico] >gi|383307177|ref|YP_005359988.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis RGTB327] >gi|385990734|ref|YP_005909032.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CCDC5180] >gi|385994333|ref|YP_005912631.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CCDC5079] >gi|385998091|ref|YP_005916389.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CTRI-2] >gi|392386002|ref|YP_005307631.1| atpH [Mycobacterium tuberculosis UT205] >gi|392433098|ref|YP_006474142.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 605] >gi|397673149|ref|YP_006514684.1| ATP synthase subunit B-delta [Mycobacterium tuberculosis H37Rv] >gi|424803653|ref|ZP_18229084.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis W-148] >gi|424947048|ref|ZP_18362744.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis NCGM2209] >gi|61219638|sp|P0A500.1|ATPFD_MYCTU RecName: Full=ATP synthase subunit b-delta; Includes: RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b 2; AltName: Full=ATPase subunit I 2; AltName: Full=F-type ATPase subunit b 2; Short=F-ATPase subunit b 2; Includes: RecName: Full=ATP synthase subunit delta; AltName: Full=ATP synthase F(1) sector subunit delta; AltName: Full=F-type ATPase subunit delta; Short=F-ATPase subunit delta >gi|61219640|sp|P0A501.1|ATPFD_MYCBO RecName: Full=ATP synthase subunit b-delta; Includes: RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b 2; AltName: Full=ATPase subunit I 2; AltName: Full=F-type ATPase subunit b 2; Short=F-ATPase subunit b 2; Includes: RecName: Full=ATP synthase subunit delta; AltName: Full=ATP synthase F(1) sector subunit delta; AltName: Full=F-type ATPase subunit delta; Short=F-ATPase subunit delta >gi|226694404|sp|A1KI95.1|ATPFD_MYCBP RecName: Full=ATP synthase subunit b-delta; Includes: RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b 2; AltName: Full=ATPase subunit I 2; AltName: Full=F-type ATPase subunit b 2; Short=F-ATPase subunit b 2; Includes: RecName: Full=ATP synthase subunit delta; AltName: Full=ATP synthase F(1) sector subunit delta; AltName: Full=F-type ATPase subunit delta; Short=F-ATPase subunit delta >gi|226694409|sp|A5U206.1|ATPFD_MYCTA RecName: Full=ATP synthase subunit b-delta; Includes: RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b 2; AltName: Full=ATPase subunit I 2; AltName: Full=F-type ATPase subunit b 2; Short=F-ATPase subunit b 2; Includes: RecName: Full=ATP synthase subunit delta; AltName: Full=ATP synthase F(1) sector subunit delta; AltName: Full=F-type ATPase subunit delta; Short=F-ATPase subunit delta >gi|257096235|sp|C1AMV1.1|ATPFD_MYCBT RecName: Full=ATP synthase subunit b-delta; Includes: RecName: Full=ATP synthase subunit b; AltName: Full=ATP synthase F(0) sector subunit b 2; AltName: Full=ATPase subunit I 2; AltName: Full=F-type ATPase subunit b 2; Short=F-ATPase subunit b 2; Includes: RecName: Full=ATP synthase subunit delta; AltName: Full=ATP synthase F(1) sector subunit delta; AltName: Full=F-type ATPase subunit delta; Short=F-ATPase subunit delta >gi|1322431|emb|CAA97740.1| PROBABLE ATP SYNTHASE DELTA CHAIN ATPH [Mycobacterium tuberculosis H37Rv] >gi|31618089|emb|CAD94200.1| PROBABLE ATP SYNTHASE DELTA CHAIN ATPH [Mycobacterium bovis AF2122/97] >gi|121492883|emb|CAL71354.1| Probable ATP synthase delta chain atpH [Mycobacterium bovis BCG str. Pasteur 1173P2] >gi|124600624|gb|EAY59634.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis C] >gi|134149718|gb|EBA41763.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis str. Haarlem] >gi|148505247|gb|ABQ73056.1| ATP synthase delta chain AtpH [Mycobacterium tuberculosis H37Ra] >gi|148721052|gb|ABR05677.1| ATP synthase delta subunit atpH [Mycobacterium tuberculosis F11] >gi|224772824|dbj|BAH25630.1| putative ATP synthase delta chain [Mycobacterium bovis BCG str. Tokyo 172] >gi|253321150|gb|ACT25753.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 1435] >gi|289415665|gb|EFD12905.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T46] >gi|289538401|gb|EFD42979.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis K85] >gi|289543073|gb|EFD46721.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T17] >gi|289685581|gb|EFD53069.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis 02_1987] >gi|289690451|gb|EFD57880.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis T92] >gi|289693971|gb|EFD61400.1| F-ATPase delta [Mycobacterium tuberculosis EAS054] >gi|289708968|gb|EFD72984.1| ATP synthase delta chain atpH [Mycobacterium tuberculosis GM 1503] >gi|289712971|gb|EFD76983.1| F-ATPase delta [Mycobacterium tuberculosis T85] >gi|308216026|gb|EFO75425.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu001] >gi|308325572|gb|EFP14423.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu002] >gi|308331264|gb|EFP20115.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu003] >gi|308335080|gb|EFP23931.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu004] >gi|308338888|gb|EFP27739.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu005] >gi|308342502|gb|EFP31353.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu006] >gi|308346436|gb|EFP35287.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu007] >gi|308350307|gb|EFP39158.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu008] >gi|308355008|gb|EFP43859.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu009] >gi|308358956|gb|EFP47807.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu010] >gi|308362837|gb|EFP51688.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu011] >gi|308366504|gb|EFP55355.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis SUMu012] >gi|326902929|gb|EGE49862.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis W-148] >gi|328459393|gb|AEB04816.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 4207] >gi|339294287|gb|AEJ46398.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CCDC5079] >gi|339297927|gb|AEJ50037.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CCDC5180] >gi|339330731|emb|CCC26401.1| putative ATP synthase delta chain ATPH [Mycobacterium africanum GM041182] >gi|340004513|emb|CCC43656.1| putative ATP synthase delta chain ATPH [Mycobacterium canettii CIPT 140010059] >gi|341601254|emb|CCC63927.1| probable ATP synthase delta chain atpH [Mycobacterium bovis BCG str. Moreau RDJ] >gi|344219137|gb|AEM99767.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis CTRI-2] >gi|356593391|gb|AET18620.1| ATP synthase subunit delta [Mycobacterium bovis BCG str. Mexico] >gi|358231563|dbj|GAA45055.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis NCGM2209] >gi|378544553|emb|CCE36827.1| atpH [Mycobacterium tuberculosis UT205] >gi|379027529|dbj|BAL65262.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis str. Erdman = ATCC 35801] >gi|380721130|gb|AFE16239.1| F0F1 ATP synthase subunit delta [Mycobacterium tuberculosis RGTB327] >gi|392054507|gb|AFM50065.1| ATP synthase subunit delta atpH [Mycobacterium tuberculosis KZN 605] >gi|395138054|gb|AFN49213.1| ATP synthase subunit B-delta [Mycobacterium tuberculosis H37Rv]  E=8e-05 s/c=0.83 id=28% cov=100%
+TKALEDAKSEAHRVVEEARTDAERIAEQLEAQADVEAERIKMQGARQVDLIRAQLTRQLR-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2944	201	*	*	*	1
+       0	*	*	*	*	*	*	3263	0	0	
+
+D 2    4754	*	1612	964	*	*	*	*	3683	*	*	4846	*	*	*	6575	*	*	*	*	2
+       0	*	*	*	*	*	*	4435	0	0	
+
+Q 3    3878	*	*	2719	*	*	4928	4566	3397	3504	5912	4988	*	1615	6983	5070	5395	3948	*	5574	3
+       0	*	*	*	*	*	*	4672	0	0	
+
+L 4    *	*	*	*	*	*	*	2873	*	394	4109	*	*	6601	*	*	*	4871	*	*	4
+       24	5917	*	0	*	*	*	4801	1000	0	
+
+K 5    2086	*	5663	3940	*	7033	5673	5016	2887	5724	5490	4974	*	3529	2321	5104	3358	*	*	*	5
+       17	6403	*	0	*	*	*	4798	1000	0	
+
+K 6    6102	*	2921	1081	*	5229	*	7131	3226	*	6248	4890	*	2785	*	4382	*	*	*	*	6
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 7    241	*	*	*	*	4513	*	6066	*	4919	*	*	*	*	*	4327	6323	*	*	*	7
+       0	*	*	*	*	*	*	4882	0	0	
+
+K 8    *	*	*	5500	*	*	5156	*	946	*	*	6399	*	4588	1494	*	*	*	*	5480	8
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 9    2564	*	4610	2619	*	5570	5122	3688	3612	4084	6415	4539	*	3294	5711	3852	4057	4211	*	*	9
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 10   *	*	3920	1137	*	*	*	*	2628	*	*	5960	*	1945	5706	6687	6292	*	*	*	10
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 11   310	*	*	*	*	*	*	*	*	*	*	5500	*	4227	*	3645	*	4728	*	*	11
+       0	*	*	*	*	*	*	4882	0	0	
+
+Q 12   1164	*	5495	4687	*	5369	5267	*	6448	*	*	3964	*	3208	4958	2528	4229	*	*	*	12
+       0	*	*	*	*	*	*	4882	0	0	
+
+V 13   3535	*	3422	1590	*	*	4883	6150	3617	6358	*	5436	*	3042	3085	3970	*	5608	*	*	13
+       0	*	*	*	*	*	*	4882	0	0	
+
+I 14   *	*	*	*	*	*	*	387	*	2980	6232	*	*	*	6021	*	6225	3912	*	*	14
+       15	*	6556	*	*	*	*	4882	0	0	
+
+I 15   6326	*	*	*	*	*	*	1270	*	3194	7154	*	*	*	1857	*	6199	2585	*	*	15
+       0	*	*	*	*	*	0	4886	0	1000	
+
+E 16   3101	*	2103	1386	*	*	5885	6733	3488	*	7206	4564	*	5552	5125	4414	7210	*	*	*	16
+       0	*	*	*	*	0	*	4886	0	1000	
+
+Q 17   4117	*	3734	2090	*	*	5338	*	4156	4910	*	3295	*	1754	4602	4352	6298	*	*	5878	17
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 18   86	*	*	*	*	4106	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	4882	0	0	
+
+N 19   6691	*	5563	2940	*	*	4918	*	3218	*	*	2055	*	3197	2142	4842	4383	6501	*	5149	19
+       0	*	*	*	*	*	*	4882	0	0	
+
+K 20   2634	*	6433	3402	*	*	*	6336	1069	4648	*	6012	*	3918	4149	6298	4498	6819	*	*	20
+       0	*	*	*	*	*	*	4882	0	0	
+
+R 21   *	4700	3855	2840	*	*	6336	*	6546	6931	*	5178	*	2357	1186	*	4078	*	*	*	21
+       0	*	*	*	*	*	*	4882	0	0	
+
+R 22   1076	*	*	5366	*	2211	6960	*	3459	*	*	*	*	6000	3216	5281	*	6021	*	5501	22
+       0	*	*	*	*	*	*	4882	0	0	
+
+S 23   2578	*	4248	2864	*	5723	*	7362	5715	5175	4595	2421	*	3223	5067	3219	4414	4282	*	*	23
+       0	*	*	*	*	*	*	4882	0	0	
+
+Q 24   3299	*	5074	2780	*	5523	6177	*	3078	4908	*	4918	*	1319	4624	6553	5005	5662	*	*	24
+       15	6556	*	2000	415	*	*	4882	1000	0	
+
+I 25   *	*	*	*	*	*	*	579	*	2737	3976	*	*	5500	5394	*	*	3809	*	*	25
+       0	*	*	*	*	*	*	4882	0	0	
+
+L 26   6146	*	*	5144	6248	*	*	1696	5139	2592	6448	*	*	*	4752	5179	*	1453	*	*	26
+       0	*	*	*	*	*	*	4882	0	0	
+
+D 27   2541	*	2782	1038	*	5503	5149	6066	4915	*	*	4721	*	5541	*	5495	5960	*	*	*	27
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 28   4490	*	2435	905	*	7018	*	*	4845	5960	*	6323	*	3350	7124	6027	4478	*	*	*	28
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 29   675	*	*	4748	6919	5304	6906	3994	7220	4209	3928	*	*	*	*	4230	6143	5301	*	6336	29
+       0	*	*	*	*	*	*	4882	0	0	
+
+K 30   5754	*	*	6146	*	*	5960	*	1284	6658	*	6606	*	3180	1663	*	4549	4278	*	*	30
+       10	7233	*	1000	1000	*	*	4882	1000	0	
+
+A 31   2612	6150	3962	2183	*	4493	5027	6443	4160	4745	*	4217	*	3247	4933	4391	4003	4148	*	*	31
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 32   4836	*	4092	2030	*	*	*	*	2093	6596	*	4344	*	2567	3218	5091	4286	6526	*	*	32
+       17	6448	*	1585	585	*	*	4882	1000	0	
+
+A 33   144	*	*	*	*	3924	*	6042	*	*	*	*	*	*	*	*	6181	*	*	*	33
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 34   5952	*	3307	2240	*	7522	3971	5394	3039	4808	*	5496	*	2833	2837	4387	5445	5032	*	5878	34
+       0	*	*	*	*	*	*	4882	0	0	
+
+Q 35   2572	*	5660	2695	*	7233	6329	4798	3033	3942	6634	5367	*	3219	4168	5073	3663	3192	*	*	35
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 36   *	*	5582	140	*	*	*	*	6422	6936	*	*	*	6206	*	6415	5238	*	*	*	36
+       0	*	*	*	*	*	*	4882	0	0	
+
+R 37   1335	6443	*	*	6483	2863	*	5290	3655	*	*	6042	*	5827	3037	2997	*	4330	*	6823	37
+       0	*	*	*	*	*	*	4882	0	0	
+
+T 38   1974	*	2667	1940	*	5136	*	7233	3367	5120	*	4375	*	4644	5815	5084	5486	6819	*	*	38
+       0	*	*	*	*	*	*	4882	0	0	
+
+K 39   5307	*	6692	4692	*	6655	*	6329	1934	6422	*	5857	*	5945	822	4993	*	*	*	*	39
+       0	*	*	*	*	*	*	4882	0	0	
+
+I 40   5830	*	*	5418	*	*	*	626	5525	3175	4950	*	*	5066	*	*	6238	3278	*	*	40
+       15	6556	*	2322	322	*	*	4882	1000	0	
+
+V 41   5077	*	*	*	*	*	*	1851	2727	1917	5380	*	*	*	3957	6665	3955	3125	*	*	41
+       10	*	7233	*	*	*	*	4882	0	0	
+
+A 42   1428	6475	3879	2083	*	*	6020	*	5112	4030	6144	6130	*	4815	*	3548	5645	4712	*	*	42
+       0	*	*	*	*	*	0	4888	0	1000	
+
+Q 43   3010	*	5620	3730	*	4417	4032	5100	3715	4670	*	3881	*	1687	4355	3993	5022	7200	*	*	43
+       0	*	*	*	*	0	*	4888	0	1000	
+
+A 44   477	*	*	6556	*	2130	*	*	6968	*	*	*	*	*	*	*	5878	5830	*	*	44
+       0	*	*	*	*	*	*	4882	0	0	
+
+Q 45   4889	*	5915	3404	*	*	3140	*	2300	*	5287	4715	*	1747	2868	*	6851	*	*	4993	45
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 46   1299	*	5524	3694	*	*	*	5878	2908	6232	6443	5033	*	*	3738	3275	3721	5546	*	6225	46
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 47   4713	*	3394	1182	*	*	6546	*	5372	*	*	6108	*	1587	*	5429	5600	*	*	*	47
+       15	6556	*	0	*	*	*	4882	1000	0	
+
+I 48   4249	*	*	*	*	*	*	649	*	2361	*	*	*	*	*	*	*	3120	*	*	48
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 49   3164	*	2468	920	*	*	*	6602	6238	5499	6329	4886	*	3972	*	6514	*	6331	*	*	49
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 50   1499	*	*	5500	*	4894	6738	*	*	4420	*	5942	*	1757	4238	3624	4489	4905	*	6602	50
+       0	*	*	*	*	*	*	4882	0	0	
+
+E 51   5414	*	4057	579	*	*	6823	4787	*	*	6800	5890	*	2636	*	*	*	6021	*	*	51
+       0	*	*	*	*	*	*	4882	0	0	
+
+R 52   4349	*	*	*	*	*	5201	3236	2736	6021	*	*	*	5679	1164	6553	4622	3745	6042	4461	52
+       0	*	*	*	*	*	*	4882	0	0	
+
+K 53   3269	6021	4271	4439	5793	*	6177	5540	2822	5899	5890	2204	*	2517	4021	3814	6292	5846	*	*	53
+       0	*	*	*	*	*	*	4882	0	0	
+
+R 54   3113	*	*	6181	*	6177	4601	6066	2904	5006	*	5105	*	2047	1689	4191	*	*	*	*	54
+       0	*	*	*	*	*	*	4882	0	0	
+
+A 55   658	*	*	*	*	*	*	4239	*	3629	5806	*	*	*	*	*	4131	2668	*	*	55
+       0	*	*	*	*	*	*	4853	0	0	
+
+R 56   4296	*	*	3879	6323	*	*	3795	2763	4384	4572	*	*	3902	1599	*	4677	3319	*	5439	56
+       0	*	*	*	*	*	*	4843	0	0	
+
+E 57   3680	*	3726	1303	*	5344	*	6306	*	4442	*	4129	*	4340	3487	3187	6225	4685	*	*	57
+       0	*	*	*	*	*	*	4843	0	0	
+
+E 58   3641	*	2899	1482	*	4989	*	*	6026	*	6275	5875	*	2740	*	2867	4518	5598	*	*	58
+       0	*	*	*	*	*	*	4843	0	0	
+
+L 59   *	*	*	*	*	*	*	3810	*	133	*	*	*	*	*	*	*	5895	*	*	59
+       0	*	*	*	*	*	*	4847	0	0	
+
+R 60   *	*	*	*	*	*	*	6156	3685	*	*	6123	*	3952	300	*	*	*	*	5868	60
+       0	*	*	*	*	*	*	4851	0	0	
+
+K 61   *	*	*	*	*	*	*	*	808	*	*	*	*	1900	2635	*	*	*	*	*	61
+       0	*	*	0	*	*	*	4340	0	0	
+
+//

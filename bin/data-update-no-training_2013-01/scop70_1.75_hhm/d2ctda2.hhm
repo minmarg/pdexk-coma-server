@@ -1,0 +1,124 @@
+HHsearch 1.5
+NAME  d2ctda2 g.37.1.1 (A:61-90) Zinc finger protein 512, ZNF512 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2ctda2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ctda2.a3m -v 1 
+DATE  Tue Jan 22 06:02:51 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCEEHHHHHHHHHHHCCCEEEEEECCCCCC
+>ss_conf
+931046545776541373235630577789
+>Consensus
+exftchhcgkqlxslxgmkyhvmadhnxxp
+>d2ctda2 g.37.1.1 (A:61-90) Zinc finger protein 512, ZNF512 {Human (Homo sapiens) [TaxId: 9606]}
+EMFTCHHCGKQLRSLAGMKYHVMANHNSLP
+>gi|395530174|ref|XP_003767173.1|(2503-2532:2878) PREDICTED: uncharacterized protein LOC100917768 [Sarcophilus harrisii]  E=1e-10 s/c=2.32 id=87% cov=103%
+EMYTCHHCGKQLRSLAGMKYHVMADHNNLP
+>gi|224049007|ref|XP_002188674.1|(116-145:492) PREDICTED: hypothetical protein [Taeniopygia guttata]   E=1e-08 s/c=2.09 id=84% cov=103%
+EMFTCHHCGKQLKSLAGMKYHVMADHNNQP
+>gi|327289676|ref|XP_003229550.1|(92-120:568) PREDICTED: zinc finger protein 512-like [Anolis carolinensis]   E=3e-08 s/c=2.12 id=87% cov=100%
+EVFTCHHCGKQLRSLAGMKYHLMADHNSL-
+>gi|118089058|ref|XP_001232518.1|(196-225:563) PREDICTED: zinc finger protein 512 [Gallus gallus]   E=5e-08 s/c=2.03 id=81% cov=103%
+ETFTCHHCGKQLKSLGGMKYHVMADHNSQP
+>gi|348541821|ref|XP_003458385.1|(308-335:732) PREDICTED: hypothetical protein LOC100705013 [Oreochromis niloticus]  E=6e-07 s/c=2.05 id=69% cov=97%
+--FTCQHCGKQLKSSTGMKYHIMADHSHLP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1188	0	0	
+
+M 2    *	*	*	*	*	*	*	*	*	*	769	*	*	*	*	*	2255	2295	*	*	2
+       0	*	*	*	*	*	*	1188	0	0	
+
+F 3    *	*	*	*	254	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2631	3
+       0	*	*	*	*	*	*	1278	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	4
+       0	*	*	*	*	*	*	1278	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1278	0	0	
+
+H 6    *	*	*	*	*	*	351	*	*	*	*	*	*	2213	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1278	0	0	
+
+H 7    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1278	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1278	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1278	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1278	0	0	
+
+Q 11   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1278	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1278	0	0	
+
+R 13   *	*	*	*	*	*	*	*	928	*	*	*	*	*	1075	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1278	0	0	
+
+S 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	14
+       0	*	*	*	*	*	*	1278	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	351	*	*	*	*	*	2213	*	*	*	*	15
+       0	*	*	*	*	*	*	1278	0	0	
+
+A 16   676	*	*	*	*	2658	*	*	*	*	*	*	*	*	*	*	2213	*	*	*	16
+       0	*	*	*	*	*	*	1278	0	0	
+
+G 17   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1278	0	0	
+
+M 18   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1278	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1278	0	0	
+
+Y 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	20
+       0	*	*	*	*	*	*	1278	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1278	0	0	
+
+V 22   *	*	*	*	*	*	*	2213	*	2701	*	*	*	*	*	*	*	666	*	*	22
+       0	*	*	*	*	*	*	1278	0	0	
+
+M 23   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1278	0	0	
+
+A 24   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1278	0	0	
+
+N 25   *	*	250	*	*	*	*	*	*	*	*	2650	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1278	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1278	0	0	
+
+N 27   *	*	*	*	*	*	*	*	*	*	*	351	*	*	*	2213	*	*	*	*	27
+       0	*	*	*	*	*	*	1278	0	0	
+
+S 28   *	*	*	*	*	*	2213	*	*	*	*	1677	*	*	*	1084	*	*	*	*	28
+       0	*	*	*	*	*	*	1278	0	0	
+
+L 29   *	*	*	*	*	*	*	*	*	535	*	*	*	1691	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1278	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1266	0	0	
+
+//

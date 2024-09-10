@@ -1,0 +1,198 @@
+HHsearch 1.5
+NAME  d1ojha_ a.214.1.1 (A:) Phycobilisome degradation protein NblA {Anabaena sp. PCC 7120 [TaxId: 103690]}
+FAM   a.214.1.1
+FILE  d1ojha_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ojha_.a3m -v 1 
+DATE  Tue Jan 22 00:18:04 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  65 out of 67 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9875578785789999986328889999999999999888899999986229
+>Consensus
+ieLSLEQqFxlrxfxxqVxxmSxEQAQexLixlyxqmmvrenxykxxlKxxW
+>d1ojha_ a.214.1.1 (A:) Phycobilisome degradation protein NblA {Anabaena sp. PCC 7120 [TaxId: 103690]}
+IELSLEQQFSIRSFATQVQNMSHDQAKDFLVKLYEQMVVREATYQELLKHQW
+>gi|428207509|ref|YP_007091862.1|(23-73:86) hypothetical protein Chro_2511 [Chroococcidiopsis thermalis PCC 7203] >gi|428009430|gb|AFY87993.1| hypothetical protein Chro_2511 [Chroococcidiopsis thermalis PCC 7203]  E=6e-08 s/c=1.18 id=42% cov=100%
+-ELTLEQEFSFRSFADRVRQMSREQAQELSILQYKHMIIQNMIYKGILKKDW
+>gi|119486098|ref|ZP_01620160.1|(10-59:72) phycobilisome degradation protein; NblA [Lyngbya sp. PCC 8106] >gi|119456873|gb|EAW38001.1| phycobilisome degradation protein; NblA [Lyngbya sp. PCC 8106]  E=2e-07 s/c=1.17 id=39% cov=98%
+--ISLEQEFQVQSFARKVDTISKEEAKELLIDLYKSTIIRENLFREIIKESW
+>gi|427421242|ref|ZP_18911425.1|(7-56:56) Phycobilisome degradation protein nblA [Leptolyngbya sp. PCC 7375] >gi|425757119|gb|EKU97973.1| Phycobilisome degradation protein nblA [Leptolyngbya sp. PCC 7375]  E=0.0002 s/c=0.96 id=34% cov=96%
+-QLTLEQQFKLETLKTEVRQLTKEQAQDYVIEAFRQMFVKDNLVKHLLKN--
+>gi|428017634|gb|AFY93728.1|(5-54:56) Phycobilisome degradation protein nblA [Chamaesiphon minutus PCC 6605]  E=2e-05 s/c=1.03 id=33% cov=98%
+IGLSIEQEFSLRVYKEQVDRLDLSTTQELLLEVLRQSMVKENLLRELIKN--
+>gi|332708006|ref|ZP_08428004.1|(7-57:67) phycobilisome degradation protein nblA [Moorea producens 3L] >gi|332353231|gb|EGJ32773.1| phycobilisome degradation protein nblA [Moorea producens 3L]  E=2e-07 s/c=1.15 id=44% cov=100%
+IEFSLEQEFNLKVFETQIQNLDLEQAKNLLCELYRQMSIREIHFRNFVKQS-
+>gi|428017670|gb|AFY93764.1|(6-54:83) Phycobilisome degradation protein nblA [Chamaesiphon minutus PCC 6605]  E=2e-07 s/c=1.19 id=28% cov=96%
+LDLSLEQEFLLKNYEQQVKCLSPERAQEFLLEAFRLLMIKDNAIRSLVK---
+>gi|411116176|ref|ZP_11388665.1|(6-56:72) Phycobilisome degradation protein nblA [Oscillatoriales cyanobacterium JSC-12] >gi|410713834|gb|EKQ71333.1| Phycobilisome degradation protein nblA [Oscillatoriales cyanobacterium JSC-12]  E=6e-06 s/c=1.04 id=38% cov=100%
+-QLPLEQQFELQVFEGQVRQLSQEEAHELLIQLREAMLHQTTTFREILKEAW
+>gi|117530176|ref|YP_851019.1|(20-69:79) phycobilisome degradation protein NblA [Microcystis phage Ma-LMM01] >gi|117165788|dbj|BAF36096.1| phycobilisome degradation protein NblA [Microcystis phage Ma-LMM01]  E=8e-08 s/c=1.19 id=31% cov=98%
+--LRLEQQLQLRAMSDVIDKMTLEQARDRLKDMLKQAMIRDNLYAAIIKKNW
+>gi|428269251|gb|AFZ35192.1|(7-56:70) phycobilisome degradation protein [Stanieria cyanosphaera PCC 7437]  E=9e-05 s/c=0.99 id=43% cov=98%
+-QLSLEQEFSHKLFADAVQNLSHQEAQELSIQLHKQMLYKDNLYKVLLLEQ-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	4898	*	*	742	*	2756	3278	*	*	*	*	*	*	3089	*	*	1
+       0	*	*	*	*	*	*	2488	0	0	
+
+E 2    *	*	3965	1029	*	3894	*	*	3007	*	*	6170	*	2130	*	*	6412	*	*	*	2
+       0	*	*	*	*	*	*	2869	0	0	
+
+L 3    *	*	*	*	4854	*	*	4892	*	102	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3101	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	*	*	*	4926	*	4124	381	2818	*	*	*	4
+       0	*	*	*	*	*	*	3101	0	0	
+
+L 5    *	*	*	*	*	*	*	4295	*	203	3950	*	*	*	*	*	*	6030	*	*	5
+       0	*	*	*	*	*	*	3101	0	0	
+
+E 6    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 8    *	*	*	1288	*	*	*	*	5107	*	*	*	*	867	6261	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3101	0	0	
+
+F 9    *	*	*	*	85	*	*	*	*	4124	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3101	0	0	
+
+S 10   *	*	*	4051	*	6490	5069	*	2775	5091	*	2437	*	2524	5573	1540	*	*	*	*	10
+       0	*	*	*	*	*	*	3101	0	0	
+
+I 11   *	*	*	*	5220	*	5089	2496	*	586	5749	*	*	5573	*	*	*	4037	*	*	11
+       0	*	*	*	*	*	*	3101	0	0	
+
+R 12   *	5913	*	4267	*	*	6030	*	2196	*	*	*	*	2850	926	5464	*	*	*	6596	12
+       0	*	*	*	*	*	*	3101	0	0	
+
+S 13   3006	6491	*	*	*	*	*	3975	*	4509	*	4338	*	5826	6114	1281	4382	2213	*	*	13
+       0	*	*	*	*	*	*	3101	0	0	
+
+F 14   *	*	*	*	529	*	*	*	*	2816	4124	*	*	*	*	*	*	4912	*	3751	14
+       0	*	*	*	*	*	*	3101	0	0	
+
+A 15   1890	*	*	1565	*	*	*	*	2647	*	*	*	*	3954	4146	3164	*	*	*	*	15
+       0	*	*	*	*	*	*	3101	0	0	
+
+T 16   6778	*	1709	2730	*	4506	5969	*	5874	*	5464	5484	*	4139	4892	3665	2110	*	*	6455	16
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 17   5089	*	*	3900	*	*	5826	*	4892	4815	*	*	*	449	5220	*	*	4124	*	*	17
+       0	*	*	*	*	*	*	3101	0	0	
+
+V 18   *	*	*	*	*	*	*	3443	*	*	*	*	*	*	*	*	*	139	*	*	18
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 19   *	*	2931	3001	*	5040	5190	*	2170	*	*	4374	*	1784	3385	5075	*	*	*	*	19
+       0	*	*	*	*	*	*	3101	0	0	
+
+N 20   *	5091	4119	6596	*	4712	4352	*	2776	5749	*	2607	*	1598	3193	*	4406	*	*	*	20
+       0	*	*	*	*	*	*	3101	0	0	
+
+M 21   *	*	*	*	*	*	*	4323	*	1300	878	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3101	0	0	
+
+S 22   5088	*	3866	*	*	*	*	*	*	*	*	4021	*	*	*	487	2977	*	*	*	22
+       0	*	*	*	*	*	*	3101	0	0	
+
+H 23   *	*	*	*	*	*	2495	*	3358	2298	*	*	3649	2865	1714	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3101	0	0	
+
+D 24   5969	*	4969	254	*	*	*	*	6362	*	*	5923	*	5089	*	5246	5088	*	*	*	24
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 25   *	*	5188	2919	*	*	*	*	*	*	*	*	*	350	5091	*	5246	*	*	*	25
+       0	*	*	*	*	*	*	3101	0	0	
+
+A 26   91	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5739	4563	*	*	*	26
+       0	*	*	*	*	*	*	3101	0	0	
+
+K 27   *	*	*	*	*	*	4926	*	2972	6024	*	*	*	383	4124	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3101	0	0	
+
+D 28   4427	*	1947	934	*	*	5739	4189	5614	*	*	4379	*	6628	*	5749	*	*	*	*	28
+       0	*	*	*	*	*	*	3101	0	0	
+
+F 29   *	5923	*	*	1107	*	6024	5573	*	2196	*	*	*	*	4124	*	*	*	*	2270	29
+       0	*	*	*	*	*	*	3101	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	143	*	*	*	*	*	4153	*	4704	*	*	30
+       0	*	*	*	*	*	*	3101	0	0	
+
+V 31   *	4854	*	*	*	*	*	1591	3716	2256	*	*	*	*	*	*	*	1523	*	*	31
+       0	*	*	*	*	*	*	3101	0	0	
+
+K 32   6105	*	3457	1577	*	*	*	5614	1776	4213	5216	5249	*	3237	*	6343	6778	6347	*	*	32
+       0	*	*	*	*	*	*	3101	0	0	
+
+L 33   3641	*	*	*	*	*	*	*	*	633	3828	*	*	3869	*	*	*	2878	*	*	33
+       0	*	*	*	*	*	*	3101	0	0	
+
+Y 34   *	*	*	*	3631	*	3169	*	5188	2774	3640	*	*	*	4926	*	*	*	*	940	34
+       0	*	*	*	*	*	*	3101	0	0	
+
+E 35   5912	*	*	1653	*	*	*	*	1771	*	*	5614	*	4457	1706	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 36   4926	*	*	5912	*	*	3392	*	*	3701	*	*	*	454	*	4892	*	*	*	6105	36
+       0	*	*	*	*	*	*	3101	0	0	
+
+M 37   4124	*	*	*	*	*	*	*	*	4090	423	4367	*	*	*	4167	4892	*	*	*	37
+       0	*	*	*	*	*	*	3101	0	0	
+
+V 38   *	*	*	*	5545	*	*	3133	*	2095	947	*	*	*	*	4854	*	3697	*	*	38
+       0	*	*	*	*	*	*	3101	0	0	
+
+V 39   6878	5826	*	*	5188	*	4926	1759	*	3337	4055	*	*	*	*	4664	*	1358	*	5089	39
+       0	*	*	*	*	*	*	3101	0	0	
+
+R 40   *	*	*	*	*	*	*	*	1599	*	*	*	*	2321	1090	*	*	*	*	*	40
+       0	*	*	*	*	*	*	3101	0	0	
+
+E 41   *	*	1927	696	*	*	*	*	4948	*	*	4204	*	*	*	*	4926	*	*	*	41
+       0	*	*	*	*	*	*	3101	0	0	
+
+A 42   2992	*	*	5833	*	*	*	3817	6404	*	5220	850	*	*	5635	*	2538	*	*	*	42
+       0	*	*	*	*	*	*	3101	0	0	
+
+T 43   5091	*	*	*	4963	*	4854	4596	*	1673	2054	*	*	*	*	3685	2465	5635	5088	*	43
+       0	*	*	*	*	*	*	3101	0	0	
+
+Y 44   *	*	*	*	2253	*	*	4090	*	4526	5826	*	*	*	*	*	*	4270	*	693	44
+       0	*	*	*	*	*	*	3101	0	0	
+
+Q 45   4124	*	*	*	*	*	*	*	1117	*	*	*	*	2389	1926	5188	*	*	*	*	45
+       0	*	*	*	*	*	*	3101	0	0	
+
+E 46   3950	*	5912	1545	*	5220	2121	*	*	*	*	3431	*	2958	*	4757	*	5089	*	4993	46
+       0	*	*	*	*	*	*	3101	0	0	
+
+L 47   *	*	*	*	2226	*	*	2284	*	1280	5689	*	*	*	*	*	4442	4619	3984	*	47
+       0	*	*	*	*	*	*	3101	0	0	
+
+L 48   *	*	*	*	5088	*	*	2207	*	723	3877	*	*	*	*	*	*	3641	*	*	48
+       0	*	*	*	*	*	*	3101	0	0	
+
+K 49   5969	*	*	*	*	*	*	*	162	5089	5614	*	*	*	4634	*	*	*	*	*	49
+       0	*	*	*	*	*	*	3101	0	0	
+
+H 50   *	*	*	2603	*	*	1293	*	3058	*	*	2720	*	3718	4692	*	*	*	*	4621	50
+       0	*	*	*	*	*	*	3076	0	0	
+
+Q 51   3689	*	4901	1848	*	*	4876	*	*	*	*	3630	*	1584	*	2620	*	*	*	*	51
+       0	*	*	*	*	*	*	2794	0	0	
+
+W 52   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	52
+       0	*	*	0	*	*	*	2619	0	0	
+
+//

@@ -1,0 +1,127 @@
+HHsearch 1.5
+NAME  d1x5wa2 g.37.1.1 (A:36-64) Zinc finger protein 64, ZFP68 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1x5wa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x5wa2.a3m -v 1 
+DATE  Tue Jan 22 04:15:31 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCHHHHHHHHHHCC
+>ss_conf
+98467866666667100688999874039
+>Consensus
+rPFkCxxCsFDtKqxSnLxxHxkkxHxdm
+>d1x5wa2 g.37.1.1 (A:36-64) Zinc finger protein 64, ZFP68 {Human (Homo sapiens) [TaxId: 9606]}
+RPFKCNYCSFDTKQPSNLSKHMKKFHGDM
+>gi|291409286|ref|XP_002720939.1|(332-359:647) PREDICTED: zinc finger protein 64 [Oryctolagus cuniculus]   E=1e-06 s/c=2.01 id=83% cov=100%
+RPFKCSHCSFDTKQPSNLSKHVKKFHAD-
+>gi|224078670|ref|XP_002186745.1|(579-606:887) PREDICTED: zinc finger protein 64, partial [Taeniopygia guttata]   E=0.0001 s/c=1.78 id=69% cov=100%
+RPFKCDFCSFDTKQRSNLTTHVRKAHGD-
+>gi|395506841|ref|XP_003757738.1|(609-636:934) PREDICTED: zinc finger protein 64 homolog, isoforms 1 and 2 [Sarcophilus harrisii]  E=1e-06 s/c=2.01 id=72% cov=100%
+RPFKCELCSFDTKQRSNLTTHVKKVHGD-
+>gi|334312584|ref|XP_003339757.1|(316-343:639) PREDICTED: zinc finger protein 64 homolog, isoforms 1 and 2 isoform 2 [Monodelphis domestica]  E=2e-06 s/c=1.99 id=69% cov=100%
+RPFKCDFCSFDTKQRSNLTTHVKKVHSD-
+>gi|395847109|ref|XP_003796226.1|(321-349:629) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 64 homolog, isoforms 1 and 2-like [Otolemur garnettii]  E=2e-06 s/c=1.91 id=77% cov=103%
+QPFRCSYCSFDIKQPSNLSKHVKKFHRDM
+>gi|301607198|ref|XP_002933198.1|(382-409:677) PREDICTED: zinc finger protein 64 homolog, isoforms 1 and 2 [Xenopus (Silurana) tropicalis]  E=5e-06 s/c=1.94 id=72% cov=100%
+RPFKCNFCQFDTKQRSNLTTHIKKCHGD-
+>gi|301754355|ref|XP_002913041.1|(668-695:792) PREDICTED: zinc finger protein 64 homolog, isoforms 3 and 4-like [Ailuropoda melanoleuca]  E=2e-05 s/c=1.87 id=66% cov=100%
+RPFKCDFCSFDTKRPSSLAKHIDKVHRD-
+>gi|327278561|ref|XP_003224030.1|(372-399:685) PREDICTED: zinc finger protein 64 homolog, isoforms 1 and 2-like [Anolis carolinensis]  E=1e-05 s/c=1.90 id=62% cov=100%
+RPFKCEFCPFDTKQRSNLTTHLKKAHRE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	3151	172	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1588	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1588	0	0	
+
+F 3    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1588	0	0	
+
+K 4    *	*	*	*	*	*	*	*	172	*	*	*	*	*	3151	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1588	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1588	0	0	
+
+N 6    *	*	1388	2222	*	*	*	*	*	*	*	2738	*	*	*	1979	*	*	*	*	6
+       0	*	*	*	*	*	*	1588	0	0	
+
+Y 7    *	*	*	*	714	*	3794	*	*	3861	*	*	*	*	*	*	*	*	*	2003	7
+       0	*	*	*	*	*	*	1588	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1588	0	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	3586	3609	*	261	*	*	*	*	9
+       0	*	*	*	*	*	*	1588	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1588	0	0	
+
+D 11   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1588	0	0	
+
+T 12   *	*	*	*	*	*	*	3151	*	*	*	*	*	*	*	*	172	*	*	*	12
+       0	*	*	*	*	*	*	1588	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1588	0	0	
+
+Q 14   *	*	*	*	*	*	*	*	*	*	*	*	*	403	2037	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1588	0	0	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	823	*	1202	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1588	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	16
+       0	*	*	*	*	*	*	1588	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	403	*	*	*	2037	*	*	*	*	17
+       0	*	*	*	*	*	*	1588	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1588	0	0	
+
+S 19   2037	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1637	1202	*	*	*	19
+       0	*	*	*	*	*	*	1588	0	0	
+
+K 20   *	*	*	*	*	*	*	*	823	*	*	*	*	*	*	*	1202	*	*	*	20
+       0	*	*	*	*	*	*	1588	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1588	0	0	
+
+M 22   *	*	*	*	*	*	*	2039	*	2595	2868	*	*	*	*	*	*	1139	*	*	22
+       0	*	*	*	*	*	*	1588	0	0	
+
+K 23   *	*	2037	*	*	*	*	*	546	*	*	*	*	*	3804	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1588	0	0	
+
+K 24   *	*	*	*	*	*	*	*	269	*	*	*	*	*	2555	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1588	0	0	
+
+F 25   2204	3609	*	*	1637	*	*	*	*	*	*	*	*	*	*	*	*	1398	*	*	25
+       0	*	*	*	*	*	*	1588	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1588	0	0	
+
+G 27   2824	*	*	*	*	1505	*	*	*	*	*	*	*	*	1186	3901	*	*	*	*	27
+       0	*	*	*	*	*	*	1588	0	0	
+
+D 28   *	*	271	2545	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1588	0	0	
+
+M 29   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1161	0	0	
+
+//

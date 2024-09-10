@@ -1,0 +1,172 @@
+HHsearch 1.5
+NAME  d1tdha3 g.39.1.8 (A:247-290) Endonuclease VIII-like 1 (NEIL1) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.8
+FILE  d1tdha3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1tdha3.a3m -v 1 
+DATE  Tue Jan 22 02:17:54 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  23 out of 25 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCEEEEECCCCCCCC
+>ss_conf
+97301578999888731688712101267865675249888899
+>Consensus
+exxxxdxsxFxxWLqCYxxpgMxslxDxxgRTiWFxGdPGPlaP
+>d1tdha3 g.39.1.8 (A:247-290) Endonuclease VIII-like 1 (NEIL1) {Human (Homo sapiens) [TaxId: 9606]}
+ESGEEDFAAFRAWLRCYGMPGMSSLQDRHGRTIWFQGDPGPLAP
+>gi|156374930|ref|XP_001629836.1|(251-288:290) predicted protein [Nematostella vectensis] >gi|156216845|gb|EDO37773.1| predicted protein [Nematostella vectensis]  E=6e-05 s/c=1.34 id=49% cov=89%
+------YSRFQEWLQCYYNTDLNNLVDHDGRTMWFKGKPGPLAP
+>gi|47225855|emb|CAF98335.1|(240-283:285) unnamed protein product [Tetraodon nigroviridis]   E=2e-16 s/c=2.02 id=56% cov=102%
+DSEKEDYSDFKAWLQCYCVDGMKSARDHNGRTVWFKGDPGPMAP
+>gi|124249442|ref|NP_001074345.1|(223-265:363) endonuclease VIII-like 1 [Gallus gallus] >gi|53130742|emb|CAG31700.1| hypothetical protein RCJMB04_9m20 [Gallus gallus]  E=1e-14 s/c=1.92 id=64% cov=100%
+-SDSDNYAAFKNWLQCYLVPGMSSLRDRNNRTIWFQGEPGPMAP
+>gi|221115178|ref|XP_002166096.1|(264-306:307) PREDICTED: similar to predicted protein, partial [Hydra magnipapillata]  E=4e-13 s/c=1.80 id=52% cov=100%
+-NEHSDYKIFEKWLQCYCQPNMSNLVDKDGRTIWFEGSAGPLAP
+>gi|405963599|gb|EKC29161.1|(245-285:411) Endonuclease VIII-like 1 [Crassostrea gigas]   E=4e-12 s/c=1.82 id=43% cov=95%
+---DKNFAIFIGWLQCYNKPEMKNMGDHNKRTVFYCGDPGPMVP
+>gi|196001059|ref|XP_002110397.1|(274-306:408) hypothetical protein TRIADDRAFT_54344 [Trichoplax adhaerens] >gi|190586348|gb|EDV26401.1| hypothetical protein TRIADDRAFT_54344 [Trichoplax adhaerens]  E=5e-06 s/c=1.65 id=55% cov=75%
+---EEATARFGSWLQCYCKPEMKNLVDNIGRTIWF---------
+>gi|390336523|ref|XP_003724365.1|(831-874:1044) PREDICTED: uncharacterized protein LOC100893647 [Strongylocentrotus purpuratus]  E=3e-15 s/c=1.93 id=42% cov=102%
+DGKASDYSDFMKWLQCYSKDGMKNMVDHNDRTIWFSGPPGPMIP
+>gi|321463206|gb|EFX74223.1|(248-291:294) hypothetical protein DAPPUDRAFT_57329 [Daphnia pulex]   E=6e-13 s/c=1.75 id=56% cov=102%
+ENGLKDHGAFENWLQCYQNPSMNNLQDRHKRRIWFEGEPGILVP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	1454	655	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1833	0	0	
+
+S 2    *	*	*	*	*	3006	*	*	*	*	*	1975	*	4005	2930	1226	*	*	*	*	2
+       0	*	*	*	*	*	*	1963	0	0	
+
+G 3    *	*	3630	1188	*	1639	*	*	3260	*	*	*	*	*	4188	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1971	0	0	
+
+E 4    3619	*	3282	1214	*	*	3432	*	2960	3278	*	*	*	*	*	4050	*	*	*	*	4
+       0	*	*	*	*	*	*	2112	0	0	
+
+E 5    4038	*	1673	1807	*	*	*	*	2417	*	*	*	*	*	*	2714	*	*	*	*	5
+       0	*	*	*	*	*	*	2081	0	0	
+
+D 6    3359	*	559	3856	*	*	*	*	*	*	*	2693	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2092	0	0	
+
+F 7    *	*	*	*	1491	*	3634	*	*	*	*	*	*	*	*	*	4508	*	*	944	7
+       0	*	*	*	*	*	*	2147	0	0	
+
+A 8    1451	*	*	*	*	3634	*	*	3899	*	*	*	*	*	*	1039	*	*	*	*	8
+       0	*	*	*	*	*	*	2147	0	0	
+
+A 9    1478	*	2565	3985	*	*	*	2762	*	*	*	4407	*	4765	3162	*	*	3928	*	*	9
+       0	*	*	*	*	*	*	2147	0	0	
+
+F 10   *	*	*	*	98	*	*	*	*	3928	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2147	0	0	
+
+R 11   *	*	*	1803	*	4508	4727	3637	3027	*	4120	*	*	2345	2521	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2147	0	0	
+
+A 12   1393	*	*	3883	*	3637	*	*	2306	*	*	2695	*	4938	*	4508	4727	*	*	*	12
+       0	*	*	*	*	*	*	2147	0	0	
+
+W 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	13
+       0	*	*	*	*	*	*	2147	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	98	3928	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2147	0	0	
+
+R 15   4407	*	*	*	*	*	*	*	*	*	*	*	*	672	1620	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2147	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2147	0	0	
+
+Y 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	17
+       0	*	*	*	*	*	*	2147	0	0	
+
+G 18   *	2742	*	*	3323	3497	*	*	*	3570	*	3237	*	3634	*	1997	*	*	*	2829	18
+       0	*	*	*	*	*	*	2147	0	0	
+
+M 19   *	*	*	*	*	*	*	*	2459	*	5039	2753	*	3899	*	*	4179	952	*	*	19
+       0	*	*	*	*	*	*	2147	0	0	
+
+P 20   *	*	2091	*	*	*	*	*	*	*	*	*	664	*	*	3910	3883	*	*	*	20
+       0	*	*	*	*	*	*	2147	0	0	
+
+G 21   *	*	3883	2671	*	672	*	*	*	*	*	3899	*	*	*	3634	*	*	*	*	21
+       0	*	*	*	*	*	*	2147	0	0	
+
+M 22   *	*	*	*	*	*	*	*	*	3883	101	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2147	0	0	
+
+S 23   *	*	*	*	*	*	*	*	1347	*	*	2043	*	*	*	1458	*	*	*	*	23
+       0	*	*	*	*	*	*	2147	0	0	
+
+S 24   *	4755	*	*	*	*	*	*	*	*	*	1332	*	*	*	1014	3824	*	*	*	24
+       0	*	*	*	*	*	*	2147	0	0	
+
+L 25   4700	*	*	*	*	*	*	*	*	350	2858	*	*	*	*	*	*	4676	*	*	25
+       0	*	*	*	*	*	*	2147	0	0	
+
+Q 26   *	*	*	*	*	3637	*	*	4765	*	*	3928	4755	2869	1297	*	*	2081	*	*	26
+       0	*	*	*	*	*	*	2147	0	0	
+
+D 27   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2147	0	0	
+
+R 28   *	*	*	*	*	4727	1291	*	3899	*	*	3707	*	*	1544	3893	*	*	*	*	28
+       0	*	*	*	*	*	*	2147	0	0	
+
+H 29   *	*	2891	*	*	*	1754	4508	*	*	*	1066	*	*	*	4407	*	*	*	*	29
+       0	*	*	*	*	*	*	2147	0	0	
+
+G 30   *	*	4120	*	*	426	*	*	2635	*	*	4755	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2147	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2147	0	0	
+
+T 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3634	*	121	*	*	*	32
+       0	*	*	*	*	*	*	2147	0	0	
+
+I 33   *	*	*	*	*	*	*	369	*	*	3226	*	*	*	*	*	*	3073	*	*	33
+       0	*	*	*	*	*	*	2147	0	0	
+
+W 34   *	*	*	*	3637	*	*	*	*	*	*	*	*	*	*	*	*	*	121	*	34
+       0	*	*	*	*	*	*	2147	0	0	
+
+F 35   *	*	*	*	121	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3637	35
+       0	*	*	*	*	*	*	2147	0	0	
+
+Q 36   *	3572	*	2704	*	*	*	*	2193	*	*	*	*	1290	4837	4053	*	*	*	4658	36
+       0	*	*	*	*	*	*	2117	0	0	
+
+G 37   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2117	0	0	
+
+D 38   *	*	681	2517	*	*	*	*	3800	*	*	*	4053	*	*	3843	*	*	*	*	38
+       0	*	*	*	*	*	*	2117	0	0	
+
+P 39   3843	*	*	*	*	*	*	*	*	*	*	*	104	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2117	0	0	
+
+G 40   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2117	0	0	
+
+P 41   *	*	*	*	*	*	*	3576	*	*	*	*	126	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2117	0	0	
+
+L 42   *	*	*	*	*	*	*	*	*	623	1513	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2117	0	0	
+
+A 43   656	*	*	*	*	*	*	4053	*	*	*	*	*	*	*	*	*	1712	*	*	43
+       0	*	*	*	*	*	*	2117	0	0	
+
+P 44   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	44
+       0	*	*	0	*	*	*	2117	0	0	
+
+//

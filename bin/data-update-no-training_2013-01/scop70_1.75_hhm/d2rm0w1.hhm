@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d2rm0w1 b.72.1.1 (W:1-37) Formin binding protein FBP28 domain {Domestic mouse (Mus musculus) [TaxId: 10090]}
+FAM   b.72.1.1
+FILE  d2rm0w1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2rm0w1.a3m -v 1 
+DATE  Tue Jan 22 08:33:28 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  102 out of 1378 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCCCCCCCEEEECCCCCEEEEECCCCCEEECCCCCCC
+>ss_conf
+9888999878868999887885999954316621059
+>Consensus
+aapxxxxWxexxxxxGxxYyxnxxTxxsxWexPxelk
+>d2rm0w1 b.72.1.1 (W:1-37) Formin binding protein FBP28 domain {Domestic mouse (Mus musculus) [TaxId: 10090]}
+GATAVSEWTEYKTADGKTYYYNNRTLESTWEKPQELK
+>gi|170039561|ref|XP_001847599.1|(446-481:874) transcription elongation regulator 1 [Culex quinquefasciatus] >gi|167863117|gb|EDS26500.1| transcription elongation regulator 1 [Culex quinquefasciatus]  E=5e-05 s/c=1.40 id=30% cov=100%
+-PISGTPWCVVWTGDGRVFFYNPSSRTSVWERPDDLR
+>gi|50549743|ref|XP_502342.1|(38-71:568) YALI0D02827p [Yarrowia lipolytica] >gi|49648210|emb|CAG80530.1| YALI0D02827p [Yarrowia lipolytica CLIB122]  E=3e-05 s/c=1.49 id=31% cov=95%
+-ALKRTNWKEYTAEGGRKYWFNTESKESVWVFPAD--
+>gi|95007225|emb|CAJ20446.1|(14-45:588) hypothetical protein TgIa.1940c [Toxoplasma gondii RH]   E=0.0003 s/c=1.50 id=30% cov=89%
+-APLPPDWYEYHDPRGVPYFHHPRLNVTQWERP----
+>gi|303280964|ref|XP_003059774.1|(66-100:117) predicted protein [Micromonas pusilla CCMP1545] >gi|226458429|gb|EEH55726.1| predicted protein [Micromonas pusilla CCMP1545]  E=0.0002 s/c=1.39 id=33% cov=97%
+AAPLPEGWKPCRTGDGQVYYFNFDTGASSWDHPMD--
+>gi|340055561|emb|CCC49880.1|(498-532:666) conserved hypothetical protein [Trypanosoma vivax Y486]   E=2e-05 s/c=1.48 id=31% cov=95%
+-PVSQGDWVEHVdTKTGRKYYVNHRTRQTSWTIPAD--
+>gi|301109611|ref|XP_002903886.1|(486-522:923) conserved hypothetical protein [Phytophthora infestans T30-4] >gi|262096889|gb|EEY54941.1| conserved hypothetical protein [Phytophthora infestans T30-4]  E=4e-05 s/c=1.37 id=33% cov=97%
+AAVDMSQWvmKESRSIAGKIFWYHTQTGKTQWEHPAE--
+>gi|198435326|ref|XP_002121950.1|(716-746:1562) PREDICTED: similar to HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2 [Ciona intestinalis]  E=0.0007 s/c=1.50 id=17% cov=78%
+------NWEACRDRHDRLFYLDHVNRVTQWERPK---
+>gi|340059697|emb|CCC54091.1|(16-51:144) putative zinc finger protein 2 [Trypanosoma vivax Y486]   E=0.0008 s/c=1.29 id=27% cov=100%
+GAMLPIGWQVAYSPEGEMYYIDHNTQTTHWQIPHEV-
+>gi|347962985|ref|XP_311158.5|(8-41:1013) AGAP000002-PA [Anopheles gambiae str. PEST] >gi|333467413|gb|EAA06758.5| AGAP000002-PA [Anopheles gambiae str. PEST]  E=0.001 s/c=1.35 id=28% cov=78%
+-------WEINTDYDGKVYFIDHINKKTTWIDPRD--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    773	*	*	*	*	1269	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4115	0	0	
+
+A 2    886	*	*	4632	*	*	*	*	*	*	5333	*	1773	*	*	3305	*	*	*	*	2
+       0	*	*	*	*	*	*	4850	0	0	
+
+T 3    *	*	6133	5393	*	*	*	3975	5819	3766	4820	*	998	4975	6262	4434	3093	3992	*	*	3
+       0	*	*	*	*	*	*	4913	0	0	
+
+A 4    2634	*	4082	3596	*	5176	*	5776	4980	1835	*	6123	5225	4104	*	2785	4475	4322	*	*	4
+       0	*	*	*	*	*	*	5045	0	0	
+
+V 5    3505	5670	6306	5129	*	4488	*	4512	4235	4324	3732	6487	1438	5540	5622	5592	4093	3589	*	*	5
+       0	*	*	*	*	*	*	5071	0	0	
+
+S 6    3656	5286	3831	3638	*	3106	6101	5997	*	6269	*	3949	3229	4253	*	2316	2878	5356	*	*	6
+       10	7170	*	0	*	*	*	5091	1000	0	
+
+E 7    3030	*	2578	3579	*	2463	5433	6432	4089	5026	*	3511	2784	6093	5540	6540	5770	5461	*	*	7
+       10	7137	*	2000	415	*	*	5056	1000	0	
+
+W 8    *	*	*	*	5248	*	*	*	*	*	*	*	*	*	*	*	*	*	38	*	8
+       16	6486	*	1000	1000	*	*	4916	1000	0	
+
+T 9    4635	6533	6260	2173	*	5191	*	4793	2540	*	5643	*	*	3144	3911	3741	3094	3992	6868	5977	9
+       0	*	*	*	*	*	*	4916	0	0	
+
+E 10   2705	*	*	1082	*	*	*	4807	4042	6277	4646	*	6337	3895	5219	6132	5295	3667	*	*	10
+       15	6618	*	0	*	*	*	4916	1000	0	
+
+Y 11   2773	3377	*	6468	3494	5715	2725	*	5120	3970	4805	6267	*	5783	2822	5655	6769	5609	*	2870	11
+       10	*	7236	*	*	*	*	4916	0	0	
+
+K 12   *	*	5290	6636	3871	*	4648	4406	2423	4257	*	*	*	4227	2538	4939	3444	3109	4537	4032	12
+       25	5874	*	0	*	0	*	4918	1501	1000	
+
+T 13   3545	5651	1361	6618	*	*	*	*	*	6622	*	4858	*	6387	*	2739	1793	*	*	*	13
+       22	6066	*	0	*	*	*	4916	1000	0	
+
+A 14   2805	*	3578	2816	6260	3457	*	6486	4307	*	*	*	1860	4609	5423	3149	*	*	*	6267	14
+       58	4677	*	363	2167	*	*	4916	2291	0	
+
+D 15   4037	*	1784	2632	*	6063	4662	*	3587	6526	*	3176	*	5687	4113	3526	3961	*	*	*	15
+       51	4838	*	0	*	*	*	4916	2247	0	
+
+G 16   *	*	4855	*	*	277	*	*	*	*	*	3922	*	*	6242	4368	*	*	*	6289	16
+       0	*	*	*	*	*	*	4916	0	0	
+
+K 17   6492	*	4855	4151	*	*	4848	6013	2621	6506	5767	4538	*	3919	1355	5609	5059	4125	6305	4826	17
+       39	5216	*	0	*	*	*	4916	1783	0	
+
+T 18   4020	*	*	5150	6492	*	5464	3068	3527	3860	6457	*	2016	*	4513	6522	3402	2434	*	6867	18
+       10	7154	*	0	*	*	*	4916	1000	0	
+
+Y 19   *	*	*	*	2230	*	*	*	*	*	*	*	*	*	*	*	*	*	*	346	19
+       0	*	*	*	*	*	*	4916	0	0	
+
+Y 20   *	*	*	*	2154	*	*	*	*	*	*	*	*	*	*	*	*	*	3155	593	20
+       0	*	*	*	*	*	*	4916	0	0	
+
+Y 21   4895	*	*	*	2774	*	3473	3458	*	6107	5895	*	*	*	*	*	*	2886	4061	1277	21
+       19	6289	*	0	*	*	*	4916	1000	0	
+
+N 22   *	*	2750	*	*	*	2890	*	*	*	*	579	*	*	6258	6138	*	*	*	5648	22
+       0	*	*	*	*	*	*	4916	0	0	
+
+N 23   3296	*	5524	3933	4595	*	2115	5301	3709	6588	*	4909	4557	5643	4233	3286	3015	4994	*	5648	23
+       0	*	*	*	*	*	*	4916	0	0	
+
+R 24   3359	*	5197	2703	*	*	5695	3239	2961	4697	*	3674	5648	4128	4152	4197	5408	2839	*	*	24
+       0	*	*	*	*	*	*	4916	0	0	
+
+T 25   6386	*	6761	4651	*	*	6468	*	5651	4798	*	3644	*	5603	*	4034	494	*	*	*	25
+       0	*	*	*	*	*	*	4916	0	0	
+
+L 26   6907	6631	4011	4501	6490	2192	6277	*	1953	6056	6305	3245	*	4437	2446	6456	*	*	*	*	26
+       0	*	*	*	*	*	*	4916	0	0	
+
+E 27   3451	*	*	1681	*	*	*	5163	3147	5491	6558	*	*	3136	5155	5090	2982	2997	*	*	27
+       0	*	*	*	*	*	*	4916	0	0	
+
+S 28   *	*	*	*	*	*	*	*	6066	5556	*	*	*	*	5573	1029	1242	5067	*	*	28
+       0	*	*	*	*	*	*	4916	0	0	
+
+T 29   6769	*	*	6428	*	*	5591	6855	5893	5950	6456	6802	*	1639	4018	2658	1929	3434	*	*	29
+       0	*	*	*	*	*	*	4916	0	0	
+
+W 30   *	*	*	*	5784	*	*	*	*	*	*	*	*	*	*	*	*	*	106	4240	30
+       24	5895	*	1585	585	*	*	4916	1000	0	
+
+E 31   6843	6337	2492	1032	*	*	6981	4624	4866	5029	*	*	*	4732	5895	5866	3087	6704	*	*	31
+       0	*	*	*	*	*	*	4916	0	0	
+
+K 32   4683	6490	3501	5651	*	*	3014	4376	2463	4374	5211	6544	3438	5525	2074	*	*	4298	*	*	32
+       0	*	*	*	*	*	*	4916	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	4912	0	0	
+
+Q 34   3912	*	2622	2630	5272	6196	5896	5522	3831	4169	3540	5359	2985	3858	3856	6736	*	5535	*	*	34
+       0	*	*	*	*	*	*	4989	0	0	
+
+E 35   4496	5685	1620	1203	*	4581	*	*	5951	5792	*	6031	4849	*	*	*	*	4304	*	*	35
+       0	*	*	*	*	*	*	4851	0	0	
+
+L 36   5345	*	*	*	3005	*	*	3148	*	1219	3461	5070	*	*	5111	*	*	3016	*	4823	36
+       0	*	*	*	*	*	*	4659	0	0	
+
+K 37   *	*	*	3901	*	*	*	*	854	*	*	*	*	2965	1989	*	*	*	*	*	37
+       0	*	*	0	*	*	*	4204	0	0	
+
+//

@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1n4na_ g.3.7.5 (A:) Floral defensin 1 {Garden petunia (Petunia x hybrida), PHD1 [TaxId: 4102]}
+FAM   g.3.7.5
+FILE  d1n4na_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1n4na_.a3m -v 1 
+DATE  Mon Jan 21 23:41:59 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  101 out of 112 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCEEECCCCHHHHCCCCCCCCCCCCCCCCCEEEECCC
+>ss_conf
+97655678604200058843651156898786205643353460589
+>Consensus
+xtCxsxSxxFkGxCxxxxnCxxvCxxEgFxgGxCxgxxRrCxCtkxC
+>d1n4na_ g.3.7.5 (A:) Floral defensin 1 {Garden petunia (Petunia x hybrida), PHD1 [TaxId: 4102]}
+ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC
+>gi|49387573|dbj|BAD25504.1|(27-71:85) hypothetical protein [Oryza sativa Japonica Group] >gi|125580978|gb|EAZ21909.1| hypothetical protein OsJ_05562 [Oryza sativa Japonica Group]  E=1e-05 s/c=1.16 id=35% cov=98%
+--CHDRSQTFKGMCFRTSNCNTSCTNEGYTGGHCTTFRRRCVCTKEC
+>gi|79323898|ref|NP_001031462.1|(33-77:82) defensin-like protein 7 [Arabidopsis thaliana] >gi|254763422|sp|P82784.3|DEF07_ARATH RecName: Full=Defensin-like protein 7; AltName: Full=Low-molecular-weight cysteine-rich protein 75; Short=Protein LCR75; AltName: Full=Low-molecular-weight cysteine-rich protein 79; Short=Protein LCR79; Flags: Precursor >gi|330253517|gb|AEC08611.1| defensin-like protein 7 [Arabidopsis thaliana]  E=1e-10 s/c=1.53 id=33% cov=98%
+--CEAKSLDWKGMCLKWRNCRQVCISEGFTDGRCKGFTRKCICSKPC
+>gi|229914884|gb|ACQ90609.1|(34-80:81) defensin-like protein [Eutrema halophilum]   E=1e-07 s/c=1.25 id=30% cov=100%
+-TCETLSGRYKGLCWSSNSCALICREfEQFEGGHCRGFIRQCYCTTKC
+>gi|116317842|emb|CAH65875.1|(31-61:78) OSIGBa0160I04.1 [Oryza sativa Indica Group]   E=5e-05 s/c=1.63 id=25% cov=68%
+--CETESSKFSGMCMIQANCDHICKTEGFMHGR--------------
+>gi|413937875|gb|AFW72426.1|(65-111:111) hypothetical protein ZEAMMB73_226500 [Zea mays]   E=3e-07 s/c=1.23 id=30% cov=98%
+--CLSQSLQFEGFCFNSDRCAEVCMKESFPGGECKrdVAMRKCFCKKPC
+>gi|263419087|sp|B5LZ79.1|DEF_GYMCO(39-75:75) RecName: Full=Defensin-like protein; AltName: Full=Gamma-thionin; Flags: Precursor >gi|197318639|gb|ACH67608.1| gamma-thionin [Gymnadenia conopsea]  E=8e-05 s/c=1.34 id=38% cov=79%
+-----------GHCFNDHGCDKVCTREGFVRGKCNGILRRCICDRQC
+>gi|343481540|gb|AEM44803.1|(16-53:54) mycin-1 precursor [Caenorhabditis remanei]   E=0.0006 s/c=1.23 id=26% cov=83%
+------SSNFRGLCYFSSNCRGVCRGEGFVSGHCSYWGGACWCS---
+>gi|326522090|dbj|BAK04173.1|(40-87:87) predicted protein [Hordeum vulgare subsp. vulgare]   E=2e-07 s/c=1.22 id=33% cov=102%
+ANCKTASTRFNGICILDSSCANMCITEGFlSGGECEGLHRRCMCKAPC
+>gi|104745457|gb|ABF74600.1|(31-76:76) defensin precursor [Trichosanthes kirilowii]   E=0.0009 s/c=1.00 id=32% cov=100%
+-TCQRASQTWKGVCFRNEKCRNNCLREKARTGNCKYVFRACICYFPC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    960	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1042	*	*	*	*	1
+       0	*	*	*	*	*	*	2069	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	4846	*	4349	*	*	*	*	126	*	*	*	2
+       0	*	*	*	*	*	*	2857	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3642	0	0	
+
+K 4    7040	*	6942	1218	*	*	4564	*	2328	3247	*	*	*	3912	4255	5990	5618	5897	*	4797	4
+       0	*	*	*	*	*	*	3642	0	0	
+
+A 5    2728	*	4564	*	*	*	*	*	4515	*	*	*	*	*	4653	1228	1958	4688	*	*	5
+       0	*	*	*	*	*	*	3642	0	0	
+
+E 6    3645	*	4891	3052	*	*	6002	*	3247	4159	*	*	3202	1925	2352	6935	6286	*	*	*	6
+       0	*	*	*	*	*	*	3642	0	0	
+
+C 7    *	4386	*	*	*	*	*	*	*	*	*	*	*	*	5052	117	*	*	*	*	7
+       0	*	*	*	*	*	*	3682	0	0	
+
+P 8    5115	*	6467	5237	*	3516	1608	6633	3650	4390	*	3769	4386	3336	4154	4370	4554	6244	*	*	8
+       0	*	*	*	*	*	*	3682	0	0	
+
+T 9    6936	*	6529	6862	*	3916	4236	*	2550	4925	5346	3724	*	4894	2043	5215	2200	6237	*	6046	9
+       0	*	*	*	*	*	*	3682	0	0	
+
+W 10   *	*	*	*	306	*	*	*	*	*	*	*	*	*	*	*	*	*	3610	3192	10
+       0	*	*	*	*	*	*	3685	0	0	
+
+D 11   *	*	4981	3632	*	*	3885	*	988	*	*	4577	5485	4296	3107	4906	6609	4601	*	*	11
+       0	*	*	*	*	*	*	3685	0	0	
+
+S 12   *	*	*	*	*	67	*	*	*	*	*	*	*	*	*	4990	*	*	*	6184	12
+       0	*	*	*	*	*	*	3700	0	0	
+
+V 13   3856	*	*	*	4450	*	6226	3558	4672	2238	2866	7361	2974	6274	4698	*	4557	3153	4354	6642	13
+       0	*	*	*	*	*	*	3700	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3700	0	0	
+
+I 15   5513	*	*	*	2230	6069	5996	3353	*	2104	3513	7126	*	*	5800	5949	4003	3280	4130	4252	15
+       0	*	*	*	*	*	*	3700	0	0	
+
+N 16   6387	*	6280	*	4281	5399	3984	5840	4916	5583	4993	3422	*	5996	2543	1396	4601	4956	*	*	16
+       0	*	*	*	*	*	*	3700	0	0	
+
+K 17   *	*	1597	4469	*	6158	4657	*	3199	*	*	3672	6069	5454	5760	2143	4436	6876	4916	6274	17
+       0	*	*	*	*	*	*	3700	0	0	
+
+K 18   4083	*	3930	4662	*	7264	3178	5933	4462	*	*	3834	5012	5671	3089	2136	2600	5240	*	*	18
+       0	*	*	*	*	*	*	3700	0	0	
+
+P 19   *	*	6220	*	*	6226	5468	*	4362	*	*	474	3888	4704	6416	3953	*	*	*	*	19
+       0	*	*	*	*	*	*	3700	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3700	0	0	
+
+V 21   1108	*	3917	5139	*	4451	*	3665	4713	*	*	5415	6336	5910	3055	6614	6551	3556	*	*	21
+       0	*	*	*	*	*	*	3700	0	0	
+
+A 22   3131	*	6336	5346	7132	4948	4045	4726	3793	5324	5278	1918	*	4675	4448	2624	3854	*	7123	*	22
+       0	*	*	*	*	*	*	3700	0	0	
+
+C 23   4585	3709	*	6252	*	*	*	3583	*	*	5423	5392	*	*	*	5603	4901	570	*	6572	23
+       0	*	*	*	*	*	*	3700	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3700	0	0	
+
+K 25   6853	*	*	5824	*	6248	3864	3047	2758	3433	4477	5828	*	3139	1888	*	4214	5043	*	*	25
+       13	6857	*	0	*	*	*	3700	1000	0	
+
+K 26   4532	*	5459	5312	*	4336	5800	*	3360	4560	*	2938	*	4782	4077	3305	1457	*	*	6642	26
+       76	4290	*	371	2142	*	*	3700	1891	0	
+
+A 27   4990	*	5138	89	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       17	6387	*	0	*	*	*	3700	1000	0	
+
+K 28   6999	*	6727	5800	*	602	5379	*	2672	*	*	5375	*	5427	4736	5041	*	*	*	6701	28
+       0	*	*	*	*	*	*	3700	0	0	
+
+F 29   5392	*	5933	5891	365	*	*	*	*	*	*	5996	*	*	*	*	*	*	6056	2883	29
+       15	6616	*	0	*	*	*	3700	1000	0	
+
+S 30   *	*	5675	5381	7045	4239	6253	4094	5642	*	4809	6309	2504	6021	5067	2786	1547	4406	*	*	30
+       0	*	*	*	*	*	*	3700	0	0	
+
+D 31   5526	*	2417	*	*	870	6687	*	*	*	*	*	*	*	4878	2785	4886	*	5561	*	31
+       0	*	*	*	*	*	*	3700	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3700	0	0	
+
+H 33   *	*	3675	3478	4354	*	1996	*	2307	*	*	3495	*	5138	3370	4964	*	5629	*	3957	33
+       0	*	*	*	*	*	*	3700	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       54	4764	*	586	1583	*	*	3691	1695	0	
+
+S 35   *	*	4183	4487	*	*	3764	*	1935	*	*	4829	*	4905	1990	2268	5293	6392	*	*	35
+       246	3348	4090	1000	1000	*	*	3691	2122	0	
+
+K 36   6989	*	6395	*	5263	704	*	*	3276	*	*	*	5905	*	*	5820	3462	4509	*	3875	36
+       51	4850	*	372	2137	*	0	3629	1919	1693	
+
+I 37   3661	*	*	*	1427	*	*	2788	*	2515	*	*	5086	*	*	*	6273	2814	4828	6728	37
+       49	*	4910	*	*	0	*	3635	0	1693	
+
+L 38   4807	*	*	4689	4551	5404	3985	5454	4400	2528	4860	5491	6191	4832	1671	4661	3918	5197	*	*	38
+       0	*	*	*	*	1505	627	3671	0	1671	
+
+R 39   *	*	6141	*	*	3568	5176	*	6903	6195	*	6254	*	5632	349	5773	*	*	*	6036	39
+       0	*	*	*	*	0	*	3670	0	1392	
+
+R 40   3321	*	*	*	*	*	5501	5887	1910	*	*	6436	*	5285	877	6236	*	*	*	*	40
+       0	*	*	*	*	*	*	3691	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3691	0	0	
+
+L 42   *	*	*	*	1725	*	5502	3233	5128	3344	2203	*	*	*	*	*	*	3531	4948	3240	42
+       0	*	*	*	*	*	*	3691	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3691	0	0	
+
+T 44   6417	*	6125	5949	*	*	*	5285	3244	6291	*	6908	*	*	5221	2922	734	*	*	4461	44
+       0	*	*	*	*	*	*	3661	0	0	
+
+K 45   5768	*	*	*	5309	*	*	*	671	*	5409	*	*	*	2235	*	4142	*	*	4796	45
+       0	*	*	*	*	*	*	3646	0	0	
+
+E 46   6022	*	4020	2643	6284	6670	3995	5371	4249	4330	*	4235	1456	4594	5448	5706	5335	5930	*	6809	46
+       0	*	*	*	*	*	*	3646	0	0	
+
+C 47   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	3611	0	0	
+
+//

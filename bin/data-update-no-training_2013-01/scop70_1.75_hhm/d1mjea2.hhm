@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1mjea2 a.171.1.1 (A:2752-2887) BRCA2 tower domain {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.171.1.1
+FILE  d1mjea2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mjea2.a3m -v 1 
+DATE  Mon Jan 21 23:17:06 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCEEECCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9635776214415404689999888888889999999999888731369
+>Consensus
+mEKtxxGxyiFRnxRxEekEAxkxaexqqKklExLftkIqxeFexxext
+>d1mjea2 a.171.1.1 (A:2752-2887) BRCA2 tower domain {Mouse (Mus musculus) [TaxId: 10090]}
+VEKTVSGLYIFRSEREEEKEALRFAEAQQKKLEALFTKVHTEGLSRDVT
+>gi|145232603|gb|ABP48763.1|(2641-2689:3219) BRCA2 [Xenopus (Silurana) tropicalis]   E=3e-05 s/c=1.05 id=50% cov=102%
+MEKMANGLYVFRNDRAEEREAEKHSANQQKKLEMLFSKIQAEFEQREVT
+>gi|327268970|ref|XP_003219268.1|(2209-2255:2545) PREDICTED: breast cancer type 2 susceptibility protein-like [Anolis carolinensis]  E=3e-11 s/c=1.53 id=44% cov=98%
+MEKTSTGSYMFRNCRAEEREAAKHAENKQKTLEALLANIQAEFEKNE--
+>gi|348525424|ref|XP_003450222.1|(498-544:1001) PREDICTED: breast cancer type 2 susceptibility protein homolog [Oreochromis niloticus]  E=1e-08 s/c=1.34 id=38% cov=98%
+MERKPDGSVVFRSSRAEEKEARRYNSHKQKAMEILFAKIQSQFENEE--
+>gi|126843136|gb|ABO27625.1|(2376-2418:2874) breast and ovarian cancer susceptibility protein 2 [Danio rerio]   E=1e-06 s/c=1.31 id=32% cov=90%
+MEKKPNSVFIFRNDRAEDREARKHSNSKHKSLDLLISKIQTQF------
+>gi|410910392|ref|XP_003968674.1|(786-832:1130) PREDICTED: breast cancer type 2 susceptibility protein homolog [Takifugu rubripes]  E=1e-06 s/c=1.19 id=38% cov=98%
+MERKPEGGTVFRSGRAEEKEARRYNIHKEKAMEILFDKIKAEFEKEE--
+>gi|297458719|ref|XP_002684323.1|(2829-2876:3427) PREDICTED: breast cancer type 2 susceptibility protein homolog isoform 1 [Bos taurus] >gi|297481093|ref|XP_002691853.1| PREDICTED: breast cancer type 2 susceptibility protein homolog isoform 1 [Bos taurus] >gi|296481907|gb|DAA24022.1| breast cancer type 2 susceptibility protein homolog isoform 1 [Bos taurus]  E=9e-15 s/c=1.73 id=67% cov=98%
+MEKTSTGLYIFRNEREEEKEATKYAEAQQKKLEALFTKIQAEFEDHE--
+>gi|344275768|ref|XP_003409683.1|(2835-2883:3427) PREDICTED: LOW QUALITY PROTEIN: breast cancer type 2 susceptibility protein-like [Loxodonta africana]  E=4e-14 s/c=1.66 id=62% cov=102%
+VEKTPSGLYIFRDERAEEKEAAKYAETQQKKLEALLAKIQAEFEEQEET
+>gi|345325059|ref|XP_001510808.2|(2936-2982:3501) PREDICTED: breast cancer type 2 susceptibility protein [Ornithorhynchus anatinus]  E=3e-13 s/c=1.67 id=52% cov=98%
+MEKTHTGSYVFRNERAEEKEASKHAESQQKKLEALYAKIQDDFEKQE--
+>gi|158139163|gb|ABP57025.2|(3016-3064:3978) BRCA2 [Strongylocentrotus purpuratus]   E=4e-07 s/c=1.18 id=34% cov=102%
+MEKLPEGGSVFRNAKEEAKAAALHASRKQNKMEQLFTQIQKQFEAKQAT
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	456	*	*	*	*	*	*	1883	*	*	1
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 2    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 3    *	*	*	*	*	*	*	*	290	*	*	*	*	*	2459	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2230	0	0	
+
+T 4    *	*	*	*	*	*	*	*	2089	3108	4251	*	*	*	*	*	746	*	*	*	4
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 5    3518	*	*	*	*	*	4359	*	*	4985	*	*	1214	*	*	1900	*	2905	*	*	5
+       0	*	*	*	*	*	*	2230	0	0	
+
+S 6    3940	*	3993	2371	*	*	*	*	*	*	*	2761	*	*	*	1318	2942	*	*	*	6
+       0	*	*	*	*	*	*	2230	0	0	
+
+G 7    *	*	*	*	*	144	*	*	*	*	*	*	*	*	*	3395	*	*	*	*	7
+       0	*	*	*	*	*	*	2230	0	0	
+
+L 8    *	*	*	*	5049	2371	*	*	*	1292	*	*	*	*	*	1873	*	3395	*	*	8
+       0	*	*	*	*	*	*	2230	0	0	
+
+Y 9    *	4580	*	*	3395	*	*	*	*	*	*	*	*	*	*	3108	3694	3993	*	720	9
+       0	*	*	*	*	*	*	2230	0	0	
+
+I 10   *	*	*	*	*	*	*	849	*	*	4205	*	*	*	*	*	*	1357	*	*	10
+       0	*	*	*	*	*	*	2230	0	0	
+
+F 11   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2230	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2230	0	0	
+
+S 13   *	*	4715	*	*	*	*	*	*	*	*	453	*	*	*	2111	*	*	*	*	13
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 14   3108	4205	2761	974	*	3694	*	*	*	*	*	*	*	*	*	3382	*	*	*	*	14
+       0	*	*	*	*	*	*	2230	0	0	
+
+R 15   *	*	*	*	*	*	*	*	3108	*	*	*	*	*	178	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 16   1019	*	*	981	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 17   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 18   3108	*	3395	342	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 19   *	*	*	*	*	*	*	*	386	*	*	*	*	*	2090	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 20   3108	*	*	178	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2230	0	0	
+
+A 21   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2230	0	0	
+
+L 22   1463	*	*	4251	*	*	*	4966	*	2599	*	*	*	*	2089	4359	3857	4846	*	*	22
+       0	*	*	*	*	*	*	2230	0	0	
+
+R 23   *	*	*	*	*	*	*	*	797	3108	*	*	*	*	1697	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2230	0	0	
+
+F 24   *	*	*	*	2571	*	856	*	*	*	*	*	*	*	*	*	*	*	*	1841	24
+       0	*	*	*	*	*	*	2230	0	0	
+
+A 25   489	*	*	*	*	*	*	*	*	*	*	2836	*	*	*	2761	*	*	*	*	25
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 26   3518	*	*	832	*	*	*	3694	*	*	*	3395	*	*	*	2484	*	*	*	*	26
+       0	*	*	*	*	*	*	2230	0	0	
+
+A 27   1472	4985	4914	*	*	*	2836	*	*	*	*	3228	*	*	3108	2798	4715	5049	*	*	27
+       0	*	*	*	*	*	*	2230	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	1303	*	*	*	*	750	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2230	0	0	
+
+Q 29   *	*	*	3694	*	*	3395	*	*	*	*	*	*	273	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 30   *	*	*	*	*	*	*	*	178	*	*	3108	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 31   2836	*	*	*	*	*	*	*	556	*	*	*	*	*	5031	3395	4205	*	*	*	31
+       0	*	*	*	*	*	*	2230	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	427	1966	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 33   *	*	3395	144	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2230	0	0	
+
+A 34   925	*	*	*	*	*	*	2836	*	3395	4251	*	*	3108	*	*	*	3846	*	*	34
+       0	*	*	*	*	*	*	2230	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2230	0	0	
+
+F 36   *	*	*	*	449	*	*	3395	*	3013	*	*	*	*	*	*	*	*	*	4359	36
+       0	*	*	*	*	*	*	2230	0	0	
+
+T 37   2077	*	3694	*	*	*	*	*	*	*	*	4580	*	*	*	2471	1109	*	*	*	37
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 38   *	*	*	*	*	*	*	*	327	*	*	4205	*	3108	4929	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 39   *	*	*	*	*	*	*	207	*	*	*	*	*	*	*	*	*	2905	*	*	39
+       0	*	*	*	*	*	*	2230	0	0	
+
+H 40   *	*	*	*	*	*	2905	*	3694	*	*	*	*	341	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2230	0	0	
+
+T 41   1280	*	4359	5031	*	3846	*	*	3108	*	*	*	*	*	*	3993	2129	4966	*	*	41
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 42   *	*	4359	697	*	*	*	*	*	*	*	*	*	1580	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2230	0	0	
+
+G 43   *	*	*	*	146	4199	*	*	*	4570	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2230	0	0	
+
+L 44   *	*	*	285	*	*	*	*	3033	4132	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2107	0	0	
+
+S 45   3000	*	3223	1964	*	*	*	*	1646	*	*	3843	*	3941	*	4132	*	*	*	*	45
+       0	*	*	*	*	*	*	2107	0	0	
+
+R 46   *	*	*	2665	*	*	1311	*	3000	*	*	4060	*	3384	2656	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2107	0	0	
+
+D 47   *	*	3286	372	*	*	*	*	*	*	*	*	*	3000	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2107	0	0	
+
+V 48   1748	*	*	2188	*	*	*	*	*	*	*	*	*	*	*	*	*	1050	*	*	48
+       0	*	*	*	*	*	*	1861	0	0	
+
+T 49   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	49
+       0	*	*	0	*	*	*	1861	0	0	
+
+//

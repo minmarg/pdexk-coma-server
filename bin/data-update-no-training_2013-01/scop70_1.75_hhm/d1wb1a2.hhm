@@ -1,0 +1,280 @@
+HHsearch 1.5
+NAME  d1wb1a2 b.43.3.1 (A:390-468) Elongation factor SelB, domains 2 and 4 {Methanococcus maripaludis [TaxId: 39152]}
+FAM   b.43.3.1
+FILE  d1wb1a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wb1a2.a3m -v 1 
+DATE  Tue Jan 22 04:04:46 2013
+LENG  79 match states, 79 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CEECCCCEEEECCCEEEEECCCCCCCHHHHCCCEEEECCCCEEEEEEECCCCCEEEEEEECCCCCCCCEEEEEEHHHCC
+>ss_conf
+9211672687148378760344510101222515774398358998304586404899734765887574342011059
+>Consensus
+xVxkeGxvxxxKxrxxieGLAxSKxxaEkLIGEkVxipxknIxGkikgTfGTKGxLxxeFxgxVxxxdxvvLkRlRrWG
+>d1wb1a2 b.43.3.1 (A:390-468) Elongation factor SelB, domains 2 and 4 {Methanococcus maripaludis [TaxId: 39152]}
+EVLREGKVKIDKGRTVIDGLAQSKVAAEKLIGEEISIEGKDIVGKIKGTFGTKGLLTAEFSGNVENRDKVILNRLRRWG
+>gi|150401205|ref|YP_001324971.1|(390-468:468) selenocysteine-specific translation elongation factor [Methanococcus aeolicus Nankai-3] >gi|150013908|gb|ABR56359.1| selenocysteine-specific translation elongation factor [Methanococcus aeolicus Nankai-3]  E=2e-22 s/c=1.37 id=65% cov=101%
+EVIRTGNIKIDKNRVFIEGLANSKSSAEKLIGEVVELPDKNITGKLKNTFGTKGYLTADFDGEVSNKDKVILNRLRRWG
+>gi|20093588|ref|NP_613435.1|(390-453:459) GTPase - translation elongation factor [Methanopyrus kandleri AV19] >gi|19886447|gb|AAM01365.1| GTPase - translation elongation factor [Methanopyrus kandleri AV19]  E=1e-05 s/c=0.82 id=45% cov=82%
+-----------KGLAVVDGLALNKEHAERLVGEKVRTEGG-VEGKIVDTHGTRGAVLVDFEGEVKTGERVVLERVR---
+>gi|336121432|ref|YP_004576207.1|(390-468:468) selenocysteine-specific translation elongation factor [Methanothermococcus okinawensis IH1] >gi|334855953|gb|AEH06429.1| selenocysteine-specific translation elongation factor [Methanothermococcus okinawensis IH1]  E=8e-26 s/c=1.52 id=65% cov=101%
+EVVKTGTIKLNKNRVFIEGLANSKLSAEKLIGEEVFIPEKNIKGKIKGTFGTKGYLTAEFDGNVNNKDTVVLKRLRRWG
+>gi|297619149|ref|YP_003707254.1|(420-529:529) selenocysteine-specific translation elongation factor [Methanococcus voltae A3] >gi|297378126|gb|ADI36281.1| selenocysteine-specific translation elongation factor [Methanococcus voltae A3]  E=3e-19 s/c=0.89 id=60% cov=101%
+EVLRDGNIRIEKGRTTIENLAPSKSNAEKLIGEKVYVidKSKNVEeikkllaedsnkldgskeytkrpeyikaiGKLKGTFGTKGVLVADFDAEVGNRDV
+VLLKRLRRWG
+>gi|256810666|ref|YP_003128035.1|(290-465:465) selenocysteine-specific translation elongation factor [Methanocaldococcus fervens AG86] >gi|256793866|gb|ACV24535.1| selenocysteine-specific translation elongation factor [Methanocaldococcus fervens AG86]  E=3e-44 s/c=0.40 id=51% cov=101%
+IVVKEGRVVKKKDKTYVEGLASSKSAGEKLIGEKVYVPDKNIWGIIKGTFGTKGSLIVEFNGDIDGGERVVLKRVRRWG
+>gi|296109932|ref|YP_003616881.1|(287-458:458) selenocysteine-specific translation elongation factor [methanocaldococcus infernus ME] >gi|295434746|gb|ADG13917.1| selenocysteine-specific translation elongation factor [Methanocaldococcus infernus ME]  E=2e-58 s/c=0.61 id=58% cov=101%
+LVIKEGRVVKKKGRMVVEGLAQSKASAERLVGEKVYIPSKNIEGKIIDTFGTKGNLLVEFNGEVEHGDKVILERIRSWG
+>gi|374635482|ref|ZP_09707080.1|(292-470:470) selenocysteine-specific translation elongation factor [Methanotorris formicicus Mc-S-70] >gi|373562132|gb|EHP88350.1| selenocysteine-specific translation elongation factor [Methanotorris formicicus Mc-S-70]  E=4e-70 s/c=0.59 id=60% cov=101%
+IVTREGKVVAKKDKLFVEGLASSKTSAEKLIGEVVYVPSKDIRGIIKGTFGTKGHLVVEFDGNVEKGDVVILRRLRNWG
+>gi|261402649|ref|YP_003246873.1|(288-463:463) selenocysteine-specific translation elongation factor [Methanocaldococcus vulcanius M7] >gi|261369642|gb|ACX72391.1| selenocysteine-specific translation elongation factor [Methanocaldococcus vulcanius M7]  E=2e-65 s/c=0.62 id=54% cov=101%
+IVIKEGKVVKKKDRVYIEGLATSKISGEKLIGEKVYIPEKDIWGVIKGTFGTKGYLLVDFEDDVEGGEKAVLKRVRKWG
+>gi|15668672|ref|NP_247471.1|(294-469:469) EF-1 alpha family translation factor [Methanocaldococcus jannaschii DSM 2661] >gi|2833515|sp|Q57918.1|SELB_METJA RecName: Full=Selenocysteine-specific elongation factor; AltName: Full=SelB translation factor >gi|1591199|gb|AAB98485.1| putative translation factor, EF-1 alpha family [Methanocaldococcus jannaschii DSM 2661]  E=4e-59 s/c=0.61 id=54% cov=101%
+IVVKEGKVVKKKDKIYIEGLASSKTAGEKLIGGKVYIPDKNIWGVIKGTFGTKGALIAEFDEEVNGGEKVVLKRVRKWG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	986	*	*	*	1396	*	3120	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1908	0	0	
+
+V 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	2
+       0	*	*	*	*	*	*	1908	0	0	
+
+L 3    *	*	*	*	*	*	*	1712	*	1669	*	*	*	*	*	*	3352	1825	*	*	3
+       0	*	*	*	*	*	*	1908	0	0	
+
+R 4    *	*	*	*	*	*	*	*	750	*	*	*	*	*	1303	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1908	0	0	
+
+E 5    *	*	3078	533	*	*	*	*	*	*	*	*	*	*	*	*	2393	*	*	*	5
+       0	*	*	*	*	*	*	1908	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1908	0	0	
+
+K 7    *	*	*	*	*	*	*	*	1406	*	*	1652	*	*	2248	*	3410	*	*	*	7
+       0	*	*	*	*	*	*	1908	0	0	
+
+V 8    *	*	*	*	*	*	*	1278	*	*	*	*	*	*	*	*	*	767	*	*	8
+       0	*	*	*	*	*	*	1908	0	0	
+
+K 9    *	*	*	*	*	*	*	*	1372	*	*	*	*	*	3078	*	*	1014	*	*	9
+       0	*	*	*	*	*	*	1908	0	0	
+
+I 10   3352	*	*	*	*	*	*	1702	1332	3410	*	*	*	*	*	*	*	3272	*	*	10
+       0	*	*	*	*	*	*	1908	0	0	
+
+D 11   *	*	1774	3078	*	*	*	*	1014	*	*	3410	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1908	0	0	
+
+K 12   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 13   *	*	1569	*	*	1028	*	*	*	*	*	2535	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2028	0	0	
+
+R 14   *	*	*	*	*	*	*	*	1974	3082	*	*	*	*	672	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2028	0	0	
+
+T 15   3082	*	*	*	*	*	*	3600	*	3500	3430	*	*	*	*	*	1461	1971	*	*	15
+       0	*	*	*	*	*	*	2028	0	0	
+
+V 16   *	*	*	*	1939	*	*	*	*	*	*	*	*	*	*	*	3245	1377	*	2008	16
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 17   *	*	*	*	*	*	*	697	*	*	*	*	*	*	*	*	*	1385	*	*	17
+       0	*	*	*	*	*	*	2028	0	0	
+
+D 18   *	*	2340	317	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 19   *	*	*	*	*	161	*	*	*	*	*	3245	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2028	0	0	
+
+A 21   143	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3401	*	*	*	*	21
+       0	*	*	*	*	*	*	2028	0	0	
+
+Q 22   *	*	*	3401	*	*	*	*	*	3082	*	2535	3245	2538	*	1974	3598	*	*	*	22
+       0	*	*	*	*	*	*	2028	0	0	
+
+S 23   *	*	*	*	*	*	*	*	*	*	*	3082	*	*	*	181	*	*	*	*	23
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 24   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2028	0	0	
+
+V 25   3430	*	*	3082	*	*	*	3598	*	3544	*	*	*	*	*	1858	2550	2522	*	*	25
+       0	*	*	*	*	*	*	2028	0	0	
+
+A 26   1556	*	*	*	*	*	3082	*	*	*	*	3245	*	*	*	1197	*	*	*	*	26
+       0	*	*	*	*	*	*	2028	0	0	
+
+A 27   412	*	*	*	*	2008	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2028	0	0	
+
+E 28   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 29   *	*	*	*	*	*	*	*	342	*	*	*	*	*	2245	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 31   *	*	*	*	*	*	*	342	*	*	*	*	*	*	*	*	*	2245	*	*	31
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2028	0	0	
+
+E 33   *	*	*	124	*	3600	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2028	0	0	
+
+E 34   *	*	*	1944	*	*	*	*	824	*	*	*	*	*	*	*	*	2513	*	*	34
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 35   *	*	*	*	*	*	*	2522	*	*	*	*	*	*	*	*	*	276	*	*	35
+       0	*	*	*	*	*	*	2028	0	0	
+
+S 36   *	*	*	3527	3544	*	*	*	*	*	*	*	*	*	3082	2522	*	*	*	902	36
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 37   *	*	*	*	*	*	*	950	*	3527	*	*	*	*	*	*	3082	1850	*	*	37
+       161	3245	*	1000	1000	*	*	2028	1000	0	
+
+E 38   *	*	*	2340	*	*	*	*	3245	*	*	*	731	*	*	*	*	3401	*	*	38
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 39   *	*	1984	2571	*	1775	*	*	*	*	*	*	*	*	*	1803	*	*	*	*	39
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 40   *	*	*	*	*	3082	*	*	181	*	*	*	*	*	*	*	*	*	*	*	40
+       181	*	3082	*	*	*	*	2028	0	0	
+
+D 41   *	*	1366	*	*	*	*	*	*	*	*	708	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	0	*	1908	0	1000	
+
+I 42   *	*	*	*	*	*	*	365	*	*	*	*	*	*	*	*	*	2161	*	*	42
+       0	*	*	*	*	*	*	2028	0	0	
+
+V 43   *	*	*	1660	*	*	*	*	3544	*	*	*	*	*	3500	*	3527	2522	2008	*	43
+       161	3245	*	4858	51	*	*	2028	1000	0	
+
+G 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 45   *	*	*	*	*	*	*	2539	593	*	*	*	*	*	*	*	*	2599	*	*	45
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 46   *	*	*	*	*	*	*	308	*	2379	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 47   *	*	*	*	*	*	*	3430	342	*	*	*	*	*	*	*	*	3082	*	*	47
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 48   *	*	2245	*	*	719	*	*	*	*	*	3527	*	*	*	3401	*	*	*	*	48
+       0	*	*	*	*	*	*	2028	0	0	
+
+T 49   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	49
+       0	*	*	*	*	*	*	2028	0	0	
+
+F 50   *	*	*	*	181	*	3082	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 51   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2028	0	0	
+
+T 52   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	52
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 53   *	*	*	*	*	*	*	*	181	*	*	*	*	*	3082	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 54   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 55   2318	*	*	*	*	*	3500	*	*	2522	*	3430	*	*	*	3580	*	3245	*	1971	55
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 56   *	*	*	*	*	*	*	*	*	181	*	*	*	*	*	*	*	3082	*	*	56
+       0	*	*	*	*	*	*	2028	0	0	
+
+T 57   *	*	*	*	*	*	*	2590	*	1769	3401	*	*	*	*	*	1989	2367	*	*	57
+       0	*	*	*	*	*	*	2028	0	0	
+
+A 58   904	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1103	*	*	58
+       0	*	*	*	*	*	*	2028	0	0	
+
+E 59   *	*	1036	965	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2028	0	0	
+
+F 60   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2028	0	0	
+
+S 61   *	*	1156	2317	*	*	*	*	*	*	*	1883	*	*	*	3654	*	*	*	*	61
+       0	*	*	*	*	*	*	2028	0	0	
+
+G 62   3245	*	3598	3600	*	455	*	*	*	*	*	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2028	0	0	
+
+N 63   *	*	2589	1042	*	*	*	*	*	*	*	1522	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2028	0	0	
+
+V 64   *	*	*	*	*	*	*	3580	*	*	*	*	*	*	*	*	*	126	*	*	64
+       0	*	*	*	*	*	*	2028	0	0	
+
+E 65   *	*	3580	1192	*	3245	*	*	3082	*	*	2572	*	*	*	3527	*	*	*	*	65
+       0	*	*	*	*	*	*	2028	0	0	
+
+N 66   *	*	*	*	*	2008	3430	*	3500	*	*	1145	*	*	*	*	3082	*	*	*	66
+       0	*	*	*	*	*	*	2028	0	0	
+
+R 67   *	*	*	*	*	868	*	*	2535	*	*	*	*	*	1839	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2028	0	0	
+
+D 68   *	*	659	1447	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	2028	0	0	
+
+K 69   *	*	*	*	*	*	*	*	947	*	*	*	*	*	2309	*	3544	2367	*	*	69
+       0	*	*	*	*	*	*	2028	0	0	
+
+V 70   3598	*	*	*	*	*	*	3401	*	*	*	*	*	*	*	*	*	281	*	*	70
+       0	*	*	*	*	*	*	2028	0	0	
+
+I 71   *	*	*	*	*	*	*	1525	*	3245	*	3401	*	*	*	*	*	1144	*	*	71
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 72   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2028	0	0	
+
+N 73   *	*	*	2245	*	*	*	*	904	*	*	2589	*	*	3500	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2028	0	0	
+
+R 74   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	74
+       0	*	*	*	*	*	*	2028	0	0	
+
+L 75   *	*	*	*	*	*	*	3430	*	888	*	*	*	*	*	*	*	1447	*	*	75
+       0	*	*	*	*	*	*	2028	0	0	
+
+R 76   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	76
+       0	*	*	*	*	*	*	2028	0	0	
+
+R 77   *	*	*	*	*	*	*	*	2421	*	*	3352	*	*	736	3120	*	*	*	*	77
+       0	*	*	*	*	*	*	1908	0	0	
+
+W 78   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	78
+       0	*	*	*	*	*	*	1908	0	0	
+
+G 79   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	79
+       0	*	*	0	*	*	*	1908	0	0	
+
+//

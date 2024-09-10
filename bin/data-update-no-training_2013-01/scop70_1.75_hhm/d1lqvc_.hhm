@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d1lqvc_ g.32.1.1 (C:) Coagulation factor XIV (Protein C) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.32.1.1
+FILE  d1lqvc_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lqvc_.a3m -v 1 
+DATE  Mon Jan 21 23:03:01 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  104 out of 189 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCHHHHCCCCCCCCCCCCCCCHHHHHHHHCC
+>ss_conf
+951010121689543352243795788875229
+>Consensus
+ANsxlEExxxGnlERECxEExCxxEEarEiFex
+>d1lqvc_ g.32.1.1 (C:) Coagulation factor XIV (Protein C) {Human (Homo sapiens) [TaxId: 9606]}
+ANSFLEELRHSSLERECIEEICDFEEAKEIFQN
+>gi|148226426|ref|NP_001086154.1|(20-52:214) proline rich Gla (G-carboxyglutamic acid) 3 (transmembrane) [Xenopus laevis] >gi|49257628|gb|AAH74265.1| MGC84023 protein [Xenopus laevis]  E=8e-10 s/c=2.01 id=59% cov=103%
+ANSLLEELRQGTIERECMEEICSYEEVKEVYES
+>gi|335297160|ref|XP_003131156.2|(127-159:718) PREDICTED: growth arrest-specific protein 6-like [Sus scrofa]   E=1e-09 s/c=2.00 id=53% cov=103%
+AYQVFEEAKQGHLERECIEELCSQEEAREVFEN
+>gi|387914406|gb|AFK10812.1|(42-74:474) F10 protein [Callorhinchus milii]   E=1e-09 s/c=1.98 id=56% cov=103%
+ANGPFEEFREGNMERECNEEGCSFEEAREIFED
+>gi|332368777|emb|CCA64452.1|(43-76:453) coagulation factor X [Plecoglossus altivelis]   E=1e-09 s/c=1.93 id=59% cov=103%
+ANVFlLEEILQGSLERECYEERCNYEEAREFFED
+>gi|402893660|ref|XP_003910009.1|(52-84:630) PREDICTED: prothrombin [Papio anubis]   E=2e-07 s/c=1.78 id=47% cov=103%
+SSGFLEEVLKGNLERECMEEMCSYEEAFEALES
+>gi|313246805|emb|CBY35669.1|(51-82:477) unnamed protein product [Oikopleura dioica]   E=4e-07 s/c=1.79 id=58% cov=100%
+-DSLLEEMRTGNLERECNEETCDWAEAYEIFGD
+>gi|116268029|ref|NP_001070787.1|(45-78:196) uncharacterized protein LOC768176 precursor [Danio rerio] >gi|115528578|gb|AAI24620.1| Zgc:152997 [Danio rerio]  E=7e-07 s/c=1.66 id=53% cov=103%
+SNTGDEETKlPANLERECLEEVCDYEEAREVFQD
+>gi|313238285|emb|CBY13371.1|(32-64:222) unnamed protein product [Oikopleura dioica]   E=4e-06 s/c=1.64 id=53% cov=103%
+ANSRFEEWKAGNLERECIEETCDATEFHEVYDN
+>gi|115529742|gb|ABJ09592.1|(41-73:323) gamma-carboxyglutamic acid protein 3 splice variant A [Ciona intestinalis]  E=6e-06 s/c=1.61 id=47% cov=103%
+ANSGFEEFAKGNFEQECVEEICNYEELREVYEN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    85	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4131	*	*	*	*	1
+       0	*	*	*	*	*	*	2243	0	0	
+
+N 2    *	*	4991	*	*	*	*	*	*	*	*	171	*	*	5695	4955	*	*	*	5114	2
+       53	5653	5953	551	1656	*	*	2344	1296	0	
+
+S 3    5785	*	*	*	5066	3049	6514	5979	*	*	*	5538	*	4157	4008	903	3204	6488	*	6604	3
+       42	5117	*	0	*	0	*	2353	1370	1000	
+
+F 4    5646	*	*	*	965	3518	6905	4632	*	2856	6049	*	5253	*	4411	*	*	6242	3714	5976	4
+       233	2747	*	80	4209	*	*	2394	1778	0	
+
+L 5    *	*	6287	*	1481	*	*	5113	*	890	4871	*	*	*	*	*	*	*	6637	5961	5
+       54	4766	*	1959	429	*	*	2366	1538	0	
+
+E 6    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 7    6189	*	*	169	*	*	*	*	*	3904	5869	*	*	*	*	6254	*	*	*	*	7
+       0	*	*	*	*	*	*	2369	0	0	
+
+L 8    5133	*	*	*	2279	*	*	2793	*	1474	3577	*	*	*	6686	6745	4534	3829	5115	5966	8
+       0	*	*	*	*	*	*	2369	0	0	
+
+R 9    4662	*	*	6854	4848	*	*	7190	1769	2821	5859	6966	*	4249	2122	5141	4101	5037	4297	*	9
+       32	5510	*	443	1919	*	*	2369	1243	0	
+
+H 10   3870	*	6758	4289	*	*	6455	*	2518	5505	6022	*	1598	2004	*	4444	5492	*	*	*	10
+       0	*	*	*	*	*	*	2369	0	0	
+
+S 11   4394	*	5010	*	*	198	*	*	*	*	*	*	6433	*	6323	5280	*	*	*	*	11
+       0	*	*	*	*	*	*	2369	0	0	
+
+S 12   *	*	3725	*	*	*	5419	*	*	*	*	498	*	*	*	2592	5213	*	*	*	12
+       0	*	*	*	*	*	*	2369	0	0	
+
+L 13   *	*	*	*	4745	*	*	3570	*	345	4592	*	*	5636	*	*	*	5082	*	*	13
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 14   *	*	*	66	*	*	*	*	5196	*	*	*	*	5816	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2369	0	0	
+
+R 15   *	*	*	*	*	*	*	*	5124	*	*	*	*	5070	118	*	5652	*	*	*	15
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 16   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2369	0	0	
+
+I 18   6436	*	*	*	4838	*	5943	2203	4573	3063	2771	3631	*	*	4598	6378	*	2927	*	2773	18
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 19   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 20   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2369	0	0	
+
+I 21   *	*	*	6791	6124	6729	5115	2044	3080	3157	6598	6733	5652	4655	3361	4811	3368	2677	*	*	21
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2369	0	0	
+
+D 23   6522	*	2460	5459	*	*	*	*	*	*	*	1975	*	*	*	1242	3540	5530	*	*	23
+       0	*	*	*	*	*	*	2369	0	0	
+
+F 24   5115	*	*	*	1913	*	4542	5389	4317	3814	5932	*	*	5012	5705	*	*	*	4500	1298	24
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 25   5492	*	5376	113	*	*	*	*	*	*	*	*	*	*	*	*	5115	*	*	*	25
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2369	0	0	
+
+A 27   246	*	*	*	4240	*	*	*	*	4745	*	*	*	*	*	*	*	3912	*	*	27
+       0	*	*	*	*	*	*	2369	0	0	
+
+K 28   5770	*	*	*	4464	*	4506	*	4149	6733	6319	6436	*	4960	536	5385	6545	5376	*	5492	28
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2369	0	0	
+
+I 30   3501	5944	*	*	5734	*	*	1101	*	*	*	*	*	*	*	*	5915	1388	*	6410	30
+       0	*	*	*	*	*	*	2369	0	0	
+
+F 31   *	*	*	*	241	*	*	*	5736	4703	*	*	*	*	*	5636	*	*	*	3705	31
+       0	*	*	*	*	*	*	2369	0	0	
+
+Q 32   *	*	4039	652	*	4886	5853	*	3619	6055	*	*	*	3367	4400	*	*	6491	*	*	32
+       0	*	*	*	*	*	*	2366	0	0	
+
+N 33   *	*	1318	*	*	*	*	*	*	*	*	1058	*	*	*	3073	*	*	*	*	33
+       0	*	*	0	*	*	*	2347	0	0	
+
+//

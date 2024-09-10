@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d1c6vx_ b.34.7.1 (X:) DNA-binding domain of retroviral integrase {Simian immunodeficiency virus [TaxId: 11723]}
+FAM   b.34.7.1
+FILE  d1c6vx_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1c6vx_.a3m -v 1 
+DATE  Mon Jan 21 18:51:26 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  49 out of 51 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCEEEEEECCCCCCEECCCEEEEECCCEEEEECCCCEEEECCCEEEEECC
+>ss_conf
+9753452278987388972217731566168348885598078734520355329
+>Consensus
+qxxKxxnFrVYyRxgxdpxWkGPaxLlWKGEGAVvikxxxxixxVPRRKaKIikd
+>d1c6vx_ b.34.7.1 (X:) DNA-binding domain of retroviral integrase {Simian immunodeficiency virus [TaxId: 11723]}
+KNSKFKNFRVYYREGRDQLWKGPGELLWKGEGAVLLKVGTDIKVVPRRKAKIIKD
+>gi|727181|gb|AAA64258.1|(963-1017:1049) pol [Simian immunodeficiency virus]   E=2e-15 s/c=1.55 id=70% cov=102%
+KIQKILNFRVYYREGRDPVWKGPAQLIWKGEGAVVIKEGEELKIVPRRKAKIIKD
+>gi|6358691|gb|AAF07317.1|AF188114_2(955-1008:1023) Pol protein [Simian immunodeficiency virus]   E=5e-13 s/c=1.44 id=65% cov=100%
+-NSKILKFKVYYRQGRDPQWKGPAQLLWKGEGAVVVKEGDTIFSVPRRKAKLVKD
+>gi|49887108|gb|AAT68795.1|(936-991:1007) pol protein [Simian immunodeficiency virus]   E=4e-12 s/c=1.33 id=68% cov=102%
+KISKLLGFKVYYREGADPTWKGPATLLWKGEGAVVCKTEVgDIKVVPRRKAKVIKE
+>gi|134140582|gb|ABO61054.1|(934-989:1013) pol protein [Simian immunodeficiency virus]   E=7e-12 s/c=1.31 id=61% cov=102%
+QNTKFSKFRVYYRRGANPSWQGPAQLLWKGEGAIVIKTDQgEIITVPRRKAKIIKD
+>gi|294962|gb|AAA74707.1|(960-1013:1031) pol protein [Simian immunodeficiency virus]   E=6e-11 s/c=1.31 id=65% cov=98%
+-SPKFSNFRVYYRQGKNE-WKGPARLLWKGEGAVVVQTEEgDIFAVPRRKAKIITD
+>gi|189310224|emb|CAP72504.1|(948-999:1012) Pol protein [SIV-wrc Pbt-05GM-X02]   E=7e-11 s/c=1.36 id=63% cov=95%
+---KFKNFQVYYRTGASQQWQGPGKLVWKGEGALVVQTPEgDLLTVPRRKAKIIK-
+>gi|12657810|gb|AAK01033.1|AF301156_2(910-963:990) pol protein [Simian immunodeficiency virus]   E=1e-06 s/c=1.04 id=52% cov=98%
+QNQKFKNFKAYWKEHTGE-WQGPGELVWKGEGAVVIRNSQGTLFVkPRRKVKITR-
+>gi|325634942|gb|ADZ32878.1|(416-470:488) pol protein [Human immunodeficiency virus 1]   E=4e-23 s/c=2.00 id=68% cov=102%
+QITKIQNFRVYYRDSRDPLWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRD
+>gi|218347062|emb|CAQ60125.1|(932-984:994) Pol protein [Simian immunodeficiency virus - olc]   E=2e-11 s/c=1.35 id=63% cov=93%
+---KFSGYRVYYKNKEGQ-WCGPAELLWKGEGAVLLKEGDKYFSVPLRKAKIVK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	1099	*	*	*	*	908	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1879	0	0	
+
+N 2    *	*	*	*	*	*	*	1528	4531	*	*	1095	*	4007	*	3649	*	*	*	*	2
+       0	*	*	*	*	*	*	1950	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	5094	*	*	4240	2067	*	1216	2007	*	*	*	3
+       0	*	*	*	*	*	*	2013	0	0	
+
+K 4    *	*	*	*	*	*	*	*	71	*	*	5051	*	5802	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2077	0	0	
+
+F 5    *	*	*	*	1041	*	*	1395	*	3697	*	5312	*	*	*	*	*	4992	*	*	5
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 6    *	*	*	*	*	*	*	*	2596	2728	*	*	*	1270	*	1894	*	*	*	*	6
+       0	*	*	*	*	*	*	2077	0	0	
+
+N 7    *	6035	5051	*	*	3320	*	*	2510	*	*	610	*	5396	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2077	0	0	
+
+F 8    *	*	*	*	87	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4093	8
+       0	*	*	*	*	*	*	2077	0	0	
+
+R 9    *	*	*	*	*	*	*	*	1909	*	*	*	*	3625	615	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2077	0	0	
+
+V 10   3998	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	93	*	*	10
+       0	*	*	*	*	*	*	2077	0	0	
+
+Y 11   *	*	*	*	*	*	5396	*	*	*	*	*	*	*	*	*	*	*	*	35	11
+       0	*	*	*	*	*	*	2077	0	0	
+
+Y 12   *	*	*	*	2838	*	*	*	*	*	*	*	*	*	*	*	*	*	3998	326	12
+       0	*	*	*	*	*	*	2077	0	0	
+
+R 13   *	*	*	*	*	*	*	*	3045	*	*	*	*	*	186	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2077	0	0	
+
+E 14   *	*	1904	1397	*	*	5285	*	5051	*	*	4093	*	4050	4177	*	3025	*	*	*	14
+       0	*	*	*	*	*	*	2077	0	0	
+
+G 15   6004	*	*	*	*	709	3998	*	4093	*	*	6147	*	*	*	2074	*	*	*	*	15
+       0	*	*	*	*	*	*	2077	0	0	
+
+R 16   2054	*	*	4093	*	*	*	*	5442	*	*	*	*	*	868	4593	3502	*	*	*	16
+       0	*	*	*	*	*	*	2077	0	0	
+
+D 17   *	*	759	5091	*	3045	*	*	*	*	*	2246	*	*	*	4388	*	*	*	*	17
+       0	*	*	*	*	*	*	2077	0	0	
+
+Q 18   *	*	5285	3546	*	*	*	*	*	*	*	*	676	1928	*	*	*	*	*	*	18
+       269	*	2558	*	*	*	*	2077	0	0	
+
+L 19   *	*	*	*	*	*	5599	2008	*	2335	*	*	*	2410	*	3086	5203	2644	*	4666	19
+       0	*	*	*	*	0	*	1884	0	1712	
+
+W 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	20
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 21   *	4093	*	*	*	*	*	*	592	4852	*	*	*	2038	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2077	0	0	
+
+G 22   *	*	*	*	*	51	*	*	*	*	*	*	*	*	4852	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2077	0	0	
+
+P 23   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2077	0	0	
+
+G 24   388	*	*	*	*	2083	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2077	0	0	
+
+E 25   5870	*	*	2108	*	*	4430	5312	1880	*	*	5945	*	3123	3179	4612	3570	4605	*	*	25
+       0	*	*	*	*	*	*	2077	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2077	0	0	
+
+L 27   *	*	*	*	*	*	*	3283	*	410	*	*	5079	*	*	*	*	3122	*	*	27
+       0	*	*	*	*	*	*	2077	0	0	
+
+W 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	28
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 29   *	*	*	*	*	*	*	*	36	*	*	*	*	*	5360	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2077	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2077	0	0	
+
+E 31   4982	*	4590	190	*	*	*	*	*	*	*	*	*	5669	*	*	*	*	*	5042	31
+       0	*	*	*	*	*	*	2077	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2077	0	0	
+
+A 33   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2077	0	0	
+
+V 34   *	*	*	*	*	*	*	5597	*	3285	*	*	*	*	*	*	*	190	*	*	34
+       0	*	*	*	*	*	*	2077	0	0	
+
+L 35   *	*	*	*	*	*	*	4114	*	3050	*	*	*	*	*	*	*	284	*	*	35
+       0	*	*	*	*	*	*	2077	0	0	
+
+L 36   *	5384	*	*	*	*	*	659	*	2310	*	*	*	*	*	*	*	2825	*	*	36
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 37   *	*	*	5079	*	*	*	*	875	*	*	*	*	1588	3430	*	*	*	*	*	37
+       26	5830	*	0	*	*	*	2077	1000	0	
+
+V 38   *	*	1985	2559	*	5348	*	*	*	*	*	3382	*	5690	*	*	1674	3331	*	5312	38
+       37	5285	*	0	*	*	*	2077	1000	0	
+
+G 39   *	*	3095	3689	*	1606	*	*	3970	*	*	2541	4274	3191	*	3998	5830	*	*	*	39
+       47	4950	*	0	*	*	*	2077	1197	0	
+
+T 40   5542	*	3642	1707	*	3430	*	*	*	*	*	4866	*	2640	5645	3629	2690	4356	*	*	40
+       373	2132	*	0	*	*	*	2078	1608	0	
+
+D 41   5042	*	1691	1553	*	3439	*	*	3668	*	*	5690	*	4548	*	*	5602	4450	*	5669	41
+       0	*	*	*	*	*	*	2077	0	0	
+
+I 42   *	*	*	*	*	*	*	720	*	2797	*	*	*	*	*	*	3998	2970	*	4093	42
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 43   *	*	*	*	3071	*	*	2453	967	3071	*	*	*	4924	*	*	*	4845	*	*	43
+       0	*	*	*	*	*	*	2078	0	0	
+
+V 44   4361	*	*	5348	3998	*	*	4082	*	*	*	*	6004	*	*	3659	2071	1082	*	*	44
+       0	*	*	*	*	*	*	2077	0	0	
+
+V 45   *	*	*	*	*	*	*	3297	*	*	*	*	*	*	*	*	*	195	*	5338	45
+       94	3980	*	0	*	*	*	2078	1000	0	
+
+P 46   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2077	0	0	
+
+R 47   *	*	*	*	*	*	*	*	5638	4093	*	*	*	*	118	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2077	0	0	
+
+R 48   *	*	*	*	*	*	*	*	*	*	*	*	*	*	44	5042	*	*	*	*	48
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 49   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2078	0	0	
+
+A 50   326	4587	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2639	*	*	50
+       0	*	*	*	*	*	*	2078	0	0	
+
+K 51   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2078	0	0	
+
+I 52   *	*	*	*	*	*	*	226	*	3835	*	*	*	*	*	4924	*	4578	*	*	52
+       0	*	*	*	*	*	*	2078	0	0	
+
+I 53   *	*	*	*	*	*	*	309	*	4982	*	*	*	*	*	*	3998	3343	*	*	53
+       0	*	*	*	*	*	*	2077	0	0	
+
+K 54   *	*	*	*	*	*	*	*	634	*	*	*	*	*	1741	*	4145	*	*	*	54
+       0	*	*	*	*	*	*	2068	0	0	
+
+D 55   *	*	231	3094	*	*	*	*	*	*	*	5006	*	*	*	*	*	*	*	*	55
+       0	*	*	0	*	*	*	1782	0	0	
+
+//

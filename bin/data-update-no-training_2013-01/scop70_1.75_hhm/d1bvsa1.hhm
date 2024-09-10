@@ -1,0 +1,208 @@
+HHsearch 1.5
+NAME  d1bvsa1 a.5.1.1 (A:148-203) DNA helicase RuvA subunit, C-terminal domain {Mycobacterium leprae [TaxId: 1769]}
+FAM   a.5.1.1
+FILE  d1bvsa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bvsa1.a3m -v 1 
+DATE  Mon Jan 21 19:04:58 2013
+LENG  56 match states, 56 columns in multiple alignment
+FILT  100 out of 128 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.1 
+SEQ
+>ss_pred
+CCHHHHHHHHHHCCCCCHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHCCCC
+>ss_conf
+94277999998708998566899999986102457887645899999998613689
+>Consensus
+xavrxQVveALvgLGwxxkxAxxAvxxvxxxxxxxxxxxdvxxlLRaALxxLGxxR
+>d1bvsa1 a.5.1.1 (A:148-203) DNA helicase RuvA subunit, C-terminal domain {Mycobacterium leprae [TaxId: 1769]}
+NAVRGSVVEALVGLGFAAKQAEEATDQVLDGELGKDGAVATSSALRAALSLLGKTR
+>gi|308235709|ref|ZP_07666446.1|(159-212:212) Holliday junction ATP-dependent DNA helicase ruvA [Gardnerella vaginalis ATCC 14018 = JCM 11026] >gi|311114741|ref|YP_003985962.1| crossover junction ATP-dependent DNA helicase RuvA [Gardnerella vaginalis ATCC 14019] >gi|415703543|ref|ZP_11459359.1| Holliday junction ATP-dependent DNA helicase ruvA [Gardnerella vaginalis 284V] >gi|415707176|ref|ZP_11462023.1| Holliday junction ATP-dependent DNA helicase ruvA [Gardnerella vaginalis 0288E] >gi|310946235|gb|ADP38939.1| crossover junction ATP-dependent DNA helicase RuvA [Gardnerella vaginalis ATCC 14019] >gi|388052583|gb|EIK75605.1| Holliday junction ATP-dependent DNA helicase ruvA [Gardnerella vaginalis 284V] >gi|388054176|gb|EIK77121.1| Holliday junction ATP-dependent DNA helicase ruvA [Gardnerella vaginalis 0288E]  E=0.0002 s/c=0.89 id=28% cov=95%
+----SKVVDGLMSLGWKQSDAQRAVENVCNSEKIALPisDSDMPNVLRMALAALDRGR
+>gi|410667579|ref|YP_006919950.1|(149-199:200) holliday junction ATP-dependent DNA helicase RuvA [Thermacetogenium phaeum DSM 12270] >gi|409105326|gb|AFV11451.1| holliday junction ATP-dependent DNA helicase RuvA [Thermacetogenium phaeum DSM 12270]  E=0.001 s/c=0.90 id=35% cov=93%
+--VVDEVTRALLALGYSNKEAESALEKVPDDRVS---TASCEELLRIALRELGRRK
+>gi|256832601|ref|YP_003161328.1|(148-204:205) Holliday junction DNA helicase RuvA [Jonesia denitrificans DSM 20603] >gi|256686132|gb|ACV09025.1| Holliday junction DNA helicase RuvA [Jonesia denitrificans DSM 20603]  E=1e-07 s/c=1.04 id=37% cov=102%
+HDASEQVIDALMSLGWNTKQAENAVDQVRADTGQPiITPAQVPATLRAALKILGGPR
+>gi|184201011|ref|YP_001855218.1|(150-203:213) Holliday junction DNA helicase RuvA [Kocuria rhizophila DC2201] >gi|229560091|sp|B2GIL9.1|RUVA_KOCRD RecName: Full=Holliday junction ATP-dependent DNA helicase RuvA >gi|183581241|dbj|BAG29712.1| Holliday junction DNA helicase RuvA [Kocuria rhizophila DC2201]  E=5e-07 s/c=1.06 id=33% cov=96%
+---RDQVVDALTGLGWSEKDAVRGIEDALQTQPELGDSGNVAEILRAVLSWLGTSK
+>gi|386851471|ref|YP_006269484.1|(148-200:200) Holliday junction DNA helicase subunit RuvA [Actinoplanes sp. SE50/110] >gi|359838975|gb|AEV87416.1| Holliday junction ATP-dependent DNA helicase ruvA [Actinoplanes sp. SE50/110]  E=1e-06 s/c=1.05 id=31% cov=96%
+-AWQEQVRQGVLALGWSATQADQAVAAIGETIDGEVPP--VPILLRQAIRLLGRTR
+>gi|297626360|ref|YP_003688123.1|(151-202:203) Holliday junction ATP-dependent DNA helicase [Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1] >gi|296922125|emb|CBL56693.1| Holliday junction ATP-dependent DNA helicase [Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1]  E=1e-06 s/c=1.07 id=26% cov=95%
+-AWQEQVMAGLESLGWSSRDAEAACETV-APLAEEDPEATVAALMKAALASLAR--
+>gi|329945621|ref|ZP_08293354.1|(165-215:218) Holliday junction DNA helicase RuvA, N terminal domain protein [Actinomyces sp. oral taxon 170 str. F0386] >gi|328528624|gb|EGF55589.1| Holliday junction DNA helicase RuvA, N terminal domain protein [Actinomyces sp. oral taxon 170 str. F0386]  E=6e-06 s/c=1.05 id=32% cov=89%
+----ADVVAALVQLGWNEASARQAVTAVEADYAEAGENPDMAALLRASLRWLG---
+>gi|296117790|ref|ZP_06836373.1|(158-211:211) holliday junction DNA helicase RuvA [Corynebacterium ammoniagenes DSM 20306] >gi|295969021|gb|EFG82263.1| holliday junction DNA helicase RuvA [Corynebacterium ammoniagenes DSM 20306]  E=6e-06 s/c=0.99 id=36% cov=98%
+-AIVDTVVEALVGLGFTEKAARPVVESHVAESKTPE-KLETATVLRASLSALSGSK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	1366	*	*	*	*	996	*	3179	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2482	0	0	
+
+A 2    452	*	3645	*	*	*	*	*	*	*	*	*	*	*	*	2800	5428	5486	*	*	2
+       0	*	*	*	*	*	*	3422	0	0	
+
+V 3    4760	*	*	*	*	*	6348	4583	5894	3921	6151	*	*	*	5421	*	*	635	2787	*	3
+       0	*	*	*	*	*	*	3593	0	0	
+
+R 4    4599	*	*	*	*	5564	*	*	6116	*	*	*	*	3389	631	4798	4701	3216	*	*	4
+       0	*	*	*	*	*	*	3883	0	0	
+
+G 5    2568	*	1835	1543	*	4172	*	*	*	5903	*	*	*	5148	*	3786	4838	*	*	*	5
+       0	*	*	*	*	*	*	4054	0	0	
+
+S 6    *	*	3044	3630	*	*	*	*	5099	*	*	*	4633	528	*	5689	6013	*	*	*	6
+       0	*	*	*	*	*	*	4153	0	0	
+
+V 7    *	*	*	*	*	*	*	5130	*	5710	*	*	*	*	*	*	*	70	*	*	7
+       0	*	*	*	*	*	*	4154	0	0	
+
+V 8    4362	*	*	6052	*	*	5021	3814	*	3515	5211	*	*	5337	3716	4128	4038	997	*	*	8
+       0	*	*	*	*	*	*	4166	0	0	
+
+E 9    3424	*	2789	829	*	6419	*	*	*	5961	*	*	*	3150	5211	4967	*	*	*	*	9
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 10   399	*	*	*	*	2048	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	4166	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	85	4962	*	*	*	*	*	*	5315	*	*	11
+       0	*	*	*	*	*	*	4166	0	0	
+
+V 12   4901	*	*	5483	*	*	*	3339	*	3570	3807	*	*	4980	*	*	3015	904	*	*	12
+       0	*	*	*	*	*	*	4166	0	0	
+
+G 13   4426	*	*	*	*	526	*	*	*	*	*	6112	*	5387	*	2181	*	*	*	*	13
+       0	*	*	*	*	*	*	4166	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4166	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	4166	0	0	
+
+F 16   *	*	*	*	1446	*	*	*	*	*	*	*	*	*	*	*	*	*	814	3958	16
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 17   3901	*	6467	*	*	*	*	*	4218	6090	*	3677	2490	5961	4157	1639	2293	*	*	*	17
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 18   1817	*	5300	1400	*	5715	*	6836	*	4155	*	5547	5322	3142	*	6200	4926	5527	*	*	18
+       0	*	*	*	*	*	*	4166	0	0	
+
+K 19   2727	*	*	6519	*	6246	*	*	916	*	*	*	*	4440	2399	4875	5315	*	*	*	19
+       12	*	6923	*	*	*	*	4166	0	0	
+
+Q 20   3749	*	1638	3515	*	6581	6516	*	4804	*	6829	*	4586	1828	*	4717	3960	5310	*	*	20
+       0	*	*	*	*	*	0	4165	0	1000	
+
+A 21   36	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5323	*	*	*	*	21
+       10	*	7227	*	*	*	0	4165	0	1000	
+
+E 22   3538	*	2977	1322	5949	5370	*	6512	*	4819	*	4574	*	3616	3608	4804	4956	5240	*	*	22
+       0	*	*	*	*	*	0	4170	0	1414	
+
+E 23   3237	*	3178	3746	*	3983	5412	6442	2603	*	*	6324	3417	2602	4683	3578	4679	6204	*	*	23
+       49	*	4910	*	*	1030	970	4170	0	1414	
+
+A 24   266	*	*	*	*	6065	*	*	*	*	*	*	*	*	*	4533	4165	4204	*	*	24
+       9	*	7317	*	*	2021	408	4167	0	1907	
+
+T 25   4145	4664	*	*	6639	*	*	2752	*	4084	*	*	*	*	*	*	3556	760	*	6468	25
+       12	*	6875	*	*	*	0	4165	0	1912	
+
+D 26   3073	*	1770	1793	*	4748	6075	6848	3858	6598	*	*	*	5498	5502	4294	4157	6940	*	*	26
+       9	*	7404	*	*	*	0	4169	0	2151	
+
+Q 27   2171	*	4666	3224	6239	6885	*	*	2531	*	*	5353	*	2893	4869	2688	3502	*	*	*	27
+       40	5200	*	1258	781	461	1871	4174	1488	2163	
+
+V 28   2860	*	*	6452	*	*	6039	4508	*	3924	*	*	*	*	*	*	3938	625	*	6352	28
+       306	6262	2490	1585	585	1000	1000	4174	1000	1295	
+
+L 29   2135	3583	5773	5914	*	5194	*	5383	*	1754	4484	*	5398	*	5352	6082	4764	2628	*	*	29
+       112	6795	3930	1000	1000	2278	333	4140	1000	2775	
+
+D 30   1463	*	2814	3153	*	6347	6173	*	3438	*	*	4405	*	4556	5187	3681	4578	5197	*	*	30
+       108	5748	4222	1000	1000	2596	261	4159	1000	2833	
+
+G 31   3492	*	2514	2391	*	2969	5125	5036	5802	5120	*	*	5242	4535	4380	3359	3507	6831	*	*	31
+       155	6353	3484	0	*	*	0	4158	1000	2877	
+
+E 32   3930	*	4155	3175	*	4071	6536	4342	5928	3450	5969	4123	4685	3566	3574	3601	4350	3427	6036	5669	32
+       93	6309	4321	1000	1000	1135	877	4118	1000	3171	
+
+L 33   3606	*	3121	4106	*	2866	5452	*	4892	2318	*	5646	2768	*	6140	5126	6742	3066	*	6348	33
+       54	*	4772	*	*	1594	580	4090	0	3159	
+
+G 34   1499	*	5229	2611	*	2817	*	3919	6414	6249	*	*	4588	5416	6844	4054	3974	6942	*	5866	34
+       87	*	4102	*	*	1017	983	4104	0	3096	
+
+K 35   2209	*	2879	1767	*	4233	*	*	6693	3698	*	5890	2890	*	*	5575	5296	5974	*	*	35
+       130	6110	3805	0	*	935	1068	4086	1000	2916	
+
+D 36   3873	*	2173	3457	*	3346	*	4492	*	3526	5104	4130	*	5744	*	3952	3008	3387	*	*	36
+       116	5350	4249	0	*	2380	308	4078	1407	2942	
+
+G 37   4099	*	3315	4132	*	2753	6997	*	*	*	*	*	1122	4528	5961	4205	4495	6572	*	*	37
+       104	3851	*	1000	1000	1113	896	4093	1799	3085	
+
+A 38   2570	*	2865	2598	*	2803	7118	*	5994	4655	*	4939	4086	6277	*	2942	3764	6054	*	*	38
+       52	*	4818	*	*	1517	620	4177	0	2394	
+
+V 39   1221	*	4933	5472	*	3533	7068	*	*	3389	5134	*	3339	5346	5551	4476	5053	3679	*	*	39
+       48	5640	6306	647	1468	2122	376	4158	1585	2241	
+
+A 40   4523	*	1140	3366	*	4551	*	*	*	*	*	3584	6418	5226	6646	2845	3439	*	*	*	40
+       33	5484	*	669	1430	177	3116	4136	1452	2363	
+
+T 41   3427	5540	*	*	*	*	*	3951	*	*	4780	6846	5443	*	*	4886	2015	1085	*	*	41
+       0	*	*	*	*	0	*	4161	0	1000	
+
+S 42   1823	*	*	5547	*	4435	*	*	*	*	*	*	1954	5188	*	1495	6734	*	*	*	42
+       0	*	*	*	*	*	*	4166	0	0	
+
+S 43   2652	*	4888	2804	*	3706	*	5315	6090	5469	6419	4863	*	3839	3875	3548	3003	2937	*	*	43
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 44   2701	*	*	*	*	*	*	4225	*	1210	4664	*	*	*	*	*	4837	1805	*	*	44
+       0	*	*	*	*	*	*	4166	0	0	
+
+L 45   *	*	*	*	*	*	*	5894	*	116	4048	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	4166	0	0	
+
+R 46   *	*	*	*	*	*	*	*	2994	*	*	*	*	*	194	*	*	*	*	*	46
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 47   952	*	6631	5218	*	4507	*	5547	4933	3693	5049	*	*	3381	6860	3410	4581	*	*	*	47
+       0	*	*	*	*	*	*	4166	0	0	
+
+A 48   391	*	*	*	*	6605	*	*	*	*	*	*	*	*	*	3135	3756	4674	*	*	48
+       0	*	*	*	*	*	*	4166	0	0	
+
+L 49   *	*	*	*	*	*	*	4297	*	75	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	4166	0	0	
+
+S 50   2130	*	*	*	*	5004	*	*	3938	*	*	5965	*	4091	1462	2568	4254	5916	*	*	50
+       0	*	*	*	*	*	*	4149	0	0	
+
+L 51   3600	*	4845	3585	*	6072	6418	3858	6304	2470	4506	6551	*	4584	3890	2858	3227	4420	4171	*	51
+       0	*	*	*	*	*	*	4157	0	0	
+
+L 52   *	*	*	*	*	*	*	5977	*	87	5366	*	*	*	*	*	*	5742	*	*	52
+       0	*	*	*	*	*	*	4157	0	0	
+
+G 53   3748	*	3238	*	*	399	*	*	*	*	*	*	*	*	*	4036	*	*	*	*	53
+       0	*	*	*	*	*	*	4151	0	0	
+
+K 54   4470	*	*	6045	*	2522	*	*	2224	*	*	*	5439	4787	1260	5290	4340	*	*	*	54
+       0	*	*	*	*	*	*	4104	0	0	
+
+T 55   3641	*	*	*	*	2618	5417	6800	2392	*	*	4851	5718	5406	2312	2979	2959	*	*	*	55
+       0	*	*	*	*	*	*	4096	0	0	
+
+R 56   *	*	*	*	*	*	*	*	1700	*	*	*	*	*	531	*	*	*	*	*	56
+       0	*	*	0	*	*	*	3881	0	0	
+
+//

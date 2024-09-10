@@ -1,0 +1,201 @@
+HHsearch 1.5
+NAME  d2j5ya1 a.8.1.2 (A:1-53) PAB {Peptostreptococcus magnus [TaxId: 1260]}
+FAM   a.8.1.2
+FILE  d2j5ya1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2j5ya1.a3m -v 1 
+DATE  Tue Jan 22 07:32:27 2013
+LENG  53 match states, 53 columns in multiple alignment
+FILT  14 out of 16 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHCCCHHHHHHHHHHHHHHHCC
+>ss_conf
+92056888889999999986268348999988501015788999999864039
+>Consensus
+tidxxxLkxAKexAIxeLkxxGItSxxyxxxINkAKTVEGVxaLKxeIlkAHa
+>d2j5ya1 a.8.1.2 (A:1-53) PAB {Peptostreptococcus magnus [TaxId: 1260]}
+TIDQWLLKNAKEDAIAELKKAGITSDFYFNAINKAKTVEEVNALKNEILKAHA
+>gi|150674|gb|AAA67503.1|(789-841:992) protein L [Finegoldia magna] >gi|745058|prf||2015385A protein L   E=1e-11 s/c=1.37 id=76% cov=102%
+TIDEWLLKNAKEAAIKELKEAGITAEYLFNLINKAKTVEGVESLKNEILKAHA
+>gi|169825198|ref|YP_001692809.1|(386-434:2230) putative albumin-binding protein-like protein [Finegoldia magna ATCC 29328] >gi|167832003|dbj|BAG08919.1| putative albumin-binding protein homolog-1 [Finegoldia magna ATCC 29328]  E=1e-10 s/c=1.42 id=68% cov=89%
+------LKEAKEKAVEELKNNGITSEKYIEQINKAKTVEGVNALKDEIIKAH-
+>gi|427394194|ref|ZP_18887696.1|(38-86:411) hypothetical protein HMPREF9698_01331 [Alloiococcus otitis ATCC 51267] >gi|425730123|gb|EKU92967.1| hypothetical protein HMPREF9698_01331 [Alloiococcus otitis ATCC 51267]  E=2e-07 s/c=1.20 id=54% cov=87%
+------LETAKAEAIEELTADGVTSDLWFELINKANTIEGVGSLKNDILNA--
+>gi|195977828|ref|YP_002123072.1|(183-226:445) IgG binding protein Zag [Streptococcus equi subsp. zooepidemicus MGCS10565] >gi|195974533|gb|ACG62059.1| IgG binding protein Zag [Streptococcus equi subsp. zooepidemicus MGCS10565]  E=5e-07 s/c=1.30 id=69% cov=85%
+------LLKAKEAAINELKQYGI-SDYYVTLINKAKTVEGVNALKAEILSA--
+>gi|169823632|ref|YP_001691135.1|(179-224:509) albumin-binding protein homolog-4 [Finegoldia magna ATCC 29328] >gi|167832252|dbj|BAG09167.1| albumin-binding protein homolog-4 [Finegoldia magna ATCC 29328]  E=8e-06 s/c=1.16 id=62% cov=89%
+------LKKAKEQAIAELKANGITSKFFVDRINAGKTVEGVKALKEELIKSH-
+>gi|256544970|ref|ZP_05472339.1|(1-30:244) conserved hypothetical protein, partial [Anaerococcus vaginalis ATCC 51170] >gi|256399337|gb|EEU12945.1| conserved hypothetical protein [Anaerococcus vaginalis ATCC 51170]  E=0.0003 s/c=1.62 id=71% cov=58%
+-----------------------TGQIYFDQINKAKTIEGVEALKNEILKAHA
+>gi|303234595|ref|ZP_07321229.1|(458-503:954) albumin-binding protein [Finegoldia magna BVS033A4] >gi|302494258|gb|EFL54030.1| albumin-binding protein [Finegoldia magna BVS033A4]  E=2e-06 s/c=1.21 id=51% cov=89%
+------LKDAKEKAIEAIRKEGVKSKLYEDLINKAKTIDGVNALRDQIIEAH-
+>gi|169823632|ref|YP_001691135.1|(93-138:509) albumin-binding protein homolog-4 [Finegoldia magna ATCC 29328] >gi|167832252|dbj|BAG09167.1| albumin-binding protein homolog-4 [Finegoldia magna ATCC 29328]  E=0.0002 s/c=1.06 id=53% cov=89%
+------LEEAKKQAIADLKANGITSKLFLDKIESAKTVEGVKSLKAELIKAH-
+>gi|119389519|pdb|2FS1|A(4-52:56) Chain A, Solution Structure Of Psd-1   E=5e-05 s/c=1.04 id=60% cov=94%
+-VDANSLAQAKEAAIKELKQYGI-GDYYIKLINNAKTVEGVESLKNEILKA--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1231	0	0	
+
+I 2    *	*	*	*	*	*	*	348	*	*	*	*	*	*	*	*	*	2222	*	*	2
+       0	*	*	*	*	*	*	1376	0	0	
+
+D 3    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1376	0	0	
+
+Q 4    2222	*	*	712	*	*	*	*	*	*	*	*	*	2514	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1376	0	0	
+
+W 5    *	*	*	*	*	*	*	*	*	*	*	2222	*	*	*	*	*	*	348	*	5
+       0	*	*	*	*	*	*	1376	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	348	*	*	*	*	*	2222	*	*	*	*	6
+       0	*	*	*	*	*	*	1376	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2007	0	0	
+
+K 8    3748	*	*	2177	*	*	*	*	667	3740	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2007	0	0	
+
+N 9    *	*	2885	2414	*	*	*	*	2518	*	*	1682	*	3748	*	*	3103	*	*	*	9
+       0	*	*	*	*	*	*	2007	0	0	
+
+A 10   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2007	0	0	
+
+K 11   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2007	0	0	
+
+E 12   3103	*	*	361	*	*	*	*	3255	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2007	0	0	
+
+D 13   2217	*	2387	2547	*	*	*	*	2196	*	*	*	*	2290	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2007	0	0	
+
+A 14   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2007	0	0	
+
+I 15   *	*	*	*	*	*	*	191	*	*	*	*	*	*	*	*	*	3015	*	*	15
+       0	*	*	*	*	*	*	2014	0	0	
+
+A 16   1973	*	*	1438	*	*	*	*	1716	*	*	3800	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2014	0	0	
+
+E 17   2925	*	3337	378	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2014	0	0	
+
+L 18   *	*	*	*	*	*	*	2925	*	204	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2014	0	0	
+
+K 19   *	*	*	*	*	*	*	*	406	*	*	*	*	*	2925	*	3136	*	*	*	19
+       0	*	*	*	*	*	*	2014	0	0	
+
+K 20   1709	*	*	2100	*	*	*	*	2364	*	*	3015	*	2806	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2014	0	0	
+
+A 21   1758	*	3136	2925	*	*	*	*	*	*	*	1663	*	*	*	*	*	*	*	2806	21
+       0	*	*	*	*	*	*	2014	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2014	0	0	
+
+I 23   *	*	*	*	*	*	*	406	*	*	*	*	*	*	*	*	*	2027	*	*	23
+       223	*	2806	*	*	*	*	2014	0	0	
+
+T 24   *	*	*	*	*	*	*	*	2227	*	*	*	*	*	*	3991	467	*	*	*	24
+       0	*	*	*	*	0	*	1972	0	1189	
+
+S 25   4043	*	*	*	*	3320	*	*	*	*	*	*	*	*	*	253	*	*	*	*	25
+       0	*	*	*	*	*	*	2053	0	0	
+
+D 26   *	*	1369	3010	*	*	*	*	1614	*	*	*	3952	3362	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2053	0	0	
+
+F 27   *	*	*	*	2248	*	*	3373	3979	1386	*	*	*	*	*	*	*	3952	*	2455	27
+       0	*	*	*	*	*	*	2053	0	0	
+
+Y 28   *	*	*	*	2043	*	*	*	*	4043	*	*	*	*	*	*	*	*	3242	759	28
+       0	*	*	*	*	*	*	2053	0	0	
+
+F 29   *	*	*	2854	1240	*	*	2433	*	3434	*	*	*	*	*	*	*	2638	*	*	29
+       0	*	*	*	*	*	*	2053	0	0	
+
+N 30   *	*	1035	2564	*	*	*	*	4131	*	*	2513	*	*	*	4439	3950	*	*	*	30
+       0	*	*	*	*	*	*	2053	0	0	
+
+A 31   3136	*	*	*	*	*	*	*	2670	925	*	*	*	3231	3382	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2053	0	0	
+
+I 32   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2053	0	0	
+
+N 33   *	*	*	3434	*	*	*	*	*	*	*	140	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2053	0	0	
+
+K 34   3382	*	*	*	*	*	*	*	514	*	*	3168	*	*	*	3434	*	*	*	*	34
+       0	*	*	*	*	*	*	2053	0	0	
+
+A 35   146	*	*	*	*	3382	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2053	0	0	
+
+K 36   *	*	*	*	*	*	*	*	161	*	*	3242	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2053	0	0	
+
+T 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	37
+       0	*	*	*	*	*	*	2053	0	0	
+
+V 38   *	*	*	*	*	*	*	1801	*	*	*	*	*	*	*	*	*	488	*	*	38
+       0	*	*	*	*	*	*	2053	0	0	
+
+E 39   *	*	2854	215	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2053	0	0	
+
+E 40   *	*	*	4050	*	90	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2053	0	0	
+
+V 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	41
+       0	*	*	*	*	*	*	2053	0	0	
+
+N 42   *	*	*	1669	*	3242	*	*	2408	*	*	1353	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2053	0	0	
+
+A 43   667	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1434	*	*	*	*	43
+       0	*	*	*	*	*	*	2053	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2053	0	0	
+
+K 45   *	*	*	*	*	*	*	*	215	*	*	*	*	*	2854	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2053	0	0	
+
+N 46   2670	*	2310	2639	*	*	*	*	*	*	*	1057	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2053	0	0	
+
+E 47   *	*	3242	403	*	*	*	*	*	*	*	*	*	2854	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2053	0	0	
+
+I 48   *	*	*	*	*	*	*	301	*	2408	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2053	0	0	
+
+L 49   *	*	*	*	*	*	*	1137	*	875	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2053	0	0	
+
+K 50   *	*	*	2854	*	*	*	*	532	*	*	3242	*	*	*	3950	*	*	*	*	50
+       0	*	*	*	*	*	*	2053	0	0	
+
+A 51   146	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3382	*	*	*	*	51
+       0	*	*	*	*	*	*	2053	0	0	
+
+H 52   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1895	0	0	
+
+A 53   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	0	*	*	*	1372	0	0	
+
+//

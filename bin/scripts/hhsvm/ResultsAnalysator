@@ -1,0 +1,225 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use HHParser;
+use Parsers;
+use Utils;
+use SOptions;
+use SUsage;
+use File::Basename;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 70 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/ResultsAnalysator $
+# ==============================================================================
+
+my %data_info = (svm_prob  => 0,
+                 hhsearch  => 0,
+                 no_header => 0);
+
+@ARGV = getOptions
+(
+#** Program runs into two modes depending on input:
+#**  -s,--svm           SVM probability output (wildcards can be used) (Default)            
+#**  -c,--hhsearch      HHsearch output (wildcards can be used)
+#**  -p,--pos           File with a list of positions. Must be defined if "--hhsearch" is used
+#**  -e,--no_header     Used if defined "--hhsearch". Default: 0 (print header)
+    "-s,--svm"                  => sub {$data_info{svm_prob}  = 1},
+    "-c,--hhsearch"             => sub {$data_info{hhsearch}  = 1},
+    "-p,--pos"                  => sub {$data_info{pos}       = get_value()},
+    "-e,--no_header"            => sub {$data_info{no_header} = 1},
+    "-h,-?,--help,--usage"      => sub {SUsage::usage; exit;     },
+);
+
+my $positions;
+
+if(defined($data_info{pos}))
+{
+    $positions = Parsers::parse_pos_list($data_info{pos});
+}
+
+foreach my $file (@ARGV)
+{
+    if($data_info{svm_prob} == 1)
+    {
+        process_svm_prob($file);
+    }
+    elsif($data_info{hhsearch} == 1)
+    {
+        process_hhsearch_out($file, $positions, $data_info{no_header});
+    }
+    else
+    {
+        process_svm_prob($file);
+    }
+}
+
+sub process_svm_prob
+{
+    my ($file) = @_;
+    
+    # my %obj = (
+    #             class_label => 1,
+    #             prob_1      => 0.996316 ,
+    #             prob_2      => 0.00368422, 
+    #           );
+
+    my $svm_out_objs = Parsers::parse_svm_prob($file);
+    
+    my @sorted = sort {$b->{prob_1} <=> $a->{prob_1}} @{$svm_out_objs};
+    
+    print fileparse($file, (".out")) . " $sorted[0]->{class_label} $sorted[0]->{prob_1}\n";
+}
+
+sub process_hhsearch_out
+{
+    my ($file, $positions, $no_header) = @_;
+    
+    # %hh_obj = (
+    #              query => "PF00002",
+    #              header => "7 transmembrane receptor (Secretin family)",
+    #              match_columns => 293,
+    #              used_no_of_seqs => 117,
+    #              all_no_of_seqs => 762,
+    #              neff => 6.6,
+    #              searched_HMMs => 13774,
+    #              hits =>   {1 => ####, ...}
+    #              aligns => {1 => ######, ...}
+    #              );
+    # 
+    #  Hits and aligns point to the structures showed bellow. 
+    # 
+    # #### my %obj = (number => 1, 
+    #             template => "d1u19a_", 
+    #             prob => 98.8, 
+    #             evalue => 8.9E-09, 
+    #             pvalue => 6.5E-13, 
+    #             score => 63.7, 
+    #             ss => 6.9, 
+    #             cols => 244, 
+    #             query_hmm_begin => 14, 
+    #             query_hmm_end => 292, 
+    #             template_hmm_begin => 50, 
+    #             template_hmm_end => 312, 
+    #             hierarchy => "f.13.1.2"); #Nan!
+    # ####### my %obj = 
+    #         (
+    #             match => "++.=.+..+-|.++.-..+..........+.+++.+--..=|+++.-.+", 
+    #             q_cons => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+    #             t_cons => "~v~W~iYPi~y~l~~~g~~~~~~~~~~~~y~i~D~i~K~~FG~~i~~~a", 
+    #             q_seq => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+    #             t_seq => "VILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA"
+    #         );
+
+    my $hh_obj = HHParser::parse_hh_out($file);
+    
+    my $possible_PDEXK = Utils::find_PDEXK($hh_obj, $positions, 0, 100);
+    
+    my $best_pdexk;
+    
+    if(scalar(@$possible_PDEXK) > 0)
+    {
+        my @sorted_possible_PDEXK = sort {$a <=> $b} @$possible_PDEXK;
+    
+        #     Aligned both conservative positions
+        my @aligned_with_conservative_pos_AND; 
+        #     Aligned only one of conservative positions
+        my @aligned_with_conservative_pos_OR;  
+    
+        # Tests if conservative positions are aligned
+        foreach my $obj (@sorted_possible_PDEXK)
+        {
+            # %pos = (
+            #               name => "2g3w.pos",
+            #               pd_pos => [15, 16],
+            #               exk_pos => [37,38,39],
+            #         );
+    
+            my $possible_position = Utils::get_PDEXK_positions($positions, $hh_obj->{hits}->{$obj}->{template});
+            
+            if(defined($possible_position))
+            {
+                my $alignment_mode = Utils::test_aligned_region($hh_obj, $possible_position, $obj, "template");
+                
+                if($alignment_mode == 2)
+                {
+                    push(@aligned_with_conservative_pos_AND, $obj);
+                }
+                elsif($alignment_mode == 1)
+                {
+                    push(@aligned_with_conservative_pos_OR, $obj);
+                }
+            } 
+            elsif(!defined($possible_position))
+            {
+                print STDERR "ERR: $0: can't find the positions of the following template $hh_obj->{hits}->{$obj}->{template}";            
+            }
+        }
+        
+        if(scalar(@aligned_with_conservative_pos_AND) > 0 || scalar(@aligned_with_conservative_pos_OR) > 0)
+        {
+            my @aligned_with_conservative_pos = (@aligned_with_conservative_pos_AND, @aligned_with_conservative_pos_OR);
+            my @sorted_aligned_with_conservative_pos = sort {$a <=> $b} @aligned_with_conservative_pos;
+            
+            $best_pdexk = $sorted_aligned_with_conservative_pos[0];
+        }
+    }
+    
+    my $not_PDEXK = Utils::find_not_PDEXK($hh_obj, 0);
+    
+    my $best_not_pdexk;
+    
+    if(@$not_PDEXK > 0)
+    {
+        my @sorted_not_PDEXK = sort {$a <=> $b} @$not_PDEXK;
+        $best_not_pdexk = $sorted_not_PDEXK[0];
+    }
+    
+    $hh_obj->{header} =~ s/'//;
+    
+    print "$hh_obj->{query} " . scalar(@$possible_PDEXK) . " ";
+    
+    if(defined($best_pdexk) && defined($best_not_pdexk))
+    {
+        print "$hh_obj->{hits}->{$best_pdexk}->{prob} " . 
+              "$hh_obj->{hits}->{$best_not_pdexk}->{prob} ";
+              
+    }
+    elsif(defined($best_pdexk) && !defined($best_not_pdexk))
+    {
+        print "$hh_obj->{hits}->{$best_pdexk}->{prob} " . 
+              "Nan ";
+    }
+    elsif(!defined($best_pdexk) && defined($best_not_pdexk))
+    {
+        print "Nan " . 
+              "$hh_obj->{hits}->{$best_not_pdexk}->{prob} ";
+    }
+    else
+    {
+        print "Nan " . 
+              "Nan ";
+    }
+    
+    if($no_header == 0)
+    {
+        print "\'$hh_obj->{header}\'\n";
+    }
+    else
+    {
+        print "\n";
+    }
+}
+
+
+
+
+
+
+
+
+

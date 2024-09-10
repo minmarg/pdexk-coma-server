@@ -1,0 +1,159 @@
+HHsearch 1.5
+NAME  d2cosa1 a.5.2.1 (A:8-48) Serine/threonine protein kinase LATS2 {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.5.2.1
+FILE  d2cosa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cosa1.a3m -v 1 
+DATE  Tue Jan 22 05:56:19 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  7 out of 9 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCHHHHHHHHHCCCCHHHHHHHHHHCCCCCHHHHHHHHHCC
+>ss_conf
+98888999987378658999998832663379999987409
+>Consensus
+vnrQMlqdlxxaGxDedMxirALxqTxxrsIEaAxExISkM
+>d2cosa1 a.5.2.1 (A:8-48) Serine/threonine protein kinase LATS2 {Mouse (Mus musculus) [TaxId: 10090]}
+VNRQMLQELVNAGCDQEMAGRALKQTGSRSIEAALEYISKM
+>gi|190194242|ref|NP_001121728.1|(103-143:1078) serine/threonine-protein kinase LATS2 isoform 2 [Danio rerio] >gi|154845050|gb|ABS88160.1| Lats2-2 [Danio rerio]  E=5e-13 s/c=1.90 id=88% cov=102%
+VSRQMLQDLVNAGCDQEMAVRALKQTGSRNIEAALEYISKM
+>gi|395520771|ref|XP_003764497.1|(95-135:1120) PREDICTED: serine/threonine-protein kinase LATS2 [Sarcophilus harrisii]  E=1e-12 s/c=1.86 id=86% cov=102%
+VNRQMLQELVKVGCDQEMAIRALKQTGSKNIEAALEYISKM
+>gi|118088357|ref|XP_419666.2|(102-142:1136) PREDICTED: serine/threonine-protein kinase LATS1 [Gallus gallus]   E=5e-07 s/c=1.41 id=64% cov=102%
+VNRQMLQDLQAAGFDEDMVIQALRQTNNRSIEAAIEFISKM
+>gi|126310687|ref|XP_001370922.1|(102-142:1137) PREDICTED: serine/threonine-protein kinase LATS1 [Monodelphis domestica]  E=1e-06 s/c=1.38 id=62% cov=102%
+VNRQMLQDMQIAGFDEDMVIRALRQTNNKSIEAAIEFISKM
+>gi|147906408|ref|NP_001087838.1|(100-140:1118) LATS, large tumor suppressor, homolog 1 [Xenopus laevis] >gi|51950149|gb|AAH82360.1| MGC81565 protein [Xenopus laevis]  E=2e-06 s/c=1.35 id=60% cov=102%
+INRQMFHDLQQAGFDEDMVIRALQQTNSRSIEEAIEYISRM
+>gi|26332691|dbj|BAC30063.1|(101-141:602) unnamed protein product [Mus musculus]   E=6e-05 s/c=1.24 id=57% cov=102%
+VNPQMFQDLQAAGFDEDMVIQALQKTNNRSIEAAVEFISKM
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	2602	*	*	*	*	*	*	*	*	*	260	*	*	1
+       0	*	*	*	*	*	*	1505	0	0	
+
+N 2    *	*	*	*	*	*	*	*	*	*	*	223	*	*	*	2805	*	*	*	*	2
+       0	*	*	*	*	*	*	1505	0	0	
+
+R 3    *	*	*	*	*	*	*	*	*	*	*	*	2708	*	240	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 4    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1505	0	0	
+
+M 5    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1505	0	0	
+
+L 6    *	*	*	*	1654	*	*	*	*	552	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 7    *	*	*	*	*	*	2602	*	*	*	*	*	*	260	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 8    *	*	472	1841	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1505	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	211	2875	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1505	0	0	
+
+V 10   *	*	*	*	*	*	*	*	*	*	*	*	*	791	*	*	*	1244	*	*	10
+       0	*	*	*	*	*	*	1505	0	0	
+
+N 11   1853	*	*	*	*	*	*	2875	2773	*	*	1858	*	2602	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 12   228	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2773	*	*	12
+       0	*	*	*	*	*	*	1505	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 14   *	1244	*	*	791	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1505	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 16   *	*	*	791	*	*	*	*	*	*	*	*	*	1244	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 17   *	*	791	1244	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1505	0	0	
+
+M 18   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 19   1244	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	791	*	*	19
+       0	*	*	*	*	*	*	1505	0	0	
+
+G 20   *	*	*	*	*	2912	*	466	*	*	*	*	*	*	*	*	*	2805	*	*	20
+       0	*	*	*	*	*	*	1505	0	0	
+
+R 21   *	*	*	*	*	*	*	*	*	*	*	*	*	1853	467	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1505	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 24   *	*	*	*	*	*	*	*	1244	*	*	*	*	1654	1944	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 25   *	*	*	*	*	*	*	*	2708	*	*	*	*	240	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1505	0	0	
+
+T 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	26
+       0	*	*	*	*	*	*	1505	0	0	
+
+G 27   *	*	*	*	*	1244	*	*	*	*	*	791	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 28   *	*	*	*	*	*	*	*	*	*	*	1276	*	*	*	769	*	*	*	*	28
+       0	*	*	*	*	*	*	1505	0	0	
+
+R 29   *	*	*	*	*	*	*	*	1823	*	*	*	*	*	479	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 30   *	*	*	*	*	*	*	*	*	*	*	1789	*	*	*	493	*	*	*	*	30
+       0	*	*	*	*	*	*	1505	0	0	
+
+I 31   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 32   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 33   260	*	*	2602	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 34   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1505	0	0	
+
+L 35   *	*	*	*	*	*	*	1236	*	1244	*	*	*	*	*	*	*	2708	*	*	35
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 36   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1505	0	0	
+
+Y 37   *	*	*	*	1276	*	*	*	*	*	*	*	*	*	*	*	*	*	*	769	37
+       0	*	*	*	*	*	*	1505	0	0	
+
+I 38   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	39
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 40   *	*	*	*	*	*	*	*	260	*	*	*	*	*	2602	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1505	0	0	
+
+M 41   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	1505	0	0	
+
+//

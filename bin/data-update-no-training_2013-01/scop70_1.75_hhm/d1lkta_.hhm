@@ -1,0 +1,367 @@
+HHsearch 1.5
+NAME  d1lkta_ b.90.1.1 (A:) Head-binding domain of phage P22 tailspike protein {Salmonella bacteriophage P22 [TaxId: 10754]}
+FAM   b.90.1.1
+FILE  d1lkta_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lkta_.a3m -v 1 
+DATE  Mon Jan 21 23:00:24 2013
+LENG  104 match states, 104 columns in multiple alignment
+FILT  27 out of 29 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCEECCCCCCHHHCCHHHHHHCCCCEEEECCCCCCCCCCCEEEEEEECCCCCEEECCCCEEECCCCCCEECCCEEEEEECCCCEEEEEECCCCEEEECCH
+HHCC
+>ss_conf
+9600138730000264777624882787237898668666024889758997811147536716886010011011332377327898489965773220
+0139
+>Consensus
+xnvxvxxPxxlfTmxrxFxaxxnGKiyIGkxdtDpxxpxNqIxVylxnexGxxxxvxQPIxiNxggxpvyxgqiakxvtxxxhSMAVyDxxgxqxFyxpn
+Vxky
+>d1lkta_ b.90.1.1 (A:) Head-binding domain of phage P22 tailspike protein {Salmonella bacteriophage P22 [TaxId: 10754]}
+ANVVVSNPRPIFTESRSFKAVANGKIYIGQIDTDPVNPANQIPVYIENEDGSHVQITQPLIINAAGKIVYNGQLVKIVTVQGHSMAIYDANGSQVDYIAN
+VLKY
+>gi|212499732|ref|YP_002308540.1|(7-109:342) tail spike gp9 [Bacteriophage APSE-2] >gi|238898765|ref|YP_002924447.1| APSE-2 prophage; tail spike proptein gp9 [Bacteriophage APSE-2] >gi|211731701|gb|ACJ10189.1| tail spike gp9 [Bacteriophage APSE-2] >gi|229466525|gb|ACQ68299.1| APSE-2 prophage; tail spike proptein gp9 [Bacteriophage APSE-2]  E=3e-29 s/c=1.27 id=60% cov=100%
+-NIVVSMPTQLFTLRRKFQACSNGKIYIGKSNTDPTIPTNQIQVYIENEDGSTVPVAQPIMINHAGFPVYNGQIAKFVTVESHSMAVYDSDGAQQFYFAD
+ILKY
+>gi|157159781|ref|YP_001457099.1|(5-104:636) hypothetical protein EcHS_A0327 [Escherichia coli HS] >gi|157065461|gb|ABV04716.1| conserved hypothetical protein [Escherichia coli HS]  E=2e-27 s/c=1.25 id=61% cov=97%
+-NYLISMPSTPFSAPRAFKSVANGKIYIGNPDTDPVNPANQIPVYAVNENGSEVQVSQPIIINAGGFPVYNGQIMKFITKQNFSMAVYDAYGAQQFYWIN
+V---
+>gi|366157317|ref|ZP_09457179.1|(7-110:681) putative tail spike protein [Escherichia sp. TW09308]   E=4e-25 s/c=1.12 id=54% cov=100%
+-SILVNMPMSLYTASRSFKAISNGKIYVGIPDTDPVYPENQVPVYIVNESGNKIQIPQPIVINSGGHPVYNGQIInKIITDEQYSLAVYDSYGSQEYYFD
+NVVRY
+>gi|300717509|ref|YP_003742312.1|(47-146:737) exopolysaccharide biosynthesis protein AmsF [Erwinia billingiae Eb661] >gi|299063345|emb|CAX60465.1| Exopolysaccharide biosynthesis protein (similar to amsF) [Erwinia billingiae Eb661]  E=1e-06 s/c=0.57 id=31% cov=97%
+-DVPVLTPENIYTMPDRFWKTFSGKLYIGKAGTDPTQAGNLIDVFLKNANGKLSKIEQPIALNKGNFQQFIDDNAALIADPAHSMAVVDDSGKSLFNIPD
+V---
+>gi|304397426|ref|ZP_07379304.1|(46-148:738) P22 tailspike protein head-binding [Pantoea sp. aB] >gi|304355044|gb|EFM19413.1| P22 tailspike protein head-binding [Pantoea sp. aB]  E=2e-06 s/c=0.54 id=28% cov=100%
+GDVPILTPENIYAMPPQFWQSFEGKLWIGKAGVDASKPGNQIPVFLRDANGKVSEIAQPIALNKGNFTQFIQDNAALIADPSHSMTVEDSNGQTLFNIAD
+VSR-
+>gi|89886003|ref|YP_516200.1|(7-109:296) putative phage tail spike protein [Sodalis phage phiSG1] >gi|89191738|dbj|BAE80485.1| putative phage tail spike protein [Sodalis phage phiSG1] >gi|125470029|gb|ABN42221.1| gp13 [Sodalis phage phiSG1]  E=1e-43 s/c=1.73 id=60% cov=100%
+-NIVVSMPSQIFTQRREFKSCSNGKIYIGKIDTDPTIAENQIPVYLENEDGKYTRVAQPLIIGTGGYPVYNGQIAKFVTEEGHAMAVYDGDGVQQFYFPN
+VLKY
+>gi|423139021|ref|ZP_17126659.1|(6-112:681) head binding protein [Salmonella enterica subsp. houtenae str. ATCC BAA-1581] >gi|379051575|gb|EHY69466.1| head binding protein [Salmonella enterica subsp. houtenae str. ATCC BAA-1581]  E=5e-42 s/c=1.62 id=61% cov=101%
+ANIVIGMPSQLFTLARSFKANANGKIYISKIDTPPgemTDPDNYVQVYLENEDGSHVPVAQPLVINSGGFPVYNGQIAKFVTVEGHAMAIYNAYGGQEFY
+FPNVLKY
+>gi|385788762|ref|YP_005819871.1|(56-155:750) putative EPS depolymerase wceF [Erwinia sp. Ejp617] >gi|310768034|gb|ADP12984.1| putative EPS depolymerase wceF precursor [Erwinia sp. Ejp617]  E=4e-34 s/c=1.47 id=27% cov=97%
+-DVPIFSPDDVFTMPEQFWRDFKGKLYIGKAGSDPTKPQNVVDVFVKNANGDVSLLAQPIVLNSETLKTFVAAKGALWSESEYSMALHNDNDQQLFYVPD
+V---
+>gi|188533471|ref|YP_001907268.1|(47-148:740) Exopolysaccharide biosynthesis protein [Erwinia tasmaniensis Et1/99] >gi|188028513|emb|CAO96375.1| Exopolysaccharide biosynthesis protein [Erwinia tasmaniensis Et1/99]  E=1e-36 s/c=1.52 id=29% cov=99%
+-DVPILTPENVYAMPDQFWENFSGKLYIGKAGTDPRKSGNLINLYLRDAAGKLSQIQQPVVLNKVSLERFVADNSSLIAAPSHSMAVVDDNGQTVFNIPD
+VAR-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    739	*	*	*	*	1318	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 2    *	*	1315	*	*	*	*	*	*	*	*	899	*	*	*	4017	*	*	*	*	2
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 3    5409	*	*	*	*	*	*	2020	*	*	*	*	*	*	*	*	*	554	*	4360	3
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 4    *	*	*	*	*	*	*	4644	*	3178	*	*	1315	*	*	*	*	1160	*	*	4
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 5    *	*	*	*	*	*	*	1182	*	*	*	*	*	*	*	*	*	839	*	*	5
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 6    *	*	*	*	3509	4598	*	*	*	1670	*	4017	*	*	*	1015	*	*	*	*	6
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 7    5323	*	*	*	*	*	*	*	*	*	1100	4701	*	3874	*	3509	1670	*	*	*	7
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 8    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2551	0	0	
+
+R 9    5478	*	3509	1670	*	*	*	*	*	*	4017	*	*	*	4701	1185	4812	*	*	*	9
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 10   *	*	3509	*	*	*	*	*	5476	*	*	1670	4701	1229	*	4017	4360	*	*	*	10
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 11   *	*	*	*	*	*	*	2497	*	1164	*	*	4360	5323	*	*	*	1722	*	*	11
+       0	*	*	*	*	*	*	2551	0	0	
+
+F 12   *	*	*	*	680	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1411	12
+       0	*	*	*	*	*	*	2551	0	0	
+
+T 13   2599	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4360	347	*	*	*	13
+       0	*	*	*	*	*	*	2551	0	0	
+
+E 14   3178	*	*	4701	*	*	*	*	*	1761	953	*	*	4654	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 15   1613	*	*	*	*	*	*	*	*	*	*	*	1076	*	3731	3017	*	*	*	*	15
+       0	*	*	*	*	*	*	2551	0	0	
+
+R 16   *	*	3078	3509	*	*	*	*	*	*	*	*	2353	*	804	5318	*	*	*	*	16
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 17   3741	*	*	4654	*	*	*	*	3518	*	*	*	*	1414	4288	1428	*	*	*	*	17
+       0	*	*	*	*	*	*	2551	0	0	
+
+F 18   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2551	0	0	
+
+K 19   *	*	*	*	*	*	*	*	969	*	*	*	*	3518	*	*	*	*	1315	*	19
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 20   973	*	*	3895	*	*	*	*	4288	*	*	*	*	2353	3509	3499	*	*	*	*	20
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 21   3017	3731	3509	*	*	*	*	4017	*	*	*	1427	*	*	*	4389	4288	2468	*	*	21
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 22   1289	*	*	*	1523	*	*	*	*	4209	*	*	*	*	*	2405	*	*	*	*	22
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 23   *	*	5476	2779	*	*	*	*	3197	*	*	851	*	4320	*	3078	*	*	*	*	23
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 24   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2551	0	0	
+
+K 25   *	*	*	*	*	*	*	*	38	*	*	*	*	*	5261	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 26   *	*	*	*	*	*	*	742	*	1315	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2551	0	0	
+
+Y 27   *	*	*	*	5228	*	*	*	*	*	*	*	*	*	*	*	*	*	2353	363	27
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 28   *	*	*	*	*	*	*	92	*	*	*	*	*	*	*	*	*	4017	*	*	28
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 29   *	*	*	*	*	61	*	*	*	*	*	*	*	*	*	4598	*	*	*	*	29
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 30   4209	*	*	4474	*	*	*	4017	850	*	*	4360	*	2429	4320	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 31   1315	*	*	*	*	*	*	1146	*	*	*	*	3178	*	*	4812	*	*	*	*	31
+       0	*	*	*	*	*	*	2551	0	0	
+
+D 32   *	*	830	*	*	1315	*	*	*	*	*	4812	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2551	0	0	
+
+T 33   *	*	*	*	*	*	*	*	4209	*	*	*	*	*	*	2291	527	4389	*	*	33
+       0	*	*	*	*	*	*	2551	0	0	
+
+D 34   *	*	61	*	*	*	*	*	*	*	*	*	4598	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 35   2353	*	*	*	*	*	*	*	*	*	*	*	314	*	*	*	*	*	*	*	35
+       61	4598	*	1585	585	*	*	2551	1000	0	
+
+V 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3092	2779	1298	1599	*	*	36
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 37   *	*	4598	*	*	*	*	2509	2019	*	*	1647	*	2687	*	*	*	*	*	4017	37
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 38   2404	*	*	*	*	*	*	*	*	*	*	*	480	5228	*	3895	*	*	*	*	38
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 39   2592	*	3530	1690	*	1670	*	*	*	*	*	*	*	3509	*	*	4812	*	*	*	39
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 40   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 41   *	*	*	*	*	*	*	*	*	3078	*	*	*	410	*	*	*	3509	*	4598	41
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 42   *	*	*	*	*	*	*	348	*	*	*	*	*	*	*	*	*	2222	*	*	42
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 43   *	*	2847	*	*	*	*	*	*	*	*	3895	1011	1750	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 44   *	*	*	*	*	*	*	*	*	3895	*	*	*	*	*	*	*	100	*	*	44
+       0	*	*	*	*	*	*	2551	0	0	
+
+Y 45   *	*	*	*	2078	*	*	*	*	*	*	*	*	*	*	*	*	*	*	390	45
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 46   4360	*	*	*	*	*	*	2284	*	771	5424	*	*	*	*	*	*	2871	*	*	46
+       0	*	*	*	*	*	*	2551	0	0	
+
+E 47   *	*	*	1036	*	*	*	*	2847	*	*	*	*	*	1927	*	*	3178	*	*	47
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 48   *	*	1927	*	*	*	*	*	*	*	*	623	*	*	3956	5424	*	*	*	*	48
+       0	*	*	*	*	*	*	2551	0	0	
+
+E 49   1315	*	*	742	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2551	0	0	
+
+D 50   3895	*	1108	*	*	*	*	*	*	*	*	1694	*	*	*	2646	*	*	*	*	50
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 51   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 52   *	*	3509	*	*	*	*	*	1718	*	*	3161	*	*	5318	1698	2615	*	*	*	52
+       0	*	*	*	*	*	*	2551	0	0	
+
+H 53   *	*	*	4360	*	*	1573	*	4017	2373	*	*	*	*	*	*	3518	2098	*	4654	53
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 54   4320	*	*	*	*	*	*	3211	*	*	*	*	*	*	*	1507	4654	1151	*	*	54
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 55   *	*	*	4389	*	*	*	*	4288	3509	*	*	1645	1140	4654	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 56   5590	*	*	*	*	*	*	1372	*	3509	*	*	*	*	*	*	*	986	*	*	56
+       0	*	*	*	*	*	*	2551	0	0	
+
+T 57   1428	*	*	4288	*	*	*	*	*	*	*	*	2932	3479	*	1900	3498	*	*	*	57
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 58   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2551	0	0	
+
+P 59   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2551	0	0	
+
+L 60   *	*	*	*	*	*	*	436	*	2369	*	*	*	*	*	*	*	3895	*	*	60
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 61   2344	*	*	*	*	*	*	1639	*	5470	4812	5409	*	*	*	*	3769	1613	*	*	61
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 62   *	*	*	*	*	*	*	742	*	1315	*	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 63   *	*	*	*	*	4654	*	*	*	*	*	58	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 64   1752	*	*	*	*	*	4812	*	1670	*	*	*	*	4275	*	1933	4654	*	*	*	64
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 65   1803	*	*	3509	*	841	*	*	*	*	*	*	*	*	*	*	*	3895	*	*	65
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 66   *	*	*	*	*	742	*	*	*	*	*	2018	*	*	*	3895	3509	*	*	*	66
+       0	*	*	*	*	*	*	2551	0	0	
+
+K 67   *	*	*	*	1248	*	4017	*	4701	2689	*	*	*	*	*	*	*	*	*	1627	67
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 68   3351	*	4320	3895	*	*	*	4701	3509	*	*	*	838	4288	*	*	4389	*	*	*	68
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 69   *	*	*	*	*	*	*	*	*	*	*	*	*	2018	3895	*	3509	742	*	*	69
+       0	*	*	*	*	*	*	2551	0	0	
+
+Y 70   *	*	*	*	1315	*	*	*	*	*	*	*	*	*	*	*	*	*	*	742	70
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 71   *	*	*	*	*	5261	*	2344	*	*	*	871	*	*	*	5318	*	2286	*	*	71
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 72   2689	*	4288	*	*	742	3351	*	4320	*	*	*	*	4389	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 73   3509	*	1670	*	*	*	*	*	*	*	*	*	*	742	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2551	0	0	
+
+L 74   *	*	*	*	*	*	*	902	3509	4701	*	1670	*	*	*	*	*	5351	*	*	74
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 75   574	*	*	*	*	3509	*	4017	*	*	4360	*	*	*	*	3447	*	4701	*	*	75
+       92	4017	*	0	*	*	*	2551	1000	0	
+
+K 76   1579	*	*	*	*	*	*	*	742	*	*	*	*	*	*	3895	*	*	*	*	76
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 77   *	*	*	*	1006	*	*	3319	*	1315	*	*	*	*	*	*	*	*	*	*	77
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 78   *	*	*	*	*	*	*	1332	*	4209	*	*	*	*	*	*	*	1118	3509	*	78
+       0	*	*	*	*	*	*	2551	0	0	
+
+T 79   1670	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3509	742	*	*	*	79
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 80   3477	*	2289	2971	*	*	*	*	4360	*	*	3264	*	*	*	*	*	1234	*	*	80
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 81   *	*	*	1989	*	*	*	*	5351	*	*	*	1670	1637	*	3509	*	*	*	*	81
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 82   2745	*	*	3509	*	1146	*	*	*	*	*	4360	*	4017	*	2317	*	*	*	*	82
+       0	*	*	*	*	*	*	2551	0	0	
+
+H 83   *	*	*	*	4360	*	360	*	*	*	*	*	*	*	*	*	*	*	*	2539	83
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 84   2932	*	*	*	*	*	*	*	*	*	*	*	*	*	*	203	*	*	*	*	84
+       0	*	*	*	*	*	*	2551	0	0	
+
+M 85   *	*	*	*	*	*	*	*	*	4017	92	*	*	*	*	*	*	*	*	*	85
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 86   227	*	*	*	*	*	*	*	*	*	4209	*	*	*	*	*	4389	4508	*	*	86
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 87   *	*	*	*	*	*	*	3289	*	2858	*	*	*	*	*	*	*	396	*	*	87
+       0	*	*	*	*	*	*	2551	0	0	
+
+Y 88   *	*	*	2353	*	*	3509	*	*	*	*	*	*	*	*	*	*	3078	*	742	88
+       0	*	*	*	*	*	*	2551	0	0	
+
+D 89   *	*	250	*	*	*	*	*	*	*	*	2953	*	*	*	5055	*	*	*	*	89
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 90   1399	*	2278	*	*	3841	*	*	*	*	*	3351	*	*	*	2018	*	*	*	*	90
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 91   *	*	3731	*	*	5055	5318	*	*	*	*	1398	*	4209	*	4288	*	*	*	1378	91
+       0	*	*	*	*	*	*	2551	0	0	
+
+G 92   *	*	3509	*	*	304	*	*	*	*	*	3792	*	*	*	5055	*	*	*	*	92
+       0	*	*	*	*	*	*	2551	0	0	
+
+S 93   2298	*	*	*	*	4598	*	*	4288	*	*	3351	*	1984	*	2189	4451	3500	*	*	93
+       0	*	*	*	*	*	*	2551	0	0	
+
+Q 94   *	*	*	*	*	*	*	*	*	*	*	*	*	609	*	3621	1927	*	*	*	94
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 95   *	*	*	3279	*	*	*	*	*	1812	*	*	*	1230	*	*	*	2428	*	*	95
+       0	*	*	*	*	*	*	2551	0	0	
+
+D 96   *	*	4701	*	201	*	*	*	*	*	*	*	*	5055	*	*	*	*	*	4017	96
+       44	5055	*	1000	1000	*	*	2551	1000	0	
+
+Y 97   4508	*	*	*	*	*	*	*	*	*	*	2209	*	*	*	4209	*	*	*	544	97
+       0	*	*	*	*	*	*	2551	0	0	
+
+I 98   *	*	*	*	1355	*	*	1504	*	*	*	*	*	*	*	*	*	3509	4360	3061	98
+       0	*	*	*	*	*	*	2551	0	0	
+
+A 99   3038	*	3242	*	*	*	*	4360	*	*	*	*	578	*	*	4209	*	*	*	*	99
+       0	*	*	*	*	*	*	2551	0	0	
+
+N 100  *	*	1192	*	*	*	*	*	*	*	*	830	*	*	*	*	*	*	*	*	100
+       0	*	*	*	*	*	*	2551	0	0	
+
+V 101  *	*	*	*	*	*	*	3216	*	*	*	*	*	*	*	*	*	164	*	*	101
+       0	*	*	*	*	*	*	2551	0	0	
+
+L 102  2897	*	*	*	*	*	*	4865	*	721	*	*	*	*	*	2886	*	3481	*	*	102
+       0	*	*	*	*	*	*	2206	0	0	
+
+K 103  *	*	*	*	*	*	*	*	642	*	*	*	*	*	1477	*	*	*	*	*	103
+       0	*	*	*	*	*	*	2206	0	0	
+
+Y 104  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	104
+       0	*	*	0	*	*	*	1649	0	0	
+
+//

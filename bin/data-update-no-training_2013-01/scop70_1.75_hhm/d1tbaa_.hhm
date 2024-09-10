@@ -1,0 +1,243 @@
+HHsearch 1.5
+NAME  d1tbaa_ a.15.1.1 (A:) TAF(II)230 TBP-binding fragment {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+FAM   a.15.1.1
+FILE  d1tbaa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1tbaa_.a3m -v 1 
+DATE  Tue Jan 22 02:22:52 2013
+LENG  67 match states, 67 columns in multiple alignment
+FILT  36 out of 38 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+9877776221000012427877513654443333222265789998875532078899987301479
+>Consensus
+exxigxgxxLTgfLFGNIdxxGxLedDdxxxxxxxsxlDxExkxxLxsLsxLGLxsllxEvxxxxea
+>d1tbaa_ a.15.1.1 (A:) TAF(II)230 TBP-binding fragment {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+EGSIGNGLDLTGILFGNIDSEGRLLQDDDGEGRGGTGFDAELRENIGSLSKLGLDSMLLEVIDLKEA
+>gi|307198839|gb|EFN79615.1|(9-66:1919) Transcription initiation factor TFIID subunit 1 [Harpegnathos saltator]  E=5e-14 s/c=1.39 id=44% cov=88%
+EKDLASGLNITGFLFGNIDDNGQLEDD---------ILDPEAKQQLASLSRLGLSSFISEMIQNESA
+>gi|242022362|ref|XP_002431609.1|(2-57:1892) transcription initiation factor TFIID subunit, putative [Pediculus humanus corporis] >gi|212516917|gb|EEB18871.1| transcription initiation factor TFIID subunit, putative [Pediculus humanus corporis]  E=6e-06 s/c=0.96 id=40% cov=85%
+DNNISSPLSLAGFLFGNIDESGQLDTD---------LFDNEAKKYLNALTRLGFDSLVDEIIGDE--
+>gi|170035156|ref|XP_001845437.1|(18-68:2050) transcription initiation factor TFIID subunit 1 [Culex quinquefasciatus] >gi|167876989|gb|EDS40372.1| transcription initiation factor TFIID subunit 1 [Culex quinquefasciatus]  E=7e-12 s/c=1.44 id=44% cov=78%
+----GGELNLAGFLFGNVDEHGRLEND---------FLDEEAKMHLSSLSRMGLSSFLADVLTD---
+>gi|313227710|emb|CBY22858.1|(356-404:2003) unnamed protein product [Oikopleura dioica]   E=0.0003 s/c=0.99 id=40% cov=75%
+-------IGLTNFLFGNVDEDGRLESD---------VFDDSEKSQVNALSQMGMGGLLDDF--DKEA
+>gi|391340093|ref|XP_003744380.1|(4-62:1774) PREDICTED: LOW QUALITY PROTEIN: transcription initiation factor TFIID subunit 1-like [Metaseiulus occidentalis]  E=6e-08 s/c=1.03 id=41% cov=73%
+----GDGVNnsgvLTNLLFGNVNAEGALEDD---------IFDESTRKSLHQLSHLGMGNLVSEL------
+>gi|241708328|ref|XP_002413335.1|(22-70:1617) transcription initiation factor tfii-D, putative [Ixodes scapularis] >gi|215507149|gb|EEC16643.1| transcription initiation factor tfii-D, putative [Ixodes scapularis]  E=2e-11 s/c=1.48 id=46% cov=75%
+---------LTGFLFGNIDKHGRLEND---------FLDPESKRNLHQLNHLGIGRMWEEITGDAEA
+>gi|344281924|ref|XP_003412726.1|(29-86:1859) PREDICTED: transcription initiation factor TFIID subunit 1 [Loxodonta africana]  E=3e-08 s/c=1.06 id=36% cov=88%
+ESAGGGPFSLTGFLFGNINGAGQLE--------GESVLDDECKKHLAGLGALGLGTLITELTANEE-
+>gi|328868419|gb|EGG16797.1|(3-52:1811) putative protein serine/threonine kinase [Dictyostelium fasciculatum]  E=5e-07 s/c=1.16 id=45% cov=63%
+----GKGTDLSNFFFGNVTNEGELEDD--------SFLDRELRENLSEFTKQG--------------
+>gi|196005889|ref|XP_002112811.1|(5-53:1794) hypothetical protein TRIADDRAFT_56340 [Trichoplax adhaerens] >gi|190584852|gb|EDV24921.1| hypothetical protein TRIADDRAFT_56340 [Trichoplax adhaerens]  E=7e-07 s/c=1.16 id=31% cov=73%
+---------LANLMFGNIDEDGELEDD--------SLLDKESKRQLSQITcEFGLDTIVDDFNDDE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2141	371	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2088	0	0	
+
+G 2    *	*	*	*	*	781	*	*	2478	*	*	3034	*	*	*	3102	*	*	*	*	2
+       0	*	*	*	*	*	*	2088	0	0	
+
+S 3    3102	*	2478	*	*	3258	*	*	*	*	*	3034	*	*	*	1067	*	*	*	*	3
+       0	*	*	*	*	*	*	2088	0	0	
+
+I 4    *	*	*	*	*	3254	*	563	*	2988	*	*	*	*	3440	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2083	0	0	
+
+G 5    2880	*	*	*	*	495	*	*	*	*	4620	*	*	*	*	3816	4542	*	*	*	5
+       0	*	*	*	*	*	*	2330	0	0	
+
+N 6    *	*	3597	4272	*	1733	*	*	3679	*	*	2204	*	*	*	1891	*	*	*	*	6
+       445	1912	*	2454	291	*	*	2351	1278	0	
+
+G 7    *	*	*	4610	*	414	*	*	*	*	*	*	2261	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2399	0	0	
+
+L 8    *	*	*	*	2408	*	*	2466	*	1803	2358	*	*	*	*	*	4053	3495	*	*	8
+       0	*	*	*	*	*	*	2649	0	0	
+
+D 9    *	*	1136	*	*	4130	*	*	*	*	*	1730	*	*	*	2424	*	*	*	*	9
+       77	4266	*	2000	415	*	*	2649	1000	0	
+
+L 10   *	*	*	*	*	*	*	4394	*	171	3968	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2694	0	0	
+
+T 11   2284	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4394	484	4962	*	*	11
+       0	*	*	*	*	*	*	2694	0	0	
+
+G 12   *	*	*	*	*	375	*	*	*	*	*	2618	*	*	*	3922	*	*	*	*	12
+       0	*	*	*	*	*	*	2694	0	0	
+
+I 13   *	*	*	*	507	*	*	2173	*	3747	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2694	0	0	
+
+L 14   *	*	*	*	4394	*	*	*	*	456	2462	*	4574	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2694	0	0	
+
+F 15   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2694	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2694	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2694	0	0	
+
+I 18   *	*	*	*	*	*	*	312	*	*	*	*	*	*	*	*	*	2362	*	*	18
+       0	*	*	*	*	*	*	2694	0	0	
+
+D 19   *	*	482	*	*	*	*	*	*	*	*	2080	*	*	*	*	4394	*	*	*	19
+       0	*	*	*	*	*	*	2694	0	0	
+
+S 20   4227	*	3874	1254	*	4016	*	*	3221	*	*	4394	*	5590	*	2173	*	*	*	*	20
+       0	*	*	*	*	*	*	2694	0	0	
+
+E 21   3670	*	2352	1854	*	*	3274	*	4343	*	*	2948	*	5139	*	2856	*	*	*	*	21
+       0	*	*	*	*	*	*	2694	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2694	0	0	
+
+R 23   4858	*	5131	3514	*	*	4090	*	3395	4574	*	5317	*	1368	2052	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2694	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       39	*	5231	*	*	*	*	2694	0	0	
+
+L 25   *	*	4331	529	*	*	*	*	*	2647	4925	*	*	*	*	*	5114	4807	*	*	25
+       124	*	3597	*	*	*	0	2678	0	1000	
+
+Q 26   3762	*	764	5033	*	4342	*	*	*	*	*	3671	*	4489	*	3747	4055	*	*	*	26
+       0	*	*	*	*	*	0	2621	0	1705	
+
+D 27   *	*	48	*	*	*	*	*	*	*	*	4937	*	*	*	*	*	*	*	*	27
+       1555	*	600	*	*	*	0	2621	0	1705	
+
+D 28   *	*	170	3169	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       314	*	2354	*	*	*	0	1821	0	2550	
+
+D 29   *	*	616	2814	*	*	*	*	*	2284	*	*	*	*	*	*	*	*	*	*	29
+       221	*	2814	*	*	*	0	1573	0	2491	
+
+G 30   *	*	1748	*	*	1068	*	*	*	2149	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	0	1528	0	2584	
+
+E 31   *	*	2149	1630	*	*	*	*	2757	*	*	2700	*	*	2740	*	*	*	*	*	31
+       231	*	2757	*	*	*	0	1528	0	2584	
+
+G 32   *	*	*	*	*	405	*	*	2031	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	0	1512	0	2501	
+
+R 33   *	*	2031	*	*	*	2356	*	2489	*	*	*	*	*	1389	*	*	*	*	*	33
+       675	*	1421	*	*	2301	327	1512	0	2501	
+
+G 34   *	*	2707	*	*	821	*	*	*	*	*	*	*	*	3025	*	2662	*	*	*	34
+       0	*	*	*	*	3749	111	2159	0	2340	
+
+G 35   *	*	*	1764	*	825	*	*	2825	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	1948	433	2191	0	2374	
+
+T 36   *	*	3756	*	*	3406	*	*	3259	*	*	*	*	3825	*	788	3692	*	*	*	36
+       159	*	3259	*	*	157	3280	2319	0	2324	
+
+G 37   4632	*	*	*	2455	2655	*	2153	*	3170	*	*	*	*	*	*	*	1823	*	*	37
+       0	*	*	*	*	904	1103	2524	0	1300	
+
+F 38   *	*	*	*	1453	*	*	*	*	655	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	0	2549	0	1000	
+
+D 39   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	0	2549	0	1000	
+
+A 40   2226	*	2880	2167	*	*	*	*	3789	*	*	4198	3375	4539	4364	5475	3469	*	*	*	40
+       0	*	*	*	*	*	0	2549	0	1000	
+
+E 41   *	*	4019	312	*	*	*	*	4936	*	*	5475	*	*	*	3692	*	*	*	*	41
+       0	*	*	*	*	*	0	2549	0	1000	
+
+L 42   2214	3939	*	4580	4588	*	*	*	*	1894	*	*	*	*	*	1594	4814	*	*	*	42
+       0	*	*	*	*	*	0	2549	0	1000	
+
+R 43   *	*	*	*	*	*	*	*	678	*	*	*	*	5122	1530	*	*	*	*	*	43
+       0	*	*	*	*	*	0	2549	0	1000	
+
+E 44   *	5492	*	1586	*	*	*	*	2005	*	5623	4936	*	3000	2509	4580	*	*	*	*	44
+       0	*	*	*	*	0	*	2549	0	1000	
+
+N 45   *	*	*	*	*	*	1515	*	*	*	5160	1758	*	2297	*	4858	*	*	*	3496	45
+       0	*	*	*	*	*	*	2694	0	0	
+
+I 46   *	*	*	*	*	*	*	3332	*	218	*	*	*	*	*	*	*	4613	*	*	46
+       0	*	*	*	*	*	*	2694	0	0	
+
+G 47   1804	*	*	*	*	2252	4040	*	*	*	*	3569	*	*	*	1614	*	4962	*	*	47
+       0	*	*	*	*	*	*	2694	0	0	
+
+S 48   3977	*	*	4394	*	2526	*	*	*	*	*	5139	*	2703	*	983	5193	*	*	*	48
+       0	*	*	*	*	*	*	2694	0	0	
+
+L 49   *	*	*	*	4394	*	*	4644	*	132	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2694	0	0	
+
+S 50   4679	*	*	*	*	2017	*	*	*	*	*	3179	*	*	*	1085	3182	*	*	5512	50
+       59	4644	*	0	*	*	*	2694	1000	0	
+
+K 51   3407	*	*	4644	*	*	3596	*	1459	*	*	*	*	4613	2199	3996	3622	5898	*	*	51
+       0	*	*	*	*	*	*	2694	0	0	
+
+L 52   *	*	*	*	3893	*	*	*	*	447	2722	*	*	4394	*	*	*	*	*	*	52
+       157	3281	*	0	*	*	*	2694	1642	0	
+
+G 53   *	*	*	*	*	62	*	*	*	*	*	*	*	*	*	*	*	4574	*	*	53
+       0	*	*	*	*	*	*	2694	0	0	
+
+L 54   *	*	*	*	3148	*	*	4146	*	412	3658	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2647	0	0	
+
+D 55   4490	*	2417	5463	*	1356	*	*	*	*	5097	3159	*	*	*	2226	*	*	*	*	55
+       0	*	*	*	*	*	*	2647	0	0	
+
+S 56   *	*	*	4853	*	4547	*	*	*	*	*	3864	*	*	5198	455	3882	5096	*	*	56
+       0	*	*	*	*	*	*	2647	0	0	
+
+M 57   *	*	*	*	2462	*	*	3253	*	1176	2051	*	*	*	*	*	5074	*	*	*	57
+       0	*	*	*	*	*	*	2647	0	0	
+
+L 58   *	*	*	*	*	*	*	2307	*	1101	*	4490	*	*	*	*	*	1943	5198	*	58
+       0	*	*	*	*	*	*	2647	0	0	
+
+L 59   4338	*	3134	5198	*	*	3592	*	4085	4639	*	3004	*	3752	4765	2268	2631	*	5463	*	59
+       0	*	*	*	*	*	*	2647	0	0	
+
+E 60   5237	*	2844	313	*	*	*	*	*	*	*	5097	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2647	0	0	
+
+V 61   *	*	*	*	3477	*	*	2101	*	3007	2733	*	*	*	*	*	*	1314	*	*	61
+       67	*	4466	*	*	*	*	2647	0	0	
+
+I 62   *	*	*	*	*	*	*	1171	*	3059	4031	4084	*	*	*	*	1663	*	*	*	62
+       0	*	*	*	*	*	0	2604	0	1000	
+
+D 63   2478	*	1401	*	*	2988	4881	*	4594	*	*	*	*	3737	4846	3971	3900	*	*	*	63
+       0	*	*	*	*	0	*	2663	0	1000	
+
+L 64   *	*	1322	3405	*	*	*	*	*	4383	*	2484	*	4470	4266	2885	4423	*	*	*	64
+       0	*	*	*	*	*	*	2708	0	0	
+
+K 65   4147	*	2933	1485	*	*	4410	*	2491	*	*	3660	*	*	4253	3800	5207	*	*	*	65
+       0	*	*	*	*	*	*	2709	0	0	
+
+E 66   *	*	1447	922	*	*	*	*	*	*	*	5122	*	4334	*	5202	*	*	*	*	66
+       0	*	*	*	*	*	*	2644	0	0	
+
+A 67   290	*	*	*	*	3430	*	*	*	*	*	*	*	*	*	3481	*	*	*	*	67
+       0	*	*	0	*	*	*	2198	0	0	
+
+//

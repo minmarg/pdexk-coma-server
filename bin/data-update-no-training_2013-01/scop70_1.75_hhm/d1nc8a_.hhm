@@ -1,0 +1,127 @@
+HHsearch 1.5
+NAME  d1nc8a_ g.40.1.1 (A:) HIV nucleocapsid {Human immunodeficiency virus type 2 [TaxId: 11709]}
+FAM   g.40.1.1
+FILE  d1nc8a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nc8a_.a3m -v 1 
+DATE  Mon Jan 21 23:40:56 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  85 out of 87 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCEEEEECCCCCCCCCCCCCCCCCC
+>ss_conf
+98776403310686475012036755679
+>Consensus
+aqqrxxikCfNCGkeGHxarnCrAPRkkG
+>d1nc8a_ g.40.1.1 (A:) HIV nucleocapsid {Human immunodeficiency virus type 2 [TaxId: 11709]}
+AQQRKVIRCWNCGKEGHSARQCRAPRRQG
+>gi|385843051|gb|AFI80846.1|(70-98:146) gag protein, partial [Human immunodeficiency virus 2]   E=5e-06 s/c=1.87 id=73% cov=103%
+AQQKRTIKCWNCGKDGHSARQCRAPRKKG
+>gi|16905445|gb|AAL31350.1|L36874_1(382-410:521) gag protein [Human immunodeficiency virus 2]   E=0.0004 s/c=1.66 id=67% cov=103%
+AGRRGTVTCWNCGKGGHTAKQCRAPRRQG
+>gi|25166832|gb|AAN73620.1|AF484498_2(385-411:498) gag polyprotein precursor [Human immunodeficiency virus 1]   E=0.0004 s/c=1.77 id=64% cov=97%
+--QRRIIKCFNCGKEGHLARNCKAPRKKG
+>gi|255986392|gb|ACU50579.1|(387-413:506) gag protein [Human immunodeficiency virus 1]   E=0.0007 s/c=1.74 id=68% cov=97%
+--QRKPVKCFNCGKEGHIAKNCRAPRRRG
+>gi|158931164|sp|Q8AII1.4|POL_SIVTN(413-439:1462) RecName: Full=Gag-Pol polyprotein; AltName: Full=Pr160Gag-Pol; Contains: RecName: Full=Matrix protein p17; Short=MA; Contains: RecName: Full=Capsid protein p24; Short=CA; Contains: RecName: Full=Nucleocapsid protein p7; Short=NC; Contains: RecName: Full=p6-pol; Short=p6*; Contains: RecName: Full=Protease; AltName: Full=PR; AltName: Full=Retropepsin; Contains: RecName: Full=Reverse transcriptase/ribonuclease H; AltName: Full=Exoribonuclease H; AltName: Full=p66 RT; Contains: RecName: Full=p51 RT; Contains: RecName: Full=p15; Contains: RecName: Full=Integrase; Short=IN  E=1e-05 s/c=1.95 id=54% cov=97%
+--KKGQLQCFNCGKVGHTARNCRAPRKKG
+>gi|77551557|gb|ABA94354.1|(260-286:882) retrotransposon protein, putative, unclassified [Oryza sativa Japonica Group]  E=0.0002 s/c=1.78 id=54% cov=97%
+AQSKETRECFNCGKMGHLIRDCRAPRK--
+>gi|319801090|emb|CBW48585.1|(402-426:514) Gag protein [SIVcpz Ptt-04Cam155]   E=0.0004 s/c=1.89 id=54% cov=90%
+----RKVKCFNCGREGHIAKYCKAPRRKG
+>gi|308542716|gb|ADO34200.1|(407-438:554) gag protein [Simian immunodeficiency virus - agm.Sab92018]   E=0.0005 s/c=1.48 id=68% cov=97%
+--QRPInpnLKCYNCGKTGHIARFCRAPRRQG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1577	0	0	
+
+Q 2    *	*	*	*	*	1856	*	*	*	*	*	*	*	467	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1613	0	0	
+
+Q 3    *	*	*	*	*	5581	*	*	3114	*	*	*	*	369	5157	4036	*	*	*	*	3
+       0	*	*	*	*	*	*	1701	0	0	
+
+R 4    *	*	*	*	*	5904	*	*	2143	*	*	5846	*	5211	489	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1691	0	0	
+
+K 5    *	*	*	4293	*	3778	6094	*	892	*	*	*	4589	*	2037	4737	*	*	*	*	5
+       0	*	*	*	*	*	*	1702	0	0	
+
+V 6    4398	*	*	*	6104	*	*	1733	5727	*	4838	6524	3815	5312	6138	5749	1437	3754	*	*	6
+       39	5246	*	1585	585	*	*	1702	1000	0	
+
+I 7    *	*	*	*	5871	*	*	1111	*	4300	*	*	*	*	4315	*	*	1256	*	*	7
+       13	6794	*	2000	415	*	*	1702	1000	0	
+
+R 8    *	*	*	4315	*	*	*	*	291	*	*	*	*	5331	4031	*	4438	*	*	*	8
+       0	*	*	*	*	*	*	1702	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1702	0	0	
+
+W 10   *	*	*	*	548	*	*	*	*	*	*	*	*	*	*	*	*	*	1990	3962	10
+       0	*	*	*	*	*	*	1703	0	0	
+
+N 11   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1703	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1703	0	0	
+
+G 13   *	*	*	*	*	42	*	*	*	*	*	*	*	*	5139	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1703	0	0	
+
+K 14   *	*	*	5651	*	*	*	*	148	*	*	*	*	*	3684	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1703	0	0	
+
+E 15   *	*	5238	369	*	5854	*	6404	*	*	4316	*	*	5377	*	*	4624	4183	*	*	15
+       0	*	*	*	*	*	*	1703	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1703	0	0	
+
+H 17   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1703	0	0	
+
+S 18   *	*	*	*	*	*	*	1726	*	1971	*	*	*	*	*	2969	1951	4151	*	*	18
+       0	*	*	*	*	*	*	1703	0	0	
+
+A 19   111	*	*	*	*	*	*	4316	*	*	*	*	*	*	*	*	*	5391	*	*	19
+       0	*	*	*	*	*	*	1703	0	0	
+
+R 20   *	*	*	*	*	*	*	*	1846	*	*	5386	*	*	519	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1703	0	0	
+
+Q 21   *	*	4316	*	5274	*	5422	*	*	*	*	730	*	1908	*	6323	*	*	*	5740	21
+       0	*	*	*	*	*	*	1703	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1703	0	0	
+
+R 23   *	*	*	*	*	*	*	*	2509	*	*	*	*	*	279	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1703	0	0	
+
+A 24   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1703	0	0	
+
+P 25   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1703	0	0	
+
+R 26   *	*	*	*	*	*	*	*	5150	*	*	*	*	*	41	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1703	0	0	
+
+R 27   *	*	*	5586	*	*	*	*	778	*	*	*	*	*	1336	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1703	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	706	*	*	*	*	1827	3252	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1652	0	0	
+
+G 29   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1652	0	0	
+
+//

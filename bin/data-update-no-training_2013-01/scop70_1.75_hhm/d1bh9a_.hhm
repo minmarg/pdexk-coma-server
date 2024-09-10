@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1bh9a_ a.22.1.3 (A:) TAF(II)18 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.22.1.3
+FILE  d1bh9a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bh9a_.a3m -v 1 
+DATE  Mon Jan 21 19:13:27 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  104 out of 191 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CCHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+967889999977189999807899999999899999999987409
+>Consensus
+lFxxEixxmMyxfGDxxxPxxeTvxliEdivxxxixxlxxxAxxv
+>d1bh9a_ a.22.1.3 (A:) TAF(II)18 {Human (Homo sapiens) [TaxId: 9606]}
+LFSKELRCMMYGFGDDQNPYTESVDILEDLVIEFITEMTHKAMSI
+>gi|149235790|ref|XP_001523773.1|(123-168:335) hypothetical protein LELG_05189 [Lodderomyces elongisporus NRRL YB-4239] >gi|146452752|gb|EDK47008.1| hypothetical protein LELG_05189 [Lodderomyces elongisporus NRRL YB-4239]  E=0.0009 s/c=1.00 id=28% cov=96%
+LFTKDIENLLFAMGDAPYTQESTINAIEDILIDYVTmlasKMVHRA---
+>gi|261198839|ref|XP_002625821.1|(73-114:241) transcription initiation factor TFIID subunit 13 [Ajellomyces dermatitidis SLH14081] >gi|239594973|gb|EEQ77554.1| transcription initiation factor TFIID subunit 13 [Ajellomyces dermatitidis SLH14081]  E=1e-07 s/c=1.40 id=28% cov=96%
+--RRKLRHLTNGMAEPREPLPETLRVLDEIVTDFIIETCHSAAQ-
+>gi|403159742|ref|XP_003320320.2|(30-67:426) hypothetical protein PGTG_01232 [Puccinia graminis f. sp. tritici CRL 75-36-700-3] >gi|375168224|gb|EFP75901.2| hypothetical protein PGTG_01232 [Puccinia graminis f. sp. tritici CRL 75-36-700-3]  E=0.0003 s/c=1.26 id=31% cov=87%
+----EISQMLFVFGEVKNPDEQTVRYIEDVVRCQVAELVVQA---
+>gi|50289331|ref|XP_447096.1|(11-55:163) hypothetical protein [Candida glabrata CBS 138] >gi|49526405|emb|CAG60029.1| unnamed protein product [Candida glabrata]  E=2e-10 s/c=1.53 id=26% cov=102%
+LFHKDINSLLYAYGDVAQPLNKTVQCLDELVSSYLVDICAEAAHV
+>gi|242022494|ref|XP_002431675.1|(15-58:317) transcription initiation factor supt3, putative [Pediculus humanus corporis] >gi|212516983|gb|EEB18937.1| transcription initiation factor supt3, putative [Pediculus humanus corporis]  E=1e-06 s/c=1.27 id=27% cov=100%
+-YVKEIQLMMHGFGDVSEPLVSSAQLIESILVQQMTCLWRNVLNV
+>gi|408398623|gb|EKJ77753.1|(8-51:314) hypothetical protein FPSE_02251 [Fusarium pseudograminearum CS3096]  E=0.0002 s/c=1.10 id=24% cov=100%
+-YSNEIQHMVYVAGETQDVSAETLTLVEQIVHQQIHHLLSAASEL
+>gi|378754929|gb|EHY64957.1|(8-51:102) transcription initiation factor TFIID subunit [Nematocida sp. 1 ERTm2]  E=2e-05 s/c=1.18 id=31% cov=100%
+-FIREIRMLMYSLGDTMNPRLDSATVIHDYLCHYLTNILEKAKNV
+>gi|157115599|ref|XP_001652628.1|(60-103:344) suppressor of ty3 [Aedes aegypti] >gi|108876848|gb|EAT41073.1| AAEL007267-PA [Aedes aegypti]  E=3e-05 s/c=1.16 id=29% cov=100%
+VFFDEISQIMRGYGDCEKPLRESVILVEKIVLHQLRGIMQEAID-
+>gi|402466630|gb|EJW02081.1|(4-48:282) hypothetical protein EDEG_03466 [Edhazardia aedis USNM 41457]   E=8e-05 s/c=1.10 id=28% cov=102%
+LFQAEIKSMMYATGDLKHPNDLASQYIELIIKNQIQNLLKAANNI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	4601	*	*	3988	*	675	2649	*	*	*	*	*	*	3184	*	*	1
+       0	*	*	*	*	*	*	4190	0	0	
+
+F 2    *	*	*	*	506	*	*	*	*	3522	*	*	*	*	*	*	*	*	*	2259	2
+       0	*	*	*	*	*	*	4770	0	0	
+
+S 3    3922	*	*	6422	5081	5612	3560	4140	4999	5504	*	4727	*	3644	2995	3083	1917	4278	*	*	3
+       0	*	*	*	*	*	*	4835	0	0	
+
+K 4    4288	*	4411	*	*	6713	5265	*	1688	5700	6054	2707	4802	3327	2670	5792	5198	6758	*	5539	4
+       0	*	*	*	*	*	*	4877	0	0	
+
+E 5    6048	*	1923	658	*	*	5317	*	5416	*	*	5834	*	*	*	5536	*	*	*	*	5
+       0	*	*	*	*	*	*	4908	0	0	
+
+L 6    *	*	*	*	*	*	*	1074	*	1289	5555	*	*	*	*	*	*	3403	*	*	6
+       0	*	*	*	*	*	*	4826	0	0	
+
+R 7    3945	5089	5974	3535	*	*	*	6107	3232	5494	7127	6475	4746	2306	1636	3885	6258	*	*	*	7
+       0	*	*	*	*	*	*	4833	0	0	
+
+C 8    4604	5213	5018	6864	*	5223	3749	*	4887	3804	5155	4154	6047	2040	4484	2475	4391	5044	*	4613	8
+       0	*	*	*	*	*	*	4833	0	0	
+
+M 9    *	*	*	*	4504	*	*	4551	*	1689	757	*	*	6446	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4833	0	0	
+
+M 10   *	*	*	*	*	*	*	6364	*	1722	650	*	*	*	*	*	5427	5372	*	*	10
+       0	*	*	*	*	*	*	4837	0	0	
+
+Y 11   *	*	*	*	1946	*	3598	4511	*	6459	*	5428	*	*	5384	*	*	*	*	848	11
+       0	*	*	*	*	*	*	4837	0	0	
+
+G 12   1752	*	*	*	*	1230	*	4887	*	*	*	*	*	*	*	4075	5867	2586	*	*	12
+       0	*	*	*	*	*	*	4837	0	0	
+
+F 13   3346	5310	*	*	973	*	4454	*	*	3285	4032	*	*	*	*	4225	5902	*	*	3514	13
+       0	*	*	*	*	*	*	4837	0	0	
+
+G 14   4739	*	*	*	*	80	*	*	*	*	*	*	*	*	*	5910	*	*	*	*	14
+       0	*	*	*	*	*	*	4837	0	0	
+
+D 15   *	*	364	2163	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       38	7345	5654	2807	222	*	*	4837	1000	0	
+
+D 16   3573	4414	2718	4753	*	4712	5973	7225	*	5270	*	6160	4607	*	5481	3701	2752	1832	*	6689	16
+       0	*	*	*	*	841	1178	4825	0	1514	
+
+Q 17   4245	*	6890	3103	6738	5309	4766	5754	2775	6318	4812	5248	2633	3040	2867	4079	*	4924	*	*	17
+       29	6454	6903	2807	222	*	0	4831	1000	1000	
+
+N 18   6108	6822	2413	1859	*	*	3922	*	4531	6814	*	2808	*	4064	5212	5370	5998	3921	*	4064	18
+       0	*	*	*	*	830	1193	4825	0	1458	
+
+P 19   5118	*	*	*	*	*	*	6486	*	*	*	*	288	*	*	3854	4250	5695	*	*	19
+       0	*	*	*	*	*	0	4831	0	1000	
+
+Y 20   4123	*	3497	5864	6738	*	*	6697	6456	1500	4505	3911	5595	4168	4649	3038	6197	6787	*	3614	20
+       0	*	*	*	*	*	0	4831	0	1000	
+
+T 21   4480	*	2953	2895	*	*	4917	5268	4358	4214	6263	4279	1947	5762	4836	6243	4089	4016	*	5733	21
+       0	*	*	*	*	0	*	4831	0	1000	
+
+E 22   6104	*	2729	665	*	6004	*	*	4486	5315	6199	*	*	4816	*	4116	6392	*	*	*	22
+       0	*	*	*	*	*	*	4837	0	0	
+
+S 23   4356	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1959	580	5310	*	*	23
+       0	*	*	*	*	*	*	4837	0	0	
+
+V 24   2629	*	*	*	*	*	*	3508	5975	3931	6168	*	*	*	6004	4884	2915	1080	*	*	24
+       0	*	*	*	*	*	*	4837	0	0	
+
+D 25   2972	*	3261	3821	*	6029	7140	6305	3389	4960	5863	2975	*	3480	3354	3620	3698	6209	6895	5459	25
+       0	*	*	*	*	*	*	4837	0	0	
+
+I 26   3715	4802	*	*	6865	*	*	4097	*	1164	4539	*	*	*	*	*	4089	2222	*	4090	26
+       0	*	*	*	*	*	*	4837	0	0	
+
+L 27   *	*	*	*	5975	*	*	2070	*	1668	2204	*	*	*	*	*	*	2223	*	*	27
+       0	*	*	*	*	*	*	4837	0	0	
+
+E 28   *	*	2363	458	*	*	5967	*	5689	*	*	*	*	4979	*	6564	*	*	*	*	28
+       0	*	*	*	*	*	*	4837	0	0	
+
+D 29   6320	*	1296	1379	*	*	*	*	4956	5029	*	5469	*	4066	*	4903	5866	*	*	*	29
+       0	*	*	*	*	*	*	4837	0	0	
+
+L 30   *	6104	*	*	5689	*	*	760	*	2672	4094	*	*	*	*	*	5448	3358	*	4658	30
+       0	*	*	*	*	*	*	4837	0	0	
+
+V 31   5383	*	*	*	*	*	*	3573	*	1919	5232	*	*	*	*	*	5534	788	*	*	31
+       17	6389	*	1585	585	*	*	4837	1000	0	
+
+I 32   6612	5965	*	*	7402	*	3631	2896	4779	3644	6815	*	*	5455	2566	6487	2330	2147	*	*	32
+       0	*	*	*	*	*	*	4835	0	0	
+
+E 33   5904	6726	1756	2010	*	5122	4464	*	6770	*	*	4704	*	2989	4689	3871	4717	5113	6991	*	33
+       0	*	*	*	*	*	*	4835	0	0	
+
+F 34   *	*	*	5455	1911	*	5213	*	*	*	*	*	*	1486	*	*	*	*	*	1611	34
+       0	*	*	*	*	*	*	4835	0	0	
+
+I 35   *	*	*	*	6260	*	*	1060	*	2150	3693	*	*	*	*	*	5332	2475	*	*	35
+       0	*	*	*	*	*	*	4835	0	0	
+
+T 36   5626	*	6113	6860	*	5606	4124	2317	4686	5213	5859	*	*	3523	3809	3877	2058	2959	*	*	36
+       13	6853	*	2000	415	*	*	4835	1000	0	
+
+E 37   6064	4595	1954	1660	*	4321	3977	5248	5953	5806	6770	3733	*	4654	6031	4692	5866	*	*	*	37
+       0	*	*	*	*	*	*	4835	0	0	
+
+M 38   *	*	*	*	4909	*	*	2415	6399	1291	2374	*	*	*	*	*	3934	3315	*	*	38
+       0	*	*	*	*	*	*	4835	0	0	
+
+T 39   4509	1650	*	*	5173	6714	*	3295	*	2395	5278	*	*	*	*	3863	3419	3432	5998	6386	39
+       13	6765	*	0	*	*	*	4871	1000	0	
+
+H 40   5375	4973	*	5279	3749	*	2090	4369	3335	4205	6948	5910	*	2926	3919	4330	4511	3850	*	5505	40
+       0	*	*	*	*	*	*	4800	0	0	
+
+K 41   3562	*	5396	2405	*	6407	6445	*	2311	5633	*	3922	*	3263	3071	3680	3727	*	*	6048	41
+       0	*	*	*	*	*	*	4800	0	0	
+
+A 42   183	5805	*	*	*	*	*	*	*	*	*	*	*	*	*	4495	4621	5966	*	*	42
+       0	*	*	*	*	*	*	4796	0	0	
+
+M 43   2070	5310	*	*	*	*	5188	4610	4768	2501	2589	4032	6213	3595	6153	4953	4542	5698	*	5462	43
+       0	*	*	*	*	*	*	4923	0	0	
+
+S 44   *	*	3737	1880	*	*	4429	*	2597	*	*	2996	*	2757	3346	4639	5064	*	*	*	44
+       0	*	*	*	*	*	*	4837	0	0	
+
+I 45   *	*	*	*	*	*	*	2588	*	2531	4657	*	*	*	*	*	*	687	*	*	45
+       0	*	*	0	*	*	*	4374	0	0	
+
+//

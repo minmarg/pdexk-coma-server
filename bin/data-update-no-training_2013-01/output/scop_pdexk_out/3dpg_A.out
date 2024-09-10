@@ -1,0 +1,437 @@
+Query         3dpg_A SgrAI REase, PDEXK superfamily
+Match_columns 220
+No_of_seqs    35 out of 37
+Neff          3.5 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:36 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3dpg_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3dpg_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3dpg_A SgrAI REase, PDEXK supe 100.0       0       0  704.6  18.7  220    1-220     1-220 (220)
+  2 d1cfra_ c.52.1.7 (A:) Restrict 100.0       0       0  390.7  11.9  191    5-219    55-255 (283)
+  3 d1knva_ c.52.1.7 (A:) Restrict 100.0       0       0  355.3   9.0  189   18-220    58-260 (290)
+  4 d1ek8a_ d.67.3.1 (A:) Ribosome  99.4 7.9E-14 5.8E-18   95.3   6.6   93   55-150    46-141 (185)
+  5 d1wqga1 d.67.3.1 (A:2-184) Rib  99.4 1.6E-13 1.1E-17   93.7   6.5   95   55-152    45-142 (183)
+  6 d1eh1a_ d.67.3.1 (A:) Ribosome  99.4 1.6E-13 1.1E-17   93.7   6.5   93   55-150    47-142 (185)
+  7 d1dd5a_ d.67.3.1 (A:) Ribosome  99.4 2.1E-13 1.5E-17   93.0   6.7   96   54-152    44-142 (184)
+  8 d1is1a_ d.67.3.1 (A:) Ribosome  99.4 2.4E-13 1.7E-17   92.7   6.6   93   55-150    46-141 (185)
+  9 d1ge9a_ d.67.3.1 (A:) Ribosome  99.2 4.6E-12 3.3E-16   85.5   6.1   91   55-149    49-142 (184)
+ 10 d1wiha_ d.67.3.1 (A:) Ribosome  99.2 4.1E-12   3E-16   85.8   5.0   64   56-122    18-82  (84)
+ 11 d1knva_ c.52.1.7 (A:) Restrict  95.8  0.0011 8.3E-08   38.8   1.0   31    7-37     63-93  (290)
+ 12 d1cfra_ c.52.1.7 (A:) Restrict  93.4  0.0083   6E-07   34.0   0.5   81    8-118    47-134 (283)
+ 13 d1fiua_ c.52.1.10 (A:) Restric  83.2    0.98 7.1E-05   22.5   4.9   86   84-180   112-207 (286)
+ 14 d1na6a2 c.52.1.22 (A:179-398)   25.7      11 0.00083   16.6   1.1   31  151-182   137-167 (220)
+ 15 3bm3_A PSPGI restriction endon  23.6      12 0.00084   16.5   0.8   30  152-182    58-87  (166)
+ 16 2gb7_A R.ECL18KI; ECL18KI-DNA   21.6      13 0.00095   16.2   0.8   24  154-178    62-85  (151)
+ 17 d1d1la_ a.35.1.2 (A:) cro lamb  20.3      22  0.0016   14.9   1.8   29   87-116    28-60  (61)
+
+No 1  
+>3dpg_A SgrAI REase, PDEXK superfamily
+Probab=100.00  E-value=0  Score=704.64  Aligned_columns=220  Identities=100%
+
+Q ss_pred             CCCCCCCCHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCEEEECH
+Q ss_conf             98531210133333123045666666651330123333210234565522356557775411577876876461034541
+Q 3dpg_A            1 FRDDFRVDSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGEGWRSQPRYSRPTLSPSPRRQVAVLNLPRSFDWVSLLVP   80 (220)
+Q Consensus         1 ~~~~f~~~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~~w~~~~~~~~~~~~pTP~~qvA~VklPea~D~~~Li~P   80 (220)
+                      ||+|||++++|||||+||||||++|+|||||+|+||+|||||+|+||+||||||++|||++|||+|||||+||+++||+|
+T Consensus         1 ~~~~f~~~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~~w~~~~~~~~~~~~pTP~~qvA~VklPea~D~~~Li~P   80 (220)
+T 3dpg_A            1 FRDDFRVDSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGEGWRSQPRYSRPTLSPSPRRQVAVLNLPRSFDWVSLLVP   80 (220)
+T ss_pred             CCCCCCCCHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCEEEECH
+T ss_conf             98531210133333123045666666651330123333210234565522356557775411577876876461034541
+
+
+Q ss_pred             HHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHHHHHCCCHHHHHHHHHHHHHHHCCEEECCEEEEEEEE
+Q ss_conf             26788999999998657703278987068973466673134554441258147999999988753201003058999851
+Q 3dpg_A           81 ESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWREEIAGLTRPNQILLSGAYQRLQGRVQPGEISLAVAFK  160 (220)
+Q Consensus        81 ~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~epI~~LS~en~~~L~~lyk~f~gkie~~~i~~~isvK  160 (220)
+                      |+|++|++|||||++|||||+||||||+|||||+|||+||++||||+|||++|+++|+++||+||||||+++|++|||||
+T Consensus        81 ~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~epI~~LS~en~~~L~~lyk~f~gkie~~~i~~~isvK  160 (220)
+T 3dpg_A           81 ESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWREEIAGLTRPNQILLSGAYQRLQGRVQPGEISLAVAFK  160 (220)
+T ss_pred             HHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHHHHHCCCHHHHHHHHHHHHHHHCCEEECCEEEEEEEE
+T ss_conf             26788999999998657703278987068973466673134554441258147999999988753201003058999851
+
+
+Q ss_pred             CCCCCCHHHCCHHHHHHHHHHHHEEECCCCEEEEEEECCCCCCCCEEEEEHHHHHHHHCC
+Q ss_conf             125720110430134788765611244665047873136575551355210113455319
+Q 3dpg_A          161 RSLRSDRLYQPLYEANVMQLLLEGKLGAPKVEFEVHTLAPEGTNAFVTYEAASLYGLAEG  220 (220)
+Q Consensus       161 tS~RsDRryQ~~hEg~~lK~l~~~~l~~~~~~fy~~~~s~~~ad~~~~~~aasl~~l~~g  220 (220)
+                      ||+||||||||+|||||||+||+|+|+++++|||+|++++||||++|+|+|||||||++|
+T Consensus       161 tS~RsDRryQ~~hEg~~lK~l~~~~l~~~~~~fy~~~~s~~~ad~~~~~~aasl~~l~~g  220 (220)
+T 3dpg_A          161 RSLRSDRLYQPLYEANVMQLLLEGKLGAPKVEFEVHTLAPEGTNAFVTYEAASLYGLAEG  220 (220)
+T ss_pred             CCCCCCHHHCCHHHHHHHHHHHHEEECCCCEEEEEEECCCCCCCCEEEEEHHHHHHHHCC
+T ss_conf             125720110430134788765611244665047873136575551355210113455319
+
+
+No 2  
+>d1cfra_ c.52.1.7 (A:) Restriction endonuclease Cfr10I {Citrobacter freundii [TaxId: 546]}
+Probab=100.00  E-value=0  Score=390.67  Aligned_columns=191  Identities=17%
+
+Q ss_pred             CCCCHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCCCCCCCCCCEEEEEECC--CCCCCEEEECHHH
+Q ss_conf             12101333331230456666666513301233332102345655223565577754115778768--7646103454126
+Q 3dpg_A            5 FRVDSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGEGWRSQPRYSRPTLSPSPRRQVAVLNLP--RSFDWVSLLVPES   82 (220)
+Q Consensus         5 f~~~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~~w~~~~~~~~~~~~pTP~~qvA~VklP--ea~D~~~Li~P~~   82 (220)
+                      +++++.|+.|++||||||+.|.+.||...             ++.+           ..++|+||  ++||++.|++|+.
+T Consensus        55 ~~~s~gA~nn~~G~W~E~i~ai~awn~~~-------------~~~~-----------~~~vv~LPn~rsfD~~~Lf~pe~  110 (283)
+T d1cfra_          55 GKISDGSFNKCNGDWYEWLIGIRAIEFFL-------------ESET-----------NFIVVKMPNATSFDVMSIYKSCL  110 (283)
+T ss_pred             CCCCCCCCCCCCCHHHHHHHHHHHHHHHH-------------CCCC-----------CEEEEECCCCCHHHHHHHHHHHH
+T ss_conf             78440000035762999999999988763-------------0685-----------17999768874157899877889
+
+
+Q ss_pred             HHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCC--HHHHHHHHHCCCHHHHHHHHHHHHHHHCCEEECCEEEEEEEE
+Q ss_conf             788999999998657703278987068973466673--134554441258147999999988753201003058999851
+Q 3dpg_A           83 QEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQN--DEMWREEIAGLTRPNQILLSGAYQRLQGRVQPGEISLAVAFK  160 (220)
+Q Consensus        83 k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~t--ee~~~epI~~LS~en~~~L~~lyk~f~gkie~~~i~~~isvK  160 (220)
+                      ++.|++++++|++.+++|+|||||+|||++|.|++.  ...+++||++++.+++.+++++||+|+|||++++|++|||||
+T Consensus       111 ~~~i~~l~~~l~~~~v~LitSnPD~vIv~i~~~~~~~~d~~~~~~i~~l~~~~~~~l~~lyk~l~gk~~~~~i~~~IsvK  190 (283)
+T d1cfra_         111 SEFIYDLRSKLSLNNVNLITSNPDFSIIDIRGRREELKSMLKDISFSNISLSTISEIDNLYKNFIDYAELEHIKSFLSVK  190 (283)
+T ss_pred             HHHHHHHHHHHHHHCCCCCCCCCCEEEEECCCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCCCEEEEEEEE
+T ss_conf             99999999866550263316998679997077431343344310124566201778999998876100203168998752
+
+
+Q ss_pred             CCCCCCHHHCCHHHHHHHHHHHH------EEECCCCEEEEEEECCCCCCCCEEEEEHHHHHHHHC
+Q ss_conf             12572011043013478876561------124466504787313657555135521011345531
+Q 3dpg_A          161 RSLRSDRLYQPLYEANVMQLLLE------GKLGAPKVEFEVHTLAPEGTNAFVTYEAASLYGLAE  219 (220)
+Q Consensus       161 tS~RsDRryQ~~hEg~~lK~l~~------~~l~~~~~~fy~~~~s~~~ad~~~~~~aasl~~l~~  219 (220)
+                      ||+||||||||+|||||||+|++      |+++|.++|||+|++.+++||+.+++|||+...+..
+T Consensus       191 TS~RsDRRyQplhEgn~lKal~~~Lq~r~w~~np~a~KyY~~aS~~~~AD~~al~TaAth~i~~~  255 (283)
+T d1cfra_         191 TTFRPDRRLQLAHEGSLMKALYTHLQTRTWTINPTGIRYYAAATSIGNADVIGLKTVATHSITDV  255 (283)
+T ss_pred             CCCCCHHHHCCHHHHHHHHHHHHHHHHHEEEECCCCEEEEEEECCCCCCCHHHHHHHHHHHHEEC
+T ss_conf             03682022042224689999999772100332576416777641577421234443200121002
+
+
+No 3  
+>d1knva_ c.52.1.7 (A:) Restriction endonuclease Bse634I {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=100.00  E-value=0  Score=355.28  Aligned_columns=189  Identities=21%
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHCC-CCCC--CCCCCCCCCCCCCCCEEEEEECC--CCCCCEEEECHHHHHHHHHHHHH
+Q ss_conf             0456666666513301233332102-3456--55223565577754115778768--76461034541267889999999
+Q 3dpg_A           18 DIFEIVSSAVMWNCAARWNSLMVGE-GWRS--QPRYSRPTLSPSPRRQVAVLNLP--RSFDWVSLLVPESQEVIEEFRAG   92 (220)
+Q Consensus        18 d~~e~~~a~a~wn~~a~wn~~~~~~-~w~~--~~~~~~~~~~pTP~~qvA~VklP--ea~D~~~Li~P~~k~~i~aieka   92 (220)
+                      ..+.+++.+||.||+|.|+|+|.+- +|++  +++         +.+ --.|+||  .+||++.||+|+.++.|++++++
+T Consensus        58 ~~~~~ps~gAfnn~~G~W~E~~ia~~awn~~~~~n---------~~~-~~~iklPN~~sfD~~~Lf~~e~~~~i~~l~~k  127 (290)
+T d1knva_          58 KGLAIPTSGAFSNTRGTWFEVMIAIQSWNYRVKRE---------LND-YLIIKMPNVKTFDFRKIFDNETREKLHQLEKS  127 (290)
+T ss_pred             HCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHCC---------CCC-EEEEECCCCCCHHHHHHHHHHHHHHHHHHHHH
+T ss_conf             21456543333156760999999999988775227---------874-27887588640147887668899999999998
+
+
+Q ss_pred             HH--HCCCCCCCCCCCCEEEEECCCCCCHHHHHHHHHCCCHHHHHHHHHHHHHHHCCEEECCEEEEEEEECCCCCCHHHC
+Q ss_conf             98--6577032789870689734666731345544412581479999999887532010030589998511257201104
+Q 3dpg_A           93 LR--KDGLGLPTSTPDLAVVVLPEEFQNDEMWREEIAGLTRPNQILLSGAYQRLQGRVQPGEISLAVAFKRSLRSDRLYQ  170 (220)
+Q Consensus        93 i~--~sdlgLiTsnpDgvvIRlp~p~~tee~~~epI~~LS~en~~~L~~lyk~f~gkie~~~i~~~isvKtS~RsDRryQ  170 (220)
+                      +.  +++|+|+|||||+||||++++++++  +..||++++.++++.|+++||+|+|||++++|++|||||||+|||||||
+T Consensus       128 l~~~k~~v~LitSnPD~VIi~~~d~~~~~--~~~pi~~~~~~~~~~L~~ly~~f~gk~~~~~i~~~isvKtS~RpDRryQ  205 (290)
+T d1knva_         128 LLTHKQQVRLITSNPDLLIIRQKDLIKSE--YNLPINKLTHENIDVALTLFKDIEGKCKWDSLVAGVGLKTSLRPDRRLQ  205 (290)
+T ss_pred             HHHHHCCEEEECCCCCEEEEECCHHHHHH--HCCCHHHCCCCCHHHHHHHHHHHHHCCCCCCEEEEEEEECCCCCHHHHC
+T ss_conf             52201333664078876886050100255--5165221473357899999988761003231578887410257202203
+
+
+Q ss_pred             CHHHHHHHHHHH------HEEECCCCEEEEEEECC-CCCCCCEEEEEHHHHHHHHCC
+Q ss_conf             301347887656------11244665047873136-575551355210113455319
+Q 3dpg_A          171 PLYEANVMQLLL------EGKLGAPKVEFEVHTLA-PEGTNAFVTYEAASLYGLAEG  220 (220)
+Q Consensus       171 ~~hEg~~lK~l~------~~~l~~~~~~fy~~~~s-~~~ad~~~~~~aasl~~l~~g  220 (220)
+                      |+|||||||+||      .|+.+ +++|||+.+++ .+.||..++.|| ++||++.+
+T Consensus       206 ~lhEg~~lKal~ahL~tr~w~~~-~~~kyy~~as~~~s~aD~~al~T~-Athsiv~~  260 (290)
+T d1knva_         206 LVHEGNILKSLFAHLKMRYWNPK-AEFKYYGASSEPVSKADDDALQTA-ATHTIVNV  260 (290)
+T ss_pred             CHHHHHHHHHHHHHHHHHCCCCC-CCEEEEEEECCCCCCCCHHHHHHH-HHHHHHCC
+T ss_conf             31245799999987653202356-550588752023674202456532-10111023
+
+
+No 4  
+>d1ek8a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Escherichia coli [TaxId: 562]}
+Probab=99.44   E-value=7.9e-14  Score=95.33  Aligned_columns=93  Identities=14%
+
+Q ss_pred             CCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCCH
+Q ss_conf             5777541157787687646103454126788999999998657703278987068973466673134554---4412581
+Q 3dpg_A           55 LSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLTR  131 (220)
+Q Consensus        55 ~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS~  131 (220)
+                      -.++|+++||.|.+|+++  ++++.|||.+.+++|++||..|++|+ +|..||..|++|+|.+|+|+|.+   .+-++.+
+T Consensus        46 g~~~~L~~lA~Isv~~~~--~l~I~p~d~~~~k~I~kAI~~s~l~l-~p~~dg~~i~v~iP~~T~E~R~~l~K~~k~~~E  122 (185)
+T d1ek8a_          46 GTPTPLRQLASVTVEDSR--TLKINVFDRSMSPAVEKAIMASDLGL-NPNSAGSDIRVPLPPLTEERRKDLTKIVRGEAE  122 (185)
+T ss_pred             CCCEEHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCHHHHHHHHHHHHHHHH
+T ss_conf             870103020334315885--78887328877899999998568975-512178656875699988889999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEEE
+Q ss_conf             4799999998875320100
+Q 3dpg_A          132 PNQILLSGAYQRLQGRVQP  150 (220)
+Q Consensus       132 en~~~L~~lyk~f~gkie~  150 (220)
+                      +....|+++++....+++-
+T Consensus       123 ~~K~~iR~iR~~~~~~ikk  141 (185)
+T d1ek8a_         123 QARVAVRNVRRDANDKVKA  141 (185)
+T ss_pred             HHHHHHHHHHHHHHHHHHH
+T ss_conf             9999999999999999987
+
+
+No 5  
+>d1wqga1 d.67.3.1 (A:2-184) Ribosome recycling factor, RRF {Mycobacterium tuberculosis [TaxId: 1773]}
+Probab=99.41   E-value=1.6e-13  Score=93.70  Aligned_columns=95  Identities=16%
+
+Q ss_pred             CCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCCH
+Q ss_conf             5777541157787687646103454126788999999998657703278987068973466673134554---4412581
+Q 3dpg_A           55 LSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLTR  131 (220)
+Q Consensus        55 ~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS~  131 (220)
+                      -.++|+++||.|.++.++  ++++.|||.+.++++++||..|++|+ +|..||..|++|+|.+|.|+|.+   .+-.+.+
+T Consensus        45 g~~~~L~~iA~Isv~~~~--~l~i~~~d~~~~k~I~kAI~~s~l~l-~p~~dg~~i~v~iP~~T~E~R~~l~K~~k~~~E  121 (183)
+T d1wqga1          45 GAATPITQLASINVPEAR--LVVIKPYEANQLRAIETAIRNSDLGV-NPTNDGALIRVAVPQLTEERRRELVKQAKHKGE  121 (183)
+T ss_pred             CCEEHHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCHHHHHHHHHHHHHHHH
+T ss_conf             841102010344405884--78886158877899999998467876-501068665863699998889999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEEECC
+Q ss_conf             479999999887532010030
+Q 3dpg_A          132 PNQILLSGAYQRLQGRVQPGE  152 (220)
+Q Consensus       132 en~~~L~~lyk~f~gkie~~~  152 (220)
+                      .....++++++.....++-..
+T Consensus       122 ~~k~~iR~iR~~~~~~ikk~~  142 (183)
+T d1wqga1         122 EAKVSVRNIRRKAMEELHRIR  142 (183)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH
+T ss_conf             999999999999999998676
+
+
+No 6  
+>d1eh1a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Thermus thermophilus [TaxId: 274]}
+Probab=99.41   E-value=1.6e-13  Score=93.70  Aligned_columns=93  Identities=11%
+
+Q ss_pred             CCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCCH
+Q ss_conf             5777541157787687646103454126788999999998657703278987068973466673134554---4412581
+Q 3dpg_A           55 LSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLTR  131 (220)
+Q Consensus        55 ~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS~  131 (220)
+                      -.+.|+++||.|.+++++  ++++.|||.+.+++|++||..+++|+ +|..||..|++|+|.+|.|+|.+   .+-++.+
+T Consensus        47 g~~~~L~~iA~I~v~~~~--~l~I~~~d~~~ik~I~kAi~~s~l~l-~p~~d~~~i~v~iP~~T~E~R~~l~K~~k~~~E  123 (185)
+T d1eh1a_          47 GAHVPLNQIATVTAPDPR--TLVVQSWDQNALKAIEKAIRDSDLGL-NPSNKGDALYINIPPLTEERRKDLVRAVRQYAE  123 (185)
+T ss_pred             CCEECHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCHHHHHHHHHHHHHHHH
+T ss_conf             842103011244306883--78886158767899999998578975-501178666875699998889999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEEE
+Q ss_conf             4799999998875320100
+Q 3dpg_A          132 PNQILLSGAYQRLQGRVQP  150 (220)
+Q Consensus       132 en~~~L~~lyk~f~gkie~  150 (220)
+                      +....++++++....+++-
+T Consensus       124 ~~K~~iR~iR~~~~~~ik~  142 (185)
+T d1eh1a_         124 EGRVAIRNIRREALDKLKK  142 (185)
+T ss_pred             HHHHHHHHHHHHHHHHHHH
+T ss_conf             9889999999999999986
+
+
+No 7  
+>d1dd5a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Thermotoga maritima [TaxId: 2336]}
+Probab=99.40   E-value=2.1e-13  Score=92.98  Aligned_columns=96  Identities=15%
+
+Q ss_pred             CCCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCC
+Q ss_conf             55777541157787687646103454126788999999998657703278987068973466673134554---441258
+Q 3dpg_A           54 TLSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLT  130 (220)
+Q Consensus        54 ~~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS  130 (220)
+                      .-.++|+++||.|.++.++  ++++.|||.+.++++++||..|+||+ +|..||..|++|+|.+|.|+|.+   .+-++.
+T Consensus        44 ~g~~~~L~~lA~V~v~~~~--~l~I~~~d~~~~k~I~kAI~~s~l~l-~p~~dg~~i~v~iP~~T~E~R~~l~K~~k~~~  120 (184)
+T d1dd5a_          44 YGVPTPVNQLATISISEER--TLVIKPWDKSVLSLIEKAINASDLGL-NPINDGNVIRLVFPSPTTEQREKWVKKAKEIV  120 (184)
+T ss_pred             CCCCCCHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCHHHHHHHHHHHHHHH
+T ss_conf             7851121012345415884--78886248777899999998568985-50117867788779999888999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHHCCEEECC
+Q ss_conf             1479999999887532010030
+Q 3dpg_A          131 RPNQILLSGAYQRLQGRVQPGE  152 (220)
+Q Consensus       131 ~en~~~L~~lyk~f~gkie~~~  152 (220)
+                      +.....++++++....+++-..
+T Consensus       121 E~~k~~iR~iR~~~~~~ik~~~  142 (184)
+T d1dd5a_         121 EEGKIAIRNIRREILKKIKEDQ  142 (184)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+T ss_conf             9999999999999999988677
+
+
+No 8  
+>d1is1a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Vibrio parahaemolyticus [TaxId: 670]}
+Probab=99.40   E-value=2.4e-13  Score=92.67  Aligned_columns=93  Identities=12%
+
+Q ss_pred             CCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCCH
+Q ss_conf             5777541157787687646103454126788999999998657703278987068973466673134554---4412581
+Q 3dpg_A           55 LSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLTR  131 (220)
+Q Consensus        55 ~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS~  131 (220)
+                      -.++|+++||.|.++.++  ++++.|||.+.++++++||..|++|+ +|..||..|++|+|.+|.|.|.+   .+-++.+
+T Consensus        46 g~~~~L~~iA~I~v~~~~--~l~I~~~d~~~~k~I~kAI~~s~l~l-~p~~dg~~i~i~iP~~T~E~R~~l~K~~k~~~E  122 (185)
+T d1is1a_          46 GAATPLNQVANVVAEDAR--TLAITVFDKELTQKVEKAIMMSDLGL-NPMSAGTIIRVPLPPLTEERRKDLVKIVRGEAE  122 (185)
+T ss_pred             CCEECHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCHHHHHHHHHHHHHHHH
+T ss_conf             861122111245405884--78887248877899999998568975-412388666864699988889999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEEE
+Q ss_conf             4799999998875320100
+Q 3dpg_A          132 PNQILLSGAYQRLQGRVQP  150 (220)
+Q Consensus       132 en~~~L~~lyk~f~gkie~  150 (220)
+                      +....++++++.+..+++-
+T Consensus       123 ~~K~~iR~iR~~~~~~ikk  141 (185)
+T d1is1a_         123 GGRVAVRNIRRDANNDLKA  141 (185)
+T ss_pred             HHHHHHHHHHHHHHHHHHH
+T ss_conf             9999999999999999987
+
+
+No 9  
+>d1ge9a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Aquifex aeolicus [TaxId: 63363]}
+Probab=99.25   E-value=4.6e-12  Score=85.53  Aligned_columns=91  Identities=14%
+
+Q ss_pred             CCCCCCCEEEEEECCCCCCCEEEECHHHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHHHH---HHHCCCH
+Q ss_conf             5777541157787687646103454126788999999998657703278987068973466673134554---4412581
+Q 3dpg_A           55 LSPSPRRQVAVLNLPRSFDWVSLLVPESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMWRE---EIAGLTR  131 (220)
+Q Consensus        55 ~~pTP~~qvA~VklPea~D~~~Li~P~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~~e---pI~~LS~  131 (220)
+                      -.++|+++||.|.++.++  ++++.|||.+.+++|++|| .+++|+ +|.+||..|++|+|-+|.|+|.+   .+-++.+
+T Consensus        49 g~~~~L~~lA~V~~~~~~--~l~I~~~d~~~~~~I~~AI-~s~l~l-~p~~~g~~i~v~iP~~T~E~R~~l~K~~k~~~e  124 (184)
+T d1ge9a_          49 GSKVPIKQLGTISVPEHN--QIVIQVWDQNAVPAIEKAI-REELNL-NPTVQGNVIRVTLPPLTEERRRELVRLLHKITE  124 (184)
+T ss_pred             CCEEHHHHCEEEEECCCC--EEEEEECCHHHHHHHHHHH-HCCCCC-CCCCCCCEEEECCCCCCHHHHHHHHHHHHHHHH
+T ss_conf             860003021022205884--7888615876689999998-616898-400078632431799988889999999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEE
+Q ss_conf             479999999887532010
+Q 3dpg_A          132 PNQILLSGAYQRLQGRVQ  149 (220)
+Q Consensus       132 en~~~L~~lyk~f~gkie  149 (220)
+                      +....|+++++....+++
+T Consensus       125 ~~K~~iR~iR~~~~k~ik  142 (184)
+T d1ge9a_         125 EARVRVRNVRREAKEMIE  142 (184)
+T ss_pred             HHHHHHHHHHHHHHHHHH
+T ss_conf             999999998899999998
+
+
+No 10 
+>d1wiha_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Mouse (Mus musculus), mitochondrial [TaxId: 10090]}
+Probab=99.23   E-value=4.1e-12  Score=85.79  Aligned_columns=64  Identities=14%
+
+Q ss_pred             CCCCCCEEEEEECCCCCCCEEEECHHH-HHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCCHHHH
+Q ss_conf             777541157787687646103454126-7889999999986577032789870689734666731345
+Q 3dpg_A           56 SPSPRRQVAVLNLPRSFDWVSLLVPES-QEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQNDEMW  122 (220)
+Q Consensus        56 ~pTP~~qvA~VklPea~D~~~Li~P~~-k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~tee~~  122 (220)
+                      .++|++|||.|.+++++  +++++||| ++.+++++|||..|+|++ +|..||..||+|+|.+|.|.|
+T Consensus        18 ~~~pL~~lA~Isv~~~~--tl~I~~~D~~~~~k~I~kAI~~s~L~l-~P~~dg~~I~i~iP~lT~~~~   82 (84)
+T d1wiha_          18 GKVALNQIGQISMKSPQ--VILVNMASFPECTAAAIKAIRESGMNL-NPEVEGTLIRVPIPKVTSGPS   82 (84)
+T ss_pred             CEECCCCEEEEECCCCC--EEEEEEECCHHHHHHHHHHHHHCCCCC-CCCCCCCEEEEECCCCCCCCC
+T ss_conf             82531101576507991--689975247001378999998488998-643089578882798887567
+
+
+No 11 
+>d1knva_ c.52.1.7 (A:) Restriction endonuclease Bse634I {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=95.79   E-value=0.0011  Score=38.82  Aligned_columns=31  Identities=23%
+
+Q ss_pred             CCHHHHHHHCCHHHHHHHHHHHHCCCHHHHH
+Q ss_conf             1013333312304566666665133012333
+Q 3dpg_A            7 VDSNAKAKVAGDIFEIVSSAVMWNCAARWNS   37 (220)
+Q Consensus         7 ~~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~   37 (220)
+                      .+..|+.|+.||||||+.|+.+||..++-|+
+T Consensus        63 ps~gAfnn~~G~W~E~~ia~~awn~~~~~n~   93 (290)
+T d1knva_          63 PTSGAFSNTRGTWFEVMIAIQSWNYRVKREL   93 (290)
+T ss_pred             CCCCCCCCCCCHHHHHHHHHHHHHHHHHCCC
+T ss_conf             5433331567609999999999887752278
+
+
+No 12 
+>d1cfra_ c.52.1.7 (A:) Restriction endonuclease Cfr10I {Citrobacter freundii [TaxId: 546]}
+Probab=93.38   E-value=0.0083  Score=34.02  Aligned_columns=81  Identities=14%
+
+Q ss_pred             CHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCC-CCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCEEEECH------
+Q ss_conf             01333331230456666666513301233332102-34565522356557775411577876876461034541------
+Q 3dpg_A            8 DSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGE-GWRSQPRYSRPTLSPSPRRQVAVLNLPRSFDWVSLLVP------   80 (220)
+Q Consensus         8 ~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~-~w~~~~~~~~~~~~pTP~~qvA~VklPea~D~~~Li~P------   80 (220)
+                      ..+|.++  |  |. ++.+||+||+|.|+|+|.+. +|+                .  -++-+.  ....+-.|      
+T Consensus        47 ~~~a~~~--g--~~-~s~gA~nn~~G~W~E~i~ai~awn----------------~--~~~~~~--~~~vv~LPn~rsfD  101 (283)
+T d1cfra_          47 NDEAIRL--G--GK-ISDGSFNKCNGDWYEWLIGIRAIE----------------F--FLESET--NFIVVKMPNATSFD  101 (283)
+T ss_pred             HHHHHHH--C--CC-CCCCCCCCCCCHHHHHHHHHHHHH----------------H--HHCCCC--CEEEEECCCCCHHH
+T ss_conf             9999860--6--78-440000035762999999999988----------------7--630685--17999768874157
+
+
+Q ss_pred             HHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCC
+Q ss_conf             26788999999998657703278987068973466673
+Q 3dpg_A           81 ESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQN  118 (220)
+Q Consensus        81 ~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~t  118 (220)
+                      |.+-....+.+.|..-.=.|   +..+  ++|..+-|-
+T Consensus       102 ~~~Lf~pe~~~~i~~l~~~l---~~~~--v~LitSnPD  134 (283)
+T d1cfra_         102 VMSIYKSCLSEFIYDLRSKL---SLNN--VNLITSNPD  134 (283)
+T ss_pred             HHHHHHHHHHHHHHHHHHHH---HHHC--CCCCCCCCC
+T ss_conf             89987788999999999866---5502--633169986
+
+
+No 13 
+>d1fiua_ c.52.1.10 (A:) Restriction endonuclease NgoIV {Neisseria gonorrhoeae [TaxId: 485]}
+Probab=83.16   E-value=0.98  Score=22.51  Aligned_columns=86  Identities=19%
+
+Q ss_pred             HHHHHHHHHHHH---------CCCCCCCCCCCCEEEEECCCCCCHHHHH-HHHHCCCHHHHHHHHHHHHHHHCCEEECCE
+Q ss_conf             889999999986---------5770327898706897346667313455-444125814799999998875320100305
+Q 3dpg_A           84 EVIEEFRAGLRK---------DGLGLPTSTPDLAVVVLPEEFQNDEMWR-EEIAGLTRPNQILLSGAYQRLQGRVQPGEI  153 (220)
+Q Consensus        84 ~~i~aiekai~~---------sdlgLiTsnpDgvvIRlp~p~~tee~~~-epI~~LS~en~~~L~~lyk~f~gkie~~~i  153 (220)
+                      ..+.++.+++..         +|-   +=+||.+|+|-|.+-  ++... +.+-+-+.....-|+..    +|  ..-=+
+T Consensus       112 ~HL~~L~~~~~~np~L~a~LG~dY---~I~PDV~V~R~~~~d--~~iN~~~~lvD~~~~~~s~lr~~----n~--~~pil  180 (286)
+T d1fiua_         112 AHLTALAKAAEENPELAAALGSDY---TITPDIIVTRNLIAD--AEINRNEFLVDENIATYASLRAG----NG--NMPLL  180 (286)
+T ss_pred             HHHHHHHHHHHHCCHHHHHHCCCC---EECCCEEEEECCCCH--HHHCCCCCCCCCCCCCCCHHHHC----CC--CCCEE
+T ss_conf             889999999872822011206770---214643786354362--33224444013542210102221----58--98458
+
+
+Q ss_pred             EEEEEEECCCCCCHHHCCHHHHHHHHH
+Q ss_conf             899985112572011043013478876
+Q 3dpg_A          154 SLAVAFKRSLRSDRLYQPLYEANVMQL  180 (220)
+Q Consensus       154 ~~~isvKtS~RsDRryQ~~hEg~~lK~  180 (220)
+                      -+.||-|=|+||||-----+||.-|--
+T Consensus       181 HAsiSCKWTiRSDRaQN~RsEalnLiR  207 (286)
+T d1fiua_         181 HASISCKWTIRSDRAQNARSEGLNLVR  207 (286)
+T ss_pred             EEEEEEEEEECCCHHHHHHHHHHHHHH
+T ss_conf             887777653101113344788888888
+
+
+No 14 
+>d1na6a2 c.52.1.22 (A:179-398) Restriction endonuclease EcoRII, C-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=25.69   E-value=11  Score=16.56  Aligned_columns=31  Identities=29%
+
+Q ss_pred             CCEEEEEEEECCCCCCHHHCCHHHHHHHHHHH
+Q ss_conf             30589998511257201104301347887656
+Q 3dpg_A          151 GEISLAVAFKRSLRSDRLYQPLYEANVMQLLL  182 (220)
+Q Consensus       151 ~~i~~~isvKtS~RsDRryQ~~hEg~~lK~l~  182 (220)
+                      ..-...||+|||.| ||==|.+-|++-++-.+
+T Consensus       137 ~~~l~mLsaKTTlk-dRWrQVl~Ea~Ri~~kh  167 (220)
+T d1na6a2         137 VENLRMLAVKTTCK-DRWRQILNEADKIHQVH  167 (220)
+T ss_pred             CCCEEEEECCHHHH-HHHHHHHHHHHHHHHHE
+T ss_conf             44357764140467-89998888875003423
+
+
+No 15 
+>3bm3_A PSPGI restriction endonuclease; endonuclease-DNA complex, rest
+Probab=23.58   E-value=12  Score=16.54  Aligned_columns=30  Identities=20%
+
+Q ss_pred             CEEEEEEEECCCCCCHHHCCHHHHHHHHHHH
+Q ss_conf             0589998511257201104301347887656
+Q 3dpg_A          152 EISLAVAFKRSLRSDRLYQPLYEANVMQLLL  182 (220)
+Q Consensus       152 ~i~~~isvKtS~RsDRryQ~~hEg~~lK~l~  182 (220)
+                      .=...||+|||.| ||==|.+-||+-++.-+
+T Consensus        58 ~~l~mLsaKTTcK-DRWRQVl~Ea~Ri~~Kf   87 (166)
+T 3bm3_A           58 SSAILITVKRKVR-ERWREAVGEAQILRNKF   87 (166)
+T ss_pred             HHEEEEEHHHHHH-HHHHHHHHHHHHHHHHH
+T ss_conf             3566520002478-99999888888767751
+
+
+No 16 
+>2gb7_A R.ECL18KI; ECL18KI-DNA complex, type II restriction endonuclea
+Probab=21.55   E-value=13  Score=16.24  Aligned_columns=24  Identities=25%
+
+Q ss_pred             EEEEEEECCCCCCHHHCCHHHHHHH
+Q ss_conf             8999851125720110430134788
+Q 3dpg_A          154 SLAVAFKRSLRSDRLYQPLYEANVM  178 (220)
+Q Consensus       154 ~~~isvKtS~RsDRryQ~~hEg~~l  178 (220)
+                      ...||+|||+| ||-=|-+-|++-.
+T Consensus        62 ~~~lsaKtTlr-eRWrQvl~Ea~r~   85 (151)
+T 2gb7_A           62 TMLISAKTTLR-ERWQEVPEEVNRT   85 (151)
+T ss_pred             EEEEEECCHHH-HHHHHHHHHHHHC
+T ss_conf             68897310024-6777777678750
+
+
+No 17 
+>d1d1la_ a.35.1.2 (A:) cro lambda repressor {Bacteriophage lambda [TaxId: 10710]}
+Probab=20.29   E-value=22  Score=14.93  Aligned_columns=29  Identities=21%
+
+Q ss_pred             HHHHHHHHH-CCCCCCCCCCCCEEEE---ECCCC
+Q ss_conf             999999986-5770327898706897---34666
+Q 3dpg_A           87 EEFRAGLRK-DGLGLPTSTPDLAVVV---LPEEF  116 (220)
+Q Consensus        87 ~aiekai~~-sdlgLiTsnpDgvvIR---lp~p~  116 (220)
+                      .+|-|||++ ++.-+ +-.+||++.-   =|||.
+T Consensus        28 ~AISKAlr~gR~I~V-~~~~DGs~~A~EirpFPs   60 (61)
+T d1d1la_          28 SAINKAIHAGRKIFL-TINADGSVYAEEVKPWPS   60 (61)
+T ss_pred             HHHHHHHHCCCEEEE-EECCCCEEEEEECCCCCC
+T ss_conf             787898756981688-874998068885077899
+
+
+Done!

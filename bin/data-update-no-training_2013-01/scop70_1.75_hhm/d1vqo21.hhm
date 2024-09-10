@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1vqo21 a.137.1.1 (2:1-49) Ribosomal protein L39e {Archaeon Haloarcula marismortui [TaxId: 2238]}
+FAM   a.137.1.1
+FILE  d1vqo21
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vqo21.a3m -v 1 
+DATE  Tue Jan 22 03:35:43 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  100 out of 132 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHCCCCCCEEEEECCCEEEECCCCCCCCCCCCCC
+>ss_conf
+9773556788887765079999237885698254474333645466779
+>Consensus
+gxKtxxxKxrLaKxxkQNrpvPxWvxxKTxxkirxnxKRRhWRRtkLkx
+>d1vqo21 a.137.1.1 (2:1-49) Ribosomal protein L39e {Archaeon Haloarcula marismortui [TaxId: 2238]}
+GKKSKATKKRLAKLDNQNSRVPAWVMLKTDREVQRNHKRRHWRRNDTDE
+>gi|424512989|emb|CCO66573.1|(60-106:107) 60S ribosomal protein L39 [Bathycoccus prasinos]   E=7e-06 s/c=1.14 id=40% cov=98%
+-QKTFKIKKILGKKQKQNRPIPQWIRMKTGNTIRYNAKRRHWRRTKLN-
+>gi|386002417|ref|YP_005920716.1|(3-49:49) 50S ribosomal protein L39e [Methanosaeta harundinacea 6Ac] >gi|357210473|gb|AET65093.1| 50S ribosomal protein L39e [Methanosaeta harundinacea 6Ac]  E=1e-05 s/c=1.12 id=50% cov=98%
+-KRTKGKKIRHAKAFCQNRRVPGWVIIKTMRKVVSHPKRRHWRRSNIE-
+>gi|408403892|ref|YP_006861875.1|(39-86:88) 50S ribosomal protein L39e [Candidatus Nitrososphaera gargensis Ga9.2] >gi|408364488|gb|AFU58218.1| 50S ribosomal protein L39e [Candidatus Nitrososphaera gargensis Ga9.2]  E=3e-05 s/c=1.08 id=47% cov=100%
+ARKNTSRKKRLLKRTRQNRPVPTWVVIRTNRKVRTNPKRRLWRRSDVN-
+>gi|288930438|ref|YP_003434498.1|(2-49:50) ribosomal protein L39e [Ferroglobus placidus DSM 10642] >gi|288892686|gb|ADC64223.1| Ribosomal protein L39e [Ferroglobus placidus DSM 10642]  E=0.0002 s/c=1.02 id=49% cov=100%
+GKKTVGVKKRLGKFLKQNRRPPVWVILKTKRRVVTSPKRRFWRHTKLK-
+>gi|302348925|ref|YP_003816563.1|(5-50:51) hypothetical protein ASAC_1127 [Acidilobus saccharovorans 345-15] >gi|302329337|gb|ADL19532.1| hypothetical protein ASAC_1127 [Acidilobus saccharovorans 345-15]  E=0.0006 s/c=1.03 id=47% cov=96%
+--KPLARKLRLAKAFKSNQPVPAWVIVKTLRKFTLNPRRRHWRVSKLK-
+>gi|342319786|gb|EGU11732.1|(5-44:46) Hypothetical Protein RTG_02193 [Rhodotorula glutinis ATCC 204091]   E=7e-05 s/c=1.25 id=41% cov=84%
+--KSFRTKVHLAKAAKQNRPIPQWFRLKADSKIQYNGAYHPW-------
+>gi|13540840|ref|NP_110528.1|(5-50:51) 50S ribosomal protein L39e [Thermoplasma volcanium GSS1] >gi|17368562|sp|Q97CU2.1|RL39_THEVO RecName: Full=50S ribosomal protein L39e >gi|14324223|dbj|BAB59151.1| ribosomal protein large subunit L39 [Thermoplasma volcanium GSS1]  E=0.0002 s/c=1.05 id=47% cov=96%
+--KELGRKIRLMKKVKQNRRVPGWVMMRTARKVTQNPLRRNWRRGNLK-
+>gi|336121628|ref|YP_004576403.1|(5-51:51) 50S ribosomal protein L39e [Methanothermococcus okinawensis IH1] >gi|334856149|gb|AEH06625.1| 50S ribosomal protein L39e [Methanothermococcus okinawensis IH1]  E=0.0004 s/c=1.01 id=42% cov=98%
+--KPHAKKLRLGKALKQNRRVPLFAVAKTKGKVRNHPKMRNWRRNNLKK
+>gi|346430333|emb|CCC55590.1|(4-50:50) 50S ribosomal protein L39e [uncultured archaeon]   E=0.0008 s/c=0.98 id=47% cov=96%
+-RKDASEKKFYMAKLRENSPVPAWVMLKTNRRVRFNFKRRDWRHRKL--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    2219	*	*	*	*	349	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2315	0	0	
+
+K 2    *	*	5058	*	*	*	4038	*	1333	*	*	*	*	2020	1913	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2871	0	0	
+
+K 3    *	*	*	*	*	*	*	*	164	4636	*	6018	*	*	5248	6177	*	6390	*	*	3
+       0	*	*	*	*	*	*	3151	0	0	
+
+S 4    6137	*	5806	6193	*	5037	6271	*	6121	*	6061	6136	2347	*	*	2413	1050	*	*	*	4
+       0	*	*	*	*	*	*	3151	0	0	
+
+K 5    5028	6918	*	*	1437	*	6446	*	2634	1861	*	*	*	*	*	3759	6136	4337	*	7306	5
+       0	*	*	*	*	*	*	3151	0	0	
+
+A 6    2837	*	*	*	6123	1536	*	5263	3401	*	*	5709	5121	*	1948	4002	6549	*	*	*	6
+       0	*	*	*	*	*	*	3148	0	0	
+
+T 7    *	*	*	4871	5712	*	*	1945	2361	4378	5216	6842	*	4256	2722	*	3378	3759	*	4844	7
+       0	*	*	*	*	*	*	3148	0	0	
+
+K 8    *	*	*	4854	*	*	*	*	51	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3159	0	0	
+
+K 9    *	*	*	*	6644	*	*	2664	2479	2361	4765	*	*	2662	2492	6512	5304	4338	*	*	9
+       0	*	*	*	*	*	*	3173	0	0	
+
+R 10   *	*	*	*	2220	*	4741	5271	3206	6265	*	*	*	*	825	5649	5950	*	*	*	10
+       0	*	*	*	*	*	*	3174	0	0	
+
+L 11   *	*	*	*	5980	*	6083	*	*	139	5819	*	*	6315	*	*	*	*	*	5009	11
+       0	*	*	*	*	*	*	3195	0	0	
+
+A 12   760	*	5693	4994	*	2694	*	5844	*	5466	4000	*	6260	6108	*	4101	6738	7249	*	*	12
+       0	*	*	*	*	*	*	3195	0	0	
+
+K 13   4199	*	*	6260	*	*	*	*	254	*	*	*	*	*	3707	5846	*	*	*	*	13
+       0	*	*	*	*	*	*	3195	0	0	
+
+L 14   1204	6218	*	*	5251	*	*	*	1258	5105	*	5337	*	5654	6262	*	*	*	*	5558	14
+       0	*	*	*	*	*	*	3195	0	0	
+
+D 15   4240	4409	6812	4644	5308	4737	4430	4070	6628	2163	4423	5834	*	2016	4790	*	3935	5515	*	6143	15
+       16	6521	*	0	*	*	*	3195	1000	0	
+
+N 16   6670	6083	6473	4180	*	*	5693	*	533	*	6192	5007	*	*	2793	*	*	6701	*	*	16
+       0	*	*	*	*	*	*	3195	0	0	
+
+Q 17   5718	*	*	5073	*	*	*	*	6521	*	*	*	*	346	6293	3082	*	5475	*	*	17
+       0	*	*	*	*	*	*	3195	0	0	
+
+N 18   5375	*	*	*	*	*	*	*	7339	*	*	134	*	*	*	5967	6521	*	*	4975	18
+       0	*	*	*	*	*	*	3195	0	0	
+
+S 19   6108	4860	*	*	*	*	3247	*	6828	*	*	*	*	4474	614	2943	6875	*	*	*	19
+       0	*	*	*	*	*	*	3195	0	0	
+
+R 20   3670	*	6253	*	*	5693	*	*	*	*	*	5846	904	*	1700	5086	*	*	*	*	20
+       0	*	*	*	*	*	*	3195	0	0	
+
+V 21   5708	*	*	*	*	*	*	1635	*	3759	5642	*	3809	*	*	*	6781	1045	*	*	21
+       0	*	*	*	*	*	*	3195	0	0	
+
+P 22   *	*	*	*	*	*	5337	*	*	*	*	*	36	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3195	0	0	
+
+A 23   2256	*	*	*	*	4771	4360	5270	*	3696	6192	4659	5928	1445	5967	6670	3926	3868	*	7579	23
+       0	*	*	*	*	*	*	3195	0	0	
+
+W 24   *	6001	*	*	4843	*	*	*	*	*	*	*	*	*	*	*	*	*	75	*	24
+       0	*	*	*	*	*	*	3195	0	0	
+
+V 25   5172	*	*	*	2931	*	*	1616	*	*	*	*	*	*	*	*	5074	1133	*	5094	25
+       0	*	*	*	*	*	*	3195	0	0	
+
+M 26   7079	*	*	*	*	*	4673	2261	*	*	2508	*	6315	3199	1707	*	5088	3729	4786	*	26
+       0	*	*	*	*	*	*	3195	0	0	
+
+L 27   4445	*	*	*	5221	*	*	2472	*	1912	1727	*	*	*	*	*	*	2738	*	5088	27
+       0	*	*	*	*	*	*	3195	0	0	
+
+K 28   *	7010	*	*	*	*	*	*	368	*	*	4156	*	*	2779	*	6001	*	*	*	28
+       0	*	*	*	*	*	*	3195	0	0	
+
+T 29   5071	*	*	*	*	*	*	*	6218	*	*	5027	*	*	*	4592	177	*	*	*	29
+       0	*	*	*	*	*	*	3195	0	0	
+
+D 30   6218	*	2231	*	*	1473	*	*	2645	6575	6083	2660	*	6293	4857	5453	*	*	*	*	30
+       0	*	*	*	*	*	*	3195	0	0	
+
+R 31   6293	*	*	*	*	3720	6049	*	*	*	6089	1482	*	7003	1363	4637	3891	*	*	5693	31
+       0	*	*	*	*	*	*	3195	0	0	
+
+E 32   4510	*	5045	4860	*	6078	7069	*	1001	*	*	4564	*	6297	2557	5100	3116	*	*	*	32
+       0	*	*	*	*	*	*	3241	0	0	
+
+V 33   *	*	*	*	4389	*	*	1119	*	*	6156	5304	*	*	*	*	4594	1283	*	*	33
+       0	*	*	*	*	*	*	3241	0	0	
+
+Q 34   7003	*	*	*	5677	*	*	5609	5675	6056	5157	5660	*	4439	748	6730	3214	3169	*	*	34
+       0	*	*	*	*	*	*	3241	0	0	
+
+R 35   6460	6546	6122	*	4428	5226	4617	7241	*	5882	*	5515	*	5487	3510	3512	2958	7226	6566	1119	35
+       0	*	*	*	*	*	*	3241	0	0	
+
+N 36   *	*	4877	*	*	*	2317	*	*	*	*	564	*	*	*	3764	*	*	*	6044	36
+       0	*	*	*	*	*	*	3211	0	0	
+
+H 37   2875	*	*	*	4097	5752	6635	*	*	6823	7317	*	1133	*	*	2052	5009	5336	*	6878	37
+       0	*	*	*	*	*	*	3211	0	0	
+
+K 38   4144	*	*	*	*	*	6607	*	313	4272	*	*	*	5016	4450	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3211	0	0	
+
+R 39   *	*	*	6402	*	*	*	*	5990	*	4151	*	*	5402	228	*	*	*	5616	5752	39
+       0	*	*	*	*	*	*	3211	0	0	
+
+R 40   *	*	*	*	*	5060	5148	*	*	*	*	*	*	*	106	*	6325	*	*	*	40
+       0	*	*	*	*	*	*	3211	0	0	
+
+H 41   4424	6716	5209	*	4924	*	907	*	*	5345	*	2202	5752	5289	6169	5437	*	*	*	5180	41
+       0	*	*	*	*	*	*	3211	0	0	
+
+W 42   *	*	*	*	5616	*	*	*	*	*	*	*	*	*	*	*	*	4962	78	*	42
+       0	*	*	*	*	*	*	3211	0	0	
+
+R 43   *	*	*	*	*	5893	*	*	*	5928	*	5378	*	*	135	*	4960	*	*	*	43
+       0	*	*	*	*	*	*	3187	0	0	
+
+R 44   *	*	*	*	*	*	4786	*	6728	*	*	*	*	6094	220	4477	6163	5506	*	*	44
+       0	*	*	*	*	*	*	3187	0	0	
+
+N 45   4736	*	*	*	*	6172	6308	*	*	*	*	2610	*	*	4553	2209	1013	5804	*	*	45
+       0	*	*	*	*	*	*	3153	0	0	
+
+D 46   *	*	2963	*	*	*	*	*	682	*	*	3193	*	*	4760	3685	6190	6526	*	*	46
+       0	*	*	*	*	*	*	3150	0	0	
+
+T 47   *	*	*	*	*	*	*	4281	*	266	5292	*	*	*	*	*	4772	4189	*	*	47
+       0	*	*	*	*	*	*	3152	0	0	
+
+D 48   *	*	3152	3361	*	*	*	*	653	*	*	3132	6136	5273	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2899	0	0	
+
+E 49   *	*	*	305	*	*	*	*	2391	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	0	*	*	*	1786	0	0	
+
+//

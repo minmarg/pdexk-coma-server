@@ -1,0 +1,156 @@
+HHsearch 1.5
+NAME  d2ds5a1 g.39.1.11 (A:11-48) ClpX chaperone zinc binding domain {Escherichia coli [TaxId: 562]}
+FAM   g.39.1.11
+FILE  d2ds5a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ds5a1.a3m -v 1 
+DATE  Tue Jan 22 06:33:22 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  100 out of 588 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.2 
+SEQ
+>ss_pred
+CEEECCCCCCHHHHHHHCCCCCCCCCHHHHHHHHHHCC
+>ss_conf
+93404579896652331049994072678999998529
+>Consensus
+xixCSFCGkxxxevxxLIxGxxxxICxxCvxxcxxilk
+>d2ds5a1 g.39.1.11 (A:11-48) ClpX chaperone zinc binding domain {Escherichia coli [TaxId: 562]}
+LLYCSFCGKSQHEVRKLIAGPSVYICDECVDLCNDIIR
+>gi|313675246|ref|YP_004053242.1|(8-44:412) ATP-dependent clp protease ATP-binding subunit clpx [Marivirga tractuosa DSM 4126] >gi|312941944|gb|ADR21134.1| ATP-dependent Clp protease ATP-binding subunit ClpX [Marivirga tractuosa DSM 4126]  E=2e-06 s/c=1.48 id=34% cov=100%
+-VTCSFCGRNKKDVDLMISGIHAHICDKCIAQAQQILQ
+>gi|91203982|emb|CAJ71635.1|(10-47:420) strongly similar to ATPase subunit [Candidatus Kuenenia stuttgartiensis]  E=3e-06 s/c=1.43 id=39% cov=100%
+-MTCSFCGRNREAIGRLIQGNaNSFICNECVDTCYMLFK
+>gi|291530697|emb|CBK96282.1|(1-37:430) ATP-dependent Clp protease ATP-binding subunit ClpX [Eubacterium siraeum 70/3]  E=7e-06 s/c=1.44 id=32% cov=100%
+MLRCSFCERTEDQVERIIYGASGCICNDCIVASYQML-
+>gi|291543931|emb|CBL17040.1|(7-41:421) ATP-dependent Clp protease ATP-binding subunit ClpX [Ruminococcus champanellensis 18P13]  E=1e-05 s/c=1.50 id=39% cov=95%
+--KCNFCGKGENKVQSMFSAGDVNICDECVCYCYELL-
+>gi|254785701|ref|YP_003073130.1|(7-42:431) ATP-dependent protease ATP-binding subunit ClpX [Teredinibacter turnerae T7901] >gi|237686761|gb|ACR14025.1| ATP-dependent Clp protease, ATP-binding subunit ClpX [Teredinibacter turnerae T7901]  E=0.0002 s/c=1.34 id=35% cov=97%
+-IHCSFCGVEKSAQVPLISGNEGRICEACVKLAHQVV-
+>gi|333980101|ref|YP_004518046.1|(70-103:111) hypothetical protein Desku_2729 [Desulfotomaculum kuznetsovii DSM 6115] >gi|333823582|gb|AEG16245.1| hypothetical protein Desku_2729 [Desulfotomaculum kuznetsovii DSM 6115]  E=0.0008 s/c=1.36 id=40% cov=92%
+---CSFCDKTEKQVDFLLTNHTLFICNECISLCKKIL-
+>gi|206895573|ref|YP_002247154.1|(5-41:417) ATP-dependent Clp protease ATP-binding subunit ClpX [Coprothermobacter proteolyticus DSM 5265] >gi|206738190|gb|ACI17268.1| ATP-dependent Clp protease, ATP-binding subunit ClpX [Coprothermobacter proteolyticus DSM 5265]  E=4e-08 s/c=1.64 id=38% cov=97%
+-IRCSFCGRTADEVDQMLAWPNGlYICNYCVEDAHKLL-
+>gi|383455712|ref|YP_005369701.1|(277-312:561) TPR repeat-containing ClpX C4-type zinc finger protein [Corallococcus coralloides DSM 2259] >gi|380729401|gb|AFE05403.1| TPR repeat-containing ClpX C4-type zinc finger protein [Corallococcus coralloides DSM 2259]  E=0.0004 s/c=1.32 id=36% cov=95%
+--WCSFCCRPRGEVGDLVAGPaGAFICKGCLGESQGLL-
+>gi|310830518|ref|YP_003965619.1|(4-39:395) ATP-dependent Clp protease ATP-binding subunit clpX [Paenibacillus polymyxa SC2] >gi|309249985|gb|ADO59551.1| ATP-dependent Clp protease ATP-binding subunit clpX [Paenibacillus polymyxa SC2]  E=7e-05 s/c=1.38 id=35% cov=97%
+--RCSFCGRLESPQLPVIEGASALICKECAETCVEEMQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	2978	*	*	2624	*	1524	2522	*	*	*	*	*	*	2403	*	*	1
+       0	*	*	*	*	*	*	3283	0	0	
+
+L 2    5469	*	*	*	5669	*	*	1563	*	1320	3903	*	*	*	*	*	4817	3102	*	*	2
+       0	*	*	*	*	*	*	3837	0	0	
+
+Y 3    6166	*	*	6404	6517	6060	2505	4729	2901	5529	5987	6739	*	*	1801	6778	4235	4566	4808	2981	3
+       0	*	*	*	*	*	*	4207	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	4309	0	0	
+
+S 5    5305	*	*	*	6337	*	*	*	*	4816	*	4271	*	*	*	274	6016	4947	*	*	5
+       0	*	*	*	*	*	*	4309	0	0	
+
+F 6    *	5699	*	*	106	*	*	*	*	4947	*	*	*	*	*	*	*	*	*	5724	6
+       0	*	*	*	*	*	*	4309	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	4309	0	0	
+
+G 8    6148	6228	5473	6362	*	399	*	*	4857	*	6597	4038	*	6771	4696	5248	*	*	*	*	8
+       0	*	*	*	*	*	*	4309	0	0	
+
+K 9    5341	*	*	6214	*	*	*	4948	1198	*	6921	*	*	*	1224	5525	6436	6246	*	6541	9
+       0	*	*	*	*	*	*	4309	0	0	
+
+S 10   4684	*	4923	4604	*	3438	5793	*	3741	4625	*	4075	2555	5269	6851	1893	3096	*	*	6499	10
+       0	*	*	*	*	*	*	4309	0	0	
+
+Q 11   2947	*	6148	1710	*	5699	5264	6426	3055	*	*	5332	6585	3226	2879	3935	6163	*	*	5977	11
+       0	*	*	*	*	*	*	4309	0	0	
+
+H 12   4942	*	2428	2640	*	4895	4678	*	4077	6319	*	3297	5175	4601	4701	2487	3734	7082	*	7196	12
+       0	*	*	*	*	*	*	4309	0	0	
+
+E 13   3963	*	2921	1146	*	*	*	5561	3739	*	5842	6436	5610	2547	*	6210	5527	*	*	*	13
+       11	6985	*	1000	1000	*	*	4309	1000	0	
+
+V 14   3699	*	4228	5368	*	6526	6396	4368	*	*	*	*	*	4893	6581	6398	3851	624	*	*	14
+       0	*	*	*	*	*	*	4309	0	0	
+
+R 15   4379	*	2855	3084	5976	2774	5670	6526	3582	5074	*	3484	5790	4753	2960	4994	4584	4928	*	6499	15
+       0	*	*	*	*	*	*	4309	0	0	
+
+K 16   4786	*	6228	4893	4220	5884	4353	6540	2265	3864	4282	4828	3211	4225	2656	4638	4923	5065	*	*	16
+       0	*	*	*	*	*	*	4309	0	0	
+
+L 17   *	*	*	*	*	*	*	3437	*	518	2604	*	*	*	*	*	*	4486	*	*	17
+       0	*	*	*	*	*	*	4309	0	0	
+
+I 18   5482	*	*	*	4822	*	*	761	*	3292	*	*	*	*	*	*	*	1999	*	*	18
+       21	6086	*	0	*	*	*	4309	1000	0	
+
+A 19   1676	*	*	3329	6426	4066	*	5550	6999	4620	5482	*	6348	3603	6948	2467	3199	5686	*	6362	19
+       41	5172	*	936	1067	*	*	4309	1384	0	
+
+G 20   3787	*	*	*	*	299	*	*	*	*	*	5473	*	6319	*	4158	*	6294	6527	*	20
+       55	4740	*	387	2086	*	*	4309	1754	0	
+
+P 21   3646	*	3750	3911	*	6155	5052	3686	4980	5367	4947	4624	1231	6540	*	4778	4982	5399	*	*	21
+       190	3022	*	0	*	*	*	4309	2831	0	
+
+S 22   4341	*	2475	3777	5589	1618	3844	*	5706	*	*	2963	*	6713	*	3526	4725	*	*	*	22
+       134	3499	*	560	1636	*	*	4309	2682	0	
+
+V 23   2166	*	*	*	5699	1917	*	3526	*	5158	*	6086	*	*	*	5000	5575	1683	*	*	23
+       80	4210	*	456	1885	*	*	4309	2401	0	
+
+Y 24   3726	4841	*	*	2070	4947	3497	*	*	5167	*	3174	*	6148	5404	3643	*	*	6163	1943	24
+       0	*	*	*	*	*	*	4309	0	0	
+
+I 25   5589	*	*	*	*	*	*	79	*	*	*	*	*	*	*	*	*	4947	*	*	25
+       0	*	*	*	*	*	*	4309	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	4309	0	0	
+
+D 27   4108	*	1537	3151	*	5510	*	5482	4014	*	*	1948	6788	*	6470	3335	*	*	*	*	27
+       0	*	*	*	*	*	*	4309	0	0	
+
+E 28   4567	*	2921	1336	4746	4849	4545	7064	5355	5724	6426	3546	*	4398	3858	6642	6210	*	*	5214	28
+       0	*	*	*	*	*	*	4309	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	4309	0	0	
+
+V 30   4289	*	*	*	*	*	*	1306	*	4525	*	*	*	*	*	*	4673	1115	*	*	30
+       0	*	*	*	*	*	*	4305	0	0	
+
+D 31   3165	6147	3289	1780	5358	5108	6493	*	3694	5773	5128	4601	*	4348	4056	3853	5093	4527	*	*	31
+       0	*	*	*	*	*	*	4299	0	0	
+
+L 32   4920	*	5592	3661	5426	5353	6070	3721	5580	1851	4400	*	*	3465	4654	3670	3060	4630	*	6142	32
+       0	*	*	*	*	*	*	4295	0	0	
+
+C 33   1797	893	*	*	6731	4869	*	*	*	6717	5714	*	*	*	*	3658	6481	6504	*	*	33
+       0	*	*	*	*	*	*	4295	0	0	
+
+N 34   3841	*	*	4881	6257	4247	3334	*	4978	*	6671	2611	*	3448	*	2883	5913	3804	*	2246	34
+       0	*	*	*	*	*	*	4290	0	0	
+
+D 35   4557	*	2796	1983	*	4430	6134	6478	3337	6839	5691	3479	*	3069	5300	3218	5640	*	*	*	35
+       0	*	*	*	*	*	*	4282	0	0	
+
+I 36   4938	*	*	5493	*	*	*	1053	*	2460	3434	*	*	*	*	*	*	2781	*	4525	36
+       0	*	*	*	*	*	*	4263	0	0	
+
+I 37   *	*	*	*	5410	*	*	1691	*	1049	3659	*	*	*	*	*	*	3262	*	*	37
+       0	*	*	*	*	*	*	4255	0	0	
+
+R 38   *	*	*	*	*	*	*	*	1182	*	*	*	*	2004	1689	*	*	*	*	*	38
+       0	*	*	0	*	*	*	3801	0	0	
+
+//

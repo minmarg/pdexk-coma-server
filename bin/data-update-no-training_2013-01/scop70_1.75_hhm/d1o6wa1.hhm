@@ -1,0 +1,127 @@
+HHsearch 1.5
+NAME  d1o6wa1 b.72.1.1 (A:1-29) Splicing factor prp40 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   b.72.1.1
+FILE  d1o6wa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1o6wa1.a3m -v 1 
+DATE  Tue Jan 22 00:14:35 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  135 out of 565 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.1 
+SEQ
+>ss_pred
+CCCCEEEECCCCCEEEEECCCCCEEECCC
+>ss_conf
+98751456799976676689990463189
+>Consensus
+msxWxexxxxxGxxYYyNxxTxesxWexP
+>d1o6wa1 b.72.1.1 (A:1-29) Splicing factor prp40 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+MSIWKEAKDASGRIYYYNTLTKKSTWEKP
+>gi|344304264|gb|EGW34513.1|(1-29:598) hypothetical protein SPAPADRAFT_149506 [Spathaspora passalidarum NRRL Y-27907]  E=0.0001 s/c=1.70 id=37% cov=103%
+MSDWEKVTSEDGQVYYYNSKTNETSWTLP
+>gi|156083038|ref|XP_001609003.1|(240-268:420) RNA recognition motif. (a.k.a. RRM, RBD, or RNP) domain containing protein [Babesia bovis T2Bo] >gi|154796253|gb|EDO05435.1| RNA recognition motif. (a.k.a. RRM, RBD, or RNP) domain containing protein [Babesia bovis]  E=1e-06 s/c=1.92 id=33% cov=103%
+IGVWREYLSPEGKPYFYNEQTGHTQWERP
+>gi|71022563|ref|XP_761511.1|(8-33:660) hypothetical protein UM05364.1 [Ustilago maydis 521] >gi|46101380|gb|EAK86613.1| hypothetical protein UM05364.1 [Ustilago maydis 521]  E=2e-06 s/c=2.13 id=41% cov=93%
+---WTEHRTPEGRPYWYHSVERRSVWEKP
+>gi|167517985|ref|XP_001743333.1|(26-51:351) hypothetical protein [Monosiga brevicollis MX1] >gi|163778432|gb|EDQ92047.1| predicted protein [Monosiga brevicollis MX1]  E=0.0004 s/c=1.83 id=37% cov=93%
+---WQSHVASNGKTYFFNVKTKESRWEPP
+>gi|325186516|emb|CCA21056.1|(19-47:480) conserved hypothetical protein [Albugo laibachii Nc14]   E=0.0004 s/c=1.63 id=40% cov=103%
+LGDWTAHADDDNRIYYYNYETHESVWTPP
+>gi|302693579|ref|XP_003036468.1|(12-38:718) hypothetical protein SCHCODRAFT_80199 [Schizophyllum commune H4-8] >gi|300110165|gb|EFJ01566.1| hypothetical protein SCHCODRAFT_80199 [Schizophyllum commune H4-8]  E=0.0006 s/c=1.74 id=39% cov=97%
+--NWTEHIGPGGVKYYYNGITQESTYIRP
+>gi|348670643|gb|EGZ10464.1|(471-499:1714) hypothetical protein PHYSODRAFT_520549 [Phytophthora sojae]   E=0.0003 s/c=1.64 id=40% cov=103%
+MNGWEEAFDAEGQTYYYHEVDGTTQWDPP
+>gi|195425471|ref|XP_002061027.1|(174-199:1099) GK10721 [Drosophila willistoni] >gi|194157112|gb|EDW72013.1| GK10721 [Drosophila willistoni]  E=0.001 s/c=1.77 id=41% cov=93%
+---WEERRTDNGRFYYVNHATKSTQWDRP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	3231	*	2051	1162	*	*	*	*	*	*	2286	*	*	1
+       0	*	*	*	*	*	*	3621	0	0	
+
+S 2    3557	6073	5125	6612	*	3865	*	*	6202	*	*	3474	6264	5573	6141	1024	2745	*	*	*	2
+       0	*	*	*	*	*	*	4050	0	0	
+
+I 3    4176	*	2522	4390	6353	3896	5437	4367	5492	3076	6581	3617	4289	5236	6056	4745	5754	2391	*	*	3
+       0	*	*	*	*	*	*	4081	0	0	
+
+W 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	4
+       0	*	*	*	*	*	*	4069	0	0	
+
+K 5    5462	6104	6935	3491	6712	6689	6261	5580	2162	5650	*	5647	*	3390	3678	3337	2389	3858	7025	6773	5
+       0	*	*	*	*	*	*	4069	0	0	
+
+E 6    3054	*	*	723	*	*	6447	5284	5158	*	*	*	*	4040	6588	5099	4215	4195	*	*	6
+       0	*	*	*	*	*	*	4069	0	0	
+
+A 7    2722	*	*	6141	3273	5744	1762	7110	7181	4887	6825	*	*	5220	5967	5127	5508	4054	*	2273	7
+       0	*	*	*	*	*	*	4069	0	0	
+
+K 8    4622	*	6970	5034	4271	*	6059	4319	1796	4842	*	7305	*	4392	2952	7189	2710	3485	6212	4815	8
+       0	*	*	*	*	*	*	4069	0	0	
+
+D 9    2583	5363	2449	6983	*	6472	*	*	6345	*	6685	3968	*	*	*	2818	1401	*	*	*	9
+       49	5160	7581	0	*	*	*	4069	1766	0	
+
+A 10   2828	*	3116	2611	*	5526	*	*	4425	*	5678	*	1479	6779	5771	3469	5961	*	*	*	10
+       17	6442	*	0	*	0	*	4071	1433	1000	
+
+S 11   4947	*	1307	2162	*	5041	6865	*	4468	*	*	2994	*	4215	*	4409	5087	*	*	*	11
+       10	7156	*	0	*	*	*	4069	1000	0	
+
+G 12   *	*	5679	*	*	114	*	*	*	*	*	4538	*	*	*	6187	*	*	*	*	12
+       10	7110	*	1000	1000	*	*	4069	1000	0	
+
+R 13   5777	*	7036	5540	*	*	4366	5903	1933	5573	6900	4937	*	4511	1508	5384	4432	4575	6673	4442	13
+       0	*	*	*	*	*	*	4069	0	0	
+
+I 14   5339	*	6447	4867	5267	*	6282	3886	2775	4053	6507	*	2429	*	5593	4291	2198	2939	*	*	14
+       0	*	*	*	*	*	*	4069	0	0	
+
+Y 15   *	*	*	*	4172	*	*	*	*	*	*	*	*	*	*	*	*	*	*	82	15
+       0	*	*	*	*	*	*	4069	0	0	
+
+Y 16   *	*	*	*	3303	*	*	*	*	*	*	*	*	*	*	*	*	*	3703	283	16
+       0	*	*	*	*	*	*	4069	0	0	
+
+Y 17   6493	*	*	*	3092	*	3209	*	*	*	*	*	*	*	*	5615	*	4984	3424	694	17
+       0	*	*	*	*	*	*	4069	0	0	
+
+N 18   *	*	6021	*	*	*	2804	*	*	*	*	284	*	*	*	5638	*	*	*	*	18
+       0	*	*	*	*	*	*	4069	0	0	
+
+T 19   3036	5039	5476	4145	*	5530	4808	4922	2941	5772	5749	*	4093	6124	4645	2737	2891	3296	*	6411	19
+       0	*	*	*	*	*	*	4069	0	0	
+
+L 20   4132	*	6383	2791	*	6759	*	2847	2952	5174	6200	5257	*	4535	3231	4223	4294	2415	*	*	20
+       9	*	7268	*	*	*	*	4069	0	0	
+
+T 21   *	*	6012	6609	6211	*	*	*	5787	5926	*	*	*	*	*	4220	197	*	*	*	21
+       0	*	*	*	*	0	*	4073	0	1000	
+
+K 22   *	6089	*	4949	6638	1948	6411	*	1930	*	5370	3168	*	3689	2416	6777	*	*	*	*	22
+       0	*	*	*	*	*	*	4069	0	0	
+
+K 23   4660	*	*	1011	*	6841	5859	*	3850	*	*	*	*	2834	4572	4942	5010	3023	*	*	23
+       0	*	*	*	*	*	*	4069	0	0	
+
+S 24   6282	*	*	*	*	*	*	*	6229	*	*	*	6684	*	6669	866	1446	4697	*	*	24
+       0	*	*	*	*	*	*	4069	0	0	
+
+T 25   6387	*	6664	*	*	*	*	*	4741	*	*	*	*	1879	3670	3140	1747	2481	*	*	25
+       0	*	*	*	*	*	*	4069	0	0	
+
+W 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5730	*	174	3399	26
+       0	*	*	*	*	*	*	4069	0	0	
+
+E 27   5844	*	2499	1110	*	*	7268	5245	5039	6530	*	6828	*	5014	7156	5520	2619	4765	*	*	27
+       0	*	*	*	*	*	*	4069	0	0	
+
+K 28   6689	6638	5961	7062	6105	*	5792	4983	1340	4618	4173	5638	3177	5992	2108	7010	*	6025	*	*	28
+       0	*	*	*	*	*	*	4069	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	4069	0	0	
+
+//

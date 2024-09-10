@@ -1,0 +1,271 @@
+HHsearch 1.5
+NAME  d1of9a_ a.64.1.4 (A:) Ameobapore A {Entamoeba histolytica [TaxId: 5759]}
+FAM   a.64.1.4
+FILE  d1of9a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1of9a_.a3m -v 1 
+DATE  Tue Jan 22 00:20:37 2013
+LENG  77 match states, 77 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHCCC
+>ss_conf
+94102778989999999886023889999998861112379999999999734899999987057788998743279
+>Consensus
+gpilCxlCxxlvxxlexLxxxxgxdxVxxYidxLCxkaxgxxxtlCxkixsfGidkLIxxIxxxxdxxxICxxixAC
+>d1of9a_ a.64.1.4 (A:) Ameobapore A {Entamoeba histolytica [TaxId: 5759]}
+GEILCNLCTGLINTLENLLTTKGADKVKDYISSLCNKASGFIATLCTKVLDFGIDKLIQLIEDKVDANAICAKIHAC
+>gi|32364679|gb|AAP80379.1|(23-99:99) invapore A [Entamoeba invadens]   E=6e-24 s/c=1.48 id=71% cov=101%
+GKIVCNLCKDLIITLENLLTSKGADKVKEYIDNLCGKVSGFLAGLCTKVLDFGVDKLIEMINNKVDPATICSKIHAC
+>gi|407037578|gb|EKE38700.1|(20-96:96) nonpathogenic pore-forming peptide precursor, putative [Entamoeba nuttalli P19]  E=2e-18 s/c=1.24 id=55% cov=101%
+GAILCNLCKDTVKLVENLLTVDGAQAVRQYIDNLCGKANGFLSTLCEKILSFGVDELVKLIENHVDPVVVCEKIHAC
+>gi|167389260|ref|XP_001738886.1|(26-101:101) Pore-forming peptide ameobapore C precursor [Entamoeba dispar SAW760] >gi|6119729|gb|AAF04196.1|AF082529_1 pore-forming protein isoform C precursor [Entamoeba dispar] >gi|165897638|gb|EDR24723.1| Pore-forming peptide ameobapore C precursor, putative [Entamoeba dispar SAW760]  E=3e-10 s/c=0.90 id=42% cov=100%
+-PVVCPVCTSLVGKLIDFVIGGAVDKATDYLETLCAKADGVIETVCSKIVSYGIDKLIEKIIEGGSAKLICGLIHAC
+>gi|32364681|gb|AAP80380.1|(20-96:96) invapore B [Entamoeba invadens]   E=5e-18 s/c=1.22 id=50% cov=101%
+GLLLCNLCKDTIDMLEKLIVVDGADAVRQYISNLCSDVSGFLGTLCSTFLNFGVDELIKMIENHVDKVTICTNMGAC
+>gi|67481359|ref|XP_656029.1|(26-101:101) amoebapore C [Entamoeba histolytica HM-1:IMSS] >gi|2498768|sp|Q24825.1|PFPC_ENTHI RecName: Full=Pore-forming peptide ameobapore C; AltName: Full=EH-APP; Flags: Precursor >gi|509764|emb|CAA54225.1| precursor of amoebapore C [Entamoeba histolytica] >gi|56473208|gb|EAL50647.1| amoebapore C [Entamoeba histolytica HM-1:IMSS]  E=1e-16 s/c=1.17 id=47% cov=100%
+-PVLCPVCTSLVGKLIDLVLGGAVDKVTDYLETLCAKADGLVETLCTKIVSYGIDKLIEKILEGGSAKLICGLIHAC
+>gi|2350913|dbj|BAA21986.1|(21-83:87) amoebapore C homologue [Entamoeba histolytica]   E=8e-10 s/c=1.06 id=41% cov=83%
+-PVLCPVCTSLVGKLVDLVLGGAGDNVTHYLDTLCPKADGLVATLCTPIASFGIAKLLASILAG-------------
+>gi|32364683|gb|AAP80381.1|(2-77:77) invapore X, partial [Entamoeba invadens]   E=0.0001 s/c=0.65 id=30% cov=100%
+-PAVCSWCKTLIGQIEQLQAKHGRQTVEDYIDELCSIATDEALQVCKDWEAYGMSKVIDAIMAQEDPTAVCKATGSC
+>gi|67480973|ref|XP_655836.1|(4-92:92) nonpathogenic pore-forming peptide precursor [Entamoeba histolytica HM-1:IMSS] >gi|56473000|gb|EAL50450.1| nonpathogenic pore-forming peptide precursor, putative [Entamoeba histolytica HM-1:IMSS]  E=9e-22 s/c=1.27 id=64% cov=101%
+GPIVCNLCIGLVNTLDGLIVNKGADRVKNYIDDLCGKADGFIAQLCEKLLSFGLDKLIDLIQSKVDPNAICAQMNAC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1738	0	0	
+
+E 2    3231	*	*	3487	*	*	*	*	3431	3089	*	*	751	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 3    2452	*	*	*	*	*	*	1349	*	3089	*	*	*	*	*	*	*	1703	*	*	3
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 4    *	*	*	*	*	*	*	*	*	968	*	*	*	*	*	*	*	1033	*	*	4
+       0	*	*	*	*	*	*	2594	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2594	0	0	
+
+N 6    *	*	*	*	*	*	*	*	*	*	*	971	1703	*	*	2452	*	*	*	*	6
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	971	*	*	*	*	*	*	*	1703	2452	*	7
+       0	*	*	*	*	*	*	2594	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 9    *	*	*	*	*	*	*	3264	1001	*	*	*	*	*	*	*	1335	*	*	*	9
+       0	*	*	*	*	*	*	2594	0	0	
+
+G 10   *	*	1659	*	*	2371	*	*	*	*	*	*	*	*	*	1703	2452	*	*	*	10
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	366	*	*	*	*	*	*	2158	*	*	*	11
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 12   *	*	*	*	*	*	*	1052	*	*	*	*	*	*	*	*	*	949	*	*	12
+       0	*	*	*	*	*	*	2594	0	0	
+
+N 13   *	*	3089	*	*	1029	*	3431	3231	*	*	2371	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 14   *	*	*	*	*	*	*	*	1703	3231	3089	*	*	2452	*	*	1806	*	*	*	14
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 15   *	*	*	*	*	*	*	2452	*	493	*	*	*	*	*	*	*	3231	*	*	15
+       0	*	*	*	*	*	*	2594	0	0	
+
+E 16   *	*	3264	764	*	*	*	2353	*	*	*	*	*	*	*	*	*	3166	*	*	16
+       0	*	*	*	*	*	*	2594	0	0	
+
+N 17   *	*	1703	*	*	3264	*	*	3089	*	*	1794	*	2452	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 18   *	*	*	*	3197	*	*	*	*	167	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 19   *	*	*	*	*	*	*	2174	*	1794	*	*	*	2452	*	*	*	1703	*	*	19
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 20   2452	*	*	*	*	*	*	3197	*	2335	*	*	*	*	*	*	1794	2174	*	*	20
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 21   *	*	*	*	*	1703	*	*	2452	*	*	3264	*	*	*	3431	3487	2158	*	*	21
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 22   *	*	2158	*	*	1703	2452	*	1806	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2594	0	0	
+
+G 23   1703	*	*	*	*	530	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2594	0	0	
+
+A 24   971	*	*	*	*	3166	*	*	*	*	*	*	*	*	2452	*	*	2353	*	*	24
+       0	*	*	*	*	*	*	2594	0	0	
+
+D 25   *	*	493	*	*	*	*	*	*	*	*	*	*	1789	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 26   2158	*	*	*	*	*	*	*	1405	*	*	3166	*	*	3264	*	2452	*	*	*	26
+       0	*	*	*	*	*	*	2594	0	0	
+
+V 27   3197	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	167	*	*	27
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 28   *	*	*	2452	*	*	*	*	1806	*	*	*	*	*	2158	*	1703	*	*	*	28
+       0	*	*	*	*	*	*	2594	0	0	
+
+D 29   *	*	1096	3431	*	*	3166	*	*	*	*	3264	*	2158	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2594	0	0	
+
+Y 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	30
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 31   *	*	*	*	*	*	*	530	*	1703	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2594	0	0	
+
+S 32   *	*	743	2353	*	*	*	*	*	*	*	*	*	*	*	2275	*	*	*	*	32
+       0	*	*	*	*	*	*	2594	0	0	
+
+S 33   *	*	3264	2452	*	*	*	*	*	*	*	1659	*	*	*	3487	1703	*	*	*	33
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2594	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2594	0	0	
+
+N 36   2353	*	*	*	*	1721	*	*	*	*	*	3487	3166	*	*	1736	*	*	*	*	36
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 37   *	*	3089	*	*	*	*	2452	515	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2594	0	0	
+
+A 38   340	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2250	*	*	38
+       0	*	*	*	*	*	*	2594	0	0	
+
+S 39   *	*	1282	*	*	*	*	*	*	*	*	3231	*	*	*	1740	2452	*	*	*	39
+       0	*	*	*	*	*	*	2594	0	0	
+
+G 40   *	*	2452	*	*	291	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2594	0	0	
+
+F 41   *	*	*	2452	971	*	*	*	*	2335	*	*	*	*	*	*	*	3197	*	*	41
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 42   2452	*	*	*	*	*	*	1726	*	1659	*	*	*	*	*	*	*	2335	*	*	42
+       0	*	*	*	*	*	*	2594	0	0	
+
+A 43   1331	*	*	2353	*	3089	*	*	*	2452	*	*	*	*	*	3231	*	*	*	*	43
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 44   *	*	*	*	*	3431	*	*	*	*	*	*	*	1801	*	*	689	*	*	*	44
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	498	*	*	*	*	*	*	*	1777	*	*	45
+       0	*	*	*	*	*	*	2594	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2594	0	0	
+
+T 47   *	*	*	2247	*	*	*	*	2452	*	*	*	*	*	*	2142	1396	*	*	*	47
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 48   *	*	2452	*	*	*	*	*	765	*	*	*	3166	*	*	*	3089	*	*	*	48
+       0	*	*	*	*	*	*	2594	0	0	
+
+V 49   *	*	*	*	3089	*	*	1273	*	3264	*	*	*	*	*	*	*	2459	2452	*	49
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 50   3166	*	*	2452	*	*	*	*	*	971	*	*	*	*	*	*	*	2353	*	*	50
+       0	*	*	*	*	*	*	2594	0	0	
+
+D 51   2452	*	2459	*	*	*	*	*	*	*	*	3089	*	*	*	949	*	*	*	*	51
+       0	*	*	*	*	*	*	2594	0	0	
+
+F 52   *	*	*	*	686	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1401	52
+       0	*	*	*	*	*	*	2594	0	0	
+
+G 53   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 54   *	*	*	*	*	*	*	1335	*	3264	2452	*	*	*	*	*	*	1659	*	*	54
+       0	*	*	*	*	*	*	2594	0	0	
+
+D 55   3166	*	503	*	*	*	*	*	*	*	*	*	*	*	*	2452	*	*	*	*	55
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 56   *	*	*	2158	*	*	*	*	366	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 57   *	*	*	*	*	*	*	*	*	291	*	*	*	*	*	*	*	2452	*	*	57
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 58   *	*	*	*	*	*	*	355	*	3166	*	*	*	*	*	*	*	3231	*	*	58
+       0	*	*	*	*	*	*	2594	0	0	
+
+Q 59   3166	*	1801	1793	*	*	*	*	2158	*	*	*	*	3487	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2594	0	0	
+
+L 60   2452	*	*	*	*	*	*	*	2353	1738	2250	*	*	*	*	3166	*	*	*	*	60
+       0	*	*	*	*	*	*	2594	0	0	
+
+I 61   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2594	0	0	
+
+E 62   *	*	*	1675	*	*	*	3197	*	2335	2452	3431	*	3264	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2594	0	0	
+
+D 63   1765	*	3487	2353	*	*	*	*	*	*	*	1659	*	*	*	3264	*	*	*	*	63
+       0	*	*	*	*	*	*	2594	0	0	
+
+K 64   *	*	*	*	*	1703	2158	*	1806	*	*	*	*	2452	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2594	0	0	
+
+V 65   *	*	*	2332	*	2049	*	*	*	*	*	*	*	*	*	*	*	837	*	*	65
+       0	*	*	*	*	*	*	2503	0	0	
+
+D 66   *	*	399	*	*	*	*	*	*	*	*	*	*	*	*	2049	*	*	*	*	66
+       0	*	*	*	*	*	*	2503	0	0	
+
+A 67   1562	*	*	*	*	*	*	*	2962	*	*	*	908	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2503	0	0	
+
+N 68   3306	*	*	*	*	*	*	*	2049	*	*	2229	*	*	*	*	2332	2027	*	*	68
+       0	*	*	*	*	*	*	2503	0	0	
+
+A 69   1280	*	*	*	*	*	*	*	*	2049	*	*	*	*	*	*	2124	3095	*	*	69
+       0	*	*	*	*	*	*	2503	0	0	
+
+I 70   *	*	*	*	*	*	*	547	*	*	*	*	*	*	*	*	*	1664	*	*	70
+       0	*	*	*	*	*	*	2503	0	0	
+
+C 71   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2503	0	0	
+
+A 72   2229	*	*	3095	*	2049	*	*	2332	*	*	*	*	*	*	3306	2962	*	*	*	72
+       0	*	*	*	*	*	*	2503	0	0	
+
+K 73   2332	*	*	*	*	*	*	*	1666	2049	*	2962	*	3104	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2503	0	0	
+
+I 74   *	*	*	*	*	*	*	845	*	*	2031	*	*	*	*	*	2332	*	*	*	74
+       0	*	*	*	*	*	*	2503	0	0	
+
+H 75   *	*	*	*	*	1613	845	*	*	*	*	3104	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	2503	0	0	
+
+A 76   319	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2332	*	*	*	*	76
+       0	*	*	*	*	*	*	2503	0	0	
+
+C 77   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77
+       0	*	*	0	*	*	*	2503	0	0	
+
+//

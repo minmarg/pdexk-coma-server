@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+
+    <class name="PDEXKsvm.entities.JobParams" table="JobParams">  
+        <id name="id" column="id" >
+            <generator class="native"/>
+        </id>
+        
+        <property name="expirationPeriod" column="expirationPeriod" />
+        <property name="expirationPeriodErr" column="expirationPeriodErr" />
+        <property name="urlForResults" column="urlForResults" />
+        <property name="maxSubmittedJobs" column="maxSubmittedJobs" />
+        <property name="pdexkProbability" column="pdexkProbability" />
+        <property name="numberOfSequencesInFinalMSA" column="numberOfSequencesInFinalMSA" />
+    </class>
+    
+</hibernate-mapping>

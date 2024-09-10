@@ -1,0 +1,193 @@
+Query         2xi5_A N-terminal domain of La Crosse virus L-protein, PDEXK superfamily
+Match_columns 137
+No_of_seqs    30 out of 32
+Neff          2.8 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:17 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/2xi5_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//2xi5_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2xi5_A N-terminal domain of La 100.0       0       0  488.1  16.7  137    1-137     1-137 (137)
+  2 3jsb_B N-terminal domain of ar  80.8       2 0.00015   21.3   5.7   81   22-106    22-106 (134)
+  3 d1zara2 d.144.1.9 (A:91-281) R  46.6      18  0.0013   15.5   4.9   35   54-88    124-160 (191)
+  4 d1seta2 d.104.1.1 (A:111-421)   39.9      17  0.0012   15.7   4.0   34   81-114   177-210 (311)
+  5 d1w36b3 c.52.1.24 (B:899-1174)  39.8     8.2 0.00059   17.6   2.3   19   61-79    168-186 (276)
+  6 d1gsaa1 c.30.1.3 (A:1-122) Pro  36.8     9.4 0.00068   17.2   2.2   73   52-130    31-103 (122)
+  7 d1b24a1 d.95.2.1 (A:7-99) DNA   36.6      51  0.0037   12.8   6.0   69   65-134    12-87  (93)
+  8 3u44_A AddAB-type helicase-nuc  36.1      72  0.0052   11.9   6.7   25   57-81    110-134 (184)
+  9 d2hq9a1 b.45.1.1 (A:1-148) Hyp  27.4      12 0.00084   16.7   1.4   19   56-74     30-48  (148)
+ 10 d1d0na3 d.109.1.1 (A:263-383)   17.4 2.4E+02   0.017    8.8   6.5   52   78-134    55-106 (121)
+
+No 1  
+>2xi5_A N-terminal domain of La Crosse virus L-protein, PDEXK superfamily
+Probab=100.00  E-value=0  Score=488.07  Aligned_columns=137  Identities=100%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHCCCCCCEEEECCEECCCCEEEECCEEEEEEEEEEC
+Q ss_conf             95204678899999875678999998809601247648875653349985003446622787508888889998756633
+Q 2xi5_A            1 DACVAKDIDVDLLMARHDYFGRELCKSLNIEYRNDVPFIDIILDIRPEVDPLTIDAPHITPDNYLYINNVLYIIDYKVSV   80 (137)
+Q Consensus         1 d~~vAKDI~~Dllm~RHnYFgrElC~al~IEYRNDVp~~dIlld~~P~~~~~~~~ipn~TPDNYi~~~~~l~IiDyKVSV   80 (137)
+                      |||+||||++|||||||||||||||+|+|||||||||++||+||++||++||++++||||||||+|+|||||||||||||
+T Consensus         1 d~~vAKDI~~Dllm~RHnYFgrElC~al~IEYRNDVp~~dIlld~~P~~~~~~~~ipn~TPDNYi~~~~~l~IiDyKVSV   80 (137)
+T 2xi5_A            1 DACVAKDIDVDLLMARHDYFGRELCKSLNIEYRNDVPFIDIILDIRPEVDPLTIDAPHITPDNYLYINNVLYIIDYKVSV   80 (137)
+T ss_pred             CCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHCCCCCCEEEECCEECCCCEEEECCEEEEEEEEEEC
+T ss_conf             95204678899999875678999998809601247648875653349985003446622787508888889998756633
+
+
+Q ss_pred             CCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEECCCCCEEEEECHHHHHHCCCCCC
+Q ss_conf             760358899999999998887449974789997358764589802589861788679
+Q 2xi5_A           81 SNESSVITYDKYYELTRDISDRLSIPIEIVIIRIDPVSRDLHINSDRFKELYPTIVV  137 (137)
+Q Consensus        81 ~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~nPv~~~i~i~s~~F~~~fp~I~i  137 (137)
+                      |++||++|++||++||+++++|+||+||||||||||+|+|+||+|++|+++||||++
+T Consensus        81 ~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~nPv~~~i~i~s~~F~~~fp~I~i  137 (137)
+T 2xi5_A           81 SNESSVITYDKYYELTRDISDRLSIPIEIVIIRIDPVSRDLHINSDRFKELYPTIVV  137 (137)
+T ss_pred             CCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEECCCCCEEEEECHHHHHHCCCCCC
+T ss_conf             760358899999999998887449974789997358764589802589861788679
+
+
+No 2  
+>3jsb_B N-terminal domain of arenavirus L Protein, PDEXK superfamily
+Probab=80.76   E-value=2  Score=21.29  Aligned_columns=81  Identities=21%
+
+Q ss_pred             HHHHHHHCCCCCCCCCHHHHHHHHCCCCCCEEEECCEECCCCEEEECCEEEEEEEEEECCCCHHHHHH----HHHHHHHH
+Q ss_conf             99998809601247648875653349985003446622787508888889998756633760358899----99999999
+Q 2xi5_A           22 RELCKSLNIEYRNDVPFIDIILDIRPEVDPLTIDAPHITPDNYLYINNVLYIIDYKVSVSNESSVITY----DKYYELTR   97 (137)
+Q Consensus        22 rElC~al~IEYRNDVp~~dIlld~~P~~~~~~~~ipn~TPDNYi~~~~~l~IiDyKVSV~~~ss~~T~----~KY~~~~~   97 (137)
+                      -+-|++.+.+--.+--.++.+|.---..-|.   .|.++||-|-+.|+.|+++.-=|-+.-+|-+.-|    +|+..+-+
+T Consensus        22 idSC~~ngC~HN~e~ksV~~IL~~~~iv~Pt---Lp~VvPDGy~l~g~~LILLE~FVR~np~~FE~Ky~~D~~KL~~lk~   98 (134)
+T 3jsb_B           22 IDSADKSGCTHNHDDKSVETILVESGIVCPG---LPLIIPDGYKLIDNSLILLECFVRSTPASFEKKFIEDTNKLACIRE   98 (134)
+T ss_pred             HHHHHHCCCCCCCCHHHHHHHHHHCCCCCCC---CCCCCCCCEEEECCEEEEEEEEECCCHHHHHHHHHHHHHHHHHHHH
+T ss_conf             7535533875684224588899754876885---4532267606518677876321013867889999999999999998
+
+
+Q ss_pred             HHHHHCCCC
+Q ss_conf             888744997
+Q 2xi5_A           98 DISDRLSIP  106 (137)
+Q Consensus        98 ~v~~~l~i~  106 (137)
+                      |... -||-
+T Consensus        99 DL~~-~Git  106 (134)
+T 3jsb_B           99 DLAV-AGVT  106 (134)
+T ss_pred             HHHH-CCCE
+T ss_conf             8987-4976
+
+
+No 3  
+>d1zara2 d.144.1.9 (A:91-281) Rio2 serine protein kinase C-terminal domain {Archaeoglobus fulgidus [TaxId: 2234]}
+Probab=46.59   E-value=18  Score=15.54  Aligned_columns=35  Identities=26%
+
+Q ss_pred             EECCEECCCCEEEECCEEEEEEEE--EECCCCHHHHH
+Q ss_conf             446622787508888889998756--63376035889
+Q 2xi5_A           54 IDAPHITPDNYLYINNVLYIIDYK--VSVSNESSVIT   88 (137)
+Q Consensus        54 ~~ipn~TPDNYi~~~~~l~IiDyK--VSV~~~ss~~T   88 (137)
+                      +=.+-+.|.|-++.++..++|||-  |+++++-+..-
+T Consensus       124 IiH~DlKp~NILi~~~~~~lIDFG~av~~~~~~~~~~  160 (191)
+T d1zara2         124 IVHGDLSQYNVLVSEEGIWIIDFPQSVEVGEEGWREI  160 (191)
+T ss_pred             EEEECCCCCCEEEECCCEEEEECCCEECCCCCCHHHH
+T ss_conf             8830578545788089627974183621797366899
+
+
+No 4  
+>d1seta2 d.104.1.1 (A:111-421) Seryl-tRNA synthetase (SerRS) {Thermus thermophilus, strain hb27 [TaxId: 274]}
+Probab=39.95   E-value=17  Score=15.71  Aligned_columns=34  Identities=24%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEE
+Q ss_conf             7603588999999999988874499747899973
+Q 2xi5_A           81 SNESSVITYDKYYELTRDISDRLSIPIEIVIIRI  114 (137)
+Q Consensus        81 ~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~  114 (137)
+                      +.|.+..++++.-++...++.+|||+|.++-..+
+T Consensus       177 ~~e~s~~~~~~~l~~~~~i~~~L~lpyrvv~~~~  210 (311)
+T d1seta2         177 SLEASDRAFQELLENAEEILRLLELPYRLVEVAT  210 (311)
+T ss_pred             CHHHHHHHHHHHHHHHHHHHHHCCCCEEEEECCC
+T ss_conf             8789999999999999999996599689953480
+
+
+No 5  
+>d1w36b3 c.52.1.24 (B:899-1174) Exodeoxyribonuclease V beta chain (RecB), C-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=39.80   E-value=8.2  Score=17.62  Aligned_columns=19  Identities=26%
+
+Q ss_pred             CCCEEEECCEEEEEEEEEE
+Q ss_conf             8750888888999875663
+Q 2xi5_A           61 PDNYLYINNVLYIIDYKVS   79 (137)
+Q Consensus        61 PDNYi~~~~~l~IiDyKVS   79 (137)
+                      =|=...++|+.||+|||-.
+T Consensus       168 IDlvf~~~gr~~iiDYKTN  186 (276)
+T d1w36b3         168 IDLVFRHEGRYYLLDYKSN  186 (276)
+T ss_pred             EEEEEEECCEEEEEEEECC
+T ss_conf             9999987784899874217
+
+
+No 6  
+>d1gsaa1 c.30.1.3 (A:1-122) Prokaryotic glutathione synthetase, N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=36.77   E-value=9.4  Score=17.24  Aligned_columns=73  Identities=12%
+
+Q ss_pred             EEEECCEECCCCEEEECCEEEEEEEEEECCCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEECCCCCEEEEECHHHHH
+Q ss_conf             0344662278750888888999875663376035889999999999888744997478999735876458980258986
+Q 2xi5_A           52 LTIDAPHITPDNYLYINNVLYIIDYKVSVSNESSVITYDKYYELTRDISDRLSIPIEIVIIRIDPVSRDLHINSDRFKE  130 (137)
+Q Consensus        52 ~~~~ipn~TPDNYi~~~~~l~IiDyKVSV~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~nPv~~~i~i~s~~F~~  130 (137)
+                      ...++=.|+|++..+.+|...---.+|++.+... ..++    +......+|+ ++.++.+|-||-=+.-.+.+--+.+
+T Consensus        31 RGhev~~~~~~dL~~~~g~~~a~~~~i~~~~~~~-~~~~----~~~~~~~~L~-~~Dvi~mRkDPPfD~~Yi~aT~lLe  103 (122)
+T d1gsaa1          31 RGYELHYMEMGDLYLINGEARAHTRTLNVKQNYE-EWFS----FVGEQDLPLA-DLDVILMRKDPPFDTEFIYATYILE  103 (122)
+T ss_pred             CCCEEEEEECCCEEEECCEEEEEEEEEEEEECCC-CCCC----CCCCEECCHH-HCCEEEECCCCCCCHHHHHHHHHHH
+T ss_conf             6989999821107888886899888989864787-6311----2750013421-3899998049998545788999999
+
+
+No 7  
+>d1b24a1 d.95.2.1 (A:7-99) DNA endonuclease I-dmoI {Archaeon Desulfurococcus mobilis [TaxId: 2274]}
+Probab=36.59   E-value=51  Score=12.84  Aligned_columns=69  Identities=20%
+
+Q ss_pred             EEECCEEEEEEEE-------EECCCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEECCCCCEEEEECHHHHHHCCC
+Q ss_conf             8888889998756-------633760358899999999998887449974789997358764589802589861788
+Q 2xi5_A           65 LYINNVLYIIDYK-------VSVSNESSVITYDKYYELTRDISDRLSIPIEIVIIRIDPVSRDLHINSDRFKELYPT  134 (137)
+Q Consensus        65 i~~~~~l~IiDyK-------VSV~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~nPv~~~i~i~s~~F~~~fp~  134 (137)
+                      ++-+|-||.+-||       |-+...|--.-.+.--.+|+-.+.+||+-..|-+||-+ .+..+.++|...-+.|.|
+T Consensus        12 IvGDGGLY~LrYkG~RtEYRVViTQK~e~~i~~~~a~m~~~Ll~EL~lkSkvQvi~G~-tR~EvRVSSK~L~~~Fnn   87 (93)
+T d1b24a1          12 IIGDGGLYKLKYKGNRSEYRVVITQKSENLIKQHIAPLMQFLIDELNVKSKIQIVKGD-TRYELRVSSKKLYYYFAN   87 (93)
+T ss_pred             HHCCCCEEEEEECCCCCEEEEEEEECCHHHHHHHHHHHHHHHHHHCCCCCEEEEEECC-CEEEEEECHHHHHHHHHH
+T ss_conf             3147745777651897137888861505578999999999999860986416786378-136777525899999999
+
+
+No 8  
+>3u44_A AddAB-type helicase-nuclease complex, PDEXK superfamily
+Probab=36.10   E-value=72  Score=11.91  Aligned_columns=25  Identities=20%
+
+Q ss_pred             CEECCCCEEEECCEEEEEEEEEECC
+Q ss_conf             6227875088888899987566337
+Q 2xi5_A           57 PHITPDNYLYINNVLYIIDYKVSVS   81 (137)
+Q Consensus        57 pn~TPDNYi~~~~~l~IiDyKVSV~   81 (137)
+                      .+..-|-....++.++|+|||-+--
+T Consensus       110 ~~g~iDri~~~~~~~~IiDYKT~~~  134 (184)
+T 3u44_A          110 VQGIIDCLYETEDGLYLLAYKSDRI  134 (184)
+T ss_pred             EEEEEEEEEEECCEEEEEEECCCCC
+T ss_conf             8654477887187589985036888
+
+
+No 9  
+>d2hq9a1 b.45.1.1 (A:1-148) Hypothetical protein Mll6688 {Mesorhizobium loti [TaxId: 381]}
+Probab=27.42   E-value=12  Score=16.70  Aligned_columns=19  Identities=32%
+
+Q ss_pred             CCEECCCCEEEECCEEEEE
+Q ss_conf             6622787508888889998
+Q 2xi5_A           56 APHITPDNYLYINNVLYII   74 (137)
+Q Consensus        56 ipn~TPDNYi~~~~~l~Ii   74 (137)
+                      -|+++|=+|.++++.||.-
+T Consensus        30 ~P~v~Pv~y~~d~~~iyf~   48 (148)
+T d2hq9a1          30 QPYVVPLYYAYSDAHLYAF   48 (148)
+T ss_pred             CCEEEEEEEEEECCEEEEE
+T ss_conf             2189998633315748999
+
+
+No 10 
+>d1d0na3 d.109.1.1 (A:263-383) Gelsolin {Horse (Equus caballus) [TaxId: 9796]}
+Probab=17.41   E-value=2.4e+02  Score=8.80  Aligned_columns=52  Identities=8%
+
+Q ss_pred             EECCCCHHHHHHHHHHHHHHHHHHHCCCCEEEEEEEECCCCCEEEEECHHHHHHCCC
+Q ss_conf             633760358899999999998887449974789997358764589802589861788
+Q 2xi5_A           78 VSVSNESSVITYDKYYELTRDISDRLSIPIEIVIIRIDPVSRDLHINSDRFKELYPT  134 (137)
+Q Consensus        78 VSV~~~ss~~T~~KY~~~~~~v~~~l~i~~EivIIR~nPv~~~i~i~s~~F~~~fp~  134 (137)
+                      |=++..|+....++-.+.-.....+.+-+....|.++..-     -.+..|+..|.+
+T Consensus        55 vW~G~~s~~~~r~~a~~~A~~~~~~~~~~~~~~i~~v~eG-----~Ep~~Fk~~F~~  106 (121)
+T d1d0na3          55 VWKGKQANMEERKAALKTASDFISKMDYPKQTQVSVLPEG-----GETPLFRQFFKN  106 (121)
+T ss_pred             EEECCCCCHHHHHHHHHHHHHHHHHCCCCCCCEEEEEECC-----CCCHHHHHHCCC
+T ss_conf             9865888988999999999999983489888758898059-----989899980889
+
+
+Done!

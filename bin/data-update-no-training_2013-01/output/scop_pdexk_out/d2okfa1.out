@@ -1,0 +1,215 @@
+Query         d2okfa1 c.52.1.32 (A:4-139) FdxN element excision controlling factor protein {Anabaena variabilis [TaxId: 1172]}
+Match_columns 136
+No_of_seqs    121 out of 196
+Neff          3.9 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:19 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d2okfa1.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d2okfa1.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d2okfa1 c.52.1.32 (A:4-139) Fd 100.0       0       0  461.1  16.2  136    1-136     1-136 (136)
+  2 d1y88a2 c.52.1.30 (A:3-127) Hy  93.9   0.092 6.7E-06   29.3   6.5  113    4-133     5-118 (125)
+  3 2vld_A NUCS, UPF0286 protein p  87.2       3 0.00022   20.3   9.0   94   12-129    15-110 (126)
+  4 PF07788 Protein of unknown fun  57.4     3.6 0.00026   19.8   2.8   46   45-95      8-53  (70)
+  5 PF05626 Protein of unknown fun  51.6      10 0.00075   17.2   4.3   67   15-101    22-88  (115)
+  6 3fov_A UPF0102 protein RPA0323  50.1      10 0.00075   17.2   4.2   44    6-59     28-71  (134)
+  7 PF06250 Protein of unknown fun  41.3      12 0.00086   16.8   3.3   60   15-86     56-115 (167)
+  8 d1h9aa1 c.2.1.3 (A:1-181,A:413  28.9      39  0.0028   13.8   4.3   21   86-106   108-128 (196)
+  9 PF08378 Nuclease-related domai  28.0      39  0.0029   13.7   4.2   49    6-62      9-57  (111)
+ 10 d1qkia1 c.2.1.3 (A:12-199,A:43  19.7      31  0.0023   14.3   2.4   23   85-107   120-142 (204)
+
+No 1  
+>d2okfa1 c.52.1.32 (A:4-139) FdxN element excision controlling factor protein {Anabaena variabilis [TaxId: 1172]}
+Probab=100.00  E-value=0  Score=461.07  Aligned_columns=136  Identities=100%
+
+Q ss_pred             CCCHHHHHHHHHHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHH
+Q ss_conf             96216888875642586674385278871336542023001000003882699996146788502689998753899999
+Q d2okfa1           1 RDVFHEVVKTALKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYR   80 (136)
+Q Consensus         1 kD~~H~~Vk~AL~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr   80 (136)
+                      ||+|||+||+||+||||+||||||+|++|+++||+||||||+|||||++||||||||||+|+||+|+|||+|||||+|||
+T Consensus         1 kD~~H~~Vk~AL~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr   80 (136)
+T d2okfa1           1 RDVFHEVVKTALKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYR   80 (136)
+T ss_pred             CCCHHHHHHHHHHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHH
+T ss_conf             96216888875642586674385278871336542023001000003882699996146788502689998753899999
+
+
+Q ss_pred             HHHHHHCCCEEEEEECCHHHHHHHHCCHHHHHHHHHCCCEEEEEECCCCEEEEECC
+Q ss_conf             99986389818998337799876604378889998479618998378308987339
+Q d2okfa1          81 GALRKVEPDRVLYLAVPLTTYKTFFQLDFPKEIIIENQVKMLVYDVEQEVIFQWIN  136 (136)
+Q Consensus        81 ~~L~~~ePeR~LYLAV~~~~Y~~fF~~~~~q~~i~~~qi~LiV~d~~~E~IvqWin  136 (136)
+                      .+|++++|||+||||||+++|++||++|++|.++++||++||||||++|+|+||||
+T Consensus        81 ~~L~~~ePeR~LYLAV~~~~Y~~fF~~~~~q~~i~~~qi~LiV~d~~~E~IvqWin  136 (136)
+T d2okfa1          81 GALRKVEPDRVLYLAVPLTTYKTFFQLDFPKEIIIENQVKMLVYDVEQEVIFQWIN  136 (136)
+T ss_pred             HHHHHHCCCEEEEEECCHHHHHHHHCCHHHHHHHHHCCCEEEEEECCCCEEEEECC
+T ss_conf             99986389818998337799876604378889998479618998378308987339
+
+
+No 2  
+>d1y88a2 c.52.1.30 (A:3-127) Hypothetical protein AF1548, N-terminal domain {Archaeoglobus fulgidus [TaxId: 2234]}
+Probab=93.87   E-value=0.092  Score=29.34  Aligned_columns=113  Identities=21%
+
+Q ss_pred             HHHHHHHHHHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHH
+Q ss_conf             16888875642586674385278871336542023001000003882699996146788502689998753899999999
+Q d2okfa1           4 FHEVVKTALKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYRGAL   83 (136)
+Q Consensus         4 ~H~~Vk~AL~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr~~L   83 (136)
+                      |-..|..-|.+.||....+.- +.-++.+..+|+-|      ++++++++||.|..- ++..+.......+.-..+  .+
+T Consensus         5 FE~~va~l~~~~Gy~v~~~~~-v~~~~~d~giDiia------~~~~~~~~VqcK~~~-~~v~~~~i~~~~~~~~~~--~~   74 (125)
+T d1y88a2           5 QGHMVARLLEEHGFETKTNVI-VQGNCVEQEIDVVA------ERDGERYMIECKFHN-IPVYTGLKEAMYTYARFL--DV   74 (125)
+T ss_pred             HHHHHHHHHHHCCCCCCCCEE-ECCCCCEEEEEEEE------EECCCEEEEEEEECC-CCCCCCHHHHHHHHHHHH--HH
+T ss_conf             799999999964983102016-71464035678864------316968999985427-862663133333222220--02
+
+
+Q ss_pred             HHHCCCEEEEEECCHHHHHHHHCCHHHHHHHHHCCCEEEEEEC-CCCEEEE
+Q ss_conf             8638981899833779987660437888999847961899837-8308987
+Q d2okfa1          84 RKVEPDRVLYLAVPLTTYKTFFQLDFPKEIIIENQVKMLVYDV-EQEVIFQ  133 (136)
+Q Consensus        84 ~~~ePeR~LYLAV~~~~Y~~fF~~~~~q~~i~~~qi~LiV~d~-~~E~Ivq  133 (136)
+                      .....+|-+...      ++.|+.+..+. -+.+.++||..|- +.+.+..
+T Consensus        75 ~~~~~~~giiVT------t~~ft~~A~~~-A~~~~I~Li~~d~~~~~~l~~  118 (125)
+T d1y88a2          75 EKHGFTQPWIFT------NTKFSEEAKKY-AGCVGIKLTGWSYPEKEGIEV  118 (125)
+T ss_pred             HCCCCCEEEEEE------CCCCCHHHHHH-HHHCCCEEEEECCCCHHHHHH
+T ss_conf             104796579998------38889889999-872897898822768125899
+
+
+No 3  
+>2vld_A NUCS, UPF0286 protein pyrab01260; endonuclease, hydrolase; 2.6
+Probab=87.22   E-value=3  Score=20.31  Aligned_columns=94  Identities=17%
+
+Q ss_pred             HHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHHC--CC
+Q ss_conf             6425866743852788713365420230010000038826999961467885026899987538999999998638--98
+Q d2okfa1          12 LKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYRGALRKVE--PD   89 (136)
+Q Consensus        12 L~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr~~L~~~e--Pe   89 (136)
+                      ++.+||.+..--+.+..|    ++||=+     -.+++..++||+|.=  ..+     +.++||-.-|...+++..  |-
+T Consensus        15 ~i~~g~~~v~rE~~~~~g----~iDll~-----~d~~g~~vvIElK~~--~~~-----~~~v~Ql~~Y~~~l~~~~~~~v   78 (126)
+T 2vld_A           15 VIEEGFKPIYREKPIRHG----IVDVMG-----VDKDGNIVVLELKRR--KAD-----LHAVSQMKRYVDSLKEEYGENV   78 (126)
+T ss_pred             HHCCCCEEEEECCCCCCC----CEEEEE-----ECCCCCEEEEEEECC--CCC-----HHHHHHHHHHHHHHHHHCCCCC
+T ss_conf             625786675310233556----312688-----878987798885216--578-----7789999999999850058893
+
+
+Q ss_pred             EEEEEECCHHHHHHHHCCHHHHHHHHHCCCEEEEEECCCC
+Q ss_conf             1899833779987660437888999847961899837830
+Q d2okfa1          90 RVLYLAVPLTTYKTFFQLDFPKEIIIENQVKMLVYDVEQE  129 (136)
+Q Consensus        90 R~LYLAV~~~~Y~~fF~~~~~q~~i~~~qi~LiV~d~~~E  129 (136)
+                      |-+-+|=+       |+.. .-..+++..+...-++|.++
+T Consensus        79 rgIlvA~~-------~~~~-a~~~l~~~gle~~~~~~~~~  110 (126)
+T 2vld_A           79 RGILVAPS-------LTEG-AKKLLEKEGLEFRKLEPPKK  110 (126)
+T ss_pred             EEEEECCC-------CCHH-HHHHHHHCCCEEEEECCHHH
+T ss_conf             79997179-------9988-99999966984898283455
+
+
+No 4  
+>PF07788 Protein of unknown function (DUF1626)
+Probab=57.44   E-value=3.6  Score=19.85  Aligned_columns=46  Identities=26%
+
+Q ss_pred             EECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCEEEEEE
+Q ss_conf             003882699996146788502689998753899999999863898189983
+Q d2okfa1          45 AERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYRGALRKVEPDRVLYLA   95 (136)
+Q Consensus        45 Aer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr~~L~~~ePeR~LYLA   95 (136)
+                      .-|+|.-|+|||||.+. .+.+.-|+.   -.-+|.....+. ++|.+-.+
+T Consensus         8 vikdg~~ilvEikSsi~-~~Dv~~f~r---k~~lYek~~grk-~~r~iivt   53 (70)
+T PF07788           8 VVKDGKVILVEIKSSLK-RGDLAVIKR---KAELYEKAKGRK-VDRLIVIT   53 (70)
+T ss_pred             EEECCEEEEEEEEECCC-HHHHHHHHH---HHHHHHHHHCCC-CCEEEEEE
+T ss_conf             98689399999750446-202888888---887655643874-67279996
+
+
+No 5  
+>PF05626 Protein of unknown function (DUF790) PDEXK_domain only 
+Probab=51.64   E-value=10  Score=17.17  Aligned_columns=67  Identities=28%
+
+Q ss_pred             CCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCEEEEE
+Q ss_conf             58667438527887133654202300100000388269999614678850268999875389999999986389818998
+Q d2okfa1          15 DGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYRGALRKVEPDRVLYL   94 (136)
+Q Consensus        15 dGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr~~L~~~ePeR~LYL   94 (136)
+                      -||.+...|=.|..|+.-|-.|.      +.+++|+++-+||=.|=  +   .=+..-+.|       |+..  +..|-|
+T Consensus        22 ~~W~l~REpe~l~~g~~v~IPDF------~~~~~g~~vy~EIvGFW--t---eYl~kKl~k-------l~~~--~~~lll   81 (115)
+T PF05626          22 LGWDVIREPEIIKIGKRAYIPDF------LINKGGKKVYVEIVGFW--T---EYLKKKLEK-------LRKV--GIPLLL   81 (115)
+T ss_pred             CCCEEEECCCEEECCCEEEECEE------EECCCCCEEEEEEECCC--H---HHHHHHHHH-------HHHC--CCCEEE
+T ss_conf             59888646811544984770001------22159958999986247--6---888999999-------8608--997899
+
+
+Q ss_pred             ECCHHHH
+Q ss_conf             3377998
+Q d2okfa1          95 AVPLTTY  101 (136)
+Q Consensus        95 AV~~~~Y  101 (136)
+                      ||++..-
+T Consensus        82 av~e~L~   88 (115)
+T PF05626          82 LVNEELA   88 (115)
+T ss_pred             EECCCCC
+T ss_conf             9623226
+
+
+No 6  
+>3fov_A UPF0102 protein RPA0323; structural genomics, APC7380, PSI-2, 
+Probab=50.07   E-value=10  Score=17.16  Aligned_columns=44  Identities=27%
+
+Q ss_pred             HHHHHHHHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECC
+Q ss_conf             888875642586674385278871336542023001000003882699996146
+Q d2okfa1           6 EVVKTALKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSF   59 (136)
+Q Consensus         6 ~~Vk~AL~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSF   59 (136)
+                      +.+..=|++-||.|-.--++..+|+.|+    -      |.+++.-..||||+-
+T Consensus        28 ~~A~~~L~~~Gy~Il~rN~r~~~GEIDi----I------a~~~~~LvFVEVK~R   71 (134)
+T 3fov_A           28 ASAADYLERQGYRILARRFKTRCGEIDL----V------AQRDALVAFVEVKAR   71 (134)
+T ss_pred             HHHHHHHHHCCCEEEECCCCCCCCCEEE----E------EECCCEEEEEEEEEC
+T ss_conf             9999999873959975065068740689----9------871988999872213
+
+
+No 7  
+>PF06250 Protein of unknown function (DUF1016) PDEXK_domain only
+Probab=41.29   E-value=12  Score=16.81  Aligned_columns=60  Identities=22%
+
+Q ss_pred             CCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+Q ss_conf             586674385278871336542023001000003882699996146788502689998753899999999863
+Q d2okfa1          15 DGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQSSAISEFHTALGQFINYRGALRKV   86 (136)
+Q Consensus        15 dGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~~S~i~df~~AlGQy~~Yr~~L~~~   86 (136)
+                      -|+.--.--+++.+|+.++|+||--    =--+-.+-++||.|.  |.-.+  +    +||--.|-.++.+.
+T Consensus        56 ~GFaFvgrQ~~l~v~~~df~iDLlF----Yh~~L~c~V~IELK~--g~f~p--e----~GQl~~Yl~~~d~~  115 (167)
+T PF06250          56 AGFAFVARQKRIQIDDEDFYIDLLF----YHRKLRCLVAIDLKI--GKFTH--E----AGQMQFYLRYLDKH  115 (167)
+T ss_pred             CCEEEECCCEEEEECCCCCCHHHHH----HCCCCCEEEEEEECC--CCCCC--C----HHHHHHHHHHHHHH
+T ss_conf             6416530321455568511024432----230021137766305--64476--3----56999999999853
+
+
+No 8  
+>d1h9aa1 c.2.1.3 (A:1-181,A:413-426) Glucose 6-phosphate dehydrogenase, N-terminal domain {Leuconostoc mesenteroides [TaxId: 1245]}
+Probab=28.86   E-value=39  Score=13.75  Aligned_columns=21  Identities=19%
+
+Q ss_pred             HCCCEEEEEECCHHHHHHHHC
+Q ss_conf             389818998337799876604
+Q d2okfa1          86 VEPDRVLYLAVPLTTYKTFFQ  106 (136)
+Q Consensus        86 ~ePeR~LYLAV~~~~Y~~fF~  106 (136)
+                      .+..|..|||||-.+|...-.
+T Consensus       108 ~~~~rifYLAvPP~~f~~i~~  128 (196)
+T d1h9aa1         108 IDGNRIFYMSVAPRFFGTIAK  128 (196)
+T ss_pred             CCCCEEEEECCCHHHHHHHHH
+T ss_conf             998679886478233799999
+
+
+No 9  
+>PF08378 Nuclease-related domain
+Probab=28.04   E-value=39  Score=13.71  Aligned_columns=49  Identities=22%
+
+Q ss_pred             HHHHHHHHHCCCEEECCCEEEEECCEEEEEECCCHHHEEEECCCCEEEEEEECCCCC
+Q ss_conf             888875642586674385278871336542023001000003882699996146788
+Q d2okfa1           6 EVVKTALKKDGWQITDDPLTISVGGVNLSIDLAAQKLIAAERQGQKIAVEVKSFLKQ   62 (136)
+Q Consensus         6 ~~Vk~AL~KdGW~IT~DPl~l~~g~~~l~iDLgAEk~iaAer~~~kIAVEIKSFi~~   62 (136)
+                      ..|...|.+.+|.|-|| +.+..++ ...+|+    ++ ..+. -=++||+|++-|.
+T Consensus         9 ~~~~~~L~~l~~~i~~~-~~i~~~~-~~eiD~----iv-i~~~-gv~iiEvK~~~g~   57 (111)
+T PF08378           9 KRVARYLKKLDDRVLHN-LRLTHNG-STQIDH----LV-ISPK-GIFVIETKNYKGT   57 (111)
+T ss_pred             HHHHHHHHHCCCEEEEE-EEECCCC-CEEEEE----EE-ECCC-EEEEEECCCCCCE
+T ss_conf             99999986179879841-2645898-024668----98-7486-5898713688531
+
+
+No 10 
+>d1qkia1 c.2.1.3 (A:12-199,A:435-449) Glucose 6-phosphate dehydrogenase, N-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+Probab=19.70   E-value=31  Score=14.29  Aligned_columns=23  Identities=30%
+
+Q ss_pred             HHCCCEEEEEECCHHHHHHHHCC
+Q ss_conf             63898189983377998766043
+Q d2okfa1          85 KVEPDRVLYLAVPLTTYKTFFQL  107 (136)
+Q Consensus        85 ~~ePeR~LYLAV~~~~Y~~fF~~  107 (136)
+                      ..+..|..|||||-.+|...-..
+T Consensus       120 ~~~~~rifYLAvPP~~f~~i~~~  142 (204)
+T d1qkia1         120 GSQANRLFYLALPPTVYEAVTKN  142 (204)
+T ss_pred             CCCCCEEEEECCCHHHHHHHHHH
+T ss_conf             89997899962786679999999
+
+
+Done!

@@ -1,0 +1,340 @@
+HHsearch 1.5
+NAME  d3dhxa1 d.58.18.13 (A:2-100) Methionine import ATP-binding protein MetN {Escherichia coli [TaxId: 562]}
+FAM   d.58.18.13
+FILE  d3dhxa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3dhxa1.a3m -v 1 
+DATE  Tue Jan 22 08:57:16 2013
+LENG  99 match states, 99 columns in multiple alignment
+FILT  115 out of 720 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  7.2 
+SEQ
+>ss_pred
+CCCCHHHHHHHHCCCCCCCCEEEEEEECCCCCCCCHHHHHHHHCCCCEEEEEEEEEECCCEEEEEEEEEECCCHHHHHHHHHHHHHCCCEEEEEEEECC
+>ss_conf
+974189998863046888840799986377657647889999719918998521110168102799998749979999999999957987989878709
+>Consensus
+xxlPxxlxxxLxxxxxxxxxxilrLxfxgxxxxxpiisxlxxxxxvxxnILxgxixxixxxxxGxliixlxgxxxxxxxaxxxLxxxxvxvEVlgyVxx
+>d3dhxa1 d.58.18.13 (A:2-100) Methionine import ATP-binding protein MetN {Escherichia coli [TaxId: 562]}
+LDIPEDYQERLQAEPFTDCVPMLRLEFTGQSVDAPLLSETARRFNVNNNIISAQMDYAGGVKFGIMLTEMHGTQQDTQAAIAWLQEHHVKVEVLGYVLE
+>gi|300853824|ref|YP_003778808.1|(248-339:342) ABC transporter ATPase [Clostridium ljungdahlii DSM 13528] >gi|300433939|gb|ADK13706.1| predicted ABC-type transporter, ATPase component [Clostridium ljungdahlii DSM 13528]  E=1e-09 s/c=0.71 id=20% cov=93%
+-DIPISILNLIKNNRQnSQNRKFFRLKFMGNSTLTPMISMATKKFNAEINVLNASVTELQDTPMVNMVIELECDSTLAEEIVKYIESKNILVE-------
+>gi|319891821|ref|YP_004148696.1|(247-341:342) methionine ABC transporter ATP-binding protein [Staphylococcus pseudintermedius HKU10-03] >gi|386319852|ref|YP_006016015.1| ABC transporter ATP-binding protein [Staphylococcus pseudintermedius ED99] >gi|317161517|gb|ADV05060.1| Methionine ABC transporter ATP-binding protein [Staphylococcus pseudintermedius HKU10-03] >gi|323465023|gb|ADX77176.1| ABC transporter, ATP-binding protein [Staphylococcus pseudintermedius ED99]  E=3e-07 s/c=0.61 id=21% cov=95%
+---PSDDSEDLAKTFKLDKDEVLaKLIFSGENATHPVVSHLTQKHGISVNILEGNIKHSKTGTLGYLLLHIEQfSSINFDQIQAELRAQNVEIEVVSH--
+-
+>gi|312879461|ref|ZP_07739261.1|(229-321:324) ABC transporter related protein [Aminomonas paucivorans DSM 12260] >gi|310782752|gb|EFQ23150.1| ABC transporter related protein [Aminomonas paucivorans DSM 12260]  E=3e-05 s/c=0.55 id=17% cov=94%
+LSPPEGLKKLVQDDYAYIPSGInLRLLFPREIAKESVITAMARELDIDFSVVGGKLERYRDDVLGYLIVNLR--REDLPRVEAYLGRNGLFWEVM-----
+>gi|429539341|gb|ELA07378.1|(254-344:350) ABC superfamily ATP binding cassette transporter, binding protein [Weissella ceti NC36]  E=2e-12 s/c=0.82 id=21% cov=92%
+----ENVQALLETKPLTANEKLIQIQYVGNDTAQPLLATIYADYGVTPNILYSNMEILTQTPVGLAIAVFNGpDDTAINNALQHFREQGVGIKIL-----
+>gi|414344525|ref|YP_006986017.1|(243-335:340) D-methionine ABC transporter ATP-binding protein metN [Gluconobacter oxydans H24] >gi|411029832|gb|AFW03086.1| D-methionine ABC transporter ATP-binding protein metN [Gluconobacter oxydans H24]  E=5e-07 s/c=0.61 id=20% cov=95%
+VHLADCLRSFVTEKAFSGAMPVLRLGSMQNELSSTLLTDLYRTFGITASILQADIRGKSSGGHDTLVLTLSHNHEH---AIQWLSQNVEELEVIGY---
+>gi|148266920|ref|YP_001245863.1|(253-341:342) ABC transporter [Staphylococcus aureus subsp. aureus JH9] >gi|150392966|ref|YP_001315641.1| ABC transporter [Staphylococcus aureus subsp. aureus JH1] >gi|257795417|ref|ZP_05644396.1| conserved hypothetical protein [Staphylococcus aureus A9781] >gi|258413443|ref|ZP_05681718.1| conserved hypothetical protein [Staphylococcus aureus A9763] >gi|258421435|ref|ZP_05684362.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A9719] >gi|258436866|ref|ZP_05689206.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A9299] >gi|258444415|ref|ZP_05692749.1| conserved hypothetical protein [Staphylococcus aureus A8115] >gi|258445627|ref|ZP_05693807.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A6300] >gi|258448159|ref|ZP_05696288.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A6224] >gi|258455993|ref|ZP_05703948.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A5937] >gi|282893601|ref|ZP_06301834.1| ABC transporter [Staphylococcus aureus A8117] >gi|282927495|ref|ZP_06335113.1| D-methionine transport system ATP-binding protein [Staphylococcus aureus A10102] >gi|417651712|ref|ZP_12301468.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21172] >gi|417802135|ref|ZP_12449206.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21318] >gi|417893830|ref|ZP_12537853.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21201] >gi|418567440|ref|ZP_13131804.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21272] >gi|418638975|ref|ZP_13201245.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-3] >gi|418652544|ref|ZP_13214511.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-99] >gi|418661172|ref|ZP_13222772.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-122] >gi|419784020|ref|ZP_14309795.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-M] >gi|147739989|gb|ABQ48287.1| ABC transporter related [Staphylococcus aureus subsp. aureus JH9] >gi|149945418|gb|ABR51354.1| ABC transporter related [Staphylococcus aureus subsp. aureus JH1] >gi|257789389|gb|EEV27729.1| conserved hypothetical protein [Staphylococcus aureus A9781] >gi|257839690|gb|EEV64159.1| conserved hypothetical protein [Staphylococcus aureus A9763] >gi|257842859|gb|EEV67281.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A9719] >gi|257848657|gb|EEV72644.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A9299] >gi|257850674|gb|EEV74622.1| conserved hypothetical protein [Staphylococcus aureus A8115] >gi|257855577|gb|EEV78512.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A6300] >gi|257858674|gb|EEV81548.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A6224] >gi|257862205|gb|EEV84978.1| methionine import ATP-binding protein metN 1 [Staphylococcus aureus A5937] >gi|282590819|gb|EFB95895.1| D-methionine transport system ATP-binding protein [Staphylococcus aureus A10102] >gi|282764287|gb|EFC04414.1| ABC transporter [Staphylococcus aureus A8117] >gi|329725542|gb|EGG62021.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21172] >gi|334275429|gb|EGL93719.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21318] >gi|341853337|gb|EGS94218.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21201] >gi|371982085|gb|EHO99245.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus 21272] >gi|375019601|gb|EHS13153.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-3] >gi|375021899|gb|EHS15394.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-99] >gi|375039437|gb|EHS32366.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-122] >gi|383364224|gb|EID41538.1| ABC transporter, ATP-binding protein [Staphylococcus aureus subsp. aureus IS-M]  E=3e-06 s/c=0.61 id=17% cov=88%
+-----SLIRRLNDEQVGGFKD-YKIFVEETQVTQPIINDLIQICGREVKILFSSMSEIQGNTVCYMWLRFNIDQQFDDTAInQYFKEKNIQFE-------
+>gi|310816729|ref|YP_003964693.1|(256-343:346) ABC transporter [Ketogulonicigenium vulgare Y25] >gi|385234332|ref|YP_005795674.1| ABC transporter nucleotide binding/ATPase protein [Ketogulonicigenium vulgare WSH-001] >gi|308755464|gb|ADO43393.1| ABC transporter related protein [Ketogulonicigenium vulgare Y25] >gi|343463243|gb|AEM41678.1| ABC transporter nucleotide binding/ATPase protein [Ketogulonicigenium vulgare WSH-001]  E=5e-05 s/c=0.57 id=20% cov=89%
+--LPQDIAARLRSAPQRGDHVVIELRFDGGQQVQ---MDAIASALPGARILGANLEQIGAHLVGQVVLALPQQEQPVQ-----IPSFAATTKVIGYV--
+>gi|192291061|ref|YP_001991666.1|(273-368:372) ABC transporter [Rhodopseudomonas palustris TIE-1] >gi|192284810|gb|ACF01191.1| ABC transporter related [Rhodopseudomonas palustris TIE-1]  E=5e-10 s/c=0.70 id=21% cov=97%
+-SLPPEILAQLAPVPRGPSDPlLLDLHFTGTEARDPDIGAIAQALGARTRLVYGGVDRIQGRAQGHLIVSVDA-ADDRDAVLQRAHLLADRVKDLGFV--
+>gi|428225493|ref|YP_007109590.1|(3-82:93) NIL domain protein [Geitlerinema sp. PCC 7407] >gi|427985394|gb|AFY66538.1| NIL domain protein [Geitlerinema sp. PCC 7407]  E=2e-08 s/c=0.77 id=20% cov=82%
+----------FSAETHRHGHTRIRLRIPKQYQQEPIISNLITQHGLTVNI-AAALLSSNARDDGWFDLELNGTVDQIQGGLLYLNDLDLEI--------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	3144	*	1373	2968	*	*	*	*	*	*	1423	*	*	1
+       0	*	*	*	*	*	*	5048	0	0	
+
+D 2    4506	*	1835	1702	*	*	3616	*	5380	*	*	3890	*	*	*	3380	3335	*	*	*	2
+       0	*	*	*	*	*	*	6597	0	0	
+
+I 3    *	*	*	*	*	*	*	1716	*	807	*	*	5573	*	*	*	*	3282	*	*	3
+       0	*	*	*	*	*	*	7027	0	0	
+
+P 4    4595	*	*	*	*	*	*	*	*	*	*	5606	143	*	5846	*	6051	*	*	*	4
+       0	*	*	*	*	*	*	7190	0	0	
+
+E 5    2506	*	2493	1636	4787	6529	5206	6079	5358	*	*	*	5068	3689	5128	4765	5999	5444	*	*	5
+       0	*	*	*	*	*	*	7368	0	0	
+
+D 6    3882	4794	2818	2242	4808	4469	5390	6368	4403	5611	*	4466	*	5621	4842	2040	6071	*	*	*	6
+       16	6533	*	1000	1000	*	*	7439	1000	0	
+
+Y 7    5591	*	4668	*	3998	*	*	2183	6401	1114	6735	*	*	*	*	*	4689	3171	*	5374	7
+       14	*	6737	*	*	*	*	7456	0	0	
+
+Q 8    2362	*	*	4907	*	*	*	4273	3524	2451	6412	5881	6144	3562	3638	3801	4156	3577	*	5005	8
+       14	6738	*	0	*	*	0	7471	1000	1000	
+
+E 9    2122	*	4594	2277	6593	5378	4562	*	4383	*	6425	3556	6838	4415	3296	3117	5134	*	*	*	9
+       62	6577	4980	0	*	*	0	7488	1000	1000	
+
+R 10   4760	*	4651	4936	5037	5710	3870	*	3126	3450	6533	5528	*	3795	1601	4289	3620	*	*	*	10
+       16	*	6483	*	*	1817	482	7476	0	2366	
+
+L 11   6594	*	*	6060	4549	6566	*	3040	*	613	6728	*	*	6631	*	5337	*	3300	*	*	11
+       106	4477	5286	960	1041	*	0	7593	2514	2421	
+
+Q 12   3481	*	4925	3363	6442	*	5505	5438	3316	4004	*	4924	5165	2725	3300	3534	4061	3428	*	6923	12
+       69	6333	4863	0	*	2461	289	7588	1000	3303	
+
+A 13   3516	*	2614	3848	5223	6367	6867	6574	2541	4964	*	3874	2714	4001	*	3765	4317	6488	*	*	13
+       167	5000	3674	887	1122	1927	440	7604	2279	4043	
+
+E 14   4703	*	3352	1916	*	6689	5499	6337	4451	3629	*	4126	5998	3557	4190	5564	2961	3930	*	*	14
+       49	*	4912	*	*	2628	255	7594	0	4610	
+
+P 15   4931	*	4325	4865	6483	5351	5012	*	5471	5773	*	5576	1427	4227	2723	4663	4701	5156	*	3800	15
+       52	5265	6715	617	1522	1790	493	7522	1723	4813	
+
+F 16   3425	6608	5109	4346	4165	3705	4050	*	4291	3052	*	6913	3905	4606	3813	3054	4055	4060	*	5258	16
+       72	5458	5262	1400	687	1553	601	7521	1658	4478	
+
+T 17   3665	*	2791	3027	*	3319	5382	6762	6993	5788	*	4166	2782	6270	3969	3515	3111	*	*	6214	17
+       133	4733	4309	1221	808	1530	613	7491	2216	4309	
+
+D 18   4418	*	3003	3163	*	1893	3774	5385	4548	*	*	3298	4742	4780	4632	5214	4234	*	*	6387	18
+       124	4407	4827	1425	672	1881	457	7549	2782	4472	
+
+C 19   3075	5261	3865	3574	5119	2974	*	*	4700	5336	*	3044	5418	5244	5024	2525	3795	5581	*	6063	19
+       67	4849	6511	1842	472	1139	873	7551	2269	4611	
+
+V 20   4278	*	3536	3045	6178	3203	3729	6268	4174	5541	5559	4504	*	3642	3386	4289	6124	3443	*	4189	20
+       54	*	4761	*	*	1345	722	7582	0	3901	
+
+P 21   3093	*	5233	4171	*	6129	5229	6674	3886	3697	6788	5613	2490	4699	2835	5789	3570	3403	*	5492	21
+       106	4206	5906	1766	502	481	1818	7560	3022	3914	
+
+M 22   *	6232	6251	*	5659	*	*	1763	*	1442	5873	5631	*	5793	4853	*	*	2314	*	*	22
+       33	5485	*	2391	305	0	*	7549	1634	2313	
+
+L 23   5173	*	*	6511	5813	*	*	2367	*	1406	5737	*	*	*	*	*	*	2225	7054	2920	23
+       54	5618	5937	1843	471	*	*	7398	2158	0	
+
+R 24   6823	7127	4811	3480	*	7242	5846	6761	2158	6129	*	*	*	4144	1250	4142	4753	*	*	5908	24
+       26	*	5806	*	*	964	1037	7396	0	1722	
+
+L 25   *	*	*	*	5564	*	*	2285	*	707	*	*	*	*	6381	*	*	2747	*	*	25
+       10	7237	*	0	*	*	0	7392	1000	2207	
+
+E 26   4950	5527	6765	5095	3962	5743	6933	3782	3959	4721	*	3993	*	4046	2665	3472	2594	3641	6417	6270	26
+       0	*	*	*	*	0	*	7392	0	2207	
+
+F 27   *	*	*	*	828	*	5510	4555	*	4367	4921	*	*	*	*	5765	*	3953	*	2267	27
+       14	6720	*	0	*	*	*	7403	1000	0	
+
+T 28   4071	*	3975	4445	5787	5432	*	4331	4624	3973	4528	4005	3262	6552	3616	3577	2717	3696	*	5603	28
+       28	6774	6623	0	*	*	*	7403	1000	0	
+
+G 29   4747	*	4399	3531	*	704	*	*	4067	*	*	5814	6919	5251	5037	3972	*	6823	*	*	29
+       9	*	7256	*	*	0	*	7397	0	1000	
+
+Q 30   3087	*	3060	1964	*	4861	5208	*	4625	*	*	2762	6204	3790	4326	4115	4165	7035	*	*	30
+       0	*	*	*	*	0	*	7404	0	1000	
+
+S 31   3674	*	3908	4337	*	3894	5613	4300	4843	6726	6629	3602	*	3073	5806	2471	4144	3253	*	4275	31
+       0	*	*	*	*	*	*	7403	0	0	
+
+V 32   1577	*	*	*	*	5468	4666	5118	5459	5765	*	5518	*	4863	4545	3011	2707	2675	*	*	32
+       13	*	6827	*	*	*	*	7403	0	0	
+
+D 33   4935	*	3130	4275	5040	3422	4388	6724	3971	4707	*	4912	6020	3012	4723	3710	2516	4913	*	5407	33
+       17	*	6412	*	*	0	*	7393	0	1000	
+
+A 34   4103	*	3840	1888	*	4364	7074	6550	4071	5650	6476	*	*	2192	3834	4330	3820	4839	*	*	34
+       28	*	5716	*	*	0	*	7384	0	1000	
+
+P 35   3594	6458	5156	6473	*	4919	*	6346	*	6289	*	6616	602	5347	*	4286	3975	*	*	*	35
+       0	*	*	*	*	*	0	7371	0	1666	
+
+L 36   5300	*	3921	*	4517	*	*	1725	6348	2208	5394	*	*	*	*	*	7098	1724	*	*	36
+       17	6382	*	2322	322	930	1074	7379	1000	1666	
+
+L 37   *	*	*	*	6664	*	*	1135	*	1440	4997	*	*	*	*	6000	5479	3370	*	*	37
+       17	6448	*	2000	415	0	*	7378	1000	1000	
+
+S 38   2658	5352	6814	5103	7022	4331	*	5666	6222	6033	6369	4608	*	4732	6721	1278	3163	7170	*	4562	38
+       0	*	*	*	*	*	*	7411	0	0	
+
+E 39   3861	*	2629	2847	*	7048	3867	*	4074	5649	6597	3575	*	3114	2977	4613	3725	6222	*	6903	39
+       0	*	*	*	*	*	*	7411	0	0	
+
+T 40   3587	*	*	*	5737	*	*	2691	*	1204	3146	*	*	6033	*	*	4382	2913	*	*	40
+       0	*	*	*	*	*	*	7411	0	0	
+
+A 41   2067	5896	*	5719	6407	5257	*	2203	6337	3689	7136	5578	*	5517	6779	3266	3937	3921	*	3535	41
+       0	*	*	*	*	*	*	7411	0	0	
+
+R 42   3580	*	5086	5474	*	6664	6635	5854	2665	4812	*	5810	*	2612	1534	4862	4020	6467	*	*	42
+       0	*	*	*	*	*	*	7411	0	0	
+
+R 43   4675	*	3251	2617	7201	4868	5037	6349	2700	4572	*	4782	*	2604	3222	5069	4246	5465	*	*	43
+       0	*	*	*	*	*	*	7411	0	0	
+
+F 44   5225	5044	*	5605	1623	5916	4168	4768	6728	2863	*	7093	*	6654	5281	*	4164	4534	6773	2389	44
+       11	7048	*	0	*	*	*	7411	1000	0	
+
+N 45   5405	*	2511	5414	*	1521	4221	*	4884	5125	*	2317	4249	4896	*	5259	*	*	*	*	45
+       10	7136	*	0	*	*	*	7411	1000	0	
+
+V 46   4216	6715	6454	*	5699	4232	*	2142	*	2590	6557	*	4669	*	6349	5592	4258	1622	*	*	46
+       0	*	*	*	*	*	*	7411	0	0	
+
+N 47   4154	6576	2205	2710	*	4724	6625	*	5249	6154	7093	4507	3828	4564	4354	2862	3655	4455	*	*	47
+       0	*	*	*	*	*	*	7411	0	0	
+
+N 48   2410	*	*	*	3053	5918	*	2600	*	4272	*	6651	4699	*	*	5786	3938	1701	*	5733	48
+       0	*	*	*	*	*	*	7411	0	0	
+
+N 49   5991	*	4682	5099	6337	6917	5334	*	4437	*	*	1077	*	5371	3864	2518	3725	7072	*	*	49
+       0	*	*	*	*	*	*	7411	0	0	
+
+I 50   *	*	*	*	5508	*	*	560	*	2528	5945	*	*	*	*	*	*	3183	*	*	50
+       29	*	5643	*	*	*	*	7411	0	0	
+
+I 51   *	6732	*	*	*	6903	5843	2164	*	793	4786	*	*	*	*	*	*	3287	*	5268	51
+       0	*	*	*	*	0	*	7384	0	1263	
+
+S 52   3683	*	*	3985	2877	4150	2684	*	5668	5902	*	4519	*	2950	4491	3028	*	*	4895	3310	52
+       0	*	*	*	*	*	*	7411	0	0	
+
+A 53   1313	*	*	*	*	1012	*	*	*	*	*	*	*	*	*	3299	*	*	*	*	53
+       0	*	*	*	*	*	*	7411	0	0	
+
+Q 54   4559	*	3346	*	*	3176	4725	*	3380	6440	*	2005	*	3705	3920	2938	4298	5058	*	*	54
+       13	*	6836	*	*	*	*	7411	0	0	
+
+M 55   *	*	6623	*	6570	*	*	1441	*	2585	3387	*	*	*	*	*	4459	1721	*	*	55
+       36	6656	6099	1000	1000	*	0	7401	1000	1000	
+
+D 56   5488	*	1864	1792	*	5411	*	*	5332	5611	*	4388	*	5256	4723	3039	3428	6608	*	6836	56
+       31	*	5541	*	*	*	0	7397	0	2055	
+
+Y 57   4582	*	4471	2605	5771	5068	4190	4399	4563	4887	7110	4768	5483	3328	3670	4338	4049	5388	5632	3012	57
+       15	*	6639	*	*	2263	337	7364	0	2809	
+
+A 58   6589	*	*	*	3769	*	*	1340	5743	2206	*	6295	*	*	*	5094	3942	2565	*	6683	58
+       0	*	*	*	*	2120	377	7373	0	2680	
+
+G 59   3551	*	5242	5225	*	2537	5397	5961	3141	*	*	4336	*	1672	3220	4327	6008	*	*	*	59
+       18	*	6303	*	*	418	1993	7391	0	2295	
+
+G 60   4657	*	2401	3678	*	1626	4689	*	5012	*	*	3272	6788	3835	6402	3924	4690	*	*	*	60
+       0	*	*	*	*	1000	1000	7395	0	1566	
+
+V 61   4638	*	4757	4585	*	3394	3700	4697	3776	5309	5955	3913	*	3583	3271	4285	2676	3743	*	5619	61
+       0	*	*	*	*	*	0	7398	0	1000	
+
+K 62   2450	*	5632	*	6959	5756	5132	6497	5146	5283	*	4707	1734	4728	4282	3277	3820	3741	*	*	62
+       14	*	6650	*	*	0	*	7398	0	1000	
+
+F 63   6899	5684	5635	5931	2464	*	5770	2810	6906	2770	4612	*	*	4421	5827	*	*	2069	*	3396	63
+       0	*	*	*	*	0	*	7397	0	1000	
+
+G 64   5784	5445	5772	*	*	156	*	*	*	*	*	*	*	*	*	6337	*	5036	*	*	64
+       0	*	*	*	*	*	*	7411	0	0	
+
+I 65   *	6440	6483	4703	5327	7015	4093	3272	4814	4340	5369	4754	*	3737	3132	2891	2941	4226	5643	3830	65
+       0	*	*	*	*	*	*	7411	0	0	
+
+M 66   5251	*	*	*	3335	*	*	4311	*	864	2145	*	*	*	*	6741	5737	6369	6901	*	66
+       28	5717	*	0	*	*	*	7411	1619	0	
+
+L 67   4759	*	4987	*	3667	6026	6674	1925	*	2621	*	6917	*	*	6027	*	3688	2097	6349	4198	67
+       0	*	*	*	*	*	*	7411	0	0	
+
+T 68   4387	6501	*	*	4470	*	*	2315	*	1502	5398	*	*	*	*	*	5637	1746	*	*	68
+       32	6454	6533	2585	263	*	*	7411	1000	0	
+
+E 69   3550	6482	5811	2363	6856	3618	4097	4447	5546	3902	7201	4838	*	3163	3768	3322	4739	4495	*	*	69
+       18	*	6369	*	*	*	0	7388	0	1000	
+
+M 70   4625	*	6740	*	3786	6422	*	2269	*	1066	5232	*	*	*	*	*	6707	2790	*	*	70
+       94	6884	4191	0	*	984	1016	7367	1000	1852	
+
+H 71   4252	*	3868	3033	7052	*	4954	4069	5840	5156	*	3623	2850	4391	4012	2537	3286	*	*	7030	71
+       57	5804	5606	1143	870	1717	523	7350	1591	3814	
+
+G 72   3012	6483	5372	4651	*	749	5724	5507	*	*	*	5440	6161	5610	6698	4755	5519	5076	*	6705	72
+       52	6038	5641	0	*	531	1699	7345	1802	3758	
+
+T 73   4136	6652	2318	2855	*	4427	7175	7156	5853	6244	*	3078	3265	4630	5011	3774	3140	5432	*	*	73
+       68	6937	4729	0	*	446	1912	7384	1000	2839	
+
+Q 74   3832	*	2904	2532	*	4980	4314	5681	4033	6244	*	5452	2645	4215	4193	3984	4655	4993	*	5505	74
+       9	7323	*	2585	263	1280	765	7396	1000	3030	
+
+Q 75   3014	*	2492	2149	6336	4565	5328	5330	4116	4281	*	4806	*	3322	6113	4469	5178	5597	5988	*	75
+       43	6787	5609	0	*	0	*	7400	1000	2314	
+
+D 76   3195	*	2817	3607	6335	4997	5212	5220	3280	4769	*	3100	6328	2869	4422	5497	4312	4889	*	6523	76
+       40	*	5177	*	*	*	0	7400	0	1648	
+
+T 77   4364	6615	4826	*	3876	7267	*	1845	6506	2449	7138	6411	*	4528	4090	4862	4088	3038	6444	6434	77
+       27	*	5774	*	*	445	1914	7332	0	2736	
+
+Q 78   3131	6498	2754	2475	*	4497	5998	5882	3640	7188	*	3586	5294	2611	4748	5938	5222	5853	*	6285	78
+       18	*	6323	*	*	*	0	7341	0	2433	
+
+A 79   2706	6436	3778	3169	*	5047	4635	*	2889	6752	*	3807	5603	2758	4046	3782	4303	6310	*	*	79
+       0	*	*	*	*	966	1035	7307	0	2877	
+
+A 80   924	6609	*	*	4513	3874	*	3517	*	5368	*	*	*	6494	*	5198	4198	2773	*	*	80
+       35	6481	6278	0	*	902	1105	7369	1000	1675	
+
+I 81   *	5622	*	4842	6069	*	6475	1987	3806	1678	4210	*	*	4531	4438	6691	5412	3422	*	6304	81
+       18	6324	*	0	*	940	1063	7353	1000	1699	
+
+A 82   2401	*	2985	3263	*	5235	5251	6558	3273	5300	*	3901	*	3350	4580	3473	3987	5936	*	6423	82
+       0	*	*	*	*	*	0	7378	0	1000	
+
+W 83   3644	*	5748	5036	2564	6993	4405	7123	6936	4867	6482	5684	*	4942	4031	5055	*	6000	3531	1554	83
+       0	*	*	*	*	0	*	7378	0	1000	
+
+L 84   4297	6557	*	*	2741	*	*	3207	*	629	5321	*	*	*	*	*	*	6761	*	*	84
+       38	5257	*	1376	702	*	*	7411	1605	0	
+
+Q 85   3206	6635	5021	3535	*	6740	4309	4122	2782	*	6467	2894	5559	3710	2763	4049	4609	*	*	6674	85
+       0	*	*	*	*	*	*	7411	0	0	
+
+E 86   3432	*	3209	2288	*	3899	5101	6312	4030	5218	*	4742	*	2692	4694	3157	4192	*	*	*	86
+       42	6626	5771	0	*	*	*	7411	1000	0	
+
+H 87   3621	7280	6008	6990	6331	*	2958	6785	3024	2688	6708	3147	6337	2954	3820	4010	6112	6769	*	4636	87
+       27	5744	*	0	*	*	0	7396	1739	1678	
+
+H 88   3685	*	3531	6645	*	1244	4628	6190	4823	6824	*	3278	5365	4407	6837	5665	5096	4055	*	6281	88
+       0	*	*	*	*	984	1017	7402	0	1678	
+
+V 89   3608	*	4623	5765	4743	*	*	2075	*	2602	*	5266	6463	*	6780	6300	6847	1631	*	5108	89
+       61	4902	6928	693	1390	0	*	7422	2351	1000	
+
+K 90   4316	*	4542	2531	6701	4589	4901	5578	3735	4673	6922	4066	7016	3356	3101	3218	3680	5915	*	5504	90
+       39	5242	*	1473	644	0	*	7409	1738	1000	
+
+V 91   4282	4793	*	6767	5302	*	*	2628	5665	3142	*	6383	*	6833	*	4993	4066	1250	4714	6283	91
+       19	6261	*	0	*	*	*	7407	1573	0	
+
+E 92   *	*	5919	316	*	6455	6572	*	4121	*	*	*	*	4740	5537	*	4587	*	*	*	92
+       0	*	*	*	*	*	*	7206	0	0	
+
+V 93   6378	*	6443	4075	6443	*	*	3469	*	5208	*	*	6485	*	5327	6342	*	435	*	*	93
+       14	*	6741	*	*	*	*	7238	0	0	
+
+L 94   5877	*	*	*	*	*	*	1880	4561	1051	4555	*	*	*	*	*	4049	3588	*	*	94
+       56	5904	5536	1000	1000	*	0	7202	1000	1000	
+
+G 95   3657	*	*	*	*	488	5704	*	5326	*	*	4858	*	*	4663	4546	5630	*	5240	*	95
+       0	*	*	*	*	0	*	6695	0	1681	
+
+Y 96   *	*	*	4341	5604	*	2034	*	*	*	*	5613	*	*	5575	*	*	*	*	634	96
+       0	*	*	*	*	*	*	6721	0	0	
+
+V 97   5159	*	*	*	*	*	*	*	*	4071	*	*	*	*	*	*	*	132	*	*	97
+       0	*	*	*	*	*	*	6121	0	0	
+
+L 98   *	*	*	*	*	*	*	2614	*	597	*	*	*	*	*	*	*	2510	*	*	98
+       0	*	*	*	*	*	*	3185	0	0	
+
+E 99   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	99
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

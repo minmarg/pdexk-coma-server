@@ -1,0 +1,118 @@
+HHsearch 1.5
+NAME  d3b2ua2 g.3.9.1 (A:481-502) EGF receptor Cys-rich domains {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.9.1
+FILE  d3b2ua2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3b2ua2.a3m -v 1 
+DATE  Tue Jan 22 08:40:00 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  44 out of 46 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+98856688888788814320144479
+>Consensus
+vCdplCSxxGCWGPgPxqClSCxxxx
+>d3b2ua2 g.3.9.1 (A:481-502) EGF receptor Cys-rich domains {Human (Homo sapiens) [TaxId: 9606]}
+VCHALCSPEGCWGPEPRDCVSCXXXX
+>gi|334338518|ref|XP_001379324.2|(545-566:1253) PREDICTED: epidermal growth factor receptor [Monodelphis domestica]   E=8e-05 s/c=2.29 id=65% cov=88%
+VCHELCSSDGCWGPKPSHCLSC----
+>gi|327277077|ref|XP_003223292.1|(477-498:1288) PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Anolis carolinensis]  E=6e-05 s/c=2.31 id=57% cov=88%
+LCDPLCSHDGCWGPGPDNCVTC----
+>gi|327275145|ref|XP_003222334.1|(532-553:1240) PREDICTED: epidermal growth factor receptor-like [Anolis carolinensis]  E=6e-05 s/c=2.31 id=65% cov=88%
+VCDPLCSPVGCWGPGPTQCYSC----
+>gi|395823757|ref|XP_003785147.1|(509-530:1295) PREDICTED: receptor tyrosine-protein kinase erbB-4 [Otolemur garnettii]  E=7e-05 s/c=2.30 id=57% cov=88%
+VCNHLCSNDGCWGSGPDQCLSC----
+>gi|262264578|emb|CBH29723.1|(501-522:1196) epidermal growth factor receptor erbB1 [Notophthalmus viridescens]   E=0.0006 s/c=2.15 id=57% cov=88%
+ICDLLCSDNGCWGPGPFSCLSC----
+>gi|291223209|ref|XP_002731599.1|(194-215:324) PREDICTED: v-erb-like protein receptor-like [Saccoglossus kowalevskii]  E=0.0006 s/c=2.12 id=52% cov=88%
+VCNEQCSSMGCWGPGADECGSC----
+>gi|241700447|ref|XP_002411893.1|(466-487:982) epidermal growth factor receptor, putative [Ixodes scapularis] >gi|215504833|gb|EEC14327.1| epidermal growth factor receptor, putative [Ixodes scapularis]  E=0.0008 s/c=2.10 id=61% cov=88%
+VCHSQCSTSGCWGPAPNECLSC----
+>gi|410909560|ref|XP_003968258.1|(478-498:1144) PREDICTED: melanoma receptor tyrosine-protein kinase-like [Takifugu rubripes]  E=0.001 s/c=2.19 id=55% cov=85%
+-CDPECTALGCWGPGPDMCVSC----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	2621	*	4093	5225	*	*	*	*	*	*	411	*	*	1
+       0	*	*	*	*	*	*	1962	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1989	0	0	
+
+H 3    *	*	770	*	*	*	2145	*	*	*	*	2639	*	*	*	5217	*	*	*	*	3
+       0	*	*	*	*	*	*	1989	0	0	
+
+A 4    5411	*	*	3224	*	5161	4690	*	*	5122	*	*	540	*	5438	3980	*	*	*	*	4
+       0	*	*	*	*	*	*	1989	0	0	
+
+L 5    *	*	*	3072	5017	*	*	*	*	636	4293	*	*	2684	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1989	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       31	*	5534	*	*	*	*	1989	0	0	
+
+S 7    *	*	*	*	*	4980	*	*	*	*	*	*	*	*	*	109	4613	*	*	*	7
+       0	*	*	*	*	0	*	1983	0	1000	
+
+P 8    3351	*	2702	3365	*	*	4133	*	4550	*	*	3445	4403	*	4029	1853	3747	*	*	*	8
+       0	*	*	*	*	*	*	1989	0	0	
+
+E 9    4226	*	1805	1861	*	4763	*	5017	*	4624	5010	3735	*	5275	*	3314	*	4494	*	*	9
+       0	*	*	*	*	*	*	1989	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1989	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1989	0	0	
+
+W 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	12
+       0	*	*	*	*	*	*	1989	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1989	0	0	
+
+P 14   4864	*	*	*	*	*	*	*	*	*	*	*	158	*	*	3845	*	*	*	*	14
+       0	*	*	*	*	*	*	1989	0	0	
+
+E 15   5107	*	5246	2891	*	400	*	*	5355	*	*	*	*	5171	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1989	0	0	
+
+P 16   3021	*	*	*	*	*	*	*	*	*	*	*	190	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1989	0	0	
+
+R 17   4335	*	1344	5803	3962	*	5275	*	4716	*	*	3000	*	5452	3737	3074	4606	*	5171	*	17
+       0	*	*	*	*	*	*	1989	0	0	
+
+D 18   *	*	2645	3533	*	*	3952	*	*	*	4624	4133	*	829	*	5122	*	*	*	*	18
+       0	*	*	*	*	*	*	1989	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1989	0	0	
+
+V 20   5534	*	*	*	4637	5010	*	5570	*	947	4003	*	*	*	*	*	*	1830	*	5394	20
+       0	*	*	*	*	*	*	1989	0	0	
+
+S 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	85	4133	*	*	*	21
+       0	*	*	*	*	*	*	1989	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1989	0	0	
+
+X 23   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	23
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 24   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	24
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 25   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	25
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

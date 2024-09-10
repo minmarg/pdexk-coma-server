@@ -1,0 +1,215 @@
+Query         d1ev7a_ c.52.1.9 (A:) Restriction endonuclease NaeI {Nocardia aerocolonigenes [TaxId: 68170]}
+Match_columns 302
+No_of_seqs    36 out of 38
+Neff          3.7 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:58 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1ev7a_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1ev7a_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1ev7a_ c.52.1.9 (A:) Restrict 100.0       0       0  945.6  34.4  302    1-302     1-302 (302)
+  2 d1qc7a_ a.118.14.1 (A:) FliG {  21.2      60  0.0043   10.8   4.1   62  164-242    30-93  (101)
+  3 d1g41a_ c.37.1.20 (A:) HslU {H  19.7      43  0.0031   11.7   3.1   49  165-217   332-381 (443)
+  4 d1tffa_ d.3.1.11 (A:) Ubiquiti  17.3      33  0.0024   12.5   2.0   12  246-257   174-185 (228)
+  5 d1v10a2 b.6.1.3 (A:137-304) La  14.7 1.2E+02  0.0084    8.9   4.3    1  290-290    91-91  (168)
+  6 d1aoza2 b.6.1.3 (A:130-338) As  14.0      95  0.0069    9.5   3.7    3  238-240   165-167 (209)
+  7 4g6v_A CDI toxin, PDEXK superf  12.1      64  0.0047   10.6   2.4   24   70-93     41-64  (119)
+  8 d1v9va1 a.29.10.1 (A:8-108) Mi   8.6 1.1E+02  0.0078    9.1   2.5   33   25-57     40-72  (101)
+  9 d1xrsb1 c.23.6.1 (B:102-261) D   7.7 4.3E+02   0.031    5.2   5.3   18  238-255   117-134 (160)
+ 10 d2gaxa1 c.131.1.1 (A:1-135) Hy   7.3   1E+02  0.0073    9.3   1.8   64  189-254    65-132 (135)
+
+No 1  
+>d1ev7a_ c.52.1.9 (A:) Restriction endonuclease NaeI {Nocardia aerocolonigenes [TaxId: 68170]}
+Probab=100.00  E-value=0  Score=945.58  Aligned_columns=302  Identities=100%
+
+Q ss_pred             CCCHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCEEE
+Q ss_conf             97668999999985389806799999999999974887778543788878888887679999999871898887433166
+Q d1ev7a_           1 EPDDDLERVRATLYSLDPDGDRTAGVLRDTLDQLYDGQRTGRWNFDQLHKTEKTHMGTLVEINLHREFQFGDGFETDYEI   80 (302)
+Q Consensus         1 ~~D~el~~v~~~l~~~dpdg~r~a~vlR~siD~vlDg~rTGR~~~~~L~KTEKT~~GT~vEI~Lrref~~~~G~~lD~~I   80 (302)
+                      |||+||++|+++|+++||||+|||+|||+|||+||||||||||+|+||+||||||+||+||||||+||+|++|++|||+|
+T Consensus         1 ~~D~el~~v~~~l~~~dpdg~r~a~vlR~siD~vlDg~rTGR~~~~~L~KTEKT~~GT~vEI~Lrref~~~~G~~lD~~I   80 (302)
+T d1ev7a_           1 EPDDDLERVRATLYSLDPDGDRTAGVLRDTLDQLYDGQRTGRWNFDQLHKTEKTHMGTLVEINLHREFQFGDGFETDYEI   80 (302)
+T ss_pred             CCCHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCEEE
+T ss_conf             97668999999985389806799999999999974887778543788878888887679999999871898887433166
+
+
+Q ss_pred             CCEEEEEEECCCCCCCCCCHHHCCCEEEEEEEECCCCEEEEEEEEEEHHHCCCCCCCCCCCCCHHHHCEEEEEECCCCCC
+Q ss_conf             56457887515788730675340772799987066570666689830655277766656556844515277754378888
+Q d1ev7a_          81 AGVQVDCKFSMSQGAWMLPPESIGHICLVIWASDQQCAWTAGLVKVIPQFLGTANRDLKRRLTPEGRAQVVKLWPDHGKL  160 (302)
+Q Consensus        81 aG~~VD~K~S~~~~~WMIP~Ea~~~~cLlv~add~~a~ws~GLvr~r~e~Lt~gNRD~K~~ls~~~r~~i~WL~~d~apl  160 (302)
+                      +|||||||||+++++||||+||+|++||||||||++|+||+||+|++||+||+||||+|++||++|+++|+|||+|++||
+T Consensus        81 aG~~VD~K~S~~~~~WMIP~Ea~~~~cLlv~add~~a~ws~GLvr~r~e~Lt~gNRD~K~~ls~~~r~~i~WL~~d~apl  160 (302)
+T d1ev7a_          81 AGVQVDCKFSMSQGAWMLPPESIGHICLVIWASDQQCAWTAGLVKVIPQFLGTANRDLKRRLTPEGRAQVVKLWPDHGKL  160 (302)
+T ss_pred             CCEEEEEEECCCCCCCCCCHHHCCCEEEEEEEECCCCEEEEEEEEEEHHHCCCCCCCCCCCCCHHHHCEEEEEECCCCCC
+T ss_conf             56457887515788730675340772799987066570666689830655277766656556844515277754378888
+
+
+Q ss_pred             CCHHHHCCCHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHCCCCCHHHHHHHHHCCCCHHHHCCCCCCCCHHHHCCEEEE
+Q ss_conf             60244328988999982564212220268999999999708226889999987114613553257873001402787898
+Q d1ev7a_         161 QENLLLHIPGDVRDQIFSAKSSRGNQHGQARVNELFRRVHGRLIGRAVIATVAQQDDFMKRVRGSGGARSILRPEGIIIL  240 (302)
+Q Consensus       161 p~N~ll~L~~~~r~~I~~~~s~~~~~~Gq~Rv~eLFR~vq~~~I~R~vv~tVAqQ~D~mkRvR~nggaR~~L~~EGI~iL  240 (302)
+                      |||+|+|||+.+|++||+++|+++|++||+|||||||++|+++|||++|+|||||+|||||||+|||||++|++|||+||
+T Consensus       161 p~N~ll~L~~~~r~~I~~~~s~~~~~~Gq~Rv~eLFR~vq~~~I~R~vv~tVAqQ~D~mkRvR~nggaR~~L~~EGI~iL  240 (302)
+T d1ev7a_         161 QENLLLHIPGDVRDQIFSAKSSRGNQHGQARVNELFRRVHGRLIGRAVIATVAQQDDFMKRVRGSGGARSILRPEGIIIL  240 (302)
+T ss_pred             CCHHHHCCCHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHCCCCCHHHHHHHHHCCCCHHHHCCCCCCCCHHHHCCEEEE
+T ss_conf             60244328988999982564212220268999999999708226889999987114613553257873001402787898
+
+
+Q ss_pred             ECCCHHHHHHHHCCCCCCCCCCEEEEEEEECCCCCCCCEEEECCEEEEEECCCCCCCCCCCC
+Q ss_conf             26814689999808898998777888776458887776578757067863688875457889
+Q d1ev7a_         241 GHQDNDPKVANDLGLPVPRKGQVVAARVVPADEGDQRQTAEIQGRRWAVAVPGDPIVEAPVV  302 (302)
+Q Consensus       241 g~~~~~~~iA~~Lglpvp~~ge~vS~Rl~~~~~~~~~p~~~i~g~~W~~A~~~dpv~paP~~  302 (302)
+                      |||++|+++|++||||||.+|||||+||++++|+|++|+++|+|++|++|+|+|||||||+|
+T Consensus       241 g~~~~~~~iA~~Lglpvp~~ge~vS~Rl~~~~~~~~~p~~~i~g~~W~~A~~~dpv~paP~~  302 (302)
+T d1ev7a_         241 GHQDNDPKVANDLGLPVPRKGQVVAARVVPADEGDQRQTAEIQGRRWAVAVPGDPIVEAPVV  302 (302)
+T ss_pred             ECCCHHHHHHHHCCCCCCCCCCEEEEEEEECCCCCCCCEEEECCEEEEEECCCCCCCCCCCC
+T ss_conf             26814689999808898998777888776458887776578757067863688875457889
+
+
+No 2  
+>d1qc7a_ a.118.14.1 (A:) FliG {Thermotoga maritima [TaxId: 2336]}
+Probab=21.19   E-value=60  Score=10.77  Aligned_columns=62  Identities=21%
+
+Q ss_pred             HHHCCCHHHHHHHHCCCCCCCCHHHHHHHHHHHHHH--HCCCCCHHHHHHHHHCCCCHHHHCCCCCCCCHHHHCCEEEEE
+Q ss_conf             443289889999825642122202689999999997--082268899999871146135532578730014027878982
+Q d1ev7a_         164 LLLHIPGDVRDQIFSAKSSRGNQHGQARVNELFRRV--HGRLIGRAVIATVAQQDDFMKRVRGSGGARSILRPEGIIILG  241 (302)
+Q Consensus       164 ~ll~L~~~~r~~I~~~~s~~~~~~Gq~Rv~eLFR~v--q~~~I~R~vv~tVAqQ~D~mkRvR~nggaR~~L~~EGI~iLg  241 (302)
+                      .|...+++.|+.||+.=|        +|.++.++.-  ..-+|+...|.  +-|.+.+..+|       -|..+|.++|.
+T Consensus        30 ALkga~~~~r~~il~nls--------~R~~~~l~ee~~~~g~v~~~dve--~Aq~~iv~~~r-------~l~~~G~I~l~   92 (101)
+T d1qc7a_          30 ALKGASDELKEKIFKNMS--------KRAAALLKDELEYMGPVRLKDVE--EAQQKIINIIR-------RLEEAGEIVIA   92 (101)
+T ss_pred             HHHCCCHHHHHHHHHHCC--------HHHHHHHHHHHHHCCCCCHHHHH--HHHHHHHHHHH-------HHHHCCEEEEC
+T ss_conf             870888989999987202--------99999999999832899988999--99999999999-------99877915631
+
+
+Q ss_pred             C
+Q ss_conf             6
+Q d1ev7a_         242 H  242 (302)
+Q Consensus       242 ~  242 (302)
+                      .
+T Consensus        93 ~   93 (101)
+T d1qc7a_          93 R   93 (101)
+T ss_pred             C
+T ss_conf             7
+
+
+No 3  
+>d1g41a_ c.37.1.20 (A:) HslU {Haemophilus influenzae [TaxId: 727]}
+Probab=19.68   E-value=43  Score=11.69  Aligned_columns=49  Identities=8%
+
+Q ss_pred             HHCCCHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHH-CCCCCHHHHHHHHHCCC
+Q ss_conf             432898899998256421222026899999999970-82268899999871146
+Q d1ev7a_         165 LLHIPGDVRDQIFSAKSSRGNQHGQARVNELFRRVH-GRLIGRAVIATVAQQDD  217 (302)
+Q Consensus       165 ll~L~~~~r~~I~~~~s~~~~~~Gq~Rv~eLFR~vq-~~~I~R~vv~tVAqQ~D  217 (302)
+                      |..|+.++-.+|+.-..    ++=-....+||..-- .-.+...++..+|..--
+T Consensus       332 l~~Lt~~~L~~IL~~~~----~sli~qy~~lf~~~gv~L~~t~~Al~~iA~~a~  381 (443)
+T d1g41a_         332 LTALSAADFERILTEPH----ASLTEQYKALMATEGVNIAFTTDAVKKIAEAAF  381 (443)
+T ss_pred             CCCCCHHHHHHHHHHHH----HHHHHHHHHHHHHCCCEEEECHHHHHHHHHHHH
+T ss_conf             07799899999998878----889999999998669869877899999999620
+
+
+No 4  
+>d1tffa_ d.3.1.11 (A:) Ubiquitin thiolesterase protein OTUB2 (Otubain-2) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=17.29   E-value=33  Score=12.45  Aligned_columns=12  Identities=8%
+
+Q ss_pred             HHHHHHHCCCCC
+Q ss_conf             689999808898
+Q d1ev7a_         246 DPKVANDLGLPV  257 (302)
+Q Consensus       246 ~~~iA~~Lglpv  257 (302)
+                      =.++|.+|++|+
+T Consensus       174 I~ALa~~l~v~i  185 (228)
+T d1tffa_         174 ITALSQALSIAL  185 (228)
+T ss_pred             HHHHHHHHCCCE
+T ss_conf             999999838854
+
+
+No 5  
+>d1v10a2 b.6.1.3 (A:137-304) Laccase {Rigidoporus lignosus [TaxId: 219653]}
+Probab=14.74   E-value=1.2e+02  Score=8.91  Aligned_columns=1  Identities=0%
+
+Q ss_pred             E
+Q ss_conf             3
+Q d1ev7a_         290 A  290 (302)
+Q Consensus       290 A  290 (302)
+                      |
+T Consensus        91 a   91 (168)
+T d1v10a2          91 E   91 (168)
+T ss_pred             E
+T ss_conf             6
+
+
+No 6  
+>d1aoza2 b.6.1.3 (A:130-338) Ascorbate oxidase {Zucchini (Cucurbita pepo var. medullosa) [TaxId: 3663]}
+Probab=13.99   E-value=95  Score=9.45  Aligned_columns=3  Identities=33%
+
+Q ss_pred             EEE
+Q ss_conf             898
+Q d1ev7a_         238 IIL  240 (302)
+Q Consensus       238 ~iL  240 (302)
+                      .||
+T Consensus       165 ail  167 (209)
+T d1aoza2         165 TLL  167 (209)
+T ss_pred             EEE
+T ss_conf             999
+
+
+No 7  
+>4g6v_A CDI toxin, PDEXK superfamily
+Probab=12.05   E-value=64  Score=10.57  Aligned_columns=24  Identities=21%
+
+Q ss_pred             CCCCCCCCEEECCEEEEEEECCCC
+Q ss_conf             988874331665645788751578
+Q d1ev7a_          70 FGDGFETDYEIAGVQVDCKFSMSQ   93 (302)
+Q Consensus        70 ~~~G~~lD~~IaG~~VD~K~S~~~   93 (302)
+                      ...++-.||.|.|.-+||+--.+.
+T Consensus        41 ~~~~knPD~~InG~~fD~ysP~~~   64 (119)
+T 4g6v_A           41 VLGPKNPDYTINGQVFDNYAPATG   64 (119)
+T ss_pred             CCCCCCCCEEECCEEEEEECCCCC
+T ss_conf             888758762665726776668788
+
+
+No 8  
+>d1v9va1 a.29.10.1 (A:8-108) Microtubule-associated serine/threonine-protein kinase 3, MAST3 (KIAA0561) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=8.60    E-value=1.1e+02  Score=9.11  Aligned_columns=33  Identities=21%
+
+Q ss_pred             HHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHH
+Q ss_conf             999999999748877785437888788888876
+Q d1ev7a_          25 GVLRDTLDQLYDGQRTGRWNFDQLHKTEKTHMG   57 (302)
+Q Consensus        25 ~vlR~siD~vlDg~rTGR~~~~~L~KTEKT~~G   57 (302)
+                      -.-|||++---++.=|.||.|+=-++-||...-
+T Consensus        40 ElARDcL~KS~~~lITs~YF~Else~LekLl~e   72 (101)
+T d1v9va1          40 ELARDCLAKSGENLVTSRYFLEMQEKLERLLQD   72 (101)
+T ss_pred             HHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHH
+T ss_conf             999999988872120589998899999999998
+
+
+No 9  
+>d1xrsb1 c.23.6.1 (B:102-261) D-lysine 5,6-aminomutase beta subunit KamE, C-terminal domain {Clostridium sticklandii [TaxId: 1511]}
+Probab=7.72    E-value=4.3e+02  Score=5.20  Aligned_columns=18  Identities=22%
+
+Q ss_pred             EEEECCCHHHHHHHHCCC
+Q ss_conf             898268146899998088
+Q d1ev7a_         238 IILGHQDNDPKVANDLGL  255 (302)
+Q Consensus       238 ~iLg~~~~~~~iA~~Lgl  255 (302)
+                      ++.||..-.+++|+.+|.
+T Consensus       117 vivGG~~~~~~~a~~lGa  134 (160)
+T d1xrsb1         117 LLCGGPRINNEIAKELGY  134 (160)
+T ss_pred             EEECCCCCCHHHHHHCCC
+T ss_conf             874477679789986297
+
+
+No 10 
+>d2gaxa1 c.131.1.1 (A:1-135) Hypothetical protein Atu0240 {Agrobacterium tumefaciens [TaxId: 358]}
+Probab=7.26    E-value=1e+02  Score=9.31  Aligned_columns=64  Identities=9%
+
+Q ss_pred             HHHHHHHHHHHHCCCCCHHHHHHHHHC----CCCHHHHCCCCCCCCHHHHCCEEEEECCCHHHHHHHHCC
+Q ss_conf             899999999970822688999998711----461355325787300140278789826814689999808
+Q d1ev7a_         189 QARVNELFRRVHGRLIGRAVIATVAQQ----DDFMKRVRGSGGARSILRPEGIIILGHQDNDPKVANDLG  254 (302)
+Q Consensus       189 q~Rv~eLFR~vq~~~I~R~vv~tVAqQ----~D~mkRvR~nggaR~~L~~EGI~iLg~~~~~~~iA~~Lg  254 (302)
+                      +..+.+|..++..+-|.....-..+|+    .||..+++.  -....|..-||.+.|....=.++-..|-
+T Consensus        65 ~~~L~~l~~~a~~~~i~~~~Ft~~~~~t~~y~~~~~~~~~--~~~~~l~y~Gi~l~G~kk~V~kltg~l~  132 (135)
+T d2gaxa1          65 QEALRKIHQRSLERDITTSLYIEEMFATGHDAANRQVFSH--FSPDTAKVVGMALRADRKIVDKITKGAK  132 (135)
+T ss_pred             HHHHHHHHHHHHHCCCCEEECCHHHHCCCCHHHHHHHHHC--CCCCCCCEEEEEEECCHHHHHHHHCCCC
+T ss_conf             8999999999863799165530765305899999999854--7812122778888757355565535787
+
+
+Done!

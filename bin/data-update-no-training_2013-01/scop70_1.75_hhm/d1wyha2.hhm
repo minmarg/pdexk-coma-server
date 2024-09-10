@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  d1wyha2 g.39.1.3 (A:8-34) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d1wyha2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wyha2.a3m -v 1 
+DATE  Tue Jan 22 04:12:57 2013
+LENG  27 match states, 27 columns in multiple alignment
+FILT  18 out of 20 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCEEEECCCCCCCCCCC
+>ss_conf
+976764216886022027884224569
+>Consensus
+CxxCxktvmPGsrklEyxGxtWHExCF
+>d1wyha2 g.39.1.3 (A:8-34) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+CSACGETVMPGSRKLEYGGQTWHEHCF
+>gi|327284437|ref|XP_003226944.1|(101-127:279) PREDICTED: four and a half LIM domains protein 3-like [Anolis carolinensis]  E=1e-05 s/c=1.96 id=79% cov=104%
+CVSCQQVVMPGSRKLEYGGQTWHEHCF
+>gi|367465396|gb|AEX15488.1|(103-129:222) FHL2 isoform c variant 2 [Sparus aurata]   E=0.0006 s/c=1.76 id=68% cov=104%
+CSTCKKTVMPGSRKMEYKGNSWHETCF
+>gi|147898397|ref|NP_001085725.1|(101-127:279) four and a half LIM domains 3 [Xenopus laevis] >gi|49116816|gb|AAH73254.1| MGC80605 protein [Xenopus laevis]  E=7e-05 s/c=1.87 id=79% cov=104%
+CISCEKTVMPGSRKLEYNGQTWHEHCF
+>gi|125840523|ref|XP_695478.2|(101-127:279) PREDICTED: four and a half LIM domains protein 3 [Danio rerio]   E=8e-05 s/c=1.87 id=71% cov=104%
+CVACDKTVMPGTRKLEYAGSTWHEGCF
+>gi|291190878|ref|NP_001167322.1|(101-127:282) four and a half LIM domains protein 3 [Salmo salar] >gi|223649202|gb|ACN11359.1| Four and a half LIM domains protein 3 [Salmo salar]  E=0.0001 s/c=1.83 id=68% cov=104%
+CVACDKTVMPGSKKLEYEGSAWHENCF
+>gi|47218600|emb|CAG10299.1|(101-127:291) unnamed protein product [Tetraodon nigroviridis]   E=0.0003 s/c=1.80 id=54% cov=104%
+CHTCLKTIMPGSKKMEHKGNSWHENCF
+>gi|348571740|ref|XP_003471653.1|(101-127:279) PREDICTED: four and a half LIM domains protein 2-like [Cavia porcellus]  E=0.0004 s/c=1.78 id=57% cov=104%
+CQECRKTIMPGTRKMEYKGSSWHETCF
+>gi|410911576|ref|XP_003969266.1|(101-127:279) PREDICTED: four and a half LIM domains protein 3-like [Takifugu rubripes]  E=0.0006 s/c=1.76 id=71% cov=104%
+CSACDQTVTPGSRMLEYDGSTWHEDCF
+>gi|406033436|emb|CCH22649.1|(90-116:259) activator of sperm specific transcription factor, partial [Trichosurus vulpecula]  E=0.001 s/c=1.73 id=57% cov=104%
+CFQCKKTIMPGSRKIEFKGNEWHETCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1770	0	0	
+
+S 2    *	*	*	*	2981	*	2662	4252	*	*	*	*	*	3268	*	2471	4402	1593	*	*	2
+       0	*	*	*	*	*	*	1770	0	0	
+
+A 3    954	*	*	2731	*	*	*	*	*	*	*	*	*	3646	*	3172	2814	*	*	*	3
+       0	*	*	*	*	*	*	1770	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1770	0	0	
+
+G 5    *	*	2019	3356	*	4084	*	*	1906	3242	4257	*	*	3087	4205	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 6    *	*	*	4084	*	*	*	*	424	*	*	*	*	2352	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1770	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	181	3087	*	*	7
+       0	*	*	*	*	*	*	1770	0	0	
+
+V 8    *	*	*	*	*	*	*	1198	*	*	*	*	*	*	*	*	*	826	*	*	8
+       0	*	*	*	*	*	*	1770	0	0	
+
+M 9    *	*	*	*	*	*	*	*	*	*	117	*	*	*	*	*	3677	*	*	*	9
+       0	*	*	*	*	*	*	1770	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1770	0	0	
+
+G 11   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1770	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	252	2641	*	*	*	12
+       0	*	*	*	*	*	*	1770	0	0	
+
+R 13   *	*	*	*	*	*	*	*	2205	*	*	*	*	*	353	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 14   *	*	*	*	*	*	*	*	203	*	2930	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 15   *	*	*	*	*	*	*	3646	*	941	1325	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 16   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1770	0	0	
+
+Y 17   *	*	*	*	3646	*	2288	*	*	*	*	*	*	*	*	*	*	*	*	483	17
+       0	*	*	*	*	*	*	1770	0	0	
+
+G 18   4145	*	3677	4086	*	2552	*	*	1062	*	*	3356	*	*	*	4079	*	*	*	*	18
+       0	*	*	*	*	*	*	1770	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1770	0	0	
+
+Q 20   *	*	*	*	*	*	*	*	*	*	*	1235	*	1866	*	1733	*	*	*	*	20
+       0	*	*	*	*	*	*	1770	0	0	
+
+T 21   4086	*	*	3646	*	*	*	*	*	*	*	*	*	*	*	1325	1114	*	*	*	21
+       0	*	*	*	*	*	*	1770	0	0	
+
+W 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	22
+       0	*	*	*	*	*	*	1770	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 24   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1770	0	0	
+
+H 25   *	*	2930	*	*	4145	1866	*	*	*	*	2619	*	*	*	4208	1639	*	*	*	25
+       0	*	*	*	*	*	*	1770	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1770	0	0	
+
+F 27   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	0	*	*	*	1770	0	0	
+
+//

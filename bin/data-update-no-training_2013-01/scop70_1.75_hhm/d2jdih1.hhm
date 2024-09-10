@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d2jdih1 a.2.10.1 (H:102-145) Epsilon subunit of F1F0-ATP synthase C-terminal domain {Cow (Bos taurus) [TaxId: 9913]}
+FAM   a.2.10.1
+FILE  d2jdih1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2jdih1.a3m -v 1 
+DATE  Tue Jan 22 07:34:20 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHCCCCCCCCEEEEEEECCCCHHHHCC
+>ss_conf
+95421234337877776402444322002457641430111139
+>Consensus
+mLDxxaAkxNLEkAqselxxasDeaarAExqIxieAnEAivKAL
+>d2jdih1 a.2.10.1 (H:102-145) Epsilon subunit of F1F0-ATP synthase C-terminal domain {Cow (Bos taurus) [TaxId: 9913]}
+MLDLGAAKANLEKAQSELLGAADEATRAEIQIRIEANEALVKAL
+>gi|336111708|gb|AEI16514.1|(53-95:96) mitochondrial ATP synthase subunit delta precursor [Chelon labrosus]  E=3e-08 s/c=1.43 id=73% cov=100%
+-LDAAAAKANLEQAQSELAATSDEAARAEVQISIEANEAIVKAL
+>gi|334326702|ref|XP_001374107.2|(129-172:173) PREDICTED: ATP synthase subunit delta, mitochondrial-like [Monodelphis domestica]  E=1e-10 s/c=1.58 id=82% cov=102%
+MLDLGAAKSNLEKAHSELSGASDEAARAEAQIRIEANEAIVKAL
+>gi|149435351|ref|XP_001513376.1|(121-164:165) PREDICTED: ATP synthase subunit delta, mitochondrial-like isoform 1 [Ornithorhynchus anatinus] >gi|345309933|ref|XP_003428901.1| PREDICTED: ATP synthase subunit delta, mitochondrial-like isoform 2 [Ornithorhynchus anatinus]  E=2e-09 s/c=1.49 id=73% cov=102%
+MLDLAVAKSNLEKANSELSGVSDEAARAEVLIRIEANEAIVKAL
+>gi|164422323|gb|ABY55259.1|(117-159:160) mitochondrial ATP synthase H+ transporting F1 complex delta subunit [Oncorhynchus masou formosanus]  E=2e-08 s/c=1.45 id=70% cov=100%
+-LDVAAAKVNLEKAQSEMASASDEAARAEVQINIDANEAIVKAL
+>gi|410921176|ref|XP_003974059.1|(117-159:160) PREDICTED: ATP synthase subunit delta, mitochondrial-like isoform 1 [Takifugu rubripes] >gi|410921178|ref|XP_003974060.1| PREDICTED: ATP synthase subunit delta, mitochondrial-like isoform 2 [Takifugu rubripes]  E=1e-07 s/c=1.39 id=75% cov=100%
+-LDVAAAKANLEKAQSALAGASDEAARAEVQISIEANEAIIKAL
+>gi|147904284|ref|NP_001087284.1|(118-161:162) ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit [Xenopus laevis] >gi|51593674|gb|AAH78510.1| MGC85306 protein [Xenopus laevis]  E=1e-07 s/c=1.35 id=64% cov=102%
+MLDLSTAKSNLEKAQAELQSAGDEAAKAEALINVEASEAIVKAL
+>gi|348504712|ref|XP_003439905.1|(117-159:160) PREDICTED: ATP synthase subunit delta, mitochondrial-like [Oreochromis niloticus]  E=3e-08 s/c=1.43 id=70% cov=100%
+-LDIAAARANLEKAQADLAGTTDEAARAEVQISIEANEAIVKAL
+>gi|41152365|ref|NP_956262.1|(116-158:159) ATP synthase subunit delta, mitochondrial [Danio rerio] >gi|37589805|gb|AAH59627.1| ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit [Danio rerio] >gi|40675642|gb|AAH65042.1| ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit [Danio rerio]  E=4e-08 s/c=1.43 id=77% cov=100%
+-LDVAAAKANLEKAQSELVSASDEATRAEVLISIEANEAIVKAL
+>gi|197127888|gb|ACH44386.1|(122-165:166) putative ATP synthase H+ transporting mitochondrial F1 complex delta subunit [Taeniopygia guttata]  E=5e-05 s/c=1.16 id=69% cov=102%
+MLDLATAKSNLEKAVSEMAAASDEAAKAEAQIKVEANEALVKAL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1432	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1536	0	0	
+
+D 3    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 4    3719	*	*	*	*	*	*	3485	*	873	*	*	*	*	*	*	*	1791	*	*	4
+       0	*	*	*	*	*	*	1536	0	0	
+
+G 5    689	*	*	*	*	1818	*	*	*	*	*	*	*	*	*	3377	*	*	*	*	5
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 6    418	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2515	3706	*	*	6
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 7    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1536	0	0	
+
+K 8    *	*	*	*	*	*	*	*	135	*	*	*	*	*	3485	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 9    1129	*	*	*	*	*	*	*	*	*	3824	*	*	*	*	1342	*	3689	*	*	9
+       0	*	*	*	*	*	*	1536	0	0	
+
+N 10   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 12   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1536	0	0	
+
+K 13   *	*	*	*	*	*	*	*	114	*	*	*	*	3719	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 14   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1536	0	0	
+
+Q 15   *	*	*	*	*	*	4021	*	*	3619	*	3706	*	511	*	*	*	3668	*	*	15
+       0	*	*	*	*	*	*	1536	0	0	
+
+S 16   1883	*	*	*	*	*	*	*	*	*	*	*	*	*	*	456	*	*	*	*	16
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 17   3755	*	3485	257	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	391	2074	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 19   1068	*	*	*	*	*	*	*	*	3927	*	*	*	3377	*	1764	*	3906	*	*	19
+       0	*	*	*	*	*	*	1536	0	0	
+
+G 20   2083	*	*	*	*	934	*	*	*	*	*	*	*	*	*	2056	*	*	*	*	20
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 21   400	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2597	3706	*	*	21
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 22   2172	*	*	*	*	3377	*	*	*	*	*	*	*	*	*	755	3485	*	*	*	22
+       0	*	*	*	*	*	*	1536	0	0	
+
+D 23   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 24   *	*	*	129	*	3547	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 25   122	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3619	*	*	*	*	25
+       0	*	*	*	*	*	*	1536	0	0	
+
+T 26   491	*	*	*	*	*	*	*	*	*	*	*	*	3547	*	3824	2917	*	*	*	26
+       0	*	*	*	*	*	*	1536	0	0	
+
+R 27   *	*	*	*	*	*	*	*	1964	*	*	*	*	*	427	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 28   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1536	0	0	
+
+I 30   1653	*	*	*	*	*	*	2172	*	*	*	*	*	*	*	*	*	1120	*	*	30
+       0	*	*	*	*	*	*	1536	0	0	
+
+Q 31   *	*	*	*	*	*	*	*	*	2061	*	*	*	395	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1536	0	0	
+
+I 32   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1536	0	0	
+
+R 33   *	*	*	*	*	*	*	*	3668	*	*	2525	*	*	1179	1708	*	*	*	*	33
+       0	*	*	*	*	*	*	1536	0	0	
+
+I 34   *	*	*	*	*	*	*	427	*	*	*	*	*	*	*	*	*	1964	*	*	34
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 35   *	*	3689	116	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 36   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1536	0	0	
+
+N 37   *	*	*	*	*	3547	*	*	*	*	*	290	*	*	*	3377	*	*	*	*	37
+       0	*	*	*	*	*	*	1536	0	0	
+
+E 38   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 39   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 40   *	*	*	*	*	*	*	694	*	1388	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1536	0	0	
+
+V 41   *	*	*	*	*	*	*	3755	*	*	*	*	*	*	*	*	*	111	*	*	41
+       0	*	*	*	*	*	*	1536	0	0	
+
+K 42   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1536	0	0	
+
+A 43   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1536	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	0	*	*	*	1536	0	0	
+
+//

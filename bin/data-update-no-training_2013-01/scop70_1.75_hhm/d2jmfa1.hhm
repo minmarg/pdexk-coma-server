@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d2jmfa1 b.72.1.1 (A:521-553) Ubiquitin ligase NEDD4 WWIII domain {fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+FAM   b.72.1.1
+FILE  d2jmfa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2jmfa1.a3m -v 1 
+DATE  Tue Jan 22 08:55:28 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  107 out of 1034 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.0 
+SEQ
+>ss_pred
+CCCCCCCEEEECCCCCEEEEECCCCCEEEECCC
+>ss_conf
+988885336576999868786379967764399
+>Consensus
+GPLPxgWexxxxxxGxxYyxnhxtxxtxWxxPR
+>d2jmfa1 b.72.1.1 (A:521-553) Ubiquitin ligase NEDD4 WWIII domain {fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+GPLPPGWEIRYTAAGERFFVDHNTRRTTFEDPR
+>gi|428163526|gb|EKX32592.1|(386-415:425) hypothetical protein GUITHDRAFT_121220 [Guillardia theta CCMP2712]   E=0.0008 s/c=1.55 id=23% cov=94%
+--LPAGWKREEDRNGRIYYINHKLHKSSWTFP-
+>gi|321475889|gb|EFX86850.1|(58-88:831) hypothetical protein DAPPUDRAFT_43635 [Daphnia pulex]   E=7e-07 s/c=1.83 id=35% cov=94%
+--LPYGWEKIDDPTYGTYYIDHVNRKTQYENP-
+>gi|326433212|gb|EGD78782.1|(815-848:1020) myosin heavy chain [Salpingoeca sp. ATCC 50818]   E=7e-05 s/c=1.47 id=35% cov=103%
+GPLPPPWKKKIDkRTNRHYFKNMESKVTTWVDPR
+>gi|198414831|ref|XP_002125008.1|(50-80:177) PREDICTED: similar to GL21692, partial [Ciona intestinalis]   E=0.0004 s/c=1.53 id=31% cov=97%
+--LPYGYEMAVDYSDRVYFLNHIAQRVSYNDPR
+>gi|384245683|gb|EIE19176.1|(126-156:163) hypothetical protein COCSUDRAFT_54765 [Coccomyxa subellipsoidea C-169]  E=0.0009 s/c=1.49 id=34% cov=97%
+-PLPEGWGAAKDAQGRTYFWHKATKKVQWERP-
+>gi|294950427|ref|XP_002786624.1|(323-355:497) hypothetical protein Pmar_PMAR005331 [Perkinsus marinus ATCC 50983] >gi|239900916|gb|EER18420.1| hypothetical protein Pmar_PMAR005331 [Perkinsus marinus ATCC 50983]  E=0.0008 s/c=1.41 id=32% cov=103%
+GALPADWEEFHADDGTSYYYNSTTGQTQWEHPR
+>gi|328857681|gb|EGG06796.1|(2-32:780) hypothetical protein MELLADRAFT_35874 [Melampsora larici-populina 98AG31]  E=0.001 s/c=1.49 id=31% cov=97%
+-PLPPGWTEHRAPTGQFYYYHAETQESTYVRP-
+>gi|357610024|gb|EHJ66792.1|(162-190:804) hypothetical protein KGM_19576 [Danaus plexippus]   E=5e-05 s/c=1.74 id=27% cov=91%
+----PPWERAVTPANVPYYINHELETTHWDHPK
+>gi|196003932|ref|XP_002111833.1|(231-264:597) hypothetical protein TRIADDRAFT_24598 [Trichoplax adhaerens] >gi|190585732|gb|EDV25800.1| hypothetical protein TRIADDRAFT_24598, partial [Trichoplax adhaerens]  E=0.0005 s/c=1.38 id=32% cov=103%
+GPLPEEWIVKYaSSSNQPYYIDTSTQTVHWLDPR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3932	0	0	
+
+P 2    4810	*	3879	3407	*	*	*	*	*	5615	*	*	393	*	5641	*	*	*	*	*	2
+       51	4852	*	0	*	*	*	4699	1000	0	
+
+L 3    *	*	*	*	5195	*	*	6174	*	106	*	*	*	*	*	*	*	6177	5952	*	3
+       0	*	*	*	*	*	*	5036	0	0	
+
+P 4    *	*	*	*	*	5292	*	*	*	*	*	*	37	*	*	*	*	*	*	*	4
+       73	4705	6542	2569	266	*	*	5038	1978	0	
+
+P 5    3186	7337	3488	3021	4864	*	4044	*	4694	5140	*	*	1677	5214	5832	4722	4695	5356	*	4278	5
+       0	*	*	*	*	*	0	5021	0	1000	
+
+G 6    7065	*	5501	5243	4792	567	4345	*	5646	*	*	4137	4130	6180	5753	*	*	*	5818	*	6
+       13	6750	*	1000	1000	0	*	5017	1000	1000	
+
+W 7    *	*	*	*	5074	*	*	*	*	*	*	*	*	*	*	*	*	*	137	4039	7
+       0	*	*	*	*	*	*	5022	0	0	
+
+E 8    5359	*	4189	956	6616	6450	*	5317	3277	6631	*	*	*	3973	4560	4003	4086	5786	*	*	8
+       0	*	*	*	*	*	*	5022	0	0	
+
+I 9    3596	5254	6784	1988	*	*	*	5787	2765	*	3017	*	5253	4231	3016	5212	5383	3915	*	5578	9
+       0	*	*	*	*	*	*	5022	0	0	
+
+R 10   2606	4899	6034	4806	5755	4126	3910	5327	3033	5048	4811	*	*	4879	2284	5404	5833	3412	*	5536	10
+       0	*	*	*	*	*	*	5022	0	0	
+
+Y 11   6098	*	*	3936	3536	*	6576	3738	3384	3591	4718	6018	5709	3833	3665	5470	3041	3004	5147	4288	11
+       23	5993	*	0	*	*	*	5022	1610	0	
+
+T 12   3662	6349	1221	6623	*	6925	6325	*	*	5709	*	4834	6018	*	7250	3797	1733	*	*	*	12
+       47	4971	*	0	*	*	*	5022	2215	0	
+
+A 13   3745	*	4222	2699	5783	4758	5879	6904	6850	6035	*	5653	1597	4131	3862	3806	4943	5541	*	6407	13
+       42	5124	*	0	*	*	*	5022	2125	0	
+
+A 14   3691	*	2061	3394	*	6920	5372	6237	3875	*	*	3105	*	4630	4149	3041	2943	*	*	6711	14
+       47	4951	*	0	*	*	*	5022	2061	0	
+
+G 15   *	*	5713	*	5919	395	6892	5247	5470	*	6897	3492	*	*	*	6444	6197	6076	*	6734	15
+       20	6197	*	0	*	*	*	5022	1000	0	
+
+E 16   5717	*	4159	5471	6336	3288	6054	4869	2750	6659	6077	4827	*	2991	1683	5991	6576	4154	*	6596	16
+       22	6018	*	0	*	*	*	5022	1118	0	
+
+R 17   5143	6659	*	6906	6197	*	5982	3774	4435	4765	5674	*	2579	4756	4518	3834	3158	1814	6030	5767	17
+       12	6897	*	0	*	*	*	5022	1000	0	
+
+F 18   *	*	*	*	2044	*	*	5518	*	5709	*	*	*	*	*	*	*	*	*	481	18
+       0	*	*	*	*	*	*	5022	0	0	
+
+F 19   *	*	*	*	1285	*	*	*	*	*	*	*	*	*	*	*	*	*	5465	818	19
+       0	*	*	*	*	*	*	5022	0	0	
+
+V 20   4825	6009	*	*	3996	6959	5377	1947	5471	3390	5621	*	*	*	*	6878	*	1860	4499	2958	20
+       0	*	*	*	*	*	*	5022	0	0	
+
+D 21   *	*	1652	5653	*	*	3890	*	*	*	*	847	*	5991	*	*	*	*	*	5447	21
+       15	*	6616	*	*	*	*	5022	0	0	
+
+H 22   5210	*	5039	4920	4858	*	713	5517	6025	6710	6806	5847	6870	*	6227	4841	4103	4986	5651	5299	22
+       0	*	*	*	*	0	*	5012	0	1000	
+
+N 23   4096	6237	4277	3411	6722	*	5670	3389	3856	4317	6711	2546	4533	3952	4675	4354	4080	3472	*	6267	23
+       0	*	*	*	*	*	*	5022	0	0	
+
+T 24   5005	*	5047	4219	*	*	6345	*	6439	4503	5084	3234	*	5641	3935	2873	1187	5653	*	*	24
+       0	*	*	*	*	*	*	5022	0	0	
+
+R 25   *	5804	*	4462	6464	2188	4792	*	1881	*	*	4283	*	2737	2456	*	*	*	6076	*	25
+       0	*	*	*	*	*	*	5022	0	0	
+
+R 26   4829	6349	*	3546	6439	5301	*	3555	3445	5883	5889	5695	*	3397	3653	3566	1961	3570	*	*	26
+       0	*	*	*	*	*	*	5022	0	0	
+
+T 27   5153	*	*	*	6829	*	6275	5203	5465	*	*	5247	*	*	6747	2512	708	3691	*	*	27
+       0	*	*	*	*	*	*	5022	0	0	
+
+T 28   5040	6700	*	*	*	*	3381	6804	6766	*	*	*	*	1676	*	2819	1449	6745	*	5987	28
+       0	*	*	*	*	*	*	5022	0	0	
+
+F 29   *	5530	*	*	4230	*	*	6258	*	6076	*	*	6275	*	6336	*	*	*	426	2971	29
+       0	*	*	*	*	*	*	5022	0	0	
+
+E 30   6906	6464	2793	1691	5833	*	4378	3636	4534	4911	6596	5812	*	4881	5425	4778	2957	4741	*	5991	30
+       0	*	*	*	*	*	*	5022	0	0	
+
+D 31   4853	*	1434	*	5416	*	1847	*	4340	6424	*	5844	4543	6451	2783	5964	*	*	*	*	31
+       0	*	*	*	*	*	*	5024	0	0	
+
+P 32   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	5024	0	0	
+
+R 33   *	*	*	*	*	*	*	*	2590	*	*	*	*	*	262	*	*	*	*	*	33
+       0	*	*	0	*	*	*	4470	0	0	
+
+//

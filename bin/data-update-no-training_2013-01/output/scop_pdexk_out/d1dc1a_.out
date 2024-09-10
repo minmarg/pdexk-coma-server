@@ -1,0 +1,215 @@
+Query         d1dc1a_ c.52.1.11 (A:) Restriction endonuclease BsobI {Bacillus stearothermophilus [TaxId: 1422]}
+Match_columns 319
+No_of_seqs    19 out of 21
+Neff          2.6 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:41:02 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1dc1a_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1dc1a_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1dc1a_ c.52.1.11 (A:) Restric 100.0       0       0 1194.4  31.7  319    1-319     1-319 (319)
+  2 d2o8sa1 a.295.1.1 (A:54-278) U  94.7    0.15 1.1E-05   28.2   9.0   45   34-78     23-68  (225)
+  3 d1vh0a_ c.116.1.3 (A:) Hypothe  14.1      98  0.0071    9.6   3.8   73  227-313    68-140 (157)
+  4 d1dgsa1 a.60.2.2 (A:401-581) N  11.8 1.8E+02   0.013    8.0   4.6   21  112-138   104-124 (181)
+  5 d1wuda1 a.60.8.1 (A:530-606) H  10.6 4.9E+02   0.035    5.0   6.5   47   26-73     16-63  (77)
+  6 d2id6a1 a.4.1.9 (A:1-75) Trans  10.1 1.2E+02  0.0087    9.0   3.2   39   67-106    28-66  (75)
+  7 d1ddza2 c.53.2.1 (A:326-564) b   8.8      99  0.0072    9.6   2.4    5  127-131   100-104 (239)
+  8 d1zq1c2 d.74.4.1 (C:277-407) G   8.5 1.1E+02  0.0078    9.4   2.5   22  244-266   105-126 (131)
+  9 d2hmfa1 c.73.1.3 (A:2-303) Asp   8.2 1.7E+03    0.12    1.4   8.6   40  121-160   115-154 (302)
+ 10 d2dk8a1 a.4.5.85 (A:8-75) DNA-   7.9 1.4E+02    0.01    8.7   2.8   25   72-96     21-49  (68)
+
+No 1  
+>d1dc1a_ c.52.1.11 (A:) Restriction endonuclease BsobI {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=100.00  E-value=0  Score=1194.37  Aligned_columns=319  Identities=100%
+
+Q ss_pred             CCHHHHCCCHHHCCCCHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHCCHHHHHHCCCHHHHHHHHHCCHHHHHH
+Q ss_conf             96054405322214667888778999999853666765888899999998520758875000102778877131178885
+Q d1dc1a_           1 KPFENHLKSVDDLKTTYEEYRAGFIAFALEKNKRSTPYIERARALKVAASVAKTPKDLLYLEDIQDALLYASGISDKAKK   80 (319)
+Q Consensus         1 ~py~~hl~ss~DLvTTyea~RaGFia~ALeKNrrAtPyIeeAraLk~~as~a~~p~dLlni~~I~~~LltAaGiSdKA~~   80 (319)
+                      |||+||||||+|||||||++||||+|+|||||||||||||||||||+++|++++|+|||||++|+++|||||||||||++
+T Consensus         1 ~py~~hl~ss~DLvTTyea~RaGFia~ALeKNrrAtPyIeeAraLk~~as~a~~p~dLlni~~I~~~LltAaGiSdKA~~   80 (319)
+T d1dc1a_           1 KPFENHLKSVDDLKTTYEEYRAGFIAFALEKNKRSTPYIERARALKVAASVAKTPKDLLYLEDIQDALLYASGISDKAKK   80 (319)
+T ss_pred             CCHHHHCCCHHHCCCCHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHCCHHHHHHCCCHHHHHHHHHCCHHHHHH
+T ss_conf             96054405322214667888778999999853666765888899999998520758875000102778877131178885
+
+
+Q ss_pred             HCCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCEEEECCCC
+Q ss_conf             05974789999999999850113157999999988652643352377888888899999999987776134212203666
+Q d1dc1a_          81 FLTEDDKKESINNLIENFLEPAGEEFIDELIFRYLLFQGDSLGGTMRNIAGALAQQKLTRAIISALDIANIPYKWLDSRD  160 (319)
+Q Consensus        81 hL~~~DK~eaI~~LI~nFLepaG~nFVeELv~RfLLtrGDsLGGsMRNi~G~lAq~KltR~Iis~L~i~~i~y~wl~s~~  160 (319)
+                      ||+++||+|||+|||+|||||||+|||||||||||||||||||||||||||+||||||||+|+|+|+|+|++|+||||+|
+T Consensus        81 hL~~~DK~eaI~~LI~nFLepaG~nFVeELv~RfLLtrGDsLGGsMRNi~G~lAq~KltR~Iis~L~i~~i~y~wl~s~~  160 (319)
+T d1dc1a_          81 FLTEDDKKESINNLIENFLEPAGEEFIDELIFRYLLFQGDSLGGTMRNIAGALAQQKLTRAIISALDIANIPYKWLDSRD  160 (319)
+T ss_pred             HCCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCEEEECCCC
+T ss_conf             05974789999999999850113157999999988652643352377888888899999999987776134212203666
+
+
+Q ss_pred             CCHHHCCCCCCCCHHHHEEEEEEEEECCCCCEEEEEECCCCEECCCCCEEEECCCHHHHHHHHCCCCHHHEEEEEECCCC
+Q ss_conf             21010044433311020023445652378614789714464130664478872772333110011350030452000257
+Q d1dc1a_         161 KKYTNWMDKPEDDYELETFAKGISWTINGKHRTLMYNITVSLVKKNVDICLFNCEPEIYTPQKVHQQPEKYLLLGELKGG  240 (319)
+Q Consensus       161 kk~~~W~~~~~~d~eie~~lkgisW~~~~~~Rtliyn~~vp~v~kNvD~clfn~~~~~~~~~~~~~~p~~YialGELKGG  240 (319)
+                      |||++|++|++||+|||+++|||||++++++||||||++||+|+||||||||||+|+++++++++++|++||||||||||
+T Consensus       161 kk~~~W~~~~~~d~eie~~lkgisW~~~~~~Rtliyn~~vp~v~kNvD~clfn~~~~~~~~~~~~~~p~~YialGELKGG  240 (319)
+T d1dc1a_         161 KKYTNWMDKPEDDYELETFAKGISWTINGKHRTLMYNITVSLVKKNVDICLFNCEPEIYTPQKVHQQPEKYLLLGELKGG  240 (319)
+T ss_pred             CCHHHCCCCCCCCHHHHEEEEEEEEECCCCCEEEEEECCCCEECCCCCEEEECCCHHHHHHHHCCCCHHHEEEEEECCCC
+T ss_conf             21010044433311020023445652378614789714464130664478872772333110011350030452000257
+
+
+Q ss_pred             CCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCEEEEEHHHHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHCC
+Q ss_conf             6877775103558999999999997448972567633678888999999997358523300367526799999999519
+Q d1dc1a_         241 IDPAGADEHWKTANTALTRIRNKFSEKGLSPKTIFIGAAIEHSMAEEIWDQLQSGSLTNSANLTKTEQVGSLCRWIINI  319 (319)
+Q Consensus       241 IDPAGADEHWKTA~sAL~RIr~aF~~~~~~p~tfFiGaAIE~~Ma~EI~~Ql~~g~LsnAANL~~~~Ql~si~~wli~l  319 (319)
+                      |||||||||||||||||+|||+||++++|||||||||||||++||+|||+|||+|+|+||||||+||||+|||||||+|
+T Consensus       241 IDPAGADEHWKTA~sAL~RIr~aF~~~~~~p~tfFiGaAIE~~Ma~EI~~Ql~~g~LsnAANL~~~~Ql~si~~wli~l  319 (319)
+T d1dc1a_         241 IDPAGADEHWKTANTALTRIRNKFSEKGLSPKTIFIGAAIEHSMAEEIWDQLQSGSLTNSANLTKTEQVGSLCRWIINI  319 (319)
+T ss_pred             CCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCEEEEEHHHHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHHHCC
+T ss_conf             6877775103558999999999997448972567633678888999999997358523300367526799999999519
+
+
+No 2  
+>d2o8sa1 a.295.1.1 (A:54-278) Uncharacterized protein AGR_C_984p {Agrobacterium tumefaciens [TaxId: 358]}
+Probab=94.73   E-value=0.15  Score=28.23  Aligned_columns=45  Identities=18%
+
+Q ss_pred             CCCCHHH-HHHHHHHHHHHHCCHHHHHHCCCHHHHHHHHHCCHHHH
+Q ss_conf             6676588-88999999985207588750001027788771311788
+Q d1dc1a_          34 RSTPYIE-RARALKVAASVAKTPKDLLYLEDIQDALLYASGISDKA   78 (319)
+Q Consensus        34 rAtPyIe-eAraLk~~as~a~~p~dLlni~~I~~~LltAaGiSdKA   78 (319)
+                      .+.|-|+ +..+.+..+.+++++.|||+++.+-...++|-|+.+..
+T Consensus        23 a~~~~v~r~~~Yf~~~I~~i~svddll~D~rL~~~al~AfGL~~~~   68 (225)
+T d2o8sa1          23 SKQPDVARETEYYREKIGSVKSIDDFMADTRLYNYALKAHGLEDMA   68 (225)
+T ss_pred             HHHHHHHHHHHHHHHHCCCCCCHHHHHCCHHHHHHHHHHHCCCCCC
+T ss_conf             5228899999999987138778898634789999999971888221
+
+
+No 3  
+>d1vh0a_ c.116.1.3 (A:) Hypothetical protein SAV0024/SA0023 {Staphylococcus aureus [TaxId: 1280]}
+Probab=14.14   E-value=98  Score=9.62  Aligned_columns=73  Identities=15%
+
+Q ss_pred             CHHHEEEEEECCCCCCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCEEEEEHHHHHHHHHHHHHHHHHCCCCCCCCCCCCH
+Q ss_conf             50030452000257687777510355899999999999744897256763367888899999999735852330036752
+Q d1dc1a_         227 QPEKYLLLGELKGGIDPAGADEHWKTANTALTRIRNKFSEKGLSPKTIFIGAAIEHSMAEEIWDQLQSGSLTNSANLTKT  306 (319)
+Q Consensus       227 ~p~~YialGELKGGIDPAGADEHWKTA~sAL~RIr~aF~~~~~~p~tfFiGaAIE~~Ma~EI~~Ql~~g~LsnAANL~~~  306 (319)
+                      .+..|+.+      .|+.|  +++-+-  .+...-......+.+.-+|+||+|--  .+.|+......- | .-..+|=+
+T Consensus        68 ~~~~~~I~------LDe~G--k~~~S~--~fA~~i~~~~~~g~~~i~F~IGGa~G--~~~~~~~~a~~~-l-SlS~mTfp  133 (157)
+T d1vh0a_          68 KPQSTVIT------LEIQG--KMLSSE--GLAQELNQRMTQGQSDFVFVIGGSNG--LHKDVLQRSNYA-L-SFSKMTFP  133 (157)
+T ss_pred             CCCCEEEE------EECCC--CCCCHH--HHHHHHHHHHHCCCCCEEEEEECCCC--CCHHHHHHCCCC-C-CCCCCCCC
+T ss_conf             99987999------70799--713849--99999999985589947999618636--587999852631-0-13799987
+
+
+Q ss_pred             HHHHHHH
+Q ss_conf             6799999
+Q d1dc1a_         307 EQVGSLC  313 (319)
+Q Consensus       307 ~Ql~si~  313 (319)
+                      +|++-|.
+T Consensus       134 H~lariv  140 (157)
+T d1vh0a_         134 HQMMRVV  140 (157)
+T ss_pred             HHHHHHH
+T ss_conf             8999999
+
+
+No 4  
+>d1dgsa1 a.60.2.2 (A:401-581) NAD+-dependent DNA ligase, domain 3 {Thermus filiformis [TaxId: 276]}
+Probab=11.85   E-value=1.8e+02  Score=7.95  Aligned_columns=21  Identities=33%
+
+Q ss_pred             HHHHHHCCCCCCCHHHHHHHHHHHHHH
+Q ss_conf             998865264335237788888889999
+Q d1dc1a_         112 FRYLLFQGDSLGGTMRNIAGALAQQKL  138 (319)
+Q Consensus       112 ~RfLLtrGDsLGGsMRNi~G~lAq~Kl  138 (319)
+                      .|||--.|      +++||-..|++..
+T Consensus       104 ~r~l~aLg------I~~VG~~~ak~La  124 (181)
+T d1dgsa1         104 ERLLYALG------LPGVGEVLARNLA  124 (181)
+T ss_pred             HHHHHHHC------CCCCCHHHHHHHH
+T ss_conf             78998740------1454789999986
+
+
+No 5  
+>d1wuda1 a.60.8.1 (A:530-606) HRDC domain from RecQ helicase {Escherichia coli [TaxId: 562]}
+Probab=10.62   E-value=4.9e+02  Score=5.01  Aligned_columns=47  Identities=19%
+
+Q ss_pred             HHHHHHCCCCCCHHHHHHHHHHHHHH-HCCHHHHHHCCCHHHHHHHHHC
+Q ss_conf             99998536667658888999999985-2075887500010277887713
+Q d1dc1a_          26 AFALEKNKRSTPYIERARALKVAASV-AKTPKDLLYLEDIQDALLYASG   73 (319)
+Q Consensus        26 a~ALeKNrrAtPyIeeAraLk~~as~-a~~p~dLlni~~I~~~LltAaG   73 (319)
+                      .+|.+.+- +.-+|---++|+..|.+ -.++.+|..|+++...-+.--|
+T Consensus        16 ~~A~~~~i-~~~~I~~~~~L~~ia~~~P~t~~~L~~I~g~~~~k~~~yG   63 (77)
+T d1wuda1          16 SIADESNV-PPYVVFNDATLIEMAEQMPITASEMLSVNGVGMRKLERFG   63 (77)
+T ss_pred             HHHHHHCC-CCCEECCHHHHHHHHHHCCCCHHHHHHCCCCCHHHHHHHH
+T ss_conf             99997189-9823548799999997679997899508999988898983
+
+
+No 6  
+>d2id6a1 a.4.1.9 (A:1-75) Transcriptional regulator TM1030 {Thermotoga maritima [TaxId: 2336]}
+Probab=10.05   E-value=1.2e+02  Score=9.05  Aligned_columns=39  Identities=21%
+
+Q ss_pred             HHHHHHCCHHHHHHHCCHHHHHHHHHHHHHHHHHHCCHHH
+Q ss_conf             7887713117888505974789999999999850113157
+Q d1dc1a_          67 ALLYASGISDKAKKFLTEDDKKESINNLIENFLEPAGEEF  106 (319)
+Q Consensus        67 ~LltAaGiSdKA~~hL~~~DK~eaI~~LI~nFLepaG~nF  106 (319)
+                      -+..++|+| |+.-|-.-.+|.+.+..+++.+.+.-.+.+
+T Consensus        28 ~Ia~~agis-~gtiY~~F~sKe~l~~~~~~~~~~~~~~~~   66 (75)
+T d2id6a1          28 EIAEKAGVA-KGLIFHYFKNKEELYYQAYMSVTEKLQKEF   66 (75)
+T ss_pred             HHHHHHCCC-CCHHHCCCCCHHHHHHHHHHHHHHHHHHHH
+T ss_conf             999984888-001302278988899999999999999999
+
+
+No 7  
+>d1ddza2 c.53.2.1 (A:326-564) beta-carbonic anhydrase {Red alga (Porphyridium purpureum) [TaxId: 35688]}
+Probab=8.79    E-value=99  Score=9.61  Aligned_columns=5  Identities=80%
+
+Q ss_pred             HHHHH
+Q ss_conf             78888
+Q d1dc1a_         127 RNIAG  131 (319)
+Q Consensus       127 RNi~G  131 (319)
+                      ||+|+
+T Consensus       100 Rn~GN  104 (239)
+T d1ddza2         100 RNIAN  104 (239)
+T ss_pred             CCCCC
+T ss_conf             13266
+
+
+No 8  
+>d1zq1c2 d.74.4.1 (C:277-407) Glutamyl-tRNA(gln) amidotransferase subunit E, GatE, insert domain {Pyrococcus abyssi [TaxId: 29292]}
+Probab=8.54    E-value=1.1e+02  Score=9.37  Aligned_columns=22  Identities=27%
+
+Q ss_pred             CCCCCHHHHHHHHHHHHHHHHHH
+Q ss_conf             77751035589999999999974
+Q d1dc1a_         244 AGADEHWKTANTALTRIRNKFSE  266 (319)
+Q Consensus       244 AGADEHWKTA~sAL~RIr~aF~~  266 (319)
+                      -.||+ |++++.||.++|.....
+T Consensus       105 ~~Ag~-~~~v~~aLG~iR~~la~  126 (131)
+T d1zq1c2         105 LVAAE-EEKAKNALREVIKRARE  126 (131)
+T ss_pred             EEECC-HHHHHHHHHHHHHHHHH
+T ss_conf             98289-79999999999999999
+
+
+No 9  
+>d2hmfa1 c.73.1.3 (A:2-303) Aspartokinase {Methanococcus jannaschii [TaxId: 2190]}
+Probab=8.24    E-value=1.7e+03  Score=1.38  Aligned_columns=40  Identities=10%
+
+Q ss_pred             CCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCEEEECCCC
+Q ss_conf             3352377888888899999999987776134212203666
+Q d1dc1a_         121 SLGGTMRNIAGALAQQKLTRAIISALDIANIPYKWLDSRD  160 (319)
+Q Consensus       121 sLGGsMRNi~G~lAq~KltR~Iis~L~i~~i~y~wl~s~~  160 (319)
+                      ...-..|....+..++--+..+-+.|+-.|+.-.|+++++
+T Consensus       115 ~~~~~~~d~ils~GE~lSa~lla~~L~~~Gi~a~~ld~~~  154 (302)
+T d2hmfa1         115 ELTPKSRDYILSFGERLSSPILSGAIRDLGEKSIALEGGE  154 (302)
+T ss_pred             CCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEECCCC
+T ss_conf             5898899999975389999999999996699869874112
+
+
+No 10 
+>d2dk8a1 a.4.5.85 (A:8-75) DNA-directed RNA polymerase III subunit RPC6, RPO3F {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=7.90    E-value=1.4e+02  Score=8.66  Aligned_columns=25  Identities=24%
+
+Q ss_pred             HCCHHHH----HHHCCHHHHHHHHHHHHH
+Q ss_conf             1311788----850597478999999999
+Q d1dc1a_          72 SGISDKA----KKFLTEDDKKESINNLIE   96 (319)
+Q Consensus        72 aGiSdKA----~~hL~~~DK~eaI~~LI~   96 (319)
+                      .|+||+.    ..++.+++.+.+||.|..
+T Consensus        21 ~GItd~~L~~~lP~v~~~~rv~aINkLLs   49 (68)
+T d2dk8a1          21 HGITDQVIQNEMPHIEAQQRAVAINRLLS   49 (68)
+T ss_pred             CCCCHHHHHHHCCCCCHHHHHHHHHHHHH
+T ss_conf             99984799975789999889999999874
+
+
+Done!

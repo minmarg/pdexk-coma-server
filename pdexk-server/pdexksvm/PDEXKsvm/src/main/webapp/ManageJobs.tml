@@ -1,0 +1,21 @@
+<html t:type="layout" title="Manage jobs"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <div class="header">
+        Manage jobs
+    </div>
+
+    <t:grid source="jobGridDataSource" row="job" add="view, delete">
+        <p:viewcell>
+            <t:actionlink t:id="view" context="job.generatedId">View</t:actionlink>
+        </p:viewcell>
+        <p:deletecell>
+            <t:actionlink t:id="delete" context="job.generatedId">Delete</t:actionlink>
+        </p:deletecell>
+        <p:empty>
+            <p>There are no jobs to display</p>
+        </p:empty>
+    </t:grid>
+    
+</html>

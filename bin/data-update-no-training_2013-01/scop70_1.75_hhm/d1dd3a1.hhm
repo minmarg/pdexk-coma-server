@@ -1,0 +1,213 @@
+HHsearch 1.5
+NAME  d1dd3a1 a.108.1.1 (A:1-57) Ribosomal protein L7/12, oligomerisation (N-terminal) domain {Thermotoga maritima [TaxId: 2336]}
+FAM   a.108.1.1
+FILE  d1dd3a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dd3a1.a3m -v 1 
+DATE  Mon Jan 21 20:15:09 2013
+LENG  57 match states, 57 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCHHHHHHHHHCCHHHHHHHHHHHHHHHHCCCCCCHHHHHCCCCCCCCCCCCCCCCC
+>ss_conf
+987889999860428889999999888637751002444201222444222111249
+>Consensus
+mtxeeiieaIxxmtVlELxELVKxlEexFGVsAaaPVxxxxxxxagaxaxaxxEEkT
+>d1dd3a1 a.108.1.1 (A:1-57) Ribosomal protein L7/12, oligomerisation (N-terminal) domain {Thermotoga maritima [TaxId: 2336]}
+MTIDEIIEAIEKLTVSELAELVKKLEDKFGVTAAAPVAVAAAPVAGAAAGAAQEEKT
+>gi|217077414|ref|YP_002335132.1|(1-57:128) 50S ribosomal protein L7/L12 [Thermosipho africanus TCF52B] >gi|419759981|ref|ZP_14286266.1| 50S ribosomal protein L7/L12 [Thermosipho africanus H17ap60334] >gi|226734485|sp|B7ICR4.1|RL7_THEAB RecName: Full=50S ribosomal protein L7/L12 >gi|217037269|gb|ACJ75791.1| ribosomal protein L7/L12 [Thermosipho africanus TCF52B] >gi|407515020|gb|EKF49806.1| 50S ribosomal protein L7/L12 [Thermosipho africanus H17ap60334]  E=9e-08 s/c=1.05 id=62% cov=102%
+MTLEEIVSAIEQLTVAELAELVKMLEDKFGVSASAPVMAMPMAGAAAGGAAAAEEKT
+>gi|206901881|ref|YP_002251085.1|(1-57:125) 50S ribosomal protein L7/L12 [Dictyoglomus thermophilum H-6-12] >gi|226733676|sp|B5YEX7.1|RL7_DICT6 RecName: Full=50S ribosomal protein L7/L12 >gi|206740984|gb|ACI20042.1| ribosomal protein L7/L12 [Dictyoglomus thermophilum H-6-12]  E=8e-06 s/c=0.94 id=60% cov=102%
+MNKEEIIQAIKEMKVTELVELVKALEEEFGVSAAMPVAAVGSPVAGAAAAAPVEEKT
+>gi|158520718|ref|YP_001528588.1|(4-60:128) 50S ribosomal protein L7/L12 [Desulfococcus oleovorans Hxd3] >gi|226733675|sp|A8ZV50.1|RL7_DESOH RecName: Full=50S ribosomal protein L7/L12 >gi|158509544|gb|ABW66511.1| ribosomal protein L7/L12 [Desulfococcus oleovorans Hxd3]  E=6e-05 s/c=0.89 id=56% cov=100%
+ITKQDVIDFIANMTVLELSELITELEEKFGVSAAAPVAMMAGGMpAGGDAGAA-EEKT
+>gi|218960791|ref|YP_001740566.1|(7-59:127) 50S ribosomal subunit protein L7/L12 [Candidatus Cloacamonas acidaminovorans] >gi|167729448|emb|CAO80359.1| 50S ribosomal subunit protein L7/L12 [Candidatus Cloacamonas acidaminovorans str. Evry]  E=0.0001 s/c=0.94 id=46% cov=95%
+----QVIDLIKEMTVLELSELVKEMEEIFGVSASAPVAAVMSTQGSAAEGGEKEEQT
+>gi|160901840|ref|YP_001567421.1|(1-57:128) 50S ribosomal protein L7/L12 [Petrotoga mobilis SJ95] >gi|226733716|sp|A9BF34.1|RL7_PETMO RecName: Full=50S ribosomal protein L7/L12 >gi|160359484|gb|ABX31098.1| ribosomal protein L7/L12 [Petrotoga mobilis SJ95]  E=0.0001 s/c=0.87 id=57% cov=102%
+MTKEELINEIKNMTVGELAELVKALEDEFGVSAAAPVMAAVPGVAGVSPAQQEEEKT
+>gi|406998248|gb|EKE16190.1|(17-66:134) hypothetical protein ACD_11C00028G0017 [uncultured bacterium]   E=0.0001 s/c=0.99 id=61% cov=89%
+-----LVEEIEKMSVLDLSELVKVLEEKFGVSAAAPMMMAGV-VAGGAAEAV-EEKT
+>gi|258513631|ref|YP_003189853.1|(4-58:126) 50S ribosomal protein L7/L12 [Desulfotomaculum acetoxidans DSM 771] >gi|257777336|gb|ACV61230.1| ribosomal protein L7/L12 [Desulfotomaculum acetoxidans DSM 771]  E=0.0002 s/c=0.90 id=61% cov=98%
+--INEILEAVKGLTVLELSELVKAFEEEFGVTAAAPVGVMAAAPAAGAAAAEVEEQT
+>gi|28199868|ref|NP_780182.1|(3-55:122) 50S ribosomal protein L7/L12 [Xylella fastidiosa Temecula1] >gi|71902456|ref|ZP_00684399.1| Ribosomal protein L7/L12 [Xylella fastidiosa Ann-1] >gi|182682619|ref|YP_001830779.1| 50S ribosomal protein L7/L12 [Xylella fastidiosa M23] >gi|417559261|ref|ZP_12210205.1| Ribosomal protein L7/L12 RplL [Xylella fastidiosa EB92.1] >gi|32129965|sp|Q87A31.1|RL7_XYLFT RecName: Full=50S ribosomal protein L7/L12 >gi|226734496|sp|B2IA69.1|RL7_XYLF2 RecName: Full=50S ribosomal protein L7/L12 >gi|28057989|gb|AAO29831.1| 50S ribosomal protein L7/L12 [Xylella fastidiosa Temecula1] >gi|71727822|gb|EAO30072.1| Ribosomal protein L7/L12 [Xylella fastidiosa Ann-1] >gi|182632729|gb|ACB93505.1| ribosomal protein L7/L12 [Xylella fastidiosa M23] >gi|338178140|gb|EGO81141.1| Ribosomal protein L7/L12 RplL [Xylella fastidiosa EB92.1]  E=0.0007 s/c=0.89 id=52% cov=95%
+LTNEKIVEAIAEKSIMEVMELVKAIEDRFGVSAAAPVMVSGS----AAAAAPVEEQT
+>gi|293375380|ref|ZP_06621661.1|(4-51:121) ribosomal protein L7/L12 [Turicibacter sanguinis PC909] >gi|325844409|ref|ZP_08168136.1| ribosomal protein L7/L12 [Turicibacter sp. HGF1] >gi|292645933|gb|EFF63962.1| ribosomal protein L7/L12 [Turicibacter sanguinis PC909] >gi|325489083|gb|EGC91467.1| ribosomal protein L7/L12 [Turicibacter sp. HGF1]  E=0.0008 s/c=0.98 id=53% cov=86%
+LTAAEMIEAIKEMSVLELNELVKAIEEEFGVTAAAPVAMVGGAVEAAG---------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	3306	*	2063	600	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2052	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	2953	*	*	*	2981	426	*	*	*	2
+       0	*	*	*	*	*	*	2079	0	0	
+
+I 3    4240	*	*	*	*	*	*	2532	956	3140	*	2782	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2127	0	0	
+
+D 4    4240	*	4269	406	*	*	*	*	*	*	*	3804	*	3853	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2127	0	0	
+
+E 5    *	*	2950	1114	*	*	*	*	3742	*	*	*	*	1583	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2202	0	0	
+
+I 6    *	*	*	*	*	*	*	745	*	2602	4595	*	*	*	*	*	*	2341	*	*	6
+       0	*	*	*	*	*	*	2196	0	0	
+
+I 7    *	*	*	*	*	*	*	751	*	2842	4647	*	*	*	*	*	*	2144	*	*	7
+       0	*	*	*	*	*	*	2196	0	0	
+
+E 8    *	*	2891	709	*	*	*	*	*	*	*	3174	*	3399	*	4391	*	*	*	*	8
+       0	*	*	*	*	*	*	2196	0	0	
+
+A 9    658	*	*	2566	3070	*	*	*	*	3674	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2196	0	0	
+
+I 10   *	*	*	*	*	*	*	90	*	*	*	*	*	*	*	*	*	4040	*	*	10
+       0	*	*	*	*	*	*	2196	0	0	
+
+E 11   2955	*	*	1637	*	*	*	*	1226	*	*	*	*	*	4075	3999	*	*	*	*	11
+       0	*	*	*	*	*	*	2196	0	0	
+
+K 12   *	*	*	1801	*	3057	*	*	2443	*	*	1997	*	3383	*	3999	*	*	*	*	12
+       0	*	*	*	*	*	*	2196	0	0	
+
+L 13   *	*	*	*	*	*	*	*	2924	2329	579	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2196	0	0	
+
+T 14   *	*	*	*	*	*	*	*	3434	*	*	*	*	*	*	1847	668	*	*	*	14
+       0	*	*	*	*	*	*	2196	0	0	
+
+V 15   *	*	*	*	*	*	*	2924	*	*	*	*	*	*	*	*	*	204	*	*	15
+       0	*	*	*	*	*	*	2196	0	0	
+
+S 16   2838	*	*	*	*	3996	*	*	*	662	3787	*	*	*	*	4561	4300	*	*	*	16
+       0	*	*	*	*	*	*	2196	0	0	
+
+E 17   *	*	4107	86	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2196	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	108	*	*	*	*	*	*	*	3787	*	*	18
+       0	*	*	*	*	*	*	2196	0	0	
+
+A 19   1636	*	*	*	*	*	*	*	*	*	3787	2879	*	*	*	1254	*	4300	*	*	19
+       0	*	*	*	*	*	*	2196	0	0	
+
+E 20   *	*	4245	78	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2196	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2196	0	0	
+
+V 22   *	*	*	*	*	*	*	3110	*	*	*	*	*	*	*	*	*	178	*	*	22
+       0	*	*	*	*	*	*	2196	0	0	
+
+K 23   *	*	*	*	*	*	*	*	183	*	*	*	*	*	*	*	3070	*	*	*	23
+       0	*	*	*	*	*	*	2196	0	0	
+
+K 24   853	*	*	2341	*	*	*	*	4561	*	2751	*	*	*	*	*	*	4107	*	*	24
+       0	*	*	*	*	*	*	2196	0	0	
+
+L 25   4582	4245	*	*	4040	*	*	3135	*	753	3674	*	*	*	*	*	*	4075	*	*	25
+       0	*	*	*	*	*	*	2196	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2196	0	0	
+
+D 27   *	*	1574	590	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2196	0	0	
+
+K 28   *	*	*	1291	*	*	*	3674	1183	*	*	*	*	*	3787	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2196	0	0	
+
+F 29   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2196	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2196	0	0	
+
+V 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	31
+       0	*	*	*	*	*	*	2196	0	0	
+
+T 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	535	1689	*	*	*	32
+       0	*	*	*	*	*	*	2196	0	0	
+
+A 33   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2196	0	0	
+
+A 34   541	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1677	*	*	*	*	34
+       0	*	*	*	*	*	*	2196	0	0	
+
+A 35   241	*	*	*	*	*	*	*	*	*	4300	*	*	*	*	*	*	3280	*	*	35
+       0	*	*	*	*	*	*	2196	0	0	
+
+P 36   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	36
+       64	*	4518	*	*	*	*	2196	0	0	
+
+V 37   *	*	*	*	*	*	*	*	*	*	2982	*	*	*	*	*	*	195	*	*	37
+       256	*	2622	*	*	*	0	2201	0	1000	
+
+A 38   808	*	*	*	*	3734	*	*	*	*	1500	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	996	1004	2149	0	1590	
+
+V 39   1659	*	*	*	3829	*	*	*	*	*	2139	*	*	*	*	*	*	1374	*	*	39
+       0	*	*	*	*	*	0	2150	0	1351	
+
+A 40   1190	*	*	*	*	*	*	*	*	*	2049	*	*	*	*	3560	*	2088	*	*	40
+       105	3829	*	1000	1000	*	0	2150	1000	1351	
+
+A 41   1180	*	*	*	*	1751	*	*	*	*	3543	*	3226	*	*	*	*	3860	*	*	41
+       0	*	*	*	*	947	1055	2150	0	1351	
+
+A 42   1980	*	*	*	*	2750	*	*	*	*	2250	*	3915	*	*	2253	*	3163	*	*	42
+       209	*	2892	*	*	*	0	2177	0	1000	
+
+P 43   2000	*	*	*	*	2818	*	*	*	*	*	*	939	*	*	*	3530	*	*	*	43
+       0	*	*	*	*	589	1578	2134	0	1571	
+
+V 44   2747	*	*	*	*	2737	*	*	*	*	4026	*	3955	3587	*	*	*	1023	*	*	44
+       91	4026	*	0	*	*	0	2144	1000	1000	
+
+A 45   508	*	*	4447	*	2950	*	*	*	*	*	*	*	*	*	*	*	3043	*	*	45
+       104	3843	*	1000	1000	*	0	2144	1000	1000	
+
+G 46   1942	*	*	*	*	607	*	*	*	*	*	*	*	*	*	3587	*	*	*	*	46
+       99	*	3916	*	*	0	*	2144	0	1000	
+
+A 47   673	*	*	*	*	1699	*	*	*	*	*	*	*	*	*	*	*	3952	*	*	47
+       64	*	4518	*	*	0	*	2171	0	1000	
+
+A 48   921	*	3031	*	*	2397	*	*	*	*	*	*	4666	*	*	3952	*	4166	*	*	48
+       0	*	*	*	*	*	0	2196	0	1000	
+
+A 49   773	*	*	3565	*	2586	*	*	*	*	*	*	3123	4350	*	*	*	*	*	*	49
+       0	*	*	*	*	*	0	2189	0	1000	
+
+G 50   1139	*	*	3970	*	1431	*	*	*	*	*	*	*	4372	*	3985	*	*	*	*	50
+       0	*	*	*	*	0	*	2189	0	1000	
+
+A 51   521	*	*	*	*	3622	*	*	*	*	*	*	4599	3956	*	*	4174	4037	*	*	51
+       0	*	*	*	*	*	*	2190	0	0	
+
+A 52   1262	*	*	2792	*	*	*	*	*	*	*	*	2583	3171	*	4174	*	3249	*	*	52
+       262	4422	3066	0	*	*	*	2190	1000	0	
+
+Q 53   1261	*	*	2516	*	*	*	*	3534	*	*	*	*	3184	*	*	*	2240	*	*	53
+       0	*	*	*	*	0	*	2162	0	1312	
+
+E 54   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2190	0	0	
+
+E 55   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2190	0	0	
+
+K 56   *	*	*	*	*	*	*	*	715	*	*	*	*	1355	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2190	0	0	
+
+T 57   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	57
+       0	*	*	0	*	*	*	2190	0	0	
+
+//

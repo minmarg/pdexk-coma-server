@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d1imta2 g.3.10.1 (A:37-80) Intestinal toxin 1 {Black mamba (Dendroaspis polylepis polylepis) [TaxId: 8620]}
+FAM   g.3.10.1
+FILE  d1imta2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1imta2.a3m -v 1 
+DATE  Mon Jan 21 21:42:13 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  34 out of 36 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEECCCCCEEECCC
+>ss_conf
+98766886521576766332306777883332027970245069
+>Consensus
+xGexCHPxShKvPfxgkRxhHtCPClpxLxCxrxxxxryxClxx
+>d1imta2 g.3.10.1 (A:37-80) Intestinal toxin 1 {Black mamba (Dendroaspis polylepis polylepis) [TaxId: 8620]}
+SGEDCHPASHKIPFSGQRMHHTCPCAPNLACVQTSPKKFKCLSK
+>gi|149708738|ref|XP_001496417.1|(56-96:105) PREDICTED: prokineticin-1-like [Equus caballus]   E=4e-07 s/c=1.42 id=56% cov=93%
+-GDDCHPGSHKIPFFRKRQHHTCPCLPNLLCARGPDGRYRC---
+>gi|301606873|ref|XP_002933044.1|(57-96:106) PREDICTED: prokineticin-1-like [Xenopus (Silurana) tropicalis]   E=6e-12 s/c=1.85 id=56% cov=93%
+-GEECHPFSHKVPFFGKRLHHTCPCLPSLVCSKFLDGRFRC---
+>gi|395821527|ref|XP_003784089.1|(57-98:105) PREDICTED: prokineticin-1 [Otolemur garnettii]   E=3e-11 s/c=1.70 id=49% cov=98%
+-GERCHPGSYKVPFFGKRQYHICPCLPNLVCSRFLDGKYYCSA-
+>gi|148237153|ref|NP_001091325.1|(61-102:111) prokineticin 2 precursor [Xenopus laevis] >gi|124481836|gb|AAI33264.1| LOC100037158 protein [Xenopus laevis]  E=8e-11 s/c=1.67 id=60% cov=98%
+-GDDCHPLSHKIPYFGKRMHHTCPCFPNLTCIKLDDSIYKCLP-
+>gi|157787141|ref|NP_001099168.1|(57-98:105) prokineticin-1 precursor [Danio rerio] >gi|156230303|gb|AAI51994.1| Zgc:171925 protein [Danio rerio] >gi|257480293|gb|ACV60345.1| prokineticin 1 [Danio rerio]  E=2e-10 s/c=1.64 id=51% cov=98%
+-GDECHPYSHKVPFPGKRQHHTCPCLPHLVCTRYADNRYRCTS-
+>gi|348510479|ref|XP_003442773.1|(57-98:107) PREDICTED: AVIToxin-VAR2-like [Oreochromis niloticus]   E=6e-10 s/c=1.60 id=65% cov=98%
+-GEDCHPLSHKVPFFGKRLHHTCPCLPNLSCITIVEGKSKCLS-
+>gi|344276069|ref|XP_003409832.1|(66-108:109) PREDICTED: prokineticin-2-like isoform 1 [Loxodonta africana]   E=1e-09 s/c=1.54 id=55% cov=100%
+-GDICHPLTRKVPFFGRRMHHTCPCLPGLSCLRTSFSRFICLPR
+>gi|326928143|ref|XP_003210241.1|(52-93:102) PREDICTED: AVIToxin-VAR1-like [Meleagris gallopavo]   E=1e-09 s/c=1.58 id=65% cov=98%
+-GEECHPLSHRVPFPGRRMHHTCPCLPSLACMRASPSKFRCLP-
+>gi|254939226|emb|CBA11526.1|(56-95:96) prokineticin 2 precursor [Bombina orientalis]   E=2e-05 s/c=1.31 id=51% cov=93%
+SGEECHPSSHKVPYDGKRLSSLCPCKSGLTCSK-SGAKFQC---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2188	*	*	*	*	*	*	*	*	*	*	2269	*	*	*	803	*	*	*	*	1
+       0	*	*	*	*	*	*	1767	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2132	0	0	
+
+E 3    *	*	1104	903	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2132	0	0	
+
+D 4    *	*	1953	1071	*	*	*	5095	*	*	*	*	*	4179	4829	2776	*	*	*	*	4
+       0	*	*	*	*	*	*	2132	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2132	0	0	
+
+H 6    *	*	*	*	*	*	60	*	*	*	*	*	*	*	*	*	*	*	*	4619	6
+       0	*	*	*	*	*	*	2132	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2132	0	0	
+
+A 8    3514	*	*	*	3138	2209	*	*	*	2179	2720	*	*	4838	*	3212	*	4582	*	5300	8
+       0	*	*	*	*	*	*	2132	0	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	278	2513	*	*	*	9
+       0	*	*	*	*	*	*	2132	0	0	
+
+H 10   *	*	*	*	*	*	443	*	*	*	*	*	*	5175	2513	*	*	*	*	4030	10
+       41	5175	*	3807	107	*	*	2132	1000	0	
+
+K 11   *	*	*	*	*	*	*	*	159	*	*	*	*	5175	4885	*	4535	*	*	*	11
+       95	3972	*	4392	70	*	*	2132	1083	0	
+
+I 12   4544	*	*	*	*	*	*	2701	*	*	*	*	*	*	4890	*	*	378	*	*	12
+       0	*	*	*	*	*	*	2131	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2131	0	0	
+
+F 14   *	*	*	*	391	*	*	*	*	*	*	*	*	*	*	4999	*	*	*	2279	14
+       0	*	*	*	*	*	*	2131	0	0	
+
+S 15   *	*	3423	*	829	*	*	*	*	4198	*	4270	3025	*	*	3971	*	5144	*	5459	15
+       0	*	*	*	*	*	*	2131	0	0	
+
+G 16   *	*	*	*	*	338	*	*	*	*	*	*	*	*	2259	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2131	0	0	
+
+Q 17   *	*	*	*	*	*	*	*	425	*	*	*	*	3766	2462	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2131	0	0	
+
+R 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2131	0	0	
+
+M 19   *	*	*	*	*	*	*	*	4069	1858	1994	*	*	1274	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2131	0	0	
+
+H 20   *	*	*	*	*	*	298	*	*	*	*	*	*	*	*	3229	*	*	*	3640	20
+       0	*	*	*	*	*	*	2131	0	0	
+
+H 21   *	*	*	*	*	*	163	*	*	*	*	*	*	*	*	3229	*	*	*	*	21
+       0	*	*	*	*	*	*	2131	0	0	
+
+T 22   5425	*	*	*	*	*	*	4852	*	3229	*	*	*	*	*	4999	314	*	*	*	22
+       0	*	*	*	*	*	*	2131	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2131	0	0	
+
+P 24   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2131	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2131	0	0	
+
+A 26   4833	*	*	*	4857	*	*	*	4189	646	3983	4270	*	*	*	3041	*	*	*	*	26
+       0	*	*	*	*	*	*	2131	0	0	
+
+P 27   *	*	*	*	*	*	4890	*	*	*	*	*	218	*	*	4189	4270	*	*	*	27
+       0	*	*	*	*	*	*	2131	0	0	
+
+N 28   *	*	*	*	*	1834	3479	*	4890	*	*	978	*	*	*	3500	*	*	*	*	28
+       0	*	*	*	*	*	*	2131	0	0	
+
+L 29   *	*	*	*	5226	*	*	*	*	97	*	*	*	*	*	4703	*	*	*	*	29
+       0	*	*	*	*	*	*	2131	0	0	
+
+A 30   1861	*	*	*	*	*	*	*	*	1897	4630	*	*	*	*	2683	2824	3072	*	*	30
+       0	*	*	*	*	*	*	2131	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2131	0	0	
+
+V 32   5409	*	*	*	*	*	*	2658	*	3442	4913	*	*	*	*	988	3479	3337	*	*	32
+       0	*	*	*	*	*	*	2131	0	0	
+
+Q 33   *	*	*	*	*	*	*	*	2455	*	*	*	4438	3745	641	*	4167	*	*	*	33
+       82	*	4175	*	*	*	*	2126	0	0	
+
+T 34   3859	*	*	*	1510	4349	*	4982	*	4717	4414	*	*	*	*	3828	1779	*	*	4255	34
+       0	*	*	*	*	0	*	2082	0	1000	
+
+S 35   3731	*	3618	4612	*	4254	*	5424	*	1813	*	*	3910	*	*	1651	5245	5023	*	*	35
+       0	*	*	*	*	*	*	2126	0	0	
+
+P 36   *	*	1009	2951	2482	3564	*	*	*	*	*	*	3181	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2126	0	0	
+
+K 37   4175	*	*	*	*	957	*	*	3017	*	*	2848	*	*	*	2583	*	*	*	*	37
+       0	*	*	*	*	*	*	2126	0	0	
+
+K 38   *	*	*	*	*	5056	*	4712	1506	*	*	*	*	4749	882	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2082	0	0	
+
+F 39   *	*	*	*	1618	*	*	*	*	*	*	*	*	*	*	3230	*	*	*	817	39
+       0	*	*	*	*	*	*	2082	0	0	
+
+K 40   *	*	*	*	*	*	*	3354	2161	*	*	*	*	3771	974	*	5086	5047	*	4771	40
+       0	*	*	*	*	*	*	2082	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2082	0	0	
+
+L 42   *	*	*	*	*	*	*	*	*	694	*	*	*	*	*	2188	2621	*	*	*	42
+       0	*	*	*	*	*	*	2020	0	0	
+
+S 43   1419	*	*	*	*	*	*	*	*	*	*	*	1468	*	*	1918	*	*	*	*	43
+       0	*	*	*	*	*	*	2000	0	0	
+
+K 44   *	*	*	2554	*	*	*	*	2618	*	*	*	*	3136	854	*	*	*	*	*	44
+       0	*	*	0	*	*	*	1581	0	0	
+
+//

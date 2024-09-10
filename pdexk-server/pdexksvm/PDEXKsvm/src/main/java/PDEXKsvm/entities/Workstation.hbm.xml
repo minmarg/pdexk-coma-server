@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+
+    <class name="PDEXKsvm.entities.Workstation" table="Workstation">    
+        <id name="id" column="id" >
+            <generator class="increment"/>
+        </id>
+
+         <property name="hostname" column="hostname" />
+		 <property name="username" column="username" />
+		 <property name="keyFilePath" column="keyFilePath" />
+		 <property name="keyfilePass" column="keyfilePass" />
+		 <property name="remoteFilePath" column="remoteFilePath" />
+		 <property name="globalFilePath" column="globalFilePath" />
+		 <property name="localFilePath" column="localFilePath" />
+		 <property name="scriptPath" column="scriptPath" />
+		 <property name="local" column="local" />
+
+    </class>
+    
+</hibernate-mapping>

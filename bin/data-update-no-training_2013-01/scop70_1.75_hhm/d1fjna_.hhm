@@ -1,0 +1,155 @@
+HHsearch 1.5
+NAME  d1fjna_ g.3.7.3 (A:) Defensin MGD-1 {Mediterranean mussel (Mytilus galloprovincialis) [TaxId: 29158]}
+FAM   g.3.7.3
+FILE  d1fjna_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1fjna_.a3m -v 1 
+DATE  Mon Jan 21 20:45:09 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCHHHHHHCCCCCCCCCCCCCCCEEEEEEEEECC
+>ss_conf
+988863103665405578865740066111235676249
+>Consensus
+GfGCPnqyqCHxHCxsixGrxGGYCxgxxkltCtCYrcg
+>d1fjna_ g.3.7.3 (A:) Defensin MGD-1 {Mediterranean mussel (Mytilus galloprovincialis) [TaxId: 29158]}
+GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRCG
+>gi|5815412|gb|AAD52660.1|AF177539_1(23-61:82) antimicrobial peptide MGD2b precursor [Mytilus galloprovincialis]   E=3e-11 s/c=1.84 id=80% cov=103%
+GFGCPNNYACHQHCKSIRGYCGGYCASWFRLRCTCYRCG
+>gi|346471733|gb|AEO35711.1|(36-71:72) hypothetical protein [Amblyomma maculatum]   E=3e-05 s/c=1.43 id=78% cov=92%
+GFGCPiNQYQCHSHCKSI-GRRGGYCGGPFKLTCTCY---
+>gi|118430|sp|P80154.1|DEFI_AESCY(1-38:38) RecName: Full=Defensin >gi|259195|gb|AAB24032.1| defensin [Aeschna cyanea=dragonflies, Peptide, 38 aa]  E=6e-05 s/c=1.34 id=66% cov=97%
+GFGCPlDQMQCHRHCQTITGRSGGYCSGPLKLTCTCYR--
+>gi|346466377|gb|AEO33033.1|(63-99:100) hypothetical protein [Amblyomma maculatum]   E=0.0001 s/c=1.33 id=70% cov=95%
+GFGCPlNQYACHRHCRSI-GRRGGYCAGIIKQTCTCYR--
+>gi|118582050|sp|P85008.1|DEF1_CRAVI(1-37:38) RecName: Full=Defensin-1; AltName: Full=American Oyster Defensin; Short=AOD  E=0.0003 s/c=1.30 id=76% cov=95%
+GFGCPwNRYQCHSHCRSI-GRLGGYCAGSLRLTCTCYR--
+>gi|114438982|gb|ABI74752.1|(36-71:72) amercin [Amblyomma americanum]   E=0.0005 s/c=1.32 id=72% cov=92%
+GFGCPfNQYQCHSHCLSI-GRRGGYCGGSFKTTCTCY---
+>gi|114153302|gb|ABI52817.1|(36-72:72) Defensin [Argas monolakensis]   E=0.0007 s/c=1.28 id=57% cov=95%
+GYGCPfNQYECHNHCKGVPGYKGGYCDGFLKMTCRCY---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1625	0	0	
+
+F 2    *	*	*	*	280	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2505	2
+       0	*	*	*	*	*	*	1625	0	0	
+
+G 3    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1625	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	5
+       1986	420	*	0	*	*	*	1625	1527	0	
+
+N 6    *	*	2745	*	*	*	*	*	*	*	*	233	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1625	0	0	
+
+N 7    *	*	*	*	*	*	*	*	*	*	*	1986	*	648	3191	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1625	0	0	
+
+Y 8    *	*	*	*	*	*	*	*	*	*	2745	*	*	*	*	*	*	*	*	233	8
+       0	*	*	*	*	*	*	1625	0	0	
+
+Q 9    1997	*	*	2505	*	*	*	*	*	*	*	*	*	803	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1625	0	0	
+
+H 11   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1625	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	2505	*	2855	1412	1690	*	*	*	*	12
+       0	*	*	*	*	*	*	1625	0	0	
+
+H 13   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1625	0	0	
+
+K 15   *	*	*	*	*	*	*	*	934	3244	*	*	*	2745	2173	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1625	0	0	
+
+S 16   *	*	*	*	*	2505	*	*	*	*	*	*	*	*	*	568	2745	*	*	*	16
+       0	*	*	*	*	*	*	1625	0	0	
+
+I 17   *	*	*	*	*	*	*	280	*	*	*	*	*	*	*	*	*	2505	*	*	17
+       791	*	1244	*	*	*	*	1625	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	1013	*	2041	*	1935	*	*	*	18
+       0	*	*	*	*	0	*	1565	0	1247	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1625	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	545	*	*	*	*	1669	20
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 21   *	1986	*	*	*	*	*	*	2505	3191	*	*	*	*	1677	2745	*	*	*	*	21
+       0	*	*	*	*	*	*	1625	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1625	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1625	0	0	
+
+Y 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	24
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1625	0	0	
+
+G 26   1474	*	2505	*	*	1668	*	*	*	*	*	*	*	*	*	2745	*	*	*	*	26
+       0	*	*	*	*	*	*	1625	0	0	
+
+G 27   *	*	*	*	*	215	*	*	*	*	*	*	*	*	*	2855	*	*	*	*	27
+       0	*	*	*	*	*	*	1625	0	0	
+
+W 28   *	*	*	*	2505	*	*	3155	*	*	*	*	2035	*	*	2217	*	*	1986	*	28
+       0	*	*	*	*	*	*	1625	0	0	
+
+H 29   *	*	*	*	1562	*	3130	3155	*	1201	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1625	0	0	
+
+R 30   *	*	*	*	*	*	*	*	648	*	*	*	*	*	1466	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1625	0	0	
+
+L 31   *	*	*	*	*	*	*	*	*	723	2505	*	*	3155	*	*	3244	*	*	*	31
+       0	*	*	*	*	*	*	1625	0	0	
+
+R 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	1986	*	420	*	*	*	32
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1625	0	0	
+
+T 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2505	*	280	*	*	*	34
+       0	*	*	*	*	*	*	1625	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1625	0	0	
+
+Y 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	36
+       0	*	*	*	*	*	*	1625	0	0	
+
+R 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1470	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1132	0	0	
+
+G 39   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	0	*	*	*	1132	0	0	
+
+//

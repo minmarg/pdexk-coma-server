@@ -1,0 +1,211 @@
+HHsearch 1.5
+NAME  d2c0sa1 a.30.7.1 (A:1-57) Hypothetical protein BAS4809, C-terminal domain {Bacillus anthracis [TaxId: 1392]}
+FAM   a.30.7.1
+FILE  d2c0sa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2c0sa1.a3m -v 1 
+DATE  Tue Jan 22 06:04:21 2013
+LENG  57 match states, 57 columns in multiple alignment
+FILT  50 out of 52 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCC
+>ss_conf
+956789999999999999999971899279999989999999999988606521479
+>Consensus
+MxxxxLxxxIExKkxELixLvxxYGxthxkvixxSQELDxLiNxxmxikxkxxrxxx
+>d2c0sa1 a.30.7.1 (A:1-57) Hypothetical protein BAS4809, C-terminal domain {Bacillus anthracis [TaxId: 1392]}
+MNVTKLNDRIEAKKKELIYLVEKYGFTHHKVISFSQELDRLLNLLIELKTKKKRYSL
+>gi|75760167|ref|ZP_00740225.1|(4-51:64) Stage 0 sporulation regulatory protein [Bacillus thuringiensis serovar israelensis ATCC 35646] >gi|228899827|ref|ZP_04064073.1| Stage 0 sporulation regulatory protein [Bacillus thuringiensis IBL 4222] >gi|74492331|gb|EAO55489.1| Stage 0 sporulation regulatory protein [Bacillus thuringiensis serovar israelensis ATCC 35646] >gi|228859846|gb|EEN04260.1| Stage 0 sporulation regulatory protein [Bacillus thuringiensis IBL 4222]  E=5e-08 s/c=1.27 id=41% cov=86%
+--ISMFEQAIEKKREKMIYFAERYGMTSQKTVDCSQELDRLLNVIWHVHT-------
+>gi|423614097|ref|ZP_17589955.1|(1-51:53) hypothetical protein IIM_04809 [Bacillus cereus VD107] >gi|401239891|gb|EJR46300.1| hypothetical protein IIM_04809 [Bacillus cereus VD107]  E=2e-06 s/c=1.08 id=44% cov=91%
+MEMRNLQDLIEEKKAKLIKLVEKYGFRHKQVLNLSRDIDILVDKFIYINNK------
+>gi|161598606|ref|YP_001573821.1|(5-49:88) hypothetical protein pBt095 [Bacillus thuringiensis serovar israelensis] >gi|21685473|emb|CAD30135.1| conserved hypothetical membrane protein [Bacillus thuringiensis serovar israelensis] >gi|401878319|gb|AFQ30483.1| hypothetical protein BTF1_31981 [Bacillus thuringiensis HD-789]  E=3e-07 s/c=1.29 id=43% cov=81%
+-DVTHLQKQIEEKKKQLRQLVRAYGYTDPLIFACSQELDQLVYRFM-----------
+>gi|229000640|ref|ZP_04160171.1|(1-51:54) hypothetical protein bmyco0003_51680 [Bacillus mycoides Rock3-17] >gi|228759109|gb|EEM08124.1| hypothetical protein bmyco0003_51680 [Bacillus mycoides Rock3-17]  E=1e-05 s/c=1.03 id=42% cov=91%
+MELTLLHSLIEDKKNELVQLAIKYGMNHEKVLLLSQELDYLIFRFMKKQNR------
+>gi|365155237|ref|ZP_09351622.1|(12-59:89) hypothetical protein HMPREF1015_01274 [Bacillus smithii 7_3_47FAA] >gi|363628667|gb|EHL79393.1| hypothetical protein HMPREF1015_01274 [Bacillus smithii 7_3_47FAA]  E=0.0004 s/c=0.98 id=35% cov=86%
+-----LMEKIQEKREEMIRLGSLMGLDAKETIQCSQELDQLLNRYQYFYDKTQ----
+>gi|229916131|ref|YP_002884777.1|(9-57:60) hypothetical protein EAT1b_0400 [Exiguobacterium sp. AT1b] >gi|229467560|gb|ACQ69332.1| hypothetical protein EAT1b_0400 [Exiguobacterium sp. AT1b]  E=0.0005 s/c=0.95 id=38% cov=88%
+-----LHQAIEQKRDELYKIASKHSWTSPEVISVSQELDSLITRHVLSKHNKEQ---
+>gi|373858201|ref|ZP_09600939.1|(12-61:75) Sporulation stage 0, Spo0E-like regulatory phosphatase [Bacillus sp. 1NLA3E] >gi|372452014|gb|EHP25487.1| Sporulation stage 0, Spo0E-like regulatory phosphatase [Bacillus sp. 1NLA3E]  E=0.0008 s/c=0.93 id=37% cov=89%
+----KLLERIKEKRSELINLAAHQGLTSNNVVNCSQELDSLIYQILLVNKNGRR---
+>gi|393201489|ref|YP_006463331.1|(13-53:58) hypothetical protein SSIL_2762 [Solibacillus silvestris StLB046] >gi|327440820|dbj|BAK17185.1| hypothetical protein SSIL_2762 [Solibacillus silvestris StLB046]  E=0.001 s/c=1.12 id=45% cov=74%
+----RLRIRIESKRKDMYKKANDLGFTHPEVVHCSQELDELLNKY------------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	3589	*	*	125	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2984	0	0	
+
+N 2    *	*	3401	1095	5429	*	*	*	*	3953	*	1791	*	*	*	*	*	4054	*	*	2
+       0	*	*	*	*	*	*	3122	0	0	
+
+V 3    *	4358	*	*	*	*	*	3006	*	2305	1418	4231	*	*	*	*	*	2345	*	*	3
+       0	*	*	*	*	*	*	3193	0	0	
+
+T 4    3628	*	*	*	*	3613	*	*	3881	*	4467	*	*	*	1918	3465	1585	4811	*	*	4
+       0	*	*	*	*	*	*	3193	0	0	
+
+K 5    *	*	5648	*	*	*	4333	5737	1666	2709	3441	3247	*	3849	3736	*	4465	4140	*	*	5
+       0	*	*	*	*	*	*	3369	0	0	
+
+L 6    *	*	*	*	4882	*	*	5241	*	136	*	*	*	*	*	*	*	5070	*	*	6
+       0	*	*	*	*	*	*	3419	0	0	
+
+N 7    *	*	4703	2137	*	*	2456	*	4034	4901	4819	3053	*	2344	3943	*	5458	*	*	5894	7
+       0	*	*	*	*	*	*	3422	0	0	
+
+D 8    *	*	2677	2364	*	*	5540	4156	2725	*	4859	3164	*	2665	*	4149	*	5150	*	4952	8
+       0	*	*	*	*	*	*	3422	0	0	
+
+R 9    3077	*	*	*	*	*	*	4370	3237	2064	3171	*	*	3261	2723	*	5394	3361	*	*	9
+       0	*	*	*	*	*	*	3526	0	0	
+
+I 10   *	*	*	*	*	*	*	65	*	*	*	*	*	*	*	*	*	4496	*	*	10
+       0	*	*	*	*	*	*	3526	0	0	
+
+E 11   *	*	5703	170	*	*	*	*	5007	4965	*	*	*	5131	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3526	0	0	
+
+A 12   4192	*	3075	2505	*	*	5754	4137	2334	3962	6365	3126	*	3342	*	4467	5558	5582	*	*	12
+       0	*	*	*	*	*	*	3526	0	0	
+
+K 13   *	*	*	*	*	*	*	*	290	4725	*	5394	*	3496	4981	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3526	0	0	
+
+K 14   *	*	*	*	*	*	*	*	835	*	*	*	*	*	1186	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3526	0	0	
+
+K 15   5424	*	4735	1927	*	*	*	*	1952	4715	6168	5369	*	2386	3473	5007	*	5103	*	*	15
+       0	*	*	*	*	*	*	3526	0	0	
+
+E 16   *	*	5045	524	*	*	*	*	3302	*	*	*	*	2772	*	*	*	5241	*	*	16
+       0	*	*	*	*	*	*	3526	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	681	1409	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3526	0	0	
+
+I 18   *	*	*	*	3702	4304	5428	1099	*	3717	4202	*	*	*	4691	4718	*	3217	*	3882	18
+       0	*	*	*	*	*	*	3526	0	0	
+
+Y 19   5582	5241	*	2348	*	*	*	*	2583	*	5703	3938	*	3056	3594	*	6105	5429	4496	2186	19
+       0	*	*	*	*	*	*	3526	0	0	
+
+L 20   *	*	*	*	3936	*	*	4735	5045	339	*	*	*	*	*	*	4965	*	*	4492	20
+       0	*	*	*	*	*	*	3526	0	0	
+
+V 21   1582	*	*	*	*	3522	*	*	*	*	*	*	*	*	*	*	3740	988	*	*	21
+       0	*	*	*	*	*	*	3526	0	0	
+
+E 22   2712	*	5103	2727	*	4725	*	5369	2419	3737	*	3846	*	4043	4691	2520	*	*	*	*	22
+       0	*	*	*	*	*	*	3526	0	0	
+
+K 23   4691	*	4182	*	*	*	3422	*	1431	4272	5943	3655	*	5429	3444	5754	2635	*	*	*	23
+       0	*	*	*	*	*	*	3526	0	0	
+
+Y 24   *	*	*	*	5428	*	2836	*	*	5045	5131	*	*	5007	*	*	*	*	*	421	24
+       0	*	*	*	*	*	*	3526	0	0	
+
+G 25   *	*	*	*	*	172	*	*	*	*	5034	*	*	*	4496	4735	*	*	*	*	25
+       0	*	*	*	*	*	*	3526	0	0	
+
+F 26   *	*	*	*	1104	*	*	3597	*	1575	4634	*	*	*	*	*	*	*	4735	4691	26
+       0	*	*	*	*	*	*	3526	0	0	
+
+T 27   5429	4981	3997	*	*	5394	*	*	*	*	*	4461	*	3263	3498	3070	996	*	*	*	27
+       0	*	*	*	*	*	*	3526	0	0	
+
+H 28   3351	*	3821	*	*	*	783	*	*	*	*	*	*	*	*	1999	*	*	*	*	28
+       0	*	*	*	*	*	*	3526	0	0	
+
+H 29   *	*	3318	2935	*	*	6269	*	2671	*	*	3114	2100	2335	*	*	4266	*	*	*	29
+       0	*	*	*	*	*	*	3526	0	0	
+
+K 30   *	*	*	2223	*	*	*	*	895	4060	*	5007	*	3335	4981	*	*	5241	*	*	30
+       0	*	*	*	*	*	*	3526	0	0	
+
+V 31   *	*	*	*	*	*	*	3852	*	*	*	*	*	*	*	*	1943	576	*	*	31
+       0	*	*	*	*	*	*	3526	0	0	
+
+I 32   *	*	*	*	4691	*	*	1607	*	1345	5529	*	*	*	*	*	*	2200	*	*	32
+       0	*	*	*	*	*	*	3526	0	0	
+
+S 33   3299	5034	3699	3927	*	*	4170	*	3575	3248	*	3521	*	2959	4130	2837	5200	*	*	4630	33
+       0	*	*	*	*	*	*	3526	0	0	
+
+F 34   4496	1474	*	*	2363	*	*	*	*	2289	5582	*	*	*	*	*	*	2508	*	*	34
+       0	*	*	*	*	*	*	3526	0	0	
+
+S 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	35
+       0	*	*	*	*	*	*	3526	0	0	
+
+Q 36   *	*	*	*	*	*	*	*	*	*	*	*	*	159	3260	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3526	0	0	
+
+E 37   *	*	2570	522	*	*	*	*	3934	*	*	*	*	3840	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3526	0	0	
+
+L 38   *	*	*	*	*	*	*	2415	*	300	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3526	0	0	
+
+D 39   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3526	0	0	
+
+R 40   5429	5943	5629	4421	*	*	5241	3142	1720	3496	*	*	*	3624	2962	3865	4496	6044	*	5369	40
+       0	*	*	*	*	*	*	3526	0	0	
+
+L 41   *	*	*	*	*	*	*	*	*	56	*	*	*	*	*	*	*	*	*	4725	41
+       0	*	*	*	*	*	*	3526	0	0	
+
+L 42   *	*	*	*	*	*	*	884	*	1417	*	*	*	*	*	*	*	3579	*	*	42
+       0	*	*	*	*	*	*	3526	0	0	
+
+N 43   *	*	5399	*	5328	*	*	4905	*	*	*	435	*	*	*	*	4700	*	*	2839	43
+       0	*	*	*	*	*	*	3487	0	0	
+
+L 44   *	*	*	4106	*	*	4386	5887	2267	4187	3153	5378	*	3371	2360	*	*	3666	4457	4006	44
+       0	*	*	*	*	*	*	3487	0	0	
+
+L 45   3870	6025	*	*	1879	*	4700	2940	*	2395	4905	*	*	*	*	*	*	4143	*	2355	45
+       0	*	*	*	*	*	*	3487	0	0	
+
+I 46   *	*	4836	*	*	*	*	2840	*	2995	1137	*	*	3897	*	5403	4859	4236	3898	*	46
+       0	*	*	*	*	*	*	3358	0	0	
+
+E 47   *	*	*	4726	2914	*	5170	4678	3132	2103	*	2388	*	*	4473	*	*	5568	*	2657	47
+       0	*	*	*	*	*	*	3302	0	0	
+
+L 48   *	*	*	4441	4163	*	*	1591	3656	1975	*	*	*	*	*	3985	*	2561	*	*	48
+       0	*	*	*	*	*	*	3349	0	0	
+
+K 49   *	*	*	4312	*	*	4950	*	982	*	*	2605	*	3162	3674	*	*	*	*	4143	49
+       0	*	*	*	*	*	*	3311	0	0	
+
+T 50   *	*	2554	*	*	*	2959	*	3287	*	4876	1962	*	*	*	*	1700	*	*	*	50
+       0	*	*	*	*	*	*	3120	0	0	
+
+K 51   *	*	3437	*	*	*	*	*	952	*	*	2431	*	*	2284	*	*	*	*	*	51
+       0	*	*	*	*	*	*	3004	0	0	
+
+K 52   *	*	*	*	*	3010	3343	*	1267	*	*	2193	*	*	*	*	2805	*	*	*	52
+       0	*	*	*	*	*	*	2712	0	0	
+
+K 53   *	*	*	2783	*	*	*	*	1119	2975	*	*	*	2805	3010	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2712	0	0	
+
+R 54   *	*	*	*	*	*	*	*	*	*	*	*	*	2259	338	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2237	0	0	
+
+Y 55   *	395	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2060	55
+       0	*	*	*	*	*	*	1195	0	0	
+
+S 56   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	56
+       0	*	*	*	*	*	*	1195	0	0	
+
+L 57   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	0	*	*	*	1195	0	0	
+
+//

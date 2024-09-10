@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1mm0a_ g.3.7.4 (A:) Antimicrobial peptide termicin {Termite (Pseudacanthotermes spiniger) [TaxId: 115113]}
+FAM   g.3.7.4
+FILE  d1mm0a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mm0a_.a3m -v 1 
+DATE  Mon Jan 21 23:33:19 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  18 out of 20 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCHHHHEECCCCEEEEEEEECCCCEEEEEECC
+>ss_conf
+986300221100024613655421698208888439
+>Consensus
+ACxxqsCWaxCqaqhxiyFRrAyCdgsxCxCvfxnG
+>d1mm0a_ g.3.7.4 (A:) Antimicrobial peptide termicin {Termite (Pseudacanthotermes spiniger) [TaxId: 115113]}
+ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG
+>gi|225921010|gb|ACO36853.1|(26-61:62) termicin [Odontotermes formosanus] >gi|226897853|gb|ACO90332.1| termicin [Macrotermes barneyi]  E=1e-07 s/c=1.66 id=72% cov=100%
+-CEFQTCWAKCQAQHQIYFRRAFCDGPTCQCVFVTG
+>gi|50540919|gb|AAT77946.1|(26-61:62) termicin [Tumulitermes pastinator]   E=4e-07 s/c=1.61 id=70% cov=103%
+ACDFQSCWVTCQRQHSIYFIRAFCDGSRCMCVYNNG
+>gi|50540889|gb|AAT77931.1|(26-61:62) termicin [Nasutitermes comatus]   E=1e-06 s/c=1.56 id=67% cov=100%
+ACDFNSCWATCKAQNGIYFRRAFCDGPTCLCVFLN-
+>gi|225921038|gb|ACO36867.1|(25-60:72) termicin [Reticulitermes chinensis]   E=3e-06 s/c=1.53 id=68% cov=103%
+ACDFSSCWAGCQADHSINFRRAYCDGQHCVCVFVTG
+>gi|50540925|gb|AAT77949.1|(26-61:62) termicin [Drepanotermes rubriceps]   E=6e-06 s/c=1.50 id=65% cov=103%
+ACNRNACWASCQRQHGIYFRRAFCEGSRCRCVRVNG
+>gi|50540887|gb|AAT77930.1|(26-61:62) termicin [Nasutitermes comatus]   E=2e-05 s/c=1.46 id=57% cov=103%
+ACEFQSCWVTCQRKYNIYFRKAYCEKSKCICVYNYG
+>gi|225920922|gb|ACO36809.1|(26-61:62) termicin [Odontotermes formosanus] >gi|225921024|gb|ACO36860.1| termicin [Odontotermes formosanus] >gi|226897867|gb|ACO90339.1| termicin [Macrotermes barneyi]  E=4e-05 s/c=1.42 id=59% cov=103%
+ACNLQQCWAYCRAKHGRYFRRAYCEESICRCVFNNG
+>gi|225921074|gb|ACO36885.1|(27-61:62) termicin [Reticulitermes chinensis]   E=0.0001 s/c=1.42 id=61% cov=100%
+-CDQQSCWVTCQRKYTINFRNAFCDGSSCQCVFVTG
+>gi|225920986|gb|ACO36841.1|(26-61:74) termicin [Odontotermes formosanus]   E=0.0004 s/c=1.33 id=59% cov=103%
+ACYMRQCWANCQAQHGRYFRRAYCQGSVCKCAFNNG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1885	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2045	0	0	
+
+N 3    *	*	1367	3135	*	*	*	*	*	*	*	1366	*	*	*	*	*	*	*	3176	3
+       0	*	*	*	*	*	*	2045	0	0	
+
+F 4    *	*	*	*	803	*	*	*	*	3964	2539	*	*	3932	4319	*	3732	*	*	*	4
+       0	*	*	*	*	*	*	2045	0	0	
+
+Q 5    *	*	*	*	*	*	3189	*	3732	*	*	3230	*	780	4032	3946	*	*	*	*	5
+       0	*	*	*	*	*	*	2045	0	0	
+
+S 6    2996	*	*	4024	*	*	*	*	*	*	*	*	*	2998	4336	775	4211	*	*	*	6
+       0	*	*	*	*	*	*	2045	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2045	0	0	
+
+W 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	8
+       0	*	*	*	*	*	*	2045	0	0	
+
+A 9    470	*	*	*	4185	*	*	*	*	*	*	*	*	*	*	*	*	2165	*	*	9
+       0	*	*	*	*	*	*	2045	0	0	
+
+T 10   *	*	*	*	*	3946	*	*	4211	2982	*	2539	*	*	*	4319	1095	*	*	3964	10
+       0	*	*	*	*	*	*	2045	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2045	0	0	
+
+Q 12   *	*	*	*	*	*	*	*	3236	*	*	*	*	380	2994	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2045	0	0	
+
+A 13   745	*	*	*	*	*	*	*	*	*	*	*	*	*	1310	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2045	0	0	
+
+Q 14   *	*	3946	3732	*	*	4331	*	2401	*	*	*	*	688	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2045	0	0	
+
+H 15   *	*	*	*	*	*	707	*	*	*	*	4147	*	*	*	*	*	*	*	1596	15
+       0	*	*	*	*	*	*	2045	0	0	
+
+S 16   *	*	*	*	*	955	*	*	*	*	*	3169	*	4211	*	1980	3932	*	*	*	16
+       0	*	*	*	*	*	*	2045	0	0	
+
+I 17   *	*	*	*	*	*	*	389	*	*	*	*	*	*	2082	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2045	0	0	
+
+Y 18   *	4375	*	*	*	*	*	*	*	*	*	2939	*	*	*	*	*	*	*	284	18
+       0	*	*	*	*	*	*	2045	0	0	
+
+F 19   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2045	0	0	
+
+R 20   *	*	*	*	*	*	*	3304	*	*	*	*	*	*	154	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2045	0	0	
+
+R 21   *	*	*	*	*	*	*	*	3169	*	*	3932	*	*	280	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2045	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2045	0	0	
+
+F 23   *	*	*	*	1475	*	*	*	*	*	*	*	*	*	*	*	*	3732	*	824	23
+       0	*	*	*	*	*	*	2045	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2045	0	0	
+
+D 25   *	*	923	1514	*	*	*	*	*	*	*	*	*	3028	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2045	0	0	
+
+R 26   *	*	*	3964	*	357	*	*	3169	*	*	*	*	*	4515	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2045	0	0	
+
+S 27   *	*	*	*	*	4518	*	*	*	*	*	*	2263	3946	*	550	*	*	*	*	27
+       0	*	*	*	*	*	*	2045	0	0	
+
+Q 28   *	*	*	*	*	*	3946	2994	4064	*	*	4331	*	3517	2165	2615	2596	4032	*	*	28
+       0	*	*	*	*	*	*	2045	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2045	0	0	
+
+K 30   *	*	*	*	*	*	*	4064	2160	4147	3304	*	*	2202	2509	*	*	2593	*	*	30
+       0	*	*	*	*	*	*	2045	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2045	0	0	
+
+V 32   3028	*	*	*	*	*	*	3732	*	*	*	*	*	*	*	*	*	318	*	*	32
+       0	*	*	*	*	*	*	2045	0	0	
+
+F 33   *	*	*	*	584	*	*	*	*	3585	*	*	*	*	4079	*	*	*	*	2393	33
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 34   *	*	*	*	*	*	*	*	*	3013	*	1206	*	*	*	*	*	1176	*	*	34
+       0	*	*	*	*	*	*	2092	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	808	*	*	4213	*	2022	*	*	2960	35
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 36   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	2025	0	0	
+
+//

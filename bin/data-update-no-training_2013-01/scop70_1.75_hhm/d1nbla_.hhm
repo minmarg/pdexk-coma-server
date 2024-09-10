@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1nbla_ g.13.1.1 (A:) Hellethionin D {Helleborus purpurascens [TaxId: 171899]}
+FAM   g.13.1.1
+FILE  d1nbla_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nbla_.a3m -v 1 
+DATE  Mon Jan 21 23:39:21 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  46 out of 48 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCEECCCCCCCCCHHHHHCCCCCEECCCCCCCCCCCC
+>ss_conf
+9878886443200111238988344221258422108878998889
+>Consensus
+KSCCpstxaRnxYNxCRxxGxxrxxCAxxxgCkiisgxxCPxxyPx
+>d1nbla_ g.13.1.1 (A:) Hellethionin D {Helleborus purpurascens [TaxId: 171899]}
+KSCCRNTLARNCYNACRFTGGSQPTCGILCDCIHVTTTTCPSSHPS
+>gi|21069041|dbj|BAB93114.1|(30-73:137) leaf thionin Asthi3 [Avena sativa]   E=2e-05 s/c=1.18 id=40% cov=98%
+-TCCKDDIARNCYNVCRIPGTPTFICANMCRCIITRRNECPNDYP-
+>gi|357111574|ref|XP_003557587.1|(29-74:135) PREDICTED: thionin BTH7-like [Brachypodium distachyon]   E=5e-08 s/c=1.32 id=53% cov=102%
+KSCCKNTSSRFCYNACRKLGGTRPECASRCGCIHISGNRCPADYPS
+>gi|802168|gb|AAB33009.1|(25-69:134) crambin precursor=thionin variant Thi2Ca10 [Crambe abyssinica, seeds, Peptide Partial, 134 aa]  E=2e-07 s/c=1.30 id=43% cov=100%
+KSCCPSITARNTYNICRLPGTPRPVCATLSGCIIQSDSTCKPPYP-
+>gi|215512234|gb|ACJ68108.1|(25-68:134) thionin precursor [Brassica napus]   E=3e-07 s/c=1.33 id=49% cov=98%
+KICCPRTIDRNIYNACRLTGASMTNCANLSGCKIVSGTTCPPGY--
+>gi|54291378|dbj|BAD62143.1|(28-69:148) putative thionin Osthi1 [Oryza sativa Japonica Group]   E=6e-07 s/c=1.36 id=49% cov=93%
+KSCCPSTSARNVYNSCRFAGGSREACAKLSTCKHFDGSCQPP----
+>gi|4007850|emb|CAA65313.1|(28-71:137) alpha purothionin [Triticum aestivum]   E=5e-06 s/c=1.23 id=49% cov=98%
+KSCCRSTLGRNCYNLCR-ARGAQKLCAGVCRCKISSGLSCPKGFP-
+>gi|802163|gb|AAB33004.1|(25-69:134) crambin precursor=thionin variant Thi2Ca2 [Crambe abyssinica, seeds, Peptide Partial, 134 aa]  E=0.0006 s/c=1.05 id=39% cov=100%
+KSCCPTPIARKTYVVCRLTGSTIASCIKYSGCITISGTQCPNGYP-
+>gi|1006767|emb|CAA57354.1|(19-63:124) Thionin class 4 [Tulipa gesneriana]   E=2e-07 s/c=1.30 id=38% cov=98%
+KSCFPSTAAKYCYNACRLPGCrPETICAARCGCKIISSGNCPPGY--
+>gi|802170|gb|AAB33011.1|(26-70:135) crambin precursor=thionin variant Thi2Ca12 [Crambe abyssinica, seeds, Peptide Partial, 135 aa]  E=2e-07 s/c=1.30 id=41% cov=100%
+KSCCPTKSARNTFDVCRLTGTSMGLCAAISECKILSVTKCPSNLP-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2600	0	0	
+
+S 2    *	*	*	*	*	*	*	4891	*	*	*	*	*	*	*	116	4523	*	*	*	2
+       0	*	*	*	*	*	*	2667	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 4    *	62	*	*	4566	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2733	0	0	
+
+R 5    *	*	*	*	*	*	*	*	1941	*	*	*	759	5402	2998	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2733	0	0	
+
+N 6    *	*	3800	*	*	*	*	*	*	*	*	2272	*	*	4929	1208	1969	*	*	*	6
+       0	*	*	*	*	*	*	2733	0	0	
+
+T 7    *	*	4615	*	*	*	*	4212	4876	*	5443	*	4471	*	4880	4826	446	*	*	*	7
+       0	*	*	*	*	*	*	2733	0	0	
+
+L 8    3165	*	*	*	*	*	*	2352	*	3139	4849	*	*	*	*	2837	1366	*	5924	*	8
+       0	*	*	*	*	*	*	2733	0	0	
+
+A 9    397	*	4929	*	*	2676	*	*	*	*	*	*	*	*	*	4291	*	*	*	*	9
+       0	*	*	*	*	*	*	2733	0	0	
+
+R 10   *	*	*	*	*	*	*	5470	4566	*	*	*	*	*	97	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2733	0	0	
+
+N 11   *	*	*	*	5188	*	*	5443	4471	5402	*	323	*	*	*	4679	*	*	*	4566	11
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 12   *	1092	*	*	*	*	*	2080	*	*	4880	4679	*	4679	*	*	3106	3920	*	*	12
+       0	*	*	*	*	*	*	2733	0	0	
+
+Y 13   *	*	*	*	3774	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110	13
+       0	*	*	*	*	*	*	2733	0	0	
+
+N 14   *	*	4876	*	*	*	*	*	*	*	*	175	*	*	*	*	4826	4471	*	*	14
+       0	*	*	*	*	*	*	2733	0	0	
+
+A 15   1995	*	*	*	*	*	*	4638	*	3431	*	*	*	*	*	2778	2931	1559	*	*	15
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2733	0	0	
+
+R 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	17
+       86	*	4106	*	*	*	*	2733	0	0	
+
+F 18   4588	*	*	*	1695	*	*	3999	4239	1027	*	*	*	*	*	*	*	4526	*	*	18
+       53	*	4798	*	*	0	*	2692	0	1164	
+
+T 19   2157	*	*	*	*	3927	*	*	*	4286	*	*	1916	*	4210	*	1859	3958	*	*	19
+       0	*	*	*	*	0	*	2715	0	1000	
+
+G 20   *	*	*	*	*	176	*	*	*	5198	*	*	*	*	3513	*	*	*	*	*	20
+       28	*	5713	*	*	*	*	2733	0	0	
+
+G 21   2763	4561	*	*	*	1398	*	*	*	5075	*	*	*	*	*	4072	1549	*	*	*	21
+       88	4080	*	0	*	0	*	2725	1297	1000	
+
+S 22   2742	*	*	*	*	*	*	*	*	*	*	*	1686	*	*	1184	3325	*	*	*	22
+       0	*	*	*	*	*	*	2733	0	0	
+
+Q 23   5081	6202	*	3621	*	*	*	4471	*	*	3902	*	*	2811	875	*	4615	*	*	4826	23
+       0	*	*	*	*	*	*	2733	0	0	
+
+P 24   4471	*	3355	2709	4615	4115	*	*	3696	5627	*	*	1439	6005	*	5081	3407	*	*	*	24
+       0	*	*	*	*	*	*	2733	0	0	
+
+T 25   3873	*	*	5188	*	*	*	2852	5585	2938	*	4929	*	*	3403	3186	2851	2067	*	*	25
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 26   *	40	*	*	*	*	*	*	*	*	*	*	*	*	*	5179	*	*	*	*	26
+       0	*	*	*	*	*	*	2733	0	0	
+
+G 27   177	5585	*	*	*	5480	*	4471	*	*	*	*	*	*	*	5198	*	*	*	*	27
+       0	*	*	*	*	*	*	2733	0	0	
+
+I 28   2846	*	5081	*	*	4120	*	5480	2205	*	*	2628	*	*	3236	2524	3431	*	*	*	28
+       0	*	*	*	*	*	*	2733	0	0	
+
+L 29   4455	*	4679	*	4255	*	*	3507	5924	1239	4615	*	5470	*	3844	5822	3332	4656	*	4471	29
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 30   4880	1092	*	*	*	*	*	*	*	*	*	*	*	*	*	1127	4679	*	*	*	30
+       0	*	*	*	*	*	*	2733	0	0	
+
+D 31   *	*	3555	4876	*	570	*	*	*	*	*	*	*	*	2451	*	5359	*	*	*	31
+       0	*	*	*	*	*	*	2733	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       28	*	5701	*	*	*	*	2733	0	0	
+
+I 33   *	*	*	4859	*	*	*	2014	520	*	*	*	*	*	*	*	5610	*	*	*	33
+       0	*	*	*	*	0	*	2733	0	1000	
+
+H 34   *	*	*	*	*	*	2829	542	5701	3667	*	*	*	*	*	*	4471	5081	*	*	34
+       0	*	*	*	*	*	*	2733	0	0	
+
+V 35   *	*	4826	*	5359	*	*	1029	*	3435	*	*	*	5375	*	5576	3339	2225	*	*	35
+       0	*	*	*	*	*	*	2733	0	0	
+
+T 36   *	*	2158	*	4826	*	*	*	5822	*	*	*	4679	4880	4615	961	3712	5701	*	*	36
+       0	*	*	*	*	*	*	2733	0	0	
+
+T 37   5199	*	4529	*	*	554	*	*	*	*	*	*	*	*	4615	3768	4585	3435	*	*	37
+       16	*	6473	*	*	*	*	2733	0	0	
+
+T 38   4672	*	*	*	*	2993	*	*	2893	4079	*	2837	4687	*	4821	2879	1780	*	*	*	38
+       0	*	*	*	*	0	*	2741	0	1000	
+
+T 39   *	2697	*	4567	*	5909	*	*	2362	*	*	3999	*	4434	4259	4055	1430	*	*	*	39
+       0	*	*	*	*	*	*	2699	0	0	
+
+C 40   *	242	*	*	*	*	*	*	3432	*	*	*	*	4022	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2699	0	0	
+
+P 41   *	*	5186	*	*	*	*	*	5329	*	*	*	115	*	*	5371	*	*	*	*	41
+       0	*	*	*	*	*	*	2699	0	0	
+
+S 42   3907	*	4990	*	*	4564	*	*	3686	*	*	2948	1538	*	4475	2103	5058	*	*	*	42
+       0	*	*	*	*	*	*	2699	0	0	
+
+S 43   *	*	1316	5234	*	1394	*	*	*	*	*	3612	4989	*	*	3680	*	*	*	*	43
+       0	*	*	*	*	*	*	2634	0	0	
+
+H 44   *	*	*	*	2780	*	4068	*	*	3955	*	*	*	*	*	*	*	*	2944	736	44
+       0	*	*	*	*	*	*	2636	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2498	0	0	
+
+S 46   *	*	*	*	*	*	*	*	*	*	*	1936	*	*	*	1000	2067	*	*	*	46
+       0	*	*	0	*	*	*	1873	0	0	
+
+//

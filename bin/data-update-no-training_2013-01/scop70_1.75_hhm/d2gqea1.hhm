@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  d2gqea1 g.41.11.1 (A:3-31) Nuclear pore complex protein nup153 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.41.11.1
+FILE  d2gqea1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2gqea1.a3m -v 1 
+DATE  Tue Jan 22 07:12:00 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  108 out of 339 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.1 
+SEQ
+>ss_pred
+CCCCCCCCCCEEECCCCCCEEECCCCCCC
+>ss_conf
+95312189213541767764005688889
+>Consensus
+xxGsWxCxxCxvxNxxxxxxCvaCxtxkP
+>d2gqea1 g.41.11.1 (A:3-31) Nuclear pore complex protein nup153 {Human (Homo sapiens) [TaxId: 9606]}
+VIGTWDCDTCLVQNKPEAIKCVACETPKP
+>gi|307172622|gb|EFN63981.1|(1750-1777:2907) E3 SUMO-protein ligase RanBP2 [Camponotus floridanus]   E=6e-08 s/c=2.14 id=41% cov=100%
+-VGSWECSSCYIRNKATDMKCVACNALSP
+>gi|195401851|ref|XP_002059524.1|(1141-1166:1902) GJ14813 [Drosophila virilis] >gi|194147231|gb|EDW62946.1| GJ14813 [Drosophila virilis]  E=2e-05 s/c=1.98 id=41% cov=93%
+---SWNCEACMAQNDISRNKCICCEQLKP
+>gi|358341757|dbj|GAA49352.1|(1411-1437:2133) E3 SUMO-protein ligase RanBP2, partial [Clonorchis sinensis]   E=9e-06 s/c=1.95 id=43% cov=97%
+--GSWDCPTCMLHHTSTVQTCPACNTAKP
+>gi|240991855|ref|XP_002404439.1|(1402-1428:2674) ran-binding protein (RanBP), putative [Ixodes scapularis] >gi|215491566|gb|EEC01207.1| ran-binding protein (RanBP), putative [Ixodes scapularis]  E=8e-07 s/c=2.08 id=43% cov=97%
+--GAWSCHVCYVSNEANKLTCAACDSPKP
+>gi|221120148|ref|XP_002164290.1|(1256-1281:2218) PREDICTED: similar to Nup358 CG11856-PA, partial [Hydra magnipapillata]  E=0.0002 s/c=1.86 id=41% cov=93%
+--GQWECATCLVRNESNKSSCISCGTMN-
+>gi|313239518|emb|CBY14445.1|(541-567:1129) unnamed protein product [Oikopleura dioica]   E=9e-06 s/c=1.95 id=43% cov=97%
+--GNWTCSICMMSNASDLAKCPACEEPNP
+>gi|195396282|ref|XP_002056761.1|(1856-1881:2668) GJ24715 [Drosophila virilis] >gi|194143470|gb|EDW59873.1| GJ24715 [Drosophila virilis]  E=0.0006 s/c=1.80 id=37% cov=93%
+-IGSWNCKDCYTLNDVAQLYCLACQAP--
+>gi|17553754|ref|NP_497703.1|(438-463:860) Protein NPP-9, isoform a [Caenorhabditis elegans] >gi|3877856|emb|CAA84330.1| Protein NPP-9, isoform a [Caenorhabditis elegans]  E=4e-05 s/c=1.93 id=41% cov=93%
+--GSWECPGCYVTCKADEIECACCGTSK-
+>gi|341890492|gb|EGT46427.1|(685-708:1208) hypothetical protein CAEBREN_28495 [Caenorhabditis brenneri]   E=2e-05 s/c=2.15 id=40% cov=86%
+----WECPDCMVSNKSTDDKCPCCQYEK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	1
+       0	*	*	*	*	*	*	1486	0	0	
+
+I 2    *	*	*	*	*	*	*	1707	*	*	3034	*	*	*	*	3026	*	1156	*	*	2
+       0	*	*	*	*	*	*	2449	0	0	
+
+G 3    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3964	0	0	
+
+T 4    3759	*	6403	3257	*	5681	6173	*	4710	*	*	6050	*	2880	*	1154	2859	*	*	*	4
+       0	*	*	*	*	*	*	4252	0	0	
+
+W 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	5
+       0	*	*	*	*	*	*	4273	0	0	
+
+D 6    6337	*	2513	1420	*	*	*	6237	4158	*	*	3598	*	5915	5713	3432	2932	5194	*	*	6
+       0	*	*	*	*	*	*	4273	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	4273	0	0	
+
+D 8    4912	*	2503	3926	*	3192	6773	*	4160	*	6305	3538	2721	4648	*	2169	4741	*	*	*	8
+       0	*	*	*	*	*	*	4273	0	0	
+
+T 9    2540	4500	4853	5241	*	3816	*	5113	*	5717	5084	6591	*	4406	*	3088	2492	2175	*	*	9
+       0	*	*	*	*	*	*	4273	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	4273	0	0	
+
+L 11   5804	4656	*	*	4358	*	6489	*	*	2077	1579	*	5862	*	5926	5024	*	*	5161	2195	11
+       0	*	*	*	*	*	*	4273	0	0	
+
+V 12   4534	6362	*	*	*	*	*	2600	*	2518	4811	*	*	*	*	5639	3909	1050	*	*	12
+       0	*	*	*	*	*	*	4273	0	0	
+
+Q 13   *	6672	*	5126	5545	6326	4160	5965	3271	5348	5425	3245	5122	2887	1998	2843	6333	4932	*	*	13
+       0	*	*	*	*	*	*	4273	0	0	
+
+N 14   *	5680	*	*	*	*	5605	*	*	*	*	59	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4273	0	0	
+
+K 15   3297	*	3164	2165	*	4787	*	*	2292	5527	*	5983	3290	4900	*	4094	3619	6620	*	*	15
+       13	6799	*	0	*	*	*	4273	1000	0	
+
+P 16   1660	*	5315	3609	*	4689	*	4544	*	6326	*	5119	2555	4489	*	2952	4051	4339	*	*	16
+       0	*	*	*	*	*	*	4273	0	0	
+
+E 17   3726	*	2409	2734	*	5705	6354	*	4293	*	6173	3498	*	*	*	2017	2699	*	*	*	17
+       0	*	*	*	*	*	*	4273	0	0	
+
+A 18   2048	6071	2840	*	5497	6246	6065	5758	3276	4301	*	4468	*	4817	4526	3144	5015	3296	*	6511	18
+       28	5717	*	0	*	*	*	4273	1000	0	
+
+I 19   4796	*	2717	5400	*	6922	*	4471	4740	3697	4824	2730	4601	3553	*	3690	2621	3883	*	*	19
+       0	*	*	*	*	*	*	4273	0	0	
+
+K 20   3906	6667	*	3960	*	*	5302	5804	1340	*	*	5263	*	5925	3676	3964	3032	4988	*	3599	20
+       0	*	*	*	*	*	*	4273	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	4273	0	0	
+
+V 22   2888	5194	*	*	*	5717	*	2277	6333	3707	5163	*	3330	6756	*	*	5370	1464	*	*	22
+       0	*	*	*	*	*	*	4273	0	0	
+
+A 23   688	2519	*	*	*	*	*	5717	*	*	*	*	*	*	*	2898	5925	4837	*	*	23
+       0	*	*	*	*	*	*	4273	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	4273	0	0	
+
+E 25   5738	*	3585	1701	*	3104	*	*	4580	6391	*	3184	*	2477	*	4202	3710	*	*	*	25
+       0	*	*	*	*	*	*	4273	0	0	
+
+T 26   1873	6158	6237	5243	*	5017	*	*	6344	*	*	4583	*	4734	*	3017	1367	5572	*	5753	26
+       0	*	*	*	*	*	*	4273	0	0	
+
+P 27   2370	*	5923	5176	*	5308	*	*	5615	4108	6625	*	1145	4938	6816	3132	6298	5153	*	*	27
+       14	6740	*	0	*	*	*	4272	1000	0	
+
+K 28   5196	*	*	*	*	*	*	*	729	*	*	3145	*	4749	2278	6270	*	*	*	*	28
+       0	*	*	*	*	*	*	4259	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	3945	0	0	
+
+//

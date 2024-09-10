@@ -1,0 +1,234 @@
+HHsearch 1.5
+NAME  d2j0wa3 d.58.18.10 (A:386-449) Aspartokinase {Escherichia coli [TaxId: 562]}
+FAM   d.58.18.10
+FILE  d2j0wa3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2j0wa3.a3m -v 1 
+DATE  Tue Jan 22 07:43:38 2013
+LENG  64 match states, 64 columns in multiple alignment
+FILT  105 out of 1300 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.6 
+SEQ
+>ss_pred
+CEEEEEECCCCCCCCCHHHHHHHHHHCCCEEEEEEECCCEEEEEEECHHHHHHHHHHHHHHHCC
+>ss_conf
+9488987356436854788999998619958998606632788888257889999999987269
+>Consensus
+laxisiVGxgmxxxxgixxkifxxLxxixIxxisxxxSexxisxvVxxxdxxxavxxLhxxFfe
+>d2j0wa3 d.58.18.10 (A:386-449) Aspartokinase {Escherichia coli [TaxId: 562]}
+LALVALIGNDLSKACGVGKEVFGVLEPFNIRMICYGASSHNLCFLVPGEDAEQVVQKLHSNLFE
+>gi|406967439|gb|EKD92513.1|(391-454:471) hypothetical protein ACD_28C00411G0003 [uncultured bacterium]   E=1e-05 s/c=0.82 id=22% cov=98%
+-SIISMVGTEMQEECHIHGRIFDTLNEHriPIHMASIGNKLINLTVVVDDQECDRAVTLLHQEFF-
+>gi|363582338|ref|ZP_09315148.1|(313-379:814) bifunctional aspartokinase I/homoserine dehydrogenase I [Flavobacteriaceae bacterium HQM9]  E=4e-10 s/c=1.01 id=23% cov=102%
+IAVITLEGGGMVGIPGFSKRLFETLytAQINVILITQASSEHSICLAIDSNDSDKAKSVIDTSFeFE
+>gi|373500128|ref|ZP_09590519.1|(372-435:439) hypothetical protein HMPREF9140_00637 [Prevotella micans F0438] >gi|371955072|gb|EHO72877.1| hypothetical protein HMPREF9140_00637 [Prevotella micans F0438]  E=6e-11 s/c=1.10 id=23% cov=102%
+MCIVCVVGDLNRNTLGNIALITTAIQRIPVRMISYGGSDYAISFLISQDDKAEALRSLSKVLFQ
+>gi|227878774|ref|ZP_03996685.1|(387-449:455) aspartate kinase [Lactobacillus crispatus JV-V01] >gi|256843303|ref|ZP_05548791.1| aspartokinase [Lactobacillus crispatus 125-2-CHN] >gi|256849949|ref|ZP_05555380.1| aspartokinase [Lactobacillus crispatus MV-1A-US] >gi|262046804|ref|ZP_06019764.1| aspartokinase [Lactobacillus crispatus MV-3A-US] >gi|312978203|ref|ZP_07789947.1| aspartate kinase [Lactobacillus crispatus CTV-05] >gi|423318591|ref|ZP_17296468.1| aspartate kinase [Lactobacillus crispatus FB049-03] >gi|227861667|gb|EEJ69275.1| aspartate kinase [Lactobacillus crispatus JV-V01] >gi|256614723|gb|EEU19924.1| aspartokinase [Lactobacillus crispatus 125-2-CHN] >gi|256713438|gb|EEU28428.1| aspartokinase [Lactobacillus crispatus MV-1A-US] >gi|260572786|gb|EEX29346.1| aspartokinase [Lactobacillus crispatus MV-3A-US] >gi|310894921|gb|EFQ43991.1| aspartate kinase [Lactobacillus crispatus CTV-05] >gi|405594437|gb|EKB67851.1| aspartate kinase [Lactobacillus crispatus FB049-03]  E=3e-07 s/c=0.91 id=21% cov=97%
+-AITMVVGEGMKDKLTLCASLLYPLgkKNISIQMINQGASQISIMIGTRRQDEEVVIKTIYDNF--
+>gi|420144764|ref|ZP_14652251.1|(372-435:437) Aspartate kinase [Lactococcus garvieae IPLA 31405] >gi|391855304|gb|EIT65854.1| Aspartate kinase [Lactococcus garvieae IPLA 31405]  E=3e-06 s/c=0.85 id=19% cov=98%
+ISLLTVVGEEIIRSAKVTNKIFTALakEDIDIELITQSPRGINIIIGVANKHYQRALVALYEEL--
+>gi|152995191|ref|YP_001340026.1|(405-469:481) aspartate kinase [Marinomonas sp. MWYL1] >gi|150836115|gb|ABR70091.1| aspartate/glutamate/uridylate kinase [Marinomonas sp. MWYL1]  E=6e-05 s/c=0.77 id=25% cov=100%
+VAIVSAIGSDMKTT-GMLAKAVKAIAeqEVNVLAMHQSMRQVDMQFVVDEEDYEKAICSLHKELVE
+>gi|114568958|ref|YP_755638.1|(393-455:857) bifunctional aspartate kinase/diaminopimelate decarboxylase protein [Maricaulis maris MCS10] >gi|114339420|gb|ABI64700.1| aspartate kinase [Maricaulis maris MCS10]  E=0.0001 s/c=0.78 id=20% cov=100%
+-AAVSLVGRGVRALLAQFGPAMEAFAHYPVRLVSQAANDLNLTVVVDGDQGKPLCRRLHDQLIQ
+>gi|384134893|ref|YP_005517607.1|(340-403:414) aspartate kinase [Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1] >gi|339288978|gb|AEJ43088.1| aspartate kinase [Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1]  E=1e-13 s/c=1.24 id=25% cov=102%
+LAKVSIVGAGMISNPGVAAQMFVALRDAKVPIHMVTTSEIKVSCVIPADLVEVAVQALHRAFIE
+>gi|254974867|ref|ZP_05271339.1|(343-405:407) aspartate kinase I [Clostridium difficile QCD-66c26] >gi|255092254|ref|ZP_05321732.1| aspartate kinase I [Clostridium difficile CIP 107932] >gi|255313994|ref|ZP_05355577.1| aspartate kinase I [Clostridium difficile QCD-76w55] >gi|255516674|ref|ZP_05384350.1| aspartate kinase I [Clostridium difficile QCD-97b34] >gi|255649773|ref|ZP_05396675.1| aspartate kinase I [Clostridium difficile QCD-37x79] >gi|260682930|ref|YP_003214215.1| aspartate kinase I [Clostridium difficile CD196] >gi|260686528|ref|YP_003217661.1| aspartate kinase I [Clostridium difficile R20291] >gi|306519878|ref|ZP_07406225.1| aspartate kinase I [Clostridium difficile QCD-32g58] >gi|384360517|ref|YP_006198369.1| aspartate kinase I [Clostridium difficile BI1] >gi|260209093|emb|CBA62251.1| aspartokinase [Clostridium difficile CD196] >gi|260212544|emb|CBE03507.1| aspartokinase [Clostridium difficile R20291]  E=2e-06 s/c=0.87 id=21% cov=95%
+---VTLICSRIAdEMSGIMSKVVRGLSKAGVSLLQTSDSNMTISCLVSEEDMHTAVHAIHQQFY-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	2215	*	1242	3186	*	*	*	*	*	*	1989	*	*	1
+       0	*	*	*	*	*	*	6214	0	0	
+
+A 2    927	4957	*	*	*	*	*	*	*	*	*	*	*	*	*	1622	3094	*	*	*	2
+       0	*	*	*	*	*	*	6424	0	0	
+
+L 3    5250	6306	*	*	*	*	*	2148	2807	2028	3672	*	*	*	5731	*	4169	2362	*	*	3
+       0	*	*	*	*	*	*	6467	0	0	
+
+V 4    *	5943	*	*	5626	*	*	1334	*	2403	*	*	*	*	*	*	*	1404	*	*	4
+       0	*	*	*	*	*	*	6652	0	0	
+
+A 5    2479	6473	*	*	6671	5589	5970	*	6190	*	3998	4282	*	*	6277	1051	3001	6098	*	*	5
+       11	*	6999	*	*	*	*	6652	0	0	
+
+L 6    4522	5934	*	*	6185	*	*	1729	*	2204	5519	*	6363	*	*	*	6904	1453	*	*	6
+       0	*	*	*	*	*	0	6647	0	1000	
+
+I 7    5217	*	*	3635	6010	5700	*	2456	*	4955	*	*	*	*	6583	5311	*	718	*	*	7
+       0	*	*	*	*	*	0	6647	0	1000	
+
+G 8    5349	5597	*	*	*	117	*	*	*	*	*	*	*	*	*	4944	*	*	*	*	8
+       0	*	*	*	*	*	0	6647	0	1000	
+
+N 9    3583	*	3436	2664	*	5741	*	4104	4619	*	5546	4100	4835	6383	2996	2631	3501	4843	*	6377	9
+       46	6508	5633	0	*	0	*	6647	1000	1000	
+
+D 10   5525	*	3705	3618	*	1025	5093	*	5148	4354	6354	3807	6627	5615	4581	4605	6428	6204	*	*	10
+       0	*	*	*	*	0	*	6652	0	1593	
+
+L 11   *	*	6473	*	5061	6360	5264	2584	*	1781	1453	6417	*	*	*	*	*	3737	6512	*	11
+       0	*	*	*	*	*	*	6652	0	0	
+
+S 12   3192	*	*	3964	*	4677	5422	4658	3097	3256	5170	4477	*	3874	2376	4782	4933	4758	4291	6357	12
+       89	6551	4350	0	*	*	*	6652	1000	0	
+
+K 13   4005	*	5075	3441	6608	2572	4661	*	3107	*	*	3681	*	3507	4942	2414	3541	*	*	6641	13
+       0	*	*	*	*	0	*	6601	0	2575	
+
+A 14   4451	5872	4069	4846	*	5182	3294	4642	4367	4930	3876	3373	*	5101	2602	3639	3761	3652	*	*	14
+       0	*	*	*	*	*	*	6652	0	0	
+
+C 15   4095	4884	*	4821	*	*	6163	3984	4632	4230	6672	4543	1729	5235	*	3139	3197	3350	*	*	15
+       0	*	*	*	*	*	*	6652	0	0	
+
+G 16   4043	6357	4302	3178	*	898	5018	6417	4999	6688	5943	5095	6574	5970	5645	5737	6526	6456	*	6273	16
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 17   4690	6447	6574	5640	4966	*	*	1659	6592	3030	4090	6273	*	6338	*	5322	4533	1861	*	6572	17
+       22	6022	*	1000	1000	*	*	6652	1000	0	
+
+G 18   1785	*	5548	4312	6338	5855	5390	3207	6022	2599	3993	*	7226	6273	*	3102	4024	4815	*	*	18
+       0	*	*	*	*	*	*	6652	0	0	
+
+K 19   1451	*	6651	5128	*	2451	4801	6526	4090	*	5533	6102	*	4943	*	2659	4878	5223	6688	6669	19
+       0	*	*	*	*	*	*	6652	0	0	
+
+E 20   5481	6703	4489	4238	*	*	4848	*	1444	5656	6277	5518	6338	4299	1788	*	4038	*	*	*	20
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 21   2788	*	*	*	3525	*	*	1846	*	3011	3918	*	*	*	*	6654	3834	2185	*	*	21
+       0	*	*	*	*	*	*	6652	0	0	
+
+F 22   6022	5671	*	*	1151	*	*	3687	*	2303	3997	*	*	*	*	5621	3913	3740	6592	*	22
+       0	*	*	*	*	*	*	6652	0	0	
+
+G 23   3893	*	4615	3095	6743	3201	7155	5644	3685	6022	*	3407	*	3868	3790	2131	4244	6907	*	6357	23
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 24   1433	4571	6628	6741	*	6551	*	3470	*	4667	5795	*	5676	6456	5527	3332	3094	2940	*	6583	24
+       58	4669	*	1000	1000	*	*	6652	2167	0	
+
+L 25   *	*	*	*	3500	6298	*	4132	*	565	3844	6022	*	*	6277	*	*	3881	*	*	25
+       285	2482	*	1000	1000	*	*	6652	4543	0	
+
+E 26   1473	*	3655	2973	*	4089	6417	6698	3652	*	*	4081	*	5593	4631	3361	5050	*	*	5282	26
+       78	4241	*	1000	1000	*	*	6652	2962	0	
+
+P 27   4356	*	1910	2966	*	2328	5373	*	3280	6456	*	3563	5240	5137	4074	5592	*	*	*	*	27
+       177	3115	*	1000	1000	*	*	6652	3995	0	
+
+F 28   3532	*	6683	3748	4553	7141	5004	1477	6159	4697	5543	3721	*	6709	*	6647	6098	2687	*	4320	28
+       52	4822	*	1000	1000	*	*	6652	2267	0	
+
+N 29   4498	5943	3079	5040	*	3266	6616	*	4117	*	6559	1603	3196	5570	4977	3219	6672	*	*	*	29
+       36	5341	*	1000	1000	*	*	6652	1581	0	
+
+I 30   *	*	*	*	*	*	*	978	*	3784	*	*	*	*	*	*	*	1253	*	*	30
+       14	6647	*	1000	1000	*	*	6652	1000	0	
+
+R 31   5610	6512	5234	2683	*	6190	3680	3860	4640	2811	6891	3911	4492	3811	2845	4202	6839	4709	*	6370	31
+       53	4788	*	1000	1000	*	*	6652	2542	0	
+
+M 32   2889	*	*	6386	5862	6630	*	3017	*	2099	1824	*	5630	5970	*	6298	6090	3025	*	*	32
+       14	6654	*	1000	1000	*	*	6652	1000	0	
+
+I 33   5668	*	6551	6788	4868	*	6907	1015	5102	2636	5920	6572	*	6744	*	5067	6180	2793	*	6771	33
+       0	*	*	*	*	*	*	6652	0	0	
+
+C 34   2875	4620	5709	*	5710	4657	4706	5587	*	4448	5193	3532	*	4044	*	1404	3733	6298	*	*	34
+       92	*	4022	*	*	*	*	6652	0	0	
+
+Y 35   4305	5476	*	4598	6510	*	4532	3626	6304	3712	6349	*	*	1382	*	*	4389	3780	*	2787	35
+       0	*	*	*	*	*	0	6675	0	3108	
+
+G 36   3596	6578	*	6585	4898	1241	6460	*	*	6675	*	5447	5266	5231	*	2149	3088	*	*	*	36
+       0	*	*	*	*	0	*	6675	0	3108	
+
+A 37   1959	5665	4836	*	*	4118	*	6017	5458	6098	5801	4910	5912	6526	*	2061	2141	4940	*	*	37
+       15	*	6630	*	*	*	*	6652	0	0	
+
+S 38   6449	*	3998	5016	*	5154	*	6308	6473	*	*	3925	*	6626	4082	652	4114	6182	*	*	38
+       0	*	*	*	*	0	*	6650	0	1000	
+
+S 39   4509	6628	2915	1373	*	5169	7034	*	3968	6488	*	3914	4672	3252	5617	4093	6512	5943	*	*	39
+       15	*	6628	*	*	*	*	6652	0	0	
+
+H 40   *	*	*	*	*	*	3274	2305	7117	2682	4071	3450	*	5487	3636	4475	4233	2914	*	4422	40
+       0	*	*	*	*	*	0	6648	0	1000	
+
+N 41   5713	4731	5234	5945	*	4331	*	6609	3283	*	*	2077	*	*	3293	1652	3631	*	*	*	41
+       0	*	*	*	*	0	*	6648	0	1000	
+
+L 42   *	6447	*	*	4621	*	*	1062	*	2073	3632	*	*	*	*	*	*	2731	*	*	42
+       0	*	*	*	*	*	*	6652	0	0	
+
+C 43   *	3942	6360	4844	*	5837	*	5268	*	4397	3921	*	*	5246	*	984	2835	5682	5360	6039	43
+       18	6370	*	1000	1000	*	*	6652	1000	0	
+
+F 44   6651	2713	*	*	1788	*	*	2563	*	2669	5527	*	*	*	*	*	5696	2723	*	5101	44
+       0	*	*	*	*	*	*	6652	0	0	
+
+L 45   3950	4470	*	*	4664	2962	*	3592	*	2153	*	*	*	*	*	5970	5156	1432	*	*	45
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 46   *	*	*	*	6470	*	*	1737	*	4280	5944	*	*	*	*	*	5676	733	*	*	46
+       0	*	*	*	*	*	*	6652	0	0	
+
+P 47   3563	*	2414	3541	6357	6061	3637	*	3134	6551	*	3812	3227	4537	3159	4082	*	*	*	5826	47
+       0	*	*	*	*	*	*	6652	0	0	
+
+G 48   3268	*	3106	1999	*	4079	6410	6739	3040	*	*	3655	*	3629	4598	3617	4840	6647	*	*	48
+       0	*	*	*	*	*	*	6652	0	0	
+
+E 49   3368	*	2408	2411	*	5432	6741	*	2582	6583	*	3745	*	3960	4452	3978	4165	6273	*	*	49
+       0	*	*	*	*	*	*	6652	0	0	
+
+D 50   6709	*	1008	3643	6586	*	3656	*	4366	5782	*	4185	*	3482	4711	6616	*	5551	*	4552	50
+       9	7254	*	1585	585	*	*	6652	1000	0	
+
+A 51   2167	4532	*	5071	5332	3846	*	4777	3187	3889	5451	*	*	*	5816	4261	3958	2611	*	3729	51
+       0	*	*	*	*	*	*	6652	0	0	
+
+E 52   3220	6698	2510	2667	*	5262	5068	4334	3097	6106	*	3680	6688	4406	5848	4707	4761	3891	*	5769	52
+       0	*	*	*	*	*	*	6652	0	0	
+
+Q 53   4988	*	4260	3229	6743	5603	4914	6437	2042	3813	*	4226	5581	4052	2637	5395	3856	4923	*	*	53
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 54   645	*	*	*	*	5097	*	5573	*	3420	6559	*	*	*	*	5594	4126	2961	*	*	54
+       0	*	*	*	*	*	*	6652	0	0	
+
+V 55   3804	6338	*	5627	*	6628	6683	2336	6866	2209	4307	*	*	*	6647	6181	6417	1508	*	6021	55
+       0	*	*	*	*	*	*	6652	0	0	
+
+Q 56   4123	5556	5945	3536	*	*	4566	5103	2425	5920	6512	3631	5324	3067	2232	4878	5705	4545	*	*	56
+       0	*	*	*	*	*	*	6652	0	0	
+
+K 57   1742	4547	5688	6122	*	5769	6267	4193	4706	3000	6098	4710	*	4921	4209	4474	4246	2996	*	6360	57
+       15	6583	*	2000	415	*	*	6652	1000	0	
+
+L 58   *	6720	*	*	*	*	*	2206	*	559	5043	*	*	*	*	*	5509	4541	*	*	58
+       0	*	*	*	*	*	*	6652	0	0	
+
+H 59   4748	5719	5818	6111	*	*	778	6190	5198	*	*	5144	*	6604	5532	3867	6671	6647	*	2847	59
+       0	*	*	*	*	*	*	6652	0	0	
+
+S 60   3504	*	2857	2838	*	4575	4526	*	2359	*	*	4382	*	3900	3389	3333	4872	*	*	6667	60
+       0	*	*	*	*	*	*	6652	0	0	
+
+N 61   2131	6940	*	2062	5612	4478	3830	6677	4878	6452	6051	4339	*	5395	4178	3974	3608	4500	*	*	61
+       0	*	*	*	*	*	*	6638	0	0	
+
+L 62   *	*	*	*	534	*	*	5508	*	2011	6283	*	*	*	*	*	*	6600	*	5947	62
+       43	5080	*	0	*	*	*	6594	1407	0	
+
+F 63   *	*	*	*	837	*	*	2702	*	2789	*	*	*	*	5903	5876	*	4527	*	3945	63
+       0	*	*	*	*	*	*	6004	0	0	
+
+E 64   *	*	2374	560	*	*	*	*	*	*	*	*	*	2958	*	*	*	*	*	*	64
+       0	*	*	0	*	*	*	5146	0	0	
+
+//

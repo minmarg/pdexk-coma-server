@@ -1,0 +1,164 @@
+HHsearch 1.5
+NAME  d1w85i_ a.9.1.1 (I:) E3/E1 binding domain of dihydrolipoyl acetyltransferase {Bacillus stearothermophilus [TaxId: 1422]}
+FAM   a.9.1.1
+FILE  d1w85i_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1w85i_.a3m -v 1 
+DATE  Tue Jan 22 03:58:57 2013
+LENG  42 match states, 42 columns in multiple alignment
+FILT  107 out of 1977 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.6 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHCCCHHCCCCCCCCCCEEHHHHHHHHCC
+>ss_conf
+973478889999870987330578698884637669876359
+>Consensus
+rvxasPxaRklAxexgidlxxixgtGxxGrIxkxDvxxxixG
+>d1w85i_ a.9.1.1 (I:) E3/E1 binding domain of dihydrolipoyl acetyltransferase {Bacillus stearothermophilus [TaxId: 1422]}
+RVIAMPSVRKYAREKGVDIRLVQGTGKNGRVLKEDIDAFLAG
+>gi|282890229|ref|ZP_06298759.1|(117-157:402) hypothetical protein pah_c014o107 [Parachlamydia acanthamoebae str. Hall's coccus] >gi|281499886|gb|EFB42175.1| hypothetical protein pah_c014o107 [Parachlamydia acanthamoebae str. Hall's coccus]  E=5e-07 s/c=1.39 id=31% cov=100%
+KSLAAPATRKMARDLGLDLSTISATGDHGEITIDDIKKYVS-
+>gi|332798640|ref|YP_004460139.1|(120-161:439) hypothetical protein TepRe1_0644 [Tepidanaerobacter acetatoxydans Re1] >gi|332696375|gb|AEE90832.1| catalytic domain-containing protein of components of various dehydrogenase complexes [Tepidanaerobacter acetatoxydans Re1]  E=1e-10 s/c=1.65 id=33% cov=102%
+KIKASPAAKRAAREHNVDLWEVAPTGPDGRIVEKDVILYIRG
+>gi|254281750|ref|ZP_04956718.1|(137-173:488) dihydrolipoyllysine-residue acetyltransferase component of pyruvatedehydrogenase complex [gamma proteobacterium NOR51-B] >gi|219677953|gb|EED34302.1| dihydrolipoyllysine-residue acetyltransferase component of pyruvatedehydrogenase complex [gamma proteobacterium NOR51-B]  E=0.0008 s/c=1.25 id=26% cov=90%
+-VPATVVARRLAKANNINLNNVSPSGRHDRVTVEDLRS----
+>gi|32491071|ref|NP_871325.1|(198-237:496) hypothetical protein WGLp322 [Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis] >gi|25166278|dbj|BAC24468.1| aceF [Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis]  E=3e-07 s/c=1.45 id=32% cov=98%
+-IYSSPFVRRIASKFNIDLSKIDGSGRKGRILPEDIKNSIN-
+>gi|116750966|ref|YP_847653.1|(133-172:444) 2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase [Syntrophobacter fumaroxidans MPOB] >gi|116700030|gb|ABK19218.1| 2-oxoglutarate dehydrogenase E2 component [Syntrophobacter fumaroxidans MPOB]  E=9e-05 s/c=1.24 id=34% cov=98%
+RPIVSESVKELLAERGLDAAQITPSGPGGRLTRGDVLAFL--
+>gi|375092253|ref|ZP_09738537.1|(48-89:92) hypothetical protein HMPREF9709_01399 [Helcococcus kunzii ATCC 51366] >gi|374561327|gb|EHR32668.1| hypothetical protein HMPREF9709_01399 [Helcococcus kunzii ATCC 51366]  E=0.0005 s/c=1.12 id=30% cov=102%
+QVKISPLAARIAEIEGLNVQVLEGTGPQGKIMKEDVMNLLHG
+>gi|302869527|ref|YP_003838164.1|(145-185:425) dihydrolipoyllysine-residue acetyltransferase [Micromonospora aurantiaca ATCC 27029] >gi|302572386|gb|ADL48588.1| Dihydrolipoyllysine-residue acetyltransferase [Micromonospora aurantiaca ATCC 27029]  E=1e-06 s/c=1.35 id=33% cov=100%
+-VLTKPPLRKLAKDLGVELADVRGSGPDGRITRQDLLDHTTG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	1527	*	*	*	*	4448	720	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4304	0	0	
+
+V 2    3180	*	*	6395	6332	*	*	1974	*	5389	*	6187	2969	*	5525	6087	5187	1390	*	*	2
+       0	*	*	*	*	*	*	4530	0	0	
+
+I 3    4935	*	*	*	2867	*	4549	3599	2681	2273	6395	*	3510	6418	3240	*	6014	4168	*	4217	3
+       40	*	5193	*	*	*	*	4533	0	0	
+
+A 4    601	*	*	*	*	*	*	3067	*	5757	6137	*	*	*	*	3885	4143	4454	*	5730	4
+       16	*	6514	*	*	0	*	4534	0	1542	
+
+M 5    4423	*	*	*	*	5326	*	*	5890	*	3643	*	5904	*	*	1061	1641	6070	*	*	5
+       15	6560	*	2000	415	0	*	4647	1000	1000	
+
+P 6    *	*	*	5417	*	*	*	*	5816	*	*	*	83	*	*	*	*	6112	*	*	6
+       0	*	*	*	*	*	*	4660	0	0	
+
+S 7    1609	*	*	*	5654	*	5040	5604	5222	2516	*	*	5330	6125	4668	2572	5176	3386	*	5080	7
+       0	*	*	*	*	*	*	4660	0	0	
+
+V 8    942	*	*	*	*	*	*	4448	*	5828	*	*	6574	*	*	*	4566	1460	*	*	8
+       0	*	*	*	*	*	*	4660	0	0	
+
+R 9    4082	*	6501	4287	*	*	*	6704	2999	4980	6659	6794	*	6816	547	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4660	0	0	
+
+K 10   3449	5537	5437	5169	*	*	4781	7002	1360	5287	6540	5890	*	5622	1953	4386	6449	6483	*	*	10
+       0	*	*	*	*	*	*	4660	0	0	
+
+Y 11   6771	*	*	*	3953	*	*	2602	4592	1118	3064	*	*	6331	5040	*	6838	4693	*	4336	11
+       0	*	*	*	*	*	*	4660	0	0	
+
+A 12   338	*	*	*	*	6560	*	4311	*	4348	4610	*	*	*	*	5080	*	5147	*	*	12
+       0	*	*	*	*	*	*	4660	0	0	
+
+R 13   3196	*	5694	2996	*	6050	6464	*	2462	5965	5499	4682	*	3777	1712	4879	4917	6976	6956	*	13
+       0	*	*	*	*	*	*	4660	0	0	
+
+E 14   4023	*	3642	1102	*	6811	*	*	2694	5088	*	5840	*	3477	4651	5785	5436	6467	*	*	14
+       0	*	*	*	*	*	*	4660	0	0	
+
+K 15   3797	*	6331	4074	*	*	2385	*	3306	1895	*	2899	*	4513	4512	6606	6894	*	*	4195	15
+       0	*	*	*	*	*	*	4660	0	0	
+
+G 16   5221	*	5425	5690	*	750	5159	*	4501	*	*	2376	*	5272	5572	5368	*	*	*	*	16
+       0	*	*	*	*	*	*	4660	0	0	
+
+V 17   5315	*	*	*	*	*	6335	1367	*	2068	*	*	*	*	*	*	*	1572	*	*	17
+       80	4217	*	1390	693	*	*	4660	2547	0	
+
+D 18   5735	*	733	3773	*	*	*	*	4671	*	*	2777	5831	6595	*	3647	*	6213	*	*	18
+       0	*	*	*	*	*	*	4660	0	0	
+
+I 19   3826	*	*	*	*	*	*	2482	*	779	*	*	4243	*	*	6050	6467	4443	5735	5382	19
+       0	*	*	*	*	*	*	4660	0	0	
+
+R 20   2610	*	4070	3218	*	5350	4861	*	4690	5644	6642	4339	*	4672	4113	1647	4283	6989	5918	*	20
+       0	*	*	*	*	*	*	4660	0	0	
+
+L 21   4134	*	3126	3481	6697	5059	5116	6464	2856	4382	6449	4514	*	2841	3991	3503	3090	6679	*	*	21
+       25	5855	*	1585	585	*	*	4660	1374	0	
+
+V 22   *	4900	*	*	*	*	*	1292	*	2827	6421	*	*	*	*	*	*	1302	*	*	22
+       29	6797	6519	0	*	*	*	4660	1000	0	
+
+Q 23   4206	*	5205	4012	*	*	4554	5559	2443	*	*	4891	3829	3299	4141	3040	2411	4751	*	*	23
+       7	*	7649	*	*	0	*	4654	0	1000	
+
+G 24   3144	*	*	*	*	505	*	*	*	*	*	*	2738	*	5638	*	*	6320	*	*	24
+       0	*	*	*	*	*	0	4663	0	1000	
+
+T 25   4806	*	*	*	5678	*	*	*	5953	*	*	*	*	*	*	1289	945	*	*	*	25
+       0	*	*	*	*	*	0	4663	0	1000	
+
+G 26   4673	*	4362	*	5678	232	*	*	*	6379	*	*	*	6121	*	6094	*	*	*	*	26
+       0	*	*	*	*	0	*	4663	0	1000	
+
+K 27   3380	*	6631	3841	*	4237	5317	4245	3486	7114	*	6697	1651	5735	2389	4883	*	5326	*	*	27
+       0	*	*	*	*	*	*	4660	0	0	
+
+N 28   4240	*	2342	3991	*	2854	2740	*	2855	5955	6058	3030	*	4549	5283	5003	7034	*	*	*	28
+       14	*	6679	*	*	*	*	4660	0	0	
+
+G 29   6210	*	4852	6660	*	315	*	*	*	*	*	3606	*	5930	5678	5642	*	*	*	*	29
+       0	*	*	*	*	0	*	4655	0	1000	
+
+R 30   5452	*	*	6631	*	*	5746	4933	3197	5654	5387	6660	6519	5432	628	5878	5675	5268	*	6724	30
+       0	*	*	*	*	*	*	4660	0	0	
+
+V 31   6042	*	*	*	*	*	*	799	*	3134	*	*	*	*	*	*	*	1756	*	*	31
+       0	*	*	*	*	*	*	4660	0	0	
+
+L 32   *	5644	*	*	5955	6382	5506	4622	5323	2803	4230	5746	*	5138	3898	4410	1200	3812	*	*	32
+       0	*	*	*	*	*	*	4660	0	0	
+
+K 33   3994	*	5179	2977	*	*	5960	4897	1205	4063	5716	6058	5599	5371	3408	5815	*	4364	*	*	33
+       0	*	*	*	*	*	*	4660	0	0	
+
+E 34   2492	*	2963	2191	*	3747	*	*	3503	*	*	5966	6797	3835	3222	4016	6666	4706	*	*	34
+       0	*	*	*	*	*	*	4660	0	0	
+
+D 35   *	*	35	*	*	*	*	*	*	*	*	5367	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	4660	0	0	
+
+I 36   5046	*	*	*	5865	*	*	1720	*	2784	5816	*	*	*	*	*	*	1041	*	*	36
+       0	*	*	*	*	*	*	4660	0	0	
+
+D 37   7212	*	3538	2176	5522	*	*	5646	3658	1675	6508	*	*	3937	3347	6700	6497	4918	*	5411	37
+       0	*	*	*	*	*	*	4651	0	0	
+
+A 38   1841	*	4558	4517	*	5832	6052	*	3251	4657	*	2912	*	4667	2934	3199	4855	6530	*	*	38
+       0	*	*	*	*	*	*	4651	0	0	
+
+F 39   2454	*	*	*	2212	*	2765	4944	*	5550	*	*	*	5726	*	5889	*	4587	6312	1686	39
+       0	*	*	*	*	*	*	4596	0	0	
+
+L 40   4327	*	*	*	*	*	*	2023	4867	1810	4345	*	*	5107	*	5070	5594	1966	*	*	40
+       0	*	*	*	*	*	*	4577	0	0	
+
+A 41   2133	*	6374	5248	*	5221	*	*	1970	*	*	2587	6511	2921	5393	3280	6026	*	*	*	41
+       0	*	*	*	*	*	*	4546	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	0	*	*	*	3771	0	0	
+
+//

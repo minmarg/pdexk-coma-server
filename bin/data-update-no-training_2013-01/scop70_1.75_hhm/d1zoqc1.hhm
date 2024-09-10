@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1zoqc1 a.153.1.1 (C:2065-2111) Nuclear receptor coactivator CBP/p300 ibid domain {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.153.1.1
+FILE  d1zoqc1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zoqc1.a3m -v 1 
+DATE  Tue Jan 22 05:07:34 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CHHHHHHHHHHCCCCCHHHHHHHHHHHCCHHHHHHHHHHHHHHHHCC
+>ss_conf
+95888999850899815799999998336689999998765654119
+>Consensus
+xALqqLlxtLksPsspxQqqqvlxILksNPxLMAAFIkqrxxkyxxx
+>d1zoqc1 a.153.1.1 (C:2065-2111) Nuclear receptor coactivator CBP/p300 ibid domain {Mouse (Mus musculus) [TaxId: 10090]}
+SALQDLLRTLKSPSSPQQQQQVLNILKSNPQLMAAFIKQRTAKYVAN
+>gi|321472383|gb|EFX83353.1|(86-125:139) hypothetical protein DAPPUDRAFT_100652 [Daphnia pulex]   E=1e-08 s/c=1.57 id=66% cov=87%
+SALHQLLKTLREPSTPEQQQEVVTILRGNPQLMAAFVKQR-------
+>gi|350415649|ref|XP_003490706.1|(2316-2353:2653) PREDICTED: hypothetical protein LOC100747609 [Bombus impatiens]   E=7e-07 s/c=1.50 id=67% cov=83%
+--LQQLMQTLKNPHTPEQQNQILQILKSNPPIMAAFIKQR-------
+>gi|301610470|ref|XP_002934771.1|(2099-2145:2476) PREDICTED: histone acetyltransferase p300 [Xenopus (Silurana) tropicalis]  E=3e-13 s/c=1.65 id=77% cov=102%
+AALQNLLRTLRSPSSPMQQQQVLNILHSNPQLLAAFIKQRAAKYASS
+>gi|326672337|ref|XP_001332718.3|(2166-2210:2645) PREDICTED: CREB-binding protein [Danio rerio]   E=8e-12 s/c=1.62 id=67% cov=98%
+AALQDLLRFLRLPSSPHQQQQVLSILRSNPLLMATFIRQRAPRYL--
+>gi|357611203|gb|EHJ67366.1|(1947-1986:2058) hypothetical protein KGM_19207 [Danaus plexippus]   E=8e-11 s/c=1.74 id=63% cov=87%
+-ALAQLMATLRSPTTHNQQQEILQILKSNPPLMAAFIKQRA------
+>gi|312374870|gb|EFR22343.1|(471-510:516) hypothetical protein AND_15407 [Anopheles darlingi]   E=2e-07 s/c=1.45 id=68% cov=85%
+-AIAQLMATLKNPAAgPEQQQQLLSILKANPQLMAAFIKQR-------
+>gi|270006069|gb|EFA02517.1|(2015-2051:2308) hypothetical protein TcasGA2_TC008222 [Tribolium castaneum]   E=0.0002 s/c=1.30 id=74% cov=81%
+-ALQQLMQTLRSPQSPEQQQQILTILKANPQLMAAFIK---------
+>gi|391346501|ref|XP_003747511.1|(1992-2030:2253) PREDICTED: uncharacterized protein LOC100909321 [Metaseiulus occidentalis]  E=5e-10 s/c=1.72 id=70% cov=85%
+-ALQQLIHTLKKPQTPQQHQQVLTILKSNPALMAAFIKRQ-------
+>gi|321455048|gb|EFX66193.1|(221-260:609) hypothetical protein DAPPUDRAFT_263528 [Daphnia pulex]   E=4e-06 s/c=1.35 id=78% cov=87%
+-ALHQLLQTLKSPSTPQQQQQVVQILRSNPQLMAAFIKQRS------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    892	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1117	*	*	*	*	1
+       0	*	*	*	*	*	*	1487	0	0	
+
+A 2    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1689	0	0	
+
+L 3    *	*	*	*	*	*	*	3869	*	102	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1703	0	0	
+
+Q 4    3022	*	*	*	*	*	2742	*	*	*	*	*	*	543	4607	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1703	0	0	
+
+D 5    *	*	2843	2570	*	*	*	*	*	*	*	3486	*	730	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1703	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1703	0	0	
+
+L 7    *	*	*	*	*	*	*	3060	*	744	2012	*	*	*	*	*	*	4833	*	*	7
+       0	*	*	*	*	*	*	1703	0	0	
+
+R 8    3022	*	4607	4317	*	*	3606	*	3168	*	*	*	*	2084	1488	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1703	0	0	
+
+T 9    *	*	*	*	3910	*	*	*	*	*	4567	*	*	*	*	*	166	*	*	*	9
+       0	*	*	*	*	*	*	1703	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1703	0	0	
+
+K 11   *	*	*	*	*	*	*	*	914	*	*	*	*	*	1091	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1702	0	0	
+
+S 12   *	*	*	3898	*	4349	*	*	3628	3929	*	3103	*	*	*	687	*	*	*	*	12
+       0	*	*	*	*	*	*	1702	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1702	0	0	
+
+S 14   3265	*	*	*	*	*	3155	*	*	*	*	4662	*	3124	*	797	4218	*	*	*	14
+       0	*	*	*	*	*	*	1702	0	0	
+
+S 15   3890	*	*	*	*	*	*	*	*	*	*	*	*	*	*	717	1625	*	*	*	15
+       101	3890	*	0	*	*	*	1702	1000	0	
+
+P 16   *	*	*	*	*	*	4218	*	*	*	*	4613	224	*	*	*	*	4349	*	*	16
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 17   *	*	*	1979	*	*	3929	*	*	3548	4529	4218	4601	1130	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 18   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 19   *	*	*	*	*	*	3628	*	*	*	*	*	*	122	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 20   4613	*	*	*	*	*	4662	*	5209	*	*	3552	*	309	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 21   *	*	*	3049	*	*	*	*	4349	*	*	*	*	269	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1702	0	0	
+
+V 22   *	*	*	*	*	*	*	2532	*	3890	*	*	*	*	*	*	*	397	*	*	22
+       0	*	*	*	*	*	*	1702	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	159	*	*	*	*	*	*	*	3262	*	*	23
+       0	*	*	*	*	*	*	1702	0	0	
+
+N 24   *	*	*	*	*	*	4771	*	*	*	*	2017	*	2204	*	1995	2009	*	*	*	24
+       0	*	*	*	*	*	*	1702	0	0	
+
+I 25   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1702	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1702	0	0	
+
+K 27   *	*	*	*	*	*	3517	*	696	*	*	*	*	*	1760	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1702	0	0	
+
+S 28   2783	*	*	*	*	3898	*	*	*	*	*	*	*	*	*	344	*	*	*	*	28
+       0	*	*	*	*	*	*	1702	0	0	
+
+N 29   *	*	*	*	*	*	*	*	*	*	*	63	*	*	*	4549	*	*	*	*	29
+       0	*	*	*	*	*	*	1702	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1702	0	0	
+
+Q 31   3628	*	*	*	*	*	3655	*	*	3206	*	*	2847	860	*	*	4591	*	*	*	31
+       0	*	*	*	*	*	*	1702	0	0	
+
+L 32   *	*	*	*	*	*	*	4353	*	72	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1702	0	0	
+
+M 33   *	*	*	*	*	*	*	*	*	3517	132	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1702	0	0	
+
+A 34   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1702	0	0	
+
+A 35   98	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3929	*	*	*	35
+       0	*	*	*	*	*	*	1702	0	0	
+
+F 36   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1702	0	0	
+
+I 37   *	*	*	*	*	*	*	100	*	*	*	*	*	*	*	*	*	3898	*	*	37
+       0	*	*	*	*	*	*	1702	0	0	
+
+K 38   *	*	*	*	*	*	*	*	167	*	*	*	*	*	3190	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1696	0	0	
+
+Q 39   *	*	*	*	*	*	*	*	*	*	*	*	*	129	3544	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1701	0	0	
+
+R 40   *	*	*	*	*	*	*	*	*	*	*	*	*	3544	129	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1701	0	0	
+
+T 41   1054	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2048	2228	3983	*	*	41
+       0	*	*	*	*	*	*	1567	0	0	
+
+A 42   636	*	*	*	*	*	3105	*	*	*	*	*	2881	*	*	3257	*	*	*	*	42
+       0	*	*	*	*	*	*	1383	0	0	
+
+K 43   *	*	*	*	*	*	*	*	395	*	*	*	*	*	2063	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1383	0	0	
+
+Y 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	44
+       0	*	*	*	*	*	*	1383	0	0	
+
+V 45   1114	*	*	*	*	*	*	*	*	1796	*	*	*	*	*	*	*	2000	*	*	45
+       0	*	*	*	*	*	*	1297	0	0	
+
+A 46   1494	*	*	*	*	*	*	*	*	*	*	1609	*	*	*	1657	*	*	*	*	46
+       0	*	*	*	*	*	*	1190	0	0	
+
+N 47   *	*	*	*	*	*	*	*	*	*	*	1494	*	*	*	633	*	*	*	*	47
+       0	*	*	0	*	*	*	1190	0	0	
+
+//

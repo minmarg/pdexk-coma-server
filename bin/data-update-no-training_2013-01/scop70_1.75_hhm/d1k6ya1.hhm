@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1k6ya1 a.4.10.1 (A:1-46) N-terminal Zn binding domain of HIV integrase {Human immunodeficiency virus type 1 [TaxId: 11676]}
+FAM   a.4.10.1
+FILE  d1k6ya1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1k6ya1.a3m -v 1 
+DATE  Mon Jan 21 22:41:54 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  103 out of 157 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHCCCHHHHHHHCCCCHHHHHHHHHHCCCCCCC
+>ss_conf
+9766347799988645987899987089888999998414113679
+>Consensus
+flxxIexAqexHxkxHxNxxxLxxxfxipxxvAkeIVxxCpxCqxk
+>d1k6ya1 a.4.10.1 (A:1-46) N-terminal Zn binding domain of HIV integrase {Human immunodeficiency virus type 1 [TaxId: 11676]}
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLK
+>gi|433311|gb|AAA67168.1|(796-841:1086) pol polyprotein [Puma lentivirus 14]   E=1e-10 s/c=1.50 id=36% cov=102%
+WMDNIEKAEDDHDKFHSDVVYLKQRFGIPRQVAEEIIRKCPLCMIK
+>gi|124106323|sp|P19560.2|POL_BIV29(1197-1240:1475) RecName: Full=Gag-Pol polyprotein; AltName: Full=Pr170Gag-Pol; Contains: RecName: Full=Matrix protein p16; Short=MA; Contains: RecName: Full=p2L; Contains: RecName: Full=Capsid protein p26; Short=CA; Contains: RecName: Full=p3; Contains: RecName: Full=Transframe peptide; AltName: Full=p11; Contains: RecName: Full=Protease; AltName: Full=P119; AltName: Full=Retropepsin; Contains: RecName: Full=Reverse transcriptase/ribonuclease H; Short=RT; AltName: Full=Exoribonuclease H; AltName: Full=P72; Contains: RecName: Full=Integrase; Short=IN  E=1e-10 s/c=1.57 id=42% cov=98%
+FLENIPSATEDHERWHTSPDILVRQFHLPKRIAKEIVARCQECK--
+>gi|5802814|gb|AAD51793.1|AF164611_1(1514-1552:2294) Gag-Pro-Pol-Env protein [Homo sapiens]   E=5e-07 s/c=1.46 id=38% cov=87%
+------KAQELHALTHVNAAGLKNKFDVTWKQAKDIVQHCTQCQV-
+>gi|3287055|emb|CAA08113.1|(28-59:128) DNA polymerase [Human immunodeficiency virus 2]   E=1e-06 s/c=1.73 id=42% cov=72%
+--------------YHSNVTELSHKLGLPNLVARQIVNTCSQCQQK
+>gi|123217678|gb|ABM73646.1|(573-611:879) pol protein [Bos taurus]   E=1e-05 s/c=1.35 id=35% cov=80%
+-------AMDEHTNVHTNAKSLHSKYHIPLTEARHIIKSCDVC---
+>gi|291392191|ref|XP_002712621.1|(1183-1225:1491) PREDICTED: Pro-Pol-like [Oryctolagus cuniculus]   E=3e-07 s/c=1.34 id=32% cov=96%
+FTTSAEAAKAFHQSFHVNARALQQKFHLSRADARQIVLDCADC---
+>gi|224089416|ref|XP_002188751.1|(622-661:997) PREDICTED: similar to polymerase [Taeniopygia guttata]   E=7e-06 s/c=1.33 id=29% cov=89%
+----LQEARQLHESLHIGAKALAKRCGISTADARHVVATCPHCQ--
+>gi|224045787|ref|XP_002187650.1|(741-784:1040) PREDICTED: similar to polymerase [Taeniopygia guttata]   E=5e-09 s/c=1.44 id=33% cov=98%
+--DVFQQAKLSHEHYHQNVPDLIRQVQLTRSQARAIVTNCPNCQLQ
+>gi|157779110|gb|ABV71118.1|(866-908:1152) Pro-Pol [Ovis aries]   E=2e-08 s/c=1.44 id=32% cov=96%
+FQSAIDAARKSHDLHHQNSHSLRLQFKISREAARQIVKSCSTC---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	354	*	*	*	*	*	*	*	*	*	*	*	*	*	2201	*	1
+       0	*	*	*	*	*	*	3303	0	0	
+
+L 2    *	*	*	*	*	*	*	3006	*	712	2862	*	*	5009	*	*	4301	4457	*	*	2
+       0	*	*	*	*	*	*	3431	0	0	
+
+D 3    6002	*	1276	1390	*	4208	*	*	*	*	*	4696	*	5673	*	5535	4157	*	*	*	3
+       0	*	*	*	*	*	*	3738	0	0	
+
+G 4    4217	*	6034	*	*	2718	*	*	2443	*	*	2079	4583	4732	2596	4472	5191	4604	*	*	4
+       0	*	*	*	*	*	*	3745	0	0	
+
+I 5    5456	*	*	*	4418	*	*	569	*	3040	5885	*	*	*	*	*	*	3083	*	*	5
+       0	*	*	*	*	*	*	3987	0	0	
+
+D 6    4703	*	2995	1047	*	*	5986	*	*	*	*	5294	3155	3067	5223	5480	5042	*	*	*	6
+       0	*	*	*	*	*	*	3929	0	0	
+
+K 7    3312	*	*	2055	*	*	*	*	2678	4931	6179	5653	2546	2257	6825	4897	6242	*	*	*	7
+       0	*	*	*	*	*	*	4021	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4136	0	0	
+
+Q 9    *	*	*	3440	*	*	*	4472	2622	*	4954	*	*	1099	3181	5659	4651	4989	*	*	9
+       0	*	*	*	*	*	*	4136	0	0	
+
+E 10   4526	*	3705	766	*	*	*	4013	4448	3616	6242	4950	*	5144	5784	*	6582	*	*	*	10
+       0	*	*	*	*	*	*	4126	0	0	
+
+E 11   4503	*	2305	1467	4091	*	*	*	*	3473	*	5888	*	*	*	2232	*	*	*	6241	11
+       0	*	*	*	*	*	*	4126	0	0	
+
+H 12   *	*	*	*	*	*	49	*	*	5716	*	*	*	*	*	*	*	*	*	6117	12
+       0	*	*	*	*	*	*	4126	0	0	
+
+E 13   3595	*	2913	1508	*	4741	*	*	4636	5744	*	4920	*	3569	5013	3505	3829	5059	*	*	13
+       0	*	*	*	*	*	*	4126	0	0	
+
+K 14   5927	*	*	*	4300	*	6305	*	1003	2714	*	4604	*	5285	2967	5013	5188	*	*	5993	14
+       0	*	*	*	*	*	*	4126	0	0	
+
+Y 15   *	*	*	*	1915	*	2980	*	*	4048	*	*	*	*	*	*	5755	6071	3717	1190	15
+       0	*	*	*	*	*	*	4130	0	0	
+
+H 16   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	4130	0	0	
+
+S 17   6429	*	*	*	*	5867	*	4427	5828	3524	*	2887	*	2242	*	1859	3217	3469	*	*	17
+       0	*	*	*	*	*	*	4130	0	0	
+
+N 18   *	*	3713	*	*	3657	*	*	*	*	*	454	*	*	*	3821	4522	*	*	*	18
+       0	*	*	*	*	*	*	4130	0	0	
+
+W 19   1534	*	*	4988	*	*	*	4402	5994	*	7170	*	4049	*	*	4139	5425	2787	1900	*	19
+       0	*	*	*	*	*	*	4130	0	0	
+
+R 20   4641	*	6186	3496	*	6615	3534	*	1589	*	*	5474	3348	3796	2387	5828	5875	6620	*	*	20
+       0	*	*	*	*	*	*	4130	0	0	
+
+A 21   1960	*	3484	3835	5391	3426	*	4672	*	*	7198	5635	*	5450	*	2713	3067	*	*	3241	21
+       0	*	*	*	*	*	*	4130	0	0	
+
+M 22   *	*	*	*	*	*	*	4275	*	251	3209	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	4130	0	0	
+
+A 23   2348	5296	*	4496	*	*	5214	4552	3680	*	*	*	*	3438	1848	3111	6870	3446	*	*	23
+       0	*	*	*	*	*	*	4130	0	0	
+
+S 24   7164	*	3037	3116	5155	*	3709	6149	3631	3280	*	5747	*	3013	2431	3639	5173	*	*	5825	24
+       0	*	*	*	*	*	*	4128	0	0	
+
+D 25   4085	*	3474	2458	6520	*	7224	6283	2289	5338	4692	5646	*	2358	3714	*	3656	*	*	*	25
+       0	*	*	*	*	*	*	4130	0	0	
+
+F 26   *	3809	*	*	512	*	5785	*	*	5392	*	*	*	*	*	*	*	4710	*	2762	26
+       0	*	*	*	*	*	*	4130	0	0	
+
+N 27   5842	6859	4920	*	*	1774	2486	6550	2643	*	*	3099	*	3611	5387	3993	6163	*	*	*	27
+       0	*	*	*	*	*	*	4130	0	0	
+
+L 28   *	*	*	*	*	*	*	1079	*	1080	*	*	*	*	*	*	*	4220	*	*	28
+       0	*	*	*	*	*	*	4130	0	0	
+
+P 29   *	*	*	*	*	*	*	*	5288	*	*	*	628	*	6045	2913	2478	*	*	*	29
+       0	*	*	*	*	*	*	4130	0	0	
+
+P 30   3971	5288	*	*	*	6563	*	*	3134	3666	5043	4544	2828	4254	1705	7253	3489	*	4696	*	30
+       0	*	*	*	*	*	*	4130	0	0	
+
+V 31   4478	*	4199	2669	*	*	*	2634	4158	2798	3968	6440	*	3339	5275	5339	4171	3289	*	*	31
+       0	*	*	*	*	*	*	4130	0	0	
+
+V 32   4160	*	5008	3902	*	*	6114	4516	*	4123	*	*	*	1939	*	*	*	1090	*	*	32
+       0	*	*	*	*	*	*	4128	0	0	
+
+A 33   92	*	*	*	*	5288	*	*	*	*	*	*	5965	*	*	*	*	5640	*	*	33
+       0	*	*	*	*	*	*	4130	0	0	
+
+K 34   6662	*	*	3970	*	*	*	*	1071	*	*	5423	*	6082	1380	6329	5994	*	*	*	34
+       0	*	*	*	*	*	*	4130	0	0	
+
+E 35   2641	*	3618	1327	*	6439	4379	*	5003	*	5785	6082	*	2259	5214	*	*	*	*	*	35
+       0	*	*	*	*	*	*	4130	0	0	
+
+I 36   *	*	*	*	*	*	*	147	*	4790	*	*	*	*	*	*	*	4048	*	*	36
+       0	*	*	*	*	*	*	4130	0	0	
+
+V 37   *	*	*	*	6126	*	*	2880	5890	3678	6045	*	*	*	*	*	6220	506	5506	*	37
+       0	*	*	*	*	*	*	4130	0	0	
+
+A 38   1995	*	6173	3798	*	*	6371	*	2810	6136	*	2350	5965	2704	3736	6550	4531	*	*	*	38
+       0	*	*	*	*	*	*	4130	0	0	
+
+S 39   3342	6870	5568	4042	*	*	4895	*	3510	6824	5239	3970	*	2411	4604	2503	2494	7076	*	*	39
+       0	*	*	*	*	*	*	4130	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	4130	0	0	
+
+D 41   4107	*	3203	4477	*	*	6267	*	5474	3736	*	4764	1031	4045	*	4411	4501	*	*	*	41
+       0	*	*	*	*	*	*	4130	0	0	
+
+K 42   5768	*	4088	4736	*	5778	3754	4362	1662	5202	*	3917	*	2900	6437	3699	3765	4685	*	*	42
+       0	*	*	*	*	*	*	4128	0	0	
+
+C 43   6084	60	*	*	*	*	*	*	*	5281	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	4128	0	0	
+
+Q 44   *	*	*	*	*	*	3655	*	3304	*	5670	*	*	401	4556	*	*	*	*	*	44
+       0	*	*	*	*	*	*	3658	0	0	
+
+L 45   *	*	*	*	*	3799	*	2196	5931	2354	4463	5554	*	2341	6109	6220	3576	3032	*	*	45
+       0	*	*	*	*	*	*	3207	0	0	
+
+K 46   *	*	*	*	*	*	*	*	566	*	*	*	*	2247	3134	*	*	*	*	*	46
+       0	*	*	0	*	*	*	2971	0	0	
+
+//

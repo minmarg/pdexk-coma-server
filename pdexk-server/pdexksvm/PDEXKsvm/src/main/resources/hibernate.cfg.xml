@@ -1,0 +1,41 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:mysql://localhost/pdexkrec</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.connection.username">pdexkrec</property>
+        <property name="hibernate.connection.password">pdexkrec123</property>
+        
+        <property name="hbm2ddl.auto">update</property>
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.format_sql">true</property>
+        
+        <property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+        <!--  thread is the short name for
+          org.hibernate.context.ThreadLocalSessionContext
+          and let Hibernate bind the session automatically to the thread
+        -->
+        <property name="hibernate.c3p0.idle_test_period">100</property>
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.max_size">20</property>
+        <property name="hibernate.c3p0.timeout">1800</property>
+        <property name="hibernate.c3p0.max_statements">50</property>
+        <property name="connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>
+        <!-- no "connection.pool_size" entry! -->
+        
+        <property name="current_session_context_class">thread</property>
+
+        <!-- mapping files -->        
+        <mapping resource="PDEXKsvm/entities/User.hbm.xml"                   />
+        <mapping resource="PDEXKsvm/entities/EmailNotification.hbm.xml"      />
+        <mapping resource="PDEXKsvm/entities/JobParams.hbm.xml"              />
+        <mapping resource="PDEXKsvm/entities/Workstation.hbm.xml"            />
+        <mapping resource="PDEXKsvm/entities/Job.hbm.xml"                    />
+        <mapping resource="PDEXKsvm/entities/DataFile.hbm.xml"               />
+        <mapping resource="PDEXKsvm/entities/ClassificationObject.hbm.xml"   />
+  
+    </session-factory>
+</hibernate-configuration>

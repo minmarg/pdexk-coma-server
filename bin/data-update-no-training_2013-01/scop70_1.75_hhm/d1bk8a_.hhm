@@ -1,0 +1,192 @@
+HHsearch 1.5
+NAME  d1bk8a_ g.3.7.5 (A:) Antimicrobial protein 1 (AH-AMP1) {Horse chestnut (Aesculus hippocastanum) [TaxId: 43364]}
+FAM   g.3.7.5
+FILE  d1bk8a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bk8a_.a3m -v 1 
+DATE  Mon Jan 21 18:56:08 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  28 out of 30 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCCCCCCCCEEEECCCCCCHHHHHHCCCCCCCCCCCCCCCCCEEEEECCC
+>ss_conf
+98755787224315788230222001234436643255897305775089
+>Consensus
+xcxeRxSxTWsGxCxxsxxCxxqCixxExAxhGaChxxxxxxxCfCYfxC
+>d1bk8a_ g.3.7.5 (A:) Antimicrobial protein 1 (AH-AMP1) {Horse chestnut (Aesculus hippocastanum) [TaxId: 43364]}
+LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC
+>gi|297797898|ref|XP_002866833.1|(33-79:79) predicted protein [Arabidopsis lyrata subsp. lyrata] >gi|297312669|gb|EFH43092.1| predicted protein [Arabidopsis lyrata subsp. lyrata]  E=0.0001 s/c=1.07 id=44% cov=96%
+---QRYSGSWEGVCIFSSNCNTQCIERESAKYGACHRDDNGLACFCYFDC
+>gi|388514949|gb|AFK45536.1|(31-79:136) unknown [Medicago truncatula]   E=0.0001 s/c=1.01 id=50% cov=100%
+LCQKR-STTWSGPCLNTGNCKRQCINVEHATFGACHRQGFGFACFCYKKC
+>gi|20563188|gb|AAM27914.1|AF364865_1(32-78:108) defensin [Helianthus annuus]   E=4e-11 s/c=1.51 id=65% cov=96%
+---EKASQTWSGTCGKTKHCDDQCKSWEGAAHGACHVRDGKHMCFCYFNC
+>gi|56410837|gb|AAV85992.1|(35-81:81) defensin [Lepidium meyenii]   E=5e-11 s/c=1.50 id=48% cov=96%
+---ERSSGTWSGVCGNNNTCKNQCINLEGARHGSCNYRFPYHRCICYVPC
+>gi|291482326|emb|CBK62703.1|(4-50:140) ragweed homologue of Art v 1 precursor [Ambrosia artemisiifolia]   E=5e-11 s/c=1.50 id=62% cov=96%
+---EKPSLTWSGECEDTDKCDKKCSDWEGAKHGACHVRESKSMCFCYFDC
+>gi|297850348|ref|XP_002893055.1|(32-78:78) low-molecular-weight cysteine-rich 78 [Arabidopsis lyrata subsp. lyrata] >gi|297338897|gb|EFH69314.1| low-molecular-weight cysteine-rich 78 [Arabidopsis lyrata subsp. lyrata] >gi|410066987|emb|CCN97876.1| defensin [Arabidopsis halleri subsp. halleri]  E=1e-10 s/c=1.48 id=62% cov=96%
+---ERRSKTWTGFCGNTRGCDSQCKSWERASHGACHAQFPGFACFCYFNC
+>gi|428670921|emb|CCP27785.1|(34-80:80) defensin [Arabidopsis halleri subsp. halleri]   E=3e-08 s/c=1.31 id=38% cov=96%
+---KRESTHWVGVCDSNNICKNTCVRLDKAQHGSCKYVFPAYKCICYFPC
+>gi|387848938|dbj|BAM15661.1|(25-74:78) thionin, partial [Barbarea vulgaris]   E=4e-08 s/c=1.23 id=40% cov=100%
+-CEKRNSSTsFSGVCQYDNACMNQCINLEGAQDGKCNNAVPTPKCICYFPC
+>gi|297848222|ref|XP_002891992.1|(34-80:80) hypothetical protein ARALYDRAFT_892869 [Arabidopsis lyrata subsp. lyrata] >gi|297337834|gb|EFH68251.1| hypothetical protein ARALYDRAFT_892869 [Arabidopsis lyrata subsp. lyrata]  E=0.0005 s/c=1.01 id=44% cov=96%
+---KRYSDSSSGVCILSSRCNSRCINTEKAKFGACHVDTHGRACFCYFNC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1395	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1792	0	0	
+
+N 3    *	*	*	1520	*	*	*	*	*	*	*	1585	*	1653	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1792	0	0	
+
+E 4    *	*	*	632	*	*	*	*	2059	*	*	*	*	3122	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2692	0	0	
+
+R 5    *	*	*	*	*	*	*	*	2176	*	*	*	*	*	361	*	*	*	*	*	5
+       60	*	4629	*	*	*	*	2692	0	0	
+
+P 6    2950	*	*	3774	*	*	*	*	*	4341	*	3830	1722	*	2850	3100	*	*	*	3065	6
+       0	*	*	*	*	0	*	2686	0	1000	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	7
+       0	*	*	*	*	*	*	2692	0	0	
+
+Q 8    *	*	4067	*	*	1611	*	*	2218	3693	*	*	*	3344	*	3853	3169	4581	*	*	8
+       0	*	*	*	*	*	*	2692	0	0	
+
+T 9    *	*	*	*	*	*	3822	*	*	*	*	*	*	*	*	3130	295	*	*	*	9
+       103	3853	*	0	*	*	*	2692	1000	0	
+
+W 10   *	*	*	*	3853	*	*	*	*	*	*	*	*	*	*	4067	4357	*	282	*	10
+       0	*	*	*	*	*	*	2692	0	0	
+
+S 11   *	*	*	4197	4748	*	*	*	*	4357	*	*	*	*	*	471	3895	3822	*	*	11
+       0	*	*	*	*	*	*	2692	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2692	0	0	
+
+N 13   *	*	5040	4484	3397	*	*	*	4581	*	*	2908	3409	*	*	*	4891	924	*	*	13
+       0	*	*	*	*	*	*	2692	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       62	4581	*	1000	1000	*	*	2692	1000	0	
+
+G 15   *	*	3822	4484	*	1007	*	3130	3192	3409	*	*	*	3853	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2692	0	0	
+
+N 16   *	*	3664	*	4237	*	*	4262	4941	4106	*	1016	*	4622	*	3033	*	*	*	3879	16
+       0	*	*	*	*	*	*	2721	0	0	
+
+T 17   *	*	3895	*	*	*	*	*	*	*	*	2267	*	*	*	1494	1434	*	*	*	17
+       0	*	*	*	*	*	*	2724	0	0	
+
+A 18   4939	*	3079	*	*	2092	*	*	3096	*	*	1654	*	*	4996	3179	*	4717	*	*	18
+       0	*	*	*	*	*	*	2724	0	0	
+
+H 19   1934	*	*	*	*	4215	3015	3954	2772	*	*	1912	*	*	4115	*	5242	*	*	*	19
+       0	*	*	*	*	*	*	2724	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2724	0	0	
+
+D 21   4717	*	1482	*	*	*	*	*	1419	*	3895	3179	*	*	5371	5156	*	*	*	*	21
+       0	*	*	*	*	*	*	2724	0	0	
+
+K 22   *	*	3934	*	*	*	*	*	2728	*	*	1229	*	*	2442	3489	3573	*	*	*	22
+       0	*	*	*	*	*	*	2724	0	0	
+
+Q 23   *	*	*	4717	*	*	*	*	4559	*	*	*	*	568	2471	*	3954	*	*	*	23
+       0	*	*	*	*	*	*	2724	0	0	
+
+C 24   *	107	*	*	*	5472	*	*	*	*	*	*	*	*	5219	*	*	*	*	5491	24
+       0	*	*	*	*	*	*	2724	0	0	
+
+Q 25   *	*	*	*	*	*	*	699	2435	*	*	*	*	4043	4995	4559	*	3954	*	*	25
+       0	*	*	*	*	*	*	2724	0	0	
+
+D 26   *	*	3175	3428	*	*	*	*	*	4419	*	1329	*	5112	2369	3457	4717	*	*	*	26
+       0	*	*	*	*	*	*	2724	0	0	
+
+W 27   *	*	*	*	*	*	*	*	*	1180	*	*	*	*	4247	*	4115	3471	1482	*	27
+       0	*	*	*	*	*	*	2724	0	0	
+
+E 28   *	*	3954	156	*	*	*	*	*	*	*	*	*	4717	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2724	0	0	
+
+K 29   *	*	*	*	*	984	3471	*	2142	*	*	*	*	*	3419	3573	*	*	*	*	29
+       0	*	*	*	*	*	*	2724	0	0	
+
+A 30   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2724	0	0	
+
+S 31   3510	*	*	*	*	*	*	*	1548	5092	*	*	*	2710	2352	3967	3471	4717	*	*	31
+       0	*	*	*	*	*	*	2724	0	0	
+
+H 32   *	*	3895	*	3378	*	450	*	*	*	*	*	*	*	*	4273	*	*	*	4247	32
+       0	*	*	*	*	*	*	2724	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2724	0	0	
+
+A 34   745	*	*	*	*	*	*	*	3895	*	*	*	*	*	*	1573	*	*	*	*	34
+       0	*	*	*	*	*	*	2724	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2724	0	0	
+
+H 36   *	*	*	*	*	*	745	*	3954	*	*	1562	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2724	0	0	
+
+K 37   2998	*	*	*	4419	*	*	*	2909	*	*	3895	*	4808	2807	*	*	2645	*	1789	37
+       0	*	*	*	*	*	*	2724	0	0	
+
+R 38   3895	*	3179	*	*	*	*	4419	4065	*	*	*	*	2404	1750	*	*	2122	*	*	38
+       0	*	*	*	*	*	*	2724	0	0	
+
+E 39   *	*	2999	3175	1224	2732	*	*	*	*	*	5183	4911	*	*	*	4115	3895	*	*	39
+       0	*	*	*	*	*	*	2724	0	0	
+
+N 40   4808	*	*	*	4700	3496	4115	4273	*	*	*	3100	920	*	*	3597	*	*	*	*	40
+       46	*	4995	*	*	*	*	2724	0	0	
+
+H 41   2051	*	*	*	*	1565	4826	*	2209	*	*	*	*	*	*	*	3884	*	*	3299	41
+       0	*	*	*	*	0	*	2723	0	1000	
+
+W 42   4636	*	*	*	2648	*	1446	*	*	4247	*	*	3895	*	4115	4559	*	4163	3428	3954	42
+       0	*	*	*	*	*	*	2724	0	0	
+
+K 43   1618	*	*	*	*	*	*	*	1582	*	2584	*	*	*	2908	4636	*	*	*	*	43
+       0	*	*	*	*	*	*	2724	0	0	
+
+C 44   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2730	0	0	
+
+F 45   *	*	*	*	725	*	*	1525	*	*	*	*	*	*	*	*	*	4395	*	*	45
+       0	*	*	*	*	*	*	2730	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2730	0	0	
+
+Y 47   *	*	*	*	*	*	*	*	4261	*	*	*	*	*	*	*	*	*	*	77	47
+       0	*	*	*	*	*	*	2730	0	0	
+
+F 48   *	*	*	*	333	*	*	*	3457	*	*	*	*	*	*	*	*	4261	*	3985	48
+       0	*	*	*	*	*	*	2730	0	0	
+
+N 49   *	*	2306	4873	*	*	*	*	3050	*	*	1826	1471	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2730	0	0	
+
+C 50   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	0	*	*	*	2727	0	0	
+
+//

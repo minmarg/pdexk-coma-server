@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d2co8a2 g.39.1.3 (A:8-43) Nedd9 interacting protein with calponin homology, NICAL (MICAL1) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2co8a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2co8a2.a3m -v 1 
+DATE  Tue Jan 22 06:15:05 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  103 out of 260 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCEECCEEEEEECCEEECCCCC
+>ss_conf
+987888875043168540300133338841136579
+>Consensus
+qxqxxxxxxxCxxCxkxVYxxErlxaxgxxxHkxCF
+>d2co8a2 g.39.1.3 (A:8-43) Nedd9 interacting protein with calponin homology, NICAL (MICAL1) {Human (Homo sapiens) [TaxId: 9606]}
+QHQEAGAGDLCALCGEHLYVLERLCVNGHFFHRSCF
+>gi|326668603|ref|XP_001922175.2|(151-186:867) PREDICTED: MICAL-like 1 [Danio rerio]   E=9e-09 s/c=1.74 id=32% cov=103%
+QPKRSTLSSTCSACGKHVHLVQRILVDGKLYHRNCF
+>gi|224085217|ref|XP_002196672.1|(703-738:950) PREDICTED: microtubule associated monoxygenase, calponin and LIM domain containing 1 [Taeniopygia guttata]  E=2e-08 s/c=1.71 id=38% cov=103%
+RERAGDNSDACYFCGRRVYIVERASAEGRFFHRGCF
+>gi|410919431|ref|XP_003973188.1|(262-297:615) PREDICTED: LIM domain and actin-binding protein 1-like [Takifugu rubripes]  E=6e-08 s/c=1.67 id=32% cov=103%
+QKFRPPPRETCVACQKTVYPLERLVALQHVYHKRCF
+>gi|405976453|gb|EKC40959.1|(167-202:972) MICAL-like protein 2 [Crassostrea gigas]   E=1e-07 s/c=1.65 id=35% cov=103%
+KEKQVSMGDKCGICKDKVYLMERHIENGKLYHRACF
+>gi|328773235|gb|EGF83272.1|(233-267:327) hypothetical protein BATDEDRAFT_34089 [Batrachochytrium dendrobatidis JAM81]  E=3e-07 s/c=1.65 id=36% cov=100%
+-NQTAASTNKCQACSKTVYAMEQVTVDTHMFHRTCF
+>gi|307196731|gb|EFN78190.1|(804-838:1522) LIM domain and actin-binding protein 1 [Harpegnathos saltator]   E=3e-05 s/c=1.46 id=29% cov=97%
+--QNGEANTNCRSCGKVVFQMEQTKAEGLVWHKNCF
+>gi|8468051|gb|AAF75284.1|AF116850_1(99-130:240) LIM domain protein PLIM-2 [Helianthus annuus] >gi|4321401|gb|AAD15745.1| LIM domain protein PLIM-2 [Helianthus annuus]  E=0.0009 s/c=1.44 id=27% cov=92%
+----SGTLDKCRICEKTVYFIDKMTMEGESYHKQCF
+>gi|339237161|ref|XP_003380135.1|(152-187:288) putative LIM domain protein [Trichinella spiralis] >gi|316977090|gb|EFV60249.1| putative LIM domain protein [Trichinella spiralis]  E=1e-05 s/c=1.45 id=32% cov=103%
+ESKEKDEPHECSICGQVVYPMEKLQLEKKVFHKSCF
+>gi|334347905|ref|XP_001371759.2|(202-235:284) PREDICTED: cysteine and glycine-rich protein 2-like [Monodelphis domestica]  E=0.0006 s/c=1.38 id=31% cov=97%
+--QKFGGAEKCSRCGDSVYAAEKVIGAGKPWHKNCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	2455	*	*	*	*	3410	*	*	*	*	899	2415	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3258	0	0	
+
+H 2    *	*	3565	2831	*	4115	3709	*	3534	*	*	2814	4120	2735	*	2290	*	*	*	*	2
+       0	*	*	*	*	*	*	3493	0	0	
+
+Q 3    *	*	*	*	4302	*	4288	*	2284	*	*	*	*	1056	2561	4563	*	*	*	*	3
+       0	*	*	*	*	*	*	3890	0	0	
+
+E 4    3408	*	4907	2114	5457	5283	5224	*	2432	*	*	5105	*	2428	4337	5285	4184	*	4801	*	4
+       0	*	*	*	*	*	*	4111	0	0	
+
+A 5    2729	*	6028	*	4977	3477	*	*	5356	*	*	*	2167	4199	4802	1834	4113	4774	*	*	5
+       0	*	*	*	*	*	*	4187	0	0	
+
+G 6    4106	*	4344	5027	*	1223	5921	5995	*	5975	*	4813	3145	5264	5057	3104	5180	4761	*	*	6
+       0	*	*	*	*	*	*	4178	0	0	
+
+A 7    2413	6366	5965	3252	*	2828	*	*	*	4270	5924	4720	4736	6036	4871	3483	2497	3669	*	*	7
+       0	*	*	*	*	*	*	4262	0	0	
+
+G 8    3728	5856	*	*	6326	2388	*	*	4184	3944	*	3891	5998	3436	4243	1941	3394	*	*	*	8
+       33	5445	*	2040	402	*	*	4193	1472	0	
+
+D 9    4874	*	1634	2115	*	*	5402	*	6132	*	*	3742	3959	4026	*	3115	4806	5417	*	*	9
+       0	*	*	*	*	*	*	4236	0	0	
+
+L 10   3869	6244	*	6107	*	*	5488	4410	1408	2572	5976	6361	5992	*	3677	4951	3435	4542	*	*	10
+       14	6663	*	0	*	*	*	4157	1000	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3983	0	0	
+
+A 12   2765	*	6624	3400	3910	3931	4060	6852	3340	5168	*	4702	6729	5393	4510	3190	4929	3957	6179	3562	12
+       0	*	*	*	*	*	*	3983	0	0	
+
+L 13   2198	6675	5630	4978	3957	5636	*	3003	4724	3832	*	*	*	*	4333	2726	5386	2605	*	6154	13
+       0	*	*	*	*	*	*	3983	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3983	0	0	
+
+G 15   5127	*	3453	3626	*	1908	6283	*	3092	5605	*	3449	*	2757	4747	3664	5241	*	*	*	15
+       0	*	*	*	*	*	*	3983	0	0	
+
+E 16   *	*	5357	4486	*	5843	*	*	633	6239	*	4341	*	3263	3810	5583	6703	*	*	*	16
+       0	*	*	*	*	*	*	3983	0	0	
+
+H 17   4671	*	*	*	*	*	3559	4742	3079	6788	*	*	3805	6542	2471	4582	1627	3821	*	6367	17
+       0	*	*	*	*	*	*	3983	0	0	
+
+L 18   4539	*	*	*	*	*	*	5630	*	3798	*	*	*	*	*	*	*	209	*	*	18
+       0	*	*	*	*	*	*	3983	0	0	
+
+Y 19   *	*	*	*	3315	*	3580	*	*	*	*	*	*	*	*	*	*	*	*	294	19
+       0	*	*	*	*	*	*	3983	0	0	
+
+V 20   3574	*	*	5620	5101	*	6747	4259	*	1995	4909	5787	1428	4659	*	6651	*	3965	6943	6707	20
+       0	*	*	*	*	*	*	3983	0	0	
+
+L 21   2847	*	*	*	5712	*	*	4266	*	2415	1679	6399	*	*	*	*	4318	2132	*	*	21
+       0	*	*	*	*	*	*	3983	0	0	
+
+E 22   *	*	3305	261	*	*	*	*	*	*	*	*	*	3960	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3983	0	0	
+
+R 23   4385	*	*	4742	6373	5583	*	*	2085	6345	6284	*	*	3437	1031	5281	6192	*	*	*	23
+       0	*	*	*	*	*	*	3983	0	0	
+
+L 24   6791	5922	*	6633	5001	*	4274	2757	*	1314	3923	*	*	5305	*	*	4512	2506	*	5617	24
+       0	*	*	*	*	*	*	3983	0	0	
+
+C 25   4798	5386	6979	3232	5450	6373	5437	3742	3647	4074	5468	5835	*	3806	4925	2430	3189	3132	*	*	25
+       0	*	*	*	*	*	*	3983	0	0	
+
+V 26   889	4482	6506	6457	*	6264	*	5661	*	5701	4589	*	*	*	*	*	4110	2051	*	*	26
+       11	*	6979	*	*	*	*	3983	0	0	
+
+N 27   4673	*	1709	1756	5705	4264	6655	5279	*	4052	6593	3274	*	*	6504	5909	*	4922	*	5854	27
+       0	*	*	*	*	0	*	3983	0	1000	
+
+G 28   *	6709	3785	4723	*	701	*	*	3264	*	*	3759	*	4532	5335	*	5716	*	*	*	28
+       0	*	*	*	*	*	*	3983	0	0	
+
+H 29   *	6538	*	4569	6897	*	3349	5088	1902	3126	4841	5211	*	4052	2133	*	5319	4215	*	*	29
+       0	*	*	*	*	*	*	3983	0	0	
+
+F 30   4843	4526	*	*	3250	*	5712	3255	*	2292	5530	*	4194	*	5913	3512	3819	2223	*	5438	30
+       0	*	*	*	*	*	*	3983	0	0	
+
+F 31   *	*	*	*	1378	*	6184	6131	*	5255	5913	*	*	*	6179	*	*	6630	2888	1375	31
+       0	*	*	*	*	*	*	3983	0	0	
+
+H 32   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3983	0	0	
+
+R 33   *	*	*	*	*	*	*	6316	1058	*	*	5061	*	5855	1232	5840	*	5920	*	*	33
+       0	*	*	*	*	*	*	3986	0	0	
+
+S 34   3426	*	6496	5431	6993	4160	4006	*	5366	5169	*	2694	6595	3957	5169	1737	3243	4974	*	*	34
+       0	*	*	*	*	*	*	3986	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3986	0	0	
+
+F 36   *	*	*	*	90	*	*	*	*	4716	*	*	*	*	*	*	*	*	*	5466	36
+       0	*	*	0	*	*	*	3980	0	0	
+
+//

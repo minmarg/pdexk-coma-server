@@ -1,0 +1,270 @@
+HHsearch 1.5
+NAME  d1p94a_ a.43.1.3 (A:) Plasmid partition protein ParG {Salmonella enterica [TaxId: 28901]}
+FAM   a.43.1.3
+FILE  d1p94a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1p94a_.a3m -v 1 
+DATE  Tue Jan 22 00:49:02 2013
+LENG  76 match states, 76 columns in multiple alignment
+FILT  18 out of 20 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCHHHHHCCCCCCCCCEEEEECCCHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHCC
+>ss_conf
+9766444541001244411146664045786652024511778899999989873598688999999999864059
+>Consensus
+malxkxxxsxxkMxfGehRxlxxvxxaxxpxgxxKrvqvNxxExxHxrFKaACxxxgxxmtdVxxeLidxWLxene
+>d1p94a_ a.43.1.3 (A:) Plasmid partition protein ParG {Salmonella enterica [TaxId: 28901]}
+MSLEKAHTSVKKMTFGENRDLERVVTAPVSSGKIKRVNVNFDEEKHTRFKAACARKGTSITDVVNQLVDNWLKENE
+>gi|189009189|ref|YP_001928071.1|(1-79:79) ParG [Klebsiella pneumoniae] >gi|171850730|gb|ACB55469.1| ParG [Klebsiella pneumoniae]  E=7e-17 s/c=1.14 id=59% cov=100%
+MALNKQNSgtaaSHKVMTFGENRDLEKVM-ATAPTAIQKRINFNMPEDKHQRLKAACARKGISISDVMNELADAWLNENE
+>gi|218534677|ref|YP_002424439.1|(1-75:75) plasmid partition protein ParG [Yersinia pseudotuberculosis] >gi|218473146|emb|CAQ76574.1| plasmid partition protein ParG [Yersinia pseudotuberculosis]  E=4e-14 s/c=1.08 id=49% cov=97%
+MALTKQTEPKLKaaMSFGEHRQLDQVLNKPV---KEKRIQVILDESKHTEFKMACLKNGTNITAVITELLDEWLAQNK
+>gi|322835413|ref|YP_004215439.1|(2-67:69) plasmid partitioning protein [Rahnella sp. Y9602] >gi|384527862|ref|YP_005419094.1| plasmid partitioning protein [Rahnella aquatilis HX2] >gi|321170614|gb|ADW76312.1| plasmid partitioning protein [Rahnella sp. Y9602] >gi|380756600|gb|AFE60990.1| plasmid partitioning protein [Rahnella aquatilis HX2]  E=2e-13 s/c=1.20 id=35% cov=87%
+-----------KMKLGQHRQLTTALEAvSKPPASVKKLQTNIDEELHRRFKTSCFLQDREMKDVLTELIEAWLITNE
+>gi|284009083|emb|CBA76063.1|(1-63:65) hypothetical protein ARN_33110 [Arsenophonus nasoniae]   E=2e-09 s/c=1.04 id=27% cov=83%
+------------MKLGNHKSVNDALEAvSKPSVPTKKLQINIPEKLHKEFKIACLNHDKEMTEITMMLIKKWLNE--
+>gi|300866784|ref|ZP_07111465.1|(15-50:70) hypothetical protein OSCI_3090018 [Oscillatoria sp. PCC 6506] >gi|300335232|emb|CBN56625.1| hypothetical protein OSCI_3090018 [Oscillatoria sp. PCC 6506]  E=0.0006 s/c=1.32 id=42% cov=47%
+-----------------------------------------PESVRARFKASCALEGRDMSEVLEELITNWLREHE
+>gi|317053375|ref|YP_004119142.1|(1-77:77) DNA partition complex ParG [Pantoea sp. At-9b] >gi|316953114|gb|ADU72586.1| DNA partition complex ParG [Pantoea sp. At-9b]  E=2e-19 s/c=1.28 id=63% cov=100%
+MALQKKHSSA-TMTFGEHRDISKIVSSPVLPGsdKQKRVNVNFDEAKHARFKAACAKRGTNITVVINDLVDQWLNDNE
+>gi|238898498|ref|YP_002924179.1|(1-74:76) partitioning protein [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)] >gi|229466257|gb|ACQ68031.1| partitioning protein [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]  E=3e-18 s/c=1.29 id=60% cov=99%
+MVLTRQHKS-KTMSFGEHRDIEKVVNKNTPPRKQKRVNVNFDEEIHILFKTACAKHSTSITEVIKDLVDNWLKEN-
+>gi|300949955|ref|ZP_07163911.1|(3-65:69) ParG protein [Escherichia coli MS 116-1] >gi|417241617|ref|ZP_12037475.1| ParG domain protein [Escherichia coli 9.0111] >gi|422351727|ref|ZP_16432535.1| ParG protein [Escherichia coli MS 117-3] >gi|300450683|gb|EFK14303.1| ParG protein [Escherichia coli MS 116-1] >gi|324020201|gb|EGB89420.1| ParG protein [Escherichia coli MS 117-3] >gi|386211995|gb|EII22445.1| ParG domain protein [Escherichia coli 9.0111]  E=1e-11 s/c=1.16 id=33% cov=83%
+-----------KMKLGNHKATNTALDAlKKPAGATRKLQMNIPEELHLAFKLACVEDGVDMTQVNIELIQNWLK---
+>gi|332711145|ref|ZP_08431079.1|(7-51:61) ParG [Moorea producens 3L] >gi|332350127|gb|EGJ29733.1| ParG [Moorea producens 3L]  E=0.0006 s/c=1.05 id=37% cov=57%
+---------------------------------EESIRVYLSKDKKKNFKAACVMQDRDMSDVVNELIDKWLDQN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1862	0	0	
+
+S 2    452	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2960	*	2830	*	*	2
+       0	*	*	*	*	*	*	1862	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1862	0	0	
+
+E 4    *	*	*	1963	*	*	*	*	*	*	*	2481	*	2849	*	*	1233	*	*	*	4
+       0	*	*	*	*	*	*	1862	0	0	
+
+K 5    *	*	*	*	*	*	*	*	197	*	*	*	*	*	2973	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1923	0	0	
+
+A 6    3185	*	*	*	*	*	*	*	3023	*	*	3123	*	617	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1923	0	0	
+
+H 7    *	*	*	*	*	*	821	*	*	*	*	2854	*	*	*	*	1758	*	*	*	7
+       0	*	*	*	*	*	*	1923	0	0	
+
+T 8    2994	*	*	2556	*	*	*	*	2973	*	*	*	*	*	*	1936	1663	*	*	*	8
+       215	2854	*	2000	415	*	*	1923	1000	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	2556	*	*	269	*	*	*	*	9
+       355	*	2196	*	*	*	*	1923	0	0	
+
+V 10   2593	*	*	*	*	*	2554	*	2214	*	*	*	2682	*	*	2741	*	2805	*	*	10
+       261	*	2593	*	*	0	*	1873	0	1119	
+
+K 11   *	*	*	*	*	*	*	*	581	2409	*	*	*	*	2805	*	*	*	*	*	11
+       0	*	*	*	*	0	*	1876	0	1000	
+
+K 12   *	*	*	*	*	*	*	*	661	*	*	*	*	*	*	*	2256	2658	*	*	12
+       141	3423	*	1000	1000	*	*	2493	1000	0	
+
+M 13   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2685	0	0	
+
+T 14   *	*	*	*	*	*	*	*	1156	*	*	*	*	*	*	2392	1470	*	*	*	14
+       0	*	*	*	*	*	*	2685	0	0	
+
+F 15   *	*	*	*	859	*	*	*	*	1156	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2685	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2685	0	0	
+
+E 17   *	*	*	859	*	*	*	*	*	*	*	2239	*	2078	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2685	0	0	
+
+N 18   *	*	*	*	*	*	397	*	*	*	*	2054	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2685	0	0	
+
+R 19   *	*	*	*	*	*	*	*	2239	*	*	*	*	*	343	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2685	0	0	
+
+D 20   3232	*	1089	*	*	*	*	*	*	*	*	*	*	1652	*	3247	*	*	*	*	20
+       94	3990	*	2000	415	*	*	2685	1000	0	
+
+L 21   *	*	*	*	*	*	*	2933	*	605	*	*	*	*	*	*	3232	3247	*	*	21
+       0	*	*	*	*	*	*	2685	0	0	
+
+E 22   3161	*	2340	1518	*	*	*	*	*	*	*	2239	*	*	*	3887	4009	*	*	*	22
+       0	*	*	*	*	*	*	2685	0	0	
+
+R 23   3990	*	3247	*	*	*	*	*	1457	*	*	*	3161	3621	3238	*	2569	*	*	*	23
+       79	4222	*	1585	585	*	*	2685	1000	0	
+
+V 24   1375	*	*	*	*	*	*	3887	*	*	*	*	*	*	*	*	*	871	*	*	24
+       0	*	*	*	*	*	*	2685	0	0	
+
+V 25   *	*	*	*	*	*	*	3092	*	1274	3815	*	*	*	*	3990	*	1576	*	*	25
+       106	*	3815	*	*	*	*	2685	0	0	
+
+T 26   4016	*	2147	2513	*	*	*	*	3912	*	*	2284	*	*	*	2689	3178	*	*	*	26
+       0	*	*	*	*	0	*	2638	0	1000	
+
+A 27   954	*	*	*	*	*	*	*	2335	*	*	*	3990	*	*	2591	4138	*	*	*	27
+       556	1868	4446	0	*	*	*	2685	1633	0	
+
+P 28   *	*	*	*	*	*	*	4054	3213	*	*	3751	1167	3903	*	2557	3725	*	*	*	28
+       100	*	3903	*	*	0	*	2706	0	1000	
+
+V 29   2208	*	*	*	*	*	*	*	1833	4119	*	*	*	*	*	*	2503	1895	*	*	29
+       219	*	2826	*	*	0	*	2663	0	1000	
+
+S 30   *	*	*	*	*	*	*	*	3660	3680	*	*	629	*	*	2349	*	*	*	*	30
+       112	*	3741	*	*	956	1046	2609	0	1476	
+
+S 31   3118	*	*	*	*	*	*	*	*	*	*	*	1703	*	*	1180	2873	*	*	*	31
+       105	3836	*	1000	1000	*	0	2582	1000	1502	
+
+G 32   2555	*	*	*	*	647	*	*	*	*	*	*	*	*	3798	*	*	3065	*	*	32
+       117	3680	*	1000	1000	1000	1000	2582	1000	1502	
+
+K 33   3186	*	*	*	*	*	*	2838	1205	*	*	*	3184	*	*	2277	*	*	*	*	33
+       0	*	*	*	*	0	*	2659	0	1000	
+
+I 34   *	*	*	2747	*	*	*	4488	*	*	*	*	*	1786	*	3306	1740	3107	*	*	34
+       0	*	*	*	*	*	*	2789	0	0	
+
+K 35   *	*	*	3639	*	*	*	*	281	*	*	*	*	*	3374	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2789	0	0	
+
+R 36   *	*	*	*	*	*	*	*	1267	*	*	*	*	*	988	3639	*	*	*	*	36
+       0	*	*	*	*	*	*	2789	0	0	
+
+V 37   *	*	*	*	*	*	*	2229	*	1267	*	*	*	*	*	*	*	1430	*	*	37
+       0	*	*	*	*	*	*	2789	0	0	
+
+N 38   *	*	*	*	*	*	*	*	*	*	*	1199	*	1047	3639	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2789	0	0	
+
+V 39   *	*	*	*	3020	*	*	3345	*	*	3374	*	*	*	*	*	2180	1116	*	*	39
+       0	*	*	*	*	*	*	2789	0	0	
+
+N 40   *	*	*	*	*	*	*	3865	*	*	*	233	*	*	*	*	*	*	*	3639	40
+       0	*	*	*	*	*	*	2789	0	0	
+
+F 41   *	*	*	*	1679	*	*	1267	*	2747	3020	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2789	0	0	
+
+D 42   4120	*	1087	*	*	*	*	*	*	*	*	4521	1547	*	*	3539	*	*	*	*	42
+       0	*	*	*	*	*	*	2794	0	0	
+
+E 43   *	*	*	130	*	*	*	*	3539	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2794	0	0	
+
+E 44   4182	*	2807	1339	*	*	*	*	2517	*	*	*	*	*	*	2439	*	4393	*	*	44
+       0	*	*	*	*	*	*	2794	0	0	
+
+K 45   *	*	*	*	*	*	*	3459	1150	1549	*	*	*	*	*	*	*	3100	*	*	45
+       0	*	*	*	*	*	*	2794	0	0	
+
+H 46   *	*	*	*	*	*	327	*	3539	*	*	*	*	*	3100	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2794	0	0	
+
+T 47   2542	*	*	*	*	*	*	3459	2499	3681	*	*	*	3128	2531	*	2357	*	*	*	47
+       0	*	*	*	*	*	*	2794	0	0	
+
+R 48   3681	*	*	2657	*	*	*	*	*	4191	*	3539	*	*	683	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2794	0	0	
+
+F 49   *	*	*	*	175	*	*	*	*	3128	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2794	0	0	
+
+K 50   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2794	0	0	
+
+A 51   900	*	*	*	*	*	*	3461	*	3681	3885	*	*	*	*	*	2135	*	*	*	51
+       0	*	*	*	*	*	*	2794	0	0	
+
+A 52   332	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2753	4123	*	*	*	52
+       0	*	*	*	*	*	*	2794	0	0	
+
+C 53   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2794	0	0	
+
+A 54   1117	*	*	*	2531	*	*	*	*	2657	*	*	*	*	*	*	*	2268	*	*	54
+       0	*	*	*	*	*	*	2794	0	0	
+
+R 55   *	*	*	3681	*	*	*	*	1958	1788	3539	3461	*	*	2335	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2794	0	0	
+
+K 56   *	*	3681	3100	*	*	2780	*	3424	*	*	2654	*	1504	4182	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2794	0	0	
+
+G 57   *	*	1911	*	*	558	*	*	*	*	*	*	*	*	*	4191	*	*	*	*	57
+       0	*	*	*	*	*	*	2794	0	0	
+
+T 58   4120	*	*	*	*	*	*	4136	3461	*	*	*	*	*	1777	*	1551	3681	3576	*	58
+       0	*	*	*	*	*	*	2794	0	0	
+
+S 59   *	*	1833	1923	*	*	*	*	*	*	*	3026	*	*	*	1587	*	*	*	*	59
+       0	*	*	*	*	*	*	2794	0	0	
+
+I 60   *	*	*	*	*	*	*	1134	*	*	877	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2794	0	0	
+
+T 61   *	*	*	*	*	*	*	*	2531	*	*	*	*	*	*	1657	971	*	*	*	61
+       0	*	*	*	*	*	*	2794	0	0	
+
+D 62   3885	*	751	2287	*	*	*	*	*	*	*	*	*	3681	*	*	*	4182	*	*	62
+       0	*	*	*	*	*	*	2794	0	0	
+
+V 63   *	*	*	*	*	*	*	3461	*	*	*	*	*	*	*	*	*	137	*	*	63
+       0	*	*	*	*	*	*	2794	0	0	
+
+V 64   *	*	*	*	*	*	*	1714	*	1788	3128	3681	*	*	*	*	3461	3031	*	*	64
+       0	*	*	*	*	*	*	2794	0	0	
+
+N 65   *	*	*	4077	*	*	*	3681	2753	*	3461	1576	*	*	*	4393	2055	*	*	*	65
+       0	*	*	*	*	*	*	2794	0	0	
+
+Q 66   *	*	2297	1016	*	3576	*	*	4393	*	3461	*	*	3647	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	2794	0	0	
+
+L 67   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2794	0	0	
+
+V 68   4136	*	*	*	*	*	*	877	*	3885	*	*	*	*	*	*	*	1595	*	*	68
+       0	*	*	*	*	*	*	2794	0	0	
+
+D 69   *	*	885	2118	*	*	*	*	3461	*	*	*	*	3681	*	*	4077	*	*	*	69
+       0	*	*	*	*	*	*	2794	0	0	
+
+N 70   2776	*	4393	3885	*	*	3576	*	2094	*	*	1699	*	4182	*	4120	*	*	*	*	70
+       0	*	*	*	*	*	*	2794	0	0	
+
+W 71   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	71
+       0	*	*	*	*	*	*	2794	0	0	
+
+L 72   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2794	0	0	
+
+K 73   3885	*	3539	4123	*	*	*	3488	1688	*	*	2302	*	*	4077	3576	4521	*	*	*	73
+       0	*	*	*	*	*	*	2794	0	0	
+
+E 74   *	*	3066	687	*	*	*	*	*	*	*	*	*	2606	*	*	3396	*	*	*	74
+       0	*	*	*	*	*	*	2648	0	0	
+
+N 75   *	*	*	*	*	*	2313	*	*	*	*	324	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	2503	0	0	
+
+E 76   *	*	3883	284	*	*	*	*	3173	*	*	*	*	*	*	*	*	*	*	*	76
+       0	*	*	0	*	*	*	2330	0	0	
+
+//

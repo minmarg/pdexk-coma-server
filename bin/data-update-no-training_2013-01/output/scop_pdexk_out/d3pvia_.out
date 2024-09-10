@@ -1,0 +1,182 @@
+Query         d3pvia_ c.52.1.6 (A:) Restriction endonuclease PvuII {Proteus vulgaris [TaxId: 585]}
+Match_columns 156
+No_of_seqs    15 out of 17
+Neff          2.4 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:24 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d3pvia_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d3pvia_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d3pvia_ c.52.1.6 (A:) Restrict 100.0       0       0  598.6  14.6  156    1-156     1-156 (156)
+  2 d1t6ca1 c.55.1.8 (A:7-132) Exo  16.0   1E+02  0.0074   11.4   4.3   43    6-48     52-104 (126)
+  3 d1u6za2 c.55.1.8 (A:12-135) Ex  13.2      64  0.0047   12.6   2.7   47    6-52     49-107 (124)
+  4 d1jvra_ a.61.1.2 (A:) HTLV-II   12.7      34  0.0024   14.3   1.1   35   77-131    18-52  (137)
+  5 d1dxxa1 a.40.1.1 (A:9-119) Dys   9.2 2.3E+02   0.016    9.3   4.4   27   26-52     28-56  (111)
+  6 d1a62a1 a.140.3.1 (A:1-47) Rho   7.8      82   0.006   11.9   1.6   17   14-30     10-26  (47)
+  7 d1dk0a_ d.35.1.1 (A:) Heme-bin   7.7 1.1E+02  0.0082   11.1   2.3   38  103-141   127-164 (173)
+  8 d1m5ya3 d.26.1.1 (A:279-386) P   7.2 1.4E+02  0.0099   10.6   2.5   34    5-38     26-63  (108)
+  9 d1ugoa_ a.7.7.1 (A:) BAG-famil   6.8 5.5E+02    0.04    7.0   5.5   26    1-26     13-38  (99)
+ 10 d1aopa1 d.58.36.1 (A:81-145) S   6.6 2.6E+02   0.019    8.9   3.7   37   13-49     14-64  (65)
+
+No 1  
+>d3pvia_ c.52.1.6 (A:) Restriction endonuclease PvuII {Proteus vulgaris [TaxId: 585]}
+Probab=100.00  E-value=0  Score=598.64  Aligned_columns=156  Identities=100%
+
+Q ss_pred             CCHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHCCHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCEEHHHHHHHHHHCCCC
+Q ss_conf             96568999999998999999998606223443231789999999714236886675231677851203312245422413
+Q d3pvia_           1 SHPDLNKLLELWPHIQEYQDLALKHGINDIFQGNGGKLLQVLLITGLTVLPGREGNDAVDNAGQEYELKSINIDLTKGFS   80 (156)
+Q Consensus         1 s~~d~~~l~~l~~~i~e~q~lA~~ygInDIFQDNGgK~LQvL~~lgL~i~pGREGNDA~d~~g~EyElKsvN~~lt~sfs   80 (156)
+                      ||||+++|++|||+|||||+||++|||||||||||||+||||++|||+++||||||||+|++|+||||||||++||+|||
+T Consensus         1 s~~d~~~l~~l~~~i~e~q~lA~~ygInDIFQDNGgK~LQvL~~lgL~i~pGREGNDA~d~~g~EyElKsvN~~lt~sfs   80 (156)
+T d3pvia_           1 SHPDLNKLLELWPHIQEYQDLALKHGINDIFQGNGGKLLQVLLITGLTVLPGREGNDAVDNAGQEYELKSINIDLTKGFS   80 (156)
+T ss_pred             CCHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHCCHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCEEHHHHHHHHHHCCCC
+T ss_conf             96568999999998999999998606223443231789999999714236886675231677851203312245422413
+
+
+Q ss_pred             CCCCCCHHHHHHHCCCCEEEEEECCCCHHHHHHCCHHHHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHCCEECC
+Q ss_conf             2222288999865004302653136614465202845520789999999984368857886456688986370159
+Q d3pvia_          81 THHHMNPVIIAKYRQVPWIFAIYRGIAIEAIYRLEPKDLEFYYDKWERKWYSDGHKDINNPKIPVKYVMEHGTKIY  156 (156)
+Q Consensus        81 ThHHln~~Ii~KYR~V~W~fAiY~~I~l~~IY~l~P~~LE~~y~~WE~k~~~~g~kdiNNPKIPlk~V~e~G~~vy  156 (156)
+                      |||||||+||||||+||||||||+||+|++||+|+|+||||||++||+||+++|||||||||||||||+|||++||
+T Consensus        81 ThHHln~~Ii~KYR~V~W~fAiY~~I~l~~IY~l~P~~LE~~y~~WE~k~~~~g~kdiNNPKIPlk~V~e~G~~vy  156 (156)
+T d3pvia_          81 THHHMNPVIIAKYRQVPWIFAIYRGIAIEAIYRLEPKDLEFYYDKWERKWYSDGHKDINNPKIPVKYVMEHGTKIY  156 (156)
+T ss_pred             CCCCCCHHHHHHHCCCCEEEEEECCCCHHHHHHCCHHHHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHCCEECC
+T ss_conf             2222288999865004302653136614465202845520789999999984368857886456688986370159
+
+
+No 2  
+>d1t6ca1 c.55.1.8 (A:7-132) Exopolyphosphatase Ppx {Aquifex aeolicus [TaxId: 63363]}
+Probab=15.98   E-value=1e+02  Score=11.38  Aligned_columns=43  Identities=19%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHCCHHHH---------HCCHHHHHHHHHH-HCCC
+Q ss_conf             99999999899999999860622344---------3231789999999-7142
+Q d3pvia_           6 NKLLELWPHIQEYQDLALKHGINDIF---------QGNGGKLLQVLLI-TGLT   48 (156)
+Q Consensus         6 ~~l~~l~~~i~e~q~lA~~ygInDIF---------QDNGgK~LQvL~~-lgL~   48 (156)
+                      +.++.+...+++|+.++..||+.+|+         -.|+.-++..+-- +|+.
+T Consensus        52 ~~i~~~~~~l~~f~~~~~~~~v~~i~~vaTsa~R~A~N~~~~i~~I~~~tGi~  104 (126)
+T d1t6ca1          52 DRIEETIQVLKEYKKLIDEFKVERVKAVATEAIRRAKNAEEFLERVKREVGLV  104 (126)
+T ss_pred             HHHHHHHHHHHHHHHHHHHCCCCEEEEEEEHHCCCCCCHHHHHHHHHHHCCCC
+T ss_conf             99999999999999999848998899980000046788589999999963996
+
+
+No 3  
+>d1u6za2 c.55.1.8 (A:12-135) Exopolyphosphatase Ppx {Escherichia coli [TaxId: 562]}
+Probab=13.19   E-value=64  Score=12.58  Aligned_columns=47  Identities=6%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHCCHHHH---------HCCHHHHHHHHHH-HCCC--CCCC
+Q ss_conf             99999999899999999860622344---------3231789999999-7142--3688
+Q d3pvia_           6 NKLLELWPHIQEYQDLALKHGINDIF---------QGNGGKLLQVLLI-TGLT--VLPG   52 (156)
+Q Consensus         6 ~~l~~l~~~i~e~q~lA~~ygInDIF---------QDNGgK~LQvL~~-lgL~--i~pG   52 (156)
+                      +.++.+...+++++.++..||+.+|+         -.|+--+|..+.- +|+.  +++|
+T Consensus        49 e~i~~~~~~l~~f~~~~~~~~v~~i~~vATsa~R~A~N~~~~l~~i~~~tG~~v~ilsg  107 (124)
+T d1u6za2          49 EAMTRGLNCLSLFAERLQGFSPASVCIVGTHTLRQALNATDFLKRAEKVIPYPIEIISG  107 (124)
+T ss_pred             HHHHHHHHHHHHHHHHHHHCCCCEEEEEEEHHCCCCCCHHHHHHHHHHHCCCCEEEECH
+T ss_conf             99999999999999999838998899980010056778589999999964995588274
+
+
+No 4  
+>d1jvra_ a.61.1.2 (A:) HTLV-II matrix protein {Human T-cell leukemia virus type 2 [TaxId: 11909]}
+Probab=12.74   E-value=34  Score=14.27  Aligned_columns=35  Identities=40%
+
+Q ss_pred             CCCCCCCCCCHHHHHHHCCCCEEEEEECCCCHHHHHHCCHHHHHHHHHHHHHHHH
+Q ss_conf             2413222228899986500430265313661446520284552078999999998
+Q d3pvia_          77 KGFSTHHHMNPVIIAKYRQVPWIFAIYRGIAIEAIYRLEPKDLEFYYDKWERKWY  131 (156)
+Q Consensus        77 ~sfsThHHln~~Ii~KYR~V~W~fAiY~~I~l~~IY~l~P~~LE~~y~~WE~k~~  131 (156)
+                      ++.+|||-||-                    |++-|||.|.--|+-|.+-..-++
+T Consensus        18 ~Gla~hhWLNf--------------------LQaAyRLqPgPS~~DFhqLr~flk   52 (137)
+T d1jvra_          18 RGLSTHHWLNF--------------------LQAAYRLQPGPSDFDFQQLRRFLK   52 (137)
+T ss_pred             CCCCHHHHHHH--------------------HHHHHHCCCCCCCCCHHHHHHHHH
+T ss_conf             66777788999--------------------888652379988302689999999
+
+
+No 5  
+>d1dxxa1 a.40.1.1 (A:9-119) Dystrophin {Human (Homo sapiens) [TaxId: 9606]}
+Probab=9.21    E-value=2.3e+02  Score=9.30  Aligned_columns=27  Identities=30%
+
+Q ss_pred             CCHHHHHC--CHHHHHHHHHHHCCCCCCC
+Q ss_conf             62234432--3178999999971423688
+Q d3pvia_          26 GINDIFQG--NGGKLLQVLLITGLTVLPG   52 (156)
+Q Consensus        26 gInDIFQD--NGgK~LQvL~~lgL~i~pG   52 (156)
+                      -|+|+|.|  +|-.+.+++..+.-...|.
+T Consensus        28 ~i~dl~~dl~DG~~L~~Lle~l~~~~~~~   56 (111)
+T d1dxxa1          28 HIENLFSDLQDGRRLLDLLEGLTGQKLPK   56 (111)
+T ss_pred             CHHHHHHHHHHHHHHHHHHHHHCCCCCCC
+T ss_conf             50117999971799999998751782588
+
+
+No 6  
+>d1a62a1 a.140.3.1 (A:1-47) Rho termination factor, N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=7.76    E-value=82  Score=11.95  Aligned_columns=17  Identities=18%
+
+Q ss_pred             HHHHHHHHHHHHCCHHH
+Q ss_conf             89999999986062234
+Q d3pvia_          14 HIQEYQDLALKHGINDI   30 (156)
+Q Consensus        14 ~i~e~q~lA~~ygInDI   30 (156)
+                      .+.|++.+|.++||..+
+T Consensus        10 ~~~eL~~iA~~lgi~~~   26 (47)
+T d1a62a1          10 PVSELITLGENMGLENL   26 (47)
+T ss_pred             CHHHHHHHHHHHCCCCC
+T ss_conf             96899999997089995
+
+
+No 7  
+>d1dk0a_ d.35.1.1 (A:) Heme-binding protein A (HasA) {Serratia marcescens [TaxId: 615]}
+Probab=7.67    E-value=1.1e+02  Score=11.11  Aligned_columns=38  Identities=13%
+
+Q ss_pred             ECCCCHHHHHHCCHHHHHHHHHHHHHHHHHCCCCCCCCC
+Q ss_conf             136614465202845520789999999984368857886
+Q d3pvia_         103 YRGIAIEAIYRLEPKDLEFYYDKWERKWYSDGHKDINNP  141 (156)
+Q Consensus       103 Y~~I~l~~IY~l~P~~LE~~y~~WE~k~~~~g~kdiNNP  141 (156)
+                      |.|-.-+.||-|+--.-+|.-..--..+.++ |.|+|.|
+T Consensus       127 ~qg~~h~~iygLmrGna~plle~l~~iLka~-GIDVntp  164 (173)
+T d1dk0a_         127 HDGVVHQVVYGLMSGDTGALETALNGILDDY-GLSVNST  164 (173)
+T ss_pred             CCCCHHHEEHHHHCCCHHHHHHHHHHHHHHC-CCCCCCC
+T ss_conf             4586002000000488326789989988617-9962476
+
+
+No 8  
+>d1m5ya3 d.26.1.1 (A:279-386) Porin chaperone SurA, PPIase domains {Escherichia coli [TaxId: 562]}
+Probab=7.24    E-value=1.4e+02  Score=10.63  Aligned_columns=34  Identities=21%
+
+Q ss_pred             HHHHHHHHHHHH----HHHHHHHHHCCHHHHHCCHHHH
+Q ss_conf             899999999899----9999998606223443231789
+Q d3pvia_           5 LNKLLELWPHIQ----EYQDLALKHGINDIFQGNGGKL   38 (156)
+Q Consensus         5 ~~~l~~l~~~i~----e~q~lA~~ygInDIFQDNGgK~   38 (156)
+                      .++++.+...|+    -+..+|.+|..+.--+.|||.+
+T Consensus        26 k~~a~~i~~~l~~g~~~F~~la~~yS~d~~~~~~gg~~   63 (108)
+T d1m5ya3          26 RVKLEQIAADIKSGKTTFAAAAKEFSQDPGSANQGGDL   63 (108)
+T ss_pred             HHHHHHHHHHHHCCCCCHHHHHHHHCCCHHHHHHCCCC
+T ss_conf             99999999998649988889999732683156504312
+
+
+No 9  
+>d1ugoa_ a.7.7.1 (A:) BAG-family molecular chaperone regulator-5, BAG-5 {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=6.78    E-value=5.5e+02  Score=6.96  Aligned_columns=26  Identities=15%
+
+Q ss_pred             CCHHHHHHHHHHHHHHHHHHHHHHHC
+Q ss_conf             96568999999998999999998606
+Q d3pvia_           1 SHPDLNKLLELWPHIQEYQDLALKHG   26 (156)
+Q Consensus         1 s~~d~~~l~~l~~~i~e~q~lA~~yg   26 (156)
+                      .|+-+.++......+++++.....+.
+T Consensus        13 ~~pal~kI~~I~~~v~~L~~~v~~f~   38 (99)
+T d1ugoa_          13 QHPSISRLQEIQREVKAIEPQVVGFS   38 (99)
+T ss_pred             CCHHHHHHHHHHHHHHHHHHHHHHHC
+T ss_conf             88437999999999999999998731
+
+
+No 10 
+>d1aopa1 d.58.36.1 (A:81-145) Sulfite reductase, domains 1 and 3 {Escherichia coli [TaxId: 562]}
+Probab=6.61    E-value=2.6e+02  Score=8.95  Aligned_columns=37  Identities=24%
+
+Q ss_pred             HHHHHHHHHHHHHCCHH--------------HHHCCHHHHHHHHHHHCCCC
+Q ss_conf             98999999998606223--------------44323178999999971423
+Q d3pvia_          13 PHIQEYQDLALKHGIND--------------IFQGNGGKLLQVLLITGLTV   49 (156)
+Q Consensus        13 ~~i~e~q~lA~~ygInD--------------IFQDNGgK~LQvL~~lgL~i   49 (156)
+                      .+.+.+..+|.+||.+.              |=.++-..+++-|.-.||..
+T Consensus        14 ~Ql~~la~iA~~yg~~g~i~iTtRq~iql~gi~~~~~~~i~~~L~~~GL~T   64 (65)
+T d1aopa1          14 KQWQAIDKFAGENTIYGSIRLTNRQTFQFHGILKKNVKPVHQMLHSVGLDA   64 (65)
+T ss_pred             HHHHHHHHHHHHHCCCCEEEECCCEEEEECCCCHHHHHHHHHHHHHHCCCC
+T ss_conf             999999999998289734874451258766998544899999999825245
+
+
+Done!

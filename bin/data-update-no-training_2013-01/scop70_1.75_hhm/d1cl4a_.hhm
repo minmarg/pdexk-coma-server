@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d1cl4a_ g.40.1.1 (A:) Nucleocapsid protein from mason-pfizer monkey virus (MPMV) {Mason-pfizer monkey virus [TaxId: 11855]}
+FAM   g.40.1.1
+FILE  d1cl4a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1cl4a_.a3m -v 1 
+DATE  Mon Jan 21 19:12:16 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCHHHHHHHCCCCCCCCCCC
+>ss_conf
+98888877667622011211003688646899
+>Consensus
+xPglCPRCxkGxHWaxeCrskxdxxGxPlppx
+>d1cl4a_ g.40.1.1 (A:) Nucleocapsid protein from mason-pfizer monkey virus (MPMV) {Mason-pfizer monkey virus [TaxId: 11855]}
+VPGLCPRCKRGKHWANECKSKTDNQGNPIPPH
+>gi|291396502|ref|XP_002714483.1|(535-562:856) PREDICTED: Gag-like [Oryctolagus cuniculus]   E=2e-05 s/c=1.87 id=69% cov=91%
+----CPRCHRGYHWANECRSKTNSSGQPLPPH
+>gi|291392191|ref|XP_002712621.1|(326-353:1491) PREDICTED: Pro-Pol-like [Oryctolagus cuniculus]   E=3e-07 s/c=2.08 id=59% cov=91%
+-PGICPKCRKGKHWANECRSVKDIDGNVL---
+>gi|7107371|gb|AAF36393.1|AF224725_1(634-660:708) gag polyprotein [Trichosurus vulpecula]   E=0.0001 s/c=1.83 id=46% cov=88%
+----CPRCRKRFHWGNTCRATHDIDGKPLPP-
+>gi|5802814|gb|AAD51793.1|AF164611_1(579-607:2294) Gag-Pro-Pol-Env protein [Homo sapiens]   E=3e-08 s/c=2.13 id=60% cov=94%
+-PDLCPRCKKGKHWASQCRSKFDKNGQPLS--
+>gi|224169933|ref|XP_002199858.1|(71-99:1075) PREDICTED: similar to polymerase [Taeniopygia guttata]   E=7e-08 s/c=2.08 id=60% cov=94%
+-PDLCPRCRRGRHLASECHSQTDVDGKPLP--
+>gi|21913256|gb|AAM81186.1|AF480924_1(539-565:622) gag protein [Homo sapiens]   E=3e-06 s/c=2.03 id=61% cov=88%
+-PGLCPRCRRGNHWVSECYFKINSAGNP----
+>gi|123217676|gb|ABM73644.1|(468-498:507) gag protein [Bos taurus]   E=7e-09 s/c=2.06 id=56% cov=100%
+LPGVCPKCKRGFHWLNECRSKFNKDGNAFTP-
+>gi|38093486|tpg|DAA01925.1|(496-524:576) TPA: TPA_exp: gag protein [Mus musculus]   E=2e-07 s/c=2.04 id=53% cov=94%
+-PGICPRCGKGRHWAKDCKHKTRVLSRPVP--
+>gi|344239512|gb|EGV95615.1|(399-426:493) Retrovirus-related Gag polyprotein [Cricetulus griseus]   E=2e-06 s/c=1.99 id=55% cov=91%
+-PGLCPRCRKGNHWAKDCRSVKDISGQPF---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	2096	*	1644	*	*	*	*	*	*	*	1164	*	*	1
+       0	*	*	*	*	*	*	1398	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2015	0	0	
+
+G 3    *	*	2767	*	*	344	*	*	*	*	*	3935	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2084	0	0	
+
+L 4    *	*	*	*	*	*	*	2399	*	545	*	*	*	*	*	*	*	3000	*	*	4
+       0	*	*	*	*	*	*	2077	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2187	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2187	0	0	
+
+R 7    *	*	*	*	*	*	*	*	2210	*	*	*	*	*	351	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2187	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2187	0	0	
+
+K 9    *	*	*	*	*	2589	4388	*	1284	*	*	*	*	*	1414	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2187	0	0	
+
+R 10   *	*	*	*	*	*	*	*	821	*	*	*	*	*	1205	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2187	0	0	
+
+G 11   4110	*	*	*	*	221	*	*	*	*	*	*	*	*	3571	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2187	0	0	
+
+K 12   *	*	*	*	2323	*	*	*	1592	*	*	2961	*	*	2252	*	*	*	*	2941	12
+       0	*	*	*	*	*	*	2187	0	0	
+
+H 13   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2187	0	0	
+
+W 14   *	*	*	*	*	*	*	*	*	3871	*	*	*	*	*	*	*	*	102	*	14
+       0	*	*	*	*	*	*	2187	0	0	
+
+A 15   520	*	*	*	*	3029	*	*	4610	3969	*	*	*	*	*	*	*	3736	*	*	15
+       0	*	*	*	*	*	*	2187	0	0	
+
+N 16   *	*	*	*	*	*	*	*	2628	*	*	1024	*	*	4549	1719	*	*	*	*	16
+       0	*	*	*	*	*	*	2187	0	0	
+
+E 17   *	*	2290	787	*	*	*	*	*	*	*	*	*	2922	*	*	3571	*	*	*	17
+       0	*	*	*	*	*	*	2187	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2187	0	0	
+
+K 19   *	*	*	*	*	*	2985	*	1803	*	*	*	*	*	966	*	*	*	*	3736	19
+       0	*	*	*	*	*	*	2187	0	0	
+
+S 20   3571	*	*	*	3736	*	3207	*	*	*	*	*	*	*	*	449	*	*	*	*	20
+       0	*	*	*	*	*	*	2187	0	0	
+
+K 21   *	*	*	*	*	*	*	*	536	*	*	*	*	3871	4271	*	3571	3235	*	*	21
+       0	*	*	*	*	*	*	2187	0	0	
+
+T 22   *	*	*	*	2079	*	3571	3736	3235	4271	*	*	*	*	*	*	1165	*	*	*	22
+       0	*	*	*	*	*	*	2187	0	0	
+
+D 23   *	*	504	*	*	*	*	*	*	*	*	2421	*	*	3207	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2187	0	0	
+
+N 24   4591	*	*	*	*	*	*	1867	2079	*	*	4616	*	*	*	2415	*	2188	*	*	24
+       0	*	*	*	*	*	*	2187	0	0	
+
+Q 25   3736	*	1288	*	*	*	*	*	*	3207	*	2991	*	2473	*	3305	*	*	*	*	25
+       0	*	*	*	*	*	*	2187	0	0	
+
+G 26   *	*	*	*	*	165	*	*	*	*	*	*	*	*	*	3207	*	*	*	*	26
+       0	*	*	*	*	*	*	2187	0	0	
+
+N 27   *	*	*	*	*	*	*	*	2713	*	*	1138	*	1811	3207	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2187	0	0	
+
+P 28   3969	*	*	*	*	*	*	*	*	*	*	*	179	*	*	*	*	4242	*	*	28
+       0	*	*	*	*	*	*	2187	0	0	
+
+I 29   *	*	*	*	2932	*	*	3335	*	610	*	*	*	*	*	*	*	3124	*	*	29
+       0	*	*	*	*	*	*	2109	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	557	*	*	2192	3305	*	*	*	30
+       0	*	*	*	*	*	*	2042	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1728	0	0	
+
+H 32   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	1204	0	0	
+
+//

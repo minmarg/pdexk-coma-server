@@ -1,0 +1,259 @@
+Query         d1dfma_ c.52.1.5 (A:) Restriction endonuclease BglII {Bacillus subtilis [TaxId: 1423]}
+Match_columns 223
+No_of_seqs    31 out of 33
+Neff          3.3 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:38 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1dfma_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1dfma_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1dfma_ c.52.1.5 (A:) Restrict 100.0       0       0  708.1  18.5  223    1-223     1-223 (223)
+  2 d1sdoa_ c.52.1.21 (A:) Restric 100.0       0       0  305.4  13.0  166    1-171     1-202 (203)
+  3 d1bama_ c.52.1.3 (A:) Restrict  97.6  0.0004 2.9E-08   40.7   9.8  163   10-181    11-191 (213)
+  4 PF06054 Competence protein Coi  22.5      67  0.0049   12.0   4.6   75   51-135    65-140 (180)
+  5 d1w5ra1 d.3.1.5 (A:3-275) Aryl  17.3      94  0.0068   11.2   4.4   51   52-102    70-134 (273)
+  6 d2pbka1 b.57.1.1 (A:3-230) KSH  15.3      18  0.0013   15.1   0.3    9  215-223   140-148 (228)
+  7 d1o6ea_ b.57.1.1 (A:) Epstein-  14.8      19  0.0014   15.0   0.3    5  185-189   207-211 (232)
+  8 d2vvpa1 c.121.1.1 (A:3-158) Al  13.2      91  0.0066   11.3   3.5  123   50-196    12-142 (156)
+  9 d1iega_ b.57.1.1 (A:) Human cy  12.6      24  0.0017   14.4   0.3    4    5-8      14-17  (248)
+ 10 d1r7la_ d.277.1.1 (A:) Bacillu  12.3      88  0.0064   11.3   3.1   50   48-100     8-83  (103)
+
+No 1  
+>d1dfma_ c.52.1.5 (A:) Restriction endonuclease BglII {Bacillus subtilis [TaxId: 1423]}
+Probab=100.00  E-value=0  Score=708.10  Aligned_columns=223  Identities=100%
+
+Q ss_pred             CEEEEEECCCCHHHHCHHHHHHHHHHHHCCCCCCCCCHHHHCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCC
+Q ss_conf             93566413463011030227999998611233410010110146200170889999999997567666788887532111
+Q d1dfma_           1 MKIDITDYNHADEILNPQLWKEIEETLLKMPLHVKASDQASKVGSLIFDPVGTNQYIKDELVPKHWKNNIPIPKRFDFLG   80 (223)
+Q Consensus         1 mki~iy~fn~aeeIL~p~l~~EI~evida~~~~tK~SKEKt~~Gk~LfsP~~lNk~fKe~F~~~GW~~~~~Ip~~~~~~y   80 (223)
+                      |||++||||||+|||||+||+||+++||+++|+||+||||||+|++||||++||++||++|+++||++++|||+++++||
+T Consensus         1 mki~iy~fn~aeeIL~p~l~~EI~evida~~~~tK~SKEKt~~Gk~LfsP~~lNk~fKe~F~~~GW~~~~~Ip~~~~~~y   80 (223)
+T d1dfma_           1 MKIDITDYNHADEILNPQLWKEIEETLLKMPLHVKASDQASKVGSLIFDPVGTNQYIKDELVPKHWKNNIPIPKRFDFLG   80 (223)
+T ss_pred             CEEEEEECCCCHHHHCHHHHHHHHHHHHCCCCCCCCCHHHHCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCC
+T ss_conf             93566413463011030227999998611233410010110146200170889999999997567666788887532111
+
+
+Q ss_pred             CEEEEEECCEEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCCCEEEEECHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+Q ss_conf             10001005446899754612678999999988753201220021079986156644454003579999998753221020
+Q d1dfma_          81 TDIDFGKRDTLVEVQFSNYPFLLNNTVRSELFHKSNMDIDEEGMKVAIIITKGHMFPASNSSLYYEQAQNQLNSLAEYNV  160 (223)
+Q Consensus        81 ~~iDF~K~~VgVEVQFGkYaFm~~nl~k~ql~f~sk~~i~~~~~~i~I~~tk~~~~~~s~~~~~yEq~~~~l~~~~~~~v  160 (223)
+                      ++|||+|++|||||||||||||+|||||||+||+||+|||++++||+||||||||+|||||++|||||+|||||+++|||
+T Consensus        81 ~~iDF~K~~VgVEVQFGkYaFm~~nl~k~ql~f~sk~~i~~~~~~i~I~~tk~~~~~~s~~~~~yEq~~~~l~~~~~~~v  160 (223)
+T d1dfma_          81 TDIDFGKRDTLVEVQFSNYPFLLNNTVRSELFHKSNMDIDEEGMKVAIIITKGHMFPASNSSLYYEQAQNQLNSLAEYNV  160 (223)
+T ss_pred             CEEEEEECCEEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCCCEEEEECHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+T ss_conf             10001005446899754612678999999988753201220021079986156644454003579999998753221020
+
+
+Q ss_pred             EECCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHCCCCCEEEEECCCCCCCHHHCCCEECC
+Q ss_conf             012123554300133202355666654322200000001210477558886201105531119
+Q d1dfma_         161 FDVPIRLVGLIEDFETDIDIVSTTYADKRYSRTITKRDTVKGKVIDTNTPNTRRRKRGTIVTY  223 (223)
+Q Consensus       161 ~dvPilliGl~e~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  223 (223)
+                      ||||||||||||||||+||||||+|++|||||||++|+||+|+||++|+|+||||||||||||
+T Consensus       161 ~dvPilliGl~e~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  223 (223)
+T d1dfma_         161 FDVPIRLVGLIEDFETDIDIVSTTYADKRYSRTITKRDTVKGKVIDTNTPNTRRRKRGTIVTY  223 (223)
+T ss_pred             EECCEEEEEEECCCCCCHHHHHHHHHHHHHHHHHHHCCCCCEEEEECCCCCCCHHHCCCEECC
+T ss_conf             012123554300133202355666654322200000001210477558886201105531119
+
+
+No 2  
+>d1sdoa_ c.52.1.21 (A:) Restriction endonuclease BstyI {Geobacillus stearothermophilus [TaxId: 1422]}
+Probab=100.00  E-value=0  Score=305.42  Aligned_columns=166  Identities=27%
+
+Q ss_pred             CEE-EEEECCCCHHHHC---HHHHHHHHHHH---HCCCCCCCCCHHHHCCCCCCCCHHHHHHHHHHHHHHCCCCC-----
+Q ss_conf             935-6641346301103---02279999986---11233410010110146200170889999999997567666-----
+Q d1dfma_           1 MKI-DITDYNHADEILN---PQLWKEIEETL---LKMPLHVKASDQASKVGSLIFDPVGTNQYIKDELVPKHWKN-----   68 (223)
+Q Consensus         1 mki-~iy~fn~aeeIL~---p~l~~EI~evi---da~~~~tK~SKEKt~~Gk~LfsP~~lNk~fKe~F~~~GW~~-----   68 (223)
+                      ||| ++||||||.++|+   |+.|+||+++|   |+..|++|.|+||++.|+++|+|++||++|++.|.++||.+     
+T Consensus         1 Mki~~~ySh~~a~eiL~~~~~~~~~EI~~vl~~id~~~~~~K~S~ek~~~g~~l~~p~~iN~~f~~~l~~~GW~e~r~~~   80 (203)
+T d1sdoa_           1 MRIVEVYSHLNGLEYIQVHLPHIWEEIQEIIVSIDAEACRTKESKEKTKQGQILYSPVALNEAFKEKLEAKGWKESRTNY   80 (203)
+T ss_pred             CEEEEEECHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCC
+T ss_conf             90121100121789998752899999999998468014420111111135520014388999999998854851113211
+
+
+Q ss_pred             ----CCCCCCC-------------------CCCCCCEEEEEECCEEEEEEECCCHHHHHHHH-HHHHHHHHHCCCCCCCC
+Q ss_conf             ----7888875-------------------32111100010054468997546126789999-99988753201220021
+Q d1dfma_          69 ----NIPIPKR-------------------FDFLGTDIDFGKRDTLVEVQFSNYPFLLNNTV-RSELFHKSNMDIDEEGM  124 (223)
+Q Consensus        69 ----~~~Ip~~-------------------~~~~y~~iDF~K~~VgVEVQFGkYaFm~~nl~-k~ql~f~sk~~i~~~~~  124 (223)
+                          +.+++..                   -...+++|||+|++|+||||||||||+++||+ ++++++.    .+.+++
+T Consensus        81 ~~~~d~~~~~~~~~l~~~~~~~~i~~~~~~~~~~~~~iDf~K~~V~vEVqf~k~~f~~~DL~~k~~~~~~----~~~Idv  156 (203)
+T d1sdoa_          81 YVTADPKLIRETLSLEPEEQKKVIEAAGKEALKSYNQTDFVKDRVAIEVQFGKYSFVAYDLFVKHMAFYV----SDKIDV  156 (203)
+T ss_pred             CCCCCCCCCCCCCCCCCCCHHHHHHHCCCCCCCCCCCCCCCCCCEEEEEEECCCHHHHHHHHHHHHHHHH----CCCCEE
+T ss_conf             0011211000000123210011110001122344211111137246888535531578889999888751----386227
+
+
+Q ss_pred             CEEEEECHHHHHHHHHHHHHHHHHHHHHHHHHHCCCEECCEEEEEEE
+Q ss_conf             07998615664445400357999999875322102001212355430
+Q d1dfma_         125 KVAIIITKGHMFPASNSSLYYEQAQNQLNSLAEYNVFDVPIRLVGLI  171 (223)
+Q Consensus       125 ~i~I~~tk~~~~~~s~~~~~yEq~~~~l~~~~~~~v~dvPilliGl~  171 (223)
+                      ||+||||++|.+.+|+|++||||++|+|+.++. ++++|||+++||.
+T Consensus       157 GI~It~~~~l~~~~~sg~~~~e~~~~~L~~~g~-~~~~vPiliiGi~  202 (203)
+T d1sdoa_         157 GVEILPMKELSKEMSSGISYYEGELYNVIRQGR-GVPAVPLVLIGIA  202 (203)
+T ss_pred             EEEEECCHHHHHHHHHHHHHHHHHHHHHHHHCC-CCCCCCEEEEEEC
+T ss_conf             888863478888742346688899998886368-8875637888525
+
+
+No 3  
+>d1bama_ c.52.1.3 (A:) Restriction endonuclease BamHI {Bacillus amyloliquefaciens [TaxId: 1390]}
+Probab=97.56   E-value=0.0004  Score=40.73  Aligned_columns=163  Identities=14%
+
+Q ss_pred             CCHHHH--CH---HHHHHHHHHHHCCCCCCCCCHHHHCCC-CCCCCHHHHHHHHHHHHHH-CCCCCCCCCCC--CCCCCC
+Q ss_conf             630110--30---227999998611233410010110146-2001708899999999975-67666788887--532111
+Q d1dfma_          10 HADEIL--NP---QLWKEIEETLLKMPLHVKASDQASKVG-SLIFDPVGTNQYIKDELVP-KHWKNNIPIPK--RFDFLG   80 (223)
+Q Consensus        10 ~aeeIL--~p---~l~~EI~evida~~~~tK~SKEKt~~G-k~LfsP~~lNk~fKe~F~~-~GW~~~~~Ip~--~~~~~y   80 (223)
+                      -|+++|  -|   +.++||.+.|.+...+.+.+.=.-.-+ +.-=--+-+..++-..+.. .||.-+.++-=  +.....
+T Consensus        11 ~~~~~~~~~~~i~~~~~ev~~aI~~i~wP~~~~~F~iNp~~K~gNGVkPIKe~c~~~L~~~~gW~~E~~l~~~~~~~~~p   90 (213)
+T d1bama_          11 EAKELLSKDKLIQQAYNEVKTSICSPIWPATSKTFTINNTEKNCNGVVPIKELCYTLLEDTYNWYREKPLDILKLEKKKG   90 (213)
+T ss_pred             HHHHHHHHCHHHHHHHHHHHHHHHHHCCCCCCCEEEECCCCCCCCCCCCHHHHHHHHHHHHCCCCCCCCEEECCCCCCCC
+T ss_conf             56777630634799999999998751378988636860763368876206889998734431741013110024666788
+
+
+Q ss_pred             CEEEEEEC--------CEEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCCCEEEEECHHHHHHHHHHHHHHHHHHHHH
+Q ss_conf             10001005--------4468997546126789999999887532012200210799861566444540035799999987
+Q d1dfma_          81 TDIDFGKR--------DTLVEVQFSNYPFLLNNTVRSELFHKSNMDIDEEGMKVAIIITKGHMFPASNSSLYYEQAQNQL  152 (223)
+Q Consensus        81 ~~iDF~K~--------~VgVEVQFGkYaFm~~nl~k~ql~f~sk~~i~~~~~~i~I~~tk~~~~~~s~~~~~yEq~~~~l  152 (223)
+                      -.+|-.|.        ++++|..-||-|....-+-|+-+.+-.-    .++.|++|.|++.+..+.++-+-+||-...++
+T Consensus        91 GpiDa~K~~~~~~~~~~~~~EwETGNISSShRAiNKl~lg~l~G----~i~ggvlvlpsr~~y~yLTDRiGNf~EL~pyf  166 (213)
+T d1bama_          91 GPIDVYKEFIENSELKRVGMEFETGNISSAHRSMNKLLLGLKHG----EIDLAIILMPIKQLAYYLTDRVTNFEELEPYF  166 (213)
+T ss_pred             CCEEEEEEEECCCCCEEEEEEEECCCCCHHHHHHHHHHHHHHHH----HHEEEEEEEECHHHHHHHHHCCCCHHHHCCHH
+T ss_conf             73011100103566506898851365205688899998887620----20012446202344323331257734420112
+
+
+Q ss_pred             HHHHHCCCEECCEEEEEEECCC-CCCHHHH
+Q ss_conf             5322102001212355430013-3202355
+Q d1dfma_         153 NSLAEYNVFDVPIRLVGLIEDF-ETDIDIV  181 (223)
+Q Consensus       153 ~~~~~~~v~dvPilliGl~e~~-~~~~~i~  181 (223)
+                      +..     -..|.-++|+.-|. ++..+-+
+T Consensus       167 ~~w-----~~~~l~ii~ie~D~~d~~vP~i  191 (213)
+T d1bama_         167 ELT-----EGQPFIFIGFNAEAYNSNVPLI  191 (213)
+T ss_pred             HHH-----CCCCEEEEEECCCCCCCCCCCC
+T ss_conf             331-----2862699986223445557714
+
+
+No 4  
+>PF06054 Competence protein CoiA-like family
+Probab=22.52   E-value=67  Score=11.98  Aligned_columns=75  Identities=9%
+
+Q ss_pred             HHHHHHHHHHHHHCCCC-CCCCCCCCCCCCCCEEEEEECCEEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCCCEEEE
+Q ss_conf             88999999999756766-67888875321111000100544689975461267899999998875320122002107998
+Q d1dfma_          51 VGTNQYIKDELVPKHWK-NNIPIPKRFDFLGTDIDFGKRDTLVEVQFSNYPFLLNNTVRSELFHKSNMDIDEEGMKVAII  129 (223)
+Q Consensus        51 ~~lNk~fKe~F~~~GW~-~~~~Ip~~~~~~y~~iDF~K~~VgVEVQFGkYaFm~~nl~k~ql~f~sk~~i~~~~~~i~I~  129 (223)
+                      ......+.+.|...|.- .+.++|+....+.  + ++..++++|+|.++-+--   .+..-..+|.++++.    -+-|+
+T Consensus        65 ~~~K~~l~~~l~~~~~v~~e~~~~~~~~r~D--v-~v~~~~aiE~Q~S~i~~~---~i~~R~~~Y~~~g~~----viWil  134 (180)
+T PF06054          65 LAAKALLYQWLKRQEKVEIEKYLPEINQIAD--L-LVNKKLAIEIQCSSLSIK---RLKERTEGYKQAGYK----VLWLL  134 (180)
+T ss_pred             HHHHHHHHHHHHCCCCEEEEEECCCCCEEEE--E-EEECCEEEEEEECCCCHH---HHHHHHHHHHHCCCE----EEEEE
+T ss_conf             9999999999861697012114478760112--4-663768999970788989---999999999965986----99996
+
+
+Q ss_pred             ECHHHH
+Q ss_conf             615664
+Q d1dfma_         130 ITKGHM  135 (223)
+Q Consensus       130 ~tk~~~  135 (223)
+                      +...+.
+T Consensus       135 g~~~~~  140 (180)
+T PF06054         135 GQKLWL  140 (180)
+T ss_pred             CCHHHH
+T ss_conf             871220
+
+
+No 5  
+>d1w5ra1 d.3.1.5 (A:3-275) Arylamine N-acetyltransferase {Mycobacterium smegmatis [TaxId: 1772]}
+Probab=17.31   E-value=94  Score=11.19  Aligned_columns=51  Identities=14%
+
+Q ss_pred             HHHHHHHHHHHHCCCCCCC--------------CCCCCCCCCCCEEEEEECCEEEEEEECCCHHH
+Q ss_conf             8999999999756766678--------------88875321111000100544689975461267
+Q d1dfma_          52 GTNQYIKDELVPKHWKNNI--------------PIPKRFDFLGTDIDFGKRDTLVEVQFSNYPFL  102 (223)
+Q Consensus        52 ~lNk~fKe~F~~~GW~~~~--------------~Ip~~~~~~y~~iDF~K~~VgVEVQFGkYaFm  102 (223)
+                      ++|.+|...|..+|..-..              ..|.....+.-++|..-.+-.|+|.||..++.
+T Consensus        70 elN~lf~~lL~~LGf~v~~~~arV~~~~~~~~~~~~~~H~~l~V~l~~~~~~ylvDvGfG~~~~~  134 (273)
+T d1w5ra1          70 EHNGLLGYVLEELGFEVERLSGRVVWMRADDAPLPAQTHNVLSVAVPGADGRYLVDVGFGGQTLT  134 (273)
+T ss_pred             HHHHHHHHHHHHCCCCEEEEEEEEEECCCCCCCCCCCCCEEEEEEEECCCCEEEEEECCCCCCCC
+T ss_conf             58899999999649816998768862578887778987459999980899338997224664324
+
+
+No 6  
+>d2pbka1 b.57.1.1 (A:3-230) KSHV protease {Kaposi's sarcoma-associated herpesvirus [TaxId: 37296]}
+Probab=15.33   E-value=18  Score=15.11  Aligned_columns=9  Identities=56%
+
+Q ss_pred             HHCCCEECC
+Q ss_conf             105531119
+Q d1dfma_         215 RKRGTIVTY  223 (223)
+Q Consensus       215 ~~~~~~~~~  223 (223)
+                      |.||||++|
+T Consensus       140 RRrGTiavY  148 (228)
+T d2pbka1         140 RRRGTVAVY  148 (228)
+T ss_pred             CCCCEEEEE
+T ss_conf             522238883
+
+
+No 7  
+>d1o6ea_ b.57.1.1 (A:) Epstein-Barr virus protease {Human herpesvirus 4 [TaxId: 10376]}
+Probab=14.77   E-value=19  Score=15.00  Aligned_columns=5  Identities=20%
+
+Q ss_pred             HHHHH
+Q ss_conf             65432
+Q d1dfma_         185 YADKR  189 (223)
+Q Consensus       185 ~~~~~  189 (223)
+                      |...|
+T Consensus       207 ~IrdR  211 (232)
+T d1o6ea_         207 FLRNR  211 (232)
+T ss_pred             HHHHH
+T ss_conf             88758
+
+
+No 8  
+>d2vvpa1 c.121.1.1 (A:3-158) Alternate ribose 5-phosphate isomerase B, RpiB {Mycobacterium tuberculosis [TaxId: 1773]}
+Probab=13.24   E-value=91  Score=11.25  Aligned_columns=123  Identities=17%
+
+Q ss_pred             HHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCEEEEEECCEEEEEEECCCHHHHHHHHHHHHHHHHHCCCCCCCCCEEEE
+Q ss_conf             08899999999975676667888875321111000100544689975461267899999998875320122002107998
+Q d1dfma_          50 PVGTNQYIKDELVPKHWKNNIPIPKRFDFLGTDIDFGKRDTLVEVQFSNYPFLLNNTVRSELFHKSNMDIDEEGMKVAII  129 (223)
+Q Consensus        50 P~~lNk~fKe~F~~~GW~~~~~Ip~~~~~~y~~iDF~K~~VgVEVQFGkYaFm~~nl~k~ql~f~sk~~i~~~~~~i~I~  129 (223)
+                      .-.+.+.+++.|..+|+.-              +|+.-..-.-.+   .||-+...++..-.  .     ...+.||+||
+T Consensus        12 G~~lK~~i~~~L~~~g~ev--------------~D~G~~~~~~~~---dy~~~a~~va~~v~--~-----~~~~~GIliC   67 (156)
+T d2vvpa1          12 GYELKQRIIEHLKQTGHEP--------------IDCGALRYDADD---DYPAFCIAAATRTV--A-----DPGSLGIVLG   67 (156)
+T ss_pred             HHHHHHHHHHHHHHCCCCE--------------EEECCCCCCCCC---CHHHHHHHHHHHHH--C-----CCCCEEEEEE
+T ss_conf             4889999999999569948--------------863688888777---62889999988864--3-----8875678871
+
+
+Q ss_pred             ECHHHHHHHHH-------HHHHHHHHHHHHHHHHHCCCEECCEEEEEEECCCCCCHHHHHHHH-HHHHHHHHHHH
+Q ss_conf             61566444540-------035799999987532210200121235543001332023556666-54322200000
+Q d1dfma_         130 ITKGHMFPASN-------SSLYYEQAQNQLNSLAEYNVFDVPIRLVGLIEDFETDIDIVSTTY-ADKRYSRTITK  196 (223)
+Q Consensus       130 ~tk~~~~~~s~-------~~~~yEq~~~~l~~~~~~~v~dvPilliGl~e~~~~~~~i~~~~~-~~~~~~~~~~~  196 (223)
+                      +|=-=|.=+-|       +..+=+...+.--.----||+.+|-+++|..+--+-.---..|.| ...|+.|.+.+
+T Consensus        68 GtG~G~~iaANK~~GIraa~~~d~~~A~~ar~hNnaNVL~lg~~~~~~~~a~~iv~~fL~t~f~~g~rh~~Rv~~  142 (156)
+T d2vvpa1          68 GSGNGEQIAANKVPGARCALAWSVQTAALAREHNNAQLIGIGGRMHTVAEALAIVDAFVTTPWSKAQRHQRRIDI  142 (156)
+T ss_pred             CCCCHHHHHHHCCCCEEEEEECCHHHHHHHHHHCCCEEEEECCCCCCHHHHHHHHHHHHCCCCCCCCCCHHHHHH
+T ss_conf             567135666431687079997188999999763583378607621388999999999824888998413788999
+
+
+No 9  
+>d1iega_ b.57.1.1 (A:) Human cytomegalovirus protease {Human cytomegalovirus [TaxId: 10359]}
+Probab=12.56   E-value=24  Score=14.44  Aligned_columns=4  Identities=25%
+
+Q ss_pred             EEEC
+Q ss_conf             6413
+Q d1dfma_           5 ITDY    8 (223)
+Q Consensus         5 iy~f    8 (223)
+                      +|++
+T Consensus        14 ly~~   17 (248)
+T d1iega_          14 RYDQ   17 (248)
+T ss_pred             ECCC
+T ss_conf             6268
+
+
+No 10 
+>d1r7la_ d.277.1.1 (A:) Bacillus phage protein {Bacillus cereus [TaxId: 1396]}
+Probab=12.27   E-value=88  Score=11.34  Aligned_columns=50  Identities=22%
+
+Q ss_pred             CCHHHHHHHHHHHHHHCCCCC-----------CCCCCCCCCC---------------CCCEEEEEECCEEEEEEECCCH
+Q ss_conf             170889999999997567666-----------7888875321---------------1110001005446899754612
+Q d1dfma_          48 FDPVGTNQYIKDELVPKHWKN-----------NIPIPKRFDF---------------LGTDIDFGKRDTLVEVQFSNYP  100 (223)
+Q Consensus        48 fsP~~lNk~fKe~F~~~GW~~-----------~~~Ip~~~~~---------------~y~~iDF~K~~VgVEVQFGkYa  100 (223)
+                      -.++.+++++.++.  +||+-           +..+|+++.+               .+.+|| .+++..|.++|-.--
+T Consensus         8 Mn~r~id~LIAEKV--MGWk~~~tsi~~dG~~~~~~p~~S~ni~~AW~VVEKl~~~~~~~~i~-~~~~y~v~i~~~~g~   83 (103)
+T d1r7la_           8 MKPRDINKLIASKI--FGYEIKDDNIIKDGRYRLGIPLYSQNIESAWQVVEKLEYDVKVTKTD-LKPKYQVHVFVPGGV   83 (103)
+T ss_pred             CCCCHHHHHHHHHH--HCCCCCCCCEECCCCCCCCCCCCCCCHHHHHHHHHHHHHCCEEEEEE-CCCCEEEEEECCCCE
+T ss_conf             88421578876656--15115677500487435468875457678999999886362146642-178547998606750
+
+
+Done!

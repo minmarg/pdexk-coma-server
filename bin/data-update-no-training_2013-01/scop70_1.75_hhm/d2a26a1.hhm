@@ -1,0 +1,181 @@
+HHsearch 1.5
+NAME  d2a26a1 a.2.16.1 (A:1-47) Calcyclin-binding protein, CacyBP {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.2.16.1
+FILE  d2a26a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2a26a1.a3m -v 1 
+DATE  Tue Jan 22 05:42:55 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+96688998899999999888999999977545778889988755039
+>Consensus
+xaxeElqkDLeEVkxLLekxTRkRvrdxltxEkxkietEIknkxqqk
+>d2a26a1 a.2.16.1 (A:1-47) Calcyclin-binding protein, CacyBP {Human (Homo sapiens) [TaxId: 9606]}
+MASEELQKDLEEVKVLLEKATRKRVRDALTAEKSKIETEIKNKMQQK
+>gi|149058280|gb|EDM09437.1|(1-49:89) calcyclin binding protein, isoform CRA_a [Rattus norvegicus]   E=1e-12 s/c=1.56 id=84% cov=96%
+---EELQKDLEEVKVLLEKSTRKRLRDTLTNEKSKIETELRNKMQQK
+>gi|149636165|ref|XP_001515611.1|(6-49:229) PREDICTED: calcyclin-binding protein-like [Ornithorhynchus anatinus]  E=7e-11 s/c=1.60 id=82% cov=96%
+---EEHQKDLEEVKKLLEKVTRKRVRDVLTAEKGKLESEIKNKMQQK
+>gi|351705077|gb|EHB07996.1|(1-49:186) Calcyclin-binding protein [Heterocephalus glaber]   E=7e-11 s/c=1.44 id=84% cov=94%
+----ESQNDLEEVKALLEKATRKRVWDAPTAEKSKIETEIKNKVQQK
+>gi|126306259|ref|XP_001365461.1|(4-49:229) PREDICTED: calcyclin-binding protein-like [Monodelphis domestica]   E=6e-10 s/c=1.46 id=79% cov=100%
+-ALEELRKDLEEVKELLGKATRKRVRDVLTAEKSKLETEIKHKTKQK
+>gi|197128069|gb|ACH44567.1|(3-49:221) putative calcyclin binding protein [Taeniopygia guttata] >gi|197128070|gb|ACH44568.1| putative calcyclin binding protein [Taeniopygia guttata] >gi|197128072|gb|ACH44570.1| putative calcyclin binding protein [Taeniopygia guttata] >gi|197128074|gb|ACH44572.1| putative calcyclin binding protein [Taeniopygia guttata]  E=1e-07 s/c=1.27 id=73% cov=94%
+VAREELQKDLEEVKELLTNATRKRVRDVLVAEKQKLELEIKNQ----
+>gi|387014908|gb|AFJ49573.1|(2-41:218) Calcyclin-binding protein-like [Crotalus adamanteus]   E=1e-06 s/c=1.42 id=76% cov=87%
+---EELQKDLEEVKELLKMATRKRVYDFLLAEKNKIEREIKNR----
+>gi|147905315|ref|NP_001080214.1|(6-49:226) Siah-interacting protein [Xenopus laevis] >gi|28302307|gb|AAH46706.1| Sip-prov protein [Xenopus laevis]  E=1e-06 s/c=1.28 id=67% cov=96%
+---QELKKDLEEVKQLLEKTTRKRVRDVLFVEQRKLETEISTKQQQQ
+>gi|260800857|ref|XP_002595313.1|(5-43:638) hypothetical protein BRAFLDRAFT_87549 [Branchiostoma floridae] >gi|229280558|gb|EEN51325.1| hypothetical protein BRAFLDRAFT_87549 [Branchiostoma floridae]  E=0.0005 s/c=1.22 id=58% cov=85%
+---EELQADLQEIERLLEQSTRERVKKALTLEKGRIQTEITD-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	1000	*	*	1
+       0	*	*	*	*	*	*	1194	0	0	
+
+A 2    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1227	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	1620	*	*	*	*	1543	1594	*	*	*	*	3
+       0	*	*	*	*	*	*	1227	0	0	
+
+E 4    *	*	*	226	*	*	*	*	*	*	*	*	*	2784	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1739	0	0	
+
+E 5    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 6    *	*	*	*	*	*	3406	*	*	324	*	*	*	*	*	3229	*	*	*	*	6
+       0	*	*	*	*	*	*	1770	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	3001	*	*	*	*	350	3469	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 8    2370	*	*	*	*	*	*	*	515	*	*	3229	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1770	0	0	
+
+D 9    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 11   *	*	*	310	*	*	*	*	*	*	*	*	*	2370	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 12   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1770	0	0	
+
+V 13   *	*	*	*	*	*	*	2370	*	*	*	*	*	*	*	*	*	310	*	*	13
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 14   *	*	*	2370	*	*	*	*	310	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1770	0	0	
+
+V 15   3229	*	*	1759	*	*	*	*	3406	*	*	*	*	3001	2370	*	*	2433	*	*	15
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 18   *	*	*	505	*	3469	*	*	3218	*	*	*	*	*	*	*	3356	*	*	*	18
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 19   *	*	*	*	*	*	*	*	734	*	3218	3356	*	2370	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1770	0	0	
+
+A 20   1075	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1707	3001	3406	*	*	20
+       0	*	*	*	*	*	*	1770	0	0	
+
+T 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	21
+       0	*	*	*	*	*	*	1770	0	0	
+
+R 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 23   *	*	*	2370	*	*	*	*	310	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1770	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1770	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	3148	*	*	*	*	*	*	*	173	*	*	25
+       0	*	*	*	*	*	*	1770	0	0	
+
+R 26   *	*	*	*	*	*	*	*	2370	*	*	*	*	*	755	*	*	*	3229	3218	26
+       0	*	*	*	*	*	*	1770	0	0	
+
+D 27   *	*	310	*	*	*	*	*	2370	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1770	0	0	
+
+A 28   1425	*	*	*	3218	*	*	*	*	*	*	*	*	*	*	*	3148	1296	*	*	28
+       0	*	*	*	*	*	*	1770	0	0	
+
+L 29   *	*	*	*	*	*	*	*	*	163	*	*	3229	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1770	0	0	
+
+T 30   *	*	*	*	3001	*	*	*	*	3218	*	*	*	*	*	*	578	3356	*	*	30
+       0	*	*	*	*	*	*	1770	0	0	
+
+A 31   814	*	*	*	*	*	*	*	*	2370	*	3148	*	*	*	*	*	3001	*	*	31
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 32   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 33   *	*	*	*	*	*	*	*	192	*	*	*	*	3001	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1770	0	0	
+
+S 34   *	*	*	*	*	1797	*	*	*	*	*	3218	*	3356	3001	1388	*	*	*	*	34
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 35   *	*	*	*	*	*	*	*	310	*	*	*	*	*	2370	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1770	0	0	
+
+I 36   *	*	*	*	*	*	*	754	*	1296	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 37   *	*	*	310	*	*	*	*	*	*	*	*	*	2370	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1770	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	3356	*	*	*	*	3218	3406	513	*	*	*	38
+       0	*	*	*	*	*	*	1770	0	0	
+
+E 39   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1770	0	0	
+
+I 40   *	*	*	*	*	*	*	173	*	3148	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 41   *	*	*	*	*	*	*	*	814	*	*	*	*	*	3148	3001	2370	*	*	*	41
+       0	*	*	*	*	*	*	1770	0	0	
+
+N 42   *	*	2370	*	*	*	3469	*	*	*	*	758	*	*	*	*	3001	*	*	*	42
+       0	*	*	*	*	*	*	1770	0	0	
+
+K 43   *	*	*	*	*	*	*	*	437	*	*	*	*	3004	2872	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1560	0	0	
+
+M 44   *	*	*	*	*	*	*	*	*	*	1116	*	*	2334	*	*	2576	2535	*	*	44
+       0	*	*	*	*	*	*	1463	0	0	
+
+Q 45   *	*	*	*	*	*	*	*	2576	*	*	*	*	265	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1463	0	0	
+
+Q 46   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1463	0	0	
+
+K 47   *	*	*	*	*	*	*	*	319	*	*	*	*	2334	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	1463	0	0	
+
+//

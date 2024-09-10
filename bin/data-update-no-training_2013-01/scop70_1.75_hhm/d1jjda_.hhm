@@ -1,0 +1,196 @@
+HHsearch 1.5
+NAME  d1jjda_ g.46.1.1 (A:) Cyanobacterial metallothionein SmtA {Synechococcus sp., PCC 7942 [TaxId: 1131]}
+FAM   g.46.1.1
+FILE  d1jjda_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jjda_.a3m -v 1 
+DATE  Mon Jan 21 22:10:26 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  45 out of 47 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEECHHHHHHHCCCCCCCCHHCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+9621148887456044688753597202602105787877777778886679
+>Consensus
+TxmKCACxsClCvVxxxxAixkdgkxYCxxaCAxGHxxgxkGCghxGCxChx
+>d1jjda_ g.46.1.1 (A:) Cyanobacterial metallothionein SmtA {Synechococcus sp., PCC 7942 [TaxId: 1131]}
+TLVKCACEPCLCNVDPSKAIDRNGLYYCSEACADGHTGGSKGCGHTGCNCHG
+>gi|113954857|ref|YP_730293.1|(4-56:58) metallothionein-related protein [Synechococcus sp. CC9311] >gi|113882208|gb|ABI47166.1| bacterial metallothionein-related protein [Synechococcus sp. CC9311]  E=0.0002 s/c=0.93 id=55% cov=98%
+TVVKCACSSCTCEVSSSSAISRNGHSYCSDACASGHRNNEpchDAAGACGCNC--
+>gi|428212916|ref|YP_007086060.1|(5-55:55) Prokaryotic metallothionein [Oscillatoria acuminata PCC 6304] >gi|428001297|gb|AFY82140.1| Prokaryotic metallothionein [Oscillatoria acuminata PCC 6304]  E=3e-06 s/c=1.07 id=59% cov=98%
+TQMKCACESCLCVVPTDKAVMKDGKPYCSDACANGHVDGT-GCGHSGCDCH-
+>gi|410090970|ref|ZP_11287550.1|(89-133:157) Metallothionein, putative [Pseudomonas viridiflava UASWS0038] >gi|409761837|gb|EKN46889.1| Metallothionein, putative [Pseudomonas viridiflava UASWS0038]  E=4e-06 s/c=1.21 id=41% cov=88%
+----CACPQCECAINADTAVERDGQQFCCEACANHHVNHEK-CQSPGCHC--
+>gi|422301594|ref|ZP_16388961.1|(5-55:56) Metallothionein [Microcystis aeruginosa PCC 9806] >gi|389789351|emb|CCI14594.1| Metallothionein [Microcystis aeruginosa PCC 9806]  E=5e-06 s/c=1.06 id=55% cov=98%
+TTMKCACESCTCQVSIADAIEKNDKYYCCQACANGHVNeNEKGCGHQGCIC--
+>gi|416382364|ref|ZP_11684320.1|(7-57:57) metallothionein, family 14 [Crocosphaera watsonii WH 0003] >gi|357265402|gb|EHJ14171.1| metallothionein, family 14 [Crocosphaera watsonii WH 0003]  E=1e-05 s/c=1.05 id=52% cov=100%
+TQMKCACPSCLCIVNISDAVANNGQYYCCDACANGQPN-CPGCSHDGCNCQA
+>gi|428218655|ref|YP_007103120.1|(26-77:79) metallothionein family 14 [Pseudanabaena sp. PCC 7367] >gi|427990437|gb|AFY70692.1| metallothionein family 14 [Pseudanabaena sp. PCC 7367]  E=2e-05 s/c=1.01 id=59% cov=98%
+TLVKCACSKCLCVIDPSDAIEANGKYYCCKACASGHVDGTNDshCSDVGCEC--
+>gi|31324174|gb|AAP47184.1|(5-53:53) putative metallothionein [Nostoc sp. PCC 7120]   E=2e-05 s/c=1.07 id=54% cov=96%
+TQMKCACPSCLCIISVEDAINKEGKYYCSEGCAEGHK-TIKGCNHNGCGC--
+>gi|170751527|ref|YP_001757787.1|(8-57:57) metallothionein family protein [Methylobacterium radiotolerans JCM 2831] >gi|170658049|gb|ACB27104.1| metallothionein family 14 [Methylobacterium radiotolerans JCM 2831]  E=7e-05 s/c=1.01 id=51% cov=98%
+-MVKCACQDCVCVIPVAKAVSRDGKAYCCDDCADGHKDHA-GCEHAGCACHG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	2192	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	2815	2710	*	*	1138	*	3730	3123	4048	*	*	2
+       0	*	*	*	*	*	*	2366	0	0	
+
+V 3    *	*	*	*	*	*	*	5345	*	*	535	*	*	*	*	*	5291	1945	*	*	3
+       0	*	*	*	*	*	*	2371	0	0	
+
+K 4    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2371	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2436	0	0	
+
+A 6    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2436	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2436	0	0	
+
+E 8    *	*	3374	1692	*	4707	*	*	5724	*	*	*	1693	3318	*	2973	*	*	*	*	8
+       0	*	*	*	*	*	*	2436	0	0	
+
+P 9    5270	*	2731	*	*	*	*	*	3983	*	*	5413	5075	4389	5906	714	4921	*	*	*	9
+       0	*	*	*	*	*	*	2436	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2436	0	0	
+
+L 11   *	*	*	4389	*	*	*	*	5247	752	*	5738	*	*	*	5373	2890	2694	*	*	11
+       0	*	*	*	*	*	*	2436	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2436	0	0	
+
+N 13   4389	*	*	4155	*	*	*	1669	*	*	*	5075	*	3666	*	*	*	1080	*	*	13
+       0	*	*	*	*	*	*	2436	0	0	
+
+V 14   *	*	*	*	*	*	*	2636	*	*	*	*	*	*	*	*	*	253	*	*	14
+       0	*	*	*	*	*	*	2436	0	0	
+
+D 15   *	*	2654	*	*	*	*	*	4510	*	*	2482	3441	*	*	999	5270	*	*	*	15
+       0	*	*	*	*	*	*	2436	0	0	
+
+P 16   4389	*	*	*	*	*	*	2068	*	1461	*	*	3827	*	*	4155	3508	2878	*	*	16
+       0	*	*	*	*	*	*	2436	0	0	
+
+S 17   2323	*	3549	2477	*	5442	*	*	*	*	*	5599	*	4921	*	1499	3256	*	*	*	17
+       0	*	*	*	*	*	*	2436	0	0	
+
+K 18   *	*	1199	3143	*	*	*	*	2335	*	*	5060	*	5487	5546	3392	3571	*	*	*	18
+       0	*	*	*	*	*	*	2436	0	0	
+
+A 19   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2436	0	0	
+
+I 20   *	*	*	*	*	*	*	797	*	3999	*	*	*	*	*	*	*	1467	*	*	20
+       0	*	*	*	*	*	*	2436	0	0	
+
+D 21   4275	*	4261	2057	*	*	5651	5363	2366	5755	4970	5485	*	2288	*	3030	*	5818	*	*	21
+       0	*	*	*	*	*	*	2436	0	0	
+
+R 22   4616	*	*	3494	*	*	5333	*	892	*	*	4856	*	*	1877	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2436	0	0	
+
+N 23   *	*	878	3589	*	*	*	*	*	*	*	1519	*	*	*	5375	*	*	*	*	23
+       0	*	*	*	*	*	*	2436	0	0	
+
+G 24   *	*	2502	3922	*	497	*	*	*	*	*	4352	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2436	0	0	
+
+L 25   *	*	*	*	*	*	3434	*	619	5075	*	*	*	2484	4380	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2436	0	0	
+
+Y 26   2721	*	*	*	5546	*	4090	*	*	*	*	*	4627	4389	*	2892	5373	*	*	940	26
+       0	*	*	*	*	*	*	2436	0	0	
+
+Y 27   *	*	*	*	3100	*	*	*	*	*	*	*	*	*	*	*	*	*	*	179	27
+       0	*	*	*	*	*	*	2436	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2436	0	0	
+
+S 29   *	1356	*	*	*	3711	*	*	*	*	*	*	*	*	*	908	*	*	*	*	29
+       0	*	*	*	*	*	*	2436	0	0	
+
+E 30   *	*	1761	1570	*	5270	*	*	4616	*	*	5962	4921	2460	*	4374	5487	*	*	*	30
+       0	*	*	*	*	*	*	2436	0	0	
+
+A 31   413	*	5173	3117	*	4129	*	*	*	*	*	*	4354	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2436	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2436	0	0	
+
+A 33   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2436	0	0	
+
+D 34   5429	*	2107	2491	*	*	*	*	*	*	*	1211	*	*	*	3187	5333	*	*	*	34
+       0	*	*	*	*	*	*	2436	0	0	
+
+G 35   *	*	*	*	*	108	4389	*	*	*	*	5363	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2436	0	0	
+
+H 36   *	*	*	*	*	*	51	*	*	*	*	*	*	4856	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2436	0	0	
+
+T 37   5431	*	*	*	*	*	*	*	2783	*	*	*	1231	4183	4151	*	4419	2015	*	*	37
+       201	*	2944	*	*	*	*	2437	0	0	
+
+G 38   4426	*	1655	3993	*	4866	*	*	3343	*	*	1269	*	*	*	5302	*	*	*	*	38
+       185	4561	3685	0	*	0	*	2384	1133	1474	
+
+G 39   *	*	*	*	*	770	2506	*	*	*	*	3326	*	*	*	*	2859	*	*	*	39
+       277	*	2515	*	*	0	*	2424	0	1454	
+
+S 40   2517	4683	4462	2227	*	*	*	3375	*	*	4775	*	*	*	*	1934	2911	*	*	*	40
+       1122	4061	1057	1585	585	0	*	2371	1000	1738	
+
+K 41   *	*	3774	2965	*	*	*	*	855	*	*	3928	4207	3543	*	*	4632	*	*	*	41
+       124	*	3606	*	*	0	*	2330	0	1946	
+
+G 42   4062	*	4496	*	*	159	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       65	4496	*	1000	1000	0	*	2374	1000	1000	
+
+C 43   4132	85	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2439	0	0	
+
+G 44   4891	*	3890	5152	*	538	*	*	*	*	*	5456	*	4373	*	3174	*	*	*	*	44
+       0	*	*	*	*	*	*	2439	0	0	
+
+H 45   4132	*	4579	*	*	*	288	*	*	*	*	4891	*	*	*	4373	*	*	*	*	45
+       0	*	*	*	*	*	*	2439	0	0	
+
+T 46   2864	4132	4842	*	*	5566	4874	*	5831	*	*	3552	3519	3427	*	2618	2134	4579	*	*	46
+       0	*	*	*	*	*	*	2439	0	0	
+
+G 47   *	*	5227	*	*	74	*	*	*	*	*	*	*	*	*	5405	*	*	*	*	47
+       0	*	*	*	*	*	*	2439	0	0	
+
+C 48   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2439	0	0	
+
+N 49   5152	*	3967	2721	*	1663	4373	4600	*	*	*	2838	*	*	5227	5411	3034	4682	*	*	49
+       0	*	*	*	*	*	*	2439	0	0	
+
+C 50   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2439	0	0	
+
+H 51   *	*	*	*	*	*	206	*	*	*	*	3993	*	3829	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2043	0	0	
+
+G 52   1730	*	*	*	*	518	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	0	*	*	*	1844	0	0	
+
+//

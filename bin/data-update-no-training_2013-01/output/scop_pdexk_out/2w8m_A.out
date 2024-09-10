@@ -1,0 +1,193 @@
+Query         2w8m_A ORF D212, D212; SSV1, SSVRH, nuclease, crenarchaeal virus, hyd
+Match_columns 212
+No_of_seqs    10 out of 12
+Neff          1.8 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:33 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/2w8m_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//2w8m_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2w8m_A ORF D212, D212; SSV1, S 100.0       0       0  842.2  18.9  212    1-212     1-212 (212)
+  2 d1x4ea1 d.58.7.1 (A:8-79) RNA-  34.5     4.9 0.00035   18.5   0.5   67   94-161     1-67  (72)
+  3 d1fxla1 d.58.7.1 (A:37-118) Hu  18.4      33  0.0024   13.6   2.3   65   94-159     5-69  (82)
+  4 d1fi4a1 d.14.1.5 (A:3-190) Mev  17.2      19  0.0014   15.0   0.8   17    7-23     14-30  (188)
+  5 d1fxla2 d.58.7.1 (A:119-203) H  16.6      39  0.0028   13.2   2.3   68   93-161     8-75  (85)
+  6 d2cjja1 a.4.1.3 (A:8-70) Radia  16.6      20  0.0015   14.9   0.8   10  100-109     1-10  (63)
+  7 d2cpia1 d.58.7.1 (A:101-189) E  15.7      49  0.0036   12.6   2.6   64   93-160    10-82  (89)
+  8 d2hjqa2 d.344.1.1 (A:1-49) Hyp  15.3      12 0.00087   16.2  -0.6   20  122-141     4-23  (49)
+  9 d2cq0a1 d.58.7.1 (A:231-320) E  15.3      51  0.0037   12.5   2.6   64   94-161    11-77  (90)
+ 10 d1x4ga1 d.58.7.1 (A:8-103) Nuc  14.2      35  0.0026   13.5   1.6   65   92-167    19-86  (96)
+
+No 1  
+>2w8m_A ORF D212, D212; SSV1, SSVRH, nuclease, crenarchaeal virus, hyd
+Probab=100.00  E-value=0  Score=842.22  Aligned_columns=212  Identities=100%
+
+Q ss_pred             CCCCCCEEEECCCCCCCEEECCCCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCHHHHHCCHHHHCCCCCCEEE
+Q ss_conf             98664112331789877260363445478889899999886653166653016864265201222272564051223016
+Q 2w8m_A            1 MTETDFKLKYWGNQEQDYILPTVGLGREYLVLGKLLISLSKWRAKGLIDFDVYLRPTGVGTLTNTINYEYYKGLEDKYDL   80 (212)
+Q Consensus         1 m~~t~FKlkYWgnq~edyilpn~~lGREylvlGkLlikL~~wr~kgli~fdvyir~tGvGTLtn~in~~yY~gl~DKYDl   80 (212)
+                      |+||||||||||||+||||+||+||||||||||||||||||||+|||+||||||||||||||||+||++||+|++|||||
+T Consensus         1 m~~t~FKlkYWgnq~edyilpn~~lGREylvlGkLlikL~~wr~kgli~fdvyir~tGvGTLtn~in~~yY~gl~DKYDl   80 (212)
+T 2w8m_A            1 MTETDFKLKYWGNQEQDYILPTVGLGREYLVLGKLLISLSKWRAKGLIDFDVYLRPTGVGTLTNTINYEYYKGLEDKYDL   80 (212)
+T ss_pred             CCCCCCEEEECCCCCCCEEECCCCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCHHHHHCCHHHHCCCCCCEEE
+T ss_conf             98664112331789877260363445478889899999886653166653016864265201222272564051223016
+
+
+Q ss_pred             EEEEEECCEECCEEEEECCCCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHH
+Q ss_conf             99983032030578997268743212357650761113444455444443000147888850763112331233321010
+Q 2w8m_A           81 TLYIRAKDSYYPLLWIDITGSSWTEEQSKERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLE  160 (212)
+Q Consensus        81 Tlyv~~K~~y~pl~~IDitGSswteeqSkeRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~  160 (212)
+                      |||++|||+||||+|||||||||||||||||||||||||||||||+|+|||||||||||||||+||||||||||||||||
+T Consensus        81 Tlyv~~K~~y~pl~~IDitGSswteeqSkeRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~  160 (212)
+T 2w8m_A           81 TLYIRAKDSYYPLLWIDITGSSWTEEQSKERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLE  160 (212)
+T ss_pred             EEEEEECCEECCEEEEECCCCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHH
+T ss_conf             99983032030578997268743212357650761113444455444443000147888850763112331233321010
+
+
+Q ss_pred             CCCCCHHHHHCCCCCCEEEEEEHHHCCCHHHHHHHHHHHHHHHHHHHHHCCC
+Q ss_conf             0374001110135675168853778146678788888888999999841279
+Q 2w8m_A          161 RQNKIKKDKFERGAKSEYYLIPTSYWKNLTELRIALRGFYQSFKEYLARSNK  212 (212)
+Q Consensus       161 ~q~kik~dkfE~~Aks~YylIP~~~WKnl~ELrV~lkgfYqsf~Eylar~~k  212 (212)
+                      ||||||+|+|||||||+|||||++||||+|||||+||||||||+||||||+|
+T Consensus       161 ~q~kik~dkfE~~Aks~YylIP~~~WKnl~ELrV~lkgfYqsf~Eylar~~k  212 (212)
+T 2w8m_A          161 RQNKIKKDKFERGAKSEYYLIPTSYWKNLTELRIALRGFYQSFKEYLARSNK  212 (212)
+T ss_pred             CCCCCHHHHHCCCCCCEEEEEEHHHCCCHHHHHHHHHHHHHHHHHHHHHCCC
+T ss_conf             0374001110135675168853778146678788888888999999841279
+
+
+No 2  
+>d1x4ea1 d.58.7.1 (A:8-79) RNA-binding motif, single-stranded-interacting protein 2, RBMS2 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=34.52   E-value=4.9  Score=18.49  Aligned_columns=67  Identities=16%
+
+Q ss_pred             EEEECCCCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHHC
+Q ss_conf             89972687432123576507611134444554444430001478888507631123312333210100
+Q 2w8m_A           94 LWIDITGSSWTEEQSKERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLER  161 (212)
+Q Consensus        94 ~~IDitGSswteeqSkeRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~~  161 (212)
+                      +||---..+|||++-++-.. +.-.|.+.++-.-+....--..=||.|.+.|+--+||.+|+=..+..
+T Consensus         1 ifV~nl~~~~te~~l~~~f~-~~G~i~~~~i~~d~~tg~skgfafV~f~~~~~a~~ai~~lng~~i~g   67 (72)
+T d1x4ea1           1 LYIRGLQPGTTDQDLVKLCQ-PYGKIVSTKAILDKTTNKCKGYGFVDFDSPSAAQKAVTALKASGVQA   67 (72)
+T ss_pred             CEECCCCCCCCHHHHHHHHH-CCCCEEEEEEEECCCCCCCCCCEEEEECCHHHHHHHHHHHCCCEECC
+T ss_conf             95227899889789999876-15987889884478774526866898489899999999818963112
+
+
+No 3  
+>d1fxla1 d.58.7.1 (A:37-118) Hu antigen D (Hud) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=18.43   E-value=33  Score=13.59  Aligned_columns=65  Identities=28%
+
+Q ss_pred             EEEECCCCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHH
+Q ss_conf             899726874321235765076111344445544444300014788885076311233123332101
+Q 2w8m_A           94 LWIDITGSSWTEEQSKERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNL  159 (212)
+Q Consensus        94 ~~IDitGSswteeqSkeRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL  159 (212)
+                      +||.--..+++|++-++-...- -.|.+.++-....-.---+.-||.+.+.|+--+|+..|+=-.+
+T Consensus         5 i~V~nlp~~~~~~~l~~~f~~~-G~v~~~~i~~~~~tg~~rg~afV~f~~~~~A~~ai~~l~~~~~   69 (82)
+T d1fxla1           5 LIVNYLPQNMTQEEFRSLFGSI-GEIESCKLVRDKITGQSLGYGFVNYIDPKDAEKAINTLNGLRL   69 (82)
+T ss_pred             EEEECCCCCCCHHHHHHHHHHH-CCCCCCCCCCCCCCCCCCCCEEEEECCHHHHHHHHHHHCCCEE
+T ss_conf             7750889888978999998752-0100233234554545353336873798999999998389363
+
+
+No 4  
+>d1fi4a1 d.14.1.5 (A:3-190) Mevalonate 5-diphosphate decarboxylase {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Probab=17.24   E-value=19  Score=15.02  Aligned_columns=17  Identities=47%
+
+Q ss_pred             EEEECCCCCCCEEECCC
+Q ss_conf             12331789877260363
+Q 2w8m_A            7 KLKYWGNQEQDYILPTV   23 (212)
+Q Consensus         7 KlkYWgnq~edyilpn~   23 (212)
+                      -.||||-..+.+++|..
+T Consensus        14 LiKYWGK~d~~l~lP~n   30 (188)
+T d1fi4a1          14 TLKYWGKRDTKLNLPTN   30 (188)
+T ss_pred             EEECCCCCCCCCCCCCC
+T ss_conf             87202650733338658
+
+
+No 5  
+>d1fxla2 d.58.7.1 (A:119-203) Hu antigen D (Hud) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=16.59   E-value=39  Score=13.22  Aligned_columns=68  Identities=13%
+
+Q ss_pred             EEEEECCCCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHHC
+Q ss_conf             789972687432123576507611134444554444430001478888507631123312333210100
+Q 2w8m_A           93 LLWIDITGSSWTEEQSKERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLER  161 (212)
+Q Consensus        93 l~~IDitGSswteeqSkeRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~~  161 (212)
+                      -+||.=-..+++|++-++-.. +.-.|.+.++-.-+.-..--.--||.|.+.||-.+||.+|+=-.+.+
+T Consensus         8 ~l~V~nlp~~~~~~~l~~~F~-~~G~v~~v~i~~d~~tg~~rG~afV~f~~~~~A~~ai~~l~~~~~~G   75 (85)
+T d1fxla2           8 NLYVSGLPKTMTQKELEQLFS-QYGRIITSRILVDQVTGVSRGVGFIRFDKRIEAEEAIKGLNGQKPSG   75 (85)
+T ss_pred             EEEEECCCCCCCHHHHHHHHH-HCCCEEEECCCCCCCCCCCCCCEEEEECCHHHHHHHHHHHCCCEECC
+T ss_conf             578727898889789999876-14963420101454221458726999589799999999828956479
+
+
+No 6  
+>d2cjja1 a.4.1.3 (A:8-70) Radialis {Garden snapdragon (Antirrhinum majus) [TaxId: 4151]}
+Probab=16.56   E-value=20  Score=14.90  Aligned_columns=10  Identities=30%
+
+Q ss_pred             CCCCCHHHHH
+Q ss_conf             8743212357
+Q 2w8m_A          100 GSSWTEEQSK  109 (212)
+Q Consensus       100 GSswteeqSk  109 (212)
+                      ||+||+|+-+
+T Consensus         1 g~~WT~eEd~   10 (63)
+T d2cjja1           1 GRPWSAKENK   10 (63)
+T ss_pred             CCCCCHHHHH
+T ss_conf             9998788899
+
+
+No 7  
+>d2cpia1 d.58.7.1 (A:101-189) E3 ubiquitin protein ligase CNOT4 {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=15.73   E-value=49  Score=12.62  Aligned_columns=64  Identities=13%
+
+Q ss_pred             EEEEECCCCCCCHHHH------HHHCCCHHHHHHHHHHHHHHHHHCE---EEEEEEEEECCCCHHHHHHHHHHHHHH
+Q ss_conf             7899726874321235------7650761113444455444443000---147888850763112331233321010
+Q 2w8m_A           93 LLWIDITGSSWTEEQS------KERYGESIYAILSVKVETAKKYDVL---GRVFFIHYNDTEDKLKCISALQILNLE  160 (212)
+Q Consensus        93 l~~IDitGSswteeqS------keRYGesvyAILstKvevA~kydV~---GRv~FihynD~EDKlk~isALqilNL~  160 (212)
+                      .+||.=-..++++|+-      =.+||+-+.+.+...    ....-.   +-.-||.|.+.||-.+||.++.=..+.
+T Consensus        10 ~vyV~nLp~~~~~~dl~k~~~~F~~~G~I~~v~i~~~----~~~~~~~~~~~~aFV~f~~~~~A~~Ai~~lng~~~~   82 (89)
+T d2cpia1          10 LVFVVGLSQRLADPEVLKRPEYFGKFGKIHKVVINNS----TSYAGSQGPSASAYVTYIRSEDALRAIQCVNNVVVD   82 (89)
+T ss_pred             EEEEECCCCCCCHHHHHHHHHHHCCCCCCEEEEECCC----CCCCCCCCCCCEEEEEEECCHHHHHHHHHHCCCEEC
+T ss_conf             5887278976784675434431002577203642125----788985665415899970662688999981892628
+
+
+No 8  
+>d2hjqa2 d.344.1.1 (A:1-49) Hypothetical protein YqbF {Bacillus subtilis [TaxId: 1423]}
+Probab=15.33   E-value=12  Score=16.19  Aligned_columns=20  Identities=30%
+
+Q ss_pred             HHHHHHHHHHCEEEEEEEEE
+Q ss_conf             45544444300014788885
+Q 2w8m_A          122 VKVETAKKYDVLGRVFFIHY  141 (212)
+Q Consensus       122 tKvevA~kydV~GRv~Fihy  141 (212)
+                      .|.--.|-|+|||++|----
+T Consensus         4 AkLi~GKTYnVmG~~F~~gv   23 (49)
+T d2hjqa2           4 AKLIKGKTYNVMGITFRAGV   23 (49)
+T ss_pred             EEEECCEEEEEECEEECCCC
+T ss_conf             34426703332000010254
+
+
+No 9  
+>d2cq0a1 d.58.7.1 (A:231-320) Eukaryotic translation initiation factor 3 subunit 4 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=15.29   E-value=51  Score=12.53  Aligned_columns=64  Identities=16%
+
+Q ss_pred             EEEECCCCCCCHHHHH---HHCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHHC
+Q ss_conf             8997268743212357---6507611134444554444430001478888507631123312333210100
+Q 2w8m_A           94 LWIDITGSSWTEEQSK---ERYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLER  161 (212)
+Q Consensus        94 ~~IDitGSswteeqSk---eRYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~~  161 (212)
+                      +||.=-..++||++-.   ++||+    |.+.++-..+.-.....--||-|.+.|+-.+|+.+|+=..+..
+T Consensus        11 i~V~nL~~~~te~~l~~~f~~~G~----v~~v~i~~~~~t~~~rg~~fV~f~~~~~a~~a~~~l~~~~~~g   77 (90)
+T d2cq0a1          11 IRVTNLSEDTRETDLQELFRPFGS----ISRIYLAKDKTTGQSKGFAFISFHRREDAARAIAGVSGFGYDH   77 (90)
+T ss_pred             EEECCCCCCCCHHHHHHHHHHHCC----CCCCCCCCCCCCCCCCCCEEEEECCHHHHHHHHHHHCCCEECC
+T ss_conf             887088987897899999987068----4123423455566623223686279899999999838935378
+
+
+No 10 
+>d1x4ga1 d.58.7.1 (A:8-103) Nucleolysin TIAR {Human (Homo sapiens) [TaxId: 9606]}
+Probab=14.18   E-value=35  Score=13.45  Aligned_columns=65  Identities=18%
+
+Q ss_pred             CEEEEECCCCCCCHHHHHH---HCCCHHHHHHHHHHHHHHHHHCEEEEEEEEEECCCCHHHHHHHHHHHHHHCCCCCHH
+Q ss_conf             5789972687432123576---507611134444554444430001478888507631123312333210100374001
+Q 2w8m_A           92 PLLWIDITGSSWTEEQSKE---RYGESIYAILSVKVETAKKYDVLGRVFFIHYNDTEDKLKCISALQILNLERQNKIKK  167 (212)
+Q Consensus        92 pl~~IDitGSswteeqSke---RYGesvyAILstKvevA~kydV~GRv~FihynD~EDKlk~isALqilNL~~q~kik~  167 (212)
+                      .-+||.=-.+++||++-++   .||+    |.+.++-..+      ..-||.|.+.|+-.+||.+|+-..+.++ .|+.
+T Consensus        19 ~tlfV~nL~~~~te~~L~~~F~~fG~----i~~i~i~~~k------g~afV~f~~~~~A~~Ai~~l~~~~i~g~-~i~v   86 (96)
+T d1x4ga1          19 CTVYCGGIASGLTDQLMRQTFSPFGQ----IMEIRVFPEK------GYSFVRFSTHESAAHAIVSVNGTTIEGH-VVKC   86 (96)
+T ss_pred             CEEEECCCCCCCCHHHHHHHHHHCCC----EEEEEECCCC------CCEEEEECCHHHHHHHHHHHCCCEECCE-EEEE
+T ss_conf             76887188987897899999871798----0467551668------6168872897999999998389352781-6886
+
+
+Done!

@@ -1,0 +1,204 @@
+HHsearch 1.5
+NAME  d1ce3a_ g.69.1.1 (A:) Multidomain proteinase inhibitor {Winged tobacco (Nicotiana alata) [TaxId: 4087]}
+FAM   g.69.1.1
+FILE  d1ce3a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ce3a_.a3m -v 1 
+DATE  Mon Jan 21 18:59:52 2013
+LENG  54 match states, 54 columns in multiple alignment
+FILT  66 out of 68 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEECCCCCCCCCCCCEEEECCCCCCCEEECCCCCEEEECCC
+>ss_conf
+987876668744223437888822787101002685443135489877762279
+>Consensus
+xKaCxxxCdxrIayxiCPrSexkxxxxiCTnCCaGxKGCxyfsxdGtfiCeGES
+>d1ce3a_ g.69.1.1 (A:) Multidomain proteinase inhibitor {Winged tobacco (Nicotiana alata) [TaxId: 4087]}
+MKACTLNCDPRIAYGVCPRSEEKKNDRICTNCCAGTKGCKYFSDDGTFVCEGES
+>gi|66775073|gb|AAY56130.1|(127-179:204) PinII-type proteinase inhibitor 6 [Capsicum annuum]   E=3e-13 s/c=1.48 id=69% cov=100%
+-KACPRNCDTRIAYSKCPRSEGNAENRLCTNCCAGRKGCNYYSADGTFICEGES
+>gi|350534604|ref|NP_001234661.1|(25-77:223) proteinase inhibitor type-2 TR8 precursor [Solanum lycopersicum] >gi|3913937|sp|Q43710.1|IP22_SOLLC RecName: Full=Proteinase inhibitor type-2 TR8; AltName: Full=Proteinase inhibitor type II TR8; Flags: Precursor >gi|405582|gb|AAA16881.1| proteinase inhibitor [Solanum lycopersicum] >gi|462765|gb|AAC37397.1| auxin-induced proteinase inhibitor [Solanum lycopersicum] >gi|742004|prf||2008321A auxin-inducible protease inhibitor  E=3e-12 s/c=1.41 id=63% cov=100%
+-KACTKECDTRIDFGICPLLETKRVEGLCTNCCAGKKGCKYFSKDGTYICDGES
+>gi|3913933|sp|Q41435.1|IP2T_SOLTU(83-137:147) RecName: Full=Proteinase inhibitor type-2 T; AltName: Full=Proteinase inhibitor type II T; Flags: Precursor >gi|1206015|gb|AAD09849.1| proteinase inhibitor II [Solanum tuberosum]  E=2e-08 s/c=1.13 id=63% cov=100%
+-KACPLNCDTNIAYSRCPRSEGKSliYPTGCTTCCTGYKGCYYFGTNGKFVCEGES
+>gi|21522|emb|CAA27730.1|(32-83:154) proteinase inhibitor II [Solanum tuberosum] >gi|21524|emb|CAA27408.1| unnamed protein product [Solanum tuberosum] >gi|334898801|gb|AEH21806.1| proteinase inhibitor II precursor type A-a [Solanum tuberosum] >gi|334898809|gb|AEH21810.1| proteinase inhibitor II precursor type A-a [Solanum tuberosum] >gi|225382|prf||1301308A proteinase inhibitor II  E=2e-09 s/c=1.26 id=60% cov=98%
+-KACTLECG-NLGFGICPRSEGSPENRICTNCCAGYKGCNYYSANGAFICEGQS
+>gi|46396269|sp|P83241.1|IP23_CAPAN(1-51:52) RecName: Full=Proteinase inhibitor PSI-1.2   E=3e-06 s/c=1.08 id=54% cov=96%
+-KACPRNCDTDIAYMVCPSSGERIIRKVCTNCCAAQKGCKLFRSNGSIKCTG--
+>gi|76446080|gb|ABA42911.1|(446-498:516) trypsin proteinase inhibitor precursor [Nicotiana obtusifolia]   E=5e-15 s/c=1.58 id=70% cov=100%
+-KACPRNCDPRIDFGICPLLEEKKDNQICTNCCAGMKGCNYFSANGTFICEGES
+>gi|165906348|gb|ABY71839.1|(82-133:152) proteinase inhibitor [Solanum tuberosum]   E=2e-10 s/c=1.32 id=49% cov=98%
+-KACSKECDRRIEIGICVTDLTKTVNGLCTTCSAGKKGCKYFNNNGTYICDGE-
+>gi|350539691|ref|NP_001234246.1|(143-194:201) proteinase inhibitor type-2 CEVI57 precursor [Solanum lycopersicum] >gi|3913935|sp|Q43502.1|IP23_SOLLC RecName: Full=Proteinase inhibitor type-2 CEVI57; AltName: Full=Proteinase inhibitor type II CEVI57; Flags: Precursor >gi|1161572|emb|CAA64416.1| proteinase inhibitor II [Solanum lycopersicum]  E=1e-09 s/c=1.27 id=47% cov=98%
+-KGCTKECDPRVAYMTCPSSGLAKLNQVCVNCCSAGEGCKLYDNDGSLLCTGE-
+>gi|396318189|gb|AFN85539.1|(30-78:78) proteinase inhibitor type-2, partial [Olea europaea]   E=9e-08 s/c=1.21 id=44% cov=93%
+-KICTKEC-LNVGYMICPSSGPQKLHPSCTNCCRAQKGCKLYRSDGTLICT---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2238	0	0	
+
+A 3    683	*	3988	*	4660	3509	*	3890	*	*	*	*	3256	*	6115	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2258	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2333	0	0	
+
+T 5    *	*	*	*	*	*	*	*	*	*	*	*	910	*	*	4304	1261	*	*	*	5
+       0	*	*	*	*	*	*	2333	0	0	
+
+L 6    *	*	*	*	4049	*	*	6547	1863	2712	*	*	6094	4768	1209	5831	*	*	*	*	6
+       0	*	*	*	*	*	*	2360	0	0	
+
+N 7    *	*	*	1370	5654	*	*	*	4899	*	*	935	*	*	*	*	*	*	*	4765	7
+       0	*	*	*	*	*	*	2360	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       56	*	4721	*	*	*	*	2430	0	0	
+
+D 9    *	*	240	*	*	2708	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       240	*	2708	*	*	0	*	2351	0	1000	
+
+P 10   *	*	*	*	*	2813	*	*	*	4388	*	*	889	*	3969	5678	2424	*	*	*	10
+       0	*	*	*	*	0	*	2320	0	1376	
+
+R 11   *	*	3796	4376	*	*	4421	*	6098	*	*	2253	*	4701	810	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2411	0	0	
+
+I 12   *	*	*	*	4615	*	*	442	*	3226	*	*	*	*	*	*	*	3107	*	*	12
+       0	*	*	*	*	*	*	2411	0	0	
+
+A 13   758	*	2842	4337	5095	2795	*	*	*	*	*	6576	*	*	*	4798	*	*	*	*	13
+       0	*	*	*	*	*	*	2411	0	0	
+
+Y 14   *	*	6285	*	2650	*	*	4065	*	*	*	*	*	*	*	5859	5978	*	*	444	14
+       0	*	*	*	*	*	*	2411	0	0	
+
+G 15   *	*	*	4410	*	929	*	*	6382	*	2750	*	*	*	3672	2406	*	*	*	*	15
+       0	*	*	*	*	*	*	2411	0	0	
+
+V 16   5757	*	*	*	*	*	*	931	2656	*	*	*	*	*	5055	*	4544	2148	*	*	16
+       0	*	*	*	*	*	*	2411	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2411	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	5795	*	*	192	*	4647	*	5859	4337	*	*	18
+       0	*	*	*	*	*	*	2411	0	0	
+
+R 19   *	*	*	*	*	5529	*	*	*	2634	*	*	*	*	854	2750	4337	5992	*	4320	19
+       0	*	*	*	*	*	*	2411	0	0	
+
+S 20   *	*	4340	*	*	*	*	*	*	3711	*	*	*	*	*	229	5568	*	*	*	20
+       0	*	*	*	*	*	*	2414	0	0	
+
+E 21   *	*	*	579	*	2289	*	*	5360	4343	*	*	*	4260	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2418	0	0	
+
+E 22   5864	*	*	1278	*	1642	4818	*	*	4558	*	6257	4766	*	6506	*	3167	*	*	*	22
+       0	*	*	*	*	*	*	2418	0	0	
+
+K 23   4558	*	*	5655	*	*	*	*	760	*	*	4292	*	4176	3879	2805	5070	*	*	*	23
+       180	4015	4180	1000	1000	*	*	2418	1209	0	
+
+K 24   4028	*	*	5578	*	*	*	2879	1315	*	5483	5403	2757	*	4529	4334	3425	*	*	*	24
+       102	3879	*	1000	1000	0	*	2419	1199	1186	
+
+N 25   *	*	3452	3376	*	*	*	3140	5061	3399	*	1672	*	5490	*	*	4983	3327	*	3226	25
+       30	5594	*	1000	1000	*	*	2418	1000	0	
+
+D 26   *	*	2360	5191	*	*	4766	*	4116	*	*	1040	2762	5864	4942	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2418	0	0	
+
+R 27   *	*	*	*	*	3327	*	*	4942	*	*	*	2129	2018	2030	*	2762	*	*	*	27
+       0	*	*	*	*	*	*	2418	0	0	
+
+I 28   *	*	*	5806	*	2949	*	901	6632	2742	*	*	*	*	*	4766	6609	3179	*	*	28
+       0	*	*	*	*	*	*	2418	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2418	0	0	
+
+T 30   *	*	*	*	*	*	*	3498	*	*	*	*	*	*	*	*	263	3682	*	*	30
+       0	*	*	*	*	*	*	2418	0	0	
+
+N 31   *	*	*	*	*	*	*	*	*	*	*	347	*	*	*	*	2226	*	*	*	31
+       0	*	*	*	*	*	*	2418	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2418	0	0	
+
+C 33   *	95	*	*	*	*	*	*	*	*	*	*	*	*	*	4343	*	*	*	6112	33
+       0	*	*	*	*	*	*	2418	0	0	
+
+A 34   894	*	*	*	*	*	*	*	*	*	*	*	*	*	4766	1849	2762	*	*	*	34
+       0	*	*	*	*	*	*	2418	0	0	
+
+G 35   2764	*	*	*	*	230	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2418	0	0	
+
+T 36   6005	*	*	*	4877	4558	*	*	2668	5864	4603	*	*	3851	3382	*	2079	*	*	1784	36
+       0	*	*	*	*	*	*	2418	0	0	
+
+K 37   *	*	*	4558	*	*	*	*	150	*	6376	*	*	5594	*	*	5415	*	*	*	37
+       0	*	*	*	*	*	*	2418	0	0	
+
+G 38   *	*	5415	4877	*	85	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2418	0	0	
+
+C 39   *	27	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5751	39
+       0	*	*	*	*	*	*	2418	0	0	
+
+K 40   *	*	*	*	*	*	*	*	1577	6257	6419	1315	*	*	4407	5098	*	*	*	2627	40
+       0	*	*	*	*	*	*	2418	0	0	
+
+Y 41   *	*	*	*	4407	*	*	*	*	2764	*	*	*	*	*	*	*	*	*	312	41
+       0	*	*	*	*	*	*	2418	0	0	
+
+F 42   *	*	*	*	453	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1891	42
+       0	*	*	*	*	*	*	2418	0	0	
+
+S 43   *	4818	3985	*	*	3116	*	*	*	*	*	3416	*	*	3851	733	*	*	*	5550	43
+       0	*	*	*	*	*	*	2418	0	0	
+
+D 44   1254	*	3262	*	*	*	*	*	3004	*	*	2718	*	4107	*	3559	6047	5722	*	5446	44
+       0	*	*	*	*	*	*	2418	0	0	
+
+D 45   *	*	749	5750	4198	*	*	6556	5490	*	*	1742	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2418	0	0	
+
+G 46   *	*	*	6226	*	70	*	*	*	*	*	*	*	*	*	*	*	*	*	4877	46
+       0	*	*	*	*	*	*	2418	0	0	
+
+T 47   6083	*	3990	4161	*	*	*	*	3533	*	*	6299	*	*	5722	3030	676	*	*	*	47
+       0	*	*	*	*	*	*	2418	0	0	
+
+F 48   *	*	*	*	425	*	*	4942	*	3042	*	*	*	*	*	*	*	4818	*	3929	48
+       0	*	*	*	*	*	*	2418	0	0	
+
+V 49   *	*	*	*	*	*	*	1170	3879	4558	*	*	*	*	*	*	*	1167	*	*	49
+       0	*	*	*	*	*	*	2418	0	0	
+
+C 50   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2418	0	0	
+
+E 51   *	*	3327	641	*	*	*	*	3445	*	*	*	*	5646	*	*	2764	*	*	*	51
+       0	*	*	*	*	*	*	2418	0	0	
+
+G 52   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2341	0	0	
+
+E 53   *	*	*	146	*	*	*	*	*	*	*	*	*	4596	*	4980	5434	*	*	*	53
+       0	*	*	*	*	*	*	2268	0	0	
+
+S 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39	5218	*	*	*	54
+       0	*	*	0	*	*	*	2051	0	0	
+
+//

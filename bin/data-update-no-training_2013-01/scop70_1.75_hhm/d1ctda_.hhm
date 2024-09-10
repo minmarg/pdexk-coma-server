@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d1ctda_ a.39.1.5 (A:) Troponin C {Chicken (Gallus gallus) [TaxId: 9031]}
+FAM   a.39.1.5
+FILE  d1ctda_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ctda_.a3m -v 1 
+DATE  Mon Jan 21 19:25:51 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHCC
+>ss_conf
+9777899999987068998515899999986219
+>Consensus
+ksEEELaexFrxfDkNxDGxIdxeElxxilratG
+>d1ctda_ a.39.1.5 (A:) Troponin C {Chicken (Gallus gallus) [TaxId: 9031]}
+KSEEELANAFRIFDKNADGYIDIEELGEILRATG
+>gi|355784439|gb|EHH65290.1|(91-124:160) Troponin C, skeletal muscle, partial [Macaca fascicularis]   E=6e-07 s/c=1.69 id=77% cov=103%
+KSEEELAECFRIFDRNADGYIDPEELAEIFRASG
+>gi|318068020|ref|NP_001187978.1|(92-125:161) troponin C slow skeletal and cardiac muscles [Ictalurus punctatus] >gi|308324501|gb|ADO29385.1| troponin C slow skeletal and cardiac muscles [Ictalurus punctatus]  E=2e-06 s/c=1.64 id=74% cov=103%
+KSEEELADLFRMFDRNRDGYIDTEELREMLRATG
+>gi|14285798|sp|P81660.1|TNNC2_ANGAN(91-124:160) RecName: Full=Troponin C, skeletal muscle; Short=TNC >gi|633784|gb|AAB30160.1| troponin C, TnC [Anguilla anguilla=European eel, white muscle, Peptide, 160 aa]  E=6e-06 s/c=1.59 id=71% cov=103%
+KSEEELAEFFRVFDKNGDGFIDREEFGEILRSSG
+>gi|209737036|gb|ACI69387.1|(92-125:161) Troponin C, skeletal muscle [Salmo salar] >gi|209737826|gb|ACI69782.1| Troponin C, skeletal muscle [Salmo salar]  E=3e-05 s/c=1.53 id=71% cov=103%
+KSEEELSEVFRIFDKNGDGFIDREELNDILAATG
+>gi|410926831|ref|XP_003976873.1|(95-128:164) PREDICTED: troponin C, slow skeletal and cardiac muscles-like [Takifugu rubripes]  E=5e-05 s/c=1.49 id=66% cov=103%
+KAEEELAELFRMFDKNSDGYIDLEELKAMLESTG
+>gi|56118753|ref|NP_852475.2|(92-125:161) troponin C, slow skeletal and cardiac muscles [Danio rerio] >gi|54035550|gb|AAH83392.1| Troponin C type 1 (slow) [Danio rerio] >gi|182889276|gb|AAI64877.1| Tnnc1 protein [Danio rerio]  E=0.0001 s/c=1.45 id=66% cov=103%
+RPEEELAELFRMFDKNADGYIDLDELKLMLEATG
+>gi|345328602|ref|XP_001505895.2|(199-232:268) PREDICTED: troponin C, slow skeletal and cardiac muscles-like [Ornithorhynchus anatinus]  E=3e-08 s/c=1.82 id=71% cov=103%
+KSEEELSDLFRMFDKNADGYIDLEELKMMLQATG
+>gi|18859495|ref|NP_571638.1|(91-124:160) troponin C type 2 (fast) [Danio rerio] >gi|8698679|gb|AAF78473.1|AF180890_1 fast skeletal muscle troponin C [Danio rerio] >gi|39794581|gb|AAH64284.1| Troponin C, fast skeletal [Danio rerio] >gi|156230583|gb|AAI52239.1| Troponin C, fast skeletal [Danio rerio] >gi|158253909|gb|AAI54313.1| Troponin C, fast skeletal [Danio rerio]  E=6e-07 s/c=1.69 id=66% cov=103%
+KSEEELAECFRVLDKNGDGYIDRDEFAEIIRSTG
+>gi|405957913|gb|EKC24090.1|(215-245:836) Calmodulin-like protein 12 [Crassostrea gigas]   E=0.0004 s/c=1.55 id=62% cov=94%
+---EELIECFEMFDKNRDGTISVEELGSILRALG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	142	*	*	*	*	*	3412	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1632	0	0	
+
+S 2    3637	*	*	*	*	*	*	*	*	*	*	*	3412	*	*	276	*	*	*	*	2
+       0	*	*	*	*	*	*	1632	0	0	
+
+E 3    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1632	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1708	0	0	
+
+E 5    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1708	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1708	0	0	
+
+A 7    638	*	*	*	*	*	*	3238	*	*	*	*	*	*	*	1991	*	*	*	*	7
+       0	*	*	*	*	*	*	1708	0	0	
+
+N 8    *	*	2905	406	*	*	*	*	*	*	*	3162	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1708	0	0	
+
+A 9    4166	1088	*	*	4099	*	*	*	*	1772	*	*	*	*	4110	*	*	3948	*	*	9
+       0	*	*	*	*	*	*	1708	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1708	0	0	
+
+R 11   *	*	*	3238	*	*	*	*	*	*	*	*	*	*	162	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1708	0	0	
+
+I 12   *	*	*	*	*	*	*	1251	*	*	1326	*	*	*	*	*	*	2465	*	*	12
+       0	*	*	*	*	*	*	1708	0	0	
+
+F 13   *	*	*	*	121	*	*	*	*	3638	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1708	0	0	
+
+D 14   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1708	0	0	
+
+K 15   *	*	*	*	*	*	*	*	301	*	*	*	*	*	2407	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1708	0	0	
+
+N 16   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1708	0	0	
+
+A 17   1369	*	*	*	*	1715	*	*	*	*	*	*	*	4015	2527	3778	*	*	*	*	17
+       0	*	*	*	*	*	*	1708	0	0	
+
+D 18   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1708	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1708	0	0	
+
+Y 20   *	*	*	*	1738	*	*	*	*	*	*	*	*	*	*	*	3238	*	*	751	20
+       0	*	*	*	*	*	*	1708	0	0	
+
+I 21   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1708	0	0	
+
+D 22   *	*	162	*	*	*	*	*	*	*	*	*	*	*	*	3238	*	*	*	*	22
+       0	*	*	*	*	*	*	1708	0	0	
+
+I 23   *	*	*	*	*	4110	*	3162	*	2150	*	*	3943	*	1448	*	3891	3238	*	*	23
+       0	*	*	*	*	*	*	1708	0	0	
+
+E 24   *	*	2584	263	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1708	0	0	
+
+E 25   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1708	0	0	
+
+L 26   *	*	*	*	1729	*	*	*	*	518	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1708	0	0	
+
+G 27   2025	*	*	*	*	1334	*	*	2150	*	*	3948	*	*	3891	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1708	0	0	
+
+E 28   3731	*	2915	924	*	*	*	*	*	3495	3871	*	*	*	*	3212	*	*	*	*	28
+       0	*	*	*	*	*	*	1713	0	0	
+
+I 29   *	*	*	*	*	*	*	519	*	*	1727	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1713	0	0	
+
+L 30   *	*	*	*	3878	*	*	3538	*	241	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1713	0	0	
+
+R 31   3889	*	*	2608	*	*	3941	*	*	*	*	*	*	3871	655	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1713	0	0	
+
+A 32   618	*	*	*	*	*	*	*	*	4003	*	*	*	*	*	1807	*	*	*	*	32
+       0	*	*	*	*	*	*	1713	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	3212	*	*	*	*	*	2377	515	*	*	*	33
+       0	*	*	*	*	*	*	1713	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	0	*	*	*	1713	0	0	
+
+//

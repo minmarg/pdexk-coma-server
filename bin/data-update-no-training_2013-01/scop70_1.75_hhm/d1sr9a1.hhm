@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d1sr9a1 a.5.7.1 (A:437-491) 2-isopropylmalate synthase LeuA, communication domain {Mycobacterium tuberculosis [TaxId: 1773]}
+FAM   a.5.7.1
+FILE  d1sr9a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sr9a1.a3m -v 1 
+DATE  Tue Jan 22 02:10:38 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  101 out of 459 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHCCCC
+>ss_conf
+9202121268728977788999999998763320489569899999999833689
+>Consensus
+VAyiLexxxGlxLPrxmqxeFsxxVQxxadxtxxxGxEisxxeIxxlFxxxYlxp
+>d1sr9a1 a.5.7.1 (A:437-491) 2-isopropylmalate synthase LeuA, communication domain {Mycobacterium tuberculosis [TaxId: 1773]}
+VAYIMKTDHGLSLPRRLQIEFSQVIQKIAEGTAGEGGEVSPKEMWDAFAEEYLAP
+>gi|307129352|ref|YP_003881368.1|(395-446:567) 2-isopropylmalate synthase [Dickeya dadantii 3937] >gi|306526881|gb|ADM96811.1| 2-isopropylmalate synthase [Dickeya dadantii 3937]  E=3e-05 s/c=1.00 id=36% cov=96%
+IAFLLQRDHGIVMPRRMQVEFSAIVQALADASE---TELASEQIWALFERTYLVP
+>gi|83575711|gb|ABC22262.1|(395-443:562) Yeast 2-isopropylmalate synthase [Rhodospirillum rubrum ATCC 11170]   E=5e-11 s/c=1.44 id=36% cov=91%
+VAWVIEQDKGLKLPRSLQRDLSRRVQEFSEKS---GKEITAAMIWSIFQQAY---
+>gi|323487506|ref|ZP_08092800.1|(389-440:665) hypothetical protein HMPREF9474_04551 [Clostridium symbiosum WAL-14163] >gi|323399188|gb|EGA91592.1| hypothetical protein HMPREF9474_04551 [Clostridium symbiosum WAL-14163]  E=2e-05 s/c=0.99 id=25% cov=96%
+VAFILKQNFGIDVPDKMREEVGYLVKGVSDRKHQ---ELAPGEIYQIFEDHYVCP
+>gi|310657728|ref|YP_003935449.1|(384-433:567) 2-isopropylmalate synthase [Clostridium sticklandii DSM 519] >gi|327488215|sp|E3PVH7.1|LEU1_CLOSD RecName: Full=2-isopropylmalate synthase; AltName: Full=Alpha-IPM synthase; AltName: Full=Alpha-isopropylmalate synthase >gi|308824506|emb|CBH20544.1| 2-isopropylmalate synthase (Alpha-isopropylmalate synthase) (Alpha-IPM synthetase) [[Clostridium] sticklandii]  E=3e-05 s/c=1.02 id=25% cov=93%
+VSFILEQNYGLYIPKDFQKDAGRVITAYSDKMQ---TEIGAEEIYEVFLNEYV--
+>gi|383791561|ref|YP_005476135.1|(385-435:554) 2-isopropylmalate synthase [Spirochaeta africana DSM 8902] >gi|383108095|gb|AFG38428.1| 2-isopropylmalate synthase [Spirochaeta africana DSM 8902]  E=3e-12 s/c=1.46 id=33% cov=95%
+VAYVMSREFGFDLPKTMHPEFGRMVNQ---ATDRLGREATKQEIFDIFKQSYLE-
+>gi|89093896|ref|ZP_01166841.1|(386-436:553) probable 2-isopropylmalate synthase [Neptuniibacter caesariensis] >gi|89081782|gb|EAR61009.1| probable 2-isopropylmalate synthase [Neptuniibacter caesariensis]  E=1e-09 s/c=1.28 id=31% cov=95%
+VALVLERDYGIELPKWMHVPLSKVVQSAAEQ---QGVEVSPEVIYTLYQKHFVE-
+>gi|389742834|gb|EIM84020.1|(408-459:644) 2-isopropylmalate synthase [Stereum hirsutum FP-91666 SS1]   E=4e-08 s/c=1.17 id=37% cov=95%
+-AYIIKETMGIDLPRRMQVAFYKAVQHESERTQ---REMTVNLLKDVFHTTFgLTP
+>gi|390939963|ref|YP_006403700.1|(388-434:438) isopropylmalate/homocitrate/citramalate synthase [Sulfurospirillum barnesii SES-3] >gi|390193070|gb|AFL68125.1| isopropylmalate/homocitrate/citramalate synthase [Sulfurospirillum barnesii SES-3]  E=3e-07 s/c=1.23 id=27% cov=87%
+VAYVLKEFYGIETTKEMQTQIALEVQKLCDE---KGIEVNAEEIFNVFRQ-----
+>gi|381158667|ref|ZP_09867900.1|(385-434:577) isopropylmalate/homocitrate/citramalate synthase [Thiorhodovibrio sp. 970] >gi|380880025|gb|EIC22116.1| isopropylmalate/homocitrate/citramalate synthase [Thiorhodovibrio sp. 970]  E=8e-07 s/c=1.13 id=27% cov=93%
+MAFLLEREFGLNLPTWLRRELAPLVQRASEAA---GGLIDAQSIRDLFVAEFI--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	2050	*	*	3903	*	*	*	*	*	*	532	*	*	1
+       0	*	*	*	*	*	*	4762	0	0	
+
+A 2    284	*	*	*	*	5187	*	*	*	*	*	*	*	*	*	3333	4261	*	*	*	2
+       0	*	*	*	*	*	*	4917	0	0	
+
+Y 3    6775	*	*	*	2224	*	4020	*	*	6352	*	*	*	*	*	5066	*	*	2319	1081	3
+       0	*	*	*	*	*	*	4947	0	0	
+
+I 4    *	*	*	*	*	*	*	1676	*	1782	*	*	*	*	*	*	5972	1395	*	*	4
+       0	*	*	*	*	*	*	4947	0	0	
+
+M 5    *	*	*	*	*	*	*	3367	*	457	3185	*	*	*	*	*	*	3949	*	*	5
+       0	*	*	*	*	*	*	4947	0	0	
+
+K 6    5243	*	5306	1045	*	*	5530	*	2917	4374	*	5527	*	2821	5493	4037	6060	*	*	*	6
+       0	*	*	*	*	*	*	4947	0	0	
+
+T 7    3935	*	6686	2904	*	*	3994	*	3760	5949	*	4184	*	2294	2092	3954	3635	*	*	*	7
+       0	*	*	*	*	*	*	4947	0	0	
+
+D 8    4856	6641	1959	2593	5683	4058	3964	5472	5564	*	*	2494	*	5523	4376	5019	4585	5795	7086	*	8
+       0	*	*	*	*	*	*	4947	0	0	
+
+H 9    6116	6645	*	*	2258	*	2365	5972	6975	2958	5284	*	*	5650	*	*	*	*	5956	1482	9
+       0	*	*	*	*	*	*	4947	0	0	
+
+G 10   6034	*	5193	*	*	451	4201	*	*	*	*	3591	*	4366	4639	*	*	*	*	*	10
+       0	*	*	*	*	*	*	4947	0	0	
+
+L 11   6195	*	*	*	2986	*	*	1647	*	1290	5061	*	*	*	*	*	*	4310	*	4274	11
+       0	*	*	*	*	*	*	4947	0	0	
+
+S 12   6862	*	1894	2829	5958	*	4966	6696	4657	*	*	3218	*	3713	3892	3459	3783	4674	*	5032	12
+       0	*	*	*	*	*	*	4947	0	0	
+
+L 13   *	*	*	*	*	*	*	2888	*	523	3320	*	6012	*	*	*	5683	4878	*	*	13
+       0	*	*	*	*	*	*	4947	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	51	*	*	*	4838	*	*	*	14
+       0	*	*	*	*	*	*	4947	0	0	
+
+R 15   6034	*	6318	*	*	*	*	*	1519	*	*	6103	4128	*	979	*	6410	5956	*	5933	15
+       0	*	*	*	*	*	*	4947	0	0	
+
+R 16   3097	*	3382	4112	5602	3483	6922	*	3857	6195	7147	4841	5399	4319	2131	5872	6443	*	2682	*	16
+       0	*	*	*	*	*	*	4947	0	0	
+
+L 17   6178	*	*	*	4499	*	*	*	*	1204	1163	*	*	*	*	*	*	4291	6601	*	17
+       0	*	*	*	*	*	*	4947	0	0	
+
+Q 18   4532	*	*	4442	*	*	3116	*	6034	*	*	5933	*	585	3472	7175	*	*	*	*	18
+       0	*	*	*	*	*	*	4947	0	0	
+
+I 19   3895	*	*	3547	*	6499	*	2020	4411	5634	6520	*	3169	4863	3344	5859	4535	2272	*	*	19
+       0	*	*	*	*	*	*	4947	0	0	
+
+E 20   2761	*	2339	1046	*	*	4651	*	6103	*	*	5846	6352	5070	6777	4986	5949	*	*	*	20
+       0	*	*	*	*	*	*	4947	0	0	
+
+F 21   5376	*	*	*	506	*	*	5145	*	3199	5341	*	*	*	*	*	*	3184	*	*	21
+       0	*	*	*	*	*	*	4947	0	0	
+
+S 22   2456	*	6792	6698	5066	2020	*	*	*	*	*	*	*	*	5296	1263	5361	*	*	4152	22
+       0	*	*	*	*	*	*	4947	0	0	
+
+Q 23   3690	*	4572	4009	*	4405	4955	*	2260	4758	*	5840	4340	3160	2390	6063	5428	*	*	3547	23
+       41	*	5168	*	*	*	*	4947	0	0	
+
+V 24   2702	*	6810	4247	*	*	*	2535	4654	3526	6417	*	*	6450	4097	6521	4129	1714	*	5004	24
+       41	*	5173	*	*	*	0	4907	0	1603	
+
+I 25   4495	*	*	*	*	*	*	2092	*	6275	*	*	*	*	*	*	*	498	*	*	25
+       0	*	*	*	*	*	0	4886	0	2438	
+
+Q 26   *	*	*	*	*	*	*	*	2297	*	*	4335	*	488	*	*	4889	*	*	*	26
+       80	*	4220	*	*	1010	990	4886	0	2438	
+
+K 27   2107	*	4220	4646	*	5573	4817	*	2840	*	*	5425	*	3201	2179	4323	3920	*	*	6768	27
+       66	*	4488	*	*	1680	540	4896	0	2678	
+
+I 28   2885	*	6691	3678	4815	*	4642	2598	5622	2535	6058	*	*	5433	5700	*	5157	2391	*	3895	28
+       86	*	4106	*	*	*	0	4907	0	3005	
+
+A 29   1247	3869	*	*	*	*	*	*	*	*	5315	6138	*	6069	*	1439	3685	6731	*	*	29
+       0	*	*	*	*	1525	616	4886	0	3409	
+
+E 30   4030	*	809	1746	*	*	*	*	*	*	*	5254	*	5329	5745	*	*	*	*	*	30
+       169	*	3180	*	*	1071	932	4917	0	2975	
+
+G 31   2367	*	5357	2613	*	4815	4391	5562	3055	5749	6171	5026	*	3598	2888	4902	3994	5911	*	*	31
+       355	*	2198	*	*	1465	649	4903	0	3434	
+
+T 32   2575	5290	*	*	*	*	*	*	5877	*	5431	4922	*	*	6180	1903	1281	4613	*	*	32
+       662	*	1442	*	*	*	0	4771	0	4111	
+
+A 33   3723	*	1642	2684	*	5081	3765	5121	4846	*	*	3482	*	3427	*	3334	*	*	*	*	33
+       633	*	1494	*	*	2557	269	4525	0	4547	
+
+G 34   2432	*	4362	3185	*	3608	4214	*	4735	*	*	4723	*	2952	2952	3878	3079	*	*	*	34
+       310	*	2370	*	*	1778	497	4433	0	4610	
+
+E 35   3894	*	4342	2014	4965	*	4900	5721	4235	2895	5696	5840	*	3013	4072	3608	*	4595	*	5621	35
+       28	*	5716	*	*	849	1169	4482	0	4417	
+
+G 36   3972	*	*	*	*	350	4369	5543	*	*	*	6055	*	4543	*	6488	*	6303	*	*	36
+       0	*	*	*	*	466	1858	4741	0	3874	
+
+G 37   4608	*	4829	4737	5243	2436	6623	5591	2473	*	*	*	*	6793	1546	6797	3791	4996	*	*	37
+       0	*	*	*	*	282	2494	4881	0	2842	
+
+E 38   5397	*	6049	164	*	*	*	6059	*	6407	*	*	6638	*	*	6003	5967	*	*	*	38
+       0	*	*	*	*	0	*	4939	0	1000	
+
+V 39   5690	*	*	*	*	*	*	1915	*	1359	3871	*	*	*	*	*	*	1959	*	*	39
+       0	*	*	*	*	*	*	4947	0	0	
+
+S 40   3253	*	3856	6831	*	6011	*	*	4842	6735	5303	4170	5296	4130	5679	1616	2060	6862	*	*	40
+       0	*	*	*	*	*	*	4947	0	0	
+
+P 41   2054	*	5744	*	*	4243	6060	5468	5776	*	*	6027	1797	4727	6339	2504	4865	4174	*	6306	41
+       0	*	*	*	*	*	*	4947	0	0	
+
+K 42   2702	*	2493	2018	*	5495	6008	*	3923	*	6696	5569	6499	2687	5356	3909	6656	6775	*	6497	42
+       0	*	*	*	*	*	*	4947	0	0	
+
+E 43   3851	*	3310	1234	*	5240	*	6417	5859	5638	4729	5958	*	3458	3345	6410	4408	5195	*	*	43
+       0	*	*	*	*	*	*	4947	0	0	
+
+M 44   *	*	*	*	*	*	*	621	*	2615	5735	*	*	*	*	*	*	2576	*	*	44
+       0	*	*	*	*	*	*	4947	0	0	
+
+W 45   5955	4269	*	5855	3426	*	4162	5147	4661	3822	5816	6974	*	6890	4739	*	3982	5167	1934	2300	45
+       0	*	*	*	*	*	*	4947	0	0	
+
+D 46   2911	*	2840	2401	*	4323	5265	*	3590	*	5275	4049	*	3374	4141	3497	4290	*	*	*	46
+       0	*	*	*	*	*	*	4947	0	0	
+
+A 47   2435	6534	*	5871	6763	*	*	2391	*	1374	5690	*	*	*	5809	6804	4459	3187	*	*	47
+       23	*	6008	*	*	*	*	4947	0	0	
+
+F 48   6169	*	*	*	105	*	*	*	*	5531	*	*	*	*	*	*	*	*	*	4846	48
+       0	*	*	*	*	*	0	4925	0	1000	
+
+A 49   4000	6227	4600	2183	5241	*	5763	4786	3083	4965	5666	4821	*	3933	2438	5326	4348	4590	6505	*	49
+       0	*	*	*	*	*	0	4925	0	1000	
+
+E 50   3768	*	2768	2247	*	*	5571	6635	3149	*	*	4809	*	2724	2798	3942	5089	*	*	*	50
+       0	*	*	*	*	0	*	4903	0	1000	
+
+E 51   3616	*	5433	1711	*	*	2880	*	5407	5662	*	4751	*	3664	3917	5196	2507	7019	*	5831	51
+       0	*	*	*	*	*	*	4881	0	0	
+
+Y 52   *	*	*	*	2582	*	*	*	*	*	*	*	*	*	*	*	*	*	5940	292	52
+       48	4924	*	0	*	*	*	4881	1858	0	
+
+L 53   *	*	*	*	6291	*	*	2520	*	1080	4422	*	*	*	*	*	*	1888	*	5441	53
+       0	*	*	*	*	*	*	4632	0	0	
+
+A 54   1720	4240	4935	2592	*	5073	*	4431	*	*	5738	*	*	2878	5801	2691	5101	6360	*	*	54
+       0	*	*	*	*	*	*	4310	0	0	
+
+P 55   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	55
+       0	*	*	0	*	*	*	3378	0	0	
+
+//

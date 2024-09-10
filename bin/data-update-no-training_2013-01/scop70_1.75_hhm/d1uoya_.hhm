@@ -1,0 +1,226 @@
+HHsearch 1.5
+NAME  d1uoya_ g.3.19.1 (A:) Bubble protein {Penicillium brevicompactum [TaxId: 5074]}
+FAM   g.3.19.1
+FILE  d1uoya_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1uoya_.a3m -v 1 
+DATE  Tue Jan 22 03:12:38 2013
+LENG  64 match states, 64 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCEECCCCCCCCCCCCEEECCCCCCEEEECCCCCCEEECCCCCCCCCCCCCCCCC
+>ss_conf
+9767776766300267751468872000443343255069830011016674343247775449
+>Consensus
+DTCGxGYggDQRRTNsxxxxxngdrxFxxxxxxxxVECrxGrWTEiqDCxxstChGtndGxArC
+>d1uoya_ g.3.19.1 (A:) Bubble protein {Penicillium brevicompactum [TaxId: 5074]}
+DTCGSGYNVDQRRTNSGCKAGNGDRHFCGCDRTGVVECKGGKWTEVQDCGSSSCKGTSNGGATC
+>gi|255955141|ref|XP_002568323.1|(25-88:88) Pc21g12970 [Penicillium chrysogenum Wisconsin 54-1255] >gi|211590034|emb|CAP96194.1| Pc21g12970 [Penicillium chrysogenum Wisconsin 54-1255]  E=8e-23 s/c=1.72 id=78% cov=102%
+DTCGGGYGVDQRRTNSPCQASNGDRHFCGCDRTGIVECKGGKWTEIQDCGGASCRGVSQGGARC
+>gi|119467065|ref|XP_001257339.1|(30-93:93) hypothetical protein NFIA_047780 [Neosartorya fischeri NRRL 181] >gi|119405491|gb|EAW15442.1| conserved hypothetical protein [Neosartorya fischeri NRRL 181]  E=4e-19 s/c=1.53 id=72% cov=102%
+DTCGAGYGGDQRRTNSPCNASNGDRHFCGCDRTGVVECRGGRWTEIQDCRASTCHGTNDGAARC
+>gi|70981426|ref|XP_731495.1|(30-98:98) hypothetical protein AFUA_6G00610 [Aspergillus fumigatus Af293] >gi|66843864|gb|EAL84205.1| hypothetical protein AFUA_6G00610 [Aspergillus fumigatus Af293] >gi|159122712|gb|EDP47833.1| hypothetical protein AFUB_096860 [Aspergillus fumigatus A1163]  E=5e-18 s/c=1.37 id=49% cov=102%
+DTCGSGYGGDQRRTNRLVWYVNPSQledetSFAHGYSFKKVECRNGRWTEIQDCHASTCHGTNDGAARC
+>gi|116204043|ref|XP_001227832.1|(28-91:91) hypothetical protein CHGG_09905 [Chaetomium globosum CBS 148.51] >gi|88176033|gb|EAQ83501.1| hypothetical protein CHGG_09905 [Chaetomium globosum CBS 148.51]  E=7e-16 s/c=1.36 id=72% cov=102%
+DTCGAGYGGDQRRTNSPCQSSNGDRHFCGCDRTGVVECRGGKWTEIRDCGSGTCHGGNDGGAVC
+>gi|70981426|ref|XP_731495.1|(1-98:98) hypothetical protein AFUA_6G00610 [Aspergillus fumigatus Af293] >gi|66843864|gb|EAL84205.1| hypothetical protein AFUA_6G00610 [Aspergillus fumigatus Af293] >gi|159122712|gb|EDP47833.1| hypothetical protein AFUB_096860 [Aspergillus fumigatus A1163]  E=6e-27 s/c=0.93 id=48% cov=100%
+DTCGSGYGGDQRRTNrlvwyvNPSQLED-ETSFAHGYSFKKVECRNGRWTEIQDCHASTCHGTNDGAARC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 4    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1570	0	0	
+
+S 5    1760	*	*	*	*	2583	*	*	*	*	*	*	*	*	*	894	*	*	*	*	5
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1570	0	0	
+
+Y 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	7
+       0	*	*	*	*	*	*	1570	0	0	
+
+N 8    *	*	*	*	*	278	*	*	*	*	*	2515	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1570	0	0	
+
+V 9    *	*	*	*	*	603	*	*	*	*	*	*	*	*	*	*	*	1549	*	*	9
+       0	*	*	*	*	*	*	1570	0	0	
+
+D 10   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1570	0	0	
+
+Q 11   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1570	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1570	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	14
+       0	*	*	*	*	*	*	1570	0	0	
+
+N 15   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	15
+       282	2495	*	2585	263	*	*	1570	1000	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	2495	*	*	2430	650	*	*	*	*	16
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 17   *	*	*	*	*	2515	*	*	*	2430	*	*	645	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 18   *	650	*	*	*	*	*	*	*	*	*	*	*	*	*	2495	*	2430	*	*	18
+       0	*	*	*	*	*	*	1570	0	0	
+
+K 19   *	*	*	*	*	*	*	*	2515	*	*	2837	*	1001	*	*	*	*	2430	*	19
+       0	*	*	*	*	*	*	1570	0	0	
+
+A 20   1054	*	*	*	*	*	*	*	*	2495	*	*	*	*	*	2687	*	*	*	2430	20
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 21   *	*	*	2495	*	2515	*	*	*	*	*	*	*	*	*	1114	*	2430	*	*	21
+       0	*	*	*	*	*	*	1570	0	0	
+
+N 22   *	*	2495	*	*	*	*	*	*	*	*	282	*	*	*	*	*	*	*	*	22
+       282	*	2495	*	*	*	*	1570	0	0	
+
+G 23   *	*	*	*	*	444	*	*	*	*	*	*	1917	*	*	*	*	*	*	*	23
+       0	*	*	*	*	0	*	1515	0	1000	
+
+D 24   *	*	650	2495	*	*	*	*	*	*	*	*	*	*	*	2430	*	*	*	*	24
+       0	*	*	*	*	*	*	1570	0	0	
+
+R 25   *	*	*	*	*	*	*	*	*	*	*	*	*	2430	650	*	2495	*	*	*	25
+       296	2430	*	2322	322	*	*	1570	1000	0	
+
+H 26   *	*	*	*	*	*	650	*	*	*	*	*	*	*	*	1462	*	*	*	*	26
+       0	*	*	*	*	*	*	1570	0	0	
+
+F 27   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 28   1462	650	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 29   *	*	*	*	*	650	1462	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 30   *	650	*	*	*	1462	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1570	0	0	
+
+D 31   *	*	650	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1462	31
+       0	*	*	*	*	*	*	1570	0	0	
+
+R 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	650	1462	*	*	*	*	32
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 33   *	*	*	*	1462	*	*	*	*	*	*	*	*	*	*	*	650	*	*	*	33
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 34   *	*	*	*	*	650	*	*	1462	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1570	0	0	
+
+V 35   *	*	*	*	*	*	*	2583	1462	*	*	*	*	*	*	*	*	1089	*	*	35
+       0	*	*	*	*	*	*	1570	0	0	
+
+V 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	36
+       0	*	*	*	*	*	*	1570	0	0	
+
+E 37   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1570	0	0	
+
+K 39   *	*	*	*	*	*	*	*	1549	*	*	*	*	*	603	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 40   *	*	*	*	*	650	*	*	*	*	*	1462	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1570	0	0	
+
+K 42   *	*	*	*	*	*	*	*	1008	*	*	*	*	*	992	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1570	0	0	
+
+W 43   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	43
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	44
+       0	*	*	*	*	*	*	1570	0	0	
+
+E 45   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1570	0	0	
+
+V 46   *	*	*	*	*	*	*	278	*	*	*	*	*	*	*	*	*	2515	*	*	46
+       0	*	*	*	*	*	*	1570	0	0	
+
+Q 47   *	*	*	*	*	*	*	*	*	*	*	*	*	243	2687	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1570	0	0	
+
+D 48   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 49   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 50   *	*	*	*	*	1008	1462	*	*	*	*	*	*	*	2837	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1570	0	0	
+
+S 51   992	*	*	*	*	2583	*	*	*	*	*	*	*	*	*	1598	*	*	*	*	51
+       0	*	*	*	*	*	*	1570	0	0	
+
+S 52   2583	*	*	*	*	2687	*	*	*	*	*	*	*	*	*	561	*	*	*	*	52
+       0	*	*	*	*	*	*	1570	0	0	
+
+S 53   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1549	603	*	*	*	53
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 54   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1570	0	0	
+
+K 55   *	*	*	*	*	*	603	*	2515	*	*	*	*	*	2583	*	*	*	*	*	55
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 56   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 57   *	*	*	*	*	2687	*	*	*	*	*	*	*	*	*	*	561	2583	*	*	57
+       0	*	*	*	*	*	*	1570	0	0	
+
+S 58   *	*	*	*	*	*	*	*	*	*	*	603	*	*	*	1549	*	*	*	*	58
+       0	*	*	*	*	*	*	1570	0	0	
+
+N 59   *	*	603	*	*	*	*	*	*	*	*	2515	*	2583	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 60   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1570	0	0	
+
+G 61   992	*	*	*	*	1008	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1570	0	0	
+
+A 62   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	1570	0	0	
+
+T 63   *	*	*	*	*	*	*	*	*	*	*	*	*	*	578	*	2515	2687	*	*	63
+       0	*	*	*	*	*	*	1570	0	0	
+
+C 64   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	0	*	*	*	1570	0	0	
+
+//

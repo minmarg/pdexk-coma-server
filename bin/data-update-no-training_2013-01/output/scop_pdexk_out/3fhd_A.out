@@ -1,0 +1,215 @@
+Query         3fhd_A herpesviral protein SOX, PDEXK superfamily
+Match_columns 143
+No_of_seqs    53 out of 55
+Neff          3.9 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:19 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3fhd_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3fhd_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3fhd_A herpesviral protein SOX 100.0       0       0  456.3  13.4  143    1-143     1-143 (143)
+  2 2w45_A Nuclease, alkaline exon 100.0       0       0  390.4  11.3  132   11-143     2-133 (276)
+  3 d1avqa_ c.52.1.13 (A:) lambda   96.8 0.00063 4.6E-08   41.2   4.5   66    6-87     72-137 (228)
+  4 3k93_A Phage related exonuclea  89.9    0.13 9.7E-06   27.9   3.5   62   10-88      1-62  (141)
+  5 d1mpga2 d.129.1.2 (A:1-99) 3-M  38.4     8.5 0.00061   17.7   2.2   22  112-133    13-34  (99)
+  6 d1go3e2 d.230.1.1 (E:1-78) N-t  37.6      31  0.0023   14.5   5.0   58   15-86     17-74  (78)
+  7 d2c35b2 d.230.1.1 (B:1-77) N-t  35.8      33  0.0024   14.3   4.9   59   15-87     17-75  (77)
+  8 d1y14b2 d.230.1.1 (B:1-80) N-t  20.7      85  0.0062   12.0   4.8   61   15-87     17-77  (80)
+  9 3fqi_A Protein DOM3Z, DOM-3 ho  15.6 1.3E+02  0.0097   10.8   4.8   73   48-134    70-143 (145)
+ 10 d1gria1 b.34.2.1 (A:1-56) Grow  15.4      21  0.0016   15.4   0.7   17   82-98      1-17  (56)
+
+No 1  
+>3fhd_A herpesviral protein SOX, PDEXK superfamily
+Probab=100.00  E-value=0  Score=456.32  Aligned_columns=143  Identities=100%
+
+Q ss_pred             CCEEECCCCCCHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEE
+Q ss_conf             91120155885443105447578999987641378875555510344777731222120131563887607656986177
+Q 3fhd_A            1 FHWAVKQQNTSKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVY   80 (143)
+Q Consensus         1 f~~~~kqq~~s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iy   80 (143)
+                      ||||||||++|+||+||++||++||+||++|+++++|++++|||||||+|||||||||||+||++|++|+|+++|+++||
+T Consensus         1 f~~~~kqq~~s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iy   80 (143)
+T 3fhd_A            1 FHWAVKQQNTSKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVY   80 (143)
+T ss_pred             CCEEECCCCCCHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEE
+T ss_conf             91120155885443105447578999987641378875555510344777731222120131563887607656986177
+
+
+Q ss_pred             EEEECCEECCCCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCC
+Q ss_conf             764020011484446411689999873778879999987468980563338665784321349
+Q 3fhd_A           81 EIKCRFKYTFAKMECDPIYAAYQRLYEAPGKLALKDFFYSISKPAVEYVGLGKLPSESDYLVA  143 (143)
+Q Consensus        81 EIKCR~KYlf~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~si~~P~VEy~~~g~~Ps~~E~Lvt  143 (143)
+                      ||||||||||+|+|+||++++|++||++|++++|++||+||++||||||++|++||++|||||
+T Consensus        81 EIKCR~KYlf~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~si~~P~VEy~~~g~~Ps~~E~Lvt  143 (143)
+T 3fhd_A           81 EIKCRFKYTFAKMECDPIYAAYQRLYEAPGKLALKDFFYSISKPAVEYVGLGKLPSESDYLVA  143 (143)
+T ss_pred             EEEECCEECCCCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCC
+T ss_conf             764020011484446411689999873778879999987468980563338665784321349
+
+
+No 2  
+>2w45_A Nuclease, alkaline exonuclease; endonuclease, gamma-herpesviru
+Probab=100.00  E-value=0  Score=390.38  Aligned_columns=132  Identities=47%
+
+Q ss_pred             CHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCEECC
+Q ss_conf             54431054475789999876413788755555103447777312221201315638876076569861777640200114
+Q 3fhd_A           11 SKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFKYTF   90 (143)
+Q Consensus        11 s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~KYlf   90 (143)
+                      +++|.||++||++||+||++|+++++|++++|||||||+|||||||||||+|+ +++++.|.+++++.||||||||||||
+T Consensus         2 a~av~FG~~~E~~vk~Ll~~~~~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~-~~~~~~l~~~~~~~iyEIKCR~KYlf   80 (276)
+T 2w45_A            2 GGPVAFGLRCEDTVKDIVCKLICGDASANRQFGFMISPTDGIFGVSLDLCVNV-ESQGDFILFTDRSCIYEIKCRFKYLF   80 (276)
+T ss_pred             CCHHHHCCCCHHHHHHHHHHEECCCCCCCCCCCEEECCCCCEEEEEEEEEEEC-CCCCCCEECCCCCCEEEEEECCEECC
+T ss_conf             50224210265789988763001786656655104547777435454544404-77778123078860688760300114
+
+
+Q ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCC
+Q ss_conf             84446411689999873778879999987468980563338665784321349
+Q 3fhd_A           91 AKMECDPIYAAYQRLYEAPGKLALKDFFYSISKPAVEYVGLGKLPSESDYLVA  143 (143)
+Q Consensus        91 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~si~~P~VEy~~~g~~Ps~~E~Lvt  143 (143)
+                      +|+|+||++++|++||++|++++|++||+||++||||||++|++||++|||||
+T Consensus        81 ~~~d~~pl~~~y~~ll~~p~~~~~~~Fi~Si~~P~VEy~~~g~~Ps~~E~Lvt  133 (276)
+T 2w45_A           81 SKSEFDPIYPSYTALYKRPCKRSFIRFINSIARPTVEYVPDGRLPSEGDYLLT  133 (276)
+T ss_pred             CCCCCCHHHHHHHHHHHCCCHHHHHHHHHHCCCCEEEEECCCCCCCCCCEEEE
+T ss_conf             80124224799999984789889999997468980785348666863212442
+
+
+No 3  
+>d1avqa_ c.52.1.13 (A:) lambda exonuclease {Bacteriophage lambda [TaxId: 10710]}
+Probab=96.83   E-value=0.00063  Score=41.17  Aligned_columns=66  Identities=21%
+
+Q ss_pred             CCCCCCHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEEC
+Q ss_conf             15588544310544757899998764137887555551034477773122212013156388760765698617776402
+Q 3fhd_A            6 KQQNTSKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCR   85 (143)
+Q Consensus         6 kqq~~s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR   85 (143)
+                      +....++.+..|..+|+.++...+...   ......||+++++.-..+|||.|-.++   +          -.+.||||-
+T Consensus        72 ~~~~~n~a~~~G~~~E~~a~~~~~~~~---~~~v~~~g~~~~~~~~~~~ASpDg~i~---~----------~~~lEiKcp  135 (228)
+T d1avqa_          72 APEVNAKALAWGKQYENDARTLFEFTS---GVNVTESPIIYRDESMRTACSPDGLCS---D----------GNGLELKCP  135 (228)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHHHHHH---CCEEEECCEEECCCCCCCEECCCCEEE---C----------CCEEEEECC
+T ss_conf             876774888862752799999999974---672342454772687741006432133---1----------623687534
+
+
+Q ss_pred             CE
+Q ss_conf             00
+Q 3fhd_A           86 FK   87 (143)
+Q Consensus        86 ~K   87 (143)
+                      +.
+T Consensus       136 ~~  137 (228)
+T d1avqa_         136 FT  137 (228)
+T ss_pred             CC
+T ss_conf             31
+
+
+No 4  
+>3k93_A Phage related exonuclease; structural genomics, joint center f
+Probab=89.93   E-value=0.13  Score=27.94  Aligned_columns=62  Identities=15%
+
+Q ss_pred             CCHHHCCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCEE
+Q ss_conf             8544310544757899998764137887555551034477773122212013156388760765698617776402001
+Q 3fhd_A           10 TSKKIFSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFKY   88 (143)
+Q Consensus        10 ~s~~i~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~KY   88 (143)
+                      .++.+..|...|+.|+.+.+..- +..  ..-++  ..+....+|||.|-.+.   +         .-.+.||||=+.+
+T Consensus         1 GN~~t~~G~~lE~~a~~~~~~~~-g~~--v~~~~--~~~~~~~l~aspDg~~~---~---------~~~ilEIKcp~~~   62 (141)
+T 3k93_A            1 GNKYTQKGNELEEQAIKLSGVTR-GLA--LKKNT--ERRENEFITGECDIYVP---S---------RKLIIDTKCSWDI   62 (141)
+T ss_pred             CCHHHHHHHHHHHHHHHHHHHHH-CCE--EEECC--CCCCCCCEEECCCCEEC---C---------CCCEEECCCCCCC
+T ss_conf             96577862611699999998875-881--01044--40034630203252453---8---------8810102542000
+
+
+No 5  
+>d1mpga2 d.129.1.2 (A:1-99) 3-Methyladenine DNA glycosylase II (gene alkA or aidA) {Escherichia coli [TaxId: 562]}
+Probab=38.43   E-value=8.5  Score=17.68  Aligned_columns=22  Identities=18%
+
+Q ss_pred             HHHHHHHHHCCCCEEEEECCCC
+Q ss_conf             7999998746898056333866
+Q 3fhd_A          112 LALKDFFYSISKPAVEYVGLGK  133 (143)
+Q Consensus       112 ~~~~~Fi~si~~P~VEy~~~g~  133 (143)
+                      ..+.+|+....+||||.+.++.
+T Consensus        13 ~~ll~Fl~~Rai~GvE~v~~~~   34 (99)
+T d1mpga2          13 SWMLGFLAARAVSSVETVADSY   34 (99)
+T ss_pred             HHHHHHHHHCCCCCCEEECCCC
+T ss_conf             8999998730025515762990
+
+
+No 6  
+>d1go3e2 d.230.1.1 (E:1-78) N-terminal, heterodimerisation domain of RBP7 (RpoE) {Archaeon Methanococcus jannaschii [TaxId: 2190]}
+Probab=37.60   E-value=31  Score=14.47  Aligned_columns=58  Identities=24%
+
+Q ss_pred             CCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECC
+Q ss_conf             105447578999987641378875555510344777731222120131563887607656986177764020
+Q 3fhd_A           15 FSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRF   86 (143)
+Q Consensus        15 ~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~   86 (143)
+                      .||..-+.+++..|..-+.++  ...++|+.+..            .++..-.+|.+.+..+...|+++-|+
+T Consensus        17 ~l~~~~~~~i~~~L~~~~egk--~~~~~GliI~v------------~di~~i~~G~I~~gdG~~~~~V~F~~   74 (78)
+T d1go3e2          17 EFGKDLKETVKKILMEKYEGR--LDKDVGFVLSI------------VDVKDIGEGKVVHGDGSAYHPVVFET   74 (78)
+T ss_pred             HCCCCHHHHHHHHHHHHHCCE--ECCCCCEEEEE------------EEEEECCCCEEECCCCEEEEEEEEEE
+T ss_conf             828787899999887874782--41785279997------------64324479888618980799999999
+
+
+No 7  
+>d2c35b2 d.230.1.1 (B:1-77) N-terminal, heterodimerisation domain of RBP7 (RpoE) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=35.82   E-value=33  Score=14.30  Aligned_columns=59  Identities=24%
+
+Q ss_pred             CCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCE
+Q ss_conf             1054475789999876413788755555103447777312221201315638876076569861777640200
+Q 3fhd_A           15 FSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFK   87 (143)
+Q Consensus        15 ~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~K   87 (143)
+                      .||..-+.+++..|..-+.++  ...++|+.+..        .|    +..-.+|.+.++.++..|+++.|+-
+T Consensus        17 ~l~~~~~~~i~~~L~~kyegk--v~~~~G~iI~v--------~d----i~~i~~g~I~~gdG~~~~~V~F~ai   75 (77)
+T d2c35b2          17 YFGPNLLNTVKQKLFTEVEGT--CTGKYGFVIAV--------TT----IDNIGAGVIQPGRGFVLYPVKYKAI   75 (77)
+T ss_pred             HCCCCHHHHHHHHHHHHHCCE--EECCCCEEEEE--------EE----EEECCCCEEECCCCEEEEEEEEEEE
+T ss_conf             629877899999865640857--81785389997--------75----2124897885299837998999998
+
+
+No 8  
+>d1y14b2 d.230.1.1 (B:1-80) N-terminal, heterodimerisation domain of RBP7 (RpoE) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Probab=20.73   E-value=85  Score=11.97  Aligned_columns=61  Identities=20%
+
+Q ss_pred             CCCCCCHHHHHHHHHHHHCCCCCCCCCCCEEECCCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCE
+Q ss_conf             1054475789999876413788755555103447777312221201315638876076569861777640200
+Q 3fhd_A           15 FSGLRCEEVVKTLLATLLHPDETNCLDYGFMQSPQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFK   87 (143)
+Q Consensus        15 ~fG~~~E~~vktLl~~~v~~~~~~~~~~GlLiDp~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~K   87 (143)
+                      .||..-+.+++..|..-+.++  ...++|+-+...+      +|    ...-.+|.+.++.++..|+++.|+-
+T Consensus        17 ~l~~~~~~~i~~~L~~~~egk--~~~~~G~ii~V~~------~d----~~~i~~G~I~~gdG~~~~~V~f~ai   77 (80)
+T d1y14b2          17 FFGPRMKQYLKTKLLEEVEGS--CTGKFGYILCVLD------YD----NIDIQRGRILPTDGSAEFNVKYRAV   77 (80)
+T ss_pred             HCCCCHHHHHHHHHHHHHCCE--EECCCCEEEEEEE------EE----CCCCCCCEEECCCCEEEEEEEEEEE
+T ss_conf             809236889999876650877--8248657999862------20----2102598786289837998999899
+
+
+No 9  
+>3fqi_A Protein DOM3Z, DOM-3 homolog Z; hydrolase, protein binding; HE
+Probab=15.62   E-value=1.3e+02  Score=10.85  Aligned_columns=73  Identities=14%
+
+Q ss_pred             CCCCEEEEEHHHEECCCCCCCCEEEECCCCEEEEEEECCEECCCCCCCCHHHHHHHHHHHCCC-HHHHHHHHHHCCCCEE
+Q ss_conf             777731222120131563887607656986177764020011484446411689999873778-8799999874689805
+Q 3fhd_A           48 PQNGIFGVSLDFAANVKTDTEGRLQFDPNCKVYEIKCRFKYTFAKMECDPIYAAYQRLYEAPG-KLALKDFFYSISKPAV  126 (143)
+Q Consensus        48 p~sG~~GASLD~c~~~~~d~~g~L~~~~~~~iyEIKCR~KYlf~~~d~~pl~~~y~~ll~~p~-~~~~~~Fi~si~~P~V  126 (143)
+                      .++=++||-+| |+. +.++..    .+....-|+||+ +-+-++.+       .+....... .-+...||.+|+.=-|
+T Consensus        70 ~~~ll~~aEvD-~v~-~~~~~~----~~~~~yvELKt~-~~~~~~~~-------~~~f~r~K~lk~w~QsfL~Gi~~Ivv  135 (145)
+T 3fqi_A           70 NHPLLFSGEVD-CLN-PQAPCT----QPPSCYVELKTS-KEMHSPGQ-------WRSFYRHKLLKWWAQSFLPGVPHVVA  135 (145)
+T ss_pred             CCCEEEECCEE-CCC-CCCCCC----CCCCCEEEEEEE-EEECCCHH-------HHHHHHHHHHHHHHHHHHCCCCEEEE
+T ss_conf             40027621010-124-766788----888765888765-20068235-------66886777888988875079885899
+
+
+Q ss_pred             EEECCCCC
+Q ss_conf             63338665
+Q 3fhd_A          127 EYVGLGKL  134 (143)
+Q Consensus       127 Ey~~~g~~  134 (143)
+                      -|+.+.++
+T Consensus       136 G~Rd~~g~  143 (145)
+T 3fqi_A          136 GFRNPEGF  143 (145)
+T ss_pred             EEECCCCC
+T ss_conf             87679951
+
+
+No 10 
+>d1gria1 b.34.2.1 (A:1-56) Growth factor receptor-bound protein 2 (GRB2), N- and C-terminal domains {Human (Homo sapiens) [TaxId: 9606]}
+Probab=15.45   E-value=21  Score=15.39  Aligned_columns=17  Identities=24%
+
+Q ss_pred             EEECCEECCCCCCCCHH
+Q ss_conf             64020011484446411
+Q 3fhd_A           82 IKCRFKYTFAKMECDPI   98 (143)
+Q Consensus        82 IKCR~KYlf~~~d~~pl   98 (143)
+                      +||++.|-|.+.+.+.|
+T Consensus         1 ~~a~Alydy~~~~~~eL   17 (56)
+T d1gria1           1 MEAIAKYDFKATADDEL   17 (56)
+T ss_pred             CEEEEECCCCCCCCCCC
+T ss_conf             97677458798679822
+
+
+Done!

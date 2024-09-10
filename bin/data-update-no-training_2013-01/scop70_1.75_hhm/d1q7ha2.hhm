@@ -1,0 +1,240 @@
+HHsearch 1.5
+NAME  d1q7ha2 d.17.6.2 (A:3-68) Hypothetical protein Ta1423, N-terminal domain {Archaeon Thermoplasma acidophilum [TaxId: 2303]}
+FAM   d.17.6.2
+FILE  d1q7ha2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1q7ha2.a3m -v 1 
+DATE  Tue Jan 22 01:21:06 2013
+LENG  66 match states, 66 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCHHHHHHHHHHHHHCCCCCCCCCEEEECCCCEEEEEECCEEEEEECCCCCEEEEEEECCCC
+>ss_conf
+976444256899999998708754665112102554178876794787547875414456422799
+>Consensus
+srHxlSkKdxkxxxxkixxygIDisxxxiEVgkeKkxxxYyxxgxplxFfxxxLIPTLxllnxxnp
+>d1q7ha2 d.17.6.2 (A:3-68) Hypothetical protein Ta1423, N-terminal domain {Archaeon Thermoplasma acidophilum [TaxId: 2303]}
+SKHFISKKEAKRIWEQMSRYGIDITGESLEVAAQKSASAYYIGGKPMVFQAGDLIPSVYLLNYRNP
+>gi|227831140|ref|YP_002832920.1|(3-61:152) RNA-binding protein [Sulfolobus islandicus L.S.2.15] >gi|229580025|ref|YP_002838425.1| RNA-binding protein [Sulfolobus islandicus Y.G.57.14] >gi|229581314|ref|YP_002839713.1| putative RNA-binding protein [Sulfolobus islandicus Y.N.15.51] >gi|227457588|gb|ACP36275.1| Protein of unknown function DUF1947 [Sulfolobus islandicus L.S.2.15] >gi|228010741|gb|ACP46503.1| Protein of unknown function DUF1947 [Sulfolobus islandicus Y.G.57.14] >gi|228012030|gb|ACP47791.1| Protein of unknown function DUF1947 [Sulfolobus islandicus Y.N.15.51]  E=6e-07 s/c=0.97 id=36% cov=85%
+-RHIMSSKDAKIFINKIKEkYNIDISNAKLEVGKEKKETWYYV-NDILAFFD-DLIPTL--------
+>gi|13542272|ref|NP_111960.1|(4-68:153) RNA-binding protein [Thermoplasma volcanium GSS1] >gi|14325705|dbj|BAB60608.1| hypothetical protein [Thermoplasma volcanium GSS1]  E=6e-16 s/c=1.34 id=55% cov=100%
+-KHFLSKRELKVLVSSAAEIGIDLSGEEVEVSSSHKVSCYYIKGKPMAFQTDRLIPSVYLLNYKNP
+>gi|374632930|ref|ZP_09705297.1|(3-63:154) universal archaeal PUA-domain protein [Metallosphaera yellowstonensis MK1] >gi|373524414|gb|EHP69291.1| universal archaeal PUA-domain protein [Metallosphaera yellowstonensis MK1]  E=1e-14 s/c=1.36 id=37% cov=91%
+-KHLLSQKERKEFLSRIKAlYGVDLSSENVEIGKEKKLIYYYLDGK-LSFFTEDLIPTLCFL-----
+>gi|15922669|ref|NP_378338.1|(3-65:159) putative RNA-binding protein [Sulfolobus tokodaii str. 7] >gi|15623459|dbj|BAB67447.1| hypothetical protein STK_23380 [Sulfolobus tokodaii str. 7]  E=2e-11 s/c=1.15 id=32% cov=95%
+-RHFLSEKDSKKLISEIKnKYGINIEGR-IEIGKEKKEVYYFIDGL-LSFFSEELIPTLCFIRKYN-
+>gi|257076136|ref|ZP_05570497.1|(2-64:149) PUA domain-containing protein [Ferroplasma acidarmanus fer1]   E=5e-10 s/c=1.07 id=38% cov=95%
+SKHILSKKDYRAFMEKLSAFNIDGTSmADIEVETNKKNEVYYFSGKPVFYNG---MPTLYLINYLK-
+>gi|332796746|ref|YP_004458246.1|(3-66:152) hypothetical protein Ahos_1064 [Acidianus hospitalis W1] >gi|332694481|gb|AEE93948.1| conserved hypothetical protein [Acidianus hospitalis W1]  E=2e-07 s/c=0.92 id=30% cov=86%
+-RHFLSEKETEELLEKIKEkYNISLSPQKVEIGKEKKEVYYFLDGV-LSFFSQDLIPTL--------
+>gi|330835738|ref|YP_004410466.1|(3-64:155) putative RNA-binding protein [Metallosphaera cuprina Ar-4] >gi|329567877|gb|AEB95982.1| putative RNA-binding protein [Metallosphaera cuprina Ar-4]  E=2e-14 s/c=1.32 id=27% cov=91%
+-KHVLSQKDMREFKNKIKMlYNIDINANKIEIGKDKKRVFYFLDDV-LCFFDDKLIPTLCFL-----
+>gi|146302978|ref|YP_001190294.1|(3-62:155) RNA-binding protein [Metallosphaera sedula DSM 5348] >gi|145701228|gb|ABP94370.1| RNA-binding protein, containing PUA domain [Metallosphaera sedula DSM 5348]  E=8e-14 s/c=1.33 id=30% cov=91%
+-RHLLSQKEAKEFKEKVRNlYGVDLTSDKIEIGKEKRQLFYFVDDV-LSFFGENLTPTLCFL-----
+>gi|48477515|ref|YP_023221.1|(2-65:151) RNA-binding protein [Picrophilus torridus DSM 9790] >gi|48430163|gb|AAT43028.1| PUA domain protein [Picrophilus torridus DSM 9790]  E=5e-10 s/c=1.06 id=42% cov=97%
+SRHMISKKDFKYIKARMESLGIDISNlSDLEVEQLKNSTIYYYSNMPVIYND---IPTLYLLNNIKP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	1873	*	*	*	460	*	*	*	*	1
+       0	*	*	*	*	*	*	2237	0	0	
+
+K 2    *	*	*	*	*	*	*	*	1007	*	*	*	*	*	993	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2854	0	0	
+
+H 3    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2854	0	0	
+
+F 4    *	*	*	*	1385	*	*	2406	*	2108	3145	*	*	*	*	*	*	3584	*	*	4
+       0	*	*	*	*	*	*	2854	0	0	
+
+I 5    *	*	*	*	*	*	*	2143	*	533	3603	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2854	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	6
+       0	*	*	*	*	*	*	2854	0	0	
+
+K 7    *	*	3651	2798	*	*	*	*	1125	*	*	*	*	2084	*	3603	*	*	*	*	7
+       0	*	*	*	*	*	*	2854	0	0	
+
+K 8    *	*	*	*	*	*	*	*	194	*	*	*	*	*	2992	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2854	0	0	
+
+E 9    *	*	903	1104	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 10   1840	*	*	*	3145	*	*	*	3651	2992	3584	*	*	*	3862	3835	3761	*	*	3232	10
+       0	*	*	*	*	*	*	2854	0	0	
+
+K 11   *	*	*	3761	*	*	*	*	606	*	*	*	*	*	1892	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2854	0	0	
+
+R 12   3232	*	3651	1692	*	*	*	3603	3835	*	*	*	*	*	3142	*	*	2992	*	3145	12
+       0	*	*	*	*	*	*	2854	0	0	
+
+I 13   *	*	*	*	988	*	*	2143	*	1892	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2854	0	0	
+
+W 14   *	*	*	*	*	*	*	2714	1836	2170	3232	*	*	*	*	*	*	2992	3142	*	14
+       0	*	*	*	*	*	*	2854	0	0	
+
+E 15   3145	*	*	1407	*	*	*	*	*	*	*	2593	*	*	*	1539	*	*	*	*	15
+       0	*	*	*	*	*	*	2854	0	0	
+
+Q 16   *	*	*	3835	*	*	*	*	974	*	*	*	*	3142	2459	2992	*	*	*	*	16
+       0	*	*	*	*	*	*	2854	0	0	
+
+M 17   2992	*	*	*	*	*	*	1402	*	3232	2143	*	*	*	*	*	*	2615	*	*	17
+       0	*	*	*	*	*	*	2854	0	0	
+
+S 18   2992	*	*	3145	*	*	*	*	1127	*	*	*	*	*	3580	2186	*	*	*	*	18
+       234	2740	*	0	*	*	*	2854	1255	0	
+
+R 19   2513	*	*	1827	*	*	*	*	2740	*	3584	3580	*	*	3142	3145	*	*	*	*	19
+       718	1352	*	0	*	*	*	2854	1807	0	
+
+Y 20   *	*	*	*	3232	*	*	2992	*	3145	*	*	*	*	*	*	*	*	*	611	20
+       0	*	*	*	*	*	*	2854	0	0	
+
+G 21   *	*	*	*	*	800	*	*	*	*	*	1233	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2854	0	0	
+
+I 22   *	*	*	*	*	*	*	239	*	*	*	*	*	*	*	*	*	2714	*	*	22
+       0	*	*	*	*	*	*	2854	0	0	
+
+D 23   *	*	365	3651	*	*	*	*	*	*	*	3835	*	*	*	3761	*	*	*	*	23
+       0	*	*	*	*	*	*	2854	0	0	
+
+I 24   *	*	*	*	*	3232	*	1114	*	1213	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2854	0	0	
+
+T 25   *	*	*	2740	*	*	*	*	*	*	*	3584	*	*	*	1109	1721	*	*	*	25
+       0	*	*	*	*	*	*	2854	0	0	
+
+G 26   3584	*	*	*	*	1363	*	*	*	*	*	2356	3761	*	*	1950	*	*	*	*	26
+       357	2188	*	0	*	*	*	2854	1478	0	
+
+E 27   2406	*	3580	1700	*	*	*	*	*	*	*	3584	*	2705	3835	3145	*	*	*	*	27
+       234	*	2740	*	*	*	*	2854	0	0	
+
+S 28   *	*	2051	2829	*	*	*	*	1297	*	*	3551	*	*	*	2990	*	*	*	*	28
+       0	*	*	*	*	0	*	2767	0	1255	
+
+L 29   *	*	*	*	*	*	*	1241	*	1696	*	*	*	*	*	*	*	1898	*	*	29
+       0	*	*	*	*	*	*	2854	0	0	
+
+E 30   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2854	0	0	
+
+V 31   *	*	*	*	*	*	*	1397	*	*	*	*	*	*	*	*	*	689	*	*	31
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 32   3142	*	*	2188	*	885	*	*	*	*	*	*	*	*	*	2992	*	*	*	*	32
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 33   3142	*	*	*	*	*	*	*	885	*	*	*	*	3145	*	2992	3232	*	*	*	33
+       0	*	*	*	*	*	*	2854	0	0	
+
+Q 34   *	*	3584	1126	*	*	*	*	*	3145	*	3232	*	3142	*	2992	*	*	*	*	34
+       0	*	*	*	*	*	*	2854	0	0	
+
+K 35   *	*	*	*	*	*	2992	*	194	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2854	0	0	
+
+S 36   *	*	*	*	*	*	*	*	535	*	*	3145	*	*	3580	3142	*	*	*	*	36
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 37   3142	*	*	1710	*	*	*	*	*	3862	*	3232	*	3580	3584	3145	*	2992	*	*	37
+       0	*	*	*	*	*	*	2854	0	0	
+
+S 38   *	*	*	3232	*	*	*	3862	*	2615	*	*	*	*	*	2065	2356	2138	*	*	38
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 39   3142	2992	*	*	2582	*	*	3145	*	*	*	*	*	*	*	*	*	3232	3603	1775	39
+       0	*	*	*	*	*	*	2854	0	0	
+
+Y 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	40
+       0	*	*	*	*	*	*	2854	0	0	
+
+Y 41   *	*	*	*	1357	*	*	*	*	*	*	*	*	*	*	*	*	*	*	714	41
+       0	*	*	*	*	*	*	2854	0	0	
+
+I 42   *	*	*	*	3232	*	*	1694	*	2146	*	*	*	*	*	*	*	2026	*	3145	42
+       124	*	3603	*	*	*	*	2854	0	0	
+
+G 43   *	*	1281	*	*	3031	*	*	2903	*	*	3531	*	*	*	2024	*	*	*	*	43
+       0	*	*	*	*	0	*	2832	0	1000	
+
+G 44   *	*	2582	*	*	649	*	*	*	*	*	2356	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2854	0	0	
+
+K 45   *	*	3603	*	*	*	*	*	1272	2740	3145	*	*	*	*	*	*	2054	*	*	45
+       887	*	1123	*	*	*	*	2854	0	0	
+
+P 46   *	*	*	*	*	*	*	2320	*	*	*	*	322	*	*	*	*	*	*	*	46
+       0	*	*	*	*	0	*	2350	0	1854	
+
+M 47   *	*	*	*	*	*	*	*	*	885	2065	*	*	*	*	*	*	2188	*	*	47
+       0	*	*	*	*	*	*	2854	0	0	
+
+V 48   2265	3584	*	*	3232	*	*	3145	*	*	*	*	*	*	*	1412	*	3142	*	*	48
+       0	*	*	*	*	*	*	2854	0	0	
+
+F 49   *	*	*	*	357	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2188	49
+       0	*	*	*	*	*	*	2854	0	0	
+
+Q 50   *	*	*	*	885	*	*	*	*	*	*	2188	*	2065	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2854	0	0	
+
+A 51   3142	*	1843	*	*	2396	*	*	*	*	*	*	*	*	*	2162	2362	*	*	*	51
+       518	*	1728	*	*	*	*	2854	0	0	
+
+G 52   *	*	1744	1232	*	2500	*	*	*	*	*	*	*	3337	*	*	*	*	*	*	52
+       0	*	*	*	*	1522	618	2402	0	1778	
+
+D 53   *	*	1165	2451	*	*	*	*	3248	*	*	3226	*	*	2653	*	*	*	*	*	53
+       0	*	*	*	*	*	0	2486	0	1479	
+
+L 54   *	*	*	*	*	*	*	3360	*	148	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	0	*	2486	0	1479	
+
+I 55   *	*	*	*	*	*	*	304	*	*	3232	*	*	*	*	*	3580	*	*	*	55
+       0	*	*	*	*	*	*	2854	0	0	
+
+P 56   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2854	0	0	
+
+S 57   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2065	394	*	*	*	57
+       0	*	*	*	*	*	*	2854	0	0	
+
+V 58   *	*	*	*	*	*	*	*	*	394	*	*	*	*	*	*	*	2065	*	*	58
+       0	*	*	*	*	*	*	2854	0	0	
+
+Y 59   *	1166	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	851	59
+       0	*	*	*	*	*	*	2714	0	0	
+
+L 60   *	*	*	*	1166	*	*	*	*	851	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2714	0	0	
+
+L 61   *	*	*	*	*	*	*	1987	*	420	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2714	0	0	
+
+N 62   *	*	*	*	*	*	*	*	*	*	*	376	*	*	2123	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2436	0	0	
+
+Y 63   *	*	*	*	*	*	*	*	2123	*	*	2375	*	*	*	*	*	*	*	792	63
+       0	*	*	*	*	*	*	2436	0	0	
+
+R 64   *	*	*	*	*	*	*	2375	2321	2349	*	*	*	*	2464	*	*	*	*	2123	64
+       0	*	*	*	*	*	*	2436	0	0	
+
+N 65   *	*	*	*	*	*	*	*	1362	*	*	711	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2436	0	0	
+
+P 66   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	66
+       0	*	*	0	*	*	*	1786	0	0	
+
+//

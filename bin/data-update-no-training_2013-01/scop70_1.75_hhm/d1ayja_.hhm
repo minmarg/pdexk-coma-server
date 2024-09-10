@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d1ayja_ g.3.7.5 (A:) Antifungal protein 1 (RS-AFP1) {Radish (Raphanus sativus) [TaxId: 3726]}
+FAM   g.3.7.5
+FILE  d1ayja_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ayja_.a3m -v 1 
+DATE  Mon Jan 21 18:47:14 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  34 out of 36 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEECCCCCCHHHHHHHCCCCCCCCCCCCCCCCCEEEECCC
+>ss_conf
+965566787413323787011343110013346754355898412564189
+>Consensus
+xklCerxSxTwsGxCxxsxxCxxqCixxExAxhGaChxxfxxxxCfCYFxC
+>d1ayja_ g.3.7.5 (A:) Antifungal protein 1 (RS-AFP1) {Radish (Raphanus sativus) [TaxId: 3726]}
+EKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+>gi|104745457|gb|ABF74600.1|(30-76:76) defensin precursor [Trichosanthes kirilowii]   E=2e-07 s/c=1.25 id=60% cov=94%
+-RTCQRASQTWKGVCFRNEKCRNNCLR-EKARTGNCKYVFRA--CICYFPC
+>gi|319992791|emb|CBJ55934.1|(41-90:92) plant defensin [Bupleurum kaoi]   E=3e-07 s/c=1.17 id=55% cov=100%
+EQLCERASQTWSGDCKNTKNCDNQCIQWEKARHGACHKRGGKWMCFCYFD-
+>gi|291482326|emb|CBK62703.1|(1-50:140) ragweed homologue of Art v 1 precursor [Ambrosia artemisiifolia]   E=8e-05 s/c=1.00 id=43% cov=100%
+-KICEKPSLTWSGECEDTDKCDKKCSDWEGAKHGACHVRESKSMCFCYFDC
+>gi|255538712|ref|XP_002510421.1|(30-79:79) Low-molecular-weight cysteine-rich protein LCR78 precursor, putative [Ricinus communis] >gi|223551122|gb|EEF52608.1| Low-molecular-weight cysteine-rich protein LCR78 precursor, putative [Ricinus communis]  E=9e-11 s/c=1.40 id=51% cov=100%
+-KVCQRRSKTWSGFCGSTKNCDRQCKNWEGALHGACHAQFPGVACFCYFKC
+>gi|388514949|gb|AFK45536.1|(87-136:136) unknown [Medicago truncatula]   E=2e-07 s/c=1.17 id=47% cov=100%
+-KLCERRSKTWSGPCLISGNCKRQCINVEHATSGACHRQGIGFACFCKKKC
+>gi|387848938|dbj|BAM15661.1|(23-74:78) thionin, partial [Barbarea vulgaris]   E=3e-08 s/c=1.19 id=61% cov=100%
+-KRCEKRnsSTSFSGVCQYDNACMNQCINLEGAQDGKCNNAVPTPKCICYFPC
+>gi|297848222|ref|XP_002891992.1|(31-80:80) hypothetical protein ARALYDRAFT_892869 [Arabidopsis lyrata subsp. lyrata] >gi|297337834|gb|EFH68251.1| hypothetical protein ARALYDRAFT_892869 [Arabidopsis lyrata subsp. lyrata]  E=3e-07 s/c=1.17 id=43% cov=100%
+-KVCKRYSDSSSGVCILSSRCNSRCINTEKAKFGACHVDTHGRACFCYFNC
+>gi|341604885|gb|AEK82126.1|(27-75:120) defensin-like protein [Datisca glomerata]   E=0.0008 s/c=0.96 id=39% cov=96%
+--LCGRKSETFQGHCMISSRCNHRCRRWENAARGVCQRSFGLTKeCHCYFD-
+>gi|226694227|sp|P0C8Y5.1|DEF1_HEUSA(4-54:54) RecName: Full=Defensin-like protein 1; AltName: Full=Cysteine-rich antifungal protein 1; AltName: Full=Defensin AFP1; Short=HsAFP1 >gi|1049482|gb|AAB34974.1| defensin Hs-AFP1=cysteine-rich antifungal protein [Heuchera sanguinea, seeds, Peptide, 54 aa]  E=4e-05 s/c=1.01 id=51% cov=100%
+-KLCDVPSGTWSGHCGSSSKCSQQCKDREHfAYGGACHYQFPSVKCFCKRQC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	1872	*	*	*	*	*	*	*	*	*	460	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1848	0	0	
+
+K 2    *	*	*	4044	*	*	*	*	349	*	*	*	*	4942	3037	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2765	0	0	
+
+L 3    *	*	*	*	5061	*	*	3473	*	681	*	*	*	*	4307	*	4410	2938	*	5154	3
+       0	*	*	*	*	*	*	2932	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2932	0	0	
+
+E 5    4500	*	4236	784	*	3993	*	*	3332	*	*	*	*	2646	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2962	0	0	
+
+R 6    *	*	*	*	*	*	*	*	1570	*	*	*	*	*	713	*	*	4236	*	*	6
+       0	*	*	*	*	*	*	2962	0	0	
+
+P 7    2838	*	*	4243	*	*	*	*	3993	4766	*	*	1582	*	2546	4017	4150	*	*	3565	7
+       75	4302	*	1000	1000	*	*	2962	1000	0	
+
+S 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	8
+       0	*	*	*	*	*	*	2962	0	0	
+
+G 9    *	*	4427	3993	*	1561	*	*	2218	3590	*	*	*	3078	*	*	2886	*	*	*	9
+       0	*	*	*	*	*	*	2962	0	0	
+
+T 10   *	*	*	*	*	*	4243	*	*	*	*	*	*	*	*	2887	301	*	*	*	10
+       0	*	*	*	*	*	*	2962	0	0	
+
+W 11   *	*	*	*	3139	*	*	*	*	*	*	*	*	*	*	4427	4766	*	421	4150	11
+       65	4500	*	0	*	*	*	2962	1000	0	
+
+S 12   *	*	*	4717	5196	*	*	*	4463	4766	*	*	*	3993	*	547	4245	4243	*	*	12
+       0	*	*	*	*	*	*	2962	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2962	0	0	
+
+V 14   *	*	5455	5044	3788	*	3110	*	3572	*	*	2804	3854	*	*	*	5314	1194	*	*	14
+       38	*	5265	*	*	*	*	2962	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       43	5098	*	1000	1000	0	*	2957	1000	1000	
+
+G 16   *	5265	3588	5044	4463	1231	*	3565	3683	3854	3993	*	*	4302	4500	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2962	0	0	
+
+N 17   *	*	3616	*	4750	*	*	3346	5356	4455	*	1154	*	5205	4505	2811	*	*	*	4328	17
+       0	*	*	*	*	*	*	2988	0	0	
+
+N 18   *	*	4345	*	*	*	*	*	5090	*	*	1914	*	*	*	1387	1870	*	*	*	18
+       0	*	*	*	*	*	*	2990	0	0	
+
+N 19   5388	*	3603	4521	*	2488	*	*	2821	*	*	1838	*	*	5302	2363	*	5014	*	*	19
+       0	*	*	*	*	*	*	2990	0	0	
+
+A 20   1959	5090	*	*	*	4472	3434	4383	2154	*	*	2350	*	*	3224	*	*	*	*	*	20
+       43	*	5090	*	*	*	*	2990	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	0	*	2979	0	1000	
+
+K 22   5014	*	1655	*	*	*	*	*	1826	*	4345	2798	*	*	3285	3760	*	*	*	*	22
+       0	*	*	*	*	*	*	2990	0	0	
+
+N 23   *	*	4253	*	*	*	4017	*	2639	*	*	1302	*	4305	2861	3825	4038	*	*	*	23
+       0	*	*	*	*	*	*	2990	0	0	
+
+Q 24   *	*	*	5014	4564	*	*	*	3580	*	*	4521	*	846	2356	*	4383	*	*	*	24
+       0	*	*	*	*	*	*	2990	0	0	
+
+C 25   *	60	*	*	*	5666	*	*	*	*	*	*	*	*	*	*	*	*	*	5582	25
+       0	*	*	*	*	*	*	2990	0	0	
+
+I 26   *	*	*	*	*	*	*	853	2374	4521	*	*	*	4407	3543	5094	*	4383	*	*	26
+       0	*	*	*	*	*	*	2990	0	0	
+
+N 27   *	*	2943	3084	*	*	*	*	4564	4822	*	1763	*	5525	1960	3837	5014	*	*	*	27
+       64	*	4521	*	*	*	*	2990	0	0	
+
+L 28   *	*	*	*	*	*	*	*	*	1326	*	*	*	*	3468	*	4420	3882	1335	*	28
+       0	*	*	*	*	0	*	2930	0	1000	
+
+E 29   *	*	4383	119	*	*	*	*	*	*	*	*	*	5014	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2990	0	0	
+
+K 30   *	*	*	*	*	1416	3109	*	1672	*	*	4017	*	*	3775	4038	*	*	*	*	30
+       75	4305	*	0	*	*	*	2990	1000	0	
+
+A 31   62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4564	*	*	*	*	31
+       0	*	*	*	*	*	*	2990	0	0	
+
+R 32   2947	*	*	*	*	*	*	*	1877	5519	*	*	*	2580	2232	4344	3936	5014	*	4305	32
+       0	*	*	*	*	*	*	2990	0	0	
+
+H 33   *	*	4345	*	3735	4305	627	*	*	*	*	*	*	*	4017	4817	4521	*	*	4763	33
+       0	*	*	*	*	*	*	2990	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2990	0	0	
+
+S 35   872	*	*	*	*	*	*	*	4345	*	*	4521	*	*	*	1742	*	4017	*	*	35
+       0	*	*	*	*	*	*	2990	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2990	0	0	
+
+N 37   *	*	*	*	*	*	872	*	3450	*	*	1736	*	4017	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2990	0	0	
+
+Y 38   3356	*	*	*	4822	*	*	4564	2730	*	*	4345	*	5250	2609	*	*	3069	*	1665	38
+       0	*	*	*	*	*	*	2990	0	0	
+
+V 39   4345	*	3607	*	*	*	*	4217	4384	*	*	*	4564	2366	1995	4017	*	2197	*	*	39
+       35	*	5378	*	*	*	*	2990	0	0	
+
+F 40   *	*	3427	2859	904	3491	*	*	*	*	*	5532	5121	*	*	*	4452	4328	*	*	40
+       82	4174	*	0	*	0	*	2992	1057	1000	
+
+P 41   5250	*	*	*	5066	2276	4466	4817	*	*	*	4042	1011	*	4521	4157	*	*	*	*	41
+       0	*	*	*	*	*	*	2990	0	0	
+
+A 42   2021	*	*	*	*	2029	5388	*	2300	4017	*	5378	*	*	*	3429	4345	*	*	4217	42
+       64	*	4521	*	*	*	*	2990	0	0	
+
+H 43   5167	*	*	4156	2985	*	1775	*	*	4689	*	4502	4267	*	4420	5013	3953	3400	3775	4246	43
+       0	*	*	*	*	*	0	2930	0	1000	
+
+K 44   1972	*	*	*	*	*	*	*	1158	*	2966	*	*	*	3557	4156	5167	*	*	*	44
+       98	3923	*	0	*	0	*	2930	1000	1000	
+
+C 45   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3001	0	0	
+
+I 46   *	*	*	*	851	*	4009	1525	*	*	*	*	*	*	*	*	*	4799	*	*	46
+       0	*	*	*	*	*	*	3001	0	0	
+
+C 47   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	3001	0	0	
+
+Y 48   *	*	*	*	*	*	*	*	3526	*	*	*	*	*	*	*	*	*	*	131	48
+       0	*	*	*	*	*	*	3001	0	0	
+
+F 49   *	*	*	*	312	*	*	*	3921	*	*	*	*	*	4294	*	*	5340	*	4243	49
+       0	*	*	*	*	*	*	3001	0	0	
+
+P 50   *	*	1945	5111	*	*	*	*	3503	*	*	2200	1496	4294	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	3001	0	0	
+
+C 51   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	0	*	*	*	2880	0	0	
+
+//

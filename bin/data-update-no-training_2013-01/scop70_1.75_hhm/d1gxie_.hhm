@@ -1,0 +1,261 @@
+HHsearch 1.5
+NAME  d1gxie_ b.34.4.2 (E:) Photosystem I accessory protein E (PsaE) {Cyanobacterium (Synechocystis sp.), pcc 6803 [TaxId: 1143]}
+FAM   b.34.4.2
+FILE  d1gxie_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1gxie_.a3m -v 1 
+DATE  Mon Jan 21 21:03:56 2013
+LENG  73 match states, 73 columns in multiple alignment
+FILT  104 out of 106 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCEEEEECCCCCEECCCCEEEEECCCCCCCCEEEEECCCCCCCCCCCCCCCCCCCCCHHHHHHCCCCCC
+>ss_conf
+9766864677656442013556078843899611348874122334345656775333213124531047889
+>Consensus
+aixRGskVrIlRxESYWynxvGtVasvDxsgixYPViVRFxkVNYxgxsgxxxGvnTNnfaxxEleevxxxxk
+>d1gxie_ b.34.4.2 (E:) Photosystem I accessory protein E (PsaE) {Cyanobacterium (Synechocystis sp.), pcc 6803 [TaxId: 1143]}
+ALNRGDKVRIKRTESYWYGDVGTVASVEKSGILYPVIVRFDRVNYNGFSGSASGVNTNNFAENELELVQAAAK
+>gi|195549717|gb|ACG50086.1|(1-67:67) PsaE [uncultured virus]   E=4e-15 s/c=1.26 id=56% cov=93%
+-MKKGDIVRIKRPESYWYNECGKVVSVDTSGIIYPISVKFDKVDYKVYSGQDGGNTTNYFAEDELEVV-----
+>gi|30468152|ref|NP_849039.1|(2-66:94) photosystem I subunit IV [Cyanidioschyzon merolae strain 10D] >gi|30409252|dbj|BAC76201.1| photosystem I iron-sulfur center subunit VII (chloroplast) [Cyanidioschyzon merolae strain 10D]  E=3e-11 s/c=1.10 id=52% cov=90%
+-IKKGSLVKILRPESFWYNEVGTVVNVETSKVLYPVLVRFDKVNY-------SGLNSTNFSLDELVEIKVEIK
+>gi|269101028|ref|YP_003289176.1|(2-60:61) Photosystem I reaction center subunit IV [Ectocarpus siliculosus] >gi|266631536|emb|CAV31207.1| Photosystem I reaction center subunit IV [Ectocarpus siliculosus] >gi|270118666|emb|CAT18724.1| Photosystem I reaction center subunit IV [Ectocarpus siliculosus]  E=7e-10 s/c=1.14 id=57% cov=82%
+-VTKGAKVRILRKESYWYNDVGTVVVIDKKAANYPVLIRFVKVNY-------SGTNTANFKLEELEV------
+>gi|323453070|gb|EGB08942.1|(1-66:68) hypothetical protein AURANDRAFT_18026, partial [Aureococcus anophagefferens]  E=2e-09 s/c=1.00 id=55% cov=90%
+-IEKGSIVRILRPESYWANDLGTVASVDQSNVRYGVVVRFEKVNY-------QGVNSNNYALDElLEVEKPPAK
+>gi|300867973|ref|ZP_07112612.1|(2-65:124) Photosystem I reaction centre subunit IV/PsaE [Oscillatoria sp. PCC 6506] >gi|300333994|emb|CBN57790.1| Photosystem I reaction centre subunit IV/PsaE [Oscillatoria sp. PCC 6506]  E=9e-22 s/c=1.66 id=58% cov=89%
+-VQRGSQVRILRKESYWFQELGTVASIDQSGIKYPVIVRFNTVNY-------AGVNTNNFATGEVVEVSGPK-
+>gi|215400738|ref|YP_002327498.1|(1-61:61) PSI subunit IV [Vaucheria litorea] >gi|194441188|gb|ACF70916.1| PSI subunit IV [Vaucheria litorea]  E=4e-16 s/c=1.43 id=48% cov=85%
+-MQKNSKVKNLRKESYWYNEIGTIVTIEKTGSKYPILVRFAKVNY-------SGTNTTNLSEDELQEVE----
+>gi|72383542|ref|YP_292897.1|(2-72:72) photosystem I reaction center subunit IV [Prochlorococcus marinus str. NATL2A] >gi|124025134|ref|YP_001014250.1| photosystem I reaction center subunit IV [Prochlorococcus marinus str. NATL1A] >gi|72003392|gb|AAZ59194.1| photosystem I subunit IV psaE [Prochlorococcus marinus str. NATL2A] >gi|123960202|gb|ABM74985.1| Photosystem I PsaE protein (subunit IV) [Prochlorococcus marinus str. NATL1A]  E=5e-19 s/c=1.36 id=44% cov=97%
+SFARKDKVRILRQESYWFNQIGEIVSIDKSPLmRYPVTVKFDKCDFKAFSGVDGGANTSQFSVKELEAAAS---
+>gi|78185014|ref|YP_377449.1|(2-71:73) photosystem I reaction center subunit IV [Synechococcus sp. CC9902] >gi|78169308|gb|ABB26405.1| photosystem I subunit IV psaE [Synechococcus sp. CC9902]  E=9e-19 s/c=1.37 id=55% cov=95%
+AIAKGSKVRIKRKESYWFNEVGVVVSREKepNKSRYPITVRFEKVNYNGMQGVDGGLTTNNYAERELDEV-----
+>gi|15225331|ref|NP_179616.1|(85-145:145) photosystem I reaction center subunit IV B [Arabidopsis thaliana] >gi|17433302|sp|Q9S714.1|PSAE2_ARATH RecName: Full=Photosystem I reaction center subunit IV B, chloroplastic; Short=PSI-E B; Flags: Precursor >gi|4512709|gb|AAD21762.1| putative photosystem I reaction center subunit IV [Arabidopsis thaliana] >gi|5732205|emb|CAB52679.1| photosystem I subunit IV precursor [Arabidopsis thaliana] >gi|14596071|gb|AAK68763.1| putative photosystem I reaction center subunit IV [Arabidopsis thaliana] >gi|27311869|gb|AAO00900.1| putative photosystem I reaction center subunit IV [Arabidopsis thaliana] >gi|330251892|gb|AEC06986.1| photosystem I reaction center subunit IV B [Arabidopsis thaliana]  E=1e-18 s/c=1.56 id=51% cov=84%
+--KRGSKVKILRKESYWYKNVGSVVAVDQdPKTRYPVVVRFAKVNY-------ANISTNNYALDEVEEVK----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    178	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3110	*	*	*	*	1
+       0	*	*	*	*	*	*	1908	0	0	
+
+L 2    *	*	*	*	4768	*	*	1008	*	4675	3810	*	*	*	*	*	*	1491	*	*	2
+       0	*	*	*	*	*	*	2264	0	0	
+
+N 3    3338	*	5986	2716	*	*	*	*	1662	*	*	5345	*	1960	*	3241	5075	*	*	*	3
+       0	*	*	*	*	*	*	2312	0	0	
+
+R 4    *	*	*	*	*	*	*	*	2192	*	*	*	*	*	356	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2343	0	0	
+
+G 5    5799	*	*	*	*	186	*	*	4177	*	*	4704	*	*	6724	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2343	0	0	
+
+D 6    2740	*	2239	6473	*	*	*	*	*	*	*	*	*	*	*	811	4124	*	*	*	6
+       0	*	*	*	*	*	*	2343	0	0	
+
+K 7    *	*	*	6896	4630	*	*	3717	542	4891	*	*	*	4636	*	*	4381	4591	*	5319	7
+       9	7386	*	2000	415	*	*	2344	1000	0	
+
+V 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	8
+       0	*	*	*	*	*	*	2344	0	0	
+
+R 9    *	*	*	*	*	*	*	*	1794	*	*	*	*	*	491	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2344	0	0	
+
+I 10   *	*	*	*	*	*	*	275	*	*	*	5436	*	*	*	*	*	2733	*	*	10
+       0	*	*	*	*	*	*	2344	0	0	
+
+K 11   *	*	*	*	*	*	*	*	2168	547	4716	5319	*	*	5060	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2344	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2344	0	0	
+
+T 13   *	*	*	5028	*	*	*	*	1106	*	*	*	1333	4706	4072	*	6649	*	*	*	13
+       0	*	*	*	*	*	*	2344	0	0	
+
+E 14   *	*	5168	78	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5319	14
+       0	*	*	*	*	*	*	2344	0	0	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	15
+       0	*	*	*	*	*	*	2344	0	0	
+
+Y 16   *	*	*	*	4262	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77	16
+       0	*	*	*	*	*	*	2344	0	0	
+
+W 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	17
+       0	*	*	*	*	*	*	2344	0	0	
+
+Y 18   5539	*	*	*	1335	*	5108	*	*	*	*	*	*	*	*	*	*	*	*	854	18
+       0	*	*	*	*	*	*	2344	0	0	
+
+G 19   *	*	*	*	*	4470	*	*	3573	*	*	848	*	2084	3960	*	*	*	*	6046	19
+       0	*	*	*	*	*	*	2344	0	0	
+
+D 20   *	*	1287	1545	*	3750	*	*	4920	*	*	4980	*	3739	6729	6111	6698	*	*	*	20
+       0	*	*	*	*	*	*	2344	0	0	
+
+V 21   *	4422	*	6670	5868	*	*	2255	5609	4464	*	*	*	*	*	*	3623	841	*	6435	21
+       0	*	*	*	*	*	*	2344	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2344	0	0	
+
+T 23   *	*	*	5133	*	*	*	6036	2572	6971	*	6080	*	*	*	2955	726	4978	*	*	23
+       0	*	*	*	*	*	*	2344	0	0	
+
+V 24   *	*	*	*	*	*	*	4064	*	*	*	*	*	*	*	*	*	89	*	*	24
+       0	*	*	*	*	*	*	2344	0	0	
+
+A 25   796	*	*	*	*	*	*	6435	*	*	*	*	*	*	*	*	*	1278	*	*	25
+       0	*	*	*	*	*	*	2344	0	0	
+
+S 26   2736	*	*	*	*	*	*	*	5709	*	*	4935	*	*	*	965	2017	4693	*	*	26
+       0	*	*	*	*	*	*	2344	0	0	
+
+V 27   5805	*	*	*	*	*	*	1914	*	*	5699	*	*	*	5963	*	*	553	*	*	27
+       0	*	*	*	*	*	*	2344	0	0	
+
+E 28   5173	*	279	3171	*	*	*	*	*	*	*	5609	*	*	*	5923	*	*	*	*	28
+       16	6477	*	0	*	*	*	2344	1000	0	
+
+K 29   6620	*	*	*	*	*	*	*	1227	*	*	6046	*	1391	*	*	2590	*	*	*	29
+       256	2621	*	118	3668	*	*	2344	1728	0	
+
+S 30   4638	*	3798	5805	*	4461	*	*	4514	*	*	5385	3445	*	*	856	3148	*	*	*	30
+       71	5116	5709	0	*	*	*	2344	1436	0	
+
+G 31   3709	*	5878	*	*	550	*	*	3499	*	*	4219	4759	*	*	5138	5976	*	*	*	31
+       76	5125	5460	0	*	0	*	2331	1262	1000	
+
+I 32   5416	*	5229	*	*	*	*	728	*	4338	*	*	*	*	*	3300	3647	3116	*	*	32
+       69	4425	*	0	*	0	*	2321	1390	1000	
+
+L 33   *	*	*	*	*	*	*	3569	1597	2586	*	4693	*	*	1423	*	7139	*	*	*	33
+       0	*	*	*	*	*	*	2344	0	0	
+
+Y 34   *	*	*	*	5319	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37	34
+       0	*	*	*	*	*	*	2344	0	0	
+
+P 35   6834	*	*	*	*	4514	*	*	*	*	*	4084	192	*	*	6255	*	*	*	*	35
+       0	*	*	*	*	*	*	2344	0	0	
+
+V 36   5031	5335	*	*	*	*	*	3334	*	6764	*	*	*	*	*	*	*	317	*	4890	36
+       0	*	*	*	*	*	*	2344	0	0	
+
+I 37   *	*	*	*	*	*	*	1459	*	2844	*	*	*	*	*	4760	2760	1678	*	*	37
+       0	*	*	*	*	*	*	2340	0	0	
+
+V 38   *	*	*	*	*	*	*	5421	*	*	*	*	*	*	*	*	*	34	*	*	38
+       0	*	*	*	*	*	*	2340	0	0	
+
+R 39   *	*	*	*	*	*	*	*	3237	*	*	*	*	*	162	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2340	0	0	
+
+F 40   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2340	0	0	
+
+D 41   4759	*	1112	1746	*	*	*	6021	*	*	*	3298	6443	6823	*	6361	6615	4556	*	*	41
+       0	*	*	*	*	*	*	2340	0	0	
+
+R 42   5604	*	*	6087	*	*	*	*	422	*	*	3762	*	*	4731	4205	4239	*	*	*	42
+       29	*	5665	*	*	*	*	2340	0	0	
+
+V 43   *	3864	*	5698	*	*	*	6970	*	6382	*	*	*	*	*	*	4916	219	*	*	43
+       0	*	*	*	*	*	0	2325	0	1000	
+
+N 44   6700	*	3906	*	*	*	*	*	*	*	*	145	*	*	*	*	5698	*	*	*	44
+       0	*	*	*	*	*	0	2325	0	1000	
+
+Y 45   *	*	*	*	3926	*	*	*	*	*	*	*	*	*	*	*	*	*	*	98	45
+       1187	*	835	*	*	*	0	2325	0	1000	
+
+N 46   2835	*	*	*	4489	*	4603	4739	2972	*	*	1533	*	4685	*	3663	3120	*	*	5011	46
+       162	*	3238	*	*	*	0	2068	0	2049	
+
+G 47   2895	*	*	*	*	334	*	*	*	*	*	*	*	*	*	*	*	3792	*	*	47
+       0	*	*	*	*	*	0	2013	0	2061	
+
+F 48   *	*	*	*	1256	*	*	2640	*	3962	3046	4913	*	*	*	5382	*	*	*	2486	48
+       0	*	*	*	*	*	0	2013	0	2061	
+
+S 49   *	5401	5400	*	*	*	*	*	*	*	*	*	*	3046	*	266	*	*	*	*	49
+       49	*	4913	*	*	3939	97	2013	0	2061	
+
+G 50   *	*	*	*	*	67	*	4463	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	0	2017	0	2053	
+
+S 51   *	*	4559	*	*	*	*	*	4834	*	*	2659	*	4737	*	1750	2149	2295	*	*	51
+       0	*	*	*	*	*	0	2017	0	2053	
+
+A 52   1570	*	1234	4343	*	*	*	*	*	*	*	*	3247	*	*	4718	*	*	*	4463	52
+       0	*	*	*	*	189	3023	2017	0	2053	
+
+S 53   1470	*	*	6004	*	2045	*	*	*	*	*	5417	*	6154	*	1802	5192	6774	*	5610	53
+       0	*	*	*	*	455	1886	2332	0	1498	
+
+G 54   *	*	6759	*	*	221	*	*	*	*	*	3032	*	*	*	6574	*	*	*	*	54
+       0	*	*	*	*	*	0	2336	0	1000	
+
+V 55   4207	*	*	*	*	*	*	2679	*	3482	*	3494	*	*	*	*	2995	1041	*	*	55
+       0	*	*	*	*	*	0	2336	0	1000	
+
+N 56   5508	*	*	*	*	*	*	*	*	5474	*	524	*	*	*	2581	3777	5653	*	*	56
+       0	*	*	*	*	0	*	2336	0	1000	
+
+T 57   *	*	*	*	*	*	*	*	*	*	5612	*	*	*	*	3800	140	*	*	*	57
+       0	*	*	*	*	*	*	2340	0	0	
+
+N 58   4690	*	*	*	*	*	*	*	*	*	*	176	*	*	*	4637	4803	*	*	*	58
+       0	*	*	*	*	*	*	2340	0	0	
+
+N 59   *	*	*	*	*	5604	*	*	*	*	6039	289	*	4210	*	4192	*	*	*	4760	59
+       0	*	*	*	*	*	*	2340	0	0	
+
+F 60   *	*	*	*	415	*	*	*	*	5408	*	*	*	*	*	*	*	*	*	2144	60
+       0	*	*	*	*	*	*	2340	0	0	
+
+A 61   500	*	*	*	*	3840	*	*	4690	*	*	*	*	*	5665	2748	5997	*	*	*	61
+       0	*	*	*	*	*	*	2340	0	0	
+
+E 62   *	*	6966	1307	*	*	*	5132	*	1450	4900	*	5585	5547	*	6943	6384	3665	*	5735	62
+       0	*	*	*	*	*	*	2340	0	0	
+
+N 63   4238	*	1403	3524	5976	6247	3277	*	5117	*	*	3696	*	*	5958	2550	5914	5662	5604	*	63
+       0	*	*	*	*	*	*	2340	0	0	
+
+E 64   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       26	5802	*	0	*	*	*	2340	1331	0	
+
+L 65   *	*	*	*	*	*	*	3034	*	491	*	*	*	*	*	*	*	2587	*	*	65
+       36	5361	*	741	1316	*	*	2340	1336	0	
+
+E 66   5478	*	4431	887	*	*	*	4346	5937	4399	*	*	*	3496	*	*	5712	2556	*	*	66
+       0	*	*	*	*	*	*	2345	0	0	
+
+L 67   4511	*	*	778	*	*	*	6098	5417	3531	*	*	5339	6858	*	*	*	2218	*	*	67
+       0	*	*	*	*	*	*	2323	0	0	
+
+V 68   3717	*	*	5601	*	*	*	3362	*	5426	6855	*	6428	*	*	*	4624	470	*	*	68
+       0	*	*	*	*	*	*	2308	0	0	
+
+Q 69   2220	*	*	1517	*	5971	*	*	1976	*	*	*	5819	4506	*	3651	5353	*	*	*	69
+       0	*	*	*	*	*	*	2201	0	0	
+
+A 70   1218	*	*	*	*	4962	*	*	2913	*	*	*	2221	*	*	2726	*	4654	*	*	70
+       0	*	*	*	*	*	*	2046	0	0	
+
+A 71   2171	*	*	4298	*	5746	*	*	4246	*	*	*	696	*	*	*	4690	*	*	*	71
+       0	*	*	*	*	*	*	1893	0	0	
+
+A 72   1381	*	*	*	*	*	*	3952	2083	*	*	*	2648	*	*	2924	*	5379	*	*	72
+       0	*	*	*	*	*	*	1872	0	0	
+
+K 73   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	0	*	*	*	1796	0	0	
+
+//

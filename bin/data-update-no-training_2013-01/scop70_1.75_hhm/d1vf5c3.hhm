@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d1vf5c3 f.23.23.1 (C:250-286) Cytochrome f subunit of the cytochrome b6f complex, transmembrane anchor {Mastigocladus laminosus [TaxId: 83541]}
+FAM   f.23.23.1
+FILE  d1vf5c3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vf5c3.a3m -v 1 
+DATE  Tue Jan 22 03:20:58 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  97 out of 99 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9716898999999999999999988465564532269
+>Consensus
+QxpxRixglxxFxxxvxlaQixlVlKKKQxEkVQaaE
+>d1vf5c3 f.23.23.1 (C:250-286) Cytochrome f subunit of the cytochrome b6f complex, transmembrane anchor {Mastigocladus laminosus [TaxId: 83541]}
+QDPNRVKWMIAFICLVMLAQLMLILKKKQVEKVQAAE
+>gi|37522608|ref|NP_925985.1|(300-336:342) apocytochrome f [Gloeobacter violaceus PCC 7421] >gi|81707944|sp|Q7NCE0.1|CYF_GLOVI RecName: Full=Apocytochrome f; Flags: Precursor >gi|35213609|dbj|BAC90980.1| apocytochrome f [Gloeobacter violaceus PCC 7421]  E=1e-05 s/c=1.44 id=58% cov=103%
+QDPQRVTWLVAFLAAAFICQLLLVLKKKQVEKVQEFE
+>gi|158337568|ref|YP_001518743.1|(276-312:315) apocytochrome f [Acaryochloris marina MBIC11017] >gi|193805971|sp|B0CFX9.1|CYF_ACAM1 RecName: Full=Apocytochrome f; Flags: Precursor >gi|158307809|gb|ABW29426.1| cytochrome f subunit of cytochrome b6f complex PetA [Acaryochloris marina MBIC11017]  E=3e-05 s/c=1.39 id=55% cov=103%
+QSGTRIKWLMVFFSAIMISQTLLVLKKKQVEKVQAAE
+>gi|30468174|ref|NP_849061.1|(262-298:300) cytochrome f [Cyanidioschyzon merolae strain 10D] >gi|75272327|sp|Q85FX0.1|CYF_CYAME RecName: Full=Apocytochrome f; Flags: Precursor >gi|30409274|dbj|BAC76223.1| cytochrome f (chloroplast) [Cyanidioschyzon merolae strain 10D]  E=0.0004 s/c=1.28 id=55% cov=103%
+QNPTRLKTFIAFCVTVFIGQLAFVLKKKQVERVQASE
+>gi|301500943|ref|YP_003795408.1|(248-281:285) component of cytochrome b6/f complex [Alveolata sp. CCMP3155] >gi|300069489|gb|ADJ66596.1| component of cytochrome b6/f complex (chloroplast) [Chromerida sp. RM11]  E=0.0007 s/c=1.37 id=46% cov=95%
+QKKNRLVGLFIFCVGITLAQIFLVLKKKQYERVQ---
+>gi|157064386|gb|ABV04314.1|(283-319:322) cytochrome f [Lobatiriccardia lobata]   E=3e-11 s/c=1.92 id=55% cov=103%
+QDPSRIQGLLLFLGSVILAQILLVLKKKQFEKVQLAE
+>gi|11466420|ref|NP_038424.1|(274-310:313) cytochrome f [Mesostigma viride] >gi|14547945|sp|Q9MUN6.1|CYF_MESVI RecName: Full=Apocytochrome f; Flags: Precursor >gi|7259563|gb|AAF43864.1|AF166114_76 apocytochrome f of cytochrome b6/f complex (chloroplast) [Mesostigma viride]  E=1e-09 s/c=1.78 id=58% cov=103%
+QNPVRIKWLIAFLILSTLGQVFLVLKKKQFERVQIAE
+>gi|215400701|ref|YP_002327462.1|(282-318:321) apocytochrome f [Vaucheria litorea] >gi|194441151|gb|ACF70879.1| apocytochrome f [Vaucheria litorea]  E=2e-08 s/c=1.66 id=53% cov=103%
+QNPIRVLGYMAFVLTILTTQILLILKKKQFEKVQASE
+>gi|27448755|gb|AAO13958.1|AF443625_1(459-495:498) Cytochrome f [Euglena gracilis]   E=9e-06 s/c=1.43 id=42% cov=103%
+QNPGRVQAFLFFSFTVLATQTLLVVKKKQYEQVQLSE
+>gi|58613511|gb|AAW79342.1|(310-346:348) chloroplast cytochrome f [Heterocapsa triquetra]   E=0.0001 s/c=1.32 id=53% cov=103%
+QDMNRVYAYCAVSVSIFFAQLAFVLKKKQFEKVQLAE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2329	0	0	
+
+D 2    *	*	1609	*	*	*	*	*	5448	*	*	1465	*	*	*	1801	*	*	*	*	2
+       0	*	*	*	*	*	*	2329	0	0	
+
+P 3    3525	*	*	*	*	6388	*	*	4904	*	4916	*	387	*	*	3835	*	*	*	*	3
+       0	*	*	*	*	*	*	2329	0	0	
+
+N 4    2683	*	3447	*	*	3549	*	4996	*	4525	*	2454	*	5826	6498	2622	3149	3371	*	6746	4
+       0	*	*	*	*	*	*	2329	0	0	
+
+R 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2329	0	0	
+
+V 6    *	*	*	*	*	*	*	1178	*	3265	*	*	*	*	*	*	*	1140	*	*	6
+       0	*	*	*	*	*	*	2329	0	0	
+
+K 7    4974	*	*	*	*	4987	*	4057	1521	4334	*	*	*	1757	6872	*	5298	3943	*	3579	7
+       0	*	*	*	*	*	*	2329	0	0	
+
+W 8    3897	*	*	*	6469	763	*	*	*	*	*	*	*	*	*	5939	5609	*	1759	*	8
+       0	*	*	*	*	*	*	2329	0	0	
+
+M 9    *	*	*	*	3736	*	*	*	*	540	3418	*	4848	*	6700	*	*	6609	*	3493	9
+       0	*	*	*	*	*	*	2329	0	0	
+
+I 10   *	4916	*	*	5448	*	*	1642	*	1450	2635	*	*	*	*	*	*	3375	*	*	10
+       0	*	*	*	*	*	*	2329	0	0	
+
+A 11   938	*	*	*	4130	5017	*	3777	*	2874	*	*	*	*	*	*	*	2468	*	*	11
+       0	*	*	*	*	*	*	2329	0	0	
+
+F 12   *	*	*	*	76	*	*	*	*	5792	*	*	*	*	*	*	*	4916	*	*	12
+       0	*	*	*	*	*	*	2329	0	0	
+
+I 13   6172	3549	*	*	1693	*	*	3447	*	1805	*	*	4848	*	*	3567	*	3405	*	*	13
+       0	*	*	*	*	*	*	2329	0	0	
+
+C 14   1301	4096	*	*	2749	3692	*	3444	*	4494	*	*	*	*	*	4873	5394	3117	*	*	14
+       0	*	*	*	*	*	*	2329	0	0	
+
+L 15   1993	5346	*	*	3821	2885	*	5388	*	2629	6730	*	4848	*	*	2553	3236	6396	*	*	15
+       0	*	*	*	*	*	*	2329	0	0	
+
+V 16   5099	*	*	*	*	*	*	1447	*	6459	*	*	*	*	*	5144	4206	971	*	*	16
+       0	*	*	*	*	*	*	2329	0	0	
+
+M 17   4020	*	*	*	3467	4823	*	3101	*	2700	1630	*	*	*	*	6072	2849	3935	*	*	17
+       0	*	*	*	*	*	*	2329	0	0	
+
+L 18   5356	*	*	*	3988	6570	*	2470	*	746	6617	*	4848	*	*	*	4865	4442	*	*	18
+       0	*	*	*	*	*	*	2329	0	0	
+
+A 19   1022	3851	*	*	*	4113	*	*	*	*	*	*	*	*	*	2913	2254	4716	*	*	19
+       0	*	*	*	*	*	*	2329	0	0	
+
+Q 20   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2329	0	0	
+
+L 21   6009	*	*	*	*	*	*	906	*	3017	*	*	*	*	*	*	3268	2163	*	*	21
+       0	*	*	*	*	*	*	2329	0	0	
+
+M 22   4221	*	*	*	1794	*	*	*	*	1222	2125	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2329	0	0	
+
+L 23   *	*	*	*	3096	*	*	*	*	237	*	*	4848	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2329	0	0	
+
+I 24   *	*	*	*	*	*	*	4377	*	*	*	*	*	*	*	*	*	71	*	*	24
+       0	*	*	*	*	*	*	2329	0	0	
+
+L 25   *	*	*	*	*	*	*	2920	*	325	*	*	4848	*	*	*	*	4850	*	*	25
+       0	*	*	*	*	*	*	2329	0	0	
+
+K 26   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2329	0	0	
+
+K 27   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2329	0	0	
+
+K 28   *	*	*	*	*	*	*	*	29	*	*	*	*	*	5632	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2329	0	0	
+
+Q 29   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2329	0	0	
+
+V 30   *	*	*	*	1484	*	*	3241	*	*	*	*	*	*	*	*	6449	1160	6370	3929	30
+       0	*	*	*	*	*	*	2329	0	0	
+
+E 31   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2329	0	0	
+
+K 32   *	*	*	*	*	*	*	*	380	5299	*	*	*	5356	2646	*	5508	*	*	*	32
+       0	*	*	*	*	*	*	2329	0	0	
+
+V 33   *	*	*	*	*	*	*	5299	*	*	*	*	*	*	*	*	*	37	*	*	33
+       0	*	*	*	*	*	*	2329	0	0	
+
+Q 34   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2329	0	0	
+
+A 35   601	*	*	4777	*	*	*	5901	*	1799	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2300	0	0	
+
+A 36   282	*	*	*	4647	*	*	*	*	*	*	*	*	*	*	3233	*	4991	*	*	36
+       0	*	*	*	*	*	*	2302	0	0	
+
+E 37   *	*	5439	34	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	2301	0	0	
+
+//

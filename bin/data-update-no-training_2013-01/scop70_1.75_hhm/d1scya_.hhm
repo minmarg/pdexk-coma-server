@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  d1scya_ g.3.7.2 (A:) Scyllatoxin {Scorpion (Leiurus quinquestriatus hebraeus) [TaxId: 6884]}
+FAM   g.3.7.2
+FILE  d1scya_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1scya_.a3m -v 1 
+DATE  Tue Jan 22 01:58:28 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  4 out of 6 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCEEECCCCEEEEECC
+>ss_conf
+9656410000111112100013763256429
+>Consensus
+axcnlrrcqlscrslgllgkcigdkcxcvkh
+>d1scya_ g.3.7.2 (A:) Scyllatoxin {Scorpion (Leiurus quinquestriatus hebraeus) [TaxId: 6884]}
+AFCNLRMCQLSCRSLGLLGKCIGDKCECVKH
+>gi|20140334|sp|Q9TVX3.1|KAX53_MESMA(29-59:61) RecName: Full=Potassium channel toxin alpha-KTx 5.3; AltName: Full=Neurotoxin BmP05; AltName: Full=Potassium ion channel blocker P05; Flags: Precursor >gi|5712129|gb|AAD47378.1|AF079064_2 Bmp-05 neurotoxin precursor [Mesobuthus martensii] >gi|6062870|gb|AAF03044.1|AF095780_1 toxin BmP05 precursor [Mesobuthus martensii]  E=2e-07 s/c=1.91 id=88% cov=103%
+AVCNLKRCQLSCRSLGLLGKCIGDKCECVKH
+>gi|157833539|pdb|1PNH|A(2-31:31) Chain A, Solution Structure Of Po5-Nh2, A Scorpion Toxin Analog With High Affinity For The Apamin-Sensitive Potassium Channel  E=7e-06 s/c=1.78 id=87% cov=100%
+-VCNLRRCQLSCRSLGLLGKCIGVKCECVKH
+>gi|212278313|gb|ACJ23141.1|(29-59:61) putative potassium channel toxin Tx479 [Buthus occitanus israelis]  E=2e-05 s/c=1.68 id=77% cov=100%
+-ICNLRRCELSCRSLGLLGKCIGDTCICVQH
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1069	0	0	
+
+F 2    *	*	*	*	2032	*	*	1848	*	*	*	*	*	*	*	*	*	1066	*	*	2
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1184	0	0	
+
+N 4    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1184	0	0	
+
+L 5    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1184	0	0	
+
+R 6    *	*	*	*	*	*	*	*	2066	*	*	*	*	*	394	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1184	0	0	
+
+M 7    *	*	*	*	*	*	*	*	*	*	2032	*	*	*	404	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1184	0	0	
+
+Q 9    *	*	*	1848	*	*	*	*	*	*	*	*	*	469	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1184	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1184	0	0	
+
+S 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	11
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1184	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1184	0	0	
+
+S 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	14
+       0	*	*	*	*	*	*	1184	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1184	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1184	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1184	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1184	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1184	0	0	
+
+K 20   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1184	0	0	
+
+I 22   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1184	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1184	0	0	
+
+D 24   *	*	394	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2066	*	*	24
+       0	*	*	*	*	*	*	1184	0	0	
+
+K 25   *	*	*	*	*	*	*	*	469	*	*	*	*	*	*	*	1848	*	*	*	25
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1184	0	0	
+
+E 27   *	*	*	469	*	*	*	1848	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1184	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1184	0	0	
+
+V 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	29
+       0	*	*	*	*	*	*	1184	0	0	
+
+K 30   *	*	*	*	*	*	*	*	469	*	*	*	*	1848	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1184	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1184	0	0	
+
+//

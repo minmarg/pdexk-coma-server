@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d2zjr41 g.42.1.1 (4:1-37) Ribosomal protein L36 {Deinococcus radiodurans [TaxId: 1299]}
+FAM   g.42.1.1
+FILE  d2zjr41
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2zjr41.a3m -v 1 
+DATE  Tue Jan 22 08:35:54 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  101 out of 457 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCHHHHHCCCCCEEECCCEEEEEECCCCCCCCCC
+>ss_conf
+9505010101238826842886887705987045789
+>Consensus
+MKvrxsvKkxCxxCxxvrRxgrxxViCxnpkHKQRQG
+>d2zjr41 g.42.1.1 (4:1-37) Ribosomal protein L36 {Deinococcus radiodurans [TaxId: 1299]}
+MKVRSSVKKMCDNCKVVRRHGRVLVICSNVKHKQRQG
+>gi|18860345|ref|NP_569662.1|(1-37:37) ribosomal protein L36 [Psilotum nudum] >gi|24212234|sp|Q8WHY9.1|RK36_PSINU RecName: Full=50S ribosomal protein L36, chloroplastic >gi|18389498|dbj|BAB84250.1| ribosomal protein L36 [Psilotum nudum]  E=4e-05 s/c=1.38 id=55% cov=103%
+MKIRASVRKICEKCRLIRRRKRIMVICFNPKHKQKQG
+>gi|412994037|emb|CCO14548.1|(1-38:126) 50S ribosomal protein L36 [Bathycoccus prasinos]   E=3e-10 s/c=1.78 id=55% cov=103%
+MKVRTAIKRLCEACRIVKRRGRLYVVCSKvPKHKQRQG
+>gi|429240092|ref|NP_595638.2|(55-92:92) mitochondrial ribosomal protein subunit L36, Rtc6 (predicted) [Schizosaccharomyces pombe 972h-] >gi|408360189|sp|O94690.2|RTC6_SCHPO RecName: Full=54S ribosomal protein c83.06c, mitochondrial; Flags: Precursor >gi|347834298|emb|CAB36868.2| mitochondrial ribosomal protein subunit L36, Rtc6 (predicted) [Schizosaccharomyces pombe]  E=2e-06 s/c=1.45 id=53% cov=103%
+FKVKASVKKRCSSCYFVRRKGRLYVLCKKhPRHKTRQG
+>gi|76673281|ref|XP_580819.2|(111-147:148) PREDICTED: 39S ribosomal protein L36, mitochondrial [Bos taurus] >gi|297487842|ref|XP_002696509.1| PREDICTED: 39S ribosomal protein L36, mitochondrial [Bos taurus] >gi|296475660|gb|DAA17775.1| mitochondrial ribosomal protein L36 [Bos taurus]  E=0.0001 s/c=1.34 id=46% cov=100%
+FKTKGVLKKRCKGCYLVKRRGRWFIYCkTNPKHKQRQ-
+>gi|145517590|ref|XP_001444678.1|(1-38:78) hypothetical protein [Paramecium tetraurelia strain d4-2] >gi|124412100|emb|CAK77281.1| unnamed protein product [Paramecium tetraurelia]  E=0.0001 s/c=1.29 id=53% cov=103%
+MKVKSALKKMCEHCYFQRKGKKVYVRCkSDPRHKQRQG
+>gi|406983710|gb|EKE04870.1|(1-37:37) hypothetical protein ACD_19C00429G0030 [uncultured bacterium]   E=0.001 s/c=1.24 id=50% cov=103%
+MKVLVSVKPRCKDCKLIKRAGVLRLICKNPRHKARQG
+>gi|328771171|gb|EGF81211.1|(79-114:115) hypothetical protein BATDEDRAFT_10423 [Batrachochytrium dendrobatidis JAM81]  E=2e-06 s/c=1.52 id=39% cov=97%
+-KIKTALRRRCEHCYFVARKGKLRIVCpENGKHKQRQ-
+>gi|340346400|ref|ZP_08669525.1|(16-53:53) 50S ribosomal protein L36 [Prevotella dentalis DSM 3688] >gi|339611857|gb|EGQ16674.1| 50S ribosomal protein L36 [Prevotella dentalis DSM 3688]  E=0.0003 s/c=1.26 id=53% cov=103%
+MKTRASLKKRTADCQIVRRKGRLFVINkKNPKFKLRQG
+>gi|307208451|gb|EFN85818.1|(72-108:130) 39S ribosomal protein L36, mitochondrial [Harpegnathos saltator]   E=0.001 s/c=1.24 id=41% cov=100%
+LKTRGVLQRRCKDCYFVSRHERLYVMCkSHPRHKQVQ-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	2955	*	*	*	*	4425	278	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2763	0	0	
+
+K 2    *	*	*	*	*	*	*	*	67	*	*	*	*	5678	5257	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2770	0	0	
+
+V 3    *	*	*	*	*	*	*	3997	5378	5322	*	*	*	*	6526	6359	3061	424	*	*	3
+       0	*	*	*	*	*	*	2777	0	0	
+
+R 4    *	*	*	*	*	6377	5408	*	2431	4266	*	*	*	4436	654	5112	*	*	*	5920	4
+       0	*	*	*	*	*	*	2777	0	0	
+
+S 5    1678	*	*	*	*	3666	*	*	*	*	*	*	3124	*	*	1453	3244	5426	*	*	5
+       0	*	*	*	*	*	*	2777	0	0	
+
+S 6    2570	*	*	*	*	*	*	*	*	*	*	*	*	*	5037	500	*	4094	*	4816	6
+       0	*	*	*	*	*	*	2790	0	0	
+
+V 7    5507	*	*	*	*	*	*	3594	*	2095	6425	*	*	*	*	*	*	623	*	*	7
+       21	6079	*	1585	585	*	*	2790	1000	0	
+
+K 8    *	*	*	*	*	5346	*	*	376	*	*	*	*	5320	2604	*	6055	*	*	*	8
+       0	*	*	*	*	*	*	2790	0	0	
+
+K 9    4874	6736	*	*	*	*	*	*	850	5142	*	*	3633	4816	2188	*	5201	6543	*	*	9
+       0	*	*	*	*	*	*	2790	0	0	
+
+M 10   *	*	*	*	4510	*	*	1889	*	3418	2316	*	*	*	1462	*	*	5980	*	6302	10
+       0	*	*	*	*	*	*	2790	0	0	
+
+C 11   *	109	*	*	*	*	4766	*	*	*	*	*	*	*	*	*	4791	*	*	*	11
+       0	*	*	*	*	*	*	2790	0	0	
+
+D 12   3146	*	4013	1498	*	5950	*	7142	2281	*	*	5296	4863	6028	3682	3898	5525	*	*	*	12
+       0	*	*	*	*	*	*	2790	0	0	
+
+N 13   5147	6953	1959	6496	4363	4186	2685	*	2530	*	*	3464	*	*	4534	3265	*	*	*	5295	13
+       0	*	*	*	*	*	*	2790	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2790	0	0	
+
+K 15   7162	6432	*	*	5668	5925	*	6629	1399	*	*	*	*	3321	2435	5844	*	6147	*	2062	15
+       0	*	*	*	*	*	*	2790	0	0	
+
+V 16   4846	*	*	*	3114	*	*	1852	*	2570	3991	*	*	5634	6392	6629	4134	2108	*	6603	16
+       0	*	*	*	*	*	*	2790	0	0	
+
+V 17   *	6673	*	*	*	*	*	1504	*	6147	*	*	*	5254	*	*	*	744	*	*	17
+       0	*	*	*	*	*	*	2790	0	0	
+
+R 18   6607	*	*	*	*	*	*	5471	1477	6549	6181	*	*	6886	943	5321	*	5909	6259	*	18
+       0	*	*	*	*	*	*	2790	0	0	
+
+R 19   *	*	*	*	*	*	*	*	5254	*	*	*	*	*	38	*	*	*	*	*	19
+       24	5926	*	2585	263	*	*	2790	1134	0	
+
+H 20   5459	*	6343	7145	*	3799	3153	*	1125	*	*	3812	*	4641	2411	5997	*	*	*	*	20
+       0	*	*	*	*	*	*	2790	0	0	
+
+G 21   *	*	*	4173	*	365	*	*	4261	*	*	4913	*	*	4086	6372	6430	*	*	*	21
+       0	*	*	*	*	*	*	2790	0	0	
+
+R 22   6247	*	*	*	*	6059	*	3890	2727	*	*	5718	*	5992	868	*	4742	3099	*	5926	22
+       22	6059	*	2585	263	*	*	2790	1000	0	
+
+V 23   *	*	*	*	*	5909	*	2829	*	1307	6614	6496	*	*	6247	*	5864	1501	4901	*	23
+       0	*	*	*	*	*	*	2790	0	0	
+
+L 24   *	*	*	*	2984	*	6770	4368	*	4783	3172	*	*	*	2634	6259	*	5621	6248	1117	24
+       0	*	*	*	*	*	*	2790	0	0	
+
+V 25   *	*	*	*	*	*	*	2218	*	5459	*	*	*	*	*	*	*	392	*	*	25
+       0	*	*	*	*	*	*	2790	0	0	
+
+I 26   *	*	*	*	5668	*	*	776	6879	4038	5008	*	*	5009	4307	5459	*	3030	*	3855	26
+       0	*	*	*	*	*	*	2790	0	0	
+
+C 27   *	53	*	*	*	*	*	*	*	*	*	4791	*	*	*	*	*	*	*	*	27
+       497	1780	*	0	*	*	*	2790	2504	0	
+
+S 28   4680	*	4572	3783	5662	*	*	4299	1763	*	*	*	6386	5963	*	1583	3391	5373	*	*	28
+       346	2230	*	0	*	*	*	2790	2335	0	
+
+N 29   *	*	3506	5407	*	*	3892	4867	4508	*	*	652	*	6449	*	4529	4949	5702	*	*	29
+       70	4404	*	0	*	*	*	2790	1592	0	
+
+V 30   3519	*	*	*	*	5673	6302	*	4148	5034	*	6484	518	*	*	5136	*	4168	*	*	30
+       71	4377	*	1976	423	*	*	2790	1326	0	
+
+K 31   *	*	*	*	*	*	*	*	912	*	*	6274	*	*	1355	5098	4818	*	*	*	31
+       0	*	*	*	*	*	*	2790	0	0	
+
+H 32   *	*	*	*	3778	*	165	*	*	*	*	*	*	*	*	4818	*	*	*	*	32
+       0	*	*	*	*	*	*	2790	0	0	
+
+K 33   *	*	*	*	*	*	*	*	64	*	*	4531	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2790	0	0	
+
+Q 34   3795	*	*	4817	*	*	*	*	*	4789	*	*	*	243	*	*	6429	*	*	*	34
+       0	*	*	*	*	*	*	2790	0	0	
+
+R 35   *	6169	*	*	*	*	*	*	3523	*	*	*	*	*	253	*	*	4059	*	*	35
+       0	*	*	*	*	*	*	2772	0	0	
+
+Q 36   5810	*	*	*	*	*	*	*	*	*	*	*	*	51	*	*	5871	*	*	*	36
+       0	*	*	*	*	*	*	2772	0	0	
+
+G 37   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	2583	0	0	
+
+//

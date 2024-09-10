@@ -1,0 +1,171 @@
+HHsearch 1.5
+NAME  d1qled_ f.23.8.1 (D:) Bacterial aa3 type cytochrome c oxidase subunit IV {Paracoccus denitrificans [TaxId: 266]}
+FAM   f.23.8.1
+FILE  d1qled_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1qled_.a3m -v 1 
+DATE  Tue Jan 22 01:08:50 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  33 out of 35 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9887776433588999999999999999999999999998519
+>Consensus
+aeHKHGxMDixxQEkTFxgFikxxtxxxixxixxliFlAifns
+>d1qled_ f.23.8.1 (D:) Bacterial aa3 type cytochrome c oxidase subunit IV {Paracoccus denitrificans [TaxId: 266]}
+TDHKHGEMDIRHQQATFAGFIKGATWVSILSIAVLVFLALANS
+>gi|85703467|ref|ZP_01034571.1|(20-61:62) hypothetical protein ROS217_22037 [Roseovarius sp. 217] >gi|85672395|gb|EAQ27252.1| hypothetical protein ROS217_22037 [Roseovarius sp. 217]  E=1e-09 s/c=1.58 id=49% cov=100%
+AEHKHGDMNIDVQEKTFDGFIKWVTYTAVVCIAVLLFIAAVN-
+>gi|114771322|ref|ZP_01448742.1|(4-45:45) hypothetical protein OM2255_08195 [Rhodobacterales bacterium HTCC2255] >gi|114548247|gb|EAU51134.1| hypothetical protein OM2255_08195 [Rhodobacterales bacterium HTCC2255] >gi|297184202|gb|ADI20320.1| hypothetical protein [uncultured alpha proteobacterium EB080_L27A02]  E=5e-08 s/c=1.45 id=49% cov=100%
+-QHKHGEMDVSSQEHAFDGFIRWSIRISCISIAILIFMAIFNS
+>gi|254485985|ref|ZP_05099190.1|(2-42:44) Bacterial aa3 type cytochrome c oxidase subunit IV superfamily [Roseobacter sp. GAI101] >gi|214042854|gb|EEB83492.1| Bacterial aa3 type cytochrome c oxidase subunit IV superfamily [Roseobacter sp. GAI101]  E=5e-05 s/c=1.25 id=38% cov=98%
+AKHEHGSMDTTSQEKTFDNFMNWVKWSCIVIIGILVFMAIF--
+>gi|407786770|ref|ZP_11133914.1|(2-44:44) hypothetical protein B30_12022 [Celeribacter baekdonensis B30] >gi|407200721|gb|EKE70726.1| hypothetical protein B30_12022 [Celeribacter baekdonensis B30]  E=2e-07 s/c=1.37 id=52% cov=102%
+AEYKHGEMDTSVQEKTFAGFIKWSTWVAGAAIFALIFMAVFNS
+>gi|255264212|ref|ZP_05343554.1|(2-44:44) conserved domain protein [Thalassiobium sp. R2A62] >gi|255106547|gb|EET49221.1| conserved domain protein [Thalassiobium sp. R2A62]  E=2e-07 s/c=1.37 id=55% cov=102%
+SDHKHGEMDTKVQEKTFDGFIKFTTWSVVIIVAILVFLALIGT
+>gi|84684406|ref|ZP_01012307.1|(2-44:44) hypothetical protein 1099457000260_RB2654_12314 [Maritimibacter alkaliphilus HTCC2654] >gi|84667385|gb|EAQ13854.1| hypothetical protein RB2654_12314 [Maritimibacter alkaliphilus HTCC2654]  E=8e-07 s/c=1.32 id=45% cov=102%
+AEHKHGSMDIRVQEKTFEGFMKFTVRSVIAIIVVLILLAIVGA
+>gi|126463156|ref|YP_001044270.1|(21-61:61) aa3 type cytochrome c oxidase subunit IV [Rhodobacter sphaeroides ATCC 17029] >gi|126104820|gb|ABN77498.1| aa3 type cytochrome c oxidase subunit IV [Rhodobacter sphaeroides ATCC 17029]  E=8e-07 s/c=1.39 id=50% cov=98%
+--HVEGSMDITQQEKTFAGFVRMVTWAAVVIVAALIFLALANA
+>gi|126728302|ref|ZP_01744118.1|(2-44:44) hypothetical protein SSE37_19967 [Sagittula stellata E-37] >gi|126711267|gb|EBA10317.1| hypothetical protein SSE37_19967 [Sagittula stellata E-37]  E=8e-06 s/c=1.24 id=36% cov=102%
+AEHKHGSMDVTTQEDTFNGFIRFTIRTLYVILAIVIFLAIFRT
+>gi|254467152|ref|ZP_05080563.1|(2-44:44) conserved hypothetical protein [Rhodobacterales bacterium Y4I] >gi|206688060|gb|EDZ48542.1| conserved hypothetical protein [Rhodobacterales bacterium Y4I]  E=0.0004 s/c=1.12 id=36% cov=102%
+AEHQHGTMDTTVQEKTYSGFLTFVTRFSIALVIFAIFLAVFAS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    279	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3677	3353	*	*	*	1
+       0	*	*	*	*	*	*	2483	0	0	
+
+D 2    *	*	2138	767	*	*	*	*	2797	*	*	*	*	4605	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2627	0	0	
+
+H 3    *	*	*	*	*	*	131	*	*	*	*	*	*	*	*	*	*	*	*	3521	3
+       0	*	*	*	*	*	*	2683	0	0	
+
+K 4    *	*	*	3813	*	*	*	*	286	*	*	*	*	4942	*	*	*	3719	*	*	4
+       0	*	*	*	*	*	*	2683	0	0	
+
+H 5    *	*	*	4815	*	*	114	*	*	*	*	*	4629	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2683	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2683	0	0	
+
+E 7    *	*	4039	1148	*	*	*	*	*	*	*	*	*	*	*	1512	2865	*	*	*	7
+       0	*	*	*	*	*	*	2683	0	0	
+
+M 8    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2683	0	0	
+
+D 9    *	*	164	*	*	*	*	*	*	*	*	3216	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2683	0	0	
+
+I 10   *	4868	*	*	*	*	*	734	*	*	*	*	*	*	*	*	2136	2867	*	*	10
+       0	*	*	*	*	*	*	2683	0	0	
+
+R 11   *	*	4088	2983	*	*	*	*	4200	*	*	*	*	*	2926	1895	1475	*	*	*	11
+       0	*	*	*	*	*	*	2683	0	0	
+
+H 12   4031	*	5582	2715	*	*	3873	*	*	*	*	*	*	4815	*	3834	3349	1018	*	*	12
+       0	*	*	*	*	*	*	2683	0	0	
+
+Q 13   *	*	*	*	*	*	4643	*	*	*	*	*	*	59	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2683	0	0	
+
+Q 14   *	*	*	264	*	*	*	*	*	*	*	*	*	3202	*	*	4092	*	*	*	14
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 15   3873	*	3875	*	*	*	3770	*	446	*	*	*	*	4151	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2683	0	0	
+
+T 16   3770	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110	*	*	*	16
+       0	*	*	*	*	*	*	2683	0	0	
+
+F 17   *	*	*	*	286	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2473	17
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 18   2120	*	1298	2934	*	*	4360	*	*	*	*	3047	*	*	*	4942	5058	*	*	*	18
+       0	*	*	*	*	*	*	2683	0	0	
+
+G 19   3907	*	*	*	*	309	*	*	*	*	*	5006	*	5132	*	3914	*	*	*	*	19
+       0	*	*	*	*	*	*	2683	0	0	
+
+F 20   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2683	0	0	
+
+I 21   *	*	*	*	*	*	*	1126	*	2563	1956	*	*	*	*	*	*	3120	*	*	21
+       0	*	*	*	*	*	*	2683	0	0	
+
+K 22   4360	*	*	*	*	*	*	*	1100	*	*	3813	*	*	2059	4306	3022	*	*	*	22
+       0	*	*	*	*	*	*	2683	0	0	
+
+G 23   4110	*	*	*	1389	4856	*	4360	*	*	2762	*	*	*	*	*	*	*	1744	5009	23
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 24   4856	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2103	1606	1307	*	*	24
+       0	*	*	*	*	*	*	2683	0	0	
+
+T 25   *	*	*	*	*	*	*	3221	3061	*	3552	*	*	*	*	4629	680	5450	*	*	25
+       0	*	*	*	*	*	*	2683	0	0	
+
+W 26   *	*	*	*	*	*	*	*	4306	*	*	*	*	*	1246	*	*	*	1093	4088	26
+       0	*	*	*	*	*	*	2683	0	0	
+
+V 27   4093	*	*	*	2283	3355	*	3310	*	*	*	*	*	*	*	2761	2359	2358	*	*	27
+       0	*	*	*	*	*	*	2683	0	0	
+
+S 28   1794	3081	*	*	*	4006	*	*	*	4883	*	*	*	*	*	2775	2375	2658	*	*	28
+       0	*	*	*	*	*	*	2683	0	0	
+
+I 29   3900	4680	*	*	*	4336	*	944	*	4865	*	*	*	*	*	*	*	1963	*	4883	29
+       0	*	*	*	*	*	*	2683	0	0	
+
+L 30   1620	*	*	*	3994	5249	*	2456	*	3075	*	*	*	*	*	4360	*	2084	*	*	30
+       0	*	*	*	*	*	*	2683	0	0	
+
+S 31   3550	3200	*	*	*	*	*	1186	*	3426	5058	*	*	*	*	2234	*	5027	*	*	31
+       0	*	*	*	*	*	*	2683	0	0	
+
+I 32   5027	*	*	*	4909	*	*	669	*	4053	*	*	*	*	*	*	*	2019	*	*	32
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 33   1865	5009	*	*	2754	2847	*	3096	*	5246	*	*	*	*	*	*	*	1922	*	*	33
+       0	*	*	*	*	*	*	2683	0	0	
+
+V 34   4039	*	*	*	2200	*	*	2003	*	2566	*	*	*	*	*	4218	*	2003	*	*	34
+       0	*	*	*	*	*	*	2683	0	0	
+
+L 35   2742	5302	*	*	5065	*	*	5217	*	507	*	*	*	*	*	*	5027	4883	*	*	35
+       0	*	*	*	*	*	*	2683	0	0	
+
+V 36   *	*	*	*	*	*	*	863	*	2466	*	*	*	*	*	*	*	1894	*	*	36
+       0	*	*	*	*	*	*	2683	0	0	
+
+F 37   *	*	*	*	290	*	*	*	*	2996	*	*	*	*	*	*	*	*	4139	*	37
+       0	*	*	*	*	*	*	2683	0	0	
+
+L 38   5009	*	*	*	*	*	*	3583	*	602	2142	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 39   72	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4360	39
+       0	*	*	*	*	*	*	2683	0	0	
+
+L 40   4088	*	*	*	*	*	*	1207	*	1656	3770	*	*	*	*	*	*	3090	*	*	40
+       0	*	*	*	*	*	*	2683	0	0	
+
+A 41   3178	*	*	*	804	*	*	3066	*	*	*	*	*	*	*	*	4890	2611	*	*	41
+       0	*	*	*	*	*	*	2683	0	0	
+
+N 42   2654	*	*	*	*	3787	*	*	*	*	*	494	*	*	4089	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2567	0	0	
+
+S 43   1469	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1023	2772	*	*	*	43
+       0	*	*	0	*	*	*	2398	0	0	
+
+//

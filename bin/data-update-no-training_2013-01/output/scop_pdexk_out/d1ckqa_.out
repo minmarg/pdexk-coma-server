@@ -1,0 +1,226 @@
+Query         d1ckqa_ c.52.1.1 (A:) Restriction endonuclease EcoRI {Escherichia coli [TaxId: 562]}
+Match_columns 261
+No_of_seqs    26 out of 28
+Neff          2.6 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:47 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1ckqa_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1ckqa_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1ckqa_ c.52.1.1 (A:) Restrict 100.0       0       0  939.7  25.9  261    1-261     1-261 (261)
+  2 d1d02a_ c.52.1.8 (A:) Restrict  77.6    0.93 6.8E-05   23.0   3.2  131   22-177    18-163 (197)
+  3 d1ckma1 b.40.4.6 (A:239-327) R  34.6      20  0.0015   14.5   3.7   47   57-103    19-66  (89)
+  4 d1q1va_ a.159.4.1 (A:) DEK C-t  33.6      12  0.0009   15.9   2.4   35   22-56     34-68  (70)
+  5 d1hula_ a.26.1.2 (A:) Interleu  23.1      24  0.0018   14.1   2.4   47   92-142    30-76  (108)
+  6 d1txja_ b.88.1.2 (A:) Translat  21.5 1.5E+02   0.011    9.1   6.2   10  168-177   141-150 (171)
+  7 d1h6qa_ b.88.1.2 (A:) Translat  21.1 1.5E+02   0.011    9.0   6.1   33   49-81    113-145 (168)
+  8 d1p16a1 b.40.4.6 (A:246-390) m  19.4      79  0.0057   10.8   4.4   54   74-132    74-137 (145)
+  9 d1whua_ a.4.9.1 (A:) Polynucle  17.6      90  0.0065   10.4   4.4   55   13-76     42-96  (104)
+ 10 d1yz1a1 b.88.1.2 (A:1-172) Tra  17.6 1.9E+02   0.013    8.4   6.0   19   63-81     11-31  (172)
+
+No 1  
+>d1ckqa_ c.52.1.1 (A:) Restriction endonuclease EcoRI {Escherichia coli [TaxId: 562]}
+Probab=100.00  E-value=0  Score=939.68  Aligned_columns=261  Identities=100%
+
+Q ss_pred             CCCCCEEECCHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEECCCCHHHHHHHHHHHHCHHHCCCCCCCCCCCCCCCCEEE
+Q ss_conf             98740000331346566799999999999997534743762101008899999874132203100255660046875689
+Q d1ckqa_           1 SQGVIGIFGDYAKAHDLAVGEVSKLVKKALSNEYPQLSFRYRDSIKKTEINEALKKIDPDLGGTLFVSNSSIKPDGGIVE   80 (261)
+Q Consensus         1 s~gv~~If~~~ak~hD~~v~~~s~~v~~~L~~~Fp~l~f~yr~si~k~eIn~~Lrkid~~lg~tlfv~nssIkPDGGIie   80 (261)
+                      ||||+||||++||+||++||++|++|+++|+++||+|+||||++|+|+|||++||++||+|||||||+|+||+|||||||
+T Consensus         1 s~gv~~If~~~ak~hD~~v~~~s~~v~~~L~~~Fp~l~f~yr~si~k~eIn~~Lrkid~~lg~tlfv~nssIkPDGGIie   80 (261)
+T d1ckqa_           1 SQGVIGIFGDYAKAHDLAVGEVSKLVKKALSNEYPQLSFRYRDSIKKTEINEALKKIDPDLGGTLFVSNSSIKPDGGIVE   80 (261)
+T ss_pred             CCCCCEEECCHHHHHHHHHHHHHHHHHHHHHHHCCCCEEEECCCCHHHHHHHHHHHHCHHHCCCCCCCCCCCCCCCCEEE
+T ss_conf             98740000331346566799999999999997534743762101008899999874132203100255660046875689
+
+
+Q ss_pred             EEECCCCEEEEEEECCCCCCCCHHHHHHHHHCCCCCCHHHHHCCHHHHHHHCCHHHHHHHHHHCCCCCEEEEECCCCCCC
+Q ss_conf             98158845589974121017514666521000256641234403167774114899999985158886799850645222
+Q d1ckqa_          81 VKDDYGEWRVVLVAEAKHQGKDIINIRNGLLVGKRGDQDLMAAGNAIERSHKNISEIANFMLSESHFPYVLFLEGSNFLT  160 (261)
+Q Consensus        81 vkdd~~~wrvvLVSEaK~QGkdienik~Gklvgk~~~QdlmaaGNAIER~~KNi~ei~n~Ml~E~~fPyV~Fl~GsnFlt  160 (261)
+                      ||||||+||||||||||||||||||||+|+||||++|||||||||||||+||||+|||||||+|||||||||||||||||
+T Consensus        81 vkdd~~~wrvvLVSEaK~QGkdienik~Gklvgk~~~QdlmaaGNAIER~~KNi~ei~n~Ml~E~~fPyV~Fl~GsnFlt  160 (261)
+T d1ckqa_          81 VKDDYGEWRVVLVAEAKHQGKDIINIRNGLLVGKRGDQDLMAAGNAIERSHKNISEIANFMLSESHFPYVLFLEGSNFLT  160 (261)
+T ss_pred             EEECCCCEEEEEEECCCCCCCCHHHHHHHHHCCCCCCHHHHHCCHHHHHHHCCHHHHHHHHHHCCCCCEEEEECCCCCCC
+T ss_conf             98158845589974121017514666521000256641234403167774114899999985158886799850645222
+
+
+Q ss_pred             CCEEEECCCCCEEEEEECCCHHHHHHHHHHHHHCCCCCCCCCCCEEEEECCCEEEEEEEEEEEECCCCCCCHHHHHHHHH
+Q ss_conf             43145415760789851663134555544443021002431221257416860344313678716888568889999999
+Q d1ckqa_         161 ENISITRPDGRVVNLEYNSGILNRLDRLTAANYGMPINSNLCINKFVNHKDKSIMLQAASIYTQGDGREWDSKIMFEIMF  240 (261)
+Q Consensus       161 e~i~v~rpDgrvvtl~y~sg~LNrldrlTaanyg~~in~n~c~n~fv~~~~~~~mlq~~SiY~rg~~e~W~~~eM~diM~  240 (261)
+                      ||++|+|||||+|||+||||+|||||||||||||||||+|||+|+||+|+|++|||||+|||||||||||+++||||||+
+T Consensus       161 e~i~v~rpDgrvvtl~y~sg~LNrldrlTaanyg~~in~n~c~n~fv~~~~~~~mlq~~SiY~rg~~e~W~~~eM~diM~  240 (261)
+T d1ckqa_         161 ENISITRPDGRVVNLEYNSGILNRLDRLTAANYGMPINSNLCINKFVNHKDKSIMLQAASIYTQGDGREWDSKIMFEIMF  240 (261)
+T ss_pred             CCEEEECCCCCEEEEEECCCHHHHHHHHHHHHHCCCCCCCCCCCEEEEECCCEEEEEEEEEEEECCCCCCCHHHHHHHHH
+T ss_conf             43145415760789851663134555544443021002431221257416860344313678716888568889999999
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHCC
+Q ss_conf             999999998748999986339
+Q d1ckqa_         241 DISTTSLRVLGRDLFEQLTSK  261 (261)
+Q Consensus       241 ~ia~tsl~~lg~~lf~q~~~k  261 (261)
+                      |||+|||||||+|||+|||+|
+T Consensus       241 ~ia~tsl~~lg~~lf~q~~~k  261 (261)
+T d1ckqa_         241 DISTTSLRVLGRDLFEQLTSK  261 (261)
+T ss_pred             HHHHHHHHHHHHHHHHHHHCC
+T ss_conf             999999998748999986339
+
+
+No 2  
+>d1d02a_ c.52.1.8 (A:) Restriction endonuclease MunI {Mycoplasma, unidentified species [TaxId: 2093]}
+Probab=77.63   E-value=0.93  Score=23.01  Aligned_columns=131  Identities=22%
+
+Q ss_pred             HHHHHHHHHHHHCCCCEEEECCCCH-HHHHHHHHHHHCHHHCCCCCCC-------CCCCCCCCCEEEEEECCCCEEEEEE
+Q ss_conf             9999999999753474376210100-8899999874132203100255-------6600468756899815884558997
+Q d1ckqa_          22 VSKLVKKALSNEYPQLSFRYRDSIK-KTEINEALKKIDPDLGGTLFVS-------NSSIKPDGGIVEVKDDYGEWRVVLV   93 (261)
+Q Consensus        22 ~s~~v~~~L~~~Fp~l~f~yr~si~-k~eIn~~Lrkid~~lg~tlfv~-------nssIkPDGGIievkdd~~~wrvvLV   93 (261)
+                      |-+.-..-+++.|..-+++-+..-+ .+.|-....--++.+. .+|-|       .--|.||.-|--.+     -.-+|-
+T Consensus        18 AE~~f~~vf~~~f~~t~y~i~~~Pke~k~iY~~V~Lp~~vl~-eIYnP~~~~~~t~~Gvspd~aI~N~~-----tgK~l~   91 (197)
+T d1d02a_          18 AEQNLYNVFNAVFEGTKYVLYEKPKHLKNLYAQVVLPDDVIK-EIFNPLIDLSTTQWGVSPAFAIENTE-----THKILF   91 (197)
+T ss_pred             HHHHHHHHHHHHHCCCEEEEECCCHHHHHHHHHCCCCHHHHH-HHHCCCCCCCCCCCCCCCCCEEEECC-----CCCEEE
+T ss_conf             157899999997379806762067357776640367888999-86142002665434432011011147-----772799
+
+
+Q ss_pred             ECCCCCCCCHHHHHHHHHCCCCCCHHHHHCCHHHHHHHCCHH-----HHHHHH-H-HCCCCCEEEEECCCCCCCCCEEEE
+Q ss_conf             412101751466652100025664123440316777411489-----999998-5-158886799850645222431454
+Q d1ckqa_          94 AEAKHQGKDIINIRNGLLVGKRGDQDLMAAGNAIERSHKNIS-----EIANFM-L-SESHFPYVLFLEGSNFLTENISIT  166 (261)
+Q Consensus        94 SEaK~QGkdienik~Gklvgk~~~QdlmaaGNAIER~~KNi~-----ei~n~M-l-~E~~fPyV~Fl~GsnFlte~i~v~  166 (261)
+                      .|+|+|--=+|        |+.. .+  .+|||-||+-|--+     -++..- | .|.+.||-.-.+|+        ++
+T Consensus        92 ~EiKrQdGwVe--------G~~~-sa--GRGNAHERscK~fTpgllk~~r~~~~l~~~~~lPFw~V~~gd--------it  152 (197)
+T d1d02a_          92 GEIKRQDGWVE--------GKDP-SA--GRGNAHERSCKLFTPGLLKAYRTIGGINDEEILPFWVVFEGD--------IT  152 (197)
+T ss_pred             EEEEECCCCCC--------CCCC-CC--CCCCHHHHHHHHCCHHHHHHHHHHHCCCCCCCCCEEEEEECH--------HC
+T ss_conf             99850245247--------8888-88--887633455420374899999986335786656122332100--------10
+
+
+Q ss_pred             CCCCCEEEEEE
+Q ss_conf             15760789851
+Q d1ckqa_         167 RPDGRVVNLEY  177 (261)
+Q Consensus       167 rpDgrvvtl~y  177 (261)
+                      |---|++.+.+
+T Consensus       153 rdp~r~reitf  163 (197)
+T d1d02a_         153 RDPKRVREITF  163 (197)
+T ss_pred             CCCHHHEEEEE
+T ss_conf             02013012324
+
+
+No 3  
+>d1ckma1 b.40.4.6 (A:239-327) RNA guanylyltransferase (mRNA capping enzyme) {Chlorella virus PBCV-1 [TaxId: 10506]}
+Probab=34.63   E-value=20  Score=14.52  Aligned_columns=47  Identities=28%
+
+Q ss_pred             HCHHHCCCCCCCC-CCCCCCCCEEEEEECCCCEEEEEEECCCCCCCCH
+Q ss_conf             1322031002556-6004687568998158845589974121017514
+Q d1ckqa_          57 IDPDLGGTLFVSN-SSIKPDGGIVEVKDDYGEWRVVLVAEAKHQGKDI  103 (261)
+Q Consensus        57 id~~lg~tlfv~n-ssIkPDGGIievkdd~~~wrvvLVSEaK~QGkdi  103 (261)
+                      .+|.+|...++.. ..-.-||-|+|-.=++|.|+++-+-.-|.++..+
+T Consensus        19 ~~~k~~~~vp~~~~~~~~~~g~IVEC~~~~g~W~~~R~R~DK~~pN~~   66 (89)
+T d1ckma1          19 FDPNLRKNVPVGKLDGYYNKGSIVECGFADGTWKYIQGRSDKNQANDR   66 (89)
+T ss_pred             CCCCCCCCCCCCCCCCHHHCCEEEEEEEECCCEEEEEEECCCCCCCHH
+T ss_conf             055555446401112120278168788608972688841588998705
+
+
+No 4  
+>d1q1va_ a.159.4.1 (A:) DEK C-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+Probab=33.59   E-value=12  Score=15.88  Aligned_columns=35  Identities=23%
+
+Q ss_pred             HHHHHHHHHHHHCCCCEEEECCCCHHHHHHHHHHH
+Q ss_conf             99999999997534743762101008899999874
+Q d1ckqa_          22 VSKLVKKALSNEYPQLSFRYRDSIKKTEINEALKK   56 (261)
+Q Consensus        22 ~s~~v~~~L~~~Fp~l~f~yr~si~k~eIn~~Lrk   56 (261)
+                      .++.|-.+|+.+||+..+..|+..-++.|.+.|..
+T Consensus        34 T~K~iR~~Le~~~~g~dL~~rK~~I~~~I~~~L~~   68 (70)
+T d1q1va_          34 TMKQICKKVYENYPTYDLTERKDFIKTTVKELISL   68 (70)
+T ss_pred             CHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHCC
+T ss_conf             67999999999737999167889999999998402
+
+
+No 5  
+>d1hula_ a.26.1.2 (A:) Interleukin-5 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=23.13   E-value=24  Score=14.06  Aligned_columns=47  Identities=28%
+
+Q ss_pred             EEECCCCCCCCHHHHHHHHHCCCCCCHHHHHCCHHHHHHHCCHHHHHHHHH
+Q ss_conf             974121017514666521000256641234403167774114899999985
+Q d1ckqa_          92 LVAEAKHQGKDIINIRNGLLVGKRGDQDLMAAGNAIERSHKNISEIANFML  142 (261)
+Q Consensus        92 LVSEaK~QGkdienik~Gklvgk~~~QdlmaaGNAIER~~KNi~ei~n~Ml  142 (261)
+                      -|.+-|+.---+|-|-.|.  +.-++|-  +.|+|.|++.+|++-|+.+.-
+T Consensus        30 ~vp~hkNHqLCieEiFqGi--dtLknQT--~~g~~ve~lFqNlSliK~yId   76 (108)
+T d1hula_          30 PVPVHKNHQLCTEEIFQGI--GTLESQT--VQGGTVERLFKNLSLIKKYID   76 (108)
+T ss_pred             CCCCCCCCCCHHHHHHHHH--HHHHHCC--CCCHHHHHHHHHHHHHHHHHH
+T ss_conf             2688887662189999888--7775112--340479999987999999986
+
+
+No 6  
+>d1txja_ b.88.1.2 (A:) Translationally controlled tumor protein TCTP (histamine-releasing factor) {Plasmodium knowlesi [TaxId: 5850]}
+Probab=21.45   E-value=1.5e+02  Score=9.08  Aligned_columns=10  Identities=20%
+
+Q ss_pred             CCCCEEEEEE
+Q ss_conf             5760789851
+Q d1ckqa_         168 PDGRVVNLEY  177 (261)
+Q Consensus       168 pDgrvvtl~y  177 (261)
+                      |||-++-+.|
+T Consensus       141 ~dgmv~l~~y  150 (171)
+T d1txja_         141 MDAGLTYSYY  150 (171)
+T ss_pred             CCCEEEEEEC
+T ss_conf             7844899863
+
+
+No 7  
+>d1h6qa_ b.88.1.2 (A:) Translationally controlled tumor protein TCTP (histamine-releasing factor) {Fission yeast (Schizosaccharomyces pombe) [TaxId: 4896]}
+Probab=21.10   E-value=1.5e+02  Score=9.02  Aligned_columns=33  Identities=24%
+
+Q ss_pred             HHHHHHHHHCHHHCCCCCCCCCCCCCCCCEEEE
+Q ss_conf             999998741322031002556600468756899
+Q d1ckqa_          49 EINEALKKIDPDLGGTLFVSNSSIKPDGGIVEV   81 (261)
+Q Consensus        49 eIn~~Lrkid~~lg~tlfv~nssIkPDGGIiev   81 (261)
+                      ...+.++++-.....=-|..-.|+-|||+++.+
+T Consensus       113 ~a~~~vK~il~~fkd~qFy~GeSmd~dgmvvl~  145 (168)
+T d1h6qa_         113 NAIGFVKKILANFKDYDFYIGESMDPDAMVVLM  145 (168)
+T ss_pred             HHHHHHHHHHCCCCCCEEEECCCCCCCCEEEEE
+T ss_conf             579999998605341225428897948258998
+
+
+No 8  
+>d1p16a1 b.40.4.6 (A:246-390) mRNA capping enzyme alpha subunit {Yeast (Candida albicans) [TaxId: 5476]}
+Probab=19.39   E-value=79  Score=10.81  Aligned_columns=54  Identities=28%
+
+Q ss_pred             CCCCEEEEEE---CCCCEEEEEEECCCCCCCCH-------HHHHHHHHCCCCCCHHHHHCCHHHHHHHC
+Q ss_conf             6875689981---58845589974121017514-------66652100025664123440316777411
+Q d1ckqa_          74 PDGGIVEVKD---DYGEWRVVLVAEAKHQGKDI-------INIRNGLLVGKRGDQDLMAAGNAIERSHK  132 (261)
+Q Consensus        74 PDGGIievkd---d~~~wrvvLVSEaK~QGkdi-------enik~Gklvgk~~~QdlmaaGNAIER~~K  132 (261)
+                      -||-|+|..=   ..|.|++.-+-.-|..+..+       +.|+.|+     .-++|.++-.+|..+.|
+T Consensus        74 ld~~IvEc~~d~~~~g~W~~~r~R~DK~~pN~~~t~~~v~~SI~~~v-----t~e~L~~~~~~Ir~~wk  137 (145)
+T d1p16a1          74 LQGRIAECRQSTTKKGYWEMLRFRNDKSNGNHISVVEKILVSIKDGV-----KEKEVIEWCPKISRAWK  137 (145)
+T ss_pred             HCCEEEEEEECCCCCCCEEEEEEECCCCCCCCHHHHHHHHHHHHCCC-----CHHHHHHHHHHHHHHHH
+T ss_conf             06807899755776773368873268898871488999999874288-----98899999889999988
+
+
+No 9  
+>d1whua_ a.4.9.1 (A:) Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domain 3 {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=17.59   E-value=90  Score=10.44  Aligned_columns=55  Identities=22%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHHCCCCEEEECCCCHHHHHHHHHHHHCHHHCCCCCCCCCCCCCCC
+Q ss_conf             4656679999999999999753474376210100889999987413220310025566004687
+Q d1ckqa_          13 KAHDLAVGEVSKLVKKALSNEYPQLSFRYRDSIKKTEINEALKKIDPDLGGTLFVSNSSIKPDG   76 (261)
+Q Consensus        13 k~hD~~v~~~s~~v~~~L~~~Fp~l~f~yr~si~k~eIn~~Lrkid~~lg~tlfv~nssIkPDG   76 (261)
+                      +..+..+..+-..+++.|.++||..+        ..+|..++..+-.++=-..- -+..++|||
+T Consensus        42 ~~R~~~l~~ik~ev~~~l~e~~~e~~--------~~~i~~a~~~v~k~~vR~~I-Le~~~R~DG   96 (104)
+T d1whua_          42 VSRDEAVNKIRLDTEEHLKEKFPEVD--------QFEIIESFNIVAKEVFRSII-LNEYKRCDG   96 (104)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHCCCCC--------HHHHHHHHHHHHHHHHHHHH-HHCCCCCCC
+T ss_conf             57999999999999999885067989--------88999999999999998887-506997787
+
+
+No 10 
+>d1yz1a1 b.88.1.2 (A:1-172) Translationally controlled tumor protein TCTP (histamine-releasing factor) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=17.56   E-value=1.9e+02  Score=8.44  Aligned_columns=19  Identities=32%
+
+Q ss_pred             CCCCCCCCCCCC--CCCEEEE
+Q ss_conf             100255660046--8756899
+Q d1ckqa_          63 GTLFVSNSSIKP--DGGIVEV   81 (261)
+Q Consensus        63 ~tlfv~nssIkP--DGGIiev   81 (261)
+                      .-+|..+-.++|  ||.+.||
+T Consensus        11 DEl~SDs~~~~~~~d~~~yeV   31 (172)
+T d1yz1a1          11 DEMFSDIYKIREIADGLCLEV   31 (172)
+T ss_pred             CEEEECCCCCEECCCCEEEEE
+T ss_conf             755522556523369758997
+
+
+Done!

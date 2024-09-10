@@ -1,0 +1,668 @@
+HHsearch 1.5
+NAME  d1yzha1 c.66.1.53 (A:8-211) tRNA (guanine-N(7)-)-methyltransferase TrmB {Streptococcus pneumoniae [TaxId: 1313]}
+FAM   c.66.1.53
+FILE  d1yzha1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1yzha1.a3m -v 1 
+DATE  Tue Jan 22 05:29:39 2013
+LENG  204 match states, 204 columns in multiple alignment
+FILT  117 out of 5313 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  8.5 
+SEQ
+>ss_pred
+CCHHHHHHCCCCCCCCCCCCCCHHHHHCCCCCCEEEEECCCHHHHHHHHHHHHCCCCCCCCCCCHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHCCCC
+CCCEEEEEECCCCCCCCHHHHHCCCHHHHHHHHHHCCCCCEEEEEECCHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHCCCCEEEE
+EEEC
+>ss_conf
+9313577198400338711121089856899888998418718999987653012453312367578999988655432102057676388888637876
+7425888526644243024540455889999998514587799970898999999999985787012235566567888889887899999718966688
+7528
+>Consensus
+xxxxxxxxxxxxxxxxpxxxxxxwxxxfxxxxpxvLDiGCGxGxxxxxlAxxxpxxxviGvDisxxxixxaxxxaxxxxxxnxxxixxdaxxxxxxxxxx
+xfDxIxxxxpxpxxxxxhxxxrxxxxxxlxxxxrxLkpgGxlxlxtDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTxyExxxxxxGxxixxx
+xxxx
+>d1yzha1 c.66.1.53 (A:8-211) tRNA (guanine-N(7)-)-methyltransferase TrmB {Streptococcus pneumoniae [TaxId: 1313]}
+GATELLEANPQYVVLNPLEAKAKWRDLFGNDNPIHVEVGSGKGAFVSGMAKQNPDINYIGIDIQKSVLSYALDKVLEVGVPNIKLLWVDGSDLTDYFEDG
+EIDRLYLNFSDPWPKKRHEKRRLTYKTFLDTFKRILPENGEIHFKTDNRGLFEYSLVSFSQYGMKLNGVWLDLHASDFEGNVMTEYEQKFSNKGQVIYRV
+EAEF
+>gi|429540173|gb|ELA08202.1|(67-246:262) putative methyltransferase [Moraxella macacae 0408225]   E=5e-22 s/c=0.59 id=18% cov=83%
+------------------------ADFWQNNN-LGLEIGAGKGKHALQFANQNPDFHLVAIERTKQKFGVMQKAAKLANLANLHVVHADAIAWvVHAVPK
+NSLSKIFILYPNPEPHNPN--QRWLNMPFFEFLLSRLKVGGELILATNIEDYANQSFDAALNIWQLPVQKTVV-----PKDSQRTHFEIKYLARGERCWQ
+L----
+>gi|158314418|ref|YP_001506926.1|(40-202:260) type 11 methyltransferase [Frankia sp. EAN1pec] >gi|158109823|gb|ABW12020.1| Methyltransferase type 11 [Frankia sp. EAN1pec]  E=6e-06 s/c=0.33 id=18% cov=72%
+-----------------------------------LDLGCGPGTLTIALAGRVREA--VGVDPEPDMLAEATQQASLAGIRNIRWVEARAENLPPDL--G
+RFQLVTMG------RSFHWMDRNQVLTMLAEMVTptgglvIVNDNCLVRPASDWQRTLEEIQAKFlgtvRRAGSGIFAPPTEPHETvlarspfRHVERVV
+FEFERQWT-------------
+>gi|30260449|ref|NP_842826.1|(88-230:290) hypothetical protein BA_0274 [Bacillus anthracis str. Ames] >gi|47525534|ref|YP_016883.1| hypothetical protein GBAA_0274 [Bacillus anthracis str. 'Ames Ancestor'] >gi|49183291|ref|YP_026543.1| hypothetical protein BAS0260 [Bacillus anthracis str. Sterne] >gi|65317703|ref|ZP_00390662.1| COG0500: SAM-dependent methyltransferases [Bacillus anthracis str. A2012] >gi|170709228|ref|ZP_02899650.1| conserved domain protein [Bacillus anthracis str. A0389] >gi|229603216|ref|YP_002864897.1| hypothetical protein BAA_0321 [Bacillus anthracis str. A0248] >gi|254724736|ref|ZP_05186519.1| hypothetical protein BantA1_20084 [Bacillus anthracis str. A1055] >gi|254761687|ref|ZP_05213704.1| hypothetical protein BantA9_25539 [Bacillus anthracis str. Australia 94] >gi|30253770|gb|AAP24312.1| conserved domain protein [Bacillus anthracis str. Ames] >gi|47500682|gb|AAT29358.1| conserved domain protein [Bacillus anthracis str. 'Ames Ancestor'] >gi|49177218|gb|AAT52594.1| conserved domain protein [Bacillus anthracis str. Sterne] >gi|170125861|gb|EDS94766.1| conserved domain protein [Bacillus anthracis str. A0389] >gi|229267624|gb|ACQ49261.1| conserved domain protein [Bacillus anthracis str. A0248]  E=1e-05 s/c=0.37 id=18% cov=70%
+----------------------------------ILDFGCGWGRIIRFFFKDIRDENLLGIDVDPAMI-----NICNETLGRGIYKTANPQPPVEFISDN
+SLDIIFAYSV------FSHLSEETAEHWIKEFSRILRPGG-IFIATTQARYFLDYCQQFKEHPEFIQTGWHKTLSQAFPDinRAISDYE-----------
+------
+>gi|15640681|ref|NP_230310.1|(46-203:240) hypothetical protein VC0661 [Vibrio cholerae O1 biovar El Tor str. N16961] >gi|121587873|ref|ZP_01677630.1| conserved hypothetical protein [Vibrio cholerae 2740-80] >gi|153818696|ref|ZP_01971363.1| conserved hypothetical protein [Vibrio cholerae NCTC 8457] >gi|153822285|ref|ZP_01974952.1| conserved hypothetical protein [Vibrio cholerae B33] >gi|227080842|ref|YP_002809393.1| hypothetical protein VCM66_0619 [Vibrio cholerae M66-2] >gi|229508709|ref|ZP_04398202.1| predicted O-methyltransferase [Vibrio cholerae B33] >gi|229519542|ref|ZP_04408985.1| predicted O-methyltransferase [Vibrio cholerae RC9] >gi|229608736|ref|YP_002879384.1| O-methyltransferase [Vibrio cholerae MJ-1236] >gi|254850992|ref|ZP_05240342.1| conserved hypothetical protein [Vibrio cholerae MO10] >gi|255743879|ref|ZP_05417835.1| predicted O-methyltransferase [Vibrio cholera CIRS 101] >gi|262156098|ref|ZP_06029217.1| predicted O-methyltransferase [Vibrio cholerae INDRE 91/1] >gi|298500777|ref|ZP_07010580.1| conserved hypothetical protein [Vibrio cholerae MAK 757] >gi|360034569|ref|YP_004936332.1| hypothetical protein Vch1786_I0163 [Vibrio cholerae O1 str. 2010EL-1786] >gi|379740520|ref|YP_005332489.1| tRNA (adenine-N(6)-)-methyltransferase [Vibrio cholerae IEC224] >gi|417812708|ref|ZP_12459367.1| methyltransferase small domain protein [Vibrio cholerae HC-49A2] >gi|417815575|ref|ZP_12462208.1| methyltransferase small domain protein [Vibrio cholerae HCUF01] >gi|418331710|ref|ZP_12942651.1| methyltransferase small domain protein [Vibrio cholerae HC-06A1] >gi|418336130|ref|ZP_12945031.1| methyltransferase small domain protein [Vibrio cholerae HC-23A1] >gi|418342966|ref|ZP_12949761.1| methyltransferase small domain protein [Vibrio cholerae HC-28A1] >gi|418348134|ref|ZP_12952869.1| methyltransferase small domain protein [Vibrio cholerae HC-43A1] >gi|418354509|ref|ZP_12957231.1| methyltransferase small domain protein [Vibrio cholerae HC-61A1] >gi|419825129|ref|ZP_14348635.1| methyltransferase domain protein [Vibrio cholerae CP1033(6)] >gi|421315784|ref|ZP_15766356.1| methyltransferase small domain protein [Vibrio cholerae CP1032(5)] >gi|421319518|ref|ZP_15770077.1| methyltransferase small domain protein [Vibrio cholerae CP1038(11)] >gi|421323567|ref|ZP_15774095.1| methyltransferase small domain protein [Vibrio cholerae CP1041(14)] >gi|421327963|ref|ZP_15778478.1| methyltransferase small domain protein [Vibrio cholerae CP1042(15)] >gi|421330888|ref|ZP_15781370.1| methyltransferase small domain protein [Vibrio cholerae CP1046(19)] >gi|421334555|ref|ZP_15785023.1| methyltransferase small domain protein [Vibrio cholerae CP1048(21)] >gi|421338450|ref|ZP_15788886.1| methyltransferase small domain protein [Vibrio cholerae HC-20A2] >gi|421345593|ref|ZP_15795979.1| methyltransferase small domain protein [Vibrio cholerae HC-46A1] >gi|422890767|ref|ZP_16933179.1| methyltransferase small domain protein [Vibrio cholerae HC-40A1] >gi|422901645|ref|ZP_16937008.1| methyltransferase small domain protein [Vibrio cholerae HC-48A1] >gi|422905869|ref|ZP_16940714.1| methyltransferase small domain protein [Vibrio cholerae HC-70A1] >gi|422912463|ref|ZP_16946989.1| methyltransferase small domain protein [Vibrio cholerae HFU-02] >gi|422924948|ref|ZP_16957978.1| methyltransferase small domain protein [Vibrio cholerae HC-38A1] >gi|423144266|ref|ZP_17131880.1| methyltransferase small domain protein [Vibrio cholerae HC-19A1] >gi|423148918|ref|ZP_17136277.1| methyltransferase small domain protein [Vibrio cholerae HC-21A1] >gi|423152763|ref|ZP_17139961.1| methyltransferase small domain protein [Vibrio cholerae HC-22A1] >gi|423155568|ref|ZP_17142681.1| methyltransferase small domain protein [Vibrio cholerae HC-32A1] >gi|423159406|ref|ZP_17146378.1| methyltransferase small domain protein [Vibrio cholerae HC-33A2] >gi|423164089|ref|ZP_17150876.1| methyltransferase small domain protein [Vibrio cholerae HC-48B2] >gi|423730222|ref|ZP_17703540.1| methyltransferase domain protein [Vibrio cholerae HC-17A1] >gi|423748412|ref|ZP_17711550.1| methyltransferase domain protein [Vibrio cholerae HC-50A2] >gi|423926715|ref|ZP_17730243.1| methyltransferase domain protein [Vibrio cholerae HC-77A1] >gi|424001273|ref|ZP_17744362.1| methyltransferase domain protein [Vibrio cholerae HC-17A2] >gi|424005427|ref|ZP_17748411.1| methyltransferase domain protein [Vibrio cholerae HC-37A1] >gi|424023436|ref|ZP_17763100.1| methyltransferase domain protein [Vibrio cholerae HC-62B1] >gi|424026241|ref|ZP_17765857.1| methyltransferase domain protein [Vibrio cholerae HC-69A1] >gi|424585566|ref|ZP_18025160.1| methyltransferase small domain protein [Vibrio cholerae CP1030(3)] >gi|424594261|ref|ZP_18033599.1| methyltransferase small domain protein [Vibrio cholerae CP1040(13)] >gi|424598126|ref|ZP_18037324.1| methyltransferase small domain protein [Vibrio Cholerae CP1044(17)] >gi|424600882|ref|ZP_18040039.1| methyltransferase small domain protein [Vibrio cholerae CP1047(20)] >gi|424605858|ref|ZP_18044823.1| methyltransferase small domain protein [Vibrio cholerae CP1050(23)] >gi|424609693|ref|ZP_18048551.1| methyltransferase small domain protein [Vibrio cholerae HC-39A1] >gi|424612496|ref|ZP_18051303.1| methyltransferase small domain protein [Vibrio cholerae HC-41A1] >gi|424616318|ref|ZP_18055009.1| methyltransferase small domain protein [Vibrio cholerae HC-42A1] >gi|424621252|ref|ZP_18059780.1| methyltransferase small domain protein [Vibrio cholerae HC-47A1] >gi|424644231|ref|ZP_18081985.1| methyltransferase small domain protein [Vibrio cholerae HC-56A2] >gi|424651874|ref|ZP_18089398.1| methyltransferase small domain protein [Vibrio cholerae HC-57A2] >gi|424655823|ref|ZP_18093125.1| methyltransferase small domain protein [Vibrio cholerae HC-81A2] >gi|429547304|ref|ZP_19217418.1| methyltransferase small domain protein [Vibrio cholerae HC-64A1] >gi|429560799|ref|ZP_19221117.1| methyltransferase small domain protein [Vibrio cholerae HC-65A1] >gi|429566661|ref|ZP_19225073.1| methyltransferase small domain protein [Vibrio cholerae HC-67A1] >gi|429570213|ref|ZP_19228499.1| methyltransferase small domain protein [Vibrio cholerae HC-68A1] >gi|429576077|ref|ZP_19232168.1| methyltransferase small domain protein [Vibrio cholerae HC-71A1] >gi|429610325|ref|ZP_19236832.1| methyltransferase small domain protein [Vibrio cholerae HC-72A2] >gi|429653527|ref|ZP_19244213.1| methyltransferase small domain protein [Vibrio cholerae HC-7A1] >gi|429681361|ref|ZP_19247856.1| methyltransferase small domain protein [Vibrio cholerae HC-80A1] >gi|429716425|ref|ZP_19251384.1| methyltransferase small domain protein [Vibrio cholerae HC-81A1] >gi|81858152|sp|Q9KU62.1|TRMN6_VIBCH RecName: Full=tRNA1(Val) (adenine(37)-N6)-methyltransferase; AltName: Full=tRNA m6A37 methyltransferase >gi|262828776|sp|C3LSR6.1|TRMN6_VIBCM RecName: Full=tRNA1(Val) (adenine(37)-N6)-methyltransferase; AltName: Full=tRNA m6A37 methyltransferase >gi|9655099|gb|AAF93827.1| conserved hypothetical protein [Vibrio cholerae O1 biovar El Tor str. N16961] >gi|121547909|gb|EAX57993.1| conserved hypothetical protein [Vibrio cholerae 2740-80] >gi|126510776|gb|EAZ73370.1| conserved hypothetical protein [Vibrio cholerae NCTC 8457] >gi|126520181|gb|EAZ77404.1| conserved hypothetical protein [Vibrio cholerae B33] >gi|227008730|gb|ACP04942.1| conserved hypothetical protein [Vibrio cholerae M66-2] >gi|229344231|gb|EEO09206.1| predicted O-methyltransferase [Vibrio cholerae RC9] >gi|229354233|gb|EEO19163.1| predicted O-methyltransferase [Vibrio cholerae B33] >gi|229371391|gb|ACQ61814.1| predicted O-methyltransferase [Vibrio cholerae MJ-1236] >gi|254846697|gb|EET25111.1| conserved hypothetical protein [Vibrio cholerae MO10] >gi|255738510|gb|EET93899.1| predicted O-methyltransferase [Vibrio cholera CIRS 101] >gi|262030134|gb|EEY48779.1| predicted O-methyltransferase [Vibrio cholerae INDRE 91/1] >gi|297540558|gb|EFH76616.1| conserved hypothetical protein [Vibrio cholerae MAK 757] >gi|340042875|gb|EGR03838.1| methyltransferase small domain protein [Vibrio cholerae HCUF01] >gi|340043169|gb|EGR04129.1| methyltransferase small domain protein [Vibrio cholerae HC-49A2] >gi|341624968|gb|EGS50441.1| methyltransferase small domain protein [Vibrio cholerae HC-70A1] >gi|341626140|gb|EGS51546.1| methyltransferase small domain protein [Vibrio cholerae HC-48A1] >gi|341626755|gb|EGS52113.1| methyltransferase small domain protein [Vibrio cholerae HC-40A1] >gi|341640639|gb|EGS65220.1| methyltransferase small domain protein [Vibrio cholerae HFU-02] >gi|341648305|gb|EGS72369.1| methyltransferase small domain protein [Vibrio cholerae HC-38A1] >gi|356420433|gb|EHH73959.1| methyltransferase small domain protein [Vibrio cholerae HC-06A1] >gi|356421146|gb|EHH74651.1| methyltransferase small domain protein [Vibrio cholerae HC-21A1] >gi|356425969|gb|EHH79308.1| methyltransferase small domain protein [Vibrio cholerae HC-19A1] >gi|356433653|gb|EHH86840.1| methyltransferase small domain protein [Vibrio cholerae HC-23A1] >gi|356434163|gb|EHH87345.1| methyltransferase small domain protein [Vibrio cholerae HC-22A1] >gi|356437693|gb|EHH90779.1| methyltransferase small domain protein [Vibrio cholerae HC-28A1] >gi|356442737|gb|EHH95572.1| methyltransferase small domain protein [Vibrio cholerae HC-32A1] >gi|356447712|gb|EHI00500.1| methyltransferase small domain protein [Vibrio cholerae HC-43A1] >gi|356449962|gb|EHI02698.1| methyltransferase small domain protein [Vibrio cholerae HC-33A2] >gi|356453763|gb|EHI06423.1| methyltransferase small domain protein [Vibrio cholerae HC-61A1] >gi|356456226|gb|EHI08835.1| methyltransferase small domain protein [Vibrio cholerae HC-48B2] >gi|356645723|gb|AET25778.1| conserved hypothetical protein [Vibrio cholerae O1 str. 2010EL-1786] >gi|378794030|gb|AFC57501.1| tRNA (adenine-N(6)-)-methyltransferase [Vibrio cholerae IEC224] >gi|395922525|gb|EJH33341.1| methyltransferase small domain protein [Vibrio cholerae CP1032(5)] >gi|395922782|gb|EJH33597.1| methyltransferase small domain protein [Vibrio cholerae CP1041(14)] >gi|395925843|gb|EJH36640.1| methyltransferase small domain protein [Vibrio cholerae CP1038(11)] >gi|395930548|gb|EJH41295.1| methyltransferase small domain protein [Vibrio cholerae CP1042(15)] >gi|395934741|gb|EJH45479.1| methyltransferase small domain protein [Vibrio cholerae CP1046(19)] >gi|395937348|gb|EJH48067.1| methyltransferase small domain protein [Vibrio cholerae CP1048(21)] >gi|395944886|gb|EJH55558.1| methyltransferase small domain protein [Vibrio cholerae HC-20A2] >gi|395948538|gb|EJH59183.1| methyltransferase small domain protein [Vibrio cholerae HC-46A1] >gi|395962361|gb|EJH72660.1| methyltransferase small domain protein [Vibrio cholerae HC-56A2] >gi|395963554|gb|EJH73817.1| methyltransferase small domain protein [Vibrio cholerae HC-57A2] >gi|395966376|gb|EJH76501.1| methyltransferase small domain protein [Vibrio cholerae HC-42A1] >gi|395974548|gb|EJH84073.1| methyltransferase small domain protein [Vibrio cholerae HC-47A1] >gi|395977412|gb|EJH86822.1| methyltransferase small domain protein [Vibrio cholerae CP1030(3)] >gi|395979102|gb|EJH88466.1| methyltransferase small domain protein [Vibrio cholerae CP1047(20)] >gi|408009419|gb|EKG47325.1| methyltransferase small domain protein [Vibrio cholerae HC-39A1] >gi|408016192|gb|EKG53746.1| methyltransferase small domain protein [Vibrio cholerae HC-41A1] >gi|408036856|gb|EKG73272.1| methyltransferase small domain protein [Vibrio cholerae CP1040(13)] >gi|408044567|gb|EKG80473.1| methyltransferase small domain protein [Vibrio Cholerae CP1044(17)] >gi|408046275|gb|EKG81975.1| methyltransferase small domain protein [Vibrio cholerae CP1050(23)] >gi|408056862|gb|EKG91733.1| methyltransferase small domain protein [Vibrio cholerae HC-81A2] >gi|408611400|gb|EKK84761.1| methyltransferase domain protein [Vibrio cholerae CP1033(6)] >gi|408627075|gb|EKK99900.1| methyltransferase domain protein [Vibrio cholerae HC-17A1] >gi|408640811|gb|EKL12595.1| methyltransferase domain protein [Vibrio cholerae HC-50A2] >gi|408658101|gb|EKL29173.1| methyltransferase domain protein [Vibrio cholerae HC-77A1] >gi|408848149|gb|EKL88202.1| methyltransferase domain protein [Vibrio cholerae HC-37A1] >gi|408849092|gb|EKL89125.1| methyltransferase domain protein [Vibrio cholerae HC-17A2] >gi|408873242|gb|EKM12444.1| methyltransferase domain protein [Vibrio cholerae HC-62B1] >gi|408881154|gb|EKM20064.1| methyltransferase domain protein [Vibrio cholerae HC-69A1] >gi|429285600|gb|EKY53256.1| methyltransferase small domain protein [Vibrio cholerae HC-67A1] >gi|429287152|gb|EKY54788.1| methyltransferase small domain protein [Vibrio cholerae HC-65A1] >gi|429287773|gb|EKY55401.1| methyltransferase small domain protein [Vibrio cholerae HC-64A1] >gi|429293747|gb|EKY61156.1| methyltransferase small domain protein [Vibrio cholerae HC-72A2] >gi|429298214|gb|EKY65513.1| methyltransferase small domain protein [Vibrio cholerae HC-68A1] >gi|429299551|gb|EKY66801.1| methyltransferase small domain protein [Vibrio cholerae HC-71A1] >gi|429303902|gb|EKY71070.1| methyltransferase small domain protein [Vibrio cholerae HC-7A1] >gi|429310893|gb|EKY77931.1| methyltransferase small domain protein [Vibrio cholerae HC-80A1] >gi|429311962|gb|EKY78994.1| methyltransferase small domain protein [Vibrio cholerae HC-81A1]  E=2e-05 s/c=0.33 id=14% cov=76%
+----------------------------------ILDIGCGTGLLSLMCAQRFPHAHITALDI--EQTAYLAAEHNRQQSPWAERIECQHADILHWQPSK
+RFAAI-ICNP-PYFNSgetAQHQVRATARHTISLQHQALIERLPQLLEPD--GVASFILPKAEGEDFIALARQAGLFVGRYcQVQPTTD---------KP
+VHRLLFE-
+>gi|340354712|ref|ZP_08677413.1|(54-195:222) O-methyltransferase [Sporosarcina newyorkensis 2681] >gi|339623111|gb|EGQ27617.1| O-methyltransferase [Sporosarcina newyorkensis 2681]  E=8e-05 s/c=0.36 id=18% cov=69%
+----------------------------------ILEIGSAIGYSAIRIALAFPEAIIYTIERDAERYAKAVEHIERSGLQeRIQIIQDDAlVFDEKNLP
+KQPFDTLFID-----------AAKGQYQKFFEKYSPLISAKGVIYC--DNMFMHGMVLLKDAEVPKRNRTMIRNLQKfTDWAMNHE-RYE----------
+-------
+>gi|22299491|ref|NP_682738.1|(58-220:396) hypothetical protein tlr1948 [Thermosynechococcus elongatus BP-1] >gi|22295674|dbj|BAC09500.1| tlr1948 [Thermosynechococcus elongatus BP-1]  E=0.0001 s/c=0.30 id=18% cov=74%
+----------------------------------ILDAGCGTGVGTEYLAHLNPQAKITALDLSEAALAIACERCRRSGATNVQFHHLSLEEVAQLGQTf
+QMINCVGVLHHLPEP------QRGIQ-----ALADVLAPGGIVHIFV-YGEYGRWEIKLMQQaiallqgsdrHNYREgVAIGRQLFAALPENNRLKKREQ
+eRWSLENQR--------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1675	0	0	
+
+A 2    737	*	*	*	*	*	*	2269	*	*	*	*	*	2377	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3072	0	0	
+
+T 3    *	*	*	1822	*	*	*	*	1788	*	*	*	2714	2899	*	*	2825	*	*	*	3
+       0	*	*	*	*	*	*	3608	0	0	
+
+E 4    *	*	2802	1878	*	*	*	*	1746	*	*	*	2714	*	2899	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3608	0	0	
+
+L 5    3108	*	*	*	3104	*	2805	2899	*	1486	*	*	*	*	*	*	*	2903	*	*	5
+       0	*	*	*	*	*	*	3901	0	0	
+
+L 6    3648	*	*	*	3694	*	*	1248	*	1245	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	4894	0	0	
+
+E 7    2396	*	3028	1295	*	*	*	*	3152	4124	*	*	*	*	*	4179	4189	*	*	*	7
+       0	*	*	*	*	*	*	5445	0	0	
+
+A 8    4181	*	3931	2480	*	*	*	*	*	2942	*	2459	4179	3787	4377	*	3841	2811	*	*	8
+       0	*	*	*	*	*	*	5445	0	0	
+
+N 9    *	*	4288	*	3956	4259	1620	*	4553	*	*	1830	*	*	4100	3005	*	*	*	*	9
+       169	3177	*	1221	808	*	*	5566	1675	0	
+
+P 10   4553	*	*	*	*	*	*	4288	*	*	*	*	845	*	3888	3013	2662	*	*	*	10
+       0	*	*	*	*	*	*	5566	0	0	
+
+Q 11   3892	*	*	3007	*	4129	*	*	*	2279	*	3956	*	2377	*	2472	*	4335	*	4100	11
+       0	*	*	*	*	*	*	5566	0	0	
+
+Y 12   4335	4555	*	*	2006	*	3319	4771	*	4306	*	*	*	3475	*	4500	*	2078	*	3314	12
+       0	*	*	*	*	*	*	5817	0	0	
+
+V 13   2917	*	*	*	4468	4540	*	2819	*	1995	*	*	*	*	*	*	4258	2559	*	2602	13
+       322	2672	4532	949	1053	*	*	5866	2273	0	
+
+V 14   4283	*	4369	*	3559	*	4493	1745	4596	3326	*	*	2628	*	*	*	*	2872	*	4909	14
+       0	*	*	*	*	*	0	5979	0	1000	
+
+L 15   3449	*	4631	*	*	*	4212	3225	4327	3492	4163	*	2439	3647	*	4590	4589	4449	*	3064	15
+       61	*	4584	*	*	*	0	6095	0	1000	
+
+N 16   4110	*	2736	3570	*	4351	4175	*	2979	*	*	2823	*	3019	3189	*	*	*	*	3290	16
+       0	*	*	*	*	880	1131	6040	0	1642	
+
+P 17   3758	*	4007	3498	*	*	4361	*	*	*	*	*	602	4831	*	*	*	4926	*	*	17
+       0	*	*	*	*	0	*	6225	0	1000	
+
+L 18   *	*	3902	1932	3701	*	*	*	*	2744	4971	*	3424	2572	*	4229	4044	4733	*	*	18
+       175	3581	5022	1606	574	*	*	6491	1589	0	
+
+E 19   4170	*	2973	1450	3527	4920	*	*	3897	5000	4476	4961	4533	*	4804	3702	*	*	*	*	19
+       114	4676	4764	2585	263	0	*	6464	1000	1000	
+
+A 20   2265	*	*	3583	*	2549	*	*	*	3980	3426	*	*	*	*	4059	3370	3595	3951	3698	20
+       97	*	3943	*	*	*	0	6494	0	1000	
+
+K 21   3131	*	*	*	*	*	5289	5207	2619	2788	4594	*	1460	*	4877	4433	*	4634	*	*	21
+       203	3573	4411	1491	634	557	1642	6426	1658	2239	
+
+A 22   4146	4633	*	*	*	2250	*	4739	4469	2232	*	*	2240	*	*	4993	4463	3197	*	*	22
+       0	*	*	*	*	0	*	6371	0	1707	
+
+K 23   *	*	1381	2999	*	*	5127	*	3033	*	5521	2987	*	4109	4625	3963	5072	*	*	*	23
+       60	4625	*	1585	585	*	*	6699	1000	0	
+
+W 24   *	*	*	*	3523	*	*	4808	*	4059	*	*	*	*	*	*	*	*	291	*	24
+       151	3842	5069	1852	468	*	*	6699	1604	0	
+
+R 25   3242	*	3662	*	*	*	5105	*	2201	3927	*	4055	4815	2652	5295	2665	5264	4680	*	*	25
+       168	5544	3497	0	*	*	0	6679	1000	1000	
+
+D 26   3429	*	2937	1700	*	*	*	*	3812	3712	*	3814	*	3856	*	3108	3943	*	*	*	26
+       0	*	*	*	*	*	0	6495	0	2334	
+
+L 27   *	*	*	5118	3148	*	*	2003	*	1587	*	*	*	4916	3402	*	*	3189	*	4700	27
+       210	3209	5179	2055	397	*	0	6642	2173	2334	
+
+F 28   *	*	*	*	372	*	*	*	*	5609	*	*	*	*	*	4778	*	*	*	2552	28
+       84	5133	5146	3322	152	1227	804	6752	1000	2701	
+
+G 29   3581	*	4067	*	*	1308	5333	*	2938	4884	*	*	2927	4223	*	3669	*	*	*	*	29
+       88	5132	5038	4322	74	*	0	6917	1000	2379	
+
+N 30   5712	*	2874	*	*	3822	5767	*	2706	5344	*	1734	*	*	2222	4821	*	*	*	5194	30
+       220	3590	4101	1129	882	2014	411	6965	2308	2877	
+
+D 31   5111	*	2983	2121	*	*	*	4329	2725	3798	*	5188	3101	5052	*	3641	5123	4085	*	*	31
+       78	4248	*	0	*	1071	932	7053	1499	3217	
+
+N 32   2429	*	5252	5009	*	3465	5614	*	2540	5408	*	1644	5132	5310	4211	5456	*	*	*	*	32
+       195	3998	3970	0	*	1767	502	7275	2372	2156	
+
+P 33   4280	*	3700	3693	*	*	*	*	*	4149	*	5177	728	*	*	4275	5345	*	*	5044	33
+       32	5504	*	0	*	*	0	7372	1000	3010	
+
+I 34   *	*	*	*	5326	*	*	3499	3427	1432	*	4393	*	*	3576	5555	4213	2209	*	*	34
+       129	3551	*	1121	889	344	2235	7696	2590	3010	
+
+H 35   5789	5283	*	5330	6315	*	4787	1383	*	*	5613	6427	*	*	6550	*	5128	1296	5605	*	35
+       17	6406	*	0	*	0	*	8905	1000	1000	
+
+V 36   5483	6412	*	*	6279	*	*	4607	*	424	*	*	*	*	*	*	*	2586	*	*	36
+       0	*	*	*	*	*	*	8980	0	0	
+
+E 37   *	*	544	1670	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	9006	0	0	
+
+V 38   5026	*	*	*	4323	*	*	1606	*	1532	*	*	7194	*	*	6611	*	2133	*	*	38
+       0	*	*	*	*	*	*	9033	0	0	
+
+G 39   3278	4216	*	*	7194	301	*	*	*	*	*	*	6276	*	*	*	*	*	*	6426	39
+       0	*	*	*	*	*	*	9033	0	0	
+
+S 40   4216	558	*	*	4151	*	*	5910	*	*	*	*	5618	*	*	3547	3621	7194	*	*	40
+       0	*	*	*	*	*	*	9033	0	0	
+
+G 41   3838	*	*	*	*	121	6551	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	9033	0	0	
+
+K 42   5413	7091	5164	5006	*	4119	5648	4671	4185	*	6797	3335	4106	5809	4772	3134	1818	5681	4263	4357	42
+       0	*	*	*	*	*	*	9033	0	0	
+
+G 43   5642	*	*	*	*	29	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       15	*	6581	*	*	*	*	9033	0	0	
+
+A 44   4123	5761	3592	3132	5644	4153	5644	4303	4932	3802	*	5707	5200	6790	2354	4528	3819	4555	5873	4292	44
+       14	6653	*	1585	585	*	0	9017	1000	1000	
+
+F 45   5184	*	6514	6417	2617	5565	4468	3249	6135	2283	6505	4365	*	6581	*	3763	4829	3950	3737	3697	45
+       26	6668	6912	0	*	0	*	9017	1000	1000	
+
+V 46   2383	6534	*	*	*	5237	*	4339	*	1809	*	*	6416	*	*	2896	2134	4695	6271	6548	46
+       17	6421	*	0	*	0	*	9032	1000	1000	
+
+S 47   4477	5200	5024	4026	4279	5661	6867	2545	5426	2496	6666	5147	6276	4393	4687	4836	6340	2618	5754	5802	47
+       23	*	5982	*	*	*	*	9033	0	0	
+
+G 48   3152	6581	4953	2976	4706	4262	4347	5667	5753	3112	4935	5506	4478	4019	3539	4299	5766	6556	4439	4292	48
+       0	*	*	*	*	*	0	9009	0	1648	
+
+M 49   4390	6304	6661	6446	5543	*	6699	2966	*	1023	3124	*	*	4025	6489	5024	*	6470	*	4722	49
+       18	*	6353	*	*	0	*	9009	0	1648	
+
+A 50   438	*	*	6635	6540	5732	4911	7073	5456	4015	*	*	*	6827	5936	4004	*	6729	*	*	50
+       14	*	6715	*	*	0	*	9011	0	1000	
+
+K 51   3213	*	4896	3410	*	5537	5529	5418	2160	3844	5805	5655	5623	2943	2850	5302	*	5053	*	5486	51
+       0	*	*	*	*	*	0	9032	0	1000	
+
+Q 52   3138	*	4737	4790	6542	6874	3952	5973	2748	3324	*	4184	*	4162	2231	4081	4196	*	6802	5814	52
+       196	*	2978	*	*	*	0	9032	0	1000	
+
+N 53   4244	5654	3773	6383	2855	5356	3799	4566	5511	4300	5414	3193	5367	3972	4951	5581	5574	4920	*	2601	53
+       118	4964	4418	0	*	2626	255	8881	2250	5232	
+
+P 54   7078	*	4816	6539	6712	4848	5341	6401	3989	*	*	6330	742	4887	3828	4654	4928	*	*	5998	54
+       17	*	6426	*	*	568	1620	8865	0	5581	
+
+D 55   6812	*	2099	3056	*	2966	3795	*	4383	*	*	2768	*	3694	5012	3622	5117	6437	*	6280	55
+       15	6636	*	0	*	644	1473	9012	1000	3461	
+
+I 56   1860	*	*	5126	6859	3896	6767	3582	4070	5158	6677	*	*	4804	3848	5098	3548	2882	4398	5200	56
+       47	*	4968	*	*	952	1050	9006	0	1604	
+
+N 57   4968	6746	3295	3678	4978	7155	3552	6532	3719	4966	*	2324	*	3488	2693	4461	4776	*	*	6555	57
+       52	5875	5768	0	*	2066	394	8973	1602	2598	
+
+Y 58   4349	*	*	*	3502	*	5740	2863	*	3100	4282	*	6599	*	*	*	6387	1425	4109	3543	58
+       0	*	*	*	*	723	1343	8969	0	3155	
+
+I 59   6645	7168	5805	6619	5187	*	5037	1798	*	2181	7817	*	*	*	*	*	2354	3008	5831	4411	59
+       0	*	*	*	*	0	*	9071	0	1607	
+
+G 60   1877	5804	*	*	*	632	*	*	*	5560	*	*	*	*	*	5755	5326	*	*	*	60
+       0	*	*	*	*	*	*	9080	0	0	
+
+I 61   4299	4546	*	*	5893	*	*	1879	*	2476	6602	*	*	*	*	5201	5315	1479	*	5914	61
+       0	*	*	*	*	*	*	9082	0	0	
+
+D 62   *	*	584	1698	*	*	*	*	*	*	*	*	*	*	*	6054	6733	*	*	*	62
+       0	*	*	*	*	*	*	9082	0	0	
+
+I 63   5734	*	*	*	3392	*	6517	1915	5065	2294	5692	5180	4029	4677	4663	6444	5768	2727	*	6886	63
+       18	*	6348	*	*	*	*	9082	0	0	
+
+Q 64   3713	*	3304	5375	5248	*	5769	*	5952	5887	*	3769	*	4842	3625	1189	5108	4795	6611	5825	64
+       15	*	6641	*	*	*	0	9055	0	1000	
+
+K 65   3240	*	4434	1896	5415	4982	5629	5858	3730	5643	5743	6000	2306	4207	5945	3933	6850	6595	*	*	65
+       13	6765	*	4322	74	1035	966	9051	1000	1611	
+
+S 66   3123	*	3231	3139	6722	4630	*	4743	3371	5625	6897	3388	3316	5746	3842	4110	3641	5042	*	*	66
+       0	*	*	*	*	0	*	9077	0	1000	
+
+V 67   3085	6609	*	6371	7205	3590	*	*	5043	3921	1844	6744	5776	3733	3344	3742	6987	3780	*	4702	67
+       25	*	5840	*	*	*	*	9082	0	0	
+
+L 68   4587	6772	*	*	*	6365	*	2245	*	1433	8690	*	6528	*	5290	5534	6321	1918	*	5776	68
+       28	*	5723	*	*	*	0	9063	0	1541	
+
+S 69   2477	*	2890	2186	*	3818	6407	*	4118	5139	*	5775	*	4770	2966	4256	7019	6836	5942	5104	69
+       28	*	5721	*	*	*	0	9036	0	2577	
+
+Y 70   4347	5225	6406	3687	5797	*	4574	3628	2977	3831	4137	5533	*	4236	2793	5077	4979	4748	5794	3264	70
+       0	*	*	*	*	1500	630	9011	0	3463	
+
+A 71   773	4479	*	6634	6702	4175	6740	4155	*	3640	*	6908	*	*	*	6572	4369	3804	*	6585	71
+       59	*	4652	*	*	1838	473	9036	0	2577	
+
+L 72   3121	4940	6716	5181	6592	6476	5573	4088	2732	3955	5167	3819	6491	3489	3323	4775	3461	5069	5532	5547	72
+       26	*	5834	*	*	2886	210	9013	0	4034	
+
+D 73   2738	*	4862	2279	6681	4388	5615	*	3098	6523	*	5427	*	2856	2673	5496	4949	6534	*	5602	73
+       54	*	4767	*	*	1486	637	9001	0	4317	
+
+K 74   5856	*	7096	4278	6310	*	3923	6695	2115	5619	*	3034	6604	3756	2653	3914	4761	4664	5330	4274	74
+       90	5687	4596	0	*	3304	154	8993	1617	4410	
+
+V 75   1354	6521	*	6410	6432	6757	6181	2545	*	2989	5352	*	*	5309	4776	3936	5790	3792	*	6333	75
+       30	*	5603	*	*	1749	510	9032	0	5129	
+
+L 76   3201	6501	5353	3881	6471	5403	4866	5410	2488	4232	6865	3642	3941	5171	3137	4110	5547	3889	*	5528	76
+       31	6482	6642	5459	33	1506	626	8967	1000	4721	
+
+E 77   3339	*	3702	2365	6565	6594	*	4996	3801	4737	6585	3639	6476	3880	2769	3410	4627	*	*	5831	77
+       10	7130	*	1000	1000	2970	197	9002	1000	4020	
+
+V 78   3181	*	5565	3121	5609	4484	3759	*	4718	2984	4799	3656	*	3635	3600	3330	6557	5882	6561	4859	78
+       46	6553	5584	2585	263	1712	525	9004	1000	3765	
+
+G 79   6314	5646	3993	3784	5830	1501	5698	*	3466	*	*	3297	4387	3632	5149	6669	4263	5387	*	7095	79
+       47	*	4971	*	*	1696	532	8993	0	3807	
+
+V 80   3311	*	*	6370	4496	5308	6439	3054	6885	1676	6394	6465	4104	5318	*	5512	5698	2649	7052	4329	80
+       71	5718	5099	1117	892	821	1204	9003	1695	4565	
+
+P 81   4314	*	4461	3648	5670	3609	6730	5675	3513	5162	5827	4127	2971	4531	4547	2761	3043	6566	*	6566	81
+       80	5690	4845	2693	242	1153	862	9025	1583	4000	
+
+N 82   4102	*	4397	5533	*	4661	6709	7768	*	4537	*	1120	6824	4440	3151	3961	5135	6428	4856	6722	82
+       62	6304	5089	3700	115	1456	654	9029	1000	4219	
+
+I 83   3236	4709	5798	6431	6513	4449	5969	2880	5595	3021	5647	5475	5349	7163	4905	5630	4737	1860	6615	5445	83
+       81	5427	4981	0	*	993	1007	8999	1645	4327	
+
+K 84   4341	6758	5607	3234	*	5294	4516	4327	3407	3370	6539	4337	*	3450	2224	5438	4027	4477	*	6725	84
+       23	7068	6908	0	*	1160	856	8997	1000	3882	
+
+L 85   3989	6574	*	*	1837	*	*	3489	*	2658	6769	*	6236	*	5434	5786	5089	2401	4723	3663	85
+       0	*	*	*	*	2256	339	9020	0	3035	
+
+L 86   5265	6702	*	6480	5166	6685	4254	2005	5069	2126	4643	*	*	4391	4790	5869	5276	2780	*	4547	86
+       0	*	*	*	*	995	1005	9033	0	2615	
+
+W 87   5159	3216	*	3830	4950	5461	3855	5122	4685	6164	*	4450	5169	2424	3342	5405	4057	3057	7273	5675	87
+       29	*	5657	*	*	*	0	9063	0	1657	
+
+V 88   2205	3557	4312	5140	6777	1779	*	5116	5801	5159	6696	*	6847	4902	6852	4117	3846	4675	*	5845	88
+       13	*	6777	*	*	*	0	9044	0	2637	
+
+D 89   *	*	831	4648	*	5816	*	*	*	6839	*	2265	5207	4651	6729	4689	4735	*	*	6526	89
+       60	5775	5496	577	1602	1281	765	9034	1599	3004	
+
+G 90   1193	*	6801	*	6676	3619	6270	2850	*	2975	3843	6514	6478	*	*	*	*	3617	*	6593	90
+       83	5560	4846	0	*	1322	737	9025	1687	3092	
+
+S 91   4010	7140	4501	2457	6215	6550	5754	5750	4967	3633	4599	3480	6454	4582	3249	4500	3293	4054	*	4831	91
+       43	5752	6568	482	1816	2828	219	9022	1655	3738	
+
+D 92   4526	6776	2445	3313	3749	4631	4878	*	3542	4373	5627	3284	6482	3618	4187	4220	4788	6750	*	6541	92
+       41	7147	5582	2000	415	1242	793	9021	1000	3826	
+
+L 93   4370	6475	4785	4667	3617	5111	*	2732	6560	1916	4746	6507	4273	5607	*	4359	4722	3794	6594	4694	93
+       47	5928	6022	3168	170	573	1608	9017	1602	3445	
+
+T 94   4367	4707	4169	3947	4259	5308	*	5661	4031	2223	4533	5039	3065	6683	6804	4390	3756	5780	4323	5753	94
+       356	3910	2717	229	2767	*	0	9057	3686	2470	
+
+D 95   4366	*	2564	3407	*	4785	3835	*	4117	3477	*	3752	3694	3879	5437	3142	4534	6618	6334	6289	95
+       119	5291	4226	2274	334	4235	79	8845	1748	6005	
+
+Y 96   4991	5240	5286	4395	3254	5207	5309	4438	5315	3051	6477	4242	4414	6222	4921	3285	4700	5378	4856	2619	96
+       135	5162	4030	3965	95	776	1265	8758	1651	6486	
+
+F 97   3958	6247	*	*	1928	6467	6374	3243	6613	1860	*	5531	6564	4823	5440	6642	6284	3333	6736	5443	97
+       67	5492	5451	3941	97	1321	738	8908	1674	5943	
+
+E 98   2767	*	4121	2713	6482	4848	4715	6765	5530	4114	*	5187	1686	6505	6278	5001	6362	4557	*	5477	98
+       70	4854	6311	1018	982	985	1015	8969	2965	4786	
+
+D 99   3929	*	1624	2924	6362	5012	6631	6807	3595	*	*	3919	2945	5547	6801	4030	4895	*	*	6389	99
+       89	5480	4727	1650	553	474	1837	9018	1668	3766	
+
+G 100  2776	*	3832	2839	6749	1947	5358	6884	4537	*	6925	3454	6565	3109	4866	5838	*	*	*	5530	100
+       29	*	5631	*	*	1682	539	9027	0	3453	
+
+E 101  4327	6762	*	3561	*	*	5251	6700	3722	5513	5042	5395	5024	3459	3714	1657	3182	5319	*	5767	101
+       60	5118	6390	1638	559	1547	604	9010	2205	3528	
+
+I 102  4741	6427	*	*	1264	*	*	3990	*	2645	6441	*	*	*	*	*	*	2099	*	3906	102
+       0	*	*	*	*	1270	773	9008	0	2951	
+
+D 103  4054	5757	675	5776	*	*	6803	*	5639	5567	*	4990	*	3683	6412	3836	5934	5711	*	*	103
+       14	*	6706	*	*	*	0	9046	0	2067	
+
+R 104  2918	4772	*	3349	*	4400	*	4706	3577	2036	*	6587	*	*	3160	4891	4313	3576	*	5085	104
+       15	6604	*	0	*	957	1045	9038	1000	2554	
+
+L 105  4394	5708	*	*	5049	*	5699	1226	*	3747	6595	*	*	*	*	*	*	1428	*	*	105
+       212	3434	4495	2242	343	*	0	9062	4538	1638	
+
+Y 106  *	6563	6340	6243	2128	6546	3941	3766	*	3720	5265	6648	*	4695	5457	4229	3036	3186	4152	3812	106
+       132	4763	4296	1815	483	543	1673	8980	2638	3546	
+
+L 107  3805	4124	*	*	4010	6462	*	2317	*	2158	3759	*	*	*	*	3736	4379	2582	*	6786	107
+       68	5758	5190	1403	685	2709	239	8930	1578	3921	
+
+N 108  5603	3987	4659	6999	3380	4876	3841	5722	*	3252	5412	2740	5762	5295	4186	4076	3819	4207	6697	3656	108
+       105	6711	4041	2585	263	2020	408	8947	1000	4220	
+
+F 109  4190	4503	*	5481	1529	*	3460	5077	*	4012	5609	3269	4923	*	*	4394	*	6607	5630	3126	109
+       158	5828	3542	515	1736	*	0	8902	1537	5104	
+
+S 110  4403	*	*	6104	6189	*	6409	5411	6011	3392	5976	6488	1182	6602	6343	3261	4085	3241	5720	*	110
+       178	3952	4276	2612	258	*	0	8793	3171	6041	
+
+D 111  4735	6200	1400	4022	*	5473	6245	4395	*	2595	5683	4268	4873	4863	5948	*	4608	4343	*	6239	111
+       70	*	4397	*	*	3197	167	8695	0	6567	
+
+P 112  *	*	*	3032	5036	*	3801	*	5244	4775	*	6415	984	4835	4878	*	5375	4014	*	4633	112
+       96	6345	4265	1000	1000	4481	66	8692	1000	6539	
+
+W 113  6687	4204	6373	4889	4382	5040	2988	4936	5968	3792	4368	*	5511	5525	6011	6102	4228	4775	2338	2689	113
+       88	5882	4575	0	*	3654	119	8620	1000	6881	
+
+P 114  5266	*	5890	3662	2495	5380	3277	4056	6349	3731	5368	6228	2102	5976	6133	6122	*	4571	5115	4642	114
+       92	*	4010	*	*	3237	162	8669	0	6981	
+
+K 115  5297	*	4377	4612	*	3887	5805	5141	1481	4532	6103	3796	4503	5207	2938	4116	*	5355	*	*	115
+       57	6423	5218	3170	170	2457	290	8636	1000	7143	
+
+K 116  3303	*	3561	4307	5144	*	*	4667	2510	5133	6751	3169	6075	6728	3527	3067	3359	5907	*	5221	116
+       128	5021	4200	2401	303	1958	429	8708	1671	6915	
+
+R 117  3475	*	4918	4101	3894	4251	4254	4295	3247	5183	6681	5969	4276	*	1966	3801	6211	5063	*	6141	117
+       155	6369	3482	2000	415	2394	304	8814	1000	6989	
+
+H 118  *	*	3958	4804	6129	*	1067	*	4475	4315	*	4226	*	2597	5252	5099	*	5255	*	6273	118
+       60	5257	6070	3115	177	4488	66	8687	1652	7179	
+
+E 119  3080	5260	4702	2967	*	4739	2061	6005	6162	3282	*	4904	*	5346	4162	4259	4254	4794	6297	6314	119
+       165	*	3211	*	*	2502	280	8658	0	7244	
+
+K 120  3141	*	4306	6278	4856	5126	4357	*	2067	3626	5102	5175	4178	4498	3396	5040	6101	4731	5604	4753	120
+       0	*	*	*	*	3222	164	8563	0	7624	
+
+R 121  3921	*	4243	*	5824	5276	4659	5299	4463	4346	6326	*	4273	3317	1751	4181	4624	5931	4291	4226	121
+       69	6266	4890	3170	170	4672	58	8611	1000	7461	
+
+R 122  4685	6407	4541	4220	6403	6195	5180	6443	4608	3306	*	*	6273	5237	986	5262	5312	5435	*	5180	122
+       83	5249	5063	2822	220	2622	256	8558	1668	7532	
+
+L 123  2890	*	4337	3890	3257	4237	*	3136	*	2433	4742	5167	5684	6138	5337	4919	4755	3768	5345	*	123
+       108	6165	4110	1585	585	2615	257	8563	1000	7186	
+
+T 124  4871	*	4214	5348	2905	4807	5351	2707	*	3421	6437	5301	6339	3982	6132	6184	3232	2626	6173	5363	124
+       18	6336	*	0	*	2683	244	8562	1000	7214	
+
+Y 125  3077	*	5331	*	6555	4137	3735	*	5235	4056	*	3829	5468	2481	4629	3562	3796	5315	5637	3145	125
+       59	5196	6261	2663	248	1326	734	8730	1700	6624	
+
+K 126  4810	*	3600	2958	*	5358	5539	*	2913	4281	*	*	2489	3514	3608	4211	3630	4623	*	*	126
+       29	6656	6695	2000	415	1312	744	8937	1000	5564	
+
+T 127  2807	*	4330	2353	5971	4721	5368	6470	3042	5553	*	4686	5594	3508	4837	2922	5137	5639	5894	*	127
+       106	5207	4514	1538	609	1317	740	9047	2006	4522	
+
+F 128  3897	*	*	*	1821	5544	6794	3991	*	1960	5297	6766	*	5554	*	4853	3935	3128	6490	5782	128
+       26	6836	6748	2000	415	1208	818	9159	1000	4498	
+
+L 129  3771	*	*	*	3481	*	*	2807	*	1156	4641	6866	*	*	*	*	*	2643	6502	5270	129
+       14	6659	*	0	*	*	0	9203	1000	3778	
+
+D 130  2840	8000	3102	2896	*	6035	6006	6608	3130	4992	6419	3889	6466	3112	3251	3963	4998	*	*	6339	130
+       0	*	*	*	*	541	1678	9203	0	3778	
+
+T 131  2792	6802	3671	1877	6916	6855	*	6640	3657	3398	6005	5307	5593	4548	3965	5220	4482	4186	*	*	131
+       25	7136	6599	1000	1000	1000	1000	9246	1000	1647	
+
+F 132  2854	4229	*	*	3525	*	*	2811	*	2539	3147	*	*	6309	*	6606	5889	2816	5579	3452	132
+       12	6891	*	0	*	*	0	9241	1000	1617	
+
+K 133  2494	*	4415	5104	6117	6742	3297	4361	4001	3439	5021	8034	6631	3678	3865	3910	6831	3465	5256	4867	133
+       33	6532	6433	2807	222	916	1089	9241	1000	1617	
+
+R 134  4556	*	3775	4536	*	4970	6039	*	3269	6442	*	5215	5230	3923	1203	4716	4131	6762	6518	6663	134
+       41	5667	6953	2318	323	864	1150	9215	1713	1676	
+
+I 135  3821	6979	6355	6420	6169	*	3479	3131	5099	2921	5095	4548	*	*	4083	4667	5132	1991	4775	4987	135
+       0	*	*	*	*	0	*	9190	0	1672	
+
+L 136  *	7730	*	*	*	6763	*	5691	*	343	6921	*	*	6450	*	6061	4002	3620	*	*	136
+       0	*	*	*	*	*	*	9264	0	0	
+
+P 137  3334	6804	*	4806	*	6430	6521	5623	1171	5997	*	4797	6195	5591	3091	4137	6016	3417	*	*	137
+       0	*	*	*	*	*	*	9264	0	0	
+
+E 138  5265	*	3853	4066	6490	6627	5756	5731	3442	4694	*	6886	911	5067	*	5849	5612	4801	*	6371	138
+       0	*	*	*	*	*	*	9264	0	0	
+
+N 139  6699	6733	3089	4009	6393	986	6542	*	5172	*	*	3483	4938	5134	5394	4981	5412	*	*	5921	139
+       24	5932	*	1770	501	*	*	9840	1662	0	
+
+G 140  4011	6675	*	6381	*	301	*	*	5503	6247	*	6961	*	*	6558	6721	6534	5045	*	*	140
+       61	5370	5833	1357	714	*	*	9840	1641	0	
+
+E 141  4417	5804	6456	4036	6780	*	4381	3534	3570	3690	6696	*	5282	4293	3453	4998	3571	2644	6562	3410	141
+       12	*	6935	*	*	895	1113	9815	0	1627	
+
+I 142  5775	*	*	*	2281	*	*	2543	*	1677	4896	*	*	6241	*	6745	6847	2344	5811	6375	142
+       135	4355	4633	2172	362	981	1019	9820	3067	1509	
+
+H 143  3824	6843	*	4116	3120	5238	3388	3684	6820	3378	6637	6828	*	5988	3901	4714	5406	2630	6646	3206	143
+       77	5049	5530	2317	323	725	1340	9761	2065	3026	
+
+F 144  6586	5287	5863	*	2299	*	6790	2658	6673	1666	4611	5826	6579	*	6978	6450	5287	2989	*	6487	144
+       153	4586	4081	2456	290	*	0	9768	3358	2562	
+
+K 145  2515	*	4102	4054	4810	4582	*	3593	3876	6784	6668	5407	6400	3240	3950	3385	*	3231	4984	5677	145
+       173	4742	3724	2571	266	2241	343	9671	2663	4502	
+
+T 146  3826	4443	5688	6186	5694	6729	4639	5512	*	6579	6596	*	5152	*	*	2306	1219	3878	*	6522	146
+       234	4316	3332	2669	247	926	1078	9608	2978	6123	
+
+D 147  *	*	750	5626	6363	4781	5551	6408	*	*	*	3517	4821	6293	4938	4151	5017	6308	5171	7009	147
+       118	4716	4632	2073	391	1166	851	9600	2983	6277	
+
+N 148  4392	6485	3925	4442	4624	5937	4297	3492	*	5039	6768	2619	6383	4264	*	3499	5355	2872	3422	5415	148
+       56	6055	5425	2895	208	1110	898	9620	1623	5651	
+
+R 149  3767	*	3979	2678	6832	4351	6507	5613	3655	4343	5139	5151	2547	3009	3752	6617	5293	*	*	5197	149
+       31	*	5576	*	*	1570	593	9685	0	4303	
+
+G 150  3627	6839	3878	2959	4881	3540	5317	4359	6374	4640	6520	3796	3678	4823	3744	4439	3840	4520	5765	5720	150
+       40	6663	5852	2322	322	2925	204	9694	1000	4202	
+
+L 151  3927	6474	4633	6366	3856	*	*	6564	*	2329	4674	6616	*	5228	6250	*	4473	2780	5204	1811	151
+       62	5310	5883	1479	641	883	1127	9707	2092	4596	
+
+F 152  2119	6518	5390	4675	2499	3895	3656	4449	5525	3517	5646	*	6148	5730	5851	4001	6694	5366	5240	5356	152
+       16	6544	*	1000	1000	1527	615	9092	1000	3750	
+
+E 153  3690	*	3685	2129	4965	4139	5710	4527	3692	4742	5125	6655	4251	4739	3348	4054	5534	5483	5707	*	153
+       42	5581	6972	1728	518	1917	444	9792	1733	2815	
+
+Y 154  4043	*	3758	2814	3669	6282	4736	6672	6534	4361	6573	5249	5694	4046	4396	5110	6916	5190	2522	3034	154
+       102	4318	5773	2264	337	*	0	9784	3002	2739	
+
+S 155  3340	5565	6599	4878	3956	6331	*	3458	6257	5082	2307	*	7080	*	4937	2912	2379	4683	*	5696	155
+       85	5240	5018	987	1013	1529	614	9199	2054	3811	
+
+L 156  3541	5014	*	4572	5049	4528	5082	3614	4163	2445	4238	6466	6361	3274	3556	5072	5594	4001	6838	5043	156
+       42	5626	6886	1309	746	1736	515	9672	1541	4332	
+
+V 157  3133	6437	2907	2101	6396	4506	7017	6655	4024	4770	6749	4755	6182	3944	3800	3909	4346	6001	6944	*	157
+       55	6007	5534	1920	443	1773	499	9718	1560	3792	
+
+S 158  4194	6729	5654	3845	5112	5704	4314	4166	3543	2874	5310	5544	4563	3646	4063	4116	5116	3443	5786	4475	158
+       0	*	*	*	*	1134	877	9764	0	3784	
+
+F 159  4184	5708	6579	*	2010	7211	6190	3387	*	1778	3829	7257	5730	6824	*	5919	6363	3377	*	5057	159
+       71	5041	5848	1869	461	1990	418	9807	2236	2617	
+
+S 160  3563	6383	3859	2216	6794	4360	4820	5067	4375	6614	6794	4275	3323	5001	5003	3619	3810	5664	*	4560	160
+       43	6852	5596	0	*	*	0	9763	1000	3128	
+
+Q 161  2926	*	3849	2680	*	3256	5531	7241	3559	4234	*	4370	5687	3164	3510	3977	5733	*	6464	6468	161
+       85	4301	7221	1776	498	2666	247	9735	3097	3780	
+
+Y 162  2896	*	4152	3383	3559	4920	2929	4888	5823	4317	6769	4236	6748	5069	6724	4390	6468	3807	6622	3167	162
+       59	6769	5025	0	*	1691	535	9808	1000	3651	
+
+G 163  5090	*	3629	4096	4829	1731	5467	6391	6621	4953	5998	3896	2369	5845	5383	5792	6273	4454	6376	6446	163
+       60	4889	7177	2527	275	1406	684	9771	2210	4416	
+
+M 164  4251	5515	5173	4571	2764	4057	3948	5569	3626	3064	4067	5395	*	5831	5219	4929	5020	5570	4334	3324	164
+       84	5106	5196	2689	243	1441	663	9784	2179	3575	
+
+K 165  3750	*	4708	3618	2450	4355	4801	5419	4006	4755	6640	5737	4081	4455	3605	4764	4894	4038	5734	4327	165
+       44	6280	5854	1339	726	3008	191	9749	1707	4037	
+
+L 166  5555	7155	5710	3401	4300	4714	5440	2877	4516	2887	4799	4646	4980	4571	4042	5631	4210	3728	5190	4518	166
+       63	4930	6665	1001	999	*	0	9749	2141	4423	
+
+N 167  4963	*	3735	3043	4912	6700	3914	3657	4175	3620	5622	3614	6331	4194	3336	5934	4183	3503	6420	7151	167
+       27	6513	7050	3585	126	1715	524	9730	1000	4610	
+
+G 168  3981	4633	4566	3730	4020	3129	5180	6799	6739	3779	*	3803	5729	2840	5962	5117	3605	4501	5009	4276	168
+       41	5147	*	1788	493	1433	667	9766	2258	4122	
+
+V 169  3285	6754	4099	5097	3699	5137	7994	3419	5192	3379	5250	5697	3287	4151	4900	3601	5443	3210	*	5437	169
+       29	5646	*	1758	506	633	1493	9793	1688	3148	
+
+W 170  3525	5211	4826	4312	4309	3824	3839	4276	6792	4453	*	6319	3967	4858	4657	3057	3626	5151	3152	6516	170
+       0	*	*	*	*	*	0	9745	0	1513	
+
+L 171  3856	6497	4108	4208	5807	4563	5069	5821	3987	3401	6772	4230	3372	4591	3402	4368	5102	3446	*	3680	171
+       48	6327	5606	1585	585	1000	1000	9736	1000	1513	
+
+D 172  3546	*	1801	3577	6313	3832	5494	*	6119	4411	5366	3122	4020	5637	5122	5285	*	4202	6880	4670	172
+       78	4906	5674	1383	698	*	0	9718	2612	2173	
+
+L 173  4807	6900	5144	3451	4047	4662	5659	3711	*	2217	5179	4716	5014	4573	3927	5293	4200	3688	5096	4890	173
+       69	4830	6471	1770	501	712	1361	9697	2613	3142	
+
+H 174  4093	*	6452	4326	2536	*	3264	*	3992	3840	6609	6610	4943	4949	5797	4479	6422	*	3167	2324	174
+       44	6735	5621	2585	263	1503	628	9715	1000	2263	
+
+A 175  2757	5622	5860	4186	6735	5707	4318	4089	3923	3550	6804	4768	3691	4526	3021	3845	7206	3898	6684	5156	175
+       65	4829	6864	690	1396	*	0	9697	2918	2790	
+
+S 176  3695	*	4081	2903	*	3874	4277	5611	3999	4961	4668	3833	3355	4755	5708	3229	3663	6812	*	4748	176
+       59	4644	*	2752	232	1263	777	9691	2629	3159	
+
+D 177  4210	*	2422	2724	8005	3702	4961	5474	6548	5501	5648	4044	3449	*	2538	5000	4770	5727	*	6819	177
+       65	5834	5221	1981	421	*	0	9167	2457	2165	
+
+F 178  5029	*	5457	4599	2351	6876	3276	5682	6450	4428	4979	3446	2640	*	5005	6476	5054	5113	3951	3830	178
+       80	4956	5520	2305	326	2660	248	9046	2214	3579	
+
+E 179  3494	5233	3094	2445	4700	*	6728	5092	4607	3636	*	5478	3282	3987	4391	5237	5412	3843	*	5077	179
+       31	*	5562	*	*	2860	214	9026	0	4000	
+
+G 180  6400	*	2667	3274	4320	2357	4469	7987	4864	3553	4542	4821	5443	4521	5881	5126	6685	4208	5158	5009	180
+       194	3648	4440	1736	515	1974	424	9018	4113	4361	
+
+N 181  3659	6692	3912	4453	4896	4560	3951	6210	5245	4446	*	3558	4002	4875	2254	5143	4705	7123	4311	4121	181
+       123	5613	4035	1000	1000	1707	528	8894	1572	4916	
+
+V 182  4509	6286	6236	6354	4301	4803	6132	2594	*	3621	6345	*	2651	*	6425	6101	4752	1915	*	3833	182
+       105	5336	4453	2212	351	1345	722	8828	1711	5345	
+
+M 183  4162	*	6389	3225	5108	3916	6681	4469	3895	2600	4083	*	3685	5613	3000	5056	4502	3530	*	*	183
+       182	4374	3835	1988	419	965	1036	8984	3038	4981	
+
+T 184  7548	*	6378	5478	5377	5092	6196	*	6397	*	*	6284	*	*	*	2378	632	*	6718	5564	184
+       153	4392	4241	1589	583	790	1246	8929	2523	4966	
+
+E 185  4961	*	3776	1696	4912	5344	3671	6513	2900	6681	*	5373	4672	6391	3370	5147	5415	*	6460	4052	185
+       116	5840	4065	565	1625	1302	750	8999	1502	4516	
+
+Y 186  *	*	*	*	1734	*	*	5253	5515	6125	*	*	5480	*	2707	*	*	*	4487	1262	186
+       108	4293	5573	1110	898	1352	717	8786	3161	4730	
+
+E 187  6430	*	6299	271	*	*	4358	*	6336	*	5765	*	*	4251	*	*	6075	*	*	*	187
+       0	*	*	*	*	965	1035	8687	0	4796	
+
+Q 188  4029	*	5324	4643	*	5504	*	3924	2412	4397	*	5119	*	2944	1867	5501	3388	*	*	*	188
+       67	6025	5067	0	*	1915	445	8706	1000	3038	
+
+K 189  5531	*	*	*	6336	*	5008	5262	1909	3090	4159	*	*	3313	1958	*	4424	6072	*	4330	189
+       18	*	6321	*	*	1327	733	8800	0	3559	
+
+F 190  2483	*	6122	*	2194	3058	6109	*	*	3944	*	*	*	*	*	4924	4387	5081	2842	2847	190
+       22	6015	*	2000	415	1016	984	8635	1000	2707	
+
+S 191  4139	*	4723	4158	*	5939	4969	3963	4962	2172	5048	*	*	6174	3059	2685	3489	*	4085	6020	191
+       65	4789	7041	645	1471	1036	965	8673	1563	1619	
+
+N 192  1962	*	3961	2677	5788	5928	*	*	3778	4124	*	3411	*	3615	3120	3890	*	*	*	*	192
+       0	*	*	*	*	*	0	8575	0	1678	
+
+K 193  2678	5748	4635	2557	5822	*	5886	*	2444	3742	5587	*	4957	3100	3553	3901	*	*	*	*	193
+       0	*	*	*	*	1000	1000	8428	0	1678	
+
+G 194  *	*	*	5893	*	304	*	*	7324	*	*	3117	*	*	5852	4871	*	*	*	*	194
+       100	5308	4580	2322	322	0	*	8282	1000	1000	
+
+Q 195  4559	5344	4415	3889	4492	5526	3623	5429	2771	2345	*	4625	*	3272	2638	*	*	*	*	*	195
+       0	*	*	*	*	930	1073	8125	0	1520	
+
+V 196  5094	*	4406	3560	*	4662	5577	*	2828	*	*	4363	2207	5369	3860	5551	2952	2958	*	*	196
+       71	5418	5350	1585	585	*	0	8055	1000	1000	
+
+I 197  *	*	*	*	*	*	*	1375	*	3648	5305	*	3878	*	*	4452	*	1400	*	5910	197
+       37	5293	*	2322	322	1206	819	7714	1000	1591	
+
+Y 198  *	*	*	4738	2602	*	2168	5075	*	*	*	*	*	5153	5256	*	5241	*	3522	1404	198
+       44	5063	*	1000	1000	*	0	7424	1000	1000	
+
+R 199  *	4935	2627	4858	5073	*	*	4889	*	*	*	*	*	4186	1040	*	*	*	*	2589	199
+       0	*	*	*	*	*	0	7227	0	1000	
+
+V 200  *	*	*	*	*	*	*	2327	*	1503	3517	*	*	*	*	*	4402	1674	*	*	200
+       0	*	*	*	*	0	*	6737	0	1000	
+
+E 201  *	*	*	1906	*	*	*	2872	3490	3245	*	*	*	4607	3411	*	2829	2986	*	*	201
+       0	*	*	*	*	*	*	6130	0	0	
+
+A 202  1237	*	*	*	919	*	*	*	*	*	*	*	*	*	*	4408	*	*	*	*	202
+       0	*	*	*	*	*	*	5814	0	0	
+
+E 203  *	*	3784	1700	*	*	3807	*	3948	*	*	*	3836	2278	2272	*	*	*	*	*	203
+       0	*	*	*	*	*	*	5550	0	0	
+
+F 204  *	*	*	*	560	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1636	204
+       0	*	*	0	*	*	*	3491	0	0	
+
+//

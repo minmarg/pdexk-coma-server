@@ -1,0 +1,217 @@
+HHsearch 1.5
+NAME  d1mkna_ g.5.1.1 (A:) Midkine, a heparin-binding growth factor, N-terminal domain {Synthetic}
+FAM   g.5.1.1
+FILE  d1mkna_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mkna_.a3m -v 1 
+DATE  Mon Jan 21 23:20:52 2013
+LENG  59 match states, 59 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEECCCCCCCCCCCCC
+>ss_conf
+97665555556665555314564578887677610354433432320235777313359
+>Consensus
+kKxxkxkkxxxxseCxewxxgxCvpxxgDCGxGxRegTCxxxtxkxkCkiPCNWKKxFG
+>d1mkna_ g.5.1.1 (A:) Midkine, a heparin-binding growth factor, N-terminal domain {Synthetic}
+KKKDKVKKGGPGSECAEWAWGPCTPSSKDCGVGFREGTCGAQTQRIRCRVPCNWKKEFG
+>gi|260800027|ref|XP_002594938.1|(3-59:111) hypothetical protein BRAFLDRAFT_244520 [Branchiostoma floridae] >gi|229280176|gb|EEN50949.1| hypothetical protein BRAFLDRAFT_244520 [Branchiostoma floridae]  E=2e-05 s/c=0.92 id=47% cov=90%
+-------KKGPQEGCSGWTWQPCVPAEGDCGLGQRQGTqegpnCKILSKTIKCRIPCGRRKEYG
+>gi|221221976|gb|ACM09649.1|(26-84:147) Pleiotrophic factor-alpha-2 precursor [Salmo salar]   E=6e-14 s/c=1.36 id=58% cov=100%
+-KREKGKGAKAGAtECAEWRYGSCVPNNGDCGVGVREGTCNNQMRKLKCKVPCNWKKEFG
+>gi|225716904|gb|ACO14298.1|(28-85:150) Midkine precursor [Esox lucius]   E=9e-14 s/c=1.38 id=56% cov=100%
+KKGQKAKEGGK-VECAEKRFSKCVPSASDCGDGFREATCGEHTTKHKCNIPCNWKKAFG
+>gi|225706782|gb|ACO09237.1|(31-86:148) Pleiotrophic factor-alpha-2 precursor [Osmerus mordax] >gi|225707930|gb|ACO09811.1| Pleiotrophic factor-alpha-2 precursor [Osmerus mordax]  E=2e-12 s/c=1.35 id=49% cov=97%
+-KHGNGKEGRAGGECSEWTYSKCVPEAGDCGNGVREATCKDQTKKIDCKIPCNWKKD--
+>gi|229366158|gb|ACQ58059.1|(35-82:164) Midkine precursor [Anoplopoma fimbria]   E=2e-13 s/c=1.65 id=61% cov=83%
+-----------GSACTDWRYGNCVPSNGDCGTGFREGSCDQQNKTMKCRVPCNWKKEFG
+>gi|224051100|ref|XP_002200154.1|(33-80:142) PREDICTED: midkine (neurite growth-promoting factor 2) [Taeniopygia guttata]  E=4e-11 s/c=1.48 id=59% cov=83%
+-----------GSKCEDWRWGPCVPNSKDCGLGYREGTCKDESKKLKCKIPCNWKKKFG
+>gi|50540927|gb|AAT77950.1|(25-87:158) heparin-binding neurite-promoting factor [Danio rerio]   E=4e-11 s/c=1.13 id=47% cov=100%
+-KTEKQGKKERKSDCGEWQWSVCVANEGDCGLGIREGTrsgndCKQTIKTQRCKIPCNWKKQFG
+>gi|410907812|ref|XP_003967385.1|(26-83:148) PREDICTED: midkine-B-like [Takifugu rubripes]   E=5e-09 s/c=1.11 id=51% cov=97%
+-KGGKSDKSKAVSECtpAETRYGKCVPESGDCGEGLREATCKDRTDKIHCKIPCNWKKD--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1376	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2032	0	0	
+
+K 3    *	*	*	*	*	1408	2855	*	2682	*	*	*	*	*	2806	*	2426	*	*	*	3
+       0	*	*	*	*	*	*	2032	0	0	
+
+D 4    *	*	3091	1735	*	1989	*	*	*	*	*	*	*	1598	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2056	0	0	
+
+K 5    *	*	*	*	*	*	*	*	190	*	*	3020	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2056	0	0	
+
+V 6    2217	*	*	3117	*	1997	*	*	*	*	*	*	*	2531	*	2959	*	3091	*	*	6
+       0	*	*	*	*	*	*	2056	0	0	
+
+K 7    *	*	3082	*	*	2971	*	*	407	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2083	0	0	
+
+K 8    *	*	*	1576	*	3384	*	*	814	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2269	0	0	
+
+G 9    2407	*	*	*	*	1482	*	*	2153	*	*	*	*	*	*	3709	3591	3850	*	*	9
+       0	*	*	*	*	*	*	2276	0	0	
+
+G 10   *	*	*	3535	*	1281	*	*	2736	*	*	*	*	*	2114	3046	*	*	*	*	10
+       0	*	*	*	*	*	*	2328	0	0	
+
+P 11   1875	*	*	*	*	*	*	*	2849	4044	*	*	1459	*	3535	*	3680	*	*	*	11
+       216	*	2849	*	*	*	*	2328	0	0	
+
+G 12   2337	*	*	*	*	823	*	*	3997	*	*	*	*	3164	*	*	*	3996	*	*	12
+       0	*	*	*	*	0	*	2200	0	1062	
+
+S 13   2831	*	*	3384	*	4754	*	3991	*	*	*	*	4466	*	*	818	*	4284	*	*	13
+       44	5044	*	0	*	*	*	2261	1000	0	
+
+E 14   3498	*	1925	1034	*	3384	*	*	3968	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       132	3514	*	1000	1000	*	*	2261	1165	0	
+
+A 16   1232	*	*	4109	*	3072	*	*	*	*	*	*	*	4702	*	2149	2905	*	*	*	16
+       94	3991	*	0	*	*	*	2261	1000	0	
+
+E 17   *	*	2653	424	*	3384	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2261	0	0	
+
+W 18   *	*	*	*	*	*	*	*	3419	*	*	*	*	*	*	*	3514	*	288	*	18
+       0	*	*	*	*	*	*	2261	0	0	
+
+A 19   3446	*	*	*	*	*	4702	*	*	4778	*	*	*	2732	1277	*	1887	*	*	*	19
+       0	*	*	*	*	*	*	2261	0	0	
+
+W 20   *	*	*	*	3004	*	*	*	*	*	*	*	*	*	*	*	*	*	888	1578	20
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 21   *	*	*	*	*	521	*	*	*	*	*	*	*	3384	*	2270	*	*	*	*	21
+       0	*	*	*	*	*	*	2261	0	0	
+
+P 22   *	*	*	*	*	*	*	*	2002	*	*	3158	1344	*	*	2996	*	3072	*	*	22
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2261	0	0	
+
+T 24   4987	*	*	*	*	*	*	2250	*	*	*	*	*	*	*	*	3048	650	*	*	24
+       0	*	*	*	*	*	*	2261	0	0	
+
+P 25   2421	*	*	*	*	*	*	*	*	*	*	*	298	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2261	0	0	
+
+S 26   3384	*	*	3005	*	*	*	*	*	*	*	1270	*	*	*	1608	4753	*	*	*	26
+       0	*	*	*	*	*	*	2261	0	0	
+
+S 27   2937	*	*	2494	*	*	4361	*	*	*	*	2252	*	*	*	1207	*	*	*	*	27
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 28   *	*	*	*	*	683	*	*	1619	*	*	*	*	*	*	4284	*	*	*	*	28
+       0	*	*	*	*	*	*	2261	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 31   *	*	*	*	*	94	*	*	*	*	*	*	*	*	*	3991	*	*	*	*	31
+       0	*	*	*	*	*	*	2261	0	0	
+
+V 32   3214	*	2815	4685	*	*	*	*	*	1633	4036	3864	*	4778	*	*	4530	2478	*	*	32
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       47	*	4974	*	*	*	*	2261	0	0	
+
+F 34   *	*	*	*	1625	*	*	3841	*	3970	4749	*	*	3365	*	*	2796	2400	*	3745	34
+       0	*	*	*	*	*	0	2256	0	1000	
+
+R 35   *	3897	*	*	*	*	*	*	*	*	*	*	*	*	100	*	*	*	*	*	35
+       0	*	*	*	*	*	0	2256	0	1000	
+
+E 36   *	*	4336	347	*	*	*	*	*	*	*	*	*	2606	*	*	*	*	*	*	36
+       0	*	*	*	*	*	0	2256	0	1000	
+
+G 37   1970	*	*	*	*	425	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	0	*	2256	0	1000	
+
+T 38   *	*	*	*	*	*	*	*	4747	*	*	*	*	*	*	2790	289	*	*	*	38
+       349	2220	*	2322	322	*	*	2261	1479	0	
+
+C 39   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 40   *	*	3635	*	*	1778	*	*	1500	*	*	2682	*	*	4466	3769	*	*	*	*	40
+       0	*	*	*	*	*	*	2261	0	0	
+
+A 41   3222	*	2142	1820	*	*	*	3384	*	*	*	5044	*	2624	*	*	3991	4974	*	*	41
+       0	*	*	*	*	*	*	2261	0	0	
+
+Q 42   *	*	*	3015	*	*	2815	*	*	3384	*	*	*	1057	4685	*	3072	*	*	*	42
+       0	*	*	*	*	*	*	2261	0	0	
+
+T 43   *	*	*	*	*	*	*	3612	*	*	3891	4530	*	*	*	2589	641	*	*	*	43
+       0	*	*	*	*	*	*	2261	0	0	
+
+Q 44   *	*	3514	*	*	*	*	*	1266	*	*	*	*	2308	2312	*	3419	*	*	*	44
+       0	*	*	*	*	*	*	2261	0	0	
+
+R 45   *	*	*	*	*	*	3401	*	889	*	*	*	*	*	3222	*	1955	*	*	*	45
+       0	*	*	*	*	*	*	2261	0	0	
+
+I 46   *	*	*	*	*	*	3419	1323	*	2166	4530	*	*	3072	*	*	4983	3473	*	*	46
+       0	*	*	*	*	*	*	2261	0	0	
+
+R 47   *	*	4754	*	*	*	3324	*	850	*	*	*	4361	*	1944	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 48   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2261	0	0	
+
+R 49   *	*	*	*	*	*	*	*	839	*	*	3419	*	*	1524	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2261	0	0	
+
+V 50   *	*	*	*	*	*	*	667	*	*	*	*	*	*	*	*	*	1433	*	*	50
+       0	*	*	*	*	*	*	2263	0	0	
+
+P 51   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2263	0	0	
+
+C 52   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2263	0	0	
+
+N 53   *	*	*	*	*	3374	*	*	*	*	*	146	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2263	0	0	
+
+W 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3374	*	*	*	146	*	54
+       0	*	*	*	*	*	*	2263	0	0	
+
+K 55   *	*	*	*	*	*	*	*	146	*	*	*	*	*	3374	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2263	0	0	
+
+K 56   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2263	0	0	
+
+E 57   3403	*	1986	1242	*	*	*	*	3088	*	*	*	*	3152	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2263	0	0	
+
+F 58   *	*	*	*	171	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3159	58
+       0	*	*	*	*	*	*	2153	0	0	
+
+G 59   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	0	*	*	*	2153	0	0	
+
+//

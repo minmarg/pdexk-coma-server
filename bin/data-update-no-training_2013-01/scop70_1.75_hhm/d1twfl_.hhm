@@ -1,0 +1,176 @@
+HHsearch 1.5
+NAME  d1twfl_ g.41.9.2 (L:) RBP12 subunit of RNA polymerase II {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   g.41.9.2
+FILE  d1twfl_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1twfl_.a3m -v 1 
+DATE  Tue Jan 22 02:35:08 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  103 out of 122 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.6 
+SEQ
+>ss_pred
+CCEEEEECCCCCEEEECCCCCEEECCCCCEEEEEECCCEEEEEECC
+>ss_conf
+9337872688970054799915514489677776058826688349
+>Consensus
+xxvxYiCgxCgxxxxlxxxdxirCxeCGxRIlYKkRTkrxvqfeAR
+>d1twfl_ g.41.9.2 (L:) RBP12 subunit of RNA polymerase II {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+ATLKYICAECSSKLSLSRTDAVRCKDCGHRILLKARTKRLVQFEAR
+>gi|85082466|ref|XP_956919.1|(30-75:75) hypothetical protein NCU04508 [Neurospora crassa OR74A] >gi|336270882|ref|XP_003350200.1| hypothetical protein SMAC_01092 [Sordaria macrospora k-hell] >gi|28918000|gb|EAA27683.1| predicted protein [Neurospora crassa OR74A] >gi|336471123|gb|EGO59284.1| hypothetical protein NEUTE1DRAFT_99462 [Neurospora tetrasperma FGSC 2508] >gi|350292210|gb|EGZ73405.1| hypothetical protein NEUTE2DRAFT_127761 [Neurospora tetrasperma FGSC 2509] >gi|380095595|emb|CCC07068.1| unnamed protein product [Sordaria macrospora k-hell]  E=4e-06 s/c=1.19 id=45% cov=102%
+SVMWYTCGDCAVRVPLEKGAPIRCQKCGARVLYKERTKRMVQFEAR
+>gi|357451245|ref|XP_003595899.1|(77-121:121) DNA-directed RNA polymerases I, II, and III subunit RPABC4 [Medicago truncatula] >gi|355484947|gb|AES66150.1| DNA-directed RNA polymerases I, II, and III subunit RPABC4 [Medicago truncatula]  E=2e-09 s/c=1.44 id=35% cov=100%
+-PIRYLCGDCGAETPLYTDGVLQCCVCFYKILYKKRTHRVLQYEAR
+>gi|17539996|ref|NP_501593.1|(18-62:62) Protein RPB-12 [Caenorhabditis elegans] >gi|5596645|emb|CAB51465.1| Protein RPB-12 [Caenorhabditis elegans]  E=4e-13 s/c=1.72 id=41% cov=100%
+-SMIYICGECHAENEIKPKDAIRCRECGYRILYKKRCRKLMVYDAR
+>gi|326429075|gb|EGD74645.1|(15-58:58) hypothetical protein PTSG_06010 [Salpingoeca sp. ATCC 50818]   E=8e-08 s/c=1.35 id=42% cov=98%
+--MEYICGSCGRRTRIRQMDSLACTNCGHRILYKPRTARPVQVNCR
+>gi|330038772|ref|XP_003239696.1|(1-44:44) DNA-directed RNA polymerases I, II and III [Cryptomonas paramecium] >gi|327206620|gb|AEA38798.1| DNA-directed RNA polymerases I, II and III [Cryptomonas paramecium]  E=9e-06 s/c=1.20 id=36% cov=98%
+--MDYYCSECGLVNQVNAGESVICKYCGARILYKIRPNAILEYEAK
+>gi|123454823|ref|XP_001315161.1|(4-47:47) DNA-directed RNA polymerasese [Trichomonas vaginalis G3] >gi|121897829|gb|EAY02938.1| DNA-directed RNA polymerasese, putative [Trichomonas vaginalis G3]  E=0.0007 s/c=1.05 id=36% cov=98%
+--VEYNCSNCGKTVRAEDRGAMRCPQCGCNILYKKRTTKRITFSAR
+>gi|340897373|gb|EGS16963.1|(89-133:134) hypothetical protein CTHT_0072870 [Chaetomium thermophilum var. thermophilum DSM 1495]  E=7e-08 s/c=1.32 id=30% cov=96%
+--VYYTCKDCGAEEGFEANQQLRCDNCGGRIMMKQRKRKVMQYHA-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    935	*	*	*	*	2440	*	*	*	*	*	*	*	*	*	1773	*	*	*	*	1
+       0	*	*	*	*	*	*	2575	0	0	
+
+T 2    *	*	*	4992	*	5274	*	*	*	*	*	*	918	4979	*	3301	2265	3792	*	*	2
+       0	*	*	*	*	*	*	2986	0	0	
+
+L 3    *	*	*	*	*	*	*	2926	*	4218	1377	*	*	*	*	*	*	1219	*	*	3
+       0	*	*	*	*	*	*	3607	0	0	
+
+K 4    4255	*	5568	2613	6976	*	5330	3361	3422	4424	*	*	4785	5967	4867	3818	2685	3092	6835	4206	4
+       0	*	*	*	*	*	*	3595	0	0	
+
+Y 5    *	*	*	*	*	*	*	*	*	*	*	5857	*	*	*	*	*	*	*	25	5
+       0	*	*	*	*	*	*	3648	0	0	
+
+I 6    *	*	5485	*	*	*	*	1198	6871	2084	*	4226	*	4960	6785	5392	4083	3466	*	5090	6
+       10	7161	*	0	*	*	*	3648	1000	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3648	0	0	
+
+A 8    2399	*	*	*	*	757	*	5709	5490	*	*	*	*	*	*	3049	5953	5904	*	5393	8
+       56	4708	*	2302	327	*	*	3646	1664	0	
+
+E 9    3569	*	1388	1521	*	4654	6793	*	6260	*	*	4098	*	4320	*	6049	*	*	*	*	9
+       0	*	*	*	*	*	*	3646	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3646	0	0	
+
+S 11   4185	*	4859	5910	*	803	3090	*	*	*	*	5191	5716	6257	4925	3609	7184	5492	*	*	11
+       22	6015	*	3000	193	*	*	3646	1000	0	
+
+S 12   1629	6847	5492	*	5536	3791	5041	5430	3558	5206	5695	4684	*	4593	5483	3083	3763	3779	*	*	12
+       0	*	*	*	*	*	*	3646	0	0	
+
+K 13   *	*	2745	1894	*	*	7048	6036	2803	4207	*	5332	4414	5434	3916	3726	4130	4141	*	6480	13
+       0	*	*	*	*	*	*	3646	0	0	
+
+L 14   6036	*	*	5493	4049	*	6284	4781	*	4619	*	1462	*	5724	5716	6014	3038	1866	*	*	14
+       0	*	*	*	*	*	*	3646	0	0	
+
+S 15   5150	5407	5882	2101	*	5069	6404	4767	5847	5221	5598	4877	3928	3411	3242	3192	3840	3871	*	6970	15
+       13	6813	*	0	*	*	*	3646	1000	0	
+
+L 16   5417	*	*	*	4305	*	*	1390	*	1226	4074	*	*	*	*	*	*	4116	*	*	16
+       0	*	*	*	*	*	*	3646	0	0	
+
+S 17   *	*	4929	3306	*	4334	*	6062	1470	*	*	4079	5457	4427	2761	3724	4244	6404	*	5355	17
+       0	*	*	*	*	*	*	3646	0	0	
+
+R 18   2594	*	4549	*	6157	4637	6813	6014	2912	4456	6945	6253	1909	4223	3232	3994	5355	*	*	*	18
+       0	*	*	*	*	*	*	3646	0	0	
+
+T 19   5761	*	3551	*	*	1754	6480	*	2938	5695	5216	3394	*	*	2320	4147	4518	5919	*	*	19
+       101	4263	6015	3280	157	*	*	3646	1773	0	
+
+D 20   3036	*	972	2549	*	4015	*	*	*	*	*	5421	*	3965	*	5754	5069	*	*	*	20
+       0	*	*	*	*	*	0	3638	0	1000	
+
+A 21   2269	*	6177	*	6617	6585	*	4948	*	4854	4464	*	1432	4416	*	3833	4409	3170	*	*	21
+       0	*	*	*	*	*	0	3638	0	1000	
+
+V 22   *	*	*	*	6656	*	*	907	*	2742	4408	*	*	*	*	*	6675	1998	*	*	22
+       0	*	*	*	*	*	0	3638	0	1000	
+
+R 23   4516	*	*	*	*	*	*	4683	4501	*	6959	6177	*	3526	483	5065	5690	*	*	*	23
+       0	*	*	*	*	*	0	3638	0	1000	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       19	*	6252	*	*	0	*	3638	0	1000	
+
+K 25   *	5353	5410	*	*	*	5949	*	1945	7095	6396	4488	4267	4649	1497	5387	3863	3764	*	*	25
+       0	*	*	*	*	0	*	3642	0	1000	
+
+D 26   5567	*	4034	1004	4887	*	4055	*	5171	*	6934	2921	*	3972	6395	5159	6813	5355	*	5621	26
+       0	*	*	*	*	*	*	3646	0	0	
+
+C 27   *	50	*	*	*	*	*	*	*	*	*	*	*	*	5726	6015	*	*	*	*	27
+       0	*	*	*	*	*	*	3646	0	0	
+
+G 28   5152	*	*	*	5354	118	*	*	*	*	*	6251	*	*	*	*	6281	*	*	*	28
+       0	*	*	*	*	*	*	3648	0	0	
+
+H 29   4376	2729	*	*	4709	3667	1605	*	*	*	*	4855	*	*	*	4495	6154	*	*	1930	29
+       0	*	*	*	*	*	*	3648	0	0	
+
+R 30   *	*	*	*	*	*	*	*	4655	*	*	5416	*	*	138	*	*	*	5138	*	30
+       0	*	*	*	*	*	*	3648	0	0	
+
+I 31   5406	*	*	*	*	*	*	542	*	*	*	*	*	*	*	5490	5138	2065	*	*	31
+       0	*	*	*	*	*	*	3648	0	0	
+
+L 32   *	*	*	*	4938	*	*	4956	*	800	1626	*	*	*	*	*	*	4757	*	*	32
+       0	*	*	*	*	*	*	3648	0	0	
+
+L 33   *	5957	*	*	4745	*	4401	*	*	4886	5492	7148	*	*	5714	*	*	*	5406	334	33
+       0	*	*	*	*	*	*	3648	0	0	
+
+K 34   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3648	0	0	
+
+A 35   4346	*	*	2759	*	*	*	4777	945	5256	5618	5335	4029	4426	4472	*	5431	*	*	*	35
+       24	*	5912	*	*	*	*	3671	0	0	
+
+R 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	36
+       16	6504	*	2000	415	0	*	3657	1000	1000	
+
+T 37   6081	7212	*	5832	*	6107	*	5252	4711	*	*	*	5612	5351	*	3672	455	5113	*	*	37
+       23	5964	*	1585	585	*	*	3669	1000	0	
+
+K 38   6071	*	4303	4749	*	*	4941	*	1195	*	*	2978	*	*	2172	6154	4196	*	*	6577	38
+       18	6305	*	0	*	*	*	3669	1000	0	
+
+R 39   5612	*	*	4216	*	6999	*	*	2553	*	*	5964	*	3542	664	*	*	*	*	6081	39
+       8	7483	*	4087	87	*	*	3669	1000	0	
+
+L 40   5900	*	*	*	6545	5699	6879	3066	*	2707	1438	*	4340	*	4664	6155	6083	2564	5926	*	40
+       0	*	*	*	*	*	*	3603	0	0	
+
+V 41   *	5461	*	*	*	*	*	2795	*	3243	3063	*	5952	*	*	4284	4852	983	*	*	41
+       0	*	*	*	*	*	*	3505	0	0	
+
+Q 42   *	6711	*	4019	6267	5836	6997	6665	6444	*	*	*	*	574	*	*	5198	2554	*	*	42
+       0	*	*	*	*	*	*	3505	0	0	
+
+F 43   *	*	*	*	706	*	*	*	*	5362	*	*	*	*	*	*	*	4276	*	1685	43
+       0	*	*	*	*	*	*	3501	0	0	
+
+E 44   *	*	2675	612	*	*	5325	5419	*	*	*	4737	4970	5349	*	4414	*	*	*	*	44
+       0	*	*	*	*	*	*	3421	0	0	
+
+A 45   100	5237	*	*	*	6042	5324	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3421	0	0	
+
+R 46   *	*	*	*	*	*	*	*	4764	*	*	*	*	*	54	*	*	*	*	*	46
+       0	*	*	0	*	*	*	3211	0	0	
+
+//

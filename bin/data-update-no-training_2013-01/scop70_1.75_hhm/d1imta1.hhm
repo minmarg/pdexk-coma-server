@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1imta1 g.3.10.1 (A:1-36) Intestinal toxin 1 {Black mamba (Dendroaspis polylepis polylepis) [TaxId: 8620]}
+FAM   g.3.10.1
+FILE  d1imta1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1imta1.a3m -v 1 
+DATE  Mon Jan 21 21:41:52 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  23 out of 25 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCHHHHHHHHCCCEEECCCCC
+>ss_conf
+921366566766688623455454420001011589
+>Consensus
+avitgaCerDxQCgxGxCCAvSlwxrxlRxCtPlGn
+>d1imta1 g.3.10.1 (A:1-36) Intestinal toxin 1 {Black mamba (Dendroaspis polylepis polylepis) [TaxId: 8620]}
+AVITGACERDLQCGKGTCCAVSLWIKSVRVCTPVGT
+>gi|301606873|ref|XP_002933044.1|(20-54:106) PREDICTED: prokineticin-1-like [Xenopus (Silurana) tropicalis]   E=2e-08 s/c=1.78 id=72% cov=100%
+AVITGACEKDLQCGIGTCCAISLWLRGLRMCTPLG-
+>gi|77404246|ref|NP_001029190.1|(20-54:105) prokineticin-1 precursor [Bos taurus] >gi|296489384|gb|DAA31497.1| prokineticin 1 [Bos taurus]  E=5e-08 s/c=1.74 id=75% cov=100%
+AVITGACERDVQCRAGTCCAVSLWLRGLRVCTPLG-
+>gi|410899539|ref|XP_003963254.1|(45-79:138) PREDICTED: prokineticin-1-like [Takifugu rubripes]   E=5e-07 s/c=1.64 id=69% cov=100%
+AVITGACERDVQCGLGLCCAVSLWLRGLRMCAPRG-
+>gi|338714575|ref|XP_003363110.1|(53-87:154) PREDICTED: prokineticin-2-like [Equus caballus]   E=7e-06 s/c=1.54 id=56% cov=100%
+SLVYNACDKDPQCGGGMCCAVSIWVKSIRICTPMG-
+>gi|149442896|ref|XP_001521078.1|(21-56:119) PREDICTED: hypothetical protein LOC100092485, partial [Ornithorhynchus anatinus]  E=1e-08 s/c=1.75 id=65% cov=103%
+AVITGACDKDPQCGVGMCCAISIWIQSLRMCTPLGN
+>gi|348510479|ref|XP_003442773.1|(20-54:107) PREDICTED: AVIToxin-VAR2-like [Oreochromis niloticus]   E=1e-07 s/c=1.70 id=78% cov=100%
+AVITGACERDSQCGGGMCCAVSLWIRSLRMCTPMG-
+>gi|166798244|gb|ABY89668.1|(20-55:105) AVIT toxin Var3 [Varanus komodoensis]   E=6e-07 s/c=1.59 id=73% cov=103%
+AVITGACDKDLQCGEGMCCAVSLWIRSIRICTPLGS
+>gi|395821527|ref|XP_003784089.1|(20-54:105) PREDICTED: prokineticin-1 [Otolemur garnettii]   E=4e-06 s/c=1.56 id=72% cov=100%
+AVITGACEQDVQCEAGTCCAISLWVKGVRLCTPLG-
+>gi|82134463|sp|Q8JFY0.1|BM8D_BOMMX(20-55:96) RecName: Full=Prokineticin Bm8-d; Flags: Precursor >gi|21436579|emb|CAD29343.1| BM8-d protein [Bombina maxima]  E=0.0001 s/c=1.38 id=57% cov=103%
+AVITGVCDRDAQCGSGTCCAASAFSRNIRFCVPLGN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    170	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3166	*	*	*	*	1
+       0	*	*	*	*	*	*	1685	0	0	
+
+V 2    *	*	*	*	*	*	*	*	*	3166	*	*	*	*	*	*	*	170	*	*	2
+       0	*	*	*	*	*	*	1685	0	0	
+
+I 3    *	*	*	*	*	*	*	170	*	*	*	*	*	*	*	*	*	3166	*	*	3
+       0	*	*	*	*	*	*	1685	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	161	*	*	3243	4
+       0	*	*	*	*	*	*	1685	0	0	
+
+G 5    *	*	*	*	*	230	*	*	*	*	*	3243	*	*	4588	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1685	0	0	
+
+A 6    133	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3501	*	*	6
+       0	*	*	*	*	*	*	1701	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1701	0	0	
+
+E 8    *	*	1176	843	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1701	0	0	
+
+R 9    *	*	*	*	*	*	*	*	1547	*	*	*	*	4110	923	*	*	*	3791	*	9
+       0	*	*	*	*	*	*	1701	0	0	
+
+D 10   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1701	0	0	
+
+L 11   3501	*	*	*	*	*	*	*	*	3014	*	*	2190	3879	*	3673	*	1244	*	*	11
+       0	*	*	*	*	*	*	1701	0	0	
+
+Q 12   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1701	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1701	0	0	
+
+G 14   *	*	*	4110	*	152	*	*	*	*	*	*	*	*	4577	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1701	0	0	
+
+K 15   2014	*	*	4674	*	1796	*	4801	4359	4442	*	*	4864	*	*	2525	*	3528	*	*	15
+       0	*	*	*	*	*	*	1701	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1701	0	0	
+
+T 17   *	*	*	*	*	*	*	*	*	2930	1606	*	*	*	*	*	888	*	*	*	17
+       0	*	*	*	*	*	*	1701	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1701	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1701	0	0	
+
+A 20   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1701	0	0	
+
+V 21   2512	*	*	*	*	*	*	1975	*	*	*	*	*	*	*	*	*	810	*	*	21
+       0	*	*	*	*	*	*	1701	0	0	
+
+S 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	22
+       0	*	*	*	*	*	*	1701	0	0	
+
+L 23   2815	*	*	*	*	*	*	2168	*	655	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1701	0	0	
+
+W 24   *	*	*	*	3501	*	*	*	*	*	*	*	*	*	*	*	*	*	133	*	24
+       0	*	*	*	*	*	*	1701	0	0	
+
+I 25   *	*	*	*	*	*	*	1667	*	1403	*	*	*	*	*	2815	*	2600	*	*	25
+       0	*	*	*	*	*	*	1701	0	0	
+
+K 26   *	*	*	*	*	*	*	*	2226	*	*	*	*	4440	434	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1701	0	0	
+
+S 27   *	*	*	*	*	1198	*	*	*	*	*	2815	*	*	*	1245	*	*	*	*	27
+       0	*	*	*	*	*	*	1701	0	0	
+
+V 28   *	*	*	*	*	*	*	1794	*	725	*	*	*	*	*	*	*	3229	*	*	28
+       0	*	*	*	*	*	*	1701	0	0	
+
+R 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1701	0	0	
+
+V 30   *	*	*	*	2815	*	*	2774	*	2480	1297	*	*	*	*	*	*	2994	*	*	30
+       0	*	*	*	*	*	*	1701	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1701	0	0	
+
+T 32   4442	*	*	*	*	*	*	*	*	*	4486	*	*	*	*	*	382	2815	*	*	32
+       0	*	*	*	*	*	*	1701	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1701	0	0	
+
+V 34   *	*	*	*	*	*	*	*	*	800	1983	*	*	4622	3585	*	*	4359	*	*	34
+       0	*	*	*	*	*	*	1701	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1701	0	0	
+
+T 36   *	*	*	*	*	*	*	*	*	*	*	462	*	*	*	3049	2708	*	*	*	36
+       0	*	*	0	*	*	*	1595	0	0	
+
+//

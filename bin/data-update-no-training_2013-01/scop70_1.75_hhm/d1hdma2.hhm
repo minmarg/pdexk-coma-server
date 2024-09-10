@@ -1,0 +1,285 @@
+HHsearch 1.5
+NAME  d1hdma2 d.19.1.1 (A:13-93) Class II MHC alpha chain, N-terminal domain {Human (Homo sapiens), HLA-DM [TaxId: 9606]}
+FAM   d.19.1.1
+FILE  d1hdma2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1hdma2.a3m -v 1 
+DATE  Mon Jan 21 21:18:50 2013
+LENG  81 match states, 81 columns in multiple alignment
+FILT  24 out of 26 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCEEEEEEEECCCCCCCCEECCCCCEEEEEECCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHCCCCCCC
+>ss_conf
+976320356751179997100000376502453456671067688875545787213457689999998864312553689
+>Consensus
+lqnHTfxhtlfCQxxsPsxgLsexyDxdqLFSFdFsqntrVPRLPefaxWaxxxxdxixfDkxfCxxxxqxxxxlxgxipv
+>d1hdma2 d.19.1.1 (A:13-93) Class II MHC alpha chain, N-terminal domain {Human (Homo sapiens), HLA-DM [TaxId: 9606]}
+LQNHTFLHTVYCQDGSPSVGLSEAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAILFDKEFCEWMIQQIPKLDGKIPV
+>gi|1256156|dbj|BAA11171.1|(39-122:260) MHC class II DM alpha-chain [Bos taurus]   E=2e-32 s/c=1.68 id=73% cov=101%
+LQNHTFLHTMYCQDWSPNVALSESYDEDQLFSFDFSQSIRVPRLPEFADWAHQHGDTsdIMFDKGFCRAMIEEIgPELEGQIPV
+>gi|971504|emb|CAA62308.1|(40-122:261) MAd [Mus musculus] >gi|1209534|gb|AAA98929.1| H2-M alpha chain [Mus musculus] >gi|1209541|gb|AAA91135.1| MHC class II H2-M alpha chain [Mus musculus] >gi|74199521|dbj|BAE41446.1| unnamed protein product [Mus musculus]  E=4e-31 s/c=1.65 id=72% cov=100%
+-QNHTFRHTLFCQDGIPNIGLSETYDEDELFSFDFSQNTRVPRLPDFAEWAQGQGDasAIAFDKSFCEMLMREVsPKLEGQIPV
+>gi|126309815|ref|XP_001377359.1|(59-141:296) PREDICTED: class II histocompatibility antigen, M alpha chain-like [Monodelphis domestica]  E=2e-26 s/c=1.46 id=56% cov=100%
+LHNYTFSHTFFCQNEAPMVSLSEAFGGDQLFSFDFSKNSRVPRLPEFAPWAGDQSDlqAIDRDKQLCQELQKALSNfLEGQIP-
+>gi|395537011|ref|XP_003770501.1|(39-121:306) PREDICTED: class II histocompatibility antigen, M alpha chain-like [Sarcophilus harrisii]  E=2e-25 s/c=1.42 id=53% cov=100%
+LQNYTFSHILFCQNGESSLGLSENFNGDYLFSFDFSKNSRVPRLPEFAAWATDKRDikTIDADKNLCQELQHQLSRLcKGRIP-
+>gi|147902886|ref|NP_001083579.1|(26-102:248) major histocompatibility complex class II alpha chain precursor [Xenopus laevis] >gi|38197333|gb|AAH61681.1| MGC68534 protein [Xenopus laevis]  E=1e-19 s/c=1.29 id=31% cov=91%
+-QDHSLKQVLFCQPQSPSPVLLKMFDEEQMFQYNFADKSVVPRIPNLKKWANQdlfsNSSDLAFDIQLCTEAMQNFTQ-------
+>gi|301625740|ref|XP_002942060.1|(28-103:251) PREDICTED: class II histocompatibility antigen, M alpha chain-like [Xenopus (Silurana) tropicalis]  E=2e-15 s/c=1.12 id=30% cov=90%
+--SHILRQVLFCQPQSPSPVLLKMFDDEQMFQYSFADKSVVPRIPDFNKWTSQEvfssSEFLAFDEELCTESMENFTK-------
+>gi|326935599|ref|XP_003213857.1|(29-102:264) PREDICTED: class II histocompatibility antigen, M alpha chain-like [Meleagris gallopavo]  E=8e-08 s/c=0.81 id=33% cov=90%
+---HTLSEVLFCQPDTPLLGLSVAFDLEQLFSFDVPNSQWLPQLPDGPAWpaGTEQPQELQHDTILCRKLHDELTSL------
+>gi|298919211|ref|NP_001177361.1|(39-122:258) histocompatibility antigen DM heterodimer heavy chain-like precursor [Oryctolagus cuniculus] >gi|2058514|gb|AAB53263.1| histocompatibility antigen DM heterodimer heavy chain [Oryctolagus cuniculus]  E=4e-30 s/c=1.60 id=73% cov=101%
+LQNHTFLHTVFCQMGNPSEGLFEAYDSDLLFSFDFSQRTRVPRLPEFADWAQDQSDisDILFDRWFCQQLVQNVgPHLDGKIPV
+>gi|34392375|dbj|BAC82512.1|(29-102:263) MHC class II A family peptide loading [Coturnix japonica]   E=1e-21 s/c=1.43 id=36% cov=90%
+---HTLSEVLFCQPDTPTRGLSVAFDSEQLFSFDFPKSQWLPQLPDAPSWPSgiEQPDELNFDTSLCLDLLHVLTRI------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1806	0	0	
+
+Q 2    *	*	*	4450	*	*	3775	*	*	*	*	*	*	182	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2139	0	0	
+
+N 3    *	*	3244	*	*	*	*	*	*	*	*	339	*	*	*	3268	*	*	*	*	3
+       0	*	*	*	*	*	*	2226	0	0	
+
+H 4    *	*	*	*	*	*	185	*	*	*	*	*	*	*	*	*	*	*	*	3058	4
+       0	*	*	*	*	*	*	2587	0	0	
+
+T 5    *	*	*	*	*	*	*	3475	*	*	*	*	*	*	*	3442	290	*	*	*	5
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 6    *	*	*	*	676	*	*	*	*	1419	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2587	0	0	
+
+L 7    *	*	*	*	*	*	*	*	3442	1753	*	*	*	3505	2077	1805	*	*	*	*	7
+       0	*	*	*	*	*	*	2587	0	0	
+
+H 8    *	*	*	2590	*	*	708	*	*	*	*	*	*	2458	*	*	*	*	*	4655	8
+       0	*	*	*	*	*	*	2587	0	0	
+
+T 9    *	*	*	*	*	*	*	4009	*	*	*	*	*	*	*	*	762	1523	*	*	9
+       0	*	*	*	*	*	*	2587	0	0	
+
+V 10   *	*	*	*	4108	*	*	4907	*	1078	2309	*	*	*	*	*	*	2101	*	*	10
+       0	*	*	*	*	*	*	2587	0	0	
+
+Y 11   *	*	*	*	604	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1547	11
+       0	*	*	*	*	*	*	2587	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 13   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 14   *	*	1777	4112	*	*	*	*	*	*	4553	2120	1523	*	*	*	*	*	*	5071	14
+       0	*	*	*	*	*	*	2587	0	0	
+
+G 15   *	*	2590	4108	*	1327	*	*	*	*	*	*	*	2458	*	*	*	*	2356	*	15
+       0	*	*	*	*	*	*	2587	0	0	
+
+S 16   4108	*	*	4009	5053	*	*	4903	*	*	*	2924	*	*	*	1100	2197	*	*	*	16
+       0	*	*	*	*	*	*	2587	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	93	*	*	4009	*	*	*	*	17
+       0	*	*	*	*	*	*	2587	0	0	
+
+S 18   *	*	*	4655	*	5350	*	*	*	3498	4108	3110	*	*	*	747	3688	*	*	*	18
+       0	*	*	*	*	*	*	2587	0	0	
+
+V 19   *	*	*	4553	*	*	*	2418	*	2500	4969	*	2458	*	3688	*	*	1727	*	*	19
+       0	*	*	*	*	*	*	2587	0	0	
+
+G 20   5097	*	*	*	*	452	*	*	*	*	*	*	*	*	*	4108	*	2458	*	*	20
+       0	*	*	*	*	*	*	2587	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2587	0	0	
+
+S 22   *	*	*	*	4553	*	*	*	*	2048	*	*	*	*	*	483	*	*	*	*	22
+       0	*	*	*	*	*	*	2587	0	0	
+
+E 23   *	*	*	617	*	*	*	*	2458	*	*	*	*	*	*	*	*	2590	*	*	23
+       0	*	*	*	*	*	*	2587	0	0	
+
+A 24   1220	*	*	*	*	*	*	*	*	*	2458	4009	*	*	*	2583	3060	4655	*	*	24
+       0	*	*	*	*	*	*	2587	0	0	
+
+Y 25   *	*	*	*	1095	*	*	*	*	*	*	*	*	*	*	*	*	*	*	911	25
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 26   *	*	185	*	*	4108	*	*	*	*	*	4009	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2587	0	0	
+
+E 27   *	*	3475	1291	*	1773	*	*	*	3498	*	*	*	*	*	3057	*	*	*	*	27
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 28   *	*	617	1523	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 29   5053	*	*	4903	*	*	*	*	*	3316	*	*	*	370	*	*	*	*	*	4009	29
+       0	*	*	*	*	*	*	2587	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	290	2458	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 31   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       37	*	5286	*	*	*	*	2587	0	0	
+
+F 32   *	*	*	*	5158	*	*	*	*	*	*	*	*	2429	*	347	*	*	*	*	32
+       0	*	*	*	*	0	*	2598	0	1000	
+
+F 33   *	*	*	*	336	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2268	33
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 34   *	*	474	*	*	*	*	*	*	*	*	2395	*	*	*	3475	*	*	*	*	34
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 35   *	*	*	*	134	*	*	*	*	*	*	*	*	*	*	*	*	3498	*	*	35
+       0	*	*	*	*	*	*	2587	0	0	
+
+S 36   2225	*	*	*	*	*	*	*	*	5071	*	4843	2590	*	*	848	*	*	*	*	36
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 37   *	*	2458	*	*	*	*	*	1836	*	*	3498	*	1154	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2587	0	0	
+
+N 38   *	*	*	*	*	*	*	*	2458	*	*	867	*	*	4553	2138	*	*	*	*	38
+       0	*	*	*	*	*	*	2587	0	0	
+
+T 39   *	*	*	*	*	*	*	3398	*	*	*	*	*	2590	*	1607	1405	4907	*	*	39
+       0	*	*	*	*	*	*	2587	0	0	
+
+R 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	617	*	*	2458	2590	*	40
+       0	*	*	*	*	*	*	2587	0	0	
+
+V 41   *	*	*	*	*	*	*	*	*	2590	*	*	*	*	*	*	*	262	*	*	41
+       0	*	*	*	*	*	*	2587	0	0	
+
+P 42   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2587	0	0	
+
+R 43   *	*	*	*	*	*	*	*	*	*	*	*	*	2590	262	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2587	0	0	
+
+L 44   *	*	*	*	*	*	*	2458	*	290	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2587	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2587	0	0	
+
+E 46   *	*	1552	819	*	*	*	*	*	*	*	3442	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 47   3688	*	*	*	431	3498	*	*	*	3442	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2587	0	0	
+
+A 48   693	*	*	*	*	*	*	*	3442	*	*	3475	2590	*	*	*	4907	*	*	*	48
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 49   2731	*	1189	3976	*	*	*	*	2458	*	*	5071	4108	*	*	3688	*	*	*	*	49
+       0	*	*	*	*	*	*	2587	0	0	
+
+W 50   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	50
+       134	3498	*	1000	1000	*	*	2587	1000	0	
+
+A 51   496	*	*	*	*	3498	*	*	*	*	*	*	3688	*	*	*	3002	*	*	*	51
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 52   *	*	*	4969	*	4108	3398	*	5260	*	*	3442	*	1400	*	2577	2731	*	*	*	52
+       116	3688	*	1000	1000	*	*	2587	1000	0	
+
+E 53   *	*	1883	1845	*	4903	*	*	2835	*	*	*	*	1853	*	*	*	*	*	*	53
+       139	3442	*	2000	415	*	*	2587	1000	0	
+
+Q 54   4907	*	*	3062	*	*	4180	4655	4009	5440	*	3442	4090	1123	4969	5318	*	*	*	*	54
+       136	3475	*	2000	415	*	*	2587	1000	0	
+
+G 55   *	*	*	4655	*	1567	*	*	*	*	*	*	2590	*	3103	1555	*	*	*	*	55
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 56   *	*	455	3475	*	*	*	*	*	*	*	*	*	3498	*	3442	*	*	*	*	56
+       1035	966	*	1000	1000	*	*	2587	1851	0	
+
+A 57   1415	*	2893	2590	3475	*	*	*	*	*	*	*	*	*	*	4907	2314	*	*	*	57
+       173	3145	*	1000	1000	*	*	2587	1300	0	
+
+I 58   *	*	*	*	*	*	*	617	*	1523	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2587	0	0	
+
+L 59   1721	*	3058	*	2438	*	*	*	*	3412	4180	3688	*	3498	*	3703	*	*	*	*	59
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 60   4009	*	*	*	338	*	3498	*	*	*	*	*	*	*	4108	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2587	0	0	
+
+D 61   *	*	51	4843	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2587	0	0	
+
+K 62   *	*	*	3475	*	*	*	3442	715	*	*	*	*	*	4553	*	2590	*	*	*	62
+       0	*	*	*	*	*	*	2587	0	0	
+
+E 63   3592	*	*	2319	*	2742	*	3498	*	*	*	4009	*	2507	*	3171	3523	*	4553	*	63
+       0	*	*	*	*	*	*	2587	0	0	
+
+F 64   *	*	*	*	911	*	*	*	*	1095	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2587	0	0	
+
+C 65   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2587	0	0	
+
+E 66   *	*	5053	2810	*	*	*	*	*	3688	*	5286	*	1627	2196	*	2458	*	*	*	66
+       0	*	*	*	*	*	*	2587	0	0	
+
+W 67   2795	*	3220	1415	*	*	*	*	3498	*	2841	*	*	4553	*	4322	5268	*	5219	*	67
+       0	*	*	*	*	*	*	2587	0	0	
+
+M 68   3442	*	*	*	*	*	*	*	*	1259	1322	*	*	*	*	3475	*	*	*	*	68
+       0	*	*	*	*	*	*	2587	0	0	
+
+I 69   *	*	*	*	*	*	3498	1443	*	3688	2026	*	*	3058	*	*	*	3316	*	*	69
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 70   *	*	3498	2252	*	*	2840	*	4108	*	*	*	*	1088	4903	*	*	*	*	*	70
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 71   4108	*	4162	1445	*	*	*	*	4655	*	*	1973	*	2768	*	*	*	3688	*	*	71
+       0	*	*	*	*	*	*	2587	0	0	
+
+I 72   *	*	*	*	2458	*	*	1607	*	1539	*	*	*	*	*	*	*	2778	*	*	72
+       1014	986	*	0	*	*	*	2587	1646	0	
+
+P 73   *	*	*	*	*	*	*	*	*	*	*	*	911	*	*	3058	1523	*	*	*	73
+       0	*	*	*	*	*	*	2587	0	0	
+
+K 74   *	*	*	5097	*	*	3911	4843	2334	4655	*	3453	*	2159	2558	3498	*	4112	*	*	74
+       106	3818	*	0	*	*	*	2587	1000	0	
+
+L 75   *	*	*	*	3065	*	*	3450	*	342	*	*	*	*	*	*	*	*	*	*	75
+       137	3460	*	0	*	*	*	2173	1000	0	
+
+D 76   *	*	1849	668	*	*	*	*	3430	*	*	*	*	*	*	*	*	*	*	*	76
+       0	*	*	*	*	*	*	1813	0	0	
+
+G 77   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77
+       0	*	*	*	*	*	*	1813	0	0	
+
+K 78   *	*	*	*	*	*	4213	*	1417	3534	*	*	*	1350	3430	*	*	*	*	*	78
+       0	*	*	*	*	*	*	1813	0	0	
+
+I 79   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	1813	0	0	
+
+P 80   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	*	1813	0	0	
+
+V 81   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	81
+       0	*	*	0	*	*	*	1640	0	0	
+
+//

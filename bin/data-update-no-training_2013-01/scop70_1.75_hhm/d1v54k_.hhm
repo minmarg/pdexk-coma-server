@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1v54k_ f.23.5.1 (K:) Mitochondrial cytochrome c oxidase subunit VIIb {Cow (Bos taurus) [TaxId: 9913]}
+FAM   f.23.5.1
+FILE  d1v54k_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v54k_.a3m -v 1 
+DATE  Tue Jan 22 03:09:02 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  54 out of 56 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEHHHHHHHHHHHHHHHHHCCCEECCCCCCCCCCCCCC
+>ss_conf
+9864341376310124788898888865433640067645533567789
+>Consensus
+spdFHdKYGnxvLxxGxxfcxaxWxyxxTQxgiewnlSPVGRVtPKeWr
+>d1v54k_ f.23.5.1 (K:) Mitochondrial cytochrome c oxidase subunit VIIb {Cow (Bos taurus) [TaxId: 9913]}
+APDFHDKYGNAVLASGATFCVAVWVYMATQIGIEWNPSPVGRVTPKEWR
+>gi|387914192|gb|AFK10705.1|(29-77:79) cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392874140|gb|AFM85902.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392874792|gb|AFM86228.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392875266|gb|AFM86465.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392875514|gb|AFM86589.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392875662|gb|AFM86663.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392876312|gb|AFM86988.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392876430|gb|AFM87047.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii] >gi|392877264|gb|AFM87464.1| cytochrome c oxidase subunit VIIb [Callorhinchus milii]  E=2e-13 s/c=1.60 id=63% cov=100%
+-PDFHDKYGTVILLAGTTFCVGIWSFVSTQTGITWNFSPVGKVTPQEWR
+>gi|293341697|ref|XP_002725008.1|(31-78:80) PREDICTED: cytochrome c oxidase subunit 7B2, mitochondrial [Rattus norvegicus] >gi|293353115|ref|XP_002728147.1| PREDICTED: cytochrome c oxidase subunit 7B2, mitochondrial [Rattus norvegicus] >gi|149035302|gb|EDL90006.1| rCG57154, isoform CRA_a [Rattus norvegicus] >gi|149035303|gb|EDL90007.1| rCG57154, isoform CRA_a [Rattus norvegicus]  E=6e-12 s/c=1.54 id=59% cov=100%
+SSNFHDKYGNMMLFSGSAFCLGAYIIFMTQMGVEWNLSPVGRVTPKEW-
+>gi|118089606|ref|XP_001235158.1|(31-78:79) PREDICTED: cytochrome c oxidase subunit 7B, mitochondrial-like [Gallus gallus]  E=1e-10 s/c=1.44 id=63% cov=100%
+-PNFHDKYGNLVLIGGAAVFATVWGYVFTKSGMEWGLSPVGRVTPKEWR
+>gi|194578927|ref|NP_001124074.1|(62-110:111) cytochrome c oxidase subunit VIIb [Danio rerio] >gi|190337476|gb|AAI63415.1| Zgc:194876 [Danio rerio] >gi|190338992|gb|AAI63420.1| Zgc:194876 [Danio rerio]  E=3e-17 s/c=1.85 id=60% cov=102%
+SPEFHNKYGAPLLIAGATFCTAVWAYVITSTGIAWNLSPVGKVQPKEWK
+>gi|387015414|gb|AFJ49826.1|(30-77:79) Cytochrome c oxidase subunit VIIb [Crotalus adamanteus]   E=5e-16 s/c=1.81 id=63% cov=100%
+-PDFHDKYGNLVLISGVAFAIGTWAYACIQLPIAWNFSPVGRLTPKEWR
+>gi|354501451|ref|XP_003512805.1|(30-76:79) PREDICTED: cytochrome c oxidase subunit 7B2, mitochondrial-like [Cricetulus griseus]  E=2e-15 s/c=1.81 id=60% cov=96%
+--DFHDKYGNIVLIGGCSFCFVGYLFYITQMGVEWNLSPVGRITPIEW-
+>gi|209730532|gb|ACI66135.1|(27-75:79) Cytochrome c oxidase polypeptide VIIb, mitochondrial precursor [Salmo salar]  E=5e-15 s/c=1.71 id=54% cov=102%
+SPEFHAKYGTGPMIGGFAFCVSVWGFVLTQTGITWNLSPVGKVQPKPWR
+>gi|344270759|ref|XP_003407210.1|(31-77:79) PREDICTED: cytochrome c oxidase subunit 7B, mitochondrial-like [Loxodonta africana]  E=3e-13 s/c=1.66 id=65% cov=98%
+APDFHDNM--VMLVELLTVYVAVWTHTATQTGTEWNLSPVGRVTPKEWR
+>gi|395521033|ref|XP_003764626.1|(36-83:85) PREDICTED: cytochrome c oxidase subunit 7B, mitochondrial-like [Sarcophilus harrisii]  E=1e-11 s/c=1.51 id=48% cov=98%
+--DFDGKYGLPVFVGGSLFCIGTWVYTLKQYDLEHYVSPVGRVRPKSWK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    1412	*	*	*	*	*	*	*	*	*	*	*	*	*	*	913	3424	*	*	*	1
+       0	*	*	*	*	*	*	1957	0	0	
+
+P 2    4961	*	*	*	*	*	*	*	*	*	*	*	199	*	5719	3682	*	*	*	*	2
+       0	*	*	*	*	*	*	2119	0	0	
+
+D 3    *	*	522	3687	*	*	*	*	*	*	*	2573	*	*	*	6043	4557	*	*	*	3
+       0	*	*	*	*	*	*	2351	0	0	
+
+F 4    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2351	0	0	
+
+H 5    *	*	3913	*	*	*	163	*	*	*	*	*	*	*	*	*	*	*	*	4637	5
+       0	*	*	*	*	*	*	2356	0	0	
+
+D 6    4114	*	365	*	*	3913	5258	*	*	*	5504	5685	*	*	*	4964	*	*	*	*	6
+       0	*	*	*	*	*	*	2356	0	0	
+
+K 7    *	*	*	*	*	*	*	*	72	*	*	4352	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2356	0	0	
+
+Y 8    *	*	4397	*	*	5520	*	*	*	*	4352	*	*	*	*	*	*	*	*	181	8
+       72	*	4352	*	*	*	*	2356	0	0	
+
+G 9    *	*	4031	*	*	154	*	*	*	*	*	*	*	*	*	4641	*	*	*	*	9
+       0	*	*	*	*	*	0	2309	0	1000	
+
+N 10   3810	*	4137	*	*	*	*	*	*	3889	5708	648	*	*	*	5852	2948	*	*	*	10
+       0	*	*	*	*	0	*	2309	0	1000	
+
+A 11   1698	*	*	*	*	3067	*	3228	*	3645	3594	*	3018	*	*	*	4275	2967	*	*	11
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 12   *	*	*	*	*	*	*	2944	*	2739	3320	*	5660	*	*	*	*	736	*	*	12
+       0	*	*	*	*	*	*	2356	0	0	
+
+L 13   *	*	*	*	3913	*	*	5504	*	241	3938	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2356	0	0	
+
+A 14   1253	*	*	*	5154	*	*	2412	*	3472	*	*	*	*	*	*	4499	2120	*	*	14
+       0	*	*	*	*	*	*	2356	0	0	
+
+S 15   4773	*	5167	4352	*	1263	*	*	*	*	*	5520	*	*	5931	1212	*	*	*	*	15
+       0	*	*	*	*	*	*	2356	0	0	
+
+G 16   *	*	*	4637	*	154	*	*	*	4352	*	*	*	*	6377	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2356	0	0	
+
+A 17   1036	5208	3852	*	4240	*	*	*	*	4352	*	*	*	*	*	3256	2521	4825	*	*	17
+       0	*	*	*	*	*	*	2356	0	0	
+
+T 18   2060	*	*	*	*	*	*	3189	*	3714	*	*	*	*	*	4422	1031	4698	*	*	18
+       0	*	*	*	*	*	*	2356	0	0	
+
+F 19   *	*	*	*	239	*	*	*	*	*	4983	*	*	*	*	*	*	3047	*	*	19
+       0	*	*	*	*	*	*	2356	0	0	
+
+C 20   4825	314	*	*	3713	*	*	*	*	*	*	*	*	*	*	4842	*	*	*	4352	20
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 21   3576	*	*	*	4637	*	*	1468	*	3292	4637	*	*	*	*	*	3195	1927	*	*	21
+       0	*	*	*	*	*	*	2356	0	0	
+
+A 22   930	*	*	*	*	2767	*	*	*	*	*	*	*	*	*	3119	3710	2870	*	*	22
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 23   2519	*	*	*	*	4318	*	3076	*	4336	6566	*	*	*	*	*	2504	1250	*	*	23
+       0	*	*	*	*	*	*	2356	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	118	3676	24
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 25   3179	*	*	*	*	2800	*	5154	*	5208	*	*	*	*	*	3574	1359	2203	*	*	25
+       0	*	*	*	*	*	*	2356	0	0	
+
+Y 26   *	*	*	*	2172	*	4352	4288	*	6342	*	*	*	*	*	5070	*	*	*	653	26
+       0	*	*	*	*	*	*	2356	0	0	
+
+M 27   4019	*	*	*	5154	6266	*	4345	*	4362	6752	*	*	*	4637	*	1904	1209	*	4318	27
+       0	*	*	*	*	*	*	2356	0	0	
+
+A 28   1261	4825	*	*	4153	*	*	3048	*	2381	4288	*	*	*	*	5866	4234	4130	*	*	28
+       0	*	*	*	*	*	*	2356	0	0	
+
+T 29   *	*	*	*	*	*	*	4825	3913	*	*	*	*	*	*	*	155	*	*	*	29
+       0	*	*	*	*	*	*	2356	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	4485	*	*	*	*	154	*	4151	*	*	*	*	30
+       0	*	*	*	*	*	*	2356	0	0	
+
+I 31   *	*	*	*	*	*	*	1149	*	3400	3221	*	*	*	*	4485	2084	*	*	3913	31
+       0	*	*	*	*	*	*	2356	0	0	
+
+G 32   *	*	3913	*	*	452	*	*	4026	*	*	*	4825	*	3239	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2356	0	0	
+
+I 33   *	*	*	*	*	*	*	379	*	3653	5346	*	*	*	*	*	4352	3676	*	*	33
+       0	*	*	*	*	*	*	2356	0	0	
+
+E 34   3543	*	*	645	*	*	*	5520	3843	*	6601	*	*	5672	*	*	2874	5895	*	*	34
+       0	*	*	*	*	*	*	2356	0	0	
+
+W 35   *	*	*	*	*	3852	3913	*	*	6266	*	*	*	*	4637	*	*	*	302	*	35
+       0	*	*	*	*	*	*	2356	0	0	
+
+N 36   *	*	5167	*	*	3382	*	*	*	*	*	304	*	*	*	*	*	*	*	3913	36
+       0	*	*	*	*	*	*	2356	0	0	
+
+P 37   *	5672	*	*	3573	*	*	*	*	432	6059	*	4126	5931	*	*	*	3913	*	*	37
+       0	*	*	*	*	*	*	2356	0	0	
+
+S 38   *	5774	*	*	5984	*	*	*	*	*	*	*	*	*	*	50	*	*	*	*	38
+       0	*	*	*	*	*	*	2356	0	0	
+
+P 39   5249	*	*	*	*	*	*	*	*	5167	*	*	143	*	*	4637	*	*	*	*	39
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 40   *	*	5713	*	*	*	*	3851	*	*	*	*	*	*	*	*	*	133	*	*	40
+       0	*	*	*	*	*	*	2356	0	0	
+
+G 41   *	*	*	*	*	44	*	*	*	*	*	*	*	*	*	5070	*	*	*	*	41
+       0	*	*	*	*	*	*	2356	0	0	
+
+R 42   *	*	*	*	*	*	*	*	2305	*	*	*	*	*	326	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2356	0	0	
+
+V 43   *	*	*	*	*	*	*	2711	*	3727	*	*	*	*	*	*	*	374	*	*	43
+       0	*	*	*	*	*	*	2356	0	0	
+
+T 44   5718	*	*	*	*	*	*	5167	*	*	5258	*	*	2929	3913	*	455	*	*	*	44
+       0	*	*	*	*	*	*	2356	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	3845	*	*	151	*	*	5065	*	*	*	*	45
+       0	*	*	*	*	*	*	2359	0	0	
+
+K 46   *	*	*	*	*	*	*	4660	264	*	*	*	*	3843	5244	4979	*	*	*	*	46
+       0	*	*	*	*	*	*	2359	0	0	
+
+E 47   *	*	5688	374	*	*	*	*	5542	*	*	*	3405	5245	*	3907	*	*	*	*	47
+       0	*	*	*	*	*	*	2362	0	0	
+
+W 48   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	48
+       0	*	*	*	*	*	*	2355	0	0	
+
+R 49   *	*	*	*	*	*	*	*	1764	*	*	*	*	*	503	*	*	*	*	*	49
+       0	*	*	0	*	*	*	2283	0	0	
+
+//

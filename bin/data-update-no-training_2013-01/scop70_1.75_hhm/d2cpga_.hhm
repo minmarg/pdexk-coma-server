@@ -1,0 +1,161 @@
+HHsearch 1.5
+NAME  d2cpga_ a.43.1.3 (A:) Transcriptional repressor CopG {Streptococcus agalactiae [TaxId: 1311]}
+FAM   a.43.1.3
+FILE  d2cpga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cpga_.a3m -v 1 
+DATE  Tue Jan 22 05:56:21 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCEEEEEEHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHCCCC
+>ss_conf
+9722556311678999999998528743788887566530379
+>Consensus
+xKkRlTitlsxxxxxxLekxakekGlSKSaxitxalEeykkgq
+>d2cpga_ a.43.1.3 (A:) Transcriptional repressor CopG {Streptococcus agalactiae [TaxId: 1311]}
+MKKRLTITLSESVLENLEKMAREMGLSKSAMISVALENYKKGQ
+>gi|425739107|ref|ZP_18857326.1|(4-45:46) putative COP protein [Staphylococcus massiliensis S46] >gi|425477761|gb|EKU45009.1| putative COP protein [Staphylococcus massiliensis S46]  E=2e-06 s/c=1.32 id=60% cov=100%
+-KRRFTISLSDSFYEYLEKLCKEKGLSKSAMITLILEEYKKGE
+>gi|260102868|ref|ZP_05753105.1|(4-45:46) conserved hypothetical protein [Lactobacillus helveticus DSM 20075] >gi|260083327|gb|EEW67447.1| conserved hypothetical protein [Lactobacillus helveticus DSM 20075]  E=3e-05 s/c=1.23 id=60% cov=100%
+-KKRLTITLSSQVLKYLSETAKNKGLSKSVLITIALEKYKEGQ
+>gi|418614437|ref|ZP_13177406.1|(4-44:75) ribbon-helix-helix protein, CopG family [Staphylococcus epidermidis VCU118] >gi|374820182|gb|EHR84281.1| ribbon-helix-helix protein, CopG family [Staphylococcus epidermidis VCU118]  E=6e-05 s/c=1.24 id=55% cov=98%
+IKKRLTITMSSNMYSELENLAKEMGLSKSALLTVAFEEFKQ--
+>gi|380236484|ref|YP_005352347.1|(5-46:51) copy-number control protein [Lactococcus garvieae] >gi|373809332|emb|CCF55363.1| putative copy-number control protein [Lactococcus garvieae]  E=0.0007 s/c=1.12 id=51% cov=100%
+-KKRITVSLTEKQNYDLEKFAKEKGFSKSAILALALEEYAKNQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	1000	*	*	1000	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1356	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 3    *	*	*	*	*	*	*	*	305	*	*	*	*	*	2392	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1861	0	0	
+
+R 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 5    *	*	*	*	2392	*	*	2157	*	773	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1861	0	0	
+
+T 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	6
+       0	*	*	*	*	*	*	1861	0	0	
+
+I 7    *	*	*	*	*	*	*	366	*	*	*	*	*	*	*	*	*	2157	*	*	7
+       0	*	*	*	*	*	*	1861	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1270	773	*	*	*	8
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	328	2298	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	366	2157	*	*	*	10
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 11   *	*	2392	1320	*	*	*	*	*	*	*	*	*	*	*	1289	*	*	*	*	11
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 12   *	*	*	*	*	*	*	*	2157	*	*	2298	*	2281	*	1447	*	*	*	*	12
+       0	*	*	*	*	*	*	1861	0	0	
+
+V 13   *	*	*	*	2392	*	*	*	*	*	2298	*	*	2157	*	*	*	1388	*	*	13
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	1388	*	2157	*	*	*	*	*	*	*	1344	14
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 15   *	*	*	1447	*	*	*	*	2281	*	*	*	*	*	*	2298	*	*	*	2157	15
+       0	*	*	*	*	*	*	1861	0	0	
+
+N 16   *	*	2157	2298	*	*	*	*	*	*	*	2504	*	*	*	*	*	*	*	1336	16
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 18   *	*	*	332	*	*	*	*	*	*	*	*	*	*	*	2281	*	*	*	*	18
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 19   *	*	*	2281	*	*	*	*	759	*	*	2298	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1861	0	0	
+
+M 20   *	*	*	*	2157	*	*	*	*	1344	2504	*	*	*	*	*	2281	*	*	*	20
+       0	*	*	*	*	*	*	1861	0	0	
+
+A 21   305	2392	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1861	0	0	
+
+R 22   *	*	*	*	*	*	*	*	280	*	*	*	*	*	2504	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 23   *	*	*	332	*	*	*	*	*	*	*	2281	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1861	0	0	
+
+M 24   *	*	*	*	*	*	*	*	689	*	1398	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1861	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 26   *	*	*	*	2157	*	*	*	*	366	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	27
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 28   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	29
+       0	*	*	*	*	*	*	1861	0	0	
+
+A 30   332	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2281	*	*	30
+       0	*	*	*	*	*	*	1861	0	0	
+
+M 31   *	*	*	*	*	*	*	2157	*	1289	1447	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1861	0	0	
+
+I 32   *	*	*	*	*	*	*	805	*	1226	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 33   2157	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2504	738	*	*	*	33
+       0	*	*	*	*	*	*	1861	0	0	
+
+V 34   *	*	*	*	*	*	*	2281	*	1270	*	*	*	*	*	*	*	1398	*	*	34
+       0	*	*	*	*	*	*	1861	0	0	
+
+A 35   305	*	*	*	*	*	*	2392	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1861	0	0	
+
+L 36   *	*	*	*	2298	*	*	*	*	328	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 37   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1861	0	0	
+
+N 38   *	*	*	694	*	*	*	*	2281	*	*	2504	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1861	0	0	
+
+Y 39   *	*	*	*	2298	*	*	*	*	*	*	*	*	*	*	*	*	*	*	328	39
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 40   2157	*	*	*	*	*	*	*	366	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 41   *	*	*	2281	*	*	*	*	759	*	*	*	*	2298	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1861	0	0	
+
+G 42   *	*	*	*	*	462	*	*	*	*	*	1869	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1739	0	0	
+
+Q 43   *	*	*	2047	*	*	*	*	*	*	*	*	*	400	*	*	*	*	*	*	43
+       0	*	*	0	*	*	*	1739	0	0	
+
+//

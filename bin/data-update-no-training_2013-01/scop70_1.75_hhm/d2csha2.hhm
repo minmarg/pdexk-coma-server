@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d2csha2 g.37.1.1 (A:61-104) Zinc finger protein 297b {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2csha2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2csha2.a3m -v 1 
+DATE  Tue Jan 22 06:08:50 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCC
+>ss_conf
+99885223433220011112344333101011000003555679
+>Consensus
+tGlkPYeCxxCgKkfmWRDSFxrHxxxCxrxxxaxxxsxxxxex
+>d2csha2 g.37.1.1 (A:61-104) Zinc finger protein 297b {Human (Homo sapiens) [TaxId: 9606]}
+TGIKPYECNICAKRFMWRDSFHRHVTSCTKSYEAAKAEQNTTEA
+>gi|327285838|ref|XP_003227639.1|(414-456:458) PREDICTED: zinc finger and BTB domain-containing protein 43-like [Anolis carolinensis]  E=4e-17 s/c=2.12 id=86% cov=100%
+TGIKPYECNICGKRFMWRDSFHRHVTSCTKSYQACKVEQNATE-
+>gi|27801603|emb|CAD60640.1|(538-578:671) zinc finger protein 297 [Danio rerio]   E=8e-14 s/c=1.96 id=45% cov=95%
+TGLKPYDCHGCGKKFMWRDSFMRHRSHCERRGRSDRASDRS---
+>gi|158517968|ref|NP_001103494.1|(370-408:410) zinc finger and BTB domain-containing protein 43 [Danio rerio] >gi|156230700|gb|AAI51997.1| Si:rp71-14i8.2 protein [Danio rerio]  E=4e-12 s/c=1.91 id=60% cov=91%
+TGIKPYECSLCSKRFMWRDSFNRHTSTCAKAHQTRRASQ-----
+>gi|426251003|ref|XP_004019221.1|(598-630:700) PREDICTED: zinc finger and BTB domain-containing protein 22 [Ovis aries]  E=1e-10 s/c=2.12 id=59% cov=77%
+TGLKPYECSVCAKKFMWRDSFMRHRGHCERRHH-----------
+>gi|410911620|ref|XP_003969288.1|(485-525:605) PREDICTED: uncharacterized protein LOC101072709 [Takifugu rubripes]   E=4e-06 s/c=1.33 id=38% cov=95%
+-GLRPYECGLCGKKVIWRDSFLRHQARCERLASSSATSNDTS--
+>gi|47216878|emb|CAG11685.1|(1455-1479:1479) unnamed protein product [Tetraodon nigroviridis]   E=8e-06 s/c=2.14 id=68% cov=57%
+TGLKPYHCLGCGKKFMWRDSFMRH--------------------
+>gi|126309839|ref|XP_001377560.1|(528-560:617) PREDICTED: zinc finger and BTB domain-containing protein 22-like [Monodelphis domestica]  E=2e-12 s/c=2.28 id=56% cov=77%
+TGLKPYECGVCGKKFMWRDSFMRHRGHCERRHR-----------
+>gi|301618638|ref|XP_002938727.1|(387-422:436) PREDICTED: zinc finger and BTB domain-containing protein 22-like [Xenopus (Silurana) tropicalis]  E=3e-12 s/c=2.08 id=60% cov=80%
+TGVKPYECEVCAKKFMWRDSFMRHRGHCERRHRA----------
+>gi|292623973|ref|XP_002665485.1|(426-467:491) PREDICTED: hypothetical protein LOC566513 [Danio rerio]   E=2e-11 s/c=1.72 id=37% cov=98%
+-GLRPYECSVCGKKIVWRDSFLKHQARCQRTPETSAESGGQQE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1517	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1726	0	0	
+
+I 3    *	*	*	*	*	*	*	1539	*	798	*	*	*	*	*	*	*	3629	*	*	3
+       0	*	*	*	*	*	*	1726	0	0	
+
+K 4    *	*	*	*	*	*	*	*	373	*	*	*	*	*	2135	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1726	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1726	0	0	
+
+Y 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	6
+       0	*	*	*	*	*	*	1726	0	0	
+
+E 7    *	*	2736	349	*	*	3953	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1726	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1726	0	0	
+
+N 9    *	*	*	3629	*	2555	3742	*	*	2838	*	2086	*	*	*	1743	*	*	*	*	9
+       0	*	*	*	*	*	*	1726	0	0	
+
+I 10   *	*	*	*	*	2844	*	2086	*	2231	*	*	*	*	*	3731	*	1570	*	*	10
+       0	*	*	*	*	*	*	1726	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1726	0	0	
+
+A 12   2140	*	*	*	*	589	*	*	*	*	*	*	*	*	*	3205	*	*	*	*	12
+       0	*	*	*	*	*	*	1726	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1726	0	0	
+
+R 14   *	*	*	*	*	*	*	*	608	*	*	*	*	*	1539	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1726	0	0	
+
+F 15   *	*	*	*	373	*	*	3021	*	*	*	*	*	*	*	*	*	3259	*	*	15
+       0	*	*	*	*	*	*	1726	0	0	
+
+M 16   *	*	*	*	*	*	*	3259	*	*	373	*	*	*	*	*	*	3021	*	*	16
+       0	*	*	*	*	*	*	1726	0	0	
+
+W 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	17
+       0	*	*	*	*	*	*	1726	0	0	
+
+R 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1726	0	0	
+
+D 19   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1726	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	20
+       0	*	*	*	*	*	*	1726	0	0	
+
+F 21   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1726	0	0	
+
+H 22   *	*	*	*	*	*	2086	*	*	2135	1223	3205	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1726	0	0	
+
+R 23   *	*	*	*	*	*	*	*	3021	*	*	*	*	*	190	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1726	0	0	
+
+H 24   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1726	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	*	*	*	*	2005	1358	*	3143	2014	*	*	25
+       0	*	*	*	*	*	*	1886	0	0	
+
+T 26   2005	*	*	*	*	2155	*	*	*	*	*	*	*	*	*	1843	2014	*	*	*	26
+       0	*	*	*	*	*	*	1886	0	0	
+
+S 27   *	*	*	*	*	*	1358	*	*	*	*	*	*	*	2005	2014	3143	*	*	*	27
+       0	*	*	*	*	*	*	1886	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1886	0	0	
+
+T 29   3143	*	*	978	*	*	*	*	*	*	*	*	*	2928	*	3574	2611	*	*	*	29
+       0	*	*	*	*	*	*	1886	0	0	
+
+K 30   *	*	*	*	*	*	*	*	1471	*	*	*	*	*	646	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1886	0	0	
+
+S 31   3059	*	*	*	*	*	*	*	*	3007	*	*	*	*	1496	1922	2866	*	*	*	31
+       0	*	*	*	*	*	*	1875	0	0	
+
+Y 32   3007	*	*	*	*	3230	1442	*	*	*	*	*	2866	*	*	*	*	*	*	1922	32
+       0	*	*	*	*	*	*	1875	0	0	
+
+E 33   *	*	*	2150	*	*	2566	*	*	*	*	*	*	2277	1862	3007	*	*	*	*	33
+       0	*	*	*	*	*	*	1875	0	0	
+
+A 34   1217	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1847	1777	*	*	*	34
+       0	*	*	*	*	*	*	1935	0	0	
+
+A 35   3040	3114	2601	*	*	*	*	*	*	*	*	*	*	*	2731	1160	*	*	*	*	35
+       0	*	*	*	*	*	*	1997	0	0	
+
+K 36   1599	*	*	*	*	*	*	*	1497	*	*	*	*	*	1664	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1997	0	0	
+
+A 37   1194	*	*	2551	*	*	*	*	*	*	*	*	*	*	*	*	2649	2103	*	*	37
+       0	*	*	*	*	*	*	1997	0	0	
+
+E 38   *	*	*	1497	*	*	*	*	*	*	*	*	*	*	*	631	*	*	*	*	38
+       0	*	*	*	*	*	*	1997	0	0	
+
+Q 39   *	*	2477	*	*	2437	*	*	*	*	*	2522	*	1115	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2025	0	0	
+
+N 40   *	*	2326	*	*	2204	*	*	*	*	*	1458	*	*	2188	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1997	0	0	
+
+T 41   2458	*	*	*	*	*	*	*	*	*	*	*	*	2204	*	2188	1391	*	*	*	41
+       0	*	*	*	*	*	*	1997	0	0	
+
+T 42   *	*	*	*	*	*	*	*	*	*	*	*	*	1866	*	1909	1122	*	*	*	42
+       0	*	*	*	*	*	*	1805	0	0	
+
+E 43   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1587	0	0	
+
+A 44   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

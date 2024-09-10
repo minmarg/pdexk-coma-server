@@ -1,0 +1,121 @@
+HHsearch 1.5
+NAME  d2j7ja2 g.37.1.1 (A:29-57) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+FAM   g.37.1.1
+FILE  d2j7ja2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2j7ja2.a3m -v 1 
+DATE  Tue Jan 22 08:27:34 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCHHHHHHHHHCCC
+>ss_conf
+98874771134521255123332220259
+>Consensus
+qxpyxcxhegcdxxfxxpsxlkrhekvha
+>d2j7ja2 g.37.1.1 (A:29-57) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+QLPYECPHEGCDKRFSLPSRLKRHEKVHA
+>gi|301624590|ref|XP_002941582.1|(132-160:344) PREDICTED: transcription factor IIIA [Xenopus (Silurana) tropicalis]  E=2e-06 s/c=1.91 id=80% cov=103%
+QLPYKCTHEGCDMRFNVPSRLKRHEKVHA
+>gi|464873|sp|P34695.1|TF3A_RANPI(132-160:335) RecName: Full=Transcription factor IIIA; Short=TFIIIA >gi|213698|gb|AAA49534.1| transcription factor IIIA [Rana pipiens] >gi|429061|emb|CAA41260.1| transcription factor IIIA [Rana pipiens]  E=2e-05 s/c=1.81 id=77% cov=103%
+QQPFKCNHEGCDKSFSSPSRLKRHEKVHA
+>gi|135644|sp|P17842.1|TF3A_XENBO(132-160:339) RecName: Full=Transcription factor IIIA; Short=TFIIIA >gi|64475|emb|CAA35689.1| unnamed protein product [Xenopus borealis]  E=2e-05 s/c=1.81 id=83% cov=103%
+QLPYKCPHEGCDKSFSVPSCLKRHEKVHA
+>gi|47214099|emb|CAF95356.1|(133-158:298) unnamed protein product [Tetraodon nigroviridis]   E=0.0002 s/c=1.88 id=74% cov=93%
+--PYLCPHEGCGMRFAFPSKLKRHEKVH-
+>gi|410917692|ref|XP_003972320.1|(133-158:359) PREDICTED: transcription factor IIIA-like [Takifugu rubripes]   E=0.0003 s/c=1.87 id=67% cov=93%
+--PYRCTHDGCEMRFAFPSKLKRHEKVH-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1237	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	437	*	*	*	1935	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1237	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1402	0	0	
+
+Y 4    *	*	*	*	2481	*	*	*	*	*	*	*	*	*	*	*	*	*	*	285	4
+       0	*	*	*	*	*	*	1402	0	0	
+
+E 5    *	*	*	2674	*	*	*	*	1017	2592	*	*	*	*	2447	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1402	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1402	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	2481	1055	*	*	*	1558	*	*	*	7
+       0	*	*	*	*	*	*	1402	0	0	
+
+H 8    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1402	0	0	
+
+E 9    *	*	2447	292	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1402	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1402	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1402	0	0	
+
+D 12   *	*	620	2447	*	2592	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1402	0	0	
+
+K 13   *	*	*	*	*	*	*	*	1015	*	985	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1402	0	0	
+
+R 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	595	1565	*	*	*	*	14
+       0	*	*	*	*	*	*	1402	0	0	
+
+F 15   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1402	0	0	
+
+S 16   1518	*	*	*	*	*	*	*	*	*	*	2679	*	*	*	1015	*	*	*	*	16
+       0	*	*	*	*	*	*	1402	0	0	
+
+L 17   *	*	*	*	1518	*	*	*	*	2674	*	*	*	*	*	2481	*	1666	*	*	17
+       0	*	*	*	*	*	*	1402	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1402	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1402	0	0	
+
+R 20   *	2654	*	*	*	*	*	*	1518	*	*	*	*	*	1023	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1402	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1402	0	0	
+
+K 22   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1402	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1402	0	0	
+
+H 24   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1402	0	0	
+
+E 25   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1402	0	0	
+
+K 26   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1402	0	0	
+
+V 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	27
+       0	*	*	*	*	*	*	1402	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1402	0	0	
+
+A 29   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1237	0	0	
+
+//

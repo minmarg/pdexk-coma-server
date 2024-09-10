@@ -1,0 +1,271 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use SOptions;
+use SUsage;
+use Stats;
+use Parsers;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 37 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/DataPreprocessor $
+# ==============================================================================
+
+my %data_info = (threshold => 0.05);
+
+@ARGV = getOptions
+(
+#** If -r, then removes redundant objects, otherwise ranks and filters features.
+#**
+#** -i,--input           Input
+#** -s,--save            Save filtering params
+#** -r,--restore         Restore filtering params
+#** -t,--threshold       Threshold for filtering (Default 0.05)
+#** -r,--remove          Remove identical pairs (Default: 0)
+#** -h,-?,--help,--usage Print short usage message (this message) and exit.
+
+    "-i,--input"                => sub {$data_info{input}     = get_value()},
+    "-s,--save"                 => sub {$data_info{save}      = get_value()},
+    "-r,--restore"              => sub {$data_info{resore}    = get_value()},
+    "-t,--threshold"            => sub {$data_info{threshold} = get_value()},
+    "-m,--remove"               => sub {$data_info{remove}    = 1          },
+    "-h,-?,--help,--usage"      => sub {SUsage::usage; exit                },
+);
+
+if(!defined($data_info{input}))
+{
+    SUsage::usage; exit;
+}
+
+my $svm_objects = Parsers::parse_svm($data_info{input});
+
+if(defined($data_info{remove}))
+{
+    my @redundant_objs;
+    my %test;
+    
+    # my %obj = (
+    #             class_label => 1,
+    #             comment     => "2e52_A d1y88a2 prob=49.1",
+    #             scores      => [7.00,12.00,12.00,41.96,94846.64,95421.14],
+    #           );
+
+    foreach my $obj (@$svm_objects)
+    {
+        my @info = split(/\s+/, $obj->{comment});
+        
+        if(!defined($test{$info[0] . "_" . $info[1]}) && !defined($test{$info[1] . "_" . $info[0]}))
+        {
+            $test{$info[0] . "_" . $info[1]} = $info[2];
+            $test{$info[1] . "_" . $info[0]} = $info[2];
+            
+            push(@redundant_objs, $obj);
+        }
+        else
+        {
+            
+            if(defined($test{$info[0] . "_" . $info[1]}))
+            {
+                print STDERR "WRN: $0: the opposite SVM object: . $info[0] $info[1]; prob_old=" . $test{$info[0] . "_" . $info[1]} . "; prob_new=" .$info[2] . "\n";
+            }
+            else
+            {
+                print STDERR "WRN: $0: the opposite SVM object: . $info[0] $info[1]; prob_old=" . $test{$info[1] . "_" . $info[0]} . "; prob_new=" .$info[2] . "\n";
+            }
+        }
+    }
+    
+    print_svm(\@redundant_objs);
+}
+else
+{
+    my $normalized_scores;
+    
+    if(defined($data_info{resore}))
+    {
+        open RESTORE, "<", $data_info{resore} or die "Cannot open $data_info{resore} file: $data_info{resore}!";
+        
+        my $scores = <RESTORE>;
+        
+        chomp($scores);
+        
+        my @values = split(";", $scores);
+        
+        $data_info{threshold} = shift(@values);
+        
+        $normalized_scores = \@values;
+    } 
+    else
+    {
+        my $labels = get_labels($svm_objects);
+        if(@$labels != 2)
+        {
+            die "ERR: $0: more than 2 classes: $data_info{input}\n";
+        }
+    
+        my $features_num = scalar(@{$$svm_objects[0]->{scores}});
+        my @scores;
+        
+        for(my $i = 0; $i < $features_num; $i++)
+        {
+            my $positive = ith_attribute_values($svm_objects, $$labels[0], $i);
+            my $negative = ith_attribute_values($svm_objects, $$labels[1], $i);
+            push(@scores, score($positive, $negative));
+        }
+        
+        $normalized_scores = Stats::normalize(\@scores);
+        
+        open OUTPUT, ">", $data_info{save} or die "Cannot open OUTPUT file: $data_info{save}!";
+        print OUTPUT $data_info{threshold} . ";" . join(";", @$normalized_scores);
+    }
+    
+    print_svm($svm_objects, $normalized_scores, $data_info{threshold});
+}
+
+# ==============================================================================
+# Prints objects into SVM format
+# Input
+# my %obj = (
+#             class_label => 1,
+#             comment     => "2e52_A d1y88a2 prob=49.1",
+#             scores      => [7.00,12.00,12.00,41.96,94846.64,95421.14],
+#           );
+
+sub print_svm
+{
+    my ($objects, $scores, $threshold) = @_;
+    
+    if(defined($scores) && defined($threshold))
+    {
+        foreach my $obj (@$objects)
+        {
+            print $obj->{class_label} . " ";
+            
+            my $position = 1;
+            
+            for(my $i = 0; $i < @{$obj->{scores}}; $i++)
+            {
+                if($$scores[$i] >= $threshold)
+                {
+                    print $position . ":" . $obj->{scores}[$i] . " ";
+                    $position++;
+                }
+            }
+            
+            if(defined($obj->{comment}))
+            {
+                print "#" . $obj->{comment} . "\n";
+            }
+            else
+            {
+                print "\n";
+            }
+        }
+    }
+    else
+    {
+        foreach my $obj (@$objects)
+        {
+            print $obj->{class_label} . " ";
+            
+            my $position = 1;
+            
+            for(my $i = 0; $i < @{$obj->{scores}}; $i++)
+            {
+                print $position . ":" . $obj->{scores}[$i] . " ";
+                $position++;
+            }
+            
+            if(defined($obj->{comment}))
+            {
+                print "#" . $obj->{comment} . "\n";
+            }
+            else
+            {
+                print "\n";
+            }
+        }
+    }
+}
+
+
+# ==============================================================================
+# Scores the ith feature
+
+sub score
+{
+    my ($positive, $negative) = @_;
+    
+    my @all = (@$positive, @$negative);
+
+    my $mean_all = Stats::mean(\@all);
+    my $mean_pos = Stats::mean($positive);
+    my $mean_neg = Stats::mean($negative);
+    
+    my $numerator = ($mean_pos - $mean_all)**2 + ($mean_neg - $mean_all)**2;
+    
+    my $denominator = Stats::wild_variance($positive, $mean_pos) + 
+                      Stats::wild_variance($negative, $mean_neg);
+    
+    if($denominator != 0)
+    {
+        return $numerator / $denominator;
+    }
+    
+    return 0;
+}
+
+# ==============================================================================
+# Input
+# my %obj = (
+#             class_label => 1,
+#             comment     => "2e52_A d1y88a2 prob=49.1",
+#             scores      => [7.00,12.00,12.00,41.96,94846.64,95421.14],
+#           );
+# Returns all values of the ith attribute according to class label 
+
+sub ith_attribute_values
+{
+    my ($objects, $label, $position) = @_;
+    
+    my @values;
+    
+    foreach my $obj (@$objects)
+    {
+        if($label == $obj->{class_label})
+        {
+            push(@values, $obj->{scores}[$position]);
+        }
+    }
+    
+    return \@values;
+}
+
+# ==============================================================================
+# Input
+# my %obj = (
+#             class_label => 1,
+#             comment     => "2e52_A d1y88a2 prob=49.1",
+#             scores      => [7.00,12.00,12.00,41.96,94846.64,95421.14],
+#           );
+# Returns all posible class labels 
+
+sub get_labels
+{
+    my ($objects) = @_;
+    
+    my %classes;
+
+    foreach my $obj (@$objects)
+    {
+        $classes{$obj->{class_label}} = $obj->{class_label};
+    }
+    
+    my @labels = keys(%classes);
+    
+    return \@labels;
+}
+
+

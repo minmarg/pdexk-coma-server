@@ -1,0 +1,201 @@
+HHsearch 1.5
+NAME  d2ctda1 g.37.1.1 (A:8-60) Zinc finger protein 512, ZNF512 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2ctda1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ctda1.a3m -v 1 
+DATE  Tue Jan 22 06:05:21 2013
+LENG  53 match states, 53 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHHHCCCEECCCCCHHHHHHHHHHHHHHHHHCC
+>ss_conf
+98777899998874568899887178411675521356788989999875249
+>Consensus
+xvxkexxxxxxgsxEeqWqrxIxekGxvxCPtCxxvxRKTvxGLKKHMexCqk
+>d2ctda1 g.37.1.1 (A:8-60) Zinc finger protein 512, ZNF512 {Human (Homo sapiens) [TaxId: 9606]}
+RIRKEPPVYAAGSLEEQWYLEIVDKGSVSCPTCQAVGRKTIEGLKKHMENCKQ
+>gi|224049007|ref|XP_002188674.1|(64-115:492) PREDICTED: hypothetical protein [Taeniopygia guttata]   E=6e-15 s/c=1.62 id=70% cov=100%
+-VQKEPETYDAGSMEEQWSLEIQDKGRVTCPTCQAVVRKTVEGLKKHMVNCRK
+>gi|410915955|ref|XP_003971452.1|(172-223:669) PREDICTED: zinc finger protein 512-like [Takifugu rubripes]   E=2e-14 s/c=1.58 id=66% cov=100%
+-IKKDPPTYPAGSEEERWQIQIVAKGRVSCPKCKSVSRKTVEGLKKHMENCRQ
+>gi|327289676|ref|XP_003229550.1|(41-91:568) PREDICTED: zinc finger protein 512-like [Anolis carolinensis]   E=2e-12 s/c=1.48 id=62% cov=98%
+--KREPPPYPPGSLEEQWQLAILGKGRVTCPICRAATRKTVEGLRKHMANCQQ
+>gi|345325233|ref|XP_003430899.1|(332-384:777) PREDICTED: zinc finger protein 512B-like [Ornithorhynchus anatinus]   E=4e-14 s/c=1.53 id=51% cov=100%
+-VKRETATYlSTASPEEQWQRIISEKGEVACPTCGVVTRKTIVGLKKHMDVCQK
+>gi|37360280|dbj|BAC98118.1|(471-526:883) mKIAA1196 protein [Mus musculus] >gi|148675486|gb|EDL07433.1| mCG140111, isoform CRA_b [Mus musculus]  E=1e-13 s/c=1.42 id=51% cov=100%
+-VSKEAPTpvahPAPGGPEEQWQRAIHERGEAVCPTCNVVTRKTLVGLKKHMEVCHK
+>gi|47223132|emb|CAG11267.1|(234-278:310) unnamed protein product [Tetraodon nigroviridis]   E=2e-11 s/c=1.61 id=48% cov=87%
+--------HAGAIPDTQWQRAISERGEVVCPTCSIVTRKTVHGLKKHMEICQK
+>gi|327271925|ref|XP_003220737.1|(340-380:775) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 512B-like [Anolis carolinensis]  E=5e-11 s/c=1.73 id=55% cov=79%
+------------SPEEQWQRIINEKGEIACPTCNMISRKTVLGLKKHMEVCQK
+>gi|213982951|ref|NP_001135637.1|(267-314:675) zinc finger protein 512B [Xenopus (Silurana) tropicalis] >gi|197245562|gb|AAI68489.1| Unknown (protein for MGC:172968) [Xenopus (Silurana) tropicalis]  E=9e-06 s/c=1.11 id=39% cov=92%
+--QEQTAPPPPDSAEGRCQRQ---RGEVLCPNCKSVTRKTMTGLRKHMEVCEQ
+>gi|81295144|emb|CAH17971.1|(242-294:298) putative zinc finger transcription factor [Gallus gallus]   E=2e-12 s/c=1.42 id=49% cov=100%
+-VKKEAAVHlPAANPEDQWQREISEKGEVACPTCSVITRKTVVGLKKHMDVCQK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+I 2    *	*	*	*	*	*	*	1969	*	*	*	*	*	*	*	*	*	426	*	*	2
+       0	*	*	*	*	*	*	1946	0	0	
+
+R 3    *	*	*	*	*	*	*	*	1394	*	*	4077	*	2582	2197	2512	*	*	*	*	3
+       0	*	*	*	*	*	*	2103	0	0	
+
+K 4    *	*	*	3207	*	*	*	*	387	*	*	*	*	*	2978	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2103	0	0	
+
+E 5    *	*	3091	369	*	*	*	*	*	*	*	*	*	3207	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2103	0	0	
+
+P 6    2473	*	*	*	*	*	*	*	*	*	*	*	1022	*	*	*	2607	2616	*	*	6
+       0	*	*	*	*	*	*	2098	0	0	
+
+P 7    2113	*	*	3182	*	*	*	*	*	*	*	*	857	*	*	*	*	3230	*	*	7
+       0	*	*	*	*	*	*	2098	0	0	
+
+V 8    2244	*	*	*	*	*	*	*	*	*	*	*	2099	*	*	4235	1399	3020	*	*	8
+       348	2221	*	2000	415	*	*	2098	1186	0	
+
+Y 9    *	*	*	*	*	*	2496	4055	*	*	*	*	2482	4405	*	4024	*	*	*	1074	9
+       168	3189	*	0	*	*	*	2111	1173	0	
+
+A 10   1593	*	4200	*	*	3405	*	*	*	*	*	*	1093	*	*	4289	*	*	*	*	10
+       157	3278	*	1723	521	*	*	2111	1220	0	
+
+A 11   1642	*	*	*	*	3722	*	*	*	*	*	*	1343	*	*	4405	2625	*	*	*	11
+       0	*	*	*	*	*	*	2111	0	0	
+
+G 12   2431	*	3460	*	*	467	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2111	0	0	
+
+S 13   *	*	*	*	*	2167	*	3700	*	*	*	4264	*	*	*	625	*	*	*	*	13
+       0	*	*	*	*	*	*	2058	0	0	
+
+L 14   2385	*	*	4156	*	*	*	*	*	3141	4273	*	1171	4379	4379	*	*	4406	*	*	14
+       0	*	*	*	*	*	*	2058	0	0	
+
+E 15   *	*	3700	116	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2058	0	0	
+
+E 16   *	*	4264	353	*	3502	*	*	*	*	*	*	*	*	*	*	3700	*	*	*	16
+       0	*	*	*	*	*	*	2058	0	0	
+
+Q 17   *	*	*	*	*	*	*	*	*	*	*	*	*	308	2377	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2058	0	0	
+
+W 18   *	3502	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	133	*	18
+       0	*	*	*	*	*	*	2058	0	0	
+
+Y 19   *	*	*	*	*	*	*	*	*	*	*	*	*	402	*	3325	*	*	*	2799	19
+       0	*	*	*	*	*	*	2058	0	0	
+
+L 20   *	*	*	*	*	*	*	4156	*	1506	*	*	*	*	757	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2058	0	0	
+
+E 21   1473	*	*	1759	*	*	*	2720	*	*	*	*	*	2377	*	*	*	*	*	*	21
+       133	*	3502	*	*	*	*	2058	0	0	
+
+I 22   *	*	*	*	*	*	*	85	*	4131	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	0	1973	0	1000	
+
+V 23   *	*	*	*	*	*	1736	*	*	2562	*	4147	*	3241	*	2387	*	2497	*	*	23
+       0	*	*	*	*	*	0	1973	0	1000	
+
+D 24   3053	*	1941	868	*	3811	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	0	*	1973	0	1000	
+
+K 25   *	*	*	*	*	*	*	*	708	*	*	*	*	*	1366	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2058	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2058	0	0	
+
+S 27   4075	*	*	909	*	*	*	*	*	*	*	*	*	*	1492	4246	*	*	*	*	27
+       0	*	*	*	*	*	*	2058	0	0	
+
+V 28   2614	*	*	*	*	*	*	4238	*	*	*	*	*	*	*	*	*	352	*	*	28
+       0	*	*	*	*	*	*	2058	0	0	
+
+S 29   2735	*	*	*	*	*	*	*	*	3502	*	*	*	*	*	2324	2262	1501	*	*	29
+       0	*	*	*	*	*	*	2058	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2058	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2058	0	0	
+
+T 32   *	*	*	*	*	*	*	4043	3263	*	*	3502	*	*	*	*	421	*	*	*	32
+       0	*	*	*	*	*	*	2058	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2058	0	0	
+
+Q 34   *	*	*	*	*	2661	*	*	2377	*	*	2209	*	3259	2324	2955	*	*	*	*	34
+       0	*	*	*	*	*	*	2058	0	0	
+
+A 35   1717	*	*	*	*	*	*	3700	*	*	4238	*	*	*	*	2377	*	1421	*	*	35
+       0	*	*	*	*	*	*	2058	0	0	
+
+V 36   4043	*	*	*	*	*	*	2656	*	*	*	*	*	*	*	*	*	357	*	*	36
+       0	*	*	*	*	*	*	2058	0	0	
+
+G 37   2863	*	*	*	*	4246	*	*	*	*	*	*	*	*	*	2670	1114	2390	*	*	37
+       0	*	*	*	*	*	*	2058	0	0	
+
+R 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2058	0	0	
+
+K 39   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2058	0	0	
+
+T 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	40
+       0	*	*	*	*	*	*	2058	0	0	
+
+I 41   *	*	*	*	*	*	*	2723	*	2167	3502	*	*	*	*	*	*	896	*	*	41
+       0	*	*	*	*	*	*	2058	0	0	
+
+E 42   4075	*	*	1292	*	*	3700	*	*	4238	*	*	*	*	*	*	3502	1670	*	*	42
+       0	*	*	*	*	*	*	2058	0	0	
+
+G 43   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2058	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2058	0	0	
+
+K 45   *	*	*	*	*	*	*	*	233	*	*	*	*	*	2747	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2058	0	0	
+
+K 46   *	*	*	*	*	*	*	*	88	*	*	*	*	*	4075	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2058	0	0	
+
+H 47   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2058	0	0	
+
+M 48   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2058	0	0	
+
+E 49   3201	*	2729	742	*	4513	*	*	4406	*	*	*	*	*	*	*	*	4273	*	*	49
+       0	*	*	*	*	*	*	2058	0	0	
+
+N 50   *	*	*	*	*	*	*	3700	*	*	*	1292	*	*	*	*	*	958	*	*	50
+       0	*	*	*	*	*	*	2058	0	0	
+
+C 51   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2058	0	0	
+
+K 52   *	*	*	3502	*	*	4591	*	3324	*	*	*	*	936	2013	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2058	0	0	
+
+Q 53   *	*	*	*	*	*	*	*	806	*	*	*	*	1224	*	*	*	*	*	*	53
+       0	*	*	0	*	*	*	2057	0	0	
+
+//

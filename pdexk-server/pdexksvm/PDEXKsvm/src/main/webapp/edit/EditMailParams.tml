@@ -1,0 +1,50 @@
+<html t:type="layout" title="Edit email params"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter"> 
+      
+    <body>
+    
+	    <div class="header">
+	        Email notification parameters
+	    </div>
+    
+    	<t:form t:id="editEmailForm">
+    		<t:errors/> 
+			
+    		<table class="editParams">
+			    <tr>
+			        <td>
+			            ${message:hostname}
+			        </td>
+			        <td>
+			            <t:textfield t:id="emailNotification_hostname" t:value="emailNotification.hostname" t:validate="required"/>
+			        </td>
+			    </tr>
+			    <tr>
+			        <td>
+			            ${message:port}
+			        </td>
+			        <td>
+			            <t:textfield t:id="emailNotification_port" t:value="emailNotification.port"/>
+			        </td>
+			    </tr>
+			    <tr>
+			        <td>
+			            ${message:from}
+			        </td>
+			        <td>
+			            <t:textfield t:id="emailNotification_sender" t:value="emailNotification.sender" t:validate="required,regexp"/>
+			        </td>
+			    </tr>
+			    <tr>
+                    <td>
+                    </td>
+                    <td>
+                        <input type="submit" t:type="submit" t:id="updateEmailNotificationButton" value="Update"/>
+                    </td>
+                </tr>
+			</table>
+			
+		</t:form>
+    </body>
+</html>

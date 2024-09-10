@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d2i9aa1 g.3.11.1 (A:10-49) Plasminogen activator (urokinase-type) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.11.1
+FILE  d2i9aa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2i9aa1.a3m -v 1 
+DATE  Tue Jan 22 07:23:17 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  20 out of 22 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCEEEEEECCCCCEEEECCCCCCCCCEEEECCCC
+>ss_conf
+9752579764544122574540078776774013214669
+>Consensus
+xCxClNGGtCvsykyFsxixrCxCPkxfxGehCEIDxxkt
+>d2i9aa1 g.3.11.1 (A:10-49) Plasminogen activator (urokinase-type) {Human (Homo sapiens) [TaxId: 9606]}
+NCDCLNGGTCVSNKYFSNIHWCNCPKKFGGQHCEIDKSKT
+>gi|355711932|gb|AES04176.1|(32-71:432) plasminogen activator, urokinase [Mustela putorius furo]   E=5e-11 s/c=1.77 id=78% cov=102%
+NCHCLNGGTCVSYKYFSNIHRCNCPKKFQGEHCEIDTTET
+>gi|395501552|ref|XP_003755157.1|(30-67:436) PREDICTED: urokinase-type plasminogen activator [Sarcophilus harrisii]  E=0.0001 s/c=1.31 id=59% cov=98%
+DCGCLNNGVCISYKYF-KIHRCSCPENFIGEHCEIDISQ-
+>gi|254692796|ref|NP_001157065.1|(32-71:433) urokinase-type plasminogen activator precursor [Ovis aries] >gi|241947429|gb|ACS72310.1| urokinase plasminogen activator [Ovis aries]  E=7e-13 s/c=1.92 id=71% cov=102%
+DCGCLNGGKCVSYKYFSNIQRCSCPKKFQGEYCEIDTSKT
+>gi|351714573|gb|EHB17492.1|(32-70:570) Urokinase-type plasminogen activator [Heterocephalus glaber]   E=1e-12 s/c=1.95 id=68% cov=100%
+-CGCLNGGSCVTYKYFSGIRRCNCPKRFQGEHCEIDAWKT
+>gi|137111|sp|P15120.1|UROK_CHICK(39-76:434) RecName: Full=Urokinase-type plasminogen activator; Short=U-plasminogen activator; Short=uPA; Contains: RecName: Full=Urokinase-type plasminogen activator chain A; Contains: RecName: Full=Urokinase-type plasminogen activator chain B; Flags: Precursor >gi|212857|gb|AAA49130.1| plasminogen activator [Gallus gallus] >gi|212859|gb|AAA49131.1| plasminogen activator precursor (E.C.3.4.21.31) [Gallus gallus]  E=4e-09 s/c=1.70 id=54% cov=98%
+ECQCLNGGTCITYRFFSQIKRCLCPEGYGGLHCEIDTN--
+>gi|327290489|ref|XP_003229955.1|(1022-1052:1329) PREDICTED: LOW QUALITY PROTEIN: neurocan core protein-like [Anolis carolinensis]  E=0.0008 s/c=1.51 id=62% cov=80%
+---CLHGGTCQSN---GNISTCNCPRGFTGENCEIDI---
+>gi|149414214|ref|XP_001510562.1|(36-73:432) PREDICTED: urokinase-type plasminogen activator-like [Ornithorhynchus anatinus]  E=5e-09 s/c=1.69 id=64% cov=98%
+-CHCQNGGECVSYKLFSRIHRCNCPKGFEGEHCEIDSQE-
+>gi|224052406|ref|XP_002193229.1|(38-77:432) PREDICTED: plasminogen activator, urokinase [Taeniopygia guttata]   E=4e-08 s/c=1.53 id=49% cov=102%
+ECLCLNGGRCISYYLFSGITRCICPDGYTGIHCELDTDST
+>gi|327276869|ref|XP_003223189.1|(36-74:431) PREDICTED: urokinase-type plasminogen activator-like [Anolis carolinensis]  E=1e-07 s/c=1.53 id=50% cov=95%
+SCNCLNGGTCITYHLFSRMKRCVCPEGYSGDHCEIDN---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	2407	2403	*	*	*	*	*	*	*	910	*	*	*	3471	*	*	*	*	1
+       0	*	*	*	*	*	*	1803	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1808	0	0	
+
+D 3    *	*	3204	*	*	976	3376	*	*	3387	*	3692	*	3716	*	4730	*	*	*	*	3
+       0	*	*	*	*	*	*	1808	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1893	0	0	
+
+L 5    *	*	*	*	*	*	*	*	*	210	*	*	*	2886	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1893	0	0	
+
+N 6    *	*	*	*	*	*	3462	*	*	*	*	137	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1893	0	0	
+
+G 7    *	*	*	*	*	93	*	*	*	*	*	3997	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1893	0	0	
+
+G 8    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1893	0	0	
+
+T 9    *	*	*	4210	*	*	*	4599	3748	*	*	*	*	*	3524	4484	746	3285	*	*	9
+       0	*	*	*	*	*	*	1893	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1893	0	0	
+
+V 11   *	*	*	*	*	*	*	1770	*	*	4418	*	*	3462	*	*	*	813	*	*	11
+       0	*	*	*	*	*	*	1893	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	521	1723	*	*	*	12
+       0	*	*	*	*	*	*	1893	0	0	
+
+N 13   *	*	*	*	*	*	*	*	*	*	*	2483	*	*	*	4158	*	*	*	386	13
+       137	*	3462	*	*	*	*	1893	0	0	
+
+K 14   *	*	*	*	*	*	3692	*	413	*	*	*	*	*	3716	*	*	*	*	3387	14
+       0	*	*	*	*	*	0	1808	0	1000	
+
+Y 15   *	*	*	*	3716	*	4425	*	*	2116	*	*	*	*	*	*	*	*	*	629	15
+       0	*	*	*	*	*	0	1808	0	1000	
+
+F 16   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       102	*	3867	*	*	0	*	1808	0	1000	
+
+S 17   *	*	*	*	*	3348	*	*	*	*	*	*	*	*	*	149	*	*	*	*	17
+       0	*	*	*	*	0	*	1822	0	1000	
+
+N 18   *	*	*	*	*	2925	*	*	3997	*	*	1175	*	3811	2982	2598	*	*	*	*	18
+       0	*	*	*	*	*	*	1893	0	0	
+
+I 19   *	*	*	*	*	*	*	261	*	*	3188	*	*	*	*	*	4158	*	*	*	19
+       0	*	*	*	*	*	*	1893	0	0	
+
+H 20   *	*	*	*	*	*	1888	*	2798	*	*	*	*	2779	2152	3462	3524	*	4726	*	20
+       0	*	*	*	*	*	*	1893	0	0	
+
+W 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	386	*	3462	*	2794	*	21
+       0	*	*	*	*	*	*	1893	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1893	0	0	
+
+N 23   *	*	*	*	*	*	*	2943	*	3811	*	1183	*	*	*	1807	*	3786	*	*	23
+       0	*	*	*	*	*	*	1893	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1893	0	0	
+
+P 25   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1893	0	0	
+
+K 26   *	*	3524	2277	*	*	*	*	699	*	*	*	*	*	3462	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1893	0	0	
+
+K 27   *	*	*	*	*	1413	*	*	1071	*	*	3997	*	*	3540	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1893	0	0	
+
+F 28   *	*	*	*	378	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2116	28
+       0	*	*	*	*	*	*	1893	0	0	
+
+G 29   *	*	*	4210	*	2215	*	3997	4645	*	*	*	*	1405	*	3786	2493	*	*	*	29
+       0	*	*	*	*	*	*	1893	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1893	0	0	
+
+Q 31   *	*	3786	678	*	*	*	3524	*	2974	*	*	*	3503	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1893	0	0	
+
+H 32   *	*	*	*	*	*	203	*	*	*	*	3462	*	*	*	*	*	*	*	4614	32
+       0	*	*	*	*	*	*	1893	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1893	0	0	
+
+E 34   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1893	0	0	
+
+I 35   *	*	*	*	*	*	*	131	*	3524	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1893	0	0	
+
+D 36   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1893	0	0	
+
+K 37   3610	*	*	*	*	*	*	2705	3503	*	*	2960	*	*	*	4210	1017	*	*	*	37
+       0	*	*	*	*	*	*	1893	0	0	
+
+S 38   4361	*	3172	*	*	*	*	*	*	4519	*	3506	*	3919	*	862	4543	*	4330	*	38
+       0	*	*	*	*	*	*	1773	0	0	
+
+K 39   *	*	*	3075	*	*	*	*	592	*	*	*	*	3523	*	2934	*	*	*	*	39
+       0	*	*	*	*	*	*	1705	0	0	
+
+T 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	40
+       0	*	*	0	*	*	*	1602	0	0	
+
+//

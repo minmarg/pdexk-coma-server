@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d2f0ca2 b.108.1.4 (A:17-62) Baseplate protein (bpp), N-terminal domain {Lactococcus phage tp901-1 [TaxId: 35345]}
+FAM   b.108.1.4
+FILE  d2f0ca2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2f0ca2.a3m -v 1 
+DATE  Tue Jan 22 06:49:42 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  7 out of 9 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCHHHHHCCCCCCCCCEEEECCCCCCCCCCCCCCCEECCCEECC
+>ss_conf
+9421122201002368712320366433565101342001320119
+>Consensus
+tixdxlxxinxexxsxxnvVhKTGDEsIaGkKTFtxnisxxGsltl
+>d2f0ca2 b.108.1.4 (A:17-62) Baseplate protein (bpp), N-terminal domain {Lactococcus phage tp901-1 [TaxId: 35345]}
+TINDDLEAINSELTSGGNVVHKTGDETIAGKKTFTGNVEVNGSLTL
+>gi|45597433|ref|NP_996718.1|(198-242:343) BPP [Lactococcus phage phiLC3] >gi|45504653|gb|AAS66822.1| putative baseplate protein [Lactococcus phage phiLC3]  E=7e-07 s/c=1.27 id=61% cov=100%
+-LQNQIDNLGNEKANDHEVVHKTGDESIAGKKTFTGNVEVNGSLTL
+>gi|157311072|ref|YP_001469067.1|(19-66:452) gp068 [Lactococcus phage KSY1] >gi|108861412|gb|ABG21611.1| gp068 [Lactococcus phage KSY1]  E=3e-06 s/c=1.15 id=64% cov=96%
+--DDNFGKINAELTSGGNVVHKTGDESIGGRKTFTtdmtvKNISASGSLS-
+>gi|13487852|ref|NP_108730.1|(17-56:173) major structural protein 1 [Lactococcus phage Tuc2009] >gi|13346866|gb|AAK19878.1|AF109874_51 major structural protein 1 [Bacteriophage Tuc2009]  E=0.001 s/c=1.17 id=61% cov=89%
+TINDNLNKLNTI------TVQKTGDETIAGKKTFSGDVSVDGDFTM
+>gi|157311070|ref|YP_001469065.1|(17-66:168) gp066 [Lactococcus phage KSY1] >gi|108861410|gb|ABG21609.1| gp066 [Lactococcus phage KSY1]  E=5e-06 s/c=1.09 id=72% cov=100%
+TINENLEAINAELISGGNVVHKTGDESVGGKKTFTddmtvKNISASGSLT-
+>gi|23455764|ref|NP_695073.1|(198-246:348) Structural protein [Lactococcus phage r1t] >gi|1353562|gb|AAB18720.1| Structural protein [Lactococcus phage r1t]  E=2e-05 s/c=1.07 id=47% cov=98%
+-LQNQIDNLGNEKANDHEVVHKTGDESIAGNKTFTddmtvKNISASGSLT-
+>gi|116512459|ref|YP_811366.1|(17-56:171) hypothetical protein LACR_1758 [Lactococcus lactis subsp. cremoris SK11] >gi|116108113|gb|ABJ73253.1| hypothetical protein LACR_1758 [Lactococcus lactis subsp. cremoris SK11]  E=9e-07 s/c=1.42 id=85% cov=89%
+TINDDLEAINSELTSGGNVVHKTGDESIAGNKTFTGDTTV------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1394	0	0	
+
+I 2    *	*	*	*	*	*	*	611	*	1534	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1724	0	0	
+
+N 3    *	*	2783	*	*	*	*	*	*	*	*	852	*	1733	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1760	0	0	
+
+D 4    *	*	846	2805	*	*	*	*	*	*	*	1733	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1760	0	0	
+
+D 5    *	*	1973	*	*	*	*	*	*	*	*	1170	*	1733	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1760	0	0	
+
+L 6    *	*	*	*	2783	*	*	1733	*	852	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1760	0	0	
+
+E 7    *	*	1733	1330	*	2783	*	*	*	*	*	2679	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1760	0	0	
+
+A 8    1330	*	*	*	*	*	*	*	1730	*	*	1733	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1760	0	0	
+
+I 9    *	*	*	*	*	*	*	881	*	1130	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1760	0	0	
+
+N 10   *	*	*	*	*	1733	*	*	*	*	*	516	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1760	0	0	
+
+S 11   1794	*	*	*	*	*	*	*	*	*	*	1733	*	*	*	1973	2679	*	*	*	11
+       0	*	*	*	*	*	*	1760	0	0	
+
+E 12   *	*	*	245	*	*	*	2679	*	*	*	*	*	*	*	*	*	*	*	*	12
+       245	*	2679	*	*	*	*	1760	0	0	
+
+L 13   *	*	*	*	*	*	*	*	1527	615	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	0	1658	0	1000	
+
+T 14   1527	*	*	*	*	*	*	2600	*	*	*	*	*	*	*	*	1035	*	*	*	14
+       0	*	*	*	*	*	0	1658	0	1000	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	1527	*	*	*	615	*	*	*	*	15
+       0	*	*	*	*	*	0	1658	0	1000	
+
+G 16   *	*	1527	*	*	615	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	0	1658	0	1000	
+
+G 17   *	*	*	*	*	615	1527	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	0	1658	0	1000	
+
+N 18   *	*	*	1527	*	*	*	*	*	*	*	615	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	0	*	1658	0	1000	
+
+V 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2679	245	*	*	19
+       0	*	*	*	*	*	*	1760	0	0	
+
+V 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	20
+       0	*	*	*	*	*	*	1760	0	0	
+
+H 21   *	*	*	*	*	*	245	*	*	*	*	*	*	2679	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1760	0	0	
+
+K 22   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1760	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	23
+       0	*	*	*	*	*	*	1760	0	0	
+
+G 24   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1760	0	0	
+
+D 25   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1760	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1760	0	0	
+
+T 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	469	1850	*	*	*	27
+       0	*	*	*	*	*	*	1760	0	0	
+
+I 28   *	*	*	*	*	*	*	223	*	*	*	*	*	*	*	*	*	2805	*	*	28
+       0	*	*	*	*	*	*	1760	0	0	
+
+A 29   491	*	*	*	*	1794	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1760	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1760	0	0	
+
+K 31   *	*	*	*	*	*	*	*	812	*	*	1811	*	*	2783	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1760	0	0	
+
+K 32   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1760	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	33
+       0	*	*	*	*	*	*	1760	0	0	
+
+F 34   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1760	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2679	245	*	*	*	35
+       836	1185	*	2322	322	*	*	1760	1429	0	
+
+G 36   *	*	*	*	*	836	*	*	1185	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1760	0	0	
+
+N 37   *	*	1787	*	*	*	*	*	*	*	*	494	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1760	0	0	
+
+V 38   *	*	*	*	*	*	*	1185	*	*	*	*	*	*	*	*	2904	1229	*	*	38
+       0	*	*	*	*	*	*	1760	0	0	
+
+E 39   *	*	*	1887	*	*	*	*	*	*	*	*	*	*	*	747	2904	*	*	*	39
+       0	*	*	*	*	*	*	1760	0	0	
+
+V 40   1185	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	836	*	*	40
+       0	*	*	*	*	*	*	1760	0	0	
+
+N 41   *	*	2364	*	*	*	*	*	*	*	*	1670	*	*	*	1024	*	*	*	*	41
+       0	*	*	*	*	*	*	1737	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1737	0	0	
+
+S 43   *	*	2364	*	*	*	*	*	*	*	*	*	*	*	*	312	*	*	*	*	43
+       0	*	*	*	*	*	*	1737	0	0	
+
+L 44   *	*	*	*	2364	*	*	*	*	312	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1737	0	0	
+
+T 45   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2558	268	*	*	*	45
+       0	*	*	*	*	*	*	1737	0	0	
+
+L 46   *	*	*	*	*	*	*	*	*	542	1676	*	*	*	*	*	*	*	*	*	46
+       0	*	*	0	*	*	*	1536	0	0	
+
+//

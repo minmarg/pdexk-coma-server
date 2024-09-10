@@ -1,0 +1,178 @@
+HHsearch 1.5
+NAME  d1jkza_ g.3.7.5 (A:) Defensin 1 (PSD1) {Pea (Pisum sativum) [TaxId: 3888]}
+FAM   g.3.7.5
+FILE  d1jkza_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jkza_.a3m -v 1 
+DATE  Mon Jan 21 22:32:27 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEECCCC
+>ss_conf
+9411110023676226887543213421101254444024430689
+>Consensus
+xTCEnLadtyrGpCfxxxxCdxHCkxkehliSGrCrdfrCwCTxnC
+>d1jkza_ g.3.7.5 (A:) Defensin 1 (PSD1) {Pea (Pisum sativum) [TaxId: 3888]}
+KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC
+>gi|544136|sp|Q01783.1|DF230_PEA(29-72:72) RecName: Full=Defensin-like protein 230; AltName: Full=Disease resistance response protein 230; Flags: Precursor >gi|169074|gb|AAA79117.1| disease resistance response protein [Pisum sativum] >gi|22208749|emb|CAA36474.1| pI230 [Pisum sativum]  E=0.0007 s/c=1.07 id=52% cov=96%
+-TCENLAGSYKGVCF--GGCDRHCRTQEGAISGRCRdDFRCWCTKNC
+>gi|209572858|sp|B3F051.1|DEF_LENCC(28-74:74) RecName: Full=Defensin Lc-def; Flags: Precursor >gi|182894534|gb|ABP04037.1| defensin precursor [Lens culinaris subsp. culinaris]  E=3e-10 s/c=1.45 id=49% cov=102%
+KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRdDFRCWCTRNC
+>gi|37362324|gb|AAQ91290.1|(28-73:73) defensin [Medicago truncatula]   E=2e-09 s/c=1.42 id=85% cov=102%
+RTCEHLADTYRGPCFTEGSCDDHCKNKAHLISGTCHNFQCFCTQNC
+>gi|31324677|gb|AAP48592.1|(28-72:72) defensin [Trigonella foenum-graecum] >gi|33330415|gb|AAQ10522.1| defensin [Trigonella foenum-graecum] >gi|34148269|gb|AAO72633.1| antifungal protein defensin [Arachis diogoi] >gi|34391895|gb|AAO38756.1| defensin [Cicer arietinum] >gi|34391953|gb|AAP49847.1| defensin [Cajanus cajan]  E=5e-07 s/c=1.28 id=56% cov=98%
+KTCENLADKYRGPCFS--GCDTHCTTKEHAVSGRCRdDFRCWCTKRC
+>gi|20139323|sp|P81930.2|DEF2_PEA(1-47:47) RecName: Full=Defensin-2; AltName: Full=Antifungal protein Psd2; AltName: Full=Defense-related peptide 2  E=7e-05 s/c=1.07 id=45% cov=102%
+KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRdDFRCWCTNRC
+>gi|83776796|gb|ABC46711.1|(1-75:75) disease resistance response protein [Arachis hypogaea]   E=5e-13 s/c=1.01 id=68% cov=102%
+ATCENLADTYRGPCFTTGSCDDHCKNKEHLLSGRCRdDFRCWCTRNC
+>gi|32966904|gb|AAP92330.1|(1-74:74) defensin [Arachis diogoi] >gi|34148267|gb|AAO72632.1| antifungal protein defensin [Trigonella foenum-graecum]  E=4e-19 s/c=1.13 id=55% cov=102%
+ATCENLADTFRGPCFGNSNCNFHCKTKEHLLSGRCRdDFRCWCTKRC
+>gi|50082557|gb|AAT69983.1|(1-54:54) Def3.1 [Medicago truncatula]   E=3e-12 s/c=1.58 id=55% cov=102%
+NTCENLAGTFRGPCFGNSNCDFHCRTKEHLVSGRCRdDFRCWCTRNC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    2126	*	*	*	*	*	*	*	1037	*	*	3563	*	*	2330	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1629	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1667	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1667	0	0	
+
+H 5    *	*	*	*	*	*	1830	*	*	*	*	476	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1667	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1667	0	0	
+
+A 7    288	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2467	*	*	*	*	7
+       0	*	*	*	*	*	*	1667	0	0	
+
+D 8    *	*	588	*	*	1905	*	*	*	*	*	3883	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1667	0	0	
+
+T 9    *	*	*	*	*	*	*	*	3486	*	*	*	*	*	*	2445	460	*	*	*	9
+       0	*	*	*	*	*	*	1667	0	0	
+
+Y 10   *	*	*	*	1329	*	*	*	*	*	*	*	*	*	*	*	*	*	*	732	10
+       0	*	*	*	*	*	*	1667	0	0	
+
+R 11   *	*	*	*	*	*	*	*	1848	*	*	*	*	*	470	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1667	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1667	0	0	
+
+V 13   *	*	*	*	*	*	*	*	*	*	*	*	305	*	*	*	*	2391	*	*	13
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1667	0	0	
+
+F 15   *	*	*	*	472	*	*	2467	*	3352	*	*	*	*	*	*	*	*	*	*	15
+       260	*	2602	*	*	*	*	1667	0	0	
+
+T 16   *	*	*	*	*	2442	*	*	*	*	*	*	2185	*	*	3141	1051	*	*	*	16
+       174	*	3141	*	*	*	0	1633	0	1194	
+
+N 17   *	*	1450	3174	*	*	*	*	*	*	*	1217	*	*	*	*	3429	*	*	*	17
+       0	*	*	*	*	585	1585	1583	0	1254	
+
+A 18   2306	*	*	*	*	668	*	*	*	*	*	*	*	*	*	2570	*	*	*	*	18
+       0	*	*	*	*	0	*	1640	0	1000	
+
+S 19   3888	*	*	*	*	1977	*	*	*	*	*	1597	*	*	*	1523	*	*	*	*	19
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1667	0	0	
+
+D 21   *	*	424	*	*	*	*	*	*	*	*	1973	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1667	0	0	
+
+D 22   *	*	1267	*	2201	*	*	*	2467	*	*	*	*	*	3367	*	3486	*	*	*	22
+       0	*	*	*	*	*	*	1667	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1667	0	0	
+
+K 25   *	*	*	*	*	*	*	*	635	*	*	*	*	*	1905	*	3486	*	*	*	25
+       0	*	*	*	*	*	*	1667	0	0	
+
+N 26   *	*	*	3527	*	*	*	*	*	*	*	972	*	*	*	*	1309	*	*	*	26
+       0	*	*	*	*	*	*	1667	0	0	
+
+K 27   *	*	*	*	*	*	*	*	306	*	*	3408	*	3367	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1667	0	0	
+
+A 28   1830	*	*	476	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1667	0	0	
+
+H 29   *	*	*	*	*	3367	147	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1667	0	0	
+
+L 30   2425	*	*	*	*	*	*	*	*	297	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1667	0	0	
+
+I 31   *	*	*	*	*	*	*	1403	*	1362	*	*	*	*	*	*	*	2104	*	*	31
+       0	*	*	*	*	*	*	1667	0	0	
+
+S 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	32
+       0	*	*	*	*	*	*	1667	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1667	0	0	
+
+T 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	476	*	1830	*	*	*	34
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1667	0	0	
+
+H 36   *	*	*	*	*	*	1830	*	*	*	*	*	*	*	476	*	*	*	*	*	36
+       1830	476	*	0	*	*	*	1667	1468	0	
+
+N 37   *	*	476	*	*	*	*	*	*	*	*	1830	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1667	0	0	
+
+W 38   *	*	*	*	307	*	*	*	*	*	*	*	*	*	*	*	*	*	3415	3352	38
+       0	*	*	*	*	*	*	1667	0	0	
+
+K 39   *	*	*	*	*	*	*	*	2384	*	*	*	*	3480	476	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1667	0	0	
+
+F 41   *	*	*	*	1830	*	*	*	*	*	*	*	*	*	*	*	*	*	476	*	41
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 42   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1667	0	0	
+
+T 43   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	43
+       0	*	*	*	*	*	*	1667	0	0	
+
+Q 44   *	*	*	*	*	*	*	*	1943	*	*	3408	*	1830	1456	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1667	0	0	
+
+N 45   *	*	*	*	*	*	*	*	*	*	*	429	*	*	1959	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1667	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	0	*	*	*	1667	0	0	
+
+//

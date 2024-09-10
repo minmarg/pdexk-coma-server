@@ -1,0 +1,157 @@
+HHsearch 1.5
+NAME  d2cyua1 a.9.1.1 (A:2-40) E3-binding domain of dihydrolipoamide succinyltransferase {Escherichia coli [TaxId: 562]}
+FAM   a.9.1.1
+FILE  d2cyua1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cyua1.a3m -v 1 
+DATE  Tue Jan 22 06:27:23 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  109 out of 1926 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.7 
+SEQ
+>ss_pred
+CCHHHHHHHHHCCCCHHHCCCCCCCCCEEHHHHHHHHHC
+>ss_conf
+987888999870887330588798885528769988619
+>Consensus
+isPxarxlAxexgidlxxvxgTGxxGrIxkxDVxxxixq
+>d2cyua1 a.9.1.1 (A:2-40) E3-binding domain of dihydrolipoamide succinyltransferase {Escherichia coli [TaxId: 562]}
+LSPAIRRLLAEHNLDASAIKGTGVGGRLTREDVEKHLAK
+>gi|282898840|ref|ZP_06306827.1|(163-201:455) Biotin/lipoyl attachment [Cylindrospermopsis raciborskii CS-505] >gi|281196367|gb|EFA71277.1| Biotin/lipoyl attachment [Cylindrospermopsis raciborskii CS-505]  E=5e-07 s/c=1.46 id=32% cov=103%
+VSPRARKLAKELKVDLNNLQGSGPYGRIIAGDIEAAVGK
+>gi|282890229|ref|ZP_06298759.1|(122-158:402) hypothetical protein pah_c014o107 [Parachlamydia acanthamoebae str. Hall's coccus] >gi|281499886|gb|EFB42175.1| hypothetical protein pah_c014o107 [Parachlamydia acanthamoebae str. Hall's coccus]  E=2e-06 s/c=1.49 id=34% cov=97%
+--PATRKMARDLGLDLSTISATGDHGEITIDDIKKYVSQ
+>gi|28952045|ref|NP_240037.2|(115-149:405) branched-chain alpha-keto acid dehydrogenase subunit E2 [Buchnera aphidicola str. APS (Acyrthosiphon pisum)] >gi|219681578|ref|YP_002467964.1| branched-chain alpha-keto acid dehydrogenase subunit E2 [Buchnera aphidicola str. 5A (Acyrthosiphon pisum)] >gi|219682136|ref|YP_002468520.1| branched-chain alpha-keto acid dehydrogenase subunit E2 [Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)] >gi|219621869|gb|ACL30025.1| dihydrolipoamide acetyltransferase [Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)] >gi|219624421|gb|ACL30576.1| dihydrolipoamide acetyltransferase [Buchnera aphidicola str. 5A (Acyrthosiphon pisum)]  E=3e-06 s/c=1.56 id=33% cov=92%
+-TPLIRRLARNLNINLYDVVGTGPKNRILKEDLDLY---
+>gi|392391211|ref|YP_006427814.1|(133-174:443) pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase component [Ornithobacterium rhinotracheale DSM 15997] >gi|390522289|gb|AFL98020.1| pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase component [Ornithobacterium rhinotracheale DSM 15997]  E=5e-06 s/c=1.28 id=32% cov=103%
+LSPLVRSIAAKEGIsaeELNSIQGSGQNGRVTKDDMLRYLEQ
+>gi|424780635|ref|ZP_18207508.1|(130-165:429) Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex [Catellicoccus marimammalium M35/04/3] >gi|422843037|gb|EKU27484.1| Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex [Catellicoccus marimammalium M35/04/3]  E=1e-05 s/c=1.46 id=30% cov=95%
+--PSVRRFAKENRVDLHLVTPTGKHNHILQSDVENFLE-
+>gi|320333073|ref|YP_004169784.1|(4-42:568) E3-binding domain-containing protein [Deinococcus maricopensis DSM 21211] >gi|319754362|gb|ADV66119.1| E3 binding domain protein [Deinococcus maricopensis DSM 21211]  E=0.0005 s/c=1.21 id=28% cov=103%
+IAPLAKILAEANGIDWRKIEGTGDGGLIVEQDILNFLTR
+>gi|229822331|ref|YP_002883857.1|(174-211:499) hypothetical protein Bcav_3853 [Beutenbergia cavernae DSM 12333] >gi|229568244|gb|ACQ82095.1| catalytic domain of components of various dehydrogenase complexes [Beutenbergia cavernae DSM 12333]  E=0.0008 s/c=1.23 id=33% cov=100%
+-TPPVRALALRLGVDIAGVAGTGEQGLVTRDDVLAAQAR
+>gi|138894556|ref|YP_001125009.1|(137-174:439) dihydrolipoamide succinyltransferase [Geobacillus thermodenitrificans NG80-2] >gi|196247837|ref|ZP_03146539.1| 2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase [Geobacillus sp. G11MC16] >gi|134266069|gb|ABO66264.1| Dihydrolipoamide succinyltransferase [Geobacillus thermodenitrificans NG80-2] >gi|196212621|gb|EDY07378.1| 2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase [Geobacillus sp. G11MC16]  E=1e-07 s/c=1.56 id=28% cov=100%
+-SPAARKMAREKGIDLTQVPTVDPLGRVRKQDVASFAAQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	1278	*	1919	3353	*	*	*	*	*	*	2150	*	*	1
+       0	*	*	*	*	*	*	4162	0	0	
+
+S 2    4218	*	*	*	6100	4686	*	*	*	*	6634	*	6702	*	*	883	1642	*	*	6557	2
+       0	*	*	*	*	*	*	4578	0	0	
+
+P 3    *	*	*	*	*	*	*	*	5729	*	*	*	57	*	*	*	5645	*	*	*	3
+       0	*	*	*	*	*	*	4669	0	0	
+
+A 4    1456	*	*	*	5539	*	6973	7112	4990	2294	*	6797	4227	*	4421	3063	5755	3349	*	5793	4
+       0	*	*	*	*	*	*	4676	0	0	
+
+I 5    964	*	*	*	*	*	*	4301	*	*	*	*	*	*	*	*	3909	1434	*	*	5
+       0	*	*	*	*	*	*	4676	0	0	
+
+R 6    5067	*	6596	4195	6011	6818	6261	6437	2944	4854	6827	*	*	6277	629	6580	*	6244	*	*	6
+       0	*	*	*	*	*	*	4676	0	0	
+
+R 7    3448	6211	6437	5975	*	6458	4521	6991	1516	5529	6261	4401	*	5004	1835	4932	5838	6490	*	*	7
+       0	*	*	*	*	*	*	4676	0	0	
+
+L 8    4697	*	*	*	3625	*	6612	2270	*	1334	2902	*	*	*	5068	*	*	4745	*	3938	8
+       0	*	*	*	*	*	*	4676	0	0	
+
+L 9    436	6712	*	*	*	5292	*	4447	*	3692	4719	*	*	*	*	5096	6188	5530	*	*	9
+       0	*	*	*	*	*	*	4676	0	0	
+
+A 10   3144	*	5029	2695	*	6629	5859	*	2420	4731	*	5016	*	4821	1621	4986	6010	*	*	6430	10
+       0	*	*	*	*	*	*	4676	0	0	
+
+E 11   4584	*	3329	1057	*	*	*	6625	3767	6575	*	6931	*	3085	3886	4944	4574	5979	*	*	11
+       0	*	*	*	*	*	*	4676	0	0	
+
+H 12   3659	*	*	4646	5302	*	2377	*	2791	2473	5346	2572	*	6437	4807	5179	*	6863	6329	4328	12
+       0	*	*	*	*	*	*	4676	0	0	
+
+N 13   4799	*	4699	5146	*	742	5092	*	5162	*	*	2606	*	5043	5663	5160	*	*	*	*	13
+       0	*	*	*	*	*	*	4676	0	0	
+
+L 14   *	*	*	*	5455	*	*	1106	*	2292	6252	*	*	*	*	*	*	1825	*	6261	14
+       46	4982	*	1320	738	*	*	4676	2242	0	
+
+D 15   4748	*	769	4416	*	*	*	*	4704	*	*	2930	4388	*	6691	3432	6760	*	*	*	15
+       41	5155	*	1781	496	*	*	4676	1896	0	
+
+A 16   3534	*	*	*	6580	*	*	2535	*	1012	*	*	3278	*	*	5537	6235	4309	5177	5732	16
+       0	*	*	*	*	*	*	4676	0	0	
+
+S 17   2205	*	4056	3374	*	*	5104	*	5681	6357	*	3675	*	5006	4483	2004	2872	5927	*	6754	17
+       0	*	*	*	*	*	*	4676	0	0	
+
+A 18   4033	*	3263	3375	5544	7011	6175	6664	3273	4123	6578	3940	*	2802	4486	3366	2808	6502	*	6625	18
+       0	*	*	*	*	*	*	4676	0	0	
+
+I 19   5696	5409	*	*	*	*	*	1364	*	3240	5581	*	*	*	*	*	*	1178	*	*	19
+       39	5218	*	737	1322	*	*	4676	2032	0	
+
+K 20   4570	*	4636	4853	*	*	6612	6790	2322	6712	*	*	2967	3159	4195	3554	2165	4273	*	*	20
+       0	*	*	*	*	*	*	4676	0	0	
+
+G 21   2879	*	*	*	*	549	*	*	*	*	*	*	3028	6494	*	6548	6042	5579	*	*	21
+       19	6244	*	1585	585	*	*	4676	1000	0	
+
+T 22   5428	*	*	*	5630	*	*	*	*	*	*	*	*	*	6188	1537	778	6042	*	*	22
+       0	*	*	*	*	*	*	4676	0	0	
+
+G 23   5484	*	4243	*	5630	193	*	*	*	6211	*	*	*	*	*	5952	*	*	*	*	23
+       0	*	*	*	*	*	*	4676	0	0	
+
+V 24   4083	*	6945	3868	6928	4363	7042	4861	3338	6589	6925	6195	1491	5206	2587	5912	4867	5567	*	6235	24
+       0	*	*	*	*	*	*	4676	0	0	
+
+G 25   4622	*	2388	5503	*	2478	2914	*	4372	5476	*	2628	6452	4164	3885	7067	6071	6790	*	4822	25
+       16	*	6502	*	*	*	*	4676	0	0	
+
+G 26   *	*	*	*	*	242	*	*	*	*	*	3560	*	*	4642	5075	*	*	*	*	26
+       0	*	*	*	*	0	*	4666	0	1000	
+
+R 27   *	*	*	5231	*	6042	5897	4532	3571	5491	4899	6606	*	4864	699	5172	4784	4887	*	*	27
+       0	*	*	*	*	*	*	4676	0	0	
+
+L 28   6010	*	*	*	*	*	*	861	*	3552	*	*	*	*	*	*	*	1520	*	*	28
+       0	*	*	*	*	*	*	4676	0	0	
+
+T 29   *	6329	*	5539	*	6211	6188	4017	5642	2369	5196	6941	*	5929	3893	4153	1270	3770	*	*	29
+       0	*	*	*	*	*	*	4676	0	0	
+
+R 30   3770	*	6501	3224	6745	6244	6667	5775	986	5165	5681	*	6430	*	2637	*	*	4901	*	*	30
+       0	*	*	*	*	*	*	4676	0	0	
+
+E 31   2451	*	2737	2115	*	4261	*	6056	3368	6702	*	6235	*	3897	3585	3580	6025	*	*	*	31
+       0	*	*	*	*	*	*	4676	0	0	
+
+D 32   *	*	30	*	*	*	*	*	*	*	*	5590	*	*	*	*	*	*	*	*	32
+       8	7477	*	0	*	*	*	4676	1000	0	
+
+V 33   4297	*	*	*	*	*	*	2031	*	3529	4604	*	*	*	*	*	*	794	*	*	33
+       0	*	*	*	*	*	*	4676	0	0	
+
+E 34   4567	*	3529	2103	7051	*	6743	4591	3756	1704	6171	*	*	3591	4507	6490	6596	5273	*	6501	34
+       0	*	*	*	*	*	*	4676	0	0	
+
+K 35   1559	7136	5214	4424	*	5397	5150	*	3048	5630	*	3036	*	4983	2797	3679	6452	*	*	*	35
+       0	*	*	*	*	*	*	4676	0	0	
+
+H 36   2177	*	*	*	2513	*	3722	6541	5494	4496	*	*	*	*	*	5986	5758	4194	5897	1535	36
+       0	*	*	*	*	*	*	4656	0	0	
+
+L 37   3814	*	*	*	5985	*	*	2067	*	1628	4062	*	*	4464	*	6743	5842	2191	*	*	37
+       0	*	*	*	*	*	*	4701	0	0	
+
+A 38   1934	*	5568	2518	*	3969	6688	*	3611	*	*	4313	6373	2852	5588	3036	4859	6742	*	*	38
+       0	*	*	*	*	*	*	4642	0	0	
+
+K 39   *	*	*	2824	*	*	*	*	2137	*	*	*	*	1201	2348	*	*	*	*	*	39
+       0	*	*	0	*	*	*	4448	0	0	
+
+//

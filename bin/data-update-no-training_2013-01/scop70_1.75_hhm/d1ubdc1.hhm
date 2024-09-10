@@ -1,0 +1,122 @@
+HHsearch 1.5
+NAME  d1ubdc1 g.37.1.1 (C:295-322) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1ubdc1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ubdc1.a3m -v 1 
+DATE  Tue Jan 22 03:33:14 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  32 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHCHHHHHHHHHCCCC
+>ss_conf
+9877633213444010667754302689
+>Consensus
+tvxCphxgCxKmFrdnsAmRKHlHtHGP
+>d1ubdc1 g.37.1.1 (C:295-322) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+TIACPHKGCTKMFRDNSAMRKHLHTHGP
+>gi|172044568|sp|P0C6P6.1|TYY2_RAT(258-284:376) RecName: Full=Transcription factor YY2; AltName: Full=Yin and yang 2; Short=YY-2  E=2e-06 s/c=2.06 id=79% cov=100%
+-VACSHKGCGKMFKDNSAMRKHLHIHGP
+>gi|348561297|ref|XP_003466449.1|(260-287:379) PREDICTED: transcription factor YY2-like [Cavia porcellus]   E=1e-05 s/c=1.90 id=72% cov=104%
+TVACRQEGCKKMFKDNCAMRKHLHTHGP
+>gi|334350243|ref|XP_003342329.1|(317-343:435) PREDICTED: hypothetical protein LOC100617194 [Monodelphis domestica]  E=2e-05 s/c=1.93 id=68% cov=100%
+-LPCPHGECPKLFRDNSALRKHMHTHGP
+>gi|114687974|ref|XP_529235.2|(253-280:372) PREDICTED: transcription factor YY2 [Pan troglodytes] >gi|397497637|ref|XP_003846017.1| PREDICTED: transcription factor YY2 [Pan paniscus]  E=0.0001 s/c=1.76 id=69% cov=104%
+TVACSYSGCEKMFRDYAAMRKHLHIHGP
+>gi|403263688|ref|XP_003924149.1|(252-279:371) PREDICTED: transcription factor YY2 [Saimiri boliviensis boliviensis]  E=0.0002 s/c=1.73 id=69% cov=104%
+TVPCAHNGCGKMFRDYAAMRKHLHVHGP
+>gi|195441416|ref|XP_002068505.1|(529-553:709) GK20506 [Drosophila willistoni] >gi|194164590|gb|EDW79491.1| GK20506 [Drosophila willistoni]  E=0.0003 s/c=1.92 id=69% cov=93%
+---CTHRGCFKEFRNQSAMRKHMHTHGP
+>gi|358254102|dbj|GAA54135.1|(341-368:752) transcriptional repressor protein YY1 [Clonorchis sinensis]   E=6e-06 s/c=1.90 id=72% cov=104%
+TVACPQLGCGKTFRDTSSMRKHLHTHGP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3922	98	*	*	*	1
+       0	*	*	*	*	*	*	1537	0	0	
+
+I 2    *	*	*	*	*	*	*	1264	*	3254	*	*	*	*	*	*	*	1063	*	*	2
+       0	*	*	*	*	*	*	1622	0	0	
+
+A 3    731	*	*	*	4593	*	*	*	*	*	*	*	1646	*	*	4773	*	*	*	*	3
+       0	*	*	*	*	*	*	1622	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1694	0	0	
+
+P 5    3414	*	*	*	*	*	*	*	*	*	*	*	655	*	4646	2893	3374	*	*	*	5
+       0	*	*	*	*	*	*	1694	0	0	
+
+H 6    *	*	*	*	*	*	323	*	*	*	*	4676	*	2978	*	*	*	*	*	4863	6
+       0	*	*	*	*	*	*	1694	0	0	
+
+K 7    5223	*	*	3650	*	4401	*	4132	1051	3731	*	4622	*	*	3374	3408	*	*	*	*	7
+       0	*	*	*	*	*	*	1694	0	0	
+
+G 8    *	*	4240	3522	*	285	*	*	*	*	*	4676	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1694	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1694	0	0	
+
+T 10   *	*	*	2124	4332	2193	4980	*	4646	4885	*	2316	3522	*	*	4036	5443	5328	*	*	10
+       0	*	*	*	*	*	*	1694	0	0	
+
+K 11   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1694	0	0	
+
+M 12   *	*	*	3374	*	*	5118	*	*	2600	730	*	*	*	*	*	3731	*	*	4980	12
+       0	*	*	*	*	*	*	1694	0	0	
+
+F 13   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1694	0	0	
+
+R 14   *	*	*	*	*	*	*	*	2325	*	*	*	*	*	321	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1694	0	0	
+
+D 15   *	*	146	*	*	*	*	*	*	*	*	3374	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1694	0	0	
+
+N 16   *	*	*	*	*	*	4418	*	*	*	*	654	*	4332	*	4048	3731	*	*	2921	16
+       0	*	*	*	*	*	*	1694	0	0	
+
+S 17   2188	3869	*	*	*	4175	*	*	*	*	*	*	*	*	*	607	*	*	*	*	17
+       0	*	*	*	*	*	*	1694	0	0	
+
+A 18   105	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3832	*	*	*	*	18
+       0	*	*	*	*	*	*	1694	0	0	
+
+M 19   *	*	*	*	*	*	*	*	*	3113	177	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1694	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1694	0	0	
+
+K 21   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1694	0	0	
+
+H 22   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1694	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	224	2798	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1694	0	0	
+
+H 24   *	*	*	*	*	*	57	*	*	*	*	*	*	4681	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1694	0	0	
+
+T 25   *	*	*	*	*	*	*	2101	*	*	*	*	*	*	*	*	461	4622	*	*	25
+       0	*	*	*	*	*	*	1694	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1694	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1694	0	0	
+
+P 28   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1694	0	0	
+
+//

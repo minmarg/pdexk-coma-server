@@ -1,0 +1,132 @@
+HHsearch 1.5
+NAME  d1ak2a2 g.41.2.1 (A:147-176) Microbial and mitochondrial ADK, insert "zinc finger" domain {Cow (Bos taurus), mitochondrial izozyme-2 [TaxId: 9913]}
+FAM   g.41.2.1
+FILE  d1ak2a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ak2a2.a3m -v 1 
+DATE  Mon Jan 21 19:33:51 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  124 out of 638 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCCEECCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+999840044108889788016888833129
+>Consensus
+PxcGxxYhvxxxPPkxxgxCDxcGxxLxqR
+>d1ak2a2 g.41.2.1 (A:147-176) Microbial and mitochondrial ADK, insert "zinc finger" domain {Cow (Bos taurus), mitochondrial izozyme-2 [TaxId: 9913]}
+PQSGRSYHEEFNPPKEPMKDDITGEPLIRR
+>gi|403159559|ref|XP_003320166.2|(195-223:305) hypothetical protein PGTG_01078 [Puccinia graminis f. sp. tritici CRL 75-36-700-3] >gi|375168149|gb|EFP75747.2| hypothetical protein PGTG_01078 [Puccinia graminis f. sp. tritici CRL 75-36-700-3]  E=9e-06 s/c=1.82 id=43% cov=100%
+-PTGRVYNTTYNPPLIEGKDDYTGDALTKR
+>gi|410582539|ref|ZP_11319645.1|(131-160:216) adenylate kinase family protein [Thermaerobacter subterraneus DSM 13965] >gi|410505359|gb|EKP94868.1| adenylate kinase family protein [Thermaerobacter subterraneus DSM 13965]  E=8e-08 s/c=1.99 id=35% cov=103%
+PACGATYHVRFEPPQVEGRCDRCGAELVQR
+>gi|193216741|ref|YP_001999983.1|(149-178:232) adenylate kinase [Mycoplasma arthritidis 158L3-1] >gi|193002064|gb|ACF07279.1| adenylate kinase [Mycoplasma arthritidis 158L3-1]  E=6e-05 s/c=1.67 id=42% cov=103%
+PADKTIYHLEFNPPKKAGVCDKCQTALIKR
+>gi|374339837|ref|YP_005096573.1|(134-163:219) adenylate kinase family protein [Marinitoga piezophila KA3] >gi|372101371|gb|AEX85275.1| adenylate kinase family protein [Marinitoga piezophila KA3]  E=0.0003 s/c=1.59 id=32% cov=103%
+PKCGKIYNLITLKPKVDNICDECGTQLIQR
+>gi|160947679|ref|ZP_02094846.1|(132-160:216) hypothetical protein PEPMIC_01614 [Parvimonas micra ATCC 33270] >gi|158446813|gb|EDP23808.1| adenylate kinase [Parvimonas micra ATCC 33270]  E=0.0002 s/c=1.66 id=25% cov=93%
+---GETYHIDNKPTSKDGVCDKCSGEVIQR
+>gi|256390161|ref|YP_003111725.1|(141-168:225) adenylate kinase [Catenulispora acidiphila DSM 44928] >gi|256356387|gb|ACU69884.1| adenylate kinase [Catenulispora acidiphila DSM 44928]  E=0.0003 s/c=1.71 id=31% cov=97%
+--SGHIFHVDYSPSRDGAVCDICGGELYQR
+>gi|42526622|ref|NP_971720.1|(127-155:209) adenylate kinase [Treponema denticola ATCC 35405] >gi|422342947|ref|ZP_16423886.1| adenylate kinase [Treponema denticola F0402] >gi|68568782|sp|Q73NP0.1|KAD_TREDE RecName: Full=Adenylate kinase; Short=AK; AltName: Full=ATP-AMP transphosphorylase >gi|41816815|gb|AAS11601.1| adenylate kinase [Treponema denticola ATCC 35405] >gi|325473164|gb|EGC76360.1| adenylate kinase [Treponema denticola F0402]  E=0.0003 s/c=1.65 id=36% cov=93%
+---GQSFHIEFVKPKKEGICDSCSGDLMIR
+>gi|427429399|ref|ZP_18919434.1|(136-163:218) Adenylate kinase [Caenispirillum salinarum AK4] >gi|425880592|gb|EKV29288.1| Adenylate kinase [Caenispirillum salinarum AK4]  E=0.0004 s/c=1.69 id=32% cov=93%
+---GRGYHDKYQQPKVEGVCDACGSTEFKR
+>gi|296242445|ref|YP_003649932.1|(126-156:223) adenylate kinase [Thermosphaera aggregans DSM 11486] >gi|296095029|gb|ADG90980.1| Adenylate kinase [Thermosphaera aggregans DSM 11486]  E=0.0008 s/c=1.49 id=39% cov=103%
+PVCGRVYNIYYEPkPKNDEVCDYDGSKLVRR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3440	0	0	
+
+Q 2    2026	*	*	4430	*	4024	5836	*	2877	*	*	3298	2887	4821	5104	2967	4719	5281	*	*	2
+       0	*	*	*	*	*	*	3798	0	0	
+
+S 3    *	824	4686	*	*	*	*	*	*	*	*	*	*	*	*	1438	5200	*	*	*	3
+       0	*	*	*	*	*	*	3857	0	0	
+
+G 4    5235	*	*	*	*	145	*	*	6499	*	*	6067	*	5371	*	5700	*	*	*	*	4
+       0	*	*	*	*	*	*	3912	0	0	
+
+R 5    1629	*	*	3517	6488	*	4266	*	3461	*	6276	*	*	5702	1606	5144	4431	*	*	*	5
+       6	7958	*	3000	193	*	*	3907	1000	0	
+
+S 6    5743	5873	*	*	*	3985	*	2355	*	*	6174	4902	*	*	*	2429	2103	2059	*	*	6
+       0	*	*	*	*	*	*	3905	0	0	
+
+Y 7    *	*	*	*	3161	*	6280	*	*	*	*	*	*	*	*	6389	*	*	5313	254	7
+       0	*	*	*	*	*	*	3905	0	0	
+
+H 8    5793	*	*	*	*	*	470	*	*	*	*	2029	*	*	*	6035	*	*	*	*	8
+       0	*	*	*	*	*	*	3905	0	0	
+
+E 9    6121	*	5366	4519	*	*	*	1984	4595	2725	5502	*	*	*	5865	*	4197	1534	*	4909	9
+       0	*	*	*	*	*	*	3905	0	0	
+
+E 10   4532	*	3711	3129	6691	5060	4870	3675	2914	4363	4824	6430	*	4636	4762	4468	3776	3258	*	3539	10
+       0	*	*	*	*	*	*	3905	0	0	
+
+F 11   5296	*	6520	7223	1276	5893	6356	*	*	4477	*	4197	*	5630	*	4076	4969	*	5530	1824	11
+       15	6568	*	3700	115	*	*	3905	1000	0	
+
+N 12   4190	*	3560	5097	6722	*	6135	*	2727	4326	4650	1649	*	4566	3693	3282	7285	5701	*	*	12
+       11	6977	*	0	*	*	*	3905	1000	0	
+
+P 13   4058	*	*	*	*	*	*	*	3294	6267	*	6517	391	4617	6524	*	*	*	*	*	13
+       9	7273	*	0	*	*	*	3905	1000	0	
+
+P 14   5887	*	*	*	*	*	*	*	*	*	*	*	256	*	*	3466	4176	*	*	*	14
+       0	*	*	*	*	*	*	3905	0	0	
+
+K 15   4584	*	*	4800	*	5712	*	6356	788	4205	*	5739	*	3803	3186	4860	5444	*	*	*	15
+       0	*	*	*	*	*	*	3905	0	0	
+
+E 16   4430	*	5692	2894	6480	*	6722	3628	2735	5915	*	3872	*	4908	4828	6301	4496	1567	*	*	16
+       0	*	*	*	*	*	*	3905	0	0	
+
+P 17   3287	*	3041	1335	6197	4740	5793	*	4510	*	*	5602	2913	5067	5300	4526	6074	*	*	*	17
+       0	*	*	*	*	*	*	3905	0	0	
+
+M 18   6603	*	4213	4097	*	522	*	*	*	*	5868	3125	6121	7050	*	*	6292	*	6123	*	18
+       0	*	*	*	*	*	*	3905	0	0	
+
+K 19   *	6155	*	*	6121	*	6727	2083	2667	3811	7096	*	*	5422	3315	5412	4513	1842	*	5630	19
+       0	*	*	*	*	*	*	3905	0	0	
+
+D 20   *	392	2072	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3905	0	0	
+
+D 21   *	*	57	*	*	*	*	*	*	*	*	4692	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3905	0	0	
+
+I 22   3853	6197	4294	3609	7050	*	*	2746	2407	3956	*	4212	*	6083	3873	4679	*	2435	*	6188	22
+       0	*	*	*	*	*	*	3905	0	0	
+
+T 23   *	689	3147	5573	*	*	*	*	*	*	*	*	*	*	*	5189	2194	*	*	*	23
+       0	*	*	*	*	*	*	3905	0	0	
+
+G 24   6292	*	6457	5695	*	396	*	*	6267	6855	*	3840	*	4094	*	4417	*	*	*	*	24
+       0	*	*	*	*	*	*	3905	0	0	
+
+E 25   4051	*	3998	2054	*	1512	6992	*	7033	*	*	5010	*	5858	6826	3131	3508	6514	*	*	25
+       0	*	*	*	*	*	*	3905	0	0	
+
+P 26   4027	*	3394	1962	*	5659	5493	*	2655	5539	*	*	2283	4070	5068	*	4506	6197	*	6356	26
+       11	7050	*	0	*	*	*	3905	1000	0	
+
+L 27   *	*	*	5698	*	*	*	5899	*	156	*	*	*	6151	*	*	5661	4927	*	*	27
+       0	*	*	*	*	*	*	3905	0	0	
+
+I 28   6557	*	*	5421	3604	*	*	1842	6975	6638	5187	*	*	5727	*	4975	4262	1949	*	2338	28
+       0	*	*	*	*	*	*	3905	0	0	
+
+R 29   *	*	*	*	*	*	4592	4133	3774	6399	6460	*	*	571	3751	6104	4970	6436	*	*	29
+       0	*	*	*	*	*	*	3905	0	0	
+
+R 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	30
+       0	*	*	0	*	*	*	3873	0	0	
+
+//

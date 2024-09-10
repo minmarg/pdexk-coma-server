@@ -1,0 +1,873 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use Parsers;
+use SOptions;
+use SUsage;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 72 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/Fasta2Rtf $
+# ==============================================================================
+
+my %data_info = (header_length => 15, id_threshold => 0.50, line_length => 40, 
+                 rtf => 0, main_seq => 1, local => 0);
+
+@ARGV = getOptions
+(
+#** Fasta to rtf
+#** All ideas are adopted from http://www.ch.embnet.org/software/BOX_doc.html
+#**
+#** A threshold fraction of residues is defined to test if there is a consensus 
+#** This threshold fraction can be any number between 0.0 and 1.0.
+#** 
+#** 'Consensus by similarity'; if there is not a single residue that is 
+#** conserved  (greater than the threshold) at a position, the program looks for 
+#** a 'group' of amino acids that fulfills the requirements. 'Groups' are 
+#** defined in the amino_acid_groups() function. Any amino acid not listed is
+#** assumed not to be in a group. All members of a group are considered to  be
+#** mutually similar, unlike the similar_to_consensus(), described below.
+#** If consensus by similarity is found, all the residues in the consensus are
+#** shaded using the 'similar' shading. 
+#** If an identity-type consensus is found, the program looks to see if the 
+#** remaining residues are similar to the consensus residue. Here the function 
+#** similar_to_consensus() is used. The main difference between relationships in 
+#** these functions is that in the amino_acid_groups() line STA means that all 
+#** three a.a.s are mutually similar. In a function similar_to_consensus()  S TA 
+#** means that both T and A are considered similar to S, where there is a 
+#** conserved S residue in more than threshold number of sequences. However, it 
+#** does NOT mean that T and A are similar to each other.
+#**
+#** -i,--input              Input file (multiple sequence alignment in FASTA)
+#** -m,--main_seq           Number of the main sequence. Default 1.
+#** -l,--header_length      Header length. Default: 15. 
+#**                         0 means leave the whole header.
+#** -n,--line_length        Number of sequence characters to print. Default: 40. 
+#** -r,--fragments          Fragments to leave. Default: leave all. 
+#**                         Format: "1-3,7-8"
+#** -e,--seq_to_show        Sequences to show for depicting. Default: show all. 
+#**                         Format: "3,1,5". It also defines the printing order.
+#** -d,--seq_to_hide        Sequences to hide from depicting. Default: show all. 
+#** -p,--conservative_pos   Conservative positions. Format: "1,3,5,8"
+#** -k,--kill_seq           Sequences to exclude from calculations and coloring. 
+#**                         Format: "9,10"
+#** -t,--id_threshold       Identity threshold. Default: 0.50 
+#** -f,--rtf                0 - prints RTF header and footer. Default.
+#**                         1 - prints only RTF header.
+#**                         2 - prints only RTF footer.
+#**                         3 - does not print RTF header nor footer.
+#** -c,--local_numbering    Position numbering based on the main sequence. 
+#**                         Default: global. Works only with fragment filtering.
+#** -h,-?,--help,--usage    Print short usage message (this message) and exit.
+
+    "-i,--input"                    => sub {$data_info{input}            = get_value()},
+    "-m,--main_seq"                 => sub {$data_info{main_seq}         = get_value()},
+    "-l,--header_length"            => sub {$data_info{header_length}    = get_value()},
+    "-n,--line_length"              => sub {$data_info{line_length}      = get_value()},
+    "-r,--fragments"                => sub {$data_info{fragments}        = get_value()},
+    "-e,--seq_to_show"              => sub {$data_info{seq_to_show}      = get_value()},
+    "-d,--seq_to_hide"              => sub {$data_info{seq_to_hide}      = get_value()},
+    "-p,--conservative_pos"         => sub {$data_info{conservative_pos} = get_value()},
+    "-k,--kill_seq"                 => sub {$data_info{kill_seq}         = get_value()},
+    "-t,--id_threshold"             => sub {$data_info{id_threshold}     = get_value()},
+    "-f,--rtf"                      => sub {$data_info{rtf}              = get_value()},
+    "-c,--local_numbering"          => sub {$data_info{local}            = 1          },
+    "-h,-?,--help,--usage"          => sub {SUsage::usage; exit                       },
+);
+
+if(!$data_info{input})
+{
+    SUsage::usage; exit;
+}
+
+# ==============================================================================
+# Parsing parameters
+
+#     An array of    
+#     my %obj = (
+#                 header => ">test",
+#                 seq    => "abac",
+#               );
+my $msa_in_fasta = Parsers::parse_fas($data_info{input});
+my $number_of_seq = scalar(@{$msa_in_fasta});
+my $number_of_symbols = 0;
+if($number_of_seq > 0)
+{
+  $number_of_symbols = length($$msa_in_fasta[0]->{seq});
+}
+else
+{
+  die "ERR: number of read sequnces is 0: $data_info{input}\n";
+}
+
+my $valid_positions = get_positions_after_filtering($number_of_symbols, 
+                                                        $data_info{fragments});
+
+
+my @seq_to_show;
+if(defined $data_info{seq_to_show})
+{
+  my @tmp = split(",", $data_info{seq_to_show});
+  foreach my $t (@tmp)
+  {
+    if($t > 0 && $t <= $number_of_seq)
+    {
+      push(@seq_to_show, $t);
+    }
+  }
+}
+else
+{
+  my $seq_to_hide = parse_params_to_hash($data_info{seq_to_hide});
+  for(my $i = 1; $i <= $number_of_seq; $i++)
+  {
+      if(!defined($seq_to_hide->{$i}))
+      {
+          push(@seq_to_show, $i); 
+      }
+  }
+}
+
+my $conservative_pos = parse_params_to_hash($data_info{conservative_pos});
+
+my $kill_seq = parse_params_to_hash($data_info{kill_seq});
+
+
+my @position_numbering;
+if($data_info{local} == 1)
+{
+    my @amino_acids_in_main_seq = 
+                    split("", $$msa_in_fasta[$data_info{main_seq} - 1]->{seq});
+    my $position = 0;
+    for(my $i = 0; $i < $number_of_symbols; $i++)
+    {
+        if($amino_acids_in_main_seq[$i] ne "-")
+        {
+            $position++;
+            push(@position_numbering, $position);
+        }
+        else
+        {
+            push(@position_numbering, $position);
+        }
+    }
+}
+else
+{
+    for(my $i = 1; $i <= $number_of_symbols; $i++)
+    {
+        push(@position_numbering, $i);
+    }
+}
+
+# Finished parsing parameters
+# ==============================================================================
+# Processing sequences
+# Spliting by symbols, cutting fragments
+
+my @sequences;
+for(my $i = 0; $i < @$msa_in_fasta; $i++)
+{
+  my $number = $i + 1;
+  my $use_in_calculations = 1;
+  if(defined($kill_seq->{$number}))
+  {
+    $use_in_calculations = 0;
+  }
+
+  my $msa_obj = $$msa_in_fasta[$i];
+
+  my %seq_obj = (number => $number,
+                header => $msa_obj->{header},
+                amino_acids => amino_acid_obj($msa_obj->{seq}, $valid_positions, 
+                                      $conservative_pos, \@position_numbering),
+                use_in_calculations => $use_in_calculations);
+  
+  push(@sequences, \%seq_obj);
+}
+
+# Calculating identities and similarities
+my $identity_info = identity_info(\@sequences, $data_info{id_threshold}, $valid_positions);
+
+#~ Formats data
+my $formatted_data = format_data(\@sequences, \@seq_to_show, $identity_info, 
+                                                    $data_info{header_length});
+                                                    
+# Printing
+# Prints RTF header
+if($data_info{rtf} == 0 || $data_info{rtf} == 1)
+{
+    print get_header();
+}
+
+if(@$formatted_data == 0)
+{
+    print "No sequences selected!";
+}
+else
+{
+    #~ Prints heading
+    print "$$msa_in_fasta[$data_info{main_seq} - 1]->{header}" 
+                                              . get_new_line() . get_new_line();
+    
+    my $line_length = scalar(@{$$formatted_data[0]->{data}});
+    my $no_gaps = test_gaps($formatted_data, $line_length); 
+    print_data($formatted_data, $data_info{line_length}, 0, $no_gaps, $line_length); 
+}
+                                                   
+print get_new_line();
+if($data_info{rtf} == 0 || $data_info{rtf} == 2)
+{
+    print get_footer();  
+}
+
+# ==============================================================================
+sub print_data
+{
+    my ($formatted_data, $max_line_length, $start, $no_gaps, $line_length) = @_; 
+    
+    my $number_of_scaned_characters = $line_length + 1;
+    
+    foreach my $formatted_seq_obj (@$formatted_data)
+    {
+        printf("%s%4d ", $formatted_seq_obj->{header}, $formatted_seq_obj->{begin});
+        
+        my $no_gaps_counter = 0;
+        for(my $j = $start; $no_gaps_counter < $max_line_length && $j < $line_length; $j++)
+        {
+            if($$no_gaps[$j] != 0)
+            {
+                my $character = ${$formatted_seq_obj->{data}}[$j];
+                if($character->{msg} == 1)
+                {
+                    if($no_gaps_counter + 5 < $max_line_length)
+                    {
+                        printf("%4d ", $character->{data});
+                    }
+                    $formatted_seq_obj->{begin} = $character->{data};
+                    
+                    $no_gaps_counter += 5;
+                }
+                else
+                {
+                    print $character->{data};
+                    if($character->{amino_acid} ne "-")
+                    {
+                        $formatted_seq_obj->{begin}++;
+                    }
+                    
+                    $no_gaps_counter++;
+                }   
+            }
+            $number_of_scaned_characters = $j;
+        }
+        
+        print get_new_line();
+    }
+    
+    if($number_of_scaned_characters < $line_length - 1)
+    {
+        print get_new_line();
+        print_data($formatted_data, $max_line_length, $number_of_scaned_characters + 1, $no_gaps, $line_length);
+    }
+}
+
+#~ =============================================================================
+#~ Tests for gaps
+sub test_gaps
+{
+    my ($formatted_data, $line_length) = @_;
+    
+    my @no_gap;
+    for(my $i = 0; $i < $line_length; $i++)
+    {
+        my $counter = 0;
+        foreach my $formatted_seq_obj (@$formatted_data)
+        {
+            my $character = ${$formatted_seq_obj->{data}}[$i];
+            if($character->{msg} == 1)
+            {
+                $counter = 1;
+            }
+            elsif($character->{amino_acid} ne "-")
+            {
+                $counter++;
+            }
+        }
+        push(@no_gap, $counter);
+    }
+    return \@no_gap;
+}
+
+
+#~ =============================================================================
+#~ Data formatter
+
+sub format_data
+{
+    my ($sequences, $sequences_to_show, $identity_info, $max_header_length) = @_;
+
+    my @formatted_data;
+
+    foreach my $number (@$sequences_to_show)
+    {
+        my $sequence = $$sequences[$number - 1];
+        
+        my %formatted_seq_obj = (header => format_seq_header($sequence->{header}, 
+                                                            $max_header_length));
+                                                            
+        my $no_gaps_counter = 0;
+        my $is_gap = 1;
+        
+        my @formatted_seq;
+
+        for(my $i = 0; $i < @{$sequence->{amino_acids}}; $i++)
+        {
+            my $amino_acid = ${$sequence->{amino_acids}}[$i];
+            
+            if(!$amino_acid->{filtered})
+            { 
+                if($is_gap)
+                {
+                    my $position = $no_gaps_counter +  1;
+                    if(!defined($formatted_seq_obj{begin}))
+                    {
+                        $formatted_seq_obj{begin} = $position; 
+                    }
+                    else
+                    {
+                        push(@formatted_seq, {msg => 1, data => $position});
+                    }
+                    $is_gap = 0;
+                }
+
+                push(@formatted_seq, 
+                 {msg => 0, 
+                  data => format_amino_acid($amino_acid, $$identity_info[$i], 
+                                              $sequence->{use_in_calculations}), 
+                  amino_acid => $amino_acid->{symbol}}); 
+            }
+            else
+            {
+                $is_gap = 1;
+            }
+            
+            if($amino_acid->{symbol} ne "-")
+            {
+                $no_gaps_counter++;
+            }
+        }
+        
+        $formatted_seq_obj{data} = \@formatted_seq;
+        push(@formatted_data, \%formatted_seq_obj);
+    }
+    return \@formatted_data;
+}
+
+#~ =============================================================================
+#~ Format amino acid
+sub format_amino_acid
+{
+    my ($amino_acid, $position_info, $use_in_calculations) = @_;
+  
+    my $character = "No_character";
+    if($use_in_calculations)
+    {
+        if($amino_acid->{conservative} == 1)
+        {
+            $character = get_group_opening_tag() . get_conservative_color() . 
+                                $amino_acid->{symbol} . get_group_closing_tag();
+        }
+        else
+        {
+            if($position_info->{mode} eq "SIMILARITY" && 
+                $position_info->{amino_acid_group} eq $amino_acid->{amino_acid_group})
+            {
+                $character = get_group_opening_tag() . get_similarity_color() . 
+                          $amino_acid->{symbol} . get_group_closing_tag();
+            
+            }
+            elsif($position_info->{mode} eq "IDENTITY")
+            {
+                if($position_info->{symbol} eq $amino_acid->{symbol})
+                {
+                  $character = get_group_opening_tag() . get_identity_color() . 
+                              $amino_acid->{symbol} . get_group_closing_tag();
+                }
+                elsif(similar_to_consensus($position_info->{symbol}, $amino_acid->{symbol}))
+                {
+                  $character = get_group_opening_tag() . get_similarity_color() . 
+                              $amino_acid->{symbol} . get_group_closing_tag();
+                }
+                else
+                {
+                  $character = get_group_opening_tag() . get_not_important_color() . 
+                                $amino_acid->{symbol} . get_group_closing_tag();
+                }
+            }
+            else
+            { 
+                $character = get_group_opening_tag() . get_not_important_color() . 
+                          $amino_acid->{symbol} . get_group_closing_tag();
+            } 
+        }
+    }
+    else
+    {
+        $character =  get_group_opening_tag() . get_not_important_color() . 
+                                $amino_acid->{symbol} . get_group_closing_tag();
+    }
+    
+    return $character;
+}
+
+#~ =============================================================================
+#~ Format sequence header
+sub format_seq_header
+{
+    my ($header, $max_header_length) = @_;
+    
+    while(length($header) < $max_header_length)
+    {
+        $header .= " ";
+    }
+    return substr($header, 0, $max_header_length);
+}
+
+# ==============================================================================
+sub identity_info
+{
+  my ($sequences, $threshold, $valid_positions) = @_;
+
+  my $number_of_residues = scalar(@{$$sequences[0]->{amino_acids}});
+
+  my @similarity_info;
+
+  for(my $i = 0; $i < $number_of_residues; $i++)
+  {
+    my $position = $i + 1;
+    if(defined($valid_positions->{$position}))
+    {
+      my %position_identity;
+      my %position_similarity_by_group;
+      my $counter = 0;
+
+      foreach my $seq (@$sequences)
+      {
+        if($seq->{use_in_calculations})
+        {
+          $counter++;
+          if($seq->{amino_acids}[$i]->{symbol} ne "-")
+          {
+              $position_identity{$seq->{amino_acids}[$i]->{symbol}}++;
+          }
+
+          if($seq->{amino_acids}[$i]->{amino_acid_group} ne "NO_GROUP")
+          {
+              $position_similarity_by_group{$seq->{amino_acids}[$i]->{amino_acid_group}}++;
+          }
+        }
+      }
+
+      my @identity_keys = sort {$position_identity{$b} <=> $position_identity{$a}} 
+                                                        keys (%position_identity);
+      my $identity_ratio;
+      if(@identity_keys > 0)
+      {
+        $identity_ratio = $position_identity{$identity_keys[0]} / $counter;
+      }
+
+      my @similarity_by_group_keys = sort {$position_similarity_by_group{$b} <=> 
+        $position_similarity_by_group{$a}} keys (%position_similarity_by_group);
+      my $similarity_by_group_ratio;
+      if(@similarity_by_group_keys > 0)
+      {
+        $similarity_by_group_ratio = 
+          $position_similarity_by_group{$similarity_by_group_keys[0]} / $counter;
+      }
+
+      if(defined($identity_ratio) && $identity_ratio >= $threshold)
+      {
+        my %position_info = (mode => "IDENTITY", symbol => $identity_keys[0]);
+        push(@similarity_info, \%position_info);
+      }
+      elsif(defined($similarity_by_group_ratio) && $similarity_by_group_ratio >= $threshold)
+      {
+        my %position_info = (mode => "SIMILARITY", amino_acid_group => $similarity_by_group_keys[0]);
+        push(@similarity_info, \%position_info);
+      }
+      else
+      {
+        my %position_info = (mode => "NO_CONSERVATION");
+        push(@similarity_info, \%position_info);
+      }
+    }
+    else
+    {
+      my %position_info = (mode => "FILTERED");
+      push(@similarity_info, \%position_info);
+    }
+  }
+  return \@similarity_info;
+}
+
+# ==============================================================================
+# Input
+# 
+# my $sequence = "AAAA";
+# 
+# Returns an array of
+# 
+# my %amino_acid_obj = (symbol => "A", 
+#                       position => 5, 
+#                       filtered => 0, 
+#                       conservative => 0,
+#                       amino_acid_group => "NO_GROUP");
+
+sub amino_acid_obj
+{
+  my ($sequence, $valid_positions, $conservative_pos, $position_numbering) = @_;
+
+  my @symbols = split("", $sequence);
+
+  my @amino_acids;
+  for(my $i = 0; $i < @symbols; $i++)
+  {
+    my $symbol = $symbols[$i];
+    my $position = $i + 1;
+    my $conservative = 0;
+    if(defined($conservative_pos->{$position}))
+    {
+      $conservative = 1;
+    }
+    my $filtered = 1;
+    if(defined($valid_positions->{$$position_numbering[$i]}))
+    {
+      $filtered = 0;
+    }
+
+    my %amino_acid_obj = (symbol => uc($symbol), 
+                          position => $position,
+                          filtered => $filtered,
+                          conservative => $conservative,
+                          amino_acid_group => amino_acid_groups($symbol),
+                         );
+    push(@amino_acids, \%amino_acid_obj);
+  }
+  return \@amino_acids;
+}
+
+# ==============================================================================
+# Format: "1-3,7-8"
+# Returns
+# my %fragment_obj = (begin => 5, end => 8);
+
+sub parse_fragment_boundaries
+{
+    my ($fragments_str, $total_length) = @_;
+    
+    my @info = split(",", $fragments_str);
+    
+    my @fragments;
+    
+    my $last = 0;
+    
+    foreach my $fragment (@info)
+    {
+        my @boundaries = split("-", $fragment);
+        if(scalar(@boundaries) % 2 != 0)
+        {
+            die "ERR: wrong format: $fragments_str. Must be: '1-3,7-8'\n";
+        }
+        
+        if($boundaries[0] > $total_length)
+        {
+            $boundaries[0] = $total_length;
+        }
+        if($boundaries[0] < 0)
+        {
+            $boundaries[0] = 0;
+        }
+        if($boundaries[1] > $total_length)
+        {
+            $boundaries[1] = $total_length;
+        }
+        if($last < $boundaries[1])
+        {
+            push(@fragments, {begin => $boundaries[0], end => $boundaries[1]});
+            $last = $boundaries[1];
+        }
+        else
+        {
+            print STDERR "WRN: $0: ignoring fragment boundaries: $fragment\n";
+        }
+    }
+    
+    return \@fragments;
+}
+
+# ==============================================================================
+# Input
+# 
+# $number_of_symbols = 234
+# $fragments_str = "1-2,34-78"
+# 
+# Returns a hash of valid positions (which passed filter)
+
+sub get_positions_after_filtering
+{
+  my ($number_of_symbols, $fragments_str) = @_;
+
+  my $fragments = [{begin => 1, end => $number_of_symbols}];
+  if(defined($fragments_str))
+  {
+      $fragments = parse_fragment_boundaries($fragments_str, $number_of_symbols);
+  }
+
+  my %valid_positions;
+
+  for(my $i = 0; $i < @$fragments; $i++)
+  {
+    for(my $j = $$fragments[$i]->{begin}; $j <= $$fragments[$i]->{end}; $j++)
+    {
+      $valid_positions{$j} = $j;
+    }
+  }
+
+  return \%valid_positions;
+}
+
+# ==============================================================================
+# Input
+# 
+# $string = "1,4,7"
+
+sub parse_params_to_hash
+{
+  my ($string) = @_;
+
+  my %data;
+  if(defined $string)
+  {
+    my @tmp = split(",", $string);
+    foreach my $t (@tmp)
+    {
+      $data{$t} = $t;
+    }
+  }
+
+  return \%data;
+}
+
+# ==============================================================================
+#~ Begin of identity and similarity information
+
+sub amino_acid_groups
+{
+  my ($amino_acid) = @_;
+
+# FYW
+  if($amino_acid eq "F" || $amino_acid eq "Y" || $amino_acid eq "W")
+  {
+    return 1;
+  }
+
+# ILVM
+  if($amino_acid eq "I" || $amino_acid eq "L" || $amino_acid eq "V" || $amino_acid eq "M")
+  {
+    return 2;
+  }
+
+# RK
+  if($amino_acid eq "R" || $amino_acid eq "K")
+  {
+    return 3;
+  }
+
+# DE
+  if($amino_acid eq "D" || $amino_acid eq "E")
+  {
+    return 4;
+  }
+
+# GA
+  if($amino_acid eq "G" || $amino_acid eq "A")
+  {
+    return 5;
+  }
+
+# TS
+  if($amino_acid eq "T" || $amino_acid eq "S")
+  {
+    return 6;
+  }
+
+# NQ
+  if($amino_acid eq "N" || $amino_acid eq "Q")
+  {
+    return 7;
+  }
+
+  return "NO_GROUP";
+}
+
+
+sub similar_to_consensus
+{
+  my ($consensus, $amino_acid) = @_;
+
+# F YW
+# Y WF
+# W YF
+  if($consensus eq "F" && ($amino_acid eq "Y" || $amino_acid eq "W"))
+  {
+    return 1;
+  }
+  if($consensus eq "Y" && ($amino_acid eq "W" || $amino_acid eq "F"))
+  {
+    return 1;
+  }
+  if($consensus eq "W" && ($amino_acid eq "Y" || $amino_acid eq "F"))
+  {
+    return 1;
+  }
+
+# I LVM
+# L VMI
+# V MLI
+  if($consensus eq "I" && ($amino_acid eq "L" || $amino_acid eq "V" || $amino_acid eq "M"))
+  {
+    return 1;
+  }
+  if($consensus eq "L" && ($amino_acid eq "V" || $amino_acid eq "M" || $amino_acid eq "I"))
+  {
+    return 1;
+  }  
+  if($consensus eq "V" && ($amino_acid eq "M" || $amino_acid eq "I" || $amino_acid eq "L"))
+  {
+    return 1;
+  }  
+
+# R KH
+# K HR
+# H RK
+  if($consensus eq "R" && ($amino_acid eq "K" || $amino_acid eq "H"))
+  {
+    return 1;
+  }
+  if($consensus eq "K" && ($amino_acid eq "H" || $amino_acid eq "R"))
+  {
+    return 1;
+  }
+  if($consensus eq "H" && ($amino_acid eq "R" || $amino_acid eq "K"))
+  {
+    return 1;
+  }
+
+# G A
+# A GS
+  if($consensus eq "A" && ($amino_acid eq "G" || $amino_acid eq "S"))
+  {
+    return 1;
+  }
+  if($consensus eq "G" && ($amino_acid eq "A"))
+  {
+    return 1;
+  }
+
+# T S
+# S TA
+  if($consensus eq "S" && ($amino_acid eq "T" || $amino_acid eq "A"))
+  {
+    return 1;
+  }
+  if($consensus eq "T" && ($amino_acid eq "S"))
+  {
+    return 1;
+  }
+
+# D EN
+# E DQ
+# N QD
+# Q NE
+  if($consensus eq "D" && ($amino_acid eq "E" || $amino_acid eq "N"))
+  {
+    return 1;
+  }
+  if($consensus eq "E" && ($amino_acid eq "D" || $amino_acid eq "Q"))
+  {
+    return 1;
+  }
+  if($consensus eq "N" && ($amino_acid eq "Q" || $amino_acid eq "D"))
+  {
+    return 1;
+  }
+  if($consensus eq "Q" && ($amino_acid eq "N" || $amino_acid eq "E"))
+  {
+    return 1;
+  }
+
+  return 0;
+}
+
+#~ End of identity and similarity information
+#~ =============================================================================
+
+#~ =============================================================================
+#~ Begin of RTF file format
+
+sub get_footer
+{
+  return '\par}';
+}
+
+sub get_header
+{
+  return 
+'{\rtf\ansi\deff0{\fonttbl{\f0\froman Courier;}{\f1\fdecor Symbol;}{\f2 \fswiss Helv;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red255\green0\blue0;\red0\green255\blue0;\red0\green0\blue255;}
+{\stylesheet{\fs20 \snext0Normal;}}
+{\info{\author Mindaugas Laganeckas}
+{\creatim\yr1990\mo7\dy30\hr10\min48}{\version1}{\edmins0}
+{\nofpages1}{\nofwords0}{\nofchars0}{\vern8351}}
+\widoctrl\ftnbj \sectd\linex0\endnhere \pard\plain \fs20';
+}
+
+sub get_new_line
+{
+  return '\line';
+}
+
+sub get_group_opening_tag
+{
+  return '{';
+}
+
+sub get_group_closing_tag
+{
+  return '}';
+}
+
+sub get_conservative_color
+{
+  return '\chcbpat3 \cf2 ';
+}
+sub get_similarity_color
+{
+  return '\chcbpat4 \cf2 ';
+}
+sub get_identity_color
+{
+  return '\chcbpat5 \cf2 ';
+}
+sub get_not_important_color
+{
+  return '\chcbpat2 \cf1 ';
+}
+
+#~ End of RTF file format
+#~ =============================================================================

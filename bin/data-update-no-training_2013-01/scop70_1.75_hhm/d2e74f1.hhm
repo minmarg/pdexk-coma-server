@@ -1,0 +1,130 @@
+HHsearch 1.5
+NAME  d2e74f1 f.23.25.1 (F:1-32) PetM subunit of the cytochrome b6f complex {Mastigocladus laminosus [TaxId: 83541]}
+FAM   f.23.25.1
+FILE  d2e74f1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2e74f1.a3m -v 1 
+DATE  Tue Jan 22 06:20:58 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+94158899999999999999988888752379
+>Consensus
+mxxexxnaaxlsfglifvgwxlgxlllkiqga
+>d2e74f1 f.23.25.1 (F:1-32) PetM subunit of the cytochrome b6f complex {Mastigocladus laminosus [TaxId: 83541]}
+MTEEMLYAALLSFGLIFVGWGLGVLLLKIQGA
+>gi|427720624|ref|YP_007068618.1|(1-32:36) Cytochrome b6-f complex subunit 7 [Calothrix sp. PCC 7507] >gi|427353060|gb|AFY35784.1| Cytochrome b6-f complex subunit 7 [Calothrix sp. PCC 7507]  E=0.0001 s/c=1.55 id=79% cov=103%
+MSGELLNAALLSFGLIFVGWALGALLLKIQGA
+>gi|298491349|ref|YP_003721526.1|(1-32:34) PetM of cytochrome b6f complex subunit 7 ['Nostoc azollae' 0708] >gi|298233267|gb|ADI64403.1| PetM of cytochrome b6f complex subunit 7 ['Nostoc azollae' 0708]  E=0.0001 s/c=1.55 id=76% cov=103%
+MGSEILNAAMLSFGLIFVGWGIGALLLKIQGA
+>gi|354568792|ref|ZP_08987954.1|(1-32:35) Cytochrome b6-f complex subunit 7 [Fischerella sp. JSC-11] >gi|353539597|gb|EHC09081.1| Cytochrome b6-f complex subunit 7 [Fischerella sp. JSC-11]  E=0.0003 s/c=1.50 id=79% cov=103%
+MGGEMFNAALLSFGLIFVGWALGTLLLKIQGA
+>gi|427737792|ref|YP_007057336.1|(1-32:35) PetM family of cytochrome b6f complex subunit 7 [Rivularia sp. PCC 7116] >gi|427372833|gb|AFY56789.1| PetM family of cytochrome b6f complex subunit 7 [Rivularia sp. PCC 7116]  E=0.0004 s/c=1.49 id=73% cov=103%
+MGGEMFNAAILSFGLIFIGWAIGVLLLKIQGA
+>gi|186684288|ref|YP_001867484.1|(1-32:34) cytochrome b6-f complex subunit PetM [Nostoc punctiforme PCC 73102] >gi|226700221|sp|B2J8Q3.1|PETM_NOSP7 RecName: Full=Cytochrome b6-f complex subunit 7; AltName: Full=Cytochrome b6-f complex subunit PetM; AltName: Full=Cytochrome b6-f complex subunit VII >gi|186466740|gb|ACC82541.1| PetM of cytochrome b6f complex subunit 7 [Nostoc punctiforme PCC 73102]  E=0.0005 s/c=1.49 id=76% cov=103%
+MGGEILNAAILSFGLIFVGWGLGALLLKIQGG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1289	0	0	
+
+T 2    *	*	*	*	*	598	*	*	*	*	*	*	*	*	*	2625	2496	*	*	*	2
+       0	*	*	*	*	*	*	1289	0	0	
+
+E 3    *	*	*	2496	*	611	*	*	*	*	*	*	*	*	*	2575	*	*	*	*	3
+       0	*	*	*	*	*	*	1289	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1289	0	0	
+
+M 5    *	*	*	*	*	*	*	1594	*	2625	981	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 6    *	*	*	*	1602	*	*	*	*	577	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1289	0	0	
+
+Y 7    *	*	*	*	*	*	*	*	*	*	*	281	*	*	*	*	*	*	*	2496	7
+       0	*	*	*	*	*	*	1289	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1289	0	0	
+
+A 9    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 10   *	*	*	*	*	*	*	1580	*	1007	2575	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1289	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	1289	0	0	
+
+F 13   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1289	0	0	
+
+G 14   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1289	0	0	
+
+I 16   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1289	0	0	
+
+F 17   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1289	0	0	
+
+V 18   *	*	*	*	*	*	*	2546	*	*	*	*	*	*	*	*	*	271	*	*	18
+       0	*	*	*	*	*	*	1289	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1289	0	0	
+
+W 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	20
+       0	*	*	*	*	*	*	1289	0	0	
+
+G 21   1024	*	*	*	*	976	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 22   *	*	*	*	*	*	*	1561	*	597	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1289	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1289	0	0	
+
+V 24   1019	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2660	1521	*	*	24
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1289	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1289	0	0	
+
+K 28   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1289	0	0	
+
+I 29   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1289	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1289	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1289	0	0	
+
+A 32   257	*	*	*	*	2614	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	1289	0	0	
+
+//

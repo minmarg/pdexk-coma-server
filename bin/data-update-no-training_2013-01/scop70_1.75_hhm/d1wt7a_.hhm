@@ -1,0 +1,163 @@
+HHsearch 1.5
+NAME  d1wt7a_ g.3.7.2 (A:) Maurotoxin {Scorpion (Scorpio maurus) [TaxId: 53956]}
+FAM   g.3.7.2
+FILE  d1wt7a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wt7a_.a3m -v 1 
+DATE  Tue Jan 22 04:18:44 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCEEECCCHHHHHHHHHHCCCCCCCCCCCCCEEECC
+>ss_conf
+97630010006871123455643189754101574301069
+>Consensus
+wcstclxixCxgskdCyxPCxkxtGcpnaKCmNkxCkCygC
+>d1wt7a_ g.3.7.2 (A:) Maurotoxin {Scorpion (Scorpio maurus) [TaxId: 53956]}
+WCSTCLDLACTGSKDCYAPCRKQTGCPNAKCINKSCKCYGC
+>gi|190359783|sp|P85528.1|KAX6F_HEMLE(1-34:35) RecName: Full=Potassium channel toxin alpha-KTx 6.15; AltName: Full=Hemitoxin  E=2e-06 s/c=1.64 id=71% cov=85%
+-------IKCTLSKDCYSPCKKETGCPRAKCINRNCKCYGC
+>gi|20139989|sp|P58490.1|KAX65_PANIM(4-37:38) RecName: Full=Potassium channel toxin alpha-KTx 6.5; AltName: Full=Pi-7; Short=Pi7; AltName: Full=Toxin-7 >gi|159162902|pdb|1QKY|A Chain A, Solution Structure Of Pi7, A Non Toxic Peptide Isolated From The Scorpion Pandinus Imperator  E=5e-06 s/c=1.60 id=71% cov=85%
+-------IRCTGTKDCYIPCRYITGCFNSRCINKSCKCYGC
+>gi|74838002|sp|Q6XLL6.1|KAX69_OPICA(27-60:61) RecName: Full=Potassium channel toxin alpha-KTx 6.9; AltName: Full=OcKTx4; Flags: Precursor >gi|37539452|gb|AAP73820.1| potassium channel toxin KTx4 [Opistophthalmus carinatus]  E=9e-06 s/c=1.56 id=66% cov=85%
+-------IRCSGTRECYAPCQKLTGCLNAKCMNKACKCYGC
+>gi|56554394|pdb|1WPD|A(1-34:34) Chain A, Evidence For Domain-Specific Recognition Of Sk And Kv Channels By Mtx And Hstx1 Scorpion Toxins  E=1e-05 s/c=1.56 id=71% cov=85%
+-------VSCTGSKDCYAPCRKQTGCPYGKCMNRKCKCNRC
+>gi|74838001|sp|Q6XLL5.1|KAX6A_OPICA(26-59:60) RecName: Full=Potassium channel toxin alpha-KTx 6.10; AltName: Full=OcKTx5; Flags: Precursor >gi|37539454|gb|AAP73821.1| potassium channel toxin KTx5 [Opistophthalmus carinatus]  E=1e-05 s/c=1.56 id=66% cov=85%
+-------IRCSGSKQCYGPCKQQTGCTNSKCMNKVCKCYGC
+>gi|90111807|sp|P59936.2|KA121_TITSE(1-39:40) RecName: Full=Potassium channel toxin alpha-KTx 12.1; AltName: Full=Butantoxin; Short=BuTX; AltName: Full=TsTX-IV >gi|90111808|sp|P0C168.1|KA122_TITTR RecName: Full=Potassium channel toxin alpha-KTx 12.2; AltName: Full=Butantoxin; Short=BuTX; AltName: Full=TtBut >gi|218526450|sp|P0C8L1.1|KA124_TITST RecName: Full=Potassium channel toxin alpha-KTx 12.4; AltName: Full=Butantoxin; Short=BuTX; Short=TstBut >gi|159162150|pdb|1C55|A Chain A, Nmr Solution Structure Of Butantoxin >gi|159162151|pdb|1C56|A Chain A, Nmr Solution Structure Of Butantoxin  E=5e-05 s/c=1.30 id=58% cov=98%
+WCSTCLDLACGASRECYDPCFKAFGRAHGKCMNNKCRCY--
+>gi|1710879|sp|Q10726.1|KAX61_PANIM(2-35:35) RecName: Full=Potassium channel toxin alpha-KTx 6.1; AltName: Full=PiTX-K-gamma; AltName: Full=Potassium channel-blocking toxin 1; Short=Pi-1; Short=Pi1 >gi|1845364|gb|AAB47862.1| K+-channel blocking toxin Pi1 [Pandinus imperator=scorpions, venom, Peptide, 35 aa]  E=7e-05 s/c=1.48 id=63% cov=85%
+-------VKCRGTSDCGRPCQQQTGCPNSKCINRMCKCYGC
+>gi|74838003|sp|Q6XLL7.1|KAX68_OPICA(27-60:61) RecName: Full=Potassium channel toxin alpha-KTx 6.8; AltName: Full=OcKTx3; Flags: Precursor >gi|37539450|gb|AAP73819.1| potassium channel toxin KTx3 [Opistophthalmus carinatus]  E=0.0002 s/c=1.44 id=60% cov=85%
+-------IKCRTPKDCADPCRKQTGCPHAKCMNKTCRCHRC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+W 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	1
+       0	*	*	*	*	*	*	1329	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1329	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	3
+       0	*	*	*	*	*	*	1329	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	4
+       0	*	*	*	*	*	*	1329	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1329	0	0	
+
+L 6    *	*	*	*	*	*	*	1672	*	543	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1477	0	0	
+
+D 7    *	*	543	*	*	*	*	*	*	*	*	1672	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1477	0	0	
+
+L 8    *	*	*	*	*	*	*	753	*	2434	*	*	*	*	*	*	*	2175	*	*	8
+       0	*	*	*	*	*	*	1950	0	0	
+
+A 9    2434	*	*	*	*	*	*	*	1914	*	*	*	*	*	1518	2319	*	*	*	*	9
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1950	0	0	
+
+T 11   *	*	*	*	*	2398	*	*	*	*	*	*	*	*	2393	2304	1261	*	*	*	11
+       0	*	*	*	*	*	*	1950	0	0	
+
+G 12   2949	*	*	*	*	530	*	*	*	3738	*	*	*	*	*	*	3279	*	*	*	12
+       0	*	*	*	*	*	*	1950	0	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	*	3279	*	*	618	2028	*	*	*	13
+       0	*	*	*	*	*	*	1950	0	0	
+
+K 14   *	*	*	*	*	*	*	*	753	*	*	*	*	*	1647	3518	*	*	*	*	14
+       0	*	*	*	*	*	*	1950	0	0	
+
+D 15   *	*	600	2315	*	*	*	*	*	*	*	*	*	2845	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1950	0	0	
+
+Y 17   3279	*	*	*	*	3518	*	*	*	*	*	*	*	*	*	*	*	*	*	305	17
+       0	*	*	*	*	*	*	1950	0	0	
+
+A 18   1937	*	1743	*	*	3775	*	3532	*	*	*	*	*	*	2761	2910	*	*	*	*	18
+       0	*	*	*	*	*	*	1950	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1950	0	0	
+
+R 21   *	*	*	*	2949	*	*	*	2223	*	4106	*	*	2191	1399	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1950	0	0	
+
+K 22   *	*	*	*	*	*	*	*	541	*	*	*	*	2641	3918	*	*	*	*	3532	22
+       0	*	*	*	*	*	*	1950	0	0	
+
+Q 23   2949	*	*	3738	*	*	*	3532	3918	3807	*	*	*	968	4053	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1950	0	0	
+
+T 24   *	*	*	*	2949	*	*	*	*	*	*	*	*	*	*	*	200	*	*	*	24
+       0	*	*	*	*	*	*	1950	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 26   *	200	*	*	*	*	*	*	*	*	*	*	*	*	2949	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1950	0	0	
+
+P 27   2949	*	*	*	3532	*	*	*	*	3807	*	*	645	*	*	*	3775	*	*	*	27
+       0	*	*	*	*	*	*	1950	0	0	
+
+N 28   *	*	*	*	*	*	2104	*	*	*	*	711	*	*	3738	*	*	*	*	3617	28
+       0	*	*	*	*	*	*	1950	0	0	
+
+A 29   883	*	*	*	*	2244	*	*	*	*	*	*	*	*	*	2019	*	*	*	*	29
+       0	*	*	*	*	*	*	1950	0	0	
+
+K 30   *	*	*	*	*	*	*	*	130	*	*	*	*	*	3532	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1950	0	0	
+
+I 32   *	*	*	*	*	*	*	1073	*	*	930	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1950	0	0	
+
+N 33   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1950	0	0	
+
+K 34   *	*	*	*	*	*	*	*	674	*	*	2949	*	*	2036	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1950	0	0	
+
+S 35   3807	*	*	*	*	*	*	*	2244	*	3518	3738	*	*	*	1649	2615	3775	*	*	35
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1950	0	0	
+
+K 37   *	*	*	*	*	*	*	*	382	*	*	*	*	*	2104	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1950	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1950	0	0	
+
+Y 39   *	*	*	*	*	*	3279	*	*	*	*	3617	*	*	*	*	*	*	*	294	39
+       0	*	*	*	*	*	*	1950	0	0	
+
+G 40   *	*	*	*	*	357	*	*	*	*	*	*	*	*	2189	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1794	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	1794	0	0	
+
+//

@@ -1,0 +1,277 @@
+HHsearch 1.5
+NAME  d3etja2 c.30.1.1 (A:1-78) N5-carboxyaminoimidazole ribonucleotide synthetase PurK (AIRC), N-domain {Escherichia coli [TaxId: 562]}
+FAM   c.30.1.1
+FILE  d3etja2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3etja2.a3m -v 1 
+DATE  Tue Jan 22 09:01:17 2013
+LENG  78 match states, 78 columns in multiple alignment
+FILT  111 out of 512 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.3 
+SEQ
+>ss_pred
+CCEEEEEECCHHHHHHHHHHHCCCCCEEEECCCCCCCCCCCCCCEEEEEECCCCHHHHHHHHHHCCCCCCHHCCCCCC
+>ss_conf
+974567608567888988633058516886068656311012625787404578579999997388877810114469
+>Consensus
+mxxvgiiGgGQLgrMlaxAaxxLGxxvxvldpxxxxpaxxxaxdvItaExExxxdxxlxxxlxxhxxFinxxxxxxla
+>d3etja2 c.30.1.1 (A:1-78) N5-carboxyaminoimidazole ribonucleotide synthetase PurK (AIRC), N-domain {Escherichia coli [TaxId: 562]}
+MKQVCVLGNGQLGRMLRQAGEPLGIAVWPVGLDAEPAAVPFQQSVITAEIERWPETALTRQLARHPAFVNRDVFPIIA
+>gi|339051087|ref|ZP_08647871.1|(1-91:372) Phosphoribosylaminoimidazole carboxylase ATPase subunit [gamma proteobacterium IMCC2047] >gi|330721705|gb|EGG99705.1| Phosphoribosylaminoimidazole carboxylase ATPase subunit [gamma proteobacterium IMCC2047]  E=2e-15 s/c=0.94 id=33% cov=100%
+MKPVLVVGAGQLGLMMAAAGARFGIPVDRMDhvtgelvpgtsnlrLTMPLDEIEQRYDIITAELEHLGDTPLLNSVKATKSWQNAAAFEIL-
+>gi|71275272|ref|ZP_00651559.1|(1-94:394) Phosphoribosylaminoimidazole carboxylase, ATPase subunit [Xylella fastidiosa Dixon] >gi|71900142|ref|ZP_00682283.1| Phosphoribosylaminoimidazole carboxylase, ATPase subunit [Xylella fastidiosa Ann-1] >gi|170731274|ref|YP_001776707.1| phosphoribosylaminoimidazole carboxylase ATPase subunit [Xylella fastidiosa M12] >gi|71164081|gb|EAO13796.1| Phosphoribosylaminoimidazole carboxylase, ATPase subunit [Xylella fastidiosa Dixon] >gi|71730091|gb|EAO32181.1| Phosphoribosylaminoimidazole carboxylase, ATPase subunit [Xylella fastidiosa Ann-1] >gi|167966067|gb|ACA13077.1| Phosphoribosylaminoimidazole carboxylase [Xylella fastidiosa M12]  E=9e-06 s/c=0.56 id=35% cov=96%
+MKTLGILGGGQLARMLALAAPPLGVRVCTFDQTVDacagqmtplwvgcfddvaaLRDFVTRVDVITFDSENLP-VASVQVLKEHvPVYPNPEVLA---
+>gi|383786997|ref|YP_005471566.1|(14-83:400) 5-(carboxyamino)imidazole ribonucleotide synthase [Fervidobacterium pennivorans DSM 9078] >gi|383109844|gb|AFG35447.1| 5-(carboxyamino)imidazole ribonucleotide synthase [Fervidobacterium pennivorans DSM 9078]  E=8e-08 s/c=0.85 id=27% cov=91%
+IKAVGVIGGGQLGKMLTLKAKEMGFKVIALDKDPSCPVSSICDELI---IGSLYDTEKLYELAKKSDVVTYEI-----
+>gi|358058370|dbj|GAA95889.1|(4-101:583) hypothetical protein E5Q_02547 [Mixia osmundae IAM 14324]   E=7e-07 s/c=0.58 id=34% cov=97%
+-RRIGVLGGGQLGRMLLEAGHRLNLDIVFLDPSATSPAKQLSHRtqdhitgsfgdpaciaalaakvdVLTVEIEHVDTDQLSKMSTTEAA--KMDIFPSA
+A
+>gi|183221141|ref|YP_001839137.1|(1-93:366) phosphoribosylaminoimidazole carboxylase ATPase subunit [Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'] >gi|189911232|ref|YP_001962787.1| phosphoribosylaminoimidazole carboxylase ATPase subunit [Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'] >gi|167775908|gb|ABZ94209.1| Phosphoribosylaminoimidazole carboxylase, ATPase subunit [Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'] >gi|167779563|gb|ABZ97861.1| Phosphoribosylaminoimidazole carboxylase ATPase subunit (AIR carboxylase; AIRC) [Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)']  E=0.0001 s/c=0.53 id=29% cov=92%
+MMKIGVLGSGQLGQMMCLEAIPLGHDFYCYSPDLNSPseklgakatiasydsiqqleSFLQTIDVLSFEFENIPKPTL-EFLKNQKL---IAIFP---
+>gi|358446266|ref|ZP_09156814.1|(15-89:468) phosphoribosylglycinamide formyltransferase [Corynebacterium casei UCMA 3821] >gi|356607821|emb|CCE55136.1| phosphoribosylglycinamide formyltransferase [Corynebacterium casei UCMA 3821]  E=0.0004 s/c=0.63 id=31% cov=83%
+--RVLMLGGGELAKGLVGAFQNLGLEVHVVDRYEGSPAQQVAHFSYTADIDN---EQAVLDLVEHvkPQFV---------
+>gi|428017537|gb|AFY93631.1|(1-82:380) phosphoribosylaminoimidazole carboxylase, PurK protein [Chamaesiphon minutus PCC 6605]  E=1e-11 s/c=0.88 id=27% cov=101%
+MKRIGVIGGGQLAWMMASAAQELGIELVVQTPHSDDVAVSLAAETVLADVADVAATAKLATKCDvitfENEFVDLDGLGKLA
+>gi|288958588|ref|YP_003448929.1|(17-85:379) phosphoribosylaminoimidazole carboxylase ATPase subunit [Azospirillum sp. B510] >gi|288910896|dbj|BAI72385.1| phosphoribosylaminoimidazole carboxylase ATPase subunit [Azospirillum sp. B510]  E=1e-07 s/c=0.85 id=32% cov=79%
+-STIGMLGAGQLGRMTALAAAKLGYKTHVYAPDAAGS--PAAQVSAAATVADWDDLAALERFAR--------------
+>gi|167462484|ref|ZP_02327573.1|(68-123:431) phosphoribosylaminoimidazole carboxylase, ATPase subunit [Paenibacillus larvae subsp. larvae BRL-230010] >gi|357007775|ref|ZP_09072774.1| phosphoribosylaminoimidazole carboxylase, ATPase subunit [Paenibacillus larvae subsp. larvae B-3650]  E=0.0006 s/c=0.84 id=22% cov=69%
+-------------RMMALAGRNMGYRFVTLDPIEDAPCSQVADRQITASYE---DRKAARELAHSADLI---------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	3275	*	2880	394	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3951	0	0	
+
+K 2    *	*	*	*	*	*	*	*	1109	5878	4307	*	3054	2935	4475	2666	6060	*	*	*	2
+       0	*	*	*	*	*	*	4475	0	0	
+
+Q 3    5895	*	*	*	*	*	4482	*	2691	*	*	5036	4837	5869	1524	6409	1606	6251	*	*	3
+       36	5338	*	0	*	*	*	4806	1000	0	
+
+V 4    *	*	*	*	*	*	*	1362	*	3663	*	*	5913	*	*	*	*	956	*	*	4
+       0	*	*	*	*	*	*	4846	0	0	
+
+C 5    5080	5926	*	*	*	520	*	*	*	3451	5230	*	*	*	*	*	*	4835	4342	4205	5
+       0	*	*	*	*	*	*	4846	0	0	
+
+V 6    *	*	*	*	*	*	*	1054	*	4511	3608	*	*	*	*	*	*	1350	*	*	6
+       0	*	*	*	*	*	*	5078	0	0	
+
+L 7    5920	*	*	*	5280	*	*	1559	*	1290	5216	*	*	*	*	*	*	2558	*	6281	7
+       0	*	*	*	*	*	*	5080	0	0	
+
+G 8    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	5080	0	0	
+
+N 9    2726	4919	4999	*	*	771	*	*	*	*	*	4042	*	6259	*	3209	5902	*	*	*	9
+       0	*	*	*	*	*	*	5080	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	5080	0	0	
+
+Q 11   4815	*	*	3979	*	*	*	*	*	*	*	*	*	150	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	5618	0	0	
+
+L 12   *	*	*	*	4815	*	*	*	*	52	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	5618	0	0	
+
+G 13   1445	*	*	*	*	781	*	*	*	*	*	*	*	*	*	4299	*	*	*	*	13
+       0	*	*	*	*	*	*	5618	0	0	
+
+R 14   3805	*	*	*	4402	*	*	*	2723	4351	6068	*	*	2938	1213	*	*	6852	3652	5997	14
+       0	*	*	*	*	*	*	5683	0	0	
+
+M 15   *	*	*	4744	*	5229	*	*	*	4340	174	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	5683	0	0	
+
+L 16   *	*	*	*	4331	*	*	4695	*	1111	1525	*	*	*	*	6396	4264	4744	*	*	16
+       0	*	*	*	*	*	*	5683	0	0	
+
+R 17   1118	4649	*	*	5590	3874	5952	3219	5197	5633	*	*	*	5537	5035	4495	4027	3762	*	6941	17
+       0	*	*	*	*	*	*	5683	0	0	
+
+Q 18   4812	*	7111	2949	5298	5232	5018	3076	*	2414	3618	5144	6416	1890	*	5286	*	6577	*	6467	18
+       0	*	*	*	*	*	*	5698	0	0	
+
+A 19   660	6852	6870	2444	*	6751	*	*	6456	*	*	*	6247	*	*	3353	*	4867	*	*	19
+       0	*	*	*	*	*	*	5698	0	0	
+
+G 20   713	*	*	*	4435	1607	*	*	*	*	*	*	*	*	*	6038	*	*	*	*	20
+       0	*	*	*	*	*	*	5698	0	0	
+
+E 21   2580	*	*	5112	*	6121	5311	3111	2394	5480	*	4828	4976	3063	3170	4645	5859	5832	5224	4771	21
+       0	*	*	*	*	*	*	5698	0	0	
+
+P 22   4213	*	5173	4284	*	6686	*	4858	3024	*	*	3685	2147	4598	1949	5466	4711	5594	*	6105	22
+       22	6038	*	1000	1000	*	*	5698	1000	0	
+
+L 23   *	*	*	*	4805	*	*	6111	6927	513	2317	*	*	7438	5418	*	*	*	*	6488	23
+       0	*	*	*	*	*	*	5622	0	0	
+
+G 24   4596	*	3373	*	*	374	*	*	6232	*	*	3939	*	6354	*	*	*	*	*	*	24
+       12	6948	*	3700	115	*	*	5622	1000	0	
+
+I 25   7137	5169	*	*	2604	*	5188	2060	6426	2415	5084	4849	*	*	*	*	*	3051	*	2742	25
+       0	*	*	*	*	*	*	5622	0	0	
+
+A 26   5947	5936	3139	2415	5536	6769	4953	*	2673	*	6693	5072	4243	5321	2224	3555	6444	*	*	5739	26
+       18	6328	*	3000	193	*	*	5622	1000	0	
+
+V 27   7000	5256	*	*	2909	*	*	3526	*	2650	*	*	*	*	*	6619	3989	1005	*	6037	27
+       22	6022	*	3137	174	*	*	5614	1468	0	
+
+W 28   3170	3785	5818	4850	6020	5703	2920	3093	4915	4951	5775	*	*	4945	4165	4869	4921	2494	4829	5151	28
+       0	*	*	*	*	*	*	5585	0	0	
+
+P 29   3356	5368	*	*	3810	*	*	3043	*	5378	6136	*	3280	*	4820	*	3904	1218	*	6364	29
+       0	*	*	*	*	*	*	5585	0	0	
+
+V 30   5007	5181	*	*	4020	*	*	5081	*	1065	4343	*	*	3386	*	7066	7118	3022	*	3484	30
+       26	7112	6531	1585	585	*	*	5585	1000	0	
+
+G 31   3090	4685	934	2701	*	5893	*	*	*	*	*	5642	*	*	*	4050	4112	6453	*	*	31
+       55	4747	*	3398	144	*	0	5571	1903	1000	
+
+L 32   4542	*	6194	5824	6518	*	*	4796	6536	3969	5549	5528	1012	4955	3604	3480	6565	4304	*	*	32
+       68	4833	6518	3114	177	*	0	5571	2123	1000	
+
+D 33   4720	*	1824	3752	*	4483	5611	5858	4031	6927	6565	3482	6004	5826	7102	3739	2591	6505	*	4033	33
+       35	5389	*	3032	188	0	*	5554	1910	1603	
+
+A 34   2437	*	4399	3004	*	5210	*	*	3990	5183	5818	4164	2214	4312	*	3138	4385	5321	*	*	34
+       11	7073	*	4248	78	*	*	5585	1000	0	
+
+E 35   4153	*	1968	2880	*	3925	5150	6273	3998	*	*	3627	5143	3454	6827	3353	4052	6018	*	*	35
+       16	6468	*	4248	78	*	*	5579	1000	0	
+
+P 36   2649	2136	2898	5463	*	4534	4845	4950	*	4011	*	*	3689	5569	5817	2737	5843	*	*	*	36
+       26	5821	*	1933	438	*	*	5579	1548	0	
+
+A 37   4026	4938	5741	5042	*	*	6309	5679	5162	5858	*	*	770	6169	5625	3922	6556	3949	*	5817	37
+       55	5193	6587	3888	101	*	*	5579	1905	0	
+
+A 38   817	4101	6478	4242	3791	6908	*	6672	4739	4409	*	*	6655	*	*	6225	5242	3545	*	*	38
+       156	3291	*	3658	119	*	0	5573	3105	1000	
+
+V 39   2669	4548	5950	5756	3085	3008	4498	4688	5323	4431	5888	6895	5658	4564	4890	2931	*	3100	*	*	39
+       35	5393	*	3634	121	0	*	5573	1385	1000	
+
+P 40   3409	*	5926	4973	6566	5153	5737	4168	3881	2254	6462	*	3132	2727	4791	3780	4635	5431	*	5779	40
+       0	*	*	*	*	*	*	5579	0	0	
+
+F 41   3224	6967	5625	4777	5427	5737	5101	3480	*	3245	4193	6557	*	4368	5255	4459	6480	1660	5513	5202	41
+       47	4962	*	4060	89	*	*	5579	1870	0	
+
+Q 42   1062	6529	4279	5049	*	5977	5556	*	4493	*	*	5169	4930	3971	4580	3295	4427	4951	*	*	42
+       112	3919	6919	3803	107	*	*	5579	2691	0	
+
+Q 43   4297	3781	1718	4284	5801	6548	3900	6235	4212	*	*	3797	4550	4001	4879	4464	5009	4264	*	5739	43
+       169	3181	*	4201	81	0	*	5583	3092	1000	
+
+S 44   3954	*	1072	3024	4951	5343	4652	*	5103	5411	*	6074	*	6462	4268	3706	*	4924	*	*	44
+       70	5135	5737	4363	72	*	*	5579	1811	0	
+
+V 45   3480	5824	*	*	4421	*	4845	2543	6773	3734	*	*	*	4103	5707	4602	4980	1400	5815	6890	45
+       16	6498	*	3807	107	*	0	5567	1000	1000	
+
+I 46   5532	*	*	*	*	*	*	984	*	3466	5969	*	*	*	*	*	6364	1629	*	5016	46
+       106	*	3814	*	*	*	0	5534	0	1000	
+
+T 47   6121	5827	6409	4121	*	6110	*	5801	*	4273	*	*	*	5152	*	4885	583	3557	*	*	47
+       0	*	*	*	*	2456	290	5372	0	3018	
+
+A 48   1155	*	*	*	2577	4051	*	4330	*	6695	*	*	*	*	*	6324	5247	2990	*	3338	48
+       117	*	3679	*	*	*	0	5411	0	2844	
+
+E 49   5920	*	2891	543	*	*	4814	*	6201	*	*	4462	5626	*	*	5242	5567	*	*	*	49
+       21	*	6142	*	*	1340	725	5282	0	3202	
+
+I 50   *	*	*	*	1762	*	5290	1588	6425	4462	*	5782	*	*	3286	4870	*	3457	5622	5394	50
+       51	6024	5706	1585	585	3109	178	5350	1000	2993	
+
+E 51   4845	*	4395	486	*	3240	*	*	*	4853	*	*	*	3983	*	*	*	*	*	*	51
+       81	*	4191	*	*	860	1155	5348	0	3089	
+
+R 52   5191	*	3071	5588	*	4280	1686	*	5756	5632	*	1729	*	4341	4341	4986	*	*	*	*	52
+       46	*	4992	*	*	1096	910	4995	0	3583	
+
+W 53   4962	*	*	*	*	*	*	2698	*	2483	*	*	*	*	*	5884	*	1656	2105	3874	53
+       73	*	4342	*	*	955	1047	5180	0	2842	
+
+P 54   3945	*	2508	6103	*	4932	*	*	4457	5903	5713	4912	1280	*	6501	3878	3612	6751	*	6021	54
+       70	*	4397	*	*	495	1784	5116	0	3495	
+
+E 55   2889	6142	1188	2864	*	*	*	*	4573	*	*	4520	6724	4831	*	4992	4445	3900	*	*	55
+       32	5494	*	1386	696	333	2277	5518	1513	2485	
+
+T 56   3300	*	3603	3012	*	5533	*	6462	5682	4704	5748	6271	3741	5601	5061	2990	1984	3923	*	*	56
+       0	*	*	*	*	*	0	5615	0	1000	
+
+A 57   1427	*	5423	3118	*	*	*	5435	4166	4447	6021	*	3416	4189	4670	4494	4797	3890	*	6174	57
+       18	*	6323	*	*	*	0	5615	0	1000	
+
+L 58   2056	*	6429	*	4184	5338	*	6030	4465	1202	*	*	*	5864	*	3281	*	4242	*	*	58
+       114	*	3718	*	*	888	1121	5609	0	1526	
+
+T 59   3727	*	6094	3972	*	5914	5443	3242	5916	2427	6624	*	*	*	5094	3813	2005	2984	*	6355	59
+       24	*	5909	*	*	561	1633	5519	0	2764	
+
+R 60   3257	*	3925	3402	6350	*	*	*	4194	3392	*	4430	*	3009	2212	5774	3377	5592	*	4289	60
+       0	*	*	*	*	1369	706	5593	0	1917	
+
+Q 61   3780	*	3931	3048	5701	*	6241	4690	3509	2258	5052	*	*	2233	4629	4750	5248	5278	*	*	61
+       39	5229	*	2464	288	*	0	5544	1457	1626	
+
+L 62   3682	5895	*	4159	4920	6266	*	3742	6068	784	*	*	*	4807	*	6125	6305	4196	5992	*	62
+       0	*	*	*	*	*	0	5544	0	1626	
+
+A 63   1612	3262	5539	3807	5877	4469	6360	*	2894	6413	*	*	5994	6098	*	2964	5020	3928	*	*	63
+       0	*	*	*	*	*	0	5553	0	1626	
+
+R 64   4135	*	6038	2669	*	*	4056	*	3882	*	*	3953	5182	2105	3159	3038	3565	*	*	*	64
+       218	2999	6019	2387	306	0	*	5561	2513	1626	
+
+H 65   *	*	5777	3122	*	4510	1044	*	4090	*	*	3956	*	4066	3673	4813	4601	*	*	*	65
+       236	2729	*	1815	482	*	0	5583	2532	1000	
+
+P 66   3500	5668	*	*	*	5362	*	*	2474	*	*	1919	1568	*	*	4500	5453	*	*	5716	66
+       54	4775	*	1822	480	*	0	5538	1512	1000	
+
+A 67   3883	*	2872	2288	*	5625	5516	*	3911	2959	*	2857	*	4202	*	4201	4906	3936	*	6927	67
+       117	*	3679	*	*	*	0	5504	0	1000	
+
+F 68   *	*	*	*	403	*	*	*	*	3688	5243	*	*	*	*	*	5000	5138	4753	4545	68
+       0	*	*	*	*	*	0	5359	0	2204	
+
+V 69   *	*	*	5208	*	*	*	1439	*	4846	*	*	3041	4552	5156	4650	*	1568	*	*	69
+       0	*	*	*	*	1889	454	5190	0	2204	
+
+N 70   5070	*	2039	*	*	*	*	*	4713	*	*	736	*	5997	*	*	3786	*	*	*	70
+       0	*	*	*	*	598	1559	4685	0	1896	
+
+R 71   3237	*	4930	*	*	3849	*	3373	4897	1984	4764	*	4184	*	2722	*	4604	4183	*	3849	71
+       0	*	*	*	*	*	0	4780	0	1000	
+
+D 72   3071	*	1553	2419	*	*	*	*	4547	*	*	3211	2876	5341	*	4587	*	*	*	*	72
+       0	*	*	*	*	0	*	4766	0	1000	
+
+V 73   2615	*	*	5337	*	5025	*	1902	*	*	*	*	*	5694	*	3994	2707	1844	*	*	73
+       0	*	*	*	*	*	*	4743	0	0	
+
+F 74   4653	*	*	*	1113	*	*	*	*	1277	*	*	*	*	*	*	*	*	*	3548	74
+       0	*	*	*	*	*	*	4635	0	0	
+
+P 75   2473	*	*	3082	*	3277	*	*	*	*	*	*	1202	3809	5079	3990	*	*	*	*	75
+       0	*	*	*	*	*	*	4565	0	0	
+
+I 76   4243	*	*	*	*	*	*	3454	3097	2370	*	*	*	2610	2349	3152	*	4814	*	4738	76
+       0	*	*	*	*	*	*	4348	0	0	
+
+I 77   4202	*	*	*	*	*	*	2408	*	724	*	*	3315	*	*	*	*	4284	*	*	77
+       0	*	*	*	*	*	*	4348	0	0	
+
+A 78   112	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3739	*	*	*	*	78
+       0	*	*	0	*	*	*	3891	0	0	
+
+//

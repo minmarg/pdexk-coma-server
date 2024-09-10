@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d1la4a_ g.3.6.2 (A:) SGtx1 {Spider (Scodra griseipes) [TaxId: 118974]}
+FAM   g.3.6.2
+FILE  d1la4a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1la4a_.a3m -v 1 
+DATE  Mon Jan 21 22:54:41 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  16 out of 18 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHCCCCCCCCEEEECCCC
+>ss_conf
+9410124588882001001446888743200359
+>Consensus
+xCrxxxGgCxxxsdCCxHLxCxxxxxxCaWDgTF
+>d1la4a_ g.3.6.2 (A:) SGtx1 {Spider (Scodra griseipes) [TaxId: 118974]}
+TCRYLFGGCKTTADCCKHLACRSDGKYCAWDGTF
+>gi|306755696|sp|B1P1G6.1|JZ41A_CHIJI(49-82:84) RecName: Full=U2-theraphotoxin-Cj1b; Short=U2-TRTX-Cj1b; AltName: Full=Jingzhaotoxin-41; Short=JZTX-41; Flags: Precursor >gi|165906048|gb|ABY71716.1| cystine knot toxin [Chilobrachys guangxiensis]  E=0.0001 s/c=1.46 id=62% cov=100%
+-CRWMFGGCTTDSDCCEHLGCRWEkPSWCAWDGTF
+>gi|306755793|sp|B1P1D7.1|JZT36_CHIJI(54-86:88) RecName: Full=U13-theraphotoxin-Cj1a; Short=U13-TRTX-Cj1a; AltName: Full=Jingzhaotoxin-36; Short=JZTX-36; AltName: Full=Peptide F1-27.85; Flags: Precursor >gi|165905990|gb|ABY71687.1| cystine knot toxin [Chilobrachys guangxiensis]  E=0.0002 s/c=1.47 id=59% cov=100%
+-CRKMFGGCSKHEDCCAHLACKRTFNYCAWDGSF
+>gi|118574178|sp|P0C244.1|TX1_PSACA(3-35:35) RecName: Full=Tau/kappa-theraphotoxin-Pc1a; Short=Tau/kappa-TRTX-Pc1a; AltName: Full=Vanillotoxin-1; Short=VaTx1  E=0.0002 s/c=1.47 id=62% cov=100%
+-CRWFMGGCDSTLDCCKHLSCKMGLYYCAWDGTF
+>gi|310947037|sp|D2Y2E8.1|H9A02_HAPHA(52-84:86) RecName: Full=Hainantoxin-IX.2; Short=HNTX-IX.2; AltName: Full=Peptide F1-29.54; Flags: Precursor >gi|283979224|gb|ADB56841.1| HNTX-IX.2 precursor [Haplopelma hainanum]  E=0.0005 s/c=1.45 id=56% cov=100%
+-CRWYLGGCSQDGDCCKHLQCHSNYEWCIWDGTF
+>gi|306755744|sp|B1P1G8.1|JZT44_CHIJI(53-85:86) RecName: Full=U22-theraphotoxin-Cj1a; Short=U22-TRTX-Cj1a; AltName: Full=Jingzhaotoxin-44; Short=JZTX-44; AltName: Full=Peptide F6-26.48; Flags: Precursor >gi|165906052|gb|ABY71718.1| cystine knot toxin [Chilobrachys guangxiensis]  E=4e-06 s/c=1.65 id=50% cov=100%
+-CKWYLGDCKAHEDCCEHLRCHSRWDWCIWDGTF
+>gi|310946798|sp|D2Y2H6.1|H12A2_HAPHA(63-94:97) RecName: Full=Hainantoxin-XII.2; Short=HNTX-XII.2; Flags: Precursor >gi|283979280|gb|ADB56869.1| HNTX-XII.2 precursor [Haplopelma hainanum]  E=8e-06 s/c=1.68 id=58% cov=97%
+-CRYFLGECKKTSECCEHLACHDKHKWCAWDWT-
+>gi|306755688|sp|B1P1F3.1|JZ31B_CHIJI(52-84:86) RecName: Full=U17-theraphotoxin-Cj1a; Short=U17-TRTX-Cj1a; AltName: Full=Jingzhaotoxin-31.2; Short=JZTX-31.2; AltName: Full=Peptide F1-23.73; Flags: Precursor >gi|165906022|gb|ABY71703.1| cystine knot toxin [Chilobrachys guangxiensis]  E=3e-05 s/c=1.57 id=50% cov=100%
+-CTKFLGGCSEDSECCPHLGCKDVLYYCAWDGTF
+>gi|294653169|gb|ADF28492.1|(52-83:84) putative mature peptide toxin-like GVDKE [Pelinobius muticus] >gi|294653171|gb|ADF28493.1| putative mature peptide toxin-like GVDKE [Pelinobius muticus] >gi|294653173|gb|ADF28494.1| putative mature peptide toxin-like GVDKE [Pelinobius muticus]  E=5e-05 s/c=1.59 id=52% cov=97%
+-CKYMFGSCGKSDDCCPKLACKRTFNYCAWDGS-
+>gi|380692232|dbj|BAL72763.1|(49-81:83) toxin-like peptide [Grammostola rosea]   E=0.0005 s/c=1.44 id=50% cov=100%
+-CRKFLGGCDQDSNCCEHLVCHNKHKWCVWDGTF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2278	0	0	
+
+R 3    *	*	*	*	*	*	*	*	2559	*	*	*	*	*	389	*	3903	*	*	*	3
+       0	*	*	*	*	*	*	2278	0	0	
+
+Y 4    *	*	*	*	*	*	*	*	1982	*	*	*	*	*	*	*	*	*	1451	1391	4
+       0	*	*	*	*	*	*	2278	0	0	
+
+L 5    *	*	*	*	1664	*	*	*	*	2171	1902	*	*	*	*	*	*	*	*	2360	5
+       0	*	*	*	*	*	*	2278	0	0	
+
+F 6    *	*	*	*	1030	*	*	*	*	1159	3999	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2278	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2278	0	0	
+
+G 8    *	*	3771	3925	*	387	*	*	*	*	*	*	*	*	*	3375	*	*	*	*	8
+       0	*	*	*	*	*	*	2278	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2278	0	0	
+
+K 10   *	*	2887	3974	*	3375	*	*	1478	*	*	*	*	*	*	1795	4117	*	*	*	10
+       0	*	*	*	*	*	*	2278	0	0	
+
+T 11   3771	*	*	3903	*	*	*	*	1526	*	*	*	*	2903	*	2671	2562	4245	*	*	11
+       0	*	*	*	*	*	*	2278	0	0	
+
+T 12   *	*	1201	*	*	*	2899	*	*	*	*	*	*	*	*	3375	1580	*	*	*	12
+       0	*	*	*	*	*	*	2278	0	0	
+
+A 13   4244	*	3375	2899	*	4035	*	*	*	3999	*	*	4085	*	*	904	*	*	*	*	13
+       0	*	*	*	*	*	*	2278	0	0	
+
+D 14   *	*	446	2372	*	*	*	*	*	*	*	3782	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2278	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2278	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2278	0	0	
+
+K 17   3139	*	*	1393	*	*	*	*	1826	*	*	*	2615	*	*	*	4047	*	*	*	17
+       0	*	*	*	*	*	*	2278	0	0	
+
+H 18   *	*	*	*	*	*	146	*	3375	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2278	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2278	0	0	
+
+A 20   1858	*	*	*	*	1738	*	*	*	*	*	*	*	3041	3771	2671	*	3782	*	*	20
+       0	*	*	*	*	*	*	2278	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2278	0	0	
+
+R 22   *	*	*	*	*	*	1585	*	1165	*	*	*	*	*	2179	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2278	0	0	
+
+S 23   *	*	2914	*	4085	*	*	*	*	*	3182	3782	4245	*	2179	1765	*	*	4117	*	23
+       95	3974	*	0	*	*	*	2278	1000	0	
+
+D 24   *	*	3328	4117	*	3182	*	*	2307	*	*	4035	*	*	2919	*	2252	3903	*	4047	24
+       86	4117	*	0	*	*	*	2278	1000	0	
+
+G 25   *	*	4085	*	2670	4244	2852	*	*	2121	*	*	3044	*	*	*	*	*	2469	4035	25
+       0	*	*	*	*	*	*	2278	0	0	
+
+K 26   *	*	3047	3041	*	*	*	*	1516	*	*	2670	*	*	*	3044	*	*	*	2950	26
+       0	*	*	*	*	*	*	2278	0	0	
+
+Y 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1138	874	27
+       0	*	*	*	*	*	*	2278	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2278	0	0	
+
+A 29   580	*	*	*	*	3974	*	2360	*	*	*	*	*	*	*	*	*	3782	*	*	29
+       0	*	*	*	*	*	*	2278	0	0	
+
+W 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	30
+       0	*	*	*	*	*	*	2278	0	0	
+
+D 31   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2278	0	0	
+
+G 32   *	*	*	*	3029	301	*	*	*	*	*	*	*	*	*	*	*	*	3925	*	32
+       0	*	*	*	*	*	*	2278	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2670	247	*	*	*	33
+       0	*	*	*	*	*	*	2278	0	0	
+
+F 34   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	0	*	*	*	2097	0	0	
+
+//

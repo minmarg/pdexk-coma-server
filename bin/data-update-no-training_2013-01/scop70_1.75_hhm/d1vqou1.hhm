@@ -1,0 +1,201 @@
+HHsearch 1.5
+NAME  d1vqou1 g.39.1.6 (U:4-56) Ribosomal protein L24e {Archaeon Haloarcula marismortui [TaxId: 2238]}
+FAM   g.39.1.6
+FILE  d1vqou1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vqou1.a3m -v 1 
+DATE  Tue Jan 22 03:43:31 2013
+LENG  53 match states, 53 columns in multiple alignment
+FILT  103 out of 282 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.3 
+SEQ
+>ss_pred
+CEECCCCCEECCCCCEEEEECCCCEEEEHHHHHHHHHHCCCCCCEEEEEECCC
+>ss_conf
+90026796214867627882189466412278899986189953112333259
+>Consensus
+xxCsFsgxxIxPGxGxxxVrxDgxvxxFxssKcxxxxxxkrnPrklxWTxxxR
+>d1vqou1 g.39.1.6 (U:4-56) Ribosomal protein L24e {Archaeon Haloarcula marismortui [TaxId: 2238]}
+RECDYCGTDIEPGTGTMFVHKDGATTHFCSSKCENNADLGREARNLEWTDTAR
+>gi|123380722|ref|XP_001298469.1|(8-58:113) ribosomal protein L24e [Trichomonas vaginalis G3] >gi|123975173|ref|XP_001314118.1| ribosomal protein L24e [Trichomonas vaginalis G3] >gi|154414186|ref|XP_001580121.1| ribosomal protein L24e [Trichomonas vaginalis G3] >gi|154414821|ref|XP_001580437.1| ribosomal protein L24e [Trichomonas vaginalis G3] >gi|121879045|gb|EAX85539.1| ribosomal protein L24e, putative [Trichomonas vaginalis G3] >gi|121896218|gb|EAY01376.1| ribosomal protein L24e, putative [Trichomonas vaginalis G3] >gi|121914335|gb|EAY19135.1| ribosomal protein L24e, putative [Trichomonas vaginalis G3] >gi|121914654|gb|EAY19451.1| ribosomal protein L24e, putative [Trichomonas vaginalis G3]  E=4e-05 s/c=1.00 id=25% cov=98%
+--CGFSGHIFHAGHGRVHIREDKHLMAFESRKAFRMWERKRNPRKIAWTEHYR
+>gi|424814617|ref|ZP_18239795.1|(3-43:50) ribosomal protein L24e [Candidatus Nanosalina sp. J07AB43] >gi|339758233|gb|EGQ43490.1| ribosomal protein L24e [Candidatus Nanosalina sp. J07AB43]  E=4e-05 s/c=1.24 id=38% cov=79%
+-ECYYSGEEINPTEGIMYVKNNGERLYFSSGKNLKNWMEGRN-----------
+>gi|307110971|gb|EFN59206.1|(6-58:157) hypothetical protein CHLNCDRAFT_29622 [Chlorella variabilis]   E=3e-11 s/c=1.34 id=30% cov=102%
+QTCRFSGLRIYPGKGVLFIRTDGQQFLFLKQKCRSLFIQRKRPAKLAWTTLYR
+>gi|167042645|gb|ABZ07366.1|(6-58:67) putative ribosomal protein L24e [uncultured marine crenarchaeote HF4000_ANIW133M9]  E=3e-09 s/c=1.22 id=38% cov=100%
+KSCSFCNRPVAKGSGTMLAKNDGTVLWSCSSKCKKNLLvLKRDPRKLKWTEKY-
+>gi|159040897|ref|YP_001540149.1|(5-57:70) 50S ribosomal protein L24 [Caldivirga maquilingensis IC-167] >gi|254800968|sp|A8MB69.1|RL24E_CALMQ RecName: Full=50S ribosomal protein L24e >gi|157919732|gb|ABW01159.1| Ribosomal protein L24E [Caldivirga maquilingensis IC-167]  E=4e-09 s/c=1.21 id=36% cov=100%
+-NCSYCGRPIPPGYGIMYVRVDGVVLRFCSRRCFvSMVKMGKNPQKQAWVRKIR
+>gi|209730784|gb|ACI66261.1|(6-56:158) 60S ribosomal protein L24 [Salmo salar]   E=5e-06 s/c=1.05 id=31% cov=98%
+--CNVTGYKIFPGRGRTYVKADGKGYHLLNKRAEHLFWLKTNPRSVRWTVLCR
+>gi|402467223|gb|EJW02559.1|(5-56:144) hypothetical protein EDEG_03027 [Edhazardia aedis USNM 41457]   E=6e-06 s/c=1.03 id=34% cov=100%
+-NCAYSGLPIPKGSGTILVKSDSKALLFANTKVRNFVDQKIKPRYIRWTQNAR
+>gi|71026851|ref|XP_763069.1|(17-67:159) 60S ribosomal protein L24 [Theileria parva strain Muguga] >gi|68350022|gb|EAN30786.1| 60S ribosomal protein L24, putative [Theileria parva]  E=2e-08 s/c=1.21 id=25% cov=98%
+--CNFTDYRVYPGRGKKFVARDGKVYFFINGKSAAFHKRKVKPAKLKWNLAWR
+>gi|160331297|ref|XP_001712356.1|(4-56:120) rpl24 [Hemiselmis andersenii] >gi|159765804|gb|ABW98031.1| rpl24 [Hemiselmis andersenii]  E=3e-10 s/c=1.27 id=31% cov=102%
+KKCSVCGFCIYPGHGSVLVKNNLKIFRFCRSRCRKLYALKKNPIFLKWTSVGR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	1681	*	*	*	*	3558	729	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2885	0	0	
+
+E 2    *	*	*	3980	*	*	*	6132	1747	*	*	3136	*	3576	3872	5830	1592	6752	*	*	2
+       0	*	*	*	*	*	*	3830	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	4259	0	0	
+
+D 4    2793	*	4181	5939	6173	5180	4469	4580	*	6026	*	4203	*	6823	5125	1208	4678	6482	6928	4120	4
+       0	*	*	*	*	*	*	4259	0	0	
+
+Y 5    *	*	*	*	416	*	*	*	*	4898	*	*	*	*	*	*	*	4745	*	2477	5
+       0	*	*	*	*	*	*	4288	0	0	
+
+C 6    *	1179	*	*	*	*	*	*	*	*	*	*	*	*	*	1037	3816	*	*	*	6
+       0	*	*	*	*	*	*	4288	0	0	
+
+G 7    *	*	5000	2798	*	544	5948	*	6613	*	*	5255	*	5845	*	3854	*	*	*	*	7
+       0	*	*	*	*	*	*	4288	0	0	
+
+T 8    4753	*	7025	3825	3224	4243	4420	*	3874	3955	*	5615	*	4864	2799	4020	5084	*	6434	2033	8
+       0	*	*	*	*	*	*	4288	0	0	
+
+D 9    4408	6362	3837	2664	*	*	6230	5565	1782	*	6372	4898	3095	5134	2764	4939	5890	*	*	*	9
+       0	*	*	*	*	*	*	4288	0	0	
+
+I 10   6402	6134	*	*	4962	*	*	438	*	6372	5154	*	*	*	*	*	*	2610	*	*	10
+       0	*	*	*	*	*	*	4288	0	0	
+
+E 11   6610	5645	*	2125	5246	*	3687	*	6611	4926	*	5315	3366	6955	*	6037	5371	*	5096	1342	11
+       0	*	*	*	*	*	*	4288	0	0	
+
+P 12   4537	*	*	5765	*	6752	6527	*	3743	*	*	*	344	6344	5976	*	6230	6102	*	*	12
+       0	*	*	*	*	*	*	4288	0	0	
+
+G 13   4366	6407	*	*	*	195	*	*	*	*	*	*	*	*	*	4262	6132	*	*	*	13
+       0	*	*	*	*	*	*	4288	0	0	
+
+T 14   *	6592	*	5084	5463	*	1558	*	3294	*	*	5706	*	*	2951	4115	1983	*	*	4768	14
+       0	*	*	*	*	*	*	4288	0	0	
+
+G 15   *	*	*	*	*	55	*	*	*	*	*	*	*	*	5645	5845	*	*	*	*	15
+       0	*	*	*	*	*	*	4288	0	0	
+
+T 16   *	6875	*	*	6878	6533	6508	2737	1862	4363	4071	*	*	4199	2592	4310	3571	4029	6403	*	16
+       0	*	*	*	*	*	*	4288	0	0	
+
+M 17   7155	*	*	*	*	*	6493	3978	3065	3237	1660	*	*	6742	2251	5966	3807	4193	*	6065	17
+       0	*	*	*	*	*	*	4289	0	0	
+
+F 18   6703	*	*	6065	1953	*	4586	*	6123	2753	4742	*	*	*	*	5646	*	7329	*	1154	18
+       22	6052	*	2322	322	*	*	4289	1000	0	
+
+V 19   3562	5966	*	*	*	*	*	2756	*	*	*	*	*	*	*	5823	5818	482	*	*	19
+       23	5965	*	2000	415	*	*	4289	1000	0	
+
+H 20   3697	*	*	5888	*	*	6160	*	1944	5317	5338	*	*	5460	1016	5653	4466	*	*	*	20
+       0	*	*	*	*	*	*	4289	0	0	
+
+K 21   4002	*	*	5262	*	5828	5825	6206	2354	5380	*	1928	5199	7035	2990	3815	3476	4093	*	*	21
+       0	*	*	*	*	*	*	4289	0	0	
+
+D 22   *	*	252	*	*	*	*	*	5397	7201	*	4000	*	*	6685	5668	4713	*	*	*	22
+       16	6502	*	1585	585	*	*	4289	1000	0	
+
+G 23   4621	5845	*	*	*	483	*	*	4324	4716	*	5810	*	*	6053	3449	6151	*	*	*	23
+       0	*	*	*	*	*	*	4289	0	0	
+
+A 24   4755	*	*	5388	*	*	5935	*	1336	*	*	4984	5012	4030	3337	3684	2342	5116	*	*	24
+       0	*	*	*	*	*	*	4289	0	0	
+
+T 25   4334	*	*	6427	*	4795	*	2572	6241	3718	*	6525	4542	6730	5272	3614	3810	1310	*	*	25
+       0	*	*	*	*	*	*	4289	0	0	
+
+T 26   *	*	*	*	1332	*	5183	4342	*	2092	4214	*	*	4850	*	6947	6161	4911	*	2761	26
+       0	*	*	*	*	*	*	4289	0	0	
+
+H 27   5935	*	*	*	2862	*	3822	4662	4646	3708	6556	4524	*	4602	2783	*	3811	5151	3038	2665	27
+       0	*	*	*	*	*	*	4289	0	0	
+
+F 28   *	*	*	*	286	*	*	*	*	3869	5969	*	*	*	*	6616	4741	6556	*	4751	28
+       0	*	*	*	*	*	*	4289	0	0	
+
+C 29   4579	1220	*	5935	5839	5536	*	3207	4942	2087	*	*	*	*	*	4177	*	4576	*	*	29
+       0	*	*	*	*	*	*	4289	0	0	
+
+S 30   6780	*	5021	*	*	6362	6616	*	4228	*	*	1730	*	*	3446	1058	6495	*	*	*	30
+       0	*	*	*	*	*	*	4289	0	0	
+
+S 31   3702	*	6502	*	*	3670	4743	*	3519	*	*	4967	5972	4842	2855	1225	4054	*	*	*	31
+       0	*	*	*	*	*	*	4289	0	0	
+
+K 32   *	*	*	*	*	*	*	*	128	*	*	*	*	*	3563	*	*	*	*	*	32
+       0	*	*	*	*	*	*	4289	0	0	
+
+C 33   2578	760	*	4914	*	*	*	*	*	*	*	5031	*	*	*	3309	5561	4154	*	*	33
+       14	6724	*	0	*	*	*	4257	1000	0	
+
+E 34   4019	6540	*	1911	3357	*	4058	6053	3107	4326	6861	*	*	4190	2494	3922	*	*	*	5947	34
+       31	5548	*	0	*	*	*	4289	1481	0	
+
+N 35   3785	6495	*	5759	*	*	6016	6531	1409	*	6106	3367	*	*	3273	2033	*	4802	*	*	35
+       20	*	6158	*	*	*	*	4289	0	0	
+
+N 36   3625	*	*	*	4591	*	4894	*	*	1646	4017	1699	*	5331	*	3710	*	*	*	4228	36
+       13	6751	*	0	*	*	0	4280	1000	1000	
+
+A 37   4298	*	*	6217	1591	5578	3374	5308	*	4131	3377	6063	*	*	*	5005	5528	4512	4082	2866	37
+       168	3480	5644	0	*	0	*	4280	2192	1000	
+
+D 38   4200	*	4749	3726	4703	5684	3924	5593	2285	2209	3641	4815	*	5322	4074	6529	*	5030	6002	6669	38
+       35	5387	*	0	*	*	0	4258	1305	1000	
+
+L 39   4982	*	*	5301	6063	*	5742	5926	4373	1772	2401	5207	*	2697	2731	6303	7146	*	*	6536	39
+       0	*	*	*	*	*	0	4258	0	1000	
+
+G 40   *	*	*	*	*	2192	5477	*	1000	6150	*	5045	*	5606	2367	*	*	*	*	*	40
+       0	*	*	*	*	*	0	4258	0	1000	
+
+R 41   *	*	*	*	*	*	*	3176	2244	5717	5960	*	*	*	927	*	4643	4077	5810	*	41
+       0	*	*	*	*	0	*	4258	0	1000	
+
+E 42   7027	*	3485	5189	*	6156	*	4686	2080	6372	*	1017	*	6424	5711	*	*	4341	*	*	42
+       10	7111	*	0	*	*	*	4290	1000	0	
+
+A 43   3275	*	*	*	*	6529	*	*	*	*	*	*	278	*	6689	5741	4943	*	*	*	43
+       0	*	*	*	*	*	*	4321	0	0	
+
+R 44   3194	*	6754	*	6257	*	*	5490	3583	*	6753	6712	*	4484	669	5588	6650	4663	*	*	44
+       0	*	*	*	*	*	*	4321	0	0	
+
+N 45   *	*	3578	4234	4601	*	*	*	731	5395	*	6122	*	5016	3312	6020	*	6068	*	5679	45
+       0	*	*	*	*	*	*	4321	0	0	
+
+L 46   *	*	*	*	5739	*	*	1938	5973	1287	*	*	*	6455	*	*	4209	2189	*	6667	46
+       0	*	*	*	*	*	*	4324	0	0	
+
+E 47   2819	5705	*	4427	5973	5153	6609	6295	1841	6863	6405	4637	6431	5688	2275	4360	3685	5515	*	*	47
+       0	*	*	*	*	*	*	4324	0	0	
+
+W 48   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	48
+       0	*	*	*	*	*	*	4324	0	0	
+
+T 49   *	*	*	*	*	*	*	6320	*	*	*	6375	*	*	*	5560	170	3928	*	*	49
+       0	*	*	*	*	*	*	4336	0	0	
+
+D 50   4667	*	6042	3458	*	6815	6827	4306	2535	3370	*	4985	5558	2892	3746	5211	3905	2634	*	*	50
+       0	*	*	*	*	*	*	4336	0	0	
+
+T 51   1940	*	*	5121	4945	6578	5230	4609	3193	2554	4778	6328	*	5367	5148	4054	4007	3369	*	*	51
+       0	*	*	*	*	*	*	4337	0	0	
+
+A 52   3860	5790	*	*	3487	3257	7021	5936	*	*	*	*	*	*	6226	3448	*	*	2684	1202	52
+       0	*	*	*	*	*	*	4337	0	0	
+
+R 53   *	*	*	*	*	*	*	*	4524	*	*	*	*	*	64	*	*	*	*	*	53
+       0	*	*	0	*	*	*	4184	0	0	
+
+//

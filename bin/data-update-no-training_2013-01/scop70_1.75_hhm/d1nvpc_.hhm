@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1nvpc_ b.56.1.1 (C:) Large chain TOA1, C-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.56.1.1
+FILE  d1nvpc_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nvpc_.a3m -v 1 
+DATE  Tue Jan 22 00:00:58 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  107 out of 129 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred
+CCCCEEEEEEEEEECCCCEEEEEECCCEEEECCEEEEEEEEEEEEEC
+>ss_conf
+97765898761353258647998621089829965232203576609
+>Consensus
+xtxnxilcxydKVxRxKnKWKxxlKdGixxingkDyvFxkaxgexeW
+>d1nvpc_ b.56.1.1 (C:) Large chain TOA1, C-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+DTENVVVCQYDKIHRSKNKWKFHLKDGIMNLNGRDYIFSKAIGDAEW
+>gi|255070895|ref|XP_002507529.1|(112-157:157) transcription factor IIA, alpha/beta subunit [Micromonas sp. RCC299] >gi|226522804|gb|ACO68787.1| transcription factor IIA, alpha/beta subunit [Micromonas sp. RCC299]  E=1e-11 s/c=1.57 id=38% cov=100%
+-CLNLILAQFEKVARAKSKWKCVLKEGVMTLENRDILFGRGNGEFRW
+>gi|320164633|gb|EFW41532.1|(295-339:339) predicted protein [Capsaspora owczarzaki ATCC 30864]   E=2e-11 s/c=1.60 id=37% cov=98%
+--KNMMLCTAEKVTRNRNRWKTTLRGGIVTIRGRDYVFRTATGEFTF
+>gi|15237841|ref|NP_200731.1|(140-186:186) transcription factor-related protein [Arabidopsis thaliana] >gi|9759244|dbj|BAB09768.1| unnamed protein product [Arabidopsis thaliana] >gi|39545874|gb|AAR28000.1| TFIIA-L3 [Arabidopsis thaliana] >gi|332009777|gb|AED97160.1| transcription factor-related protein [Arabidopsis thaliana]  E=3e-13 s/c=1.66 id=42% cov=102%
+NIQHLVMCQFDKVKRSKNKWECKFNAGVMQINGKNVLFSQATGDFNF
+>gi|403359039|gb|EJY79177.1|(302-348:348) General transcription factor IIA, 1 [Oxytricha trifallax]   E=9e-12 s/c=1.55 id=40% cov=102%
+DCKNYIAAQYEKVQRTKQKYKCIFKDAIIHLNGKDFVVKKFTADIEY
+>gi|300707186|ref|XP_002995812.1|(86-132:132) hypothetical protein NCER_101199 [Nosema ceranae BRL01] >gi|239605031|gb|EEQ82141.1| hypothetical protein NCER_101199 [Nosema ceranae BRL01]  E=2e-10 s/c=1.46 id=42% cov=102%
+DTSNFLMCMYVKVSRTKCKYKCNFKQGFVNLGNVDFAFANAQGELEW
+>gi|167519254|ref|XP_001743967.1|(113-158:158) hypothetical protein [Monosiga brevicollis MX1] >gi|163777929|gb|EDQ91545.1| predicted protein [Monosiga brevicollis MX1]  E=7e-09 s/c=1.37 id=28% cov=100%
+-TANSLLCFYDRVSKTKGAYKCALRNAVLTVDRKSYVFSKIQAELKW
+>gi|330040435|ref|XP_003239911.1|(229-275:275) hypothetical protein CPARA_3gp355 [Cryptomonas paramecium] >gi|327206837|gb|AEA39013.1| hypothetical protein CPARA_3gp355 [Cryptomonas paramecium]  E=5e-07 s/c=1.21 id=35% cov=102%
+NSINFILSIVNKIYRRNARWKVILKDGILHVNNRDLLFSSCKCEFFW
+>gi|156084039|ref|XP_001609503.1|(127-179:179) DNA-directed RNA polymerase II large subunit [Babesia bovis T2Bo] >gi|154796754|gb|EDO05935.1| DNA-directed RNA polymerase II large subunit, putative [Babesia bovis]  E=0.0002 s/c=0.92 id=38% cov=102%
+ETKDIVIGIIDKISRPSTKkttaptWKVKLKYGILQINGVEIPFDNLEGEFEF
+>gi|326429485|gb|EGD75055.1|(169-212:212) hypothetical protein PTSG_06712 [Salpingoeca sp. ATCC 50818]   E=1e-08 s/c=1.41 id=33% cov=96%
+---NHIICQHERINHSKNVWKAALRNCVVHVDGQDFVFGAMKLDYIW
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	1150	1551	*	*	*	*	*	*	*	2264	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3079	0	0	
+
+T 2    4898	3183	*	*	*	*	*	2663	*	6155	5670	*	*	*	*	2762	989	6225	*	*	2
+       0	*	*	*	*	*	*	3350	0	0	
+
+E 3    4341	*	2154	2306	*	4978	5673	5508	2612	6354	*	4485	6416	3181	*	3398	*	6234	*	*	3
+       0	*	*	*	*	*	*	3406	0	0	
+
+N 4    *	*	2755	*	*	*	3069	*	*	*	*	554	*	5070	*	5535	*	*	*	*	4
+       0	*	*	*	*	*	*	3451	0	0	
+
+V 5    *	5826	*	*	3054	*	4915	2226	*	2505	4348	*	*	6031	*	4784	5628	2127	*	3490	5
+       0	*	*	*	*	*	*	3428	0	0	
+
+V 6    5589	*	*	*	5896	*	*	1633	*	3753	2442	*	*	*	*	*	5103	1503	*	*	6
+       0	*	*	*	*	*	*	3451	0	0	
+
+V 7    4310	*	*	*	4221	*	*	2653	*	1089	3960	*	*	*	*	*	*	2402	*	6214	7
+       0	*	*	*	*	*	*	3451	0	0	
+
+C 8    2848	446	*	*	*	3910	*	*	*	*	*	*	*	*	*	4046	*	*	*	*	8
+       0	*	*	*	*	*	*	3451	0	0	
+
+Q 9    *	*	*	*	4756	*	*	3883	*	2128	3356	*	*	1208	*	*	3390	4625	*	*	9
+       0	*	*	*	*	*	*	3451	0	0	
+
+Y 10   6174	*	*	*	2381	*	4889	5837	*	4959	*	*	*	*	*	6088	6058	4642	*	642	10
+       0	*	*	*	*	*	*	3451	0	0	
+
+D 11   *	*	794	1572	*	*	*	*	*	*	*	5743	*	*	*	*	*	3871	*	*	11
+       0	*	*	*	*	*	*	3451	0	0	
+
+K 12   *	*	*	*	*	*	*	*	157	*	*	*	*	*	3281	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3451	0	0	
+
+I 13   *	*	*	*	*	*	*	1967	*	*	*	*	*	*	*	*	*	426	*	*	13
+       0	*	*	*	*	*	*	3451	0	0	
+
+H 14   4563	*	5686	*	*	6568	3559	5412	5060	5409	*	3150	5899	2051	*	3108	2157	*	*	4185	14
+       0	*	*	*	*	*	*	3451	0	0	
+
+R 15   *	*	*	*	*	*	4465	*	3772	*	5808	*	*	*	240	*	*	*	*	5899	15
+       0	*	*	*	*	*	*	3451	0	0	
+
+S 16   4345	*	*	*	*	*	5718	4271	*	*	*	4150	4333	*	3844	2062	2167	2046	*	*	16
+       0	*	*	*	*	*	*	3451	0	0	
+
+K 17   *	*	*	*	*	*	*	*	422	*	*	3844	5899	*	3090	4333	*	*	*	*	17
+       0	*	*	*	*	*	*	3451	0	0	
+
+N 18   4352	5520	6163	*	4789	3804	*	*	*	*	*	806	*	4845	*	3227	3410	*	*	*	18
+       0	*	*	*	*	*	*	3451	0	0	
+
+K 19   4757	*	*	*	*	*	*	*	474	*	*	6163	*	6066	2471	*	*	4890	*	*	19
+       99	3913	*	2256	339	*	*	3451	1804	0	
+
+W 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	4132	*	*	*	223	3538	20
+       0	*	*	*	*	*	*	3451	0	0	
+
+K 21   *	*	*	5060	*	*	*	*	212	*	*	*	*	*	3226	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3451	0	0	
+
+F 22   4389	1027	*	*	2416	*	*	4634	*	4813	5900	*	*	*	*	6100	5076	2863	*	*	22
+       0	*	*	*	*	*	*	3451	0	0	
+
+H 23   3621	6833	*	*	7337	*	4250	2571	3336	*	*	3712	*	4611	*	4301	2372	2773	7122	3853	23
+       0	*	*	*	*	*	*	3451	0	0	
+
+L 24   *	*	*	*	2025	*	*	*	*	430	6378	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3451	0	0	
+
+K 25   *	*	*	*	*	*	*	*	323	*	*	5060	*	*	2683	*	*	6100	*	*	25
+       0	*	*	*	*	*	*	3451	0	0	
+
+D 26   4488	7068	636	4027	6158	6182	4710	*	7118	*	*	3682	*	4277	*	*	*	7064	*	4920	26
+       0	*	*	*	*	*	*	3451	0	0	
+
+G 27   3800	4304	*	*	*	188	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3451	0	0	
+
+I 28   *	*	*	*	3603	*	*	978	*	5805	4121	*	*	*	*	*	*	1580	*	*	28
+       0	*	*	*	*	*	*	3451	0	0	
+
+M 29   3267	*	*	*	6576	*	*	2859	*	2262	1308	*	*	*	*	*	*	2884	*	*	29
+       0	*	*	*	*	*	*	3451	0	0	
+
+N 30   7034	3867	*	*	*	6437	1904	*	6559	5353	*	2151	*	3651	6576	3591	2238	*	*	*	30
+       0	*	*	*	*	*	*	3451	0	0	
+
+L 31   6215	*	*	*	4443	*	*	1367	*	1865	5484	*	*	*	*	7199	6353	2120	*	7177	31
+       20	6158	*	2000	415	*	*	3451	1000	0	
+
+N 32   6739	*	2639	5504	*	2653	6833	*	7029	*	*	815	*	6460	4620	6326	*	*	*	*	32
+       0	*	*	*	*	*	*	3451	0	0	
+
+G 33   *	*	4722	5074	*	613	5121	*	4946	*	*	3012	*	7040	3542	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3451	0	0	
+
+R 34   5686	*	*	*	*	*	*	5808	940	*	*	6084	*	4401	2053	6657	4554	3665	*	7152	34
+       24	5897	*	0	*	*	*	3451	1000	0	
+
+D 35   *	*	407	2485	*	*	*	*	*	*	*	5060	*	*	*	4757	*	*	*	*	35
+       0	*	*	*	*	*	*	3451	0	0	
+
+Y 36   *	*	*	*	2453	*	4868	3677	*	4140	5552	*	*	5897	*	6080	6846	4572	6945	898	36
+       0	*	*	*	*	*	*	3451	0	0	
+
+I 37   4312	5659	*	*	5552	*	*	7225	*	1732	*	*	3913	*	*	5975	4786	1052	*	*	37
+       23	5990	*	2807	222	*	*	3451	1000	0	
+
+F 38   *	*	*	*	77	*	*	*	*	*	*	*	*	*	*	*	*	4272	*	*	38
+       0	*	*	*	*	*	*	3446	0	0	
+
+S 39   3381	*	3849	*	6435	3259	2990	*	4353	*	*	2627	*	2727	5022	2561	6688	7384	6055	*	39
+       0	*	*	*	*	*	*	3446	0	0	
+
+K 40   4885	*	*	*	5540	*	*	*	749	*	*	3871	*	4453	3201	3869	4496	6145	*	*	40
+       0	*	*	*	*	*	*	3446	0	0	
+
+A 41   887	2383	*	*	4843	4259	*	4754	*	4126	4683	*	*	*	*	4992	6000	*	*	*	41
+       0	*	*	*	*	*	*	3446	0	0	
+
+I 42   6000	*	*	4916	*	*	5187	4912	3264	*	6938	2449	*	2790	*	3771	1527	5037	*	*	42
+       0	*	*	*	*	*	*	3446	0	0	
+
+G 43   3326	3554	*	*	*	441	*	*	*	4885	*	*	*	*	*	6150	*	5025	*	*	43
+       0	*	*	*	*	*	*	3446	0	0	
+
+D 44   *	*	1668	616	*	*	*	*	*	*	*	*	*	*	*	4931	*	*	*	*	44
+       0	*	*	*	*	*	*	3448	0	0	
+
+A 45   2318	5766	*	*	1537	*	*	4842	*	2717	4391	*	*	*	*	3666	5421	5172	*	3799	45
+       0	*	*	*	*	*	*	3448	0	0	
+
+E 46   5063	*	3915	742	3786	*	6960	4540	4736	5151	*	4452	*	6972	6942	*	4883	5581	*	*	46
+       0	*	*	*	*	*	*	3447	0	0	
+
+W 47   *	*	*	*	2505	*	*	*	*	*	*	*	*	*	*	*	*	*	346	4758	47
+       0	*	*	0	*	*	*	3447	0	0	
+
+//

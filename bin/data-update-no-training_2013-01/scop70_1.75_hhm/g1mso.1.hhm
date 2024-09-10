@@ -1,0 +1,198 @@
+HHsearch 1.5
+NAME  g1mso.1 g.1.1.1 (B:,A:) Insulin {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.1.1.1
+FILE  g1mso.1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//g1mso.1.a3m -v 1 
+DATE  Tue Jan 22 08:54:45 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  93 out of 95 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHHCCCCCCCCCCCCCCHHHCCCCCCCHHHHHHCCC
+>ss_conf
+9876434277899999984557851159888602002699988477632059
+>Consensus
+xxxqxLCGsxLvdaLxxvCgxRGFxyxpxxxGIVeqCCxxxCsxxxLexYCn
+>g1mso.1 g.1.1.1 (B:,A:) Insulin {Human (Homo sapiens) [TaxId: 9606]}
+FVNQHLCGSHLVEALYLVCGERGFFYTPKTXGIVEQCCTSICSLYQLENYCN
+>gi|60672480|gb|AAX33346.1|(1-50:50) insulin [Abrocoma bennettii]   E=8e-07 s/c=1.14 id=57% cov=98%
+LVSRRLCGSNLVDALFLLC-ERNGFYRPND-GIVDQCCINTCTTNQLLNYCN
+>gi|253723329|pdb|3LRI|A(11-74:83) Chain A, Solution Structure And Backbone Dynamics Of Long-[arg(3) ]insulin-Like Growth Factor-I  E=3e-05 s/c=0.81 id=54% cov=100%
+FVNgpRTLCGAELVDALQFVCGDRGFYFNKPTgygsssrracqTGIVDECCFRSCDLRRLEMYC-
+>gi|148229834|ref|NP_001082137.1|(60-112:127) insulin-like growth factor III precursor [Xenopus laevis] >gi|82217103|sp|Q90WX8.1|IGF3_XENLA RecName: Full=Insulin-like growth factor III; Short=IGF-III; AltName: Full=Insulin-like growth factor 3; Short=xIGF-3; Flags: Precursor >gi|15787614|gb|AAL06242.1| insulin-like growth factor 3 [Xenopus laevis] >gi|213623128|gb|AAI69337.1| Insulin-like growth factor 3 [Xenopus laevis] >gi|213623132|gb|AAI69339.1| Insulin-like growth factor 3 [Xenopus laevis]  E=7e-07 s/c=1.06 id=49% cov=90%
+-----LCGSELVDILQFICGPTGFYVSkgasfrnRNRPGIVEECCFCGCSVAILESYC-
+>gi|345487354|ref|XP_003425680.1|(57-113:119) PREDICTED: insulin-like growth factor II-like [Nasonia vitripennis]   E=4e-05 s/c=0.89 id=48% cov=92%
+----RLCSRSLSDALYLLCKDRGYnepFTSSETevrhttgPGLVEECCYNSCSIEQMEQYC-
+>gi|56418245|gb|AAV91059.1|(23-75:264) unknown protein [Grouper iridovirus]   E=8e-10 s/c=1.25 id=36% cov=90%
+------CGGELIDALTEHCGDRGVYtpsrrgRRNRSVGLADACCKNECNENELDRYCN
+>gi|322793248|gb|EFZ16905.1|(41-99:115) hypothetical protein SINV_13149 [Solenopsis invicta]   E=5e-07 s/c=0.97 id=49% cov=94%
+---QKLCSRKLSDALYLICRERGynepFSYSNEDeprvdpgPGLVDECCYHQCTLGMLEAYC-
+>gi|193589512|ref|XP_001949253.1|(31-88:210) PREDICTED: hypothetical protein LOC100169635 isoform 1 [Acyrthosiphon pisum] >gi|328717941|ref|XP_003246342.1| PREDICTED: hypothetical protein LOC100169635 isoform 2 [Acyrthosiphon pisum]  E=9e-05 s/c=0.86 id=40% cov=92%
+---RHFCGSQLANVLALICSN-GYNFHPatddvtvpsrrRKRVIVEECCENTCTPHHLKAYC-
+>gi|260797601|ref|XP_002593790.1|(203-227:417) hypothetical protein BRAFLDRAFT_121099 [Branchiostoma floridae] >gi|229279020|gb|EEN49801.1| hypothetical protein BRAFLDRAFT_121099 [Branchiostoma floridae]  E=0.0004 s/c=1.90 id=46% cov=50%
+---------------------------RRRRGLVEECCYNVCDYSQLESYCN
+>gi|157106585|ref|XP_001649390.1|(25-84:157) hypothetical protein AaeL_AAEL004547 [Aedes aegypti] >gi|108879809|gb|EAT44034.1| AAEL004547-PB [Aedes aegypti]  E=0.0008 s/c=0.77 id=35% cov=88%
+------CGKYLADRISDLCKARGGYsqltsveserrsHRRSKRGIVEECCHQSCTDTILMQYC-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	725	*	*	3437	*	2951	*	*	*	*	*	*	*	*	*	2529	1
+       0	*	*	*	*	*	*	2173	0	0	
+
+V 2    2086	*	5741	*	5155	*	*	4380	*	4027	*	*	2330	*	*	4496	*	1453	*	*	2
+       0	*	*	*	*	*	*	2346	0	0	
+
+N 3    5077	*	*	4391	*	4619	*	*	*	*	*	1181	*	*	5725	1319	5555	*	*	*	3
+       33	5446	*	1000	1000	*	*	2340	1000	0	
+
+Q 4    *	*	*	2247	*	*	*	*	5297	*	*	*	5498	925	2217	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2604	0	0	
+
+H 5    *	*	*	*	*	*	977	*	3903	*	*	*	*	*	2539	*	2203	*	*	4799	5
+       0	*	*	*	*	*	*	2670	0	0	
+
+L 6    *	*	*	*	4159	*	*	*	*	83	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2705	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2884	0	0	
+
+G 8    *	*	*	*	*	165	*	*	*	*	*	*	*	*	*	3209	*	*	*	*	8
+       0	*	*	*	*	*	*	2884	0	0	
+
+S 9    3508	*	*	*	*	3073	*	*	3776	5825	*	*	6198	*	3169	791	*	*	*	*	9
+       0	*	*	*	*	*	*	2884	0	0	
+
+H 10   *	*	5460	1849	*	*	1369	*	4785	*	*	3451	*	3647	*	3999	*	*	*	4556	10
+       0	*	*	*	*	*	*	2884	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2884	0	0	
+
+V 12   3492	*	*	*	*	*	*	4348	*	*	*	*	*	*	*	3209	*	408	*	*	12
+       0	*	*	*	*	*	*	2884	0	0	
+
+E 13   *	*	708	1701	*	*	5699	*	*	*	*	4037	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2884	0	0	
+
+A 14   578	*	5715	*	*	*	*	5845	*	*	*	*	*	*	4556	*	2288	4430	*	*	14
+       0	*	*	*	*	*	*	2884	0	0	
+
+L 15   *	*	*	*	*	*	*	4556	*	63	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2884	0	0	
+
+Y 16   4430	*	*	5715	4395	*	5313	*	*	5825	*	*	*	2080	*	4556	4348	*	*	954	16
+       37	5296	*	0	*	*	*	2884	1000	0	
+
+L 17   *	*	4556	4094	1848	*	*	5455	*	1145	4027	*	*	*	*	4411	*	4725	*	*	17
+       0	*	*	*	*	*	*	2884	0	0	
+
+V 18   4171	*	*	*	*	*	4348	2774	*	3349	5723	*	*	*	*	*	5121	729	*	*	18
+       0	*	*	*	*	*	*	2884	0	0	
+
+C 19   *	24	*	*	5941	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       34	*	5428	*	*	*	*	2884	0	0	
+
+G 20   5790	*	6645	4974	*	567	*	*	3485	*	*	*	*	6459	3140	4297	*	*	*	*	20
+       0	*	*	*	*	0	*	2873	0	1000	
+
+E 21   4253	*	1511	1445	*	4895	5256	*	*	*	*	3676	4357	*	5618	7025	*	6107	*	*	21
+       69	*	4430	*	*	*	*	2884	0	0	
+
+R 22   *	*	5080	*	*	*	*	*	3590	*	*	5027	*	*	334	5002	4947	*	*	*	22
+       0	*	*	*	*	0	*	2795	0	1000	
+
+G 23   *	*	*	*	*	34	*	*	*	*	*	5428	*	*	*	*	*	*	*	*	23
+       172	3774	4680	1915	445	*	*	2884	1354	0	
+
+F 24   *	*	*	*	332	3905	*	*	*	*	*	*	*	*	*	*	*	4683	*	3323	24
+       68	4816	6525	1585	585	0	*	2872	1210	1556	
+
+F 25   *	*	*	*	1170	*	*	5311	*	*	*	4429	*	*	*	3769	*	5498	*	1364	25
+       139	3844	5476	3277	157	0	*	2883	1536	1000	
+
+Y 26   5352	*	*	*	1965	*	4553	5097	*	*	*	*	*	*	5203	5602	5945	5836	*	821	26
+       94	4144	7213	3125	176	*	0	2873	1531	1266	
+
+T 27   6178	*	4669	*	*	*	4419	4114	*	6527	4780	3112	*	5752	2495	1758	2773	4823	*	7293	27
+       134	3491	*	3240	161	608	1541	2875	1868	1433	
+
+P 28   *	*	5920	*	*	4805	*	*	4204	*	*	3827	711	*	2645	4258	*	*	*	*	28
+       195	2986	*	4257	78	*	0	2886	2135	1000	
+
+K 29   *	*	4933	3647	*	*	4782	*	1925	*	6329	3527	2931	5314	2327	3213	5310	*	*	*	29
+       209	3019	6410	4816	52	0	*	2886	1761	1000	
+
+T 30   4381	*	2311	*	*	4704	5061	*	1856	*	6744	4120	5855	5292	4701	3289	2976	5135	*	*	30
+       639	2126	2960	3929	98	*	0	2888	2297	1000	
+
+X 31   5160	*	4532	*	*	5192	*	*	3381	5060	5763	*	2965	*	1141	4329	5299	3637	*	5637	31
+       113	3730	*	3908	99	0	*	2879	1921	1817	
+
+G 32   5314	*	*	*	*	169	*	*	*	*	*	*	*	*	4726	*	*	4390	*	*	32
+       63	4553	*	4654	58	*	*	2886	1500	0	
+
+I 33   *	*	*	6340	*	*	*	330	*	2634	*	*	5838	*	*	*	*	6198	*	*	33
+       0	*	*	*	*	*	*	2886	0	0	
+
+V 34   3946	*	*	*	*	*	6422	*	*	*	5838	*	*	*	*	*	*	142	*	*	34
+       0	*	*	*	*	*	*	2886	0	0	
+
+E 35   *	*	1537	730	*	*	*	*	*	*	*	5698	*	4902	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2886	0	0	
+
+Q 36   4350	*	6340	1208	*	*	6561	*	5829	*	*	*	*	1173	5314	*	*	6839	*	*	36
+       0	*	*	*	*	*	*	2886	0	0	
+
+C 37   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2885	0	0	
+
+C 38   *	41	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5149	*	*	*	38
+       0	*	*	*	*	*	*	2885	0	0	
+
+T 39   *	*	5931	4005	2209	*	1921	5426	4084	5953	*	4582	*	*	*	5149	3252	5713	*	2750	39
+       0	*	*	*	*	*	*	2885	0	0	
+
+S 40   *	5856	*	*	*	3616	3228	*	3058	*	*	2087	*	2830	2410	3413	5931	*	*	*	40
+       0	*	*	*	*	*	*	2885	0	0	
+
+I 41   5911	*	*	4332	*	4439	*	2539	6054	*	*	5694	2377	4255	5535	2007	2884	5035	*	*	41
+       0	*	*	*	*	*	*	2885	0	0	
+
+C 42   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2885	0	0	
+
+S 43   *	*	2531	4287	*	*	*	*	*	*	*	3161	*	*	*	1432	1770	*	*	*	43
+       0	*	*	*	*	*	*	2885	0	0	
+
+L 44   6765	*	4556	4332	4804	*	*	2543	7236	1212	6746	*	4389	*	5108	6540	4931	5287	*	3357	44
+       0	*	*	*	*	*	*	2885	0	0	
+
+Y 45   3834	*	*	4017	2916	5824	3891	6967	5918	5363	6976	2880	*	5645	3843	5466	4325	*	7008	1796	45
+       0	*	*	*	*	*	*	2872	0	0	
+
+Q 46   *	*	2453	3388	*	*	3249	3678	*	3423	5824	6708	*	1537	3764	*	*	*	*	*	46
+       42	*	5138	*	*	*	*	2872	0	0	
+
+L 47   *	*	*	*	*	*	*	*	*	127	4179	*	5863	6394	*	*	*	*	*	*	47
+       0	*	*	*	*	0	*	2862	0	1000	
+
+E 48   *	*	4284	744	*	*	*	*	4387	4593	4552	5667	*	2628	4714	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2872	0	0	
+
+N 49   3933	*	5578	*	*	5245	5782	*	5843	5645	3337	1705	*	2766	3103	3462	3798	*	*	*	49
+       0	*	*	*	*	*	*	2872	0	0	
+
+Y 50   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	50
+       0	*	*	*	*	*	*	2872	0	0	
+
+C 51   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2872	0	0	
+
+N 52   *	*	3779	*	*	*	*	*	*	*	*	147	*	*	*	5370	*	*	*	*	52
+       0	*	*	0	*	*	*	2228	0	0	
+
+//

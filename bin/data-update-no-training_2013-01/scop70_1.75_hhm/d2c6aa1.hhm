@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d2c6aa1 g.41.11.1 (A:290-335) MDM2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.41.11.1
+FILE  d2c6aa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2c6aa1.a3m -v 1 
+DATE  Tue Jan 22 05:54:45 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  44 out of 46 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEECCCCCCCCCCCCCCHHHHHHCCCCCCCCCCC
+>ss_conf
+9877667680206106678864878721101333203677865559
+>Consensus
+sxdxDxEisxxDxWkCxxCxxxNxPlxryCxrCWxlRxxWlpxxkx
+>d2c6aa1 g.41.11.1 (A:290-335) MDM2 {Human (Homo sapiens) [TaxId: 9606]}
+SFEEDPEISLADYWKCTSCNEMNPPLPSHCNRCWALRENWLPEDKG
+>gi|148688490|gb|EDL20437.1|(207-249:406) mCG1033159 [Mus musculus]   E=7e-09 s/c=1.48 id=43% cov=96%
+SEDTDMELTSADEWQCTECKKFNSPSKRYCFRCWALRKDWYSD---
+>gi|390364258|ref|XP_003730559.1|(492-534:569) PREDICTED: E3 ubiquitin-protein ligase Mdm2-like [Strongylocentrotus purpuratus]  E=2e-12 s/c=1.75 id=40% cov=91%
+---TDSEIPEEDKWKCAECSQVNNPMHGYCSFCWARRSGWLADE--
+>gi|196002537|ref|XP_002111136.1|(266-307:458) hypothetical protein TRIADDRAFT_54791 [Trichoplax adhaerens] >gi|190587087|gb|EDV27140.1| hypothetical protein TRIADDRAFT_54791 [Trichoplax adhaerens]  E=3e-12 s/c=1.77 id=51% cov=93%
+--DDDPEIGEKDHWKCLYCQQLNNPIARNCAFCWKLRENWLPSD--
+>gi|405969795|gb|EKC34746.1|(371-414:531) Protein Mdm4 [Crassostrea gigas]   E=1e-10 s/c=1.57 id=42% cov=93%
+--ESDTEWNEADHWAC-ECGTKNKPPQRHCIYCWKIRPGWLAEKR-
+>gi|198417133|ref|XP_002126028.1|(218-253:404) PREDICTED: similar to E3 ubiquitin-protein ligase Mdm2 (p53-binding protein Mdm2) (Oncoprotein Mdm2) (Double minute 2 protein) [Ciona intestinalis]  E=6e-06 s/c=1.48 id=38% cov=80%
+----DSDITLEELWSCPECKTRNSPKVGFCQGCWKLRGGW------
+>gi|170052541|ref|XP_001862268.1|(56-94:337) conserved hypothetical protein [Culex quinquefasciatus] >gi|167873423|gb|EDS36806.1| conserved hypothetical protein [Culex quinquefasciatus]  E=0.0002 s/c=1.24 id=42% cov=72%
+----DNDFTPADYWKCVKCkNKQNNPMYRYCEKCYQL----------
+>gi|291238317|ref|XP_002739076.1|(421-456:868) PREDICTED: predicted protein-like [Saccoglossus kowalevskii]   E=7e-10 s/c=1.84 id=44% cov=78%
+--------TDKDKWMCTKCDVANSPLVRYCVKCCSLREGWLPD---
+>gi|332330311|gb|AEE43922.1|(98-140:328) MDM2-like protein [Bombyx mori]   E=5e-09 s/c=1.48 id=40% cov=93%
+SQDSDSEIDLYDFWHCIKCRaENNVPFYRYCQKCFQVRKNFFP----
+>gi|321463092|gb|EFX74110.1|(144-176:317) hypothetical protein DAPPUDRAFT_252193 [Daphnia pulex]   E=2e-06 s/c=1.67 id=41% cov=74%
+--------SLEDRWKCLRCGVHNVPPMRYCHKCYEIRKGWL-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    4676	*	*	*	*	*	*	*	*	*	*	*	*	*	*	58	*	*	*	*	1
+       0	*	*	*	*	*	*	2332	0	0	
+
+F 2    *	*	1704	3747	957	*	*	*	*	*	*	*	*	3274	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2332	0	0	
+
+E 3    *	*	368	2346	*	*	*	*	*	*	*	5145	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2565	0	0	
+
+E 4    *	*	3330	1966	*	5500	*	4871	*	*	*	*	*	*	*	2811	1308	4574	*	*	4
+       0	*	*	*	*	*	*	2759	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2941	0	0	
+
+P 6    *	*	*	*	*	*	*	4174	*	5161	5536	3978	1963	*	*	2136	1605	5726	*	*	6
+       0	*	*	*	*	*	*	2912	0	0	
+
+E 7    4607	*	3180	288	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5089	7
+       0	*	*	*	*	*	*	2950	0	0	
+
+I 8    4835	*	*	*	4661	*	*	539	*	5560	*	*	*	5472	*	*	5089	3110	4378	*	8
+       0	*	*	*	*	*	*	2950	0	0	
+
+S 9    3859	*	4173	5472	*	3793	*	*	*	*	5120	4145	4785	*	*	1338	1922	*	*	*	9
+       0	*	*	*	*	*	*	3125	0	0	
+
+L 10   5312	*	3573	1962	*	*	*	*	5120	1622	*	*	4254	*	*	2861	3467	*	*	*	10
+       0	*	*	*	*	*	*	3125	0	0	
+
+A 11   1567	*	*	1720	*	5621	*	*	3079	5488	*	*	4758	3583	*	*	*	5245	*	4285	11
+       25	5881	*	2585	263	*	*	3140	1000	0	
+
+D 12   *	*	180	3925	*	*	*	*	*	*	*	*	*	*	*	4281	*	*	*	*	12
+       76	*	4281	*	*	*	*	3119	0	0	
+
+Y 13   3902	3762	*	4406	4404	4794	3664	*	3773	3492	*	*	*	*	4656	*	*	*	*	1157	13
+       0	*	*	*	*	0	*	3073	0	1000	
+
+W 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	14
+       0	*	*	*	*	*	*	3218	0	0	
+
+K 15   4812	*	*	4810	*	*	4411	*	1040	5158	4904	*	*	2409	3850	4518	4932	*	*	*	15
+       0	*	*	*	*	*	*	3218	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       52	*	4812	*	*	*	*	3218	0	0	
+
+T 17   3555	*	*	5238	*	*	*	4377	*	3298	*	*	3057	*	4752	3386	1238	4019	*	*	17
+       0	*	*	*	*	0	*	3176	0	1000	
+
+S 18   *	*	*	1840	*	*	4407	*	1407	4810	*	5258	*	*	4643	2654	*	*	*	4801	18
+       0	*	*	*	*	*	*	3218	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       65	4495	*	0	*	*	*	3218	1055	0	
+
+N 20   *	*	2658	3613	*	2414	3989	*	2932	*	*	2579	*	4801	2963	4417	*	*	*	*	20
+       113	3736	*	0	*	*	*	3218	1297	0	
+
+E 21   *	*	*	1534	*	*	*	*	1673	*	*	*	*	3445	*	*	2509	3767	*	*	21
+       0	*	*	*	*	*	*	3218	0	0	
+
+M 22   4904	*	4217	*	2380	*	4643	4741	3871	2927	2637	3736	*	3644	4518	*	5813	4370	*	5801	22
+       0	*	*	*	*	*	*	3218	0	0	
+
+N 23   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3218	0	0	
+
+P 24   *	*	*	*	*	*	*	*	4812	*	*	2813	1373	*	*	2018	3293	3522	*	*	24
+       0	*	*	*	*	*	*	3218	0	0	
+
+P 25   *	*	*	*	*	*	*	*	*	*	*	*	80	*	*	4217	*	*	*	*	25
+       0	*	*	*	*	*	*	3218	0	0	
+
+L 26   *	*	*	*	4411	5090	*	4253	4518	920	3672	*	3725	4217	*	4152	*	4839	*	*	26
+       0	*	*	*	*	*	*	3218	0	0	
+
+P 27   4801	*	*	*	*	*	3287	*	2389	*	4643	*	1727	3294	*	*	*	3220	*	3066	27
+       0	*	*	*	*	*	*	3218	0	0	
+
+S 28   *	*	*	*	*	3178	*	*	*	*	*	*	3768	4217	694	2796	*	*	*	*	28
+       0	*	*	*	*	*	*	3218	0	0	
+
+H 29   *	*	*	*	4518	*	1801	*	*	*	*	3474	*	*	*	*	*	*	*	787	29
+       0	*	*	*	*	*	*	3218	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3218	0	0	
+
+N 31   4801	*	*	3789	3814	4932	2823	3905	4862	3222	5856	3653	4467	2799	*	4269	*	4284	*	4337	31
+       0	*	*	*	*	*	*	3218	0	0	
+
+R 32   *	*	*	*	3838	4518	4932	*	2513	*	*	*	*	3573	897	5516	*	*	*	4812	32
+       0	*	*	*	*	*	*	3218	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3218	0	0	
+
+W 34   *	4904	*	*	3736	*	*	*	4932	*	*	*	*	*	*	*	*	*	369	3567	34
+       0	*	*	*	*	*	*	3218	0	0	
+
+A 35   1275	*	5597	4643	5258	*	*	*	2241	*	*	*	*	3452	*	4415	3062	5047	*	*	35
+       0	*	*	*	*	*	*	3218	0	0	
+
+L 36   5378	*	*	*	*	*	*	3725	*	596	*	*	*	*	3842	*	*	2563	*	*	36
+       0	*	*	*	*	*	*	3218	0	0	
+
+R 37   *	*	*	*	*	*	*	*	*	*	*	*	*	4996	46	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3216	0	0	
+
+E 38   5504	5833	*	1929	4782	3355	*	*	1336	*	*	*	3866	5584	4533	4837	*	*	*	*	38
+       0	*	*	*	*	*	*	3216	0	0	
+
+N 39   *	*	1740	*	*	1740	*	*	*	*	*	1499	*	*	*	4395	*	*	*	*	39
+       0	*	*	*	*	*	*	3216	0	0	
+
+W 40   *	5037	*	*	4373	*	*	*	*	4091	*	*	*	*	*	*	*	*	213	*	40
+       0	*	*	*	*	*	*	3216	0	0	
+
+L 41   *	*	*	*	2752	*	*	*	*	546	*	*	*	*	*	*	*	*	*	2586	41
+       0	*	*	*	*	*	*	3018	0	0	
+
+P 42   3420	*	*	*	*	*	*	*	4097	*	*	*	516	*	*	2748	*	*	*	*	42
+       0	*	*	*	*	*	*	2960	0	0	
+
+E 43   *	*	1111	1237	*	*	*	*	4056	*	*	*	*	*	*	4250	*	*	*	*	43
+       0	*	*	*	*	*	*	2731	0	0	
+
+D 44   *	*	1692	1665	*	4585	*	*	2259	*	*	*	*	4542	3615	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2332	0	0	
+
+K 45   *	*	*	*	*	*	*	*	623	*	*	*	*	2836	2247	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2134	0	0	
+
+G 46   1798	*	*	*	*	489	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	0	*	*	*	1431	0	0	
+
+//

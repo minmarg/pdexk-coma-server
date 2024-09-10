@@ -1,0 +1,192 @@
+HHsearch 1.5
+NAME  d2bj7a1 a.43.1.3 (A:1-50) Nickel responsive regulator NikR, N-terminal domain {Archaeon Pyrococcus horikoshii [TaxId: 53953]}
+FAM   a.43.1.3
+FILE  d2bj7a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2bj7a1.a3m -v 1 
+DATE  Tue Jan 22 06:03:49 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  102 out of 366 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.1 
+SEQ
+>ss_pred
+CCEEEEEEECCHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+96046663358899999999998648997768999999999999874139
+>Consensus
+mxmxRisvslpxxLlxxlDxxvxxxgyxsRSEaIRdxiRxxlxxxxwxxG
+>d2bj7a1 a.43.1.3 (A:1-50) Nickel responsive regulator NikR, N-terminal domain {Archaeon Pyrococcus horikoshii [TaxId: 53953]}
+MELIRFSISIPSKLLEKFDQIIEEIGYENRSEAIRDLIRDFIIRHEWEVG
+>gi|258542489|ref|YP_003187922.1|(9-53:159) CopG family transcriptional regulator [Acetobacter pasteurianus IFO 3283-01] >gi|384042410|ref|YP_005481154.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-12] >gi|384050927|ref|YP_005477990.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-03] >gi|384054035|ref|YP_005487129.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-07] >gi|384057269|ref|YP_005489936.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-22] >gi|384059910|ref|YP_005499038.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-26] >gi|384063202|ref|YP_005483844.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-32] >gi|421849672|ref|ZP_16282648.1| transcriptional regulator CopG [Acetobacter pasteurianus NBRC 101655] >gi|421853445|ref|ZP_16286118.1| transcriptional regulator CopG [Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471] >gi|256633567|dbj|BAH99542.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-01] >gi|256636626|dbj|BAI02595.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-03] >gi|256639679|dbj|BAI05641.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-07] >gi|256642735|dbj|BAI08690.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-22] >gi|256645790|dbj|BAI11738.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-26] >gi|256648843|dbj|BAI14784.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-32] >gi|256654887|dbj|BAI20814.1| transcriptional regulator CopG [Acetobacter pasteurianus IFO 3283-12] >gi|371459508|dbj|GAB27851.1| transcriptional regulator CopG [Acetobacter pasteurianus NBRC 101655] >gi|371478313|dbj|GAB31321.1| transcriptional regulator CopG [Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471]  E=6e-07 s/c=1.26 id=28% cov=92%
+-QVSRISVSLPPGILHELDAMVAEKGYASRSQAIQNILHQELMASR----
+>gi|408381525|ref|ZP_11179074.1|(1-45:45) nickel responsive regulator [Methanobacterium formicicum DSM 3637] >gi|407815992|gb|EKF86555.1| nickel responsive regulator [Methanobacterium formicicum DSM 3637]  E=1e-05 s/c=1.16 id=28% cov=92%
+---MRICMTLPDKLIDELDEVFKNEGYSVRSKGITDVLNNYVHSHKTE--
+>gi|374328183|ref|YP_005086383.1|(34-82:97) CopG family transcriptional regulator [Pyrobaculum sp. 1860] >gi|356643452|gb|AET34131.1| putative transcriptional regulator, CopG family [Pyrobaculum sp. 1860]  E=0.001 s/c=0.94 id=24% cov=100%
+VPLERVSLRLPSELIMRIDRLVERGLFKSRSQLIKHALREMLKEPRFQE-
+>gi|406965092|gb|EKD90766.1|(1-41:96) hypothetical protein ACD_30C00092G0034 [uncultured bacterium]   E=2e-05 s/c=1.26 id=26% cov=84%
+--MTTVTISLPDEVAKRVDVEAKKKGFATRSEFVRSLLREHFT-------
+>gi|118576248|ref|YP_875991.1|(8-52:131) transcriptional regulator [Cenarchaeum symbiosum A] >gi|118194769|gb|ABK77687.1| transcriptional regulator [Cenarchaeum symbiosum A]  E=6e-05 s/c=1.12 id=30% cov=92%
+-----ISVSLNSEMIRELDKLQESLGFTGRSEIVRAGIRTFVQEEKQKQG
+>gi|406961373|gb|EKD88115.1|(1-46:80) hypothetical protein ACD_35C00051G0003 [uncultured bacterium]   E=0.0004 s/c=1.03 id=28% cov=94%
+MATAKIAISIEEDVLSRLDLLVKSHTFPNRSKAIQEAIKEKLNKIE----
+>gi|126464919|ref|YP_001040028.1|(5-49:134) CopG family transcriptional regulator [Staphylothermus marinus F1] >gi|126013742|gb|ABN69120.1| putative transcriptional regulator, CopG family [Staphylothermus marinus F1]  E=0.0008 s/c=1.03 id=28% cov=92%
+---VKFGIYLPEDLARELGECMKITGIRKRSKIIQEALRLFIVEHRWK--
+>gi|406933287|gb|EKD67983.1|(1-42:97) hypothetical protein ACD_48C00122G0001 [uncultured bacterium]   E=0.001 s/c=1.10 id=26% cov=86%
+MNTTTVNISLPTSLYADMKKTVSKRRYTSVSELIREAVRNWL--------
+>gi|284161475|ref|YP_003400098.1|(1-43:57) CopG family transcriptional regulator [Archaeoglobus profundus DSM 5631] >gi|284011472|gb|ADB57425.1| putative transcriptional regulators, CopG/Arc/MetJ family [Archaeoglobus profundus DSM 5631]  E=0.0006 s/c=1.09 id=27% cov=88%
+--MKKISVRLTDQHYEMLETLVAIGEYASVSEAIRDAIRKLIAEK-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	214	*	*	*	*	*	*	2861	*	*	1
+       0	*	*	*	*	*	*	3215	0	0	
+
+E 2    4911	*	2287	2017	*	*	*	*	2309	*	*	4314	2757	3807	*	5514	5552	*	*	*	2
+       0	*	*	*	*	*	*	4628	0	0	
+
+L 3    *	*	*	*	5969	*	*	5606	*	1574	1358	*	*	*	*	*	3101	3050	*	*	3
+       0	*	*	*	*	*	*	5008	0	0	
+
+I 4    3101	*	5294	3409	*	*	*	3551	3154	*	3956	*	*	3620	6466	3588	3674	2130	*	5710	4
+       0	*	*	*	*	*	*	5113	0	0	
+
+R 5    *	*	*	*	*	*	*	*	3004	4856	*	*	*	*	514	*	3490	4274	*	*	5
+       25	5878	*	0	*	*	*	5090	1000	0	
+
+F 6    *	*	*	*	2006	*	*	1649	*	4263	6186	*	*	*	*	*	4031	1762	6591	*	6
+       0	*	*	*	*	*	*	5122	0	0	
+
+S 7    5655	5720	6325	*	*	2810	*	*	*	6355	6400	4027	*	*	*	1026	2189	6589	*	*	7
+       0	*	*	*	*	*	*	5179	0	0	
+
+I 8    6363	*	*	*	3972	*	*	1592	*	3123	4170	*	*	*	*	*	*	1245	*	*	8
+       0	*	*	*	*	*	*	5154	0	0	
+
+S 9    3669	*	6397	*	*	*	4108	*	3972	*	*	6506	*	*	3818	927	2633	*	*	5738	9
+       0	*	*	*	*	*	*	5154	0	0	
+
+I 10   6429	*	*	*	6294	*	*	2446	*	949	2989	*	*	*	*	*	*	2755	*	*	10
+       0	*	*	*	*	*	*	5154	0	0	
+
+P 11   *	*	2974	3207	*	6283	*	*	*	*	*	4912	602	6484	*	6256	4820	*	*	*	11
+       0	*	*	*	*	*	*	5154	0	0	
+
+S 12   4579	*	2070	1928	*	4882	6400	*	2963	6545	*	5459	4355	4774	4731	3800	4766	5780	*	*	12
+       0	*	*	*	*	*	*	5154	0	0	
+
+K 13   4442	*	2448	2497	6294	4093	6503	*	3882	6779	*	3753	5268	3570	5144	2615	4436	*	*	6356	13
+       0	*	*	*	*	*	*	5154	0	0	
+
+L 14   5707	*	*	*	5222	*	6290	4164	*	477	4262	*	*	4651	*	*	5686	5810	*	4718	14
+       0	*	*	*	*	*	*	5154	0	0	
+
+L 15   2744	*	*	*	5400	*	*	3097	4743	1083	4392	*	*	*	*	*	5927	3423	*	4524	15
+       0	*	*	*	*	*	*	5154	0	0	
+
+E 16   3523	*	2273	1938	*	5175	4906	*	3541	*	6026	4366	6545	3692	4437	3499	*	6421	*	*	16
+       0	*	*	*	*	*	*	5154	0	0	
+
+K 17   3136	*	4272	1587	4901	4342	5777	*	3123	5573	6290	*	*	3706	2913	5767	5368	*	*	*	17
+       0	*	*	*	*	*	*	5154	0	0	
+
+F 18   6626	*	*	*	1973	*	*	2456	*	1320	4075	*	*	*	*	*	*	3426	*	*	18
+       0	*	*	*	*	*	*	5154	0	0	
+
+D 19   *	*	397	2605	*	5238	*	*	6183	*	*	5714	*	*	*	*	*	5886	*	*	19
+       0	*	*	*	*	*	*	5154	0	0	
+
+Q 20   3015	*	4328	1934	*	4894	6344	*	3310	5222	*	6294	*	3004	2710	4285	4669	*	*	6584	20
+       0	*	*	*	*	*	*	5154	0	0	
+
+I 21   6626	5063	6177	5680	3220	*	5377	3423	5281	2010	3357	*	*	4807	3833	6398	3920	4096	4962	4161	21
+       15	*	6626	*	*	*	*	5154	0	0	
+
+I 22   3230	6632	*	*	5125	*	*	2829	*	3235	3751	*	*	4741	6278	6668	5921	1405	4138	5469	22
+       18	*	6370	*	*	0	*	5154	0	1000	
+
+E 23   2433	*	4641	2439	6500	6392	5099	6951	1942	6172	*	6316	*	3879	4874	4042	4407	4907	*	*	23
+       0	*	*	*	*	0	*	5150	0	1000	
+
+E 24   4504	*	3866	2221	*	6630	5302	4516	2911	5092	5772	4799	*	3155	3371	3169	4671	6400	*	7392	24
+       0	*	*	*	*	*	*	5154	0	0	
+
+I 25   4773	*	5577	3501	*	2848	3632	7458	3079	3731	*	4078	*	3566	2411	4461	5128	6280	5904	*	25
+       0	*	*	*	*	*	*	5154	0	0	
+
+G 26   5697	6400	4349	4056	6363	806	4980	6945	*	4434	*	4041	*	5354	4886	6643	5006	6321	*	5895	26
+       40	*	5195	*	*	*	*	5154	0	0	
+
+Y 27   6539	6290	6334	*	2209	*	6999	5623	*	4093	5512	*	*	*	*	6341	*	6560	*	698	27
+       0	*	*	*	*	0	*	5039	0	1957	
+
+E 28   2443	*	5638	4049	6626	4350	6095	6602	4299	*	*	5281	2384	4194	4082	2511	3635	6172	*	*	28
+       9	7359	*	0	*	*	*	5154	1000	0	
+
+N 29   *	*	5449	*	*	3634	*	*	5738	*	*	1408	*	*	*	1223	4206	5775	*	*	29
+       0	*	*	*	*	*	*	5154	0	0	
+
+R 30   *	*	*	*	*	*	*	5886	6280	*	*	*	*	6292	162	5340	*	4673	*	*	30
+       0	*	*	*	*	*	*	5154	0	0	
+
+S 31   5593	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30	*	*	*	*	31
+       0	*	*	*	*	*	*	5154	0	0	
+
+E 32   6321	*	5817	593	*	*	*	6256	3198	6325	*	6344	*	2866	5444	*	*	*	*	*	32
+       0	*	*	*	*	*	*	5154	0	0	
+
+A 33   1067	5210	*	*	3318	3817	*	3909	*	3172	5336	*	*	*	*	*	6681	3917	*	4435	33
+       0	*	*	*	*	*	*	5154	0	0	
+
+I 34   *	*	*	*	4005	*	*	680	*	3346	4921	*	*	*	*	*	*	2456	*	*	34
+       0	*	*	*	*	*	*	5154	0	0	
+
+R 35   4935	6872	*	*	*	*	*	*	5098	*	*	*	*	4310	361	6294	4368	5041	*	6836	35
+       0	*	*	*	*	*	*	5154	0	0	
+
+D 36   3775	*	1192	2066	6564	5293	6756	5860	*	*	5593	6566	*	4158	6695	4709	4797	*	6807	7004	36
+       0	*	*	*	*	*	*	5154	0	0	
+
+L 37   1191	*	*	*	*	4408	*	4517	*	1565	3453	*	*	*	*	6403	6405	5775	*	*	37
+       0	*	*	*	*	*	*	5154	0	0	
+
+I 38   5465	*	*	*	6177	*	*	1589	*	1553	3681	*	*	*	*	*	6660	2304	*	*	38
+       19	6268	*	2000	415	*	*	5154	1000	0	
+
+R 39   6393	*	*	5105	*	*	4824	4831	4115	*	*	4142	*	6606	388	*	*	*	*	*	39
+       0	*	*	*	*	*	*	5305	0	0	
+
+D 40   4767	*	2195	2240	*	*	6462	*	3518	3619	6483	3312	*	4148	3854	3656	4778	*	*	*	40
+       0	*	*	*	*	*	*	5305	0	0	
+
+F 41   3635	*	5633	4039	2533	4998	4329	*	4391	2833	4579	6592	*	4583	4668	4919	6915	*	4760	2433	41
+       17	6421	*	2322	322	*	*	5308	1000	0	
+
+I 42   5191	*	*	*	4749	*	*	1705	*	1051	*	*	*	5302	*	*	*	3050	*	*	42
+       0	*	*	*	*	*	*	5308	0	0	
+
+I 43   2494	*	5457	3480	6595	6451	4935	3969	4035	4171	6427	4891	*	4093	4821	4972	2831	2691	*	6834	43
+       0	*	*	*	*	*	*	5250	0	0	
+
+R 44   4031	*	4426	1461	5550	*	6403	*	3541	*	*	5715	*	3189	2469	4618	5004	*	*	5118	44
+       0	*	*	*	*	*	*	5246	0	0	
+
+H 45   5007	*	3191	2672	5389	*	2703	4781	3151	5250	6283	3761	6392	3980	5203	4385	5626	*	*	3431	45
+       0	*	*	*	*	*	*	5242	0	0	
+
+E 46   4058	*	5962	2009	*	*	6397	*	1877	4916	*	*	*	3424	2821	4326	4004	6443	*	*	46
+       0	*	*	*	*	*	*	5153	0	0	
+
+W 47   4201	5970	*	*	5260	5525	*	*	*	3198	*	*	*	5025	3459	5317	5030	*	748	*	47
+       0	*	*	*	*	*	*	4886	0	0	
+
+E 48   4749	*	4031	1384	*	5186	*	*	2878	*	*	5132	*	2338	4168	4988	4593	*	*	*	48
+       0	*	*	*	*	*	*	4881	0	0	
+
+V 49   3272	*	3925	1331	*	5360	*	*	4134	4999	*	4534	*	3003	3585	4257	*	5872	*	*	49
+       0	*	*	*	*	*	*	4779	0	0	
+
+G 50   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	0	*	*	*	3965	0	0	
+
+//

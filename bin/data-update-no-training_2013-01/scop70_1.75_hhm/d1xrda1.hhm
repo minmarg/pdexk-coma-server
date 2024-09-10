@@ -1,0 +1,196 @@
+HHsearch 1.5
+NAME  d1xrda1 f.3.1.1 (A:1-52) Light-harvesting complex subunits {Rhodospirillum rubrum [TaxId: 1085]}
+FAM   f.3.1.1
+FILE  d1xrda1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xrda1.a3m -v 1 
+DATE  Tue Jan 22 04:34:08 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  77 out of 79 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCEEEEEECHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+>ss_conf
+9101002462789999999999999999998744887664457767532249
+>Consensus
+MxkiWxxfDPRrxlvalxxFLxvLAlxIHfilLStxxfNWlxgxxxxxxxxs
+>d1xrda1 f.3.1.1 (A:1-52) Light-harvesting complex subunits {Rhodospirillum rubrum [TaxId: 1085]}
+MWRIWQLFDPRQALVGLATFLFVLALLIHFILLSTERFNWLEGASTKPVQTS
+>gi|21328599|gb|AAM48606.1|(1-48:60) light-harvesting protein, alpha chain [uncultured marine proteobacterium]  E=1e-07 s/c=1.24 id=53% cov=94%
+MSRIWMIFDPRRVLVAQGVFLFSVAVLIHFVLLSSEKYNWLVEFDAAP----
+>gi|126260|sp|P04123.3|LHA_RHOVI(10-60:69) RecName: Full=Light-harvesting protein B-1015 alpha chain; AltName: Full=Antenna pigment protein alpha chain; Flags: Precursor >gi|151881|gb|AAA64256.1| light harvesting complex alpha-subunit [Blastochloris viridis] >gi|218527108|gb|ACK86661.1| light harvesting complex 1 alpha-apoprotein [Blastochloris viridis] >gi|307827426|gb|ADN94687.1| light harvesting complex 1 alpha-apoprotein [Blastochloris viridis]  E=3e-05 s/c=1.01 id=48% cov=100%
+-WKLWLILDPRRVLTALFVYLTVIALLIHFGLLSTDRLNWWEFQRGLPKAAS
+>gi|344338443|ref|ZP_08769375.1|(7-58:70) antenna complex alpha/beta subunit [Thiocapsa marina 5811] >gi|343801725|gb|EGV19667.1| antenna complex alpha/beta subunit [Thiocapsa marina 5811]  E=3e-07 s/c=1.11 id=50% cov=100%
+LWKIWLIMNPRPILIALFGFLLVLALGIHLVLLSTADFNWLEdGIPAKSAVS-
+>gi|30313698|gb|AAO47394.1|(1-51:63) light-harvesting 1 antenna complex alpha subunit 2 [Lamprocystis purpurea]  E=3e-07 s/c=1.14 id=53% cov=94%
+MHRIWQWFDPRRALMALFSFLFVLALVIHFILLMSPGYSWVSATKAQA----
+>gi|345869988|ref|ZP_08821943.1|(1-53:62) antenna complex alpha/beta subunit [Thiorhodococcus drewsii AZ1] >gi|343922375|gb|EGV33077.1| antenna complex alpha/beta subunit [Thiorhodococcus drewsii AZ1]  E=3e-07 s/c=1.09 id=43% cov=102%
+MHKIWLVFDPRMAIMGLAAFLLVLAFAIHYILMvSSSYYDFLQGPPISAEAAA
+>gi|381159894|ref|ZP_09869126.1|(9-47:86) Antenna complex alpha/beta subunit [Thiorhodovibrio sp. 970] >gi|343176905|gb|AEM00421.1| alpha subunit 2 of light-harvesting 1 complex [Thiorhodovibrio sp. 970] >gi|380877958|gb|EIC20050.1| Antenna complex alpha/beta subunit [Thiorhodovibrio sp. 970]  E=3e-05 s/c=1.31 id=38% cov=77%
+MYKLWTFIDPRRTLIFIVAFQIMLGILIHMIVLGSD-LNW------------
+>gi|462508|sp|P80103.1|LHA2_ECTHL(1-50:65) RecName: Full=Light-harvesting protein B800/830/1020 alpha-2 chain; AltName: Full=Antenna pigment protein alpha-2 chain; AltName: Full=EHS-alpha-2  E=2e-08 s/c=1.24 id=44% cov=92%
+MWKLWKFVDFRMTAVGFHIFFALIAFAVHFACISSERFNWLEGAPAA-----
+>gi|288942249|ref|YP_003444489.1|(5-56:66) antenna complex subunit alpha/beta [Allochromatium vinosum DSM 180] >gi|13873323|dbj|BAB44149.1| 3rd alpha subunit of light-harvesting 1 complex [Allochromatium vinosum] >gi|288897621|gb|ADC63457.1| antenna complex alpha/beta subunit [Allochromatium vinosum DSM 180]  E=1e-07 s/c=1.14 id=51% cov=102%
+LYKIWLAFDPRMALIGLGAFLFALALFIHYMLLRSPEFDWLLGPDYAPVTLS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	2678	245	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2546	0	0	
+
+W 2    *	*	*	*	*	5683	2178	*	*	*	*	*	*	*	*	5450	*	*	1111	1870	2
+       0	*	*	*	*	*	*	2658	0	0	
+
+R 3    *	*	*	*	*	*	*	*	654	*	*	*	*	5691	1625	5592	*	*	*	*	3
+       0	*	*	*	*	*	*	2661	0	0	
+
+I 4    *	*	*	*	*	*	*	788	*	2683	3009	*	*	*	*	*	*	2827	*	*	4
+       0	*	*	*	*	*	*	2661	0	0	
+
+W 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	5
+       0	*	*	*	*	*	*	2661	0	0	
+
+Q 6    *	*	*	*	*	*	5855	*	2879	979	3001	*	*	3102	4236	*	4475	*	*	*	6
+       0	*	*	*	*	*	*	2659	0	0	
+
+L 7    5314	*	*	*	3297	*	4727	1791	*	1607	4726	*	*	*	*	5691	5670	3282	5238	6385	7
+       0	*	*	*	*	*	*	2658	0	0	
+
+F 8    *	*	*	*	500	*	*	3770	*	3822	5098	*	*	*	*	*	*	3615	*	4706	8
+       0	*	*	*	*	*	*	2658	0	0	
+
+D 9    *	*	89	*	*	*	*	*	*	*	*	4064	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2658	0	0	
+
+P 10   *	*	*	*	4074	5691	*	*	*	*	*	*	228	*	*	*	*	4727	*	5070	10
+       0	*	*	*	*	*	*	2658	0	0	
+
+R 11   5521	*	*	*	*	*	*	*	*	5366	5945	5691	*	*	123	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2658	0	0	
+
+Q 12   *	*	*	*	*	5670	*	*	5099	*	3033	*	5765	5098	397	5515	*	*	*	*	12
+       0	*	*	*	*	*	*	2658	0	0	
+
+A 13   1853	*	*	*	*	*	*	3282	*	*	*	*	*	*	*	6245	1820	1626	*	*	13
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 14   4074	*	*	*	3514	*	*	4732	*	424	4626	*	*	*	*	*	*	5070	*	*	14
+       0	*	*	*	*	*	*	2658	0	0	
+
+V 15   *	*	*	*	*	*	*	2432	*	5576	3963	*	*	*	*	6188	3304	702	*	*	15
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 16   617	*	*	*	4562	2295	*	*	*	3794	*	*	*	*	*	5902	*	6236	*	*	16
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 17   5070	*	*	*	4074	*	*	3450	*	834	*	5502	*	2381	*	*	4979	6299	*	*	17
+       0	*	*	*	*	*	*	2658	0	0	
+
+A 18   2268	*	*	*	1611	2003	2978	*	*	6473	*	*	*	*	*	5112	6588	4714	*	*	18
+       0	*	*	*	*	*	*	2658	0	0	
+
+T 19   2081	*	*	*	*	4022	*	2920	*	*	*	*	*	*	*	3872	3110	1374	*	*	19
+       0	*	*	*	*	*	*	2658	0	0	
+
+F 20   *	*	*	*	215	3888	*	*	*	*	*	*	*	*	*	*	*	*	4422	5369	20
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 21   *	*	*	*	4074	*	*	*	*	269	5070	*	*	3629	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2658	0	0	
+
+F 22   2660	*	*	*	1159	*	*	2912	*	3100	6245	*	*	*	*	*	3320	5007	*	*	22
+       0	*	*	*	*	*	*	2658	0	0	
+
+V 23   4357	*	*	*	*	3763	*	3971	*	2267	5548	*	*	*	*	4617	4327	1017	*	*	23
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 24   *	*	*	*	*	*	*	3116	*	227	*	*	*	*	*	*	*	5042	*	*	24
+       0	*	*	*	*	*	*	2658	0	0	
+
+A 25   243	*	*	*	*	2691	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 26   3523	*	*	*	2587	*	*	3260	*	974	*	*	*	*	*	*	*	2908	*	*	26
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 27   2845	*	*	*	4743	4638	*	4258	*	1111	2854	*	*	*	*	5607	4352	4051	*	*	27
+       0	*	*	*	*	*	*	2658	0	0	
+
+I 28   *	*	*	*	*	*	*	88	*	*	*	*	*	*	*	*	*	4074	*	*	28
+       0	*	*	*	*	*	*	2658	0	0	
+
+H 29   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2658	0	0	
+
+F 30   *	*	*	*	731	*	*	*	*	2474	3023	*	*	*	*	*	*	4979	*	3994	30
+       0	*	*	*	*	*	*	2658	0	0	
+
+I 31   4074	*	*	*	6273	5369	*	636	*	4274	4596	*	*	*	*	*	*	2584	*	*	31
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 32   6266	3621	*	*	*	*	*	*	*	335	*	*	*	*	*	*	*	3149	*	*	32
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 33   *	*	*	*	*	*	*	4074	*	199	3850	*	*	*	*	*	*	*	*	*	33
+       55	4732	*	0	*	*	*	2658	1000	0	
+
+S 34   *	*	*	*	*	3495	*	*	*	*	5238	*	*	*	5314	272	4979	*	*	*	34
+       0	*	*	*	*	*	*	2658	0	0	
+
+T 35   *	*	*	*	*	*	5515	*	*	*	*	4210	*	*	*	1741	678	*	*	*	35
+       13	*	6775	*	*	*	*	2658	0	0	
+
+E 36   3300	*	1830	1862	*	6342	*	*	*	*	*	3555	2654	*	*	4216	4970	*	*	*	36
+       124	*	3606	*	*	0	*	2657	0	1000	
+
+R 37   4206	*	4505	3515	*	4188	6700	*	3153	*	*	4792	*	*	1085	3846	*	*	*	4051	37
+       0	*	*	*	*	0	*	2563	0	1545	
+
+F 38   *	*	*	*	809	*	*	*	*	3030	*	*	*	*	*	*	4976	*	*	1863	38
+       0	*	*	*	*	*	*	2658	0	0	
+
+N 39   *	*	3772	*	*	*	*	*	*	*	*	151	*	*	*	5238	*	*	*	*	39
+       0	*	*	*	*	*	*	2658	0	0	
+
+W 40   *	*	*	*	4732	*	*	*	*	*	*	*	*	*	*	*	*	*	55	*	40
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 41   *	*	*	*	3592	*	*	4252	*	382	5810	*	*	*	*	*	*	4193	5330	*	41
+       0	*	*	*	*	*	*	2601	0	0	
+
+E 42   5675	*	1983	1147	*	4452	6594	*	*	5237	*	4808	*	3888	*	4337	5492	5753	*	*	42
+       109	3785	*	0	*	*	*	2581	1598	0	
+
+G 43   5028	*	*	5537	5093	504	*	4635	6784	6596	*	3945	*	*	5136	6281	*	4861	*	6254	43
+       32	*	5523	*	*	*	*	2555	0	0	
+
+A 44   1217	*	5904	5735	5029	*	*	4250	6444	*	*	3640	2406	4957	*	3850	4858	4849	*	*	44
+       32	*	5503	*	*	*	0	2687	0	1084	
+
+S 45   2608	*	3947	5926	*	*	*	*	3359	*	*	6335	1477	5735	3450	3205	4444	5582	*	*	45
+       34	*	5433	*	*	*	0	2721	0	1325	
+
+T 46   1108	*	*	4555	*	4669	*	4474	3630	*	4601	6005	*	*	*	*	3488	3242	*	3705	46
+       0	*	*	*	*	426	1968	2741	0	1504	
+
+K 47   1524	*	*	*	*	*	*	*	1815	4477	*	5931	4316	4550	5760	3162	3964	5665	*	*	47
+       0	*	*	*	*	0	*	2691	0	1000	
+
+P 48   1941	*	*	3782	*	5226	*	*	4703	*	*	*	1426	*	4724	2997	4987	4835	*	*	48
+       0	*	*	*	*	*	*	2566	0	0	
+
+V 49   1562	*	*	3778	*	*	*	*	3374	4366	*	*	*	*	*	*	5411	1462	*	4134	49
+       0	*	*	*	*	*	*	2548	0	0	
+
+Q 50   1472	*	*	5002	*	*	*	*	5241	*	*	*	*	2415	*	2868	3112	3568	*	4125	50
+       0	*	*	*	*	*	*	2557	0	0	
+
+T 51   1935	*	*	3171	*	*	*	*	*	3290	*	*	*	*	*	2379	2339	2885	*	*	51
+       0	*	*	*	*	*	*	2569	0	0	
+
+S 52   1601	*	*	*	*	*	*	*	*	*	*	*	*	*	*	577	*	*	*	*	52
+       0	*	*	0	*	*	*	2563	0	0	
+
+//

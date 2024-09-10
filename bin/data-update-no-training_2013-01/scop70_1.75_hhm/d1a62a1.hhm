@@ -1,0 +1,181 @@
+HHsearch 1.5
+NAME  d1a62a1 a.140.3.1 (A:1-47) Rho termination factor, N-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   a.140.3.1
+FILE  d1a62a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1a62a1.a3m -v 1 
+DATE  Mon Jan 21 18:44:03 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  109 out of 272 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CCHHHHHCCCHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHCCC
+>ss_conf
+98445433896899999997089995313558899999999841379
+>Consensus
+mnlxeLkxkxxxeLxxiAxxlgixxxxxlrKqeLIfxILkxqaxxGe
+>d1a62a1 a.140.3.1 (A:1-47) Rho termination factor, N-terminal domain {Escherichia coli [TaxId: 562]}
+MNLTELKNTPVSELITLGENMGLENLARMRKQDIIFAILKQHAKSGE
+>gi|374584655|ref|ZP_09657747.1|(72-116:489) transcription termination factor Rho [Leptonema illini DSM 21528] >gi|373873516|gb|EHQ05510.1| transcription termination factor Rho [Leptonema illini DSM 21528]  E=4e-05 s/c=1.13 id=33% cov=98%
+IDLTEIKRLPIEDIYQKAEAMEIEGVSGMKRQNVIFAILQRQTEQ--
+>gi|83815560|ref|YP_446339.1|(5-54:472) transcription termination factor Rho [Salinibacter ruber DSM 13855] >gi|83756954|gb|ABC45067.1| transcription termination factor Rho [Salinibacter ruber DSM 13855]  E=0.0002 s/c=0.97 id=33% cov=102%
+MKISTLQDKKLDELREIARELDLTGYSDLRKQDLIYRILEAQAEgaaSGE
+>gi|157964583|ref|YP_001499407.1|(41-86:468) transcription termination factor Rho [Rickettsia massiliae MTU5] >gi|157844359|gb|ABV84860.1| Transcription termination factor [Rickettsia massiliae MTU5]  E=2e-08 s/c=1.34 id=36% cov=100%
+INLKQLKRKLPEELQAQAEELKIENINSLLKQELVFAILKKSVEQG-
+>gi|310823542|ref|YP_003955900.1|(135-179:551) transcription termination factor Rho [Stigmatella aurantiaca DW4/3-1] >gi|309396614|gb|ADO74073.1| Transcription termination factor Rho [Stigmatella aurantiaca DW4/3-1]  E=3e-08 s/c=1.36 id=34% cov=94%
+--LNDLKRMKITELAKMAHDFGIEGYQGLKKQDLIFALLSGIADK--
+>gi|223939545|ref|ZP_03631421.1|(105-149:521) transcription termination factor Rho [bacterium Ellin514] >gi|223891817|gb|EEF58302.1| transcription termination factor Rho [bacterium Ellin514]  E=1e-08 s/c=1.39 id=33% cov=98%
+LNIAKLQAMSMTELNQMAKDLGVENFGTMRKHEVIFHILQKNAER--
+>gi|383782385|ref|YP_005466952.1|(28-68:716) putative transcription termination factor Rho [Actinoplanes missouriensis 431] >gi|381375618|dbj|BAL92436.1| putative transcription termination factor Rho [Actinoplanes missouriensis 431]  E=0.0002 s/c=1.19 id=33% cov=89%
+-----LSAMLLPELQSLAASLGISGTARMRKGELIAAITERQSGGG-
+>gi|333997890|ref|YP_004530502.1|(213-260:635) transcription termination factor rho (ATP-dependenthelicase rho) [Treponema primitia ZAS-2] >gi|333740485|gb|AEF85975.1| transcription termination factor rho (ATP-dependenthelicase rho) [Treponema primitia ZAS-2]  E=2e-06 s/c=1.15 id=30% cov=100%
+LSINELIRLNMIDLRELAACYNIshEDMVALKKQEVIFIILKAHTERG-
+>gi|163784024|ref|ZP_02178983.1|(24-68:440) transcription termination factor Rho [Hydrogenivirga sp. 128-5-R1-1] >gi|159880709|gb|EDP74254.1| transcription termination factor Rho [Hydrogenivirga sp. 128-5-R1-1]  E=0.0002 s/c=1.07 id=33% cov=98%
+ISLEQMQKMTLSELQKLGKEIGLQRTTGLKKQELITKILEHKAKE--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	2629	*	2161	702	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4415	0	0	
+
+N 2    *	*	2165	5699	*	*	3017	*	5106	5674	*	1145	*	5244	*	3601	*	*	*	5344	2
+       0	*	*	*	*	*	*	4624	0	0	
+
+L 3    *	*	*	*	6249	*	*	1371	*	1070	5764	5429	*	*	*	6422	5174	4546	*	*	3
+       15	6620	*	2000	415	*	*	4713	1000	0	
+
+T 4    3908	*	*	4325	*	*	6216	5727	3243	3918	*	2121	*	5101	*	1972	2710	6309	*	*	4
+       0	*	*	*	*	*	*	4746	0	0	
+
+E 5    *	*	1897	990	*	*	*	*	4498	*	*	5941	*	3005	*	*	6728	4901	*	*	5
+       16	6532	*	1585	585	*	*	4842	1000	0	
+
+L 6    *	*	*	*	6167	*	*	4736	*	148	5819	*	*	*	*	*	*	6113	*	6157	6
+       0	*	*	*	*	*	*	4890	0	0	
+
+K 7    5152	*	6001	3230	*	6157	*	5393	1301	*	*	3829	*	2866	4697	2994	4860	*	*	*	7
+       0	*	*	*	*	*	*	4890	0	0	
+
+N 8    2989	*	4795	3228	*	4925	5513	6713	2682	4796	6001	4159	*	3460	3122	3281	4822	4444	*	6193	8
+       0	*	*	*	*	*	*	4890	0	0	
+
+T 9    *	*	*	*	6440	*	*	*	1033	2997	2091	6707	*	4811	5025	6676	4518	6608	*	*	9
+       0	*	*	*	*	*	*	4890	0	0	
+
+P 10   6707	*	4462	6380	*	*	4968	*	2943	3556	*	3536	2645	*	4831	2425	2194	*	*	*	10
+       0	*	*	*	*	*	*	4890	0	0	
+
+V 11   4091	*	*	5859	6409	*	6380	2381	*	1683	2951	*	4017	6624	6252	6665	5874	2683	*	*	11
+       0	*	*	*	*	*	*	4890	0	0	
+
+S 12   2331	*	3716	3180	6056	6549	6743	6356	4121	5885	*	4475	3418	5311	4654	2712	2946	7093	*	*	12
+       0	*	*	*	*	*	*	4890	0	0	
+
+E 13   6125	*	2340	674	*	*	*	*	5393	*	*	5825	*	3193	6549	*	*	*	*	*	13
+       0	*	*	*	*	*	*	4890	0	0	
+
+L 14   *	*	*	*	*	*	*	4071	*	128	*	*	*	*	*	*	*	5306	*	*	14
+       0	*	*	*	*	*	*	4890	0	0	
+
+I 15   4852	*	*	*	6285	*	4418	3820	4182	2777	4803	4946	*	3487	1934	*	5514	3253	*	3505	15
+       0	*	*	*	*	*	*	4890	0	0	
+
+T 16   2863	*	3312	1510	*	5649	*	5010	2906	6183	*	7138	6001	4190	5842	4438	5222	4481	*	*	16
+       0	*	*	*	*	*	*	4890	0	0	
+
+L 17   6629	*	*	6361	5797	*	*	1297	5090	1793	2545	*	*	6165	*	6703	*	4646	*	*	17
+       0	*	*	*	*	*	*	4890	0	0	
+
+G 18   121	5641	*	*	*	4415	*	*	*	*	*	*	*	*	*	*	*	6193	*	*	18
+       0	*	*	*	*	*	*	4890	0	0	
+
+E 19   3969	*	4136	2400	*	*	6017	4992	1962	5056	*	3747	*	3889	2965	4940	4588	6372	*	*	19
+       0	*	*	*	*	*	*	4890	0	0	
+
+N 20   3260	6356	3947	1430	*	6707	6608	*	3758	*	*	5923	*	3225	6946	2703	4368	6869	*	6431	20
+       0	*	*	*	*	*	*	4890	0	0	
+
+M 21   5055	6732	*	5097	3600	*	6032	4638	5747	1013	3102	*	*	*	7130	6924	*	5629	*	2974	21
+       0	*	*	*	*	*	*	4890	0	0	
+
+G 22   6407	*	3946	3130	*	829	*	*	3602	*	*	2999	*	5067	*	*	6813	*	*	*	22
+       0	*	*	*	*	*	*	4890	0	0	
+
+L 23   6440	6499	*	*	5578	*	*	1013	*	2897	5585	*	*	*	*	*	5859	1793	*	*	23
+       117	3682	*	838	1183	*	*	4890	2433	0	
+
+E 24   5095	*	2733	1415	*	*	*	*	3012	*	*	5996	3725	3667	5341	3352	5697	6736	*	*	24
+       29	*	5627	*	*	*	*	4890	0	0	
+
+N 25   7234	*	3925	4638	*	2002	5863	*	3746	*	*	1412	5279	6634	5338	3481	*	*	*	5632	25
+       0	*	*	*	*	0	*	4885	0	1587	
+
+L 26   2709	*	6220	*	3926	6576	6809	3148	5859	3390	6356	6736	3217	*	7136	*	3211	3016	*	2687	26
+       38	6372	6193	1000	1000	*	*	4890	1000	0	
+
+A 27   2496	*	5001	5702	*	3103	*	6634	3865	5917	*	4613	6490	5338	4192	1677	3894	4875	*	6038	27
+       0	*	*	*	*	0	*	4882	0	1000	
+
+R 28   4282	*	4484	5189	6220	2572	*	*	3534	5566	*	4797	6156	4694	1791	3173	3495	6584	*	*	28
+       0	*	*	*	*	*	*	4890	0	0	
+
+M 29   4095	*	5859	*	3885	*	6907	4826	5919	1300	1855	*	6220	5805	6680	6198	6285	*	*	4436	29
+       0	*	*	*	*	*	*	4890	0	0	
+
+R 30   5548	*	5859	5068	*	6411	5783	*	1684	4675	*	4824	5636	6407	1265	5861	4301	*	*	*	30
+       0	*	*	*	*	*	*	4890	0	0	
+
+K 31   *	*	*	*	*	*	*	*	190	*	*	*	*	5931	3225	*	*	*	*	*	31
+       0	*	*	*	*	*	*	4890	0	0	
+
+Q 32   4984	*	4175	3832	*	4566	5001	*	3470	*	6624	7157	5399	858	4964	5218	6157	6183	*	*	32
+       0	*	*	*	*	*	*	4890	0	0	
+
+D 33   6167	*	1373	972	*	*	*	*	6001	*	*	5615	*	6411	*	*	4561	*	*	*	33
+       0	*	*	*	*	*	*	4890	0	0	
+
+I 34   *	*	*	*	*	*	*	2945	*	415	5810	*	*	6113	*	*	6198	3751	*	*	34
+       0	*	*	*	*	*	*	4890	0	0	
+
+I 35   *	*	*	*	*	*	*	477	6252	6361	4494	*	*	*	*	*	*	2238	*	*	35
+       10	*	7144	*	*	*	*	4890	0	0	
+
+F 36   5011	*	4461	7103	840	*	6701	5425	5562	5699	*	5317	*	*	*	5458	4785	*	6932	2382	36
+       0	*	*	*	*	*	0	4891	0	1000	
+
+A 37   1578	*	5210	2541	*	6661	5239	5394	3034	6233	*	4716	*	4630	3558	4067	6190	4878	*	*	37
+       0	*	*	*	*	0	*	4891	0	1000	
+
+I 38   *	*	*	*	*	*	*	273	*	2953	6266	*	*	*	*	*	*	5037	*	*	38
+       12	6894	*	2322	322	*	*	4890	1000	0	
+
+L 39   6012	*	*	6794	6050	*	*	4250	6041	364	4909	*	*	7031	6173	5864	7046	4795	*	*	39
+       0	*	*	*	*	*	*	4837	0	0	
+
+K 40   4998	*	3034	3006	*	*	*	5856	1044	*	*	*	*	3307	3589	5139	7073	*	*	*	40
+       11	6977	*	0	*	*	*	4837	1000	0	
+
+Q 41   1436	6418	*	4011	6829	6906	4884	6585	2608	4757	*	3805	*	3694	4683	5408	4256	6926	*	5480	41
+       0	*	*	*	*	*	*	4837	0	0	
+
+H 42   5635	5828	7059	6897	*	7279	2726	4964	4270	3910	*	5522	*	1047	3866	5952	5692	6670	*	5734	42
+       17	6430	*	0	*	*	*	4828	1000	0	
+
+A 43   668	*	*	6565	*	*	*	5744	*	6777	6499	6378	*	*	*	3599	2493	4346	*	*	43
+       0	*	*	*	*	*	*	4831	0	0	
+
+K 44   3894	*	3872	1437	*	6328	5995	5396	2008	*	*	5368	*	3761	3941	4987	*	*	*	*	44
+       31	5535	*	1084	921	*	*	4860	1462	0	
+
+S 45   5234	*	4824	4149	*	6290	4873	*	2524	5535	*	3010	*	2902	2668	2641	4636	5403	*	*	45
+       31	5539	*	0	*	*	*	4841	1000	0	
+
+G 46   5759	*	5462	5478	*	168	*	5441	*	*	*	*	5418	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	4463	0	0	
+
+E 47   *	*	3069	352	*	*	*	*	*	*	*	*	*	3360	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	3858	0	0	
+
+//

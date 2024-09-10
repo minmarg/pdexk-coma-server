@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1ijva_ g.9.1.1 (A:) Beta-defensin, BD {Human (Homo sapiens), HBD1 [TaxId: 9606]}
+FAM   g.9.1.1
+FILE  d1ijva_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ijva_.a3m -v 1 
+DATE  Mon Jan 21 21:54:12 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCEECCCCCCCCCCCCCEEECCCCCCCC
+>ss_conf
+951003568843112587520011111267011249
+>Consensus
+DhYxCvrxgGxCxxSxCPxftrixGtCYxGkAkCCx
+>d1ijva_ g.9.1.1 (A:) Beta-defensin, BD {Human (Homo sapiens), HBD1 [TaxId: 9606]}
+DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+>gi|61211663|sp|Q95M66.1|DEFB1_SAGOE(33-68:68) RecName: Full=Beta-defensin 1; Short=BD-1; AltName: Full=Defensin, beta 1; Flags: Precursor >gi|14486566|gb|AAK61475.1| DEFB1-like protein [Saguinus oedipus]  E=3e-10 s/c=1.91 id=84% cov=103%
+DHYNCVKGGGQCLYSACPIYTKVQGTCYGGKAKCCK
+>gi|395849489|ref|XP_003797356.1|(186-221:330) PREDICTED: uncharacterized protein LOC100964915 [Otolemur garnettii]  E=5e-10 s/c=1.88 id=68% cov=103%
+DHYMCIKNKGICLYSACPLYTKIIGTCYGGKAKCCR
+>gi|301789151|ref|XP_002929992.1|(66-100:102) PREDICTED: beta-defensin 1-like [Ailuropoda melanoleuca]   E=3e-09 s/c=1.86 id=61% cov=100%
+DHYVCARRGGTCNFSPCPLFTRVDGTCYGGKAKCC-
+>gi|47523936|ref|NP_999607.1|(33-67:69) beta-defensin 2 precursor [Sus scrofa] >gi|40792697|gb|AAR90346.1| beta-defensin 2 [Sus scrofa]  E=2e-06 s/c=1.58 id=61% cov=100%
+DHYICAKKGGTCNFSPCPLFNRIEGTCYSGKAKCC-
+>gi|189303597|ref|NP_001107185.1|(33-67:69) beta-defensin 1 precursor [Canis lupus familiaris] >gi|66968816|gb|AAY59708.1| beta-defensin 1 [Canis lupus familiaris]  E=5e-06 s/c=1.55 id=64% cov=100%
+DQYICARKGGTCNFSPCPLFTRIDGTCYRGKAKCC-
+>gi|403318319|gb|AFR36921.1|(33-68:68) beta-defensin 1TB precursor [Tupaia belangeri]   E=8e-06 s/c=1.48 id=70% cov=103%
+DHYLCVKNEGICLYSSCPSYTKIEGTCYGGKAKCCK
+>gi|119925662|ref|XP_001250816.1|(33-67:69) PREDICTED: beta-defensin 1-like isoform 1 [Bos taurus] >gi|297464606|ref|XP_002703320.1| PREDICTED: beta-defensin 1-like [Bos taurus]  E=1e-05 s/c=1.50 id=56% cov=100%
+DSYICARKGGTCNLSPCPLYNRVEGTCYRGKAKCC-
+>gi|348587996|ref|XP_003479753.1|(32-66:67) PREDICTED: beta-defensin 1-like [Cavia porcellus]   E=2e-05 s/c=1.48 id=72% cov=100%
+DHYQCVRNGGFCLYSACPMFSKVVGTCYNGKAKCC-
+>gi|417395361|gb|JAA44743.1|(34-66:67) Putative beta-defensin 1 precursor [Desmodus rotundus]   E=0.0001 s/c=1.51 id=59% cov=94%
+--YECVRKGGTCNFSPCPRFTRIDGACYQGRAKCC-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1672	0	0	
+
+H 2    *	*	*	*	*	*	265	*	*	*	*	*	*	3682	*	3479	*	*	*	*	2
+       0	*	*	*	*	*	*	1672	0	0	
+
+Y 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	3
+       0	*	*	*	*	*	*	1707	0	0	
+
+N 4    *	*	*	3535	*	*	*	2173	*	3497	2697	1783	*	3474	*	*	*	3862	*	*	4
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1707	0	0	
+
+V 6    1484	*	*	*	*	*	*	3521	*	*	*	*	*	*	*	*	*	848	*	*	6
+       0	*	*	*	*	*	*	1707	0	0	
+
+S 7    *	*	*	*	*	*	*	*	1675	*	*	*	*	*	892	2758	*	*	*	*	7
+       0	*	*	*	*	*	*	1707	0	0	
+
+S 8    *	*	*	*	*	3867	*	*	1415	*	*	1912	*	*	3862	2172	*	*	*	*	8
+       0	*	*	*	*	*	*	1707	0	0	
+
+G 9    *	*	*	3497	*	279	*	*	3521	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1707	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1707	0	0	
+
+Q 11   *	*	*	*	3474	*	*	2509	*	*	*	*	*	1783	*	*	1172	*	*	*	11
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1707	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	846	*	1172	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1707	0	0	
+
+Y 14   *	*	*	*	1472	*	*	*	*	3587	*	*	*	*	*	*	*	*	*	846	14
+       0	*	*	*	*	*	*	1707	0	0	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	15
+       0	*	*	*	*	*	*	1707	0	0	
+
+A 16   1097	*	*	*	*	*	*	*	*	*	*	*	1172	*	*	3497	*	*	*	*	16
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1707	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1707	0	0	
+
+I 19   *	*	*	*	*	*	*	2208	*	1169	3474	*	*	*	3535	3497	*	3755	*	*	19
+       0	*	*	*	*	*	*	1707	0	0	
+
+F 20   *	*	*	*	572	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1610	20
+       0	*	*	*	*	*	*	1707	0	0	
+
+T 21   *	*	*	*	*	*	*	*	*	*	*	2717	*	*	*	3474	400	*	*	*	21
+       0	*	*	*	*	*	*	1707	0	0	
+
+K 22   *	*	*	*	*	*	*	*	1080	*	*	*	*	*	924	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1707	0	0	
+
+I 23   *	*	*	*	*	*	*	867	*	3898	*	*	*	*	*	*	3755	1687	*	*	23
+       0	*	*	*	*	*	*	1707	0	0	
+
+Q 24   *	*	2154	1700	*	*	*	3521	*	*	*	*	*	1783	*	*	*	3474	*	*	24
+       0	*	*	*	*	*	*	1707	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1707	0	0	
+
+T 26   3535	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	130	*	*	*	26
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1707	0	0	
+
+Y 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	28
+       0	*	*	*	*	*	*	1707	0	0	
+
+R 29   *	*	*	*	*	1396	*	*	3755	*	*	3474	*	3535	1734	3859	*	*	*	*	29
+       0	*	*	*	*	*	*	1707	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1707	0	0	
+
+K 31   *	*	*	*	*	*	*	*	268	*	*	*	*	*	2561	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1707	0	0	
+
+A 32   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1707	0	0	
+
+K 33   *	*	*	*	*	*	*	*	125	*	*	*	*	*	3587	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1707	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1707	0	0	
+
+K 36   *	*	*	*	*	*	*	*	650	*	*	*	*	*	1463	*	*	*	*	*	36
+       0	*	*	0	*	*	*	1404	0	0	
+
+//

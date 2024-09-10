@@ -1,0 +1,188 @@
+HHsearch 1.5
+NAME  d1u78a2 a.4.1.2 (A:55-104) Transposase tc3a1-65 {Caenorhabditis elegans [TaxId: 6239]}
+FAM   a.4.1.2
+FILE  d1u78a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1u78a2.a3m -v 1 
+DATE  Tue Jan 22 03:06:00 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHHHCCHHHHHHHHHHHCCCHHHHHHHHHHHHCC
+>ss_conf
+98764343047889999861433348888886055211789999975139
+>Consensus
+apRpxxLxxRdeRxiiRxASNsxkSxndIrxeLxLxvSkxTVxxvixrSg
+>d1u78a2 a.4.1.2 (A:55-104) Transposase tc3a1-65 {Caenorhabditis elegans [TaxId: 6239]}
+APRRKALSVRDERNVIRAASNSCKTARDIRNELQLSASKRTILNVIKRSG
+>gi|308483366|ref|XP_003103885.1|(39-86:325) hypothetical protein CRE_09589 [Caenorhabditis remanei] >gi|308259523|gb|EFP03476.1| hypothetical protein CRE_09589 [Caenorhabditis remanei]  E=4e-11 s/c=1.49 id=55% cov=98%
+--RPRKLTTRDERTVIRTASNSPKSLNDIRAELKLNVCKSTVRNVLRRSG
+>gi|341893512|gb|EGT49447.1|(30-71:305) hypothetical protein CAEBREN_03079 [Caenorhabditis brenneri]   E=0.0001 s/c=1.19 id=47% cov=86%
+------LTSRDRRLIIREASNSIKSCNDIKKDLGLNVSKQTVWRVIDK--
+>gi|7505434|pir||T32681(55-103:300) hypothetical protein K07C6.14 - Caenorhabditis elegans   E=4e-11 s/c=1.45 id=56% cov=100%
+APRCKVLSSREERNIVKAASNSFKSANDIRKELNLNVSKQTVLNMLSQN-
+>gi|308468568|ref|XP_003096526.1|(69-116:487) hypothetical protein CRE_09716 [Caenorhabditis remanei] >gi|308242976|gb|EFO86928.1| hypothetical protein CRE_09716 [Caenorhabditis remanei]  E=2e-09 s/c=1.36 id=47% cov=98%
+--RPRILNQREERAVVRCALNTVKSANDVIAELDLKASKSTVLRTFHRSG
+>gi|341888002|gb|EGT43937.1|(59-106:150) hypothetical protein CAEBREN_04762 [Caenorhabditis brenneri]   E=1e-08 s/c=1.31 id=49% cov=98%
+--RPRKMDSRTERNIIRTISNSPKSINDVRGELNLQVSKNTVRNVLQRSG
+>gi|308466137|ref|XP_003095324.1|(57-103:329) hypothetical protein CRE_19968 [Caenorhabditis remanei] >gi|308245502|gb|EFO89454.1| hypothetical protein CRE_19968 [Caenorhabditis remanei]  E=0.0002 s/c=1.04 id=40% cov=96%
+--RPSLLSQRDKRLIIRSASNNVDSCRQIKSDLNLDVSSETVRRTIAKS-
+>gi|308498782|ref|XP_003111577.1|(57-103:329) hypothetical protein CRE_02881 [Caenorhabditis remanei] >gi|308239486|gb|EFO83438.1| hypothetical protein CRE_02881 [Caenorhabditis remanei]  E=0.0001 s/c=1.06 id=42% cov=96%
+--RPSLLTVRDKRQILRKASNAVITCSKIKCDLNLSVSNETVRRVIIKS-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1346	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1346	0	0	
+
+R 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2242	0	0	
+
+R 4    *	2757	*	*	*	*	*	*	*	*	*	*	486	*	2858	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2242	0	0	
+
+K 5    *	*	*	*	*	*	*	*	1806	*	*	*	*	*	1269	1741	*	*	*	*	5
+       0	*	*	*	*	*	*	2242	0	0	
+
+A 6    2858	*	*	*	*	*	*	2711	1931	1741	*	*	*	*	*	*	*	2757	*	*	6
+       0	*	*	*	*	*	*	2242	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	204	2925	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 8    *	*	2925	*	*	*	*	*	*	*	*	2785	*	*	*	1462	1473	*	*	*	8
+       0	*	*	*	*	*	*	2287	0	0	
+
+V 9    *	*	*	*	*	*	*	*	*	*	*	*	*	1875	*	1489	3159	1948	*	*	9
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2287	0	0	
+
+D 11   *	*	719	1939	*	*	*	*	*	*	*	*	*	*	*	*	2925	*	*	*	11
+       0	*	*	*	*	*	*	2287	0	0	
+
+E 12   *	*	*	680	*	*	*	*	1905	*	*	*	*	*	3201	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2287	0	0	
+
+N 14   2785	*	*	*	*	*	*	*	*	2081	*	1446	*	2842	*	*	3159	*	*	*	14
+       0	*	*	*	*	*	*	2287	0	0	
+
+V 15   *	*	*	*	*	*	*	682	*	*	*	*	*	*	*	*	*	1408	*	*	15
+       0	*	*	*	*	*	*	2287	0	0	
+
+I 16   *	*	*	*	*	*	*	738	*	2842	*	*	*	*	*	*	*	1939	*	*	16
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 17   *	*	*	*	*	*	*	*	3111	*	*	*	*	*	178	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2287	0	0	
+
+A 18   2086	2785	*	3201	*	*	*	*	2842	*	*	*	*	*	*	2970	2037	*	*	*	18
+       0	*	*	*	*	*	*	2287	0	0	
+
+A 19   204	*	*	*	*	*	*	2925	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	2785	*	*	*	*	*	226	*	*	*	*	20
+       0	*	*	*	*	*	*	2287	0	0	
+
+N 21   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 22   2842	*	*	*	*	*	*	*	*	*	*	2970	*	*	*	767	2785	*	*	*	22
+       0	*	*	*	*	*	*	2287	0	0	
+
+C 23   *	3063	*	*	3111	*	*	3201	*	*	*	*	2037	*	*	*	*	1279	*	*	23
+       0	*	*	*	*	*	*	2287	0	0	
+
+K 24   *	*	2970	*	*	*	*	2842	448	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2287	0	0	
+
+T 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	433	1948	*	*	*	25
+       0	*	*	*	*	*	*	2287	0	0	
+
+A 26   1394	1412	*	*	*	*	*	2925	*	3159	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 27   *	*	*	*	*	*	*	*	*	*	*	706	*	*	2016	2842	*	*	*	*	27
+       0	*	*	*	*	*	*	2287	0	0	
+
+D 28   *	*	448	*	*	*	*	*	2842	*	*	*	*	2970	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2287	0	0	
+
+I 29   *	*	*	*	*	*	*	467	*	*	*	*	*	*	*	*	*	1853	*	*	29
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 30   *	*	*	*	*	*	*	2785	1412	*	*	*	*	*	1062	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2287	0	0	
+
+N 31   1960	2842	*	*	*	2925	*	*	2155	*	*	3063	*	*	*	2970	*	*	*	*	31
+       0	*	*	*	*	*	*	2287	0	0	
+
+E 32   *	*	1412	680	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2287	0	0	
+
+L 33   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2287	0	0	
+
+Q 34   *	*	2785	*	*	3201	*	*	3159	*	*	959	*	3063	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2287	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 36   *	*	2970	*	*	*	*	*	2785	*	*	1571	*	2925	*	1948	*	*	*	*	36
+       0	*	*	*	*	*	*	2287	0	0	
+
+A 37   1917	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	444	*	*	37
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 38   *	3159	*	*	*	*	*	*	*	*	*	*	*	*	*	171	*	*	*	*	38
+       0	*	*	*	*	*	*	2287	0	0	
+
+K 39   *	*	*	*	*	*	*	*	448	*	*	2842	*	*	*	2970	*	*	*	*	39
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 40   *	*	*	1905	*	*	*	*	*	*	*	2925	*	2155	3063	1960	*	*	*	*	40
+       0	*	*	*	*	*	*	2287	0	0	
+
+T 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	41
+       0	*	*	*	*	*	*	2287	0	0	
+
+I 42   *	*	*	*	*	*	*	3063	*	*	*	*	*	*	*	*	*	184	*	*	42
+       0	*	*	*	*	*	*	2287	0	0	
+
+L 43   *	*	*	*	*	*	*	*	*	1394	*	*	*	*	969	*	*	*	3201	*	43
+       0	*	*	*	*	*	*	2287	0	0	
+
+N 44   *	*	*	*	*	*	*	*	*	*	*	1062	*	*	941	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2287	0	0	
+
+V 45   *	*	*	*	*	*	*	*	*	*	3111	*	*	*	*	*	1875	709	*	*	45
+       0	*	*	*	*	*	*	2287	0	0	
+
+I 46   *	*	*	*	2785	*	*	1013	*	1476	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2287	0	0	
+
+K 47   2970	*	3201	*	*	*	2785	2842	3063	*	*	*	*	2925	3159	3111	*	*	*	*	47
+       0	*	*	*	*	*	*	2287	0	0	
+
+R 48   *	*	*	*	*	*	*	*	1412	*	*	*	*	3111	976	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2287	0	0	
+
+S 49   *	*	*	*	*	*	*	*	*	*	*	2757	*	*	*	231	*	*	*	*	49
+       0	*	*	*	*	*	*	2242	0	0	
+
+G 50   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	0	*	*	*	1755	0	0	
+
+//

@@ -1,0 +1,171 @@
+HHsearch 1.5
+NAME  d1dx5i1 g.3.11.1 (I:345-387) Thrombomodulin, different EGF-like domains {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.11.1
+FILE  d1dx5i1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dx5i1.a3m -v 1 
+DATE  Mon Jan 21 19:51:33 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEEEECCCCCCEEEECCCCCCCCCCCCCCC
+>ss_conf
+9744754378874044207999745771468737888875679
+>Consensus
+VexvDPCfgxxCEyqCqPxgxxxYxCiCaeGFxPxpxxPhRCq
+>d1dx5i1 g.3.11.1 (I:345-387) Thrombomodulin, different EGF-like domains {Human (Homo sapiens) [TaxId: 9606]}
+VEPVDPCFRANCEYQCQPLDQTSYLCVCAEGFAPIPHEPHRCQ
+>gi|262073110|ref|NP_001159994.1|(359-401:578) thrombomodulin precursor [Bos taurus] >gi|296481348|gb|DAA23463.1| thrombomodulin [Bos taurus]  E=3e-10 s/c=1.59 id=64% cov=102%
+VDPVDPCFDNNCEYQCQPVGRSEHKCICAEGFAPVPGAPHKCQ
+>gi|13929084|ref|NP_113959.1|(362-404:577) thrombomodulin precursor [Rattus norvegicus] >gi|2502062|gb|AAB80760.1| thrombomodulin [Rattus norvegicus] >gi|47480062|gb|AAH70903.1| Thrombomodulin [Rattus norvegicus] >gi|149041169|gb|EDL95102.1| thrombomodulin [Rattus norvegicus]  E=1e-08 s/c=1.47 id=61% cov=102%
+VEQLDPCFRSKCEYQCQPVNSTHYNCICAEGFAPKLDDPDRCE
+>gi|126304285|ref|XP_001382095.1|(346-387:545) PREDICTED: thrombomodulin-like [Monodelphis domestica]   E=3e-10 s/c=1.63 id=51% cov=100%
+VELLDPCFGIQCQHKCLPLEGGAYRCICKEGFMPIPDQPDRC-
+>gi|194224095|ref|XP_001915376.1|(117-151:322) PREDICTED: thrombomodulin-like [Equus caballus]   E=4e-08 s/c=1.75 id=64% cov=84%
+--------GLYCEYQCQPVGQNDYRCICAEGFAPIPQDPDRCQ
+>gi|334347628|ref|XP_001379382.2|(413-451:770) PREDICTED: endosialin-like [Monodelphis domestica]   E=0.0001 s/c=1.28 id=50% cov=93%
+---VDPCADAPCEQQCEPGGPGGYSCHCRLGFRPAEDDPHRC-
+>gi|6678339|ref|NP_033404.1|(362-404:577) thrombomodulin precursor [Mus musculus] >gi|136171|sp|P15306.1|TRBM_MOUSE RecName: Full=Thrombomodulin; Short=TM; AltName: Full=Fetomodulin; AltName: CD_antigen=CD141; Flags: Precursor >gi|54782|emb|CAA32597.1| thrombomodulin [Mus musculus] >gi|17512381|gb|AAH19154.1| Thrombomodulin [Mus musculus] >gi|26336925|dbj|BAC32146.1| unnamed protein product [Mus musculus] >gi|71060077|emb|CAJ18582.1| Thbd [Mus musculus] >gi|148696585|gb|EDL28532.1| thrombomodulin [Mus musculus]  E=9e-12 s/c=1.71 id=61% cov=102%
+VELLDPCFGSNCEFQCQPVSPTDYRCICAPGFAPKPDEPHKCE
+>gi|195539482|ref|NP_001124204.1|(363-405:579) thrombomodulin precursor [Sus scrofa] >gi|157399567|gb|ABV53440.1| thrombomodulin [Sus scrofa]  E=1e-11 s/c=1.70 id=70% cov=102%
+VEPVDPCFGTDCEYECQVVGRTGYRCVCAEGFAPVPHAPHRCQ
+>gi|395852006|ref|XP_003803986.1|(416-458:633) PREDICTED: thrombomodulin-like [Otolemur garnettii]   E=4e-11 s/c=1.66 id=70% cov=102%
+VEAVDPCFAANCEYQCQPVGPTNYTCICAEGFVPKPQEPSRCQ
+>gi|351715918|gb|EHB18837.1|(350-392:563) Thrombomodulin [Heterocephalus glaber]   E=5e-11 s/c=1.64 id=64% cov=102%
+VELLDPCFGSNCEYQCQPVGTDKYECICAEGFIPNPKEPYRCQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	1
+       0	*	*	*	*	*	*	1919	0	0	
+
+E 2    *	*	3678	288	*	*	*	*	3280	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1919	0	0	
+
+P 3    4047	*	*	*	*	*	*	*	*	1882	*	*	1002	2567	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1919	0	0	
+
+V 4    *	*	*	*	*	*	*	3434	*	1580	*	*	*	*	*	*	*	803	*	*	4
+       0	*	*	*	*	*	*	2049	0	0	
+
+D 5    *	*	109	*	*	*	*	*	*	*	*	*	*	*	*	3783	*	*	*	*	5
+       0	*	*	*	*	*	*	2154	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2154	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2154	0	0	
+
+F 8    2310	*	*	*	490	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3538	8
+       0	*	*	*	*	*	*	2154	0	0	
+
+R 9    4534	*	3250	*	*	710	4413	*	*	*	*	*	*	3245	3510	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2155	0	0	
+
+A 10   1844	*	*	*	*	*	*	2803	*	4842	*	3414	*	*	*	1752	3194	4527	*	*	10
+       0	*	*	*	*	*	*	2155	0	0	
+
+N 11   *	*	3518	*	*	*	*	*	2445	*	*	1236	2341	3787	*	*	*	*	*	4842	11
+       0	*	*	*	*	*	*	2155	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2155	0	0	
+
+E 13   *	*	*	108	*	*	*	*	*	*	*	*	*	3787	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2155	0	0	
+
+Y 14   *	*	*	*	4345	*	2315	*	*	*	*	*	*	2841	*	*	*	*	*	713	14
+       0	*	*	*	*	*	*	2155	0	0	
+
+Q 15   *	*	*	4382	*	*	4114	*	2803	*	*	*	*	413	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2155	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2155	0	0	
+
+Q 17   *	*	*	2341	*	*	*	*	*	2522	*	*	*	670	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2155	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	136	*	*	4577	*	4382	*	*	18
+       0	*	*	*	*	*	*	2155	0	0	
+
+L 19   *	*	*	*	*	2341	*	*	*	1650	*	*	*	*	*	*	*	1047	*	*	19
+       0	*	*	*	*	*	*	2155	0	0	
+
+D 20   *	*	4716	2803	*	693	*	*	*	*	*	3602	*	*	*	3083	*	*	*	*	20
+       0	*	*	*	*	*	*	2155	0	0	
+
+Q 21   4390	*	*	*	*	2803	4527	*	*	*	*	*	1829	1880	3209	4330	4194	*	*	*	21
+       45	*	5016	*	*	*	*	2155	0	0	
+
+T 22   *	*	4163	*	*	2361	*	*	*	*	*	3663	*	2687	*	4026	1140	*	*	*	22
+       0	*	*	*	*	0	*	2169	0	1000	
+
+S 23   3787	*	2403	3328	*	1792	4330	*	4194	*	*	3755	*	*	*	3307	3819	*	*	*	23
+       0	*	*	*	*	*	*	2155	0	0	
+
+Y 24   *	*	*	*	*	*	4054	*	*	*	*	*	*	*	*	*	*	*	*	90	24
+       0	*	*	*	*	*	*	2155	0	0	
+
+L 25   *	*	*	4194	*	*	4895	4667	4054	3823	*	4330	*	*	1148	2341	4534	*	*	*	25
+       0	*	*	*	*	*	*	2155	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2155	0	0	
+
+V 27   *	*	*	*	*	*	2341	811	*	*	*	*	*	*	*	*	3819	2626	*	*	27
+       0	*	*	*	*	*	*	2155	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2155	0	0	
+
+A 29   601	*	*	3819	*	*	*	*	3787	4114	*	*	*	*	2841	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2155	0	0	
+
+E 30   *	*	*	408	*	*	*	*	*	2341	*	*	4345	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2155	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2155	0	0	
+
+F 32   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2155	0	0	
+
+A 33   944	*	*	*	*	*	*	4194	*	*	3787	*	*	*	2341	*	*	2681	*	*	33
+       0	*	*	*	*	*	*	2155	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2155	0	0	
+
+I 35   2341	*	*	*	*	*	*	2782	2462	*	*	3351	*	*	*	3728	*	1726	*	*	35
+       0	*	*	*	*	*	*	2155	0	0	
+
+P 36   *	*	*	2341	*	*	*	*	*	4330	*	*	409	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2155	0	0	
+
+H 37   *	*	1277	4114	*	3328	2461	*	4194	4527	*	*	*	2734	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2155	0	0	
+
+E 38   2737	*	1818	1349	*	*	*	*	*	*	*	*	*	2526	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2155	0	0	
+
+P 39   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2155	0	0	
+
+H 40   *	*	2134	*	*	*	568	*	*	*	*	*	*	*	*	4534	*	*	*	4194	40
+       0	*	*	*	*	*	*	2155	0	0	
+
+R 41   *	*	*	*	*	*	*	*	3192	*	*	*	*	*	167	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2155	0	0	
+
+C 42   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2155	0	0	
+
+Q 43   *	*	*	2179	*	*	*	*	*	*	*	*	*	360	*	*	*	*	*	*	43
+       0	*	*	0	*	*	*	1705	0	0	
+
+//

@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1yzma1 a.2.19.1 (A:456-501) FYVE finger-containing Rab5 effector protein rabenosyn-5 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.2.19.1
+FILE  d1yzma1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1yzma1.a3m -v 1 
+DATE  Tue Jan 22 04:59:05 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  43 out of 45 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9728899999999989989841747899999988999999975229
+>Consensus
+xxPllqQixnIxxyIkQArxaxRxDEVxxLexNLreLqxexxxqqx
+>d1yzma1 a.2.19.1 (A:456-501) FYVE finger-containing Rab5 effector protein rabenosyn-5 {Human (Homo sapiens) [TaxId: 9606]}
+GSPLLQQIHNITSFIRQAKAAGRMDEVRTLQENLRQLQDEYDQQQT
+>gi|390331839|ref|XP_786891.3|(487-529:533) PREDICTED: rabenosyn-5-like [Strongylocentrotus purpuratus]   E=4e-10 s/c=1.57 id=50% cov=96%
+--PLIQQMNIISSYLNQAQEAGRWDEVNMLEANLKDLQLAYRQEQ-
+>gi|193606251|ref|XP_001951022.1|(387-430:443) PREDICTED: rabenosyn-5-like [Acyrthosiphon pisum]   E=1e-06 s/c=1.28 id=42% cov=98%
+-NPVVEQMNIIKNYIKQAKEAYRFDEVASLERNLQELNEEYFKMQ-
+>gi|289739619|gb|ADD18557.1|(431-473:492) FYVE finger-containing protein [Glossina morsitans morsitans]   E=0.0002 s/c=1.13 id=43% cov=96%
+--PLIEQINIIKGYIKQARQDMNFDVVETLETNLRELQKEFYIRQ-
+>gi|348502669|ref|XP_003438890.1|(736-777:783) PREDICTED: rabenosyn-5-like [Oreochromis niloticus]   E=3e-08 s/c=1.46 id=49% cov=93%
+---LLQQIDNIRAYIFDAKLSGRLDEVDLLTQNLKELQKTLQEQK-
+>gi|321460330|gb|EFX71373.1|(453-497:499) hypothetical protein DAPPUDRAFT_308885 [Daphnia pulex]   E=2e-09 s/c=1.44 id=42% cov=98%
+--PMLQQMQIMRNYIQQARRANRYDDVVILEANLRDLQIEHERMQS
+>gi|198426980|ref|XP_002122676.1|(443-486:582) PREDICTED: similar to Rabenosyn-5 (FYVE finger-containing Rab5 effector protein rabenosyn-5) (Zinc finger FYVE domain-containing protein 20) (110 kDa protein) [Ciona intestinalis]  E=8e-06 s/c=1.20 id=38% cov=98%
+-NPLLEQINYVQQMLKQAKSENRFEEIESLNRNLRELENELKRQE-
+>gi|221126249|ref|XP_002163008.1|(331-374:377) PREDICTED: similar to Rabenosyn-5 [Hydra magnipapillata]   E=3e-09 s/c=1.47 id=52% cov=96%
+--PILQQIENLKSYIQQAKEAKKFDEIKTLEENLRYFLEYKSQQQ-
+>gi|196003958|ref|XP_002111846.1|(391-429:429) hypothetical protein TRIADDRAFT_55287 [Trichoplax adhaerens] >gi|190585745|gb|EDV25813.1| hypothetical protein TRIADDRAFT_55287 [Trichoplax adhaerens]  E=0.0009 s/c=1.19 id=32% cov=87%
+-----EQAKNLRKYIEIARSEGKYDDVASLERNLSEIQAEIMNQ--
+>gi|312069059|ref|XP_003137505.1|(553-595:604) FYVE zinc finger family protein [Loa loa] >gi|307767326|gb|EFO26560.1| FYVE zinc finger family protein [Loa loa]  E=9e-09 s/c=1.46 id=33% cov=91%
+--PLQEQILIIKGYLKQAVEDSRLEEIEILERNLCDLEREIEK---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1134	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	647	*	*	*	1469	*	*	*	*	2
+       0	*	*	*	*	*	*	2093	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2761	0	0	
+
+L 4    *	*	*	*	5198	*	*	2872	*	519	3184	*	*	*	*	*	*	5155	*	*	4
+       0	*	*	*	*	*	*	3012	0	0	
+
+L 5    4170	*	*	*	*	*	*	1745	*	998	*	*	*	3961	5180	*	*	4221	*	*	5
+       0	*	*	*	*	*	*	3012	0	0	
+
+Q 6    *	*	4138	1565	*	*	*	*	*	5347	*	*	*	784	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3084	0	0	
+
+I 8    4329	*	*	*	*	*	*	659	*	*	1658	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3084	0	0	
+
+H 9    5075	*	2624	3344	5235	5347	3988	*	3365	4898	*	1640	*	4785	5138	3656	*	*	*	*	9
+       0	*	*	*	*	*	*	3084	0	0	
+
+N 10   *	*	*	*	*	*	*	1223	*	*	*	927	*	*	*	*	*	*	*	4456	10
+       0	*	*	*	*	*	*	3084	0	0	
+
+I 11   *	*	*	*	*	*	*	600	*	2518	4785	*	*	*	*	*	*	2953	*	*	11
+       0	*	*	*	*	*	*	3084	0	0	
+
+T 12   *	*	*	4698	*	*	4568	*	1574	*	*	*	*	4032	1426	5127	3041	*	*	*	12
+       0	*	*	*	*	*	*	3084	0	0	
+
+S 13   2453	*	5355	*	5317	1889	*	*	4329	*	*	3476	*	4456	*	1678	*	*	*	*	13
+       0	*	*	*	*	*	*	3084	0	0	
+
+F 14   *	*	*	*	2134	*	*	*	*	*	4456	*	*	*	*	*	*	*	*	461	14
+       0	*	*	*	*	*	*	3084	0	0	
+
+I 15   *	*	*	*	*	*	*	353	*	2370	*	*	*	*	*	*	*	5407	*	*	15
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 16   *	*	4311	3745	2961	5897	5474	*	1217	*	*	5127	*	3165	2866	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 17   *	*	2961	4294	*	*	*	4329	*	*	*	*	*	376	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 18   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3084	0	0	
+
+K 19   5235	*	*	5484	*	*	*	*	1251	*	*	*	*	4369	1155	*	*	4898	*	*	19
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 20   1979	*	4694	1959	*	*	5817	*	5221	4165	*	*	*	2706	4042	2874	*	*	*	*	20
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 21   913	4880	2590	2788	*	*	*	*	*	*	*	*	*	*	*	3277	*	*	*	5572	21
+       0	*	*	*	*	*	*	3084	0	0	
+
+G 22   *	3656	*	*	*	1349	*	*	4457	4030	4273	2376	*	4146	4055	4898	*	*	*	5223	22
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 23   *	*	*	*	*	*	*	*	2327	*	*	4273	*	*	417	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3084	0	0	
+
+M 24   3944	*	*	*	1713	*	*	4955	*	2043	3723	*	*	*	*	4731	*	5748	5127	2362	24
+       0	*	*	*	*	*	*	3084	0	0	
+
+D 25   *	*	497	1778	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 26   *	*	3539	214	*	*	*	*	*	*	*	*	*	*	*	*	*	4273	*	*	26
+       0	*	*	*	*	*	*	3084	0	0	
+
+V 27   *	*	*	*	*	*	*	3004	*	5075	*	*	*	*	*	*	*	242	*	*	27
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 28   1665	5738	5739	1583	*	*	5750	*	4457	*	*	5127	*	4378	3134	*	5484	4785	*	*	28
+       0	*	*	*	*	*	*	3084	0	0	
+
+T 29   5331	*	*	*	*	*	*	2782	*	4165	2754	*	*	*	*	2486	1417	3781	*	*	29
+       0	*	*	*	*	*	*	3084	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 31   *	*	*	721	*	5659	*	*	*	*	*	4456	*	2519	*	4756	3104	*	*	*	31
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 32   2809	*	5748	1441	*	5235	*	*	*	5189	*	5668	*	3054	2201	4855	5362	*	*	*	32
+       0	*	*	*	*	*	*	3084	0	0	
+
+N 33   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3084	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 35   *	4898	*	*	*	*	4401	*	2194	*	5750	*	*	4147	946	3230	*	*	*	*	35
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 36   *	*	2542	908	*	*	*	*	*	*	5221	*	*	2165	*	*	*	*	*	4457	36
+       0	*	*	*	*	*	*	3084	0	0	
+
+L 37   *	*	*	*	4457	*	*	4329	*	190	*	*	5138	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 38   *	*	*	2985	*	*	*	*	2838	4457	4556	5223	5138	956	4705	*	4764	*	*	*	38
+       0	*	*	*	*	*	*	3084	0	0	
+
+D 39   4266	5538	2914	2813	*	5120	4547	4771	3866	4392	*	3456	*	3159	2805	3627	*	*	*	*	39
+       0	*	*	*	*	*	*	3068	0	0	
+
+E 40   2975	*	*	582	*	*	*	*	*	*	*	*	*	*	*	*	2653	*	*	4444	40
+       0	*	*	*	*	*	*	3068	0	0	
+
+Y 41   5099	*	*	*	2964	*	4737	3447	4434	2465	*	*	*	*	*	*	*	5138	*	1128	41
+       0	*	*	*	*	*	*	3059	0	0	
+
+D 42   3658	*	2500	3324	2762	*	*	*	3677	5697	4191	*	*	3798	4283	3832	*	*	4305	3316	42
+       0	*	*	*	*	*	*	3098	0	0	
+
+Q 43   5444	*	*	2510	*	*	5355	5008	2833	4901	*	4127	4958	1864	2264	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3078	0	0	
+
+Q 44   *	*	*	4633	*	*	*	*	*	*	3023	*	*	522	2836	*	*	*	*	*	44
+       0	*	*	*	*	*	*	3036	0	0	
+
+Q 45   *	*	*	3959	*	*	4756	*	2519	*	*	*	*	465	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2872	0	0	
+
+T 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2033	404	*	*	*	46
+       0	*	*	0	*	*	*	1718	0	0	
+
+//

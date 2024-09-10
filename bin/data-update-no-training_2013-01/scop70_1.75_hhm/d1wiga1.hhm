@@ -1,0 +1,136 @@
+HHsearch 1.5
+NAME  d1wiga1 g.39.1.3 (A:1-32) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d1wiga1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wiga1.a3m -v 1 
+DATE  Tue Jan 22 03:58:09 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCHHHHHHHCCCCCCCCCCCCCCCCCCC
+>ss_conf
+98653001222201343101247754588679
+>Consensus
+xxxxxxxCxxCxxxItGkVLeAGxkHyHPtCA
+>d1wiga1 g.39.1.3 (A:1-32) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+GSSGSSGCDSCEKYITGRVLEAGEKHYHPSCA
+>gi|395502059|ref|XP_003755404.1|(287-311:846) PREDICTED: actin-binding LIM protein 1 isoform 2 [Sarcophilus harrisii]  E=0.0001 s/c=1.99 id=73% cov=81%
+-------CESCQQFITGKVLEAGDKHYHPSCA
+>gi|348519088|ref|XP_003447063.1|(221-245:688) PREDICTED: actin-binding LIM protein 3 [Oreochromis niloticus]   E=1e-05 s/c=2.11 id=73% cov=81%
+-------CESCNRYISGKVLEAGGKHYHPSCA
+>gi|390352342|ref|XP_784724.3|(94-118:591) PREDICTED: actin-binding LIM protein 1-like [Strongylocentrotus purpuratus]  E=2e-05 s/c=2.05 id=58% cov=81%
+-------CSRCDNFITGKVLEAGDHKYHPTCA
+>gi|340379633|ref|XP_003388331.1|(98-122:301) PREDICTED: actin-binding LIM protein 3-like [Amphimedon queenslandica]  E=0.0001 s/c=1.97 id=65% cov=81%
+-------CETCEDYITGTVLEAGDFHFHPACA
+>gi|221121070|ref|XP_002157679.1|(199-223:535) PREDICTED: similar to Actin-binding LIM protein 1, partial [Hydra magnipapillata]  E=0.0001 s/c=1.97 id=69% cov=81%
+-------CSGCGGYITGKVLQAGEKHYHPHCA
+>gi|321477965|gb|EFX88923.1|(374-399:995) hypothetical protein DAPPUDRAFT_95700 [Daphnia pulex]   E=0.0002 s/c=1.85 id=58% cov=81%
+-------CDHCERFIAGKVLQAGDNhHFHPTCA
+>gi|391336382|ref|XP_003742560.1|(225-250:791) PREDICTED: uncharacterized protein LOC100906407 [Metaseiulus occidentalis]  E=0.0004 s/c=1.82 id=58% cov=81%
+-------CAHCQRYITGKVLQAGeDSHFHPTCA
+>gi|410895985|ref|XP_003961480.1|(286-310:641) PREDICTED: actin-binding LIM protein 1-like [Takifugu rubripes]   E=1e-05 s/c=2.09 id=69% cov=81%
+-------CAACQKFITGKVLEAGAKHYHPTCA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	2
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	3
+       0	*	*	*	*	*	*	1000	0	0	
+
+G 4    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	5
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	6
+       0	*	*	*	*	*	*	1000	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1000	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1751	0	0	
+
+D 9    2937	*	1860	1163	*	*	*	*	*	*	*	*	*	*	*	2763	*	*	*	*	9
+       0	*	*	*	*	*	*	1751	0	0	
+
+S 10   2136	*	*	*	*	3388	2475	*	*	*	*	4841	*	*	3944	2124	2576	*	*	*	10
+       0	*	*	*	*	*	*	1751	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1751	0	0	
+
+E 12   *	*	3318	1813	*	3445	4816	*	4918	*	*	2767	*	1921	*	4510	*	*	*	*	12
+       0	*	*	*	*	*	*	1751	0	0	
+
+K 13   *	*	4184	4853	*	4306	*	*	1100	*	*	3944	*	3909	1934	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1751	0	0	
+
+Y 14   *	*	*	*	962	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1039	14
+       0	*	*	*	*	*	*	1751	0	0	
+
+I 15   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1751	0	0	
+
+T 16   4129	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2385	412	*	*	*	16
+       0	*	*	*	*	*	*	1751	0	0	
+
+G 17   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1751	0	0	
+
+R 18   *	*	*	*	*	*	4474	*	693	*	*	*	4598	*	2059	*	4184	*	*	*	18
+       0	*	*	*	*	*	*	1751	0	0	
+
+V 19   *	*	*	*	*	*	*	*	*	4203	*	*	*	*	*	*	*	81	*	*	19
+       0	*	*	*	*	*	*	1751	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1751	0	0	
+
+E 21   *	*	*	322	*	*	*	*	*	*	*	*	*	2322	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1751	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1751	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       69	4425	*	0	*	*	*	1751	1000	0	
+
+E 24   4707	*	1043	1764	*	2779	*	*	*	*	*	*	*	*	*	*	*	4780	*	*	24
+       68	4451	*	0	*	*	*	1751	1000	0	
+
+K 25   *	*	*	*	4184	*	3175	*	564	*	*	4129	*	*	4203	4425	*	*	*	*	25
+       85	4129	*	0	*	*	*	1751	1000	0	
+
+H 26   *	*	*	*	*	*	97	*	3944	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1751	0	0	
+
+Y 27   *	*	*	*	2290	*	*	*	*	*	*	*	*	*	*	*	*	*	*	330	27
+       0	*	*	*	*	*	*	1751	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1751	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1751	0	0	
+
+S 30   3377	*	*	*	*	4510	4306	*	*	4474	*	*	*	*	*	1839	1045	*	*	*	30
+       0	*	*	*	*	*	*	1751	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1751	0	0	
+
+A 32   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	1751	0	0	
+
+//

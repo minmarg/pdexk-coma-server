@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1wuwa_ g.13.1.1 (A:) Hordothionin {Barley (Hordeum vulgare) [TaxId: 4513]}
+FAM   g.13.1.1
+FILE  d1wuwa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wuwa_.a3m -v 1 
+DATE  Tue Jan 22 04:18:49 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  45 out of 47 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCEECCCCCCCCCHHHHCCCCCEECCCCCCCCCCCC
+>ss_conf
+986887533230010024888212111356210318878888889
+>Consensus
+KSCCxstxaRnxYNxCRxxGxxxxCAxxxgCkiisgxxCPxxypk
+>d1wuwa_ g.13.1.1 (A:) Hordothionin {Barley (Hordeum vulgare) [TaxId: 4513]}
+KSCCRSTLGRNCYNLCRVRGAQKLCANACRCKLTSGLKCPSSFPK
+>gi|1006767|emb|CAA57354.1|(19-63:124) Thionin class 4 [Tulipa gesneriana]   E=1e-05 s/c=1.17 id=43% cov=98%
+KSCFPSTAAKYCYNACRLPGCRPetICAARCGCKIISSGNCPPGY--
+>gi|21069037|dbj|BAB93112.1|(29-74:137) leaf thionin Asthi1 [Avena sativa]   E=3e-08 s/c=1.35 id=54% cov=102%
+KSCCKDIMARNCYNVCRIPGTPRpVCATTCRCKIISGNKCPKDYPK
+>gi|357111572|ref|XP_003557586.1|(29-74:135) PREDICTED: probable leaf thionin-like [Brachypodium distachyon]   E=2e-06 s/c=1.21 id=48% cov=102%
+KSCCKNTSSRLCYNACRkAGGSQGACASTCGCIHIDGKRCPADYPK
+>gi|135791|sp|P08943.2|THNB_VISAL(7-52:103) RecName: Full=Viscotoxin-B; Contains: RecName: Full=Viscotoxin-B; AltName: Full=Viscotoxin-B2; Contains: RecName: Full=Acidic protein; Flags: Precursor  E=2e-05 s/c=1.13 id=50% cov=102%
+KSCCPNTTGRNIYNTCRLGGGSRErCASLSGCKIISASTCPSDYPK
+>gi|545031|gb|AAB29760.1|(26-69:115) thionin precursor {clone Thi1Va1} [Viscum album=mistletoe, Peptide, 115 aa]  E=0.0003 s/c=1.10 id=47% cov=100%
+KICCRAPAGKKCYNLCTALLSSETCANTCYCKDVSGETCPADYP-
+>gi|802170|gb|AAB33011.1|(26-70:135) crambin precursor=thionin variant Thi2Ca12 [Crambe abyssinica, seeds, Peptide Partial, 135 aa]  E=2e-05 s/c=1.16 id=44% cov=100%
+KSCCPTKSARNTFDVCRLTGTSMgLCAAISECKILSVTKCPSNLP-
+>gi|242038833|ref|XP_002466811.1|(29-72:140) hypothetical protein SORBIDRAFT_01g014470 [Sorghum bicolor] >gi|241920665|gb|EER93809.1| hypothetical protein SORBIDRAFT_01g014470 [Sorghum bicolor]  E=3e-05 s/c=1.18 id=51% cov=82%
+KSCCPSRIARNMYNTCRFRGASReTCARFARCEIVQG---------
+>gi|802163|gb|AAB33004.1|(25-69:134) crambin precursor=thionin variant Thi2Ca2 [Crambe abyssinica, seeds, Peptide Partial, 134 aa]  E=0.0007 s/c=1.05 id=36% cov=100%
+KSCCPTPIARKTYVVCRLTGSTiASCIKYSGCITISGTQCPNGYP-
+>gi|215768993|dbj|BAH01222.1|(33-74:140) unnamed protein product [Oryza sativa Japonica Group]   E=3e-06 s/c=1.31 id=40% cov=93%
+KSCCPTTTARNIYNACRFAlGTRERCSKLSGCKIVDGKCKPP----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2695	0	0	
+
+S 2    *	*	*	*	*	*	*	3570	*	*	*	*	*	*	*	192	4620	*	*	*	2
+       0	*	*	*	*	*	*	2745	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2784	0	0	
+
+C 4    *	56	*	*	4722	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2784	0	0	
+
+R 5    *	*	*	*	*	*	*	*	1779	*	*	*	981	5206	2515	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2784	0	0	
+
+S 6    4104	*	3846	*	*	*	*	*	*	*	*	2208	*	*	5340	1462	1899	*	*	*	6
+       0	*	*	*	*	*	*	2784	0	0	
+
+T 7    *	*	4673	*	*	*	*	4099	4810	*	5489	*	3264	*	4877	*	501	*	*	*	7
+       0	*	*	*	*	*	*	2784	0	0	
+
+L 8    2582	*	*	*	*	*	*	2240	*	3306	4846	*	*	*	*	2781	1633	*	5825	*	8
+       0	*	*	*	*	*	*	2784	0	0	
+
+G 9    578	*	5340	*	*	2253	*	*	*	*	*	*	*	*	*	4010	*	4886	*	*	9
+       0	*	*	*	*	*	*	2784	0	0	
+
+R 10   *	*	*	*	*	*	*	5456	3380	*	*	*	*	*	182	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2784	0	0	
+
+N 11   *	*	*	*	5675	*	*	5489	3264	4556	*	447	*	*	*	4636	*	*	*	4722	11
+       0	*	*	*	*	*	*	2784	0	0	
+
+C 12   *	917	*	*	*	*	*	2655	*	*	4877	4636	*	4697	*	*	3011	3744	*	*	12
+       0	*	*	*	*	*	*	2784	0	0	
+
+Y 13   *	*	*	*	3720	*	*	*	*	*	*	*	*	*	*	*	*	*	*	114	13
+       0	*	*	*	*	*	*	2784	0	0	
+
+N 14   *	*	4810	*	*	*	*	*	*	*	*	123	*	*	*	*	*	4444	*	*	14
+       0	*	*	*	*	*	*	2784	0	0	
+
+L 15   2200	*	*	*	*	*	*	4463	*	2424	*	*	*	*	*	3005	3331	1614	*	*	15
+       0	*	*	*	*	*	*	2784	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2784	0	0	
+
+R 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	86	*	4104	*	*	*	17
+       83	4153	*	0	*	*	*	2784	1416	0	
+
+V 18   2504	*	*	*	2131	*	*	4183	5585	1145	*	*	*	*	*	5745	5740	5064	*	*	18
+       28	5726	*	0	*	*	*	2784	1000	0	
+
+R 19   2362	*	*	*	*	3160	*	*	*	3636	*	*	1951	*	2683	*	2534	5256	*	*	19
+       48	4920	*	0	*	*	*	2784	1336	0	
+
+G 20   *	*	*	*	*	141	*	*	*	3423	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2784	0	0	
+
+A 21   1911	4722	*	*	*	2469	*	*	*	*	*	*	4834	*	*	2991	1495	*	*	*	21
+       26	5825	*	1000	1000	*	*	2784	1000	0	
+
+Q 22   3466	*	*	*	*	*	*	*	*	*	*	*	1947	3480	2816	1424	4444	*	*	*	22
+       149	3353	*	0	*	*	*	2784	1556	0	
+
+K 23   4444	*	*	3361	*	5528	*	*	3529	*	4051	*	2962	3873	1261	4834	4673	*	*	*	23
+       879	1132	*	106	3822	*	*	2784	2345	0	
+
+L 24   4556	*	*	3377	*	*	*	2890	5454	2835	*	*	*	*	4814	3626	2393	1964	*	*	24
+       218	2834	*	0	*	*	*	2784	1867	0	
+
+C 25   *	84	*	*	5052	*	*	*	*	*	*	*	*	*	*	5256	*	*	*	*	25
+       0	*	*	*	*	*	*	2784	0	0	
+
+A 26   137	5454	*	*	*	*	*	4444	*	*	*	*	*	*	*	5535	*	*	*	*	26
+       0	*	*	*	*	*	*	2784	0	0	
+
+N 27   2875	*	4834	*	*	4208	*	*	2363	*	*	2304	*	*	3758	2417	3103	*	*	*	27
+       0	*	*	*	*	*	*	2784	0	0	
+
+A 28   4516	*	4636	*	4245	*	*	3478	5825	1658	4673	*	5456	*	4121	5726	2298	4285	*	4444	28
+       0	*	*	*	*	*	*	2784	0	0	
+
+C 29   4877	917	*	*	*	*	*	*	*	*	*	*	*	*	*	1336	4636	*	*	*	29
+       0	*	*	*	*	*	*	2784	0	0	
+
+R 30   *	*	3949	4810	*	696	*	*	*	*	*	*	*	*	2394	*	4886	*	*	4104	30
+       0	*	*	*	*	*	*	2784	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2784	0	0	
+
+K 32   *	*	*	4877	*	*	*	2074	493	*	*	*	*	*	*	*	5807	*	*	*	32
+       0	*	*	*	*	*	*	2784	0	0	
+
+L 33   *	*	4104	*	*	*	2796	637	*	3758	*	*	*	*	*	*	4444	4834	*	*	33
+       0	*	*	*	*	*	*	2784	0	0	
+
+T 34   *	*	*	*	4886	*	*	1074	*	3409	*	*	*	5105	*	4817	3482	2040	*	*	34
+       0	*	*	*	*	*	*	2784	0	0	
+
+S 35   *	*	1968	*	*	*	*	*	5726	*	*	*	4636	4877	4673	856	4071	*	*	*	35
+       0	*	*	*	*	*	*	2784	0	0	
+
+G 36   5985	*	5105	*	*	451	*	*	*	*	*	*	*	*	4673	3849	5573	3409	*	*	36
+       21	*	6110	*	*	*	*	2784	0	0	
+
+L 37   4496	*	*	4080	*	3173	*	*	3067	3822	*	2595	4611	*	*	2956	1942	*	*	*	37
+       0	*	*	*	*	0	*	2760	0	1000	
+
+K 38   *	3030	*	4611	*	5884	*	*	2290	*	*	4048	*	4412	3974	3779	1429	*	*	*	38
+       0	*	*	*	*	*	*	2753	0	0	
+
+C 39   *	188	*	*	*	*	*	*	3507	*	*	*	*	4859	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2753	0	0	
+
+P 40   *	*	*	*	*	*	*	*	5062	*	*	*	86	*	*	5171	*	*	*	*	40
+       0	*	*	*	*	*	*	2753	0	0	
+
+S 41   2878	*	6115	*	*	4513	*	*	3486	*	*	2961	1694	*	4409	2352	4797	*	*	*	41
+       0	*	*	*	*	*	*	2753	0	0	
+
+S 42   *	*	1071	5322	*	1738	*	*	*	*	*	3310	4831	*	*	3982	*	*	*	*	42
+       0	*	*	*	*	*	*	2751	0	0	
+
+F 43   *	*	*	*	2465	*	5108	*	*	3599	*	*	*	*	*	*	*	*	3296	724	43
+       0	*	*	*	*	*	*	2751	0	0	
+
+P 44   *	*	*	4016	*	*	*	*	*	*	*	*	344	*	3019	5220	*	*	*	*	44
+       0	*	*	*	*	*	*	2700	0	0	
+
+K 45   *	*	*	*	*	*	*	*	56	*	*	*	*	*	4703	*	*	*	*	*	45
+       0	*	*	0	*	*	*	2267	0	0	
+
+//

@@ -1,0 +1,280 @@
+HHsearch 1.5
+NAME  d1pbya2 a.3.1.7 (A:86-165) Quinohemoprotein amine dehydrogenase A chain, domains 1 and 2 {Paracoccus denitrificans [TaxId: 266]}
+FAM   a.3.1.7
+FILE  d1pbya2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1pbya2.a3m -v 1 
+DATE  Tue Jan 22 00:35:22 2013
+LENG  80 match states, 80 columns in multiple alignment
+FILT  37 out of 39 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHCCCCHHHHHHHCCCHHHHHHHHHHHHHHHHHCCCCCC
+>ss_conf
+97765564447888876531222453048998999998754300451222210013112566675467887861577779
+>Consensus
+xxxxxxxxexxxxmCarCHSxARxxlQRRtxxEWxxLxxfHlGqxPtxeyQAxxRdRdWxxiAxxexxxxLAxxxplxxa
+>d1pbya2 a.3.1.7 (A:86-165) Quinohemoprotein amine dehydrogenase A chain, domains 1 and 2 {Paracoccus denitrificans [TaxId: 266]}
+VAWDEGPDTSMTQTCGRCHSYARVALQRRTPEDWKHLVNFHLGQFPTLEYQALARDRDWWGIAQAEIIPFLARTYPLGEA
+>gi|384171422|ref|YP_005552799.1|(114-190:532) quinohemoprotein amine dehydrogenase alpha subunit [Arcobacter sp. L] >gi|345471032|dbj|BAK72482.1| quinohemoprotein amine dehydrogenase alpha subunit [Arcobacter sp. L]  E=1e-29 s/c=1.71 id=51% cov=98%
+---EEGKNELLTEMCVRCHSEARIGLQRRTSDEWNSLVNYHVAQFPSFEVQALARDKDWFGVAQNEVVPYLAENFGKDKA
+>gi|429335239|ref|ZP_19215876.1|(118-192:525) quinohemoprotein amine dehydrogenase subunit alpha [Pseudomonas putida CSV86] >gi|428760041|gb|EKX82318.1| quinohemoprotein amine dehydrogenase subunit alpha [Pseudomonas putida CSV86]  E=1e-30 s/c=1.80 id=53% cov=95%
+----ENIEEPTQQMCARCHSGARIALQRRPAQEWERLVHFHLGQWPSLEYQALSRDRDWFELAKKDMVPLLAQKYPFDS-
+>gi|372271667|ref|ZP_09507715.1|(122-197:532) hypothetical protein MstaS_11349 [Marinobacterium stanieri S30]   E=3e-27 s/c=1.63 id=47% cov=96%
+---ETGIEPGTAEMCARCHSGARFSLQRRTEQEWKYLVDFHMGQFPTTEFHSLARDRQWFDIARNDTAVKLAEQFPFET-
+>gi|410460095|ref|ZP_11313780.1|(131-206:545) quinohemoprotein amine dehydrogenase, 60 kDa subunit [Bacillus azotoformans LMG 9581] >gi|409927571|gb|EKN64703.1| quinohemoprotein amine dehydrogenase, 60 kDa subunit [Bacillus azotoformans LMG 9581]  E=2e-21 s/c=1.38 id=35% cov=90%
+-----PENELMAESCIQCHAGARPLAQYRTEDEWKKIKDFHIGMNPSIVY--IMRSMDWVDNA-EKIAEYLAKTNPMET-
+>gi|408418102|ref|YP_006759516.1|(126-194:545) quinohemoprotein amine dehydrogenase subunit alpha QhpA [Desulfobacula toluolica Tol2] >gi|405105315|emb|CCK78812.1| QhpA: predicted quinohemoprotein amine dehydrogenase, alpha subunit [Desulfobacula toluolica Tol2]  E=2e-15 s/c=1.23 id=29% cov=79%
+--------------CVRCHTFGKIASHKMTKDQWNENRNLHLGYYPTVIPQM--REMDWYK-ESEALNEPLSKLFAFDT-
+>gi|56476668|ref|YP_158257.1|(122-198:538) quinohemoprotein amine dehydrogenase, 60 kDa subunit [Aromatoleum aromaticum EbN1] >gi|56312711|emb|CAI07356.1| quinohemoprotein amine dehydrogenase, 60 kDa subunit [Aromatoleum aromaticum EbN1]  E=6e-28 s/c=1.65 id=46% cov=98%
+---EHPENKLVGDTCARCHSYGRIAVQRRTEDDWRKLVHFHVGQFPAIEIQAGGRDRNWFDIATGDTVKALAEQYGFDSA
+>gi|254467694|ref|ZP_05081102.1|(109-185:507) quinohemoprotein amine dehydrogenase, alpha subunit [Rhodobacterales bacterium Y4I] >gi|206684268|gb|EDZ44753.1| quinohemoprotein amine dehydrogenase, alpha subunit [Rhodobacterales bacterium Y4I]  E=4e-27 s/c=1.61 id=49% cov=98%
+---QESFDEPFASMCARCHTGARGLLQNRTAEEWALHMDFHVGHFPTIEYQALGRDREWYKIAKTEIAGYLADQNPLETA
+>gi|326387247|ref|ZP_08208857.1|(151-213:604) quinohemoprotein amine dehydrogenase, 60 kDa subunit [Novosphingobium nitrogenifigens DSM 19370] >gi|326208428|gb|EGD59235.1| quinohemoprotein amine dehydrogenase, 60 kDa subunit [Novosphingobium nitrogenifigens DSM 19370]  E=2e-13 s/c=1.25 id=34% cov=80%
+------PSESLRTACAACHAFAQPLSWRRSAAEWKLLQEFHIALYS----QADAQYR---KPATDEPGATLGQTTP----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	1012	*	*	*	*	*	*	*	*	*	988	*	*	1
+       0	*	*	*	*	*	*	1444	0	0	
+
+A 2    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1444	0	0	
+
+W 3    *	*	*	2141	*	*	*	*	*	*	*	*	*	*	*	*	1872	*	1000	*	3
+       0	*	*	*	*	*	*	1444	0	0	
+
+D 4    *	*	1311	1041	*	*	*	*	*	*	*	*	*	3173	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2449	0	0	
+
+E 5    *	*	*	870	*	*	4211	*	*	*	*	*	*	4271	*	4576	2601	2834	*	*	5
+       0	*	*	*	*	*	*	2577	0	0	
+
+G 6    2725	*	*	4483	4406	1862	4394	*	*	3974	*	4298	2335	*	*	4034	4045	*	*	*	6
+       0	*	*	*	*	*	*	2719	0	0	
+
+P 7    4611	*	*	2546	4135	*	*	2723	3498	*	*	*	1153	*	*	*	*	4600	*	*	7
+       0	*	*	*	*	*	*	2872	0	0	
+
+D 8    *	*	1823	2878	*	*	*	*	*	*	*	1533	*	*	*	2273	5113	*	*	*	8
+       0	*	*	*	*	*	*	2892	0	0	
+
+T 9    3534	*	5516	793	*	4856	*	*	4158	*	*	5138	4957	3277	*	5591	4651	*	*	*	9
+       0	*	*	*	*	*	*	2963	0	0	
+
+S 10   3495	*	*	2742	*	4957	4197	*	4382	2363	4761	5591	3249	3381	4856	3554	4205	*	*	*	10
+       0	*	*	*	*	*	*	2963	0	0	
+
+M 11   *	*	*	*	2361	*	*	3003	*	1892	2405	*	*	*	*	*	3535	3621	*	4187	11
+       0	*	*	*	*	*	*	2963	0	0	
+
+T 12   2036	*	*	3490	*	3297	*	*	5433	*	*	5619	*	5676	2705	3714	2033	5138	*	*	12
+       42	5138	*	0	*	*	*	2963	1000	0	
+
+Q 13   *	*	3128	1582	*	3643	*	*	3907	*	*	*	*	1707	*	4763	4020	*	*	*	13
+       0	*	*	*	*	*	*	2978	0	0	
+
+T 14   3501	*	*	*	*	*	*	*	*	*	906	*	*	*	*	2729	2137	*	*	*	14
+       0	*	*	*	*	*	*	2978	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	3151	0	0	
+
+G 16   972	*	*	*	*	2830	*	3244	*	*	*	*	*	*	*	4087	4265	2909	*	*	16
+       0	*	*	*	*	*	*	3151	0	0	
+
+R 17   4137	*	*	*	*	4265	*	*	*	*	*	*	*	4298	434	3321	*	*	*	*	17
+       0	*	*	*	*	*	*	3151	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3151	0	0	
+
+H 19   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3151	0	0	
+
+S 20   2267	*	*	*	*	*	*	*	*	*	*	*	*	*	*	672	2603	*	*	*	20
+       0	*	*	*	*	*	*	3151	0	0	
+
+Y 21   3668	*	*	4205	2262	1356	*	*	*	5631	*	*	*	*	*	4265	*	*	5335	2549	21
+       0	*	*	*	*	*	*	3151	0	0	
+
+A 22   397	*	*	*	*	2054	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3151	0	0	
+
+R 23   *	*	*	*	*	*	*	*	3664	*	*	*	*	3291	288	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3151	0	0	
+
+V 24   4921	*	*	*	3632	4940	*	1751	*	*	*	*	2013	*	*	4265	*	1960	*	*	24
+       0	*	*	*	*	*	*	3151	0	0	
+
+A 25   1125	*	*	5837	*	2984	*	*	5660	1840	4797	*	*	4921	*	5082	*	*	*	*	25
+       0	*	*	*	*	*	*	3151	0	0	
+
+L 26   3244	*	*	*	*	*	*	*	*	650	*	*	*	*	*	2465	*	3716	*	*	26
+       0	*	*	*	*	*	*	3151	0	0	
+
+Q 27   *	*	*	*	*	*	3664	*	*	*	*	*	*	288	*	*	*	*	3291	*	27
+       0	*	*	*	*	*	*	3151	0	0	
+
+R 28   *	*	*	*	*	*	*	*	3664	*	*	4940	*	4921	415	*	*	*	*	3244	28
+       0	*	*	*	*	*	*	3151	0	0	
+
+R 29   *	*	*	*	*	*	*	*	*	*	3664	*	*	*	119	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3151	0	0	
+
+T 30   *	*	4243	*	*	*	*	*	*	*	*	*	2103	*	*	2905	784	*	*	*	30
+       0	*	*	*	*	*	*	3151	0	0	
+
+P 31   1763	*	*	1759	*	*	*	*	2747	4921	*	*	3488	4730	*	5156	4265	5564	*	*	31
+       0	*	*	*	*	*	*	3151	0	0	
+
+E 32   2344	*	1781	2072	*	4243	*	*	4775	5424	*	5255	*	3333	*	4786	*	*	*	*	32
+       0	*	*	*	*	*	*	3151	0	0	
+
+D 33   *	*	2555	413	*	*	*	*	*	*	*	*	*	3664	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3151	0	0	
+
+W 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	34
+       0	*	*	*	*	*	*	3151	0	0	
+
+K 35   3414	*	5564	1923	*	*	*	*	1915	5191	*	2706	*	4265	3300	5503	*	*	*	*	35
+       0	*	*	*	*	*	*	3151	0	0	
+
+H 36   *	*	*	3664	*	*	2348	*	1376	2452	*	*	*	*	4338	4205	5424	*	*	5082	36
+       0	*	*	*	*	*	*	3151	0	0	
+
+L 37   *	*	*	*	*	*	3785	4298	*	326	*	3664	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3151	0	0	
+
+V 38   *	*	*	*	*	*	*	3222	3244	4875	2518	*	*	3641	3309	*	*	1331	*	*	38
+       0	*	*	*	*	*	*	3151	0	0	
+
+N 39   *	*	2115	4137	*	*	1402	*	*	*	*	1582	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3151	0	0	
+
+F 40   *	*	*	*	440	*	*	*	*	3009	*	*	*	*	*	*	3570	*	*	4205	40
+       0	*	*	*	*	*	*	3151	0	0	
+
+H 41   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3143	0	0	
+
+L 42   *	*	*	*	*	*	*	2361	*	1171	3611	*	*	*	*	*	*	1839	*	*	42
+       0	*	*	*	*	*	*	3143	0	0	
+
+G 43   2239	*	*	*	*	381	*	*	*	*	*	*	*	*	*	5639	*	*	*	*	43
+       0	*	*	*	*	*	*	3143	0	0	
+
+Q 44   *	*	*	*	4148	*	4940	*	*	3033	4273	*	*	651	5726	*	*	*	*	3619	44
+       0	*	*	*	*	*	*	3134	0	0	
+
+F 45   *	*	*	*	1300	*	*	*	*	*	*	2836	*	*	*	*	*	4217	2130	2543	45
+       0	*	*	*	*	*	*	3134	0	0	
+
+P 46   *	*	*	*	*	*	*	*	*	*	*	*	160	4898	*	3803	*	*	*	*	46
+       107	*	3803	*	*	*	*	3129	0	0	
+
+T 47   3611	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1287	976	*	*	*	47
+       0	*	*	*	*	*	0	3000	0	1000	
+
+L 48   3357	*	*	*	4036	*	*	1920	*	1705	3862	*	*	*	*	*	3237	3387	*	*	48
+       0	*	*	*	*	*	0	3000	0	1000	
+
+E 49   *	*	*	363	*	*	*	2605	*	*	*	*	*	*	*	*	*	4105	*	*	49
+       0	*	*	*	*	*	0	3000	0	1000	
+
+Y 50   *	*	*	*	3492	*	*	3611	*	4794	*	*	3387	*	*	*	*	4036	*	651	50
+       86	*	4105	*	*	0	*	3000	0	1000	
+
+Q 51   *	*	*	*	*	*	3925	*	*	4157	*	*	*	335	*	3553	*	*	*	*	51
+       0	*	*	*	*	*	0	3090	0	1000	
+
+A 52   383	*	*	*	*	*	*	*	*	*	2578	*	*	*	*	3925	*	*	*	*	52
+       141	*	3429	*	*	0	*	3090	0	1000	
+
+L 53   *	*	3605	*	*	2863	*	4075	*	1228	2931	*	*	3451	3806	*	*	*	*	*	53
+       0	*	*	*	*	*	0	2950	0	1000	
+
+A 54   1082	*	*	*	*	1899	4188	*	*	*	4075	*	*	*	*	3760	3806	*	*	*	54
+       0	*	*	*	*	0	*	2950	0	1000	
+
+R 55   *	*	*	*	*	*	*	*	*	*	*	*	*	2928	203	*	*	*	*	*	55
+       0	*	*	*	*	*	*	3129	0	0	
+
+D 56   *	*	455	3540	*	*	*	*	4065	*	*	*	*	*	*	4238	*	*	*	3803	56
+       89	*	4065	*	*	*	*	3129	0	0	
+
+R 57   *	*	*	*	*	*	*	*	5057	*	2612	*	*	*	310	*	*	*	*	*	57
+       121	*	3640	*	*	*	0	3055	0	1000	
+
+D 58   5348	*	736	3319	*	*	*	*	*	*	*	2808	4079	3774	*	*	*	*	*	*	58
+       0	*	*	*	*	*	0	2907	0	1511	
+
+W 59   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	59
+       0	*	*	*	*	916	1089	2907	0	1511	
+
+W 60   *	*	*	*	1332	*	*	*	*	2378	*	*	*	*	*	*	*	4105	2170	2942	60
+       0	*	*	*	*	0	*	3000	0	1000	
+
+G 61   *	*	1839	2666	*	2976	*	*	1943	*	*	*	3874	3773	*	*	4858	*	*	*	61
+       130	*	3540	*	*	*	*	3129	0	0	
+
+I 62   *	*	*	3806	*	*	*	1202	*	2523	*	4075	3605	*	*	*	5791	3018	*	4763	62
+       0	*	*	*	*	0	*	2950	0	1000	
+
+A 63   287	*	*	2779	*	*	*	*	*	*	*	*	*	*	*	*	*	4858	*	*	63
+       79	*	4238	*	*	*	*	3129	0	0	
+
+Q 64   *	*	*	*	*	*	*	*	3745	1880	*	3987	*	3076	2808	2578	2978	4835	*	*	64
+       0	*	*	*	*	0	*	3090	0	1000	
+
+A 65   5730	*	2817	1967	*	3699	*	*	2804	*	*	2008	*	5813	*	4858	4002	*	*	*	65
+       0	*	*	*	*	*	*	3129	0	0	
+
+E 66   3540	*	2618	1029	*	*	*	*	2943	*	*	*	*	2933	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	3129	0	0	
+
+I 67   5215	*	*	*	*	*	*	2534	*	2847	2226	*	3803	*	*	*	2897	2048	*	*	67
+       0	*	*	*	*	*	*	3129	0	0	
+
+I 68   1816	*	*	*	*	3803	*	3387	*	4858	*	3540	4237	*	*	*	*	1414	*	*	68
+       0	*	*	*	*	*	*	3129	0	0	
+
+P 69   3803	*	5453	2331	*	4925	*	*	4320	*	*	*	1044	*	*	5176	*	3170	*	*	69
+       0	*	*	*	*	*	*	3129	0	0	
+
+F 70   3310	*	*	2804	3831	*	*	*	3160	2951	5256	*	3540	*	5302	*	3803	*	4898	2308	70
+       0	*	*	*	*	*	*	3129	0	0	
+
+L 71   *	*	*	*	*	*	*	*	*	80	4206	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	3129	0	0	
+
+A 72   446	*	*	5195	*	2711	*	*	*	*	*	*	*	*	*	3540	*	*	*	*	72
+       0	*	*	*	*	*	*	3129	0	0	
+
+R 73   5302	*	4925	1634	*	5176	*	*	1269	*	*	*	*	3482	3843	5821	*	*	*	*	73
+       0	*	*	*	*	*	*	3129	0	0	
+
+T 74   *	*	3640	5720	*	4206	*	*	4814	2847	5767	3462	*	3146	2718	*	1746	*	*	*	74
+       0	*	*	*	*	*	*	3129	0	0	
+
+Y 75   *	*	*	*	1907	*	4065	*	*	4794	*	3541	*	4296	*	*	3803	*	*	1221	75
+       0	*	*	*	*	*	*	3129	0	0	
+
+P 76   2470	*	4895	*	*	3079	*	*	*	*	*	*	583	*	*	*	*	*	*	*	76
+       0	*	*	*	*	*	*	3127	0	0	
+
+L 77   *	*	*	*	1794	*	*	*	4555	980	3012	*	*	*	*	*	*	*	*	4718	77
+       0	*	*	*	*	*	*	2985	0	0	
+
+G 78   *	*	1229	1560	*	3012	*	*	*	*	*	*	*	3181	*	*	*	*	*	*	78
+       0	*	*	*	*	*	*	2730	0	0	
+
+E 79   *	*	5351	5237	*	*	*	*	3635	*	*	3934	*	4554	*	1479	1315	*	*	*	79
+       0	*	*	*	*	*	*	2730	0	0	
+
+A 80   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	80
+       0	*	*	0	*	*	*	2162	0	0	
+
+//

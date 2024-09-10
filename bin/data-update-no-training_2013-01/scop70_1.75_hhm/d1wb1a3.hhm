@@ -1,0 +1,403 @@
+HHsearch 1.5
+NAME  d1wb1a3 b.44.1.1 (A:272-387) Elongation factor SelB, domain 3 {Methanococcus maripaludis [TaxId: 39152]}
+FAM   b.44.1.1
+FILE  d1wb1a3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wb1a3.a3m -v 1 
+DATE  Tue Jan 22 04:16:33 2013
+LENG  116 match states, 116 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CEEEEEEEEEEEEECCCCCCCCCCCEEEEEEEEEEEECEEEEEEEEEECCCCCCCEEEECCCCCCEEEEEEEECCCEEEECCCEEEEEEECCCCCEEEEE
+CCCEEECCCCCCCCCC
+>ss_conf
+9123235454455301212368840599985223552425510244430788676773302788605899980771345218808999854897525553
+1421321467301259
+>Consensus
+kLxvvdkxvaKikixdlFkynlxpKmkvHlnvGmlxVPAxiiPxkxxxxxxkxexiiLxevxxGxxcYcxfxLxEkVxxexGDriLIxRLDLPPTTLRIc
+GxGxvxxFxxxxxxxi
+>d1wb1a3 b.44.1.1 (A:272-387) Elongation factor SelB, domain 3 {Methanococcus maripaludis [TaxId: 39152]}
+KLQTVDKIVAKIKISDIFKYNLTPKMKVHLNVGMLIVPAVAVPFKKVTFGKTEENIILNEVISGNECYCAFELEEKVLAEVGDRVLITRLDLPPTTLRIC
+GHGLIEEFKPIKDLNI
+>gi|150401205|ref|YP_001324971.1|(272-387:468) selenocysteine-specific translation elongation factor [Methanococcus aeolicus Nankai-3] >gi|150013908|gb|ABR56359.1| selenocysteine-specific translation elongation factor [Methanococcus aeolicus Nankai-3]  E=1e-45 s/c=1.60 id=74% cov=101%
+KLEIVDKIVAKIKMSDIFRYNIKPKMKVHLNVGMLIVPAIVVPFKKIKFKGKEENIILKEIQKGDECYCSFELDEKVMAEIGDNILITRLDLPPTTLRIC
+GRGEIVEFKSMKDLNI
+>gi|20093588|ref|NP_613435.1|(268-365:459) GTPase - translation elongation factor [Methanopyrus kandleri AV19] >gi|19886447|gb|AAM01365.1| GTPase - translation elongation factor [Methanopyrus kandleri AV19]  E=4e-13 s/c=0.80 id=37% cov=85%
+-LRVTRYLDLKVEIDPLFPQSIGQKTMLHIHVGMRSVPARIVPH--------DDGFLLDSLRPGESSYLYAKLNEPVAVREGDRTILVKLDLPPTTLRIA
+GSGLVED---------
+>gi|374635482|ref|ZP_09707080.1|(274-389:470) selenocysteine-specific translation elongation factor [Methanotorris formicicus Mc-S-70] >gi|373562132|gb|EHP88350.1| selenocysteine-specific translation elongation factor [Methanotorris formicicus Mc-S-70]  E=4e-45 s/c=1.59 id=78% cov=101%
+KLEVVDKIVAKVKISDIFKYNLTPKMKVHLNVGMMVVPATVVPFQKMDFEGKEVNIILNEVKKGDECYCAFELEEKVVAEIGDRVLITRLDLPPTTLRIC
+GHGNVAEFKGIEELNI
+>gi|150399398|ref|YP_001323165.1|(272-387:468) selenocysteine-specific translation elongation factor [Methanococcus vannielii SB] >gi|150012101|gb|ABR54553.1| selenocysteine-specific translation elongation factor [Methanococcus vannielii SB]  E=1e-44 s/c=1.57 id=86% cov=101%
+KLQAVNKIVAKIRVSDIFKYNLTPKMKVHLNVGMLIVPAVIVPFKKVDFRNYTENVILDEVVSGNECYCAFELEEKVLAEFGDRVLITRLDLPPTTLRIC
+GHGVIEEFKPIKDLNI
+>gi|297619149|ref|YP_003707254.1|(300-417:529) selenocysteine-specific translation elongation factor [Methanococcus voltae A3] >gi|297378126|gb|ADI36281.1| selenocysteine-specific translation elongation factor [Methanococcus voltae A3]  E=7e-42 s/c=1.47 id=72% cov=101%
+KLQMVDKIVAKVKISDIFRYNLTPKMTVHLNVGMLTVPAKVITYKKVINpqNNNTENLIVNQVGAGQECYCSFELDDKVLAEVGDRILITRLDLPPTTLR
+ICGHGTIEGFESLKDLDI
+>gi|336121432|ref|YP_004576207.1|(171-468:468) selenocysteine-specific translation elongation factor [Methanothermococcus okinawensis IH1] >gi|334855953|gb|AEH06429.1| selenocysteine-specific translation elongation factor [Methanothermococcus okinawensis IH1]  E=1e-119 s/c=0.55 id=72% cov=101%
+NLKIVNNIVAKIKISDIFKYSIKPKMKVHLNVGMLIVPAIAIPFKKIEINGKTENIILKEVAKGDECYCAFELDENVVAEVGDSILITRLDLPPTTLRIC
+GKGEIVEFISAKDLNI
+>gi|15668672|ref|NP_247471.1|(177-469:469) EF-1 alpha family translation factor [Methanocaldococcus jannaschii DSM 2661] >gi|2833515|sp|Q57918.1|SELB_METJA RecName: Full=Selenocysteine-specific elongation factor; AltName: Full=SelB translation factor >gi|1591199|gb|AAB98485.1| putative translation factor, EF-1 alpha family [Methanocaldococcus jannaschii DSM 2661]  E=1e-114 s/c=0.55 id=54% cov=101%
+KLKVVDKFIAKVKILELFKYNLAPKMKVHINIGLLTVPATIIPYKIEKINDKEEPIILEEIKGGDSCYCIFKLEERVVVDEGDKILIMRLDLPPTTLRIC
+GFGEVIDFGEVEVKKI
+>gi|296109932|ref|YP_003616881.1|(170-458:458) selenocysteine-specific translation elongation factor [methanocaldococcus infernus ME] >gi|295434746|gb|ADG13917.1| selenocysteine-specific translation elongation factor [Methanocaldococcus infernus ME]  E=1e-109 s/c=0.44 id=49% cov=95%
+KLRVTDQFVAKIRVVDLFKYNLAPKMKVHLHMNLLTVTATIIPFTHY----KGHSIVLKEVKAGSSCYCLIKLDEKIVVEEKDKILILRLDLPPTTLRIA
+GFGEVLSFDIPE---L
+>gi|261402649|ref|YP_003246873.1|(270-385:463) selenocysteine-specific translation elongation factor [Methanocaldococcus vulcanius M7] >gi|261369642|gb|ACX72391.1| selenocysteine-specific translation elongation factor [Methanocaldococcus vulcanius M7]  E=1e-40 s/c=1.47 id=60% cov=101%
+KLKVVDKFIAKIKILDLFKYDLTPKMKVHVNVGLLTVPATIIPYTLEKINDKEEPIVLNEVKKGMSCYCMFKLEEKVVVEEGDKLLIMRLDLPPTTLRIC
+GFGRIVDFKNVDLKKI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	149	*	*	3350	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1835	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2092	0	0	
+
+Q 3    *	*	*	2699	*	*	*	*	1630	*	*	*	*	2026	1850	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2092	0	0	
+
+T 4    3698	*	*	*	*	*	*	2655	*	*	3371	*	*	*	*	*	3801	747	*	*	4
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 5    *	*	*	*	*	*	*	3625	*	*	*	*	*	*	*	*	1850	640	*	*	5
+       0	*	*	*	*	*	*	2092	0	0	
+
+D 6    *	*	563	*	*	*	*	*	*	*	*	2655	*	*	2606	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 7    *	*	*	*	*	*	*	*	642	*	*	3613	*	3145	*	*	*	*	*	2606	7
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 8    *	*	*	*	1496	*	*	1055	*	2606	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 9    *	*	2606	*	*	*	*	2050	*	*	*	*	*	*	*	*	*	751	*	*	9
+       0	*	*	*	*	*	*	2092	0	0	
+
+A 10   259	*	*	*	*	*	*	*	*	2606	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 11   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 12   *	*	*	*	*	*	*	995	*	*	*	*	*	*	*	*	*	1005	*	*	12
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 13   *	*	*	2606	*	*	*	*	631	*	*	*	*	*	2395	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 14   *	*	*	*	*	*	*	448	*	*	3699	*	*	*	*	*	*	2395	*	*	14
+       0	*	*	*	*	*	*	2092	0	0	
+
+S 15   *	*	2606	*	*	*	*	*	*	2050	*	*	*	*	*	1055	*	3145	*	*	15
+       0	*	*	*	*	*	*	2092	0	0	
+
+D 16   *	*	566	3660	*	*	*	*	*	*	*	3625	2606	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 17   *	*	*	*	*	*	*	1055	*	947	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2092	0	0	
+
+F 18   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 19   *	*	*	*	*	*	*	*	595	*	*	*	2606	*	2525	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2092	0	0	
+
+Y 20   *	*	*	*	*	*	*	*	*	*	*	*	*	2606	*	*	*	*	*	259	20
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 21   *	*	3621	*	*	*	*	*	*	*	*	572	*	*	*	2023	*	*	*	*	21
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 22   *	*	*	*	*	*	*	1630	*	563	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2092	0	0	
+
+T 23   1872	*	*	*	*	2606	*	*	2655	*	*	*	*	*	*	*	1308	*	*	*	23
+       0	*	*	*	*	*	*	2092	0	0	
+
+P 24   *	*	*	*	*	*	*	*	*	*	*	*	259	2606	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 25   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2092	0	0	
+
+M 26   *	*	*	*	*	*	*	*	*	*	259	*	*	*	*	*	2606	*	*	*	26
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 27   *	*	*	*	*	*	*	*	436	*	2606	*	*	*	*	*	3371	*	*	*	27
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 28   *	*	*	*	*	*	*	*	*	2606	*	*	*	*	*	*	*	259	*	*	28
+       0	*	*	*	*	*	*	2092	0	0	
+
+H 29   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 30   *	*	*	*	*	*	*	1624	*	751	*	*	*	*	*	*	*	3621	*	*	30
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 31   *	*	*	*	*	*	1850	*	*	*	*	469	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 32   *	*	*	*	*	*	*	2642	*	*	3145	*	*	*	*	*	*	460	*	*	32
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 33   *	*	*	*	*	173	*	*	*	*	*	3145	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2092	0	0	
+
+M 34   *	*	*	*	*	*	*	*	*	1496	631	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	398	3699	*	*	*	2606	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 36   *	*	*	*	*	*	*	1701	*	*	*	*	*	*	*	2606	1148	3699	*	*	36
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	37
+       0	*	*	*	*	*	*	2092	0	0	
+
+P 38   *	*	*	*	*	*	*	*	*	*	*	*	173	*	*	*	3145	*	*	*	38
+       0	*	*	*	*	*	*	2092	0	0	
+
+A 39   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 40   *	*	*	*	*	*	*	2655	3371	*	*	*	*	*	2606	*	1213	2749	*	*	40
+       0	*	*	*	*	*	*	2092	0	0	
+
+A 41   2704	*	*	*	*	*	*	747	*	*	*	*	*	*	*	*	*	1996	*	*	41
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 42   *	*	*	*	*	*	*	908	*	*	*	*	*	*	*	*	*	1098	*	*	42
+       0	*	*	*	*	*	*	2092	0	0	
+
+P 43   *	*	*	*	*	*	*	*	*	*	*	*	147	*	*	*	3371	*	*	*	43
+       0	*	*	*	*	*	*	2092	0	0	
+
+F 44   *	*	*	*	1007	*	2606	*	*	*	*	*	*	*	*	*	*	*	*	1564	44
+       259	*	2606	*	*	*	*	2092	0	0	
+
+K 45   *	*	*	*	*	*	*	*	570	*	*	*	*	3453	*	*	2090	*	*	*	45
+       0	*	*	*	*	*	0	1835	0	1000	
+
+K 46   *	*	*	*	*	*	2850	3382	806	3378	3359	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	0	1835	0	1000	
+
+V 47   *	*	*	1788	*	*	*	2399	*	*	3453	*	*	*	*	*	*	1782	*	2850	47
+       215	*	2850	*	*	*	0	1835	0	1000	
+
+T 48   *	*	2231	3154	*	*	*	2978	1148	*	*	*	*	*	*	*	3371	*	*	*	48
+       0	*	*	*	*	*	0	1721	0	1503	
+
+F 49   *	*	*	*	1273	*	*	1550	*	*	*	2978	*	*	*	*	*	3085	*	*	49
+       196	2978	*	1000	1000	*	0	1721	1000	1503	
+
+G 50   *	*	*	3252	*	3371	*	*	3263	*	*	770	*	*	3211	*	*	*	*	*	50
+       0	*	*	*	*	*	0	1721	0	1503	
+
+K 51   *	*	1527	*	*	1637	*	*	3371	*	*	2090	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	945	1058	1721	0	1503	
+
+T 52   *	*	*	*	*	*	*	*	496	*	*	3141	*	*	*	*	3557	*	*	3435	52
+       0	*	*	*	*	0	*	1835	0	1000	
+
+E 53   *	*	2606	1098	*	3145	*	*	*	*	*	*	*	*	*	*	1969	*	*	*	53
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 54   *	*	2606	825	*	*	3145	*	*	*	*	*	*	*	*	*	*	2661	*	*	54
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 55   *	*	*	*	*	2606	*	*	*	*	*	1055	2050	*	*	3145	*	*	*	*	55
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 56   *	*	*	*	2606	*	*	595	*	3371	*	*	*	*	*	*	*	3698	*	*	56
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 57   *	*	*	*	*	*	*	836	*	2606	*	*	*	*	*	*	*	1861	*	*	57
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 58   *	*	*	*	*	*	*	*	*	147	*	*	*	*	*	*	*	3371	*	*	58
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 59   *	*	2051	2642	*	*	*	*	1879	*	*	1614	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 60   *	*	*	436	*	*	*	*	*	*	*	*	*	3371	*	2606	*	*	*	*	60
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 61   *	*	*	*	*	*	*	2076	*	2606	*	*	*	*	*	*	*	740	*	*	61
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 62   3613	*	*	*	*	3371	*	3801	1213	*	*	*	*	3699	2606	*	*	3698	*	*	62
+       0	*	*	*	*	*	*	2092	0	0	
+
+S 63   2253	*	*	*	*	2642	*	*	1657	*	*	*	2606	*	*	2749	*	*	*	*	63
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 64   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2092	0	0	
+
+N 65   *	*	1337	2606	*	*	*	*	*	*	3621	2749	*	3371	*	3145	*	*	*	*	65
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 66   *	*	*	1055	*	*	*	*	*	*	*	*	*	*	*	947	*	*	*	*	66
+       0	*	*	*	*	*	*	2092	0	0	
+
+C 67   *	259	*	*	*	*	*	*	*	*	*	*	*	*	*	2606	*	*	*	*	67
+       0	*	*	*	*	*	*	2092	0	0	
+
+Y 68   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	68
+       0	*	*	*	*	*	*	2092	0	0	
+
+C 69   *	259	*	*	*	*	*	*	*	2606	*	*	*	*	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	2092	0	0	
+
+A 70   1701	*	*	*	*	*	*	2642	*	3145	3621	*	*	*	*	2525	*	*	*	2606	70
+       0	*	*	*	*	*	*	2092	0	0	
+
+F 71   2606	*	*	*	469	*	*	3145	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 72   *	*	*	1055	*	*	*	*	947	*	*	*	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 73   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 74   *	*	1154	1373	*	*	*	*	*	*	*	2606	*	*	*	*	*	*	*	*	74
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 75   *	*	3371	147	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	2092	0	0	
+
+K 76   *	*	*	*	*	*	*	*	567	*	*	3613	2606	*	3660	*	*	*	*	*	76
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 77   *	*	*	*	*	*	*	3145	*	*	*	*	*	*	*	*	*	173	*	*	77
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 78   2606	*	*	*	*	*	*	*	*	2026	3699	*	*	*	*	*	*	962	*	*	78
+       0	*	*	*	*	*	*	2092	0	0	
+
+A 79   1055	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	947	*	*	79
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 80   *	*	2642	566	*	*	*	*	*	*	*	*	*	*	2606	*	*	*	*	*	80
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 81   *	*	*	947	3698	*	*	2699	*	*	*	*	*	*	*	*	*	1999	*	*	81
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 82   *	*	*	*	*	173	*	*	3145	*	*	*	*	*	*	*	*	*	*	*	82
+       0	*	*	*	*	*	*	2092	0	0	
+
+D 83   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	83
+       0	*	*	*	*	*	*	2092	0	0	
+
+R 84   *	*	*	*	*	*	*	*	1496	*	*	3699	*	*	1039	3613	*	*	*	*	84
+       0	*	*	*	*	*	*	2092	0	0	
+
+V 85   *	*	*	*	*	*	*	1160	*	3621	*	*	*	*	*	*	2606	1704	*	*	85
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 86   *	*	*	*	*	*	*	2606	*	259	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 87   *	*	*	*	*	*	*	259	*	2606	*	*	*	*	*	*	*	*	*	*	87
+       0	*	*	*	*	*	*	2092	0	0	
+
+T 88   *	*	*	*	*	*	*	*	*	3145	2050	*	*	*	*	*	1055	2606	*	*	88
+       0	*	*	*	*	*	*	2092	0	0	
+
+R 89   *	*	*	*	*	*	*	*	2606	*	*	*	*	*	259	*	*	*	*	*	89
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 90   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	2092	0	0	
+
+D 91   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	91
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 92   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	92
+       0	*	*	*	*	*	*	2092	0	0	
+
+P 93   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	93
+       0	*	*	*	*	*	*	2092	0	0	
+
+P 94   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	94
+       0	*	*	*	*	*	*	2092	0	0	
+
+T 95   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	95
+       0	*	*	*	*	*	*	2092	0	0	
+
+T 96   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	96
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 97   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	97
+       0	*	*	*	*	*	*	2092	0	0	
+
+R 98   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	98
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 99   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	2092	0	0	
+
+C 100  1850	469	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	100
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 101  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	101
+       0	*	*	*	*	*	*	2092	0	0	
+
+H 102  *	*	*	*	1496	*	1633	*	3613	*	*	*	*	*	3699	2606	*	*	*	*	102
+       0	*	*	*	*	*	*	2092	0	0	
+
+G 103  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	103
+       0	*	*	*	*	*	*	2092	0	0	
+
+L 104  *	*	*	1211	*	*	*	*	*	2083	*	3699	*	*	3621	*	3371	3698	*	*	104
+       0	*	*	*	*	*	*	2092	0	0	
+
+I 105  *	*	*	*	*	*	*	1042	*	*	*	*	*	*	*	*	*	959	*	*	105
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 106  3699	*	*	1287	*	*	*	2642	*	3145	*	*	*	*	*	*	*	2059	*	*	106
+       0	*	*	*	*	*	*	2092	0	0	
+
+E 107  *	*	1623	1379	*	2492	*	*	*	*	*	*	*	*	*	3145	*	*	*	*	107
+       0	*	*	*	*	*	*	2092	0	0	
+
+F 108  *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	108
+       0	*	*	*	*	*	*	1835	0	0	
+
+K 109  *	*	2850	2246	*	3382	*	3350	1131	*	*	*	*	*	*	*	*	*	*	*	109
+       0	*	*	*	*	*	*	1835	0	0	
+
+P 110  *	*	3359	3382	*	3453	*	2850	*	*	*	3378	2495	*	*	1723	*	*	*	*	110
+       0	*	*	*	*	*	*	1835	0	0	
+
+I 111  3350	*	*	*	*	*	*	1895	*	2246	3448	*	2850	*	*	*	*	2380	*	*	111
+       0	*	*	*	*	*	*	1835	0	0	
+
+K 112  *	*	3378	1240	*	*	*	*	1058	*	*	*	*	*	*	*	*	*	*	*	112
+       215	*	2850	*	*	*	*	1835	0	0	
+
+D 113  *	*	868	3252	*	*	*	*	*	2102	*	*	*	*	*	*	*	3133	*	*	113
+       0	*	*	*	*	*	0	1721	0	1000	
+
+L 114  *	*	*	*	*	*	*	*	1527	615	*	*	*	*	*	*	*	*	*	*	114
+       0	*	*	*	*	*	0	1721	0	1000	
+
+N 115  *	*	2978	*	*	*	*	*	1527	*	*	927	*	*	*	*	*	*	*	*	115
+       0	*	*	*	*	0	*	1721	0	1000	
+
+I 116  *	*	*	*	*	*	*	215	*	2850	*	*	*	*	*	*	*	*	*	*	116
+       0	*	*	0	*	*	*	1835	0	0	
+
+//

@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1v6ga2 g.39.1.3 (A:42-81) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d1v6ga2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v6ga2.a3m -v 1 
+DATE  Tue Jan 22 03:19:08 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  49 out of 51 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCEEEECCCCEEECCCCCCCCCCCCCCC
+>ss_conf
+9246657678888615424630100236638768887789
+>Consensus
+FvCxxCrxpFpxGdrVTfxGKecxCqxCxxPxxxxxpsxg
+>d1v6ga2 g.39.1.3 (A:42-81) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+FVCAVCRLPFPPGDRVTFNGKECMCQKCSLPVSVSGPSSG
+>gi|260817802|ref|XP_002603774.1|(364-401:2313) hypothetical protein BRAFLDRAFT_86604 [Branchiostoma floridae] >gi|229289097|gb|EEN59785.1| hypothetical protein BRAFLDRAFT_86604 [Branchiostoma floridae]  E=7e-06 s/c=1.42 id=62% cov=98%
+FVCSRCRQPFPPGDRVTFNGRDCLCKFCITP--NAGPNRG
+>gi|321477965|gb|EFX88923.1|(247-285:995) hypothetical protein DAPPUDRAFT_95700 [Daphnia pulex]   E=0.0003 s/c=1.24 id=59% cov=98%
+FTCARCRQPFPSGERVTFTGKEVLCPKCvQIPVMTATPS--
+>gi|326672388|ref|XP_696875.5|(178-215:665) PREDICTED: actin-binding LIM protein 2-like [Danio rerio]   E=1e-10 s/c=1.81 id=64% cov=98%
+FVCATCKQPFPAGDRVTFNGKECICEKCTQPVPVNSTA--
+>gi|344255242|gb|EGW11346.1|(141-185:680) Actin-binding LIM protein 3 [Cricetulus griseus]   E=3e-08 s/c=1.36 id=60% cov=100%
+FVCSLCRKPFPIGDKVTFSGKECVCQthtqsmTSSKPIKIHGPSH-
+>gi|427782711|gb|JAA56807.1|(89-126:735) Putative actin-binding lim zn-finger protein limatin involved in axon guidance [Rhipicephalus pulchellus]  E=2e-07 s/c=1.54 id=51% cov=98%
+FVCARCRQQFPSGEKVTYTGKECLCSKCIQIPVVTSQS--
+>gi|348502206|ref|XP_003438660.1|(108-142:556) PREDICTED: actin-binding LIM protein 1-like [Oreochromis niloticus]   E=1e-08 s/c=1.79 id=58% cov=90%
+FVCTICKQPFPAGNCVTFIGKDCLCQHCMEPVSPS-----
+>gi|357625276|gb|EHJ75777.1|(156-191:805) hypothetical protein KGM_20056 [Danaus plexippus]   E=0.0005 s/c=1.31 id=47% cov=75%
+FTCARCKRAFPSGEKVTYTGSEVVCASCS-----------
+>gi|16903148|gb|AAL30428.1|AF434684_1(129-170:765) DUNC-115s [Drosophila melanogaster]   E=3e-06 s/c=1.29 id=44% cov=102%
+FTCSKCKQPFKSGSKVTNTGKEVLCEQCVTgaPVSPSRQATG
+>gi|270013886|gb|EFA10334.1|(133-169:806) hypothetical protein TcasGA2_TC012552 [Tribolium castaneum]   E=9e-06 s/c=1.44 id=51% cov=92%
+FTCDRCRQP-PPDEKVTYTGKEILCQKCVQiPVRDGTP---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2309	0	0	
+
+V 2    4942	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1993	481	*	*	2
+       0	*	*	*	*	*	*	2309	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2309	0	0	
+
+A 4    1436	*	4589	*	*	5115	*	*	*	*	*	*	*	*	*	1643	2167	5866	*	*	4
+       0	*	*	*	*	*	*	2309	0	0	
+
+V 5    *	*	*	*	*	*	*	2854	3066	3843	5768	*	*	*	2212	4926	5818	1367	*	*	5
+       0	*	*	*	*	*	*	2309	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2309	0	0	
+
+R 7    *	*	*	*	*	*	*	*	1405	*	*	*	*	3939	902	5496	*	*	*	*	7
+       0	*	*	*	*	*	*	2309	0	0	
+
+L 8    *	*	*	*	*	*	*	*	3092	2418	*	4651	*	1099	2854	4307	*	*	*	*	8
+       0	*	*	*	*	*	*	2309	0	0	
+
+P 9    4029	*	*	*	*	*	*	*	*	*	*	*	283	4819	*	4246	*	5115	*	*	9
+       61	*	4589	*	*	*	*	2309	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	0	*	2286	0	1000	
+
+P 11   *	*	*	*	*	*	*	*	3489	*	*	*	272	5057	*	*	4252	*	*	*	11
+       0	*	*	*	*	*	*	2308	0	0	
+
+P 12   2128	*	*	*	*	*	*	2535	*	*	*	*	1589	*	*	1908	*	*	*	*	12
+       0	*	*	*	*	*	*	2308	0	0	
+
+G 13   *	*	4592	*	*	61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2308	0	0	
+
+D 14   *	*	655	2234	*	*	*	*	*	*	*	4912	*	*	*	3070	*	*	*	*	14
+       0	*	*	*	*	*	*	2308	0	0	
+
+R 15   *	4119	*	*	4252	*	*	*	1514	*	*	*	*	*	889	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2308	0	0	
+
+V 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	16
+       0	*	*	*	*	*	*	2308	0	0	
+
+T 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	17
+       0	*	*	*	*	*	*	2308	0	0	
+
+F 18   *	*	*	*	481	*	*	*	*	*	*	3070	*	*	*	*	*	*	*	2605	18
+       0	*	*	*	*	*	*	2308	0	0	
+
+N 19   *	4596	*	*	*	*	*	4912	*	*	*	1288	*	*	4951	2509	1699	*	*	*	19
+       0	*	*	*	*	*	*	2308	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2308	0	0	
+
+K 21   *	*	*	*	*	*	*	*	143	*	*	*	*	*	4119	4771	*	*	*	*	21
+       0	*	*	*	*	*	*	2308	0	0	
+
+E 22   *	*	1712	614	*	*	*	*	4596	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2308	0	0	
+
+C 23   *	520	*	*	4252	*	*	3833	*	*	*	*	*	*	*	*	*	2472	*	*	23
+       0	*	*	*	*	*	*	2308	0	0	
+
+M 24   *	*	*	*	4252	*	*	3560	*	1135	3896	*	*	*	*	*	*	1556	*	*	24
+       0	*	*	*	*	*	*	2308	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2308	0	0	
+
+Q 26   4771	*	*	2872	*	*	*	*	5313	*	*	*	5352	475	*	4848	*	5451	*	*	26
+       44	5056	*	2585	263	*	*	2308	1000	0	
+
+K 27   *	*	*	*	5313	5057	2734	*	1293	4948	*	4880	*	2989	4428	4771	3684	*	*	4909	27
+       0	*	*	*	*	*	*	2308	0	0	
+
+C 28   *	44	*	*	*	*	*	*	*	*	*	*	*	*	*	5056	*	*	*	*	28
+       72	4365	*	0	*	*	*	2308	1229	0	
+
+S 29   4327	*	*	*	4277	*	*	3537	*	*	4927	*	*	4337	*	1214	3470	2260	*	*	29
+       55	4738	*	2585	263	*	*	2384	1056	0	
+
+L 30   *	*	*	3883	*	*	4528	3875	3312	2090	4612	*	5788	1787	5182	4365	4050	*	*	*	30
+       349	2217	*	1974	424	*	*	2350	1931	0	
+
+P 31   *	*	*	*	*	4140	*	4558	*	*	*	*	188	*	*	5447	*	*	*	*	31
+       47	*	4959	*	*	*	*	2393	0	0	
+
+V 32   *	*	*	*	*	4122	*	2994	4563	3440	3362	*	2836	5927	*	*	3262	1623	*	*	32
+       0	*	*	*	*	*	0	2377	0	1000	
+
+S 33   3380	*	*	*	*	*	*	*	2200	5740	4938	*	3845	6055	4267	1401	4298	3858	*	*	33
+       30	5596	*	2585	263	0	*	2377	1000	1000	
+
+V 34   2764	*	4277	*	*	4709	*	3009	*	4481	*	4947	2113	*	*	3612	4480	2294	*	*	34
+       22	6060	*	1585	585	*	*	2397	1000	0	
+
+S 35   3318	*	*	4942	*	2087	2371	*	*	*	*	3905	*	*	*	2102	4200	3567	*	*	35
+       0	*	*	*	*	*	*	2376	0	0	
+
+G 36   *	*	*	*	*	1293	5641	*	*	*	*	3903	*	*	4269	1566	3116	*	*	*	36
+       0	*	*	*	*	*	*	2324	0	0	
+
+P 37   *	*	*	*	*	4711	*	5074	*	*	*	*	752	3219	*	2303	5134	*	*	*	37
+       0	*	*	*	*	*	*	2344	0	0	
+
+S 38   1845	*	*	*	*	*	*	*	*	*	*	4322	5332	*	*	931	3652	4544	*	*	38
+       0	*	*	*	*	*	*	2288	0	0	
+
+S 39   4565	*	*	*	*	*	1118	*	*	*	*	*	*	4577	2035	3179	3311	*	*	*	39
+       0	*	*	*	*	*	*	2148	0	0	
+
+G 40   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	0	*	*	*	1771	0	0	
+
+//

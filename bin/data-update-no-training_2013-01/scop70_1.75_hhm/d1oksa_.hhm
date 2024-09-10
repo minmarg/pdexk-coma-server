@@ -1,0 +1,202 @@
+HHsearch 1.5
+NAME  d1oksa_ a.8.5.1 (A:) RNA polymerase alpha subunit {Measles virus [TaxId: 11234]}
+FAM   a.8.5.1
+FILE  d1oksa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1oksa_.a3m -v 1 
+DATE  Tue Jan 22 00:30:59 2013
+LENG  54 match states, 54 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHCCCHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+916899999863035527899999999850472258999999999998642269
+>Consensus
+aSrSvIrSiIkSSxldqdxKxxllxLLxdIkGxxdlxeFyqmvxxIixkxxxxx
+>d1oksa_ a.8.5.1 (A:) RNA polymerase alpha subunit {Measles virus [TaxId: 11234]}
+ASRSVIRSIIKSSRLEEDRKRYLMTLLDDIKGANDLAKFHQMLVKIIMKHHHHH
+>gi|294719646|gb|ADF32061.1|(459-505:507) P [Rinderpest virus] >gi|372001111|gb|AEX65763.1| P [Rinderpest virus]  E=3e-14 s/c=1.73 id=75% cov=89%
+ASRSVIRSIIKSSHIGEDRKNYLMGLLNDIQGSKDLAQFHQMLAKII-------
+>gi|161621668|gb|ABX75300.1|(459-508:509) P protein [Peste-des-petits-ruminants virus]   E=8e-13 s/c=1.54 id=57% cov=94%
+SSRSVIRSIIKSSKLNIDHKDYLLDLLNDVRGSKDLKEFHKMLTTILAKQ----
+>gi|38707564|ref|NP_945025.1|(460-505:506) phosphoprotein [Dolphin morbillivirus] >gi|38490145|emb|CAE55654.1| phosphoprotein [Dolphin morbillivirus]  E=9e-12 s/c=1.59 id=55% cov=87%
+-SRSVLRSMIKSSNLESEHKRSMIGLLNDVKSGKDLGEFYQMVKKII-------
+>gi|7415640|dbj|BAA93473.1|(460-504:507) phosphoprotein [Canine distemper virus]   E=2e-09 s/c=1.45 id=39% cov=85%
+-SKAVLASLIRSSRIDQSHKHNMLALLKNIKGDDNLNEFYQMIKSI--------
+>gi|56410433|ref|YP_087121.2|(459-505:507) P protein [Rinderpest virus (strain Kabete O)] >gi|56410379|emb|CAH55623.2| P protein [Rinderpest virus (strain Kabete O)]  E=8e-11 s/c=1.50 id=77% cov=89%
+ASRSVIRSIIKSSHLGEDRKDYLMSLLNDIQGSKDLAQFHQMLVKIL-------
+>gi|383873420|gb|AFH55512.1|(441-487:491) phosphoprotein [Feline morbillivirus]   E=6e-08 s/c=1.29 id=44% cov=89%
+ASTSTIRSIIRSSNLDQDLKTKLLTILSQIRGADNIREFYEKVMILI-------
+>gi|383873438|gb|AFH55528.1|(441-487:491) phosphoprotein [Feline morbillivirus]   E=3e-06 s/c=1.17 id=40% cov=89%
+ASTSTIKSIIRSSNLDQDLKTKLLTILSQIRGTENVKEFYEKVMILI-------
+>gi|440571|emb|CAA53573.1|(460-504:507) structural viral protein [Phocine distemper virus]   E=1e-09 s/c=1.47 id=39% cov=85%
+-SKAVIASLIRSSKVDQSHKQNMLSLLKNIKGDDNLNEFYQMIKSI--------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    290	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2457	*	*	*	*	1
+       0	*	*	*	*	*	*	1826	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	2
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 3    *	*	*	*	*	*	*	*	2122	*	*	*	*	*	940	*	2005	*	*	*	3
+       0	*	*	*	*	*	*	2216	0	0	
+
+S 4    2122	*	*	*	*	*	*	*	*	*	*	*	*	*	*	377	*	*	*	*	4
+       0	*	*	*	*	*	*	2216	0	0	
+
+V 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2005	413	*	*	5
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 6    *	*	*	*	*	*	*	411	*	2011	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 7    2122	*	*	*	*	*	*	*	2949	*	*	*	*	*	642	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2216	0	0	
+
+S 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	8
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 9    *	*	*	*	*	*	*	648	*	2122	2922	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 10   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2216	0	0	
+
+K 11   *	*	*	*	*	*	*	*	940	*	*	*	*	*	1062	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2216	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	2216	0	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	13
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 14   *	*	*	*	*	*	2455	*	2170	*	*	1392	*	*	2223	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 15   *	*	*	*	*	*	*	2247	*	565	*	*	*	*	*	*	*	3137	*	*	15
+       0	*	*	*	*	*	*	2216	0	0	
+
+E 16   *	*	1062	2120	*	2455	*	*	*	*	*	3203	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2216	0	0	
+
+E 17   *	*	*	1834	*	*	*	3203	*	*	*	*	*	1062	*	2922	*	*	*	*	17
+       0	*	*	*	*	*	*	2216	0	0	
+
+D 18   *	*	648	2922	*	*	*	*	*	*	*	*	*	*	*	2122	*	*	*	*	18
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 19   *	*	*	*	*	*	1088	*	*	2005	*	*	*	*	1834	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2216	0	0	
+
+K 20   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 21   *	*	2347	*	*	*	3106	*	*	*	*	3404	*	3137	2120	*	2005	*	*	*	21
+       0	*	*	*	*	*	*	2216	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	2005	*	*	2122	*	*	*	2922	*	*	*	1362	22
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	648	1467	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2216	0	0	
+
+M 24   *	*	*	*	*	*	*	2922	*	767	1834	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2216	0	0	
+
+T 25   3106	*	3203	*	*	2143	*	*	*	*	*	*	*	*	*	2311	1526	*	*	*	25
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 26   *	*	*	*	*	*	*	2005	*	413	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2216	0	0	
+
+D 28   *	*	3349	*	*	*	*	*	2122	*	*	1241	*	*	*	2005	*	*	*	*	28
+       0	*	*	*	*	*	*	2216	0	0	
+
+D 29   *	*	940	*	*	*	*	*	*	*	*	2122	*	2005	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 30   *	*	*	*	*	*	*	397	*	*	*	*	*	*	*	*	*	2055	*	*	30
+       0	*	*	*	*	*	*	2216	0	0	
+
+K 31   *	*	*	*	*	*	*	*	1121	*	*	*	*	2455	1483	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2216	0	0	
+
+G 32   *	*	*	*	*	204	*	*	*	*	*	*	*	*	*	2922	*	*	*	*	32
+       0	*	*	*	*	*	*	2216	0	0	
+
+A 33   2199	*	2122	*	*	2922	*	*	*	*	*	*	*	*	*	1781	2949	*	*	*	33
+       0	*	*	*	*	*	*	2216	0	0	
+
+N 34   *	*	1517	2949	*	*	*	*	1241	*	*	3349	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2216	0	0	
+
+D 35   *	*	940	*	*	*	*	*	*	*	*	1062	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 36   *	*	*	*	*	*	*	3064	*	413	*	*	*	*	*	*	*	2949	*	*	36
+       0	*	*	*	*	*	*	2216	0	0	
+
+A 37   1834	*	*	*	*	2922	*	*	2070	*	*	2122	*	*	3064	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2216	0	0	
+
+K 38   *	*	*	475	*	*	*	*	3349	*	*	*	*	2455	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2216	0	0	
+
+F 39   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2216	0	0	
+
+H 40   *	*	*	*	*	*	1362	*	*	*	*	*	*	*	*	*	*	*	*	711	40
+       0	*	*	*	*	*	*	2216	0	0	
+
+Q 41   *	*	*	2005	*	*	*	*	3203	*	*	*	*	639	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2216	0	0	
+
+M 42   *	*	*	*	*	*	*	*	2005	*	413	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 43   *	*	*	*	*	*	*	2122	*	1362	*	*	*	*	*	*	*	1392	*	*	43
+       0	*	*	*	*	*	*	2216	0	0	
+
+V 44   3404	*	*	*	*	*	*	*	1467	*	2005	*	*	*	*	*	3203	2426	*	*	44
+       0	*	*	*	*	*	*	2216	0	0	
+
+K 45   *	*	*	*	*	*	*	2005	1277	*	*	*	*	*	*	2122	3203	*	*	*	45
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 46   *	*	*	*	*	*	*	413	*	2005	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2216	0	0	
+
+I 47   *	*	*	*	*	*	*	421	*	1981	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1981	0	0	
+
+M 48   1000	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1338	0	0	
+
+K 49   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1338	0	0	
+
+H 50   *	*	*	*	*	*	1000	*	*	*	*	*	*	1000	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1338	0	0	
+
+H 51   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1000	0	0	
+
+H 52   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1000	0	0	
+
+H 53   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1000	0	0	
+
+H 54   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

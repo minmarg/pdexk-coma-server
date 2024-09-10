@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d1j2jb_ a.7.8.1 (B:) ADP-ribosylation factor binding protein Gga1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.7.8.1
+FILE  d1j2jb_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1j2jb_.a3m -v 1 
+DATE  Mon Jan 21 21:55:18 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+98864688999998616995668999999999989875229
+>Consensus
+iFxdeekskxLxxLLkSkxPeDLqaANrLIKxmVkedxxrm
+>d1j2jb_ a.7.8.1 (B:) ADP-ribosylation factor binding protein Gga1 {Human (Homo sapiens) [TaxId: 9606]}
+IFEDEEKSKMLARLLKSSHPEDLRAANKLIKEMVQEDQKRM
+>gi|328791093|ref|XP_003251516.1|(167-211:677) PREDICTED: ADP-ribosylation factor-binding protein GGA1 isoform 1 [Apis mellifera]  E=0.0001 s/c=1.10 id=60% cov=102%
+IFDDEEKSKLLQKLLQSKNPDDLQAANRLIKTMderrVQLNSRRI
+>gi|326665675|ref|XP_002661109.2|(167-207:680) PREDICTED: ADP-ribosylation factor-binding protein GGA3-like [Danio rerio]  E=4e-11 s/c=1.72 id=52% cov=102%
+VFDNEDMGKLLAELLRSKNPEDLQEANRLIKNMVKEDDARV
+>gi|340368755|ref|XP_003382916.1|(164-202:697) PREDICTED: ADP-ribosylation factor-binding protein GGA3-like [Amphimedon queenslandica]  E=1e-09 s/c=1.68 id=60% cov=98%
+--EDPRQSQMLGKLIKSQNPEDLRAANRLIRDMVRRDEKRM
+>gi|47218923|emb|CAF98121.1|(181-220:644) unnamed protein product [Tetraodon nigroviridis]   E=1e-08 s/c=1.56 id=54% cov=100%
+VFDQEDKATLLARLLKSNRPEDLETANRLIKSTLKEEQER-
+>gi|353233499|emb|CCD80854.1|(168-208:617) putative golgi associated, gamma adaptin ear containing,arf binding protein 1 (gga1) [Schistosoma mansoni]  E=1e-07 s/c=1.43 id=57% cov=102%
+IFERNKKSERLTQLLRSRNPADLREANALIKSIVEEDQVRM
+>gi|221101416|ref|XP_002156603.1|(66-106:635) PREDICTED: similar to predicted protein, partial [Hydra magnipapillata]  E=9e-07 s/c=1.37 id=48% cov=102%
+VFSDEGNSELLKTLLASKNPDDLQSANKLIKSLVKEEEARL
+>gi|391341750|ref|XP_003745190.1|(169-209:650) PREDICTED: ADP-ribosylation factor-binding protein GGA3-like [Metaseiulus occidentalis]  E=2e-06 s/c=1.34 id=52% cov=102%
+IFTDKRKENELKRLLGSKNPKDLQAANRLIKTMVEEADHKM
+>gi|308494667|ref|XP_003109522.1|(169-203:591) CRE-APT-9 protein [Caenorhabditis remanei] >gi|308245712|gb|EFO89664.1| CRE-APT-9 protein [Caenorhabditis remanei]  E=0.0002 s/c=1.39 id=50% cov=88%
+VFDNEEQSVLLKALLSSNRPEDLQTANNLIKSLVE------
+>gi|324509495|gb|ADY43993.1|(119-158:383) ADP-ribosylation factor-binding protein GGA1 [Ascaris suum]   E=2e-09 s/c=1.63 id=59% cov=100%
+-FEDEEKANLLSQLLKSNNPEDLQAANRLIKSMVRSEEQKM
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	949	*	3387	*	*	*	*	*	*	*	1371	*	*	1
+       0	*	*	*	*	*	*	2294	0	0	
+
+F 2    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2290	0	0	
+
+E 3    *	*	1405	1215	*	*	*	*	*	*	*	5006	*	4946	*	4048	3883	*	*	*	3
+       90	4055	*	0	*	*	*	2367	1160	0	
+
+D 4    *	*	593	*	*	*	*	*	*	*	*	2595	*	3518	3568	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2440	0	0	
+
+E 5    *	*	5622	355	*	*	*	*	4680	*	*	4778	4295	*	*	3807	*	*	*	*	5
+       0	*	*	*	*	*	*	2440	0	0	
+
+E 6    *	*	2910	880	*	4882	*	*	3398	*	*	*	*	4384	2766	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2440	0	0	
+
+K 7    *	*	*	4384	*	*	*	*	470	*	3855	4882	*	3187	5833	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2440	0	0	
+
+S 8    2299	*	5409	4680	*	5582	*	*	*	*	*	*	*	*	5253	541	*	*	*	*	8
+       0	*	*	*	*	*	*	2440	0	0	
+
+K 9    5409	*	*	3829	*	*	*	*	634	*	*	4014	*	3057	5920	*	4999	4973	*	*	9
+       0	*	*	*	*	*	*	2440	0	0	
+
+M 10   *	*	*	4680	*	*	3867	4365	3891	1049	2925	*	*	5253	3369	*	4704	*	*	*	10
+       0	*	*	*	*	*	*	2440	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2440	0	0	
+
+A 12   1195	*	4290	*	*	4295	*	*	3255	*	*	*	*	2494	4373	4110	3781	*	*	*	12
+       0	*	*	*	*	*	*	2440	0	0	
+
+R 13   4973	*	*	3311	*	*	*	*	1586	*	*	*	*	4075	1285	*	3950	*	*	*	13
+       0	*	*	*	*	*	*	2440	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2440	0	0	
+
+L 15   *	*	*	*	*	*	*	4295	*	75	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2440	0	0	
+
+K 16   4882	*	*	*	*	4680	3949	*	1030	*	*	4154	*	2653	2994	4973	*	*	*	*	16
+       0	*	*	*	*	*	*	2440	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	17
+       0	*	*	*	*	*	*	2440	0	0	
+
+S 18   *	*	*	*	*	5308	*	*	993	*	*	3041	*	4295	3310	3617	3087	*	*	*	18
+       0	*	*	*	*	*	*	2440	0	0	
+
+H 19   *	*	2646	*	*	*	2392	*	3359	*	*	1297	*	*	3125	5022	*	*	*	*	19
+       0	*	*	*	*	*	*	2440	0	0	
+
+P 20   5435	*	*	*	*	*	*	*	*	*	*	*	71	5327	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2440	0	0	
+
+E 21   3568	*	2664	805	*	*	*	*	4094	*	*	4132	*	5531	*	5337	*	*	*	5410	21
+       0	*	*	*	*	*	*	2440	0	0	
+
+D 22   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2440	0	0	
+
+L 23   *	*	*	*	*	*	*	5012	*	119	*	*	*	*	*	*	*	4384	*	*	23
+       0	*	*	*	*	*	*	2440	0	0	
+
+R 24   4384	*	*	4145	*	*	*	*	4681	*	*	*	*	556	2774	*	5058	*	*	*	24
+       0	*	*	*	*	*	*	2440	0	0	
+
+A 25   974	*	*	2217	*	*	5835	*	4132	*	*	*	*	*	*	4092	2809	*	*	*	25
+       0	*	*	*	*	*	*	2440	0	0	
+
+A 26   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2440	0	0	
+
+N 27   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2440	0	0	
+
+K 28   4778	*	*	*	*	*	*	*	2383	*	*	4973	*	5677	536	*	*	*	5012	*	28
+       0	*	*	*	*	*	*	2440	0	0	
+
+L 29   *	*	*	*	5334	*	*	5542	*	68	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2440	0	0	
+
+I 30   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2440	0	0	
+
+K 31   *	*	*	*	*	*	*	*	215	*	*	*	*	3910	3791	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2440	0	0	
+
+E 32   *	*	4295	3820	5337	*	*	*	3253	*	*	2074	*	*	*	1583	2700	5410	*	*	32
+       0	*	*	*	*	*	*	2440	0	0	
+
+M 33   *	*	*	*	*	*	*	3568	*	3628	543	*	*	*	*	*	3268	4489	*	*	33
+       41	5165	*	2000	415	*	*	2440	1000	0	
+
+V 34   *	*	*	*	*	*	*	3386	*	4999	*	*	*	*	*	*	*	196	*	*	34
+       0	*	*	*	*	*	*	2440	0	0	
+
+Q 35   5058	*	*	2688	*	*	*	*	968	*	*	*	*	3341	2287	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2440	0	0	
+
+E 36   *	*	*	361	*	*	*	*	5152	5146	*	*	*	3491	4263	5380	*	*	*	*	36
+       0	*	*	*	*	*	*	2415	0	0	
+
+D 37   3947	*	657	1877	*	*	*	*	*	*	*	5134	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2413	0	0	
+
+Q 38   4155	*	3048	1359	*	*	*	*	*	*	*	*	*	1387	*	5134	*	5490	*	*	38
+       0	*	*	*	*	*	*	2413	0	0	
+
+K 39   3742	*	4318	2193	*	*	3952	5930	2167	*	*	4280	*	4137	3574	*	*	2639	*	*	39
+       0	*	*	*	*	*	*	2414	0	0	
+
+R 40   *	*	*	*	*	*	*	*	1916	*	*	*	*	*	444	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2414	0	0	
+
+M 41   *	*	*	*	*	*	*	3193	*	2332	842	*	*	*	*	*	*	2896	*	*	41
+       0	*	*	0	*	*	*	2208	0	0	
+
+//

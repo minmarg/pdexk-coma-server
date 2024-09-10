@@ -1,0 +1,189 @@
+HHsearch 1.5
+NAME  d1nd9a_ a.6.1.6 (A:) N-terminal subdomain of bacterial translation initiation factor IF2 {Escherichia coli [TaxId: 562]}
+FAM   a.6.1.6
+FILE  d1nd9a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nd9a_.a3m -v 1 
+DATE  Mon Jan 21 23:48:34 2013
+LENG  49 match states, 49 columns in multiple alignment
+FILT  100 out of 183 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCCHHHHHHHHCCCHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHHCC
+>ss_conf
+9652788988738998899999986589888655629888999975309
+>Consensus
+sdvTVkxlAxxvxxxvdrLlxQlxxAGixksxxDxvtxxeKxxLLxxLn
+>d1nd9a_ a.6.1.6 (A:) N-terminal subdomain of bacterial translation initiation factor IF2 {Escherichia coli [TaxId: 562]}
+TDVTIKTLAAERQTSVERLVQQFADAGIRKSADDSVSAQEKQTLIDHLN
+>gi|333983007|ref|YP_004512217.1|(2-50:893) translation initiation factor IF-2 [Methylomonas methanica MC09] >gi|333807048|gb|AEF99717.1| translation initiation factor IF-2 [Methylomonas methanica MC09]  E=7e-06 s/c=1.09 id=35% cov=100%
+SDKTVQALAEVVGIPLERFLEQLKEAGLTATdPDDVISEEEKVKLLAHL-
+>gi|30248765|ref|NP_840835.1|(4-52:889) translation initiation factor IF-2 [Nitrosomonas europaea ATCC 19718] >gi|39931260|sp|Q82WD0.1|IF2_NITEU RecName: Full=Translation initiation factor IF-2 >gi|30180360|emb|CAD84672.1| putative translation initiation factor protein [Nitrosomonas europaea ATCC 19718]  E=0.001 s/c=0.94 id=35% cov=100%
+TQMTVEQFAHDLGMLPGLLLEQLQAAGVDKrSAADFVTEQDKTRLLDYL-
+>gi|71891891|ref|YP_277621.1|(2-50:891) translation initiation factor IF-2 [Candidatus Blochmannia pennsylvanicus str. BPEN] >gi|90101347|sp|Q493T7.1|IF2_BLOPB RecName: Full=Translation initiation factor IF-2 >gi|71795997|gb|AAZ40748.1| translation initiation factor IF2-2 [Candidatus Blochmannia pennsylvanicus str. BPEN]  E=3e-08 s/c=1.24 id=40% cov=102%
+TDTTIQSFAAEMKMSVDQLIQWFSYIGILKTEIGIVTQREKEILFKYMN
+>gi|406903999|gb|EKD45905.1|(3-50:493) translation initiation factor IF-2, partial [uncultured bacterium]  E=0.0008 s/c=0.97 id=21% cov=98%
+-DITVEQLAKMVGIPSKQLLLRLQAAGVKVNDqSQTITDEQKHIILDFL-
+>gi|58582841|ref|YP_201857.1|(18-65:920) translation initiation factor IF-2 [Xanthomonas oryzae pv. oryzae KACC 10331] >gi|58427435|gb|AAW76472.1| protein chain initiation factor IF-2 [Xanthomonas oryzae pv. oryzae KACC 10331]  E=8e-09 s/c=1.31 id=38% cov=98%
+-QTTIRKLAELVNTPVDKLLVQLAEAGMKFSGPDQvVTSTEKMKLLGFL-
+>gi|392953986|ref|ZP_10319538.1|(2-50:904) translation initiation factor IF-2 [Hydrocarboniphaga effusa AP103] >gi|391857885|gb|EIT68415.1| translation initiation factor IF-2 [Hydrocarboniphaga effusa AP103]  E=2e-06 s/c=1.12 id=32% cov=96%
+--VTVQDFADELKRPVAEILAQFKEAGVSVeNARSQISASDKVSLLNYL-
+>gi|429541659|gb|ELA09687.1|(3-50:938) translation initiation factor IF-2 [Moraxella macacae 0408225]   E=4e-06 s/c=1.12 id=38% cov=98%
+-DKTVKQLAQMTQTTVDTIKKQLVDAGLNaRGDNDIVTEIEQQQLVGFL-
+>gi|294670564|ref|ZP_06735443.1|(2-46:206) hypothetical protein NEIELOOT_02286 [Neisseria elongata subsp. glycolytica ATCC 29315] >gi|291307689|gb|EFE48932.1| hypothetical protein NEIELOOT_02286 [Neisseria elongata subsp. glycolytica ATCC 29315]  E=1e-07 s/c=1.30 id=33% cov=92%
+SNSTVEQFAAESKMSVERMLEHLKKHGINKnSGSDMLTDADKAQL-----
+>gi|258545582|ref|ZP_05705816.1|(5-52:889) translation initiation factor IF-2 [Cardiobacterium hominis ATCC 15826] >gi|258519282|gb|EEV88141.1| translation initiation factor IF-2 [Cardiobacterium hominis ATCC 15826]  E=0.0002 s/c=1.01 id=27% cov=98%
+-EQTVAALAKQLKITVSRLLSLLKEAGIAVeNEEDTLTPAQKVALTKHM-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	780	1260	*	*	*	1
+       0	*	*	*	*	*	*	3615	0	0	
+
+D 2    6196	*	1236	1986	*	*	*	*	4075	*	*	3442	*	3160	*	5372	5514	*	*	*	2
+       0	*	*	*	*	*	*	3925	0	0	
+
+V 3    *	*	*	*	*	*	*	2641	4144	5414	2934	*	*	5685	6065	5599	2496	1334	*	*	3
+       0	*	*	*	*	*	*	4042	0	0	
+
+T 4    6292	*	*	*	*	*	*	*	*	6052	*	3904	*	*	6484	2637	447	*	*	*	4
+       0	*	*	*	*	*	*	4045	0	0	
+
+I 5    *	*	*	*	*	*	*	2232	*	4834	*	*	*	*	*	*	*	411	*	*	5
+       0	*	*	*	*	*	*	4041	0	0	
+
+K 6    3120	*	*	2991	*	*	6107	*	1269	*	*	4424	*	2583	4281	4504	5577	*	*	*	6
+       0	*	*	*	*	*	*	4041	0	0	
+
+T 7    4054	*	2713	3212	*	*	6874	*	3270	*	*	6942	*	1328	*	3426	4388	5655	*	*	7
+       0	*	*	*	*	*	*	4041	0	0	
+
+L 8    *	*	*	*	1467	*	*	*	*	648	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4041	0	0	
+
+A 9    64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4516	*	*	*	*	9
+       0	*	*	*	*	*	*	4041	0	0	
+
+A 10   2830	*	3868	2191	*	4249	6485	4820	3026	5736	*	4051	*	3366	*	3832	4148	4405	*	*	10
+       0	*	*	*	*	*	*	4041	0	0	
+
+E 11   *	*	3476	1238	*	*	*	4686	4469	4465	4488	*	*	5712	*	3752	3447	2971	*	*	11
+       0	*	*	*	*	*	*	4041	0	0	
+
+R 12   *	*	*	*	*	*	*	2845	*	1780	3555	*	*	*	6215	4965	5615	1256	*	*	12
+       0	*	*	*	*	*	*	4041	0	0	
+
+Q 13   *	*	4736	*	*	1049	*	*	2393	*	*	2948	*	3259	4466	6692	*	*	*	*	13
+       0	*	*	*	*	*	*	4041	0	0	
+
+T 14   4314	5599	*	*	*	*	*	2242	4030	3856	2536	*	*	*	3912	6170	1874	4014	*	*	14
+       0	*	*	*	*	*	*	4040	0	0	
+
+S 15   *	*	6624	*	*	*	*	*	6710	6490	*	5599	1050	5801	*	1733	2770	*	*	*	15
+       0	*	*	*	*	*	*	4040	0	0	
+
+V 16   2550	*	*	6254	*	*	*	6876	*	4528	6235	*	3553	*	*	5035	4890	733	*	*	16
+       0	*	*	*	*	*	*	4040	0	0	
+
+E 17   4434	*	1275	1376	*	5642	*	*	4094	*	*	6057	5721	*	*	4862	6931	*	*	*	17
+       0	*	*	*	*	*	*	4040	0	0	
+
+R 18   4489	*	5745	6501	*	*	5314	5152	3161	4897	*	*	5932	4046	991	*	3894	3936	*	6116	18
+       0	*	*	*	*	*	*	4040	0	0	
+
+L 19   *	*	*	*	6443	*	*	4065	*	136	5737	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	4040	0	0	
+
+V 20   *	*	*	*	*	*	*	2642	5626	595	6704	*	*	6430	*	*	*	2875	*	*	20
+       0	*	*	*	*	*	*	4040	0	0	
+
+Q 21   4312	*	4776	1756	*	4677	6730	*	3035	5984	5578	5247	*	2220	*	3404	4176	5714	*	*	21
+       0	*	*	*	*	*	*	4040	0	0	
+
+Q 22   *	*	*	*	*	*	4019	*	6131	5713	*	*	*	294	5490	*	*	5345	5527	5599	22
+       0	*	*	*	*	*	*	4040	0	0	
+
+F 23   *	5345	*	*	1950	*	*	*	*	760	3216	*	*	*	*	*	*	5747	*	*	23
+       0	*	*	*	*	*	*	4040	0	0	
+
+A 24   2356	*	*	5761	*	4425	*	5345	1875	5124	*	4758	*	3341	3029	3380	5599	4683	*	*	24
+       0	*	*	*	*	*	*	4040	0	0	
+
+D 25   2896	6109	1741	1878	*	5883	6966	*	4070	6172	*	4153	*	4918	*	3824	*	*	*	5527	25
+       0	*	*	*	*	*	*	4040	0	0	
+
+A 26   190	*	*	*	*	*	5737	4042	*	*	*	*	*	*	*	5981	*	5163	*	*	26
+       0	*	*	*	*	*	*	4040	0	0	
+
+G 27   *	*	*	*	*	51	*	*	*	*	*	6172	*	5578	*	*	*	*	*	*	27
+       7	7724	*	0	*	*	*	4040	1000	0	
+
+I 28   6104	*	*	*	6093	*	*	1355	*	1944	4745	*	*	*	*	*	*	1823	*	*	28
+       107	3812	*	0	*	*	*	4040	2487	0	
+
+R 29   4244	6057	4519	5205	*	5910	3996	*	2417	4433	*	2530	3616	5213	5319	2880	3237	*	*	*	29
+       194	2987	*	0	*	*	*	4040	2886	0	
+
+K 30   4260	*	5517	*	5177	*	4013	5633	752	*	*	*	*	5263	3872	*	*	2966	*	*	30
+       354	2200	*	0	*	*	*	4040	3049	0	
+
+S 31   5126	*	4230	6963	*	3847	*	*	4095	*	*	3210	*	4384	6119	1591	1837	*	*	*	31
+       131	3525	*	0	*	*	*	4040	2721	0	
+
+A 32   1586	*	3596	2671	*	3476	6542	6049	3877	7079	*	*	2835	6042	6811	4227	*	5778	*	*	32
+       115	3711	*	0	*	*	*	4040	2480	0	
+
+D 33   3034	*	2481	2678	5124	4104	*	5527	6104	6131	*	3676	4809	6972	5283	2857	3924	5104	*	5345	33
+       26	5818	*	0	*	*	*	4040	1561	0	
+
+D 34   4417	*	356	5088	*	5527	*	*	*	*	*	5599	*	3922	*	4873	*	*	*	*	34
+       58	4659	*	0	*	*	*	4040	1850	0	
+
+S 35   3414	*	5017	4523	3790	5071	*	3296	4867	3632	4198	5485	4844	3949	*	3129	2772	4031	*	6093	35
+       114	3719	*	0	*	*	*	4040	2268	0	
+
+V 36   *	*	*	*	*	*	*	1814	*	2241	6119	*	*	*	*	*	*	1030	*	*	36
+       14	6730	*	0	*	*	*	4040	1000	0	
+
+S 37   5578	*	*	*	*	6170	*	*	*	*	*	4468	*	*	*	1245	1005	*	*	*	37
+       0	*	*	*	*	*	*	4040	0	0	
+
+A 38   4156	*	1727	1433	*	*	6574	*	4831	5153	*	6104	5713	3071	*	5906	5136	*	*	*	38
+       0	*	*	*	*	*	*	4040	0	0	
+
+Q 39   2450	*	3070	2138	*	6170	5451	5626	3435	5345	*	7100	*	3422	5103	3354	4523	5283	*	*	39
+       0	*	*	*	*	*	*	4040	0	0	
+
+E 40   *	*	1567	977	*	*	*	*	*	*	*	*	*	2694	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	4040	0	0	
+
+K 41   *	*	*	*	*	*	*	*	153	*	*	*	*	4266	4366	*	*	*	*	*	41
+       0	*	*	*	*	*	*	4040	0	0	
+
+Q 42   3302	*	4192	2854	*	7148	5984	5427	4241	3437	4824	*	*	1827	4848	4604	4526	3982	*	6109	42
+       0	*	*	*	*	*	*	4040	0	0	
+
+T 43   3132	*	*	6904	*	*	*	3060	2034	6669	*	*	*	3256	3027	5207	2218	4872	*	*	43
+       0	*	*	*	*	*	*	4040	0	0	
+
+L 44   *	*	*	*	5932	*	*	4629	*	84	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	4040	0	0	
+
+I 45   *	*	*	*	4283	*	*	6208	*	281	*	*	*	*	*	*	4115	4195	*	*	45
+       0	*	*	*	*	*	*	4029	0	0	
+
+D 46   2391	6038	2915	3480	*	3461	*	*	4160	6533	*	3224	*	6480	3720	3429	2972	*	*	*	46
+       0	*	*	*	*	*	*	4029	0	0	
+
+H 47   6444	*	*	*	2276	*	1380	*	*	*	*	*	*	*	*	4434	*	*	*	1509	47
+       0	*	*	*	*	*	*	4029	0	0	
+
+L 48   *	*	*	*	*	*	*	4786	*	163	3820	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	4029	0	0	
+
+N 49   *	*	*	*	*	*	*	*	*	*	*	317	*	*	*	2340	*	*	*	*	49
+       0	*	*	0	*	*	*	2662	0	0	
+
+//

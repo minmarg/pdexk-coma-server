@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d1vf6c_ a.194.1.1 (C:) Maguk p55 subfamily member 5, Patj {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.194.1.1
+FILE  d1vf6c_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vf6c_.a3m -v 1 
+DATE  Tue Jan 22 04:02:34 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHCHHHHHHHHHHHHCC
+>ss_conf
+986588899999999876336121447999999970333788998875139
+>Consensus
+xxxevedlxxsLKxvqhxLxDxQSQxdixlilqLxxxxDFqxAfkIhnAvx
+>d1vf6c_ a.194.1.1 (C:) Maguk p55 subfamily member 5, Patj {Mouse (Mus musculus) [TaxId: 10090]}
+QDPDVEDLFSSLKHIQHTLVDSQSQEDISLLLQLVQNRDFQNAFKIHNAVT
+>gi|410916655|ref|XP_003971802.1|(105-157:650) PREDICTED: MAGUK p55 subfamily member 5-like [Takifugu rubripes]   E=0.0004 s/c=0.90 id=44% cov=102%
+QDPvtDVEEWQQALKWTLHCLTDVQSQQDVALIMQLLSAEDFRAAYSVYKAVS
+>gi|392350763|ref|XP_003750751.1|(134-181:714) PREDICTED: LOW QUALITY PROTEIN: MAGUK p55 subfamily member 5-like [Rattus norvegicus]  E=2e-10 s/c=1.43 id=79% cov=94%
+----VEDLFSSLKHIQHTLVDSQSQKNISLLLQLVKNXDfFHKVFKIHYAAT
+>gi|47220099|emb|CAF99012.1|(133-171:849) unnamed protein product [Tetraodon nigroviridis]   E=5e-05 s/c=1.31 id=50% cov=78%
+------------KQVRGCLTDQQSQNDIEMVLALLHKSDFQSALKIHNAVA
+>gi|190337281|gb|AAI63251.1|(150-197:703) Membrane protein, palmitoylated 5a (MAGUK p55 subfamily member 5a) [Danio rerio]  E=2e-12 s/c=1.57 id=63% cov=96%
+---ELEDLLMSLKQVQHNLNDSQSQEDVELVLQLVQKPDFQKAFSIHNSVA
+>gi|348517632|ref|XP_003446337.1|(110-157:650) PREDICTED: MAGUK p55 subfamily member 5-A-like [Oreochromis niloticus]  E=2e-11 s/c=1.51 id=43% cov=96%
+---ELEELLQTLKWVQHCLTDAQSQQDVELITQLLTKEDFRTAYSIYSAVS
+>gi|297298092|ref|XP_001105651.2|(20-270:649) PREDICTED: MAGUK p55 subfamily member 5-like isoform 2 [Macaca mulatta]  E=1e-137 s/c=0.31 id=85% cov=102%
+KILEIEDLFSSLKHIQHTLVDSQSQEDISLLLQLVQNKDFQNAFKIHNAIT
+>gi|326920631|ref|XP_003206572.1|(20-296:626) PREDICTED: MAGUK p55 subfamily member 5-like [Meleagris gallopavo]   E=1e-120 s/c=0.31 id=77% cov=102%
+KTLEVEELLTSLKHIQHVLVDPQSQEDISLILQLVQNTDFQNAFKIHNAVT
+>gi|301615586|ref|XP_002937246.1|(23-296:675) PREDICTED: MAGUK p55 subfamily member 5 [Xenopus (Silurana) tropicalis]  E=1e-116 s/c=0.30 id=77% cov=102%
+KVLEIEDLISSLKDIQHTLVDSQSQEDISVLLQLAQNVDFQNAFKIHNAVA
+>gi|327280340|ref|XP_003224910.1|(20-296:675) PREDICTED: MAGUK p55 subfamily member 5-like [Anolis carolinensis]   E=1e-115 s/c=0.29 id=71% cov=102%
+KVLEVDELLSSLKHVQHTLLDPQSQEEIALILQLVQNTDFQNAFKIHNAVT
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	*	*	*	*	*	797	*	*	*	*	1236	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1713	0	0	
+
+D 2    *	*	1236	*	*	*	*	2868	*	*	*	*	*	*	*	*	2882	1723	*	*	2
+       0	*	*	*	*	*	*	1713	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	797	*	*	1236	*	*	*	*	*	*	*	3
+       500	1772	*	1000	1000	*	*	1713	1000	0	
+
+D 4    *	*	1804	487	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1850	0	0	
+
+V 5    *	*	*	*	*	*	*	2414	*	1941	*	*	*	*	*	*	*	857	*	*	5
+       0	*	*	*	*	*	*	1912	0	0	
+
+E 6    *	*	3340	150	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1912	0	0	
+
+D 7    *	*	994	1006	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1912	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	280	*	*	*	*	*	*	*	*	2504	*	8
+       0	*	*	*	*	*	*	1912	0	0	
+
+F 9    *	*	*	*	1854	*	*	3274	*	1173	*	*	*	2504	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1912	0	0	
+
+S 10   *	*	*	*	*	*	*	*	*	*	3033	*	*	1669	*	1063	3565	*	*	*	10
+       0	*	*	*	*	*	*	1912	0	0	
+
+S 11   2504	*	*	*	*	*	*	*	*	*	*	*	*	*	*	545	2855	*	*	*	11
+       0	*	*	*	*	*	*	1912	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1912	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2041	0	0	
+
+H 14   *	*	3619	*	*	*	1398	*	*	*	*	*	*	1822	*	*	*	*	1963	*	14
+       0	*	*	*	*	*	*	2041	0	0	
+
+I 15   *	*	*	*	*	*	*	1375	*	*	*	*	*	*	*	*	2781	1093	*	*	15
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 16   *	*	*	*	*	*	*	*	*	2781	*	*	*	591	2390	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2041	0	0	
+
+H 17   *	*	*	*	*	2390	305	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2041	0	0	
+
+T 18   *	1161	*	*	*	*	*	*	*	*	*	3444	*	*	*	*	1341	3922	*	*	18
+       0	*	*	*	*	*	*	2041	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2041	0	0	
+
+V 20   3422	*	*	*	*	*	*	*	*	3735	*	3444	*	*	*	*	1498	1375	*	*	20
+       0	*	*	*	*	*	*	2041	0	0	
+
+D 21   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2041	0	0	
+
+S 22   3171	*	*	*	*	*	*	*	*	*	*	*	2826	2390	*	1281	*	2781	*	*	22
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 23   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2041	0	0	
+
+S 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	24
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 25   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2041	0	0	
+
+E 26   *	*	*	1171	*	*	*	*	3205	*	*	2390	*	1963	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2041	0	0	
+
+D 27   *	*	293	3735	*	*	*	*	*	*	*	3205	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2041	0	0	
+
+I 28   *	*	*	*	*	*	*	618	*	*	*	*	*	*	*	*	*	1521	*	*	28
+       0	*	*	*	*	*	*	2041	0	0	
+
+S 29   2181	*	*	1344	*	*	*	*	*	*	*	*	*	*	*	1375	*	*	*	*	29
+       0	*	*	*	*	*	*	2041	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	284	3358	*	*	*	*	*	*	3619	*	*	30
+       0	*	*	*	*	*	*	2041	0	0	
+
+L 31   *	*	*	*	*	*	*	1331	*	1645	*	*	*	*	*	*	*	1822	*	*	31
+       0	*	*	*	*	*	*	2041	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	428	2781	*	*	*	*	*	3171	*	*	*	32
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 33   3358	*	*	*	*	*	*	*	*	*	*	*	*	305	*	*	3422	*	*	*	33
+       0	*	*	*	*	*	*	2041	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2041	0	0	
+
+V 35   3619	*	*	*	*	*	*	*	*	1161	*	*	*	*	*	*	*	1085	*	*	35
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 36   *	*	*	*	*	*	2390	*	3205	*	*	*	*	1171	*	2781	3171	*	*	*	36
+       0	*	*	*	*	*	*	2041	0	0	
+
+N 37   2781	*	*	*	*	*	*	*	1344	*	*	1118	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2041	0	0	
+
+R 38   *	*	*	1837	*	*	*	*	3578	*	*	*	3294	*	3789	2274	2609	3450	*	*	38
+       0	*	*	*	*	*	*	1961	0	0	
+
+D 39   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       166	3205	*	0	*	*	*	2041	1000	0	
+
+F 40   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2041	0	0	
+
+Q 41   *	*	*	*	*	*	3205	*	*	*	*	*	*	655	1963	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2041	0	0	
+
+N 42   2781	*	*	*	*	*	*	*	2319	*	*	1505	*	*	*	2390	3171	*	*	*	42
+       0	*	*	*	*	*	*	2041	0	0	
+
+A 43   166	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3205	*	*	43
+       0	*	*	*	*	*	*	2041	0	0	
+
+F 44   *	*	*	*	856	*	*	*	*	2390	*	*	*	*	*	*	*	*	*	1963	44
+       0	*	*	*	*	*	*	2041	0	0	
+
+K 45   *	*	*	*	*	*	*	*	618	*	*	*	*	*	*	1521	*	*	*	*	45
+       0	*	*	*	*	*	*	2041	0	0	
+
+I 46   *	*	*	*	*	*	*	227	*	*	*	*	*	*	*	*	*	2781	*	*	46
+       0	*	*	*	*	*	*	2041	0	0	
+
+H 47   *	*	*	*	*	*	428	*	*	*	*	*	*	*	*	*	*	*	*	1963	47
+       0	*	*	*	*	*	*	2041	0	0	
+
+N 48   *	*	*	*	*	*	*	*	2781	*	*	655	*	*	*	3171	*	*	*	3205	48
+       0	*	*	*	*	*	*	2041	0	0	
+
+A 49   139	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3444	*	*	*	*	49
+       0	*	*	*	*	*	*	2041	0	0	
+
+V 50   3205	*	*	*	*	*	*	3863	*	*	*	*	*	*	*	*	*	281	*	*	50
+       0	*	*	*	*	*	*	2041	0	0	
+
+T 51   1457	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1963	1398	*	*	*	51
+       0	*	*	0	*	*	*	2041	0	0	
+
+//

@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1k3xa3 g.39.1.8 (A:223-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+FAM   g.39.1.8
+FILE  d1k3xa3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1k3xa3.a3m -v 1 
+DATE  Mon Jan 21 22:41:03 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  110 out of 1172 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.7 
+SEQ
+>ss_pred
+CCEEEEEECCCCCCCCCCCCEEEEEEECCCEEEECCCCCC
+>ss_conf
+9225664577789155689747899858982265376689
+>Consensus
+xlxxxxVygRxgxpCxxCgxxIxxxxxxgRxtxxCpxCQh
+>d1k3xa3 g.39.1.8 (A:223-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+ALFRFKVFHRDGEPCERCGSIIEKTTLSSRPFYWCPGCQH
+>gi|337287642|ref|YP_004627114.1|(240-276:277) formamidopyrimidine-DNA glycosylase [Thermodesulfobacterium sp. OPB45] >gi|334901380|gb|AEH22186.1| formamidopyrimidine-DNA glycosylase [Thermodesulfobacterium sp. OPB45]  E=0.0004 s/c=1.28 id=32% cov=95%
+---RFLVYGKKNNVCPKCGEKLKYQKLFQRGTFYCPNCQY
+>gi|224541517|ref|ZP_03682056.1|(229-266:270) hypothetical protein CATMIT_00687 [Catenibacterium mitsuokai DSM 15897] >gi|224525554|gb|EEF94659.1| DNA-formamidopyrimidine glycosylase [Catenibacterium mitsuokai DSM 15897]  E=0.0007 s/c=1.23 id=33% cov=98%
+-LFQVTLSVHAQKTCSKCKGPIKKITIAGRGTYYCPNCQ-
+>gi|37912918|gb|AAR05254.1|(232-268:269) predicted formamidopyrimidine-DNA glycosylase [uncultured marine proteobacterium ANT32C12]  E=0.0007 s/c=1.26 id=29% cov=95%
+--FELNAYGREGLECKKCKTLITKVVINTRATFFCGSCQ-
+>gi|257094300|ref|YP_003167941.1|(239-274:275) formamidopyrimidine-DNA glycosylase [Candidatus Accumulibacter phosphatis clade IIA str. UW-1] >gi|257046824|gb|ACV36012.1| formamidopyrimidine-DNA glycosylase [Candidatus Accumulibacter phosphatis clade IIA str. UW-1]  E=8e-10 s/c=1.84 id=32% cov=92%
+---SCAVYDRAGQPCPACAGEVRTIRQSGRSTFYCPRCQ-
+>gi|88856700|ref|ZP_01131355.1|(255-290:298) formamidopyrimidine-DNA glycosylase [marine actinobacterium PHSC20C1] >gi|88813997|gb|EAR23864.1| formamidopyrimidine-DNA glycosylase [marine actinobacterium PHSC20C1]  E=3e-08 s/c=1.69 id=27% cov=92%
+---SLNVYGQQGRACPRCGREVVREQFMNRGSHFCRFCQ-
+>gi|292490686|ref|YP_003526125.1|(235-271:271) formamidopyrimidine-DNA glycosylase [Nitrosococcus halophilus Nc4] >gi|291579281|gb|ADE13738.1| formamidopyrimidine-DNA glycosylase [Nitrosococcus halophilus Nc4]  E=5e-07 s/c=1.54 id=32% cov=95%
+---QLQIYGRTAHPCPTCGNPIHLDHIGQRASYYCTQCQH
+>gi|296268041|ref|YP_003650673.1|(241-276:292) DNA-(apurinic or apyrimidinic site) lyase [Thermobispora bispora DSM 43833] >gi|296090828|gb|ADG86780.1| DNA-(apurinic or apyrimidinic site) lyase [Thermobispora bispora DSM 43833]  E=8e-06 s/c=1.47 id=35% cov=92%
+---RMRVHGRTGEACHACGDTIREVSFADSALQYCPTCQ-
+>gi|331695858|ref|YP_004332097.1|(234-266:268) DNA-formamidopyrimidine glycosylase [Pseudonocardia dioxanivorans CB1190] >gi|326950547|gb|AEA24244.1| DNA-formamidopyrimidine glycosylase [Pseudonocardia dioxanivorans CB1190]  E=0.0003 s/c=1.45 id=31% cov=80%
+--------RRADGACPRCGAPMVHGTVGGRSTWWCSAEQ-
+>gi|374725097|gb|EHR77177.1|(235-271:275) endonuclease VIII [uncultured marine group II euryarchaeote]   E=2e-05 s/c=1.40 id=32% cov=95%
+--WRHYAFCRNERPCLKCGTLVVRLRYGGRRLDHCPTCQ-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1478	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	396	*	*	*	2933	*	*	*	3198	*	*	2
+       0	*	*	*	*	*	*	2950	0	0	
+
+F 3    3719	*	*	*	1150	*	*	*	*	3959	*	*	*	*	*	*	*	*	3773	1573	3
+       0	*	*	*	*	*	*	3586	0	0	
+
+R 4    *	*	*	4372	*	*	3348	*	3705	*	*	*	*	2376	1265	2572	*	*	*	*	4
+       30	5619	*	1000	1000	*	*	4787	1547	0	
+
+F 5    5639	4651	*	*	1719	*	3973	*	*	1363	5419	5252	*	*	6346	*	6454	5737	5138	3980	5
+       14	6737	*	1000	1000	*	*	4870	1000	0	
+
+K 6    5110	6737	6209	7301	4150	*	4887	6791	2536	4034	6720	3374	*	3215	3066	5812	5768	*	3262	2881	6
+       9	7301	*	1000	1000	*	*	4897	1000	0	
+
+V 7    3746	*	*	*	*	*	*	3418	*	5098	4913	*	*	*	*	*	6403	400	*	*	7
+       0	*	*	*	*	*	*	4972	0	0	
+
+F 8    6473	6747	*	*	3123	5854	2687	*	*	*	*	*	*	*	5778	5983	*	*	*	604	8
+       0	*	*	*	*	*	*	4968	0	0	
+
+H 9    5090	6207	3509	6217	*	968	4764	*	4885	6984	6276	4401	*	4814	3318	6276	7031	6137	6799	5252	9
+       0	*	*	*	*	*	*	4861	0	0	
+
+R 10   *	*	*	*	*	*	4139	*	2618	6295	6085	*	*	5083	467	*	*	*	*	*	10
+       88	*	4073	*	*	*	*	4861	0	0	
+
+D 11   2305	*	3724	2390	6988	5198	4614	*	3511	*	7039	4138	5004	4520	4922	4258	3236	5452	*	6136	11
+       0	*	*	*	*	*	0	4809	0	2485	
+
+G 12   5788	*	3735	4776	*	660	6446	*	4059	*	6592	3660	*	5012	4874	6459	*	*	*	*	12
+       0	*	*	*	*	0	*	4815	0	2485	
+
+E 13   4689	*	5162	1858	*	4282	5584	*	2922	4257	4103	6223	*	2433	3552	4819	6222	*	6617	*	13
+       0	*	*	*	*	*	*	4878	0	0	
+
+P 14   2730	*	6465	3741	*	5338	5262	5964	4279	5727	*	5820	1100	5373	4236	5853	4882	6223	*	*	14
+       0	*	*	*	*	*	*	4878	0	0	
+
+C 15   *	43	*	*	*	*	*	*	*	*	*	*	*	*	*	5091	*	*	*	*	15
+       0	*	*	*	*	*	*	4878	0	0	
+
+E 16   7026	*	5666	5486	5187	*	5427	6022	3934	3297	5803	6290	1404	*	2770	4290	6495	4449	6514	4539	16
+       16	6536	*	1000	1000	*	*	4878	1000	0	
+
+R 17   4713	*	5569	6639	*	5882	5477	4810	3124	5444	5432	4656	*	4312	1491	4402	5248	2511	*	*	17
+       62	6268	5091	1000	1000	*	*	4878	1440	0	
+
+C 18   *	29	*	*	*	5631	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	0	*	4864	0	1000	
+
+G 19   4959	*	5881	4384	6027	992	4918	*	3886	6846	*	3789	6096	4496	4616	4062	4528	*	*	*	19
+       0	*	*	*	*	*	*	4878	0	0	
+
+S 20   3122	*	3802	4562	*	2559	5484	*	4688	*	*	3670	*	4312	4739	3828	1720	*	*	*	20
+       9	7282	*	0	*	*	*	4878	1000	0	
+
+I 21   3830	*	*	3821	6925	*	7091	4338	3089	3590	*	5389	1593	5410	4204	5119	3357	4882	*	*	21
+       21	6096	*	2322	322	*	*	4878	1000	0	
+
+I 22   *	*	*	*	6438	*	*	689	*	3047	4568	*	*	*	*	*	4642	2600	*	*	22
+       0	*	*	*	*	*	*	4878	0	0	
+
+E 23   4270	*	5348	2639	*	6084	6381	4983	2726	5152	*	*	*	3428	2658	3839	4116	2883	*	6514	23
+       0	*	*	*	*	*	*	4878	0	0	
+
+K 24   5011	6027	*	4186	6137	5095	5438	5197	2132	4883	6077	*	*	3645	1904	4008	3912	4680	*	6223	24
+       0	*	*	*	*	*	*	4878	0	0	
+
+T 25   3343	6889	3755	3232	7213	5346	6476	2312	3761	3693	5362	7092	*	3484	6066	5301	4107	3348	*	*	25
+       0	*	*	*	*	*	*	4878	0	0	
+
+T 26   4708	*	5317	3427	5506	*	6381	4209	2982	4299	6683	4314	6007	4812	2423	4387	3026	3183	*	*	26
+       0	*	*	*	*	*	*	4878	0	0	
+
+L 27   4445	*	*	5726	4193	*	5839	2069	*	2648	4776	*	*	2893	*	6536	4977	2459	*	3841	27
+       0	*	*	*	*	*	*	4878	0	0	
+
+S 28   1597	*	6806	5606	6223	1558	5864	*	*	6222	4864	3538	*	5757	5377	3418	*	*	*	*	28
+       68	4441	*	1693	534	*	*	4878	2052	0	
+
+S 29   4596	*	5065	5079	*	992	*	*	6213	*	*	3194	*	2833	6611	3242	5843	*	*	*	29
+       38	5262	*	2800	224	*	*	4878	1789	0	
+
+R 30   *	*	*	*	*	6222	5407	*	4546	*	*	5645	*	5095	262	5619	5925	*	*	*	30
+       0	*	*	*	*	*	*	4878	0	0	
+
+P 31   3191	*	5864	5645	*	3095	6995	6514	3330	*	6290	3952	4850	6476	3637	1999	2797	6518	*	6726	31
+       0	*	*	*	*	*	*	4878	0	0	
+
+F 32   3156	4820	*	*	6068	*	*	4473	*	2756	5035	*	*	*	*	2469	1383	4683	*	6514	32
+       0	*	*	*	*	*	*	4878	0	0	
+
+Y 33   5933	6977	6230	*	2164	*	3829	5864	*	6722	*	5049	*	5619	*	*	5042	3982	3897	1215	33
+       0	*	*	*	*	*	*	4878	0	0	
+
+W 34   *	*	*	*	1608	*	6230	5925	*	4569	*	*	*	*	*	4952	6725	5018	2310	1618	34
+       0	*	*	*	*	*	*	4878	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	4878	0	0	
+
+P 36   4241	*	6928	5129	*	6034	*	6995	*	4769	*	5854	691	6209	5425	3130	4397	6025	*	*	36
+       0	*	*	*	*	*	*	4879	0	0	
+
+G 37   3582	*	*	6447	5271	4078	4053	6288	3738	7000	*	2726	*	4361	2520	4150	3603	3196	*	4566	37
+       0	*	*	*	*	*	*	4879	0	0	
+
+C 38   *	115	*	4947	*	*	*	*	*	*	*	*	*	5084	*	*	6087	*	*	*	38
+       0	*	*	*	*	*	*	4879	0	0	
+
+Q 39   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	4879	0	0	
+
+H 40   *	*	*	*	*	*	694	*	*	*	*	1813	*	*	*	*	*	*	*	3363	40
+       0	*	*	0	*	*	*	3815	0	0	
+
+//

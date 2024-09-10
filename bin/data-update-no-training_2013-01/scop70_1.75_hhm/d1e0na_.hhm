@@ -1,0 +1,121 @@
+HHsearch 1.5
+NAME  d1e0na_ b.72.1.1 (A:) Hypothetical protein Yjq8 (Set2p) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   b.72.1.1
+FILE  d1e0na_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1e0na_.a3m -v 1 
+DATE  Mon Jan 21 20:06:52 2013
+LENG  27 match states, 27 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCEEEECCCEEEECCCCCCCCCCCC
+>ss_conf
+984101107962355300010027889
+>Consensus
+pGWEiixENGrPmYyNAqxxxKlxxPP
+>d1e0na_ b.72.1.1 (A:) Hypothetical protein Yjq8 (Set2p) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+PGWEIIHENGRPLYYNAEQKTKLHYPP
+>gi|255716246|ref|XP_002554404.1|(455-481:686) KLTH0F04510p [Lachancea thermotolerans] >gi|238935787|emb|CAR23967.1| KLTH0F04510p [Lachancea thermotolerans CBS 6340]  E=7e-08 s/c=2.24 id=79% cov=104%
+PGWEIIHENGKPVYYNAQQQTKLHHPP
+>gi|367016577|ref|XP_003682787.1|(455-481:687) hypothetical protein TDEL_0G02090 [Torulaspora delbrueckii] >gi|359750450|emb|CCE93576.1| hypothetical protein TDEL_0G02090 [Torulaspora delbrueckii]  E=5e-07 s/c=2.13 id=71% cov=104%
+PGWEVVHENGKPMYYNAQKKTKLHTPP
+>gi|50285531|ref|XP_445194.1|(483-509:716) hypothetical protein [Candida glabrata CBS 138] >gi|74638008|sp|Q6FX50.1|SET2_CANGA RecName: Full=Histone-lysine N-methyltransferase, H3 lysine-36 specific; AltName: Full=SET domain-containing protein 2 >gi|49524498|emb|CAG58098.1| unnamed protein product [Candida glabrata]  E=8e-07 s/c=2.11 id=79% cov=104%
+PGWEIVFENGRPMYYNAEKKTKLLYPP
+>gi|387515669|emb|CCH63102.1|(471-497:745) hypothetical protein TBLA_0J01040 [Tetrapisispora blattae CBS 6284]   E=6e-10 s/c=2.50 id=79% cov=104%
+PGWEILQENGRPVYYNAKQQTKLHYPP
+>gi|156847005|ref|XP_001646388.1|(458-484:693) hypothetical protein Kpol_2001p35 [Vanderwaltozyma polyspora DSM 70294] >gi|156117064|gb|EDO18530.1| hypothetical protein Kpol_2001p35 [Vanderwaltozyma polyspora DSM 70294]  E=6e-10 s/c=2.48 id=68% cov=104%
+PGWEIVHENGQPMYYNAQLQTKLRHPP
+>gi|410080658|ref|XP_003957909.1|(467-493:711) hypothetical protein KAFR_0F01770 [Kazachstania africana CBS 2517] >gi|372464496|emb|CCF58774.1| hypothetical protein KAFR_0F01770 [Kazachstania africana CBS 2517]  E=8e-10 s/c=2.47 id=75% cov=104%
+PGWEIIQENGRPMYYNAQQKRKLSEPP
+>gi|50302715|ref|XP_451294.1|(450-475:702) hypothetical protein [Kluyveromyces lactis NRRL Y-1140] >gi|74607741|sp|Q6CXP5.1|SET2_KLULA RecName: Full=Histone-lysine N-methyltransferase, H3 lysine-36 specific; AltName: Full=SET domain-containing protein 2 >gi|49640425|emb|CAH02882.1| KLLA0A06600p [Kluyveromyces lactis]  E=2e-08 s/c=2.40 id=67% cov=100%
+-GWEIIHENGRPVYYNAQRQIKQANPP
+>gi|366997071|ref|XP_003678298.1|(455-480:726) hypothetical protein NCAS_0I02880 [Naumovozyma castellii CBS 4309] >gi|342304169|emb|CCC71956.1| hypothetical protein NCAS_0I02880 [Naumovozyma castellii CBS 4309]  E=4e-08 s/c=2.35 id=63% cov=100%
+-GWEIIYENGRPIYFNAQRQIKLNEPP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1494	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1639	0	0	
+
+W 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	3
+       0	*	*	*	*	*	*	1639	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1639	0	0	
+
+I 5    *	*	*	*	*	*	*	275	*	*	3407	*	*	*	*	*	*	3658	*	*	5
+       0	*	*	*	*	*	*	1639	0	0	
+
+I 6    *	*	*	*	*	*	*	702	*	3575	*	*	*	*	*	*	*	1730	*	*	6
+       0	*	*	*	*	*	*	1639	0	0	
+
+H 7    *	*	*	*	3659	*	800	*	*	*	*	*	*	2019	*	*	*	*	*	3324	7
+       0	*	*	*	*	*	*	1639	0	0	
+
+E 8    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1639	0	0	
+
+N 9    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1639	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1639	0	0	
+
+R 11   *	*	*	*	*	*	*	*	2270	*	*	*	*	3682	485	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1639	0	0	
+
+P 12   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1639	0	0	
+
+L 13   *	*	*	*	*	*	*	3324	*	3823	724	*	*	*	*	*	*	2158	*	*	13
+       0	*	*	*	*	*	*	1639	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	1639	0	0	
+
+Y 15   *	*	*	*	3324	*	*	*	*	*	*	*	*	*	*	*	*	*	*	152	15
+       0	*	*	*	*	*	*	1639	0	0	
+
+N 16   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1639	0	0	
+
+A 17   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1639	0	0	
+
+E 18   *	*	*	2739	*	*	*	*	3575	*	*	*	*	384	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1639	0	0	
+
+Q 19   *	*	*	3407	*	*	*	*	2659	2854	*	*	*	1509	1956	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1639	0	0	
+
+K 20   *	*	*	*	*	*	3407	*	1241	*	*	*	*	1051	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1639	0	0	
+
+T 21   *	*	*	*	*	*	*	1956	*	*	*	*	*	*	2619	*	787	*	*	*	21
+       0	*	*	*	*	*	*	1639	0	0	
+
+K 22   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1639	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	248	*	*	*	3695	3631	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1639	0	0	
+
+H 24   2544	*	*	*	*	*	1244	*	*	3659	*	3324	*	*	3682	3867	*	3631	*	*	24
+       0	*	*	*	*	*	*	1639	0	0	
+
+Y 25   *	*	3631	1929	*	*	2828	*	*	*	*	2862	*	3938	*	*	3658	*	*	2097	25
+       0	*	*	*	*	*	*	1639	0	0	
+
+P 26   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1639	0	0	
+
+P 27   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	27
+       0	*	*	0	*	*	*	1639	0	0	
+
+//

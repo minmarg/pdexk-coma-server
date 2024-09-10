@@ -1,0 +1,115 @@
+HHsearch 1.5
+NAME  d2dlqa4 g.37.1.1 (A:8-34) GLI-Krueppel family member HKR3 {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.37.1.1
+FILE  d2dlqa4
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2dlqa4.a3m -v 1 
+DATE  Tue Jan 22 06:55:22 2013
+LENG  27 match states, 27 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHCCCCCCCCC
+>ss_conf
+978601256555554441132136789
+>Consensus
+vxcpxcxkxfxskyylkvhnrrhtgek
+>d2dlqa4 g.37.1.1 (A:8-34) GLI-Krueppel family member HKR3 {Mouse (Mus musculus) [TaxId: 10090]}
+VECPTCHKKFLSKYYLKVHNRKHTGEK
+>gi|148230999|ref|NP_001091385.1|(303-329:697) zinc finger and BTB domain containing 48 [Xenopus laevis] >gi|117167937|gb|AAI24902.1| Zbtb48 protein [Xenopus laevis]  E=8e-06 s/c=1.98 id=86% cov=104%
+VQCSTCHKTFLSKYYLKVHNRKHTGEK
+>gi|348503101|ref|XP_003439105.1|(325-351:767) PREDICTED: LOW QUALITY PROTEIN: zinc finger and BTB domain-containing protein 48-like [Oreochromis niloticus]  E=0.0002 s/c=1.80 id=75% cov=104%
+VQCPICFKAFKSKYYLKVHNRRHTGEK
+>gi|410900334|ref|XP_003963651.1|(323-349:734) PREDICTED: zinc finger and BTB domain-containing protein 48-like [Takifugu rubripes]  E=0.001 s/c=1.73 id=71% cov=104%
+VHCPICDKSFKSKYYLKVHNRRHTGER
+>gi|125852170|ref|XP_696166.2|(322-348:760) PREDICTED: zinc finger and BTB domain-containing protein 48 [Danio rerio]  E=2e-06 s/c=2.05 id=86% cov=104%
+VQCPTCHKTFLSKYYLKVHNRRHTGEK
+>gi|119591963|gb|EAW71557.1|(291-324:359) GLI-Kruppel family member HKR3, isoform CRA_c [Homo sapiens]   E=0.0004 s/c=1.40 id=85% cov=100%
+VECPTCHKKFLSKYYLKVHNrssralcaRRHSAE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	1
+       0	*	*	*	*	*	*	1288	0	0	
+
+E 2    *	*	*	1581	*	*	2475	*	*	*	*	*	*	1041	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1288	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1288	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	264	*	*	2578	*	*	*	*	4
+       0	*	*	*	*	*	*	1288	0	0	
+
+T 5    *	*	*	*	*	*	*	1510	*	*	*	*	*	*	*	*	624	*	*	*	5
+       0	*	*	*	*	*	*	1288	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1288	0	0	
+
+H 7    *	*	2475	*	2546	*	624	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 8    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 9    2546	*	*	*	*	*	*	*	1581	*	*	*	*	*	*	2475	1668	*	*	*	9
+       0	*	*	*	*	*	*	1288	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1288	0	0	
+
+L 11   *	*	*	*	*	*	*	*	1510	624	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1288	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1288	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	1288	0	0	
+
+Y 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	15
+       0	*	*	*	*	*	*	1288	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 17   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1288	0	0	
+
+V 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	18
+       0	*	*	*	*	*	*	1288	0	0	
+
+H 19   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1288	0	0	
+
+N 20   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	20
+       287	2473	*	3000	193	*	*	1288	1000	0	
+
+R 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 22   *	*	*	*	*	*	*	*	1637	*	*	*	*	*	560	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1288	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1288	0	0	
+
+T 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2473	287	*	*	*	24
+       0	*	*	*	*	*	*	1288	0	0	
+
+G 25   2473	*	*	*	*	287	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1288	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1288	0	0	
+
+K 27   *	*	*	*	*	*	*	*	363	*	*	*	*	*	2168	*	*	*	*	*	27
+       0	*	*	0	*	*	*	1265	0	0	
+
+//

@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1lpba2 g.3.10.1 (A:45-90) (Pro)colipase {Pig (Sus scrofa) [TaxId: 9823]}
+FAM   g.3.10.1
+FILE  d1lpba2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lpba2.a3m -v 1 
+DATE  Mon Jan 21 22:59:07 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCEEEEEEEECCCCCCCEECCCCEEEEEEECCCCEEEEEC
+>ss_conf
+9866575102446886137888564257237702412771477639
+>Consensus
+EnxeCSxktlygvYyxCpCErGLtCexDktivGsItNTnfGxCxDx
+>d1lpba2 g.3.10.1 (A:45-90) (Pro)colipase {Pig (Sus scrofa) [TaxId: 9823]}
+ENSECSAFTLYGVYYKCPCERGLTCEGDKSLVGSITNTNFGICHNV
+>gi|344263830|ref|XP_003403998.1|(63-108:113) PREDICTED: colipase-like [Loxodonta africana]   E=6e-12 s/c=1.61 id=70% cov=102%
+ENSECSTKSIYEVYYKCPCESGLTCNANKTLVGSLTNTNFGICQDV
+>gi|326933565|ref|XP_003212872.1|(64-108:116) PREDICTED: colipase [Meleagris gallopavo]   E=3e-10 s/c=1.52 id=61% cov=100%
+ETQDCSRKSLYGVYYKCPCESGLSCDADWSIVGSITNTDYGVCYD-
+>gi|387914848|gb|AFK11033.1|(73-117:130) colipase pancreatic [Callorhinchus milii]   E=6e-10 s/c=1.50 id=63% cov=100%
+EGDLCSDHFLYNIYYRCPCERGLKCDGDKSFIGSITNTNFGTCKD-
+>gi|327283613|ref|XP_003226535.1|(62-106:111) PREDICTED: colipase-like [Anolis carolinensis]   E=1e-09 s/c=1.47 id=59% cov=100%
+ENQECSRKHIYGIYYRCPCESGLTCDADWTIVGGITNSDFGICKD-
+>gi|126309773|ref|XP_001369914.1|(62-107:112) PREDICTED: colipase-like [Monodelphis domestica]   E=8e-14 s/c=1.74 id=77% cov=102%
+ENSECSPKTLYGVYYKCPCERGLTCEVDKTIVGTITNSDFGICHDI
+>gi|403261675|ref|XP_003923240.1|(62-106:112) PREDICTED: colipase [Saimiri boliviensis boliviensis]   E=5e-13 s/c=1.73 id=78% cov=100%
+ENNECSAKTLYGVYHKCPCERGLTCEGDKTITGAITNTNFGVCHD-
+>gi|354493052|ref|XP_003508658.1|(63-108:113) PREDICTED: colipase-like [Cricetulus griseus] >gi|344247515|gb|EGW03619.1| Colipase [Cricetulus griseus]  E=9e-13 s/c=1.66 id=72% cov=102%
+ENSECSPKTIYGIYYRCPCERGLTCEGDKTILGAITNTNYGICLDV
+>gi|166157775|ref|NP_001107327.1|(67-111:117) colipase precursor [Xenopus (Silurana) tropicalis] >gi|189082686|sp|A9JSD6.1|COL_XENTR RecName: Full=Colipase; Flags: Precursor >gi|161612044|gb|AAI56016.1| clps protein [Xenopus (Silurana) tropicalis]  E=2e-09 s/c=1.45 id=59% cov=100%
+ETQKCSPLHIYGTYYFCPCESGLTCEVDRSIVGSITNTDYGYCED-
+>gi|318054678|ref|NP_001187666.1|(66-110:113) colipase precursor [Ictalurus punctatus] >gi|308323643|gb|ADO28957.1| colipase [Ictalurus punctatus]  E=2e-08 s/c=1.38 id=52% cov=100%
+ENEACSKKNWSGTYCYCTCEDGLKCEGDRFIGGSIVNTNFGTCVD-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1839	0	0	
+
+N 2    *	*	*	*	*	3808	*	*	*	*	*	295	*	*	*	*	3139	*	*	*	2
+       0	*	*	*	*	*	*	1839	0	0	
+
+S 3    *	*	3808	3130	*	4797	*	*	*	*	*	4616	*	2603	*	803	*	*	*	*	3
+       0	*	*	*	*	*	*	1839	0	0	
+
+E 4    3130	*	4196	778	*	4779	*	*	4085	3808	*	*	*	*	4563	4676	*	*	*	*	4
+       0	*	*	*	*	*	*	1839	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1839	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	6
+       0	*	*	*	*	*	*	1839	0	0	
+
+A 7    2131	*	3808	*	*	*	*	*	3130	*	*	*	1391	*	3243	*	3879	5001	*	*	7
+       0	*	*	*	*	*	*	1839	0	0	
+
+F 8    *	*	*	4676	3736	*	3808	*	641	4085	*	*	*	3908	*	*	*	*	4387	*	8
+       0	*	*	*	*	*	*	1839	0	0	
+
+T 9    *	*	*	*	3808	*	3184	*	*	*	*	3130	*	*	*	3029	781	*	*	*	9
+       0	*	*	*	*	*	*	1839	0	0	
+
+L 10   *	*	*	*	*	*	*	1474	*	927	*	*	*	*	*	*	*	*	3130	*	10
+       0	*	*	*	*	*	*	1839	0	0	
+
+Y 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3130	*	*	*	175	11
+       0	*	*	*	*	*	*	1839	0	0	
+
+G 12   *	*	*	3879	*	216	*	*	*	*	*	3808	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1839	0	0	
+
+V 13   *	*	*	*	*	*	*	1434	*	*	*	*	*	*	*	*	2530	1130	*	*	13
+       0	*	*	*	*	*	*	1839	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	1839	0	0	
+
+Y 15   *	3130	*	*	*	*	4616	*	*	*	*	*	*	*	*	*	*	*	*	243	15
+       0	*	*	*	*	*	*	1839	0	0	
+
+K 16   *	*	*	*	4085	*	*	*	951	3667	*	*	*	*	2383	*	*	4676	*	3130	16
+       0	*	*	*	*	*	*	1839	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1839	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	175	*	*	*	3130	*	*	*	18
+       0	*	*	*	*	*	*	1839	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1839	0	0	
+
+E 20   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1839	0	0	
+
+R 21   *	*	3130	*	*	*	*	*	*	*	*	*	*	*	614	2105	*	*	*	*	21
+       0	*	*	*	*	*	*	1839	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1839	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1839	0	0	
+
+T 24   4563	*	*	*	*	*	*	*	2430	*	*	*	*	*	*	4196	479	*	*	*	24
+       0	*	*	*	*	*	*	1839	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1839	0	0	
+
+E 26   *	*	1985	740	*	*	*	*	*	*	*	3311	*	4387	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1839	0	0	
+
+G 27   2092	*	*	*	*	952	*	*	*	*	*	*	*	*	*	4813	*	2233	*	*	27
+       0	*	*	*	*	*	*	1839	0	0	
+
+D 28   *	*	102	*	*	*	*	*	*	*	*	3879	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1839	0	0	
+
+K 29   *	*	*	*	*	*	*	*	621	*	*	*	*	*	2035	*	*	*	3243	*	29
+       0	*	*	*	*	*	*	1839	0	0	
+
+S 30   *	*	*	*	3130	*	*	*	*	*	*	*	*	*	*	1429	959	*	*	*	30
+       0	*	*	*	*	*	*	1839	0	0	
+
+L 31   *	*	*	*	3808	*	*	376	*	2662	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1839	0	0	
+
+V 32   *	*	*	*	*	3130	*	1942	*	4885	*	*	*	*	*	*	3775	947	*	*	32
+       0	*	*	*	*	*	*	1839	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1839	0	0	
+
+S 34   2006	*	4823	*	*	4291	*	*	*	*	*	*	*	*	*	749	3847	*	*	*	34
+       0	*	*	*	*	*	*	1839	0	0	
+
+I 35   *	*	*	*	*	*	*	102	*	3879	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1839	0	0	
+
+T 36   *	*	*	*	*	*	*	*	*	*	4387	*	*	*	*	*	255	3130	*	*	36
+       0	*	*	*	*	*	*	1839	0	0	
+
+N 37   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1839	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3501	133	*	*	*	38
+       0	*	*	*	*	*	*	1839	0	0	
+
+N 39   *	*	2309	*	*	*	*	*	*	*	*	325	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1839	0	0	
+
+F 40   *	*	*	*	591	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1573	40
+       0	*	*	*	*	*	*	1839	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1839	0	0	
+
+I 42   *	*	*	*	4797	*	*	1135	*	*	*	*	*	*	*	*	2134	2172	*	4085	42
+       0	*	*	*	*	*	*	1839	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1839	0	0	
+
+H 44   *	*	*	4085	4387	*	2009	*	3030	2575	*	*	*	2801	4563	*	*	3130	*	4196	44
+       0	*	*	*	*	*	*	1839	0	0	
+
+N 45   *	*	62	*	*	*	*	*	*	*	*	4566	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1839	0	0	
+
+V 46   *	*	*	*	*	*	*	1882	*	2915	*	*	*	*	*	*	*	746	*	*	46
+       0	*	*	0	*	*	*	1382	0	0	
+
+//

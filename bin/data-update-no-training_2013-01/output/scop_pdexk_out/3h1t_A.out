@@ -1,0 +1,629 @@
+Query         3h1t_A Type I site-specific restriction-modification system, R (restr
+Match_columns 159
+No_of_seqs    122 out of 987
+Neff          6.4 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:23 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3h1t_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3h1t_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3h1t_A Type I site-specific re 100.0       0       0  335.4  17.6  159    1-159     1-159 (159)
+  2 2w00_A R.ECOR124I, type I rest  98.5 2.3E-07 1.7E-11   60.5   8.4   59   72-131   146-213 (273)
+  3 3s1s_A BpuSI REase, PDEXK supe  96.9   0.003 2.2E-07   36.8   8.6   88   33-136    27-121 (133)
+  4 2vld_A NUCS, UPF0286 protein p  95.2   0.029 2.1E-06   31.1   6.4   72   25-117     1-73  (126)
+  5 PF08774 VRR-NUC domain          93.2     0.4 2.9E-05   24.5   8.8   80   24-122     1-80  (83)
+  6 d1ob8a_ c.52.1.18 (A:) Hollida  87.3     3.2 0.00023   19.3   9.1   80   72-153    29-119 (124)
+  7 d1y88a2 c.52.1.30 (A:3-127) Hy  87.0    0.68 4.9E-05   23.2   5.5  104   32-153     7-120 (125)
+  8 PF06250 Protein of unknown fun  82.9     1.4  0.0001   21.3   5.6  115   25-154    35-166 (167)
+  9 d1t0fa2 c.52.1.16 (A:7-168) Tn  82.8     1.5 0.00011   21.2   5.6   52   74-125   105-161 (162)
+ 10 2ixs_A SDAI restriction endonu  72.5     4.8 0.00035   18.3   5.8   54   72-125    54-108 (149)
+ 11 d1gefa_ c.52.1.18 (A:) Archaea  66.4      20  0.0014   14.7   7.9   58   74-133    30-93  (120)
+ 12 PF08011 Protein of unknown fun  63.8     7.6 0.00055   17.1   5.4   60   33-114     9-71  (95)
+ 13 PF04411 Protein of unknown fun  58.4      12 0.00088   15.9   5.6   47   71-117    65-116 (129)
+ 14 2wcw_A HJC; type II restrictio  55.9      30  0.0021   13.7   7.2  103   34-155    15-132 (139)
+ 15 1xmx_A Hypothetical protein VC  43.5      20  0.0015   14.6   4.8   40   75-116    43-84  (135)
+ 16 d1hh1a_ c.52.1.18 (A:) Archaea  42.0      44  0.0032   12.7   6.3   79   74-155    31-125 (132)
+ 17 d1w25a1 c.23.1.1 (A:2-140) Res  37.9      11 0.00079   16.2   2.7  104   27-154    11-116 (139)
+ 18 d1xmxa_ c.52.1.26 (A:) Hypothe  37.1      30  0.0021   13.7   4.8   47   75-123   293-344 (385)
+ 19 PF02646 RmuC family             32.9      29  0.0021   13.7   4.2   27   71-98     95-121 (193)
+ 20 3dnx_A Uncharacterized protein  31.9      26  0.0019   14.0   3.8   54   33-106    19-73  (153)
+ 21 d1wu7a1 c.51.1.1 (A:330-426) H  31.6      85  0.0062   11.0   6.5   48  104-155    42-94  (97)
+ 22 d1h4vb1 c.51.1.1 (B:326-421) H  28.8      93  0.0068   10.8   6.3   47  107-157    44-95  (96)
+ 23 d1ys7a2 c.23.1.1 (A:7-127) Tra  28.1      26  0.0019   14.0   3.3  105   25-155     9-115 (121)
+ 24 d1uxya1 d.145.1.2 (A:3-200) Ur  26.6      53  0.0039   12.2   4.7    8   24-31     22-29  (198)
+ 25 d1jbea_ c.23.1.1 (A:) CheY pro  24.9      25  0.0018   14.1   2.8  106   26-155    13-121 (128)
+ 26 d2pl1a1 c.23.1.1 (A:1-119) Pho  24.2      31  0.0023   13.6   3.1  104   26-155     9-114 (119)
+ 27 d2bdua1 c.108.1.21 (A:7-297) C  23.8      26  0.0019   14.0   2.7   29   97-125   133-161 (291)
+ 28 d1hska1 d.145.1.2 (A:15-208) U  21.4      49  0.0036   12.4   3.7   25  102-126    45-69  (194)
+ 29 d2qy9a2 c.37.1.10 (A:285-495)   20.4      68  0.0049   11.6   4.2   36  109-155   175-210 (211)
+
+No 1  
+>3h1t_A Type I site-specific restriction-modification system, R (restr
+Probab=100.00  E-value=0  Score=335.37  Aligned_columns=159  Identities=100%
+
+Q ss_pred             CHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEE
+Q ss_conf             93567899999999988511447898999999766999970575460021000123565200035433665432332257
+Q 3h1t_A            1 MRWISGLDLVAHQMTARKKNSMALNEADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLL   80 (159)
+Q Consensus         1 ~~~~~~~~~~~~~l~~~~~~~~~lnE~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L   80 (159)
+                      ||||+|||+++||++++++|+|+|||++||.++|||+|+++||++++.++++|+++++|++.+.+....+++.+++||+|
+T Consensus         1 ~~~~~~~~~~~~~l~~~~~~~~~lnE~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L   80 (159)
+T 3h1t_A            1 MRWISGLDLVAHQMTARKKNSMALNEADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLL   80 (159)
+T ss_pred             CHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEE
+T ss_conf             93567899999999988511447898999999766999970575460021000123565200035433665432332257
+
+
+Q ss_pred             EECCCEEEEEEECCCCCCCHHHHHHHHHHHHHHCCCCEEEEECCCEEEEEECCCCCCEECCCCCCHHHHHHHHHHHCCC
+Q ss_conf             7628806988701221788667899999889860798899985964798857899822345788868999999974079
+Q 3h1t_A           81 KYTRDFPIAVVEAKPENSPVGQGMQQAKDYAEILGLKFAYSTNGHEILEFDYTTGEEQLLSRFPTPDELFKRLCGDEGI  159 (159)
+Q Consensus        81 ~~~~~~p~~viEaK~~~~~~~~~~~Qa~~Ya~~l~~pf~~~TNG~~~~~~D~~~~~~~~i~~fpsp~eL~~r~~~~~~~  159 (159)
+                      ++.+++|++|||||++++++++++.||++||..+++||+|+|||++|+|||++++.+++|++||||+|||+||++++||
+T Consensus        81 ~~~~~~p~~viEaK~~~~~~~~~~~Qa~~Ya~~l~~pf~~~TNG~~~~~~D~~~~~~~~i~~fpsp~eL~~r~~~~~~~  159 (159)
+T 3h1t_A           81 KYTRDFPIAVVEAKPENSPVGQGMQQAKDYAEILGLKFAYSTNGHEILEFDYTTGEEQLLSRFPTPDELFKRLCGDEGI  159 (159)
+T ss_pred             EECCCEEEEEEECCCCCCCHHHHHHHHHHHHHHCCCCEEEEECCCEEEEEECCCCCCEECCCCCCHHHHHHHHHHHCCC
+T ss_conf             7628806988701221788667899999889860798899985964798857899822345788868999999974079
+
+
+No 2  
+>2w00_A R.ECOR124I, type I restriction enzyme ECOR124II R protein; ATP
+Probab=98.52   E-value=2.3e-07  Score=60.54  Aligned_columns=59  Identities=19%
+
+Q ss_pred             CCCCCCEEEEECCCEEEEEEECCCCCCCHHHHHHHHHHHHHHC--CCC-------EEEEECCCEEEEEE
+Q ss_conf             4323322577628806988701221788667899999889860--798-------89998596479885
+Q 3h1t_A           72 EQKRADYLLKYTRDFPIAVVEAKPENSPVGQGMQQAKDYAEIL--GLK-------FAYSTNGHEILEFD  131 (159)
+Q Consensus        72 ~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~~~Qa~~Ya~~l--~~p-------f~~~TNG~~~~~~D  131 (159)
+                      ...|+|.+||. +|.|+++||+|+++.++.+|+.|..+|....  +.|       |+++|||.+....-
+T Consensus       146 ~~~r~DiVlfI-NGlPlv~iElK~~~~~~~eA~~Qi~~Y~~d~~~~~p~LF~~~q~~V~sng~e~kygt  213 (273)
+T 2w00_A          146 HANRYDVTILV-NGLPLVQIELKKRGVAIREAFNQIHRYSKESFNSENSLFKYLQLFVISNGTDTRYFA  213 (273)
+T ss_pred             CCCCCEEEEEE-CCCEEEEEEEECCCCCHHHHHHHHHHHHHHCCCCCCCCCEEEEEEEEECCCCEEEEE
+T ss_conf             87431178987-386089999717998889999999867650464533312036889998598348984
+
+
+No 3  
+>3s1s_A BpuSI REase, PDEXK superfamily
+Probab=96.93   E-value=0.003  Score=36.75  Aligned_columns=88  Identities=20%
+
+Q ss_pred             HHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECC-CEEEEEEECCCCCCCHHH--HHHHHHH
+Q ss_conf             7669999705754600210001235652000354336654323322577628-806988701221788667--8999998
+Q 3h1t_A           33 YVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTR-DFPIAVVEAKPENSPVGQ--GMQQAKD  109 (159)
+Q Consensus        33 lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~-~~p~~viEaK~~~~~~~~--~~~Qa~~  109 (159)
+                      -....|..+|-+..-..+..+                .+.+--+|++|...+ .+.+.++|.|+....+..  =..||++
+T Consensus        27 AlnqAL~~~GLd~~yeviHH~----------------~vgsi~~DFvl~~k~t~k~vL~iEvKR~~~~V~STRY~~QA~S   90 (133)
+T 3s1s_A           27 ALNQALVNTGLDSTYEVVHHE----------------LVGSIEADFVIKNKQTKKYLLIVEVKRTKSQVSSTRYRLQAQS   90 (133)
+T ss_pred             HHHHHHHHCCCCCCCEEEEEE----------------CCCCCCCCEEEEECCCCEEEEEEEEECCHHHHHHHHHHHHHHH
+T ss_conf             898999860787420124430----------------3662000001440487717999983047124444466677788
+
+
+Q ss_pred             HHH----HCCCCEEEEECCCEEEEEECCCCC
+Q ss_conf             898----607988999859647988578998
+Q 3h1t_A          110 YAE----ILGLKFAYSTNGHEILEFDYTTGE  136 (159)
+Q Consensus       110 Ya~----~l~~pf~~~TNG~~~~~~D~~~~~  136 (159)
+                      |+.    .++.||.++||=.-.-|+-....+
+T Consensus        91 Yv~Ea~~~le~~Yy~itNLEV~~~Fk~d~~r  121 (133)
+T 3s1s_A           91 YVREANIKVEQHYYCLTNLEIIDFFKHDPNK  121 (133)
+T ss_pred             HHHHHCCCCCCCEEEEECCCEEEEEEECCCC
+T ss_conf             8875101247753675110100002116899
+
+
+No 4  
+>2vld_A NUCS, UPF0286 protein pyrab01260; endonuclease, hydrolase; 2.6
+Probab=95.17   E-value=0.029  Score=31.06  Aligned_columns=72  Identities=21%
+
+Q ss_pred             CHHHHHHHHH-HHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHH
+Q ss_conf             9899999976-699997057546002100012356520003543366543233225776288069887012217886678
+Q 3h1t_A           25 NEADTCRVYV-TPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQG  103 (159)
+Q Consensus        25 nE~dtR~~lI-dp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~  103 (159)
+                      ||.+....+. .|.+-..||.    .+.+|+.+               ..+++|.+..+.+|. +.|||.|+...+ .++
+T Consensus         1 sE~dlq~~l~~~~~~i~~g~~----~v~rE~~~---------------~~g~iDll~~d~~g~-~vvIElK~~~~~-~~~   59 (126)
+T 2vld_A            1 SEAEMANLIFENPRVIEEGFK----PIYREKPI---------------RHGIVDVMGVDKDGN-IVVLELKRRKAD-LHA   59 (126)
+T ss_pred             CHHHHHHHHHHHHHHHCCCCE----EEEECCCC---------------CCCCEEEEEECCCCC-EEEEEEECCCCC-HHH
+T ss_conf             947989999860886257866----75310233---------------556312688878987-798885216578-778
+
+
+Q ss_pred             HHHHHHHHHHCCCC
+Q ss_conf             99999889860798
+Q 3h1t_A          104 MQQAKDYAEILGLK  117 (159)
+Q Consensus       104 ~~Qa~~Ya~~l~~p  117 (159)
+                      +.|+.+|+..+.-+
+T Consensus        60 v~Ql~~Y~~~l~~~   73 (126)
+T 2vld_A           60 VSQMKRYVDSLKEE   73 (126)
+T ss_pred             HHHHHHHHHHHHHH
+T ss_conf             99999999998500
+
+
+No 5  
+>PF08774 VRR-NUC domain
+Probab=93.16   E-value=0.4  Score=24.49  Aligned_columns=80  Identities=18%
+
+Q ss_pred             CCHHHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHH
+Q ss_conf             89899999976699997057546002100012356520003543366543233225776288069887012217886678
+Q 3h1t_A           24 LNEADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQG  103 (159)
+Q Consensus        24 lnE~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~  103 (159)
+                      |.|.++-.+ |-..+++.||-.-..     ....+            +..+.+|.+++..++.. ..||.|+++-.++..
+T Consensus         1 M~E~~ie~~-l~~~~~~~G~~~~k~-----~~~~~------------g~~G~PDli~~~~~g~~-~~iEvK~~~g~~s~~   61 (83)
+T PF08774           1 MREGDIEVA-LVDALKKLGLGLHRK-----NWGKW------------GLSGVPDLILFRPNGKF-LFVEVKGPGDRLSDN   61 (83)
+T ss_pred             CCHHHHHHH-HHHHHHHCCCEEEEE-----ECCCC------------CCCCCCEEEEECCCCEE-EEEEEECCCCCCCHH
+T ss_conf             976899999-999998479888764-----02178------------99988617898269858-999876898985978
+
+
+Q ss_pred             HHHHHHHHHHCCCCEEEEE
+Q ss_conf             9999988986079889998
+Q 3h1t_A          104 MQQAKDYAEILGLKFAYST  122 (159)
+Q Consensus       104 ~~Qa~~Ya~~l~~pf~~~T  122 (159)
+                      -..-......++....++.
+T Consensus        62 Q~~~~~~l~~~G~~v~Vv~   80 (83)
+T PF08774          62 QRRWIDRLARSGFKVEVCD   80 (83)
+T ss_pred             HHHHHHHHHHCCCEEEEEE
+T ss_conf             9999999995698389986
+
+
+No 6  
+>d1ob8a_ c.52.1.18 (A:) Holliday-junction resolvase SSO1176 {Sulfolobus solfataricus [TaxId: 2287]}
+Probab=87.28   E-value=3.2  Score=19.29  Aligned_columns=80  Identities=15%
+
+Q ss_pred             CCCCCCEEEEECCCEEEEEEECCCCCCC---HH-HHHHHHHHHHHHCCC---CEEEE--ECCCEEEEEECCCCC--CEEC
+Q ss_conf             4323322577628806988701221788---66-789999988986079---88999--859647988578998--2234
+Q 3h1t_A           72 EQKRADYLLKYTRDFPIAVVEAKPENSP---VG-QGMQQAKDYAEILGL---KFAYS--TNGHEILEFDYTTGE--EQLL  140 (159)
+Q Consensus        72 ~~~~~Dy~L~~~~~~p~~viEaK~~~~~---~~-~~~~Qa~~Ya~~l~~---pf~~~--TNG~~~~~~D~~~~~--~~~i  140 (159)
+                      +...+|.+.. .+ ..+.+||||..+.+   +. +-+++...+|...++   ||+.+  ++...|.|+......  ....
+T Consensus        29 ~~~~PDiiA~-~~-~~~~~iEvKst~~~~iyi~~eqvekL~~f~~~fga~g~p~iAvKf~~~~~Wrf~~~~~~~~~~~~~  106 (124)
+T d1ob8a_          29 PNPLPDIFAT-KG-NTLLSIECKSTWENKVKVKEHQVRKLLDFLSMFTMKGVPLIAIKFKQVHEWRVLVPEKAEDIIVTI  106 (124)
+T ss_pred             CCCCCEEEEE-CC-CEEEEEEEEECCCCEEEECHHHHHHHHHHHHHCCCCCCEEEEEEECCCCCEEEEECCCCCCCEECC
+T ss_conf             8656348974-49-868999886237970682689999999999851899824899997487753788201232010122
+
+
+Q ss_pred             CCCCCHHHHHHHH
+Q ss_conf             5788868999999
+Q 3h1t_A          141 SRFPTPDELFKRL  153 (159)
+Q Consensus       141 ~~fpsp~eL~~r~  153 (159)
+                      +.=.+-++|...+
+T Consensus       107 ~~~~~le~l~~~~  119 (124)
+T d1ob8a_         107 DNSIPIEDLFKIL  119 (124)
+T ss_pred             CCCCCHHHHHHHH
+T ss_conf             3467688999987
+
+
+No 7  
+>d1y88a2 c.52.1.30 (A:3-127) Hypothetical protein AF1548, N-terminal domain {Archaeoglobus fulgidus [TaxId: 2234]}
+Probab=86.96   E-value=0.68  Score=23.17  Aligned_columns=104  Identities=24%
+
+Q ss_pred             HHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHH-HHHHHHHHH
+Q ss_conf             9766999970575460021000123565200035433665432332257762880698870122178866-789999988
+Q 3h1t_A           32 VYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVG-QGMQQAKDY  110 (159)
+Q Consensus        32 ~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~-~~~~Qa~~Y  110 (159)
+                      ++|..+|++.||.+..     ...++.           .+....+|.+... ++.. .+||||..+.... ..+.|....
+T Consensus         7 ~~va~l~~~~Gy~v~~-----~~~v~~-----------~~~d~giDiia~~-~~~~-~~VqcK~~~~~v~~~~i~~~~~~   68 (125)
+T d1y88a2           7 HMVARLLEEHGFETKT-----NVIVQG-----------NCVEQEIDVVAER-DGER-YMIECKFHNIPVYTGLKEAMYTY   68 (125)
+T ss_pred             HHHHHHHHHCCCCCCC-----CEEECC-----------CCCEEEEEEEEEE-CCCE-EEEEEEECCCCCCCCHHHHHHHH
+T ss_conf             9999999964983102-----016714-----------6403567886431-6968-99998542786266313333322
+
+
+Q ss_pred             HH-----HCCC-CEEEEECCCEEEE-EECCCCCCEECC--CCCCHHHHHHHH
+Q ss_conf             98-----6079-8899985964798-857899822345--788868999999
+Q 3h1t_A          111 AE-----ILGL-KFAYSTNGHEILE-FDYTTGEEQLLS--RFPTPDELFKRL  153 (159)
+Q Consensus       111 a~-----~l~~-pf~~~TNG~~~~~-~D~~~~~~~~i~--~fpsp~eL~~r~  153 (159)
+                      +.     ..++ ...++|||...-- .++.......|-  +.|..+.|.++.
+T Consensus        69 ~~~~~~~~~~~~~giiVTt~~ft~~A~~~A~~~~I~Li~~d~~~~~~l~~li  120 (125)
+T d1y88a2          69 ARFLDVEKHGFTQPWIFTNTKFSEEAKKYAGCVGIKLTGWSYPEKEGIEVLL  120 (125)
+T ss_pred             HHHHHHHCCCCCEEEEEECCCCCHHHHHHHHHCCCEEEEECCCCHHHHHHHH
+T ss_conf             2220021047965799983888988999987289789882276812589999
+
+
+No 8  
+>PF06250 Protein of unknown function (DUF1016) PDEXK_domain only
+Probab=82.94   E-value=1.4  Score=21.30  Aligned_columns=115  Identities=17%
+
+Q ss_pred             CHHHHHHHHHH---HHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHH
+Q ss_conf             98999999766---999970575460021000123565200035433665432332257762880698870122178866
+Q 3h1t_A           25 NEADTCRVYVT---PKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVG  101 (159)
+Q Consensus        25 nE~dtR~~lId---p~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~  101 (159)
+                      .|.+....+|+   .+|-++|-..  ..+-+.+.++-|           +..-++|-++|+..-+.+++||-|.-.... 
+T Consensus        35 ~E~dLE~ali~~i~~FLlElG~GF--aFvgrQ~~l~v~-----------~~df~iDLlFYh~~L~c~V~IELK~g~f~p-  100 (167)
+T PF06250          35 FEKDLEKALINHLEKFLLELGAGF--AFVARQKRIQID-----------DEDFYIDLLFYHRKLRCLVAIDLKIGKFTH-  100 (167)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHCCCE--EEECCCEEEEEC-----------CCCCCHHHHHHCCCCCEEEEEEECCCCCCC-
+T ss_conf             279999999999999998517641--653032145556-----------851102443223002113776630564476-
+
+
+Q ss_pred             HHHHHHHHHHHHCC--------CCEE-EEECC-CEEEEEECCC-CCCEEC---CCCCCHHHHHHHHH
+Q ss_conf             78999998898607--------9889-99859-6479885789-982234---57888689999999
+Q 3h1t_A          102 QGMQQAKDYAEILG--------LKFA-YSTNG-HEILEFDYTT-GEEQLL---SRFPTPDELFKRLC  154 (159)
+Q Consensus       102 ~~~~Qa~~Ya~~l~--------~pf~-~~TNG-~~~~~~D~~~-~~~~~i---~~fpsp~eL~~r~~  154 (159)
+                      + +-|.-.|-..++        .|.+ ++|.+ ++.+.|-+.. ..+.-+   ...||.++|-+++.
+T Consensus       101 e-~GQl~~Yl~~~d~~k~~~dnptIGiiLC~~k~~~v~yal~~~~~pi~va~Y~~LP~~eel~~~L~  166 (167)
+T PF06250         101 E-AGQMQFYLRYLDKHKQPGENPPIGIILCASKNESVKYTLEDNNKTIFAAEYKTLPSEEELKEELR  166 (167)
+T ss_pred             C-HHHHHHHHHHHHHHCCCCCCCEEEEEEECCCCHHHHHHHHCCCCCEEEEEECCCCCHHHHHHHHC
+T ss_conf             3-56999999999853155668806889876876777877515788704465224879889999723
+
+
+No 9  
+>d1t0fa2 c.52.1.16 (A:7-168) TnsA endonuclease, N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=82.82   E-value=1.5  Score=21.24  Aligned_columns=52  Identities=12%
+
+Q ss_pred             CCCCEEEEECCCEE-EEEEECCCCCCCH----HHHHHHHHHHHHHCCCCEEEEECCC
+Q ss_conf             23322577628806-9887012217886----6789999988986079889998596
+Q 3h1t_A           74 KRADYLLKYTRDFP-IAVVEAKPENSPV----GQGMQQAKDYAEILGLKFAYSTNGH  125 (159)
+Q Consensus        74 ~~~Dy~L~~~~~~p-~~viEaK~~~~~~----~~~~~Qa~~Ya~~l~~pf~~~TNG~  125 (159)
+                      --+|+++...+|.. ..++|+|....-.    .+.++=+++||...+++|.++|+-+
+T Consensus       105 ~T~Dflv~~~dg~~~~~aieVK~~~~l~~~r~~eKleier~y~~~~Gi~~~ivTE~~  161 (162)
+T d1t0fa2         105 MSTDFLVDCKDGPFEQFAIQVKPAAALQDERTLEKLELERRYWQQKQIPWFIFTDKE  161 (162)
+T ss_pred             EEEEEEEEECCCCCEEEEEEECCHHHHCCHHHHHHHHHHHHHHHHCCCCEEEEECCC
+T ss_conf             861189983089802899970443332274468999999999995598489972574
+
+
+No 10 
+>2ixs_A SDAI restriction endonuclease; hydrolase, domain architecture;
+Probab=72.51   E-value=4.8  Score=18.26  Aligned_columns=54  Identities=9%
+
+Q ss_pred             CCCCCCEEEEECCCEEEEEEECCCCCCCHH-HHHHHHHHHHHHCCCCEEEEECCC
+Q ss_conf             432332257762880698870122178866-789999988986079889998596
+Q 3h1t_A           72 EQKRADYLLKYTRDFPIAVVEAKPENSPVG-QGMQQAKDYAEILGLKFAYSTNGH  125 (159)
+Q Consensus        72 ~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~-~~~~Qa~~Ya~~l~~pf~~~TNG~  125 (159)
+                      ..+.+|.+|++....++.+|||=...-.++ .-.......+..-.+..+|+|-..
+T Consensus        54 h~klPDvVl~~~~~~wL~lIEaVtS~GPv~~~R~~eL~~l~~~~~~glvfVTAF~  108 (149)
+T 2ixs_A           54 HGRMPDLVLHDKVRKWLFLMEAVKSKGPFDEERHRTLRELFATPVAGLVFVNCFE  108 (149)
+T ss_pred             CCCCCCEEEEECCCCEEEEEEEEECCCCCCHHHHHHHHHHHHCCCCCEEEEEECC
+T ss_conf             6788717998769984899988733899698999999999604888879996057
+
+
+No 11 
+>d1gefa_ c.52.1.18 (A:) Archaeal Holliday junction resolvase Hjc {Archaeon Pyrococcus furiosus [TaxId: 2261]}
+Probab=66.45   E-value=20  Score=14.67  Aligned_columns=58  Identities=14%
+
+Q ss_pred             CCCCEEEEECCCEEEEEEECCCCCCC---HH-HHHHHHHHHHHHCCC-CEEEE-ECCCEEEEEECC
+Q ss_conf             23322577628806988701221788---66-789999988986079-88999-859647988578
+Q 3h1t_A           74 KRADYLLKYTRDFPIAVVEAKPENSP---VG-QGMQQAKDYAEILGL-KFAYS-TNGHEILEFDYT  133 (159)
+Q Consensus        74 ~~~Dy~L~~~~~~p~~viEaK~~~~~---~~-~~~~Qa~~Ya~~l~~-pf~~~-TNG~~~~~~D~~  133 (159)
+                      +.+|.+.. .++ .+.+||||..+.+   +. +-++....+|..-+. |++.+ -.|..|.|+...
+T Consensus        30 g~pDiiA~-~~~-~~~~IEvKst~~~~iyi~~eqvekL~~f~~~fg~~p~iAvKf~~~~Wrf~~~~   93 (120)
+T d1gefa_          30 KKVDLVAG-NGK-KYLCIEVKVTKKDHLYVGKRDMGRLIEFSRRFGGIPVLAVKFLNVGWRFIEVS   93 (120)
+T ss_pred             CCCEEEEE-CCC-EEEEEEEEECCCCEEEECHHHHHHHHHHHHHCCCCEEEEEEECCCCEEEEECC
+T ss_conf             98148986-498-58999886137970682689999999999845996799999878633898520
+
+
+No 12 
+>PF08011 Protein of unknown function (DUF1703)
+Probab=63.78   E-value=7.6  Score=17.08  Aligned_columns=60  Identities=27%
+
+Q ss_pred             HHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCC-CCHHHHHHHH--HH
+Q ss_conf             76699997057546002100012356520003543366543233225776288069887012217-8866789999--98
+Q 3h1t_A           33 YVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPEN-SPVGQGMQQA--KD  109 (159)
+Q Consensus        33 lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~-~~~~~~~~Qa--~~  109 (159)
+                      ++--+|..+|+.+.     .|..               +..+|+|.++.. + ....|+|-|... .+..+++.|.  +.
+T Consensus         9 ~l~~~l~~~g~~v~-----sE~~---------------s~~GR~Di~i~~-~-~~~yI~E~K~~~~~~a~~Al~QI~ek~   66 (95)
+T PF08011           9 VLYAYFASLGYEVI-----PEDE---------------TNKGRIDLTVKT-R-TYIYIFEFKKDDKEGAEEALEQIKEKG   66 (95)
+T ss_pred             HHHHHHHHCCCEEE-----EEEC---------------CCCCEEEEEEEC-C-CEEEEEEEEECCCCCHHHHHHHHHHCC
+T ss_conf             99999985497577-----6201---------------689538899821-9-908999987538988768899987427
+
+
+Q ss_pred             HHHHC
+Q ss_conf             89860
+Q 3h1t_A          110 YAEIL  114 (159)
+Q Consensus       110 Ya~~l  114 (159)
+                      |+..+
+T Consensus        67 Y~~~~   71 (95)
+T PF08011          67 YAEKY   71 (95)
+T ss_pred             CCHHH
+T ss_conf             30478
+
+
+No 13 
+>PF04411 Protein of unknown function (DUF524)
+Probab=58.42   E-value=12  Score=15.92  Aligned_columns=47  Identities=15%
+
+Q ss_pred             CCCCCCCEEEEE--CCCEEEEEEECC-CC--CCCHHHHHHHHHHHHHHCCCC
+Q ss_conf             543233225776--288069887012-21--788667899999889860798
+Q 3h1t_A           71 GEQKRADYLLKY--TRDFPIAVVEAK-PE--NSPVGQGMQQAKDYAEILGLK  117 (159)
+Q Consensus        71 ~~~~~~Dy~L~~--~~~~p~~viEaK-~~--~~~~~~~~~Qa~~Ya~~l~~p  117 (159)
+                      ....|+|++|..  .++....|.+|| +.  .....+++.|..+|-..+..+
+T Consensus        65 s~~~rPDi~l~i~~~~~~~~~ifDAKYR~~~~~~~~~~i~~mh~YRDai~~~  116 (129)
+T PF04411          65 TVPQRPDIVLEITKKDKEVRIVFDAKYRIDADQEKEDDINKMHRYRDAIERT  116 (129)
+T ss_pred             CCCCCCCEEEEEECCCCEEEEEEECEEECCCCCCCHHHHHHHHHHHHCCCCE
+T ss_conf             8776873699988499807999711010378998501488887542102531
+
+
+No 14 
+>2wcw_A HJC; type II restriction endonuclease, hydrolase, DNA binding 
+Probab=55.89   E-value=30  Score=13.67  Aligned_columns=103  Identities=16%
+
+Q ss_pred             HHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCC-H---HHHHHHHHH
+Q ss_conf             669999705754600210001235652000354336654323322577628806988701221788-6---678999998
+Q 3h1t_A           34 VTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSP-V---GQGMQQAKD  109 (159)
+Q Consensus        34 Idp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~-~---~~~~~Qa~~  109 (159)
+                      +-..|...||.+-    +...           +  .+...+-+|.+...  +-.+++||+|.-+.+ +   .+.+.....
+T Consensus        15 ~~~~L~~~G~~v~----r~~~-----------s--~~~~~~~~DiIa~~--~~~l~~iEVKtr~~~~~~~~~e~v~~lk~   75 (139)
+T 2wcw_A           15 LLVELWKAGFAAI----RVAG-----------A--GVSPFPCPDIVAGN--GRTYLAIEVKMRKELPLYLSADEVEQLVT   75 (139)
+T ss_pred             HHHHHHHCCEEEE----ECCC-----------C--CCCCCCCEEEEEEC--CCEEEEEEEEECCCCCCCCCHHHHHHHHH
+T ss_conf             9999987990799----8057-----------7--67789961389871--98899998642048720058899999999
+
+
+Q ss_pred             HHHHCCCC-EEEEE-CCCEEEEEECC----CCCCEECC--CC---CCHHHHHHHHHH
+Q ss_conf             89860798-89998-59647988578----99822345--78---886899999997
+Q 3h1t_A          110 YAEILGLK-FAYST-NGHEILEFDYT----TGEEQLLS--RF---PTPDELFKRLCG  155 (159)
+Q Consensus       110 Ya~~l~~p-f~~~T-NG~~~~~~D~~----~~~~~~i~--~f---psp~eL~~r~~~  155 (159)
+                      ++...++. |..+- .+..|.|.+..    ++....++  .+   ..-+|+-.+..+
+T Consensus        76 ~~~~~~a~~yia~k~~~~~~rf~~v~~i~~~~~n~~id~~~~~~~~~l~e~~~~~~~  132 (139)
+T 2wcw_A           76 FARGFGAEAYVALKLPRAAWRFFPVQMLERTEKNFKIDESVYPLGLEIAEVAGKFFQ  132 (139)
+T ss_pred             HHHHHCCCEEEEEEECCCCEEEEEHEEEEECCCCEEEEHHHHCCCCCHHHHHHHHHH
+T ss_conf             999707936899987499668872102344388515608670265637897525565
+
+
+No 15 
+>1xmx_A Hypothetical protein VC1899; alpha-beta, MCSG, protein structu
+Probab=43.47   E-value=20  Score=14.64  Aligned_columns=40  Identities=13%
+
+Q ss_pred             CCCEEEEECCCEEEEEEECCCCCCC--HHHHHHHHHHHHHHCCC
+Q ss_conf             3322577628806988701221788--66789999988986079
+Q 3h1t_A           75 RADYLLKYTRDFPIAVVEAKPENSP--VGQGMQQAKDYAEILGL  116 (159)
+Q Consensus        75 ~~Dy~L~~~~~~p~~viEaK~~~~~--~~~~~~Qa~~Ya~~l~~  116 (159)
+                      -.| |++..+++ +.+||||..+..  ..+.+..+.+.+..++-
+T Consensus        43 ElD-V~~~~~~~-L~~IECKtg~~~~~~~~~l~Kl~~l~~~lGG   84 (135)
+T 1xmx_A           43 ELD-VATVVNNK-LHIIECKTKGMRDDGDDTLYKLESLRDLLGG   84 (135)
+T ss_pred             EEE-EEEEECCE-EEEEEEECCCCCCCHHHHHHHHHHHHHHHCC
+T ss_conf             068-89973885-8999851587764135788999999997175
+
+
+No 16 
+>d1hh1a_ c.52.1.18 (A:) Archaeal Holliday junction resolvase Hjc {Archaeon Sulfolobus solfataricus [TaxId: 2287]}
+Probab=42.00   E-value=44  Score=12.67  Aligned_columns=79  Identities=14%
+
+Q ss_pred             CCCCEEEEECCCEEEEEEECCCCC---CCH--H-HHHHHHHHHHHHCCCC-EEE-EECCCEEEEEECC-----CCCCEE-
+Q ss_conf             233225776288069887012217---886--6-7899999889860798-899-9859647988578-----998223-
+Q 3h1t_A           74 KRADYLLKYTRDFPIAVVEAKPEN---SPV--G-QGMQQAKDYAEILGLK-FAY-STNGHEILEFDYT-----TGEEQL-  139 (159)
+Q Consensus        74 ~~~Dy~L~~~~~~p~~viEaK~~~---~~~--~-~~~~Qa~~Ya~~l~~p-f~~-~TNG~~~~~~D~~-----~~~~~~-  139 (159)
+                      .-+|.+-. .+ ..+.+||||..+   ..+  . +-++....+|...+.+ +.. =-+| .|.|+...     .+.... 
+T Consensus        31 ~~pDiiA~-~~-~~~~~IEvKst~~~~~~iyi~~eqvekL~~f~~~fG~~~~iAvK~~g-~w~f~~~~~l~~t~~gny~i  107 (132)
+T d1hh1a_          31 PIPDIIAL-KN-GVIILIEMKSRKDIEGKIYVRREQAEGIIEFARKSGGSLFLGVKKPG-VLKFIPFEKLRRTETGNYVA  107 (132)
+T ss_pred             CCCEEEEE-CC-CEEEEEEEEECCCCCCCEEECHHHHHHHHHHHHHCCCCEEEEEEECC-CEEEEEHHHHEECCCCCEEE
+T ss_conf             67428873-59-86899987732588762662689999999999844995799999779-45897156620026884487
+
+
+Q ss_pred             -CC-CCCCHHHHHHHHHH
+Q ss_conf             -45-78886899999997
+Q 3h1t_A          140 -LS-RFPTPDELFKRLCG  155 (159)
+Q Consensus       140 -i~-~fpsp~eL~~r~~~  155 (159)
+                       .+ .-.+-+||-..+.+
+T Consensus       108 ~~~~~g~~l~~lv~~~~~  125 (132)
+T d1hh1a_         108 DSEIEGLDLEDLVRLVEA  125 (132)
+T ss_pred             ECCCCCCCHHHHHHHHCC
+T ss_conf             404578758899986256
+
+
+No 17 
+>d1w25a1 c.23.1.1 (A:2-140) Response regulator PleD, receiver domain {Caulobacter crescentus [TaxId: 155892]}
+Probab=37.92   E-value=11  Score=16.18  Aligned_columns=104  Identities=17%
+
+Q ss_pred             HHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHHHHH
+Q ss_conf             99999976699997057546002100012356520003543366543233225776288069887012217886678999
+Q 3h1t_A           27 ADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQGMQQ  106 (159)
+Q Consensus        27 ~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~~~Q  106 (159)
+                      ...|. ++...|+..||.+...        ..|.....-     -....+|          ++++...=|+.+--+...+
+T Consensus        11 ~~~~~-~l~~~L~~~g~~v~~a--------~~g~eal~~-----~~~~~~d----------liilD~~mP~~dG~~~~~~   66 (139)
+T d1w25a1          11 EANVR-LLEAKLTAEYYEVSTA--------MDGPTALAM-----AARDLPD----------IILLDVMMPGMDGFTVCRK   66 (139)
+T ss_pred             HHHHH-HHHHHHHHCCCEEEEE--------CCHHHHHHH-----HHHCCCC----------EEEEECCCCCCCHHHHHHH
+T ss_conf             89999-9999998749899998--------696999999-----9839997----------9998255888636789999
+
+
+Q ss_pred             HHHHHHHCCCCEEEEECCCE--EEEEECCCCCCEECCCCCCHHHHHHHHH
+Q ss_conf             99889860798899985964--7988578998223457888689999999
+Q 3h1t_A          107 AKDYAEILGLKFAYSTNGHE--ILEFDYTTGEEQLLSRFPTPDELFKRLC  154 (159)
+Q Consensus       107 a~~Ya~~l~~pf~~~TNG~~--~~~~D~~~~~~~~i~~fpsp~eL~~r~~  154 (159)
+                      .+.......+|.+++|.-..  -...=+..|-.-.+....++.+|..|..
+T Consensus        67 lr~~~~~~~iPII~ls~~~~~~~~~~a~~~Ga~dyl~KP~~~~eL~~rI~  116 (139)
+T d1w25a1          67 LKDDPTTRHIPVVLITALDGRGDRIQGLESGASDFLTKPIDDVMLFARVR  116 (139)
+T ss_pred             HHHCCCCCCCCEEEEECCCCHHHHHHHHHCCCCEEEECCCCHHHHHHHHH
+T ss_conf             97065647887788707899899999986698606656988899999999
+
+
+No 18 
+>d1xmxa_ c.52.1.26 (A:) Hypothetical protein VC1899 {Vibrio cholerae [TaxId: 666]}
+Probab=37.07   E-value=30  Score=13.67  Aligned_columns=47  Identities=13%
+
+Q ss_pred             CCCEEEEECCCEEEEEEECCCCCC--CHHHHHHHHHHHHHHCCC---CEEEEEC
+Q ss_conf             332257762880698870122178--866789999988986079---8899985
+Q 3h1t_A           75 RADYLLKYTRDFPIAVVEAKPENS--PVGQGMQQAKDYAEILGL---KFAYSTN  123 (159)
+Q Consensus        75 ~~Dy~L~~~~~~p~~viEaK~~~~--~~~~~~~Qa~~Ya~~l~~---pf~~~TN  123 (159)
+                      -.|.+ +..++ .+.+||||..+.  ...+++.++..++..+|-   .=+++|.
+T Consensus       293 ElDv~-~~~~~-~l~~iECKt~~~~~~~~~~l~kl~~~~~~~gG~~~~~~LVt~  344 (385)
+T d1xmxa_         293 ELDVA-TVVNN-KLHIIECKTKGMRDDGDDTLYKLESLRDLLGGLQARAMLVSF  344 (385)
+T ss_pred             CEEEE-EEECC-EEEEEEEECCCCCCHHHHHHHHHHHHHHHHCCCCCCEEEEEE
+T ss_conf             06788-98678-589998606887621789999999999971751101789981
+
+
+No 19 
+>PF02646 RmuC family
+Probab=32.92   E-value=29  Score=13.72  Aligned_columns=27  Identities=22%
+
+Q ss_pred             CCCCCCCEEEEECCCEEEEEEECCCCCC
+Q ss_conf             5432332257762880698870122178
+Q 3h1t_A           71 GEQKRADYLLKYTRDFPIAVVEAKPENS   98 (159)
+Q Consensus        71 ~~~~~~Dy~L~~~~~~p~~viEaK~~~~   98 (159)
+                      +...|+|.++...++..+ +|.+|-+-.
+T Consensus        95 ~~~~rpD~vi~lp~~~~i-~IDsKfpl~  121 (193)
+T PF02646          95 GGRLRPDFAIRLPGNKWL-VIDAKFPLE  121 (193)
+T ss_pred             CCCEEEEEEEEECCCCEE-EEECCCCHH
+T ss_conf             985632688985698767-884178779
+
+
+No 20 
+>3dnx_A Uncharacterized protein SPO1766; structural genomics, APC88088
+Probab=31.94   E-value=26  Score=14.01  Aligned_columns=54  Identities=28%
+
+Q ss_pred             HHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHH-HHHHH
+Q ss_conf             766999970575460021000123565200035433665432332257762880698870122178866-78999
+Q 3h1t_A           33 YVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVG-QGMQQ  106 (159)
+Q Consensus        33 lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~-~~~~Q  106 (159)
+                      -+-..|...||..     ..|..+..|              .|+|.+-+..+| -+.+||+|....|.. +...|
+T Consensus        19 gv~R~l~~~g~~~-----l~E~~l~~G--------------rRaDv~al~~~g-~i~ivEiKvSraDf~~D~Kw~   73 (153)
+T 3dnx_A           19 GVARHLRAHGFVS-----VEEFVPARG--------------LRVDVMGLGPKG-EIWVIECKSSRADFQADAKWQ   73 (153)
+T ss_pred             HHHHHHHHCCCEE-----EEEEECCCC--------------CCEEEEEECCCC-CEEEEEEECCHHHHHCCCCCH
+T ss_conf             9999998589826-----665545999--------------802488888999-789998732658732035661
+
+
+No 21 
+>d1wu7a1 c.51.1.1 (A:330-426) Histidyl-tRNA synthetase (HisRS), C-terminal domain {Archaeon Thermoplasma acidophilum [TaxId: 2303]}
+Probab=31.60   E-value=85  Score=11.00  Aligned_columns=48  Identities=21%
+
+Q ss_pred             HHHHHHHHHHCCCCEEEEECCCE-----EEEEECCCCCCEECCCCCCHHHHHHHHHH
+Q ss_conf             99999889860798899985964-----79885789982234578886899999997
+Q 3h1t_A          104 MQQAKDYAEILGLKFAYSTNGHE-----ILEFDYTTGEEQLLSRFPTPDELFKRLCG  155 (159)
+Q Consensus       104 ~~Qa~~Ya~~l~~pf~~~TNG~~-----~~~~D~~~~~~~~i~~fpsp~eL~~r~~~  155 (159)
+                      +....+||...++||+++-..++     +.+.++.++....+    +.++|.+.+..
+T Consensus        42 ~~kq~k~A~~~g~~~~iiiG~~E~~~~~v~ik~l~~~~q~~i----~~~~l~~~l~~   94 (97)
+T d1wu7a1          42 LSAQLKYASAIGADFAVIFGERDLERGVVTIRNMYTGSQENV----GLDSVVEHLIS   94 (97)
+T ss_pred             HHHHHHHHHHCCCCEEEEECCCCCCCCEEEEEECCCCCEEEE----CHHHHHHHHHH
+T ss_conf             778998885357877999667443446047888789846872----48999999987
+
+
+No 22 
+>d1h4vb1 c.51.1.1 (B:326-421) Histidyl-tRNA synthetase (HisRS), C-terminal domain {Thermus thermophilus [TaxId: 274]}
+Probab=28.84   E-value=93  Score=10.78  Aligned_columns=47  Identities=26%
+
+Q ss_pred             HHHHHHHCCCCEEEEECCCE-----EEEEECCCCCCEECCCCCCHHHHHHHHHHHC
+Q ss_conf             99889860798899985964-----7988578998223457888689999999740
+Q 3h1t_A          107 AKDYAEILGLKFAYSTNGHE-----ILEFDYTTGEEQLLSRFPTPDELFKRLCGDE  157 (159)
+Q Consensus       107 a~~Ya~~l~~pf~~~TNG~~-----~~~~D~~~~~~~~i~~fpsp~eL~~r~~~~~  157 (159)
+                      ..+||...++||+++-..++     +.+.|+.++....+    +.++|.+.+.+--
+T Consensus        44 q~k~a~~~~~~~~iiiG~~E~~~~~v~ik~~~t~~q~~i----~~~el~~~l~~~l   95 (96)
+T d1h4vb1          44 GLEEALKRGAAFAGFLGEDELRAGEVTLKRLATGEQVRL----SREEVPGYLLQAL   95 (96)
+T ss_pred             HHHHHHHCCCCEEEEECCCCCCCCEEEEEECCCCCEEEE----CHHHHHHHHHHHC
+T ss_conf             899998659978999555121245268988799857873----4899999999962
+
+
+No 23 
+>d1ys7a2 c.23.1.1 (A:7-127) Transcriptional regulatory protein PrrA, N-terminal domain {Mycobacterium tuberculosis [TaxId: 1773]}
+Probab=28.11   E-value=26  Score=14.04  Aligned_columns=105  Identities=17%
+
+Q ss_pred             CHHHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHHH
+Q ss_conf             98999999766999970575460021000123565200035433665432332257762880698870122178866789
+Q 3h1t_A           25 NEADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQGM  104 (159)
+Q Consensus        25 nE~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~~  104 (159)
+                      .+..+|. +|...|+..||++..        ...|......     -....+|-++.          ...=++.+=-+..
+T Consensus         9 Dd~~~~~-~l~~~L~~~g~~v~~--------a~~~~eal~~-----l~~~~~dliil----------D~~mP~~dG~~l~   64 (121)
+T d1ys7a2           9 DDSDVLA-SLERGLRLSGFEVAT--------AVDGAEALRS-----ATENRPDAIVL----------DINMPVLDGVSVV   64 (121)
+T ss_pred             CCHHHHH-HHHHHHHHCCCEEEE--------ECCHHHHHHH-----HHHCCCCEEEE----------ECCCCCCCHHHHH
+T ss_conf             8889999-999999964999989--------8386899999-----97189958998----------1668972128999
+
+
+Q ss_pred             HHHHHHHHHCCCCEEEEECC--CEEEEEECCCCCCEECCCCCCHHHHHHHHHH
+Q ss_conf             99998898607988999859--6479885789982234578886899999997
+Q 3h1t_A          105 QQAKDYAEILGLKFAYSTNG--HEILEFDYTTGEEQLLSRFPTPDELFKRLCG  155 (159)
+Q Consensus       105 ~Qa~~Ya~~l~~pf~~~TNG--~~~~~~D~~~~~~~~i~~fpsp~eL~~r~~~  155 (159)
+                      .+.+.  ....+|++++|--  .+-...=+..|-...|....++++|..|...
+T Consensus        65 ~~ir~--~~~~iPii~lT~~~~~~~~~~~~~~Gaddyl~KP~~~~eL~~ri~~  115 (121)
+T d1ys7a2          65 TALRA--MDNDVPVCVLSARSSVDDRVAGLEAGADDYLVKPFVLAELVARVKA  115 (121)
+T ss_pred             HHHHH--CCCCCCEEEEECCCCHHHHHHHHHCCCCEEEECCCCHHHHHHHHHH
+T ss_conf             99983--6899727898638998999999857998042168778999999999
+
+
+No 24 
+>d1uxya1 d.145.1.2 (A:3-200) Uridine diphospho-N-Acetylenolpyruvylglucosamine reductase (MurB), N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=26.57   E-value=53  Score=12.20  Aligned_columns=8  Identities=13%
+
+Q ss_pred             CCHHHHHH
+Q ss_conf             89899999
+Q 3h1t_A           24 LNEADTCR   31 (159)
+Q Consensus        24 lnE~dtR~   31 (159)
+                      -|++|+..
+T Consensus        22 ~s~edv~~   29 (198)
+T d1uxya1          22 EDEQQLLN   29 (198)
+T ss_pred             CCHHHHHH
+T ss_conf             89799999
+
+
+No 25 
+>d1jbea_ c.23.1.1 (A:) CheY protein {Escherichia coli [TaxId: 562]}
+Probab=24.93   E-value=25  Score=14.05  Aligned_columns=106  Identities=18%
+
+Q ss_pred             HHHHHHHHHHHHHHHCCCC-CCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHHH
+Q ss_conf             8999999766999970575-460021000123565200035433665432332257762880698870122178866789
+Q 3h1t_A           26 EADTCRVYVTPKLKESGWE-NNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQGM  104 (159)
+Q Consensus        26 E~dtR~~lIdp~L~~lGW~-~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~~  104 (159)
+                      +..+|. +|...|+..||. +..        ...|.-... .    -.....|.++          +...=++.+--+-+
+T Consensus        13 ~~~~r~-~l~~~l~~~g~~~V~~--------a~~g~~Al~-~----l~~~~~dlii----------lD~~lP~~dG~~l~   68 (128)
+T d1jbea_          13 FSTMRR-IVRNLLKELGFNNVEE--------AEDGVDALN-K----LQAGGYGFVI----------SDWNMPNMDGLELL   68 (128)
+T ss_pred             CHHHHH-HHHHHHHHCCCCEEEE--------ECCHHHHHH-H----HHHCCCCEEE----------ECCCCCCCCHHHHH
+T ss_conf             989999-9999998839857876--------558589999-9----9718989999----------84879797678999
+
+
+Q ss_pred             HHHHHHHHHCCCCEEEEECCCE--EEEEECCCCCCEECCCCCCHHHHHHHHHH
+Q ss_conf             9999889860798899985964--79885789982234578886899999997
+Q 3h1t_A          105 QQAKDYAEILGLKFAYSTNGHE--ILEFDYTTGEEQLLSRFPTPDELFKRLCG  155 (159)
+Q Consensus       105 ~Qa~~Ya~~l~~pf~~~TNG~~--~~~~D~~~~~~~~i~~fpsp~eL~~r~~~  155 (159)
+                      .+.+.=.....+|++++|.-..  -...-...|-...+....++.+|.+++..
+T Consensus        69 ~~ir~~~~~~~~pii~lt~~~~~~~~~~~~~~G~~~~l~KP~~~~~L~~~i~~  121 (128)
+T d1jbea_          69 KTIRADGAMSALPVLMVTAEAKKENIIAAAQAGASGYVVKPFTAATLEEKLNK  121 (128)
+T ss_pred             HHHHHCCCCCCCCEEEEECCCCHHHHHHHHHCCCCEEEECCCCHHHHHHHHHH
+T ss_conf             99983778998957898638998999999966998176469888999999999
+
+
+No 26 
+>d2pl1a1 c.23.1.1 (A:1-119) PhoP receiver domain {Escherichia coli [TaxId: 562]}
+Probab=24.19   E-value=31  Score=13.55  Aligned_columns=104  Identities=11%
+
+Q ss_pred             HHHHHHHHHHHHHHHCCCCCCCCHHEECCCCCCCCCCCCCCCCCCCCCCCCCEEEEECCCEEEEEEECCCCCCCHHHHHH
+Q ss_conf             89999997669999705754600210001235652000354336654323322577628806988701221788667899
+Q 3h1t_A           26 EADTCRVYVTPKLKESGWENNPSAITEQYTFTDGRVQFKGSKVQRGEQKRADYLLKYTRDFPIAVVEAKPENSPVGQGMQ  105 (159)
+Q Consensus        26 E~dtR~~lIdp~L~~lGW~~~~~~i~~E~~~~~g~~~~~~~~~~~~~~~~~Dy~L~~~~~~p~~viEaK~~~~~~~~~~~  105 (159)
+                      +...|. .|.-.|+..||.+...     ..-..+...        -....+|.++          ++..=|+.+--+-+.
+T Consensus         9 d~~~~~-~i~~~L~~~g~~v~~a-----~~~~ea~~~--------l~~~~~dlvi----------lD~~lP~~dG~~ll~   64 (119)
+T d2pl1a1           9 NALLRH-HLKVQIQDAGHQVDDA-----EDAKEADYY--------LNEHIPDIAI----------VDLGLPDEDGLSLIR   64 (119)
+T ss_pred             CHHHHH-HHHHHHHHCCCEEEEE-----CCHHHHHHH--------HHHCCCCEEE----------EECCCCCCCHHHHHH
+T ss_conf             889999-9999999649999898-----496899999--------9718997899----------826798821078999
+
+
+Q ss_pred             HHHHHHHHCCCCEEEEECCCEE--EEEECCCCCCEECCCCCCHHHHHHHHHH
+Q ss_conf             9998898607988999859647--9885789982234578886899999997
+Q 3h1t_A          106 QAKDYAEILGLKFAYSTNGHEI--LEFDYTTGEEQLLSRFPTPDELFKRLCG  155 (159)
+Q Consensus       106 Qa~~Ya~~l~~pf~~~TNG~~~--~~~D~~~~~~~~i~~fpsp~eL~~r~~~  155 (159)
+                      |.+.  ....+|+.++|.-...  ...=+..|-.-.|....+++||..|...
+T Consensus        65 ~ir~--~~~~ipvi~lT~~~~~~~~~~~~~~Gaddyl~KP~~~~eLl~ri~~  114 (119)
+T d2pl1a1          65 RWRS--NDVSLPILVLTARESWQDKVEVLSAGADDYVTKPFHIEEVMARMQA  114 (119)
+T ss_pred             HHHH--CCCCCCEEEEECCCCHHHHHHHHHCCCCCEEECCCCHHHHHHHHHH
+T ss_conf             9982--7999746898638998999999857998041178788999999998
+
+
+No 27 
+>d2bdua1 c.108.1.21 (A:7-297) Cytosolic 5'-nucleotidase III {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=23.76   E-value=26  Score=13.96  Aligned_columns=29  Identities=10%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCEEEEECCC
+Q ss_conf             78866789999988986079889998596
+Q 3h1t_A           97 NSPVGQGMQQAKDYAEILGLKFAYSTNGH  125 (159)
+Q Consensus        97 ~~~~~~~~~Qa~~Ya~~l~~pf~~~TNG~  125 (159)
+                      ...+..+..+...+|...++|+.++|.|-
+T Consensus       133 ~~~lr~g~~e~i~~l~~~~i~~~IiS~g~  161 (291)
+T d2bdua1         133 DVMLKEGYENFFGKLQQHGIPVFIFSAGI  161 (291)
+T ss_pred             CCCCCCCHHHHHHHHHHCCCCEEEEECCH
+T ss_conf             76335667899999997589489986472
+
+
+No 28 
+>d1hska1 d.145.1.2 (A:15-208) Uridine diphospho-N-Acetylenolpyruvylglucosamine reductase (MurB), N-terminal domain {Staphylococcus aureus [TaxId: 1280]}
+Probab=21.36   E-value=49  Score=12.40  Aligned_columns=25  Identities=24%
+
+Q ss_pred             HHHHHHHHHHHHCCCCEEEEECCCE
+Q ss_conf             7899999889860798899985964
+Q 3h1t_A          102 QGMQQAKDYAEILGLKFAYSTNGHE  126 (159)
+Q Consensus       102 ~~~~Qa~~Ya~~l~~pf~~~TNG~~  126 (159)
+                      +.+.++.+||...++||.+...|+.
+T Consensus        45 eev~~iv~~a~~~~~~~~v~G~Gsn   69 (194)
+T d1hska1          45 EEVQAVVKYAYQNEIPVTYLGNGSN   69 (194)
+T ss_pred             HHHHHHHHHHHHHCCCCCCCCCCCC
+T ss_conf             9999999986541277520368722
+
+
+No 29 
+>d2qy9a2 c.37.1.10 (A:285-495) GTPase domain of the signal recognition particle receptor FtsY {Escherichia coli [TaxId: 562]}
+Probab=20.40   E-value=68  Score=11.59  Aligned_columns=36  Identities=28%
+
+Q ss_pred             HHHHHCCCCEEEEECCCEEEEEECCCCCCEECCCCCCHHHHHHHHHH
+Q ss_conf             88986079889998596479885789982234578886899999997
+Q 3h1t_A          109 DYAEILGLKFAYSTNGHEILEFDYTTGEEQLLSRFPTPDELFKRLCG  155 (159)
+Q Consensus       109 ~Ya~~l~~pf~~~TNG~~~~~~D~~~~~~~~i~~fpsp~eL~~r~~~  155 (159)
+                      +-+...+.|..|+|||...  -|        +..| +|+.+.+|+.+
+T Consensus       175 ~~~~~~~~Pi~fi~~Gq~v--~D--------l~~~-~~~~~v~~ll~  210 (211)
+T d2qy9a2         175 SVADQFGIPIRYIGVGERI--ED--------LRPF-KADDFIEALFA  210 (211)
+T ss_pred             HHHHHHCCCEEEEECCCCC--CC--------CCCC-CHHHHHHHHHC
+T ss_conf             9999838988998648987--43--------3546-98899998735
+
+
+Done!

@@ -1,0 +1,273 @@
+HHsearch 1.5
+NAME  d1o12a1 b.92.1.5 (A:1-43,A:332-364) N-acetylglucosamine-6-phosphate deacetylase, NagA {Thermotoga maritima [TaxId: 2336]}
+FAM   b.92.1.5
+FILE  d1o12a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1o12a1.a3m -v 1 
+DATE  Tue Jan 22 00:06:58 2013
+LENG  77 match states, 77 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCEEEEECCCCCEECCEECCCCHHEEECCCCCCCCCCCCHHHHHCCCEEEEEEECCCCCHHHHHHCCCEEEECC
+>ss_conf
+92133456406788320320102100001011014300034712430263002688636631333432473456219
+>Consensus
+mxxexxlivdpidgeFTGxvexeexkIxsixkxxCxpxgvlmpgRikeGxxAdlVlLdxxLnvxxTixxGxxVfxsx
+>d1o12a1 b.92.1.5 (A:1-43,A:332-364) N-acetylglucosamine-6-phosphate deacetylase, NagA {Thermotoga maritima [TaxId: 2336]}
+MIVEKVLIVDPIDGEFTGDVEIEEGKIVKVEKRECIPRGVLMPXRIAEGTRADLVLLDEDLNVVMTIKEGEVVFRSR
+>gi|217077145|ref|YP_002334861.1|(1-42:350) N-acetylglucosamine-6-phosphate deacetylase [Thermosipho africanus TCF52B] >gi|217036998|gb|ACJ75520.1| N-acetylglucosamine-6-phosphate deacetylase [Thermosipho africanus TCF52B]  E=2e-07 s/c=1.41 id=60% cov=56%
+MIIDNVLIVDPIDGEFTGSIEFED-KILSIRKYDCTPKYVLMP----------------------------------
+>gi|150020589|ref|YP_001305943.1|(1-42:349) N-acetylglucosamine-6-phosphate deacetylase [Thermosipho melanesiensis BI429] >gi|149793110|gb|ABR30558.1| N-acetylglucosamine-6-phosphate deacetylase [Thermosipho melanesiensis BI429]  E=1e-09 s/c=1.57 id=60% cov=56%
+MVVEKALIVDPIEGEYTGDVEFEE-EIINIKRYDCTPKYVLMP----------------------------------
+>gi|239617127|ref|YP_002940449.1|(302-359:361) N-acetylglucosamine-6-phosphate deacetylase [Kosmotoga olearia TBF 19.5.1] >gi|239505958|gb|ACR79445.1| N-acetylglucosamine-6-phosphate deacetylase [Kosmotoga olearia TBF 19.5.1]  E=7e-05 s/c=0.87 id=61% cov=40%
+--------------------------------------------RIKEGYRANFVLLDKELNVVKTVFEGNVVY---
+>gi|389845313|ref|YP_006347393.1|(310-369:369) N-acetylglucosamine-6-phosphate deacetylase [Mesotoga prima MesG1.Ag.4.2] >gi|387860059|gb|AFK08150.1| N-acetylglucosamine-6-phosphate deacetylase [Mesotoga prima MesG1.Ag.4.2]  E=0.0001 s/c=0.82 id=61% cov=43%
+--------------------------------------------RISKGYRADLVLLDETLEVQETILNGKTVFKS-
+>gi|27574194|pdb|1O12|A(316-376:376) Chain A, Crystal Structure Of N-Acetylglucosamine-6-Phosphate Deacetylase (Tm0814) From Thermotoga Maritima At 2.5 A Resolution >gi|27574195|pdb|1O12|B Chain B, Crystal Structure Of N-Acetylglucosamine-6-Phosphate Deacetylase (Tm0814) From Thermotoga Maritima At 2.5 A Resolution  E=2e-14 s/c=1.35 id=63% cov=81%
+--------------KFTGCSITELAKVSSYN--SCVELGLDDRGRIAEGTRADLVLLDEDLNVVXTIKEGEVVFRSR
+>gi|222100737|ref|YP_002535305.1|(307-366:366) N-acetylglucosamine-6-phosphate deacetylase [Thermotoga neapolitana DSM 4359] >gi|221573127|gb|ACM23939.1| N-acetylglucosamine-6-phosphate deacetylase [Thermotoga neapolitana DSM 4359]  E=1e-11 s/c=1.21 id=50% cov=78%
+---------------FTG-ASLKELAIVS-SYNACLEFGLADRGRIKEGMKADLVLLDEDLNVLMTVKSGDTVFSA-
+>gi|389844828|ref|YP_006346908.1|(308-368:368) N-acetylglucosamine-6-phosphate deacetylase [Mesotoga prima MesG1.Ag.4.2] >gi|387859574|gb|AFK07665.1| N-acetylglucosamine-6-phosphate deacetylase [Mesotoga prima MesG1.Ag.4.2]  E=0.0002 s/c=0.81 id=42% cov=52%
+--------------------------------------GISNRGRFKEGMIADIVLLSKELEVEETILAGKSVFISK
+>gi|160902995|ref|YP_001568576.1|(306-363:363) N-acetylglucosamine-6-phosphate deacetylase [Petrotoga mobilis SJ95] >gi|160360639|gb|ABX32253.1| N-acetylglucosamine-6-phosphate deacetylase [Petrotoga mobilis SJ95]  E=2e-07 s/c=1.02 id=61% cov=40%
+--------------------------------------------RIEVGYYANLVILDKDLNVKETIFEGEKVF---
+>gi|126654002|ref|ZP_01725837.1|(344-399:402) N-acetylglucosamine-6-phosphate deacetylase [Bacillus sp. B14905] >gi|126589519|gb|EAZ83662.1| N-acetylglucosamine-6-phosphate deacetylase [Bacillus sp. B14905]  E=0.0006 s/c=0.84 id=61% cov=40%
+--------------------------------------------RIKEGFDADFVLLDQKLNVQKTICRGKVVF---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1522	0	0	
+
+I 2    *	*	*	*	*	*	*	1034	*	*	*	*	*	*	*	*	*	967	*	*	2
+       0	*	*	*	*	*	*	1522	0	0	
+
+V 3    *	*	*	*	*	*	*	1011	*	*	*	*	*	*	*	*	*	989	*	*	3
+       0	*	*	*	*	*	*	1522	0	0	
+
+E 4    *	*	2057	397	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1522	0	0	
+
+K 5    *	*	*	*	*	*	*	*	989	*	*	2057	*	*	1967	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1522	0	0	
+
+V 6    1967	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	426	*	*	6
+       0	*	*	*	*	*	*	1522	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1522	0	0	
+
+I 8    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1522	0	0	
+
+V 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	9
+       0	*	*	*	*	*	*	1522	0	0	
+
+D 10   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1522	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1522	0	0	
+
+I 12   *	*	*	*	*	*	*	426	*	*	*	*	*	*	*	*	*	1967	*	*	12
+       0	*	*	*	*	*	*	1522	0	0	
+
+D 13   *	*	426	1967	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1522	0	0	
+
+G 14   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1522	0	0	
+
+E 15   *	*	*	510	*	*	*	*	1748	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2146	0	0	
+
+F 16   *	*	*	*	248	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2663	16
+       0	*	*	*	*	*	*	2505	0	0	
+
+T 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	17
+       0	*	*	*	*	*	*	2505	0	0	
+
+G 18   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       333	*	2279	*	*	*	*	2505	0	0	
+
+D 19   *	1748	878	*	*	*	*	*	*	*	*	*	*	*	*	2659	*	*	*	*	19
+       0	*	*	*	*	0	*	2146	0	1000	
+
+V 20   2279	*	*	*	*	*	*	2910	*	*	*	*	*	*	*	2224	*	1162	*	*	20
+       0	*	*	*	*	*	*	2505	0	0	
+
+E 21   *	*	*	786	*	*	*	2224	*	*	*	*	*	*	*	2279	*	*	*	*	21
+       0	*	*	*	*	*	*	2505	0	0	
+
+I 22   *	*	*	*	1782	*	*	2815	*	2279	*	*	*	*	*	*	2224	2766	*	*	22
+       0	*	*	*	*	*	*	2505	0	0	
+
+E 23   *	*	2766	628	*	*	*	*	2279	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2505	0	0	
+
+E 24   *	*	1836	983	*	*	*	*	*	2224	*	*	*	*	*	*	*	*	*	*	24
+       496	*	1782	*	*	*	*	2505	0	0	
+
+G 25   1917	*	*	*	*	1089	*	*	*	1917	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	0	*	2191	0	1281	
+
+K 26   2279	*	*	2663	*	*	*	*	653	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2505	0	0	
+
+I 27   *	*	*	*	*	*	*	347	*	*	*	*	*	*	*	*	*	2224	*	*	27
+       0	*	*	*	*	*	*	2505	0	0	
+
+V 28   *	2766	*	*	*	*	*	2663	*	2910	*	*	*	*	*	2224	*	1522	*	*	28
+       0	*	*	*	*	*	*	2505	0	0	
+
+K 29   *	*	*	*	*	*	*	*	2815	*	*	2663	*	*	2766	854	*	*	*	*	29
+       333	*	2279	*	*	*	*	2505	0	0	
+
+V 30   *	*	*	*	*	*	*	929	*	*	*	*	*	*	*	*	*	2498	*	1748	30
+       0	*	*	*	*	0	*	2146	0	1000	
+
+E 31   *	*	*	2815	*	*	*	*	2663	*	*	2224	*	*	1836	2279	*	*	*	*	31
+       347	*	2224	*	*	*	*	2505	0	0	
+
+K 32   *	*	*	*	*	*	*	*	917	*	*	*	*	*	2440	*	*	*	*	1806	32
+       0	*	*	*	*	*	0	2125	0	1000	
+
+R 33   *	*	*	*	*	*	*	*	*	*	*	1806	*	*	1471	*	*	*	*	1501	33
+       0	*	*	*	*	0	*	2125	0	1000	
+
+E 34   2279	*	1782	1790	*	*	*	*	*	*	*	*	*	*	*	2224	*	*	*	*	34
+       0	*	*	*	*	*	*	2505	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2505	0	0	
+
+I 36   *	*	*	*	*	*	*	2815	*	2279	*	*	*	*	*	*	1191	2224	*	*	36
+       0	*	*	*	*	*	*	2505	0	0	
+
+P 37   *	*	*	1251	*	*	*	*	*	*	*	*	786	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2505	0	0	
+
+R 38   *	*	*	*	2279	*	*	*	1782	2224	*	*	*	*	1790	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2505	0	0	
+
+G 39   *	*	*	*	*	546	*	*	*	*	*	*	*	*	*	*	*	*	*	1665	39
+       0	*	*	*	*	*	*	2449	0	0	
+
+V 40   *	*	*	*	*	*	*	1766	*	1852	*	*	*	*	*	*	*	1221	*	*	40
+       0	*	*	*	*	*	*	2449	0	0	
+
+L 41   2804	*	2901	*	*	*	*	*	*	790	*	*	*	*	*	2789	*	*	*	*	41
+       0	*	*	*	*	*	*	2449	0	0	
+
+M 42   *	*	1852	*	*	*	*	*	*	*	790	2789	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2449	0	0	
+
+P 43   *	*	*	*	*	*	*	*	*	*	*	*	790	*	1246	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2449	0	0	
+
+X 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1555	0	0	
+
+R 45   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1932	0	0	
+
+I 46   *	*	*	*	2763	*	*	230	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 47   2593	*	*	3025	*	*	*	*	754	*	*	*	*	*	*	3078	*	*	*	*	47
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 48   *	*	*	398	*	*	*	*	3078	*	*	*	*	*	*	*	*	3025	*	*	48
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 49   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1932	0	0	
+
+T 50   *	*	*	*	3008	*	*	*	*	*	1941	*	*	*	*	*	2593	*	*	1154	50
+       0	*	*	*	*	*	*	1932	0	0	
+
+R 51   *	*	3008	*	*	*	*	1977	3144	*	*	*	*	*	1375	*	*	*	*	3025	51
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 52   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1932	0	0	
+
+D 53   *	*	580	*	*	*	*	*	*	*	*	1595	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1932	0	0	
+
+L 54   *	*	*	*	2147	*	*	2763	*	674	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 55   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	55
+       0	*	*	*	*	*	*	1932	0	0	
+
+L 56   *	*	*	*	*	*	*	3025	*	189	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1932	0	0	
+
+L 57   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	1932	0	0	
+
+D 58   *	*	230	*	*	*	*	*	*	*	*	*	*	*	*	2763	*	*	*	*	58
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 59   *	*	*	1332	*	*	*	*	1064	*	*	*	*	3008	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1932	0	0	
+
+D 60   *	*	1316	2007	*	*	*	*	3008	*	*	3228	*	*	*	*	3078	*	*	*	60
+       0	*	*	*	*	*	*	1932	0	0	
+
+L 61   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1932	0	0	
+
+N 62   *	*	*	1912	*	*	*	*	*	*	*	446	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 63   *	*	*	*	*	*	*	*	*	3228	*	*	*	*	*	*	*	163	*	*	63
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 64   *	*	*	2763	*	*	*	*	2123	3144	*	*	*	2042	*	*	*	1904	*	*	64
+       0	*	*	*	*	*	*	1932	0	0	
+
+M 65   *	*	*	1281	*	*	*	*	1490	*	2104	*	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	1946	0	0	
+
+T 66   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	66
+       0	*	*	*	*	*	*	1932	0	0	
+
+I 67   *	*	*	*	*	*	*	348	*	*	*	*	*	*	*	*	*	2220	*	*	67
+       0	*	*	*	*	*	*	1932	0	0	
+
+K 68   *	3008	*	*	1595	*	*	*	1842	1912	*	*	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 69   2763	*	*	1009	*	*	*	*	*	*	*	3078	*	*	3008	3144	*	*	*	*	69
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 70   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 71   *	*	3144	1339	*	*	*	*	1358	*	*	3302	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 72   *	*	*	*	*	*	*	*	2800	*	*	*	*	*	*	2646	2010	1157	*	*	72
+       0	*	*	*	*	*	*	1900	0	0	
+
+V 73   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	73
+       0	*	*	*	*	*	*	1900	0	0	
+
+F 74   *	*	*	*	202	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2935	74
+       0	*	*	*	*	*	*	1900	0	0	
+
+R 75   *	*	*	*	*	*	*	2005	2236	*	*	*	*	*	1622	2227	*	*	*	*	75
+       0	*	*	*	*	*	*	1660	0	0	
+
+S 76   2227	*	*	*	*	*	*	*	*	*	*	*	*	*	*	347	*	*	*	*	76
+       0	*	*	*	*	*	*	1660	0	0	
+
+R 77   *	*	*	*	*	*	*	*	1293	*	*	*	*	*	757	*	*	*	*	*	77
+       0	*	*	0	*	*	*	1483	0	0	
+
+//

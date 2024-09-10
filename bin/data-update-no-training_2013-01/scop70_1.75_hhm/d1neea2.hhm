@@ -1,0 +1,151 @@
+HHsearch 1.5
+NAME  d1neea2 g.59.1.1 (A:99-135) Zinc-binding domain of translation initiation factor 2 beta {Archaeon Methanobacterium thermoautotrophicum [TaxId: 145262]}
+FAM   g.59.1.1
+FILE  d1neea2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1neea2.a3m -v 1 
+DATE  Mon Jan 21 23:51:36 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  108 out of 273 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.3 
+SEQ
+>ss_pred
+CEECCCCCCCCCEEEECCCEEEEEECCCCCCCCCCCC
+>ss_conf
+9157899897744777498688763667973615769
+>Consensus
+yVxCxxCxspdTxlxkxxrxxxlxCxaCGaxxxVxxi
+>d1neea2 g.59.1.1 (A:99-135) Zinc-binding domain of translation initiation factor 2 beta {Archaeon Methanobacterium thermoautotrophicum [TaxId: 145262]}
+FVICHECNRPDTRIIREGRISLLKCEACGAKAPLKNV
+>gi|328868258|gb|EGG16636.1|(243-279:293) eIF-3 beta [Dictyostelium fasciculatum]   E=7e-09 s/c=1.70 id=29% cov=103%
+YVACRNCKSPNTTLDRNNRLYFLCCNVCNSKRSVAVI
+>gi|15920733|ref|NP_376402.1|(129-165:165) translation initiation factor IF-2 subunit beta [Sulfolobus tokodaii str. 7]  E=2e-08 s/c=1.67 id=39% cov=103%
+YVQCSTCKSLDTVLIKEKKAWYISCLACGAKTPVKPL
+>gi|358333563|dbj|GAA52050.1|(230-266:285) translation initiation factor 2 subunit 2 [Clonorchis sinensis]   E=5e-08 s/c=1.63 id=32% cov=103%
+YVLCGTCQSSETDLCKDSRLLFLHCRRCGSRITVKNV
+>gi|340053756|emb|CCC48049.1|(282-318:340) putative translation initiation factor [Trypanosoma vivax Y486]   E=1e-07 s/c=1.60 id=32% cov=103%
+YVKCNACHKIDTTLTKEGRRIELRCNWCTATRSVQTL
+>gi|269986612|gb|EEZ92894.1|(96-132:133) Translation initiation factor IF2/IF5 [Candidatus Parvarchaeum acidiphilum ARMAN-4]  E=4e-07 s/c=1.55 id=37% cov=103%
+FVVCKQCNSPDTQMEKVEKNYFVKCLGCGAEYPVGRI
+>gi|292655826|ref|YP_003535723.1|(99-135:135) translation initiation factor aIF-2 subunit beta [Haloferax volcanii DS2] >gi|291371857|gb|ADE04084.1| translation initiation factor aIF-2 beta subunit [Haloferax volcanii DS2]  E=3e-06 s/c=1.48 id=39% cov=103%
+FVLCSECGSPDTKLTSQRGADVLKCDACGALSAIPDL
+>gi|331221381|ref|XP_003323365.1|(100-137:405) translation initiation factor eIF-5 [Puccinia graminis f. sp. tritici CRL 75-36-700-3] >gi|309302355|gb|EFP78946.1| translation initiation factor eIF-5 [Puccinia graminis f. sp. tritici CRL 75-36-700-3]  E=1e-05 s/c=1.37 id=35% cov=100%
+FVLCSSCKNPETELMIVGRdeLIWRDCKACGHRGHVDN-
+>gi|221485747|gb|EEE24017.1|(97-133:414) translation initiation factor, putative [Toxoplasma gondii GT1]   E=0.0009 s/c=1.25 id=34% cov=103%
+YVLCPGCELPEIDLIVKKGLLTCKCNACGYQGSLDNV
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	1568	*	*	*	*	*	*	*	*	*	*	*	*	*	*	594	1
+       0	*	*	*	*	*	*	4351	0	0	
+
+V 2    *	*	*	*	*	*	*	4986	*	5911	*	*	*	*	*	*	*	71	*	*	2
+       0	*	*	*	*	*	*	4375	0	0	
+
+I 3    5503	*	*	5310	5842	*	*	2876	3820	1339	4452	*	*	3033	5449	5676	3908	4782	*	5673	3
+       0	*	*	*	*	*	*	4375	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	4375	0	0	
+
+H 5    4895	*	6498	5657	6592	4094	4566	*	2886	*	*	3900	1662	4468	5223	2495	7022	6095	*	4864	5
+       0	*	*	*	*	*	*	4375	0	0	
+
+E 6    4422	6472	6717	2321	5210	3361	5346	4646	4946	5618	4423	4749	*	4778	*	2724	2758	3808	*	*	6
+       0	*	*	*	*	*	*	4375	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	4375	0	0	
+
+N 8    *	*	4187	3382	*	2012	4408	*	1807	5048	*	3575	*	4595	3690	4815	*	*	*	*	8
+       0	*	*	*	*	*	*	4375	0	0	
+
+R 9    4420	*	*	*	*	5130	*	*	4292	3526	*	1740	*	6095	4434	1229	*	*	*	*	9
+       0	*	*	*	*	*	*	4375	0	0	
+
+P 10   6475	*	*	*	*	*	6726	4015	*	3944	6877	*	582	*	6561	4575	5225	5332	6147	4118	10
+       13	6831	*	0	*	*	*	4375	1000	0	
+
+D 11   *	6254	1162	1425	6561	*	6600	*	6147	*	*	3074	*	6188	*	*	*	*	*	*	11
+       12	6895	*	0	*	*	*	4375	1000	0	
+
+T 12   5979	*	*	*	*	*	*	5991	*	*	*	*	*	*	*	5082	91	*	*	*	12
+       0	*	*	*	*	*	*	4375	0	0	
+
+R 13   *	*	3630	2647	6075	*	4132	4047	2532	4700	6592	6422	*	4063	3747	4409	3064	3569	*	6864	13
+       21	6119	*	0	*	*	*	4375	1149	0	
+
+I 14   *	*	*	*	4311	*	*	2872	*	620	3625	*	*	*	*	*	6443	6265	*	4142	14
+       37	5315	*	821	1204	*	*	4375	1568	0	
+
+I 15   5766	6605	5598	2490	6026	*	6881	2020	4348	4567	5960	5630	*	4977	6147	4749	3198	2452	*	*	15
+       53	4792	*	571	1613	*	*	4375	2050	0	
+
+R 16   *	*	6466	5797	5744	*	*	3284	1131	5490	*	5419	*	6625	2577	4417	5492	3318	*	*	16
+       103	3857	*	925	1080	*	*	4375	2327	0	
+
+E 17   *	*	2622	1792	*	*	6472	*	1975	6686	*	4819	*	4096	3611	4642	6764	4884	*	6090	17
+       166	3205	*	949	1053	*	*	4375	2600	0	
+
+G 18   5639	*	2896	4555	*	2264	*	*	2327	*	*	2812	*	5271	4466	4264	2944	*	*	*	18
+       58	4664	*	535	1689	*	*	4375	2136	0	
+
+R 19   6469	*	4645	4968	*	2491	*	*	2829	*	*	6026	*	4347	955	5810	*	*	*	*	19
+       78	4246	*	606	1544	*	*	4375	2333	0	
+
+I 20   4118	*	5456	5760	6103	5568	*	3307	5364	1623	4072	5223	*	4917	5342	5744	3043	2927	*	*	20
+       0	*	*	*	*	*	*	4375	0	0	
+
+S 21   6443	*	6984	5777	3176	*	5599	1968	*	2935	4754	5933	*	5776	5611	3710	3944	6661	4410	2696	21
+       29	*	5648	*	*	*	*	4375	0	0	
+
+L 22   6830	*	6678	4567	1735	6420	5733	3262	6016	4455	3974	*	*	5532	*	3869	3192	3382	5846	3908	22
+       0	*	*	*	*	0	*	4358	0	1490	
+
+L 23   *	5421	*	6439	6359	*	4646	3647	5469	994	3723	*	*	3831	5506	6026	5643	3379	*	6808	23
+       0	*	*	*	*	*	*	4375	0	0	
+
+K 24   *	5377	3814	4043	*	5830	4248	4103	1535	*	*	5626	*	5258	2243	7023	5251	3658	*	*	24
+       25	5868	*	0	*	*	*	4375	1274	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	4375	0	0	
+
+E 26   3735	*	3331	2343	*	6757	4451	5437	2309	4067	*	3088	*	3925	5615	5181	4685	*	*	5744	26
+       0	*	*	*	*	*	*	4375	0	0	
+
+A 27   498	*	5109	*	*	6451	*	6188	5004	*	*	4486	*	4822	4868	5391	4900	5490	6266	*	27
+       0	*	*	*	*	*	*	4375	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	4375	0	0	
+
+G 29   *	*	*	*	*	208	*	*	5618	*	*	4941	*	4751	*	5600	5388	*	*	*	29
+       0	*	*	*	*	*	*	4375	0	0	
+
+A 30   840	6935	*	*	6581	5563	4049	*	6067	*	*	5520	*	4171	6262	2278	*	*	*	5071	30
+       0	*	*	*	*	*	*	4362	0	0	
+
+K 31   6138	*	*	2931	6105	*	3769	4930	2699	4772	6235	6525	*	3735	2561	2921	3756	4329	5723	*	31
+       0	*	*	*	*	*	*	4359	0	0	
+
+A 32   6920	6564	4992	5524	*	3814	5942	6218	4863	6292	6269	4880	*	4636	1491	2510	3049	*	*	4618	32
+       0	*	*	*	*	*	*	4346	0	0	
+
+P 33   4551	5586	4710	5958	*	6386	6230	*	5271	*	6030	6348	1318	*	*	1846	3011	*	*	*	33
+       0	*	*	*	*	*	*	4316	0	0	
+
+L 34   5831	*	*	*	*	*	*	3183	*	3042	*	*	*	*	6099	*	*	442	*	*	34
+       0	*	*	*	*	*	*	4292	0	0	
+
+K 35   3033	*	3939	3459	*	3886	5227	*	2032	*	*	4328	3512	3150	4085	3762	*	*	*	*	35
+       0	*	*	*	*	*	*	4146	0	0	
+
+N 36   2670	*	4831	5803	*	3738	6293	*	5866	*	*	2041	3403	4654	3922	3027	3312	5773	*	*	36
+       0	*	*	*	*	*	*	4138	0	0	
+
+V 37   *	*	*	*	5713	*	*	913	*	1989	*	*	*	*	*	*	*	2338	*	*	37
+       0	*	*	0	*	*	*	3934	0	0	
+
+//

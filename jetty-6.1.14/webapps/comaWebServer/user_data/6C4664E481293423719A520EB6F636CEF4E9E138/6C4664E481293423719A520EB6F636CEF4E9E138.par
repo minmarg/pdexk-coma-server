@@ -1,0 +1,143 @@
+## COMA/CONDOR options
+##
+
+[OPTIONS]
+
+#
+# Construction of query-based multiple alignment using PSI-BLAST:
+#
+# Configure PSI-BLAST run
+RR=1
+# Sequence database
+pd=uniclust50
+# E-value threashold for inclusion
+ph=0.002
+# Maximal number of iterations
+pj=6
+# Compositional adjustments (4 choices)
+pt=2
+# PSI-BLAST filters
+# Mask for lookup table only
+pF=2
+# Include psi-blast alternative alignments of subjects
+AA=0
+## Output options:##
+# Print hits with e-value below this value
+EVAL=10.0
+# Number of hits to show in the result list 
+NOHITS=100
+# Number of alignments to show in the output
+NOALNS=100
+# Do not how statistical parameters below alignments
+SHOW=1
+#
+# Alignment options:
+#
+# Profile database
+d=propdb40
+# Gap opening cost
+OPENCOST=A4
+# Initial gap extension cost
+EXTCOST=1
+# Deletion probability weight
+DELPROBWEIGHT=0.6
+# Scoring scheme to use
+SCHEME=profile
+# Apply composition-based statistics
+COMPSTATS=1
+# Use probabilities for gap costs
+USEGCPROBS=1
+## Profile construction options:
+##
+# Ignore sequences in alignment file with this or higher level of sequence identity
+IDENTITY=94
+# Perform delete state (gaps in the first sequence) computations
+DELSTATE=1
+# Weight for residue pseudocount frequencies
+PCFWEIGHT=7
+# Minimum fraction of alignment an extent must cover
+MINALNFRN=5
+# Minimum number of alignment positions an extent must consist of (safeguard to -Y)
+MINALNPOS=7
+#
+# Alignment filter:
+#
+# Window length
+HCWINDOW=30
+# Low entropy threshold
+HCLOWENT=3.3
+# High entropy threshold
+HCHIGHENT=3.5
+# Invoke high-complexity filter in alignment columns
+HCFILTER=1
+#
+# Masking options:
+#
+# Mask positions of profiles with information content less than specified value
+INFCON=0.17
+# Scale down masked positions by percentage specified
+SCALEDOWN=50
+# Perform masking of profile positions after statistical parameters are computed
+MASKAFTER=0
+#
+# SEG options:
+#
+# Invoke low-complexity filtering of query
+INVLCFILTER=0
+# Invoke LC filtering for each sequence in alignment using same parameters below
+LCFILTEREACH=0
+# Window length
+LCWINDOW=12
+# Low entropy threshold
+LCLOWENT=2.2
+# High entropy threshold
+LCHIGHENT=2.5
+# Distance of equivalence between profile vectors
+DISTANCE=12.96
+#
+# Gap probability options:
+#
+# Evalue threshold for pair of profiles above which gap prob. factor takes effect
+GPROBEVAL=1.0E-5
+# Argument weight (P) in expression of computing gap prob. factor: 1/(1+exp(-P*thickness+R))
+GPFARGWEIGHT=0.4
+# Argument shift (R) in expression of computing gap prob. factor: 1/(1+exp(-P*thickness+R))
+GPFARGSHIFT=0.0
+#
+# Autocorrection options:
+#
+# Numerator (k) of expression to compute 1st-pass autocorrection (k/sqrt(H))
+AC1NUMER=4.0
+# Numerator (K) of expression to compute 2nd-pass upper bound for autocorrection (K/sqrt(H))
+AC2UBNUMER=5.0
+# Logarithmic scale (m) to compute 2nd-pass autocorrection (-1/((log(E)+m)M))
+AC2LOGSCALE=14.0
+# Denominator scale (M) to compute 2nd-pass autocorrection (-1/((log(E)+m)M))
+AC2DENOMSCALE=0.12
+# Do not compute any corrections
+PROHIBITCOR=0
+# Compute analitically positional corrections
+ANPOSCOR=0
+#
+# Information correction options:
+#
+# Upper bound (J) of information content threshold used in 2nd-pass computations
+INFCON2UB=0.3
+# Numerator (j) of expression to compute 2nd-pass inf. content threshold (J+j/(log(E)-l))
+INFCON2NUMER=4.4
+# Logarithmic scale (l) to compute 2nd-pass information content threshold (J+j/(log(E)-l))
+INFCON2LOGSCALE=4.0
+# Numerator (b) of alternative expression to compute inf. content threshold (-b/(log(E)+B))
+INFCONALTNUMER=1.0
+# Logarithmic scale (B) to alternatively compute inf. content threshold (-b/(log(E)+B))
+INFCONALTLOGSCALE=3.0
+## High-scoring segment pairs:
+###
+#   Length of HSP hit                                   [3-50]
+HSPLEN=3
+#   Minimum score of HSP hits  0 -- disables heuristics of HSPs
+HSPMINSCORE=7
+#   Maximum distance between terminal HSP hits
+HSPMAXDIST=60
+#   Number of HSPs used in multiple hits heuristics
+NOHSPS=3

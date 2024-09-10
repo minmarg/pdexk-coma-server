@@ -1,0 +1,174 @@
+HHsearch 1.5
+NAME  d1y02a1 a.140.2.1 (A:71-114) Rififylin (FYVE-RING finger protein Sakura) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.140.2.1
+FILE  d1y02a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1y02a1.a3m -v 1 
+DATE  Tue Jan 22 04:44:54 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  32 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHCCCCCCCCCCHHHHHHHHHHCCCC
+>ss_conf
+97467875117889999986068710133689999998732799
+>Consensus
+fxRxxLxxlkvKDLrxyLxxxxIstxxCxEKEdLVxLvlxhxxx
+>d1y02a1 a.140.2.1 (A:71-114) Rififylin (FYVE-RING finger protein Sakura) {Human (Homo sapiens) [TaxId: 9606]}
+FQREELMKMKVKDLRDYLSLHDISTEMCREKEELVLLVLGQQPV
+>gi|345791359|ref|XP_003433482.1|(111-154:376) PREDICTED: E3 ubiquitin-protein ligase RNF34 [Canis lupus familiaris]  E=2e-14 s/c=1.86 id=56% cov=102%
+FQRPQLMRLKVKDLRQYLILRNIPIDTCREKEDLVDLVLCHHGL
+>gi|260803501|ref|XP_002596628.1|(108-148:325) hypothetical protein BRAFLDRAFT_122050 [Branchiostoma floridae] >gi|229281887|gb|EEN52640.1| hypothetical protein BRAFLDRAFT_122050 [Branchiostoma floridae]  E=1e-08 s/c=1.52 id=43% cov=95%
+MERSELRRLRVKDLRQFLTTKHIPSDMCTEKDELVELIMRH---
+>gi|158286930|ref|XP_309015.4|(51-91:721) AGAP006730-PA [Anopheles gambiae str. PEST] >gi|157020703|gb|EAA04669.5| AGAP006730-PA [Anopheles gambiae str. PEST]  E=6e-10 s/c=1.63 id=43% cov=95%
+LSRIDLAQLKVKDLIFYLQSKHISTSGCVEKDDLINLVIAH---
+>gi|390341966|ref|XP_789335.2|(436-473:665) PREDICTED: uncharacterized protein LOC584382 [Strongylocentrotus purpuratus]  E=2e-08 s/c=1.64 id=55% cov=86%
+--RAELMALKIKDLRLYLNTHSVSTQSCTEKDDLVDLVV-----
+>gi|357625331|gb|EHJ75811.1|(50-90:404) putative RING finger protein [Danaus plexippus]   E=2e-08 s/c=1.52 id=36% cov=95%
+LSRQNIAHLKVRDLQCFLHRQNVSTRGCVEKEELLNLCVSH---
+>gi|405960323|gb|EKC26254.1|(96-134:399) E3 ubiquitin-protein ligase RNF34 [Crassostrea gigas]   E=5e-08 s/c=1.54 id=52% cov=91%
+FTRQDLQKWKVKDLRCVLHKRNISTETCREKHDLIDLLV-----
+>gi|332018518|gb|EGI59108.1|(54-90:361) E3 ubiquitin-protein ligase rififylin [Acromyrmex echinatior]   E=4e-06 s/c=1.46 id=37% cov=86%
+--RNQIRQIRSRDLRQYLVAKKVSVKGCVEKEDLVHLLM-----
+>gi|328791103|ref|XP_396005.4|(54-91:304) PREDICTED: e3 ubiquitin-protein ligase RNF34-like isoform 1 [Apis mellifera]  E=0.0006 s/c=1.23 id=34% cov=86%
+--RSLIIQMRSKDIQRYLLAKKIPIKGCIEKEDLIKLLM-----
+>gi|342186387|emb|CCC95873.1|(265-307:331) unnamed protein product [Trypanosoma congolense IL3000]   E=0.0005 s/c=1.10 id=39% cov=100%
+FTREELQGMTVRTLKTLLWLNNVSWDGCLEKEDMIKVFLEHQG-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	769	*	*	*	*	1505	4042	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2652	0	0	
+
+Q 2    *	*	3482	2613	*	*	4969	*	*	*	*	*	*	1563	*	2205	2647	*	*	*	2
+       0	*	*	*	*	*	*	2648	0	0	
+
+R 3    *	*	*	*	*	*	*	*	4325	*	*	*	*	*	74	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2823	0	0	
+
+E 4    3137	*	5298	2463	*	*	*	5153	*	*	*	3658	2600	3136	*	2207	5208	4325	*	*	4
+       36	5340	*	2000	415	*	*	2823	1000	0	
+
+E 5    *	*	2260	1375	*	*	*	*	*	4416	*	3949	*	2150	3865	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2823	0	0	
+
+L 6    *	*	*	*	*	*	*	2092	*	386	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2823	0	0	
+
+M 7    3440	*	*	*	*	4332	*	3422	*	2993	1382	*	*	2845	3787	*	*	4504	*	*	7
+       0	*	*	*	*	*	*	2816	0	0	
+
+K 8    4652	*	*	*	*	3466	3960	*	1707	*	*	4736	*	1934	2323	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2816	0	0	
+
+M 9    *	*	*	*	*	*	*	3565	*	727	1930	*	*	*	*	*	*	*	4360	*	9
+       0	*	*	*	*	*	*	2816	0	0	
+
+K 10   *	4504	*	*	*	*	*	*	833	*	*	*	*	*	1718	*	3466	*	*	*	10
+       0	*	*	*	*	*	*	2816	0	0	
+
+V 11   *	*	*	*	*	*	*	4652	*	*	*	4332	4287	*	*	2286	*	612	*	*	11
+       0	*	*	*	*	*	*	2816	0	0	
+
+K 12   *	*	*	*	*	*	*	*	506	*	*	*	*	*	1757	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2816	0	0	
+
+D 13   *	*	275	4442	*	*	*	*	*	*	*	*	*	*	*	*	3466	*	*	4762	13
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 14   *	*	*	*	*	*	*	4436	*	115	*	*	5050	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2816	0	0	
+
+R 15   *	*	*	*	*	*	*	2588	3466	*	*	*	*	3178	660	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2816	0	0	
+
+D 16   *	3146	2265	*	3660	*	*	*	4504	3483	*	4736	*	1870	3945	*	3466	*	*	*	16
+       0	*	*	*	*	*	*	2816	0	0	
+
+Y 17   *	*	*	*	3376	*	*	*	*	3466	*	*	*	*	*	*	*	4360	*	387	17
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2816	0	0	
+
+S 19   4664	*	*	5248	*	*	2271	5804	*	2370	5050	4652	*	2958	*	4353	2866	4629	3466	*	19
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 20   2578	*	*	*	*	*	*	*	4360	1131	*	*	*	*	3960	2389	3799	*	*	*	20
+       0	*	*	*	*	*	*	2816	0	0	
+
+H 21   *	*	*	*	*	*	2370	*	1502	*	*	3466	*	3960	1742	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2816	0	0	
+
+D 22   *	*	3908	3852	*	4028	2334	*	2936	*	*	1369	*	5082	*	4128	*	*	*	*	22
+       0	*	*	*	*	*	*	2816	0	0	
+
+I 23   *	*	*	*	*	*	*	682	*	*	*	*	*	*	*	*	5082	1526	*	*	23
+       0	*	*	*	*	*	*	2816	0	0	
+
+S 24   *	*	*	*	*	*	*	*	*	*	*	4264	1616	*	*	686	*	*	*	*	24
+       0	*	*	*	*	*	*	2816	0	0	
+
+T 25   *	*	*	*	*	*	*	2734	*	4762	*	*	*	*	*	4238	669	4629	3466	*	25
+       0	*	*	*	*	*	*	2816	0	0	
+
+E 26   4332	*	1726	2404	*	*	4442	*	3529	*	*	4504	*	3505	3306	3935	*	5159	*	*	26
+       0	*	*	*	*	*	*	2816	0	0	
+
+M 27   *	*	*	*	*	1034	*	*	*	3852	2550	*	*	*	*	3883	2295	*	*	*	27
+       0	*	*	*	*	*	*	2816	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2816	0	0	
+
+R 29   *	*	*	*	*	*	*	2976	*	2819	*	*	*	*	1185	*	3799	2186	*	*	29
+       0	*	*	*	*	*	*	2816	0	0	
+
+E 30   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2816	0	0	
+
+K 31   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2816	0	0	
+
+E 32   *	*	2509	366	*	*	4360	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2816	0	0	
+
+E 33   *	*	535	1689	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	137	3466	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2816	0	0	
+
+V 35   *	*	*	*	*	*	*	1704	*	3960	*	*	*	*	*	*	*	669	*	*	35
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 36   *	*	1881	2985	4584	4287	4629	*	2468	5577	*	2210	*	5338	*	*	*	*	*	5248	36
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 37   *	*	*	*	*	*	*	4736	*	245	5159	*	*	*	*	*	*	3466	*	*	37
+       0	*	*	*	*	*	*	2816	0	0	
+
+V 38   *	3960	*	*	3466	*	*	3330	*	1979	*	*	*	*	*	*	*	1023	*	*	38
+       0	*	*	*	*	*	*	2816	0	0	
+
+L 39   *	*	*	*	*	*	*	2488	*	982	2619	*	*	*	*	*	*	2711	*	*	39
+       0	*	*	*	*	*	*	2816	0	0	
+
+G 40   3682	2098	4685	3092	4694	2231	*	*	*	*	*	*	*	*	3241	2878	4683	*	*	*	40
+       0	*	*	*	*	*	*	2576	0	0	
+
+Q 41   *	*	*	*	*	*	369	*	*	*	*	*	*	2147	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2576	0	0	
+
+Q 42   *	*	*	*	*	*	2106	*	3753	*	*	*	*	818	2985	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2097	0	0	
+
+P 43   *	*	*	*	*	709	*	*	*	*	*	*	1365	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1996	0	0	
+
+V 44   *	*	*	*	*	*	*	*	*	844	2794	*	*	*	*	*	*	1743	*	*	44
+       0	*	*	0	*	*	*	1572	0	0	
+
+//

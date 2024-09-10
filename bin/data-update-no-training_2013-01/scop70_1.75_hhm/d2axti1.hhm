@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d2axti1 f.23.37.1 (I:1-35) Photosystem II reaction center protein I, PsbI {Thermosynechococcus elongatus [TaxId: 146786]}
+FAM   f.23.37.1
+FILE  d2axti1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2axti1.a3m -v 1 
+DATE  Tue Jan 22 05:29:29 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  51 out of 53 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCC
+>ss_conf
+90788899999999999998765237878899999
+>Consensus
+MltLKixVyxvVxfFvxlFiFGFLSnDPxRNPxrk
+>d2axti1 f.23.37.1 (I:1-35) Photosystem II reaction center protein I, PsbI {Thermosynechococcus elongatus [TaxId: 146786]}
+METLKITVYIVVTFFVLLFVFGFLSGDPARNPKRK
+>gi|56752395|ref|YP_173096.1|(1-35:39) photosystem II reaction center I protein I [Synechococcus elongatus PCC 6301] >gi|81300514|ref|YP_400722.1| photosystem II reaction center I protein I [Synechococcus elongatus PCC 7942] >gi|131342|sp|P17747.1|PSBI_SYNP6 RecName: Full=Photosystem II reaction center protein I; Short=PSII-I; AltName: Full=PSII 4.4 kDa protein >gi|123556684|sp|Q31MI4.1|PSBI_SYNE7 RecName: Full=Photosystem II reaction center protein I; Short=PSII-I; AltName: Full=PSII 4.4 kDa protein >gi|97613|pir||S10315 photosystem II protein psbI - Synechococcus sp >gi|38911|emb|CAA36961.1| unnamed protein product [Synechococcus elongatus PCC 6301] >gi|56687354|dbj|BAD80576.1| photosystem II PsbI protein [Synechococcus elongatus PCC 6301] >gi|81169395|gb|ABB57735.1| photosystem II PsbI protein [Synechococcus elongatus PCC 7942]  E=3e-06 s/c=1.57 id=72% cov=103%
+MLALKVTVYVVVLFFVALFVFGFLSSDPARTPSRK
+>gi|254423298|ref|ZP_05037016.1|(1-35:38) Photosystem II reaction center I protein [Synechococcus sp. PCC 7335] >gi|196190787|gb|EDX85751.1| Photosystem II reaction center I protein [Synechococcus sp. PCC 7335]  E=7e-06 s/c=1.54 id=69% cov=103%
+MVTLKIVVYLTVSFFVGLFIFGFLSGDPARNPSGR
+>gi|376005660|ref|ZP_09783104.1|(1-35:38) Photosystem II reaction center protein I [Arthrospira sp. PCC 8005] >gi|409990065|ref|ZP_11273501.1| photosystem II reaction center I protein I [Arthrospira platensis str. Paraca] >gi|423067448|ref|ZP_17056238.1| photosystem II protein PsbL [Arthrospira platensis C1] >gi|291570846|dbj|BAI93118.1| photosystem II reaction center PsbI protein [Arthrospira platensis NIES-39] >gi|375325957|emb|CCE18857.1| Photosystem II reaction center protein I [Arthrospira sp. PCC 8005] >gi|406711022|gb|EKD06224.1| photosystem II protein PsbL [Arthrospira platensis C1] >gi|409939070|gb|EKN80298.1| photosystem II reaction center I protein I [Arthrospira platensis str. Paraca]  E=1e-05 s/c=1.51 id=72% cov=103%
+MVTLKIIVNIVVLFFVGLFIFGFLSNDPSRNPKRR
+>gi|113170468|ref|YP_717260.1|(1-35:38) PsbI [Ostreococcus tauri] >gi|122222823|sp|Q0P3J5.1|PSBI_OSTTA RecName: Full=Photosystem II reaction center protein I; Short=PSII-I; AltName: Full=PSII 4.8 kDa protein >gi|112806875|emb|CAL36382.1| PsbI [Ostreococcus tauri] >gi|424513813|emb|CCO65892.1| Photosystem II reaction center protein I [Bathycoccus prasinos]  E=2e-05 s/c=1.50 id=69% cov=103%
+MLTLKILVYTVVSFFVSLFIFGFLSNDPGRNPNSK
+>gi|428270595|gb|AFZ36536.1|(1-35:38) Photosystem II reaction center protein I [Stanieria cyanosphaera PCC 7437]  E=4e-05 s/c=1.46 id=69% cov=103%
+MLTLKIVVYITVFFFIGLFMFGFLSSDPSRNPGRK
+>gi|427735449|ref|YP_007054993.1|(1-35:38) Photosystem II reaction centre I protein (PSII 4.8 kDa protein) [Rivularia sp. PCC 7116] >gi|427370490|gb|AFY54446.1| Photosystem II reaction centre I protein (PSII 4.8 kDa protein) [Rivularia sp. PCC 7116]  E=4e-05 s/c=1.46 id=69% cov=100%
+MLTLKIAVYIVVGLFIATFIFGFLSNDPARNPGR-
+>gi|309322414|ref|YP_003934494.1|(1-35:36) photosystem II protein I [Cathaya argyrophylla] >gi|307683340|dbj|BAJ19647.1| photosystem II protein I (chloroplast) [Cathaya argyrophylla]  E=0.0001 s/c=1.42 id=67% cov=103%
+MLTLKLFVYAVVTFFIYLFIFGFLSNDPGRNRGRK
+>gi|149072068|ref|YP_001293539.1|(1-35:38) photosystem II protein I [Rhodomonas salina] >gi|212277060|sp|A6MVW0.1|PSBI_RHDSA RecName: Full=Photosystem II reaction center protein I; Short=PSII-I; AltName: Full=PSII 4.8 kDa protein >gi|134303019|gb|ABO70823.1| photosystem II protein I [Rhodomonas salina]  E=0.0002 s/c=1.41 id=67% cov=103%
+MFTLKIVVYTTVTLFVSLFTFGFLSNDASRNPNRK
+>gi|37523203|ref|NP_926580.1|(1-34:38) photosystem II protein [Gloeobacter violaceus PCC 7421] >gi|81708803|sp|Q7NF92.1|PSBI_GLOVI RecName: Full=Photosystem II reaction center protein I; Short=PSII-I; AltName: Full=PSII 4.4 kDa protein >gi|35214206|dbj|BAC91575.1| photosystem II protein [Gloeobacter violaceus PCC 7421]  E=0.0002 s/c=1.44 id=66% cov=100%
+MEVLKWVVTIVVLLFVAIFAFGFLSGDPSRNPGR-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1792	0	0	
+
+E 2    *	*	*	4055	3620	*	*	5567	*	528	*	*	5424	*	*	*	*	3052	*	*	2
+       0	*	*	*	*	*	*	1792	0	0	
+
+T 3    4290	*	*	*	*	*	*	*	*	5105	*	*	*	*	*	5794	219	4554	*	*	3
+       0	*	*	*	*	*	*	1792	0	0	
+
+L 4    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1792	0	0	
+
+K 5    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1792	0	0	
+
+I 6    *	*	*	*	*	*	*	518	*	2268	*	*	*	*	*	*	*	4280	4554	*	6
+       0	*	*	*	*	*	*	1792	0	0	
+
+T 7    2884	*	*	*	1583	*	*	5666	*	3182	*	*	*	*	*	*	3790	1605	*	*	7
+       0	*	*	*	*	*	*	1792	0	0	
+
+V 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	8
+       0	*	*	*	*	*	*	1790	0	0	
+
+Y 9    *	*	*	*	*	*	5079	*	*	*	*	3237	*	*	*	5494	4559	*	*	322	9
+       0	*	*	*	*	*	*	1790	0	0	
+
+I 10   3481	*	*	*	*	*	*	1443	*	3837	*	*	*	*	*	5448	1360	4052	*	*	10
+       0	*	*	*	*	*	*	1790	0	0	
+
+V 11   *	3918	*	*	*	*	*	4607	*	*	*	*	*	*	*	*	2572	465	*	*	11
+       0	*	*	*	*	*	*	1790	0	0	
+
+V 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	12
+       0	*	*	*	*	*	*	1790	0	0	
+
+T 13   2671	*	*	*	5572	4097	*	1339	*	2940	*	*	*	*	*	3666	3022	4787	*	*	13
+       0	*	*	*	*	*	*	1790	0	0	
+
+F 14   5010	*	*	*	248	*	*	5733	*	3494	*	*	*	*	*	5678	*	*	*	*	14
+       0	*	*	*	*	*	*	1790	0	0	
+
+F 15   *	*	*	*	52	*	*	*	*	4826	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1790	0	0	
+
+V 16   4653	5448	*	*	*	*	*	2342	*	5010	*	*	*	*	*	4316	6006	636	*	*	16
+       0	*	*	*	*	*	*	1790	0	0	
+
+L 17   2917	4804	*	*	5079	3630	*	*	*	3066	*	*	*	*	*	882	5093	*	*	5045	17
+       0	*	*	*	*	*	*	1790	0	0	
+
+L 18   *	*	*	*	*	*	*	4099	*	242	*	*	4467	*	*	*	5647	5010	*	*	18
+       0	*	*	*	*	*	*	1790	0	0	
+
+F 19   *	*	*	*	97	*	*	*	*	5079	*	*	4826	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1790	0	0	
+
+V 20   4559	*	*	*	*	*	*	744	*	5673	5572	*	*	*	*	*	4176	1918	*	*	20
+       0	*	*	*	*	*	*	1790	0	0	
+
+F 21   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1790	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1790	0	0	
+
+F 23   *	*	*	*	76	*	*	*	*	4293	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1790	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1790	0	0	
+
+S 25   *	*	*	*	*	*	*	*	*	*	*	4328	*	*	*	74	*	*	*	*	25
+       0	*	*	*	*	*	*	1790	0	0	
+
+G 26   *	*	5500	*	*	3158	*	*	*	*	*	549	*	*	*	2453	*	*	*	*	26
+       0	*	*	*	*	*	*	1790	0	0	
+
+D 27   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1790	0	0	
+
+P 28   5244	*	*	*	*	*	*	*	*	*	*	*	71	*	*	*	5545	*	*	*	28
+       0	*	*	*	*	*	*	1790	0	0	
+
+A 29   1717	*	*	*	*	1623	*	*	*	*	*	5163	*	*	*	1819	4067	*	*	*	29
+       0	*	*	*	*	*	*	1790	0	0	
+
+R 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1790	0	0	
+
+N 31   *	*	*	*	*	*	*	*	5579	*	*	79	*	*	*	*	4949	*	*	*	31
+       0	*	*	*	*	*	*	1790	0	0	
+
+P 32   *	*	*	*	*	*	*	*	*	*	*	*	44	*	5045	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1790	0	0	
+
+K 33   *	*	*	*	*	1083	*	*	3292	*	*	1804	*	*	*	2841	*	*	*	*	33
+       0	*	*	*	*	*	*	1790	0	0	
+
+R 34   6131	*	5673	5763	*	4179	*	*	4547	*	*	*	*	6107	307	5214	*	*	*	*	34
+       0	*	*	*	*	*	*	1790	0	0	
+
+K 35   *	*	*	4519	*	*	*	*	687	*	*	*	*	5492	1675	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1738	0	0	
+
+//

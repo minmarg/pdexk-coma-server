@@ -1,0 +1,143 @@
+HHsearch 1.5
+NAME  d1i25a_ g.3.6.2 (A:) Huwentoxin-II {Chinese bird spider (Selenocosmia huwena) [TaxId: 29017]}
+FAM   g.3.6.2
+FILE  d1i25a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1i25a_.a3m -v 1 
+DATE  Mon Jan 21 21:43:46 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CEEEEEEEEECCCCCCCCCCCCCCCCEEEEEEEEEEC
+>ss_conf
+9034676210236888877667897505778678749
+>Consensus
+lfecxxscdixkegdkpckxkkxxggwkckxnxcxkv
+>d1i25a_ g.3.6.2 (A:) Huwentoxin-II {Chinese bird spider (Selenocosmia huwena) [TaxId: 29017]}
+LFECSFSCEIEKEGDKPCKKKKCKGGWKCKFNMCVKV
+>gi|306755772|sp|B1P1A5.1|JZT8B_CHIJI(45-83:83) RecName: Full=U3-theraphotoxin-Cj1a; Short=U3-TRTX-Cj1a; AltName: Full=Jingzhaotoxin-8.2; Short=JZTX-8.2; AltName: Full=Jingzhaotoxin-VIII.2; Short=JZTX-VIII.2; AltName: Full=Peptide F7-12.17; Flags: Precursor >gi|165905926|gb|ABY71655.1| cystine knot toxin [Chilobrachys guangxiensis]  E=3e-05 s/c=1.33 id=76% cov=100%
+LFECSFSCDIKKNG-KPCKgsgEKKCSGGWRCKMNFCVKV
+>gi|294653177|gb|ADF28496.1|(47-87:87) putative mature sequence toxin-like LFEC [Pelinobius muticus] >gi|294653179|gb|ADF28497.1| putative mature peptide toxin-like LFEC [Pelinobius muticus]  E=8e-05 s/c=1.23 id=78% cov=100%
+LFECVISCDIEKEG-KPCKPKgekecKPKGGWKCKFNFCLKV
+>gi|294653181|gb|ADF28498.1|(50-89:90) putative mature sequence toxin-like RFEC [Pelinobius muticus]   E=0.0002 s/c=1.22 id=72% cov=97%
+-FECAISCDIQKEG-KPCKPNgekecKAKGGWKCKFNFCVKI
+>gi|47606644|sp|P61509.1|TX1_APHCL(1-39:39) RecName: Full=U1-theraphotoxin-Asp1a; Short=U1-TRTX-Asp1a; AltName: Full=ESTx1a/ESTX1b; AltName: Full=Neurotoxin ESTx1 >gi|84692|pir||S04224 neurotoxin, 4.3K - American tarantula (Eurypelma californica)  E=0.0007 s/c=1.21 id=70% cov=100%
+IFECVFSCDIEKEG-KPCKpkgEKKCTGGWKCKIKLCLKI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	1974	*	424	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1332	0	0	
+
+F 2    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1373	0	0	
+
+E 3    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1373	0	0	
+
+S 5    2329	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1243	*	1402	*	*	5
+       0	*	*	*	*	*	*	1373	0	0	
+
+F 6    *	*	*	*	683	*	*	1408	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1373	0	0	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	7
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1373	0	0	
+
+E 9    *	*	351	2211	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1373	0	0	
+
+I 10   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1373	0	0	
+
+E 11   *	*	*	750	*	*	*	*	2276	*	*	*	*	2329	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 12   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1373	0	0	
+
+E 13   *	*	*	334	*	*	*	*	*	*	*	2276	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1373	0	0	
+
+G 14   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       2211	*	351	*	*	*	*	1373	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	0	*	1000	0	1363	
+
+K 16   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1373	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       754	1297	*	1585	585	*	*	1373	1236	0	
+
+K 20   *	*	*	1297	*	*	*	*	2211	*	*	*	1408	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 21   *	*	*	*	*	*	*	*	320	*	*	2329	*	*	*	*	*	*	*	*	21
+       683	1408	*	2322	322	*	*	1373	1126	0	
+
+K 22   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 23   2329	683	*	*	*	*	*	*	*	*	*	*	2491	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 24   *	*	*	*	*	*	*	*	754	*	*	*	*	*	*	2276	2317	*	*	*	24
+       0	*	*	*	*	*	*	1373	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1373	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1373	0	0	
+
+W 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	27
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 28   *	*	*	*	*	*	*	*	334	*	*	*	*	*	2276	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1373	0	0	
+
+F 31   *	*	*	*	754	*	*	2317	*	*	2276	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1373	0	0	
+
+N 32   *	*	*	*	*	*	*	*	2317	*	*	323	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1373	0	0	
+
+M 33   *	*	*	*	778	*	*	*	*	2317	2211	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1373	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1373	0	0	
+
+V 35   *	*	*	*	*	*	*	*	*	1402	*	*	*	*	*	*	*	686	*	*	35
+       0	*	*	*	*	*	*	1373	0	0	
+
+K 36   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1373	0	0	
+
+V 37   *	*	*	*	*	*	*	1323	*	*	*	*	*	*	*	*	*	736	*	*	37
+       0	*	*	0	*	*	*	1373	0	0	
+
+//

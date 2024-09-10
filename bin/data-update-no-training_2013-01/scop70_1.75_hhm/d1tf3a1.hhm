@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1tf3a1 g.37.1.1 (A:1-40) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+FAM   g.37.1.1
+FILE  d1tf3a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1tf3a1.a3m -v 1 
+DATE  Tue Jan 22 02:27:18 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  24 out of 26 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCEEECCCCCCCCCCCCCCCEEEECCCCCC
+>ss_conf
+9703302578864126451100121022589
+>Consensus
+xkxfiCSfxdCxAxynkxwKLxAHlckHtGe
+>d1tf3a1 g.37.1.1 (A:1-40) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+MKRYICSFADCGAAYNKNWKLQAHLSKHTGE
+>gi|7443519|pir||G01496(36-65:338) transcription factor IIIA - human (fragment) >gi|551535|gb|AAA21873.1| transcription factor IIIA, partial [Homo sapiens]  E=4e-05 s/c=1.71 id=68% cov=100%
+-RRFICSFPDCSANYSKAWKLDAHLCKHTGE
+>gi|410917692|ref|XP_003972320.1|(9-37:359) PREDICTED: transcription factor IIIA-like [Takifugu rubripes]   E=3e-06 s/c=1.90 id=77% cov=97%
+-KRYICSFVGCQAAYNKQWKLDAHLCKHTG-
+>gi|51467980|ref|NP_001003866.1|(17-44:367) transcription factor IIIA [Danio rerio] >gi|49619027|gb|AAT68098.1| TFIIIA [Danio rerio]  E=4e-06 s/c=1.95 id=69% cov=94%
+---FICSYPDCHAYYNREWKLQAHLCKHTGE
+>gi|334330543|ref|XP_001376073.2|(89-118:412) PREDICTED: transcription factor IIIA-like [Monodelphis domestica]   E=1e-08 s/c=2.09 id=71% cov=100%
+-KKYFCSFPDCSATYNKAWKLDAHLCKHTGE
+>gi|464872|sp|P34694.1|TF3A_ANAAE(10-39:339) RecName: Full=Transcription factor IIIA; Short=TFIIIA >gi|429029|emb|CAA41259.1| transcription factor IIIA [Anaxyrus americanus]  E=2e-07 s/c=1.96 id=77% cov=100%
+-KRFICSFPDCNATYNKNRKLQAHLCKHTGE
+>gi|372001123|gb|AEX65771.1|(9-37:159) transcription factor IIIA, partial [Chelon labrosus]   E=5e-05 s/c=1.75 id=63% cov=97%
+-KSYVCSFSDCKATFSKSWKLEAHLCKHTG-
+>gi|165972323|ref|NP_001107043.1|(49-77:374) transcription factor IIIA [Gallus gallus]   E=2e-06 s/c=1.91 id=53% cov=97%
+-RSFICSFPGCSATFNKGWRLDAHLCSHTG-
+>gi|319159469|ref|NP_001187205.1|(10-38:322) transcription factor IIIA [Ictalurus punctatus] >gi|2501698|sp|P79797.1|TF3A_ICTPU RecName: Full=Transcription factor IIIA; Short=TFIIIA >gi|1845575|emb|CAA92808.1| transcription factor IIIA [Ictalurus punctatus]  E=4e-05 s/c=1.78 id=53% cov=97%
+-KNFVCSFLNCKASFSKAWKLEAHYCKHTG-
+>gi|327281665|ref|XP_003225567.1|(91-120:417) PREDICTED: transcription factor IIIA-like [Anolis carolinensis]   E=7e-05 s/c=1.68 id=52% cov=100%
+-KVFICSFPDCVATFNRPFKLKAHLLRHMGQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	*	*	*	*	*	*	338	*	*	*	*	*	2258	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1824	0	0	
+
+R 3    *	*	*	*	*	*	*	*	4514	*	*	3204	*	*	922	2579	4524	3196	*	*	3
+       0	*	*	*	*	*	*	1810	0	0	
+
+Y 4    *	*	*	*	815	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1212	4
+       0	*	*	*	*	*	*	1838	0	0	
+
+I 5    *	*	*	*	4852	*	*	488	*	*	*	*	*	*	*	*	4850	2200	*	*	5
+       0	*	*	*	*	*	*	1797	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1797	0	0	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	149	3349	*	*	*	7
+       0	*	*	*	*	*	*	1797	0	0	
+
+F 8    *	*	*	*	245	*	*	*	*	4157	*	*	*	*	*	*	*	*	*	3318	8
+       0	*	*	*	*	*	*	1797	0	0	
+
+A 9    2456	*	*	*	4271	*	*	*	*	3373	*	*	911	*	*	3330	*	4719	*	*	9
+       0	*	*	*	*	*	*	1797	0	0	
+
+D 10   *	*	483	*	*	2609	*	*	*	*	*	3634	*	*	*	4642	*	*	*	*	10
+       0	*	*	*	*	*	*	1797	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1797	0	0	
+
+G 12   *	*	*	*	*	2300	4225	*	2546	*	*	3520	*	4719	5024	1793	4920	3399	*	*	12
+       0	*	*	*	*	*	*	1797	0	0	
+
+A 13   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1797	0	0	
+
+A 14   2132	*	*	*	*	*	*	*	3349	*	*	2786	*	*	*	2526	1729	*	*	4225	14
+       0	*	*	*	*	*	*	1797	0	0	
+
+Y 15   *	*	*	*	1415	*	*	*	*	*	*	*	*	*	*	*	*	*	*	678	15
+       0	*	*	*	*	*	*	1797	0	0	
+
+N 16   *	*	*	*	*	*	*	*	*	*	*	518	*	*	*	1730	*	*	*	*	16
+       0	*	*	*	*	*	*	1797	0	0	
+
+K 17   *	*	*	*	*	*	*	*	232	*	*	*	*	*	2754	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1797	0	0	
+
+N 18   1596	*	*	4225	*	3996	*	*	*	4271	*	2399	2955	3304	*	3619	*	*	*	*	18
+       0	*	*	*	*	*	*	1797	0	0	
+
+W 19   *	*	*	*	3399	*	*	*	*	*	*	*	*	*	4631	*	*	*	209	*	19
+       0	*	*	*	*	*	*	1797	0	0	
+
+K 20   *	*	*	*	*	*	*	*	93	*	*	*	*	*	3996	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1797	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1797	0	0	
+
+Q 22   *	*	1159	2223	*	*	*	*	3399	*	*	*	*	2260	4864	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1797	0	0	
+
+A 23   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1797	0	0	
+
+H 24   *	*	*	*	*	*	83	*	*	*	*	*	*	4157	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1797	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	147	4417	*	*	*	*	*	*	*	*	4316	25
+       0	*	*	*	*	*	*	1797	0	0	
+
+S 26   *	209	*	*	*	*	*	*	*	3399	*	*	*	*	*	4644	*	*	*	*	26
+       0	*	*	*	*	*	*	1797	0	0	
+
+K 27   *	*	*	*	*	*	*	*	317	*	*	*	*	*	2891	3996	*	*	*	*	27
+       0	*	*	*	*	*	*	1797	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1797	0	0	
+
+T 29   *	*	*	*	*	*	*	*	*	*	3399	*	*	*	*	*	144	*	*	*	29
+       0	*	*	*	*	*	*	1797	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1797	0	0	
+
+E 31   *	*	*	242	*	*	*	*	*	*	*	*	*	2693	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1570	0	0	
+
+//

@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1v54l_ f.23.6.1 (L:) Mitochondrial cytochrome c oxidase subunit VIIc (aka VIIIa) {Cow (Bos taurus) [TaxId: 9913]}
+FAM   f.23.6.1
+FILE  d1v54l_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v54l_.a3m -v 1 
+DATE  Tue Jan 22 03:16:34 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  74 out of 76 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9988888889857313789999999999888878899999986239
+>Consensus
+HxeegpgxNlPFsvxNkxxLxxxmxxxfgsGfaaPFxiVrhQLlKk
+>d1v54l_ f.23.6.1 (L:) Mitochondrial cytochrome c oxidase subunit VIIc (aka VIIIa) {Cow (Bos taurus) [TaxId: 9913]}
+HYEEGPGKNIPFSVENKWRLLAMMTLFFGSGFAAPFFIVRHQLLKK
+>gi|384488051|gb|EIE80231.1|(26-68:68) cytochrome c oxidase subunit VIIc [Rhizopus delemar RA 99-880]   E=0.0001 s/c=1.15 id=45% cov=96%
+HFSNSNGQNIPFNTKNRAGLAIKMTLYLGIGFAAPFLGAWWQL---
+>gi|156399808|ref|XP_001638693.1|(30-74:78) predicted protein [Nematostella vectensis] >gi|156225815|gb|EDO46630.1| predicted protein [Nematostella vectensis]  E=2e-10 s/c=1.52 id=50% cov=100%
+HFDEGPGLNMPFQTQNKTRLLIVMVAYLGTCFALPFVAVRFQMAK-
+>gi|389608731|dbj|BAM17975.1|(24-70:70) unknown unsecreted protein [Papilio xuthus]   E=6e-10 s/c=1.42 id=51% cov=102%
+HSHGGvPGENLPFDISNRYKLTALFIVFVSSGLSAPFLITRHQLLKK
+>gi|328707872|ref|XP_003243529.1|(22-62:68) PREDICTED: cytochrome c oxidase subunit 7C, mitochondrial-like [Acyrthosiphon pisum]  E=6e-07 s/c=1.38 id=43% cov=91%
+HAYEGPGHNLPFDVFSKYKFTFYTAVFFSTGFGLPFLMVRY-----
+>gi|307182210|gb|EFN69544.1|(30-73:73) Cytochrome c oxidase subunit 7C, mitochondrial [Camponotus floridanus]  E=6e-10 s/c=1.51 id=53% cov=98%
+-YDGIPGHNMPFSTQNRHKLLLYFMLFCGSGFSIPFLVIRHQLLK-
+>gi|357609716|gb|EHJ66602.1|(38-78:80) hypothetical protein KGM_08724 [Danaus plexippus]   E=0.0008 s/c=1.13 id=38% cov=91%
+-----PFDNLPFTVRSRYTLTFVFAFLFGIGLWAPFFIVWYSMAKR
+>gi|358058209|dbj|GAA96001.1|(29-73:76) hypothetical protein E5Q_02661 [Mixia osmundae IAM 14324]   E=1e-06 s/c=1.23 id=39% cov=100%
+HIENTVNNNMPFSYTNKPAFATKVAVFFVSGFSIPFIAAAWQLHK-
+>gi|393221803|gb|EJD07287.1|(33-77:80) hypothetical protein FOMMEDRAFT_15990 [Fomitiporia mediterranea MF3/22]  E=6e-06 s/c=1.18 id=37% cov=100%
+HVENVVGHNTPFVYTNKRAFTIGYFGLIGTLFSAPFLVVKYQLFK-
+>gi|25143040|ref|NP_492596.2|(46-81:84) Protein F26E4.6 [Caenorhabditis elegans] >gi|20338938|emb|CAB02999.2| Protein F26E4.6 [Caenorhabditis elegans]  E=2e-05 s/c=1.44 id=46% cov=80%
+---------LPFHVTNKWGFAAKAVTFLAIGFWAPFIVVEYQLRK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	*	*	*	112	*	*	*	*	*	*	*	*	*	*	*	*	3749	1
+       0	*	*	*	*	*	*	2823	0	0	
+
+Y 2    4563	3713	4234	*	3965	4199	5175	4632	*	*	*	*	*	*	*	3766	*	3493	5359	1136	2
+       0	*	*	*	*	*	*	2870	0	0	
+
+E 3    3815	*	3478	924	*	5162	4711	*	3883	*	*	*	4212	*	*	4548	4664	*	*	4574	3
+       0	*	*	*	*	*	*	2946	0	0	
+
+E 4    *	*	3759	689	*	3245	*	*	*	*	*	2793	*	*	*	4705	*	5805	*	*	4
+       0	*	*	*	*	*	*	2979	0	0	
+
+G 5    6312	*	4498	*	*	454	*	4880	*	*	*	*	*	*	*	4494	3416	4603	*	*	5
+       210	2885	*	119	3664	*	*	3030	1704	0	
+
+P 6    *	*	*	*	*	*	*	*	*	3578	*	5510	433	6414	*	4141	*	3555	*	*	6
+       0	*	*	*	*	*	*	3068	0	0	
+
+G 7    5581	*	*	3932	5051	352	*	*	*	*	*	5093	*	*	4414	*	*	*	*	5397	7
+       0	*	*	*	*	*	*	3071	0	0	
+
+K 8    3885	*	5051	3030	*	*	3871	*	1298	5586	*	4053	*	3695	5059	3509	6106	6149	*	*	8
+       0	*	*	*	*	*	*	3071	0	0	
+
+N 9    *	*	*	*	*	*	*	*	*	*	*	88	*	*	*	5581	5341	*	*	6222	9
+       0	*	*	*	*	*	*	3071	0	0	
+
+I 10   *	*	*	*	*	*	*	4304	*	463	2884	*	*	*	*	4340	5068	6791	*	*	10
+       0	*	*	*	*	*	*	3095	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	5318	*	*	108	5167	*	5712	*	*	*	*	11
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 12   *	*	*	*	64	*	*	5773	*	5308	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3095	0	0	
+
+S 13   *	*	3975	*	*	5901	5502	*	5414	5318	*	3503	6136	3819	*	714	4777	5068	*	*	13
+       0	*	*	*	*	*	*	3095	0	0	
+
+V 14   *	*	*	*	*	6836	*	2680	5695	3804	3867	*	*	*	*	*	3124	1059	*	3624	14
+       0	*	*	*	*	*	*	3095	0	0	
+
+E 15   7132	*	4057	1370	6194	6905	4648	*	2490	*	*	4103	*	3618	4585	5539	3278	*	*	*	15
+       0	*	*	*	*	*	*	3095	0	0	
+
+N 16   *	*	*	*	*	*	*	*	5079	*	*	168	*	*	*	3638	*	*	*	*	16
+       0	*	*	*	*	*	*	3095	0	0	
+
+K 17   *	*	*	*	*	*	*	*	626	*	5617	*	6205	5079	2090	*	4226	*	*	*	17
+       0	*	*	*	*	*	*	3095	0	0	
+
+W 18   4438	5450	*	*	4119	*	5418	*	*	*	*	5361	5144	5318	3479	*	5600	*	1197	2147	18
+       17	*	6427	*	*	*	*	3095	0	0	
+
+R 19   2877	*	*	*	*	3701	*	*	2339	6132	*	*	*	3859	1582	7156	4295	4583	3782	*	19
+       0	*	*	*	*	0	*	3099	0	1000	
+
+L 20   *	*	*	*	2552	*	*	5083	*	373	*	*	*	*	*	5167	*	*	*	*	20
+       0	*	*	*	*	*	*	3095	0	0	
+
+L 21   3216	6240	*	*	*	*	*	*	*	1009	*	*	4509	*	6262	*	1740	5270	*	*	21
+       0	*	*	*	*	*	*	3095	0	0	
+
+A 22   1522	*	*	*	3446	4234	*	2497	*	4793	5298	5472	*	*	*	6624	4289	2439	*	*	22
+       0	*	*	*	*	*	*	3095	0	0	
+
+M 23   *	*	*	*	*	3700	*	4347	2248	3163	1529	5298	*	*	*	5361	3828	4379	*	4758	23
+       12	6973	*	2585	263	*	*	3095	1000	0	
+
+M 24   5502	*	*	*	1921	*	*	*	5318	6163	956	*	*	*	5167	5712	4645	5144	*	4497	24
+       0	*	*	*	*	*	*	3095	0	0	
+
+T 25   2538	3577	*	*	3608	*	*	3492	*	5298	4772	*	*	*	*	4553	1452	3280	*	*	25
+       0	*	*	*	*	*	*	3095	0	0	
+
+L 26   3250	*	*	*	4793	4166	*	3812	*	1190	5167	*	*	*	*	6488	5502	2271	5308	*	26
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 27   5270	*	*	*	1241	5083	5079	*	*	4127	*	6624	*	*	*	*	*	*	*	1236	27
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 28   4284	4501	*	*	700	*	*	4497	*	2477	5361	*	*	*	*	*	5248	6099	*	*	28
+       0	*	*	*	*	*	*	3095	0	0	
+
+G 29   4912	*	6224	*	*	470	*	*	*	4273	*	*	*	*	4666	3598	*	4113	*	*	29
+       0	*	*	*	*	*	*	3095	0	0	
+
+S 30   *	6973	*	*	4117	*	*	3197	*	4357	*	*	5898	*	*	738	2866	5440	*	*	30
+       0	*	*	*	*	*	*	3095	0	0	
+
+G 31   3297	5600	*	*	*	287	*	*	*	5068	*	*	*	*	*	6657	6728	6775	*	*	31
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 32   *	*	*	*	421	*	*	4273	*	2937	5135	*	*	*	*	4567	*	*	*	*	32
+       0	*	*	*	*	*	*	3095	0	0	
+
+A 33   950	*	*	*	*	3065	*	*	*	*	*	*	*	*	*	2374	4799	3562	4336	*	33
+       0	*	*	*	*	*	*	3095	0	0	
+
+A 34   976	*	*	*	4963	5248	*	3265	*	2785	5167	*	*	*	*	5165	5242	3293	*	*	34
+       0	*	*	*	*	*	*	3095	0	0	
+
+P 35   *	*	*	*	*	*	*	*	*	5041	*	*	79	*	*	*	5450	*	*	*	35
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 36   *	5248	*	*	72	*	*	*	*	5472	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3095	0	0	
+
+F 37   *	*	*	*	1292	*	*	3238	*	1453	*	*	*	*	*	*	*	3328	5582	*	37
+       28	5699	*	0	*	*	*	3096	1000	0	
+
+I 38   2781	*	*	*	*	5586	*	1137	*	3515	3507	*	*	*	4538	*	5309	2885	*	*	38
+       0	*	*	*	*	*	*	3096	0	0	
+
+V 39   3787	*	*	*	6837	*	*	6083	*	3621	*	*	*	*	*	*	6093	307	*	*	39
+       0	*	*	*	*	*	*	3096	0	0	
+
+R 40   4275	*	*	5500	*	*	*	*	3775	*	5294	*	5077	4705	545	*	*	5266	4372	*	40
+       0	*	*	*	*	*	*	3096	0	0	
+
+H 41   *	*	*	*	4848	*	637	*	*	6244	*	*	*	*	6419	*	*	*	4343	2010	41
+       0	*	*	*	*	*	*	3096	0	0	
+
+Q 42   *	*	*	6151	*	*	4016	*	*	*	*	*	6455	259	4957	4488	*	*	*	*	42
+       0	*	*	*	*	*	*	3083	0	0	
+
+L 43   *	*	*	*	*	*	*	5528	*	306	3038	*	5172	*	*	*	*	5654	*	*	43
+       0	*	*	*	*	*	*	3083	0	0	
+
+L 44   4185	*	*	*	5001	*	4947	*	4263	530	*	*	5271	*	4308	*	4830	*	*	5317	44
+       0	*	*	*	*	*	*	3068	0	0	
+
+K 45   *	*	*	4510	*	*	*	*	65	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3074	0	0	
+
+K 46   *	*	*	5742	*	*	*	*	379	*	*	*	*	2751	3971	*	*	*	*	*	46
+       0	*	*	0	*	*	*	2598	0	0	
+
+//

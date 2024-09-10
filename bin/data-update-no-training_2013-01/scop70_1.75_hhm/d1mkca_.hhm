@@ -1,0 +1,171 @@
+HHsearch 1.5
+NAME  d1mkca_ g.5.1.2 (A:) Midkine, a heparin-binding growth factor, C-terminal domain {Synthetic}
+FAM   g.5.1.2
+FILE  d1mkca_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mkca_.a3m -v 1 
+DATE  Mon Jan 21 23:18:35 2013
+LENG  43 match states, 43 columns in multiple alignment
+FILT  28 out of 30 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCEEEECCC
+>ss_conf
+9655688667667677312342001000056774016441589
+>Consensus
+CKYkFxxWGxCDxxTgtKxRxGtLKkalxnaxCqxTixvsKPC
+>d1mkca_ g.5.1.2 (A:) Midkine, a heparin-binding growth factor, C-terminal domain {Synthetic}
+CKYKFENWGACDGGTGTKVRQGTLKKARYNAQCQETIRVTKPC
+>gi|229366158|gb|ACQ58059.1|(85-127:164) Midkine precursor [Anoplopoma fimbria]   E=4e-09 s/c=1.50 id=59% cov=102%
+CKYRFASWGACDPNSGSRTRMGTLKKALFNVECQQTISVSKPC
+>gi|148234451|ref|NP_001084019.1|(83-125:142) midkine-B precursor [Xenopus laevis] >gi|1346888|sp|P48531.1|MKB_XENLA RecName: Full=Midkine-B; Short=MK-B; AltName: Full=Pleiotrophic factor-alpha-2; Short=PTF-alpha-2; Short=X-PTF-alpha2; Flags: Precursor >gi|1065619|dbj|BAA07657.1| pleiotrophic factor-alpha2 [Xenopus laevis] >gi|49117066|gb|AAH72776.1| Mdk protein [Xenopus laevis]  E=1e-10 s/c=1.62 id=68% cov=102%
+CKYKFENWGECNATTGQKVRSGTLKKALYNADCQQTVEAAKPC
+>gi|226442965|ref|NP_001139999.1|(90-132:147) Pleiotrophic factor-alpha-1 precursor [Salmo salar] >gi|221220996|gb|ACM09159.1| Pleiotrophic factor-alpha-1 precursor [Salmo salar] >gi|221222108|gb|ACM09715.1| Pleiotrophic factor-alpha-1 precursor [Salmo salar]  E=1e-10 s/c=1.62 id=61% cov=102%
+CKYRFTNWGECDTTTGTKSRSGTLKKDLFKLDCEATITVTKPC
+>gi|225707134|gb|ACO09413.1|(86-128:144) Pleiotrophic factor-alpha-2 precursor [Osmerus mordax]   E=2e-10 s/c=1.59 id=61% cov=102%
+CKYKFGNWGECDSTSNTKTRAGALKKALFHAECQHTIQVSKPC
+>gi|47220600|emb|CAG05626.1|(51-93:104) unnamed protein product [Tetraodon nigroviridis]   E=3e-10 s/c=1.58 id=61% cov=102%
+CKYKFGPWGPCDAATNTKGRSGSLKKVLFNAECQATVRVSKPC
+>gi|308818161|ref|NP_001184206.1|(93-135:161) pleiotrophin-B precursor [Xenopus laevis] >gi|1346890|sp|P48533.1|PTNB_XENLA RecName: Full=Pleiotrophin-B; Short=PTN-B; AltName: Full=Pleiotrophic factor-beta-2; Short=PTF-beta-2; Short=X-PTF-beta2; Flags: Precursor >gi|1065625|dbj|BAA07660.1| pleiotrophic factor-beta2 [Xenopus laevis]  E=4e-10 s/c=1.58 id=55% cov=102%
+CKYQFQEWGDCDPETGLKTRNGNLKRALHNAECQKTVTLSKPC
+>gi|224051100|ref|XP_002200154.1|(83-125:142) PREDICTED: midkine (neurite growth-promoting factor 2) [Taeniopygia guttata]  E=6e-10 s/c=1.57 id=68% cov=102%
+CKYKFESWGGCSAQTGLKTRSGILKKALYNAQCEETVYVTKPC
+>gi|50540927|gb|AAT77950.1|(90-132:158) heparin-binding neurite-promoting factor [Danio rerio]   E=3e-09 s/c=1.51 id=52% cov=102%
+CKYDFQAWGECDSTTGMKTRTGVLKRALMDANCPNTVSATKPC
+>gi|221221976|gb|ACM09649.1|(87-129:147) Pleiotrophic factor-alpha-2 precursor [Salmo salar]   E=3e-12 s/c=1.73 id=66% cov=102%
+CKYKFGSWGECDTATGSKNRSGTLKKALYDAECQPTIKVSKPC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2181	0	0	
+
+Y 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	3
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 4    *	*	2831	*	*	*	*	*	623	*	*	*	*	3481	3052	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2181	0	0	
+
+F 5    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2181	0	0	
+
+E 6    4593	*	4922	1496	*	1933	*	*	*	*	*	*	*	2120	*	*	3660	*	*	*	6
+       0	*	*	*	*	*	*	2181	0	0	
+
+N 7    2448	*	*	4417	*	*	*	4747	*	*	*	1827	3881	*	3472	2104	4052	*	*	*	7
+       0	*	*	*	*	*	*	2181	0	0	
+
+W 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	8
+       0	*	*	*	*	*	*	2181	0	0	
+
+G 9    4658	*	*	*	*	58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2181	0	0	
+
+A 10   2287	*	4417	1128	*	2613	*	*	*	*	*	*	3881	*	*	*	4075	*	*	*	10
+       0	*	*	*	*	*	*	2181	0	0	
+
+C 11   *	75	*	*	*	4308	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2181	0	0	
+
+D 12   *	*	186	*	*	*	*	*	*	*	*	4642	*	*	*	3625	*	*	*	*	12
+       0	*	*	*	*	*	*	2181	0	0	
+
+G 13   1817	*	*	*	*	2272	*	*	*	3748	4887	*	2978	*	4737	3402	2817	*	*	*	13
+       0	*	*	*	*	*	*	2181	0	0	
+
+G 14   1749	*	*	3623	*	2613	*	*	4308	*	*	3570	*	5032	*	4075	2099	*	*	*	14
+       0	*	*	*	*	*	*	2181	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	*	4862	*	*	*	*	3174	226	*	*	*	15
+       0	*	*	*	*	*	*	2181	0	0	
+
+G 16   4548	*	*	*	*	349	*	*	*	*	*	3262	*	*	*	3885	*	*	*	*	16
+       0	*	*	*	*	*	*	2181	0	0	
+
+T 17   *	*	*	*	*	*	*	*	3933	2816	4781	*	*	4642	4691	3446	902	4308	*	*	17
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 18   *	*	*	*	*	*	*	*	122	*	*	*	*	*	3625	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2181	0	0	
+
+V 19   2276	*	*	*	*	4953	*	*	*	*	*	2694	*	*	*	2171	1812	3321	*	*	19
+       0	*	*	*	*	*	*	2181	0	0	
+
+R 20   *	4747	*	*	*	*	*	*	*	*	*	*	*	*	105	4913	*	*	*	*	20
+       0	*	*	*	*	*	*	2181	0	0	
+
+Q 21   4782	*	*	*	*	*	*	*	*	*	4593	4417	4913	2242	*	1265	2219	*	*	*	21
+       0	*	*	*	*	*	*	2181	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2181	0	0	
+
+T 23   4782	*	*	*	*	*	*	3625	*	*	*	4417	*	*	*	3737	689	2831	*	*	23
+       0	*	*	*	*	*	*	2181	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 25   *	*	*	*	*	*	*	*	162	*	*	*	*	4991	4691	*	*	4787	*	*	25
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 26   *	*	*	4075	*	*	*	*	493	*	*	*	*	*	2120	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2181	0	0	
+
+A 27   272	*	4482	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2975	*	*	27
+       0	*	*	*	*	*	*	2181	0	0	
+
+R 28   *	*	*	*	*	4737	*	*	*	405	*	*	*	*	2759	*	*	*	4075	*	28
+       0	*	*	*	*	*	*	2181	0	0	
+
+Y 29   *	*	*	*	1590	*	3481	*	*	*	2831	*	*	*	*	*	*	*	*	1192	29
+       0	*	*	*	*	*	*	2181	0	0	
+
+N 30   *	*	2610	*	*	*	3759	*	4482	*	*	553	*	*	*	4787	*	*	*	*	30
+       0	*	*	*	*	*	*	2181	0	0	
+
+A 31   241	*	*	*	*	*	*	*	*	4482	*	*	*	*	*	*	*	3196	*	*	31
+       0	*	*	*	*	*	*	2181	0	0	
+
+Q 32   *	*	2327	1377	*	*	*	*	*	*	*	4781	*	1862	*	*	3263	*	*	*	32
+       0	*	*	*	*	*	*	2181	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2181	0	0	
+
+Q 34   3828	*	*	2643	*	*	*	*	4737	5206	*	*	3833	656	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2181	0	0	
+
+E 35   2762	*	*	1525	*	*	4782	*	3481	*	*	3833	4313	2745	*	4813	3756	*	*	*	35
+       0	*	*	*	*	*	*	2181	0	0	
+
+T 36   4075	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4813	227	4308	*	*	36
+       0	*	*	*	*	*	*	2181	0	0	
+
+I 37   *	*	*	*	*	*	*	957	*	*	*	*	*	*	*	*	*	1044	*	*	37
+       0	*	*	*	*	*	*	2181	0	0	
+
+R 38   *	4075	*	4642	*	*	4737	*	2913	*	*	*	*	3551	2474	2480	2289	*	*	3625	38
+       0	*	*	*	*	*	*	2181	0	0	
+
+V 39   2469	*	*	*	*	*	*	4548	*	4417	*	*	*	*	*	4075	*	577	*	*	39
+       0	*	*	*	*	*	*	2181	0	0	
+
+T 40   4642	*	*	*	*	*	*	4075	*	*	*	*	*	*	*	1164	1138	*	*	*	40
+       0	*	*	*	*	*	*	2181	0	0	
+
+K 41   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2181	0	0	
+
+P 42   *	*	*	*	*	*	*	*	*	*	*	*	105	*	*	3832	*	*	*	*	42
+       0	*	*	*	*	*	*	2181	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	0	*	*	*	2181	0	0	
+
+//

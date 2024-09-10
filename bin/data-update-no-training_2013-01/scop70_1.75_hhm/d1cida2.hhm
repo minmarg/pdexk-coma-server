@@ -1,0 +1,258 @@
+HHsearch 1.5
+NAME  d1cida2 b.1.1.3 (A:106-177) CD4 C2-set domains {Rat (Rattus rattus) [TaxId: 10117]}
+FAM   b.1.1.3
+FILE  d1cida2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1cida2.a3m -v 1 
+DATE  Mon Jan 21 19:08:01 2013
+LENG  72 match states, 72 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CEECCCCCCCCEEEEEECCCCCCEEEEEEECCCCCCCCCCCEEEEEECCCCCEEEEEEECCCEEEEEEECCC
+>ss_conf
+901011489845889647999955899865576644567620678618999706999742983788753159
+>Consensus
+VMrvtqxxxNxLtCEVlGPtsPxlxLslklenQxxkVSxqqKxvxvxxPeaGxWqClLsdxxkvlLxSkxxV
+>d1cida2 b.1.1.3 (A:106-177) CD4 C2-set domains {Rat (Rattus rattus) [TaxId: 10117]}
+VMKVTQPDSNTLTCEVMGPTSPKMRLILKQENQEARVSRQEKVIQVQAPEAGVWQCLLSEGEEVKMDSKIQV
+>gi|354467369|ref|XP_003496142.1|(313-383:456) PREDICTED: T-cell surface glycoprotein CD4-like [Cricetulus griseus]  E=2e-17 s/c=1.30 id=64% cov=100%
+VMRLIQKN-NTLTCEVKGPTSPKMRLTLTLENQKHRVSKQEKVVRMPAPEPGLWQCVLYEAEEVKIMSDTQV
+>gi|395847731|ref|XP_003796520.1|(233-303:512) PREDICTED: T-cell surface glycoprotein CD4, partial [Otolemur garnettii]  E=1e-16 s/c=1.26 id=61% cov=100%
+VMRVTQLHNN-LTCEVLGPTSPEMILSLKQENQNPKVSKKDKAVWVPAPEAGMWQCLLSDGDQVLLESKEEV
+>gi|111378670|gb|ABH09245.1|(194-263:309) cluster of differentiation antigen 4 [Peromyscus maniculatus]   E=1e-15 s/c=1.23 id=63% cov=99%
+VMKLAQKD-NAVTCEVRGPTSPKMKLTLKLENQD-KVSGQEKVVEMKDPEAGQWLCELNEGDELKIXSKIQV
+>gi|50054438|ref|NP_001001908.1|(315-385:457) T-cell surface glycoprotein CD4 precursor [Sus scrofa] >gi|47641127|gb|AAR99808.2| lymphocyte antigen CD4 precursor [Sus scrofa] >gi|49176861|gb|AAT52342.1| lymphocyte antigen CD4 precursor [Sus scrofa]  E=3e-11 s/c=1.01 id=49% cov=100%
+VMRATQ-SKNEVTCEVLGPTPPKVVLSLKLGNQSMKVSDQQKLVTVLDPEAGMWRCLLRDKDKVLLESQVEV
+>gi|55742794|ref|NP_001003252.1|(320-390:463) T-cell surface glycoprotein CD4 precursor [Canis lupus familiaris] >gi|461714|sp|P33705.1|CD4_CANFA RecName: Full=T-cell surface glycoprotein CD4; AltName: Full=T-cell surface antigen T4/Leu-3; AltName: CD_antigen=CD4; Flags: Precursor >gi|290084|gb|AAB02295.1| CD4 antigen [Canis lupus familiaris]  E=3e-22 s/c=1.52 id=47% cov=100%
+VMR-ANSSQNNLTCEVLGPTSPELTLSLNLKEQAAKVSKQQKLVWVVDPEGGTWQCLLSDKDKVLLASSLNV
+>gi|384080919|dbj|BAM11122.1|(313-383:455) T-cell surface glycoprotein CD4 [Bos taurus]   E=5e-21 s/c=1.46 id=49% cov=100%
+VMKVTK-SPNSLACEVLGPSPPKLTLNLKMGNQSMKGSNQPKLVTQPEPQAGMWQCLLSDNGKVLLEAKIEV
+>gi|351715701|gb|EHB18620.1|(300-370:433) T-cell surface glycoprotein CD4, partial [Heterocephalus glaber]   E=5e-21 s/c=1.45 id=47% cov=100%
+VMRVSQ-HQNSLVCEVLGPTSPTLELSWKLSNQKPQVSAKKKQVQVSSPETGTWWCLLRDGNKVLLESEVEV
+>gi|3450976|gb|AAC32621.1|(9-79:120) T-cell surface glycoprotein CD4 [Marmota monax]   E=5e-24 s/c=1.59 id=56% cov=100%
+VMNVTY-HQNDLICEVLGPTPPKLMLSLKLKNQEAKVSKPEKRIRVPNPKAGMWQCLLRDGDKVLLDFQIDV
+>gi|395538675|ref|XP_003771300.1|(324-397:464) PREDICTED: T-cell surface glycoprotein CD4 [Sarcophilus harrisii]   E=1e-14 s/c=1.12 id=33% cov=97%
+VMRAISQESphKQLCCDVLGPIIPGLNLRWVLENQTeinLNVSEKQRELQVDKPKSGTWECQLFRQNKKQLNSD---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	4392	*	*	*	*	*	*	70	*	*	1
+       0	*	*	*	*	*	*	2580	0	0	
+
+M 2    *	*	*	*	*	*	*	*	*	4392	70	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2580	0	0	
+
+K 3    4659	*	*	*	*	*	*	*	1924	*	*	4580	*	*	693	*	4781	*	*	*	3
+       46	*	4989	*	*	*	*	2580	0	0	
+
+V 4    2073	*	*	*	*	*	*	*	*	2806	4595	*	*	*	*	*	*	791	*	*	4
+       0	*	*	*	*	0	*	2576	0	1000	
+
+T 5    2642	*	*	*	*	*	*	2859	*	*	4228	*	*	*	*	4490	727	*	*	*	5
+       0	*	*	*	*	*	*	2580	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	2249	*	*	4989	*	879	4862	2857	*	*	*	4580	6
+       772	*	1271	*	*	*	*	2580	0	0	
+
+P 7    *	*	*	*	3035	*	3539	*	2589	1786	*	*	3873	2995	*	3971	*	3673	*	*	7
+       441	*	1926	*	*	0	*	2352	0	1919	
+
+D 8    *	*	2215	3412	*	*	2895	*	*	*	*	3323	*	3674	*	1404	*	*	*	*	8
+       248	*	2662	*	*	0	*	2537	0	1559	
+
+S 9    *	*	*	3840	*	4515	*	*	3012	*	*	4807	3049	1314	*	2579	4785	*	*	*	9
+       249	3340	4066	1000	1000	0	*	2446	1000	1440	
+
+N 10   *	*	*	*	*	*	4129	*	3679	*	*	277	*	*	*	4673	*	*	*	*	10
+       139	*	3442	*	*	0	*	2582	0	1000	
+
+T 11   4211	*	3615	3473	*	*	4619	*	3488	*	*	2506	*	3001	*	2256	2896	*	*	*	11
+       0	*	*	*	*	0	*	2586	0	1285	
+
+L 12   *	*	*	*	*	*	*	*	*	179	*	*	*	*	*	*	*	3096	*	*	12
+       0	*	*	*	*	*	*	2593	0	0	
+
+T 13   4448	3036	*	*	*	*	*	4613	*	*	*	*	*	*	*	*	604	3569	*	4340	13
+       0	*	*	*	*	*	*	2593	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2593	0	0	
+
+E 15   *	*	3859	156	*	*	*	*	*	*	*	*	*	4884	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2593	0	0	
+
+V 16   *	*	*	*	*	*	*	*	*	3525	*	*	*	*	*	*	*	131	*	*	16
+       0	*	*	*	*	*	*	2593	0	0	
+
+M 17   *	*	*	*	*	*	*	*	4337	688	3244	*	*	4611	4284	4340	*	*	3600	*	17
+       0	*	*	*	*	*	*	2593	0	0	
+
+G 18   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2593	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2593	0	0	
+
+T 20   *	*	*	*	*	*	*	2206	*	*	*	*	*	*	*	2710	665	*	*	*	20
+       0	*	*	*	*	*	*	2593	0	0	
+
+S 21   *	*	4459	*	*	*	*	2546	*	4777	*	*	2698	*	*	754	*	*	*	*	21
+       0	*	*	*	*	*	*	2593	0	0	
+
+P 22   *	*	*	*	*	*	*	*	*	*	*	*	60	*	*	4611	*	*	*	*	22
+       0	*	*	*	*	*	*	2593	0	0	
+
+K 23   *	*	4670	3114	*	2546	*	*	1022	*	*	*	*	*	4041	*	3050	*	*	*	23
+       0	*	*	*	*	*	*	2593	0	0	
+
+M 24   *	*	*	*	*	*	*	*	*	554	2013	*	*	*	*	*	*	3816	*	*	24
+       0	*	*	*	*	*	*	2593	0	0	
+
+R 25   *	*	*	4528	*	*	*	3941	3369	4238	2335	3859	*	*	3019	*	1646	4977	*	*	25
+       0	*	*	*	*	*	*	2593	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2593	0	0	
+
+I 27   *	*	*	*	*	*	*	4625	*	*	*	3618	*	*	3080	805	2417	*	*	*	27
+       0	*	*	*	*	*	*	2593	0	0	
+
+L 28   *	*	*	*	*	*	*	*	*	498	*	*	*	*	*	*	*	*	1776	*	28
+       0	*	*	*	*	*	*	2593	0	0	
+
+K 29   *	*	*	*	*	*	*	4238	620	*	*	2957	*	4340	*	*	4337	3859	*	*	29
+       0	*	*	*	*	*	*	2593	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	5314	440	4448	*	4738	3300	4238	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2593	0	0	
+
+E 31   *	*	*	603	*	3143	*	*	2433	*	*	*	*	*	*	4528	*	*	*	*	31
+       0	*	*	*	*	*	*	2593	0	0	
+
+N 32   *	*	3533	3508	*	4670	*	*	*	*	*	347	*	*	*	*	*	*	*	*	32
+       105	4884	4777	1585	585	*	*	2593	1000	0	
+
+Q 33   *	*	*	*	*	*	*	*	4025	*	*	*	*	142	4945	*	*	*	*	*	33
+       77	4263	*	1585	585	0	*	2591	1000	1000	
+
+E 34   2653	*	4284	2015	*	*	*	*	2902	*	*	5178	*	*	*	2854	2043	*	*	*	34
+       185	3859	4284	1585	585	*	*	2593	1000	0	
+
+A 35   1241	*	*	4159	*	*	4087	*	*	3021	2793	*	3098	*	*	4734	*	4632	*	*	35
+       0	*	*	*	*	0	*	2552	0	1000	
+
+R 36   *	*	*	4340	*	*	*	*	696	*	*	3859	*	3569	2751	*	4974	*	*	*	36
+       79	4238	*	1585	585	*	*	2593	1000	0	
+
+V 37   *	*	*	*	*	4448	*	5132	*	*	*	*	*	*	*	4811	*	168	*	*	37
+       0	*	*	*	*	*	*	2593	0	0	
+
+S 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	38
+       0	*	*	*	*	*	*	2593	0	0	
+
+R 39   4528	*	4136	2289	*	4284	*	*	1304	*	*	3116	*	*	4625	4738	4459	*	*	*	39
+       0	*	*	*	*	*	*	2593	0	0	
+
+Q 40   *	*	*	4905	*	*	*	*	2045	*	*	*	4613	810	3659	4884	*	*	*	*	40
+       67	*	4459	*	*	*	*	2593	0	0	
+
+E 41   4908	*	5097	1610	*	*	*	*	4480	*	*	*	3565	1057	*	*	*	*	*	*	41
+       0	*	*	*	*	0	*	2583	0	1000	
+
+K 42   *	*	*	*	*	*	*	*	271	*	*	*	*	*	2546	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2593	0	0	
+
+V 43   2770	*	*	3036	*	*	*	*	4340	1933	3561	*	*	3569	4613	*	*	2249	*	*	43
+       0	*	*	*	*	*	*	2593	0	0	
+
+I 44   *	*	*	*	*	*	*	3619	*	2546	*	*	*	*	*	*	*	420	*	*	44
+       0	*	*	*	*	*	*	2593	0	0	
+
+Q 45   *	*	*	3312	*	*	*	*	3008	5132	*	*	*	2110	2947	4982	2854	*	2216	*	45
+       0	*	*	*	*	*	*	2593	0	0	
+
+V 46   *	*	*	4811	*	*	*	*	*	3542	2854	*	*	4448	*	*	*	526	*	*	46
+       0	*	*	*	*	*	*	2593	0	0	
+
+Q 47   *	*	3859	4670	*	*	*	*	2702	1576	5132	*	2339	4625	*	4528	*	3431	*	*	47
+       0	*	*	*	*	*	*	2593	0	0	
+
+A 48   2727	*	1591	2590	*	5314	*	*	3859	*	*	3019	*	4340	*	3569	*	*	*	*	48
+       0	*	*	*	*	*	*	2593	0	0	
+
+P 49   4670	*	*	*	*	*	*	*	*	*	*	*	58	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2593	0	0	
+
+E 50   *	*	*	597	*	*	*	*	1770	*	*	*	*	4448	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2593	0	0	
+
+A 51   799	*	4982	4974	*	4152	*	*	*	*	*	*	3776	*	*	3036	3177	*	*	*	51
+       0	*	*	*	*	*	*	2593	0	0	
+
+G 52   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2593	0	0	
+
+V 53   5410	*	*	*	*	*	*	*	*	3593	1508	*	*	4284	*	*	1152	4625	*	*	53
+       0	*	*	*	*	*	*	2593	0	0	
+
+W 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	54
+       0	*	*	*	*	*	*	2593	0	0	
+
+Q 55   *	*	*	2267	*	*	*	*	*	4284	*	*	*	587	4977	*	*	*	4528	*	55
+       0	*	*	*	*	*	*	2593	0	0	
+
+C 56   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2593	0	0	
+
+L 57   *	*	*	4235	*	*	*	*	*	398	*	*	*	2886	*	*	*	4251	*	*	57
+       0	*	*	*	*	*	*	2582	0	0	
+
+L 58   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2582	0	0	
+
+S 59   *	*	*	*	3679	*	*	*	*	4129	*	4235	*	*	3068	644	*	*	*	4251	59
+       0	*	*	*	*	*	*	2582	0	0	
+
+E 60   *	*	845	2464	4129	*	4643	*	*	*	*	4673	*	*	3679	4396	*	*	*	*	60
+       0	*	*	*	*	*	*	2582	0	0	
+
+G 61   4251	*	*	*	*	1413	*	*	2096	*	*	3644	*	2547	*	3523	*	*	*	*	61
+       0	*	*	*	*	*	*	2582	0	0	
+
+E 62   *	*	1142	3413	*	2121	*	*	*	*	*	2473	*	*	*	4536	*	*	*	*	62
+       0	*	*	*	*	*	*	2582	0	0	
+
+E 63   *	*	*	2766	*	*	*	*	722	*	*	*	*	2019	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2582	0	0	
+
+V 64   *	*	*	*	*	*	*	4579	2886	4235	*	*	*	*	*	*	*	377	*	*	64
+       0	*	*	*	*	*	*	2582	0	0	
+
+K 65   *	*	*	*	*	*	*	*	2464	549	*	*	*	2886	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2582	0	0	
+
+M 66   *	*	*	*	*	*	*	3243	*	288	3725	*	*	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	2582	0	0	
+
+D 67   2864	*	2988	1110	*	*	*	*	4040	*	4008	3630	*	5090	*	*	4629	*	*	*	67
+       0	*	*	*	*	*	*	2538	0	0	
+
+S 68   4442	*	*	*	4564	*	*	*	*	*	*	*	*	*	*	133	*	*	*	*	68
+       0	*	*	*	*	*	*	2582	0	0	
+
+K 69   *	*	2413	4478	*	*	*	*	939	*	*	4007	*	3748	4867	4975	4536	*	*	*	69
+       0	*	*	*	*	*	*	2582	0	0	
+
+I 70   3330	*	*	4896	3690	*	*	1325	*	3586	*	*	*	*	*	*	3959	2043	*	*	70
+       0	*	*	*	*	*	*	2293	0	0	
+
+Q 71   *	*	2719	1023	*	*	*	*	3728	*	*	4803	*	2030	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2293	0	0	
+
+V 72   *	*	*	*	*	*	*	4703	*	*	*	*	*	*	*	*	*	56	*	*	72
+       0	*	*	0	*	*	*	2304	0	0	
+
+//

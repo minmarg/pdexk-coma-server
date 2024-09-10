@@ -1,0 +1,222 @@
+HHsearch 1.5
+NAME  d1ng7a_ a.178.1.1 (A:) Soluble domain of poliovirus core protein 3a {Poliovirus type 1, strain Mahoney [TaxId: 12080]}
+FAM   a.178.1.1
+FILE  d1ng7a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ng7a_.a3m -v 1 
+DATE  Mon Jan 21 23:42:35 2013
+LENG  60 match states, 60 columns in multiple alignment
+FILT  59 out of 61 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCCCCEEECCCCCCCHHHHHHHHCCCCHHHHHHHHHCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+999854532430257988567899985089777999987278131178873113334459
+>Consensus
+xGPxxykxlxIxvxxtPxPxaIaDLLxSVdseEVrxYCkxkgWiipxxxxxxiErxvnrA
+>d1ng7a_ a.178.1.1 (A:) Soluble domain of poliovirus core protein 3a {Poliovirus type 1, strain Mahoney [TaxId: 12080]}
+MGPLQYKDLKIDIKTSPPPECINDLLQAVDSQEVRDYCEKKGWIVNITSQVQTERNINRA
+>gi|37993798|gb|AAR06974.1|(1430-1490:2185) polyprotein [Swine vesicular disease virus]   E=4e-09 s/c=1.05 id=45% cov=100%
+-GPPVYREIKISVAPEiPPPPAVADLLKSVDSEAVREYCKEKGWLIpEVDSTLQIEKHVNRA
+>gi|355429329|gb|AER92585.1|(1429-1485:2178) polyprotein [Human rhinovirus B]   E=1e-08 s/c=1.11 id=52% cov=97%
+-GPV-YKDLSIDVHDKPPPECIVDLLKSVDCEEVRQYCKEKKWLIP-EIPINVERAVNQA
+>gi|9626437|ref|NP_040760.1|(1444-1504:2194) polyprotein [Human enterovirus D] >gi|1172550|sp|P32537.4|POLG_HE701 RecName: Full=Genome polyprotein; Contains: RecName: Full=Protein VP0; AltName: Full=VP4-VP2; Contains: RecName: Full=Protein VP4; AltName: Full=P1A; AltName: Full=Virion protein 4; Contains: RecName: Full=Protein VP2; AltName: Full=P1B; AltName: Full=Virion protein 2; Contains: RecName: Full=Protein VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; Contains: RecName: Full=Protein VP1; AltName: Full=P1D; AltName: Full=Virion protein 1; Contains: RecName: Full=Picornain 2A; Short=P2A; Short=Protein 2A; Contains: RecName: Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 2C; Short=P2C; Contains: RecName: Full=Protein 3A; Short=P3A; Contains: RecName: Full=Protein 3B; Short=P3B; AltName: Full=VPg; Contains: RecName: Full=Picornain 3C; AltName: Full=Protease 3C; Short=P3C; Contains: RecName: Full=RNA-directed RNA polymerase 3D-POL; Short=P3D-POL >gi|221263|dbj|BAA18891.1| polyprotein [Human enterovirus 70]  E=1e-20 s/c=1.67 id=50% cov=100%
+-GPPTFKEIKISVTpETPAPDAINDLLRSIDSQEVRDYCQKKGWIVmHPPTELVVDKHISRA
+>gi|380034918|ref|YP_005351240.1|(1623-1671:2378) polyprotein [Canine picornavirus] >gi|377826519|gb|AFB78146.1| polyprotein [Canine picornavirus]  E=1e-05 s/c=1.07 id=42% cov=83%
+----TFDEMKESGIELPMPREIADLLEAVNTPEVVSYCEQKGWIIP--QKVKIER-----
+>gi|345461094|ref|YP_004782204.1|(1591-1633:2338) polyprotein [Bat picornavirus 3] >gi|343404034|gb|AEM23661.1| polyprotein [Bat picornavirus 3]  E=3e-05 s/c=1.20 id=32% cov=73%
+-------------QPKPAPKEIADLLMAVPTEEVIKYCKAQGWLIPAGVTIKRTKA----
+>gi|334265234|gb|AEG75268.1|(1430-1477:2168) polyprotein [Human rhinovirus A103]   E=1e-12 s/c=1.58 id=45% cov=82%
+----------IDIVNKPPPPAIMDLLKSVRNPEVIKYCEDNKWIIP--ADCRLERDLNYA
+>gi|389568570|gb|AFK85008.1|(1610-1655:2371) polyprotein [Ia io picornavirus 1]   E=4e-10 s/c=1.46 id=36% cov=78%
+----TYEELRQRGESIPCPQLIADLVRAVPTQAVLDYVKSKGWMVPAPVE----------
+>gi|358356447|ref|YP_004934011.1|(1590-1636:2337) unnamed protein product [Feline picornavirus] >gi|355527287|gb|AET06137.1| polyprotein [Feline picornavirus]  E=6e-06 s/c=1.13 id=37% cov=77%
+------------IQDKPMPNEVADLLRALRGDEkVVKYCQEQGWILPPDlTQIRVERDV---
+>gi|21389217|ref|NP_653149.1|(1448-1504:2197) A2 polyprotein [Simian enterovirus A] >gi|9211054|gb|AAF85765.1|AF201894_1 A2 polyprotein [A-2 plaque virus]  E=3e-15 s/c=1.48 id=42% cov=95%
+---PIYHDLTITVEETPAPSAISDLLCSVDSGEVRDYCRRRGWIVPdTPTEITVSRDYGK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2391	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       31	*	5575	*	*	*	*	2551	0	0	
+
+L 4    *	*	*	*	*	*	*	3560	*	2780	*	*	772	*	*	*	*	2443	*	*	4
+       472	3513	2385	1585	585	0	*	2565	1000	1000	
+
+Q 5    5448	5330	*	3468	*	*	5540	3459	4109	*	*	*	*	2741	5649	5720	1972	2011	*	*	5
+       0	*	*	*	*	0	*	2714	0	1696	
+
+Y 6    *	*	*	*	1245	*	*	*	*	*	*	*	*	*	*	*	*	*	*	790	6
+       0	*	*	*	*	*	*	2751	0	0	
+
+K 7    *	*	4239	3210	*	*	4154	*	700	*	*	*	*	*	2580	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2751	0	0	
+
+D 8    *	*	1233	1487	*	*	*	*	*	*	*	*	2199	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2751	0	0	
+
+L 9    *	*	*	*	*	*	*	1858	*	719	4239	*	4449	*	*	*	*	5793	*	*	9
+       0	*	*	*	*	*	*	2751	0	0	
+
+K 10   *	*	*	3303	*	*	*	*	1184	*	*	5765	*	5585	2006	3885	3285	*	*	*	10
+       0	*	*	*	*	*	*	2751	0	0	
+
+I 11   *	*	*	4317	*	*	*	243	4318	*	*	*	*	4189	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2848	0	0	
+
+D 12   *	*	1341	3519	*	*	*	*	*	*	*	5812	*	*	4189	1408	3869	*	*	*	12
+       0	*	*	*	*	*	*	2848	0	0	
+
+I 13   *	*	*	*	*	2773	*	2171	*	3320	5849	*	*	*	*	*	*	960	*	*	13
+       116	3973	6207	0	*	*	*	2948	1509	0	
+
+K 14   3402	3844	3050	2318	*	*	4210	3513	2717	*	*	5803	*	3562	*	6030	4053	4554	*	*	14
+       289	2728	5025	0	*	0	*	2982	1655	1000	
+
+T 15   *	*	3155	1250	*	*	*	*	*	*	*	3067	3746	5191	*	3510	2660	*	*	*	15
+       34	*	5410	*	*	0	*	2992	0	1196	
+
+S 16   5904	*	5836	4222	*	5756	*	4121	2544	4665	*	*	*	5820	4485	3927	1134	4592	*	*	16
+       63	4539	*	0	*	0	*	2998	1316	1089	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2992	0	0	
+
+P 18   1298	4311	*	*	*	*	*	*	*	*	3754	*	1093	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2992	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2992	0	0	
+
+E 20   5844	*	2666	2210	*	*	*	*	3809	*	*	4671	1640	4311	4842	3439	*	*	*	*	20
+       0	*	*	*	*	*	*	2992	0	0	
+
+C 21   854	2191	*	2781	*	*	*	*	*	4311	*	*	*	*	*	*	*	*	*	4971	21
+       0	*	*	*	*	*	*	2992	0	0	
+
+I 22   *	*	*	*	*	*	*	141	*	*	*	*	*	*	*	*	*	3423	*	*	22
+       0	*	*	*	*	*	*	2992	0	0	
+
+N 23   1189	*	*	*	*	*	*	*	*	4663	5747	2516	*	*	*	2257	6100	3256	*	*	23
+       0	*	*	*	*	*	*	2992	0	0	
+
+D 24   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2992	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2992	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	136	*	*	*	*	*	*	*	3477	*	*	26
+       0	*	*	*	*	*	*	2992	0	0	
+
+Q 27   3108	4363	*	4842	*	*	*	*	1526	*	4972	*	*	2811	1906	6368	*	*	*	*	27
+       0	*	*	*	*	*	*	2992	0	0	
+
+A 28   1906	*	*	*	*	*	*	*	*	*	*	*	*	*	*	448	*	*	*	*	28
+       0	*	*	*	*	*	*	2992	0	0	
+
+V 29   *	*	*	*	*	*	*	5558	*	4671	*	*	*	*	*	*	5179	133	*	*	29
+       0	*	*	*	*	*	*	2992	0	0	
+
+D 30   *	*	491	*	*	*	*	*	*	*	*	4842	3038	*	2925	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2992	0	0	
+
+S 31   *	5300	*	*	*	4671	*	*	*	*	*	2742	*	*	*	778	2302	*	*	*	31
+       0	*	*	*	*	*	*	2992	0	0	
+
+Q 32   *	*	4050	842	*	4363	*	*	*	*	*	*	2845	2367	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2992	0	0	
+
+E 33   3290	*	5897	245	*	*	*	*	*	*	*	*	*	4738	*	*	*	*	*	*	33
+       58	4671	*	0	*	*	*	2992	1000	0	
+
+V 34   *	*	*	*	*	*	*	5614	*	4088	*	*	*	*	*	*	*	119	*	*	34
+       0	*	*	*	*	*	*	2992	0	0	
+
+R 35   *	*	*	*	4663	*	*	3008	*	4311	*	*	*	*	491	*	*	3754	*	*	35
+       0	*	*	*	*	*	*	2992	0	0	
+
+D 36   *	*	1843	1549	*	*	6304	*	2879	*	*	5179	*	2571	*	4842	*	*	*	*	36
+       0	*	*	*	*	*	*	2992	0	0	
+
+Y 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	37
+       0	*	*	*	*	*	*	2992	0	0	
+
+C 38   *	75	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4311	*	*	38
+       0	*	*	*	*	*	*	2992	0	0	
+
+E 39   *	*	*	2482	*	*	*	*	1155	*	*	*	*	2779	2400	*	4758	*	*	*	39
+       0	*	*	*	*	*	*	2992	0	0	
+
+K 40   4972	*	3823	1887	*	5054	5193	*	2035	*	*	4713	*	3237	4363	3422	*	4663	*	*	40
+       0	*	*	*	*	*	*	2992	0	0	
+
+K 41   *	*	*	*	*	*	*	*	740	*	*	3947	*	1938	3730	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2992	0	0	
+
+G 42   *	*	*	*	*	436	*	*	2613	*	*	3730	*	*	5498	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2992	0	0	
+
+W 43   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	43
+       0	*	*	*	*	*	*	2992	0	0	
+
+I 44   *	*	*	*	*	*	*	677	*	2309	3477	*	*	*	*	*	6227	3848	*	*	44
+       0	*	*	*	*	*	*	2992	0	0	
+
+V 45   *	*	*	*	*	*	*	1040	*	3667	*	*	*	*	*	*	4652	1340	*	*	45
+       414	2279	4528	0	*	*	*	2992	1966	0	
+
+N 46   *	*	5774	1919	*	*	4323	*	4400	*	*	4662	875	4833	*	*	*	*	*	*	46
+       518	4524	1954	472	1842	*	0	2997	1347	1434	
+
+I 47   2881	*	4876	4730	*	*	*	2126	*	4407	*	*	3153	5528	5510	*	4795	1625	*	*	47
+       252	3349	4008	0	*	1658	550	2792	1539	2216	
+
+T 48   5596	*	2995	3228	*	4754	*	*	*	*	*	4211	1667	5864	*	3263	2698	3926	*	*	48
+       159	3861	4806	0	*	216	2849	2865	1441	2208	
+
+S 49   3071	*	6073	*	*	*	*	4530	4331	*	*	4394	3528	3808	6083	2370	2091	3004	*	*	49
+       57	*	4683	*	*	836	1186	2923	0	1559	
+
+Q 50   5826	*	2804	1759	*	*	*	*	4691	*	*	3164	3234	3365	*	4011	3173	5859	*	*	50
+       51	6024	5688	0	*	1690	535	2893	1000	1635	
+
+V 51   6171	3321	*	*	*	*	*	2188	*	2305	4724	*	*	*	5972	5644	2799	2018	*	*	51
+       154	*	3305	*	*	443	1918	2796	0	1631	
+
+Q 52   5857	*	5778	4373	*	*	*	*	2810	5574	*	2744	4556	2658	3497	3568	3329	2943	*	*	52
+       0	*	*	*	*	2121	377	2839	0	1745	
+
+T 53   *	*	*	*	*	*	*	1602	*	3026	*	*	*	*	4592	*	2503	1599	*	*	53
+       135	3486	*	698	1382	0	*	2855	1665	1498	
+
+E 54   *	*	5495	201	*	*	*	*	*	*	*	*	4570	*	*	5289	4642	*	*	*	54
+       0	*	*	*	*	*	*	2852	0	0	
+
+R 55   *	*	*	*	*	*	5832	5315	2209	*	*	*	*	*	517	*	4570	*	*	*	55
+       0	*	*	*	*	*	*	2852	0	0	
+
+N 56   2430	*	2481	5083	*	*	1407	*	*	*	*	2296	*	*	*	*	5312	*	*	*	56
+       0	*	*	*	*	*	*	2800	0	0	
+
+I 57   *	*	*	*	*	*	*	1997	*	1863	5545	*	*	*	*	*	*	1331	*	4165	57
+       0	*	*	*	*	*	*	2681	0	0	
+
+N 58   *	*	4541	*	*	4302	*	*	*	*	*	662	*	*	*	1992	5435	*	*	*	58
+       0	*	*	*	*	*	*	2603	0	0	
+
+R 59   *	*	*	*	*	*	*	3851	4226	*	5598	*	*	2590	604	*	*	*	*	4929	59
+       0	*	*	*	*	*	*	2483	0	0	
+
+A 60   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	0	*	*	*	2428	0	0	
+
+//

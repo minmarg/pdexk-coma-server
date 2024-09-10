@@ -1,0 +1,275 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use Parsers;
+use SOptions;
+use SUsage;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 80 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/FragmentCutter $
+# ==============================================================================
+
+my %data_info = (header_length => 20, 
+                filter_consensus => 0, 
+                filter_match => 0,
+                filter_ss_cons => 0,
+                fasta_out => 0);
+
+@ARGV = getOptions
+(
+#** Fragment cutter
+#**
+#** -f,--fas                    Input file (multiple sequence alignment in FASTA)
+#** -s,--start                  Start position.
+#** -r,--fragments              Fragments to leave. Default: leave all. Format: "1-3,7-8"
+#** -l,--header_length          Header length. Default: 20. '*' means leave the whole header.
+#** -c,--filter_consensus       Filters *_cons*. Default: do not filter.
+#** -m,--filter_match           Filters *_match*. Default: do not filter.
+#** -n,--filter_ss_conf         Filters *ss_conf*. Default: do not filter.
+#** -o,--fasta_out              Prints output in FASTA format. Default: simple.
+#** -h,-?,--help,--usage        Print short usage message (this message) and exit.
+
+    "-f,--fas"              => sub {$data_info{fas}              = get_value()},
+    "-s,--start"            => sub {$data_info{start}            = get_value()},
+    "-r,--fragments"        => sub {$data_info{fragments}        = get_value()},
+    "-l,--header_length"    => sub {$data_info{header_length}    = get_value()},
+    "-c,--filter_consensus" => sub {$data_info{filter_consensus} = 1          },
+    "-m,--filter_match"     => sub {$data_info{filter_match}     = 1          },
+    "-n,--filter_ss_conf"   => sub {$data_info{filter_ss_conf}   = 1          },
+    "-o,--fasta_out"        => sub {$data_info{fasta_out}        = 1          },
+    "-h,-?,--help,--usage"  => sub {SUsage::usage; exit                       },
+);
+
+
+if(!$data_info{fas})
+{
+    SUsage::usage; exit;
+}
+#     An array of    
+#     my %obj = (
+#                 header => ">test",
+#                 seq    => "abac",
+#               );
+my $msa_in_fasta = Parsers::parse_fas($data_info{fas});
+
+my $fragments;
+
+if(defined($data_info{fragments}))
+{
+    $fragments = parse_fragment_boundaries($data_info{fragments}, length($$msa_in_fasta[0]->{seq}));
+}
+else
+{
+    my @tmp;
+    $fragments = \@tmp;
+}
+
+my $filtered_msa_in_fasta = $msa_in_fasta;
+if($data_info{filter_consensus} == 1)
+{
+    $filtered_msa_in_fasta = filter($filtered_msa_in_fasta, "_cons");
+}
+if($data_info{filter_match} == 1)
+{
+    $filtered_msa_in_fasta = filter($filtered_msa_in_fasta, "_match");
+}
+if($data_info{filter_ss_conf} == 1)
+{
+    $filtered_msa_in_fasta = filter($filtered_msa_in_fasta, "ss_conf");
+}
+
+foreach my $seq_obj (@$filtered_msa_in_fasta)
+{
+    print_manager($data_info{fasta_out}, $seq_obj->{header}, 
+        $data_info{header_length}, $seq_obj->{seq}, $fragments, $data_info{start});
+}
+
+# ==============================================================================
+sub filter
+{
+    my ($sequences, $filter_pattern) = @_;
+
+    my @filtered_seq;
+    
+    foreach my $seq_obj (@$sequences)
+    {
+        if($seq_obj->{header} !~ /$filter_pattern/)
+        {
+            push(@filtered_seq, $seq_obj);
+        }
+    }
+    
+    return \@filtered_seq;
+}
+
+# ==============================================================================
+sub print_manager
+{
+    my ($is_fasta, $header, $max_header_length, $seq, $fragments, $start_position) = @_;
+    
+    if($max_header_length eq "*")
+    {
+        $max_header_length = length($header);
+    }
+    
+    if($is_fasta == 1)
+    {
+        print_fasta($header, $max_header_length, $seq, $fragments, $start_position);
+    }
+    else
+    {
+        print_info($header, $max_header_length, $seq, $fragments, $start_position);
+    }
+}
+
+# ==============================================================================
+sub print_fasta
+{
+    my ($header, $max_header_length, $seq, $fragments, $start_position) = @_;
+    
+    #   Prints header
+    print_header($header, $max_header_length);
+    print "\n";
+    
+    if(defined($start_position))
+    {
+        print "(";
+        printf("%4d", $start_position);
+        print ")  ";
+    }
+    
+    #   Prints sequence    
+    print_seq($seq, $fragments);
+    print "\n";
+}
+
+# ==============================================================================
+sub print_info
+{
+    my ($header, $max_header_length, $seq, $fragments, $start_position) = @_;
+    
+    #   Prints header
+    print_header($header, $max_header_length);
+    print "  ";
+    
+    if(defined($start_position))
+    {
+        print "(";
+        printf("%4d", $start_position);
+        print ")  ";
+    }
+    
+    #   Prints sequence    
+    print_seq($seq, $fragments);
+    print "\n";
+}
+
+# ==============================================================================
+sub print_header
+{
+    my ($header, $max_header_length) = @_;
+    
+    my $header_length = length($header);
+
+    if($header_length <= $max_header_length) 
+    {
+        print $header;
+        my $diff = $max_header_length - $header_length;
+        for(my $i = 0; $i < $diff; $i++)
+        {
+            print " ";
+        }
+    }
+    else
+    {
+        print substr($header, 0, $max_header_length);
+    }
+}
+
+# ==============================================================================
+sub print_seq
+{
+    my ($seq, $fragments) = @_;
+    
+    if(scalar(@$fragments) > 0)
+    {
+        my $seq_start = 0;
+        foreach my $fragment (@$fragments)
+        {
+            my $fragment_before = substr($seq, $seq_start, $fragment->{begin} - $seq_start);
+            $fragment_before =~ s/-//g;
+    
+            print "(";
+            printf("%4d", length($fragment_before));
+            print ")  ";
+            
+            print substr($seq, $fragment->{begin}, $fragment->{end} - $fragment->{begin}) . "  ";
+            
+            $seq_start = $fragment->{end};
+        }
+        
+        my $last_fragment = substr($seq, $seq_start, length($seq) - $seq_start);
+        $last_fragment =~ s/-//g;
+        print "(";
+        printf("%4d", length($last_fragment));
+        print ")";    
+    }
+    else
+    {
+        print $seq;
+    }
+}
+# ==============================================================================
+# Format: "1-3,7-8"
+
+sub parse_fragment_boundaries
+{
+    my ($fragments_str, $total_length) = @_;
+    
+    my @info = split(",", $fragments_str);
+    
+    my @fragments;
+    
+    my $last = 0;
+    
+    foreach my $fragment (@info)
+    {
+        my @boundaries = split("-", $fragment);
+        if(scalar(@boundaries) % 2 != 0)
+        {
+            die "ERR: wrong format: $fragments_str. Must be: '1-3,7-8'\n";
+        }
+        
+        $boundaries[0]--;
+        if($boundaries[0] > $total_length)
+        {
+            $boundaries[0] = $total_length;
+        }
+        if($boundaries[0] < 0)
+        {
+            $boundaries[0] = 0;
+        }
+        if($boundaries[1] > $total_length)
+        {
+            $boundaries[1] = $total_length;
+        }
+        if($last < $boundaries[1])
+        {
+            push(@fragments, {begin => $boundaries[0], end => $boundaries[1]});
+            $last = $boundaries[1];
+        }
+        else
+        {
+            print STDERR "WRN: $0: ignoring fragment boundaries: $fragment\n";
+        }
+    }
+    
+    return \@fragments;
+}
+
+

@@ -1,0 +1,394 @@
+HHsearch 1.5
+NAME  d2chha1 b.115.1.1 (A:1-113) Mannose-specific lectin RS-IIL {Ralstonia solanacearum [TaxId: 305]}
+FAM   b.115.1.1
+FILE  d2chha1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2chha1.a3m -v 1 
+DATE  Tue Jan 22 05:59:18 2013
+LENG  113 match states, 113 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CCCCEEECCCCCEEEEEEEECCCCCCEEEEEECCCCCHHEEECCCCCCCCEEEEEECCCCCEEEEEEECCCCCCCCCEECCCCCCCCEEEEEECCCCCCC
+CCCEEEEEECCCC
+>ss_conf
+9775001699861689998728885179998289871340206876763135688769982799988579635341100202677516999702799986
+4766999864789
+>Consensus
+xxxgxFxLPxnxxFgvtaxxNsaxxQtvxvyIDxxxxxtxxgxGtxdxxxxtxxxxSgxGkVrvxvxanGkpsxlxsxxxxlxxkxxxxiigsEdgxdxd
+YNDxiVvLnWPlg
+>d2chha1 b.115.1.1 (A:1-113) Mannose-specific lectin RS-IIL {Ralstonia solanacearum [TaxId: 305]}
+AQQGVFTLPANTSFGVTAFANAANTQTIQVLVDNVVKATFTGSGTSDKLLGSQVLNSGSGAIKIQVSVNGKPSDLVSNQTILANKLNFAMVGSEDGTDND
+YNDGIAVLNWPLG
+>gi|253990284|ref|YP_003041640.1|(254-362:363) conserved hypothetical protein [Photorhabdus asymbiotica] >gi|253781734|emb|CAQ84897.1| conserved hypothetical protein [Photorhabdus asymbiotica]  E=3e-13 s/c=0.72 id=36% cov=96%
+-----FQLPQSIRFGLIAYANTDKPQTVKVYIDDLLVDTLTStSKGQNNLMATKAYTSGTGKICIEIAGDGKPCKLRYFDNIFDGNPGTAIISAENGTNN
+HYNDSVVFLNWPL-
+>gi|254253727|ref|ZP_04947044.1|(293-402:407) hypothetical protein BDAG_03005 [Burkholderia dolosa AUO158] >gi|124898372|gb|EAY70215.1| hypothetical protein BDAG_03005 [Burkholderia dolosa AUO158]  E=8e-08 s/c=0.55 id=34% cov=92%
+-------MPAGTRFAVTVLFNSSVEQTVEVYLDQDTQPSYttTGSGSPDDNRGTTILTAKTGGIvRVKVIADGRELPLISRQVDLPHSQTtyVAVIAAYN
+GSDKDdrYNDAYVLCNW---
+>gi|421864156|ref|ZP_16295843.1|(160-273:273) Photopexin A [Burkholderia cenocepacia H111] >gi|358075733|emb|CCE46721.1| Photopexin A [Burkholderia cenocepacia H111]  E=3e-37 s/c=1.38 id=51% cov=100%
+-RDGTFNLPPHIKFGVTALTHAANDQTIDIYIgdDPKPAATFKGTGAQDQNLGTKVLDSGNGRVRVIVMANGRPSRLGSRQVDIFKKSYFGIVGSEDGAD
+DDYNDGIVFLNWPLG
+>gi|78060326|ref|YP_366901.1|(183-295:296) hypothetical protein Bcep18194_C7213 [Burkholderia sp. 383] >gi|77964876|gb|ABB06257.1| hypothetical protein Bcep18194_C7213 [Burkholderia sp. 383]  E=1e-32 s/c=1.26 id=37% cov=99%
+-RNGNFSLPPNTAFKAIFYANAADRQDLKLFIDDAPEPAATFVGNSEDGVRLFTLNSKGGKIRIEASANGRQSATDARLAPLSagDTVWLGWLGAEDGAD
+ADYNDGIVILQWPI-
+>gi|254254260|ref|ZP_04947577.1|(55-124:125) hypothetical protein BDAG_03555 [Burkholderia dolosa AUO158] >gi|124898905|gb|EAY70748.1| hypothetical protein BDAG_03555 [Burkholderia dolosa AUO158]  E=2e-10 s/c=0.98 id=38% cov=63%
+-----------------------------------------GDQTGDSVMGTTQQASGSGNVRITVTSNGKLTPIKSTQSSIDSNLNWGIVGVPD-ANGH
+YNDCVVFLNWPI-
+>gi|420242401|ref|ZP_14746452.1|(7-118:123) Fucose-binding lectin II (PA-IIL) [Rhizobium sp. CF080] >gi|398067592|gb|EJL59083.1| Fucose-binding lectin II (PA-IIL) [Rhizobium sp. CF080]  E=9e-05 s/c=0.45 id=31% cov=92%
+-------LPPSTNVFVTALTNAADLQKVTITVPGASPILWQGTGEGNHQIGSTFVMTPSGSqdvqatVDVQHSANGGNTWQESALLPggcSIGTMNLQVL
+LSEDQVDRDYNDAVVQFLW---
+>gi|333926477|ref|YP_004500056.1|(244-357:358) Fucose-binding lectin II [Serratia sp. AS12] >gi|333931430|ref|YP_004505008.1| Fucose-binding lectin II [Serratia plymuthica AS9] >gi|386328300|ref|YP_006024470.1| Fucose-binding lectin II [Serratia sp. AS13] >gi|333473037|gb|AEF44747.1| Fucose-binding lectin II [Serratia plymuthica AS9] >gi|333490537|gb|AEF49699.1| Fucose-binding lectin II [Serratia sp. AS12] >gi|333960633|gb|AEG27406.1| Fucose-binding lectin II [Serratia sp. AS13]  E=3e-36 s/c=1.35 id=43% cov=96%
+-----FKLPPNTTFGLTAYANTdAHKQTVKLYIDDNLVDTYNGKGLNNTPMnnsdgkNTKVYHSGAGNVCVQVEGDGKPCKLHYSDNTLDGKPGFATIGA
+ESGSDDDYNDSVVVLNWPL-
+>gi|11024961|gb|AAF97407.1|(457-563:564) photopexin A [Photorhabdus luminescens]   E=4e-35 s/c=1.40 id=38% cov=95%
+-----FQLPQSIRFGLTAYVNSdAHQQTINVYIDNRLVDTLTGKGIS-HITDVRTYTSGTGKVCVEIIADGKPSKLRYAYNTLEAKPGSAIIGANNGSND
+NYDDSVVVLNWPL-
+>gi|107027319|ref|YP_624830.1|(10-129:129) hypothetical protein Bcen_4982 [Burkholderia cenocepacia AU 1054] >gi|116691284|ref|YP_836817.1| fucose-binding lectin II [Burkholderia cenocepacia HI2424] >gi|170736677|ref|YP_001777937.1| fucose-binding lectin II [Burkholderia cenocepacia MC0-3] >gi|206562056|ref|YP_002232819.1| lectin [Burkholderia cenocepacia J2315] >gi|254249340|ref|ZP_04942660.1| conserved hypothetical protein [Burkholderia cenocepacia PC184] >gi|421864155|ref|ZP_16295842.1| Photopexin A [Burkholderia cenocepacia H111] >gi|178847354|pdb|2VNV|A Chain A, Crystal Structure Of Bcla Lectin From Burkholderia Cenocepacia In Complex With Alpha-Methyl-Mannoside At 1.7 Angstrom Resolution >gi|178847355|pdb|2VNV|B Chain B, Crystal Structure Of Bcla Lectin From Burkholderia Cenocepacia In Complex With Alpha-Methyl-Mannoside At 1.7 Angstrom Resolution >gi|178847356|pdb|2VNV|C Chain C, Crystal Structure Of Bcla Lectin From Burkholderia Cenocepacia In Complex With Alpha-Methyl-Mannoside At 1.7 Angstrom Resolution >gi|178847357|pdb|2VNV|D Chain D, Crystal Structure Of Bcla Lectin From Burkholderia Cenocepacia In Complex With Alpha-Methyl-Mannoside At 1.7 Angstrom Resolution >gi|178847358|pdb|2VNV|E Chain E, Crystal Structure Of Bcla Lectin From Burkholderia Cenocepacia In Complex With Alpha-Methyl-Mannoside At 1.7 Angstrom Resolution >gi|400977314|pdb|4AOC|A Chain A, Crystal Structure Of Bc2l-A Lectin From Burkolderia Cenocepacia In Complex With Methyl-Heptoside >gi|400977315|pdb|4AOC|B Chain B, Crystal Structure Of Bc2l-A Lectin From Burkolderia Cenocepacia In Complex With Methyl-Heptoside >gi|400977316|pdb|4AOC|C Chain C, Crystal Structure Of Bc2l-A Lectin From Burkolderia Cenocepacia In Complex With Methyl-Heptoside >gi|400977317|pdb|4AOC|D Chain D, Crystal Structure Of Bc2l-A Lectin From Burkolderia Cenocepacia In Complex With Methyl-Heptoside >gi|400977318|pdb|4AOC|E Chain E, Crystal Structure Of Bc2l-A Lectin From Burkolderia Cenocepacia In Complex With Methyl-Heptoside >gi|105896693|gb|ABF79857.1| conserved hypothetical protein [Burkholderia cenocepacia AU 1054] >gi|116649284|gb|ABK09924.1| Fucose-binding lectin II [Burkholderia cenocepacia HI2424] >gi|124875841|gb|EAY65831.1| conserved hypothetical protein [Burkholderia cenocepacia PC184] >gi|169818865|gb|ACA93447.1| Fucose-binding lectin II [Burkholderia cenocepacia MC0-3] >gi|198038096|emb|CAR54044.1| lectin [Burkholderia cenocepacia J2315] >gi|358075732|emb|CCE46720.1| Photopexin A [Burkholderia cenocepacia H111]  E=5e-30 s/c=1.11 id=46% cov=99%
+-RAGEFSIPPNTDFRAIFFANAAEQQHIKLFIgDSQEPAAYHKLTTRDGPRE-ATLNSGNGKIRFEVSVNGKPSATDARLAPINGKksdgspftVNFGIV
+VSEDGHDSDYNDGIVVLQWPIG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1454	0	0	
+
+Q 2    *	*	*	*	*	*	*	*	*	*	*	*	*	2223	609	*	2942	*	*	*	2
+       0	*	*	*	*	*	*	2229	0	0	
+
+Q 3    2825	*	1495	*	*	*	*	*	*	*	*	2646	*	1538	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2229	0	0	
+
+G 4    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2229	0	0	
+
+V 5    *	*	*	2825	*	*	*	*	*	3551	*	2646	*	*	*	*	2468	1208	*	*	5
+       0	*	*	*	*	*	*	2229	0	0	
+
+F 6    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2695	0	0	
+
+T 7    *	*	*	*	*	*	*	*	4149	*	*	2256	*	1572	*	2360	2299	*	*	*	7
+       0	*	*	*	*	*	*	2695	0	0	
+
+L 8    *	*	*	*	*	*	*	3762	*	255	3498	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3168	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3168	0	0	
+
+A 10   2031	*	*	*	*	*	3902	*	4485	*	*	*	1083	2540	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3168	0	0	
+
+N 11   *	*	*	*	*	3498	4385	*	*	*	*	907	*	*	4332	1833	*	*	*	*	11
+       0	*	*	*	*	*	*	3168	0	0	
+
+T 12   *	*	*	*	*	*	*	1006	*	*	*	*	*	*	*	*	994	*	*	*	12
+       0	*	*	*	*	*	*	3168	0	0	
+
+S 13   2656	*	3762	*	*	*	*	*	2715	*	*	2659	*	3323	1941	4288	4459	*	*	*	13
+       0	*	*	*	*	*	*	3168	0	0	
+
+F 14   *	*	*	*	279	*	*	*	*	3902	*	*	*	*	*	*	*	3201	*	*	14
+       0	*	*	*	*	*	*	3168	0	0	
+
+G 15   3498	*	*	*	3201	779	*	*	3657	*	*	*	*	*	3762	3902	*	*	*	*	15
+       0	*	*	*	*	*	*	3168	0	0	
+
+V 16   2743	*	*	*	*	*	*	*	*	1638	4827	*	*	*	*	*	*	1017	*	*	16
+       0	*	*	*	*	*	*	3163	0	0	
+
+T 17   *	*	*	*	*	*	*	2096	*	*	*	*	*	*	*	3923	514	*	*	*	17
+       0	*	*	*	*	*	*	3163	0	0	
+
+A 18   480	*	*	*	2743	*	*	*	*	*	*	*	*	*	*	*	*	2903	*	*	18
+       0	*	*	*	*	*	*	3163	0	0	
+
+F 19   *	*	*	*	2711	*	*	*	*	1126	*	*	*	*	*	*	*	*	*	1362	19
+       0	*	*	*	*	*	*	3181	0	0	
+
+A 20   1458	*	*	*	3571	3940	*	*	*	*	*	4555	*	*	*	4768	2223	2371	*	*	20
+       0	*	*	*	*	*	*	3181	0	0	
+
+N 21   *	*	*	*	*	*	4516	*	*	*	*	64	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3181	0	0	
+
+A 22   1321	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1602	1887	*	*	*	22
+       192	3005	*	0	*	*	*	3181	1412	0	
+
+A 23   616	*	4311	*	*	*	*	4768	*	*	*	4555	*	*	*	2712	3940	*	*	*	23
+       48	4938	*	0	*	*	*	3181	1000	0	
+
+N 24   2752	*	2494	3334	*	4268	2430	4555	4311	*	*	3016	*	*	*	*	*	3571	*	4768	24
+       0	*	*	*	*	*	*	3181	0	0	
+
+T 25   *	*	3684	3078	*	*	*	*	4542	3269	*	*	4311	1503	3178	*	2802	*	*	*	25
+       0	*	*	*	*	*	*	3181	0	0	
+
+Q 26   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3181	0	0	
+
+T 27   *	*	3760	*	*	*	2787	*	3269	*	*	*	*	*	*	*	561	*	*	*	27
+       0	*	*	*	*	*	*	3181	0	0	
+
+I 28   *	*	*	*	*	*	*	1199	*	3760	*	*	*	*	*	*	*	1027	*	*	28
+       0	*	*	*	*	*	*	3181	0	0	
+
+Q 29   *	*	3684	2334	*	*	*	*	1174	*	*	3369	*	4449	*	*	2857	*	*	*	29
+       0	*	*	*	*	*	*	3181	0	0	
+
+V 30   *	*	*	*	*	*	*	2138	*	2212	*	*	*	*	*	*	*	845	*	*	30
+       0	*	*	*	*	*	*	3181	0	0	
+
+L 31   *	*	*	*	1800	*	*	*	*	4449	*	*	*	4268	*	*	3269	*	*	967	31
+       0	*	*	*	*	*	*	3181	0	0	
+
+V 32   *	*	*	*	*	*	*	825	*	3571	*	*	*	*	*	*	*	1509	*	*	32
+       222	2807	*	360	2178	*	*	3181	1501	0	
+
+D 33   *	*	319	*	*	*	*	*	*	*	*	3404	3269	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3181	0	0	
+
+N 34   *	*	1056	*	*	3269	*	*	*	*	*	2409	4516	3571	*	3334	*	*	*	*	34
+       0	*	*	*	*	*	*	3181	0	0	
+
+V 35   2494	*	3060	3357	*	*	*	*	4516	2624	*	2796	*	2606	4478	*	*	4449	*	*	35
+       50	4866	*	1000	1000	*	*	3181	1000	0	
+
+V 36   *	*	*	3334	*	*	*	*	*	1665	*	*	1737	*	*	3269	2877	4449	*	*	36
+       0	*	*	*	*	*	*	3181	0	0	
+
+K 37   3680	*	*	3760	*	*	*	*	2753	*	*	*	2301	3571	4451	*	*	1446	*	*	37
+       53	4805	*	1000	1000	*	*	3181	1000	0	
+
+A 38   1489	*	1665	*	*	*	*	3269	*	*	*	*	2154	*	*	*	*	*	*	*	38
+       100	3906	*	1000	1000	*	*	3181	1204	0	
+
+T 39   2193	*	*	*	*	*	*	*	*	3269	*	*	*	*	*	3571	753	*	*	*	39
+       0	*	*	*	*	*	*	3181	0	0	
+
+F 40   3760	*	*	*	1488	*	*	*	*	2061	*	*	*	*	*	*	*	*	3269	2144	40
+       127	3571	*	1000	1000	*	*	3181	1000	0	
+
+T 41   *	*	*	*	*	*	3334	3940	3684	*	*	4542	*	2276	*	4451	1112	*	*	*	41
+       0	*	*	*	*	*	*	3181	0	0	
+
+G 42   *	*	*	*	3762	460	*	*	3395	*	*	*	*	*	*	3264	*	*	*	*	42
+       69	4424	*	0	*	*	*	3309	1000	0	
+
+S 43   3364	*	4273	*	*	*	*	*	2402	3395	*	4809	*	3213	*	2578	2827	3122	*	*	43
+       0	*	*	*	*	*	*	3309	0	0	
+
+G 44   *	*	*	*	*	403	*	*	4424	*	*	*	*	4273	*	4312	3395	*	*	*	44
+       45	*	5017	*	*	*	*	3309	0	0	
+
+T 45   4582	*	*	3312	*	4330	*	4408	*	4503	*	3744	*	*	*	3669	1091	3414	*	*	45
+       153	*	3311	*	*	*	0	3321	0	1000	
+
+S 46   *	*	*	*	*	2245	4753	*	*	*	*	2592	3568	2221	3321	2417	*	*	*	*	46
+       94	*	3984	*	*	522	1719	3306	0	1319	
+
+D 47   *	*	955	3721	*	*	*	*	*	*	*	1292	*	*	*	*	*	*	*	*	47
+       67	*	4463	*	*	947	1055	3341	0	1185	
+
+K 48   3509	*	2698	*	*	3364	2692	*	3636	*	*	2799	*	3690	*	3054	3571	*	*	*	48
+       0	*	*	*	*	947	1055	3363	0	1162	
+
+L 49   *	*	*	*	*	3744	*	3345	*	2902	*	1749	2458	3312	*	*	*	3147	*	*	49
+       0	*	*	*	*	0	*	3321	0	1000	
+
+L 50   *	*	*	*	*	*	*	2465	*	1663	2232	*	*	*	2534	*	4515	3762	*	*	50
+       60	4615	*	2585	263	*	*	3309	1000	0	
+
+G 51   3055	*	3744	3395	*	1014	*	*	*	*	*	3246	*	4809	3762	*	*	*	*	*	51
+       73	*	4347	*	*	*	*	3309	0	0	
+
+S 52   *	*	*	*	4102	*	*	*	*	3550	*	*	*	*	*	1934	863	4480	*	*	52
+       93	*	3996	*	*	0	*	3297	0	1000	
+
+Q 53   3848	*	*	*	3721	*	*	*	1215	*	*	*	*	2767	4520	*	2100	*	*	*	53
+       0	*	*	*	*	0	*	3228	0	1000	
+
+V 54   3150	*	*	*	3323	*	*	2814	*	*	*	4120	*	4273	*	*	1994	1812	*	*	54
+       0	*	*	*	*	*	*	3309	0	0	
+
+L 55   *	*	*	*	*	*	*	4602	*	1154	*	*	*	4273	*	*	*	2604	*	1770	55
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 56   4273	*	3764	*	*	*	4615	*	*	*	3323	1308	*	*	*	4120	1875	*	*	*	56
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 57   3688	*	*	*	*	*	*	*	*	*	*	*	*	*	*	282	3323	*	*	*	57
+       75	4312	*	0	*	*	*	3309	1000	0	
+
+G 58   *	*	*	*	*	533	*	*	2724	*	*	*	3323	*	*	4120	*	*	*	*	58
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 59   4615	*	*	*	*	3011	*	*	2900	*	*	2555	*	*	*	2082	1762	*	*	*	59
+       0	*	*	*	*	*	*	3309	0	0	
+
+G 60   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	3309	0	0	
+
+A 61   4530	*	*	*	*	3688	*	*	806	*	*	2903	*	*	3764	3323	*	*	*	*	61
+       152	3323	*	2585	263	*	*	3309	1000	0	
+
+I 62   *	*	*	*	*	*	*	1572	*	*	*	*	*	*	*	*	*	591	*	*	62
+       117	3688	*	0	*	*	*	3309	1000	0	
+
+K 63   *	1770	3323	*	*	*	*	*	3663	*	*	*	*	4312	1066	*	*	*	*	*	63
+       0	*	*	*	*	*	*	3309	0	0	
+
+I 64   *	*	*	*	3395	*	*	1225	*	*	*	*	*	*	*	*	*	1068	*	*	64
+       0	*	*	*	*	*	*	3309	0	0	
+
+Q 65   *	*	*	1247	*	*	*	3764	3688	4312	*	*	*	2151	*	*	4273	3318	*	*	65
+       0	*	*	*	*	*	*	3309	0	0	
+
+V 66   3762	*	*	*	*	*	3323	1768	*	*	*	*	*	*	*	*	*	909	*	*	66
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 67   4424	*	*	3126	*	*	*	2253	*	*	3764	*	*	*	*	1506	2297	*	*	*	67
+       0	*	*	*	*	*	*	3309	0	0	
+
+V 68   1071	*	*	*	*	2003	*	*	*	*	*	*	*	*	*	4273	*	2167	*	*	68
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 69   *	*	1589	*	*	*	*	*	*	*	*	583	*	*	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	3309	0	0	
+
+G 70   *	*	4697	*	*	146	*	*	*	*	*	*	*	*	*	4120	*	*	*	*	70
+       0	*	*	*	*	*	*	3309	0	0	
+
+K 71   *	*	*	*	*	3323	*	*	699	*	*	*	*	*	1816	*	*	*	*	*	71
+       0	*	*	*	*	*	*	3309	0	0	
+
+P 72   *	*	*	3688	*	*	*	*	4444	4273	*	3323	838	3122	*	4312	*	*	*	*	72
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 73   *	2245	*	*	*	*	*	*	*	3688	*	*	*	*	*	837	2721	*	*	*	73
+       0	*	*	*	*	*	*	3309	0	0	
+
+D 74   3025	*	2468	*	*	*	*	*	1345	*	*	*	2951	*	3764	*	*	*	3323	*	74
+       0	*	*	*	*	*	*	3309	0	0	
+
+L 75   *	*	*	*	*	4444	*	3104	*	701	*	*	*	3323	*	*	3025	*	*	*	75
+       0	*	*	*	*	*	*	3309	0	0	
+
+V 76   *	*	3025	3323	*	2524	4615	3688	4273	*	*	*	*	4444	1986	*	*	2891	*	*	76
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 77   3025	*	*	*	*	*	*	*	*	*	*	*	4444	*	*	895	*	*	*	1770	77
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 78   1802	*	*	*	2931	*	*	*	*	*	*	4530	*	*	1418	3147	4273	*	*	*	78
+       68	*	4444	*	*	*	*	3309	0	0	
+
+Q 79   *	*	2947	*	*	*	*	*	*	2013	*	*	*	1154	*	*	*	*	*	2529	79
+       0	*	*	*	*	*	0	3228	0	1000	
+
+T 80   2783	*	*	*	*	*	*	*	*	2767	*	1723	*	*	*	4358	4456	1687	*	*	80
+       0	*	*	*	*	*	0	3228	0	1000	
+
+I 81   *	*	1945	*	*	*	*	2806	*	*	*	*	2013	*	*	4358	1964	4493	*	*	81
+       156	3287	*	1585	585	*	0	3228	1000	1000	
+
+L 82   *	*	*	*	4425	*	*	1757	*	849	*	*	*	*	*	3287	*	*	*	*	82
+       0	*	*	*	*	*	0	3228	0	1000	
+
+A 83   2828	*	1699	4520	2493	*	*	3287	*	*	*	3848	3606	*	*	3721	*	*	*	*	83
+       114	3721	*	1000	1000	*	0	3228	1000	1000	
+
+N 84   4520	*	3721	4003	*	1439	3606	*	2493	*	*	2828	*	*	*	4358	*	*	*	*	84
+       0	*	*	*	*	0	*	3228	0	1000	
+
+K 85   *	*	*	4312	*	*	*	*	852	*	*	3346	*	*	*	3688	2187	*	*	*	85
+       73	4347	*	3000	193	*	*	3309	1000	0	
+
+L 86   4880	*	*	*	*	*	*	*	*	2422	3323	*	1770	3688	*	3764	3915	2567	*	*	86
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 87   *	*	*	*	*	1770	*	*	*	*	*	1390	*	*	*	*	3688	*	3762	2524	87
+       117	3688	*	1000	1000	*	*	3309	1000	0	
+
+F 88   *	*	*	*	1310	*	*	*	*	2219	*	*	*	*	*	3663	2527	3688	4273	*	88
+       0	*	*	*	*	*	*	3309	0	0	
+
+A 89   1318	*	*	*	*	1342	*	*	*	*	*	*	*	3323	*	*	*	3256	*	*	89
+       0	*	*	*	*	*	*	3309	0	0	
+
+M 90   *	*	*	*	*	*	*	1336	*	2731	4530	*	*	*	*	*	3802	1918	3762	*	90
+       0	*	*	*	*	*	*	3309	0	0	
+
+V 91   *	*	*	*	*	*	*	1431	*	2187	*	*	*	*	*	*	*	1288	*	*	91
+       0	*	*	*	*	*	*	3309	0	0	
+
+G 92   3164	*	*	*	*	629	*	*	*	3323	*	*	*	*	*	4424	*	3395	*	*	92
+       0	*	*	*	*	*	*	3309	0	0	
+
+S 93   1169	*	*	*	*	*	*	*	*	*	*	*	*	*	*	990	*	4273	*	*	93
+       0	*	*	*	*	*	*	3309	0	0	
+
+E 94   *	*	*	378	*	*	*	*	*	*	*	4515	4273	*	*	4120	*	*	*	3688	94
+       0	*	*	*	*	*	*	3309	0	0	
+
+D 95   *	*	669	*	*	*	*	*	*	*	*	1599	*	*	*	4615	*	*	*	*	95
+       77	*	4273	*	*	*	*	3309	0	0	
+
+G 96   *	*	3850	*	*	368	*	*	*	*	*	*	*	3269	*	4268	*	*	*	*	96
+       0	*	*	*	*	0	*	3181	0	1000	
+
+T 97   2121	*	*	*	*	4120	3395	*	*	*	*	*	*	*	*	2341	1643	3323	*	*	97
+       0	*	*	*	*	*	*	3309	0	0	
+
+D 98   *	*	523	*	*	*	*	*	*	*	*	1717	*	*	*	*	*	*	*	*	98
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 99   3762	*	2661	*	*	3104	*	*	3688	*	4602	1565	*	*	3323	3395	*	*	*	*	99
+       0	*	*	*	*	*	*	3309	0	0	
+
+D 100  *	*	523	*	*	*	3346	*	*	*	*	2280	*	*	*	*	*	*	*	*	100
+       117	3688	*	1000	1000	*	*	3309	1000	0	
+
+Y 101  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	101
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 102  *	*	3304	*	*	*	*	*	*	*	*	154	*	*	*	*	*	*	*	*	102
+       0	*	*	*	*	*	*	3309	0	0	
+
+D 103  *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	103
+       0	*	*	*	*	*	*	3309	0	0	
+
+G 104  2134	3469	*	*	*	1513	*	*	*	*	*	*	*	*	*	1593	*	*	*	*	104
+       0	*	*	*	*	*	*	3309	0	0	
+
+I 105  *	*	*	*	*	*	*	1155	*	4809	*	*	*	*	*	*	*	1192	*	3688	105
+       0	*	*	*	*	*	*	3309	0	0	
+
+A 106  2701	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	241	*	*	106
+       0	*	*	*	*	*	*	3309	0	0	
+
+V 107  *	*	*	*	2540	*	*	2197	*	3688	*	*	*	3323	*	*	*	1209	*	*	107
+       0	*	*	*	*	*	*	3309	0	0	
+
+L 108  *	3688	*	*	3323	*	*	4312	*	373	*	*	*	*	*	*	*	*	*	*	108
+       0	*	*	*	*	*	*	3309	0	0	
+
+N 109  *	*	*	*	*	*	*	4120	*	3323	*	570	*	2567	*	*	*	*	*	*	109
+       0	*	*	*	*	*	*	3309	0	0	
+
+W 110  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	110
+       0	*	*	*	*	*	*	3309	0	0	
+
+P 111  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	111
+       0	*	*	*	*	*	*	2842	0	0	
+
+L 112  *	*	*	*	*	*	*	1809	*	485	*	*	*	*	*	*	*	*	*	*	112
+       0	*	*	*	*	*	*	2842	0	0	
+
+G 113  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	113
+       0	*	*	0	*	*	*	2101	0	0	
+
+//

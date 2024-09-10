@@ -1,0 +1,193 @@
+Query         d1azoa_ c.52.1.14 (A:) DNA mismatch repair protein MutH from {Escherichia coli [TaxId: 562]}
+Match_columns 226
+No_of_seqs    122 out of 324
+Neff          6.5 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:39 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1azoa_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1azoa_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1azoa_ c.52.1.14 (A:) DNA mis 100.0       0       0  520.4  23.7  226    1-226     1-226 (226)
+  2 d1bl0a2 a.4.1.8 (A:63-124) Mar  19.8      69   0.005   11.3   4.2   39   16-61      4-45  (62)
+  3 d1ijwc_ a.4.1.2 (C:) HIN recom  17.5      45  0.0032   12.4   2.8   28    8-37      8-35  (47)
+  4 d1dwka1 a.35.1.4 (A:1-86) Cyan  14.8      80  0.0058   11.0   3.5   30    7-36      7-39  (86)
+  5 d1g5ta_ c.37.1.11 (A:) ATP:cor  13.4 1.2E+02  0.0088   10.0   4.1   33  136-168    62-96  (157)
+  6 d2g7la1 a.4.1.9 (A:16-83) Puta  12.1 1.1E+02  0.0083   10.1   3.7   32    7-38      2-39  (68)
+  7 d1d5ya2 a.4.1.8 (A:57-121) Rob  11.5 1.5E+02   0.011    9.4   4.2   34   22-62     13-46  (65)
+  8 d2g7sa1 a.4.1.9 (A:3-76) Putat  11.0      97   0.007   10.5   3.0   31    7-37      2-38  (74)
+  9 d2p7vb1 a.4.13.2 (B:546-613) S  10.6      71  0.0052   11.3   2.2   31   19-57     21-51  (68)
+ 10 d1x4oa1 a.217.1.1 (A:8-72) Spl  10.5 1.3E+02  0.0095    9.8   3.5   28    5-32      2-34  (65)
+
+No 1  
+>d1azoa_ c.52.1.14 (A:) DNA mismatch repair protein MutH from {Escherichia coli [TaxId: 562]}
+Probab=100.00  E-value=0  Score=520.44  Aligned_columns=226  Identities=100%
+
+Q ss_pred             CCCCCCCCCCHHHHHHHHHHHHCCCHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHCCCCCCCCCCHHHHCCEEEEEEEE
+Q ss_conf             98887788888999999998718878899976287577434445423899999983889898634224458807888641
+Q d1azoa_           1 PRPLLSPPETEEQLLAQAQQLSGYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLGASAGSKPEQDFAALGVELKTIPV   80 (226)
+Q Consensus         1 ~~~~~~~P~s~~el~~~~~~~~Gkt~~Ei~~~~~~~~~~~~~~~Kg~~g~lie~~lG~~~ns~~~~DF~kagieLKt~~~   80 (226)
+                      |+|+++||+|+++|++||++++|||++||+..+++.++.|++++||++|+++|+|||+++||+++|||++|||||||||+
+T Consensus         1 ~~~~~~~P~s~~el~~~~~~~~Gkt~~Ei~~~~~~~~~~~~~~~Kg~~g~lie~~lG~~~ns~~~~DF~kagieLKt~~~   80 (226)
+T d1azoa_           1 PRPLLSPPETEEQLLAQAQQLSGYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLGASAGSKPEQDFAALGVELKTIPV   80 (226)
+T ss_pred             CCCCCCCCCCHHHHHHHHHHHHCCCHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHCCCCCCCCCCHHHHCCEEEEEEEE
+T ss_conf             98887788888999999998718878899976287577434445423899999983889898634224458807888641
+
+
+Q ss_pred             CCCCCCCCCEEEEEECCCCCCCCCCCCHHHHHHHHCCEEEEEEECCCCCCCCEEECCEEEECCCHHHHHHHHHHHHHHHH
+Q ss_conf             56787432012100010011367654028998740313678983168871104644436508898999999999999999
+Q d1azoa_          81 DSLGRPLETTFVCVAPLTGNSGVTWETSHVRHKLKRVLWIPVEGEASIPLAQRRVGSPLLWSPNEEEDRQLREDWEELMD  160 (226)
+Q Consensus        81 ~~~g~~kE~m~~~~i~~~~~~~~~we~S~~~~k~~~~l~i~~~~~~~~~~~~~~i~~~~lw~~p~ed~~~ik~dWe~i~~  160 (226)
+                      +.+|+|||+|||++|+|+++++++||+|+||+|++++|||||+|++++++.+|+|++++||+||++|+++|++||++|++
+T Consensus        81 ~~~g~~kE~m~~~~i~~~~~~~~~we~S~~~~k~~~~l~i~~~~~~~~~~~~~~i~~~~lw~~p~ed~~~ik~dWe~i~~  160 (226)
+T d1azoa_          81 DSLGRPLETTFVCVAPLTGNSGVTWETSHVRHKLKRVLWIPVEGEASIPLAQRRVGSPLLWSPNEEEDRQLREDWEELMD  160 (226)
+T ss_pred             CCCCCCCCCEEEEEECCCCCCCCCCCCHHHHHHHHCCEEEEEEECCCCCCCCEEECCEEEECCCHHHHHHHHHHHHHHHH
+T ss_conf             56787432012100010011367654028998740313678983168871104644436508898999999999999999
+
+
+Q ss_pred             HHHCCCCCCCCCCCCCEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCEEECHHHHHHHHHHHCCCC
+Q ss_conf             997388646557887677713565675331124678885413688703407889999998621579
+Q d1azoa_         161 MIVLGQVERITARHGEYLQIRPKAANAKALTEAIGARGERILTLPRGFYLKKNFTSALLARHFLIQ  226 (226)
+Q Consensus       161 ~I~~G~~~~is~~~~~~l~~rpK~~~~~~~~~~~~~~g~~i~~~~raF~lk~sy~~~Il~~~f~~~  226 (226)
+                      +|++|++|++++++|+|||+||||+|+++++.+|+++|++|+|+|||||||++||++||++||+||
+T Consensus       161 ~I~~G~~~~is~~~~~~l~~rpK~~~~~~~~~~~~~~g~~i~~~~raF~lk~sy~~~Il~~~f~~~  226 (226)
+T d1azoa_         161 MIVLGQVERITARHGEYLQIRPKAANAKALTEAIGARGERILTLPRGFYLKKNFTSALLARHFLIQ  226 (226)
+T ss_pred             HHHCCCCCCCCCCCCCEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCEEECHHHHHHHHHHHCCCC
+T ss_conf             997388646557887677713565675331124678885413688703407889999998621579
+
+
+No 2  
+>d1bl0a2 a.4.1.8 (A:63-124) MarA {Escherichia coli [TaxId: 562]}
+Probab=19.77   E-value=69  Score=11.35  Aligned_columns=39  Identities=15%
+
+Q ss_pred             HHHHHHH---CCCHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHCCCCC
+Q ss_conf             9999871---887889997628757743444542389999998388989
+Q d1azoa_          16 AQAQQLS---GYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLGASAG   61 (226)
+Q Consensus        16 ~~~~~~~---Gkt~~Ei~~~~~~~~~~~~~~~Kg~~g~lie~~lG~~~n   61 (226)
+                      ++|..++   +.++.||+..+++.       +...+.....+++|++..
+T Consensus         4 ~~A~~lL~~t~~si~~Ia~~~Gf~-------s~s~F~r~Fk~~~G~tP~   45 (62)
+T d1bl0a2           4 TEIAQKLKESNEPILYLAERYGFE-------SQQTLTRTFKNYFDVPPH   45 (62)
+T ss_pred             HHHHHHHHCCCCCHHHHHHHHCCC-------CHHHHHHHHHHHCCCCHH
+T ss_conf             889999758999888999974578-------877899998975289837
+
+
+No 3  
+>d1ijwc_ a.4.1.2 (C:) HIN recombinase (DNA-binding domain) {Synthetic}
+Probab=17.48   E-value=45  Score=12.42  Aligned_columns=28  Identities=21%
+
+Q ss_pred             CCCHHHHHHHHHHHHCCCHHHHHHHCCCCC
+Q ss_conf             888899999999871887889997628757
+Q d1azoa_           8 PETEEQLLAQAQQLSGYTLGELAALVGLVT   37 (226)
+Q Consensus         8 P~s~~el~~~~~~~~Gkt~~Ei~~~~~~~~   37 (226)
+                      |...+++....+  .|.|..||+..+++..
+T Consensus         8 ~eq~~~a~~l~~--~G~t~~~IA~~~gVsr   35 (47)
+T d1ijwc_           8 KHEQEQISRLLE--KGHPRQQLAIIFGIGV   35 (47)
+T ss_pred             HHHHHHHHHHHH--CCCCHHHHHHHHCCCH
+T ss_conf             788999999987--8999888998858971
+
+
+No 4  
+>d1dwka1 a.35.1.4 (A:1-86) Cyanase N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=14.85   E-value=80  Score=11.00  Aligned_columns=30  Identities=17%
+
+Q ss_pred             CCCCHHHHHHH---HHHHHCCCHHHHHHHCCCC
+Q ss_conf             88888999999---9987188788999762875
+Q d1azoa_           7 PPETEEQLLAQ---AQQLSGYTLGELAALVGLV   36 (226)
+Q Consensus         7 ~P~s~~el~~~---~~~~~Gkt~~Ei~~~~~~~   36 (226)
+                      .|.+.+++.++   ++.--|.|+.+|++..+..
+T Consensus         7 ~~~~r~~~t~~Il~AK~~kgltw~~IA~~iG~s   39 (86)
+T d1dwka1           7 NRNIRLDLADAILLSKAKKDLSFAEIADGTGLA   39 (86)
+T ss_pred             CHHHHHHHHHHHHHHHHHCCCCHHHHHHHHCCC
+T ss_conf             711289999999999987399888999770897
+
+
+No 5  
+>d1g5ta_ c.37.1.11 (A:) ATP:corrinoid adenosyltransferase CobA {Salmonella typhimurium [TaxId: 90371]}
+Probab=13.38   E-value=1.2e+02  Score=9.99  Aligned_columns=33  Identities=12%
+
+Q ss_pred             CCEEEECC--CHHHHHHHHHHHHHHHHHHHCCCCC
+Q ss_conf             44365088--9899999999999999999738864
+Q d1azoa_         136 GSPLLWSP--NEEEDRQLREDWEELMDMIVLGQVE  168 (226)
+Q Consensus       136 ~~~~lw~~--p~ed~~~ik~dWe~i~~~I~~G~~~  168 (226)
+                      ...+.|..  +++|.+..++.|+..+..+.+|..+
+T Consensus        62 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~d   96 (157)
+T d1g5ta_          62 ATGFTWETQNREADTAACMAVWQHGKRMLADPLLD   96 (157)
+T ss_pred             CCCCCCCCCCCHHHHHHHHHHHHHHHHHHCCCCCC
+T ss_conf             66433499987899999999999999997089997
+
+
+No 6  
+>d2g7la1 a.4.1.9 (A:16-83) Putative transcriptional regulator SCO7704 {Streptomyces coelicolor [TaxId: 1902]}
+Probab=12.12   E-value=1.1e+02  Score=10.14  Aligned_columns=32  Identities=19%
+
+Q ss_pred             CCCCHHHHHHHHHHHH------CCCHHHHHHHCCCCCC
+Q ss_conf             8888899999999871------8878899976287577
+Q d1azoa_           7 PPETEEQLLAQAQQLS------GYTLGELAALVGLVTP   38 (226)
+Q Consensus         7 ~P~s~~el~~~~~~~~------Gkt~~Ei~~~~~~~~~   38 (226)
+                      |.-|.+.|++-+..+.      |-|+.+|+...++...
+T Consensus         2 ~~~tr~~Il~aa~~l~~~~G~~~~t~~~Ia~~~gvs~~   39 (68)
+T d2g7la1           2 PALSRRWIVDTAVALMRAEGLEKVTMRRLAQELDTGPA   39 (68)
+T ss_pred             CCCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHCCHH
+T ss_conf             86777889999999998638225757999988314811
+
+
+No 7  
+>d1d5ya2 a.4.1.8 (A:57-121) Rob transcription factor, N-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=11.55   E-value=1.5e+02  Score=9.39  Aligned_columns=34  Identities=3%
+
+Q ss_pred             HCCCHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHCCCCCC
+Q ss_conf             18878899976287577434445423899999983889898
+Q d1azoa_          22 SGYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLGASAGS   62 (226)
+Q Consensus        22 ~Gkt~~Ei~~~~~~~~~~~~~~~Kg~~g~lie~~lG~~~ns   62 (226)
+                      -+.++.||+..+++..       -..+......++|+++..
+T Consensus        13 t~~si~~IA~~~Gf~~-------~~~F~r~Fk~~~G~tP~~   46 (65)
+T d1d5ya2          13 TARPILDIALQYRFDS-------QQTFTRAFKKQFAQTPAL   46 (65)
+T ss_pred             CCCCHHHHHHHHCCCC-------HHHHHHHHHHHCCCCHHH
+T ss_conf             9998889999855587-------146999998543898478
+
+
+No 8  
+>d2g7sa1 a.4.1.9 (A:3-76) Putative transcriptional regulator Atu0279 {Agrobacterium tumefaciens [TaxId: 358]}
+Probab=10.97   E-value=97  Score=10.54  Aligned_columns=31  Identities=16%
+
+Q ss_pred             CCCCHHHHHHHHHH------HHCCCHHHHHHHCCCCC
+Q ss_conf             88888999999998------71887889997628757
+Q d1azoa_           7 PPETEEQLLAQAQQ------LSGYTLGELAALVGLVT   37 (226)
+Q Consensus         7 ~P~s~~el~~~~~~------~~Gkt~~Ei~~~~~~~~   37 (226)
+                      |..+.++|++.+..      |.|-|+.+|+...++..
+T Consensus         2 p~~~r~~Il~aa~~l~~~~G~~~~s~~~Ia~~~gis~   38 (74)
+T d2g7sa1           2 PQSKADDILQCARTLIIRGGYNSFSYADISQVVGIRN   38 (74)
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHCCCC
+T ss_conf             1778999999999999870844687789999858880
+
+
+No 9  
+>d2p7vb1 a.4.13.2 (B:546-613) Sigma70 (SigA, RpoD) {Escherichia coli [TaxId: 562]}
+Probab=10.60   E-value=71  Score=11.28  Aligned_columns=31  Identities=23%
+
+Q ss_pred             HHHHCCCHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHC
+Q ss_conf             987188788999762875774344454238999999838
+Q d1azoa_          19 QQLSGYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLG   57 (226)
+Q Consensus        19 ~~~~Gkt~~Ei~~~~~~~~~~~~~~~Kg~~g~lie~~lG   57 (226)
+                      ....++|+.||+..+++.        +..+.|+-...|.
+T Consensus        21 ~~~~~~t~~eIa~~lgiS--------~erVrqie~~Al~   51 (68)
+T d2p7vb1          21 DMNTDYTLEEVGKQFDVT--------RERIRQIEAKALR   51 (68)
+T ss_pred             CCCCCCCHHHHHHHHCCC--------HHHHHHHHHHHHH
+T ss_conf             799998878899886898--------9999999999999
+
+
+No 10 
+>d1x4oa1 a.217.1.1 (A:8-72) Splicing factor 4 {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=10.47   E-value=1.3e+02  Score=9.79  Aligned_columns=28  Identities=32%
+
+Q ss_pred             CCCCCCH--HHHHHHHHHHH---CCCHHHHHHH
+Q ss_conf             7788888--99999999871---8878899976
+Q d1azoa_           5 LSPPETE--EQLLAQAQQLS---GYTLGELAAL   32 (226)
+Q Consensus         5 ~~~P~s~--~el~~~~~~~~---Gkt~~Ei~~~   32 (226)
+                      |.||.+.  ..++++...++   |..++++..+
+T Consensus         2 V~pP~d~~~~~~I~~~A~fVa~~G~~fE~~l~~   34 (65)
+T d1x4oa1           2 VSPPEDEEAKNLAEKLARFIADGGPEVETIALQ   34 (65)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHCCHHHHHHHHH
+T ss_conf             889988788999999999998265889999998
+
+
+Done!

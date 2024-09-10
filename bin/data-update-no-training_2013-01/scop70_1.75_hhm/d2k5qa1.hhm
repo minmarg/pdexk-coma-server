@@ -1,0 +1,333 @@
+HHsearch 1.5
+NAME  d2k5qa1 b.40.13.1 (A:2-97) Uncharacterized protein BC4932 {Bacillus cereus [TaxId: 1396]}
+FAM   b.40.13.1
+FILE  d2k5qa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2k5qa1.a3m -v 1 
+DATE  Tue Jan 22 08:01:52 2013
+LENG  96 match states, 96 columns in multiple alignment
+FILT  100 out of 223 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.3 
+SEQ
+>ss_pred
+CCCCCCCEEEEEEECCCCEEEEEECCCCCEEEEEEEEEEEECCCCCEEEEEEECCCCCCCCCEEEEEECCCCEECCCEEECHHHCCHHHHHHCCCC
+>ss_conf
+965788705789977998044310578860113788775477899689999702898797978999983883001831443664246889860589
+>Consensus
+xxnxxgxxxYYvkIxxxgxxxxxxxxxgxxxxxYxYxxxxydxxGxxkxlxfxaxxxLkxxaYLkixxxxxxxVxsxeeVxxxeiPxkaxxkLxxk
+>d2k5qa1 b.40.13.1 (A:2-97) Uncharacterized protein BC4932 {Bacillus cereus [TaxId: 1396]}
+DLNRMGKDEYYVQITVDGKEVHSKADNGQKYKDYEYKLTGFDKDGKEKELEFTAQKNLRKEAFLRVYHSDKKGVSAWEEVKKDELPAKVKEKLGVK
+>gi|423377085|ref|ZP_17354369.1|(30-118:121) hypothetical protein IC9_00438 [Bacillus cereus BAG1O-2] >gi|423440197|ref|ZP_17417103.1| hypothetical protein IEA_00527 [Bacillus cereus BAG4X2-1] >gi|423449655|ref|ZP_17426534.1| hypothetical protein IEC_04263 [Bacillus cereus BAG5O-1] >gi|423463259|ref|ZP_17440027.1| hypothetical protein IEK_00446 [Bacillus cereus BAG6O-1] >gi|423532612|ref|ZP_17509030.1| hypothetical protein IGI_00444 [Bacillus cereus HuB2-9] >gi|423542125|ref|ZP_17518515.1| hypothetical protein IGK_04216 [Bacillus cereus HuB4-10] >gi|423548358|ref|ZP_17524716.1| hypothetical protein IGO_04793 [Bacillus cereus HuB5-5] >gi|423621850|ref|ZP_17597628.1| hypothetical protein IK3_00448 [Bacillus cereus VD148] >gi|401127936|gb|EJQ35643.1| hypothetical protein IEC_04263 [Bacillus cereus BAG5O-1] >gi|401169462|gb|EJQ76708.1| hypothetical protein IGK_04216 [Bacillus cereus HuB4-10] >gi|401176032|gb|EJQ83230.1| hypothetical protein IGO_04793 [Bacillus cereus HuB5-5] >gi|401262879|gb|EJR69016.1| hypothetical protein IK3_00448 [Bacillus cereus VD148] >gi|401639687|gb|EJS57424.1| hypothetical protein IC9_00438 [Bacillus cereus BAG1O-2] >gi|402419968|gb|EJV52240.1| hypothetical protein IEA_00527 [Bacillus cereus BAG4X2-1] >gi|402422130|gb|EJV54372.1| hypothetical protein IEK_00446 [Bacillus cereus BAG6O-1] >gi|402464866|gb|EJV96554.1| hypothetical protein IGI_00444 [Bacillus cereus HuB2-9]  E=8e-06 s/c=0.60 id=25% cov=93%
+------TKEYYVKVMTDSTVENEKLSNGEILTYHVYDEKVYDKKGEERKLKISVQNKLEKNQYYLIDWEDRRGIVSkIAKVDQTKIDKSILDKLN--
+>gi|420144192|ref|ZP_14651680.1|(25-113:113) Hypothetical protein Y7C_2062 [Lactococcus garvieae IPLA 31405] >gi|133723157|gb|ABO37824.1| unknown [Lactococcus garvieae] >gi|391855644|gb|EIT66193.1| Hypothetical protein Y7C_2062 [Lactococcus garvieae IPLA 31405]  E=9e-10 s/c=0.74 id=21% cov=94%
+----LNTTDYYAKVTLENKTSSADRHTRGSESEYVYLFKSSNSKGEVKDLSLCAE-SLHEGVYIMAHVNYDK-VVRWNIVEERSVPPKALEKIKL-
+>gi|116492027|ref|YP_803762.1|(29-122:123) hypothetical protein PEPE_0219 [Pediococcus pentosaceus ATCC 25745] >gi|116102177|gb|ABJ67320.1| hypothetical protein PEPE_0219 [Pediococcus pentosaceus ATCC 25745]  E=2e-16 s/c=0.94 id=22% cov=96%
+---NYGTQDYYTQIVDKGTKFVEKDDSNRSYVNYAYHQPAYNQASQKITVKFNGNleRPLKLHAYLKIGYNaKRNQVISWSKVDKKDVPKAALKQIN--
+>gi|229551385|ref|ZP_04440110.1|(49-140:140) conserved hypothetical protein [Lactobacillus rhamnosus LMS2-1] >gi|229315344|gb|EEN81317.1| conserved hypothetical protein [Lactobacillus rhamnosus LMS2-1]  E=3e-11 s/c=0.77 id=25% cov=93%
+---RDGGVAYYAKVHEPRSQFSVTVPVNLRQKCYVYRALAKDAAGRGKLLEFKTDEydpgPFSDGQILRLTYNTRYGVTHYERVSINEVPLKARD-----
+>gi|296110232|ref|YP_003620613.1|(30-130:132) hypothetical protein LKI_00505 [Leuconostoc kimchii IMSNU 11154] >gi|339490612|ref|YP_004705117.1| hypothetical protein LGMK_02170 [Leuconostoc sp. C2] >gi|295831763|gb|ADG39644.1| hypothetical protein LKI_00505 [Leuconostoc kimchii IMSNU 11154] >gi|338852284|gb|AEJ30494.1| hypothetical protein LGMK_02170 [Leuconostoc sp. C2]  E=4e-06 s/c=0.53 id=21% cov=98%
+--NTYKSSKAYTKVPlKVPNREQTKDGSGNVIKDsysYQYKFEFVNAEGNKKSIPFELSganvKPFKPGTFLEAKVSNTRIVYGPTLIKQNKVPKSVLKQ
+ISL-
+>gi|229003205|ref|ZP_04161045.1|(48-125:129) hypothetical protein bmyco0002_1900 [Bacillus mycoides Rock1-4] >gi|228758044|gb|EEM07249.1| hypothetical protein bmyco0002_1900 [Bacillus mycoides Rock1-4]  E=1e-07 s/c=0.76 id=23% cov=82%
+------TKEYYTIVNDVGQHIGDE--------WYEYEFVAYDEKGKAQTIKKTVKHMLKRSESLKITAKGRYG-ESLVEIEVQNIPVQARSKL---
+>gi|423590951|ref|ZP_17567009.1|(30-126:128) hypothetical protein IIE_06334 [Bacillus cereus VD045] >gi|401218474|gb|EJR25154.1| hypothetical protein IIE_06334 [Bacillus cereus VD045]  E=3e-07 s/c=0.60 id=22% cov=97%
+NLSRYNpfasKTDVYGVVTAEPTKDSKAKENGVDMN--SYDLIGYDKDLNKIDLSFNSKDKYPLGTYIKATKKGSDtRMNDVTVIKKEDVPENIVNKLN-
+-
+>gi|347522047|ref|YP_004779618.1|(27-117:117) hypothetical protein LCGT_1441 [Lactococcus garvieae ATCC 49156] >gi|385833431|ref|YP_005871206.1| hypothetical protein [Lactococcus garvieae Lg2] >gi|343180615|dbj|BAK58954.1| conserved hypothetical protein [Lactococcus garvieae ATCC 49156] >gi|343182584|dbj|BAK60922.1| conserved hypothetical protein [Lactococcus garvieae Lg2]  E=2e-10 s/c=0.75 id=26% cov=93%
+------GDNYYVRIYDEYKPSEKEVyKKGKKVIRYTYTVQGFDEKGDSQILKFSTFYKIKPYSYLEIFYNEENGSVDWVGRDRSEIPKNALEQLQ--
+>gi|227518356|ref|ZP_03948405.1|(47-145:153) conserved hypothetical protein [Enterococcus faecalis TX0104] >gi|227552886|ref|ZP_03982935.1| conserved hypothetical protein [Enterococcus faecalis HH22] >gi|229550403|ref|ZP_04439128.1| conserved hypothetical protein [Enterococcus faecalis ATCC 29200] >gi|307268783|ref|ZP_07550151.1| hypothetical protein HMPREF9498_00915 [Enterococcus faecalis TX4248] >gi|307274595|ref|ZP_07555775.1| hypothetical protein HMPREF9521_00221 [Enterococcus faecalis TX2134] >gi|307278861|ref|ZP_07559924.1| hypothetical protein HMPREF9515_01179 [Enterococcus faecalis TX0860] >gi|307288592|ref|ZP_07568576.1| hypothetical protein HMPREF9505_01974 [Enterococcus faecalis TX0109] >gi|312899578|ref|ZP_07758904.1| conserved hypothetical protein [Enterococcus faecalis TX0470] >gi|312903636|ref|ZP_07762812.1| conserved hypothetical protein [Enterococcus faecalis TX0635] >gi|312951355|ref|ZP_07770253.1| conserved hypothetical protein [Enterococcus faecalis TX0102] >gi|422689505|ref|ZP_16747614.1| conserved hypothetical protein [Enterococcus faecalis TX0630] >gi|422691582|ref|ZP_16749615.1| conserved hypothetical protein [Enterococcus faecalis TX0031] >gi|422702955|ref|ZP_16760783.1| conserved hypothetical protein [Enterococcus faecalis TX1302] >gi|422705950|ref|ZP_16763741.1| conserved hypothetical protein [Enterococcus faecalis TX0043] >gi|422711080|ref|ZP_16768014.1| conserved hypothetical protein [Enterococcus faecalis TX0027] >gi|422712398|ref|ZP_16769168.1| conserved hypothetical protein [Enterococcus faecalis TX0309A] >gi|422718040|ref|ZP_16774712.1| conserved hypothetical protein [Enterococcus faecalis TX0309B] >gi|422721134|ref|ZP_16777729.1| conserved hypothetical protein [Enterococcus faecalis TX0017] >gi|422726757|ref|ZP_16783201.1| conserved hypothetical protein [Enterococcus faecalis TX0312] >gi|422729169|ref|ZP_16785574.1| conserved hypothetical protein [Enterococcus faecalis TX0012] >gi|422734821|ref|ZP_16791103.1| conserved hypothetical protein [Enterococcus faecalis TX1341] >gi|422868218|ref|ZP_16914766.1| hypothetical protein HMPREF9520_01551 [Enterococcus faecalis TX1467] >gi|424678404|ref|ZP_18115243.1| hypothetical protein HMPREF1328_02391 [Enterococcus faecalis ERV103] >gi|424681843|ref|ZP_18118627.1| hypothetical protein HMPREF1329_02656 [Enterococcus faecalis ERV116] >gi|424685003|ref|ZP_18121709.1| hypothetical protein HMPREF1330_02614 [Enterococcus faecalis ERV129] >gi|424687107|ref|ZP_18123757.1| hypothetical protein HMPREF1331_01380 [Enterococcus faecalis ERV25] >gi|424692166|ref|ZP_18128680.1| hypothetical protein HMPREF1332_03137 [Enterococcus faecalis ERV31] >gi|424693301|ref|ZP_18129747.1| hypothetical protein HMPREF1333_01049 [Enterococcus faecalis ERV37] >gi|424697557|ref|ZP_18133884.1| hypothetical protein HMPREF1334_01932 [Enterococcus faecalis ERV41] >gi|424700620|ref|ZP_18136803.1| hypothetical protein HMPREF1335_01566 [Enterococcus faecalis ERV62] >gi|424703693|ref|ZP_18139826.1| hypothetical protein HMPREF1336_01366 [Enterococcus faecalis ERV63] >gi|424712329|ref|ZP_18144521.1| hypothetical protein HMPREF1337_02744 [Enterococcus faecalis ERV65] >gi|424718296|ref|ZP_18147545.1| hypothetical protein HMPREF1338_02559 [Enterococcus faecalis ERV68] >gi|424721172|ref|ZP_18150266.1| hypothetical protein HMPREF1339_02005 [Enterococcus faecalis ERV72] >gi|424725977|ref|ZP_18154666.1| hypothetical protein HMPREF1340_03152 [Enterococcus faecalis ERV73] >gi|424727441|ref|ZP_18156073.1| hypothetical protein HMPREF1341_01285 [Enterococcus faecalis ERV81] >gi|424739742|ref|ZP_18168159.1| hypothetical protein HMPREF1342_01271 [Enterococcus faecalis ERV85] >gi|424751585|ref|ZP_18179613.1| hypothetical protein HMPREF1343_01884 [Enterococcus faecalis ERV93] >gi|424759832|ref|ZP_18187490.1| hypothetical protein HMPREF1344_01921 [Enterococcus faecalis R508] >gi|227074188|gb|EEI12151.1| conserved hypothetical protein [Enterococcus faecalis TX0104] >gi|227177982|gb|EEI58954.1| conserved hypothetical protein [Enterococcus faecalis HH22] >gi|229304525|gb|EEN70521.1| conserved hypothetical protein [Enterococcus faecalis ATCC 29200] >gi|306500499|gb|EFM69832.1| hypothetical protein HMPREF9505_01974 [Enterococcus faecalis TX0109] >gi|306504532|gb|EFM73739.1| hypothetical protein HMPREF9515_01179 [Enterococcus faecalis TX0860] >gi|306508747|gb|EFM77837.1| hypothetical protein HMPREF9521_00221 [Enterococcus faecalis TX2134] >gi|306514911|gb|EFM83458.1| hypothetical protein HMPREF9498_00915 [Enterococcus faecalis TX4248] >gi|310630615|gb|EFQ13898.1| conserved hypothetical protein [Enterococcus faecalis TX0102] >gi|310632989|gb|EFQ16272.1| conserved hypothetical protein [Enterococcus faecalis TX0635] >gi|311293257|gb|EFQ71813.1| conserved hypothetical protein [Enterococcus faecalis TX0470] >gi|315031580|gb|EFT43512.1| conserved hypothetical protein [Enterococcus faecalis TX0017] >gi|315034977|gb|EFT46909.1| conserved hypothetical protein [Enterococcus faecalis TX0027] >gi|315150326|gb|EFT94342.1| conserved hypothetical protein [Enterococcus faecalis TX0012] >gi|315153681|gb|EFT97697.1| conserved hypothetical protein [Enterococcus faecalis TX0031] >gi|315156556|gb|EFU00573.1| conserved hypothetical protein [Enterococcus faecalis TX0043] >gi|315158299|gb|EFU02316.1| conserved hypothetical protein [Enterococcus faecalis TX0312] >gi|315165514|gb|EFU09531.1| conserved hypothetical protein [Enterococcus faecalis TX1302] >gi|315168371|gb|EFU12388.1| conserved hypothetical protein [Enterococcus faecalis TX1341] >gi|315573695|gb|EFU85886.1| conserved hypothetical protein [Enterococcus faecalis TX0309B] >gi|315577464|gb|EFU89655.1| conserved hypothetical protein [Enterococcus faecalis TX0630] >gi|315582690|gb|EFU94881.1| conserved hypothetical protein [Enterococcus faecalis TX0309A] >gi|329576409|gb|EGG57922.1| hypothetical protein HMPREF9520_01551 [Enterococcus faecalis TX1467] >gi|402349976|gb|EJU84889.1| hypothetical protein HMPREF1329_02656 [Enterococcus faecalis ERV116] >gi|402351382|gb|EJU86266.1| hypothetical protein HMPREF1328_02391 [Enterococcus faecalis ERV103] >gi|402359856|gb|EJU94476.1| hypothetical protein HMPREF1330_02614 [Enterococcus faecalis ERV129] >gi|402360691|gb|EJU95287.1| hypothetical protein HMPREF1332_03137 [Enterococcus faecalis ERV31] >gi|402365760|gb|EJV00177.1| hypothetical protein HMPREF1331_01380 [Enterococcus faecalis ERV25] >gi|402373352|gb|EJV07429.1| hypothetical protein HMPREF1335_01566 [Enterococcus faecalis ERV62] >gi|402374786|gb|EJV08790.1| hypothetical protein HMPREF1333_01049 [Enterococcus faecalis ERV37] >gi|402376107|gb|EJV10077.1| hypothetical protein HMPREF1334_01932 [Enterococcus faecalis ERV41] >gi|402381365|gb|EJV15074.1| hypothetical protein HMPREF1337_02744 [Enterococcus faecalis ERV65] >gi|402381851|gb|EJV15544.1| hypothetical protein HMPREF1338_02559 [Enterococcus faecalis ERV68] >gi|402384568|gb|EJV18120.1| hypothetical protein HMPREF1336_01366 [Enterococcus faecalis ERV63] >gi|402390154|gb|EJV23514.1| hypothetical protein HMPREF1340_03152 [Enterococcus faecalis ERV73] >gi|402391842|gb|EJV25120.1| hypothetical protein HMPREF1339_02005 [Enterococcus faecalis ERV72] >gi|402396788|gb|EJV29834.1| hypothetical protein HMPREF1341_01285 [Enterococcus faecalis ERV81] >gi|402402674|gb|EJV35375.1| hypothetical protein HMPREF1342_01271 [Enterococcus faecalis ERV85] >gi|402404235|gb|EJV36865.1| hypothetical protein HMPREF1344_01921 [Enterococcus faecalis R508] >gi|402405499|gb|EJV38090.1| hypothetical protein HMPREF1343_01884 [Enterococcus faecalis ERV93]  E=1e-06 s/c=0.56 id=22% cov=93%
+------GEKAYAQVPLEIPERKQTVDDNQKsidgQYSLHYRLTFVKSNGKTQVMDYErtdkNPQPLEPNAYIEATISKKRIIQSPVKIDKKEIPEKAFAQ
+LN--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	755	2782	*	*	*	*	*	*	*	1931	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3625	0	0	
+
+L 2    *	*	*	*	1386	*	*	3043	*	1652	*	*	4591	*	*	*	*	*	4500	3440	2
+       0	*	*	*	*	*	*	4455	0	0	
+
+N 3    *	*	*	*	*	*	*	*	3637	*	*	429	*	4006	*	4234	4024	*	*	*	3
+       0	*	*	*	*	*	*	4840	0	0	
+
+R 4    *	*	*	*	*	5431	*	*	2999	*	*	2177	2509	*	1564	*	3100	*	*	*	4
+       0	*	*	*	*	*	*	5469	0	0	
+
+M 5    5680	*	4379	*	5477	*	*	3438	*	1707	4482	*	*	*	*	*	*	5681	*	1161	5
+       0	*	*	*	*	*	*	5724	0	0	
+
+G 6    4509	*	*	*	5560	837	*	4313	4620	5678	*	2553	*	*	*	6078	5710	4055	*	*	6
+       95	3974	*	2000	415	*	*	5741	1953	0	
+
+K 7    3427	*	*	6201	*	1438	*	*	1998	*	*	*	*	*	*	3356	2633	*	*	6038	7
+       17	6408	*	0	*	*	*	6108	1000	0	
+
+D 8    5036	*	2504	2134	*	*	6651	*	3208	*	*	*	6030	3526	*	4689	2131	3679	*	*	8
+       20	6214	*	0	*	*	*	6281	1000	0	
+
+E 9    3549	*	2166	2599	*	*	5748	5898	3381	*	*	3536	6464	6649	*	3145	3891	4286	*	4158	9
+       0	*	*	*	*	*	*	6373	0	0	
+
+Y 10   3798	6475	*	*	4531	*	5933	*	*	5511	4683	*	*	*	6858	6515	*	3869	6334	523	10
+       64	4531	*	0	*	*	*	6370	2172	0	
+
+Y 11   *	*	*	*	3952	*	*	*	*	*	*	*	*	*	*	*	*	*	*	96	11
+       0	*	*	*	*	*	*	6384	0	0	
+
+V 12   2591	*	*	*	*	5125	*	5091	*	5261	4330	*	*	*	*	6329	2368	1017	*	*	12
+       17	6384	*	2000	415	*	*	6379	1000	0	
+
+Q 13   6037	*	*	4440	5547	*	4477	4731	1276	4705	7142	6125	*	2288	3980	6126	*	3930	*	6160	13
+       52	*	4807	*	*	*	*	6379	0	0	
+
+I 14   6275	*	*	*	*	*	*	1078	*	5315	5067	*	*	*	*	*	3419	1454	*	*	14
+       72	*	4355	*	*	*	0	6351	0	1970	
+
+T 15   6570	*	3371	6110	*	6474	4639	5390	4294	4542	5581	3468	4022	3247	*	3504	1834	4747	*	5302	15
+       15	6568	*	0	*	2739	234	6298	1000	3193	
+
+V 16   3506	*	3341	2763	*	3305	*	*	3620	4980	*	2782	6840	3981	5592	3531	3199	5773	*	*	16
+       51	*	4844	*	*	1003	997	6309	0	3028	
+
+D 17   5039	*	2110	2393	*	5429	*	6438	3948	6818	*	3551	2641	3847	*	3878	6687	4840	*	6465	17
+       88	5438	4804	0	*	1440	663	6301	1608	2917	
+
+G 18   4636	6256	4529	5163	*	1091	6730	5291	6338	*	*	5033	3597	*	5999	3306	4911	3950	*	5021	18
+       0	*	*	*	*	*	0	6307	0	3016	
+
+K 19   4157	*	4422	2460	*	4883	6724	6073	1777	*	*	5143	5171	3718	6182	5149	2719	4654	*	*	19
+       63	6256	5083	0	*	*	0	6307	1000	3016	
+
+E 20   4473	*	5140	2765	*	*	3499	3853	2369	6164	6834	6658	4477	4765	3946	4339	3292	3566	*	6253	20
+       36	6035	6712	3907	100	2116	378	6315	1000	3514	
+
+V 21   4046	*	4550	2737	4268	6440	6337	3256	3673	3112	6146	5415	6809	6428	5194	3354	4102	3535	*	4486	21
+       11	*	7035	*	*	2965	198	6327	0	3185	
+
+H 22   4082	*	4704	2989	*	4055	7141	4214	2686	6105	6582	4381	4229	3055	5968	3019	3595	4992	*	*	22
+       26	*	5787	*	*	1266	776	6355	0	3175	
+
+S 23   4718	*	2512	3300	6537	5299	6192	3756	3056	5183	5724	4493	6118	4495	*	3525	3120	3481	*	*	23
+       98	*	3930	*	*	*	0	6354	0	2941	
+
+K 24   4710	*	4312	3713	*	3949	5748	5788	1470	*	*	3660	6189	4932	6651	3769	3077	4459	*	*	24
+       101	6213	4209	1000	1000	3518	132	6323	1000	3804	
+
+A 25   3485	*	2108	3904	6085	3369	*	5534	3483	3742	*	5123	5271	*	5715	4097	4604	3103	*	5325	25
+       158	5435	3628	0	*	2223	348	6298	1582	4222	
+
+D 26   6537	*	1544	3931	*	4489	4405	*	3762	*	*	3760	3623	4844	5278	2967	5122	5259	*	5876	26
+       106	4554	5146	2077	390	3859	103	6208	2006	4404	
+
+N 27   4350	*	2649	4319	*	3506	*	*	3702	*	*	2261	5972	*	5313	2181	5066	3956	*	6368	27
+       54	*	4779	*	*	3883	101	6176	0	4460	
+
+G 28   5130	*	*	3732	*	680	6406	6107	4402	5404	*	3322	*	5243	5721	*	*	6167	*	6004	28
+       44	*	5062	*	*	1852	468	6231	0	4662	
+
+Q 29   4549	*	4915	2810	6305	3367	5297	4913	3086	5869	*	2730	6815	3950	3289	5398	3914	4016	*	*	29
+       77	*	4267	*	*	*	0	6261	0	4405	
+
+K 30   5607	*	4192	4786	*	3516	4969	4339	2455	4887	*	5013	4838	3353	4738	3205	4333	2965	*	5941	30
+       129	4534	4550	1878	458	2525	275	6224	1803	4637	
+
+Y 31   4952	*	4434	4484	2811	4862	4907	3762	*	3517	4068	*	4180	3639	*	4481	6164	3778	4950	2773	31
+       40	6057	6332	2322	322	2339	318	6210	1000	4739	
+
+K 32   6158	*	6852	5918	6589	2597	4451	4753	2678	6625	6084	4414	*	5918	*	4568	2256	4170	4557	3208	32
+       50	6148	5660	1000	1000	1704	529	6242	1000	4514	
+
+D 33   4225	5959	3627	3890	*	2974	*	3912	5352	5172	*	3728	*	4125	2641	3723	3306	6775	5269	5012	33
+       53	4796	*	741	1316	1196	827	6301	2049	4135	
+
+Y 34   6445	*	*	*	4091	*	5660	*	6383	6235	*	*	*	*	6005	*	*	*	4588	273	34
+       0	*	*	*	*	193	2995	6366	0	3303	
+
+E 35   4407	*	4083	2472	6909	6814	4140	5790	3372	5540	6491	4388	*	4640	4181	3948	2825	3478	*	4216	35
+       0	*	*	*	*	0	*	6438	0	1000	
+
+Y 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	36
+       0	*	*	*	*	*	*	6460	0	0	
+
+K 37   6714	*	3877	2918	*	*	4982	*	2444	4277	6526	3290	*	4235	3719	4475	2344	4684	*	*	37
+       0	*	*	*	*	*	*	6460	0	0	
+
+L 38   5415	*	*	4088	2915	4307	*	5264	*	1364	5484	*	*	2933	*	6310	4521	3174	*	*	38
+       0	*	*	*	*	*	*	6461	0	0	
+
+T 39   5147	*	3740	4121	*	*	*	3534	2089	4881	*	4507	2913	4886	5207	5178	2570	4309	*	*	39
+       0	*	*	*	*	*	*	6461	0	0	
+
+G 40   1338	6377	*	*	3890	1510	*	6520	*	*	*	*	*	*	*	3885	5009	4487	5667	*	40
+       0	*	*	*	*	*	*	6461	0	0	
+
+F 41   6546	*	*	*	2570	*	*	5199	4560	*	*	*	*	*	6484	5400	6482	2727	*	852	41
+       0	*	*	*	*	*	*	6461	0	0	
+
+D 42   6546	*	1026	*	*	5197	*	*	4532	6663	*	2232	*	*	6794	3711	3215	*	*	6390	42
+       0	*	*	*	*	*	*	6461	0	0	
+
+K 43   2815	*	4303	1662	*	*	*	*	1677	*	*	*	*	4559	6519	3133	6470	*	*	*	43
+       0	*	*	*	*	*	*	6461	0	0	
+
+D 44   5373	*	1723	4117	*	*	*	*	2210	*	*	3014	*	4784	3849	2998	5043	*	*	6142	44
+       0	*	*	*	*	*	*	6461	0	0	
+
+G 45   7033	*	*	*	*	95	*	*	6644	6074	*	5544	*	*	*	6655	*	*	*	*	45
+       0	*	*	*	*	*	*	6461	0	0	
+
+K 46   6253	*	4092	2263	*	6864	4878	*	1963	*	*	2827	*	2950	4945	4843	5457	4052	*	*	46
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 47   3839	*	*	2103	*	4419	5273	5484	1855	4788	*	*	5580	3954	4906	3986	3824	4747	*	*	47
+       0	*	*	*	*	*	*	6461	0	0	
+
+K 48   6850	*	6467	4972	*	7141	5734	4071	1294	*	*	5514	*	2600	2442	*	5222	5044	*	5200	48
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 49   6294	*	3535	2615	*	*	*	4632	2878	4355	4543	4191	5201	3224	5065	4547	2750	4298	6871	*	49
+       0	*	*	*	*	*	*	6461	0	0	
+
+L 50   5598	*	*	*	6570	*	*	2088	*	1272	4079	*	*	*	*	*	6294	2058	*	7078	50
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 51   5833	*	4086	2495	*	5667	6056	5748	1850	*	5567	5897	5848	*	5013	3008	2439	5618	*	*	51
+       0	*	*	*	*	*	*	6461	0	0	
+
+F 52   6478	*	*	*	772	*	*	4548	5559	3109	4905	*	*	*	5399	*	*	4409	6658	3193	52
+       13	6814	*	1000	1000	*	*	6461	1000	0	
+
+T 53   *	6046	4132	3800	5639	4465	6142	4611	3584	5596	5533	2803	*	5630	5259	3167	2121	6461	5904	4294	53
+       36	5339	*	1564	596	*	*	6461	1691	0	
+
+A 54   1326	*	*	5061	*	3322	*	6470	*	4497	6340	5590	*	*	*	3124	2535	3391	*	*	54
+       192	3001	*	1842	472	*	*	6461	4180	0	
+
+Q 55   6253	*	2898	3644	5491	3208	5395	7343	4470	4740	4461	3321	3809	4311	6185	2485	4419	5410	*	*	55
+       183	3262	6046	1476	643	*	*	6461	3573	0	
+
+K 56   6464	*	4195	3992	6435	3956	2939	*	1442	7195	*	5219	*	4694	2846	5391	5671	*	6672	4961	56
+       78	4250	*	1851	468	0	*	6421	2774	1000	
+
+N 57   4384	*	4438	3334	*	6390	6818	5717	2118	6785	5559	3049	2096	4058	4808	4909	*	5459	*	*	57
+       24	5947	*	1000	1000	*	*	6461	1187	0	
+
+L 58   *	*	*	6461	3132	*	*	3680	*	437	*	*	*	*	*	*	*	5707	*	4698	58
+       0	*	*	*	*	*	*	6461	0	0	
+
+R 59   5140	*	6951	4700	6461	*	3881	6461	1384	7203	*	6978	4122	4776	2004	5198	4228	6285	*	*	59
+       0	*	*	*	*	*	*	6461	0	0	
+
+K 60   5743	*	5400	2415	*	*	4845	6818	2230	3957	6068	6757	2538	4070	4697	4069	4264	4546	*	*	60
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 61   *	*	2961	3776	*	1185	4389	*	6819	*	*	2101	6467	5730	6871	6595	*	*	*	5632	61
+       0	*	*	*	*	*	*	6461	0	0	
+
+A 62   1201	*	5490	4108	*	6597	4038	*	*	*	*	5060	*	3586	4215	3440	3066	4835	*	*	62
+       0	*	*	*	*	*	*	6461	0	0	
+
+F 63   6525	*	*	*	2844	*	6261	3499	*	4714	*	*	*	6310	*	6595	*	6663	6658	583	63
+       0	*	*	*	*	*	*	6461	0	0	
+
+L 64   *	*	*	*	5286	*	*	2870	*	583	*	*	*	*	*	*	*	2877	6087	5721	64
+       10	*	7198	*	*	*	*	6461	0	0	
+
+R 65   6763	*	*	2828	*	*	6085	*	873	5167	5292	*	*	5077	2493	5652	*	6828	*	*	65
+       21	*	6085	*	*	0	*	6464	0	1000	
+
+V 66   2934	*	*	*	6255	*	*	1861	*	1842	6454	*	*	*	*	*	*	1784	*	*	66
+       42	6512	5799	0	*	0	*	6435	1000	1000	
+
+Y 67   6021	*	3601	4496	3956	4390	4006	5907	3540	3890	*	*	6255	*	5810	6495	1992	4705	*	2460	67
+       69	*	4423	*	*	0	*	6442	0	1610	
+
+H 68   2833	*	5920	*	*	*	5151	3725	6025	4720	6882	6444	6272	*	6168	5162	4147	1756	4326	2259	68
+       60	4614	*	2348	315	0	*	6428	2186	2500	
+
+S 69   4196	*	4478	4381	5813	6310	*	*	1982	6721	6377	1866	*	6461	6377	2648	3660	*	*	6478	69
+       14	6655	*	0	*	*	*	6461	1000	0	
+
+D 70   *	*	3737	3430	*	2229	5091	*	2003	5738	6644	3767	3976	4015	5470	4773	5112	6760	*	6046	70
+       33	*	5464	*	*	*	*	6461	0	0	
+
+K 71   4688	*	4218	4653	6038	3161	5500	4495	2017	6525	6292	3951	*	5438	3275	3852	3425	5399	6838	5822	71
+       54	5946	5617	2585	263	0	*	6478	1425	1938	
+
+K 72   5039	*	3891	6806	6130	4260	4598	*	1788	*	*	3864	*	5016	2297	5824	6796	*	*	2589	72
+       227	4935	3151	1555	600	0	*	6453	1953	1597	
+
+G 73   5650	*	4058	3122	5766	1338	5582	4983	5141	5285	6184	4361	*	4234	4625	*	4684	3748	*	6036	73
+       170	5575	3467	2703	241	0	*	6485	1582	3872	
+
+V 74   5192	*	*	6765	*	*	*	2383	*	5166	5269	*	*	*	*	6424	6136	531	*	*	74
+       17	*	6427	*	*	0	*	6391	0	2870	
+
+S 75   *	*	7165	3450	*	5521	6081	3089	2842	3974	*	3425	*	4426	*	5175	2195	2958	*	5061	75
+       13	*	6809	*	*	0	*	6455	0	1000	
+
+A 76   5682	*	3181	4549	*	2863	6126	*	5088	6513	*	4045	*	*	4523	1301	3360	*	*	5154	76
+       28	5718	*	0	*	0	*	6463	1000	1000	
+
+W 77   *	*	*	*	5117	*	*	5067	5298	4858	*	*	3320	*	*	*	6315	6074	1380	1436	77
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 78   4997	*	4097	1139	*	*	*	*	2649	*	*	3818	*	4091	*	5665	3971	3577	*	*	78
+       0	*	*	*	*	*	*	6461	0	0	
+
+E 79   5006	*	*	779	*	5495	*	6046	3214	5166	*	6273	6523	4081	4802	5851	6056	4008	*	*	79
+       0	*	*	*	*	*	*	6461	0	0	
+
+V 80   4984	*	*	*	*	*	6315	2180	*	*	*	*	*	*	4293	*	5802	586	*	*	80
+       19	*	6245	*	*	*	*	6461	0	0	
+
+K 81   3759	*	4049	3622	5708	*	6450	*	2468	*	*	4018	4660	2404	*	2519	3204	*	*	*	81
+       21	*	6115	*	*	*	0	6436	0	1000	
+
+K 82   5350	*	*	3111	5236	*	*	4152	1661	4435	*	*	4583	3039	3266	4885	5265	4614	4865	6360	82
+       0	*	*	*	*	1000	1000	6424	0	1389	
+
+D 83   4348	*	2425	2558	*	6423	*	*	2978	6770	*	3014	*	3653	4984	2842	5011	*	*	4586	83
+       0	*	*	*	*	0	*	6430	0	1000	
+
+E 84   4128	*	2038	1455	*	6561	6248	*	3164	*	*	4276	*	3449	*	4158	*	*	*	*	84
+       0	*	*	*	*	*	*	6447	0	0	
+
+L 85   *	*	*	*	*	*	*	1395	*	2511	4809	*	*	*	*	*	6098	1344	*	*	85
+       0	*	*	*	*	*	*	6447	0	0	
+
+P 86   *	*	5710	*	*	*	*	*	6288	*	*	*	47	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	6447	0	0	
+
+A 87   4088	*	4126	2300	*	6808	5644	6507	1704	5063	*	4794	4562	3951	5229	4076	4639	4837	*	*	87
+       0	*	*	*	*	*	*	6441	0	0	
+
+K 88   3161	*	6289	4908	*	4796	*	*	1267	6076	*	3316	4672	4001	5165	3615	4249	*	*	6439	88
+       0	*	*	*	*	*	*	6459	0	0	
+
+V 89   866	*	*	*	*	*	*	2485	*	5051	*	*	5471	*	*	6685	*	2251	*	*	89
+       0	*	*	*	*	*	*	6436	0	0	
+
+K 90   5958	*	*	*	5486	*	*	*	2064	1350	*	6608	*	2774	2928	6773	6810	6056	*	6767	90
+       0	*	*	*	*	*	*	6436	0	0	
+
+E 91   3664	*	3414	1654	*	5300	*	6307	2246	5406	*	3535	*	4534	6573	3556	*	6365	*	*	91
+       0	*	*	*	*	*	*	6375	0	0	
+
+K 92   5571	*	*	3285	*	*	5438	6327	950	5475	*	4022	*	2732	4575	5378	6581	6345	*	*	92
+       0	*	*	*	*	*	*	6289	0	0	
+
+L 93   *	*	*	*	4356	*	*	2763	*	413	5321	*	*	*	*	*	*	6375	*	5970	93
+       0	*	*	*	*	*	*	6254	0	0	
+
+G 94   *	*	*	4431	*	2759	4226	*	3986	*	*	1369	*	3014	4958	4285	3396	*	*	*	94
+       0	*	*	*	*	*	*	5671	0	0	
+
+V 95   *	*	*	4010	*	4253	*	1611	*	1701	4273	4186	*	*	*	4241	*	3457	*	*	95
+       0	*	*	*	*	*	*	4801	0	0	
+
+K 96   *	*	*	*	*	*	*	*	295	*	*	*	*	2434	*	*	*	*	*	*	96
+       0	*	*	0	*	*	*	3906	0	0	
+
+//

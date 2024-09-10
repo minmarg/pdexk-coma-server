@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d1dx5i2 g.3.11.1 (I:388-422) Thrombomodulin, different EGF-like domains {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.11.1
+FILE  d1dx5i2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dx5i2.a3m -v 1 
+DATE  Mon Jan 21 19:48:41 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  20 out of 22 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCEECCCCCCC
+>ss_conf
+97788778764587778863178760416872149
+>Consensus
+mFCnqtxCPAdCdPnxxxxCxCPeGyIldegxxct
+>d1dx5i2 g.3.11.1 (I:388-422) Thrombomodulin, different EGF-like domains {Human (Homo sapiens) [TaxId: 9606]}
+MFCNQTACPADCDPNTQASCECPEGYILDDGFICT
+>gi|344279891|ref|XP_003411719.1|(407-441:576) PREDICTED: thrombomodulin-like [Loxodonta africana]   E=5e-08 s/c=1.74 id=72% cov=103%
+MFCNETACPADCDPNSLDSCQCPDGYILDEGSMCT
+>gi|6678339|ref|NP_033404.1|(405-439:577) thrombomodulin precursor [Mus musculus] >gi|136171|sp|P15306.1|TRBM_MOUSE RecName: Full=Thrombomodulin; Short=TM; AltName: Full=Fetomodulin; AltName: CD_antigen=CD141; Flags: Precursor >gi|54782|emb|CAA32597.1| thrombomodulin [Mus musculus] >gi|17512381|gb|AAH19154.1| Thrombomodulin [Mus musculus] >gi|26336925|dbj|BAC32146.1| unnamed protein product [Mus musculus] >gi|71060077|emb|CAJ18582.1| Thbd [Mus musculus] >gi|148696585|gb|EDL28532.1| thrombomodulin [Mus musculus]  E=8e-08 s/c=1.72 id=69% cov=103%
+MFCNETSCPADCDPNSPTVCECPEGFILDEGSVCT
+>gi|262073110|ref|NP_001159994.1|(402-436:578) thrombomodulin precursor [Bos taurus] >gi|296481348|gb|DAA23463.1| thrombomodulin [Bos taurus]  E=1e-06 s/c=1.59 id=67% cov=103%
+MFCNQTSCPADCDPHYPTICRCPEGYIIDEGSTCT
+>gi|351715918|gb|EHB18837.1|(393-427:563) Thrombomodulin [Heterocephalus glaber]   E=4e-06 s/c=1.55 id=69% cov=100%
+MFCNQTECPADCDPNNLNICYCPEGFILDEGNLC-
+>gi|126304285|ref|XP_001382095.1|(390-423:545) PREDICTED: thrombomodulin-like [Monodelphis domestica]   E=0.0003 s/c=1.42 id=49% cov=100%
+-FCNTSECPAICNPYNPDDCQCPDGYILDEDQMCS
+>gi|348506692|ref|XP_003440892.1|(379-408:1407) PREDICTED: toll-like receptor 5-like [Oreochromis niloticus]   E=0.0005 s/c=1.59 id=45% cov=89%
+LFCGKEECPAECDPNNKFQCYCPDGYVAEE-----
+>gi|395507765|ref|XP_003758191.1|(402-436:570) PREDICTED: thrombomodulin [Sarcophilus harrisii]   E=0.0003 s/c=1.38 id=53% cov=103%
+LFCNTTACRAKCNPYNVDDCKCPEGYILDENQMCS
+>gi|149489540|ref|XP_001509926.1|(397-428:583) PREDICTED: thrombomodulin-like [Ornithorhynchus anatinus]   E=0.0003 s/c=1.51 id=61% cov=89%
+LFCNQTQCPADCDPSPEGPCSCPAGYILEE-----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	1679	540	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1897	0	0	
+
+F 2    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1960	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1960	0	0	
+
+N 4    *	*	*	*	*	3207	*	*	*	*	*	165	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1960	0	0	
+
+Q 5    *	*	*	2613	*	*	*	*	3207	*	*	*	*	793	*	*	2727	*	*	*	5
+       0	*	*	*	*	*	*	1960	0	0	
+
+T 6    *	*	*	3207	*	*	*	*	*	*	*	*	*	*	*	3124	364	*	*	*	6
+       0	*	*	*	*	*	*	1960	0	0	
+
+A 7    1487	*	*	2160	*	*	*	*	*	*	*	*	*	3746	*	1937	3575	*	*	*	7
+       0	*	*	*	*	*	*	1960	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1960	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	127	*	3569	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1960	0	0	
+
+A 10   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1960	0	0	
+
+D 11   *	*	541	3207	*	*	*	3905	3569	*	*	*	*	*	*	*	*	4229	*	*	11
+       0	*	*	*	*	*	*	1960	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1960	0	0	
+
+D 13   *	*	236	*	*	*	*	*	*	*	*	2727	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1960	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	79	*	*	4229	*	*	*	*	14
+       0	*	*	*	*	*	*	1960	0	0	
+
+N 15   *	*	*	*	*	*	4071	*	*	*	*	484	*	*	*	3746	*	*	*	2727	15
+       0	*	*	*	*	*	*	1960	0	0	
+
+T 16   *	*	*	*	*	*	*	*	4726	*	*	1374	3746	*	*	2732	2011	*	*	3277	16
+       0	*	*	*	*	*	*	1960	0	0	
+
+Q 17   *	*	*	3746	*	*	*	*	2809	3561	*	*	1163	2979	4631	*	*	3569	*	*	17
+       0	*	*	*	*	*	*	1960	0	0	
+
+A 18   2995	*	1676	*	3207	3121	*	*	*	*	*	4358	*	*	*	2706	2874	*	*	*	18
+       0	*	*	*	*	*	*	1960	0	0	
+
+S 19   *	*	2416	*	3547	*	*	3208	*	*	*	2593	3746	3207	*	2437	4518	4577	*	*	19
+       0	*	*	*	*	*	*	1960	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1960	0	0	
+
+E 21   *	*	*	2282	*	*	4383	*	3051	4518	*	*	*	1781	4071	3746	*	*	*	2671	21
+       0	*	*	*	*	*	*	1960	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1960	0	0	
+
+P 23   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1960	0	0	
+
+E 24   3746	*	1602	746	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1960	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1960	0	0	
+
+Y 26   *	*	*	*	2505	*	*	*	*	*	*	*	*	*	*	*	*	*	*	280	26
+       0	*	*	*	*	*	*	1960	0	0	
+
+I 27   *	*	*	*	*	*	*	165	*	*	*	*	*	*	*	*	*	3207	*	*	27
+       0	*	*	*	*	*	*	1960	0	0	
+
+L 28   3207	*	*	*	*	*	*	4071	*	265	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1960	0	0	
+
+D 29   *	*	291	2451	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1960	0	0	
+
+D 30   *	*	2404	302	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1960	0	0	
+
+G 31   *	*	3611	*	*	299	*	*	*	*	*	3247	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1749	0	0	
+
+F 32   *	*	*	*	2044	*	4107	*	*	*	*	4041	*	2417	*	1482	*	4481	*	4359	32
+       0	*	*	*	*	*	*	1749	0	0	
+
+I 33   *	*	*	*	*	*	*	1521	*	3139	1436	*	*	*	*	*	3746	3411	*	*	33
+       0	*	*	*	*	*	*	1749	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1749	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1828	477	*	*	*	35
+       0	*	*	0	*	*	*	1699	0	0	
+
+//

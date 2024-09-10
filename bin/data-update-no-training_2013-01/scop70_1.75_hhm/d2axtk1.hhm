@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d2axtk1 f.23.36.1 (K:10-46) Photosystem II reaction center protein K, PsbK {Thermosynechococcus elongatus [TaxId: 146786]}
+FAM   f.23.36.1
+FILE  d2axtk1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2axtk1.a3m -v 1 
+DATE  Tue Jan 22 05:30:27 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  101 out of 103 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9862132552388687588999999999988741379
+>Consensus
+kLPeaYaxfxPivdvmPvIPvxFxlLAFvWQAavxFr
+>d2axtk1 f.23.36.1 (K:10-46) Photosystem II reaction center protein K, PsbK {Thermosynechococcus elongatus [TaxId: 146786]}
+KLPEAYAIFDPLVDVLPVIPVLFLALAFVWQAAVGFR
+>gi|269101063|ref|YP_003289211.1|(8-44:44) Photosystem II reaction center protein K [Ectocarpus siliculosus] >gi|403066570|ref|YP_006639059.1| photosystem II protein K (chloroplast) [Saccharina japonica] >gi|266631571|emb|CAV31242.1| Photosystem II reaction center protein K [Ectocarpus siliculosus] >gi|270118701|emb|CAT18776.1| Photosystem II reaction center protein K [Ectocarpus siliculosus] >gi|378787483|gb|AFC40113.1| photosystem II protein K (chloroplast) [Saccharina japonica]  E=7e-08 s/c=1.64 id=66% cov=103%
+KLPELYSMYSPIVDILPIVPVLFLLLAFLWQASVGFR
+>gi|30468162|ref|NP_849049.1|(7-43:43) photosystem II protein K [Cyanidioschyzon merolae strain 10D] >gi|50401008|sp|Q85FY2.1|PSBK_CYAME RecName: Full=Photosystem II reaction center protein K; Short=PSII-K; Flags: Precursor >gi|30409262|dbj|BAC76211.1| photosystem II protein K (chloroplast) [Cyanidioschyzon merolae strain 10D]  E=9e-08 s/c=1.62 id=68% cov=103%
+QLPETYSIFAPVIDILPVIPILFFLLAFVWQASVGFR
+>gi|372483376|gb|AEX95330.1|(25-61:61) photosystem II protein K (chloroplast) [Agapanthus africanus] >gi|374962182|gb|AFA26750.1| photosystem II protein K [Agapanthus praecox]  E=1e-07 s/c=1.61 id=68% cov=103%
+KLPEAYAFFSPIVDFMPIIPLLFFLLAFVWQAAISFR
+>gi|254423807|ref|ZP_05037525.1|(9-45:45) Photosystem II 4 kDa reaction center component superfamily [Synechococcus sp. PCC 7335] >gi|196191296|gb|EDX86260.1| Photosystem II 4 kDa reaction center component superfamily [Synechococcus sp. PCC 7335]  E=5e-07 s/c=1.56 id=68% cov=103%
+ELPEAYRAFGPLIDVLPILPIFFLLLAFVWQASVGFR
+>gi|157064239|gb|ABV04238.1|(19-55:55) photosystem II protein K [Aneura pinguis] >gi|157064254|gb|ABV04248.1| photosystem II protein K [Aneura pinguis] >gi|157064275|gb|ABV04262.1| photosystem II protein K [Aneura sp. Shaw 670] >gi|157064290|gb|ABV04272.1| photosystem II protein K [Aneura pinguis] >gi|157064293|gb|ABV04274.1| photosystem II protein K [Aneura pinguis]  E=3e-06 s/c=1.49 id=68% cov=103%
+KLPEAYAIFDPIVDVMPIIPSSSPPLALVWQASVSFR
+>gi|408898410|gb|AFU94106.1|(27-63:63) PsbK, partial (chloroplast) [Dichapetalum zenkeri]   E=4e-06 s/c=1.48 id=68% cov=103%
+KLPEAYAFLNPIIDVMPVIPVLFFXYAFVWQAAVPRR
+>gi|157412633|ref|YP_001483499.1|(10-46:46) photosystem II reaction center protein K [Prochlorococcus marinus str. MIT 9215] >gi|254525591|ref|ZP_05137643.1| Photosystem II 4 kDa reaction center component superfamily protein [Prochlorococcus marinus str. MIT 9202] >gi|167011886|sp|A8G2T2.1|PSBK_PROM2 RecName: Full=Photosystem II reaction center protein K; Short=PSII-K; Flags: Precursor >gi|91070611|gb|ABE11510.1| photosystem II protein PsbK [uncultured Prochlorococcus marinus clone HOT0M-8G12] >gi|157387208|gb|ABV49913.1| Photosystem II protein PsbK [Prochlorococcus marinus str. MIT 9215] >gi|221537015|gb|EEE39468.1| Photosystem II 4 kDa reaction center component superfamily protein [Prochlorococcus marinus str. MIT 9202]  E=1e-05 s/c=1.43 id=66% cov=103%
+ELPEAYKAFAPTVDVLPLIPLFFFLLVFVWQAAVGFK
+>gi|37522376|ref|NP_925753.1|(12-47:47) photosystem II reaction center protein K [Gloeobacter violaceus PCC 7421] >gi|35213376|dbj|BAC90748.1| photosystem II protein [Gloeobacter violaceus PCC 7421]  E=0.0001 s/c=1.38 id=57% cov=100%
+-IPAGWEWANPLIDLLPIIPLLFFALAFVWQAAIGFK
+>gi|301500950|ref|YP_003795415.1|(11-47:47) photosystem II protein K [Alveolata sp. CCMP3155] >gi|300069496|gb|ADJ66603.1| photosystem II protein K (chloroplast) [Chromerida sp. RM11]  E=0.001 s/c=1.25 id=63% cov=103%
+KLPETYQFMAPVIDVLPAVPVLFLLLAFLWQAAFSFR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	4250	*	*	*	*	287	*	*	*	*	3939	4002	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1806	0	0	
+
+L 2    *	*	*	*	*	*	*	4493	*	108	*	*	*	*	*	5189	*	*	*	*	2
+       0	*	*	*	*	*	*	1879	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	4047	*	*	90	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1879	0	0	
+
+E 4    4215	*	*	144	*	5418	*	*	*	*	*	*	*	*	*	*	*	5801	*	*	4
+       0	*	*	*	*	*	*	1879	0	0	
+
+A 5    319	*	*	*	*	4236	*	6217	*	5471	*	*	6026	*	*	*	4326	4504	*	*	5
+       0	*	*	*	*	*	*	1879	0	0	
+
+Y 6    *	*	*	*	4634	*	*	*	*	*	*	*	*	*	*	*	*	*	4493	128	6
+       0	*	*	*	*	*	*	1879	0	0	
+
+A 7    783	*	*	3893	*	*	*	7054	6153	5896	*	6835	*	3398	4900	3290	5351	4348	*	*	7
+       0	*	*	*	*	*	*	1879	0	0	
+
+I 8    3360	*	*	*	2302	*	*	1657	*	4419	6218	5890	2896	*	*	7129	7071	3154	4493	*	8
+       0	*	*	*	*	*	*	1879	0	0	
+
+F 9    4493	*	*	*	510	*	*	*	*	2849	5601	*	*	*	*	4756	6427	*	*	4465	9
+       0	*	*	*	*	*	*	1879	0	0	
+
+D 10   3235	*	1653	4949	*	4846	*	*	5121	*	*	1779	*	*	4740	3065	5772	*	*	6217	10
+       0	*	*	*	*	*	*	1879	0	0	
+
+P 11   6051	*	*	*	*	*	6450	*	*	*	*	*	83	6419	*	5796	*	*	*	*	11
+       0	*	*	*	*	*	*	1879	0	0	
+
+L 12   6047	*	*	*	*	*	*	657	*	1900	*	*	*	*	*	*	4966	4306	*	*	12
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 13   *	*	*	*	*	*	*	1923	*	*	*	*	*	*	*	*	*	442	*	*	13
+       0	*	*	*	*	*	*	1879	0	0	
+
+D 14   *	*	221	*	*	*	*	*	*	*	*	2815	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 15   *	*	5813	*	4327	*	*	2344	*	4493	*	*	*	*	*	*	*	533	*	*	15
+       0	*	*	*	*	*	*	1879	0	0	
+
+L 16   6350	*	*	*	6320	*	*	*	*	1038	1034	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1879	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 18   4392	*	*	*	*	4819	*	1347	*	3826	*	*	*	*	*	6655	6051	1223	*	*	18
+       0	*	*	*	*	*	*	1879	0	0	
+
+I 19   *	*	*	*	*	*	*	159	*	5737	5404	*	*	*	*	*	*	4017	*	*	19
+       0	*	*	*	*	*	*	1879	0	0	
+
+P 20   *	*	*	*	*	*	*	*	*	*	*	*	37	*	*	5319	*	*	*	*	20
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 21   6643	*	*	*	*	*	*	2878	*	1694	5404	*	*	*	*	4464	*	1071	*	*	21
+       0	*	*	*	*	*	*	1879	0	0	
+
+L 22   *	*	*	*	1195	*	*	5233	*	1025	*	*	*	*	*	4464	*	*	*	*	22
+       0	*	*	*	*	*	*	1879	0	0	
+
+F 23   *	*	*	*	124	*	*	*	*	5189	*	*	*	*	*	4190	*	*	*	*	23
+       0	*	*	*	*	*	*	1879	0	0	
+
+L 24   *	*	*	*	978	*	*	5321	*	1244	*	*	4464	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1879	0	0	
+
+A 25   3857	*	*	*	*	*	*	*	*	221	*	*	3775	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1870	0	0	
+
+L 26   *	*	*	*	5772	*	*	*	*	71	*	*	*	*	*	*	*	*	*	5056	26
+       0	*	*	*	*	*	*	1879	0	0	
+
+A 27   124	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4819	4408	*	*	27
+       0	*	*	*	*	*	*	1879	0	0	
+
+F 28   *	*	*	*	67	*	*	*	*	4464	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 29   5041	*	*	*	5404	*	*	*	*	4189	*	*	*	*	*	*	*	166	*	*	29
+       0	*	*	*	*	*	*	1879	0	0	
+
+W 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	30
+       0	*	*	*	*	*	*	1879	0	0	
+
+Q 31   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	31
+       35	*	5397	*	*	*	*	1879	0	0	
+
+A 32   49	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4908	*	*	*	*	32
+       0	*	*	*	*	0	*	1870	0	1000	
+
+A 33   578	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1675	*	5888	*	*	33
+       0	*	*	*	*	*	*	1879	0	0	
+
+V 34   6644	*	*	*	5597	*	*	2855	*	5231	*	*	*	*	*	*	*	314	*	*	34
+       0	*	*	*	*	*	*	1879	0	0	
+
+G 35   *	*	*	*	*	1328	*	*	4333	*	*	*	5052	*	*	938	*	*	*	*	35
+       0	*	*	*	*	*	*	1879	0	0	
+
+F 36   *	*	*	*	98	*	*	*	*	4817	*	*	*	*	5052	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1879	0	0	
+
+R 37   *	*	*	*	*	*	*	*	2959	*	*	*	*	5231	243	*	*	*	*	*	37
+       0	*	*	0	*	*	*	1879	0	0	
+
+//

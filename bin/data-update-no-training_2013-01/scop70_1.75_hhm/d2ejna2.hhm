@@ -1,0 +1,252 @@
+HHsearch 1.5
+NAME  d2ejna2 a.101.1.1 (A:75-144) Allergen Fel d I-B chain {Cat (Felis catus) [TaxId: 9685]}
+FAM   a.101.1.1
+FILE  d2ejna2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ejna2.a3m -v 1 
+DATE  Tue Jan 22 06:27:38 2013
+LENG  70 match states, 70 columns in multiple alignment
+FILT  37 out of 39 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.7 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHCCHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHCCCCCC
+>ss_conf
+9640478788887715624566666531698677888999998874137023566488888874267789
+>Consensus
+EACxxFxxxyxxvxxGxkxxLxxxLxxxnaTxxEkxAxeKIQdCyxExGlkxkxldxximxsixxSxeCl
+>d2ejna2 a.101.1.1 (A:75-144) Allergen Fel d I-B chain {Cat (Felis catus) [TaxId: 9685]}
+ETCPIFYDVFFAVANGNELLLDLSLTKVNATEPERTAMKKIQDCYVENGLISRVLDGLVMTTISSSKDCM
+>gi|123785985|sp|Q0PGP2.1|ABP_MESAU(22-90:115) RecName: Full=Androgen-binding protein homolog; Flags: Precursor >gi|111119060|gb|ABH05958.1| secretoglobin precursor [Mesocricetus auratus]  E=2e-19 s/c=1.44 id=44% cov=100%
+EACIPFYEAFGAVVLGNKQVLDVVLSKFNATDKEREAFEKIQECYNDGGLKSKLLDTRVVYEVTVNSPC-
+>gi|354489896|ref|XP_003507096.1|(23-91:109) PREDICTED: androgen-binding protein homolog [Cricetulus griseus]   E=6e-18 s/c=1.36 id=31% cov=100%
+EACITYFETYATMLSGNKIIMNALISKFEPTAEERAAYEKIQECYNEAGVDGKTLDTLLLHEITDSPEC-
+>gi|149256703|ref|XP_001004117.2|(21-85:108) PREDICTED: androgen-binding protein delta-like isoform 3 [Mus musculus] >gi|149256705|ref|XP_001004121.2| PREDICTED: androgen-binding protein delta-like isoform 2 [Mus musculus]  E=1e-05 s/c=0.82 id=24% cov=94%
+ESLVPFFNVYASVLSGKR--LYQELQTFNATAEVKVALEK-NLWLLEENLRNMLLEPQIKEAMIASQE--
+>gi|109458558|ref|XP_577783.2|(22-91:112) PREDICTED: androgen-binding protein zeta [Rattus norvegicus] >gi|109461704|ref|XP_001079478.1| PREDICTED: androgen-binding protein zeta [Rattus norvegicus] >gi|283858411|gb|ADB46076.1| androgen-binding protein, partial [Rattus norvegicus]  E=2e-22 s/c=1.54 id=34% cov=101%
+EACLPFFTAYGGVLSGSKLWLNHELDAYNATTGEREAYEKIQQCFREGGLKAKFLEPKILKAMVISPECL
+>gi|395627642|ref|NP_001257470.1|(23-92:112) androgen-binding protein precursor [Mus musculus] >gi|283858398|gb|ADB46070.1| androgen-binding protein, partial [Mus musculus]  E=4e-20 s/c=1.44 id=34% cov=101%
+KACASFFGVYLSTVSGKRLWLHHELSYFNPTDGETKSFKKIQDCYEEAGLKAKSQDVQFMASMFFSSECL
+>gi|30315678|ref|NP_840093.1|(22-90:112) androgen binding protein gamma precursor [Mus musculus] >gi|22268126|gb|AAH35222.1| Androgen binding protein gamma [Mus musculus] >gi|33114695|gb|AAP94990.1| salivary androgen-binding protein gamma subunit [Mus musculus] >gi|76826883|gb|AAI07294.1| Androgen binding protein gamma [Mus musculus] >gi|76827452|gb|AAI07293.1| Androgen binding protein gamma [Mus musculus] >gi|111494069|gb|AAI11447.1| Androgen binding protein gamma [Mus musculus] >gi|126632005|gb|AAI34363.1| Androgen binding protein gamma [Mus musculus] >gi|148671106|gb|EDL03053.1| mCG17480 [Mus musculus] >gi|170016228|gb|AAI48303.1| Androgen binding protein gamma [Mus musculus]  E=3e-19 s/c=1.42 id=31% cov=100%
+EACLSFARTYGAILTLRRTFLHGDLSQFYATVAERVAFEKIQDCFREEGQKTIILNPQIMLSLYLSPEC-
+>gi|426242689|ref|XP_004015203.1|(23-92:115) PREDICTED: androgen-binding protein epsilon-like [Ovis aries]   E=4e-19 s/c=1.40 id=34% cov=101%
+EACPVFYGGVAALLLGSKTLLNSTLDLVDTTDEEKAAFGKAQDCFNEAGFDAKLKIVELVGSIIFDKDCF
+>gi|426243679|ref|XP_004015678.1|(25-94:117) PREDICTED: androgen-binding protein homolog [Ovis aries]   E=2e-17 s/c=1.32 id=33% cov=100%
+EACPVFFETVSAVVLGlPRKALNATLDSIDANEAERAAFGRIRDCFIDAGPENRFNHLKYKASIIFSDDC-
+>gi|57232732|gb|AAW47995.1|(1-68:89) ABP beta [Rattus norvegicus]   E=2e-19 s/c=1.45 id=36% cov=99%
+--CLTFFEGYWRVAFAGKTLLNSFLSKLDAQPQKGWPLKKIQDCYHEGGLKTKLLDLQVMEAVITSQECL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	3643	233	*	*	*	*	3861	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3666	0	0	
+
+T 2    355	*	*	*	*	*	*	*	*	*	*	*	4278	*	*	3696	3917	5422	*	*	2
+       0	*	*	*	*	*	*	3726	0	0	
+
+C 3    *	107	*	*	*	*	*	*	*	4529	*	*	*	*	5142	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3773	0	0	
+
+P 4    4022	*	*	*	4371	4764	*	3740	*	2827	*	*	1461	*	*	4319	*	2157	*	*	4
+       0	*	*	*	*	*	*	3773	0	0	
+
+I 5    *	*	*	*	*	*	*	2687	*	5463	3967	*	1468	*	*	2865	3483	2558	*	*	5
+       0	*	*	*	*	*	*	3773	0	0	
+
+F 6    *	*	*	*	120	*	4319	*	*	*	*	*	*	*	*	*	*	*	*	5066	6
+       0	*	*	*	*	*	*	3773	0	0	
+
+Y 7    5143	*	*	*	1251	*	*	4985	*	4764	*	*	*	*	4319	5220	*	5033	*	1412	7
+       0	*	*	*	*	*	*	3773	0	0	
+
+D 8    3739	*	2808	1833	*	2027	*	5038	4293	*	*	3420	*	*	4062	*	5541	*	*	*	8
+       0	*	*	*	*	*	*	3773	0	0	
+
+V 9    2847	5463	*	*	*	2294	*	5038	*	3896	*	*	*	*	*	3614	2735	1714	*	*	9
+       0	*	*	*	*	*	*	3773	0	0	
+
+F 10   *	*	*	*	2003	*	*	*	*	2886	*	*	*	*	*	*	*	3031	*	1021	10
+       0	*	*	*	*	*	*	3773	0	0	
+
+F 11   2163	*	*	*	4014	2085	4764	*	*	3566	*	*	5463	*	*	2570	3707	5033	4069	*	11
+       0	*	*	*	*	*	*	3773	0	0	
+
+A 12   2037	*	*	*	*	3309	*	*	4189	*	4753	*	*	*	3218	1646	3126	5502	*	*	12
+       0	*	*	*	*	*	*	3773	0	0	
+
+V 13   5463	*	*	*	4764	*	*	2728	*	3330	3227	*	*	*	*	*	4033	937	*	*	13
+       0	*	*	*	*	*	*	3773	0	0	
+
+A 14   2730	*	*	*	4590	*	*	3306	*	1415	*	*	*	*	*	3297	5123	2313	*	*	14
+       0	*	*	*	*	*	*	3773	0	0	
+
+N 15   *	*	*	*	3371	4035	*	3674	*	1671	*	4886	*	*	*	1708	3185	*	*	*	15
+       0	*	*	*	*	*	*	3773	0	0	
+
+G 16   3114	*	*	*	*	319	*	*	*	5143	*	*	*	*	*	4985	*	5463	*	*	16
+       127	3574	*	0	*	*	*	3773	1463	0	
+
+N 17   *	*	3525	*	*	4069	*	4753	2996	4279	*	2845	3574	*	5143	1365	*	*	*	*	17
+       38	5276	*	0	*	*	*	3773	1000	0	
+
+E 18   *	*	*	4068	*	*	*	*	1068	*	*	*	4160	*	1295	*	*	*	*	*	18
+       143	*	3406	*	*	*	*	3773	0	0	
+
+L 19   *	*	*	5399	*	*	*	4131	3526	2385	*	*	3337	5435	*	3959	1362	3930	*	*	19
+       43	5078	*	0	*	*	0	3680	1000	1315	
+
+L 20   3015	*	*	4849	3871	5303	*	3805	*	1572	*	*	4335	*	*	*	*	3263	2425	*	20
+       0	*	*	*	*	0	*	3680	0	1315	
+
+L 21   *	*	*	*	5276	*	*	*	*	251	2902	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3773	0	0	
+
+D 22   *	*	2549	*	4432	*	2727	*	*	*	*	1213	*	5056	*	*	*	*	*	2554	22
+       0	*	*	*	*	*	*	3773	0	0	
+
+L 23   2445	*	4432	4175	*	5143	3020	5038	5123	4886	*	*	*	2948	*	2246	3604	4398	*	*	23
+       38	*	5276	*	*	*	*	3773	0	0	
+
+S 24   5299	*	4049	1832	4047	*	*	*	*	5022	*	5014	*	*	*	3367	2036	2840	*	5023	24
+       0	*	*	*	*	0	*	3769	0	1000	
+
+L 25   *	*	*	*	4094	*	*	3098	*	403	4753	*	*	*	*	*	*	4985	*	*	25
+       0	*	*	*	*	*	*	3773	0	0	
+
+T 26   3811	*	1727	*	*	*	*	*	*	*	*	4431	*	2793	*	1314	4886	*	*	*	26
+       0	*	*	*	*	*	*	3773	0	0	
+
+K 27   3245	*	*	*	*	*	*	*	2375	2018	5033	*	5420	3370	4319	3363	3803	5365	*	4033	27
+       0	*	*	*	*	*	*	3773	0	0	
+
+V 28   *	*	*	*	1048	*	*	3960	*	4069	*	*	*	*	*	*	*	1430	*	5541	28
+       0	*	*	*	*	*	*	3773	0	0	
+
+N 29   6111	*	1601	4094	*	*	*	*	*	*	*	980	*	5033	*	*	*	*	*	4062	29
+       0	*	*	*	*	*	*	3773	0	0	
+
+A 30   460	*	*	*	*	5266	*	*	*	*	*	*	2313	*	*	5272	5651	*	*	*	30
+       0	*	*	*	*	*	*	3773	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	3599	*	4583	*	*	191	*	*	*	31
+       0	*	*	*	*	*	*	3773	0	0	
+
+E 32   1947	*	2252	2014	*	*	4319	*	5038	*	*	*	3354	*	*	*	5541	3587	*	*	32
+       0	*	*	*	*	*	*	3773	0	0	
+
+P 33   1886	*	*	1674	*	2707	*	*	3356	*	*	*	3018	4583	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3773	0	0	
+
+E 34   *	*	*	174	*	*	*	*	4583	*	*	*	*	*	*	*	*	3803	*	*	34
+       0	*	*	*	*	*	*	3773	0	0	
+
+R 35   *	*	*	*	*	4583	*	*	1064	*	*	5220	*	*	1449	*	3522	*	*	*	35
+       0	*	*	*	*	*	*	3773	0	0	
+
+T 36   1828	*	5056	2305	*	*	*	*	3624	*	*	*	*	*	*	*	4886	1602	4583	*	36
+       0	*	*	*	*	*	*	3773	0	0	
+
+A 37   109	*	*	*	*	*	*	*	*	*	*	*	4583	*	*	5011	*	*	*	*	37
+       0	*	*	*	*	*	*	3773	0	0	
+
+M 38   5197	*	*	*	1155	*	*	3245	*	1972	4161	*	*	*	*	*	*	*	*	3219	38
+       0	*	*	*	*	*	*	3773	0	0	
+
+K 39   *	*	4764	1025	*	1949	*	*	2799	*	*	*	*	4385	5553	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3773	0	0	
+
+K 40   *	*	*	*	*	*	*	*	159	*	*	4319	*	*	4211	*	*	*	*	*	40
+       64	*	4529	*	*	*	*	3773	0	0	
+
+I 41   4068	*	*	*	*	*	*	406	*	2652	*	*	*	*	*	*	*	5245	*	*	41
+       0	*	*	*	*	0	*	3735	0	1000	
+
+Q 42   *	*	*	*	*	*	*	*	*	4764	*	4529	*	210	5202	*	*	*	5153	*	42
+       0	*	*	*	*	*	*	3773	0	0	
+
+D 43   *	*	663	2853	*	4058	5197	*	*	4529	*	5056	*	3850	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3773	0	0	
+
+C 44   *	64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4529	*	44
+       0	*	*	*	*	*	*	3773	0	0	
+
+Y 45   *	*	*	*	1142	*	*	*	*	3693	*	*	*	*	*	*	*	*	*	1091	45
+       0	*	*	*	*	*	*	3758	0	0	
+
+V 46   5099	*	*	4168	*	4926	4040	3043	5238	4492	*	1117	*	*	3122	5720	*	4856	*	*	46
+       0	*	*	*	*	*	*	3758	0	0	
+
+E 47   *	*	2854	215	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	3758	0	0	
+
+N 48   1797	*	*	2035	*	2491	*	*	4995	3490	*	3706	*	5238	*	5099	4733	*	*	*	48
+       0	*	*	*	*	*	*	3758	0	0	
+
+G 49   *	*	*	5135	*	298	*	*	*	*	*	4492	5007	*	4453	4768	*	*	*	*	49
+       0	*	*	*	*	*	*	3758	0	0	
+
+L 50   *	*	*	*	3389	*	*	5720	*	830	*	*	2778	5082	*	5022	*	3096	*	*	50
+       0	*	*	*	*	*	*	3758	0	0	
+
+I 51   *	*	3071	4160	4733	*	*	4134	1175	5022	*	*	5607	5171	2753	*	5007	5099	*	*	51
+       0	*	*	*	*	*	*	3758	0	0	
+
+S 52   2022	*	5135	*	*	2379	*	*	*	*	*	2007	*	*	*	3592	2500	5348	*	*	52
+       0	*	*	*	*	*	*	3758	0	0	
+
+R 53   *	*	*	*	*	*	*	3160	662	*	3607	*	*	5238	2762	*	*	*	*	*	53
+       0	*	*	*	*	*	*	3758	0	0	
+
+V 54   3054	*	*	*	2385	*	*	2661	*	1384	*	*	*	*	*	4973	3632	4856	*	*	54
+       0	*	*	*	*	*	*	3758	0	0	
+
+L 55   *	*	*	5394	4570	*	*	*	3688	979	4731	2732	*	4973	5022	4327	*	4359	*	*	55
+       0	*	*	*	*	*	*	3758	0	0	
+
+D 56   *	*	1105	2513	*	*	2732	4003	*	*	*	3477	*	*	*	5007	*	5253	*	*	56
+       0	*	*	*	*	*	*	3758	0	0	
+
+G 57   3732	*	*	*	*	3542	*	3318	*	2046	5394	*	1896	*	*	*	2993	3675	*	*	57
+       45	5040	*	1585	585	*	*	3758	1000	0	
+
+L 58   *	*	4995	3900	4359	*	*	5478	1807	2933	*	*	*	1799	4291	4731	*	4733	*	*	58
+       0	*	*	*	*	*	*	3758	0	0	
+
+V 59   3770	*	*	*	4006	*	*	1661	*	2566	*	*	*	*	*	5191	*	2116	*	3043	59
+       0	*	*	*	*	*	*	3758	0	0	
+
+M 60   *	*	*	*	*	*	*	*	2964	2414	992	*	*	*	*	5040	5099	3037	*	*	60
+       0	*	*	*	*	*	*	3758	0	0	
+
+T 61   2103	*	*	2369	*	3750	4958	5138	5414	3062	4960	*	*	*	4238	4429	4039	3702	*	5244	61
+       0	*	*	*	*	*	*	3771	0	0	
+
+T 62   1966	*	*	3164	*	*	*	*	4011	*	*	*	*	*	*	1306	2590	*	*	*	62
+       0	*	*	*	*	*	*	3771	0	0	
+
+I 63   *	*	*	*	*	*	*	811	*	2835	2354	*	*	*	*	*	*	3407	*	*	63
+       0	*	*	*	*	*	*	3674	0	0	
+
+S 64   *	*	*	*	4723	*	*	1671	*	2929	4581	*	*	*	*	4584	2420	2493	*	3861	64
+       0	*	*	*	*	*	*	3636	0	0	
+
+S 65   3245	*	4760	*	1654	*	*	4292	*	2578	*	*	*	*	*	3228	3424	3041	*	*	65
+       0	*	*	*	*	*	*	3636	0	0	
+
+S 66   *	*	4216	*	*	*	*	*	*	*	*	2827	*	*	*	371	4973	*	*	*	66
+       0	*	*	*	*	*	*	3636	0	0	
+
+K 67   *	*	4043	4134	*	*	*	*	2419	*	*	4926	1777	2798	*	2139	*	*	*	*	67
+       0	*	*	*	*	*	*	3636	0	0	
+
+D 68   *	*	1534	923	*	*	*	*	4741	*	*	*	3479	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	3636	0	0	
+
+C 69   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	3603	0	0	
+
+M 70   *	*	*	*	2951	*	*	3287	*	646	2952	*	*	*	*	*	*	*	*	*	70
+       0	*	*	0	*	*	*	2657	0	0	
+
+//

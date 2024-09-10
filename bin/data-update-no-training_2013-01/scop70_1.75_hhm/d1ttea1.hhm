@@ -1,0 +1,205 @@
+HHsearch 1.5
+NAME  d1ttea1 a.5.2.1 (A:161-215) Ubiquitin-protein ligase ubc1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   a.5.2.1
+FILE  d1ttea1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ttea1.a3m -v 1 
+DATE  Tue Jan 22 03:11:09 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  53 out of 55 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CHHHHCCCCHHHHHHHHHCCCCHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHHC
+>ss_conf
+9133407998899999875998056999999816777776454436689998719
+>Consensus
+deaalxGidxxxVxxFexmGFxrxKvIeVLrRLxxkxxnxxxxxxxnxilEELLk
+>d1ttea1 a.5.2.1 (A:161-215) Ubiquitin-protein ligase ubc1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+EESDLYGIDHDLIDEFESQGFEKDKIVEVLRRLGVKSLDPNDNNTANRIIEELLK
+>gi|380355837|emb|CCG25356.1|(167-223:226) Ubc1 protein [Candida orthopsilosis]   E=6e-17 s/c=1.59 id=48% cov=102%
+KDSALYGIDDSIVTQFENMGFPRDKTIEVLRRMGIKSFNgvSNKGDLENKILEELLR
+>gi|409075114|gb|EKM75498.1|(166-219:220) hypothetical protein AGABI1DRAFT_79816 [Agaricus bisporus var. burnettii JB137-S8] >gi|426191719|gb|EKV41660.1| hypothetical protein AGABI2DRAFT_189108 [Agaricus bisporus var. bisporus H97]  E=8e-07 s/c=1.05 id=35% cov=100%
+DEVAIAGLDPQHVTRFENLGFPRNKVIDALRRLNYRGGN-VSKITEDRVVEELLK
+>gi|213402853|ref|XP_002172199.1|(158-212:213) ubiquitin-conjugating enzyme E2 [Schizosaccharomyces japonicus yFS275] >gi|212000246|gb|EEB05906.1| ubiquitin-conjugating enzyme E2 [Schizosaccharomyces japonicus yFS275]  E=0.0008 s/c=0.85 id=36% cov=100%
+DAAAAAGIDKHLVDEIVALGFPSDKVVGVLQKLGVHNKDELEKAgGVNKALDALL-
+>gi|385302539|gb|EIF46667.1|(180-234:234) ubiquitin-conjugating enzyme that mediates selective degradation of short-lived and abnormal protein [Dekkera bruxellensis AWRI1499]  E=1e-13 s/c=1.45 id=34% cov=102%
+DECAKYGIDRNSVKIFEDMGFPQDKIISAFRKLNLKXVREDDVQTQQNVLDEILQ
+>gi|50555001|ref|XP_504909.1|(158-209:210) YALI0F02563p [Yarrowia lipolytica] >gi|49650779|emb|CAG77714.1| YALI0F02563p [Yarrowia lipolytica CLIB122]  E=4e-10 s/c=1.31 id=40% cov=96%
+DEIARLGLDRDAVEGFASMGFGKDKIIAVFKKLQIKK--PQSQEDEQRVVEELL-
+>gi|358059086|dbj|GAA95025.1|(185-237:238) hypothetical protein E5Q_01680 [Mixia osmundae IAM 14324]   E=7e-11 s/c=1.32 id=24% cov=98%
+DEIQLNGLSHEHVKQFVDMGFEQTRVIQTLAKVNYRG-NNATNIPDDTILTALL-
+>gi|388581297|gb|EIM21606.1|(160-210:211) ubiquitin-conjugating enzyme e2-24 kda [Wallemia sebi CBS 633.66]   E=1e-08 s/c=1.22 id=25% cov=95%
+--AAAAGLAQNDVNKFTSMGFLENNVIEVLSALDYRG-NNIQNISDDIVVEQLL-
+>gi|254573500|ref|XP_002493859.1|(190-238:238) Ubiquitin-conjugating enzyme that mediates selective degradation of short-lived and abnormal protein [Komagataella pastoris GS115] >gi|238033658|emb|CAY71680.1| Ubiquitin-conjugating enzyme that mediates selective degradation of short-lived and abnormal protein [Komagataella pastoris GS115] >gi|328354320|emb|CCA40717.1| ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [Komagataella pastoris CBS 7435]  E=3e-09 s/c=1.31 id=42% cov=91%
+------GIEIASIEMFENMGFSRPKILDVLKKLGLTRVEDNDGDTKQEILEELLR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	406	3259	*	*	*	*	4769	*	*	3266	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3125	0	0	
+
+E 2    4290	*	1808	793	*	*	*	*	*	5796	*	*	4847	4900	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3238	0	0	
+
+S 3    1095	3904	*	*	*	*	*	2103	*	*	*	*	*	*	*	2839	*	3434	*	*	3
+       0	*	*	*	*	*	*	3306	0	0	
+
+D 4    612	*	4446	2639	*	*	*	*	5426	*	*	5626	*	3646	5953	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3306	0	0	
+
+L 5    2886	*	*	*	*	*	*	3248	3942	784	3663	*	*	*	4846	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3307	0	0	
+
+Y 6    1223	*	*	*	*	*	*	*	*	4846	*	4680	*	*	*	*	*	*	*	1006	6
+       0	*	*	*	*	*	*	3307	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3364	0	0	
+
+I 8    *	*	*	*	*	*	*	852	*	1165	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3364	0	0	
+
+D 9    3809	*	819	2655	*	*	*	*	5506	*	*	3366	*	*	*	3573	*	*	*	*	9
+       0	*	*	*	*	*	*	3364	0	0	
+
+H 10   5089	*	3272	2811	*	*	4256	4785	2508	*	*	6390	2952	3453	2654	5184	*	4597	*	*	10
+       0	*	*	*	*	*	*	3364	0	0	
+
+D 11   1990	*	2774	2014	*	*	4448	*	5913	*	*	3469	*	6027	*	3425	4825	4108	*	*	11
+       0	*	*	*	*	*	*	3364	0	0	
+
+L 12   3900	*	4532	*	*	*	1682	2545	*	2429	*	*	*	*	*	3141	4342	5143	*	5048	12
+       0	*	*	*	*	*	*	3364	0	0	
+
+I 13   *	*	*	*	*	*	*	3493	*	*	*	*	*	*	*	*	*	134	*	*	13
+       0	*	*	*	*	*	*	3364	0	0	
+
+D 14   4313	*	2347	2757	*	3680	*	*	2650	*	*	4006	*	2761	*	4845	3586	4642	*	*	14
+       0	*	*	*	*	*	*	3364	0	0	
+
+E 15   *	*	*	2388	*	4014	5511	4014	3118	*	4785	5717	*	1295	4893	4273	*	*	*	*	15
+       0	*	*	*	*	*	*	3364	0	0	
+
+F 16   *	*	*	*	145	*	*	4448	*	*	5404	*	*	*	*	*	*	*	*	5259	16
+       0	*	*	*	*	*	*	3364	0	0	
+
+E 17   3616	*	*	650	*	*	*	4428	*	*	*	*	*	*	*	*	3808	2615	*	*	17
+       0	*	*	*	*	*	*	3364	0	0	
+
+S 18   2401	*	2650	5149	*	4778	*	*	5650	*	*	1818	*	*	*	1983	5048	*	*	*	18
+       0	*	*	*	*	*	*	3364	0	0	
+
+Q 19   *	*	*	*	*	*	*	*	*	2073	838	*	*	2301	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3364	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3364	0	0	
+
+F 21   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3364	0	0	
+
+E 22   4294	*	4333	1467	*	4891	*	*	*	4532	*	*	1552	4583	*	4061	5785	*	*	*	22
+       0	*	*	*	*	*	*	3364	0	0	
+
+K 23   5770	*	*	4050	*	*	*	*	1899	*	*	*	*	3833	957	4448	5506	*	*	*	23
+       0	*	*	*	*	*	*	3364	0	0	
+
+D 24   6353	*	1339	3958	*	3924	5048	*	*	*	*	3435	3727	4191	5548	3247	3896	6014	*	*	24
+       0	*	*	*	*	*	*	3364	0	0	
+
+K 25   5785	*	*	*	*	*	*	*	259	*	*	4054	*	5048	4697	*	5839	*	*	*	25
+       0	*	*	*	*	*	*	3364	0	0	
+
+I 26   *	*	*	*	*	*	*	1455	*	*	*	*	*	*	*	5698	2959	1037	*	*	26
+       0	*	*	*	*	*	*	3364	0	0	
+
+V 27   *	*	*	*	*	*	*	459	*	4785	*	*	*	*	*	*	*	2081	*	*	27
+       0	*	*	*	*	*	*	3364	0	0	
+
+E 28   3621	*	2072	1051	*	4448	*	*	*	*	*	*	*	3429	*	4065	*	*	*	*	28
+       0	*	*	*	*	*	*	3364	0	0	
+
+V 29   3170	*	*	*	*	*	*	5812	*	*	*	*	*	*	*	*	4162	295	*	*	29
+       0	*	*	*	*	*	*	3364	0	0	
+
+L 30   *	*	*	*	3616	*	*	*	*	204	4317	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3364	0	0	
+
+R 31   4697	*	*	*	*	*	*	*	2043	*	*	*	*	4448	667	4532	*	*	*	*	31
+       0	*	*	*	*	*	*	3364	0	0	
+
+R 32   4532	*	*	*	*	*	*	*	1897	*	*	*	*	*	539	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3364	0	0	
+
+L 33   *	*	*	*	6015	*	*	*	*	443	2456	*	*	*	5152	*	*	4697	*	*	33
+       0	*	*	*	*	*	*	3364	0	0	
+
+G 34   *	*	3766	*	*	1130	*	*	*	*	*	1198	*	4891	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3364	0	0	
+
+V 35   *	*	*	*	*	*	*	2084	*	2619	*	*	*	*	*	*	*	2549	*	1216	35
+       0	*	*	*	*	*	*	3364	0	0	
+
+K 36   *	*	*	*	*	5648	4448	*	1037	*	*	*	*	*	1284	*	4785	*	*	*	36
+       0	*	*	*	*	*	*	3364	0	0	
+
+S 37   *	*	*	*	*	1189	*	*	3008	*	*	3705	*	5728	4170	2047	4509	*	*	*	37
+       335	*	2272	*	*	*	*	3344	0	0	
+
+L 38   2386	*	*	*	2803	5710	*	4558	3404	2215	3765	*	5942	*	*	5264	5204	2946	*	5561	38
+       0	*	*	*	*	311	2367	3108	0	2398	
+
+D 39   *	*	2038	4139	*	*	*	*	3833	*	*	1012	*	5677	3900	4410	*	*	*	*	39
+       410	3516	2642	1000	1000	0	*	3325	1289	1000	
+
+P 40   *	*	4681	3500	*	3135	*	5194	*	*	4704	2343	2453	*	*	2949	5679	2606	*	*	40
+       0	*	*	*	*	0	*	3327	0	1850	
+
+N 41   2634	*	4014	5879	*	4552	*	4532	*	4448	*	1981	*	4891	*	*	4124	1816	*	*	41
+       0	*	*	*	*	*	*	3364	0	0	
+
+D 42   4043	*	1630	3947	*	5364	*	*	2363	*	*	3894	*	4532	5506	2818	4096	*	*	*	42
+       63	*	4539	*	*	*	*	3364	0	0	
+
+N 43   5113	*	5426	*	*	4008	5369	6197	3552	4815	*	1279	5030	3709	*	3700	5080	3303	*	*	43
+       0	*	*	*	*	0	*	3353	0	1233	
+
+N 44   2704	*	3689	2623	*	*	*	1821	3857	4886	5139	3759	*	4006	4763	*	*	5670	*	*	44
+       117	4407	5028	0	*	*	*	3358	1000	0	
+
+T 45   5806	*	4257	*	*	3343	4523	*	5375	3723	*	4259	3646	*	*	3257	1148	*	*	*	45
+       95	3969	*	1000	1000	0	*	3357	1250	1197	
+
+A 46   3552	*	1887	1650	*	*	*	4014	4709	*	5139	*	*	4006	*	*	*	3227	*	5144	46
+       24	*	5893	*	*	*	*	3358	0	0	
+
+N 47   *	*	1363	*	*	*	*	*	*	*	*	1074	*	2874	*	*	*	*	*	*	47
+       0	*	*	*	*	0	*	3356	0	1000	
+
+R 48   4886	*	*	4709	*	*	*	4519	1639	*	*	4973	*	4878	1698	4091	3227	5399	*	*	48
+       0	*	*	*	*	*	*	3358	0	0	
+
+I 49   4407	5144	*	*	*	*	*	1083	*	*	*	*	*	*	*	*	*	1144	*	*	49
+       0	*	*	*	*	*	*	3358	0	0	
+
+I 50   *	*	*	*	*	*	*	2804	*	1094	5139	*	*	*	*	*	5481	1566	*	*	50
+       0	*	*	*	*	*	*	3358	0	0	
+
+E 51   *	*	2710	385	*	*	*	*	*	*	*	5493	*	5611	*	*	4690	*	*	*	51
+       0	*	*	*	*	*	*	3358	0	0	
+
+E 52   2756	*	*	349	*	*	*	*	5444	*	*	*	*	4519	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	3358	0	0	
+
+L 53   *	*	*	*	*	*	*	3615	*	123	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	3358	0	0	
+
+L 54   *	*	*	*	*	*	*	5569	*	31	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	3358	0	0	
+
+K 55   *	*	*	*	*	*	*	*	609	*	*	*	*	3260	2059	*	*	*	*	*	55
+       0	*	*	0	*	*	*	2921	0	0	
+
+//

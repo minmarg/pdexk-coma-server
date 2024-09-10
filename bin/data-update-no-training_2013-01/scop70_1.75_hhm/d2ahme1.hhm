@@ -1,0 +1,520 @@
+HHsearch 1.5
+NAME  d2ahme1 d.302.1.1 (E:43-197) Nonstructural protein 8, NSP8 {SARS coronavirus [TaxId: 227859]}
+FAM   d.302.1.1
+FILE  d2ahme1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ahme1.a3m -v 1 
+DATE  Tue Jan 22 05:25:57 2013
+LENG  155 match states, 155 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHCCCCCCEEHHCCCCCCCEEEECCHHH
+HHHHHHCCCEEEEEEEEEEEEEECCCCCEEEEEECCCCCCCCCCCCEEEEEEECC
+>ss_conf
+9224566676654568999999999999999999987543368888999999999999862568899999865428202000300125752698668788
+8886417816760046663320016895210000244566651112588877339
+>Consensus
+lxKAxNIAKsexdrdxAvqrKLerMAexAmxxMYkeaRaxdrksKvvSamxsmLfxMlRrLDxdxvxxixxxArxgvvPLxxIpxxsaxkLxvVxpDxxx
+yxkxvxxxxvxYaGxxwxIxxvxDxDgxxvxxkeixxxnxxxlxwPlvvxcxRxx
+>d2ahme1 d.302.1.1 (E:43-197) Nonstructural protein 8, NSP8 {SARS coronavirus [TaxId: 227859]}
+LKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVVPDYGT
+YKNTCDGNTFTYASALWEIQQVVDADSKIVQLSEINMDNSPNLAWPLIVTALRAN
+>gi|187251955|ref|YP_001876435.1|(3487-3634:6663) ORF 1ab polyprotein [Beluga Whale coronavirus SW1] >gi|159034151|gb|ABW87819.1| ORF 1ab polyprotein [Beluga Whale coronavirus SW1]  E=5e-28 s/c=0.86 id=38% cov=96%
+-KKAMNIAKSVLDRDIAVQKKLDAMAERAMSTMYKEAKSSEKKTRLVSSLHALLFSMIKRLDSDQVADVFEKARNGVVPLASVPITCSNKLTIVIPDMSL
+WEKVVVHDYVVYGNIVWDINEVVDMDGNQILPCRVSGEAS----WPLEVRLVR--
+>gi|49169783|ref|YP_003766.2|(3642-3795:6729) replicase polyprotein 1ab [Human coronavirus NL63] >gi|190360112|sp|P0C6X5.1|R1AB_CVHNL RecName: Full=Replicase polyprotein 1ab; Short=pp1ab; AltName: Full=ORF1ab polyprotein; Contains: RecName: Full=Non-structural protein 1; Short=nsp1; AltName: Full=p9; Contains: RecName: Full=Non-structural protein 2; Short=nsp2; AltName: Full=p87; Contains: RecName: Full=Non-structural protein 3; Short=nsp3; AltName: Full=PL1-PRO/PL2-PRO; AltName: Full=PLP1/PLP2; AltName: Full=Papain-like proteinases 1/2; AltName: Full=p195; Contains: RecName: Full=Non-structural protein 4; Short=nsp4; AltName: Full=Peptide HD2; Contains: RecName: Full=3C-like proteinase; Short=3CL-PRO; Short=3CLp; AltName: Full=M-PRO; AltName: Full=nsp5; AltName: Full=p34; Contains: RecName: Full=Non-structural protein 6; Short=nsp6; Contains: RecName: Full=Non-structural protein 7; Short=nsp7; AltName: Full=p5; Contains: RecName: Full=Non-structural protein 8; Short=nsp8; AltName: Full=p23; Contains: RecName: Full=Non-structural protein 9; Short=nsp9; AltName: Full=p12; Contains: RecName: Full=Non-structural protein 10; Short=nsp10; AltName: Full=Growth factor-like peptide; Short=GFL; AltName: Full=p14; Contains: RecName: Full=RNA-directed RNA polymerase; Short=Pol; Short=RdRp; AltName: Full=nsp12; AltName: Full=p100; Contains: RecName: Full=Helicase; Short=Hel; AltName: Full=nsp13; AltName: Full=p66; AltName: Full=p66-HEL; Contains: RecName: Full=Exoribonuclease; Short=ExoN; AltName: Full=nsp14; Contains: RecName: Full=Uridylate-specific endoribonuclease; AltName: Full=NendoU; AltName: Full=nsp15; AltName: Full=p41; Contains: RecName: Full=Putative 2'-O-methyl transferase; AltName: Full=nsp16 >gi|49035965|gb|AAS58176.2| replicase polyprotein 1ab [Human Coronavirus NL63]  E=8e-65 s/c=1.62 id=45% cov=100%
+LKRAMNIAKSEFDHEISVQKKINRMAEQAATQMYKEARSVNRKSKVISAMHSLLFGMLRRLDMSSVETVLNLARDGVVPLSVIPATSASKLTIVSPDLES
+YSKIVCDGSVHYAGVVWTLNDVKDNDGRPVHVKEITKENVETLTWPLILNCERV-
+>gi|407076745|gb|AFS88944.1|(3967-4120:7078) ORF1ab [Human betacoronavirus 2c EMC/2012]   E=4e-61 s/c=1.53 id=52% cov=100%
+LQKAVNIAKNAYEKDKAVARKLERMADQAMTSMYKQARAEDKKAKIVSAMQTMLFGMIKKLDNDVLNGIISNARNGCIPLSVIPLCASNKLRVVIPDFTV
+WNQVVTYPSLNYAGALWDITVINNVDNEIVKSSDV-VDSNENLTWPLVLECTRAS
+>gi|89515459|gb|ABD75543.1|(4111-4261:7241) orf1ab polyprotein [Human coronavirus HKU1]   E=8e-59 s/c=1.52 id=51% cov=98%
+LEKACNIAKSVYERDKAVARKLERMADLALTNMYKEARINDKKSKVVSALQTMLFSMVRKLDNQALNSILDNAVKGCVPLSAIPALAANTLTIIIPDKQV
+FDKVVDNVYVTYAGSVWHIQTVQDADGINKQLTDISVDSN----WPLVIIANRYN
+>gi|126030133|ref|YP_001039970.1|(3820-3972:6930) orf1ab polyprotein [Bat coronavirus HKU9] >gi|190360100|sp|P0C6W5.1|R1AB_BCHK9 RecName: Full=Replicase polyprotein 1ab; Short=pp1ab; AltName: Full=ORF1ab polyprotein; Contains: RecName: Full=Non-structural protein 1; Short=nsp1; AltName: Full=Leader protein; Contains: RecName: Full=Non-structural protein 2; Short=nsp2; AltName: Full=p65 homolog; Contains: RecName: Full=Non-structural protein 3; Short=nsp3; AltName: Full=PL2-PRO; AltName: Full=Papain-like proteinase; Short=PL-PRO; Contains: RecName: Full=Non-structural protein 4; Short=nsp4; Contains: RecName: Full=3C-like proteinase; Short=3CL-PRO; Short=3CLp; AltName: Full=nsp5; Contains: RecName: Full=Non-structural protein 6; Short=nsp6; Contains: RecName: Full=Non-structural protein 7; Short=nsp7; Contains: RecName: Full=Non-structural protein 8; Short=nsp8; Contains: RecName: Full=Non-structural protein 9; Short=nsp9; Contains: RecName: Full=Non-structural protein 10; Short=nsp10; AltName: Full=Growth factor-like peptide; Short=GFL; Contains: RecName: Full=RNA-directed RNA polymerase; Short=Pol; Short=RdRp; AltName: Full=nsp12; Contains: RecName: Full=Helicase; Short=Hel; AltName: Full=nsp13; Contains: RecName: Full=Exoribonuclease; Short=ExoN; AltName: Full=nsp14; Contains: RecName: Full=Uridylate-specific endoribonuclease; AltName: Full=NendoU; AltName: Full=nsp15; Contains: RecName: Full=Putative 2'-O-methyl transferase; AltName: Full=nsp16 >gi|124389478|gb|ABN10910.1| orf1ab polyprotein [Bat coronavirus HKU9-1]  E=2e-58 s/c=1.48 id=60% cov=99%
+LKKAMNVAKSVLDKDVATTRKLERMSELAMTAMYKQARAEDRRSKVTAAMQTMLFNMIRRLDSDALSNILNNARNGVVPLGVIPRTAANKLLLVVPDFSV
+YTATITMPTLTYAGSAWDVMQVADADGKTVNATDITRENSVNLAWPLVVTAQR--
+>gi|298373834|gb|ADI80512.1|(3596-3750:6682) orf1ab polyprotein [Mink coronavirus strain WD1127]   E=3e-62 s/c=1.55 id=44% cov=101%
+LQKAMNIAKAEFDREASVQKKLDRMAEQAASNMFKEARAVDRKSKIIGAMHSLLFSMLKRLDMSSVNTLIDQARNGCLPLSIIPAASATRLVVVTPNIDV
+FSKVRLENNVHYAGAVWSIIEVRDSNSSIVHLKEVTQANEQNLCWPLTVTCERVS
+>gi|33569221|gb|AAQ21583.1|(3525-3681:6646) 1ab polyprotein [Infectious bronchitis virus]   E=1e-53 s/c=1.35 id=43% cov=99%
+-RKAANIAKSVFDRDLAVQKKLDSMAERAMTTMYKEARVTDRRAKLVSSLHALLFSMLKKIDSEKLNVLFDQASSGVVPLATVPIVCSNKLTLVVPDPET
+WVKCVEGMHVTYSTVVWNIDNVTDADGTELQPISTGNGltyciSGDNIAWPLKVNLTR--
+>gi|383081735|ref|YP_005352837.1|(3216-3358:6295) orf1ab gene product [White-eye coronavirus HKU16] >gi|380005475|gb|AFD29200.1| replicase polyprotein [White-eye coronavirus HKU16]  E=9e-53 s/c=1.46 id=37% cov=93%
+--KAVNIAKSEWEREAASQRKLEKLADAAMKSMYLAERAEDRRIKLTSGLTAMLYHMLRRLDSDRVKALFECAKQQILPIHAIVGVSNDNLKVILNDKDS
+YLQYVDGNTLIHKGVRYTIVKKLSLDNSPV--------DGIPEEYPVVVETVR--
+>gi|383080776|ref|YP_005352862.1|(3193-3337:6280) orf1ab gene product [Night-heron coronavirus HKU19] >gi|380005503|gb|AFD29225.1| replicase polyprotein [Night-heron coronavirus HKU19]  E=2e-49 s/c=1.37 id=34% cov=94%
+--KAVNIAKAEYDRDVAAEKKLAKLADSALKSMYLAERSEDRKAKLTSGLTAMLYHMLRRVDSDKVKALFELAKSDVIPLHAITGSSTDGLKVIIGDQQT
+YEQYVTGNQVIFRGRTYVINTMYDLDNQILQEK--------PQSFPIVLECTKLN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2330	0	0	
+
+K 2    *	*	*	2951	*	*	*	*	1019	*	*	*	*	2493	2687	*	4492	*	*	*	2
+       0	*	*	*	*	*	*	2541	0	0	
+
+K 3    *	*	*	*	*	*	4141	*	295	*	*	*	*	*	3470	*	4708	*	*	*	3
+       0	*	*	*	*	*	*	2952	0	0	
+
+S 4    146	*	*	*	*	*	*	4195	*	*	*	*	*	*	*	4583	*	*	*	*	4
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 5    3164	2934	*	*	*	*	*	*	*	4583	1312	*	*	*	*	*	*	1676	*	*	5
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 6    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 7    *	5203	*	*	*	*	*	552	*	*	4708	*	*	*	*	*	4535	2257	*	*	7
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 8    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 9    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2952	0	0	
+
+S 10   1960	*	*	*	*	4535	*	*	*	*	*	3359	*	*	*	731	*	*	*	*	10
+       0	*	*	*	*	*	*	2952	0	0	
+
+E 11   2376	*	*	705	*	*	*	*	*	*	*	*	*	*	*	*	*	2366	*	*	11
+       0	*	*	*	*	*	*	2952	0	0	
+
+F 12   *	*	*	*	1236	*	*	*	*	2876	*	*	*	*	*	*	*	*	2412	1993	12
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 13   *	*	710	1363	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 14   *	*	*	*	*	*	2907	*	2547	*	*	*	*	*	524	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 15   *	*	671	1427	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 16   1128	*	*	*	*	*	*	3489	2965	4133	*	*	*	*	3877	4045	*	2839	*	*	16
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 17   509	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1750	*	*	*	*	17
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 18   3189	*	*	*	*	*	*	*	*	*	4583	*	*	*	*	2907	3278	708	*	*	18
+       0	*	*	*	*	*	*	2952	0	0	
+
+Q 19   2163	*	*	4182	*	*	*	*	*	*	*	4195	*	688	*	*	4429	*	*	*	19
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 20   *	*	*	*	*	*	*	*	1227	*	*	*	*	*	804	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 21   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 22   *	*	*	*	*	*	*	2535	*	273	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2952	0	0	
+
+E 23   4182	*	2039	1002	*	*	*	*	*	*	*	3480	*	3747	*	4708	*	*	*	*	23
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 24   4059	*	*	*	*	*	*	*	1658	*	*	*	*	*	821	4133	*	*	*	*	24
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 25   *	*	*	*	*	*	*	*	*	2041	402	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 26   69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4429	*	*	*	*	26
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 27   *	*	1044	957	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2952	0	0	
+
+Q 28   2503	*	*	*	*	*	*	*	*	2538	*	*	*	1061	3095	4182	*	*	*	*	28
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 29   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 30   1606	*	*	*	*	*	*	*	*	2701	950	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 31   2305	*	*	*	*	*	*	*	2041	*	*	*	*	*	*	2670	1331	*	*	*	31
+       0	*	*	*	*	*	*	2952	0	0	
+
+Q 32   2924	*	*	*	*	*	*	*	*	*	*	2878	*	1751	*	1652	3095	*	*	*	32
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 33   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2952	0	0	
+
+Y 34   *	*	*	*	4743	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55	34
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 35   *	*	*	*	*	*	*	*	402	2041	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2952	0	0	
+
+Q 36   2041	*	4535	921	*	*	*	*	*	*	*	*	*	2430	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 37   402	*	*	2041	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 38   *	*	*	*	*	*	*	*	4059	*	*	*	*	*	89	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2952	0	0	
+
+S 39   728	*	*	*	*	*	*	3341	*	*	*	*	*	*	*	2056	*	4133	*	*	39
+       0	*	*	*	*	*	*	2952	0	0	
+
+E 40   *	*	*	1134	*	*	*	*	*	*	*	3341	*	*	*	4059	4133	1606	*	*	40
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 41   *	*	466	4059	*	*	*	*	*	*	*	2212	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 42   *	*	*	*	*	*	*	*	1495	*	*	*	*	*	632	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 43   *	*	*	*	*	*	*	*	644	*	*	*	*	*	1473	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 44   1844	*	*	*	*	*	*	2812	*	*	*	*	*	*	*	1078	4059	4459	*	*	44
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 45   *	*	*	*	*	*	*	*	132	*	*	*	*	*	3521	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 46   *	*	*	*	*	*	*	2581	*	1474	*	*	*	*	*	*	*	1080	*	*	46
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 47   *	*	*	*	*	*	*	2592	*	*	*	*	*	*	*	*	1481	1071	*	*	47
+       0	*	*	*	*	*	*	2952	0	0	
+
+S 48   4429	*	*	*	*	3725	*	*	*	*	*	*	*	*	*	188	*	*	*	*	48
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 49   789	*	*	*	*	2041	*	*	*	*	*	*	*	*	*	2489	*	*	*	*	49
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 50   *	*	*	*	*	*	*	*	*	1034	967	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2952	0	0	
+
+Q 51   *	*	*	*	*	*	1166	*	*	*	*	*	*	1683	*	*	2041	*	*	*	51
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 52   1458	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1635	1671	*	*	*	52
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 53   *	*	*	*	*	*	*	*	*	1166	851	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 54   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2952	0	0	
+
+F 55   *	*	*	*	476	*	*	*	*	*	4708	*	*	*	*	*	*	*	*	2041	55
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 56   *	*	*	*	*	1363	2041	*	*	*	*	4429	*	*	*	1836	4583	*	*	*	56
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 57   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 58   *	*	*	*	*	*	*	2294	*	520	*	*	*	*	*	*	*	3341	*	*	58
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 59   *	*	*	*	*	*	*	*	1816	*	*	*	*	*	482	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 60   *	*	*	*	*	*	*	*	1090	*	*	*	*	*	915	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 61   *	*	*	*	*	*	*	3301	*	342	*	*	*	*	*	*	*	3189	*	*	61
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 62   *	*	81	*	*	*	*	*	*	*	*	4195	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 63   *	*	*	*	*	*	*	*	*	*	1606	1916	*	*	*	1299	*	*	*	*	63
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 64   *	*	955	4133	*	*	*	*	*	*	*	*	*	3341	*	1606	*	*	*	*	64
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 65   2027	*	*	*	*	*	*	*	2675	*	*	4708	*	4059	2802	1949	*	3359	*	*	65
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 66   *	*	*	*	*	*	*	2954	*	1440	*	*	*	*	*	*	*	993	*	*	66
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 67   3126	*	2420	5105	*	*	*	*	2408	*	*	1202	*	*	*	4429	*	*	*	*	67
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 68   2041	*	4059	*	*	3359	*	*	*	*	*	2785	*	4535	*	3341	1968	4133	*	*	68
+       0	*	*	*	*	*	*	2952	0	0	
+
+I 69   *	*	*	*	*	*	*	1107	*	1394	*	*	*	*	*	*	*	2688	*	*	69
+       0	*	*	*	*	*	*	2952	0	0	
+
+I 70   *	*	*	*	1474	*	*	2084	*	1470	4535	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 71   4894	*	2373	1402	*	*	*	*	*	*	*	1873	*	*	*	3034	*	*	*	*	71
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 72   *	2412	*	*	*	*	*	*	4059	1819	5024	1683	*	2982	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 73   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2952	0	0	
+
+R 74   *	*	*	*	*	*	*	*	1392	*	*	*	*	*	1110	4133	*	3341	*	*	74
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 75   *	*	1912	*	*	4996	*	*	3341	*	*	1717	*	2907	*	2585	*	*	*	*	75
+       0	*	*	*	*	*	*	2952	0	0	
+
+G 76   *	*	4182	*	*	402	4195	*	*	*	*	*	*	3493	*	4491	*	*	*	*	76
+       0	*	*	*	*	*	*	2952	0	0	
+
+C 77   *	1533	*	*	*	*	*	2907	*	*	*	*	*	*	*	*	*	940	*	*	77
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 78   *	*	*	*	*	*	*	2948	*	2301	*	*	*	*	*	*	*	583	*	*	78
+       0	*	*	*	*	*	*	2952	0	0	
+
+P 79   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 80   *	*	*	*	*	*	*	2412	*	379	4535	*	*	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 81   2643	*	*	*	*	4429	2041	*	*	*	*	2571	*	*	*	1387	*	*	*	*	81
+       0	*	*	*	*	*	*	2952	0	0	
+
+I 82   1549	*	*	*	*	*	*	1662	*	*	*	*	*	*	*	4059	4133	2149	*	*	82
+       0	*	*	*	*	*	*	2952	0	0	
+
+I 83   *	*	*	*	*	*	*	373	*	*	*	*	*	*	*	*	*	2135	*	*	83
+       0	*	*	*	*	*	*	2952	0	0	
+
+P 84   4195	*	*	*	*	*	*	*	*	*	*	*	402	*	*	*	4182	2907	*	*	84
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 85   1477	*	*	*	*	2041	*	3095	*	2845	5203	*	4854	*	4429	4901	*	*	*	*	85
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 86   2237	3359	*	*	*	*	*	4459	*	3341	*	*	*	*	*	3189	2266	2311	*	5203	86
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 87   1845	2208	*	*	*	*	*	*	*	*	*	*	*	*	*	1221	3712	*	*	*	87
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 88   1176	*	*	*	*	*	*	*	*	*	*	3493	*	*	*	1478	3189	*	*	*	88
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 89   3787	*	2408	4195	*	*	*	*	*	*	*	1476	*	*	*	4153	1895	*	*	*	89
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 90   4491	*	*	*	*	3189	*	*	842	*	*	3493	*	*	3317	*	3341	*	*	*	90
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 91   *	*	*	*	4459	*	*	*	*	67	*	*	*	*	*	*	*	*	*	*	91
+       0	*	*	*	*	*	*	2952	0	0	
+
+M 92   *	*	*	*	*	*	*	4956	2041	3765	4583	3397	*	*	3359	*	1654	3330	*	*	92
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 93   *	*	*	*	*	*	*	1867	*	2662	*	*	*	*	*	*	*	817	*	*	93
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 94   *	*	*	*	*	*	*	1378	*	*	*	*	*	*	*	*	*	701	*	*	94
+       0	*	*	*	*	*	*	2952	0	0	
+
+V 95   4996	*	*	*	3475	*	*	1622	*	4528	*	*	*	*	*	3893	2827	1726	*	*	95
+       0	*	*	*	*	*	*	2952	0	0	
+
+P 96   4708	*	4195	*	*	4182	*	*	*	*	*	2907	735	*	*	3085	*	*	*	*	96
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 97   *	*	191	*	*	*	*	*	*	*	*	3010	*	*	*	*	*	*	*	*	97
+       0	*	*	*	*	*	*	2952	0	0	
+
+Y 98   *	*	*	*	3216	*	4010	2416	2108	2809	4059	*	4133	3189	*	*	*	*	*	4583	98
+       0	*	*	*	*	*	*	2952	0	0	
+
+G 99   5203	*	2162	1514	*	4583	*	*	*	*	*	*	*	3055	*	2527	3969	*	*	*	99
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 100  *	*	*	*	*	*	*	4944	*	4059	*	*	*	*	*	1350	2262	1705	*	*	100
+       0	*	*	*	*	*	*	2952	0	0	
+
+Y 101  *	*	*	*	2073	*	*	*	*	4956	*	*	*	*	*	*	*	*	2221	955	101
+       0	*	*	*	*	*	*	2952	0	0	
+
+K 102  *	*	3341	3119	*	*	*	*	3805	3493	4491	2269	*	*	*	2555	3685	3510	*	4708	102
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 103  4429	*	*	*	*	*	*	*	903	*	*	4583	*	1797	3483	*	*	*	*	*	103
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 104  *	4133	*	*	*	*	*	2344	*	*	5024	*	*	*	*	*	3117	1486	*	2041	104
+       0	*	*	*	*	*	*	2952	0	0	
+
+C 105  *	3223	*	*	5067	*	*	3460	*	*	5024	*	*	4141	3149	*	*	887	*	4996	105
+       0	*	*	*	*	*	*	2952	0	0	
+
+D 106  *	5105	2444	2948	*	*	*	4195	*	4743	*	4894	*	3420	3397	*	2253	2901	*	*	106
+       0	*	*	*	*	*	*	2952	0	0	
+
+G 107  *	*	2825	2986	*	1800	4059	*	*	5067	4429	2706	*	4996	*	5203	*	*	3919	4995	107
+       0	*	*	*	*	*	*	2952	0	0	
+
+N 108  *	*	4059	*	*	2212	*	*	*	*	4133	1331	2797	*	*	5203	*	3341	*	*	108
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 109  4996	3397	*	*	5024	4195	4133	4491	*	*	5203	2811	*	4182	*	2982	2499	*	*	2656	109
+       0	*	*	*	*	*	*	2952	0	0	
+
+F 110  *	*	*	*	4583	*	*	4535	*	1885	*	*	*	*	*	*	*	634	*	*	110
+       0	*	*	*	*	*	*	2952	0	0	
+
+T 111  *	*	*	*	*	*	1968	2408	*	*	*	4995	*	5067	*	3422	2036	3126	*	4535	111
+       0	*	*	*	*	*	*	2952	0	0	
+
+Y 112  *	*	*	*	4182	*	4528	*	*	*	*	*	*	*	*	*	*	*	*	150	112
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 113  644	*	*	*	*	4059	*	*	2907	*	*	*	*	*	3189	4133	*	*	*	*	113
+       0	*	*	*	*	*	*	2952	0	0	
+
+S 114  *	*	*	*	*	249	*	*	*	*	*	4059	*	*	*	4583	4133	*	*	*	114
+       0	*	*	*	*	*	*	2952	0	0	
+
+A 115  1853	*	*	*	*	*	*	4059	*	*	*	3877	*	*	4182	3175	3594	1529	*	*	115
+       0	*	*	*	*	*	*	2952	0	0	
+
+L 116  3435	4177	*	*	*	*	*	2943	*	2781	*	*	*	*	3465	4466	4162	1377	*	*	116
+       0	*	*	*	*	*	*	2946	0	0	
+
+W 117  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	409	2018	117
+       0	*	*	*	*	*	*	2946	0	0	
+
+E 118  *	*	2232	4525	*	*	3889	*	*	*	*	2141	*	4848	*	2519	2440	4162	*	*	118
+       0	*	*	*	*	*	*	2946	0	0	
+
+I 119  *	*	*	*	*	*	*	398	*	3008	*	*	*	*	*	*	*	3098	*	*	119
+       69	*	4428	*	*	*	*	2946	0	0	
+
+Q 120  *	*	4053	*	*	*	*	2829	*	4250	4335	2691	*	2456	*	3877	3118	2501	*	*	120
+       0	*	*	*	*	*	0	2925	0	1000	
+
+Q 121  *	*	2502	2096	*	*	*	*	2594	4834	*	4053	*	3407	*	4768	2967	3838	*	*	121
+       0	*	*	*	*	*	0	2925	0	1000	
+
+V 122  *	*	*	*	*	*	*	1849	4217	*	4071	*	*	*	*	*	*	715	*	*	122
+       0	*	*	*	*	*	0	2925	0	1000	
+
+V 123  4335	*	*	*	*	*	*	*	2174	4217	*	3252	*	2734	3658	*	3148	2571	*	4071	123
+       0	*	*	*	*	*	0	2925	0	1000	
+
+D 124  *	*	342	*	*	*	*	*	*	*	*	3252	*	*	*	3234	*	*	*	*	124
+       0	*	*	*	*	*	0	2925	0	1000	
+
+A 125  1723	*	*	*	*	*	*	*	*	2152	3960	2133	*	*	*	3739	*	3252	*	*	125
+       0	*	*	*	*	*	0	2925	0	1000	
+
+D 126  *	*	109	*	*	*	*	*	*	*	*	3778	*	*	*	*	*	*	*	*	126
+       0	*	*	*	*	*	0	2925	0	1000	
+
+S 127  *	*	*	*	*	687	*	*	*	*	*	1761	*	*	*	3575	*	*	*	*	127
+       0	*	*	*	*	*	0	2925	0	1000	
+
+K 128  2947	*	*	3252	*	*	*	4938	1780	*	*	3960	*	4071	3712	2781	3381	*	*	*	128
+       0	*	*	*	*	*	0	2925	0	1000	
+
+I 129  *	*	*	4053	*	*	*	2202	*	*	*	2643	2111	3352	*	*	4335	2448	*	*	129
+       0	*	*	*	*	*	0	2925	0	1000	
+
+V 130  *	*	*	*	*	*	*	3098	3251	3062	*	*	*	*	*	*	4466	706	*	*	130
+       80	*	4217	*	*	*	0	2925	0	1000	
+
+Q 131  *	*	*	3852	*	*	1692	4429	3206	3924	*	4297	*	1822	*	*	3904	*	*	*	131
+       104	*	3852	*	*	1039	962	2898	0	1067	
+
+L 132  3026	*	*	3901	*	*	*	*	*	1416	*	*	2591	*	*	3807	*	2336	*	*	132
+       101	*	3892	*	*	*	0	2901	0	1117	
+
+S 133  *	3872	*	*	*	*	*	3919	896	*	*	3691	*	*	*	3022	2968	*	*	*	133
+       124	*	3600	*	*	*	0	2853	0	1358	
+
+E 134  *	*	1988	1025	*	*	*	*	3158	*	*	*	*	*	3793	3787	*	*	*	*	134
+       0	*	*	*	*	*	0	2753	0	1506	
+
+I 135  *	*	*	*	*	*	*	1212	*	3158	*	*	*	*	*	*	3787	1381	*	*	135
+       123	*	3614	*	*	*	0	2753	0	1506	
+
+N 136  4389	*	4437	*	*	3717	*	*	*	*	*	3170	*	*	*	1841	1310	4780	*	*	136
+       0	*	*	*	*	1378	701	2735	0	2001	
+
+M 137  2640	*	4612	4645	*	3793	*	*	3208	3158	4273	3787	4449	4493	4140	*	4871	2634	*	*	137
+       0	*	*	*	*	*	0	2753	0	1506	
+
+D 138  3564	*	1435	1798	*	3787	*	*	*	*	*	4579	*	4828	*	4871	3749	*	*	*	138
+       109	3787	*	2322	322	2078	390	2753	1000	1506	
+
+N 139  3844	4676	3740	*	*	*	*	*	*	*	*	753	*	*	*	2443	4668	*	*	*	139
+       56	*	4715	*	*	1570	592	2805	0	1467	
+
+S 140  3430	*	*	3657	*	2430	*	*	4373	*	*	2618	*	4838	*	2518	3178	3170	*	*	140
+       296	*	2430	*	*	504	1763	2828	0	1762	
+
+P 141  3682	*	2905	1580	*	*	*	3126	*	4584	*	*	2403	4407	*	*	*	4021	*	*	141
+       117	*	3682	*	*	1772	500	2746	0	1938	
+
+N 142  4152	*	*	*	*	*	*	4185	*	*	*	1358	2075	*	*	2524	3513	*	*	*	142
+       0	*	*	*	*	1444	661	2799	0	1918	
+
+L 143  *	*	*	2693	*	*	*	2638	*	845	*	*	*	3930	*	*	3996	*	*	*	143
+       0	*	*	*	*	*	0	2807	0	1565	
+
+A 144  1904	4455	*	3300	*	4236	*	*	*	*	*	*	*	*	*	3321	1536	3510	*	*	144
+       79	4236	*	2000	415	0	*	2807	1000	1565	
+
+W 145  *	*	*	*	4162	*	*	*	*	*	*	*	*	*	*	*	*	*	409	2388	145
+       0	*	*	*	*	*	*	2946	0	0	
+
+P 146  *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	146
+       0	*	*	*	*	*	*	2946	0	0	
+
+L 147  *	*	*	*	*	*	*	3394	*	486	*	*	*	*	*	*	*	2388	*	*	147
+       0	*	*	*	*	*	*	2946	0	0	
+
+I 148  *	*	*	4000	3871	*	4505	2883	4107	*	*	*	*	*	*	4930	4717	835	*	*	148
+       0	*	*	*	*	*	*	2946	0	0	
+
+V 149  *	*	*	*	*	*	*	2555	*	1538	*	*	*	*	*	*	*	1042	*	*	149
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 150  *	*	*	1519	*	5110	*	3913	*	*	*	2190	*	*	4000	4802	2070	*	*	*	150
+       0	*	*	*	*	*	*	2946	0	0	
+
+A 151  2365	864	*	*	*	*	*	*	*	3053	*	*	*	*	*	*	2881	*	*	*	151
+       0	*	*	*	*	*	*	2946	0	0	
+
+L 152  *	*	*	1701	*	*	*	4466	*	3788	*	3290	*	4368	*	4831	2083	2708	*	*	152
+       0	*	*	*	*	*	*	2946	0	0	
+
+R 153  4177	*	*	*	*	*	*	*	2761	*	*	*	*	*	327	*	*	*	*	*	153
+       0	*	*	*	*	*	*	2946	0	0	
+
+A 154  2006	*	*	*	*	*	3293	*	*	3567	*	*	*	*	*	4227	4261	1283	*	4371	154
+       0	*	*	*	*	*	*	2682	0	0	
+
+N 155  *	*	*	*	*	*	*	*	*	*	*	829	*	*	*	1638	3111	*	*	*	155
+       0	*	*	0	*	*	*	2300	0	0	
+
+//

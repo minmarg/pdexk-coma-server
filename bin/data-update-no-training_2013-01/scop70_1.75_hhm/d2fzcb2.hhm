@@ -1,0 +1,199 @@
+HHsearch 1.5
+NAME  d2fzcb2 g.41.7.1 (B:101-153) Aspartate carbamoyltransferase, Regulatory-chain, C-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   g.41.7.1
+FILE  d2fzcb2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2fzcb2.a3m -v 1 
+DATE  Tue Jan 22 07:04:08 2013
+LENG  53 match states, 53 columns in multiple alignment
+FILT  100 out of 286 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CEECEEEECCCCCCCCCCCCCCCEEEEEECCCCEEEEEEECCEEECHHHHCCC
+>ss_conf
+95022678179796126885664378885899718988878825161220139
+>Consensus
+exIxgixxCxNpxCITnxExvxxxFxvxxxxxxxxlrCxYCExxxxxxxvxxn
+>d2fzcb2 g.41.7.1 (B:101-153) Aspartate carbamoyltransferase, Regulatory-chain, C-terminal domain {Escherichia coli [TaxId: 562]}
+ERIDNVLVCPNSNCISHAEPVSSSFAVRKRANDIALKCKYCEKEFSHNVVLAN
+>gi|355572304|ref|ZP_09043448.1|(106-151:156) Aspartate carbamoyltransferase regulatory chain [Methanolinea tarda NOBI-1] >gi|354824678|gb|EHF08920.1| Aspartate carbamoyltransferase regulatory chain [Methanolinea tarda NOBI-1]  E=4e-09 s/c=1.39 id=37% cov=87%
+DRVVGIVRCPNPGCISNtNEPIQSCFLVQKKG----LRCLYCDWLITKDI----
+>gi|227499715|ref|ZP_03929815.1|(94-142:142) aspartate carbamoyltransferase regulatory subunit [Anaerococcus tetradius ATCC 35098] >gi|227218182|gb|EEI83445.1| aspartate carbamoyltransferase regulatory subunit [Anaerococcus tetradius ATCC 35098]  E=0.0001 s/c=1.00 id=32% cov=77%
+KHVKGLLHCQNPKCVSTSErAVESEFSLIDEEEKT-YKCDYC------------
+>gi|18976970|ref|NP_578327.1|(100-151:152) aspartate carbamoyltransferase [Pyrococcus furiosus DSM 3638] >gi|397651102|ref|YP_006491683.1| aspartate carbamoyltransferase regulatory subunit [Pyrococcus furiosus COM1] >gi|22096019|sp|Q8U374.1|PYRI_PYRFU RecName: Full=Aspartate carbamoyltransferase regulatory chain >gi|18892596|gb|AAL80722.1| aspartate carbamoyltransferase, regulatory subunit [Pyrococcus furiosus DSM 3638] >gi|393188693|gb|AFN03391.1| aspartate carbamoyltransferase regulatory subunit [Pyrococcus furiosus COM1]  E=2e-14 s/c=1.57 id=36% cov=100%
+DVIEGILKCGNPNCITHYEYVTPKFYVISKE-PLKVRCHYCERTMEEEEILAN
+>gi|406901024|gb|EKD43798.1|(105-155:158) Aspartate carbamoyltransferase regulatory chain [uncultured bacterium]  E=2e-11 s/c=1.40 id=31% cov=98%
+-QVEKIIVCPNPKCITNNEEMRTIFYTQENNNEVTLQCRYCEKSFLQEEIIE-
+>gi|374725120|gb|EHR77200.1|(103-156:158) aspartate carbamoyltransferase regulatory subunit [uncultured marine group II euryarchaeote]  E=4e-10 s/c=1.25 id=32% cov=100%
+EEVVNVVRCTFSNCITTNarEPLAHRLRVVSR-DPLHLRCHYCGRPQDLDELVKN
+>gi|291523248|emb|CBK81541.1|(95-141:141) Aspartate carbamoyltransferase, regulatory subunit [Coprococcus catus GD/7]  E=5e-09 s/c=1.36 id=25% cov=91%
+KKLTNVIHCKNPRCITSIEQELPNVFLLTDPETATYRCKYCEEKYTK------
+>gi|406937018|gb|EKD70604.1|(102-148:152) hypothetical protein ACD_46C00483G0002 [uncultured bacterium]   E=4e-10 s/c=1.43 id=36% cov=89%
+----RVFSCPNVNCVTRHEPIDTFFYISENRKKIILTCHYCEKMYDRDQV---
+>gi|406669974|ref|ZP_11077233.1|(94-143:145) aspartate carbamoyltransferase, regulatory subunit [Facklamia ignava CCUG 37419] >gi|405581267|gb|EKB55303.1| aspartate carbamoyltransferase, regulatory subunit [Facklamia ignava CCUG 37419]  E=7e-08 s/c=1.20 id=24% cov=96%
+QHVEGVLACHNPRCISNHERYITTRFTLENEKTRLYRCDYCDHYYEGKMV---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2474	993	*	*	*	*	1881	*	*	*	*	4441	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4633	0	0	
+
+R 2    6315	*	*	2025	5335	*	3381	5498	2326	6755	5896	*	*	3777	2673	5406	3854	4746	*	6199	2
+       0	*	*	*	*	*	*	4732	0	0	
+
+I 3    *	*	*	*	4814	*	*	1032	*	3458	*	*	*	*	*	5679	*	1455	*	*	3
+       0	*	*	*	*	*	*	4800	0	0	
+
+D 4    5769	*	3783	2354	*	5651	5399	5407	2815	*	*	3009	*	4896	3768	4509	3349	3227	*	5374	4
+       0	*	*	*	*	*	*	4800	0	0	
+
+N 5    5813	*	3783	4856	*	871	*	*	5714	*	*	2233	*	*	3814	5302	*	*	*	*	5
+       0	*	*	*	*	*	*	4821	0	0	
+
+V 6    6353	*	*	*	4281	6008	*	1381	6473	3378	*	*	*	*	*	5499	*	1338	*	6422	6
+       0	*	*	*	*	*	*	4821	0	0	
+
+L 7    4974	*	*	*	2529	*	*	2122	*	1741	4637	*	*	*	*	*	6403	2223	*	*	7
+       0	*	*	*	*	*	*	4850	0	0	
+
+V 8    5800	6976	5801	4868	*	*	5576	3261	1755	*	*	6012	*	5641	2247	3064	3545	4355	*	*	8
+       0	*	*	*	*	*	*	4874	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4874	0	0	
+
+P 10   5738	6055	*	*	6197	5263	4867	*	2378	6864	5040	4812	1223	6706	5079	4846	3239	5872	*	*	10
+       0	*	*	*	*	*	*	4874	0	0	
+
+N 11   *	*	5691	*	5967	*	*	*	*	*	*	52	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	4874	0	0	
+
+S 12   6718	*	*	4834	*	6439	*	*	*	5714	*	4710	617	5910	4648	2787	5501	6493	*	*	12
+       0	*	*	*	*	*	*	4874	0	0	
+
+N 13   5027	*	6544	*	5691	5181	*	*	3270	6230	*	1404	*	6813	1689	4407	4771	*	*	6148	13
+       0	*	*	*	*	*	*	4874	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4874	0	0	
+
+I 15   5363	*	*	*	*	*	*	323	*	*	*	*	*	*	*	*	*	2503	*	*	15
+       0	*	*	*	*	*	*	4874	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1547	604	*	*	*	16
+       12	6880	*	0	*	*	*	4874	1000	0	
+
+H 17   6129	6479	*	6214	*	*	2737	*	6339	*	*	1049	*	4538	3948	2762	4060	*	*	*	17
+       223	2806	*	613	1531	*	*	4874	3041	0	
+
+A 18   4807	6382	6880	*	6803	3990	2504	3783	5221	6100	6378	2530	*	6230	3996	3106	3712	3604	*	4450	18
+       70	4391	*	491	1792	*	*	4874	2429	0	
+
+E 19   *	*	4876	182	*	6197	6128	*	*	*	*	5935	*	4632	*	*	*	*	*	*	19
+       101	4217	6186	0	*	*	*	4874	2314	0	
+
+P 20   4580	*	3723	3101	*	*	5435	6615	3172	3667	*	4028	1590	4921	3403	*	*	*	*	5517	20
+       161	3415	6400	0	*	0	*	4852	2881	1000	
+
+V 21   4399	6860	6311	4471	*	4354	*	2387	5353	3832	4309	6755	*	*	*	5991	6369	1297	*	4130	21
+       0	*	*	*	*	0	*	4860	0	1000	
+
+S 22   3779	5924	3044	2618	*	*	*	3666	2970	3947	*	4682	4388	4682	4410	4248	3657	4301	*	*	22
+       0	*	*	*	*	*	*	4874	0	0	
+
+S 23   4599	*	4158	4601	*	5178	4180	6825	5656	*	*	6479	2552	4108	6182	1969	2149	5997	*	*	23
+       59	4893	7273	369	2149	*	*	4874	1762	0	
+
+S 24   6182	5155	5358	4890	6489	5845	3716	3973	2699	4203	6439	5121	*	5147	2433	3159	3997	3749	*	5587	24
+       22	*	6052	*	*	0	*	4878	0	1000	
+
+F 25   *	*	*	5423	426	*	6585	3938	4186	5024	*	*	*	6179	6572	*	6196	4924	*	*	25
+       29	*	5631	*	*	0	*	4854	0	1000	
+
+A 26   5345	*	5167	5393	2326	*	3536	3217	3619	4178	5737	6579	*	6176	3356	4514	3965	*	*	2782	26
+       46	*	4996	*	*	0	*	4863	0	1450	
+
+V 27   6741	*	*	6039	4967	*	6162	3535	5892	2132	*	4929	*	*	5661	5971	3362	1401	*	4221	27
+       17	*	6406	*	*	1437	665	4841	0	1933	
+
+R 28   5471	6792	5799	3793	5546	*	*	2913	3159	1959	*	6861	*	5436	3088	4587	5500	2910	*	6804	28
+       50	*	4890	*	*	1428	670	4849	0	1942	
+
+K 29   4269	6523	3161	3118	6297	5750	5687	5190	3725	5730	6438	3273	5265	4176	4899	2970	3620	3338	*	*	29
+       124	4520	4678	0	*	369	2146	4839	1632	2158	
+
+R 30   5391	*	2483	3831	*	3729	6227	*	2495	6537	*	3773	4421	4000	2794	4025	4640	6404	*	6602	30
+       128	6141	3821	0	*	0	*	4889	1000	2295	
+
+A 31   5010	*	4165	2132	4948	3076	*	5514	3365	5204	*	3899	5123	4770	4445	2660	6412	4649	*	*	31
+       149	*	3352	*	*	188	3034	4889	0	2746	
+
+N 32   *	*	2261	2440	4949	3332	4948	*	2588	*	*	2975	4501	5281	4787	5833	6371	6190	*	*	32
+       45	*	5025	*	*	916	1089	4882	0	2903	
+
+D 33   *	*	4097	3307	*	3448	5514	*	2702	*	*	3781	2045	3572	4544	4678	3619	6527	*	*	33
+       65	6804	4823	1000	1000	2634	253	4836	1000	2629	
+
+I 34   6299	*	*	*	6255	4060	5173	1878	4374	2557	4694	*	5670	5569	4287	*	3998	2299	*	*	34
+       184	*	3060	*	*	368	2151	4853	0	2868	
+
+A 35   4230	*	*	3640	4123	*	5109	3728	2307	4262	4184	4957	*	3310	4059	6423	2960	5324	*	4744	35
+       15	*	6556	*	*	0	*	4854	0	3190	
+
+L 36   5600	6123	*	*	4533	*	*	5003	*	1118	4522	*	*	*	*	*	*	4863	*	1506	36
+       16	*	6498	*	*	0	*	4870	0	1000	
+
+K 37   5620	*	*	6018	*	*	6615	*	2108	5677	*	*	*	3945	893	5180	4592	5057	*	*	37
+       0	*	*	*	*	0	*	4870	0	1000	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	4874	0	0	
+
+K 39   4355	6442	3701	2911	5659	*	2262	4326	2628	4374	5186	6479	*	5744	4280	6914	6806	4630	*	3732	39
+       0	*	*	*	*	*	*	4874	0	0	
+
+Y 40   *	*	*	*	4752	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55	40
+       0	*	*	*	*	*	*	4874	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	4874	0	0	
+
+E 42   6365	*	2556	528	*	4263	*	*	*	*	*	4256	*	*	5659	*	*	*	*	*	42
+       0	*	*	*	*	*	*	4805	0	0	
+
+K 43   *	*	*	3262	*	*	4600	*	1936	*	5217	4934	*	3095	1714	6336	3671	*	6769	6427	43
+       16	*	6539	*	*	*	*	4757	0	0	
+
+E 44   5195	*	5084	2203	*	*	*	2957	3809	3942	6153	*	4788	5653	4094	3917	3927	2530	*	5206	44
+       0	*	*	*	*	0	*	4769	0	1000	
+
+F 45   *	*	*	*	1341	*	5956	2520	*	5237	3838	*	*	5488	*	*	4858	3857	*	2377	45
+       0	*	*	*	*	*	*	4687	0	0	
+
+S 46   5265	*	2556	2869	*	5440	*	6001	4711	6324	*	*	6127	3602	5239	1896	2567	*	*	5871	46
+       0	*	*	*	*	*	*	4724	0	0	
+
+H 47   5717	*	4830	2683	*	4750	3101	5889	2749	3630	*	5839	*	4027	2172	*	5744	6468	*	4076	47
+       0	*	*	*	*	*	*	4671	0	0	
+
+N 48   6374	*	1789	2027	*	5791	5927	*	3063	*	*	2509	*	5318	6143	3573	*	*	*	*	48
+       0	*	*	*	*	*	*	4589	0	0	
+
+V 49   5841	*	3371	1670	*	*	4881	1930	*	4912	4405	5552	*	4108	*	4849	4462	4810	*	*	49
+       0	*	*	*	*	*	*	4495	0	0	
+
+V 50   *	*	*	*	4653	*	*	1629	*	3154	3828	*	*	*	*	*	*	1138	*	*	50
+       0	*	*	*	*	*	*	4463	0	0	
+
+L 51   *	*	*	5026	*	*	*	1616	*	2362	4185	*	*	*	*	*	2841	2157	*	5067	51
+       0	*	*	*	*	*	*	4099	0	0	
+
+A 52   3959	*	*	1737	4408	*	*	*	2696	*	4634	4599	*	*	3006	2132	*	*	*	*	52
+       0	*	*	*	*	*	*	3935	0	0	
+
+N 53   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	53
+       0	*	*	0	*	*	*	3202	0	0	
+
+//

@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d2cuqa1 g.39.1.3 (A:43-74) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2cuqa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2cuqa1.a3m -v 1 
+DATE  Tue Jan 22 06:13:11 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  39 out of 41 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCHHHHHHHHCC
+>ss_conf
+97788886578723567998601333532129
+>Consensus
+vCtxCxxxLaGqrFTSrdexpYCxxCfgxlfA
+>d2cuqa1 g.39.1.3 (A:43-74) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+VCTGCQTPLAGQQFTSRDEDPYCVACFGELFA
+>gi|357613975|gb|EHJ68824.1|(151-181:244) hypothetical protein KGM_13739 [Danaus plexippus]   E=0.0006 s/c=1.53 id=69% cov=100%
+-CTHCNNSLAGERFTSRDEKPYCSECFGELFA
+>gi|326916185|ref|XP_003204391.1|(188-219:279) PREDICTED: four and a half LIM domains protein 5-like [Meleagris gallopavo]  E=0.0008 s/c=1.47 id=58% cov=103%
+VCAGCKTQLSGQRFVSKDEYPYCVDCFSKFYA
+>gi|348519423|ref|XP_003447230.1|(187-218:279) PREDICTED: four and a half LIM domains protein 3-like [Oreochromis niloticus]  E=0.0002 s/c=1.52 id=64% cov=103%
+LCTGCKTPLAGQPFTSQGESPYCVKCFSNMYA
+>gi|125840523|ref|XP_695478.2|(187-218:279) PREDICTED: four and a half LIM domains protein 3 [Danio rerio]   E=0.0002 s/c=1.52 id=64% cov=103%
+VCTSCKVQLAGQHFTSRDDSPYCIKCFGNLYA
+>gi|297666977|ref|XP_002811776.1|(298-329:460) PREDICTED: four and a half LIM domains protein 2 isoform 2 [Pongo abelii]  E=0.0003 s/c=1.51 id=52% cov=103%
+VCTACRKQLSGQRFTARDDFAYCLNCFCDLYA
+>gi|260791192|ref|XP_002590624.1|(193-224:291) hypothetical protein BRAFLDRAFT_123597 [Branchiostoma floridae] >gi|3360516|gb|AAC69756.1| LIM-domain protein [Branchiostoma floridae] >gi|229275819|gb|EEN46635.1| hypothetical protein BRAFLDRAFT_123597 [Branchiostoma floridae]  E=0.0005 s/c=1.48 id=55% cov=103%
+VCTHCKKPMSGERFTSKDNNPYCINCYGDLFA
+>gi|226479208|emb|CAX73099.1|(195-226:285) Four and a half LIM domains protein 2 [Schistosoma japonicum]   E=0.001 s/c=1.46 id=61% cov=103%
+LCTNCSCELAGQKFTSRDEKPYCADCYTQLFA
+>gi|291223640|ref|XP_002731816.1|(388-419:479) PREDICTED: LIM domain family member (lim-9)-like [Saccoglossus kowalevskii]  E=7e-05 s/c=1.56 id=61% cov=103%
+VCNDCKKPLAGMRFTSREDKPYCADCFGERFA
+>gi|47218600|emb|CAG10299.1|(210-241:291) unnamed protein product [Tetraodon nigroviridis]   E=0.0009 s/c=1.45 id=61% cov=103%
+VCIGCKGQLAGQRFTSRDNFVYCLNCFCNLFA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	1538	*	*	*	*	*	*	*	609	*	*	1
+       0	*	*	*	*	*	*	2094	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2118	0	0	
+
+T 3    3601	*	*	*	*	*	*	4643	*	*	*	4644	*	*	*	4085	361	*	*	*	3
+       0	*	*	*	*	*	*	2118	0	0	
+
+G 4    3554	*	4644	*	*	1231	1820	*	*	*	*	3181	*	*	*	4170	*	*	*	*	4
+       0	*	*	*	*	*	*	2118	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2118	0	0	
+
+Q 6    *	*	4876	4153	*	*	*	*	978	*	*	3107	*	3740	4082	2718	*	*	*	*	6
+       0	*	*	*	*	*	*	2118	0	0	
+
+T 7    3777	4691	*	*	*	4643	*	4183	1399	*	*	4581	*	4715	*	5749	2054	3738	*	*	7
+       0	*	*	*	*	*	*	2118	0	0	
+
+P 8    *	*	*	3753	*	*	*	*	*	*	*	*	1404	1776	*	2096	5489	*	*	*	8
+       0	*	*	*	*	*	*	2118	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	62	4581	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2118	0	0	
+
+A 10   461	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1871	*	*	*	*	10
+       0	*	*	*	*	*	*	2118	0	0	
+
+G 11   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2118	0	0	
+
+Q 12   *	*	4817	3290	*	*	*	*	*	5072	4644	*	*	335	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2118	0	0	
+
+Q 13   *	*	*	*	*	*	5275	*	3869	*	*	*	3056	2832	632	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2118	0	0	
+
+F 14   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2118	0	0	
+
+T 15   *	*	*	*	*	*	*	4791	*	*	*	*	*	*	*	*	124	4432	*	*	15
+       0	*	*	*	*	*	*	2118	0	0	
+
+S 16   4791	*	*	*	*	*	*	*	*	*	*	*	*	*	*	103	4926	*	*	*	16
+       0	*	*	*	*	*	*	2118	0	0	
+
+R 17   *	*	*	*	*	*	*	*	2020	*	*	*	*	2307	859	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2118	0	0	
+
+D 18   *	*	417	2933	*	3056	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2118	0	0	
+
+E 19   *	*	1612	848	*	*	4817	*	*	*	*	3612	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2118	0	0	
+
+D 20   *	*	3449	*	2574	*	*	*	1556	*	*	4046	*	3199	4791	3110	4932	*	*	4432	20
+       0	*	*	*	*	*	*	2118	0	0	
+
+P 21   3555	*	*	*	*	*	*	*	*	*	*	*	193	*	*	*	*	4643	*	*	21
+       0	*	*	*	*	*	*	2118	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	22
+       0	*	*	*	*	*	*	2118	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2118	0	0	
+
+V 24   1644	*	*	*	*	5520	*	2372	*	2389	*	*	*	*	*	5457	*	1992	*	*	24
+       0	*	*	*	*	*	*	2118	0	0	
+
+A 25   4206	*	1749	2745	*	5256	*	*	2314	*	*	2493	*	*	5221	4452	5512	*	*	*	25
+       0	*	*	*	*	*	*	2118	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2118	0	0	
+
+F 27   *	*	*	*	329	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2293	27
+       0	*	*	*	*	*	*	2118	0	0	
+
+G 28   *	2574	*	*	*	759	*	*	*	*	*	*	*	*	*	2303	4691	*	*	*	28
+       0	*	*	*	*	*	*	2118	0	0	
+
+E 29   *	*	2444	1379	*	*	*	*	4432	*	*	2053	*	4691	*	3242	*	*	*	*	29
+       0	*	*	*	*	*	*	2118	0	0	
+
+L 30   *	*	*	*	4432	*	*	4932	*	229	5172	*	*	*	4644	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2118	0	0	
+
+F 31   *	*	*	*	742	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1314	31
+       0	*	*	*	*	*	*	2118	0	0	
+
+A 32   48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4922	*	*	*	*	32
+       0	*	*	0	*	*	*	2118	0	0	
+
+//

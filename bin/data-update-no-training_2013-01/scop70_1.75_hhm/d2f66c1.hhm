@@ -1,0 +1,237 @@
+HHsearch 1.5
+NAME  d2f66c1 a.2.17.3 (C:142-206) Vacuolar protein sorting-associated protein 37, VPS37 (SRN2) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   a.2.17.3
+FILE  d2f66c1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2f66c1.a3m -v 1 
+DATE  Tue Jan 22 06:49:53 2013
+LENG  65 match states, 65 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+98777478999999999999988889887654124612388999999998999756565311479
+>Consensus
+xxkYsdxaLKxklexxxkxldexsxxLExxxxxxxxxxxLDxFlxqYlxxRtxYHlxrEKLaTWx
+>d2f66c1 a.2.17.3 (C:142-206) Vacuolar protein sorting-associated protein 37, VPS37 (SRN2) {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+SKKYGDIALKKKLEQNTKKLDEESSQLETTTRSIDSADDLDQFIKNYLDIRTQYHLRREKLATWD
+>gi|156846401|ref|XP_001646088.1|(111-169:177) hypothetical protein Kpol_543p60 [Vanderwaltozyma polyspora DSM 70294] >gi|156116760|gb|EDO18230.1| hypothetical protein Kpol_543p60 [Vanderwaltozyma polyspora DSM 70294]  E=4e-07 s/c=0.99 id=52% cov=92%
+--KYSPNVLKNKLEAELKELDHASRIIEENA---SNSNELDSFINQYLDIRTQYHSKREKLSTW-
+>gi|410076310|ref|XP_003955737.1|(94-161:168) hypothetical protein KAFR_0B03060 [Kazachstania africana CBS 2517] >gi|372462320|emb|CCF56602.1| hypothetical protein KAFR_0B03060 [Kazachstania africana CBS 2517]  E=0.0006 s/c=0.70 id=42% cov=102%
+SDNYSEAALKHKLENQVKEYLEMSDQLEASVYSTEGEIDssaLDDTLKQYMETRINYHRSKEHLATWN
+>gi|366991843|ref|XP_003675687.1|(103-170:177) hypothetical protein NCAS_0C03320 [Naumovozyma castellii CBS 4309] >gi|342301552|emb|CCC69322.1| hypothetical protein NCAS_0C03320 [Naumovozyma castellii CBS 4309]  E=4e-10 s/c=1.00 id=45% cov=100%
+-DNYSDEAMKRKVQLSIRQLDEQCNQLElslnTHTENKLDSNSLDTFVNEYLEKRKLFHLQREKLATWD
+>gi|410730209|ref|XP_003671284.2|(142-213:220) hypothetical protein NDAI_0G02640 [Naumovozyma dairenensis CBS 421] >gi|401780102|emb|CCD26041.2| hypothetical protein NDAI_0G02640 [Naumovozyma dairenensis CBS 421]  E=2e-09 s/c=0.91 id=38% cov=100%
+-EKYSDDALRRNVEMYLKRLDNECTNLEVSMYDTQgqdgmkniDMNQLNLFVKEYLEKRQKFHLNQEKLNTWN
+>gi|367015930|ref|XP_003682464.1|(102-162:170) hypothetical protein TDEL_0F04420 [Torulaspora delbrueckii] >gi|359750126|emb|CCE93253.1| hypothetical protein TDEL_0F04420 [Torulaspora delbrueckii]  E=3e-09 s/c=1.07 id=44% cov=95%
+-KKYNEDLLKAVLEIQMTEVEDDSFKLE---EKLKEDDDLDVFLDQYIEMRTNYHIKREKLATWN
+>gi|374109723|gb|AEY98628.1|(114-172:179) FAGL189Cp [Ashbya gossypii FDAG1]   E=1e-11 s/c=1.24 id=38% cov=92%
+--RYDDGVLRARLQQEMRAAEAECRVL----RAQLGDAEVDAFLTQYLRLRTEYHVRREKLETWE
+>gi|50308257|ref|XP_454129.1|(117-179:187) hypothetical protein [Kluyveromyces lactis NRRL Y-1140] >gi|49643264|emb|CAG99216.1| KLLA0E04115p [Kluyveromyces lactis]  E=8e-11 s/c=1.11 id=45% cov=98%
+NSKFSNDALKKQLRHNVINLDEKSSHMVNEVPVTDES--LDLFLEQYVNERTEYHLQREKLATWE
+>gi|363751827|ref|XP_003646130.1|(113-173:182) hypothetical protein Ecym_4248 [Eremothecium cymbalariae DBVPG#7215] >gi|356889765|gb|AET39313.1| hypothetical protein Ecym_4248 [Eremothecium cymbalariae DBVPG#7215]  E=3e-10 s/c=1.12 id=44% cov=95%
+NDSYNDPTLKHKFKSQIRELDEKSRAMEARL----DATDVDAFISEYISLRTNYHLYSEKLNTWD
+>gi|254581410|ref|XP_002496690.1|(102-161:169) ZYRO0D05874p [Zygosaccharomyces rouxii] >gi|238939582|emb|CAR27757.1| ZYRO0D05874p [Zygosaccharomyces rouxii]  E=4e-10 s/c=1.13 id=49% cov=94%
+-EKYHDDALKKQLEVQIQHLDDASGKLEM---DMGKYEGLDEFLNDYIGTRTQYHLKREKLTTW-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	1218	*	*	*	1361	2466	*	*	*	1
+       0	*	*	*	*	*	*	2148	0	0	
+
+K 2    *	*	1582	1470	*	*	*	*	2432	*	*	*	*	*	*	3065	*	*	*	*	2
+       0	*	*	*	*	*	*	2866	0	0	
+
+K 3    *	*	*	*	*	*	*	*	669	*	*	2405	*	*	3439	3476	*	*	*	*	3
+       0	*	*	*	*	*	*	3103	0	0	
+
+Y 4    *	*	*	*	3326	*	*	*	*	*	*	*	*	*	*	*	*	*	*	152	4
+       0	*	*	*	*	*	*	3103	0	0	
+
+G 5    *	*	3439	*	*	2969	3649	*	*	*	*	2522	*	*	*	926	*	*	*	*	5
+       0	*	*	*	*	*	*	3103	0	0	
+
+D 6    *	*	665	2423	*	*	*	*	*	*	*	3326	3591	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3103	0	0	
+
+I 7    3291	*	1257	3528	*	3439	*	2969	*	*	*	3591	3476	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3103	0	0	
+
+A 8    620	*	*	*	*	*	*	*	*	3569	*	*	*	*	*	*	3476	2513	*	*	8
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	241	2701	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 10   *	*	*	*	*	*	*	*	544	*	*	*	*	*	1672	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 11   2502	*	*	*	*	*	2381	*	2058	*	*	2736	*	*	2051	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 12   *	*	*	*	*	*	*	*	1031	*	*	2693	*	2478	3439	*	*	3569	*	*	12
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 13   *	*	*	*	3476	*	*	*	*	580	*	*	*	*	*	*	*	2051	*	*	13
+       0	*	*	*	*	*	*	3103	0	0	
+
+E 14   *	*	*	663	*	*	*	*	3476	*	*	*	*	2483	3326	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3103	0	0	
+
+Q 15   3591	*	*	*	*	*	3326	3569	*	3528	2693	3291	*	2185	*	3476	*	3649	*	*	15
+       0	*	*	*	*	*	*	3103	0	0	
+
+N 16   *	*	*	2513	*	*	*	*	*	*	*	2136	*	1490	*	3528	*	*	*	2693	16
+       0	*	*	*	*	*	*	3103	0	0	
+
+T 17   *	*	*	*	*	*	*	1964	*	2073	2502	*	*	*	*	*	2969	2308	*	*	17
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 18   *	*	*	*	*	*	*	3326	1097	*	*	*	*	3649	1896	*	3569	*	*	*	18
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 19   3439	*	*	1477	*	*	3649	*	2969	*	*	3326	*	3528	2693	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 20   3439	*	*	*	*	*	*	*	*	471	*	*	*	*	*	*	*	3569	*	3291	20
+       0	*	*	*	*	*	*	3103	0	0	
+
+D 21   *	*	612	2502	*	3898	*	*	*	3291	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3103	0	0	
+
+E 22   3439	*	2608	982	*	*	3591	*	*	*	*	2693	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3103	0	0	
+
+E 23   2619	*	3569	1417	*	*	*	*	2399	*	3291	*	*	3528	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3103	0	0	
+
+S 24   *	1584	*	*	*	*	*	*	*	*	*	*	*	*	*	585	*	*	*	*	24
+       0	*	*	*	*	*	*	3103	0	0	
+
+S 25   *	*	3291	*	3569	3649	*	*	*	*	*	3528	*	*	1915	2136	2693	*	*	*	25
+       0	*	*	*	*	*	*	3103	0	0	
+
+Q 26   3476	*	*	*	*	*	3326	3591	2608	*	*	2693	*	1659	*	*	*	3439	*	*	26
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 27   *	*	*	*	*	*	*	3591	*	459	2399	*	*	*	*	*	*	*	*	*	27
+       140	*	3439	*	*	*	*	3103	0	0	
+
+E 28   *	*	*	166	*	*	*	*	*	*	*	*	*	*	*	*	*	3198	*	*	28
+       312	3390	3338	2000	415	*	0	2980	1000	1000	
+
+T 29   1649	*	*	3284	*	*	*	*	*	*	3327	3067	*	*	*	*	2472	2479	*	*	29
+       151	*	3327	*	*	*	0	2853	0	1516	
+
+T 30   *	*	*	2927	*	*	3127	*	*	*	*	3068	*	*	2985	1234	3586	*	*	*	30
+       153	3316	*	1585	585	*	0	2732	1000	1815	
+
+T 31   3068	*	*	*	*	*	*	*	*	2985	2395	*	*	*	*	*	1746	1909	*	*	31
+       406	*	2026	*	*	597	1561	2732	0	1815	
+
+R 32   *	*	*	2100	*	*	*	*	*	*	*	*	2908	3360	1695	*	*	*	*	2137	32
+       0	*	*	*	*	1562	597	2793	0	1758	
+
+S 33   3096	*	2446	*	*	3482	*	*	3309	*	*	3261	*	*	*	2333	3600	3013	*	*	33
+       0	*	*	*	*	*	0	2907	0	1508	
+
+I 34   *	*	*	*	*	*	*	3667	3261	3309	3416	*	*	2276	*	*	1585	3600	*	*	34
+       0	*	*	*	*	976	1025	2907	0	1508	
+
+D 35   *	*	1936	2432	*	3539	*	*	3425	2319	*	*	*	3586	*	3465	*	*	*	*	35
+       125	3586	*	3000	193	0	*	2995	1000	1000	
+
+S 36   *	*	1980	2442	*	1878	*	*	3649	*	*	3591	*	*	*	2969	*	*	*	*	36
+       0	*	*	*	*	*	*	3103	0	0	
+
+A 37   2200	*	2502	3291	*	*	*	*	*	*	2693	*	*	*	*	1892	*	*	*	3649	37
+       152	*	3326	*	*	*	*	3103	0	0	
+
+D 38   3314	*	2074	3474	*	*	*	3136	3566	*	*	1881	*	*	*	*	3288	*	*	*	38
+       0	*	*	*	*	*	0	2980	0	1000	
+
+D 39   *	*	1141	2380	*	3474	*	*	*	*	*	3566	*	3574	*	3382	*	*	*	*	39
+       174	3136	*	1585	585	0	*	2980	1000	1000	
+
+L 40   *	*	*	*	*	*	*	3686	*	434	*	*	*	*	*	*	*	2457	*	*	40
+       0	*	*	*	*	*	*	3103	0	0	
+
+D 41   *	*	115	*	*	*	*	*	*	*	*	3701	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3103	0	0	
+
+Q 42   2457	*	3291	2768	*	*	*	*	*	2501	3686	*	*	4043	*	3591	3528	3569	*	*	42
+       117	3686	*	2322	322	*	*	3103	1000	0	
+
+F 43   *	*	*	*	155	*	*	*	*	*	*	*	*	*	*	*	3291	*	*	*	43
+       0	*	*	*	*	*	*	3103	0	0	
+
+I 44   *	*	*	*	*	*	*	1734	*	1126	*	*	*	*	*	*	*	2051	*	*	44
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 45   *	*	3569	3326	*	*	*	*	1379	*	*	2003	*	*	*	3476	3439	*	*	*	45
+       0	*	*	*	*	*	*	3103	0	0	
+
+N 46   *	*	3649	1594	*	*	*	*	*	*	*	4043	*	1116	*	*	3898	*	*	*	46
+       0	*	*	*	*	*	*	3103	0	0	
+
+Y 47   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	47
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 48   *	*	*	*	*	*	*	1978	*	878	3291	*	*	*	*	*	*	3326	*	*	48
+       0	*	*	*	*	*	*	3103	0	0	
+
+D 49   *	*	2247	1225	*	3649	*	*	*	*	*	3326	*	*	3439	3476	*	*	*	*	49
+       0	*	*	*	*	*	*	3103	0	0	
+
+I 50   *	*	*	3326	*	*	*	2799	2051	2457	3569	*	*	*	*	*	2006	*	*	*	50
+       0	*	*	*	*	*	*	3103	0	0	
+
+R 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	51
+       0	*	*	*	*	*	*	3103	0	0	
+
+T 52   *	*	*	*	*	*	*	3291	3528	*	*	*	*	2693	*	*	607	*	*	*	52
+       0	*	*	*	*	*	*	3103	0	0	
+
+Q 53   *	*	*	2381	*	*	*	*	2693	3528	*	1856	*	1784	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	3103	0	0	
+
+Y 54   *	*	*	*	2051	*	*	*	*	*	*	*	*	*	*	*	*	*	*	398	54
+       0	*	*	*	*	*	*	3103	0	0	
+
+H 55   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 56   *	*	*	*	*	*	*	3569	*	648	*	*	*	*	3291	3591	*	3439	*	*	56
+       0	*	*	*	*	*	*	3103	0	0	
+
+R 57   *	*	*	*	*	*	*	*	2017	*	*	2693	*	2423	2185	3291	*	*	*	3476	57
+       0	*	*	*	*	*	*	3103	0	0	
+
+R 58   *	*	*	*	*	*	*	*	3291	*	*	*	*	2693	614	3476	*	*	*	*	58
+       0	*	*	*	*	*	*	3103	0	0	
+
+E 59   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	3103	0	0	
+
+K 60   *	*	*	*	*	*	3291	*	155	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	3103	0	0	
+
+L 61   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	3103	0	0	
+
+A 62   998	*	*	3439	*	*	*	*	*	*	*	2032	*	*	*	3591	3649	*	*	*	62
+       0	*	*	*	*	*	*	3103	0	0	
+
+T 63   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	63
+       0	*	*	*	*	*	*	3103	0	0	
+
+W 64   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	64
+       0	*	*	*	*	*	*	3103	0	0	
+
+D 65   *	*	1805	1669	*	*	*	*	*	*	*	1324	*	*	*	*	*	*	*	*	65
+       0	*	*	0	*	*	*	2925	0	0	
+
+//

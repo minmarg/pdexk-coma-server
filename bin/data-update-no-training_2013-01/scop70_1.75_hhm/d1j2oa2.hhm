@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d1j2oa2 g.39.1.3 (A:31-63) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1j2oa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1j2oa2.a3m -v 1 
+DATE  Mon Jan 21 22:04:21 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  38 out of 40 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCHHCCHHHHCCCEEEECCCCCCC
+>ss_conf
+955765441110011012005800101343369
+>Consensus
+LkCxcCxxxLgevGxsxytkxgxiLCkxDYlRl
+>d1j2oa2 g.39.1.3 (A:31-63) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+LSCDLCGCRLGEVGRRLYYKLGRKLCRRDYLRL
+>gi|357622819|gb|EHJ74198.1|(192-224:359) beadex/dLMO protein [Danaus plexippus]   E=7e-05 s/c=1.53 id=59% cov=103%
+LKCGCCDCRLGEVGHTLYTRANLILCKRDYLRL
+>gi|348586684|ref|XP_003479098.1|(48-80:236) PREDICTED: LIM domain transcription factor LMO4-like [Cavia porcellus]  E=3e-05 s/c=1.55 id=47% cov=103%
+LKCSCCQAQLGDIGTSCYTKSGMILCRNDYIRL
+>gi|156549266|ref|XP_001599629.1|(157-189:281) PREDICTED: lipoma-preferred partner homolog [Nasonia vitripennis]   E=0.0003 s/c=1.44 id=41% cov=103%
+LKCTTCGTALAEIGQSCYSKGNMILCKNDYTRM
+>gi|390345093|ref|XP_787486.3|(84-116:208) PREDICTED: LIM domain transcription factor LMO4-B-like [Strongylocentrotus purpuratus]  E=0.0004 s/c=1.44 id=41% cov=103%
+LKCSCCNVQLGDIGHSCFSKGGMILCKKDYLRI
+>gi|332025537|gb|EGI65700.1|(166-198:288) LIM domain transcription factor LMO4 [Acromyrmex echinatior]   E=0.0007 s/c=1.41 id=44% cov=103%
+LKCTYCNVVLGEIGQSCYTKSGMILCKADYRRF
+>gi|383853634|ref|XP_003702327.1|(45-77:222) PREDICTED: rhombotin-1-like [Megachile rotundata]   E=3e-05 s/c=1.54 id=47% cov=103%
+LKCSCCDCKLVDVGSTLYTKSNFILCKKDYLRM
+>gi|47207761|emb|CAF90915.1|(28-60:164) unnamed protein product [Tetraodon nigroviridis]   E=0.0005 s/c=1.43 id=47% cov=103%
+LRCSCCQARLGDLGPSCYSRGGLILCRSDYVRL
+>gi|410903283|ref|XP_003965123.1|(48-80:233) PREDICTED: LIM domain transcription factor LMO4-B-like [Takifugu rubripes]  E=0.0006 s/c=1.42 id=44% cov=103%
+LRCSCCHAELGEFSRSCYSRGGMILCKDDYIRL
+>gi|125986810|ref|XP_001357168.1|(103-135:241) GA19074 [Drosophila pseudoobscura pseudoobscura] >gi|195146774|ref|XP_002014359.1| GL19153 [Drosophila persimilis] >gi|54645497|gb|EAL34236.1| GA19074 [Drosophila pseudoobscura pseudoobscura] >gi|194106312|gb|EDW28355.1| GL19153 [Drosophila persimilis]  E=0.001 s/c=1.39 id=42% cov=94%
+LKCHCCGAMLAEVGSSCFTRRGLILCKKDY---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2222	0	0	
+
+S 2    *	*	*	*	*	*	*	*	411	*	5245	*	*	*	3963	3235	*	4286	*	*	2
+       0	*	*	*	*	*	*	2222	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2222	0	0	
+
+D 4    3245	*	2666	*	*	2462	5382	*	*	*	*	*	*	*	*	1268	3105	*	*	*	4
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 5    *	497	*	*	*	*	*	*	*	2666	*	*	*	*	*	4902	4749	*	*	3987	5
+       0	*	*	*	*	*	*	2222	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2222	0	0	
+
+G 7    5217	*	1827	3809	*	2079	3239	*	*	*	*	3980	*	2224	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2222	0	0	
+
+C 8    1317	1005	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4749	3980	*	*	8
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 9    3981	*	*	4751	*	*	5676	*	4709	*	3155	*	*	2584	928	*	*	4760	*	*	9
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2222	0	0	
+
+G 11   2360	*	*	*	*	383	*	*	*	*	*	*	*	*	*	*	*	4709	*	*	11
+       0	*	*	*	*	*	*	2222	0	0	
+
+E 12   *	*	2088	439	*	*	*	*	*	*	*	*	*	*	5194	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2222	0	0	
+
+V 13   *	*	*	*	4751	*	*	1536	*	4370	*	*	*	*	*	*	*	881	*	5216	13
+       0	*	*	*	*	*	*	2222	0	0	
+
+G 14   *	*	4512	*	*	165	*	*	*	*	*	*	*	*	*	3965	*	*	*	*	14
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 15   5591	3394	*	*	*	*	3845	*	*	*	*	*	4370	3754	3328	973	3591	*	*	*	15
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 16   *	*	*	*	*	*	3009	*	4873	*	*	*	*	*	4909	1199	1423	*	*	*	16
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 17   *	1055	*	*	*	*	*	*	*	1239	4512	*	*	*	*	*	*	4286	*	*	17
+       0	*	*	*	*	*	*	2222	0	0	
+
+Y 18   *	*	*	*	2247	*	*	*	*	4286	*	*	*	*	*	*	*	*	*	438	18
+       0	*	*	*	*	*	*	2222	0	0	
+
+Y 19   *	*	*	*	4902	*	5670	5560	4769	*	*	*	*	*	*	1554	1218	4286	*	3891	19
+       0	*	*	*	*	*	*	2222	0	0	
+
+K 20   *	*	*	*	*	*	*	*	457	*	*	*	*	*	2090	*	4769	*	*	*	20
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 21   1953	*	*	*	*	1673	*	*	*	2962	*	4902	*	*	4536	2365	*	*	*	5101	21
+       0	*	*	*	*	*	*	2222	0	0	
+
+G 22   *	*	4873	*	*	733	*	*	*	*	*	1456	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 23   *	*	*	*	4709	*	*	*	*	1447	1193	*	*	*	2666	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2222	0	0	
+
+K 24   *	*	*	*	*	*	*	448	2666	*	3193	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2222	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 27   *	*	*	*	*	*	*	*	316	*	*	*	*	*	2344	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2222	0	0	
+
+R 28   4760	*	4751	*	*	4676	*	*	2874	4769	*	3284	*	5217	1260	3456	3729	*	*	*	28
+       0	*	*	*	*	*	*	2222	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2222	0	0	
+
+Y 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	30
+       0	*	*	*	*	*	*	2222	0	0	
+
+L 31   5421	*	*	*	5211	*	*	2650	*	899	*	*	*	*	3955	4633	3922	4441	*	4752	31
+       0	*	*	*	*	*	*	2216	0	0	
+
+R 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	59	4633	*	*	*	*	32
+       0	*	*	*	*	*	*	2216	0	0	
+
+L 33   *	*	*	*	4069	*	*	4016	*	425	2903	*	*	*	*	*	*	*	*	*	33
+       0	*	*	0	*	*	*	2219	0	0	
+
+//

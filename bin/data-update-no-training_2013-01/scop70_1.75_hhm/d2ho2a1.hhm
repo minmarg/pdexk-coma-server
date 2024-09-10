@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d2ho2a1 b.72.1.1 (A:253-285) Amyloid beta A4 precursor protein-binding family B member 1, APBB1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.72.1.1
+FILE  d2ho2a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ho2a1.a3m -v 1 
+DATE  Tue Jan 22 07:24:14 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCCCCCCEECCCCCCEEEECCCCCEEECCCCC
+>ss_conf
+988735200004898457757889654037899
+>Consensus
+xdLPpGWxxxxdxxgxYYWhixTgttQxexPxx
+>d2ho2a1 b.72.1.1 (A:253-285) Amyloid beta A4 precursor protein-binding family B member 1, APBB1 {Human (Homo sapiens) [TaxId: 9606]}
+SDLPAGWMRVQDTSGTYYWHIPTGTTQWEPPGR
+>gi|348514315|ref|XP_003444686.1|(424-453:923) PREDICTED: amyloid beta A4 precursor protein-binding family B member 2-like [Oreochromis niloticus]  E=2e-08 s/c=2.06 id=52% cov=94%
+-ELPPGWREISDSSEVYFWHVPTGTTQYDRP--
+>gi|410914904|ref|XP_003970927.1|(30-60:485) PREDICTED: amyloid beta A4 precursor protein-binding family B member 3-like [Takifugu rubripes]  E=5e-10 s/c=2.15 id=62% cov=97%
+-DLPSGWRTIKDSTGTYYWHVPTGTTQWQHPS-
+>gi|340382219|ref|XP_003389618.1|(12-40:1217) PREDICTED: hypothetical protein LOC100636549 [Amphimedon queenslandica]  E=2e-06 s/c=1.89 id=40% cov=91%
+--LPPGWRKLESDKGVYFWHKDTNRVQWKFP--
+>gi|303286285|ref|XP_003062432.1|(423-453:454) predicted protein [Micromonas pusilla CCMP1545] >gi|226455949|gb|EEH53251.1| predicted protein [Micromonas pusilla CCMP1545]  E=3e-06 s/c=1.76 id=41% cov=97%
+ADLPPGWQELSANGQVYYWNTQTNQTQYERP--
+>gi|412990213|emb|CCO19531.1|(523-553:554) predicted protein [Bathycoccus prasinos]   E=5e-05 s/c=1.62 id=41% cov=97%
+SSLPPDWEEVNQDGQIYYWNTRTNLTQYERP--
+>gi|340382219|ref|XP_003389618.1|(732-763:1217) PREDICTED: hypothetical protein LOC100636549 [Amphimedon queenslandica]  E=8e-05 s/c=1.55 id=43% cov=91%
+--LPPGWkREVNEQGQVFYWHLPTGNIQYTKP--
+>gi|170592363|ref|XP_001900938.1|(183-216:609) Mammalian fe65 homolog protein 1, isoform c [Brugia malayi] >gi|158591633|gb|EDP30238.1| Mammalian fe65 homolog protein 1, isoform c, putative [Brugia malayi]  E=2e-09 s/c=1.92 id=53% cov=103%
+ANLPFGWERHEDPSGfSYYWHVDSGTIQREPPHK
+>gi|391337152|ref|XP_003742937.1|(171-202:618) PREDICTED: amyloid beta A4 precursor protein-binding family B member 2-like [Metaseiulus occidentalis]  E=2e-09 s/c=2.04 id=48% cov=100%
+-EVPVGWEKHEDEDGAYYWHIATGTIQREMPTK
+>gi|422295917|gb|EKU23216.1|(174-208:230) growth arrest-specific 7, partial [Nannochloropsis gaditana CCMP526]  E=2e-06 s/c=1.58 id=52% cov=100%
+TPLPAGWEAVMDPQGSgdyYYWHAGTNVTTWERPS-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2269	*	*	*	*	*	*	*	*	*	*	3705	*	*	*	1855	1187	*	*	*	1
+       0	*	*	*	*	*	*	2304	0	0	
+
+D 2    *	*	824	3000	*	5039	*	*	*	*	*	3454	3784	*	*	3664	4761	*	*	*	2
+       0	*	*	*	*	*	*	2419	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	66	*	*	*	*	*	*	*	4492	*	*	3
+       0	*	*	*	*	*	*	2630	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2630	0	0	
+
+A 5    3033	*	*	4281	5496	*	*	*	*	*	*	*	514	*	*	4072	*	4492	*	*	5
+       0	*	*	*	*	*	*	2630	0	0	
+
+G 6    *	*	4539	*	*	127	*	*	*	*	*	*	4592	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2630	0	0	
+
+W 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	7
+       68	4435	*	0	*	*	*	2630	1000	0	
+
+M 8    *	*	*	1476	*	*	*	*	2865	*	4768	*	*	2459	1813	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2630	0	0	
+
+R 9    4534	*	*	1557	*	*	*	*	1455	*	5300	*	*	*	2561	*	4129	*	*	*	9
+       0	*	*	*	*	*	*	2630	0	0	
+
+V 10   *	5453	*	*	*	*	2041	2187	*	3175	5300	*	*	*	*	*	*	1402	*	*	10
+       0	*	*	*	*	*	*	2630	0	0	
+
+Q 11   5543	*	*	1808	*	*	3014	*	4624	5574	4534	2692	*	4904	4192	2870	3558	*	*	*	11
+       0	*	*	*	*	*	*	2630	0	0	
+
+D 12   2628	*	587	3763	*	*	*	*	*	*	*	*	*	4539	*	4167	*	*	*	*	12
+       0	*	*	*	*	*	*	2630	0	0	
+
+T 13   4600	*	3063	2368	*	*	*	3377	5833	*	4608	3060	3074	4435	*	3000	3630	*	*	*	13
+       0	*	*	*	*	*	*	2630	0	0	
+
+S 14   2502	*	3080	4314	*	1836	5543	*	4167	5876	*	5641	*	4060	5458	2673	5566	*	*	*	14
+       0	*	*	*	*	*	*	2630	0	0	
+
+G 15   *	*	*	4293	*	519	*	*	5061	4592	*	*	*	2477	*	*	*	*	*	*	15
+       157	3279	*	0	*	*	*	2630	1442	0	
+
+T 16   3902	*	*	*	5825	*	*	3155	*	*	*	*	3019	*	*	2774	1941	1872	*	*	16
+       64	4534	*	1585	585	*	*	2630	1000	0	
+
+Y 17   *	*	*	*	3763	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110	17
+       0	*	*	*	*	*	*	2630	0	0	
+
+Y 18   *	*	*	*	3229	*	*	*	*	*	*	*	*	*	*	*	*	*	*	163	18
+       0	*	*	*	*	*	*	2630	0	0	
+
+W 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	19
+       0	*	*	*	*	*	*	2630	0	0	
+
+H 20   *	*	*	*	*	*	320	*	*	*	*	2516	*	*	*	*	*	*	*	5367	20
+       0	*	*	*	*	*	*	2630	0	0	
+
+I 21   4534	*	*	*	*	*	*	1428	4167	4435	*	*	*	*	*	*	2288	1845	*	*	21
+       0	*	*	*	*	*	*	2630	0	0	
+
+P 22   3756	*	2930	3912	*	4534	*	*	3174	*	*	*	1216	5054	3672	*	4824	*	*	*	22
+       0	*	*	*	*	*	*	2630	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2168	363	*	*	*	23
+       0	*	*	*	*	*	*	2630	0	0	
+
+G 24   *	*	*	*	*	522	*	*	*	*	*	1720	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2630	0	0	
+
+T 25   3561	*	*	*	*	*	*	*	*	4539	*	3916	*	5054	4167	5660	834	2841	*	*	25
+       0	*	*	*	*	*	*	2630	0	0	
+
+T 26   *	*	*	*	*	*	*	1789	*	*	*	*	*	*	*	*	661	3673	*	*	26
+       0	*	*	*	*	*	*	2630	0	0	
+
+Q 27   *	*	*	*	*	*	*	*	*	*	*	*	*	118	*	*	3671	*	*	*	27
+       0	*	*	*	*	*	*	2630	0	0	
+
+W 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	1911	*	*	*	1211	1727	28
+       0	*	*	*	*	*	*	2630	0	0	
+
+E 29   *	*	3529	685	*	*	5203	*	4167	*	*	*	*	3004	*	4724	4435	*	*	*	29
+       0	*	*	*	*	*	*	2630	0	0	
+
+P 30   *	*	*	*	4167	*	3753	*	4435	*	4505	*	1940	*	1001	*	*	5680	*	*	30
+       0	*	*	*	*	*	*	2630	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2630	0	0	
+
+G 32   2497	*	*	*	*	3716	3389	*	*	*	*	*	*	*	*	905	3094	*	*	*	32
+       0	*	*	*	*	*	*	2062	0	0	
+
+R 33   *	*	*	*	*	*	*	*	985	*	*	*	*	*	1015	*	*	*	*	*	33
+       0	*	*	0	*	*	*	1736	0	0	
+
+//

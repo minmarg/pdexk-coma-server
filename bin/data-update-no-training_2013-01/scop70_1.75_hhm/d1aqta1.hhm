@@ -1,0 +1,192 @@
+HHsearch 1.5
+NAME  d1aqta1 a.2.10.1 (A:87-136) Epsilon subunit of F1F0-ATP synthase C-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   a.2.10.1
+FILE  d1aqta1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1aqta1.a3m -v 1 
+DATE  Mon Jan 21 19:14:25 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  106 out of 341 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+95768999988888999987117874089999998888889999975339
+>Consensus
+edIDxxrAxeAkxrAExxlxxxxxxxdxxxAxxxLxrAxarLxvxxxxrK
+>d1aqta1 a.2.10.1 (A:87-136) Epsilon subunit of F1F0-ATP synthase C-terminal domain {Escherichia coli [TaxId: 562]}
+QDLDEARAMEAKRKAEEHISSSHGDVDYAQASAELAKAIAQLRVIELTKK
+>gi|15616639|ref|NP_239851.1|(88-136:138) ATP synthase F0F1 subunit epsilon [Buchnera aphidicola str. APS (Acyrthosiphon pisum)] >gi|219681398|ref|YP_002467783.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. 5A (Acyrthosiphon pisum)] >gi|219681954|ref|YP_002468338.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)] >gi|257471071|ref|ZP_05635070.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. LSR1 (Acyrthosiphon pisum)] >gi|384226883|ref|YP_005618633.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. LL01 (Acyrthosiphon pisum)] >gi|414562375|ref|YP_005617566.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. JF99 (Acyrthosiphon pisum)] >gi|11131218|sp|P57125.1|ATPE_BUCAI RecName: Full=ATP synthase epsilon chain; AltName: Full=ATP synthase F1 sector epsilon subunit; AltName: Full=F-ATPase epsilon subunit >gi|254809349|sp|B8D8H4.1|ATPE_BUCA5 RecName: Full=ATP synthase epsilon chain; AltName: Full=ATP synthase F1 sector epsilon subunit; AltName: Full=F-ATPase epsilon subunit >gi|254809350|sp|B8D6S8.1|ATPE_BUCAT RecName: Full=ATP synthase epsilon chain; AltName: Full=ATP synthase F1 sector epsilon subunit; AltName: Full=F-ATPase epsilon subunit >gi|25290505|pir||A84931 H+-transporting two-sector ATPase (EC 3.6.3.14) epsilon chain [imported] - Buchnera sp. (strain APS) >gi|10038702|dbj|BAB12737.1| ATP synthase epsilon chain [Buchnera aphidicola str. APS (Acyrthosiphon pisum)] >gi|219621687|gb|ACL29843.1| ATP synthase epsilon chain [Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)] >gi|219624241|gb|ACL30396.1| ATP synthase epsilon chain [Buchnera aphidicola str. 5A (Acyrthosiphon pisum)] >gi|311085759|gb|ADP65841.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. LL01 (Acyrthosiphon pisum)] >gi|311086911|gb|ADP66991.1| F0F1 ATP synthase subunit epsilon [Buchnera aphidicola str. JF99 (Acyrthosiphon pisum)]  E=0.0003 s/c=0.98 id=36% cov=100%
+-DLDRSRILKTKKNAEESIKSNNTKINKDAILLQISKEIAKLRVLEVMDK
+>gi|226324289|ref|ZP_03799807.1|(562-610:611) hypothetical protein COPCOM_02069 [Coprococcus comes ATCC 27758] >gi|225206737|gb|EEG89091.1| ATP synthase F1, beta subunit [Coprococcus comes ATCC 27758]  E=1e-05 s/c=1.07 id=28% cov=100%
+EDIDARHAQEQMEYAEEKLRQKQSIQEYYRTQASLSRAMNRLKVSKRKK-
+>gi|406964938|gb|EKD90632.1|(88-134:136) ATP synthase F1, epsilon subunit [uncultured bacterium]   E=0.0006 s/c=1.00 id=31% cov=96%
+--INEKAVEEAKKRAQQALEQKLSDEEYAQTLSVLEKSLAQLKVKRRHR-
+>gi|348617863|ref|ZP_08884397.1|(91-140:144) ATP synthase epsilon chain [Candidatus Glomeribacter gigasporarum BEG34] >gi|347816807|emb|CCD29047.1| ATP synthase epsilon chain [Candidatus Glomeribacter gigasporarum BEG34]  E=4e-05 s/c=1.01 id=33% cov=102%
+EDLEEAKAQQARQTAEAALRNTRSKFEYATVAAELETTLAQLAAIRKLRR
+>gi|218290060|ref|ZP_03494227.1|(87-136:148) ATP synthase F1, epsilon subunit [Alicyclobacillus acidocaldarius LAA1] >gi|218239894|gb|EED07082.1| ATP synthase F1, epsilon subunit [Alicyclobacillus acidocaldarius LAA1]  E=0.0002 s/c=0.97 id=25% cov=102%
+EEIDVDRALRAKERAEKRLQAAVDEEEADRARQALTRAELRLQAVEEHKR
+>gi|406985858|gb|EKE06568.1|(86-137:137) F0F1 ATP synthase subunit epsilon [uncultured bacterium]   E=0.0002 s/c=0.93 id=29% cov=102%
+EEIDIERAEEAKNRAQEMLEKEKnlADVDFARLQAIIEKEMNRIHIAKKYRK
+>gi|28198343|ref|NP_778657.1|(92-139:143) ATP synthase F0F1 subunit epsilon [Xylella fastidiosa Temecula1] >gi|71276028|ref|ZP_00652309.1| H+-transporting two-sector ATPase, delta/epsilon subunit [Xylella fastidiosa Dixon] >gi|71899449|ref|ZP_00681607.1| H+-transporting two-sector ATPase, delta/epsilon subunit [Xylella fastidiosa Ann-1] >gi|170729690|ref|YP_001775123.1| F0F1 ATP synthase subunit epsilon [Xylella fastidiosa M12] >gi|182680984|ref|YP_001829144.1| F0F1 ATP synthase subunit epsilon [Xylella fastidiosa M23] >gi|386084505|ref|YP_006000787.1| F0F1 ATP synthase subunit epsilon [Xylella fastidiosa subsp. fastidiosa GB514] >gi|28056413|gb|AAO28306.1| ATP synthase epsilon chain [Xylella fastidiosa Temecula1] >gi|71163111|gb|EAO12832.1| H+-transporting two-sector ATPase, delta/epsilon subunit [Xylella fastidiosa Dixon] >gi|71730762|gb|EAO32835.1| H+-transporting two-sector ATPase, delta/epsilon subunit [Xylella fastidiosa subsp. sandyi Ann-1] >gi|167964483|gb|ACA11493.1| ATP synthase epsilon chain [Xylella fastidiosa M12] >gi|182631094|gb|ACB91870.1| ATP synthase F1, epsilon subunit [Xylella fastidiosa M23] >gi|307579452|gb|ADN63421.1| F0F1 ATP synthase subunit epsilon [Xylella fastidiosa subsp. fastidiosa GB514]  E=0.0001 s/c=1.03 id=27% cov=98%
+--IDEVAVRKAKEEAERILANRGETIDVAKAQQQLVEAVVQMQALERLRR
+>gi|406930258|gb|EKD65651.1|(85-137:146) F0F1 ATP synthase subunit epsilon [uncultured bacterium]   E=0.0007 s/c=0.88 id=29% cov=102%
+EEIEVSKAIEAQKRAEKVLKDSQEKVskkDFALAESEFRRSILELKVASKRRK
+>gi|408411428|ref|ZP_11182587.1|(95-147:147) ATP synthase epsilon chain [Lactobacillus sp. 66c] >gi|409351095|ref|ZP_11233942.1| ATP synthase epsilon chain [Lactobacillus equicursoris CIP 110162] >gi|407874437|emb|CCK84393.1| ATP synthase epsilon chain [Lactobacillus sp. 66c] >gi|407876995|emb|CCK86000.1| ATP synthase epsilon chain [Lactobacillus equicursoris CIP 110162]  E=0.0003 s/c=0.90 id=29% cov=102%
+RNIDLSRAEAAKQRAEAHIkeaKEKHDEQSLERAQIALRRAVNRIHVYDALHK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Q 1    *	*	*	605	*	*	4215	*	3886	*	*	*	*	3854	2720	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4418	0	0	
+
+D 2    5592	*	824	1579	*	6354	*	*	6654	*	*	4645	*	*	6902	*	6768	*	*	*	2
+       0	*	*	*	*	*	*	4742	0	0	
+
+L 3    *	*	*	*	*	*	*	561	*	1753	6439	*	*	*	*	*	*	6142	*	*	3
+       0	*	*	*	*	*	*	4772	0	0	
+
+D 4    *	*	109	4378	*	*	*	*	*	*	*	5346	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	4768	0	0	
+
+E 5    4164	*	*	1247	*	6844	*	3284	4929	3745	*	*	*	4763	4608	*	6767	2372	*	5376	5
+       0	*	*	*	*	*	*	4768	0	0	
+
+A 6    1911	*	3115	1977	*	6517	*	6754	3767	7173	*	4539	*	4668	4073	3680	6236	5018	*	*	6
+       0	*	*	*	*	*	*	4768	0	0	
+
+R 7    2361	*	*	6030	*	*	5514	*	2762	*	*	*	*	7013	767	5881	6920	*	*	*	7
+       0	*	*	*	*	*	*	4768	0	0	
+
+A 8    191	5852	*	*	*	*	*	4229	*	*	*	*	*	*	*	*	*	4233	*	*	8
+       0	*	*	*	*	*	*	4768	0	0	
+
+M 9    6665	*	*	2065	*	*	6246	3206	3074	2553	4389	5808	*	2704	3551	6993	6102	6201	*	*	9
+       0	*	*	*	*	*	*	4768	0	0	
+
+E 10   3102	*	6432	1175	*	*	7044	*	2999	5224	6378	5216	*	3766	3482	4350	6667	6844	*	*	10
+       0	*	*	*	*	*	*	4764	0	0	
+
+A 11   224	*	*	*	*	*	*	6227	*	*	*	*	*	5516	*	3478	5729	*	*	*	11
+       0	*	*	*	*	*	*	4764	0	0	
+
+K 12   6105	*	*	4888	*	*	*	*	725	4723	4710	*	*	4879	2151	*	*	*	*	6431	12
+       0	*	*	*	*	*	*	4764	0	0	
+
+R 13   5810	6658	5778	1739	*	*	6243	5169	2235	5348	*	6206	*	2757	2459	*	6756	5388	*	*	13
+       0	*	*	*	*	*	*	4764	0	0	
+
+K 14   *	*	5436	4670	*	*	5386	6105	3608	5329	5329	3587	*	3582	847	5962	5856	*	*	6464	14
+       0	*	*	*	*	*	*	4764	0	0	
+
+A 15   30	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5611	*	*	*	*	15
+       0	*	*	*	*	*	*	4764	0	0	
+
+E 16   *	*	*	349	*	*	*	*	4140	5372	*	*	*	3207	5283	*	*	*	*	*	16
+       0	*	*	*	*	*	*	4764	0	0	
+
+E 17   3165	*	3860	1408	*	6246	6911	*	2639	*	*	5770	*	3202	3465	4534	*	*	*	*	17
+       0	*	*	*	*	*	*	4764	0	0	
+
+H 18   2208	*	*	5232	*	*	4083	5048	3921	4092	4265	4075	*	4040	1771	5135	5956	4908	*	*	18
+       0	*	*	*	*	*	*	4764	0	0	
+
+I 19   *	*	*	*	*	*	*	2053	*	731	2965	6345	*	*	*	*	*	5962	*	*	19
+       108	3790	*	1029	971	*	*	4764	2497	0	
+
+S 20   2020	*	6105	3227	*	5336	*	*	2115	6867	*	4432	*	3288	2856	5050	6558	4630	*	*	20
+       27	5732	*	451	1897	*	*	4764	1379	0	
+
+S 21   3764	*	2536	2926	*	4492	5124	*	2864	6544	*	2488	*	3131	5537	4000	5332	*	*	*	21
+       77	4543	6834	371	2139	*	*	4764	2538	0	
+
+S 22   2790	*	6840	4763	6638	5112	4950	*	1553	5872	*	4231	5345	4161	3455	3270	4464	7209	*	*	22
+       33	5450	*	520	1725	0	*	4763	1714	1000	
+
+H 23   4149	*	4134	3933	*	3561	3750	6834	3309	3538	*	4023	5903	2893	4330	3622	3984	4317	*	6767	23
+       83	4410	6854	1258	781	*	*	4764	2444	0	
+
+G 24   2663	*	3636	3242	*	4120	*	6473	5495	5601	5947	4013	3983	7050	6689	1732	3975	6500	*	6626	24
+       52	5504	6242	469	1850	0	*	4766	1676	1000	
+
+D 25   4560	*	1672	3067	*	4241	6376	4563	2727	*	6583	4629	4985	4012	4379	5378	5226	6426	*	6453	25
+       0	*	*	*	*	*	0	4756	0	1000	
+
+V 26   6244	*	6516	3672	3409	6469	5715	2119	4849	3731	4207	5245	*	4057	4641	4610	3838	2918	*	6805	26
+       32	5502	*	2628	254	0	*	4756	1530	1000	
+
+D 27   6511	*	903	1795	*	*	*	*	*	6704	*	3398	*	5210	*	4854	*	*	*	*	27
+       11	7044	*	1585	585	*	*	4764	1000	0	
+
+Y 28   4416	*	*	5057	2335	*	3929	3588	5141	3513	6745	*	*	*	4556	6665	4387	3941	*	1808	28
+       23	5963	*	1585	585	*	*	4764	1444	0	
+
+A 29   1705	*	3074	3243	6995	*	6381	4490	3836	4954	5783	5305	*	7071	5728	3394	4423	4601	*	4335	29
+       13	6772	*	2000	415	*	*	4764	1000	0	
+
+Q 30   3766	*	*	3518	*	5655	4916	6844	3174	3911	4700	5956	*	3431	1263	7368	5043	*	*	*	30
+       0	*	*	*	*	*	*	4764	0	0	
+
+A 31   515	*	*	*	*	*	*	4236	*	4385	*	6345	*	*	*	4799	3996	3687	*	6521	31
+       0	*	*	*	*	*	*	4764	0	0	
+
+S 32   3856	*	*	2049	7037	*	6463	5887	3403	4047	5822	*	*	1993	5681	3321	3928	4920	*	6480	32
+       0	*	*	*	*	*	*	4764	0	0	
+
+A 33   1294	*	*	*	*	*	6767	2871	6432	3091	6064	*	*	5342	4275	3138	5667	3426	*	*	33
+       0	*	*	*	*	*	*	4764	0	0	
+
+E 34   1592	*	6243	1858	*	*	4699	6206	4408	*	*	6558	*	2994	5247	3397	*	5462	*	*	34
+       0	*	*	*	*	*	*	4764	0	0	
+
+L 35   *	*	*	*	5028	*	*	4455	*	114	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	4764	0	0	
+
+A 36   1878	*	5045	3303	*	*	4832	6996	3031	4945	*	5525	*	3954	3193	2686	6863	5872	*	5512	36
+       0	*	*	*	*	*	*	4770	0	0	
+
+K 37   6250	*	5775	2701	*	*	6779	6777	1889	*	*	*	*	4223	1135	*	5802	*	*	*	37
+       0	*	*	*	*	*	*	4770	0	0	
+
+A 38   330	*	*	4134	*	*	*	6362	*	*	*	*	*	*	*	3092	5802	*	*	*	38
+       0	*	*	*	*	*	*	4770	0	0	
+
+I 39   4112	*	*	5391	*	*	*	1915	6250	1724	2708	6852	*	5846	*	*	4809	3027	*	*	39
+       0	*	*	*	*	*	*	4770	0	0	
+
+A 40   1039	*	*	*	*	5961	6859	4687	*	4481	*	2238	*	5528	6662	5489	4273	3516	*	*	40
+       0	*	*	*	*	*	*	4770	0	0	
+
+Q 41   *	*	*	5307	*	*	*	*	3175	*	*	*	*	1648	876	*	*	*	*	*	41
+       0	*	*	*	*	*	*	4770	0	0	
+
+L 42   *	*	*	*	*	*	*	2092	*	525	3821	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	4770	0	0	
+
+R 43   4481	*	6624	4299	*	6481	4802	*	2185	*	*	3836	*	2887	1529	3925	6660	*	*	*	43
+       0	*	*	*	*	*	*	4765	0	0	
+
+V 44   2446	*	*	6453	*	*	*	3812	*	3167	4606	*	*	*	*	*	2378	1362	*	*	44
+       0	*	*	*	*	*	*	4814	0	0	
+
+I 45   2163	6439	*	*	*	5780	*	1868	4053	2821	6025	*	*	*	5698	4247	6075	3360	*	3803	45
+       0	*	*	*	*	*	*	4814	0	0	
+
+E 46   5082	*	5160	1441	*	*	5903	*	2762	*	*	6478	*	2546	3233	3548	5621	*	*	6009	46
+       0	*	*	*	*	*	*	4851	0	0	
+
+L 47   3946	7036	*	5239	5787	6214	5221	*	1735	2406	6732	*	*	3893	2561	4317	5660	5423	*	6145	47
+       18	6366	*	1000	1000	*	*	4878	1000	0	
+
+T 48   3783	*	*	*	6566	5998	4523	3037	4413	2267	3894	*	*	4692	3230	4216	3344	6042	*	3307	48
+       0	*	*	*	*	*	*	4861	0	0	
+
+K 49   *	*	5329	4936	*	4441	5175	*	1729	*	*	4957	*	5669	1008	*	*	5797	*	*	49
+       0	*	*	*	*	*	*	4834	0	0	
+
+K 50   *	*	*	*	*	*	*	*	404	*	*	*	*	5276	2196	*	*	*	*	*	50
+       0	*	*	0	*	*	*	4524	0	0	
+
+//

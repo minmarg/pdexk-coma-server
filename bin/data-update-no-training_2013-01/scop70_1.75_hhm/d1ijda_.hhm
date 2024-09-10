@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1ijda_ f.3.1.1 (A:) Light-harvesting complex subunits {Rhodoblastus acidophilus [TaxId: 1074]}
+FAM   f.3.1.1
+FILE  d1ijda_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ijda_.a3m -v 1 
+DATE  Mon Jan 21 21:43:05 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred
+CCCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCHHHCC
+>ss_conf
+9886236776686565789999999999999999704530043319
+>Consensus
+MnqxkiWxVVxPtVGiPlxLgsVavxaxxVHxavlxxTtWxxxyxq
+>d1ijda_ f.3.1.1 (A:) Light-harvesting complex subunits {Rhodoblastus acidophilus [TaxId: 1074]}
+MNQGKIWTVVPPAFGLPLMLGAVAITALLVHAAVLTHTTWYAAFLQ
+>gi|91978354|ref|YP_571013.1|(1-46:67) antenna complex subunit alpha/beta [Rhodopseudomonas palustris BisB5] >gi|91684810|gb|ABE41112.1| antenna complex, alpha/beta subunit [Rhodopseudomonas palustris BisB5]  E=3e-08 s/c=1.34 id=57% cov=102%
+MNQGRIWTVVSPTVGLPLLLGSVTVIAILVHTAVLNNTAWFPKYWQ
+>gi|254461728|ref|ZP_05075144.1|(1-46:117) light-harvesting protein B-800/850, alpha chain [Rhodobacterales bacterium HTCC2083] >gi|206678317|gb|EDZ42804.1| light-harvesting protein B-800/850, alpha chain [Rhodobacteraceae bacterium HTCC2083]  E=4e-09 s/c=1.41 id=49% cov=102%
+MNNAKMWLVVSPTVGAPLFLGAIAVGSFAVHLQVVKNTSWVADFLQ
+>gi|146279068|ref|YP_001169227.1|(1-46:239) antenna complex subunit alpha/beta [Rhodobacter sphaeroides ATCC 17025] >gi|145557309|gb|ABP71922.1| antenna complex, alpha/beta subunit [Rhodobacter sphaeroides ATCC 17025]  E=1e-08 s/c=1.36 id=51% cov=102%
+MNNSKMWLTVNPNLGIPLLLGSVALGSVAVHAAVLTTTPWIADYYQ
+>gi|312114263|ref|YP_004011859.1|(7-50:64) antenna complex alpha/subunit beta [Rhodomicrobium vannielii ATCC 17100] >gi|311219392|gb|ADP70760.1| antenna complex alpha/beta subunit [Rhodomicrobium vannielii ATCC 17100]  E=7e-07 s/c=1.30 id=49% cov=98%
+--QAKIWLVVKPEVGLLWLLGGVAFTAVLVHAVLLANTKWFPNYIE
+>gi|365889930|ref|ZP_09428555.1|(1-38:119) light harvesting protein B-800-850, alpha chain [Bradyrhizobium sp. STM 3809] >gi|365334287|emb|CCE01086.1| light harvesting protein B-800-850, alpha chain [Bradyrhizobium sp. STM 3809]  E=3e-06 s/c=1.45 id=51% cov=85%
+--------MVHPTVGLPLFLGSVALTSLCVHYTILSHTTWMGAYWE
+>gi|312114261|ref|YP_004011857.1|(7-49:67) antenna complex alpha/subunit beta [Rhodomicrobium vannielii ATCC 17100] >gi|311219390|gb|ADP70758.1| antenna complex alpha/beta subunit [Rhodomicrobium vannielii ATCC 17100]  E=4e-05 s/c=1.19 id=50% cov=96%
+--QAAIWLYVRPSLGIPHFLGAVAIIALVVHLGVLGHTTLLKKYF-
+>gi|332528164|ref|ZP_08404195.1|(1-45:71) antenna complex subunit alpha/beta [Rubrivivax benzoatilyticus JA2] >gi|332112735|gb|EGJ12528.1| antenna complex subunit alpha/beta [Rubrivivax benzoatilyticus JA2]  E=1e-09 s/c=1.46 id=50% cov=100%
+MNQGKIWRVVKPTVGIPVYLGAVAVTGLILHGGLMANTDWFPAYW-
+>gi|61653242|gb|AAX48195.1|(1-45:65) putative light-harvesting protein b-800/850 alpha chain-related protein [uncultured proteobacterium DelRiverFos06H03]  E=1e-06 s/c=1.24 id=43% cov=100%
+MIYAKMWCVVKPSVGIPVFIAAVAISSFSVHLALTMNTTWVKNFL-
+>gi|146277027|ref|YP_001167186.1|(1-46:54) antenna complex subunit alpha/beta [Rhodobacter sphaeroides ATCC 17025] >gi|145555268|gb|ABP69881.1| antenna complex, alpha/beta subunit [Rhodobacter sphaeroides ATCC 17025]  E=1e-07 s/c=1.28 id=51% cov=102%
+MTNGKIWLVVKPTVGVPLFLSAAVIASVVIHAAVLTTTTWLPDYYQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2356	0	0	
+
+N 2    *	*	*	*	*	*	*	4149	*	*	*	230	*	*	*	*	3462	*	*	*	2
+       0	*	*	*	*	*	*	2355	0	0	
+
+Q 3    *	*	*	*	*	*	*	*	*	*	*	1745	*	714	*	*	*	*	*	3438	3
+       0	*	*	*	*	*	*	2471	0	0	
+
+G 4    1567	*	*	*	*	890	4858	*	*	*	*	*	*	*	*	3500	*	*	*	*	4
+       0	*	*	*	*	*	*	2471	0	0	
+
+K 5    4380	*	*	*	*	4858	*	*	595	*	*	*	*	*	2770	4309	4099	*	*	*	5
+       0	*	*	*	*	*	*	2471	0	0	
+
+I 6    *	*	*	*	*	*	*	735	*	3665	2105	*	*	*	*	*	*	3512	*	*	6
+       0	*	*	*	*	*	*	2471	0	0	
+
+W 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	7
+       0	*	*	*	*	*	*	2471	0	0	
+
+T 8    *	3665	*	*	*	*	*	*	*	1255	*	*	*	*	3976	*	1189	*	*	*	8
+       0	*	*	*	*	*	*	2471	0	0	
+
+V 9    *	*	*	*	*	*	*	*	*	*	5432	*	*	*	*	*	4159	195	*	4411	9
+       0	*	*	*	*	*	*	2536	0	0	
+
+V 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	10
+       0	*	*	*	*	*	*	2536	0	0	
+
+P 11   *	*	4943	*	*	*	4589	*	979	*	*	2156	4194	*	4411	3433	*	*	*	*	11
+       0	*	*	*	*	*	*	2536	0	0	
+
+P 12   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 13   3381	*	*	4481	*	5969	*	*	4848	*	*	4159	*	*	*	2092	949	*	*	*	13
+       0	*	*	*	*	*	*	2536	0	0	
+
+F 14   *	*	*	*	4755	*	*	4532	*	3280	*	*	*	*	*	*	5356	336	*	*	14
+       0	*	*	*	*	*	*	2536	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 16   4817	*	*	*	*	*	*	1533	*	1180	*	*	*	*	*	*	*	2494	*	*	16
+       0	*	*	*	*	*	*	2536	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	4481	*	*	66	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 18   3523	*	*	*	*	*	4411	*	*	546	*	*	*	*	*	*	*	2877	4481	*	18
+       0	*	*	*	*	*	*	2536	0	0	
+
+M 19   *	*	*	*	1407	*	*	5356	*	1015	4628	*	*	*	*	*	*	*	*	3986	19
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 20   *	*	*	*	5485	*	*	4248	*	112	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2536	0	0	
+
+G 21   3432	*	*	*	*	376	*	*	*	*	*	*	*	*	*	3791	5156	4782	*	*	21
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 22   1245	*	*	*	*	3001	*	*	*	*	*	*	*	*	*	1322	4236	*	*	*	22
+       0	*	*	*	*	*	*	2536	0	0	
+
+V 23   4555	4782	*	*	*	*	*	4817	*	*	*	*	*	*	*	*	*	175	*	*	23
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 24   475	5687	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2192	4555	*	*	24
+       0	*	*	*	*	*	*	2536	0	0	
+
+I 25   5707	*	*	*	4481	*	*	1710	*	3216	*	*	*	*	*	*	4793	1039	*	*	25
+       0	*	*	*	*	*	*	2536	0	0	
+
+T 26   2545	*	*	*	*	2821	*	1551	*	*	4781	*	*	*	*	4248	1961	*	*	*	26
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 27   920	*	*	*	*	4867	*	*	*	*	*	*	*	*	*	1373	*	4284	*	*	27
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 28   *	*	*	*	1954	*	*	2439	*	1444	*	*	*	*	*	*	*	2396	*	*	28
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 29   2638	4475	*	*	4644	*	*	3514	*	1070	*	*	*	*	*	4248	5609	3088	*	*	29
+       0	*	*	*	*	*	*	2536	0	0	
+
+V 30   *	*	*	*	*	*	*	4555	*	3986	*	*	*	*	*	*	*	161	*	*	30
+       0	*	*	*	*	*	*	2536	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 32   2226	*	*	*	2519	3455	*	5074	*	1872	*	*	*	*	*	5782	5827	3284	*	3657	32
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 33   734	*	*	*	*	2894	*	*	*	*	3711	*	*	4817	*	3994	4475	4481	*	*	33
+       0	*	*	*	*	*	*	2536	0	0	
+
+V 34   *	*	*	*	*	*	*	3033	*	1564	*	*	*	*	*	*	*	890	*	*	34
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 35   *	*	*	*	4644	*	*	4349	*	411	4867	*	*	*	*	*	4248	3799	*	*	35
+       0	*	*	*	*	*	*	2536	0	0	
+
+T 36   3212	*	*	4746	*	3613	*	*	4817	4782	4248	3221	*	4833	5156	2119	2011	*	*	*	36
+       0	*	*	*	*	*	*	2536	0	0	
+
+H 37   *	*	*	*	*	*	1954	*	3376	*	*	969	*	*	*	*	2890	*	*	*	37
+       0	*	*	*	*	*	*	2536	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	38
+       0	*	*	*	*	*	*	2536	0	0	
+
+T 39   5827	*	3986	*	*	4782	*	*	3445	*	*	5074	4159	*	*	3737	666	*	*	*	39
+       0	*	*	*	*	*	*	2536	0	0	
+
+W 40   *	*	*	*	*	*	*	*	*	4411	*	*	*	*	*	*	*	*	69	*	40
+       0	*	*	*	*	*	*	2536	0	0	
+
+Y 41   *	*	*	*	1079	*	*	4159	*	2666	3620	*	*	*	*	*	*	2608	*	3883	41
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 42   1894	*	*	5074	*	2808	*	*	3130	*	*	*	1494	*	*	3486	*	*	*	*	42
+       0	*	*	*	*	*	*	2536	0	0	
+
+A 43   1469	*	2378	*	*	5785	*	*	2249	*	*	2738	4644	5156	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2536	0	0	
+
+F 44   *	*	*	*	1614	*	*	*	*	*	*	*	*	*	*	*	*	*	*	570	44
+       0	*	*	*	*	*	*	2536	0	0	
+
+L 45   *	*	*	*	3523	*	*	4481	*	2425	2859	*	*	*	*	*	*	*	1437	2516	45
+       0	*	*	*	*	*	*	2536	0	0	
+
+Q 46   *	*	*	1873	*	*	*	*	*	*	*	*	*	460	*	*	*	*	*	*	46
+       0	*	*	0	*	*	*	2240	0	0	
+
+//

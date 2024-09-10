@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d1ju8a_ g.3.6.4 (A:) Leginsulin {Soybean (Glycine max) [TaxId: 3847]}
+FAM   g.3.6.4
+FILE  d1ju8a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ju8a_.a3m -v 1 
+DATE  Mon Jan 21 22:18:29 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCEEEEEEEEEEEECCCC
+>ss_conf
+9867667765368888898514442223444306789
+>Consensus
+adCsGxCspFemPpCxSsdCrCiPxgLxxgxCxxPsg
+>d1ju8a_ g.3.6.4 (A:) Leginsulin {Soybean (Glycine max) [TaxId: 3847]}
+ADCNGACSPFEVPPCRSRDCRCVPIGLFVGFCIHPTG
+>gi|50830990|emb|CAH05241.1|(28-64:100) putative albumin 1 [Astragalus monspessulanus]   E=2e-07 s/c=1.59 id=70% cov=100%
+-DCSGVCSPFEMPPCGSTDCRCIPWGLFVGECKYPTG
+>gi|358345996|ref|XP_003637060.1|(29-63:447) Albumin [Medicago truncatula] >gi|355502995|gb|AES84198.1| Albumin [Medicago truncatula]  E=4e-13 s/c=2.23 id=72% cov=97%
+ADCSGICSPFEMPPCRSSDCRCIPIALIGGFCINP--
+>gi|50831010|emb|CAH05251.1|(27-63:96) putative albumin 1 [Vicia hirsuta]   E=1e-08 s/c=1.70 id=66% cov=103%
+AECNGVCSPFEMPPCGSSDCRCIPVGLVVGYCRYPSG
+>gi|50830992|emb|CAH05242.1|(19-55:91) putative albumin 1 [Alysicarpus ovalifolius]   E=5e-07 s/c=1.56 id=71% cov=103%
+ADCSGACSPFERPLCGSTDCRCIPIVLLAGFCIYPTG
+>gi|50830994|emb|CAH05243.1|(28-62:99) putative albumin 1 [Bituminaria bituminosa]   E=8e-07 s/c=1.62 id=69% cov=97%
+--CSGACFPFQMPPCGSTDCRCVPWGLFVGQCIDPIG
+>gi|312982418|gb|ADR30070.1|(30-65:128) albumin-1D [Phaseolus vulgaris]   E=8e-06 s/c=1.49 id=69% cov=97%
+--CSGLCSPFEVPPCGSaRDCRCIPVGLVVCFCTNPSG
+>gi|50830998|emb|CAH05245.1|(26-65:101) putative albumin 1 [Philenoptera violacea]   E=5e-05 s/c=1.28 id=63% cov=103%
+ASCNGrdVCSPFEMPPCdDATNCRCIPWGLVVGQCVHPSG
+>gi|50831000|emb|CAH05246.1|(28-62:98) putative albumin 1 [Melilotus albus]   E=6e-05 s/c=1.45 id=53% cov=97%
+-ECSGICSSFEMPPCRSSSCRCIPVVLLGGNCVDPS-
+>gi|14547913|sp|Q9FRT9.1|ALB1_PHAAN(2-39:90) RecName: Full=Albumin-1; Short=A1; Contains: RecName: Full=Albumin-1 chain b; Short=A1b; AltName: Full=Leginsulin; Contains: RecName: Full=Albumin-1 chain a; Short=A1a; Flags: Precursor >gi|11994886|dbj|BAB19937.1| leginsulin [Vigna angularis]  E=1e-05 s/c=1.39 id=68% cov=103%
+ADCNGACSPFQMPPCGSTDCLCIPAGlLFVGYCTYPSG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1577	0	0	
+
+D 2    *	*	542	2803	*	*	*	*	*	*	*	*	*	*	*	2556	*	*	*	*	2
+       0	*	*	*	*	*	*	1680	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1732	0	0	
+
+N 4    *	*	4532	*	*	*	*	*	*	3935	*	1794	*	*	*	730	*	*	*	*	4
+       0	*	*	*	*	*	*	1732	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       97	3940	*	1000	1000	*	*	1732	1000	0	
+
+A 6    1567	*	*	*	4495	4655	*	2310	*	4123	*	*	*	*	*	*	*	1646	*	*	6
+       0	*	*	*	*	*	*	1732	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1732	0	0	
+
+S 8    *	*	*	*	3951	*	*	*	*	*	*	*	*	*	*	96	*	*	*	*	8
+       0	*	*	*	*	*	*	1732	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	90	*	*	4051	*	*	*	*	9
+       0	*	*	*	*	*	*	1732	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1732	0	0	
+
+E 11   *	*	*	192	*	*	*	*	*	*	*	*	*	3006	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1732	0	0	
+
+V 12   *	*	*	*	*	*	*	*	*	*	392	*	*	*	3337	*	*	2849	*	*	12
+       0	*	*	*	*	*	*	1732	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1732	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	4139	*	*	84	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1732	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       97	3940	*	0	*	*	*	1732	1000	0	
+
+R 16   *	*	3940	*	*	698	*	*	*	*	*	*	3935	*	1984	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1732	0	0	
+
+S 17   3940	*	*	*	*	*	*	*	*	*	*	*	*	*	*	97	*	*	*	*	17
+       85	4123	*	0	*	*	*	1732	1000	0	
+
+R 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2849	1037	1419	*	*	*	18
+       62	4568	*	0	*	*	*	1732	1000	0	
+
+D 19   4425	*	391	*	*	*	*	*	*	*	*	3940	*	*	*	2992	*	*	*	*	19
+       0	*	*	*	*	*	*	1732	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1732	0	0	
+
+R 21   *	*	*	*	*	*	*	*	*	4063	*	*	*	*	89	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1732	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1732	0	0	
+
+V 23   *	*	*	*	*	*	*	382	*	*	*	*	*	*	*	*	*	2102	*	*	23
+       0	*	*	*	*	*	*	1732	0	0	
+
+P 24   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1732	0	0	
+
+I 25   4063	*	*	*	*	*	*	1792	*	*	*	*	*	*	*	*	*	1911	1972	2939	25
+       0	*	*	*	*	*	*	1732	0	0	
+
+G 26   3089	*	*	*	*	592	*	3935	*	*	*	*	*	*	*	*	*	2701	*	*	26
+       89	4063	*	0	*	*	*	1732	1000	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1732	0	0	
+
+F 28   *	*	*	*	1119	*	*	3257	*	2611	*	*	*	*	*	*	*	1882	*	*	28
+       0	*	*	*	*	*	*	1732	0	0	
+
+V 29   2916	*	*	*	*	2310	*	2915	*	*	*	*	*	*	*	*	*	907	*	*	29
+       0	*	*	*	*	*	*	1732	0	0	
+
+G 30   *	4123	*	*	*	85	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1732	0	0	
+
+F 31   3538	*	*	4566	1870	*	*	*	*	*	*	2992	*	2531	*	4495	*	*	*	1971	31
+       0	*	*	*	*	*	*	1732	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1732	0	0	
+
+I 33   *	*	*	*	*	*	*	1169	4566	*	*	*	*	*	3593	*	2063	2389	*	*	33
+       0	*	*	*	*	*	*	1732	0	0	
+
+H 34   *	*	2393	*	*	*	2395	*	*	*	*	1928	*	*	*	*	*	*	*	1487	34
+       0	*	*	*	*	*	*	1732	0	0	
+
+P 35   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1732	0	0	
+
+T 36   *	*	*	*	*	*	*	3895	*	*	*	*	*	*	4416	975	1407	*	*	*	36
+       0	*	*	*	*	*	*	1736	0	0	
+
+G 37   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	1613	0	0	
+
+//

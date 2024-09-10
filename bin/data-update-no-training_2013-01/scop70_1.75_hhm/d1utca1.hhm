@@ -1,0 +1,116 @@
+HHsearch 1.5
+NAME  d1utca1 a.118.1.4 (A:331-355) Clathrin heavy-chain linker domain {Rat (Rattus norvegicus) [TaxId: 10116]}
+FAM   a.118.1.4
+FILE  d1utca1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1utca1.a3m -v 1 
+DATE  Tue Jan 22 07:27:22 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCEEEEEEEECC
+>ss_conf
+98403310001269861688764159
+>Consensus
+eeniipyixxvlqnpdlalrxavrnx
+>d1utca1 a.118.1.4 (A:331-355) Clathrin heavy-chain linker domain {Rat (Rattus norvegicus) [TaxId: 10116]}
+EENIIPYITNVLQNPDLALRMAVRNX
+>gi|198425553|ref|XP_002130279.1|(332-356:1686) PREDICTED: similar to Clathrin, heavy polypeptide (Hc) [Ciona intestinalis]  E=0.0002 s/c=1.97 id=81% cov=100%
+EENVVPYITNTLQNPDLALRFAVRN-
+>gi|156394133|ref|XP_001636681.1|(331-355:1677) predicted protein [Nematostella vectensis] >gi|156223786|gb|EDO44618.1| predicted protein [Nematostella vectensis]  E=2e-05 s/c=2.08 id=88% cov=100%
+EENIIPYITNVLQKPDLALRLAVRN-
+>gi|242006398|ref|XP_002424037.1|(337-361:1680) clathrin heavy chain, putative [Pediculus humanus corporis] >gi|212507343|gb|EEB11299.1| clathrin heavy chain, putative [Pediculus humanus corporis]  E=9e-05 s/c=2.00 id=81% cov=100%
+EDNIIPYINTVLQNPDLALRIAVRN-
+>gi|312371981|gb|EFR20034.1|(321-345:1691) hypothetical protein AND_20705 [Anopheles darlingi]   E=0.0001 s/c=2.00 id=85% cov=100%
+EEQIIPYINTVLQNPDLALRMAVRN-
+>gi|390353307|ref|XP_003728083.1|(310-334:1669) PREDICTED: LOW QUALITY PROTEIN: clathrin heavy chain 1-like [Strongylocentrotus purpuratus]  E=0.0001 s/c=2.00 id=81% cov=100%
+DENIVPYITNNLQNPDLALRIAVRN-
+>gi|328711155|ref|XP_003244459.1|(341-365:1700) PREDICTED: clathrin heavy chain-like isoform 2 [Acyrthosiphon pisum]  E=0.0008 s/c=1.88 id=77% cov=100%
+EDNIIPYINTVLQHPELALRMAVRN-
+>gi|219362829|ref|NP_001136443.1|(337-361:1681) clathrin heavy chain [Bombyx mori] >gi|218563475|dbj|BAH03459.1| clathrin [Bombyx mori]  E=0.0008 s/c=1.88 id=73% cov=100%
+EDSIVPYINTVLQNPELALRMAVRN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2840	217	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1356	0	0	
+
+E 2    *	*	1445	661	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1356	0	0	
+
+N 3    *	*	*	*	*	*	*	*	*	*	*	409	*	3091	*	2951	*	*	*	*	3
+       0	*	*	*	*	*	*	1356	0	0	
+
+I 4    *	*	*	*	*	*	*	225	*	*	*	*	*	*	*	*	*	2790	*	*	4
+       0	*	*	*	*	*	*	1356	0	0	
+
+I 5    *	*	*	*	*	*	*	770	*	*	*	*	*	*	*	*	*	1274	*	*	5
+       0	*	*	*	*	*	*	1356	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1356	0	0	
+
+Y 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	7
+       0	*	*	*	*	*	*	1356	0	0	
+
+I 8    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1356	0	0	
+
+T 9    *	*	*	*	*	*	*	*	*	*	*	1045	*	*	*	*	956	*	*	*	9
+       0	*	*	*	*	*	*	1356	0	0	
+
+N 10   *	*	*	*	*	*	*	*	*	*	*	956	*	*	*	*	1045	*	*	*	10
+       0	*	*	*	*	*	*	1356	0	0	
+
+V 11   *	*	*	*	*	*	*	*	*	*	*	2840	*	*	*	*	2790	483	*	*	11
+       0	*	*	*	*	*	*	1356	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1356	0	0	
+
+Q 13   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1356	0	0	
+
+N 14   *	*	*	*	*	*	2981	*	3002	*	*	418	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1356	0	0	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1356	0	0	
+
+D 16   *	*	427	1966	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1356	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1356	0	0	
+
+A 18   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1356	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1356	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1356	0	0	
+
+M 21   *	*	*	*	2790	*	*	1994	*	3002	1060	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1356	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1356	0	0	
+
+V 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	23
+       0	*	*	*	*	*	*	1356	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1356	0	0	
+
+N 25   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1356	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

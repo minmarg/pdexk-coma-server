@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d2fc6a1 g.66.1.1 (A:8-44) Target of EGR1 protein 1, TOE1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.66.1.1
+FILE  d2fc6a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2fc6a1.a3m -v 1 
+DATE  Tue Jan 22 06:38:33 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  24 out of 26 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+9888778788765434345431015888858744579
+>Consensus
+CcxppatxxxxxtxiCxxFSayGWcpxGxqcpxSHdi
+>d2fc6a1 g.66.1.1 (A:8-44) Target of EGR1 protein 1, TOE1 {Human (Homo sapiens) [TaxId: 9606]}
+CCLPPATHRPHPTSICDNFSAYGWCPLGPQCPQSHDI
+>gi|118094556|ref|XP_422434.2|(258-297:534) PREDICTED: target of EGR1 protein 1 [Gallus gallus]   E=3e-09 s/c=1.62 id=53% cov=103%
+CSLEEASHsegEANKVPVCEKFSAYGWCPNGVKCPQSHNI
+>gi|126305798|ref|XP_001375931.1|(326-366:581) PREDICTED: target of EGR1 protein 1-like [Monodelphis domestica]   E=9e-07 s/c=1.39 id=63% cov=103%
+CSTPRArTHLSSnlaTSGICDTFSAYGWCPLGLQCPLSHDV
+>gi|327270964|ref|XP_003220258.1|(266-298:538) PREDICTED: target of EGR1 protein 1-like [Anolis carolinensis]   E=8e-06 s/c=1.62 id=50% cov=92%
+----PGNDTANKVTTCQTFSAYGWCPDGPRCSQSHNI
+>gi|18605651|gb|AAH23109.1|(285-322:511) Target of EGR1, member 1 (nuclear) [Mus musculus]   E=1e-11 s/c=1.93 id=74% cov=103%
+CCMSPGTCrRSRTTGICDKFSAYGWCPLGPQCPQSHDI
+>gi|187607044|ref|NP_001120127.1|(258-295:513) target of EGR1, member 1 (nuclear) [Xenopus (Silurana) tropicalis] >gi|166796163|gb|AAI59038.1| LOC100145153 protein [Xenopus (Silurana) tropicalis]  E=4e-09 s/c=1.70 id=55% cov=103%
+CSLPdPDKSNSEEQHICDRFSAYGWCPNGLNCTQSHNI
+>gi|47216610|emb|CAG10908.1|(263-295:477) unnamed protein product [Tetraodon nigroviridis]   E=4e-09 s/c=1.96 id=53% cov=92%
+---PEASPAAGETALCRQFSAFGWCPNGGQCPLSHD-
+>gi|375493522|ref|NP_001243611.1|(261-295:483) target of EGR1 protein 1 [Danio rerio]   E=4e-09 s/c=1.84 id=50% cov=97%
+-CLDSQSQDDGALNICVQFSAYGWCPNGSQCPMSHN-
+>gi|348537505|ref|XP_003456234.1|(263-295:530) PREDICTED: target of EGR1 protein 1-like [Oreochromis niloticus]   E=4e-07 s/c=1.76 id=50% cov=92%
+---PAVASVDEQTDICQHFSAFGWCPNGTKCPLSHD-
+>gi|213511206|ref|NP_001133570.1|(261-294:528) target of EGR1 protein 1 [Salmo salar] >gi|209154534|gb|ACI33499.1| Target of EGR1 protein 1 [Salmo salar]  E=4e-08 s/c=1.80 id=65% cov=70%
+-----------PLNVCQRFSAYGWCPNGSQCPLSHD-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1856	0	0	
+
+C 2    *	503	*	*	*	*	*	*	*	*	*	*	*	*	*	1764	*	*	*	*	2
+       0	*	*	*	*	*	*	2116	0	0	
+
+L 3    4006	*	*	*	*	*	*	*	*	1326	1352	*	*	*	*	*	2766	*	*	*	3
+       0	*	*	*	*	*	*	1986	0	0	
+
+P 4    4003	*	3527	3696	*	*	*	*	*	*	*	*	604	*	*	3111	*	*	*	*	4
+       132	3512	*	0	*	*	*	2280	1000	0	
+
+P 5    3847	*	*	2532	*	*	*	*	*	*	*	*	673	*	4371	3605	*	*	*	*	5
+       0	*	*	*	*	*	*	2379	0	0	
+
+A 6    1005	*	3691	*	*	3051	*	*	*	*	*	*	4717	3605	*	*	5006	2714	*	*	6
+       71	4371	*	0	*	*	*	2379	1000	0	
+
+T 7    3847	*	*	*	*	*	*	*	3691	*	*	3615	*	*	*	1784	1055	*	*	*	7
+       0	*	*	*	*	*	*	2379	0	0	
+
+H 8    *	3750	3615	*	*	*	1190	*	*	*	*	*	4054	3605	*	2361	*	*	*	3863	8
+       159	3263	*	1147	867	*	*	2379	1411	0	
+
+R 9    4054	4089	3605	3943	*	*	3300	*	*	4371	*	3691	*	5107	1843	*	2951	3847	*	*	9
+       52	4828	*	0	*	*	*	2379	1000	0	
+
+P 10   1974	*	2721	*	*	*	*	*	*	*	*	*	1491	*	*	2321	4717	*	*	*	10
+       0	*	*	*	*	*	*	2379	0	0	
+
+H 11   *	*	*	2767	*	2395	1434	*	*	*	*	2770	*	4089	4676	4371	*	*	*	*	11
+       71	4371	*	1585	585	*	*	2379	1000	0	
+
+P 12   3722	*	*	2487	*	*	*	*	2794	*	*	*	2034	3888	*	2553	3064	*	*	*	12
+       0	*	*	*	*	*	*	2378	0	0	
+
+T 13   *	*	*	*	*	*	*	*	*	3286	*	*	*	3750	*	3745	716	2837	*	*	13
+       0	*	*	*	*	*	*	2356	0	0	
+
+S 14   4076	*	3135	*	*	3135	3750	*	*	*	*	3286	4091	*	*	1335	3622	*	*	*	14
+       0	*	*	*	*	*	*	2356	0	0	
+
+I 15   *	*	*	*	*	*	*	970	*	3371	*	*	*	*	*	*	3879	1622	*	*	15
+       0	*	*	*	*	*	*	1880	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1880	0	0	
+
+D 17   *	*	850	3337	*	*	*	*	*	*	*	*	*	2061	4170	*	*	4287	*	*	17
+       0	*	*	*	*	*	*	1880	0	0	
+
+N 18   *	*	*	*	*	*	4402	*	2700	*	*	1613	4449	2758	3363	4271	2953	*	*	*	18
+       0	*	*	*	*	*	*	1880	0	0	
+
+F 19   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1880	0	0	
+
+S 20   4271	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77	*	*	*	*	20
+       0	*	*	*	*	*	*	1880	0	0	
+
+A 21   129	*	3550	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1880	0	0	
+
+Y 22   *	*	*	*	2345	*	*	*	*	*	*	*	*	*	*	*	*	*	*	316	22
+       0	*	*	*	*	*	*	1880	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1880	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	24
+       0	*	*	*	*	*	*	1880	0	0	
+
+C 25   *	129	*	*	*	*	*	*	*	3550	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1880	0	0	
+
+P 26   *	*	*	*	*	*	*	*	*	*	*	*	129	*	*	3550	*	*	*	*	26
+       0	*	*	*	*	*	*	1880	0	0	
+
+L 27   *	*	3136	*	*	*	*	*	4239	1015	*	1563	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1880	0	0	
+
+G 28   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1880	0	0	
+
+P 29   *	*	*	*	*	4170	*	*	*	2585	*	*	1152	*	*	2461	4402	3337	*	*	29
+       0	*	*	*	*	*	*	1880	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	2380	*	*	4066	*	739	2744	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1880	0	0	
+
+C 31   *	78	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4241	31
+       0	*	*	*	*	*	*	1880	0	0	
+
+P 32   *	*	*	*	*	*	*	*	*	*	*	*	275	*	*	3879	3245	*	*	*	32
+       0	*	*	*	*	*	*	1880	0	0	
+
+Q 33   *	*	*	4239	*	*	*	*	*	2218	4287	*	*	1394	1735	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1880	0	0	
+
+S 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	34
+       0	*	*	*	*	*	*	1880	0	0	
+
+H 35   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1880	0	0	
+
+D 36   *	*	625	*	*	*	*	*	*	*	*	1508	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1880	0	0	
+
+I 37   *	*	*	*	*	*	*	175	*	*	*	*	*	*	*	*	*	3130	*	*	37
+       0	*	*	0	*	*	*	1564	0	0	
+
+//

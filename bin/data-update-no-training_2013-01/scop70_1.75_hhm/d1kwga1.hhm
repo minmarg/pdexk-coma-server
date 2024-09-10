@@ -1,0 +1,204 @@
+HHsearch 1.5
+NAME  d1kwga1 b.71.1.1 (A:591-644) A4 beta-galactosidase {Thermus thermophilus [TaxId: 274]}
+FAM   b.71.1.1
+FILE  d1kwga1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1kwga1.a3m -v 1 
+DATE  Mon Jan 21 22:51:46 2013
+LENG  54 match states, 54 columns in multiple alignment
+FILT  66 out of 68 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.4 
+SEQ
+>ss_pred
+CCCCCCCCEEEECCCEEEEEECCCCCEEEECCCCCEEEECCCCCCCCEEEEEEC
+>ss_conf
+904688447988299797784699847873599973886487518720688829
+>Consensus
+vxxLPxglRvxrRgxlxfafNYgxxxxxlxxpxxaxxvlGxxxixpxgVaVwxe
+>d1kwga1 b.71.1.1 (A:591-644) A4 beta-galactosidase {Thermus thermophilus [TaxId: 274]}
+VLSLPEGLRLRRRGTWVFAFNYGPEAVEAPASEGARFLLGSRRVGPYDLAVWEE
+>gi|340785492|ref|YP_004750957.1|(636-685:688) beta-galactosidase [Collimonas fungivorans Ter331] >gi|340550759|gb|AEK60134.1| Beta-galactosidase [Collimonas fungivorans Ter331]  E=2e-07 s/c=1.18 id=37% cov=94%
+---LPETLRISHRGGLTFAFNYGSQSCVVPHGEHAEFIVGASPLAAQGVAIYR-
+>gi|410100020|ref|ZP_11294985.1|(643-696:697) hypothetical protein HMPREF1076_04163 [Parabacteroides goldsteinii CL02T12C30] >gi|409216575|gb|EKN09559.1| hypothetical protein HMPREF1076_04163 [Parabacteroides goldsteinii CL02T12C30]  E=0.0003 s/c=0.90 id=31% cov=96%
+---LPYGVVKEWRDGFYVALNYTSTTQDIAIPSHAKILIGSRVLEPAGVVVWKE
+>gi|383120493|ref|ZP_09941221.1|(933-985:986) hypothetical protein BSIG_5744 [Bacteroides sp. 1_1_6] >gi|382985012|gb|EIC73105.1| hypothetical protein BSIG_5744 [Bacteroides sp. 1_1_6]  E=2e-06 s/c=1.03 id=22% cov=100%
+VMDLPYGITVEYRNGLGIVLNYSDRSYTFDIPEGSKVLVGTEEIPTAGVLVFS-
+>gi|294084762|ref|YP_003551520.1|(610-659:664) beta-galactosidase [Candidatus Puniceispirillum marinum IMCC1322] >gi|292664335|gb|ADE39436.1| Beta-galactosidase [Candidatus Puniceispirillum marinum IMCC1322]  E=3e-06 s/c=1.09 id=33% cov=91%
+---MPGYLRVRQRGNKLIFVNYGDQMMTIPNSFSGTFILGMQDVPPAGVSI---
+>gi|335436365|ref|ZP_08559161.1|(600-648:661) beta-D-galactosidase [Halorhabdus tiamatea SARL4B] >gi|334897829|gb|EGM35957.1| beta-D-galactosidase [Halorhabdus tiamatea SARL4B]  E=0.0001 s/c=1.01 id=24% cov=93%
+--VLPDGVAVAERDGYVWVTNFTGSPVSVDLPAGTEWIVGSNPIDGFDVGV---
+>gi|374329249|ref|YP_005079433.1|(604-652:656) glycoside hydrolase, family 42 [Pseudovibrio sp. FO-BEG1] >gi|359342037|gb|AEV35411.1| Glycoside hydrolase, family 42 [Pseudovibrio sp. FO-BEG1]  E=9e-10 s/c=1.35 id=28% cov=93%
+-----EGLRITQRGHLKFAFNFTSEVRKIELGSSVKTFVGGEQIPPFGVVIWSD
+>gi|330819774|ref|YP_004348636.1|(609-660:668) glycoside hydrolase family protein [Burkholderia gladioli BSR3] >gi|327371769|gb|AEA63124.1| Glycoside hydrolase, family 42-like protein [Burkholderia gladioli BSR3]  E=1e-09 s/c=1.26 id=29% cov=96%
+--ALGDAVRVSRRGKLTWVFNYGPGTHTLDaAIPDAAIVIGTRHIEAAGVAAYR-
+>gi|322371977|ref|ZP_08046519.1|(608-654:666) Beta-galactosidase [Haladaptatus paucihalophilus DX253] >gi|320548399|gb|EFW90071.1| Beta-galactosidase [Haladaptatus paucihalophilus DX253]  E=2e-07 s/c=1.24 id=35% cov=89%
+---LPDRVRVAHRGDLTWVFNYSSEPIDVDVG-DADVRLGEETVPGYDLLV---
+>gi|323139860|ref|ZP_08074890.1|(599-651:654) Beta-galactosidase [Methylocystis sp. ATCC 49242] >gi|322394887|gb|EFX97458.1| Beta-galactosidase [Methylocystis sp. ATCC 49242]  E=3e-07 s/c=1.08 id=34% cov=98%
+-MLLPRDIRVRDNGDLRYVFNYGDVAADISAIADGRsPLLGESLLSPCGVAVFK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	1
+       0	*	*	*	*	*	*	2458	0	0	
+
+L 2    *	*	*	*	2535	*	3389	*	*	1934	1973	*	*	3899	3946	*	3579	*	*	*	2
+       0	*	*	*	*	*	*	3143	0	0	
+
+S 3    1831	*	2751	*	*	*	4354	*	*	4159	*	*	*	*	4546	2998	4716	2297	*	4157	3
+       0	*	*	*	*	*	*	3702	0	0	
+
+L 4    *	*	*	*	*	*	*	5391	*	148	4883	*	*	*	*	*	*	4655	*	*	4
+       0	*	*	*	*	*	*	4248	0	0	
+
+P 5    5195	*	*	*	*	3175	*	*	*	*	*	*	329	*	5368	4587	*	*	*	*	5
+       0	*	*	*	*	*	*	4411	0	0	
+
+E 6    4054	*	1538	1439	*	5364	*	*	4262	*	*	*	5513	6017	4808	5252	*	*	*	4293	6
+       38	5258	*	1320	738	*	*	4555	1359	0	
+
+G 7    5203	*	2741	*	4342	808	4536	*	*	*	*	5168	*	*	6086	4006	6153	*	*	4607	7
+       0	*	*	*	*	*	*	4555	0	0	
+
+L 8    *	*	*	*	*	*	*	2746	*	1133	*	*	*	*	*	*	*	1340	*	*	8
+       24	*	5931	*	*	*	*	4562	0	0	
+
+R 9    5427	*	*	*	*	*	5741	*	*	*	5617	*	*	*	293	*	5661	4974	*	3834	9
+       0	*	*	*	*	0	*	4552	0	1000	
+
+L 10   5174	*	*	*	4447	*	*	1927	5014	2648	4949	*	*	*	*	5895	*	1291	*	6059	10
+       0	*	*	*	*	*	*	4562	0	0	
+
+R 11   3624	6067	5931	3167	*	*	*	5174	5428	*	4753	*	*	3789	1309	2940	4051	*	*	5518	11
+       0	*	*	*	*	*	*	4562	0	0	
+
+R 12   *	*	4667	3395	*	5174	4514	*	4645	*	*	*	*	3370	1142	*	5603	*	2994	4100	12
+       0	*	*	*	*	*	*	4562	0	0	
+
+R 13   5890	*	*	*	*	*	4412	*	*	*	*	4375	*	*	171	*	*	*	*	*	13
+       0	*	*	*	*	*	*	4562	0	0	
+
+G 14   5763	*	2171	*	*	490	*	*	*	*	*	4401	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4562	0	0	
+
+T 15   4242	*	2964	4355	*	1409	4600	*	3818	*	*	2594	4734	*	4926	4821	6649	*	*	*	15
+       0	*	*	*	*	*	*	4562	0	0	
+
+W 16   5086	*	*	*	2707	*	4222	4122	5373	1045	*	*	*	*	*	*	*	3946	5521	3170	16
+       0	*	*	*	*	*	*	4562	0	0	
+
+V 17   *	6645	*	*	*	4114	*	4425	5859	3576	5849	*	*	5584	3845	5187	1450	2558	4675	3747	17
+       0	*	*	*	*	*	*	4565	0	0	
+
+F 18   *	*	*	*	1057	*	*	3131	*	5528	*	*	*	*	*	*	5609	3720	2447	3269	18
+       0	*	*	*	*	*	*	4565	0	0	
+
+A 19   792	*	*	*	4632	5505	*	5609	*	*	*	*	*	*	*	6013	*	1625	*	*	19
+       0	*	*	*	*	*	*	4565	0	0	
+
+F 20   5889	*	*	*	732	*	*	*	*	2794	5803	*	*	*	*	*	3842	2744	*	*	20
+       0	*	*	*	*	*	*	4565	0	0	
+
+N 21   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	4565	0	0	
+
+Y 22   *	*	*	*	1821	*	*	*	*	*	*	*	*	*	*	*	*	*	*	480	22
+       0	*	*	*	*	*	*	4565	0	0	
+
+G 23   3956	*	*	*	*	955	*	*	*	*	*	*	*	*	*	2330	2178	*	*	*	23
+       0	*	*	*	*	*	*	4565	0	0	
+
+P 24   3464	6413	2262	6082	*	3638	*	*	5626	5192	*	4412	2267	4923	6170	2213	5096	*	*	*	24
+       0	*	*	*	*	*	*	4565	0	0	
+
+E 25   3451	*	2800	1889	*	6242	4068	6170	4089	5944	*	5125	*	3709	5005	5475	2681	5749	*	*	25
+       0	*	*	*	*	*	*	4565	0	0	
+
+A 26   2223	*	4015	3048	*	*	*	4794	*	*	5386	5448	1933	4852	6246	3907	3225	4759	*	*	26
+       0	*	*	*	*	*	*	4565	0	0	
+
+V 27   3216	4936	*	*	5411	*	3195	2963	*	5003	5386	*	*	3276	3940	*	5243	2581	4579	2839	27
+       0	*	*	*	*	*	*	4565	0	0	
+
+E 28   4620	*	2821	2830	*	*	*	*	5859	6670	6082	4117	6243	4267	4504	4183	1729	3162	*	*	28
+       0	*	*	*	*	*	*	4565	0	0	
+
+A 29   3207	*	*	*	4309	*	*	1917	*	1447	5528	*	*	*	*	*	5609	2718	*	6002	29
+       97	4986	4899	0	*	*	*	4565	1541	0	
+
+P 30   4283	*	2502	3109	*	*	*	*	5431	*	*	5604	1123	*	*	3433	4492	5930	*	*	30
+       160	3787	4953	373	2134	0	*	4546	2307	1477	
+
+A 31   1591	*	6300	*	*	4116	5376	2355	*	2836	*	4837	*	4709	*	*	5105	3069	*	5894	31
+       55	5368	6232	0	*	971	1030	4560	1000	1595	
+
+S 32   4738	*	5814	4941	5893	3571	*	3571	*	*	*	*	914	*	5743	3113	6473	4300	*	*	32
+       64	*	4532	*	*	0	*	4562	0	1528	
+
+E 33   2126	*	2721	2874	4566	5963	*	*	*	*	*	*	2672	3131	6466	3710	5160	6188	5378	*	33
+       22	*	6063	*	*	1352	717	4564	0	1726	
+
+G 34   4421	*	2158	4584	*	1910	5087	*	4666	*	*	3404	4753	6264	*	3111	3436	*	*	*	34
+       27	*	5748	*	*	0	*	4565	0	1631	
+
+A 35   759	*	4785	*	*	3379	*	*	*	*	*	*	*	*	*	2903	3790	3824	*	*	35
+       0	*	*	*	*	*	0	4560	0	1000	
+
+R 36   4014	*	4548	2690	*	5923	4486	*	2141	*	*	*	6079	3617	2922	4035	2760	5994	*	*	36
+       28	5690	*	0	*	0	*	4560	1000	1000	
+
+F 37   *	4112	*	*	1365	*	*	3058	*	2900	6200	*	4129	*	*	*	5859	2841	4207	5775	37
+       0	*	*	*	*	*	*	4565	0	0	
+
+L 38   6142	*	*	5889	4175	*	5248	3417	*	1648	*	*	*	*	4652	*	*	1249	*	6170	38
+       0	*	*	*	*	*	*	4565	0	0	
+
+L 39   5626	*	*	*	5255	*	*	2205	*	1064	*	*	*	*	*	*	*	1953	*	*	39
+       0	*	*	*	*	*	*	4565	0	0	
+
+G 40   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	4565	0	0	
+
+S 41   3622	*	3481	2618	*	2232	*	*	5505	*	5386	*	*	3396	*	1944	4246	*	*	*	41
+       21	6128	*	1000	1000	*	*	4565	1000	0	
+
+R 42   2487	*	5187	3366	*	*	4589	5849	3382	5411	6052	4490	3257	3898	2338	3475	*	*	*	*	42
+       43	5097	*	1000	1000	*	*	4565	1102	0	
+
+R 43   4556	*	3571	3210	*	*	6242	*	3253	5749	4792	*	4104	3529	2993	6260	2053	3876	*	*	43
+       21	6099	*	3000	193	*	*	4565	1000	0	
+
+V 44   *	*	*	*	*	*	*	1649	*	1285	*	*	*	*	*	*	*	1885	*	*	44
+       0	*	*	*	*	*	*	4565	0	0	
+
+G 45   2982	*	3822	2128	*	2723	*	*	3385	*	*	6500	2108	5448	5856	4515	*	*	*	*	45
+       0	*	*	*	*	*	*	4565	0	0	
+
+P 46   2730	*	*	*	*	4770	*	*	*	*	*	*	660	5177	*	6128	3312	4752	*	*	46
+       0	*	*	*	*	*	*	4565	0	0	
+
+Y 47   1768	5749	*	*	3291	3162	4689	*	*	*	*	*	*	2765	4115	5411	5097	4439	*	2925	47
+       0	*	*	*	*	*	*	4565	0	0	
+
+D 48   5096	*	1769	4055	*	932	*	*	*	*	*	5803	*	4924	*	4570	*	*	*	*	48
+       0	*	*	*	*	*	*	4565	0	0	
+
+L 49   4827	*	*	*	4390	*	*	4403	*	2833	*	*	*	*	*	*	5938	545	*	5177	49
+       0	*	*	*	*	*	*	4565	0	0	
+
+A 50   848	3984	*	*	*	5475	*	*	*	3461	*	*	*	*	*	3112	4146	3382	*	*	50
+       0	*	*	*	*	*	*	4565	0	0	
+
+V 51   2643	*	*	*	*	*	*	1652	*	*	*	*	*	*	*	*	*	939	*	*	51
+       0	*	*	*	*	*	*	4565	0	0	
+
+W 52   *	*	*	*	4103	*	*	*	*	*	*	*	*	*	*	*	*	*	401	2439	52
+       0	*	*	*	*	*	*	4209	0	0	
+
+E 53   *	*	*	3709	*	*	*	*	1825	*	*	5036	*	3217	1621	2919	*	4440	*	*	53
+       0	*	*	*	*	*	*	4201	0	0	
+
+E 54   *	*	2999	509	*	*	*	*	3060	*	*	*	*	4262	*	*	*	*	*	*	54
+       0	*	*	0	*	*	*	3545	0	0	
+
+//

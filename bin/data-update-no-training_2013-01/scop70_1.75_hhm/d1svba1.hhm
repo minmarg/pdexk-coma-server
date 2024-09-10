@@ -1,0 +1,322 @@
+HHsearch 1.5
+NAME  d1svba1 b.1.18.4 (A:303-395) Envelope glycoprotein {Tick-borne encephalitis virus [TaxId: 11084]}
+FAM   b.1.18.4
+FILE  d1svba1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1svba1.a3m -v 1 
+DATE  Tue Jan 22 02:07:30 2013
+LENG  93 match states, 93 columns in multiple alignment
+FILT  61 out of 63 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.5 
+SEQ
+>ss_pred
+CCCCCCCCCEEEEECCCCCCCCEEEEEEEECCCCCCEEEEEEEECCCCCCCEEEEEECCCEEECCCCEEEEEECCCCCCEEEECCCEEEEECC
+>ss_conf
+944137883268847778768768998886689995388998707899852347973497466499669887479998779981321111039
+>Consensus
+TYxmCxxxxFsxxKxPxdTgHgTVVmeVxytgxxPCripvxxxxxxxxxxxvGrLITxNPxvxxnxxvxIExepPfGdSxIxVGxlxxxWxkk
+>d1svba1 b.1.18.4 (A:303-395) Envelope glycoprotein {Tick-borne encephalitis virus [TaxId: 11084]}
+TYTMCDKTKFTWKRAPTDSGHDTVVMEVTFSGTKPCRIPVRAVAHGSPDVNVAMLITPNPTIENNGGGFIEMQLPPGDNIIYVGELSHQWFQK
+>gi|9633623|ref|NP_051124.1|(593-692:3434) polyprotein [Murray Valley encephalitis virus] >gi|56757564|sp|P05769.2|POLG_MVEV5 RecName: Full=Genome polyprotein; Contains: RecName: Full=Peptide 2k; Contains: RecName: Full=Capsid protein C; AltName: Full=Core protein; Contains: RecName: Full=prM; Contains: RecName: Full=Peptide pr; Contains: RecName: Full=Small envelope protein M; AltName: Full=Matrix protein; Contains: RecName: Full=Envelope protein E; Contains: RecName: Full=Non-structural protein 1; Short=NS1; Contains: RecName: Full=Non-structural protein 2A; Short=NS2A; Contains: RecName: Full=Serine protease subunit NS2B; AltName: Full=Flavivirin protease NS2B regulatory subunit; AltName: Full=Non-structural protein 2B; Contains: RecName: Full=Serine protease NS3; AltName: Full=Flavivirin protease NS3 catalytic subunit; AltName: Full=Non-structural protein 3; Contains: RecName: Full=Non-structural protein 4A; Short=NS4A; Contains: RecName: Full=Non-structural protein 4B; Short=NS4B; Contains: RecName: Full=RNA-directed RNA polymerase NS5; AltName: Full=Non-structural protein 5 >gi|6175827|gb|AAF05296.1| polyprotein [Murray Valley encephalitis virus]  E=9e-10 s/c=0.67 id=39% cov=100%
+TYGMCTE-KFTFSKNPADTGHGTVVLELQYTGSDgPCKIPISSVASLNDMTPVGRMVTANPYVASstaNAKVLVEIEPPFGDSYIVVGrgdkQINHHWHK
+E
+>gi|146411777|gb|ABI54473.1|(566-659:3390) polyprotein [Bouboui virus]   E=6e-07 s/c=0.61 id=40% cov=97%
+TYTNC-RGGLSFTKTPTDTGHGTVVMQVKVTRGAPCRLTAIAADDASGHVNRGSLVTSNPIANaNNDEVLIEINPPYGLSYLIVGtgddKLVYQW---
+>gi|33112011|ref|NP_872627.1|(589-685:3425) polyprotein [Yokose virus] >gi|32879785|dbj|BAC79364.1| polyprotein [Yokose virus]  E=3e-31 s/c=1.41 id=40% cov=100%
+TYTMC-KGGYSFSKTPVDSGHQTVIMKVKVSKATPCRIPVAVIDSMQSNINRGVVVTTNPVAfEAATEVMIEVVPPFGESVITIGngedRLTYQWHQE
+>gi|383215104|gb|AFG73004.1|(562-655:3379) polyprotein [Rio Bravo virus]   E=4e-30 s/c=1.41 id=42% cov=100%
+TYQMCS-SSFVWHKRPVATQHGTVAMEVKYKGSDaPCRIPVSVEKEGYNGKNFGNLITANPFAANNEAvVFLELEAPLGVSTIKVGGAVFQWKQE
+>gi|158577835|gb|ABW74531.1|(581-677:3418) polyprotein [Barkedji virus]   E=3e-27 s/c=1.28 id=37% cov=99%
+SFVTCGGT-FSFSKQPSDTGHGTVIMEVTTTTSSvPCRL-LMGFEDASGKTIKGRLITVNPIvITANTGVIVEMEPPFGESFITVGSgttmIKYAWHRK
+>gi|380877199|ref|YP_005352889.1|(600-695:3444) unnamed protein product [Donggang virus] >gi|380467966|gb|AFD61560.1| polyprotein [Donggang virus]  E=9e-27 s/c=1.27 id=36% cov=98%
+TYMQCSK-EFSILKRPTATPYGTVIMQVKYAQTDvPCRVPV-GVHERPGGEQVGRIITAHPIIlKQNDALVIEVEPPFGDSVIEIGlgttKIVEQWHR-
+>gi|377656442|pdb|3UYP|B(4-100:114) Chain B, Crystal Structure Of The Dengue Virus Serotype 4 Envelope Protein Domain Iii In Complex With The Variable Domains Of Mab 4e11  E=3e-23 s/c=1.14 id=34% cov=99%
+SYTMCS-GKFSIDKEMAETQHGTTVVKVKYEGaGAPCKVPIEI-RDVNKEKVVGRIISSTPFAENtNSVTNIELEPPFGDSYIVIGvgdsALTLHWFRK
+>gi|411170021|gb|AFW15934.1|(174-269:292) envelope protein, partial [Nanay virus]   E=3e-25 s/c=1.22 id=36% cov=99%
+TYATCEGT-FTFEKIPTDTGHGTVVMEVaSHDSVMPCRVVASFVDP-DGKSLGGRMITTNPILQSTTKTaVIEMEPPFGASHVALGPkmvTRYAWYRK
+>gi|377656445|pdb|3UZE|C(4-100:139) Chain C, Crystal Structure Of The Dengue Virus Serotype 3 Envelope Protein Domain Iii In Complex With The Variable Domains Of Mab 4e11 >gi|377656446|pdb|3UZE|D Chain D, Crystal Structure Of The Dengue Virus Serotype 3 Envelope Protein Domain Iii In Complex With The Variable Domains Of Mab 4e11  E=2e-23 s/c=1.14 id=32% cov=99%
+SYAMCLNT-FVLKKEVSETQHGTILIKVEYKGEDaPCKIPFS-TEDGQGKAHNGRLITANPVVTKKEEpVNIEAEPPFGESNIVIGigdkALKINWYRK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2314	324	*	*	*	1
+       0	*	*	*	*	*	*	3465	0	0	
+
+Y 2    *	*	*	*	5287	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37	2
+       0	*	*	*	*	*	*	3465	0	0	
+
+T 3    2561	*	*	*	*	2658	4439	*	6021	6082	5216	*	3574	4420	*	2373	2631	3578	*	*	3
+       0	*	*	*	*	*	*	3465	0	0	
+
+M 4    4968	*	*	*	*	*	*	*	*	3927	987	4000	*	3546	*	*	3519	2844	*	5438	4
+       0	*	*	*	*	*	*	3465	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       427	*	1966	*	*	*	*	3465	0	0	
+
+D 6    2617	*	4268	2429	*	4202	*	*	4298	5106	*	*	4809	*	*	2350	2099	*	*	*	6
+       232	*	2752	*	*	0	*	3332	0	2642	
+
+K 7    5012	*	*	3747	*	1588	*	*	1800	*	*	3907	*	5271	3413	4290	5668	5838	*	*	7
+       217	*	2840	*	*	0	*	3435	0	2204	
+
+T 8    2816	*	3674	*	*	1627	*	*	*	*	5858	4561	*	*	5874	2462	2337	*	*	*	8
+       652	*	1459	*	*	0	*	3440	0	2149	
+
+K 9    3993	*	4441	3934	*	2254	*	*	1149	*	*	*	4914	*	*	3484	*	4550	*	*	9
+       63	*	4550	*	*	0	*	3283	0	2768	
+
+F 10   *	*	*	*	277	*	*	*	*	3586	4432	*	*	*	*	*	*	*	*	4477	10
+       0	*	*	*	*	0	*	3441	0	1000	
+
+T 11   3065	*	*	5304	*	*	*	*	2767	*	*	*	*	5567	6355	1511	2126	3393	*	*	11
+       0	*	*	*	*	*	*	3465	0	0	
+
+W 12   *	*	*	*	1054	*	*	3425	*	3256	4375	*	*	*	*	*	*	*	1877	*	12
+       0	*	*	*	*	*	*	3465	0	0	
+
+K 13   2762	*	4572	3312	*	*	4360	5304	1976	5216	*	*	*	*	*	2786	3198	3309	*	*	13
+       0	*	*	*	*	*	*	3465	0	0	
+
+R 14   *	*	*	*	*	5467	*	*	434	*	*	6355	*	4400	2494	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3465	0	0	
+
+A 15   6030	*	5065	2874	*	*	5235	3942	4339	*	*	2653	3893	4178	3321	5814	2008	5090	*	*	15
+       0	*	*	*	*	*	*	3465	0	0	
+
+P 16   *	*	*	*	*	*	*	5372	*	6055	4572	*	191	*	*	*	*	4542	*	*	16
+       0	*	*	*	*	*	*	3465	0	0	
+
+T 17   1777	*	*	*	*	*	*	5374	*	*	*	*	*	*	4968	3603	1549	2132	*	*	17
+       0	*	*	*	*	*	*	3465	0	0	
+
+D 18   3384	*	702	2265	*	5820	*	*	*	5304	*	*	5963	*	*	*	5489	*	*	*	18
+       0	*	*	*	*	*	*	3465	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2175	361	*	*	*	19
+       0	*	*	*	*	*	*	3465	0	0	
+
+G 20   4968	*	5077	*	*	721	5438	5846	*	5827	*	5374	5216	2168	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3465	0	0	
+
+H 21   *	*	*	*	*	*	39	*	*	*	*	*	*	*	*	*	*	*	*	5216	21
+       0	*	*	*	*	*	*	3465	0	0	
+
+D 22   *	*	2306	*	*	460	*	*	*	*	*	*	*	4531	*	5193	*	*	*	*	22
+       0	*	*	*	*	*	*	3465	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	23
+       0	*	*	*	*	*	*	3465	0	0	
+
+V 24   3801	*	*	*	*	*	*	3691	*	*	*	*	*	*	*	*	4572	306	*	*	24
+       0	*	*	*	*	*	*	3465	0	0	
+
+V 25   3860	*	*	*	*	*	*	3558	*	3619	*	*	*	*	*	*	4292	487	*	*	25
+       0	*	*	*	*	*	*	3465	0	0	
+
+M 26   6018	*	*	*	5139	*	*	3941	*	3094	791	*	*	*	*	*	6082	2464	*	*	26
+       0	*	*	*	*	*	*	3465	0	0	
+
+E 27   *	*	4339	760	*	*	*	*	2833	*	*	*	*	2355	5372	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3465	0	0	
+
+V 28   *	*	*	*	*	*	*	4343	*	2003	*	*	*	*	*	*	*	512	*	*	28
+       70	4398	*	0	*	*	*	3465	1063	0	
+
+T 29   4968	*	*	4611	*	5963	*	*	1524	*	*	*	*	2707	*	2580	2041	*	*	*	29
+       0	*	*	*	*	*	*	3465	0	0	
+
+F 30   *	*	*	*	6030	*	4398	*	*	5193	*	*	*	*	*	*	5287	2611	*	473	30
+       0	*	*	*	*	*	*	3465	0	0	
+
+S 31   2975	*	4398	3539	*	*	*	*	3744	6635	*	*	6021	4147	*	2415	1339	*	*	*	31
+       0	*	*	*	*	*	*	3465	0	0	
+
+G 32   *	*	*	*	*	496	*	*	3197	*	*	6142	*	5216	5323	4398	3870	*	*	*	32
+       229	2769	*	0	*	*	*	3465	2440	0	
+
+T 33   5009	*	4983	4627	*	2615	*	6075	6791	*	*	3544	*	*	*	1846	1744	4398	*	*	33
+       121	3635	*	0	*	*	*	3465	2017	0	
+
+K 34   2173	*	1407	5814	*	*	*	*	2968	*	3741	6453	*	*	*	3321	3854	*	*	*	34
+       950	1052	*	0	*	*	*	3465	2921	0	
+
+P 35   5193	*	*	*	*	*	*	*	*	*	*	*	40	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3465	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3465	0	0	
+
+R 37   *	*	*	*	*	*	*	*	1383	*	*	*	*	*	698	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3465	0	0	
+
+I 38   4968	*	*	*	*	*	*	955	*	3115	*	*	*	*	*	*	*	1571	*	*	38
+       37	*	5287	*	*	*	*	3465	0	0	
+
+P 39   4411	*	*	*	*	*	*	*	*	4958	*	*	431	5793	*	5421	3492	4354	*	*	39
+       0	*	*	*	*	0	*	3447	0	1000	
+
+V 40   3116	*	*	*	3436	*	*	1600	*	5287	*	*	*	*	*	*	*	1195	*	*	40
+       82	*	4177	*	*	*	*	3465	0	0	
+
+R 41   5508	*	*	3858	*	*	*	2855	5312	*	4524	*	*	4955	2347	1813	3028	3920	*	*	41
+       36	*	5349	*	*	0	*	3422	0	1398	
+
+A 42   1661	*	*	*	3716	4228	*	2633	*	*	3085	5369	*	*	*	3448	5446	2872	*	*	42
+       31	*	5545	*	*	0	*	3443	0	1000	
+
+V 43   3124	*	*	3489	5276	*	*	5557	5225	*	5301	*	*	5617	*	3210	2327	1805	*	3587	43
+       76	*	4276	*	*	0	*	3458	0	1000	
+
+A 44   2170	*	1863	3529	*	*	4013	*	3811	*	*	*	5780	*	3174	3862	4318	4834	*	*	44
+       0	*	*	*	*	969	1032	3426	0	1446	
+
+H 45   *	*	1856	3011	*	*	4031	*	4801	5363	5560	3641	3066	*	*	2107	*	5299	*	*	45
+       53	*	4797	*	*	*	0	3450	0	1000	
+
+G 46   2820	*	5277	5340	*	2171	*	*	4293	1894	3812	4430	4994	*	4430	6223	4815	5537	*	*	46
+       24	*	5903	*	*	0	*	3391	0	1063	
+
+S 47   2804	*	4369	5886	*	4675	6072	5892	3809	*	6440	2376	4167	3388	6010	2559	4196	4948	*	5511	47
+       0	*	*	*	*	0	*	3468	0	1000	
+
+P 48   6021	*	2167	3293	*	2004	*	*	5579	*	*	3484	2781	*	5372	4200	5827	4092	*	*	48
+       0	*	*	*	*	*	*	3465	0	0	
+
+D 49   5124	*	3982	3257	*	2640	3686	4879	3248	2804	3541	4748	*	*	6256	*	2932	6003	*	*	49
+       0	*	*	*	*	*	*	3465	0	0	
+
+V 50   4627	*	*	2330	*	4413	*	5574	2657	4968	*	*	*	4508	*	4676	2098	2429	*	*	50
+       104	*	3849	*	*	*	*	3465	0	0	
+
+N 51   *	*	3247	*	*	*	4610	4185	5339	5357	4955	1422	1908	5117	*	5747	*	5048	*	*	51
+       34	*	5434	*	*	682	1408	3420	0	1764	
+
+V 52   5336	*	*	*	5422	5366	*	3894	4552	5291	*	5233	*	5384	2926	5342	4033	931	*	*	52
+       36	5342	*	1000	1000	1000	1000	3441	1000	1513	
+
+A 53   2372	*	*	*	*	310	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	0	*	3459	0	1000	
+
+M 54   *	*	*	*	*	*	*	6021	4968	*	4012	3950	*	*	826	2922	3527	4531	*	*	54
+       0	*	*	*	*	*	*	3465	0	0	
+
+L 55   *	*	*	*	*	*	*	3097	*	538	3181	*	*	*	*	*	*	3567	*	*	55
+       0	*	*	*	*	*	*	3465	0	0	
+
+I 56   *	*	*	*	*	*	*	750	*	*	*	*	*	*	*	*	*	1302	*	*	56
+       0	*	*	*	*	*	*	3465	0	0	
+
+T 57   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3248	161	*	*	*	57
+       0	*	*	*	*	*	*	3465	0	0	
+
+P 58   1808	*	*	*	*	5304	*	*	*	*	*	*	4000	*	*	2374	2625	1881	*	*	58
+       0	*	*	*	*	*	*	3465	0	0	
+
+N 59   *	*	*	*	*	*	3495	5565	*	*	*	202	*	*	*	*	5579	*	*	*	59
+       0	*	*	*	*	*	*	3465	0	0	
+
+P 60   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	60
+       74	4725	6391	611	1534	*	*	3465	1630	0	
+
+T 61   5085	*	*	*	2484	*	*	1385	*	5056	*	*	*	*	*	5939	3474	2488	*	3406	61
+       38	5274	*	0	*	0	*	3466	1000	1000	
+
+I 62   1885	4968	*	*	*	*	*	1821	*	4398	5945	*	*	*	*	6674	*	1552	*	*	62
+       283	2489	*	635	1489	*	*	3465	2559	0	
+
+E 63   3117	*	*	1834	5489	*	*	*	4177	5947	4445	5275	6018	4398	*	2617	2233	*	*	*	63
+       189	3022	*	891	1118	*	*	3465	2237	0	
+
+N 64   2572	*	4570	4836	*	*	*	*	2877	*	*	2395	*	4606	*	2358	2517	*	*	5820	64
+       182	3073	*	655	1455	*	*	3465	2262	0	
+
+N 65   3080	*	2956	*	*	*	*	*	4542	*	*	1102	*	5438	*	3365	3012	*	*	*	65
+       90	4051	*	336	2265	*	*	3465	1944	0	
+
+G 66   3633	*	2287	3666	*	2787	5920	*	4171	*	4968	4892	*	6082	*	2265	3657	4905	*	5820	66
+       99	3908	*	579	1598	*	*	3465	1819	0	
+
+G 67   3074	*	5959	2421	*	3041	*	5565	1997	*	*	*	5372	*	4393	3666	3497	4435	*	*	67
+       96	3952	*	0	*	*	*	3465	1641	0	
+
+G 68   4258	*	4968	*	*	3117	*	4077	4869	5216	5827	5141	*	*	*	6018	3022	1013	*	*	68
+       281	2498	*	922	1082	*	*	3465	2602	0	
+
+F 69   *	*	*	*	1734	*	*	4806	*	2029	2718	3196	*	*	*	*	5193	3151	*	5820	69
+       44	5065	*	0	*	*	*	3465	1107	0	
+
+I 70   *	*	*	*	*	*	*	802	*	2972	*	*	*	*	*	*	*	1742	*	*	70
+       0	*	*	*	*	*	*	3465	0	0	
+
+E 71   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	3465	0	0	
+
+M 72   3785	*	*	*	*	*	*	3111	*	1895	1834	*	*	*	*	*	5655	2043	*	*	72
+       0	*	*	*	*	*	*	3465	0	0	
+
+Q 73   *	*	4836	682	*	*	*	5489	*	*	*	3682	*	2489	*	4557	*	5574	*	*	73
+       0	*	*	*	*	*	*	3465	0	0	
+
+L 74   5526	*	*	*	*	*	*	*	*	3146	*	*	412	*	*	*	*	3138	*	*	74
+       0	*	*	*	*	*	*	3465	0	0	
+
+P 75   *	*	*	*	*	*	*	*	*	*	*	*	35	*	*	*	*	5374	*	*	75
+       0	*	*	*	*	*	*	3465	0	0	
+
+P 76   *	*	*	*	735	*	*	*	*	4481	*	*	2297	*	*	*	*	*	*	2729	76
+       0	*	*	*	*	*	*	3465	0	0	
+
+G 77   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77
+       0	*	*	*	*	*	*	3465	0	0	
+
+D 78   4398	*	756	2440	5438	*	*	5304	*	4762	*	6135	*	*	*	5175	5195	5526	*	*	78
+       0	*	*	*	*	*	*	3465	0	0	
+
+N 79   *	5809	*	*	*	*	*	6006	*	*	*	3377	*	*	*	254	4968	*	*	*	79
+       0	*	*	*	*	*	*	3465	0	0	
+
+I 80   *	*	*	*	2979	*	3843	2875	*	*	*	4721	*	*	*	*	3059	3966	*	1167	80
+       0	*	*	*	*	*	*	3465	0	0	
+
+I 81   *	*	*	*	*	*	*	168	*	4000	*	*	*	*	*	*	*	4398	*	*	81
+       0	*	*	*	*	*	*	3465	0	0	
+
+Y 82   2947	*	*	3597	*	*	*	2088	3188	4334	6284	*	*	*	*	*	4423	1981	*	3638	82
+       0	*	*	*	*	*	*	3465	0	0	
+
+V 83   5947	*	*	*	*	*	*	1460	*	4398	*	*	*	*	*	*	*	804	*	*	83
+       100	3897	*	2000	415	*	*	3465	1725	0	
+
+G 84   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	84
+       1167	850	*	2000	415	*	*	3465	2888	0	
+
+E 85   3197	*	2955	4978	*	5501	*	*	1979	*	*	*	4379	2443	3275	3303	5799	*	*	*	85
+       134	3494	*	1788	493	*	*	3461	1751	0	
+
+L 86   4015	*	*	*	*	6409	*	1636	*	995	*	*	*	*	*	*	4379	4184	*	*	86
+       0	*	*	*	*	*	*	3461	0	0	
+
+S 87   5799	*	5286	6409	*	*	4868	*	1820	*	*	3145	*	*	3025	4025	2206	3143	*	*	87
+       0	*	*	*	*	*	*	3461	0	0	
+
+H 88   *	*	*	4507	4206	*	2058	5428	*	3909	*	*	*	2835	*	*	*	5286	*	1300	88
+       0	*	*	*	*	*	*	3461	0	0	
+
+Q 89   3212	5632	5360	*	*	*	1494	*	*	*	*	5428	*	1162	5482	*	*	*	*	*	89
+       0	*	*	*	*	*	*	3461	0	0	
+
+W 90   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	90
+       0	*	*	*	*	*	*	3466	0	0	
+
+F 91   *	*	*	*	1617	*	1450	*	4347	*	*	3559	*	5605	4478	*	*	*	*	3203	91
+       0	*	*	*	*	*	*	3454	0	0	
+
+Q 92   *	*	*	*	*	*	*	*	1416	*	*	*	*	1539	1831	*	*	*	*	*	92
+       0	*	*	*	*	*	*	3454	0	0	
+
+K 93   *	*	*	2118	*	*	*	*	551	*	*	*	*	4333	4748	*	*	*	*	*	93
+       0	*	*	0	*	*	*	3275	0	0	
+
+//

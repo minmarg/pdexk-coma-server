@@ -1,0 +1,261 @@
+HHsearch 1.5
+NAME  d1sfka_ a.190.1.1 (A:) Flavivirus capsid protein C {Kunjin virus [TaxId: 11077]}
+FAM   a.190.1.1
+FILE  d1sfka_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sfka_.a3m -v 1 
+DATE  Tue Jan 22 02:01:51 2013
+LENG  73 match states, 73 columns in multiple alignment
+FILT  31 out of 33 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHCCCCCHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9516788999999715660999999999998824888778999862266368999999888999999986319
+>Consensus
+xxxxxlKRxxxxllxGxGpiRxvLAxlaFfrFtaikptxxllxRWxxvxKxxAxKxLxxFKkeigxmlxxvnk
+>d1sfka_ a.190.1.1 (A:) Flavivirus capsid protein C {Kunjin virus [TaxId: 11077]}
+LSLTGLKRAMLSLIDGRGPTRFVLALLAFFRFTAIAPTRAVLDRWRSVNKQTAMKHLLSFKKELGTLTSAINR
+>gi|218848508|gb|ABI54480.1|(29-96:3429) polyprotein [Spondweni virus]   E=1e-11 s/c=1.07 id=48% cov=95%
+----GLKRLPVGLLLGRGPIKMILAILAFLRFTAIKPSTGLINRWGKVGKKEAIKILTKFKADVGTMLRIIN-
+>gi|126010843|ref|YP_001040004.1|(32-98:3429) polyprotein [Aroa virus] >gi|54399530|gb|AAV34152.1| polyprotein [Bussuquara virus]  E=6e-09 s/c=0.95 id=44% cov=93%
+------KRLLGDAFAGRGPLRVILAVVAFFRFTAIKMSPALLKKWGTVEKGAAIAIMKSFKKEIGSMLDVVAR
+>gi|54399534|gb|AAV34154.1|(31-97:3416) polyprotein [Iguape virus]   E=2e-19 s/c=1.47 id=41% cov=93%
+-----VKRTVGKLINGVGPLRLVLAMLTFFRFSALKPTAGLVKRWTKMKPAPAVKILQNFRKQLGSMIQTLS-
+>gi|158577835|gb|ABW74531.1|(16-80:3418) polyprotein [Barkedji virus]   E=2e-10 s/c=1.06 id=29% cov=90%
+-------KLVKNVFVGKGPTRAIMAVMAMLRFLAMRPSASLKQRWHKVDRKEGSKVLGKFRNVIGDMLKDLN-
+>gi|1709704|sp|P14340.2|POLG_DEN2N(31-97:3391) RecName: Full=Genome polyprotein; Contains: RecName: Full=Capsid protein C; AltName: Full=Core protein; Contains: RecName: Full=prM; Contains: RecName: Full=Peptide pr; Contains: RecName: Full=Small envelope protein M; AltName: Full=Matrix protein; Contains: RecName: Full=Envelope protein E; Contains: RecName: Full=Non-structural protein 1; Short=NS1; Contains: RecName: Full=Non-structural protein 2A; Short=NS2A; Contains: RecName: Full=Non-structural protein 2A-alpha; Short=NS2A-alpha; Contains: RecName: Full=Serine protease subunit NS2B; AltName: Full=Flavivirin protease NS2B regulatory subunit; AltName: Full=Non-structural protein 2B; Contains: RecName: Full=Serine protease NS3; AltName: Full=Flavivirin protease NS3 catalytic subunit; AltName: Full=Non-structural protein 3; Contains: RecName: Full=Non-structural protein 4A; Short=NS4A; Contains: RecName: Full=Peptide 2k; Contains: RecName: Full=Non-structural protein 4B; Short=NS4B; Contains: RecName: Full=RNA-directed RNA polymerase NS5; AltName: Full=Non-structural protein 5 >gi|323448|gb|AAA42941.1| viral polyprotein [Dengue virus 2]  E=2e-22 s/c=1.61 id=41% cov=93%
+------KRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNR
+>gi|407992846|ref|YP_006846328.1|(28-98:3427) polyprotein [Ntaya virus] >gi|407080680|gb|AFS89612.1| polyprotein [Ntaya virus]  E=3e-22 s/c=1.52 id=42% cov=99%
+--ISRIKRMLDGLFKGIGPIRIVLAFLTFFKFTALKPTAGLLRRWKIVGVAEATRHLKSFRKDIGQMLDGLNK
+>gi|380877199|ref|YP_005352889.1|(34-98:3444) unnamed protein product [Donggang virus] >gi|380467966|gb|AFD61560.1| polyprotein [Donggang virus]  E=3e-13 s/c=1.21 id=36% cov=90%
+------KMAAKKVMMGIGSLKAFLALFLFMTFTGRKISNEQHKRFRSIDKTKAMKVLATFKKILGNLMKTL--
+>gi|222822801|gb|ACM68470.1|(27-98:3442) polyprotein [Nounane virus]   E=6e-19 s/c=1.35 id=34% cov=100%
+-AMAPVKKIFNEVLTGRGIVRAFLALLMFMRFLSIKPPKHMTERWKKVKKSEGLKILKGFKSDIGTKLNQLNK
+>gi|227937395|gb|ACP43327.1|(30-97:3435) polyprotein [Chaoyang virus]   E=1e-11 s/c=1.07 id=25% cov=95%
+-----LKKATQTVMESLAGIRATVAYLLYMTFLGNKVSKATRAKFRSAKKSDLIKILSSFKRTVTNLLASVQK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1100	0	0	
+
+S 2    1411	*	*	*	*	*	*	*	*	*	*	*	*	*	*	681	*	*	*	*	2
+       0	*	*	*	*	*	*	1669	0	0	
+
+L 3    *	*	*	*	*	*	*	2374	*	742	2258	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2309	0	0	
+
+T 4    2417	*	*	*	3709	*	*	2954	3759	*	3445	*	*	*	*	3070	3207	2223	*	*	4
+       0	*	*	*	*	*	*	2309	0	0	
+
+G 5    *	*	*	*	*	590	*	*	3943	*	*	*	3119	*	2685	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2359	0	0	
+
+L 6    *	*	*	*	*	*	*	2540	*	1011	*	*	*	*	*	*	*	1591	*	*	6
+       0	*	*	*	*	*	*	2996	0	0	
+
+K 7    3791	*	*	*	*	*	*	*	178	*	*	*	*	*	4519	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3249	0	0	
+
+R 8    *	*	*	*	*	*	*	*	2254	*	3945	*	*	*	463	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3345	0	0	
+
+A 9    1911	*	*	*	3023	*	*	3202	*	2373	3300	*	*	*	*	*	3157	3384	*	*	9
+       0	*	*	*	*	*	*	3345	0	0	
+
+M 10   3945	*	*	*	4213	*	*	2889	*	2312	4520	*	4030	*	*	2386	3891	2464	*	*	10
+       0	*	*	*	*	*	*	3345	0	0	
+
+L 11   4932	*	3733	*	4918	2800	*	*	2023	3344	2991	3798	*	3891	4570	*	4830	5136	*	*	11
+       0	*	*	*	*	*	*	3345	0	0	
+
+S 12   *	*	4472	4213	*	1683	*	*	2834	*	*	3028	*	*	4570	2203	3891	*	*	*	12
+       0	*	*	*	*	*	*	3345	0	0	
+
+L 13   4480	*	*	*	*	*	*	3875	*	877	3740	*	*	*	*	*	*	1901	*	*	13
+       0	*	*	*	*	*	*	3342	0	0	
+
+I 14   *	*	*	*	2628	*	*	3052	*	1030	2322	*	*	*	*	*	5156	*	*	*	14
+       0	*	*	*	*	*	*	3342	0	0	
+
+D 15   4480	*	1677	3895	*	5075	*	*	5356	4044	3951	3809	*	3303	4327	4015	4219	4111	*	*	15
+       0	*	*	*	*	*	*	3342	0	0	
+
+G 16   *	*	*	*	*	281	*	*	*	*	*	*	*	*	*	2885	*	4583	*	*	16
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 17   5360	*	*	*	5075	*	4945	3489	3203	2885	*	*	*	4222	1131	*	*	3827	*	*	17
+       0	*	*	*	*	*	*	3342	0	0	
+
+G 18   2885	*	*	*	*	210	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3342	0	0	
+
+P 19   4583	*	*	*	*	2885	*	4219	*	*	*	*	505	*	*	3951	*	*	*	*	19
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 20   *	*	*	*	*	*	*	1809	*	1510	4222	*	4583	*	*	*	3703	2385	*	*	20
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 21   *	*	*	*	*	*	*	*	2477	*	*	*	*	*	286	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3342	0	0	
+
+F 22   1682	*	*	*	2092	*	*	4325	*	2300	2967	*	*	*	*	*	*	3779	*	*	22
+       0	*	*	*	*	*	*	3342	0	0	
+
+V 23   *	*	*	*	2722	*	*	2344	*	*	5630	*	*	*	*	*	2885	1012	*	*	23
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	474	2790	*	*	*	*	*	*	2885	*	*	24
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 25   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 26   *	*	*	*	2553	*	*	2804	*	1310	4475	*	*	*	*	*	*	3284	*	2885	26
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 27   *	*	*	*	3951	*	*	2873	*	730	3084	*	*	*	*	*	*	3681	*	*	27
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 28   1083	*	*	*	*	*	*	*	*	2322	4219	*	*	*	*	*	1866	*	*	*	28
+       0	*	*	*	*	*	*	3342	0	0	
+
+F 29   *	*	*	*	310	*	*	*	*	*	4111	*	*	*	*	*	*	*	*	2885	29
+       0	*	*	*	*	*	*	3342	0	0	
+
+F 30   *	*	*	*	982	*	*	*	*	2060	1978	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 31   *	*	*	*	*	*	*	*	2100	*	*	*	*	*	819	*	2322	*	*	*	31
+       0	*	*	*	*	*	*	3342	0	0	
+
+F 32   *	*	*	*	51	*	*	*	*	*	*	*	*	*	*	*	*	4851	*	*	32
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 33   3841	*	*	*	*	*	*	*	*	1441	*	*	*	*	*	4475	952	*	*	*	33
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 34   624	*	*	*	*	2322	*	*	*	*	*	*	*	*	*	3083	4915	*	*	*	34
+       0	*	*	*	*	*	*	3342	0	0	
+
+I 35   *	*	*	*	*	*	*	1174	*	1743	4111	2885	*	*	3951	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 36   2428	*	*	*	*	*	*	*	920	*	5156	*	3043	5357	3160	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3342	0	0	
+
+P 37   *	*	*	*	*	*	*	3951	*	*	4480	*	405	*	*	*	*	2885	*	*	37
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	*	*	*	4219	*	*	1347	854	*	*	*	38
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 39   1705	*	*	5357	*	*	*	5360	2241	3753	*	2912	3747	5156	3392	*	5150	*	*	*	39
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 40   1357	*	*	3951	*	1207	4219	*	*	*	*	*	*	*	*	4111	*	*	*	*	40
+       0	*	*	*	*	*	*	3342	0	0	
+
+V 41   *	*	*	*	*	*	*	3396	*	833	3679	*	*	3951	*	*	2885	3933	*	*	41
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 42   *	*	*	*	*	*	3951	3386	2380	1106	5872	*	*	*	3895	*	4219	4475	*	*	42
+       0	*	*	*	*	*	*	3342	0	0	
+
+D 43   3049	*	4171	3760	*	4697	*	*	1434	*	*	3680	*	2988	3066	5827	*	*	*	*	43
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 44   *	*	*	*	*	*	*	*	2472	*	*	*	*	*	287	*	*	*	*	*	44
+       0	*	*	*	*	*	*	3342	0	0	
+
+W 45   *	*	*	*	2322	*	*	*	*	*	*	*	*	*	*	*	*	*	322	*	45
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 46   *	*	*	*	*	1946	4111	*	2179	*	*	*	*	*	1369	5075	4475	*	*	*	46
+       0	*	*	*	*	*	*	3342	0	0	
+
+S 47   3611	*	*	*	*	4141	*	5356	2437	4327	4937	3875	*	4851	5767	1660	3261	5156	*	*	47
+       0	*	*	*	*	*	*	3342	0	0	
+
+V 48   2885	*	*	*	4222	*	*	3106	*	4851	3242	*	*	*	*	*	*	851	*	*	48
+       0	*	*	*	*	*	*	3342	0	0	
+
+N 49   *	*	2328	3322	*	2603	*	*	1492	*	*	2641	*	*	5607	*	*	*	*	*	49
+       0	*	*	*	*	*	*	3342	0	0	
+
+K 50   *	*	*	*	*	*	*	*	281	*	*	*	4475	*	4111	*	*	3752	*	*	50
+       0	*	*	*	*	*	*	3342	0	0	
+
+Q 51   3849	*	*	*	*	4008	*	*	2575	*	*	3536	*	3725	5357	1669	2818	4105	*	*	51
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 52   4480	*	2885	1717	*	4222	4937	*	2916	*	*	*	4475	*	*	*	2536	3652	*	*	52
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 53   409	*	*	*	*	3164	*	*	*	3895	*	*	*	*	*	*	*	3875	*	*	53
+       0	*	*	*	*	*	*	3342	0	0	
+
+M 54   *	*	*	*	*	*	*	1601	*	2849	1821	*	*	*	*	3514	3752	3528	*	*	54
+       0	*	*	*	*	*	*	3342	0	0	
+
+K 55   4480	*	*	4945	*	*	*	*	363	*	*	4915	*	*	3652	4937	*	*	*	*	55
+       0	*	*	*	*	*	*	3342	0	0	
+
+H 56   *	*	*	*	*	*	1497	1418	*	4937	*	*	*	*	*	*	5075	2257	*	*	56
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 57   *	*	*	*	*	*	*	4945	*	116	4480	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 58   3298	*	*	*	*	4111	*	*	1766	4171	*	5357	*	4475	4051	2885	2146	*	*	*	58
+       0	*	*	*	*	*	*	3342	0	0	
+
+S 59   *	*	*	*	*	1600	*	*	3077	*	*	3528	*	*	*	1321	3951	*	*	*	59
+       0	*	*	*	*	*	*	3342	0	0	
+
+F 60   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	3342	0	0	
+
+K 61   *	*	*	*	*	*	*	*	359	*	*	*	*	*	2181	*	*	*	*	*	61
+       0	*	*	*	*	*	*	3342	0	0	
+
+K 62   5150	*	*	*	*	*	*	*	608	*	*	4111	*	*	2291	4219	*	*	*	*	62
+       0	*	*	*	*	*	*	3342	0	0	
+
+E 63   *	*	1861	1245	*	*	*	3951	*	*	*	*	*	4475	*	*	2885	4111	*	*	63
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 64   *	*	*	*	*	*	*	1287	*	1229	*	*	*	*	*	*	*	2612	*	*	64
+       0	*	*	*	*	*	*	3342	0	0	
+
+G 65   3941	*	*	*	*	565	*	*	*	*	*	*	*	*	*	3615	2497	*	*	*	65
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 66   4238	*	4111	*	*	*	*	5635	*	*	*	1828	*	3267	3883	2768	2005	5672	*	*	66
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 67   *	*	*	*	*	*	*	*	4219	1523	741	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	3342	0	0	
+
+T 68   *	*	*	*	*	*	*	2883	*	574	3951	*	*	*	*	*	3207	5672	*	*	68
+       0	*	*	*	*	*	*	3342	0	0	
+
+S 69   3895	*	1876	*	*	*	*	*	3029	*	*	1650	*	4475	4044	3139	*	*	*	*	69
+       0	*	*	*	*	*	*	3342	0	0	
+
+A 70   2910	*	4111	*	4937	3752	*	2251	*	*	*	*	*	4219	*	2497	2611	3357	*	*	70
+       0	*	*	*	*	*	*	3342	0	0	
+
+I 71   *	*	*	*	*	*	*	2264	*	1566	3971	*	*	5294	*	*	*	1455	*	*	71
+       0	*	*	*	*	*	*	3342	0	0	
+
+N 72   4403	*	*	*	*	*	4890	*	*	*	*	517	*	2721	*	3864	*	*	*	*	72
+       0	*	*	*	*	*	*	3244	0	0	
+
+R 73   *	*	*	*	*	*	*	*	804	*	*	*	*	*	1227	*	*	*	*	*	73
+       0	*	*	0	*	*	*	2979	0	0	
+
+//

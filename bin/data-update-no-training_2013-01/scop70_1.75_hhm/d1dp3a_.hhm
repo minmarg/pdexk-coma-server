@@ -1,0 +1,205 @@
+HHsearch 1.5
+NAME  d1dp3a_ a.55.1.2 (A:) DNA-binding domain (fragment?) of the TraM protein {Escherichia coli [TaxId: 562]}
+FAM   a.55.1.2
+FILE  d1dp3a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dp3a_.a3m -v 1 
+DATE  Mon Jan 21 19:41:54 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCEEEHHCHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+9202000347889899999999864788655423568999999878999876229
+>Consensus
+arvqxyvsxxvxekIxxivexrrxeGAxexdvsxSsxxsMLlELGLRVYeaQxer
+>d1dp3a_ a.55.1.2 (A:) DNA-binding domain (fragment?) of the TraM protein {Escherichia coli [TaxId: 562]}
+AKVQAYVSDEIVYKINKIVERRRAEGAKSTDVSFSSISTMLLELGLRVYEAQMER
+>gi|123443604|ref|YP_001007576.1|(2-54:131) conjugal transfer protein TraM [Yersinia enterocolitica subsp. enterocolitica 8081] >gi|122090565|emb|CAL13434.1| plasmid transfer protein [Yersinia enterocolitica subsp. enterocolitica 8081]  E=5e-07 s/c=1.08 id=55% cov=96%
+-KIQTYVNNRVFDGINNIMTERQIEGM--PDVSISSVSSMLLELGLRVYELQKEK
+>gi|194430272|ref|ZP_03062768.1|(2-56:128) TraM protein [Escherichia coli B171] >gi|194411705|gb|EDX28031.1| TraM protein [Escherichia coli B171]  E=3e-06 s/c=1.00 id=44% cov=100%
+-RIQTFVSNQVREEIENLVTERRQEGATENDATVSSVTSMLIELGLRVYRIQREK
+>gi|305696907|ref|YP_003864222.1|(2-56:126) conjugative transfer protein [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|410652109|ref|YP_006955228.1| TraM [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|410652250|ref|YP_006955368.1| TraM [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|410654654|ref|YP_006955616.1| conjugative transfer protein [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|304376209|dbj|BAJ15371.1| conjugative transfer protein [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|365818939|gb|AEX00730.1| TraM [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|365819080|gb|AEX00870.1| TraM [Salmonella enterica subsp. enterica serovar Typhimurium] >gi|374347599|dbj|BAL48737.1| conjugative transfer protein [Salmonella enterica subsp. enterica serovar Typhimurium]  E=2e-13 s/c=1.44 id=64% cov=102%
+AKVNVYISNEVHNKITAIVEKRRQEGARDKDISFSGTSSMLLELRLRVYEAQMER
+>gi|284009412|emb|CBA76612.1|(3-56:124) conjugal transfer protein [Arsenophonus nasoniae]   E=1e-10 s/c=1.28 id=53% cov=100%
+-RLQTFVSHEILSSISDLVEKRRQEGATEKEVNVSSIGAMLIELGLRVYKAQLEQ
+>gi|410655002|ref|YP_006957519.1|(3-54:168) IncF plasmid conjugative transfer mating signal transduction protein TraM [Salmonella enterica subsp. salamae] >gi|389597724|gb|AFK90473.1| IncF plasmid conjugative transfer mating signal transduction protein TraM [Salmonella enterica subsp. salamae]  E=1e-09 s/c=1.28 id=45% cov=96%
+-KIQTYVNNNVYEQITDLVTIRKQEGIEE--ASLSNVSSMLLELGLRVYMIQQEK
+>gi|145301507|ref|YP_001144346.1|(3-54:122) conjugal transfer protein TraM [Aeromonas salmonicida subsp. salmonicida A449] >gi|418363103|ref|ZP_12963704.1| conjugal transfer protein TraM [Aeromonas salmonicida subsp. salmonicida 01-B526] >gi|142856389|gb|ABO92598.1| TraM protein [Aeromonas salmonicida subsp. salmonicida A449] >gi|356685674|gb|EHI50310.1| conjugal transfer protein TraM [Aeromonas salmonicida subsp. salmonicida 01-B526]  E=7e-12 s/c=1.42 id=43% cov=96%
+-RVQVYLKHNCIDEIHELVEEDIQAGANPAEVSFSSKACMLLELGLRVYNLRR--
+>gi|284009400|emb|CBA76589.1|(2-54:124) conjugal transfer protein [Arsenophonus nasoniae]   E=2e-11 s/c=1.36 id=52% cov=98%
+ARLQIYTSNDVFNRIVNIVNQQKNEGANETEISLSSVGTMLLELGLRVYEAQQ--
+>gi|304413409|ref|ZP_07394882.1|(3-56:128) TraM conjugal transfer protein [Candidatus Regiella insecticola LSR1] >gi|304284252|gb|EFL92645.1| TraM conjugal transfer protein [Candidatus Regiella insecticola LSR1]  E=3e-11 s/c=1.32 id=44% cov=100%
+-KIQVFVSKAILENINTIVIDKRNDGAKEHEANTSNTASMLIELGLKVYELQQKK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    105	*	*	*	*	3830	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1705	0	0	
+
+K 2    *	*	*	*	*	*	*	*	1062	*	*	*	*	*	941	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2357	0	0	
+
+V 3    *	*	*	*	*	*	*	1364	*	2953	*	*	*	*	*	*	*	1052	*	*	3
+       0	*	*	*	*	*	*	2357	0	0	
+
+Q 4    *	*	*	*	*	*	*	4398	*	*	*	2916	*	286	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2357	0	0	
+
+A 5    2267	*	*	*	*	*	*	4066	*	2870	*	*	*	*	*	*	1961	1561	*	*	5
+       0	*	*	*	*	*	*	2357	0	0	
+
+Y 6    *	*	*	*	2180	*	*	*	*	*	*	*	*	*	*	*	*	*	*	360	6
+       0	*	*	*	*	*	*	2357	0	0	
+
+V 7    5072	*	*	*	*	*	*	2201	*	3396	*	*	4874	*	*	*	4066	826	*	*	7
+       0	*	*	*	*	*	*	2357	0	0	
+
+S 8    *	*	*	*	*	*	*	*	3396	*	*	2608	*	*	*	432	*	*	*	*	8
+       0	*	*	*	*	*	*	2357	0	0	
+
+D 9    *	*	1869	*	*	*	2863	*	3097	*	*	1084	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 10   2924	*	2697	1379	*	*	4664	*	*	*	*	2918	*	3395	3997	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2399	0	0	
+
+I 11   3523	3746	*	*	*	*	*	2491	*	*	*	*	*	*	*	*	*	598	*	*	11
+       0	*	*	*	*	*	*	2399	0	0	
+
+V 12   4058	4899	*	*	3025	*	3567	2949	*	2838	*	*	*	*	4110	3761	*	2771	*	2720	12
+       0	*	*	*	*	*	*	2399	0	0	
+
+Y 13   *	*	2064	845	*	*	*	*	*	*	*	3281	*	*	*	3989	*	*	*	4714	13
+       0	*	*	*	*	*	*	2399	0	0	
+
+K 14   *	*	*	2416	*	3997	*	*	1023	*	*	3702	*	4112	4053	3989	*	*	*	*	14
+       0	*	*	*	*	*	*	2399	0	0	
+
+I 15   *	*	*	*	*	*	*	69	*	*	*	*	*	*	*	*	*	4411	*	*	15
+       0	*	*	*	*	*	*	2399	0	0	
+
+N 16   *	*	*	4110	*	*	3126	*	4186	*	*	959	*	*	4865	3989	3315	4053	*	*	16
+       0	*	*	*	*	*	*	2399	0	0	
+
+K 17   1565	*	3049	3746	*	4186	*	*	4714	*	4584	2468	*	*	*	*	3702	3749	*	*	17
+       0	*	*	*	*	*	*	2399	0	0	
+
+I 18   *	*	*	*	*	*	*	531	*	1698	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2399	0	0	
+
+V 19   3761	*	*	*	*	*	*	3572	*	*	3997	*	*	*	*	*	*	359	*	*	19
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 20   *	*	*	632	*	*	*	3702	*	*	*	4053	*	*	*	*	2487	4664	*	*	20
+       0	*	*	*	*	*	*	2399	0	0	
+
+R 21   *	*	3702	2000	*	*	*	4112	1501	*	*	*	*	2159	4714	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2399	0	0	
+
+R 22   *	*	2949	*	*	*	*	*	3702	*	*	*	*	4053	447	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2399	0	0	
+
+R 23   *	*	*	*	*	*	*	2949	2745	*	*	*	*	3997	602	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2399	0	0	
+
+A 24   2258	*	*	*	*	*	*	3997	*	*	4899	2867	*	925	*	5003	*	*	*	*	24
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 25   2949	*	3702	403	*	4750	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2399	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2399	0	0	
+
+A 27   185	*	*	*	*	*	*	4112	*	*	3997	*	*	*	*	*	*	*	*	*	27
+       93	*	3997	*	*	*	*	2399	0	0	
+
+K 28   4568	*	*	3917	*	*	4084	*	1716	*	*	2802	*	*	1963	*	2961	*	*	*	28
+       0	*	*	*	*	*	0	2350	0	1000	
+
+S 29   *	*	2006	889	*	*	*	*	*	*	*	*	2863	*	*	3765	*	*	*	*	29
+       99	*	3917	*	*	0	*	2350	0	1000	
+
+T 30   3680	*	4123	*	*	*	3586	*	1096	*	*	3938	3841	*	*	*	2486	*	*	*	30
+       0	*	*	*	*	*	0	2363	0	1000	
+
+D 31   *	*	718	1351	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	0	*	2363	0	1000	
+
+V 32   2377	*	*	*	*	*	*	2384	*	*	*	*	*	*	*	*	*	699	*	*	32
+       0	*	*	*	*	*	*	2399	0	0	
+
+S 33   *	*	*	*	*	*	*	*	*	*	*	2498	*	*	*	386	4110	*	*	*	33
+       0	*	*	*	*	*	*	2399	0	0	
+
+F 34   *	*	*	*	1141	*	*	3997	*	2646	*	*	*	*	*	*	3097	2575	*	4664	34
+       0	*	*	*	*	*	*	2399	0	0	
+
+S 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	35
+       0	*	*	*	*	*	*	2399	0	0	
+
+S 36   4413	*	*	*	*	2928	*	*	*	*	*	2893	*	*	*	542	*	*	*	*	36
+       0	*	*	*	*	*	*	2399	0	0	
+
+I 37   *	*	*	*	*	*	*	1854	2949	*	*	*	*	*	*	*	1971	1562	*	*	37
+       0	*	*	*	*	*	*	2399	0	0	
+
+S 38   1360	*	*	*	*	3021	*	4642	*	*	*	*	*	*	*	1581	3148	*	*	*	38
+       0	*	*	*	*	*	*	2399	0	0	
+
+T 39   3989	3746	*	*	*	*	*	*	*	*	*	*	*	*	*	581	2365	*	*	*	39
+       0	*	*	*	*	*	*	2399	0	0	
+
+M 40   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2399	0	0	
+
+L 41   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2399	0	0	
+
+L 42   *	*	*	*	*	*	*	2090	*	515	*	*	*	*	*	*	*	3934	*	*	42
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 43   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2399	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2399	0	0	
+
+G 45   *	*	*	*	*	63	*	*	*	*	*	*	*	*	4550	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2399	0	0	
+
+L 46   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2399	0	0	
+
+R 47   *	*	*	*	*	*	*	*	3702	*	*	*	*	*	115	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2399	0	0	
+
+V 48   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	48
+       0	*	*	*	*	*	*	2399	0	0	
+
+Y 49   *	*	*	*	*	*	4413	*	*	*	*	*	*	*	*	*	*	*	*	69	49
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 50   *	*	4584	621	*	*	*	*	3989	*	4112	2949	*	*	4110	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2399	0	0	
+
+A 51   802	*	*	*	*	*	*	3111	*	1895	*	*	*	*	*	*	*	4584	*	*	51
+       0	*	*	*	*	*	*	2399	0	0	
+
+Q 52   *	*	*	*	*	*	*	*	*	*	*	*	*	200	2949	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2399	0	0	
+
+M 53   *	*	*	*	*	*	*	*	3997	3989	1023	*	*	2359	2416	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2399	0	0	
+
+E 54   *	*	*	160	*	*	*	*	3255	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2166	0	0	
+
+R 55   *	*	*	*	*	*	*	*	1612	*	*	*	*	3529	771	*	*	*	*	*	55
+       0	*	*	0	*	*	*	2166	0	0	
+
+//

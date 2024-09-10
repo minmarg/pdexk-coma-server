@@ -1,0 +1,250 @@
+HHsearch 1.5
+NAME  d1qp3a_ b.34.4.2 (A:) Photosystem I accessory protein E (PsaE) {Cyanobacterium (Nostoc sp.), strain pcc8009 [TaxId: 1180]}
+FAM   b.34.4.2
+FILE  d1qp3a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1qp3a_.a3m -v 1 
+DATE  Tue Jan 22 01:07:00 2013
+LENG  70 match states, 70 columns in multiple alignment
+FILT  104 out of 117 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCEEEEECCCCCEECCCCCEEEECCCCCCCCEEEEECCCCCCCCCCCCCCHHHHHCCCCCCCCCCC
+>ss_conf
+9766864677655442012556178851789612447873561325665443251143100588766789
+>Consensus
+mixrGskVrIlRxESYWynxvGtVasvdxsgixYPViVRFxkvNYxGvnTNnfaxxElxevxxpxxkxkk
+>d1qp3a_ b.34.4.2 (A:) Photosystem I accessory protein E (PsaE) {Cyanobacterium (Nostoc sp.), strain pcc8009 [TaxId: 1180]}
+MVQRGSKVRILRPESYWFQDVGTVASVDQSGIKYPVIVRFEKVNYSGINTNNFAEDELVEVEAPKAKPKK
+>gi|30468152|ref|NP_849039.1|(1-62:94) photosystem I subunit IV [Cyanidioschyzon merolae strain 10D] >gi|30409252|dbj|BAC76201.1| photosystem I iron-sulfur center subunit VII (chloroplast) [Cyanidioschyzon merolae strain 10D]  E=1e-16 s/c=1.45 id=59% cov=90%
+MIKKGSLVKILRPESFWYNEVGTVVNVETSKVLYPVLVRFDKVNYSGLNSTNFSLDELVEIK--------
+>gi|215400738|ref|YP_002327498.1|(1-61:61) PSI subunit IV [Vaucheria litorea] >gi|194441188|gb|ACF70916.1| PSI subunit IV [Vaucheria litorea]  E=2e-15 s/c=1.40 id=56% cov=89%
+-MQKNSKVKNLRKESYWYNEIGTIVTIEKTGSKYPILVRFAKVNYSGTNTTNLSEDELQEVE--------
+>gi|330318806|gb|AEC11063.1|(24-86:99) photosystem I reaction center subunit iv b [Camellia sinensis]   E=2e-14 s/c=1.30 id=59% cov=90%
+LVKRGTKVRILRKESYWFKGIGSVVAVDQDpKTRYPVVVRFNKVNYANVSTNNYALDEIEEVK--------
+>gi|193875814|gb|ACF24543.1|(74-136:137) photosystem I reaction center subunit IV [Gymnochlora stellata]   E=2e-19 s/c=1.56 id=54% cov=90%
+---RGSYVKINRPYSYWYNNVGKVVSVDQeDGILFPVTVRFDSVNYAGVSTNQFALDEVEVTKKAT-----
+>gi|254525880|ref|ZP_05137932.1|(24-89:90) photosystem I reaction center subunit IV [Prochlorococcus marinus str. MIT 9202] >gi|221537304|gb|EEE39757.1| photosystem I reaction center subunit IV [Prochlorococcus marinus str. MIT 9202]  E=2e-18 s/c=1.44 id=58% cov=86%
+-IARGDFVRIKRPESYWYNEIGKVASIDKTGIKYNCTVRFDKCNYAGISgtaegatTNMFAESELEK----------
+>gi|284928876|ref|YP_003421398.1|(1-70:72) photosystem I reaction centre subunit IV / PsaE [cyanobacterium UCYN-A] >gi|284809335|gb|ADB95040.1| Photosystem I reaction centre subunit IV / PsaE [cyanobacterium UCYN-A]  E=5e-17 s/c=1.28 id=59% cov=90%
+MIKRKDKVRVKRKESYWYNDVGTVVTIDKgDSLLYPVVVRFEKVNYiglsgdpSGLNMNSFAESELEVVA--------
+>gi|78185014|ref|YP_377449.1|(3-71:73) photosystem I reaction center subunit IV [Synechococcus sp. CC9902] >gi|78169308|gb|ABB26405.1| photosystem I subunit IV psaE [Synechococcus sp. CC9902]  E=2e-14 s/c=1.18 id=59% cov=87%
+-IAKGSKVRIKRKESYWFNEVGVVVSREKepNKSRYPITVRFEKVNYNGMqgvdgglTTNNYAERELDEV---------
+>gi|72383542|ref|YP_292897.1|(5-68:72) photosystem I reaction center subunit IV [Prochlorococcus marinus str. NATL2A] >gi|124025134|ref|YP_001014250.1| photosystem I reaction center subunit IV [Prochlorococcus marinus str. NATL1A] >gi|72003392|gb|AAZ59194.1| photosystem I subunit IV psaE [Prochlorococcus marinus str. NATL2A] >gi|123960202|gb|ABM74985.1| Photosystem I PsaE protein (subunit IV) [Prochlorococcus marinus str. NATL1A]  E=2e-13 s/c=1.22 id=49% cov=81%
+---RKDKVRILRQESYWFNQIGEIVSIDKSPLmRYPVTVKFDKCDFkafsgvdGGANTSQFSVKELE-----------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	4643	59	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1947	0	0	
+
+V 2    *	*	*	*	*	*	*	1154	*	4796	3586	*	*	*	*	*	*	1213	*	*	2
+       0	*	*	*	*	*	*	2104	0	0	
+
+Q 3    4186	*	4795	2544	*	*	*	*	1609	*	*	5251	*	1861	*	3713	4965	*	*	*	3
+       0	*	*	*	*	*	*	2153	0	0	
+
+R 4    *	*	*	*	*	*	*	*	2097	*	*	*	*	*	384	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2220	0	0	
+
+G 5    5633	*	*	*	*	203	*	*	4243	*	*	4401	*	*	6493	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2220	0	0	
+
+S 6    3047	*	2447	6404	*	*	*	*	*	*	*	*	*	*	*	652	4401	*	*	*	6
+       0	*	*	*	*	*	*	2220	0	0	
+
+K 7    *	*	*	6844	4871	*	*	4051	549	4599	*	*	*	4406	*	*	4215	4553	*	5142	7
+       0	*	*	*	*	*	*	2221	0	0	
+
+V 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	8
+       0	*	*	*	*	*	*	2224	0	0	
+
+R 9    *	*	*	*	*	*	*	*	1683	*	*	*	*	6342	564	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2224	0	0	
+
+I 10   *	*	*	*	*	*	*	264	*	*	*	5303	*	*	*	*	*	2815	*	*	10
+       0	*	*	*	*	*	*	2224	0	0	
+
+L 11   *	*	*	*	*	*	*	*	2482	449	4739	5149	*	*	5449	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2224	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2224	0	0	
+
+P 13   *	*	*	4989	*	*	*	*	1112	*	*	*	1304	4676	4261	*	6681	*	*	*	13
+       0	*	*	*	*	*	*	2224	0	0	
+
+E 14   *	*	5262	80	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5149	14
+       0	*	*	*	*	*	*	2224	0	0	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	15
+       0	*	*	*	*	*	*	2224	0	0	
+
+Y 16   *	*	*	*	4112	*	*	*	*	*	*	*	*	*	*	*	*	*	*	86	16
+       0	*	*	*	*	*	*	2224	0	0	
+
+W 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	17
+       0	*	*	*	*	*	*	2224	0	0	
+
+F 18   6011	*	*	*	1367	*	5042	*	*	*	*	*	*	*	*	*	*	*	*	820	18
+       0	*	*	*	*	*	*	2224	0	0	
+
+Q 19   *	*	*	*	*	4841	*	*	3890	*	*	820	*	1920	4247	*	*	*	*	6110	19
+       0	*	*	*	*	*	*	2224	0	0	
+
+D 20   *	*	1320	1593	*	4430	*	*	4418	*	*	4786	*	3219	6501	6440	6855	*	*	*	20
+       0	*	*	*	*	*	*	2224	0	0	
+
+V 21   *	4633	*	5913	6401	*	*	2088	5430	4753	*	*	*	*	*	*	3747	868	*	6219	21
+       0	*	*	*	*	*	*	2224	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2224	0	0	
+
+T 23   *	*	*	5086	*	*	*	5494	2527	6965	*	6700	*	*	*	2993	727	5193	*	*	23
+       0	*	*	*	*	*	*	2224	0	0	
+
+V 24   *	*	*	*	*	*	*	3984	*	*	*	*	*	*	*	*	*	94	*	*	24
+       0	*	*	*	*	*	*	2224	0	0	
+
+A 25   826	*	*	*	*	*	*	6219	*	*	*	*	*	*	*	*	*	1243	*	*	25
+       0	*	*	*	*	*	*	2224	0	0	
+
+S 26   2926	*	*	*	*	*	*	6099	5877	*	*	4784	*	*	*	1040	1869	4624	*	*	26
+       0	*	*	*	*	*	*	2224	0	0	
+
+V 27   5646	*	*	*	*	*	*	1948	*	*	5593	*	*	*	6003	*	*	547	*	*	27
+       0	*	*	*	*	*	*	2224	0	0	
+
+D 28   4958	*	334	2919	*	*	*	*	*	*	*	5430	*	*	*	5729	*	*	*	*	28
+       0	*	*	*	*	*	*	2224	0	0	
+
+Q 29   6475	*	*	*	*	*	*	*	1234	*	*	5258	*	1240	*	*	3130	*	*	*	29
+       88	4074	*	350	2213	*	*	2224	1606	0	
+
+S 30   4679	*	2855	5646	*	4237	*	*	4376	*	*	5443	*	*	*	850	3193	6099	*	*	30
+       218	3019	5877	0	*	*	*	2224	1627	0	
+
+G 31   3368	*	5691	*	*	523	*	*	3539	*	*	4933	5064	*	*	5430	5967	*	*	*	31
+       69	5410	5427	0	*	0	*	2216	1000	1000	
+
+I 32   5342	*	4964	*	*	*	*	750	*	4479	*	*	*	*	*	3080	3909	3071	*	*	32
+       80	4206	*	0	*	0	*	2243	1521	1000	
+
+K 33   *	*	*	*	*	*	*	3761	1570	2742	*	4181	*	*	1407	*	6991	*	*	*	33
+       0	*	*	*	*	*	*	2224	0	0	
+
+Y 34   *	*	*	*	5149	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41	34
+       0	*	*	*	*	*	*	2224	0	0	
+
+P 35   6862	*	*	*	*	4703	*	*	*	*	*	4418	181	*	*	5368	*	*	*	*	35
+       0	*	*	*	*	*	*	2224	0	0	
+
+V 36   4721	5611	*	*	*	*	*	3425	*	6488	*	*	*	*	*	*	*	314	*	4917	36
+       0	*	*	*	*	*	*	2224	0	0	
+
+I 37   *	*	*	*	*	*	*	1510	*	2614	*	*	*	*	*	5175	2742	1698	*	*	37
+       0	*	*	*	*	*	*	2256	0	0	
+
+V 38   *	*	*	*	*	*	*	5347	*	*	*	*	*	*	*	*	*	36	*	*	38
+       0	*	*	*	*	*	*	2256	0	0	
+
+R 39   *	*	*	*	*	*	*	*	3403	*	*	*	*	*	143	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2256	0	0	
+
+F 40   *	*	*	*	23	*	*	*	*	5959	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2256	0	0	
+
+E 41   4540	*	1229	1584	*	*	*	6016	*	*	*	3693	6312	6526	*	6332	6488	4135	*	*	41
+       0	*	*	*	*	*	*	2256	0	0	
+
+K 42   5447	*	*	6421	*	*	*	*	498	*	*	3379	*	*	4983	3666	4293	*	*	*	42
+       0	*	*	*	*	*	*	2256	0	0	
+
+V 43   *	3917	*	5816	*	*	*	5833	*	6478	*	*	*	5401	*	*	4892	269	*	*	43
+       0	*	*	*	*	*	*	2256	0	0	
+
+N 44   6412	*	4132	*	*	*	*	*	*	*	*	144	*	*	*	6924	5816	*	*	*	44
+       0	*	*	*	*	*	*	2256	0	0	
+
+Y 45   *	*	*	*	3996	*	*	*	*	*	*	*	*	*	*	*	*	*	*	93	45
+       234	2739	*	2807	222	*	*	2256	1804	0	
+
+S 46   1289	*	*	*	5472	3996	6412	*	*	*	*	3606	*	6003	*	1588	5199	6526	*	5301	46
+       112	3739	*	2807	222	*	*	2256	1562	0	
+
+G 47   *	*	6629	*	*	191	*	*	*	*	*	3305	*	*	*	6284	*	*	*	*	47
+       0	*	*	*	*	*	*	2256	0	0	
+
+I 48   5091	*	*	*	*	*	*	2599	*	4022	4648	4552	*	*	*	*	2570	1020	*	*	48
+       37	5302	*	2807	222	*	*	2256	1334	0	
+
+N 49   5669	*	*	*	*	*	*	*	*	*	*	523	*	5472	*	2463	3633	*	*	*	49
+       73	4341	*	2807	222	*	*	2256	1383	0	
+
+T 50   *	*	*	*	*	*	*	*	*	*	5990	*	*	*	*	3776	134	*	*	*	50
+       0	*	*	*	*	*	*	2256	0	0	
+
+N 51   4643	*	*	*	*	*	*	*	*	*	*	221	*	*	*	3974	4700	*	*	*	51
+       0	*	*	*	*	*	*	2256	0	0	
+
+N 52   *	*	*	*	*	5447	*	*	*	*	6352	281	*	4126	*	4139	*	*	*	5175	52
+       0	*	*	*	*	*	*	2256	0	0	
+
+F 53   *	*	*	*	420	*	*	*	*	5295	*	*	*	*	*	*	*	*	*	2139	53
+       0	*	*	*	*	*	*	2256	0	0	
+
+A 54   560	*	*	*	*	3821	*	*	4194	*	*	*	*	*	6536	2550	6090	*	*	*	54
+       23	*	5959	*	*	*	*	2256	0	0	
+
+E 55   *	*	5991	1578	*	*	*	5170	*	1354	4675	*	5018	4741	*	6670	6171	3674	*	5588	55
+       0	*	*	*	*	*	0	2252	0	1000	
+
+D 56   5475	*	1308	3128	6039	6096	3366	*	5084	*	*	3855	*	*	5828	2637	5822	6088	5436	*	56
+       0	*	*	*	*	*	0	2252	0	1000	
+
+E 57   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	0	*	2252	0	1000	
+
+L 58   *	*	*	*	*	*	*	3081	*	531	*	*	*	*	*	*	*	2398	*	*	58
+       17	*	6406	*	*	*	*	2256	0	0	
+
+V 59   5123	*	5611	1502	*	*	*	3142	5312	4022	*	*	*	3467	*	*	4785	1883	*	*	59
+       13	*	6849	*	*	0	*	2213	0	1161	
+
+E 60   6521	*	*	398	*	*	*	*	5221	3787	*	*	5880	6448	*	*	*	3285	*	*	60
+       0	*	*	*	*	0	*	2161	0	1000	
+
+V 61   5099	*	*	*	*	*	*	3458	*	5920	6325	*	*	*	*	*	4282	323	*	*	61
+       21	*	6115	*	*	*	*	2146	0	0	
+
+E 62   2594	*	*	1272	*	5840	*	*	2040	*	*	*	*	4384	*	4012	5516	5164	*	*	62
+       25	5888	*	0	*	0	*	2071	1000	1000	
+
+A 63   1047	*	*	5133	*	4969	*	*	2680	*	*	*	2272	*	*	4188	4731	*	*	*	63
+       0	*	*	*	*	*	*	1935	0	0	
+
+P 64   2988	*	*	5237	*	4134	*	*	5570	*	*	5280	530	*	*	5715	*	4967	*	*	64
+       0	*	*	*	*	*	*	1906	0	0	
+
+K 65   2518	*	*	4916	*	5742	*	*	1359	*	*	*	2709	*	*	3277	2971	*	*	*	65
+       35	5386	*	2322	322	*	*	1911	1000	0	
+
+A 66   1431	*	*	*	*	4090	*	*	1960	*	*	*	3275	*	*	3118	4532	5747	*	4919	66
+       0	*	*	*	*	*	*	1833	0	0	
+
+K 67   4503	*	*	*	*	*	*	*	123	*	4724	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	1827	0	0	
+
+P 68   1344	*	4813	4782	*	5176	*	*	2363	*	*	*	3668	4520	*	3718	3136	*	*	*	68
+       0	*	*	*	*	*	*	1843	0	0	
+
+K 69   4866	*	*	4710	*	*	*	*	256	*	*	*	*	*	4422	4521	*	*	*	*	69
+       0	*	*	*	*	*	*	1815	0	0	
+
+K 70   *	*	*	3270	*	*	*	*	463	*	*	*	*	2548	*	*	*	*	*	*	70
+       0	*	*	0	*	*	*	1678	0	0	
+
+//

@@ -1,0 +1,124 @@
+HHsearch 1.5
+NAME  d2dlka1 g.37.1.1 (A:8-37) Zinc finger protein 692, ZNF692 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2dlka1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2dlka1.a3m -v 1 
+DATE  Tue Jan 22 06:18:04 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+988853201233004777776888764029
+>Consensus
+xxcdfxgcgkifsnrqylnhhkkyqhxhqk
+>d2dlka1 g.37.1.1 (A:8-37) Zinc finger protein 692, ZNF692 {Human (Homo sapiens) [TaxId: 9606]}
+MPCDFPGCGRIFSNRQYLNHHKKYQHIHQK
+>gi|327266294|ref|XP_003217941.1|(352-379:540) PREDICTED: hypothetical protein LOC100567577 [Anolis carolinensis]   E=2e-07 s/c=2.10 id=83% cov=97%
+--CDYDGCGKIFSNRQYLNHHKKYQHVHQK
+>gi|181327693|ref|NP_001116748.1|(320-349:503) zinc finger protein 692 [Danio rerio]   E=6e-05 s/c=1.69 id=68% cov=103%
+LSCEFDGCDKIFSSRQYLNHHIKYQHLHQK
+>gi|291415111|ref|XP_002723792.1|(321-350:508) PREDICTED: zinc finger protein 692 [Oryctolagus cuniculus]   E=6e-10 s/c=2.24 id=90% cov=103%
+MPCDFPGCGKIFSNRQYLNHHKKYQHIQQK
+>gi|334323335|ref|XP_001363006.2|(412-441:590) PREDICTED: zinc finger protein 692-like [Monodelphis domestica]   E=6e-10 s/c=2.24 id=90% cov=103%
+LPCDFPGCGKIFSNRQYLNHHKKYQHIHQK
+>gi|326930113|ref|XP_003211196.1|(473-500:663) PREDICTED: hypothetical protein LOC100542602 [Meleagris gallopavo]   E=9e-09 s/c=2.26 id=86% cov=97%
+--CDFEGCGKIFSNRQYLNHHKKYQHVHQK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	922	1082	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1225	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	520	*	*	1724	*	*	*	*	2
+       0	*	*	*	*	*	*	1225	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1215	0	0	
+
+D 4    *	*	346	2230	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1215	0	0	
+
+F 5    *	*	*	*	259	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2606	5
+       0	*	*	*	*	*	*	1215	0	0	
+
+P 6    *	*	1406	2681	*	*	*	*	*	*	*	*	1100	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1215	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1215	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1215	0	0	
+
+G 9    *	*	2230	*	*	346	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1215	0	0	
+
+R 10   *	*	*	*	*	*	*	*	252	*	*	*	*	*	2641	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1215	0	0	
+
+I 11   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1215	0	0	
+
+F 12   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1215	0	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	13
+       0	*	*	*	*	*	*	1215	0	0	
+
+N 14   *	*	*	*	*	*	*	*	*	*	*	346	*	*	*	2230	*	*	*	*	14
+       0	*	*	*	*	*	*	1215	0	0	
+
+R 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1215	0	0	
+
+Q 16   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1215	0	0	
+
+Y 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	17
+       0	*	*	*	*	*	*	1215	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1215	0	0	
+
+N 19   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1215	0	0	
+
+H 20   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1215	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1215	0	0	
+
+K 22   *	*	*	*	*	*	*	2230	346	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1215	0	0	
+
+K 23   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1215	0	0	
+
+Y 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	24
+       0	*	*	*	*	*	*	1215	0	0	
+
+Q 25   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1215	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1215	0	0	
+
+I 27   *	*	*	*	*	*	*	1100	*	2230	*	*	*	*	*	*	*	1643	*	*	27
+       0	*	*	*	*	*	*	1215	0	0	
+
+H 28   *	*	*	*	*	*	252	*	*	*	*	*	*	2641	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1215	0	0	
+
+Q 29   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1215	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1215	0	0	
+
+//

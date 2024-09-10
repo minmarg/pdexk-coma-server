@@ -1,0 +1,68 @@
+Query         PF00002 7tm_2:  7 transmembrane receptor (Secretin family);  InterPro: IPR000832   G-protein-coupled receptors, GPCRs, constitute a vast protein family that encompasses a wide range of functions (including various autocrine, paracrine and endocrine processes). They show considerable diversity at the sequence level, on the basis of which they can be separated into distinct groups. We use the term clan to describe the GPCRs, as they embrace a group of families for which there are indications of evolutionary relationship, but between which there is no statistically significant similarity in sequence . The currently known clan members include the rhodopsin-like GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating pheromone receptors, and the metabotropic glutamate receptor family. There is a specialised database for GPCRs: http://www.gpcr.org/7tm/.    The secretin-like GPCRs include secretin , calcitonin , parathyroid hormone/parathyroid hormone-related peptides  and vasoactive intestinal peptide , all of which activate adenylyl cyclase and the phosphatidyl-inositol-calcium pathway. The amino acid sequences of the receptors contain high proportions of hydrophobic residues grouped into 7 domains, in a manner reminiscent of the rhodopsins and other receptors believed to interact with G-proteins. However, while a similar 3D framework has been proposed to account for this, there is no significant sequence identity between these families: the secretin-like receptors thus bear their own unique '7TM' signature.    ; GO: 0004930 G-protein coupled receptor activity, 0016020 membrane; PDB: 1bl1 1et3_S 1et2_S 1fjr_B.
+Match_columns 293
+No_of_seqs    117 out of 762
+Neff          6.6 
+Searched_HMMs 13774
+Date          Tue Oct 13 16:32:31 2009
+Command       /mnt/master/home/minlag/hhsearch/./hhsearch -i /mnt/master/home/minlag/pfamA_23.0_hhm_cal_ssm_4/PF00002.hhm -d /mnt/master/home/minlag/scop70_1.75_PFAM_PDEXK_2.db -v 1 -o /mnt/master/home/minlag/PFAM_in_SCOP_and_PFAM_pdexk_2/PF00002.out -ssm 4 -p 10 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1u19a_ f.13.1.2 (A:) Rhodopsi  98.8 8.9E-09 6.5E-13  -63.7  -6.9  244   14-292    50-312 (348)
+
+No 1  
+>d1u19a_ f.13.1.2 (A:) Rhodopsin {Cow (Bos taurus) [TaxId: 9913]}
+Probab=98.76   E-value=8.9e-09  Score=63.75  Aligned_columns=244  Identities=17%
+
+Q ss_dssp             H-------------------------------------------------------------------------------
+Q ss_pred             HHHHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHH-HH-HHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+Q ss_conf             99999999999999974411256378999999999999999999-98-87200011100000134321222246665420
+Q PF00002_consen   14 LSLVALLLTIIIFLLFRSLRSTRTTIHLNLCISLLLANLLFLVG-IS-QTSNEVSLSEGDRLNVSETLSASAASGPPTPP   91 (293)
+Q Consensus        14 lSl~~L~~~i~i~~~fr~lr~~r~~Ih~nL~~sl~l~~~~fl~~-~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   91 (293)
+                      +++++=.+.+.+....|++|+..+.+..||+++=++..+..+.. .. ....+..                        .
+T Consensus        50 ~gi~gN~lvi~vi~~~k~lr~~~~~~l~nLaiaDll~~~~~~~~~~~~~~~~~~~------------------------~  105 (348)
+T d1u19a_          50 LGFPINFLTLYVTVQHKKLRTPLNYILLNLAVADLFMVFGGFTTTLYTSLHGYFV------------------------F  105 (348)
+T ss_dssp             HHHHHHHHHHHHHHHSTTCCSHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTSCT------------------------T
+T ss_pred             HHHHHHHHEEHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCC------------------------C
+T ss_conf             9999998835542003888877699999999999999998877766542357643------------------------4
+
+
+Q ss_dssp             --------------------------------------------------------------------------------
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC---CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+Q ss_conf             0147999999999999999999999999999999998630247---7426789999988889999999999874302347
+Q PF00002_consen   92 IQVWCKVVAVLLHYFLLASFFWMLVEGLYLYRLLVITVRVFNS---ERRRLLLYYLIGWGIPLIIVAISVAVDPSNIGYG  168 (293)
+Q Consensus        92 ~~~~C~~~a~llHYf~La~F~WM~veg~~Ly~~l~~~v~~~~~---~~~~~~~y~~~GwG~P~iiv~i~~~~~~~~~~y~  168 (293)
+                      ...+|+....+..++..++.+.+...+++-|..+   .++...   .+++........|..+++...............+
+T Consensus       106 ~~~~c~~~~~~~~~~~~~s~~~l~~is~~R~~~i---~~p~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  182 (348)
+T d1u19a_         106 GPTGCNLEGFFATLGGEIALWSLVVLAIERYVVV---CKPMSNFRFGENHAIMGVAFTWVMALACAAPPLVGWSRYIPEG  182 (348)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH---TCCSSSCCCCHHHHHHHHHHHHHHHHHHHSGGGTTSSCCEEET
+T ss_pred             CCHHHHHHHHCCCCCEEEECCHHHHHHCCCCEEE---ECCCCCCCCCCCCCCCCCEEEEHHHHHEECCCCCCCCEECCCC
+T ss_conf             7225544321243303430223433222552354---0563111123322244210120112304346422431003677
+
+
+Q ss_dssp             --------------------------------------------------------------------------------
+Q ss_pred             CCCCEEEEE-C----CCCHHH--HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHH
+Q ss_conf             876134320-3----452367--899899999999999999999999975441012552002568889999999999999
+Q PF00002_consen  169 NTSCCWLSN-E----DNSGLL--WIFVGPVLLIILVNLVILILVVRILLSKLRRASLSSQTSESQKKRKKRAVKATLVLL  241 (293)
+Q Consensus       169 ~~~~CWl~~-~----~~~~~~--w~f~gPv~~ii~~N~~~~i~v~~~l~~~~~~~~~~~~~~~~~~~~~~~~~k~~l~L~  241 (293)
+                      ....|.... .    ......  ..+.....+...+-......+.+++.++.+    +.+..+.++++.++..|..+.+.
+T Consensus       183 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ip~~i~~~~y~~i~~~~~~~~~----~~~~~~~~~~~~~~~~~~~~~i~  258 (348)
+T d1u19a_         183 MQCSCGIDYYTPHEETNNESFVIYMFVVHFIIPLIVIFFCYGQLVFTVKEAAA----QQQESATTQKAEKEVTRMVIIMV  258 (348)
+T ss_dssp             TTTEEECCCSCCCGGGTHHHHHHHHHHHTTHHHHHHHHHHHTTTTTSSCSCCC----SSCSSSHHHHHHHHHHHHHHHHH
+T ss_pred             CCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC----CCCHHHHHHHHHHHHHHEEEEEE
+T ss_conf             64323333344542233055678999999999999999987788764122221----10012346777753763678765
+
+
+Q ss_dssp             ----------------------------------------------------------
+Q ss_pred             HHHHHHHHHHH-HH---CCCCCHHHHHHHH---HHHHHHHHHHHHHHHHHHHHHHCCC
+Q ss_conf             99999999998-62---4740025699999---9999998689999999999984478
+Q PF00002_consen  242 PLLGITWILGL-FA---VNDDSDGTLSLVF---AYLFAILNSLQGLFIFILYCFLNKE  292 (293)
+Q Consensus       242 pLlGitW~~~~-~~---~~~~~~~~~~~~~---~ylf~ilnslQG~fIfi~~c~~n~e  292 (293)
+                      ..+-+.|.... ..   ...+ +......+   ...++.+||   ..=.++|++.|+|
+T Consensus       259 ~~f~~~~~P~~i~~~~~~~~~-~~~~~~~~~~~~~~l~~~ns---~iNPiIY~~~~~~  312 (348)
+T d1u19a_         259 IAFLICWLPYAGVAFYIFTHQ-GSDFGPIFMTIPAFFAKTSA---VYNPVIYIMMNKQ  312 (348)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTT-TSCCCHHHHHHHHHHGGGGG---THHHHHHHHTCHH
+T ss_pred             HHHHHHHHHHHHHHHEEECCC-CCCCCHHHHHHHHHHHHHHH---HHHHHHHHHCCHH
+T ss_conf             589987668886642145267-76523899999999999999---9989998820999
+
+
+Done!

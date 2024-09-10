@@ -1,0 +1,259 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use File::Basename;
+use FindBin ();
+use lib "$FindBin::Bin";
+use HHParser;
+use Parsers;
+use Utils;
+use SOptions;
+use SUsage;
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 54 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/PseudoClassifier $
+# ==============================================================================
+
+my %data_info = (threshold => 80,
+                 basename  => 0,);
+
+@ARGV = getOptions
+(
+#** Pseudo classifier
+#**
+#** -i,--input                  Input file (hhsearch out).
+#** -t,--threshold              Threshold (default 80)
+#** -p,--pos                    File with a list of positions
+#** -b,--basename               Use basename instead of query name. Default: query name
+#** -h,-?,--help,--usage        Print short usage message (this message) and exit.
+
+    "-i,--input"           => sub {$data_info{input}        = get_value()},
+    "-t,--threshold"       => sub {$data_info{threshold}    = get_value()},
+    "-p,--pos"             => sub {$data_info{pos}          = get_value()},
+    "-b,--basename"        => sub {$data_info{basename}     = 1          },
+    "-h,-?,--help,--usage" => sub {SUsage::usage; exit                   },
+);
+
+# HHout obj:
+# %main_obj = (
+#              query => "PF00002",
+#              header => "7 transmembrane receptor (Secretin family)",
+#              match_columns => 293,
+#              used_no_of_seqs => 117,
+#              all_no_of_seqs => 762,
+#              neff => 6.6,
+#              searched_HMMs => 13774,
+#              hits =>   {1 => ####, ...}
+#              aligns => {1 => ######, ...}
+#              );
+# 
+#  Hits and aligns point to the structures showed bellow. 
+# 
+# #### my %obj = (number => 1, 
+#             template => "d1u19a_", 
+#             prob => 98.8, 
+#             evalue => 8.9E-09, 
+#             pvalue => 6.5E-13, 
+#             score => 63.7, 
+#             ss => 6.9, 
+#             cols => 244, 
+#             query_hmm_begin => 14, 
+#             query_hmm_end => 292, 
+#             template_hmm_begin => 50, 
+#             template_hmm_end => 312, 
+#             hierarchy => "f.13.1.2"); #Nan!
+# ####### my %obj = 
+#         (
+#             match => "++.=.+..+-|.++.-..+..........+.+++.+--..=|+++.-.+", 
+#             q_cons => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_cons => "~v~W~iYPi~y~l~~~g~~~~~~~~~~~~y~i~D~i~K~~FG~~i~~~a", 
+#             q_seq => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_seq => "VILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA"
+#         );
+
+if(!defined($data_info{input}) || !defined($data_info{pos}))
+{
+    SUsage::usage; exit;
+}
+
+my $hh_obj = HHParser::parse_hh_out($data_info{input});
+
+my $basename = $hh_obj->{query};
+
+if($data_info{basename} == 1)
+{
+    $basename = fileparse($data_info{input});
+}
+
+my %results_obj = (basename      => $basename,
+                   number_of_AND => 0,
+                   number_of_OR  => 0);
+
+
+
+my $positions = Parsers::parse_pos_list($data_info{pos});
+# Are c.52 aligned?
+my $possible_PDEXK = Utils::find_PDEXK($hh_obj, $positions, 0, 100);
+
+if(scalar(@$possible_PDEXK) > 0)
+{
+    my @sorted_possible_PDEXK = sort {$a <=> $b} @$possible_PDEXK;
+
+    #     Aligned both conservative positions
+    my @aligned_with_conservative_pos_AND; 
+    #     Aligned only one of conservative positions
+    my @aligned_with_conservative_pos_OR;  
+
+    # Tests if conservative positions are aligned
+    foreach my $obj (@sorted_possible_PDEXK)
+    {
+        # %pos = (
+        #               name => "2g3w.pos",
+        #               pd_pos => [15, 16],
+        #               exk_pos => [37,38,39],
+        #         );
+
+        my $possible_position = Utils::get_PDEXK_positions($positions, $hh_obj->{hits}->{$obj}->{template});
+        
+        if(defined($possible_position))
+        {
+            my $alignment_mode = Utils::test_aligned_region($hh_obj, $possible_position, $obj, "template");
+            
+            if($alignment_mode == 2)
+            {
+                push(@aligned_with_conservative_pos_AND, $obj);
+            }
+            elsif($alignment_mode == 1)
+            {
+                push(@aligned_with_conservative_pos_OR, $obj);
+            }
+        } 
+        elsif(!defined($possible_position))
+        {
+            print STDERR "ERR: $0: can't find the positions of the following template $hh_obj->{hits}->{$obj}->{template}";            
+        }
+    }
+    
+    $results_obj{number_of_AND} = scalar(@aligned_with_conservative_pos_AND);
+    $results_obj{number_of_OR } = scalar(@aligned_with_conservative_pos_OR);
+    
+    if(scalar(@aligned_with_conservative_pos_AND) > 0 || scalar(@aligned_with_conservative_pos_OR) > 0)
+    {
+        my @aligned_with_conservative_pos = (@aligned_with_conservative_pos_AND, @aligned_with_conservative_pos_OR);
+        my @sorted_aligned_with_conservative_pos = sort {$a <=> $b} @aligned_with_conservative_pos;
+        
+        #     Tests if there exists an alignament better than c.52. (Aligned the same fragment, higher probability).
+        my $best_not_PDEXK = Utils::find_not_PDEXK($hh_obj, $data_info{threshold});
+        
+        if(scalar(@$best_not_PDEXK) > 0)
+        {
+            my @sorted_best_not_PDEXK = sort {$a <=> $b} @$best_not_PDEXK;
+            
+            if($hh_obj->{hits}->{$sorted_best_not_PDEXK[0]}->{prob} < 
+               $hh_obj->{hits}->{$aligned_with_conservative_pos[0]}->{prob})
+            {
+                print_possible_PDEXK(\%results_obj, " 3");            
+            }
+            else
+            {
+                my $found = 0;
+                
+                my $possible_id;
+                
+                for(my $i = 0; $i < @sorted_aligned_with_conservative_pos && !$found; $i++)
+                {
+                    my $pdexk = $sorted_aligned_with_conservative_pos[$i];
+        
+                    my $stop = 0;
+                    
+                    for(my $j = 0; $j < @sorted_best_not_PDEXK && !$stop; $j++)
+                    {
+                        my $not_pdexk = $sorted_best_not_PDEXK[$j];
+    
+                        if( $hh_obj->{hits}->{$not_pdexk}->{prob} > $hh_obj->{hits}->{$pdexk}->{prob} &&
+                            $hh_obj->{hits}->{$not_pdexk}->{query_hmm_begin} - 1 <= $hh_obj->{hits}->{$pdexk}->{query_hmm_begin} &&
+                            $hh_obj->{hits}->{$not_pdexk}->{query_hmm_end}   + 1 >= $hh_obj->{hits}->{$pdexk}->{query_hmm_end})
+                        {
+                            $stop = 1;
+                        }
+                    }        
+                    if(!$stop)
+                    {
+                        $found = 1;
+                        $possible_id = $pdexk;
+                    }
+                }
+                
+                if($found)
+                {
+                    print_possible_PDEXK(\%results_obj, " 1");                
+                }
+                else
+                {
+                    print_possible_PDEXK(\%results_obj, "-1");
+                }
+            }
+        }
+        else
+        {
+#           There is no not PDEXK with prob. higher than $data_info{threshold}
+        
+            my $best_pdexk = $aligned_with_conservative_pos[0];
+            
+            if($hh_obj->{hits}->{$best_pdexk}->{prob} >= $data_info{threshold})
+            {
+                print_possible_PDEXK(\%results_obj, " 3");            
+            }
+            else
+            {
+                print_possible_PDEXK(\%results_obj, " 2");            
+            }
+        }
+    }
+    else
+    {
+        print_possible_PDEXK(\%results_obj, "-2");
+    }  
+}
+else
+{
+    print_possible_PDEXK(\%results_obj, "-3");
+}
+
+# ==============================================================================
+# my %results_obj = (basename      => fileparse($data_info{input})
+#                    number_of_AND => 0,
+#                    number_of_OR  => 0);
+
+sub print_possible_PDEXK
+{
+    my ($results_obj, $label) = @_;
+    
+    print "$label ";
+    
+    if($results_obj->{number_of_AND} > 0)
+    {
+        print "2 ";
+    }
+    elsif($results_obj->{number_of_OR} > 0)
+    {
+        print "1 ";
+    }
+    else
+    {
+        print "0 ";
+    }
+
+    my $sum = $results_obj->{number_of_AND} + $results_obj->{number_of_OR};
+    print "$sum ";
+    
+    print "$results_obj->{basename}\n";
+}
+
+
+
+
+

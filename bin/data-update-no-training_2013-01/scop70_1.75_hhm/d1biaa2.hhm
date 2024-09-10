@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1biaa2 b.34.1.1 (A:271-317) Biotin repressor/biotin holoenzyme synthetase, C-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   b.34.1.1
+FILE  d1biaa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1biaa2.a3m -v 1 
+DATE  Mon Jan 21 19:25:02 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  101 out of 673 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.8 
+SEQ
+>ss_pred
+CCCCEEEEECCCCEEEEEEEEECCCCEEEEECCCCEEEEEEEEEEEC
+>ss_conf
+99976899649927989888768788099975998798963358869
+>Consensus
+xxgkxVxixxxxxxxxGxaxgIdxxGxLilxxxxgxxxxxsGEVSlR
+>d1biaa2 b.34.1.1 (A:271-317) Biotin repressor/biotin holoenzyme synthetase, C-terminal domain {Escherichia coli [TaxId: 562]}
+FINRPVKLIIGDKEIFGISRGIDKQGALLLEQDGIIKPWMGGEISLR
+>gi|399019125|ref|ZP_10721274.1|(234-281:284) birA, biotin-(acetyl-CoA-carboxylase) ligase [Herbaspirillum sp. CF444] >gi|398098272|gb|EJL88559.1| birA, biotin-(acetyl-CoA-carboxylase) ligase [Herbaspirillum sp. CF444]  E=2e-08 s/c=1.28 id=27% cov=102%
+YAGRAVRILDNDRVVHeGTAVGVDDKGRFLMDAAGGRIAVVAGDVSLR
+>gi|320161292|ref|YP_004174516.1|(208-254:258) biotin--[acetyl-CoA-carboxylase] ligase [Anaerolinea thermophila UNI-1] >gi|319995145|dbj|BAJ63916.1| biotin--[acetyl-CoA-carboxylase] ligase [Anaerolinea thermophila UNI-1]  E=2e-07 s/c=1.23 id=29% cov=102%
+FLGEKVTVQKPDGEITGRFQDVDEHGALVLSVEEQYHTIFAGDVKLR
+>gi|40063405|gb|AAR38216.1|(279-326:329) birA bifunctional protein [uncultured marine bacterium 580]   E=2e-07 s/c=1.21 id=29% cov=102%
+FQDKLIDIMLGNsQTITGKAIDISDTGALIVRTDEGSKSFASGEVSIR
+>gi|406987871|gb|EKE08069.1|(193-237:238) hypothetical protein ACD_17C00363G0002 [uncultured bacterium]   E=0.0003 s/c=1.06 id=27% cov=96%
+FKGQRVRCFDGETTWEGICHSITRDGQLNLRLENGiIHTVLSGDI---
+>gi|307543810|ref|YP_003896289.1|(312-358:361) biotin--acetyl-CoA-carboxylase ligase [Halomonas elongata DSM 2581] >gi|307215834|emb|CBV41104.1| biotin--acetyl-CoA-carboxylase ligase [Halomonas elongata DSM 2581]  E=0.0007 s/c=0.99 id=27% cov=102%
+FAGQEVDVIQGERREVAVAEQVDESGNLWVKDASRRWKLAGGEISVR
+>gi|404371302|ref|ZP_10976609.1|(279-325:326) biotin-[acetyl-CoA-carboxylase] ligase [Clostridium sp. 7_2_43FAA] >gi|226912569|gb|EEH97770.1| biotin-[acetyl-CoA-carboxylase] ligase [Clostridium sp. 7_2_43FAA]  E=3e-05 s/c=1.08 id=23% cov=100%
+-INKEVNILSSKSSEKATVLEIDNDCRLKVQMEDGsIRLLSSGEVSIR
+>gi|268315686|ref|YP_003289405.1|(258-303:311) biotin--acetyl-CoA-carboxylase ligase [Rhodothermus marinus DSM 4252] >gi|262333220|gb|ACY47017.1| biotin/acetyl-CoA-carboxylase ligase [Rhodothermus marinus DSM 4252]  E=5e-05 s/c=1.10 id=18% cov=81%
+-LGRPVRIETPAGPVEGLAEDVEPSGALRVRLPDGTRR---------
+>gi|296110969|ref|YP_003621350.1|(272-314:326) biotin--[acetyl-CoA-carboxylase] ligase and biotin operon repressor [Leuconostoc kimchii IMSNU 11154] >gi|295832500|gb|ADG40381.1| biotin--[acetyl-CoA-carboxylase] ligase and biotin operon repressor [Leuconostoc kimchii IMSNU 11154]  E=0.0003 s/c=1.10 id=27% cov=94%
+-IGQNVSVKYGHDVVTGVAKDINEQGQLLLDTGSDMIIIDSGEV---
+>gi|366052503|ref|ZP_09450225.1|(273-315:327) biotin operon repressor [Lactobacillus suebicus KCTC 3549]   E=0.0004 s/c=1.10 id=27% cov=94%
+-IGKKATVRIGNEQFDGRVETINDEGALVLNTKKGTQVVSAGEI---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	1046	*	*	*	*	*	*	*	*	*	*	*	*	*	*	956	1
+       0	*	*	*	*	*	*	4760	0	0	
+
+I 2    3073	*	*	5748	6298	*	6029	1771	4586	1612	4551	*	*	5367	5191	*	*	*	*	3672	2
+       0	*	*	*	*	*	*	5795	0	0	
+
+N 3    *	*	2902	5960	*	625	4689	*	*	*	*	2846	*	5388	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	5875	0	0	
+
+R 4    *	6086	*	4326	*	*	*	*	1782	6071	*	6566	*	2040	1533	5717	6446	*	*	*	4
+       0	*	*	*	*	*	*	5894	0	0	
+
+P 5    3287	*	5478	2291	*	*	*	5795	2182	6934	6477	4612	3053	3313	5014	4997	3660	*	*	6695	5
+       0	*	*	*	*	*	*	5894	0	0	
+
+V 6    3905	*	*	*	*	*	*	2645	*	5347	*	*	*	*	*	*	*	417	*	*	6
+       0	*	*	*	*	*	*	5894	0	0	
+
+K 7    6071	6091	4452	3976	*	*	6663	5234	3253	*	4831	4397	*	4361	1979	3397	2537	4393	*	5634	7
+       0	*	*	*	*	*	*	5894	0	0	
+
+L 8    6508	6416	*	*	5205	*	*	2016	*	1746	4961	*	*	*	*	*	6417	1469	*	*	8
+       15	6598	*	1000	1000	*	*	5894	1000	0	
+
+I 9    7016	*	5572	4156	5010	*	3249	2320	4602	2354	5705	4120	*	4246	4602	3950	4163	4301	*	*	9
+       0	*	*	*	*	*	*	5894	0	0	
+
+I 10   5523	6609	3992	4333	6477	5236	5220	4275	5163	2944	5469	5885	*	3531	4208	3069	2406	4183	6369	5242	10
+       0	*	*	*	*	*	*	5894	0	0	
+
+G 11   3579	*	3959	4892	*	1406	6815	*	6748	6089	6955	3897	2641	5158	4950	3767	*	5232	*	6377	11
+       0	*	*	*	*	*	*	5898	0	0	
+
+D 12   *	*	2483	3128	*	2747	4789	*	3698	5363	*	2634	*	3695	5575	3234	4195	*	*	*	12
+       12	6938	*	0	*	*	*	5898	1000	0	
+
+K 13   5289	*	4314	2977	*	2465	4756	5338	2789	*	*	4644	*	2708	2806	5533	4267	*	*	*	13
+       48	4937	*	0	*	*	*	5898	1968	0	
+
+E 14   4852	5223	5054	2573	*	6976	*	3744	5591	4903	*	4763	4962	3724	3957	2887	2667	3293	*	*	14
+       0	*	*	*	*	*	*	5898	0	0	
+
+I 15   *	*	*	4160	4143	*	6737	1728	4625	2843	6616	*	*	5372	5445	6704	6753	2606	4134	3337	15
+       49	4898	*	0	*	*	*	5898	2131	0	
+
+F 16   5176	4473	5451	2637	5142	*	4237	4116	3841	5460	5919	4478	*	3369	5200	3132	2671	4410	*	6850	16
+       64	4517	*	0	*	*	*	5898	2149	0	
+
+G 17   3227	*	*	*	*	201	*	*	*	*	*	*	*	*	*	*	*	5416	*	*	17
+       0	*	*	*	*	*	*	5898	0	0	
+
+I 18   *	*	*	5740	6280	*	6770	1951	2957	3926	*	*	*	4795	3631	*	2151	2742	6089	*	18
+       0	*	*	*	*	*	*	5898	0	0	
+
+S 19   999	3491	*	5730	3844	6433	6650	5014	*	5238	6426	4798	*	*	*	5742	*	2599	*	6371	19
+       0	*	*	*	*	*	*	5898	0	0	
+
+R 20   4464	5922	5650	3321	*	*	5060	3039	2857	2954	4380	6810	*	4688	3114	5080	4825	3019	*	*	20
+       0	*	*	*	*	*	*	5898	0	0	
+
+G 21   5091	*	1966	5073	*	904	*	*	5781	*	*	5522	*	6432	5619	4471	4887	*	*	*	21
+       0	*	*	*	*	*	*	5898	0	0	
+
+I 22   *	*	*	*	5326	*	*	756	*	3353	*	*	*	*	*	*	*	1811	*	*	22
+       0	*	*	*	*	*	*	5898	0	0	
+
+D 23   3957	*	936	4782	*	5209	*	*	*	*	*	2667	*	*	*	3548	3752	5419	*	6787	23
+       0	*	*	*	*	*	*	5898	0	0	
+
+K 24   3472	*	1549	2116	*	5657	5317	4454	4445	*	*	4266	5095	5518	5092	4534	5296	*	*	*	24
+       0	*	*	*	*	*	*	5898	0	0	
+
+Q 25   5441	7093	1973	2924	6609	5651	4830	*	3806	6877	5489	3849	7044	2783	4818	3383	4580	*	*	5621	25
+       0	*	*	*	*	*	*	5898	0	0	
+
+G 26   5264	*	*	*	5357	75	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	5898	0	0	
+
+A 27   1637	6608	*	3133	6954	4423	4567	*	6621	*	*	3841	*	4123	2514	3427	5009	*	*	5578	27
+       0	*	*	*	*	*	*	5898	0	0	
+
+L 28   *	*	*	*	5313	*	*	4457	*	145	5332	*	*	*	*	*	*	*	*	*	28
+       15	6595	*	0	*	*	*	5898	1000	0	
+
+L 29   *	5500	*	6441	6873	*	*	1936	6861	1523	5576	5513	*	5656	3382	*	6795	2696	5794	*	29
+       0	*	*	*	*	*	*	5898	0	0	
+
+L 30   *	*	*	*	6013	*	*	2800	*	1134	6202	*	*	*	*	*	*	1428	*	*	30
+       17	6456	*	0	*	*	*	5898	1000	0	
+
+E 31   5742	*	2888	2405	6621	*	7027	6810	2347	4763	6742	4432	*	2807	2632	5808	6707	6631	*	*	31
+       97	3937	*	0	*	*	*	5898	3078	0	
+
+Q 32   5377	*	3594	6896	6704	5406	6684	4893	4009	3079	4895	4991	*	4177	4982	5028	1517	3603	*	6227	32
+       38	5263	*	0	*	*	*	5898	1976	0	
+
+D 33   3047	*	1996	2695	*	3582	5332	5494	4595	*	*	2999	3913	5259	6815	4171	6631	*	6656	*	33
+       30	5626	*	0	*	*	*	5898	1529	0	
+
+G 34   4705	*	2108	3461	*	1795	5105	*	5184	*	*	3071	*	4341	6100	3889	4970	6399	*	*	34
+       9	7294	*	0	*	*	*	5898	1000	0	
+
+I 35   6013	*	5679	3295	*	949	6464	6446	4196	6718	6541	6556	*	3528	4516	3971	4547	*	*	*	35
+       214	2861	*	0	*	*	*	5898	3987	0	
+
+I 36   5769	6650	*	2807	6768	*	*	2346	4919	2976	4822	*	*	4401	3632	5709	3291	2616	*	6049	36
+       30	5611	*	0	*	*	*	5898	1554	0	
+
+K 37   *	4888	6427	2473	*	*	4195	4944	2152	5295	*	6630	*	2733	3045	5242	4509	3768	6425	*	37
+       47	4957	*	0	*	*	*	5896	2139	0	
+
+P 38   2999	*	6469	4777	6560	*	3985	4925	3329	4398	*	4777	4213	4995	2552	3640	3102	4907	6781	4565	38
+       12	6964	*	0	*	*	*	5900	1000	0	
+
+W 39   *	*	*	*	2115	*	*	2287	*	2331	6358	*	*	*	*	*	*	2002	6440	3438	39
+       0	*	*	*	*	*	*	5900	0	0	
+
+M 40   3850	5178	6664	6529	3665	4893	3475	3876	5695	3974	4825	4143	*	5753	6457	2194	4237	3477	*	4450	40
+       14	6685	*	0	*	*	*	5898	1000	0	
+
+G 41   2128	5512	*	6082	5553	3336	*	4962	*	*	*	6688	*	*	*	1155	4490	4461	6437	5508	41
+       0	*	*	*	*	*	*	5890	0	0	
+
+G 42   3911	*	*	*	*	135	*	*	*	*	*	5462	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	5890	0	0	
+
+E 43   *	*	1967	521	*	*	*	*	*	*	*	5452	*	6437	*	*	6250	*	*	*	43
+       10	7206	*	0	*	*	*	5889	1000	0	
+
+I 44   4961	*	*	*	*	*	*	1501	*	4599	5558	*	*	*	*	*	6029	898	*	*	44
+       21	*	6146	*	*	*	*	5895	0	0	
+
+S 45   5266	*	*	*	5932	*	6388	*	5344	*	*	*	*	6007	4265	347	3896	*	*	*	45
+       0	*	*	*	*	0	*	5578	0	1000	
+
+L 46   *	*	*	*	5690	*	*	2412	*	1030	*	*	*	*	*	*	*	1722	*	*	46
+       0	*	*	*	*	*	*	5583	0	0	
+
+R 47   *	*	*	*	*	*	*	*	4686	*	*	*	*	*	57	*	*	*	*	*	47
+       0	*	*	0	*	*	*	5276	0	0	
+
+//

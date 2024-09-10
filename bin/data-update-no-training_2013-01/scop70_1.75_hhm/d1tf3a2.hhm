@@ -1,0 +1,130 @@
+HHsearch 1.5
+NAME  d1tf3a2 g.37.1.1 (A:41-70) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+FAM   g.37.1.1
+FILE  d1tf3a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1tf3a2.a3m -v 1 
+DATE  Tue Jan 22 02:38:16 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  113 out of 10548 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.0 
+SEQ
+>ss_pred
+CCEECCCCCCCCEEEECCCCEEEEEEECCC
+>ss_conf
+970359989787650536680454776279
+>Consensus
+kpfxCxxxgCxkxFxxxxxLxxHxrxHtGe
+>d1tf3a2 g.37.1.1 (A:41-70) Transcription factor IIIA, TFIIIA {Xenopus laevis [TaxId: 8355]}
+KPFPCKEEGCEKGFTSLHHLTRHSLTHTGE
+>gi|405967289|gb|EKC32469.1|(106-135:670) Metal regulatory transcription factor 1 [Crassostrea gigas]   E=0.0001 s/c=1.63 id=32% cov=103%
+RRFQCDYKGCTRTYSTAGNLRTHQKTHKGE
+>gi|91082453|ref|XP_971397.1|(195-224:305) PREDICTED: similar to cabut [Tribolium castaneum] >gi|270007529|gb|EFA03977.1| hypothetical protein TcasGA2_TC014124 [Tribolium castaneum]  E=1e-05 s/c=1.74 id=35% cov=103%
+RVYECTFKGCNKNYFKSSHLKAHNRKHTGE
+>gi|321476768|gb|EFX87728.1|(458-487:619) stripe/egr-like protein [Daphnia pulex]   E=6e-10 s/c=2.22 id=35% cov=103%
+RPYACPVDSCDRRFSRSDELTRHIRIHTGQ
+>gi|358389664|gb|EHK27256.1|(230-255:491) hypothetical protein TRIVIDRAFT_140226 [Trichoderma virens Gv29-8]   E=0.001 s/c=1.78 id=37% cov=90%
+----CDGPNCGKAFVQKTHRDIHRRTHTGQ
+>gi|344290001|ref|XP_003416728.1|(479-509:1503) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein GLI2-like [Loxodonta africana]  E=0.0003 s/c=1.54 id=35% cov=103%
+KPYVCEHEACNKAFSNASDRAKHQnRTHSNE
+>gi|392578834|gb|EIW71961.1|(128-156:389) hypothetical protein TREMEDRAFT_58104 [Tremella mesenterica DSM 1558]  E=3e-05 s/c=1.77 id=30% cov=100%
+RPYTCSHPGCGKSFTRSDAMQKHLKSLHG-
+>gi|390594828|gb|EIN04236.1|(311-337:484) hypothetical protein PUNSTDRAFT_146509 [Punctularia strigosozonata HHB-11173 SS5]  E=0.0002 s/c=1.80 id=36% cov=93%
+KPFKCPFPGCGRFFNVNSNMRRHFRNH---
+>gi|119501523|ref|XP_001267518.1|(13-39:384) hypothetical protein NFIA_044400 [Neosartorya fischeri NRRL 181] >gi|119415684|gb|EAW25621.1| predicted protein [Neosartorya fischeri NRRL 181]  E=0.0004 s/c=1.75 id=36% cov=93%
+-PFQCDHPGCGAKYRRKEHLNRHVASHS--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	974	*	*	*	*	*	1026	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4779	0	0	
+
+P 2    5225	6729	6389	6710	*	6745	6282	6205	3140	*	6239	5014	620	6737	3880	*	6581	6555	*	*	2
+       0	*	*	*	*	*	*	4853	0	0	
+
+F 3    *	*	*	*	1070	*	3469	*	*	4849	*	*	*	*	*	*	*	*	5508	1408	3
+       0	*	*	*	*	*	*	5025	0	0	
+
+P 4    3297	5272	6426	3296	6993	*	5407	3901	2451	5623	5025	6401	4924	3462	3993	5051	5366	2612	*	6596	4
+       0	*	*	*	*	*	*	5025	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	5025	0	0	
+
+K 6    5012	*	2972	3793	6352	4871	5325	6387	4825	6131	5451	3862	2184	3999	5838	2887	3188	*	*	*	6
+       10	7140	*	0	*	*	*	5025	1000	0	
+
+E 7    5777	*	5663	3879	2387	6343	2667	4962	6450	5838	*	6131	*	6521	*	6352	5414	3065	3287	2402	7
+       80	*	4221	*	*	*	*	5025	0	0	
+
+E 8    4729	6105	3550	2019	*	5025	*	6267	3669	6391	*	5441	1716	4066	5574	4519	6624	6818	*	6555	8
+       0	*	*	*	*	*	0	5021	0	2336	
+
+G 9    6659	*	2745	4363	6391	817	6273	*	6063	*	*	3150	*	*	*	4074	6270	*	*	*	9
+       0	*	*	*	*	0	*	5021	0	2336	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	5025	0	0	
+
+E 11   5595	*	2891	4281	*	1290	5267	*	4650	6440	*	3011	4580	4475	*	4932	4228	*	*	6642	11
+       0	*	*	*	*	*	*	5025	0	0	
+
+K 12   5232	*	*	6454	*	*	*	*	728	*	4412	*	*	4964	2314	5667	*	*	4477	6229	12
+       0	*	*	*	*	*	*	5025	0	0	
+
+G 13   2534	6099	*	*	*	5317	7022	*	3969	4770	5799	5333	*	5042	2112	1987	3622	6288	5931	6337	13
+       17	6387	*	1585	585	*	*	5025	1000	0	
+
+F 14   *	*	*	*	301	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2409	14
+       0	*	*	*	*	*	*	5025	0	0	
+
+T 15   2794	6130	*	*	4695	6522	5954	5716	3428	4483	6569	4186	6531	6888	3586	2325	2147	5272	*	*	15
+       0	*	*	*	*	*	*	5025	0	0	
+
+S 16   6218	*	4888	6426	*	*	6596	7013	4085	*	*	4105	*	3322	1452	3897	2271	4793	5701	6522	16
+       0	*	*	*	*	*	*	5025	0	0	
+
+L 17   3177	*	*	5002	*	5331	4618	6932	2551	3931	4588	3979	4069	3653	3625	2414	*	4816	*	*	17
+       0	*	*	*	*	*	*	5025	0	0	
+
+H 18   4401	6569	2960	2851	5459	4143	4210	*	6306	*	*	4955	6959	5176	*	1915	3807	5486	5701	3591	18
+       0	*	*	*	*	*	*	5025	0	0	
+
+H 19   3734	*	3709	4338	*	6751	1476	7018	4175	6216	*	2331	*	4799	4633	4490	5445	*	*	6484	19
+       0	*	*	*	*	*	*	5025	0	0	
+
+L 20   5326	6387	*	*	6209	*	*	*	5776	339	4334	*	*	6724	4247	*	*	5788	*	6498	20
+       0	*	*	*	*	*	*	5025	0	0	
+
+T 21   4210	6401	4110	4842	*	7037	6826	4957	1907	4127	*	3686	*	3841	2651	4422	3564	5017	*	*	21
+       0	*	*	*	*	*	*	5025	0	0	
+
+R 22   3972	*	4222	4218	*	6307	*	4456	4097	6130	*	5212	*	4164	1371	4200	3870	3436	*	6218	22
+       0	*	*	*	*	*	*	5025	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	5025	0	0	
+
+S 24   5213	*	*	3291	5074	*	6912	3551	3324	3556	3142	5815	*	2352	3815	4718	5024	4352	*	4411	24
+       14	6708	*	0	*	*	*	5025	1000	0	
+
+L 25   *	5505	*	5195	6214	*	6584	7159	2438	3767	6746	5964	*	5407	876	6119	5998	5836	5607	*	25
+       11	7086	*	0	*	*	*	5026	1000	0	
+
+T 26   4344	6290	*	*	*	*	*	2904	3370	4734	*	4652	*	6367	4706	3034	1618	2920	*	*	26
+       14	6740	*	0	*	*	*	5026	1000	0	
+
+H 27   *	*	*	*	*	*	36	*	*	*	*	*	*	5337	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	5026	0	0	
+
+T 28   4849	*	6059	6805	*	6576	5205	*	5801	5491	6071	5550	*	6190	6472	2506	675	*	*	*	28
+       0	*	*	*	*	*	*	4812	0	0	
+
+G 29   5930	*	5911	*	*	314	6067	*	4504	*	*	4189	*	6253	5542	6120	*	*	*	*	29
+       0	*	*	*	*	*	*	4570	0	0	
+
+E 30   *	*	3027	478	*	*	*	*	4438	*	*	*	*	3145	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	4521	0	0	
+
+//

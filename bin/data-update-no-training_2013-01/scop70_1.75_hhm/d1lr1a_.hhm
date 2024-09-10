@@ -1,0 +1,213 @@
+HHsearch 1.5
+NAME  d1lr1a_ a.155.1.1 (A:) H1 protein (H-NS) {Escherichia coli [TaxId: 562]}
+FAM   a.155.1.1
+FILE  d1lr1a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lr1a_.a3m -v 1 
+DATE  Mon Jan 21 23:14:58 2013
+LENG  57 match states, 57 columns in multiple alignment
+FILT  101 out of 112 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+928899998899999984188999999999999999988999999999999986229
+>Consensus
+SexlkxLxNiRsLRAxaRElslexLeexleKlxxVvxERreeexxxxxxxxerxxKl
+>d1lr1a_ a.155.1.1 (A:) H1 protein (H-NS) {Escherichia coli [TaxId: 562]}
+SEALKILNNIRTLRAQARESTLETLEEMLEKLEVVVNERREEESAAAAEVEERTRKL
+>gi|422608571|ref|ZP_16680548.1|(8-62:150) DNA-binding protein [Pseudomonas syringae pv. mori str. 301020] >gi|330892190|gb|EGH24851.1| DNA-binding protein [Pseudomonas syringae pv. mori str. 301020]  E=0.0002 s/c=0.88 id=41% cov=98%
+-DVMRVLSNVRSIRAFVRENDYELLLEAHEKLGVALDERKEEYAAEKLEREAREVK-
+>gi|407793429|ref|ZP_11140463.1|(2-58:136) histone-like protein [Idiomarina xiamenensis 10-D-4] >gi|407215052|gb|EKE84893.1| histone-like protein [Idiomarina xiamenensis 10-D-4]  E=0.0008 s/c=0.81 id=36% cov=102%
+SEFINILTHGRRLKAATKNLSVSELEEVQQKLEKVISDRREEAEVQRREEQEKAQKI
+>gi|311278377|ref|YP_003940608.1|(2-58:133) histone family protein nucleoid-structuring protein H-NS [Enterobacter cloacae SCF1] >gi|308747572|gb|ADO47324.1| histone family protein nucleoid-structuring protein H-NS [Enterobacter cloacae SCF1]  E=3e-09 s/c=1.13 id=38% cov=102%
+SLMLNKLNNMRLLRAMSREFSIDVLDEMLEKVRVVTEEKRAQAQEHRQSQAQKQEKI
+>gi|113460930|ref|YP_718997.1|(2-58:134) DNA-binding protein H-NS [Haemophilus somnus 129PT] >gi|112822973|gb|ABI25062.1| DNA-binding protein H-NS [Haemophilus somnus 129PT]  E=4e-07 s/c=1.01 id=36% cov=102%
+SDLLKTLTSIRALRVATKEFTLQELESILEKFQLITNERRQLIEENQRKEQDRLERI
+>gi|51244408|ref|YP_064292.1|(11-67:143) DNA-binding protein H-NS [Desulfotalea psychrophila LSv54] >gi|50875445|emb|CAG35285.1| related to DNA-binding protein H-NS [Desulfotalea psychrophila LSv54]  E=8e-07 s/c=0.99 id=34% cov=102%
+SSFLKTFLNVRSLNAATRDLSIEQLESTLQKLGKIVEDRKEVVLAGEKLLEAKLAKM
+>gi|52425377|ref|YP_088514.1|(3-58:134) Hns protein [Mannheimia succiniciproducens MBEL55E] >gi|52307429|gb|AAU37929.1| Hns protein [Mannheimia succiniciproducens MBEL55E]  E=5e-05 s/c=0.90 id=40% cov=100%
+-EVIKTLNNLRRLRSMAKELSIEQLENIIEKFQLVIEEKKAEELEIKRLEEERKNRL
+>gi|375335691|ref|ZP_09777035.1|(2-55:144) DNA-binding protein H-NS (Histone-like protein HLP-II) [Succinivibrionaceae bacterium WG-1]  E=4e-05 s/c=0.94 id=40% cov=91%
+SDFISTLCNLRLLKATLKDVELSTLEIALEKLTLLVEEKRKEKEAIEREQE------
+>gi|188535932|ref|YP_001909417.1|(10-62:144) DNA binding protein, nucleoid-associated [Erwinia tasmaniensis Et1/99] >gi|188027036|emb|CAO94821.1| DNA binding protein, nucleoid-associated [Erwinia tasmaniensis Et1/99]  E=4e-05 s/c=0.95 id=38% cov=93%
+----RTLSNIRSLRVFAREMnNFDLLCEIQEKFSMVVEEMRADAERQKKEEQERDER-
+>gi|386315541|ref|YP_006011706.1|(7-63:133) histone family protein nucleoid-structuring protein H-NS [Shewanella putrefaciens 200] >gi|319428166|gb|ADV56240.1| histone family protein nucleoid-structuring protein H-NS [Shewanella putrefaciens 200]  E=0.0009 s/c=0.81 id=26% cov=93%
+-----ILLHARRFKASVKELTTQQLIEVQEKLNAIVEDRKAADEALKEQEQAKLAQI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	84	4152	*	*	*	1
+       0	*	*	*	*	*	*	3561	0	0	
+
+E 2    *	*	1410	1016	*	6781	*	*	5855	5142	*	5223	*	6539	*	5177	*	6746	*	*	2
+       0	*	*	*	*	*	*	3793	0	0	
+
+A 3    2635	*	*	*	1755	*	*	4354	*	2372	4067	5355	*	*	*	3657	3698	4050	*	*	3
+       0	*	*	*	*	*	*	3793	0	0	
+
+L 4    6100	*	*	6513	4274	*	*	2849	*	711	5003	*	*	*	4803	*	3441	6137	*	*	4
+       0	*	*	*	*	*	*	3863	0	0	
+
+K 5    5870	*	4512	5944	*	*	6646	*	820	*	*	3649	*	3666	3144	4157	5724	*	*	*	5
+       0	*	*	*	*	*	*	3918	0	0	
+
+I 6    3805	*	*	*	*	3783	*	1753	4526	*	7055	6112	6828	5756	*	3816	2163	2537	*	*	6
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 7    *	*	*	*	4249	*	*	5602	*	136	5890	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3957	0	0	
+
+N 8    *	6035	*	*	*	6131	*	*	6980	2169	6249	1293	*	*	5968	2928	2543	*	*	*	8
+       0	*	*	*	*	*	*	3957	0	0	
+
+N 9    *	*	*	*	*	*	2877	*	5195	*	*	289	*	*	*	5798	*	*	*	*	9
+       0	*	*	*	*	*	*	3957	0	0	
+
+I 10   4671	*	*	5968	*	3869	*	651	*	2957	6279	*	*	5120	*	*	5963	4240	*	*	10
+       0	*	*	*	*	*	*	3957	0	0	
+
+R 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3957	0	0	
+
+T 12   5798	*	*	*	*	*	*	*	*	5152	*	6562	*	*	2669	1246	1568	5195	*	*	12
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 13   *	*	*	*	4499	*	*	5762	*	176	4704	*	*	*	*	*	6145	*	*	*	13
+       0	*	*	*	*	*	*	3957	0	0	
+
+R 14   *	*	*	*	*	*	6737	*	3530	*	*	4631	*	4465	289	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3957	0	0	
+
+A 15   363	*	*	*	*	4465	*	*	*	6420	6485	*	*	*	*	4997	4943	3464	*	*	15
+       0	*	*	*	*	*	*	3957	0	0	
+
+Q 16   1663	*	*	5628	2965	*	5925	5235	*	3777	4687	7183	*	2176	*	5955	5484	4321	*	3952	16
+       0	*	*	*	*	*	*	3957	0	0	
+
+A 17   1211	5599	*	*	*	5715	*	*	*	3456	6566	*	*	*	*	3112	2825	2558	*	*	17
+       0	*	*	*	*	*	*	3957	0	0	
+
+R 18   *	*	*	*	*	*	*	*	2189	*	*	5597	*	*	396	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 19   6599	*	3041	257	*	*	*	*	*	*	*	4997	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3957	0	0	
+
+S 20   6188	4036	*	*	3902	*	*	5139	*	965	3569	5762	*	*	*	4695	3327	4049	*	5926	20
+       19	6279	*	0	*	*	*	3957	1000	0	
+
+T 21   5296	*	2826	4759	*	5185	*	*	*	*	*	5211	3550	5867	*	1484	1825	*	*	*	21
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 22   *	*	*	*	2724	*	*	3236	*	802	6302	*	*	*	*	*	5955	3618	*	4086	22
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 23   3924	*	2897	631	*	*	*	*	*	*	*	5968	*	3775	*	4241	6380	*	*	*	23
+       0	*	*	*	*	*	*	3957	0	0	
+
+T 24   5982	*	4760	2900	5072	*	6466	5141	5597	3935	4541	*	*	1512	*	6626	2899	3057	*	*	24
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 25   4795	*	*	*	*	*	*	*	*	127	5195	*	*	*	*	5597	*	*	*	*	25
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 26   5755	6279	5719	641	*	*	*	5955	4679	4825	6420	4236	*	3512	4718	*	6109	6249	*	*	26
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 27   4763	*	3046	594	*	6713	*	5457	*	*	*	5285	*	*	*	3847	4259	*	*	*	27
+       0	*	*	*	*	*	*	3957	0	0	
+
+M 28   1999	*	*	*	*	5204	*	2596	*	3742	1844	*	*	*	*	5184	5309	2725	*	*	28
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 29   3937	*	*	*	4906	*	3840	6287	3506	804	*	6778	*	3515	5195	*	*	5307	*	6832	29
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 30   4802	*	3716	554	*	4702	*	6713	5597	6398	*	5489	*	4098	*	4953	6201	*	*	*	30
+       0	*	*	*	*	*	*	3957	0	0	
+
+K 31   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3957	0	0	
+
+L 32   *	*	*	*	1969	*	*	5307	*	574	*	*	*	*	*	*	*	4395	*	*	32
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 33   4027	*	3417	3205	*	4042	5307	*	4603	*	6767	3487	*	3029	3879	3250	2213	*	*	*	33
+       0	*	*	*	*	*	*	3957	0	0	
+
+V 34   2464	*	*	5629	*	*	*	3509	4079	3833	5490	5154	*	4061	*	3258	2498	2399	*	*	34
+       0	*	*	*	*	*	*	3957	0	0	
+
+V 35   4089	*	*	*	*	*	*	1625	*	5235	*	*	*	*	*	*	*	760	*	*	35
+       0	*	*	*	*	*	*	3957	0	0	
+
+V 36   *	*	*	*	6109	*	*	2171	*	3684	*	*	*	*	*	*	3713	798	*	4875	36
+       0	*	*	*	*	*	*	3957	0	0	
+
+N 37   3071	*	2902	1230	*	*	*	5756	4833	*	*	3228	*	5842	*	3516	4171	*	*	*	37
+       0	*	*	*	*	*	*	3957	0	0	
+
+E 38   6610	*	3266	353	*	*	*	*	4496	*	*	6083	*	4506	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3959	0	0	
+
+R 39   *	5997	*	*	*	*	*	*	2356	4787	6277	*	*	*	477	*	6729	*	*	6399	39
+       0	*	*	*	*	*	*	3959	0	0	
+
+R 40   6130	*	*	3871	6399	*	*	6195	2484	6563	*	*	*	4440	750	7358	6709	4438	*	*	40
+       8	7540	*	1585	585	*	*	3959	1000	0	
+
+E 41   2618	*	3247	1040	*	*	*	6999	4587	6826	*	*	*	3170	*	4750	4678	*	*	*	41
+       10	7251	*	0	*	*	*	3959	1000	0	
+
+E 42   3177	*	3351	859	*	*	*	*	4323	4876	*	5487	*	3877	*	5320	*	5209	*	6195	42
+       0	*	*	*	*	*	*	3959	0	0	
+
+E 43   2714	*	5532	1055	7456	*	5194	3825	5430	*	*	4623	*	4367	*	6827	5572	4892	*	3932	43
+       0	*	*	*	*	*	*	3959	0	0	
+
+S 44   2096	*	6957	1945	*	*	6827	*	3002	3391	*	4745	*	3553	*	3202	5754	5673	*	*	44
+       0	*	*	*	*	*	*	3959	0	0	
+
+A 45   1599	*	7251	2069	*	*	7174	7192	3005	4196	*	7277	*	3370	4693	3863	*	5524	*	*	45
+       0	*	*	*	*	*	*	3959	0	0	
+
+A 46   2590	*	5959	2013	6258	6320	6278	3844	4165	2895	6352	5797	*	3407	3519	5630	6774	5349	*	7351	46
+       11	7046	*	1585	585	*	*	3959	1000	0	
+
+A 47   3333	*	6993	2473	*	*	7124	4651	2969	3391	5180	7153	*	2253	2608	5733	6007	*	*	*	47
+       0	*	*	*	*	*	*	3960	0	0	
+
+A 48   1359	*	*	3526	*	*	*	*	2736	4990	*	*	*	3129	2784	3977	*	5736	*	*	48
+       0	*	*	*	*	*	*	3960	0	0	
+
+E 49   2440	*	6760	1265	*	*	7185	*	4439	4654	*	5745	*	2537	5298	4339	*	4969	*	*	49
+       0	*	*	*	*	*	*	3960	0	0	
+
+V 50   4931	*	4829	2358	*	6072	7185	4133	4292	3594	6007	3486	*	2192	2683	6232	*	5370	*	7054	50
+       0	*	*	*	*	*	*	3960	0	0	
+
+E 51   1711	*	*	1640	*	*	6798	*	4311	*	*	6475	*	2799	3815	4441	4561	*	*	*	51
+       0	*	*	*	*	*	*	3960	0	0	
+
+E 52   2690	*	4515	655	*	7144	*	*	4103	6137	*	*	*	3772	*	*	*	6188	*	*	52
+       0	*	*	*	*	*	*	3937	0	0	
+
+R 53   *	*	*	5288	4768	*	3501	*	1925	5876	*	*	*	5635	916	*	*	*	*	5734	53
+       0	*	*	*	*	*	*	3938	0	0	
+
+T 54   3624	*	4933	2404	*	*	*	7310	4453	2711	6235	4162	*	2056	3998	5360	4346	4418	*	*	54
+       0	*	*	*	*	*	*	3907	0	0	
+
+R 55   1620	*	5172	1461	*	*	*	6660	4271	*	*	6174	*	4309	3033	*	5879	5758	*	*	55
+       0	*	*	*	*	*	*	3892	0	0	
+
+K 56   *	*	*	*	*	5167	*	*	376	*	*	5306	*	4179	3047	*	*	*	*	*	56
+       0	*	*	*	*	*	*	3920	0	0	
+
+L 57   *	*	*	*	*	*	*	1656	*	694	4920	*	*	*	*	*	*	4977	*	*	57
+       0	*	*	0	*	*	*	3812	0	0	
+
+//

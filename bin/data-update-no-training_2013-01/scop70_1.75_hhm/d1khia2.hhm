@@ -1,0 +1,255 @@
+HHsearch 1.5
+NAME  d1khia2 b.40.4.5 (A:103-173) C-terminal domain of eIF5a homologue (Hex1) {Filamentous fungi (Neurospora crassa) [TaxId: 5141]}
+FAM   b.40.4.5
+FILE  d1khia2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1khia2.a3m -v 1 
+DATE  Mon Jan 21 23:12:28 2013
+LENG  71 match states, 71 columns in multiple alignment
+FILT  34 out of 36 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCEEEEEECCCCEEEEECCCCCCCCCCEEEECCCHHHHHHHHHHCCCCEEEEEEEECCCCEEEEEEEEECC
+>ss_conf
+95147886129948997067862158501006315788888861799818999980299689998787239
+>Consensus
+fkqYRvldixdgxivaMtETGdvkqglpVidqxxLxxRlxxAfxxgrGsVRvLVixdxgrELxVDxKvvhG
+>d1khia2 b.40.4.5 (A:103-173) C-terminal domain of eIF5a homologue (Hex1) {Filamentous fungi (Neurospora crassa) [TaxId: 5141]}
+FKQYRVLDMQDGSIVAMTETGDVKQNLPVIDQSSLWNRLQKAFESGRGSVRVLVVSDHGREMAVDMKVVHG
+>gi|326498211|dbj|BAJ98533.1|(145-216:219) predicted protein [Hordeum vulgare subsp. vulgare]   E=7e-19 s/c=1.34 id=61% cov=101%
+FKQYRVLDIRdDGLIVAMTETGDVKQGIPVVDQGNLLEKIERAYNQGHGSVRVLVINEGGRELIVDLKMIHG
+>gi|116208522|ref|XP_001230070.1|(114-181:199) hypothetical protein CHGG_03554 [Chaetomium globosum CBS 148.51] >gi|88184151|gb|EAQ91619.1| hypothetical protein CHGG_03554 [Chaetomium globosum CBS 148.51]  E=5e-05 s/c=0.75 id=43% cov=96%
+--QYHAVVITQNSLTCMNETGDvVVENMRVMDGSGLWTRLATACEWDIDTVRVLAVHFQNHKIGVDMKIV--
+>gi|302652232|ref|XP_003017972.1|(571-642:645) Woronin body protein HexA, putative [Trichophyton verrucosum HKI 0517] >gi|291181565|gb|EFE37327.1| Woronin body protein HexA, putative [Trichophyton verrucosum HKI 0517]  E=1e-27 s/c=1.74 id=65% cov=101%
+YKTYRVLDMRdDNRIVAMTETGDVKQGLRVVDQGNLFNRIADAFAEGRGSVRALVINDGGRELVVDYKVIHG
+>gi|402074989|gb|EJT70460.1|(360-430:433) woronin body major protein [Gaeumannomyces graminis var. tritici R3-111a-1]  E=3e-27 s/c=1.75 id=61% cov=101%
+FRQYRVLDLNDGQVTCMTENGDVRPGIPVMEQSNLWQRLTEHFESGRGSVRVLVANDGPRELIVDVKVMHG
+>gi|407921595|gb|EKG14736.1|(447-518:521) Translation elongation factor IF5A [Macrophomina phaseolina MS6]   E=2e-26 s/c=1.68 id=62% cov=101%
+FKQYRVLDIrEDGRVVCMTETGDIKQGLPVLDQSGLLKKITDSFDNGRGSIRVLVINDSGNELVVDYKVVHG
+>gi|46127459|ref|XP_388283.1|(134-204:1016) hypothetical protein FG08107.1 [Gibberella zeae PH-1]   E=4e-26 s/c=1.69 id=65% cov=101%
+FMQYRLVNVDDGKIVAMTETGYIKQGLSVIDQSDLYARILEAFDSDRGSVRLLVLNDNGRELAVDMKVVHG
+>gi|296410940|ref|XP_002835193.1|(123-193:198) hypothetical protein [Tuber melanosporum Mel28] >gi|295627968|emb|CAZ79314.1| unnamed protein product [Tuber melanosporum]  E=1e-23 s/c=1.58 id=63% cov=100%
+FKQYRLIDIRdDGKLVAMTETGEIKQGLKVVDQGHLWGKLKEAFGHGAGSVRVLVISDHGKELAVDYKIVH-
+>gi|302890459|ref|XP_003044114.1|(73-143:962) hypothetical protein NECHADRAFT_34651 [Nectria haematococca mpVI 77-13-4] >gi|256725033|gb|EEU38401.1| hypothetical protein NECHADRAFT_34651 [Nectria haematococca mpVI 77-13-4]  E=3e-21 s/c=1.46 id=50% cov=101%
+FHQYRILDIQEGQILAMDETGSRRADLPVFDHFNLHTRLRNAFKFSHGLVRALVLRYGDEELAVDMKIVSG
+>gi|345562971|gb|EGX45978.1|(485-556:560) hypothetical protein AOL_s00112g56 [Arthrobotrys oligospora ATCC 24927]  E=2e-18 s/c=1.32 id=39% cov=101%
+FKQYKVINAgEDSTLVTVTDSGEIKSGIAVVAQGGLSKKINEAYVASPGAVRVLVISDGDKELIVDFKKAHG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	336	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2269	1
+       0	*	*	*	*	*	*	2246	0	0	
+
+K 2    *	*	*	*	*	*	3528	*	274	*	4767	*	*	*	4341	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2242	0	0	
+
+Q 3    *	*	*	*	*	*	*	*	*	*	*	*	*	292	*	*	2446	*	*	*	3
+       0	*	*	*	*	*	*	2454	0	0	
+
+Y 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	4
+       0	*	*	*	*	*	*	2454	0	0	
+
+R 5    *	*	*	*	*	*	3240	*	3670	*	*	*	*	*	294	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 6    3240	*	*	*	*	*	*	2193	*	3146	*	*	*	*	*	*	*	830	*	*	6
+       0	*	*	*	*	*	*	2454	0	0	
+
+L 7    *	*	*	*	*	*	*	3206	*	509	*	*	*	*	*	*	*	2404	*	*	7
+       0	*	*	*	*	*	*	2454	0	0	
+
+D 8    *	*	449	*	*	*	*	*	4304	*	*	3171	*	*	*	*	*	3240	*	*	8
+       0	*	*	*	*	*	*	2454	0	0	
+
+M 9    3670	*	*	*	4304	*	*	1268	*	2122	2735	*	*	*	*	*	*	3725	*	*	9
+       305	2392	*	0	*	*	*	2454	1712	0	
+
+Q 10   4693	*	3589	2392	*	*	4555	*	5637	*	*	4538	*	1832	2509	5666	3240	*	*	*	10
+       281	2496	*	0	*	*	*	2454	1573	0	
+
+D 11   4769	*	648	2309	*	5819	*	*	*	*	*	*	*	3240	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2454	0	0	
+
+G 12   *	*	*	*	*	478	4779	*	*	*	*	2583	*	*	*	3670	*	*	*	*	12
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 13   *	*	*	*	5416	*	4201	*	3601	5086	*	4803	*	2044	2463	2614	2778	5747	*	5452	13
+       0	*	*	*	*	*	*	2454	0	0	
+
+I 14   *	*	*	*	*	*	*	1120	*	1853	*	*	*	*	*	*	*	1927	*	*	14
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 15   *	*	*	*	*	*	*	*	*	3715	*	*	*	*	*	*	1880	617	*	*	15
+       0	*	*	*	*	*	*	2454	0	0	
+
+A 16   459	2366	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3670	*	*	*	16
+       0	*	*	*	*	*	*	2454	0	0	
+
+M 17   *	*	*	*	*	*	*	*	4304	4534	273	*	*	*	*	*	*	3670	*	*	17
+       0	*	*	*	*	*	*	2454	0	0	
+
+T 18   *	*	3715	*	*	*	*	*	*	*	*	3240	*	*	*	4304	382	*	*	*	18
+       0	*	*	*	*	*	*	2454	0	0	
+
+E 19   *	*	3670	118	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2454	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	3949	*	*	*	2952	311	*	*	*	20
+       0	*	*	*	*	*	*	2454	0	0	
+
+G 21   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2454	0	0	
+
+D 22   *	*	449	2653	*	*	*	*	*	*	*	*	*	*	*	3715	*	*	*	4944	22
+       161	3240	*	0	*	*	*	2454	1000	0	
+
+V 23   *	*	*	*	*	*	*	2099	*	*	*	*	*	*	3715	*	*	534	*	*	23
+       0	*	*	*	*	*	*	2454	0	0	
+
+K 24   *	*	*	*	*	*	*	*	368	*	*	*	*	*	3069	*	*	3240	*	*	24
+       0	*	*	*	*	*	*	2454	0	0	
+
+Q 25   3715	*	*	3240	*	*	3812	*	*	*	*	*	4008	778	*	3298	*	*	*	*	25
+       0	*	*	*	*	*	*	2454	0	0	
+
+N 26   4059	*	3125	*	*	732	*	*	*	*	*	2464	*	*	*	4572	*	*	*	*	26
+       0	*	*	*	*	*	*	2454	0	0	
+
+L 27   *	*	*	*	*	*	*	2001	*	634	3240	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2454	0	0	
+
+P 28   3670	*	*	*	*	*	*	*	4247	*	*	5524	730	*	2828	3589	5637	*	*	*	28
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	29
+       0	*	*	*	*	*	*	2454	0	0	
+
+I 30   *	*	*	*	3715	*	*	1415	*	3222	2748	*	*	*	*	4769	*	1965	*	*	30
+       0	*	*	*	*	*	*	2454	0	0	
+
+D 31   3670	*	492	3649	*	*	*	*	*	*	*	*	3576	*	*	5416	5405	*	*	*	31
+       0	*	*	*	*	*	*	2454	0	0	
+
+Q 32   *	*	*	*	*	3240	3715	*	*	*	*	*	*	290	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 33   4304	*	*	*	3715	1548	*	*	*	*	*	*	*	*	*	912	*	*	*	*	33
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 34   *	*	3589	5520	*	1659	3861	*	*	*	*	1105	*	5405	*	5569	*	*	*	*	34
+       0	*	*	*	*	*	*	2454	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2454	0	0	
+
+W 36   *	*	*	*	2612	*	3269	*	*	3785	*	*	*	*	*	3670	*	*	1310	2488	36
+       0	*	*	*	*	*	*	2454	0	0	
+
+N 37   3856	*	*	3919	*	5067	*	*	2783	*	*	3763	*	3209	4614	2459	1811	*	*	*	37
+       0	*	*	*	*	*	*	2454	0	0	
+
+R 38   *	*	*	*	*	*	*	*	2268	*	*	*	*	*	336	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2454	0	0	
+
+L 39   *	*	*	*	*	*	*	1253	*	785	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2454	0	0	
+
+Q 40   2816	*	*	4321	*	*	6028	*	3170	3328	*	3139	*	3633	2832	2827	3231	*	*	*	40
+       0	*	*	*	*	*	*	2454	0	0	
+
+K 41   5520	*	3073	1397	*	*	*	*	5569	*	*	2977	*	3914	3029	*	2809	*	*	*	41
+       0	*	*	*	*	*	*	2454	0	0	
+
+A 42   201	*	*	*	*	*	4538	*	*	*	*	*	*	*	*	3519	*	*	*	*	42
+       0	*	*	*	*	*	*	2454	0	0	
+
+F 43   *	3240	*	*	391	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2928	43
+       0	*	*	*	*	*	*	2454	0	0	
+
+E 44   4714	*	2887	1098	*	5067	*	*	3715	5438	*	4377	*	*	*	3267	*	3670	*	*	44
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 45   3341	5709	3102	3513	3715	4779	5067	*	*	*	*	3822	*	5086	*	1684	5747	*	3240	*	45
+       0	*	*	*	*	*	*	2454	0	0	
+
+G 46   *	*	2404	*	*	608	*	*	*	*	*	*	*	*	*	2692	*	*	*	*	46
+       0	*	*	*	*	*	*	2454	0	0	
+
+R 47   5067	5601	*	*	*	*	2973	3240	*	*	*	*	3670	*	649	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2454	0	0	
+
+G 48   *	*	3240	*	*	161	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 49   3670	*	*	*	*	*	*	*	*	3715	*	*	*	*	*	436	3240	*	*	*	49
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 50   *	*	*	*	*	*	*	3671	*	*	*	*	*	*	*	*	*	118	*	*	50
+       0	*	*	*	*	*	*	2454	0	0	
+
+R 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 52   1662	*	*	*	*	*	*	3965	*	3589	*	*	*	*	*	*	*	897	*	*	52
+       0	*	*	*	*	*	*	2454	0	0	
+
+L 53   *	*	*	*	*	*	*	*	*	54	4779	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 54   3240	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	161	*	*	54
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 55   4538	*	*	*	*	*	*	1053	*	2063	*	*	*	*	*	*	*	2084	*	*	55
+       0	*	*	*	*	*	*	2454	0	0	
+
+S 56   4779	*	*	5179	*	*	3240	*	*	*	*	967	*	5666	3715	2166	*	*	*	*	56
+       0	*	*	*	*	*	*	2454	0	0	
+
+D 57   *	*	343	5086	3240	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3715	57
+       0	*	*	*	*	*	*	2454	0	0	
+
+H 58   *	*	5179	5743	*	927	3528	*	*	*	*	2705	*	3240	4728	4502	*	*	*	*	58
+       0	*	*	*	*	*	*	2454	0	0	
+
+G 59   *	*	2692	*	*	522	*	*	*	*	*	3240	4538	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2454	0	0	
+
+R 60   *	*	*	3715	*	*	2958	*	3206	*	5179	5355	*	*	656	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2454	0	0	
+
+E 61   *	*	*	161	*	*	*	*	3240	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2454	0	0	
+
+M 62   *	*	*	*	*	*	*	2813	*	306	4361	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2454	0	0	
+
+A 63   1365	5692	*	*	*	3240	*	2170	*	*	*	*	*	*	*	*	*	1920	*	*	63
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 64   *	4769	*	*	4304	*	*	*	*	*	*	*	*	*	*	*	*	132	*	*	64
+       0	*	*	*	*	*	*	2454	0	0	
+
+D 65   *	*	110	5452	*	*	*	*	*	*	*	4304	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2454	0	0	
+
+M 66   *	*	*	*	3670	*	*	*	*	4357	971	*	*	*	*	*	*	3670	*	1816	66
+       0	*	*	*	*	*	*	2454	0	0	
+
+K 67   4769	*	*	*	*	*	*	*	54	*	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 68   *	*	*	*	*	*	*	1969	3670	*	5086	*	*	*	*	*	3754	830	*	*	68
+       0	*	*	*	*	*	*	2454	0	0	
+
+V 69   3670	*	*	*	*	*	*	1631	*	4769	4538	*	*	*	*	*	*	947	*	*	69
+       0	*	*	*	*	*	*	2454	0	0	
+
+H 70   *	*	*	*	*	*	131	*	*	*	*	*	*	*	*	3525	*	*	*	*	70
+       0	*	*	*	*	*	*	2213	0	0	
+
+G 71   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	0	*	*	*	2206	0	0	
+
+//

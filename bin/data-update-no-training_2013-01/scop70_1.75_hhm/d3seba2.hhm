@@ -1,0 +1,406 @@
+HHsearch 1.5
+NAME  d3seba2 d.15.6.1 (A:122-238) Staphylococcal enterotoxin B, SEB {Staphylococcus aureus [TaxId: 1280]}
+FAM   d.15.6.1
+FILE  d3seba2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3seba2.a3m -v 1 
+DATE  Tue Jan 22 09:00:34 2013
+LENG  117 match states, 117 columns in multiple alignment
+FILT  53 out of 55 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCCCCCCCEEEEEEEECCEEECCEEEEECCCCCCEEEECHHHHHHHHHCCCCCCCCCCCCCEEEEEEEECCCEEEEEEECCCCCCCCHHHEEEEECCCC
+EECCCCEEEEEEEEECC
+>ss_conf
+9853355531478997898441321798736843167732678777654012204799820104899984898589873128999766002001003786
+43255337989887339
+>Consensus
+xxnxlxxxkxIxinvxidgxqxxxxxIxtxKkxVTxQElDxkxRkxLxxxyxlYxxxxsxxxxGxixfxxxxxsxxyDLfxxxxxxxxxxxxlkiYxDNK
+tixSxxxhiDVyLxtkk
+>d3seba2 d.15.6.1 (A:122-238) Staphylococcal enterotoxin B, SEB {Staphylococcus aureus [TaxId: 1280]}
+NGNQLDKYRSITVRVFEDGKNLLSFDVQTNKKKVTAQELDYLTRHYLVKNKKLYEFNNSPYETGYIKFIENENSFWYDMMPAPGDKFDQSKYLMMYNDNK
+MVDSKDVKIEVYLTTKK
+>gi|418281664|ref|ZP_12894467.1|(139-256:257) enterotoxin type E [Staphylococcus aureus subsp. aureus 21202] >gi|119655|sp|P12993.1|ETXE_STAAU RecName: Full=Enterotoxin type E; AltName: Full=SEE; Flags: Precursor >gi|153002|gb|AAA26617.1| enterotoxin type E precursor [Staphylococcus aureus] >gi|365172592|gb|EHM63272.1| enterotoxin type E [Staphylococcus aureus subsp. aureus 21202]  E=1e-28 s/c=1.09 id=37% cov=97%
+DNNRLTEEKKVPINLWIDGKQtTVPIDkVKTSKKEVTVQELDLQARHYLHGKFGLYNSDsfGGKVQRGLIVFHSSEGStVSYDLFDAQGQYPDT--LLRI
+YRDNKTINSENLHIDLYLYT--
+>gi|282902669|ref|ZP_06310562.1|(124-239:246) enterotoxin type H [Staphylococcus aureus subsp. aureus C160] >gi|282918111|ref|ZP_06325861.1| enterotoxin type H [Staphylococcus aureus subsp. aureus D139] >gi|283767830|ref|ZP_06340745.1| enterotoxin type H [Staphylococcus aureus subsp. aureus H19] >gi|418595254|ref|ZP_13158874.1| enterotoxin type H [Staphylococcus aureus subsp. aureus 21342] >gi|282318396|gb|EFB48756.1| enterotoxin type H [Staphylococcus aureus subsp. aureus D139] >gi|282597128|gb|EFC02087.1| enterotoxin type H [Staphylococcus aureus subsp. aureus C160] >gi|283461709|gb|EFC08793.1| enterotoxin type H [Staphylococcus aureus subsp. aureus H19] >gi|374401958|gb|EHQ73006.1| enterotoxin type H [Staphylococcus aureus subsp. aureus 21342]  E=1e-16 s/c=0.77 id=34% cov=98%
+NSEKLAQERVIGANVWVDGIQKETELIRTNKKNVTLQELDIKIRKILSDKYKIYYKD-SEISKGLIEFdMKTPRDYSFDIYDLKGENDYEID--KIYEDN
+KTLKSDDIsHIDVNLYTKK
+>gi|19745360|ref|NP_606496.1|(139-239:240) exotoxin G [Streptococcus pyogenes MGAS8232] >gi|19747465|gb|AAL96995.1| exotoxin G precursor [Streptococcus pyogenes MGAS8232]  E=2e-08 s/c=0.62 id=30% cov=83%
+-----------------DGKETYlpSEAVRIKKKQFTLQEFDFKIRKFLMEKYNIYDSE-SRYTSGSL-FLATKDSKHYevDLFNKDDKLLSRDSFFKRY
+KDNKIFNSEEIsHFDIYLKT--
+>gi|225871016|ref|YP_002746963.1|(157-260:262) exotoxin M precursor [Streptococcus equi subsp. equi 4047] >gi|35757852|emb|CAE47487.1| exotoxin M precursor [Streptococcus equi subsp. equi] >gi|55163178|emb|CAH68555.1| exotoxin M [Streptococcus equi subsp. zooepidemicus] >gi|225700420|emb|CAW94803.1| exotoxin M precursor [Streptococcus equi subsp. equi 4047]  E=4e-05 s/c=0.49 id=34% cov=84%
+--------KTIYMNVFIDGHKkdeTSKYKITFEKSPVTFQEVDVRLRKsfMLNDEIKLYQY-GSKVLSGNWEFHgSGENEEGADLFKYPD----------
+-YRYNNLIDiDKKSHIDVYLFTNK
+>gi|21282489|ref|NP_645577.1|(110-240:240) extracellular enterotoxin L [Staphylococcus aureus subsp. aureus MW2] >gi|418987702|ref|ZP_13535375.1| enterotoxin type I [Staphylococcus aureus subsp. aureus CIG1835] >gi|21203926|dbj|BAB94625.1| extracellular enterotoxin L [Staphylococcus aureus subsp. aureus MW2] >gi|377719490|gb|EHT43660.1| enterotoxin type I [Staphylococcus aureus subsp. aureus CIG1835]  E=3e-23 s/c=0.85 id=34% cov=98%
+ENNKLDSPRIIPINLIINGKHQTVTTksVSTDKKMVTAQEIDVKLRKYLQDEFNIYGHNDtgkgkeygtsskfySGFDKGSVVFHINDGSnFSYDLFYTG
+YGLPES--FLKIYKDNKTVDSTQFHLDVEISKR-
+>gi|282902670|ref|ZP_06310563.1|(4-110:110) LOW QUALITY PROTEIN: enterotoxin B [Staphylococcus aureus subsp. aureus C160] >gi|282918112|ref|ZP_06325862.1| LOW QUALITY PROTEIN: enterotoxin O [Staphylococcus aureus subsp. aureus D139] >gi|282921358|ref|ZP_06329076.1| LOW QUALITY PROTEIN: enterotoxin O [Staphylococcus aureus subsp. aureus C427] >gi|283767831|ref|ZP_06340746.1| LOW QUALITY PROTEIN: enterotoxin S [Staphylococcus aureus subsp. aureus H19] >gi|282315773|gb|EFB46157.1| LOW QUALITY PROTEIN: enterotoxin O [Staphylococcus aureus subsp. aureus C427] >gi|282318397|gb|EFB48757.1| LOW QUALITY PROTEIN: enterotoxin O [Staphylococcus aureus subsp. aureus D139] >gi|282597129|gb|EFC02088.1| LOW QUALITY PROTEIN: enterotoxin B [Staphylococcus aureus subsp. aureus C160] >gi|283461710|gb|EFC08794.1| LOW QUALITY PROTEIN: enterotoxin S [Staphylococcus aureus subsp. aureus H19]  E=9e-23 s/c=1.02 id=36% cov=92%
+-------KKSIGINVFKNGFQQKGFVITTDKIKPIAQELDLNTRNNIQNQYKMYDSETGDIQKGYIKFHSTKSSFYYDLFDFKGKK--RVDFLKFYNDNE
+LISTKNLHIDIYLFNK-
+>gi|224475929|ref|YP_002633535.1|(147-234:242) superantigen-like protein [Staphylococcus carnosus subsp. carnosus TM300] >gi|222420536|emb|CAL27350.1| similar to exotoxin [Staphylococcus carnosus subsp. carnosus TM300]  E=8e-09 s/c=0.71 id=29% cov=74%
+----------IKVTVKKNAHVKSSFDIKafeTRKDKITLKELDFQIRKALINNNNLYSNGQ---NTGTVQITTKDNQ----LFTFDLNKRLENERANVYV
+DGKNI---------------
+>gi|225871304|ref|YP_002747251.1|(126-236:236) exotoxin H precursor [Streptococcus equi subsp. equi 4047] >gi|8117875|gb|AAF72809.1|AF186180_3 SeeH [Streptococcus equi] >gi|225700708|emb|CAW95321.1| exotoxin H precursor [Streptococcus equi subsp. equi 4047]  E=1e-19 s/c=0.89 id=24% cov=95%
+--NSEKKEIKVPINVWDKSKQHPPMFITVNKPKVTAQEVDIKVRKLLIKKYDIYNNREQKYSKGTVTLdLNSGKDIVFDLYYFGNGDF--NSMLKIYSNN
+ERIDSTQFHVDVSIS---
+>gi|383479546|ref|YP_005388440.1|(117-232:232) pyrogenic exotoxin protein SpeJ [Streptococcus pyogenes MGAS15252] >gi|383493466|ref|YP_005411142.1| pyrogenic exotoxin protein SpeJ [Streptococcus pyogenes MGAS1882] >gi|378927536|gb|AFC65742.1| pyrogenic exotoxin protein SpeJ [Streptococcus pyogenes MGAS15252] >gi|378929194|gb|AFC67611.1| pyrogenic exotoxin protein SpeJ [Streptococcus pyogenes MGAS1882]  E=7e-17 s/c=0.77 id=25% cov=97%
+--NSNSENSKIVGNLLIDGVQQKTLInpIKIDKRIFTIQEFDFKIRQYLMQTYKIYDPNSPYIKGQLEIAINGNKHESFNLYDATSS-STRSDIFKKYKD
+NKSINMKDFsHFDIYLWTK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	1388	1275	*	*	*	*	*	*	*	3106	*	*	*	3497	*	*	*	*	1
+       0	*	*	*	*	*	*	3258	0	0	
+
+G 2    *	*	*	*	*	876	*	*	*	*	*	1331	*	*	*	4121	*	*	*	*	2
+       0	*	*	*	*	*	*	3268	0	0	
+
+N 3    *	*	4050	4363	*	*	*	*	*	*	*	347	*	3251	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3642	0	0	
+
+Q 4    *	*	*	*	*	*	3006	*	1946	*	*	4669	*	2233	3756	2885	4633	*	*	3130	4
+       0	*	*	*	*	*	*	3656	0	0	
+
+L 5    *	*	*	4269	5292	*	*	3000	*	723	*	3029	*	*	*	*	4710	*	*	5014	5
+       0	*	*	*	*	*	*	3653	0	0	
+
+D 6    4899	*	1554	2233	*	*	*	*	3475	*	*	3787	*	*	*	2571	4495	*	*	4708	6
+       73	4346	*	558	1641	*	*	3734	1290	0	
+
+K 7    *	*	3929	1984	*	5180	*	2990	1939	*	*	4037	*	3508	3932	4238	*	*	*	*	7
+       84	5007	5290	2585	263	*	*	3827	1000	0	
+
+Y 8    4308	*	5039	1992	5326	*	5444	4861	3802	5530	*	3734	2171	*	5610	3502	4778	*	*	4331	8
+       0	*	*	*	*	0	*	3819	0	1000	
+
+R 9    *	*	*	*	*	*	5041	4519	868	*	*	5450	5380	4269	2254	3844	*	*	*	*	9
+       0	*	*	*	*	*	*	3884	0	0	
+
+S 10   4956	6285	*	5567	*	*	*	5799	1726	5202	*	1748	5084	*	6066	3485	3466	3954	*	*	10
+       30	5590	*	1000	1000	*	*	3912	1000	0	
+
+I 11   *	*	*	*	*	*	*	225	*	*	*	*	*	*	*	*	*	2791	*	*	11
+       0	*	*	*	*	*	*	3990	0	0	
+
+T 12   *	*	*	*	*	2696	*	5499	4588	4479	*	*	1370	*	*	*	3962	2530	*	3145	12
+       0	*	*	*	*	*	*	3990	0	0	
+
+V 13   4809	5372	*	*	*	3978	*	1225	*	*	4027	*	*	*	*	*	*	1368	*	*	13
+       0	*	*	*	*	*	*	3968	0	0	
+
+R 14   5652	*	*	*	*	*	*	*	2792	*	*	534	5517	5405	4901	5305	4610	*	*	*	14
+       0	*	*	*	*	*	*	3996	0	0	
+
+V 15   *	*	*	*	*	*	*	3398	*	1331	*	*	*	*	*	*	*	978	*	*	15
+       0	*	*	*	*	*	*	3996	0	0	
+
+F 16   *	*	*	*	1901	*	*	5981	4535	4043	*	*	*	*	*	3927	4563	*	1475	2789	16
+       42	5112	*	1585	585	*	*	4110	1000	0	
+
+E 17   *	*	4714	3106	*	5050	*	1105	2471	4845	*	*	*	*	*	*	*	2883	*	*	17
+       0	*	*	*	*	*	*	4110	0	0	
+
+D 18   *	*	850	5225	*	*	5996	*	4755	*	*	1669	5266	*	*	5300	*	*	*	*	18
+       0	*	*	*	*	*	*	4059	0	0	
+
+G 19   4731	*	5317	5351	*	644	*	*	4024	5266	*	3284	*	*	*	3598	*	*	*	*	19
+       140	3432	*	532	1696	*	*	4059	2196	0	
+
+K 20   6038	*	*	4093	5273	*	3170	3320	1616	*	*	*	*	3794	3349	3957	*	2963	*	*	20
+       39	5225	*	1585	585	*	*	4059	1000	0	
+
+N 21   *	*	*	3787	*	*	3825	*	3922	5225	*	2950	*	917	6171	*	5135	3994	*	*	21
+       185	3056	*	668	1432	*	*	4059	2069	0	
+
+L 22   *	*	*	*	*	*	4101	3513	2978	5904	*	5300	*	2327	5994	3349	1558	4951	*	*	22
+       76	4282	*	1000	1000	*	*	4059	1746	0	
+
+L 23   5225	*	*	3125	5573	*	*	3512	3132	2425	5700	5751	3986	*	4736	2543	6077	3259	*	5616	23
+       60	4613	*	1822	480	*	*	4059	1528	0	
+
+S 24   *	*	*	*	*	3511	*	4036	3637	*	*	5303	3386	*	*	1465	2405	3338	*	*	24
+       137	3463	*	1000	1000	*	*	4115	2133	0	
+
+F 25   *	*	3383	3564	1418	5689	*	5846	*	3256	4776	3971	*	*	*	4839	3485	*	*	3657	25
+       41	5173	*	595	1566	*	*	4115	1284	0	
+
+D 26   4048	*	1875	3825	4776	5689	*	3638	2516	4960	5825	*	*	*	6259	*	2527	4350	*	*	26
+       257	2614	*	443	1919	*	*	4115	2391	0	
+
+V 27   *	*	*	*	*	*	*	674	*	4588	*	*	*	*	*	*	*	1591	*	*	27
+       20	6192	*	0	*	*	*	4115	1000	0	
+
+Q 28   4419	*	*	3774	*	*	*	5303	2113	5321	*	5326	*	3956	3517	2295	2196	*	*	*	28
+       54	4775	*	1585	585	*	*	4115	1000	0	
+
+T 29   5831	*	*	*	3325	*	*	2864	*	5303	*	*	*	4711	*	*	632	4776	*	*	29
+       28	5689	*	1585	585	*	*	4115	1000	0	
+
+N 30   *	*	1956	4203	*	*	*	4666	2654	*	*	1417	*	4555	4633	6075	*	*	*	5818	30
+       0	*	*	*	*	*	*	4238	0	0	
+
+K 31   *	*	*	*	*	*	5247	*	153	*	5549	4232	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	4238	0	0	
+
+K 32   5394	*	3519	5468	*	*	*	5214	768	*	*	3548	3880	*	4375	5167	5447	*	*	*	32
+       0	*	*	*	*	*	*	4238	0	0	
+
+K 33   *	*	*	3316	4646	4666	5610	3032	2394	4014	3666	3596	5167	3383	*	6253	3398	4953	*	*	33
+       58	*	4666	*	*	*	*	4238	0	0	
+
+V 34   *	*	*	*	3086	*	*	3246	*	6086	*	*	4378	*	*	*	*	486	*	*	34
+       0	*	*	*	*	0	*	4201	0	1000	
+
+T 35   *	*	*	*	*	*	*	5214	*	*	*	4666	*	*	*	*	99	*	*	*	35
+       0	*	*	*	*	*	*	4238	0	0	
+
+A 36   1701	4666	*	*	3641	*	*	2277	*	2196	*	*	*	*	*	*	*	2753	*	*	36
+       0	*	*	*	*	*	*	4238	0	0	
+
+Q 37   *	*	*	*	*	*	*	*	3784	*	*	*	*	171	*	4666	*	*	*	*	37
+       0	*	*	*	*	*	*	4238	0	0	
+
+E 38   *	*	*	58	*	*	*	*	*	*	*	*	*	*	4666	*	*	*	*	*	38
+       0	*	*	*	*	*	*	4238	0	0	
+
+L 39   *	*	*	*	3117	*	*	1860	*	910	*	*	*	*	*	*	*	3697	*	*	39
+       0	*	*	*	*	*	*	4238	0	0	
+
+D 40   *	*	58	*	*	*	*	*	*	*	*	*	*	*	*	4666	*	*	*	*	40
+       0	*	*	*	*	*	*	4238	0	0	
+
+Y 41   3980	5832	*	*	2222	*	*	2738	*	2673	*	*	*	*	*	*	4815	2389	*	2543	41
+       0	*	*	*	*	*	*	4238	0	0	
+
+L 42   *	*	*	*	*	*	*	*	722	5935	*	4399	*	2497	3141	*	4666	*	*	*	42
+       0	*	*	*	*	*	*	4238	0	0	
+
+T 43   2548	*	*	*	*	*	*	2181	*	2228	7398	*	*	*	*	4924	3330	1962	*	*	43
+       0	*	*	*	*	*	*	4238	0	0	
+
+R 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	44
+       9	7398	*	0	*	*	*	4238	1000	0	
+
+H 45   *	*	*	*	5394	*	3633	*	1160	*	*	2557	*	3636	3321	*	5701	*	*	3674	45
+       41	5167	*	1000	1000	*	*	4238	1000	0	
+
+Y 46   4633	*	*	*	2726	*	*	4559	3540	4810	5167	5214	*	5610	*	4232	4953	5778	4728	1225	46
+       0	*	*	*	*	*	*	4238	0	0	
+
+L 47   *	*	*	*	*	*	*	4469	*	67	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	4238	0	0	
+
+V 48   *	*	*	4501	*	*	3765	2245	*	5549	2359	3894	*	2069	*	5330	3461	4882	*	*	48
+       79	4232	*	1000	1000	*	*	4238	1292	0	
+
+K 49   *	*	2507	2303	*	4469	*	*	2264	*	*	2258	*	3866	*	3467	*	*	*	*	49
+       0	*	*	*	*	*	*	4238	0	0	
+
+N 50   *	*	4699	2332	*	*	4506	*	1983	5423	*	2471	*	3399	4536	5562	3563	5750	*	*	50
+       0	*	*	*	*	*	*	4125	0	0	
+
+K 51   *	*	*	5493	3753	*	5381	3271	2347	4880	*	4796	*	*	*	*	*	*	*	973	51
+       0	*	*	*	*	*	*	4125	0	0	
+
+K 52   *	*	4788	*	*	5838	*	*	1384	5086	*	1292	*	3318	*	5322	*	*	*	*	52
+       0	*	*	*	*	*	*	4125	0	0	
+
+L 53   *	*	*	*	*	*	*	1318	*	803	5278	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	4125	0	0	
+
+Y 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	54
+       0	*	*	*	*	*	*	4125	0	0	
+
+E 55   *	*	2472	2160	*	2826	4197	*	*	*	*	2104	*	5174	*	4059	4208	*	*	5259	55
+       72	*	4369	*	*	*	*	4125	0	0	
+
+F 56   5196	*	*	*	2230	*	3061	*	3691	5297	*	2468	3383	*	5691	2559	6174	*	*	4124	56
+       85	*	4123	*	*	1188	833	4079	0	1662	
+
+N 57   *	*	1896	2847	*	2545	*	*	5725	*	5659	1786	*	5459	4613	5123	*	*	*	*	57
+       464	2846	2879	2487	283	790	1245	3993	2061	1940	
+
+N 58   *	*	4058	4593	*	2019	*	*	4438	*	*	3016	4118	4526	*	2158	2671	*	*	*	58
+       336	2603	4526	3351	149	0	*	3936	2165	2699	
+
+S 59   *	*	*	*	*	1833	*	*	*	*	*	*	5326	4744	4421	789	4973	*	*	*	59
+       0	*	*	*	*	*	0	4041	0	1000	
+
+P 60   4507	*	3309	4478	*	2827	*	5276	1913	5216	*	4574	2818	*	4538	5250	*	*	*	3352	60
+       0	*	*	*	*	*	0	4041	0	1000	
+
+Y 61   *	5260	*	*	2277	*	*	1760	5243	*	*	*	*	*	*	*	5575	3623	*	1541	61
+       0	*	*	*	*	0	*	4043	0	1000	
+
+E 62   *	*	4635	1972	*	*	*	5510	3368	5172	*	2822	*	2178	*	2922	5699	4481	*	*	62
+       0	*	*	*	*	*	*	4127	0	0	
+
+T 63   6295	*	*	5590	*	3414	*	6079	1369	*	*	4771	*	*	3674	3098	2065	*	*	*	63
+       0	*	*	*	*	*	*	4127	0	0	
+
+G 64   *	*	*	*	*	142	*	*	5377	*	*	*	*	5361	*	4460	*	*	*	*	64
+       0	*	*	*	*	*	*	4127	0	0	
+
+Y 65   *	5420	*	*	3630	*	6355	*	3429	2437	*	4051	*	4694	5312	4869	3544	*	*	1466	65
+       0	*	*	*	*	*	*	4127	0	0	
+
+I 66   *	*	*	5361	4460	*	*	741	*	4601	5839	*	*	*	*	*	*	2364	3665	*	66
+       64	*	4529	*	*	*	*	4127	0	0	
+
+K 67   *	*	5177	2430	5389	5268	*	4035	1651	3253	*	5507	*	4706	5867	*	3915	3199	*	*	67
+       0	*	*	*	*	0	*	4102	0	1527	
+
+F 68   3841	*	*	*	536	*	*	2616	*	4785	*	*	*	*	*	*	*	*	*	4608	68
+       205	3089	6060	0	*	*	*	4127	2499	0	
+
+I 69   5491	*	5887	*	*	*	1151	2061	*	3837	5235	*	*	*	*	*	2519	*	*	*	69
+       610	1536	*	162	3233	0	*	4129	3198	1000	
+
+E 70   5699	*	6101	2833	*	5113	6060	4760	2334	*	*	2303	*	5546	*	2161	3755	*	*	5327	70
+       107	3812	*	593	1569	*	*	4127	1940	0	
+
+N 71   *	*	2666	*	*	3626	4573	*	3742	*	*	1302	*	*	5970	2869	3536	*	*	*	71
+       61	4605	*	1077	927	*	*	4127	1519	0	
+
+E 72   6060	*	2333	2842	*	1654	*	*	2575	*	*	4052	5254	*	*	3735	*	*	*	*	72
+       29	5672	*	0	*	*	*	4127	1000	0	
+
+N 73   *	*	3539	3217	6101	3736	4667	*	2137	*	*	1887	4607	5420	5254	4158	4921	*	*	*	73
+       0	*	*	*	*	*	*	4127	0	0	
+
+S 74   5490	*	4001	4563	*	6060	3163	5255	5510	6183	*	3907	6164	4385	4420	1136	4204	*	*	*	74
+       271	2888	4794	233	2745	*	*	4127	2541	0	
+
+F 75   5946	*	*	3657	1180	*	5467	4091	5660	*	*	*	*	*	5214	*	5260	2958	*	2470	75
+       56	4720	*	477	1829	*	0	4043	1508	1000	
+
+W 76   *	*	*	3893	*	4569	4420	*	5260	*	*	6019	*	5267	*	1549	4518	4741	2037	3185	76
+       0	*	*	*	*	*	0	4043	0	1000	
+
+Y 77   5142	*	*	*	2212	*	*	4137	*	5243	*	*	*	*	*	*	5214	4418	*	740	77
+       68	4446	*	502	1766	*	0	4043	1514	1000	
+
+D 78   *	*	145	*	*	*	*	*	*	*	*	3384	*	*	*	*	*	*	*	*	78
+       0	*	*	*	*	0	*	4043	0	1000	
+
+M 79   *	*	*	*	3760	*	*	5254	*	320	3339	*	*	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	4127	0	0	
+
+M 80   *	*	*	*	602	*	*	*	*	*	2811	*	*	*	*	*	*	*	*	2330	80
+       20	*	6152	*	*	*	*	4091	0	0	
+
+P 81   5939	*	1902	*	*	5105	*	*	5067	*	*	2655	2057	*	*	*	3429	*	*	2596	81
+       0	*	*	*	*	0	*	4094	0	1000	
+
+A 82   2621	*	5261	3672	2810	*	5249	5725	3220	4324	*	*	4563	*	*	5237	3157	3030	*	3566	82
+       0	*	*	*	*	*	*	4091	0	0	
+
+P 83   *	*	3254	5954	*	2414	*	5157	2151	*	*	5535	1822	4429	*	5392	3970	*	*	*	83
+       118	*	3665	*	*	*	*	4091	0	0	
+
+G 84   *	*	2454	5357	*	1117	4249	*	*	4522	*	2862	*	*	*	4209	5156	*	*	5930	84
+       307	4427	2783	0	*	*	0	4055	1262	1641	
+
+D 85   5202	*	3030	2952	*	2412	*	*	2442	*	*	3133	*	3475	*	3469	*	4182	*	*	85
+       137	*	3463	*	*	1329	732	3830	0	2640	
+
+K 86   *	*	4362	3957	5632	3353	*	5354	2756	2413	*	4173	4288	3952	*	*	*	5134	*	2258	86
+       264	*	2579	*	*	925	1079	3820	0	2799	
+
+F 87   4142	*	4818	*	1535	*	*	*	*	2993	*	*	1973	*	3672	3265	*	*	*	*	87
+       97	*	3936	*	*	2086	388	3833	0	2909	
+
+D 88   *	*	1779	2780	*	4902	*	5356	*	4369	*	5486	4619	*	*	4205	2102	4519	*	3987	88
+       142	*	3415	*	*	1056	947	3829	0	2945	
+
+Q 89   *	*	*	3673	*	4247	*	*	4266	*	*	*	3683	1941	2056	3109	3309	5552	*	*	89
+       235	*	2733	*	*	2089	387	3889	0	2709	
+
+S 90   4840	*	4199	3917	*	*	5042	4894	*	*	*	2626	*	3827	*	1400	5071	3582	*	4163	90
+       187	*	3042	*	*	1760	505	3936	0	2820	
+
+K 91   *	*	2019	3159	*	*	*	*	1402	*	*	*	*	*	4880	2313	5170	*	*	*	91
+       50	*	4866	*	*	794	1241	3941	0	2811	
+
+Y 92   *	*	*	*	1412	*	*	3016	*	3599	3782	*	*	5582	4489	*	*	5238	*	1980	92
+       0	*	*	*	*	1359	713	3888	0	2372	
+
+L 93   4513	*	*	*	2025	*	*	*	*	541	*	*	*	*	*	*	*	5435	*	*	93
+       0	*	*	*	*	1440	663	3890	0	1908	
+
+M 94   4913	*	*	*	*	*	*	*	1041	5249	2561	3485	*	4450	2945	*	5639	*	*	*	94
+       0	*	*	*	*	*	0	3922	0	1580	
+
+M 95   *	*	*	*	3363	*	*	906	3129	5606	3650	*	*	*	3779	*	*	3608	*	*	95
+       0	*	*	*	*	0	*	3922	0	1580	
+
+Y 96   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	96
+       0	*	*	*	*	*	*	4076	0	0	
+
+N 97   5531	*	*	3631	*	4512	*	*	1998	*	*	2107	*	5121	2931	3081	4218	4658	*	*	97
+       0	*	*	*	*	*	*	4076	0	0	
+
+D 98   *	*	142	*	*	5271	*	*	*	*	*	4726	*	*	*	*	*	*	*	5067	98
+       0	*	*	*	*	*	*	4076	0	0	
+
+N 99   *	*	*	*	*	4658	*	*	*	*	*	58	*	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	4076	0	0	
+
+K 100  *	*	*	2337	*	*	*	5512	516	*	*	5067	*	*	4291	*	*	*	*	*	100
+       0	*	*	*	*	*	*	4076	0	0	
+
+M 101  *	*	*	*	*	*	*	2680	*	4160	5879	4658	*	*	4726	3744	808	4386	*	*	101
+       0	*	*	*	*	*	*	4076	0	0	
+
+V 102  5508	*	*	*	3477	*	*	909	*	3016	*	*	*	*	*	*	*	2107	*	*	102
+       0	*	*	*	*	*	*	4076	0	0	
+
+D 103  *	*	1544	2548	*	*	*	*	4492	5279	*	2097	5472	*	*	2865	*	*	*	5481	103
+       45	5036	*	0	*	*	*	4004	1000	0	
+
+S 104  4757	*	5036	*	*	*	*	5262	*	*	2874	*	*	*	*	491	4101	*	*	*	104
+       0	*	*	*	*	*	*	4004	0	0	
+
+K 105  5174	*	3317	1936	*	*	*	*	1799	*	*	4137	*	*	*	2243	4179	*	*	*	105
+       0	*	*	*	*	*	*	4004	0	0	
+
+D 106  4579	*	2854	3890	*	*	5857	*	1954	*	*	2067	*	3688	5903	3776	4137	6122	*	*	106
+       0	*	*	*	*	*	*	4004	0	0	
+
+V 107  *	*	*	*	2027	*	*	2245	*	2654	4011	*	*	*	*	3518	4225	3131	*	3883	107
+       433	1947	*	0	*	*	*	4004	2753	0	
+
+K 108  4472	*	*	5174	*	*	426	*	3311	*	*	5293	*	4137	*	*	*	*	*	*	108
+       0	*	*	*	*	*	*	4004	0	0	
+
+I 109  *	*	*	*	2294	*	*	910	*	2511	5355	*	*	*	*	*	*	3963	*	*	109
+       0	*	*	*	*	*	*	4004	0	0	
+
+E 110  *	*	426	1967	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	110
+       0	*	*	*	*	*	*	4004	0	0	
+
+V 111  *	*	*	*	*	*	*	1489	*	5701	*	*	*	*	*	*	*	679	*	*	111
+       0	*	*	*	*	*	*	4004	0	0	
+
+Y 112  *	*	5137	3005	4344	*	2430	*	*	*	*	5085	*	*	*	4694	*	*	*	878	112
+       0	*	*	*	*	*	*	4004	0	0	
+
+L 113  *	*	*	*	*	*	*	2726	*	284	5188	*	*	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	4004	0	0	
+
+T 114  *	*	*	4977	2543	*	*	*	3732	*	*	5293	*	*	*	2450	2021	5319	4114	2445	114
+       0	*	*	*	*	*	*	3881	0	0	
+
+T 115  *	*	*	5596	*	*	*	*	1891	5795	*	5041	*	*	*	4359	938	*	*	3460	115
+       0	*	*	*	*	*	*	3807	0	0	
+
+K 116  *	*	*	5033	*	*	*	*	565	*	*	4086	*	4735	4800	2634	*	*	*	*	116
+       0	*	*	*	*	*	*	3530	0	0	
+
+K 117  *	*	*	3039	*	*	*	*	187	*	*	*	*	*	*	*	*	*	*	*	117
+       0	*	*	0	*	*	*	2557	0	0	
+
+//

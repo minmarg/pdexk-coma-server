@@ -1,0 +1,163 @@
+HHsearch 1.5
+NAME  d1e88a3 g.27.1.1 (A:1-41) Fibronectin {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.27.1.1
+FILE  d1e88a3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1e88a3.a3m -v 1 
+DATE  Mon Jan 21 19:52:59 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCEEHHHHHHHHHCCCCEEEEEECCCCCCCCCC
+>ss_conf
+98744678513201147664068842456422784023569
+>Consensus
+xGxCxTdsGvxYxxGmrWxkxQGsxqMiCTClgnGvsCxet
+>d1e88a3 g.27.1.1 (A:1-41) Fibronectin {Human (Homo sapiens) [TaxId: 9606]}
+YGHCVTDSGVVYSVGMQWLKTQGNKQMLCTCLGNGVSCQET
+>gi|190338028|gb|AAI62574.1|(301-340:2480) Fn1 protein [Danio rerio]   E=3e-09 s/c=1.63 id=66% cov=100%
+-GSCLTEAGVSYAPGMRWSKAQGSKQMLCTCLGNGVSCEES
+>gi|61651682|ref|NP_001013279.1|(313-351:2408) fibronectin precursor [Danio rerio] >gi|47026625|gb|AAT08488.1| fibronectin 3 [Danio rerio]  E=6e-08 s/c=1.55 id=62% cov=98%
+-GNCKTDSGVSYYNGMSWIRTQGTKEMLCTCVGGGISCEE-
+>gi|319996725|ref|NP_001188453.1|(297-335:2503) fibronectin-1 precursor [Oryzias latipes] >gi|301335108|dbj|BAJ12058.1| fibronectin-1 [Oryzias latipes]  E=7e-08 s/c=1.55 id=60% cov=98%
+-GTCATDSGLTYFVGQRWFKNQGARQMICTCLGNGISCDQ-
+>gi|47217056|emb|CAG10108.1|(208-244:2383) unnamed protein product [Tetraodon nigroviridis]   E=6e-07 s/c=1.55 id=61% cov=93%
+-GPCRTESGVGYFIGQRWIRNQGAKQMICTCLGNGISC---
+>gi|410897239|ref|XP_003962106.1|(300-336:2499) PREDICTED: fibronectin-like [Takifugu rubripes]   E=4e-06 s/c=1.48 id=63% cov=93%
+-GPCRTESGVGYFNGQQWIKNQGTNQLICTCLGNGVSC---
+>gi|348511709|ref|XP_003443386.1|(300-336:2499) PREDICTED: fibronectin-like isoform 2 [Oreochromis niloticus]   E=9e-06 s/c=1.44 id=58% cov=93%
+-GACQTETGLMYSVGQRWIKKQGTTQMICTCLGTGSSC---
+>gi|119852235|dbj|BAF42760.1|(307-345:2295) fibronectin [Silurus asotus]   E=3e-05 s/c=1.32 id=50% cov=98%
+-GSCQTESGTTYYSGMRWIQTQGSQQMICTCVNGGIGCKE-
+>gi|47230599|emb|CAF99792.1|(317-355:1395) unnamed protein product [Tetraodon nigroviridis]   E=2e-12 s/c=1.93 id=62% cov=98%
+-GTCRTDAGVMYSDGQRWFRHQGSQQMICTCLGNGISCQE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Y 1    *	*	*	*	*	*	2405	*	*	*	*	*	*	*	*	*	*	*	*	302	1
+       0	*	*	*	*	*	*	1201	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1877	0	0	
+
+H 3    3342	*	*	*	*	*	1683	*	*	*	*	3398	2743	*	*	2339	2755	*	*	*	3
+       0	*	*	*	*	*	*	1877	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1877	0	0	
+
+V 5    2896	*	*	*	*	*	*	*	3398	3587	*	*	*	2231	2165	*	*	1991	*	*	5
+       0	*	*	*	*	*	*	1877	0	0	
+
+T 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	6
+       0	*	*	*	*	*	*	1877	0	0	
+
+D 7    *	*	851	1166	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1877	0	0	
+
+S 8    2672	*	*	*	*	*	*	*	*	*	*	2007	*	*	*	1013	3342	*	*	*	8
+       0	*	*	*	*	*	*	1877	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1877	0	0	
+
+V 10   *	*	*	*	*	*	*	*	*	2530	3785	*	*	*	*	*	3128	644	*	*	10
+       0	*	*	*	*	*	*	1877	0	0	
+
+V 11   *	*	*	*	*	2743	*	*	*	3077	2538	*	*	*	*	2489	2404	2374	*	*	11
+       0	*	*	*	*	*	*	1877	0	0	
+
+Y 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	12
+       0	*	*	*	*	*	*	1877	0	0	
+
+S 13   3587	*	*	*	1754	*	*	*	*	*	*	*	*	*	*	1282	*	*	*	2257	13
+       0	*	*	*	*	*	*	1877	0	0	
+
+V 14   *	*	3763	*	*	*	*	2975	*	2403	*	2499	3587	*	*	3128	*	2085	*	*	14
+       0	*	*	*	*	*	*	1877	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1877	0	0	
+
+M 16   *	*	*	*	*	*	*	*	*	*	728	*	*	1336	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1877	0	0	
+
+Q 17   *	*	*	*	*	*	*	*	*	*	*	*	*	1579	810	3398	*	*	*	*	17
+       0	*	*	*	*	*	*	1877	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	1877	0	0	
+
+L 19   *	*	*	*	2755	*	*	1129	*	1683	*	*	*	*	*	3587	*	*	*	*	19
+       0	*	*	*	*	*	*	1877	0	0	
+
+K 20   *	*	*	*	*	*	*	*	759	*	*	*	*	3128	1763	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1877	0	0	
+
+T 21   3587	*	*	*	*	*	3763	*	3342	*	*	2159	*	*	*	*	942	*	*	*	21
+       0	*	*	*	*	*	*	1877	0	0	
+
+Q 22   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1877	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1877	0	0	
+
+N 24   2817	*	*	*	*	*	*	*	*	*	*	3999	*	*	*	943	1860	*	*	*	24
+       0	*	*	*	*	*	*	1877	0	0	
+
+K 25   *	*	*	*	*	*	*	*	1229	*	*	3608	*	1651	3747	*	3342	*	*	*	25
+       0	*	*	*	*	*	*	1877	0	0	
+
+Q 26   *	*	*	3398	*	*	3785	*	*	*	*	*	*	264	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1877	0	0	
+
+M 27   *	*	*	*	*	*	*	*	*	3608	123	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1877	0	0	
+
+L 28   *	*	*	*	*	*	*	970	*	1031	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1877	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1877	0	0	
+
+T 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	30
+       0	*	*	*	*	*	*	1877	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1877	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	339	*	*	*	*	*	*	*	2257	*	*	32
+       0	*	*	*	*	*	*	1877	0	0	
+
+G 33   *	*	*	*	*	175	*	*	*	*	*	3128	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1877	0	0	
+
+N 34   *	*	*	*	*	2257	*	*	*	*	*	531	*	*	*	*	3342	*	*	*	34
+       0	*	*	*	*	*	*	1877	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1877	0	0	
+
+V 36   *	*	*	*	*	*	*	1235	*	*	*	*	*	*	*	3342	*	1069	*	*	36
+       0	*	*	*	*	*	*	1877	0	0	
+
+S 37   *	*	*	*	*	3128	*	*	*	*	*	*	*	*	*	175	*	*	*	*	37
+       0	*	*	*	*	*	*	1877	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1877	0	0	
+
+Q 39   *	*	2949	1725	*	*	*	*	2794	*	*	*	*	1238	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1793	0	0	
+
+E 40   *	*	*	200	*	*	*	*	*	*	*	*	*	2949	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1793	0	0	
+
+T 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2028	406	*	*	*	41
+       0	*	*	0	*	*	*	1350	0	0	
+
+//

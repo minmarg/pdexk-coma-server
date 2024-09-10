@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1kqfb2 f.23.22.1 (B:246-290) Iron-sulfur subunit of formate dehydrogenase N, transmembrane anchor {Escherichia coli [TaxId: 562]}
+FAM   f.23.22.1
+FILE  d1kqfb2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1kqfb2.a3m -v 1 
+DATE  Mon Jan 21 22:45:58 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  104 out of 112 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCC
+>ss_conf
+985224432268899999999999999998852388999866779
+>Consensus
+IsxxVxlWKgxxKPlaxxxxxxtxxxxxfHYixvGPnxxxeexee
+>d1kqfb2 f.23.22.1 (B:246-290) Iron-sulfur subunit of formate dehydrogenase N, transmembrane anchor {Escherichia coli [TaxId: 562]}
+IDTSVSLWKGALKPLAAAGFIATFAGLIFHYIGIGPNKEVDDDEE
+>gi|397685352|ref|YP_006522671.1|(242-286:308) nitrate-inducible formate dehydrogenase subunit beta [Pseudomonas stutzeri DSM 10701] >gi|395806908|gb|AFN76313.1| nitrate-inducible formate dehydrogenase subunit beta [Pseudomonas stutzeri DSM 10701]  E=4e-08 s/c=1.36 id=41% cov=102%
+ISPMVSLWKGITKPLALLAMGAAVLGGFFHYVRVGPQRVEEEQDE
+>gi|418054623|ref|ZP_12692679.1|(246-290:315) formate dehydrogenase, beta subunit [Hyphomicrobium denitrificans 1NES1] >gi|353212248|gb|EHB77648.1| formate dehydrogenase, beta subunit [Hyphomicrobium denitrificans 1NES1]  E=3e-05 s/c=1.15 id=37% cov=102%
+ISATVEFWKGLIKPVALAGIAASAVVGFLHWVITGPNEVQPEDEK
+>gi|148827168|ref|YP_001291921.1|(252-295:548) formate dehydrogenase accessory protein [Haemophilus influenzae PittGG] >gi|148718410|gb|ABQ99537.1| formate dehydrogenase accessory protein [Haemophilus influenzae PittGG]  E=5e-05 s/c=1.16 id=40% cov=100%
+IDLSITLWKDVLKPVAAVAMGGLALAEVAHYLTVGPNVEEDVED-
+>gi|253701244|ref|YP_003022433.1|(213-257:263) formate dehydrogenase transmembrane domain protein [Geobacter sp. M21] >gi|251776094|gb|ACT18675.1| Formate dehydrogenase transmembrane domain protein [Geobacter sp. M21]  E=0.0001 s/c=1.10 id=33% cov=102%
+IPTSIFLWKDVIKPLGILGFWGSIGAVLLHYVTVGPQRTEEERQD
+>gi|269103324|ref|ZP_06156021.1|(245-288:296) FdxH [Photobacterium damselae subsp. damselae CIP 102761] >gi|268163222|gb|EEZ41718.1| FdxH [Photobacterium damselae subsp. damselae CIP 102761]  E=8e-09 s/c=1.43 id=36% cov=100%
+ISETVKLWKDDFKPLAAAGIVGTLALAAIHRVTVGRSRVKEEED-
+>gi|114045611|ref|YP_736161.1|(244-287:304) formate dehydrogenase subunit beta [Shewanella sp. MR-7] >gi|117918561|ref|YP_867753.1| formate dehydrogenase subunit beta [Shewanella sp. ANA-3] >gi|113887053|gb|ABI41104.1| formate dehydrogenase beta subunit [Shewanella sp. MR-7] >gi|117610893|gb|ABK46347.1| formate dehydrogenase beta subunit [Shewanella sp. ANA-3]  E=2e-07 s/c=1.34 id=39% cov=98%
+IPLSVTLWQDWVKPLGTVGLLATAAVACLHKITVGRNIVEEDQ--
+>gi|85857990|ref|YP_460192.1|(215-257:265) formate dehydrogenase iron-sulfur subunit [Syntrophus aciditrophicus SB] >gi|85721081|gb|ABC76024.1| formate dehydrogenase iron-sulfur subunit [Syntrophus aciditrophicus SB]  E=1e-06 s/c=1.30 id=32% cov=98%
+VPVTTMLWKDILKPLSLLSAGGVIAGSFLHYIIHGPKLPDEEQ--
+>gi|289548732|ref|YP_003473720.1|(250-293:298) formate dehydrogenase subunit beta [Thermocrinis albus DSM 14484] >gi|289182349|gb|ADC89593.1| formate dehydrogenase, beta subunit [Thermocrinis albus DSM 14484]  E=0.0002 s/c=1.11 id=38% cov=82%
+ISPLVNLWKGPLKLLGSVVLWGTLVGAFLQLIIFGP---------
+>gi|406893244|gb|EKD38359.1|(214-255:256) 4Fe-4S ferredoxin iron-sulfur binding protein [uncultured bacterium]  E=1e-07 s/c=1.41 id=40% cov=96%
+IPSSVVFWHTYLKPLSLIGLGGVVAAAAIHYLAIGPHKEKEE---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	178	*	*	*	*	*	*	*	*	*	3107	*	*	1
+       0	*	*	*	*	*	*	3396	0	0	
+
+D 2    5302	*	2706	*	*	*	*	*	*	*	*	4993	3085	*	*	573	*	*	*	*	2
+       0	*	*	*	*	*	*	3402	0	0	
+
+T 3    3352	*	*	4922	*	*	*	6704	6173	3818	7007	6007	1029	*	*	3587	3189	3867	*	*	3
+       0	*	*	*	*	*	*	3402	0	0	
+
+S 4    3211	*	*	*	7034	*	*	5383	*	2428	2603	*	3401	*	*	3149	2172	3631	*	*	4
+       0	*	*	*	*	*	*	3402	0	0	
+
+V 5    *	*	*	*	*	*	*	2443	*	*	*	*	*	*	*	*	5222	341	*	*	5
+       0	*	*	*	*	*	*	3402	0	0	
+
+S 6    4152	*	4931	3315	5487	3614	5223	5824	3085	7155	5222	3348	*	4325	4312	2978	2685	5081	*	*	6
+       0	*	*	*	*	*	*	3402	0	0	
+
+L 7    4274	*	*	*	2450	3460	*	*	*	803	*	*	*	*	*	*	5759	3590	*	*	7
+       0	*	*	*	*	*	*	3402	0	0	
+
+W 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	8
+       0	*	*	*	*	*	*	3402	0	0	
+
+K 9    *	*	*	*	*	*	5081	*	153	*	*	*	*	4519	5201	*	*	*	*	*	9
+       40	5201	*	0	*	*	*	3402	1000	0	
+
+G 10   *	*	2227	5723	*	460	*	*	*	*	*	*	*	*	*	6510	5081	*	*	*	10
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 11   4314	*	5661	*	5263	6068	*	2257	*	3376	6326	*	3909	*	*	*	*	1485	3088	5081	11
+       0	*	*	*	*	*	*	3402	0	0	
+
+L 12   2452	*	*	*	5116	*	*	4487	*	1168	4936	*	*	*	*	4965	3003	4793	3768	*	12
+       0	*	*	*	*	*	*	3402	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3402	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	4830	*	*	236	*	*	*	5201	6068	4993	4559	14
+       0	*	*	*	*	*	*	3402	0	0	
+
+L 15   4048	*	*	*	4826	*	*	3936	*	652	6055	*	*	*	*	*	*	2414	*	*	15
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 16   993	*	*	*	*	1586	*	*	*	*	5797	*	*	*	*	2772	*	*	*	*	16
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 17   1613	*	*	*	5783	4296	*	4980	*	2150	3750	*	*	*	*	3949	3526	3046	*	*	17
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 18   1709	*	*	*	4803	5383	*	3317	*	1803	*	*	*	*	*	*	*	2015	*	*	18
+       0	*	*	*	*	*	*	3402	0	0	
+
+G 19   1563	*	*	*	*	1076	*	*	*	4705	*	*	*	*	*	4731	4772	3743	*	*	19
+       0	*	*	*	*	*	*	3402	0	0	
+
+F 20   4492	*	*	*	1811	*	*	2804	*	2443	1595	*	*	*	*	*	*	6326	*	*	20
+       0	*	*	*	*	*	*	3402	0	0	
+
+I 21   1975	*	*	*	4305	1421	*	2747	*	5537	6909	*	*	*	*	*	*	3553	4121	*	21
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 22   1091	5824	*	*	3713	2177	*	4151	*	3712	*	*	*	*	*	5201	*	4165	*	*	22
+       0	*	*	*	*	*	*	3402	0	0	
+
+T 23   1881	*	*	*	*	4993	*	6409	*	3870	*	*	*	*	*	4865	1118	3034	*	*	23
+       0	*	*	*	*	*	*	3402	0	0	
+
+F 24   1486	*	*	*	2589	4078	*	4038	*	2697	6491	*	*	*	*	5619	6173	2669	*	*	24
+       0	*	*	*	*	*	*	3402	0	0	
+
+A 25   1368	*	*	*	5419	5487	*	4056	*	1609	*	*	*	*	*	*	*	2481	*	*	25
+       0	*	*	*	*	*	*	3402	0	0	
+
+G 26   1229	*	*	*	4845	1523	*	5137	*	5661	*	*	*	*	*	4411	5519	3765	*	*	26
+       0	*	*	*	*	*	*	3402	0	0	
+
+L 27   2146	*	*	3923	6348	1451	*	4993	*	3305	*	*	*	*	*	3005	4305	5487	*	*	27
+       0	*	*	*	*	*	*	3402	0	0	
+
+I 28   3139	4793	*	*	1335	*	*	2316	*	2874	5733	*	*	*	*	*	*	3756	6615	6173	28
+       0	*	*	*	*	*	*	3402	0	0	
+
+F 29   3097	*	*	*	931	5174	*	4342	*	2308	*	*	*	*	*	6348	*	5619	*	4406	29
+       0	*	*	*	*	*	*	3402	0	0	
+
+H 30   *	*	*	*	*	*	52	*	*	*	*	*	*	4828	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3402	0	0	
+
+Y 31   *	*	*	*	5586	*	*	*	5525	4828	*	*	*	*	4856	*	*	*	5469	209	31
+       0	*	*	*	*	*	*	3402	0	0	
+
+I 32   5602	*	*	*	5603	*	*	1475	*	2474	4194	*	*	*	*	*	4235	1683	*	*	32
+       0	*	*	*	*	*	*	3402	0	0	
+
+G 33   3198	*	*	*	*	2014	*	3561	4531	*	5734	*	*	*	2535	*	1782	4904	*	*	33
+       0	*	*	*	*	*	*	3402	0	0	
+
+I 34   3646	*	*	*	4828	*	4480	2630	3876	*	*	*	*	*	*	*	4929	873	*	4990	34
+       0	*	*	*	*	*	*	3402	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3402	0	0	
+
+P 36   4842	*	*	*	*	5950	*	*	*	*	*	*	202	*	3646	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3402	0	0	
+
+N 37   *	*	*	*	*	*	5062	4543	3166	*	*	437	*	4357	*	5137	*	*	*	*	37
+       81	5441	4973	1252	785	*	*	3359	1469	0	
+
+K 38   *	*	6879	1870	*	5871	*	4948	2747	4136	*	6580	*	5340	2146	4625	2981	5420	*	6503	38
+       40	5516	7560	1585	585	0	*	3437	1375	1701	
+
+E 39   2986	*	*	1920	*	*	5097	*	*	6064	*	*	4175	*	*	*	3031	1368	*	*	39
+       0	*	*	*	*	0	*	3455	0	1000	
+
+V 40   6363	*	2553	1736	*	4866	5357	6425	4032	5775	6832	6548	4740	5141	*	2691	4451	3614	*	*	40
+       0	*	*	*	*	*	*	3454	0	0	
+
+D 41   6384	*	2099	843	*	*	7102	*	4387	6411	5744	*	4050	*	*	5219	6421	6273	*	*	41
+       0	*	*	*	*	*	*	3440	0	0	
+
+D 42   6664	*	1447	1109	*	6616	4537	*	6102	6588	*	6316	6000	6464	6895	*	*	4887	*	*	42
+       0	*	*	*	*	*	*	3464	0	0	
+
+D 43   4942	*	1432	1587	*	5855	3741	*	*	5279	*	6710	*	3698	5037	5107	*	*	*	*	43
+       0	*	*	*	*	*	*	3398	0	0	
+
+E 44   *	*	2133	1134	*	6184	3366	*	4105	*	5316	6571	4477	3896	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	3283	0	0	
+
+E 45   *	*	1963	838	*	*	*	*	2922	*	*	*	*	4255	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	3210	0	0	
+
+//

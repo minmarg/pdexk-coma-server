@@ -1,0 +1,184 @@
+HHsearch 1.5
+NAME  d1ex4a1 b.34.7.1 (A:223-270) DNA-binding domain of retroviral integrase {Human immunodeficiency virus type 1 [TaxId: 11676]}
+FAM   b.34.7.1
+FILE  d1ex4a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ex4a1.a3m -v 1 
+DATE  Mon Jan 21 20:14:43 2013
+LENG  48 match states, 48 columns in multiple alignment
+FILT  62 out of 64 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CEEEEECCCCCCEECCCEEEEECCCEEEEECCCEEEEECCCEEEEECC
+>ss_conf
+965764487975207723667258458882598288834620355419
+>Consensus
+FrVYyrxxxdxxWkGPaxLlWKGeGAVVixxxxxixvVPrRKaKiikd
+>d1ex4a1 b.34.7.1 (A:223-270) DNA-binding domain of retroviral integrase {Human immunodeficiency virus type 1 [TaxId: 11676]}
+FRVYYRDSRNSLWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRD
+>gi|158931142|sp|P27973.2|POL_SIVV1(1396-1443:1470) RecName: Full=Gag-Pol polyprotein; AltName: Full=Pr160Gag-Pol; Contains: RecName: Full=Matrix protein p17; Short=MA; Contains: RecName: Full=Capsid protein p24; Short=CA; Contains: RecName: Full=Nucleocapsid protein p7; Short=NC; Contains: RecName: Full=p6-pol; Short=p6*; Contains: RecName: Full=Protease; AltName: Full=PR; AltName: Full=Retropepsin; Contains: RecName: Full=Reverse transcriptase/ribonuclease H; AltName: Full=Exoribonuclease H; AltName: Full=p66 RT; Contains: RecName: Full=p51 RT; Contains: RecName: Full=p15; Contains: RecName: Full=Integrase; Short=IN  E=8e-14 s/c=1.67 id=67% cov=102%
+FRVYYREGRDPVWKGPARLIWKGEGAVVLKEGEELKVVPRRKAKIIKD
+>gi|77416902|sp|P12451.3|POL_HV2SB(1392-1439:1462) RecName: Full=Gag-Pol polyprotein; AltName: Full=Pr160Gag-Pol; Contains: RecName: Full=Matrix protein p17; Short=MA; Contains: RecName: Full=Capsid protein p24; Short=CA; Contains: RecName: Full=Spacer peptide p2; Contains: RecName: Full=Nucleocapsid protein p7; Short=NC; Contains: RecName: Full=Transframe peptide; Short=TF; Contains: RecName: Full=p6-pol; Short=p6*; Contains: RecName: Full=Protease; AltName: Full=PR; AltName: Full=Retropepsin; Contains: RecName: Full=Reverse transcriptase/ribonuclease H; AltName: Full=Exoribonuclease H; AltName: Full=p66 RT; Contains: RecName: Full=p51 RT; Contains: RecName: Full=p15; Contains: RecName: Full=Integrase; Short=IN  E=9e-14 s/c=1.67 id=67% cov=102%
+FRVYFREGRNQLWQGPGELLWKGDGAVIVKVGTDIKVIPRRKAKIIRD
+>gi|134140582|gb|ABO61054.1|(941-989:1013) pol protein [Simian immunodeficiency virus]   E=8e-11 s/c=1.43 id=67% cov=102%
+FRVYYRRGANPSWQGPAQLLWKGEGAIVIKtDQGEIITVPRRKAKIIKD
+>gi|189310224|emb|CAP72504.1|(952-999:1012) Pol protein [SIV-wrc Pbt-05GM-X02]   E=4e-08 s/c=1.28 id=58% cov=100%
+FQVYYRTGASQQWQGPGKLVWKGEGALVVQTpEGDLLTVPRRKAKIIK-
+>gi|49887134|gb|AAT68811.1|(975-1020:1040) pol protein [Simian immunodeficiency virus]   E=6e-12 s/c=1.59 id=65% cov=96%
+FKVYYRHGTS-DWQGPASLLWKGEGAVVIQTpDQQVIAVPRRKAKII--
+>gi|9929869|dbj|BAB12110.1|(1101-1144:1148) pol polyprotein [Equine infectious anemia virus]   E=0.0008 s/c=1.05 id=41% cov=92%
+---FYKIPGEHDWKGPTRVLWKGDGAVVVNDEGKgIIAVPLTRTKLL--
+>gi|218347062|emb|CAQ60125.1|(939-984:994) Pol protein [Simian immunodeficiency virus - olc]   E=8e-11 s/c=1.52 id=51% cov=98%
+YRVYYK-NKEGQWCGPAELLWKGEGAVLLKEGDKYFSVPLRKAKIVK-
+>gi|12657810|gb|AAK01033.1|AF301156_2(917-963:990) pol protein [Simian immunodeficiency virus]   E=5e-08 s/c=1.29 id=49% cov=98%
+FKAYWKEHTGE-WQGPGELVWKGEGAVVIRNsQGTLFVKPRRKVKITR-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	108	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3788	1
+       0	*	*	*	*	*	*	2016	0	0	
+
+R 2    *	*	*	*	*	*	*	*	2113	*	*	*	*	3639	538	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2016	0	0	
+
+V 3    4007	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	93	*	*	3
+       0	*	*	*	*	*	*	2016	0	0	
+
+Y 4    *	*	*	*	3574	*	6062	*	*	*	*	*	*	*	*	*	*	*	*	150	4
+       0	*	*	*	*	*	*	2162	0	0	
+
+Y 5    *	*	*	*	2872	*	*	*	*	*	*	*	*	*	*	*	*	*	4106	312	5
+       0	*	*	*	*	*	*	2162	0	0	
+
+R 6    *	*	*	*	*	6056	*	*	2443	*	*	*	*	*	320	*	*	*	*	*	6
+       62	*	4580	*	*	*	*	2162	0	0	
+
+D 7    *	*	1768	1520	*	*	5401	3474	5861	*	*	*	*	4308	4201	*	3034	*	*	*	7
+       0	*	*	*	*	0	*	2120	0	1000	
+
+S 8    6545	*	*	*	*	912	4106	*	*	*	*	3630	3574	*	6495	2159	*	*	*	*	8
+       0	*	*	*	*	*	*	2162	0	0	
+
+R 9    2205	*	*	*	*	3574	*	*	3866	*	*	*	*	*	960	4825	3623	*	*	*	9
+       0	*	*	*	*	*	*	2162	0	0	
+
+N 10   *	*	906	2535	*	4106	*	*	*	*	*	2363	*	*	*	4593	*	*	*	*	10
+       34	*	5435	*	*	*	*	2162	0	0	
+
+S 11   *	*	*	3683	*	4576	3536	*	*	*	*	*	824	2256	*	5650	*	*	*	*	11
+       117	*	3683	*	*	0	*	2150	0	1000	
+
+L 12   *	*	3125	*	*	*	6086	2423	*	2433	*	*	*	2294	*	3593	4899	2802	*	4829	12
+       0	*	*	*	*	0	*	2074	0	1414	
+
+W 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	13
+       0	*	*	*	*	*	*	2162	0	0	
+
+K 14   *	4580	*	*	*	*	*	*	505	4861	*	*	*	2190	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2162	0	0	
+
+G 15   *	*	*	*	*	51	*	*	*	*	*	*	*	*	4861	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2162	0	0	
+
+P 16   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2162	0	0	
+
+A 17   509	*	*	*	*	2230	*	*	*	*	*	*	*	*	*	*	3574	*	*	*	17
+       0	*	*	*	*	*	*	2162	0	0	
+
+K 18   6132	*	6345	2339	*	*	5115	5911	1623	*	*	6545	*	3662	2383	5435	3907	4860	*	*	18
+       0	*	*	*	*	*	*	2162	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	127	*	*	*	*	*	*	*	3574	*	*	19
+       0	*	*	*	*	*	*	2162	0	0	
+
+L 20   *	*	*	*	*	*	*	3152	*	363	*	*	5451	*	*	*	*	3520	*	*	20
+       0	*	*	*	*	*	*	2162	0	0	
+
+W 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	21
+       0	*	*	*	*	*	*	2162	0	0	
+
+K 22   *	*	*	5804	*	*	*	*	57	*	*	*	*	*	5565	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2165	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2162	0	0	
+
+E 24   5279	*	3118	291	*	*	*	*	*	*	*	*	*	5900	*	*	*	*	*	5318	24
+       0	*	*	*	*	*	*	2162	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2162	0	0	
+
+A 26   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2162	0	0	
+
+V 27   *	*	*	*	*	*	*	5820	*	3208	*	*	*	*	*	*	*	194	*	*	27
+       0	*	*	*	*	*	*	2162	0	0	
+
+V 28   *	*	*	*	*	*	*	4552	*	3430	*	*	*	*	*	*	*	210	*	*	28
+       0	*	*	*	*	*	*	2162	0	0	
+
+I 29   *	5452	*	*	*	*	*	730	*	2642	*	*	*	*	*	*	*	2223	*	*	29
+       0	*	*	*	*	*	*	2162	0	0	
+
+Q 30   *	*	*	4188	*	*	*	*	1193	*	*	3574	*	1518	3744	*	*	*	*	*	30
+       247	2668	*	0	*	*	*	2162	1480	0	
+
+D 31   *	*	1168	2528	*	5543	6421	*	4861	*	*	3805	*	6046	*	*	2891	3717	*	5911	31
+       151	3329	*	0	*	*	*	2162	1475	0	
+
+N 32   *	*	5435	2298	*	1962	*	*	5737	*	*	2317	4533	2189	*	5573	6167	*	*	*	32
+       53	4785	*	0	*	*	*	2162	1217	0	
+
+S 33   5036	*	4266	2387	*	1343	*	*	*	*	*	4387	*	4489	5889	3860	2915	5537	*	*	33
+       20	6159	*	0	*	*	*	2163	1000	0	
+
+D 34   5318	*	1650	1756	*	4533	*	*	2844	*	*	5021	*	4742	*	*	4106	4844	*	5900	34
+       127	3574	*	0	*	*	*	2162	1000	0	
+
+I 35   *	*	*	*	*	*	*	590	*	2340	*	*	*	*	*	*	*	3376	*	4580	35
+       0	*	*	*	*	*	*	2162	0	0	
+
+K 36   *	*	*	*	2767	*	*	2016	999	4505	*	*	*	5214	*	*	*	4857	*	*	36
+       0	*	*	*	*	*	*	2163	0	0	
+
+V 37   3011	*	*	5543	*	*	*	4923	*	*	*	*	6168	*	*	4121	2251	889	*	*	37
+       0	*	*	*	*	*	*	2162	0	0	
+
+V 38   *	*	*	*	*	*	*	3692	4105	*	*	*	*	*	*	*	*	247	*	5537	38
+       0	*	*	*	*	*	*	2163	0	0	
+
+P 39   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2162	0	0	
+
+R 40   *	*	*	*	*	*	*	*	4888	2991	*	*	*	*	251	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2162	0	0	
+
+R 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	167	5318	3574	*	*	*	41
+       0	*	*	*	*	*	*	2162	0	0	
+
+K 42   *	*	*	*	*	*	*	*	127	*	*	*	*	*	3573	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2163	0	0	
+
+A 43   466	4427	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3573	2779	*	*	43
+       0	*	*	*	*	*	*	2163	0	0	
+
+K 44   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2163	0	0	
+
+I 45   *	*	*	*	*	*	*	325	*	2858	*	*	*	*	*	5214	*	4759	*	*	45
+       0	*	*	*	*	*	*	2163	0	0	
+
+I 46   *	*	*	*	*	*	*	435	*	2948	*	*	*	*	*	*	4106	3784	*	*	46
+       0	*	*	*	*	*	*	2162	0	0	
+
+R 47   *	*	*	*	*	*	*	*	746	*	*	*	*	*	1503	*	4295	*	*	*	47
+       0	*	*	*	*	*	*	1998	0	0	
+
+D 48   *	*	98	3935	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	0	*	*	*	1718	0	0	
+
+//

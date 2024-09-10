@@ -1,0 +1,163 @@
+HHsearch 1.5
+NAME  d1k1va_ a.37.1.1 (A:) Mafg {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   a.37.1.1
+FILE  d1k1va_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1k1va_.a3m -v 1 
+DATE  Mon Jan 21 22:25:48 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  58 out of 60 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCHHHHHCCCHHHHHHHHCCCCHHHHHHHHHHHHHCCCCCC
+>ss_conf
+97033504688899887458999999999986211035789
+>Consensus
+xsDexLxxxsvReLNxxLrglxkeevxxlKqrRRTLKNRGY
+>d1k1va_ a.37.1.1 (A:) Mafg {Mouse (Mus musculus) [TaxId: 10090]}
+LTDEELVTMSVRELNQHLRGLSKEEIIQLKQRRRTLKNRGY
+>gi|340382534|ref|XP_003389774.1|(189-229:285) PREDICTED: hypothetical protein LOC100638143 [Amphimedon queenslandica]  E=1e-10 s/c=1.67 id=57% cov=102%
+LTEEQLVSLSARDLNTICRDLPEDVVKQLKKRRRTLKNRGY
+>gi|242016876|ref|XP_002428922.1|(82-122:201) transcription factor MafG, putative [Pediculus humanus corporis] >gi|212513738|gb|EEB16184.1| transcription factor MafG, putative [Pediculus humanus corporis]  E=3e-09 s/c=1.57 id=57% cov=102%
+IDDETLVTLSVRDLNKSLHGVPKDVVTKLKQKRRTLKNRTY
+>gi|221121496|ref|XP_002156747.1|(146-186:274) PREDICTED: similar to predicted protein [Hydra magnipapillata]   E=1e-08 s/c=1.51 id=55% cov=102%
+LTEEQLAEIPVKDLNSLLRGLPDNEVLKLKQKRRTIKNRGY
+>gi|225713288|gb|ACO12490.1|(72-112:211) Transcription factor Maf [Lepeophtheirus salmonis]   E=6e-08 s/c=1.47 id=52% cov=102%
+ITDEQLITIKTKQLNRLLKGVSKERQREIKYERRTLKNRGY
+>gi|221127312|ref|XP_002162843.1|(73-113:172) PREDICTED: similar to bzip transcription factor MafL [Hydra magnipapillata]  E=1e-07 s/c=1.44 id=52% cov=102%
+ISDKDLMAMPVRQLNLKLKNLPKDEKLKLKARRRLLKNRGY
+>gi|290462465|gb|ADD24280.1|(48-90:173) Transcription factor MafG [Lepeophtheirus salmonis]   E=2e-06 s/c=1.27 id=57% cov=102%
+ISDDQLSTLDIKDLNRILRdqGLPKETIEKLKQRRRTLKNRKY
+>gi|313225947|emb|CBY21090.1|(46-86:157) unnamed protein product [Oikopleura dioica]   E=1e-05 s/c=1.29 id=55% cov=102%
+ISDESLINISAREVNQLAGHLPPEQIKILKQRRRTLKNREY
+>gi|195998281|ref|XP_002109009.1|(188-228:281) hypothetical protein TRIADDRAFT_52591 [Trichoplax adhaerens] >gi|190589785|gb|EDV29807.1| hypothetical protein TRIADDRAFT_52591 [Trichoplax adhaerens]  E=3e-05 s/c=1.24 id=50% cov=102%
+FTDDALCRMRTKELNMCLNGFSDKKKEEIKRRRRTLKNRGY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	1964	*	*	1659	*	1460	4571	*	*	*	*	*	*	5531	*	*	1
+       0	*	*	*	*	*	*	2569	0	0	
+
+T 2    *	*	4160	5818	*	*	*	*	*	*	*	3499	4815	*	*	1006	1716	*	*	*	2
+       0	*	*	*	*	*	*	2569	0	0	
+
+D 3    *	*	215	3943	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3769	3
+       0	*	*	*	*	*	*	2569	0	0	
+
+E 4    4567	*	2160	755	*	*	*	*	3818	*	6337	*	*	4474	*	6250	*	*	*	*	4
+       0	*	*	*	*	*	*	2569	0	0	
+
+E 5    3756	*	3765	1436	*	*	*	*	5588	4100	5351	*	*	1914	4686	4236	5501	*	*	*	5
+       0	*	*	*	*	*	*	2569	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2569	0	0	
+
+V 7    3600	4771	*	*	*	*	*	2420	5739	4794	2567	*	*	*	*	5011	5128	1283	*	*	7
+       0	*	*	*	*	*	*	2568	0	0	
+
+T 8    3958	*	*	3660	*	4499	4130	*	5596	5917	5828	3426	*	4584	4771	1691	2188	*	*	*	8
+       0	*	*	*	*	*	*	2568	0	0	
+
+M 9    *	*	*	*	5148	*	*	1841	*	1401	1949	*	*	*	*	*	5596	4859	*	*	9
+       0	*	*	*	*	*	*	2568	0	0	
+
+S 10   *	*	5011	*	*	5849	*	*	3930	*	*	4689	3156	*	4771	681	3740	*	*	*	10
+       0	*	*	*	*	*	*	2568	0	0	
+
+V 11   3573	*	*	*	*	*	*	5011	*	*	4689	*	*	*	*	*	3290	427	*	*	11
+       0	*	*	*	*	*	*	2568	0	0	
+
+R 12   *	*	*	*	*	*	*	*	2333	*	*	*	*	*	319	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2568	0	0	
+
+E 13   *	*	1576	792	*	*	*	*	*	*	*	*	*	3520	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2568	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	79	*	*	*	*	*	*	*	4238	*	*	14
+       0	*	*	*	*	*	*	2568	0	0	
+
+N 15   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2568	0	0	
+
+Q 16   5917	*	*	*	*	*	5734	4689	2585	4705	4771	5797	*	2712	1309	4888	3711	*	*	*	16
+       0	*	*	*	*	*	*	2568	0	0	
+
+H 17   *	4234	*	*	*	*	2999	3373	2708	2348	*	5917	*	2749	2703	5522	6174	*	*	5554	17
+       14	6727	*	1000	1000	*	*	2568	1000	0	
+
+L 18   4238	5009	*	*	*	*	*	*	*	127	*	*	*	*	*	*	*	*	*	*	18
+       35	5376	*	1000	1000	*	*	2568	1105	0	
+
+R 19   5554	*	*	*	*	4238	3545	*	2046	*	5025	4377	*	4834	1047	*	*	*	*	*	19
+       139	3440	*	1000	1000	*	*	2568	1614	0	
+
+G 20   *	*	3262	*	*	403	4238	*	*	*	*	4418	*	*	5554	5749	*	*	*	*	20
+       0	*	*	*	*	*	*	2568	0	0	
+
+L 21   *	3691	*	*	2745	*	*	5840	*	891	5125	*	*	5025	*	*	*	3129	*	4544	21
+       0	*	*	*	*	*	*	2568	0	0	
+
+S 22   *	*	5025	*	*	5361	*	*	*	*	*	4856	1284	*	6226	1514	2875	*	*	*	22
+       0	*	*	*	*	*	*	2568	0	0	
+
+K 23   6324	*	3828	4350	*	*	*	*	889	*	*	*	3804	*	2244	4464	*	*	*	*	23
+       0	*	*	*	*	*	*	2568	0	0	
+
+E 24   5849	*	2085	928	*	6471	*	*	3730	*	*	3955	*	*	*	5320	4464	*	*	*	24
+       0	*	*	*	*	*	*	2568	0	0	
+
+E 25   *	*	3712	801	*	*	*	*	4771	*	*	*	*	3409	3260	*	5011	3582	*	*	25
+       0	*	*	*	*	*	*	2568	0	0	
+
+I 26   4850	4859	*	*	*	*	*	1750	3584	*	5739	*	*	5005	4689	5749	6219	1219	*	*	26
+       0	*	*	*	*	*	*	2568	0	0	
+
+I 27   4017	*	4464	3886	5797	*	*	3401	3573	3040	3012	5596	*	4569	4329	*	3551	2433	*	*	27
+       0	*	*	*	*	*	*	2568	0	0	
+
+Q 28   5918	*	*	2826	*	*	*	4238	2073	*	*	4644	*	3281	1460	*	4464	*	*	*	28
+       0	*	*	*	*	*	*	2568	0	0	
+
+L 29   *	*	*	*	*	*	*	2144	*	584	3720	*	*	*	*	*	*	*	5025	*	29
+       0	*	*	*	*	*	*	2568	0	0	
+
+K 30   *	*	*	*	*	*	*	*	67	*	*	*	*	*	4464	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2568	0	0	
+
+Q 31   5302	*	*	*	*	*	*	*	3711	*	*	4689	*	401	4771	4859	*	*	*	5005	31
+       0	*	*	*	*	*	*	2568	0	0	
+
+R 32   *	*	*	5005	*	*	*	3772	1664	*	*	*	*	*	786	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2568	0	0	
+
+R 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2568	0	0	
+
+R 34   *	*	*	*	*	*	*	*	*	*	*	*	5515	*	32	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2568	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	4418	*	*	*	*	*	4464	139	*	*	*	35
+       0	*	*	*	*	*	*	2568	0	0	
+
+L 36   *	*	*	*	*	*	*	4888	*	50	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2568	0	0	
+
+K 37   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2568	0	0	
+
+N 38   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2568	0	0	
+
+R 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2568	0	0	
+
+G 40   *	*	*	4238	*	161	*	*	5011	*	*	*	*	*	*	*	5522	*	*	*	40
+       0	*	*	*	*	*	*	2568	0	0	
+
+Y 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	41
+       0	*	*	0	*	*	*	2568	0	0	
+
+//

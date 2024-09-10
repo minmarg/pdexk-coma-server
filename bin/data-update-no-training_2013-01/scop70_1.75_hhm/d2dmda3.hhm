@@ -1,0 +1,125 @@
+HHsearch 1.5
+NAME  d2dmda3 g.37.1.1 (A:62-90) Zinc finger protein 64, ZFP68 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2dmda3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2dmda3.a3m -v 1 
+DATE  Tue Jan 22 06:24:26 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CCCEECCCCCCCCCCCCEEEEEEEECCCC
+>ss_conf
+98600112365678753478988302589
+>Consensus
+erpxkcqxcsyaxrxssqlxvhlrxhtgd
+>d2dmda3 g.37.1.1 (A:62-90) Zinc finger protein 64, ZFP68 {Human (Homo sapiens) [TaxId: 9606]}
+ERPFKCQICPYASRNSSQLTVHLRSHTGD
+>gi|242019398|ref|XP_002430148.1|(182-210:481) zinc finger protein, putative [Pediculus humanus corporis] >gi|212515239|gb|EEB17410.1| zinc finger protein, putative [Pediculus humanus corporis]  E=1e-06 s/c=1.94 id=77% cov=103%
+ERPFKCQLCSYRARDSSQLTVHLRTHTGD
+>gi|241560959|ref|XP_002401018.1|(95-123:247) zinc finger protein, putative [Ixodes scapularis] >gi|215499800|gb|EEC09294.1| zinc finger protein, putative [Ixodes scapularis]  E=5e-06 s/c=1.87 id=77% cov=103%
+EKPFKCQLCSFAGRNSSQLSVHLRSHTGD
+>gi|291237262|ref|XP_002738554.1|(259-287:845) PREDICTED: zinc finger protein 64-like, partial [Saccoglossus kowalevskii]  E=8e-07 s/c=1.97 id=90% cov=103%
+ERPFKCQICNYASRNSSQLVVHLRSHTGD
+>gi|301754355|ref|XP_002913041.1|(530-558:792) PREDICTED: zinc finger protein 64 homolog, isoforms 3 and 4-like [Ailuropoda melanoleuca]  E=3e-06 s/c=1.90 id=90% cov=103%
+ERPYKCQLCPYASRNSSQLTVHLRSHTGD
+>gi|390339082|ref|XP_003724924.1|(208-236:850) PREDICTED: zinc finger and BTB domain-containing protein 48-like [Strongylocentrotus purpuratus]  E=3e-06 s/c=1.89 id=73% cov=103%
+DRPYQCQLCSYASRNSSQLVVHLRRHTGD
+>gi|219911521|emb|CAX11686.1|(261-289:471) zinc finger protein [Nilaparvata lugens]   E=1e-05 s/c=1.82 id=80% cov=103%
+ERPFKCQFCSYCSRDSSQLTVHLRRHTGD
+>gi|405950068|gb|EKC18075.1|(222-250:518) Zinc finger protein 64-like protein, isoforms 1 and 2 [Crassostrea gigas]  E=0.0001 s/c=1.70 id=63% cov=103%
+DKPIKCQTCSYACRTTSQLVVHLRKHTGD
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	1775	499	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1439	0	0	
+
+R 2    *	*	*	*	*	*	*	*	1732	*	*	*	*	*	517	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1439	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1439	0	0	
+
+F 4    *	*	*	*	734	*	*	2597	*	*	*	*	*	*	*	*	*	*	*	2098	4
+       0	*	*	*	*	*	*	1439	0	0	
+
+K 5    *	*	*	*	*	*	*	*	196	*	*	*	*	2978	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1439	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1439	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1439	0	0	
+
+I 8    *	*	*	*	3041	*	*	2201	*	1012	*	*	*	*	*	*	2597	*	*	*	8
+       0	*	*	*	*	*	*	1439	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1439	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	3157	2237	*	*	565	*	*	*	*	10
+       0	*	*	*	*	*	*	1439	0	0	
+
+Y 11   *	*	*	*	2880	*	*	*	*	*	*	*	*	*	*	*	*	*	*	211	11
+       0	*	*	*	*	*	*	1439	0	0	
+
+A 12   411	3041	*	*	*	*	*	*	*	*	*	*	*	*	2986	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1439	0	0	
+
+S 13   2986	2597	*	*	*	2880	*	*	*	*	*	*	*	*	*	804	*	*	*	*	13
+       0	*	*	*	*	*	*	1439	0	0	
+
+R 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1439	0	0	
+
+N 15   *	*	2013	*	*	*	*	*	*	*	*	768	*	*	*	*	2597	*	*	*	15
+       0	*	*	*	*	*	*	1439	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	261	2597	*	*	*	16
+       0	*	*	*	*	*	*	1439	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	17
+       0	*	*	*	*	*	*	1439	0	0	
+
+Q 18   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1439	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1439	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2880	1121	1306	*	*	20
+       0	*	*	*	*	*	*	1439	0	0	
+
+V 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	21
+       0	*	*	*	*	*	*	1439	0	0	
+
+H 22   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1439	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1439	0	0	
+
+R 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1439	0	0	
+
+S 25   *	*	*	*	*	*	*	*	2597	*	*	*	*	*	2009	1120	2986	*	*	*	25
+       0	*	*	*	*	*	*	1439	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1439	0	0	
+
+T 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	27
+       0	*	*	*	*	*	*	1439	0	0	
+
+G 28   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1439	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1439	0	0	
+
+//

@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d2e74d2 f.23.12.1 (D:12-45) ISP subunit from the cytochrome b6f complex, transmembrane anchor {Mastigocladus laminosus [TaxId: 83541]}
+FAM   f.23.12.1
+FILE  d2e74d2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2e74d2.a3m -v 1 
+DATE  Tue Jan 22 06:44:10 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+9327899999988878999999999999750699
+>Consensus
+dmGrRQFmnlLtfgtxtgxalGxlyPvvxyfiPP
+>d2e74d2 f.23.12.1 (D:12-45) ISP subunit from the cytochrome b6f complex, transmembrane anchor {Mastigocladus laminosus [TaxId: 83541]}
+DMGRRQFMNLLAFGTVTGVALGALYPLVKYFIPP
+>gi|254425052|ref|ZP_05038770.1|(12-45:179) Cytochrome B6-F complex Fe-S subunit family [Synechococcus sp. PCC 7335] >gi|196192541|gb|EDX87505.1| Cytochrome B6-F complex Fe-S subunit family [Synechococcus sp. PCC 7335]  E=9e-10 s/c=1.96 id=77% cov=103%
+DLGRRQFMNLLTFGTITGTALGAAYPIIKYFIPP
+>gi|158337569|ref|YP_001518744.1|(12-45:179) cytochrome b6-f complex iron-sulfur subunit [Acaryochloris marina MBIC11017] >gi|158307810|gb|ABW29427.1| cytochrome b6f complex Rieske iron-sulfur subunit PetC [Acaryochloris marina MBIC11017]  E=2e-09 s/c=1.94 id=77% cov=103%
+DMGRRQFMNLLTFGAITGTALGGLYPVVRYFIPP
+>gi|119491405|ref|ZP_01623424.1|(12-44:179) cytochrome b6-f complex iron-sulfur subunit [Lyngbya sp. PCC 8106] >gi|119453400|gb|EAW34563.1| cytochrome b6-f complex iron-sulfur subunit [Lyngbya sp. PCC 8106]  E=4e-09 s/c=1.96 id=79% cov=100%
+DMGRRQFMNLLTFGSATGVALGVLYPFVKYFVP-
+>gi|170078514|ref|YP_001735152.1|(12-45:180) cytochrome b6-f complex iron-sulfur subunit [Synechococcus sp. PCC 7002] >gi|136713|sp|P26292.1|UCRI_SYNP2 RecName: Full=Cytochrome b6-f complex iron-sulfur subunit; AltName: Full=Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein; Short=ISP; Short=RISP; AltName: Full=Rieske iron-sulfur protein >gi|142186|gb|AAA22069.1| Reiske iron-sulfur protein [Synechococcus sp. PCC 7002] >gi|169886183|gb|ACA99896.1| Rieske FeS protein [Synechococcus sp. PCC 7002] >gi|444316|prf||1906365A Rieske FeS protein  E=6e-08 s/c=1.79 id=69% cov=103%
+DLGRRQFLNLLWVGTAAGTALGGLYPVIKYFIPP
+>gi|33239912|ref|NP_874854.1|(12-43:178) cytochrome b6-f complex iron-sulfur subunit [Prochlorococcus marinus subsp. marinus str. CCMP1375] >gi|68566136|sp|Q7VDC0.1|UCRI_PROMA RecName: Full=Cytochrome b6-f complex iron-sulfur subunit; AltName: Full=Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein; Short=ISP; Short=RISP; AltName: Full=Rieske iron-sulfur protein >gi|33237438|gb|AAP99506.1| Cytochrome b6/f complex subunit [Prochlorococcus marinus subsp. marinus str. CCMP1375]  E=6e-07 s/c=1.79 id=76% cov=97%
+-MGRRQFMNLLTFGTATGVALGALYPVANFFMP-
+>gi|411119165|ref|ZP_11391545.1|(12-45:179) Rieske Fe-S protein [Oscillatoriales cyanobacterium JSC-12] >gi|410711028|gb|EKQ68535.1| Rieske Fe-S protein [Oscillatoriales cyanobacterium JSC-12]  E=7e-07 s/c=1.68 id=69% cov=103%
+DMGRRQFMNLLMVGTGAGTVLGMLYPVINYFIPP
+>gi|428219285|ref|YP_007103750.1|(12-45:179) Cytochrome b6-f complex iron-sulfur subunit [Pseudanabaena sp. PCC 7367] >gi|427991067|gb|AFY71322.1| Cytochrome b6-f complex iron-sulfur subunit [Pseudanabaena sp. PCC 7367]  E=2e-06 s/c=1.64 id=63% cov=103%
+DMGRRQFMNLLMWSSAGATALGGLYPVVNYFVPP
+>gi|428223258|ref|YP_007107428.1|(12-44:178) Rieske Fe-S protein [Synechococcus sp. PCC 7502] >gi|427996598|gb|AFY75293.1| Rieske Fe-S protein [Synechococcus sp. PCC 7502]  E=2e-05 s/c=1.60 id=65% cov=100%
+-MGRRQFMNVLLGGAVGTTVLGALYPVVQYFVPP
+>gi|428015385|gb|AFY91479.1|(12-43:179) Rieske Fe-S protein [Chamaesiphon minutus PCC 6605]   E=6e-08 s/c=1.88 id=70% cov=97%
+DLGRRQFMNLLTFGTITGMVLGAAYPFVAYFV--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1550	0	0	
+
+M 2    *	*	*	*	*	*	*	4360	*	1833	576	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1627	0	0	
+
+G 3    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1627	0	0	
+
+R 4    4438	*	*	*	*	*	*	*	*	*	*	*	*	*	68	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1627	0	0	
+
+R 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1627	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1627	0	0	
+
+F 7    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1627	0	0	
+
+M 8    *	*	*	*	*	*	*	*	*	4115	86	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1627	0	0	
+
+N 9    *	*	*	*	*	*	*	*	*	*	*	72	*	*	*	*	4360	*	*	*	9
+       0	*	*	*	*	*	*	1627	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	109	*	*	*	*	*	*	*	3781	*	*	10
+       0	*	*	*	*	*	*	1627	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1627	0	0	
+
+A 12   3980	*	*	*	*	*	*	*	*	3781	3095	*	*	*	*	*	537	*	4115	*	12
+       0	*	*	*	*	*	*	1627	0	0	
+
+F 13   *	*	*	*	410	3781	*	*	*	*	*	*	*	*	*	*	*	3235	3867	*	13
+       0	*	*	*	*	*	*	1627	0	0	
+
+G 14   *	*	*	*	*	102	*	*	*	*	*	*	*	*	*	3867	*	*	*	*	14
+       0	*	*	*	*	*	*	1627	0	0	
+
+T 15   2045	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2395	817	*	*	*	15
+       0	*	*	*	*	*	*	1627	0	0	
+
+V 16   1678	*	*	*	*	4367	*	1926	*	*	*	*	*	*	*	*	*	1412	*	*	16
+       0	*	*	*	*	*	*	1627	0	0	
+
+T 17   3235	*	*	*	*	2823	*	*	*	*	*	*	*	*	*	*	410	*	*	*	17
+       0	*	*	*	*	*	*	1627	0	0	
+
+G 18   3867	*	*	*	*	220	*	*	*	*	*	*	*	*	*	*	3781	*	*	*	18
+       0	*	*	*	*	*	*	1627	0	0	
+
+V 19   *	*	*	*	*	*	*	*	*	*	4251	*	*	*	*	*	933	1239	*	*	19
+       0	*	*	*	*	*	*	1627	0	0	
+
+A 20   435	*	*	*	4624	*	*	*	*	*	*	*	*	*	*	*	*	2185	*	*	20
+       0	*	*	*	*	*	*	1627	0	0	
+
+L 21   3048	*	*	*	*	*	*	*	*	322	*	*	*	*	*	*	*	3657	*	*	21
+       0	*	*	*	*	*	*	1627	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1627	0	0	
+
+A 23   772	*	*	*	*	2445	*	*	*	*	3024	*	*	*	*	5008	*	3703	*	*	23
+       0	*	*	*	*	*	*	1627	0	0	
+
+L 24   3493	*	*	*	*	*	*	*	*	134	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1627	0	0	
+
+Y 25   *	*	*	*	4489	*	*	*	*	*	*	*	*	*	*	*	*	*	*	66	25
+       0	*	*	*	*	*	*	1627	0	0	
+
+P 26   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1627	0	0	
+
+L 27   4345	*	*	*	3560	*	*	3113	*	4939	*	*	*	*	*	*	*	478	*	*	27
+       0	*	*	*	*	*	*	1627	0	0	
+
+V 28   3249	*	*	*	*	*	*	2529	*	*	*	*	*	*	*	*	*	471	*	*	28
+       0	*	*	*	*	*	*	1627	0	0	
+
+K 29   4251	*	*	*	*	*	*	*	1093	*	*	2234	*	2905	2915	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1627	0	0	
+
+Y 30   *	*	*	*	3818	*	*	*	*	*	*	*	*	*	*	*	*	*	*	106	30
+       0	*	*	*	*	*	*	1627	0	0	
+
+F 31   *	*	*	*	73	*	*	*	*	4345	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1627	0	0	
+
+I 32   *	*	*	*	*	*	*	599	*	4691	4612	*	*	*	*	*	4867	2145	*	*	32
+       0	*	*	*	*	*	*	1627	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1612	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	0	*	*	*	1574	0	0	
+
+//

@@ -1,0 +1,418 @@
+HHsearch 1.5
+NAME  d3seba1 b.40.2.2 (A:1-121) Staphylococcal enterotoxin B, SEB {Staphylococcus aureus [TaxId: 1280]}
+FAM   b.40.2.2
+FILE  d3seba1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d3seba1.a3m -v 1 
+DATE  Tue Jan 22 08:53:17 2013
+LENG  121 match states, 121 columns in multiple alignment
+FILT  32 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.7 
+SEQ
+>ss_pred
+CCCCCCCHHHHHHHHCCHHHHHHHHHHHCCCCCCEEEEECHHHHHCCCEEECCCCCCCCCCCEEEEEECCHHHHHHCCCCEEEEEEECCEEEEEECCCCC
+CCCCCCCCCCCEEEECCCCCC
+>ss_conf
+9888879677332210011688888751577511000000111110000221367674553302454244478875089703776412215666534433
+223687777733441773489
+>Consensus
+exqxdpkxxxLxkkSexxxxlxNxxxxYxxxxvxxeNvksxdqfLxxdLIfxxxxxxxxxyxxlkvEfxnxxlAxkfKxKxVDIyGxxYxxxCxxxxxxx
+xxxxgxxxxktxCmYGGVTxH
+>d3seba1 b.40.2.2 (A:1-121) Staphylococcal enterotoxin B, SEB {Staphylococcus aureus [TaxId: 1280]}
+ESQPDPKPDELHKSSKFTGLMENMKVLYDDNHVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNKDLADKYKDKYVDVFGANYYYQCYFSKKTN
+DINSHQTDKRKTCMYGGVTEH
+>gi|50914087|ref|YP_060059.1|(35-141:256) SpeA variant [Streptococcus pyogenes MGAS10394] >gi|50903161|gb|AAT86876.1| SpeA variant [Streptococcus pyogenes MGAS10394]  E=2e-18 s/c=0.90 id=45% cov=89%
+-AQQDPNPSQLHRSSLVKNL-QNIYFLYEGDPVVHENVKSVDQLLSHDLIYNVSGL---NYDKLKTELKNREMSTLFKNKNVDIYGVEYYYHCYLCRNA-
+--------KRRACIYGGVTNH
+>gi|15924814|ref|NP_372348.1|(25-139:258) extracellular enterotoxin type G [Staphylococcus aureus subsp. aureus Mu50] >gi|15927398|ref|NP_374931.1| extracellular enterotoxin type G [Staphylococcus aureus subsp. aureus N315] >gi|148268297|ref|YP_001247240.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus subsp. aureus JH9] >gi|150394359|ref|YP_001317034.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus subsp. aureus JH1] >gi|156980140|ref|YP_001442399.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus Mu3] >gi|253315192|ref|ZP_04838405.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus str. CF-Marseille] >gi|255006612|ref|ZP_05145213.2| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus Mu50-omega] >gi|257793816|ref|ZP_05642795.1| extracellular enterotoxin type G precursor [Staphylococcus aureus A9781] >gi|258415904|ref|ZP_05682175.1| extracellular enterotoxin type G [Staphylococcus aureus A9763] >gi|258420738|ref|ZP_05683677.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9719] >gi|258423102|ref|ZP_05685996.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9635] >gi|258438401|ref|ZP_05689685.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9299] >gi|258443846|ref|ZP_05692185.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A8115] >gi|258447301|ref|ZP_05695448.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6300] >gi|258448216|ref|ZP_05696343.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6224] >gi|258454257|ref|ZP_05702228.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937] >gi|269203459|ref|YP_003282728.1| staphylococcal enterotoxin G [Staphylococcus aureus subsp. aureus ED98] >gi|282893317|ref|ZP_06301551.1| extracellular enterotoxin type G precursor [Staphylococcus aureus A8117] >gi|282928559|ref|ZP_06336158.1| enterotoxin [Staphylococcus aureus A10102] >gi|295406131|ref|ZP_06815939.1| staphylococcal enterotoxin [Staphylococcus aureus A8819] >gi|296277025|ref|ZP_06859532.1| enterotoxin G [Staphylococcus aureus subsp. aureus MR1] >gi|297244945|ref|ZP_06928822.1| staphylococcal enterotoxin [Staphylococcus aureus A8796] >gi|384865029|ref|YP_005750388.1| staphylococcal/Streptococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|386831411|ref|YP_006238065.1| enterotoxin [Staphylococcus aureus subsp. aureus HO 5096 0412] >gi|415691707|ref|ZP_11453797.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus CGS03] >gi|417650958|ref|ZP_12300721.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21172] >gi|417653629|ref|ZP_12303359.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21193] >gi|417800004|ref|ZP_12447135.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21310] >gi|417802058|ref|ZP_12449131.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21318] >gi|417891203|ref|ZP_12535269.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21200] >gi|417893384|ref|ZP_12537415.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21201] >gi|418307368|ref|ZP_12919088.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21194] >gi|418425005|ref|ZP_12998111.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS1] >gi|418427957|ref|ZP_13000957.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS2] >gi|418430796|ref|ZP_13003703.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS3a] >gi|418434459|ref|ZP_13006535.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS4] >gi|418437439|ref|ZP_13009230.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS5] >gi|418440338|ref|ZP_13012034.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS6] >gi|418443349|ref|ZP_13014947.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS7] >gi|418446418|ref|ZP_13017888.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS8] >gi|418449441|ref|ZP_13020821.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS9] >gi|418452242|ref|ZP_13023574.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS10] >gi|418455242|ref|ZP_13026497.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS11a] >gi|418458117|ref|ZP_13029313.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS11b] >gi|418560183|ref|ZP_13124704.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21252] >gi|418566874|ref|ZP_13131240.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21272] >gi|418638848|ref|ZP_13201123.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-3] >gi|418652673|ref|ZP_13214637.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-99] >gi|418655457|ref|ZP_13217313.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-105] >gi|418661065|ref|ZP_13222668.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-122] >gi|418878742|ref|ZP_13432976.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1165] >gi|418881510|ref|ZP_13435726.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1213] >gi|418884325|ref|ZP_13438517.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1769] >gi|418887081|ref|ZP_13441226.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1150] >gi|418889612|ref|ZP_13443745.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1524] >gi|418894852|ref|ZP_13448948.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1057] >gi|418914913|ref|ZP_13468883.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC340D] >gi|418920849|ref|ZP_13474780.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC348] >gi|418932142|ref|ZP_13485974.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1750] >gi|418994535|ref|ZP_13542170.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG290] >gi|419784759|ref|ZP_14310521.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-M] >gi|424771156|ref|ZP_18198310.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CM05] >gi|60392249|sp|P0A0L6.1|ETXG_STAAM RecName: Full=Enterotoxin type G; AltName: Full=SEG; Flags: Precursor >gi|60392250|sp|P0A0L7.1|ETXG_STAAN RecName: Full=Enterotoxin type G; AltName: Full=SEG; Flags: Precursor >gi|60392251|sp|P0A0L8.1|ETXG_STAAU RecName: Full=Enterotoxin type G; AltName: Full=SEG; Flags: Precursor >gi|3323611|gb|AAC26660.1| extracellular enterotoxin type G precursor [Staphylococcus aureus] >gi|13701617|dbj|BAB42910.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus N315] >gi|14247596|dbj|BAB57986.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus Mu50] >gi|58397430|gb|AAP78529.2| enterotoxin type G precursor [Staphylococcus aureus] >gi|59895887|gb|AAX11323.1| enterotoxin type G precursor [Staphylococcus aureus] >gi|147741366|gb|ABQ49664.1| toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus JH9] >gi|149946811|gb|ABR52747.1| toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus JH1] >gi|156722275|dbj|BAF78692.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus Mu3] >gi|257787788|gb|EEV26128.1| extracellular enterotoxin type G precursor [Staphylococcus aureus A9781] >gi|257839497|gb|EEV63970.1| extracellular enterotoxin type G [Staphylococcus aureus A9763] >gi|257843342|gb|EEV67752.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9719] >gi|257846666|gb|EEV70686.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9635] >gi|257848445|gb|EEV72436.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A9299] >gi|257851252|gb|EEV75195.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A8115] >gi|257853888|gb|EEV76844.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6300] >gi|257858455|gb|EEV81331.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6224] >gi|257863709|gb|EEV86466.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937] >gi|262075749|gb|ACY11722.1| staphylococcal enterotoxin G [Staphylococcus aureus subsp. aureus ED98] >gi|282589768|gb|EFB94853.1| enterotoxin [Staphylococcus aureus A10102] >gi|282764635|gb|EFC04761.1| extracellular enterotoxin type G precursor [Staphylococcus aureus A8117] >gi|294969128|gb|EFG45149.1| staphylococcal enterotoxin [Staphylococcus aureus A8819] >gi|297178025|gb|EFH37273.1| staphylococcal enterotoxin [Staphylococcus aureus A8796] >gi|312830196|emb|CBX35038.1| staphylococcal/Streptococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|315130535|gb|EFT86521.1| extracellular enterotoxin type G precursor [Staphylococcus aureus subsp. aureus CGS03] >gi|329727142|gb|EGG63598.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21172] >gi|329732974|gb|EGG69318.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21193] >gi|334272269|gb|EGL90636.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21310] >gi|334275639|gb|EGL93925.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21318] >gi|341852580|gb|EGS93468.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21200] >gi|341855047|gb|EGS95903.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21201] >gi|365245723|gb|EHM86332.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21194] >gi|371972726|gb|EHO90099.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21252] >gi|371983346|gb|EHP00492.1| enterotoxin type G [Staphylococcus aureus subsp. aureus 21272] >gi|375020325|gb|EHS13861.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-3] >gi|375021243|gb|EHS14747.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-99] >gi|375036935|gb|EHS29995.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-105] >gi|375039644|gb|EHS32566.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-122] >gi|377693628|gb|EHT17998.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1165] >gi|377695340|gb|EHT19702.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1057] >gi|377712243|gb|EHT36463.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1750] >gi|377714152|gb|EHT38356.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1769] >gi|377723960|gb|EHT48079.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1150] >gi|377730851|gb|EHT54917.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1213] >gi|377744332|gb|EHT68310.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG290] >gi|377753120|gb|EHT77038.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIG1524] >gi|377755569|gb|EHT79468.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC340D] >gi|377763704|gb|EHT87559.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC348] >gi|383363728|gb|EID41055.1| enterotoxin type G [Staphylococcus aureus subsp. aureus IS-M] >gi|385196803|emb|CCG16440.1| enterotoxin [Staphylococcus aureus subsp. aureus HO 5096 0412] >gi|387717220|gb|EIK05237.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS2] >gi|387717468|gb|EIK05479.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS3a] >gi|387718335|gb|EIK06314.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS1] >gi|387724329|gb|EIK11989.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS4] >gi|387726441|gb|EIK13999.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS5] >gi|387729521|gb|EIK16957.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS6] >gi|387734306|gb|EIK21461.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS8] >gi|387736051|gb|EIK23160.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS9] >gi|387736422|gb|EIK23518.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS7] >gi|387743885|gb|EIK30668.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS11a] >gi|387743989|gb|EIK30767.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS10] >gi|387745920|gb|EIK32667.1| enterotoxin type G [Staphylococcus aureus subsp. aureus VRS11b] >gi|402347873|gb|EJU82886.1| enterotoxin type G [Staphylococcus aureus subsp. aureus CM05] >gi|408423888|emb|CCJ11299.1| Toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus ST228] >gi|408425877|emb|CCJ13264.1| Toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus ST228] >gi|408427865|emb|CCJ15228.1| Toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus ST228] >gi|408429854|emb|CCJ27019.1| Toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus ST228] >gi|408431840|emb|CCJ19155.1| Enterotoxin type G [Staphylococcus aureus subsp. aureus ST228] >gi|408433835|emb|CCJ21120.1| Enterotoxin type G [Staphylococcus aureus subsp. aureus ST228] >gi|408435827|emb|CCJ23087.1| Enterotoxin type G [Staphylococcus aureus subsp. aureus ST228] >gi|408437810|emb|CCJ25053.1| Enterotoxin type G [Staphylococcus aureus subsp. aureus ST228]  E=5e-15 s/c=0.73 id=45% cov=93%
+-AQPDPKLDELNKVSDYknnKGTMGNVMNLYTSPPVEGRGVINSRQFLSHDLIFPI---EYKSYNEVKTELENTELANNYKDKKVDIFGVPYFYTCIIPK
+SEPDINQNFGG---CCMYGGLT--
+>gi|11527264|gb|AAG36951.1|AF285760_1(31-145:261) SEO [Staphylococcus aureus]   E=0.0004 s/c=0.42 id=34% cov=91%
+--EEDPKIESLCKKSSVDPIaLHNINDDYINNRFTTVKsiVSTTEKFLDFDLLFkSINwlDGISAEFKDLKVEFSSSAISKEFLGKTVDIYGVYYKAHCH
+--------GEHQVD--TACTYGGVTPH
+>gi|16579859|gb|AAL26674.1|(25-143:259) enterotoxin-like protein [Staphylococcus aureus]   E=3e-32 s/c=1.18 id=41% cov=98%
+ETQNDPNISELNKSSQYTGSWHNIWYLYNSDPVNAKKIKLSDKFLSHEFIVPINNPSH--YDYVKTELKDSTMASSFDGKEVDIFGVNYFDQCYFLNENI
+QCDSNQgAGSKKTCMYGGITL-
+>gi|253729730|ref|ZP_04863895.1|(29-141:260) enterotoxin P [Staphylococcus aureus subsp. aureus USA300_TCH959] >gi|253726538|gb|EES95267.1| enterotoxin P [Staphylococcus aureus subsp. aureus USA300_TCH959]  E=2e-29 s/c=1.16 id=35% cov=93%
+EKSEEINGKDLQKKSELQGTaLSNLRQTYYHNGSAiIENKESNDQFLKNTILFNDFFTGHQWYNDLLVDLGSKDTANIYKGKKVDLYGVYYGYQC-----
+-----TGGTPFKTACMYGGVTLH
+>gi|166409298|dbj|BAG06667.1|(35-143:257) enterotoxin S [Staphylococcus aureus]   E=3e-23 s/c=1.02 id=33% cov=88%
+-----PKIESLKKKSELdSTALYNIKTSYSQDNIilDIKNKTNSTQLLSNDLIFDDITLKEWNKNSLKTEFNSSEIANHFKGKKVDIFGIYYGANCI---
+-------GEVSKRTGCIYGGITLH
+>gi|418574264|ref|ZP_13138436.1|(9-109:168) toxin, OB domain protein [Staphylococcus aureus subsp. aureus 21333] >gi|371979713|gb|EHO96938.1| toxin, OB domain protein [Staphylococcus aureus subsp. aureus 21333]  E=2e-17 s/c=0.91 id=33% cov=83%
+------KAEDLHDKSELSDLaLANAYGQYNHPFIK-ENVISSEIIGEKDLIFRNQGD---NGNDLRVKFASAGLAQNFKNKNVDIYGASFYYKCEKVSEN
+I----------SECLYGGTTL-
+>gi|379796181|ref|YP_005326180.1|(25-134:251) enterotoxin [Staphylococcus aureus subsp. aureus MSHR1132] >gi|356873172|emb|CCE59511.1| enterotoxin [Staphylococcus aureus subsp. aureus MSHR1132]  E=2e-16 s/c=0.81 id=33% cov=89%
+----DVDKNDLKKKSDLDSSkLFNLTSYYTDitWQLEKSNVISSDQLLNNTIIFKNIVIAELNTSSLKVEFNSLDLANQYKGSNVDIFGLYYGNKCV---
+-------GLHGEKTSCLYGGVTIH
+>gi|15924592|ref|NP_372126.1|(51-152:157) hypothetical protein SAV1602 [Staphylococcus aureus subsp. aureus Mu50] >gi|15927182|ref|NP_374715.1| hypothetical protein SA1430 [Staphylococcus aureus subsp. aureus N315] >gi|148268084|ref|YP_001247027.1| toxin OB-fold domain-containing protein [Staphylococcus aureus subsp. aureus JH9] >gi|156979920|ref|YP_001442179.1| hypothetical protein SAHV_1589 [Staphylococcus aureus subsp. aureus Mu3] >gi|255006387|ref|ZP_05144988.2| hypothetical protein SauraM_07960 [Staphylococcus aureus subsp. aureus Mu50-omega] >gi|258420173|ref|ZP_05683128.1| enterotoxin family protein [Staphylococcus aureus A9719] >gi|258443639|ref|ZP_05691978.1| toxin OB domain-containing protein [Staphylococcus aureus A8115] >gi|258453578|ref|ZP_05701556.1| conserved hypothetical protein [Staphylococcus aureus A5937] >gi|282893103|ref|ZP_06301337.1| hypothetical protein SGAG_00457 [Staphylococcus aureus A8117] >gi|296276594|ref|ZP_06859101.1| hypothetical protein SauraMR_09604 [Staphylococcus aureus subsp. aureus MR1] >gi|387150745|ref|YP_005742309.1| hypothetical protein SA2981_1560 [Staphylococcus aureus 04-02981] >gi|415692721|ref|ZP_11454641.1| hypothetical protein CGSSa03_02308 [Staphylococcus aureus subsp. aureus CGS03] >gi|418424750|ref|ZP_12997864.1| hypothetical protein MQA_00598 [Staphylococcus aureus subsp. aureus VRS1] >gi|418427744|ref|ZP_13000749.1| hypothetical protein MQC_00553 [Staphylococcus aureus subsp. aureus VRS2] >gi|418430587|ref|ZP_13003497.1| hypothetical protein MQE_02215 [Staphylococcus aureus subsp. aureus VRS3a] >gi|418433729|ref|ZP_13006321.1| hypothetical protein MQG_01288 [Staphylococcus aureus subsp. aureus VRS4] >gi|418437224|ref|ZP_13009020.1| hypothetical protein MQI_01308 [Staphylococcus aureus subsp. aureus VRS5] >gi|418440124|ref|ZP_13011825.1| hypothetical protein MQK_01163 [Staphylococcus aureus subsp. aureus VRS6] >gi|418443142|ref|ZP_13014741.1| hypothetical protein MQM_01255 [Staphylococcus aureus subsp. aureus VRS7] >gi|418446206|ref|ZP_13017679.1| hypothetical protein MQO_01991 [Staphylococcus aureus subsp. aureus VRS8] >gi|418449220|ref|ZP_13020605.1| hypothetical protein MQQ_02636 [Staphylococcus aureus subsp. aureus VRS9] >gi|418452031|ref|ZP_13023365.1| hypothetical protein MQS_00509 [Staphylococcus aureus subsp. aureus VRS10] >gi|418455025|ref|ZP_13026284.1| hypothetical protein MQU_01140 [Staphylococcus aureus subsp. aureus VRS11a] >gi|418457903|ref|ZP_13029102.1| hypothetical protein MQW_01420 [Staphylococcus aureus subsp. aureus VRS11b] >gi|424768936|ref|ZP_18196173.1| OB-fold domain protein [Staphylococcus aureus subsp. aureus CM05] >gi|13701400|dbj|BAB42694.1| SA1430 [Staphylococcus aureus subsp. aureus N315] >gi|14247373|dbj|BAB57764.1| hypothetical protein [Staphylococcus aureus subsp. aureus Mu50] >gi|147741153|gb|ABQ49451.1| toxin, OB-fold domain protein [Staphylococcus aureus subsp. aureus JH9] >gi|156722055|dbj|BAF78472.1| hypothetical protein SAHV_1589 [Staphylococcus aureus subsp. aureus Mu3] >gi|257843884|gb|EEV68278.1| enterotoxin family protein [Staphylococcus aureus A9719] >gi|257851045|gb|EEV74988.1| toxin OB domain-containing protein [Staphylococcus aureus A8115] >gi|257864309|gb|EEV87059.1| conserved hypothetical protein [Staphylococcus aureus A5937] >gi|282764421|gb|EFC04547.1| hypothetical protein SGAG_00457 [Staphylococcus aureus A8117] >gi|285817284|gb|ADC37771.1| hypothetical protein SA2981_1560 [Staphylococcus aureus 04-02981] >gi|315129881|gb|EFT85871.1| hypothetical protein CGSSa03_02308 [Staphylococcus aureus subsp. aureus CGS03] >gi|387718032|gb|EIK06027.1| hypothetical protein MQC_00553 [Staphylococcus aureus subsp. aureus VRS2] >gi|387718099|gb|EIK06093.1| hypothetical protein MQE_02215 [Staphylococcus aureus subsp. aureus VRS3a] >gi|387719529|gb|EIK07474.1| hypothetical protein MQA_00598 [Staphylococcus aureus subsp. aureus VRS1] >gi|387724953|gb|EIK12584.1| hypothetical protein MQG_01288 [Staphylococcus aureus subsp. aureus VRS4] >gi|387727212|gb|EIK14744.1| hypothetical protein MQI_01308 [Staphylococcus aureus subsp. aureus VRS5] >gi|387730274|gb|EIK17681.1| hypothetical protein MQK_01163 [Staphylococcus aureus subsp. aureus VRS6] >gi|387735138|gb|EIK22275.1| hypothetical protein MQO_01991 [Staphylococcus aureus subsp. aureus VRS8] >gi|387736500|gb|EIK23591.1| hypothetical protein MQQ_02636 [Staphylococcus aureus subsp. aureus VRS9] >gi|387736818|gb|EIK23906.1| hypothetical protein MQM_01255 [Staphylococcus aureus subsp. aureus VRS7] >gi|387744912|gb|EIK31676.1| hypothetical protein MQS_00509 [Staphylococcus aureus subsp. aureus VRS10] >gi|387745078|gb|EIK31840.1| hypothetical protein MQU_01140 [Staphylococcus aureus subsp. aureus VRS11a] >gi|387746671|gb|EIK33400.1| hypothetical protein MQW_01420 [Staphylococcus aureus subsp. aureus VRS11b] >gi|402348327|gb|EJU83319.1| OB-fold domain protein [Staphylococcus aureus subsp. aureus CM05]  E=8e-16 s/c=0.85 id=29% cov=84%
+--------SDLHHKSKFDSKrLSNAKMSFI-NPTQLENKNTNDRLLKHDLLFHDMFVNVASKKDFKVEFENEALSKKFINKNIDIYAGSYSYECH-----
+-----GGATNKTQCSYGGVTL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2279	0	0	
+
+S 2    1578	*	*	*	*	*	*	*	1950	*	*	*	*	*	*	1800	3071	*	*	*	2
+       0	*	*	*	*	*	*	2786	0	0	
+
+Q 3    *	*	*	2697	*	*	*	*	3499	*	*	*	*	879	*	2227	*	*	*	*	3
+       0	*	*	*	*	*	*	3044	0	0	
+
+P 4    *	*	*	1443	*	*	*	*	*	*	*	3344	1265	3087	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3044	0	0	
+
+D 5    *	*	483	2577	*	*	*	*	*	*	*	3096	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3326	0	0	
+
+P 6    *	*	*	*	*	*	*	2732	*	*	*	*	348	*	*	*	*	3971	*	*	6
+       0	*	*	*	*	*	*	3429	0	0	
+
+K 7    *	*	3698	*	*	*	*	*	888	*	*	2589	*	*	4182	*	2632	*	*	*	7
+       0	*	*	*	*	*	*	3668	0	0	
+
+P 8    3624	*	*	2791	*	5143	*	2531	3844	4471	*	*	1277	*	*	4450	*	*	*	*	8
+       0	*	*	*	*	*	*	3734	0	0	
+
+D 9    *	*	2583	1834	*	4345	*	*	2751	*	*	3608	*	*	*	1873	*	*	*	*	9
+       0	*	*	*	*	*	*	3836	0	0	
+
+E 10   *	*	1602	1763	*	*	*	*	*	*	*	5097	*	2074	*	3885	4590	*	*	*	10
+       0	*	*	*	*	*	*	3836	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3836	0	0	
+
+H 12   *	3808	*	*	*	*	1086	*	3823	*	*	1938	*	3553	4614	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3836	0	0	
+
+K 13   *	*	3741	*	*	*	3391	*	670	*	*	4590	*	*	2645	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3836	0	0	
+
+S 14   4614	*	*	*	*	*	*	*	994	*	*	5413	*	*	*	1733	4550	3475	*	*	14
+       0	*	*	*	*	*	*	3836	0	0	
+
+S 15   5413	*	*	*	*	*	*	*	*	*	*	4725	*	*	*	91	*	*	*	*	15
+       169	4345	4028	1585	585	*	*	3836	1000	0	
+
+K 16   *	*	3591	1110	*	*	*	*	2450	4057	*	*	*	2874	*	3752	*	*	*	*	16
+       0	*	*	*	*	*	0	3776	0	1494	
+
+F 17   *	*	*	*	2020	*	*	*	*	1236	*	4304	*	*	*	*	*	2896	*	2798	17
+       181	3085	*	781	1258	*	0	3776	1711	1494	
+
+T 18   *	*	2425	4511	*	*	*	*	2407	*	*	*	*	3367	*	2558	1668	*	*	*	18
+       36	5338	*	0	*	*	0	3776	1000	1494	
+
+G 19   *	*	3128	*	*	1069	*	*	*	*	*	3560	4726	*	*	2249	3719	*	*	*	19
+       0	*	*	*	*	1014	987	3776	0	1494	
+
+L 20   4160	*	*	*	*	*	*	3286	3883	1415	*	*	*	4573	*	3390	2278	4178	*	*	20
+       915	1254	4310	0	*	0	*	3807	2678	1000	
+
+M 21   *	*	*	*	*	*	*	*	*	877	1528	*	*	*	*	*	*	4295	4114	*	21
+       0	*	*	*	*	0	*	3797	0	1074	
+
+E 22   3741	*	4032	4109	4669	2243	2984	*	4725	*	*	3426	*	4339	*	3299	*	*	*	2762	22
+       0	*	*	*	*	*	*	3836	0	0	
+
+N 23   *	*	*	*	*	*	*	*	*	*	*	56	*	*	*	*	4725	*	*	*	23
+       0	*	*	*	*	*	*	3836	0	0	
+
+M 24   2831	*	*	*	4725	*	*	2271	*	1994	2064	*	*	*	*	*	*	3008	*	*	24
+       0	*	*	*	*	*	*	3836	0	0	
+
+K 25   *	*	4833	4345	*	*	*	*	1479	*	4617	4783	*	*	2185	4590	4669	*	4185	3009	25
+       0	*	*	*	*	*	*	3836	0	0	
+
+V 26   4550	4944	4783	*	4339	3741	3426	4725	4833	*	4880	3603	*	3204	*	3498	4994	3478	*	2608	26
+       0	*	*	*	*	*	*	3836	0	0	
+
+L 27   *	*	3808	*	4590	*	*	3135	*	1196	*	5082	*	3741	*	2928	5388	*	*	3697	27
+       0	*	*	*	*	*	*	3836	0	0	
+
+Y 28   *	*	*	*	3926	*	*	4725	*	*	*	*	*	*	*	*	*	*	*	158	28
+       99	4867	4974	0	*	*	*	3836	1000	0	
+
+D 29   *	*	2093	3137	3396	*	*	3599	3457	*	4820	2960	*	*	*	4977	3655	*	*	3207	29
+       133	4576	4447	1000	1000	0	*	3833	1000	1000	
+
+D 30   4516	*	2180	4578	3945	3808	2745	*	4832	*	*	3842	*	4986	4869	2859	4813	*	*	3959	30
+       103	3861	*	1000	1000	0	*	3823	1495	1000	
+
+N 31   *	*	2350	*	*	*	3935	*	3484	*	4817	1349	2816	*	*	*	*	*	3661	*	31
+       0	*	*	*	*	*	*	3833	0	0	
+
+H 32   4354	*	*	3454	2845	4575	2849	*	*	5265	*	5028	1707	4722	3240	*	*	*	*	4909	32
+       105	3837	*	1327	734	*	*	3833	1510	0	
+
+V 33   *	*	*	*	4803	*	*	2282	3172	4722	*	*	*	*	*	5490	3240	1054	*	*	33
+       88	4073	*	600	1555	*	*	3833	1509	0	
+
+S 34   3259	*	3278	3192	*	*	*	3172	3286	*	*	3502	*	4903	*	2280	3080	5404	*	*	34
+       177	4564	3773	0	*	*	*	3833	1168	0	
+
+A 35   2282	*	*	2829	4534	2805	3151	2613	4812	3879	*	*	*	*	*	5065	4109	*	*	*	35
+       61	4588	*	0	*	0	*	3739	1126	1070	
+
+I 36   *	*	*	1005	*	*	4680	3380	3594	*	*	*	*	*	4676	3031	3523	4818	*	*	36
+       33	5487	*	0	*	*	*	3839	1000	0	
+
+N 37   *	*	*	*	*	4676	*	*	2395	*	*	440	*	*	*	*	4885	*	*	*	37
+       52	4818	*	1000	1000	*	*	3839	1000	0	
+
+V 38   *	*	*	*	*	*	*	2338	1655	*	*	*	*	*	*	*	*	1045	*	*	38
+       0	*	*	*	*	*	*	3839	0	0	
+
+K 39   *	*	*	3290	*	*	*	2663	1069	4885	5153	4952	*	*	4980	3871	5057	4680	*	*	39
+       0	*	*	*	*	*	*	3839	0	0	
+
+S 40   4652	*	*	*	*	*	*	*	*	4245	*	2673	*	*	*	919	2172	*	*	*	40
+       0	*	*	*	*	*	*	3839	0	0	
+
+I 41   *	*	3361	5153	*	4925	5676	3478	4680	*	*	3141	*	4652	*	2394	2545	2860	*	4613	41
+       0	*	*	*	*	*	*	3839	0	0	
+
+D 42   *	*	709	2470	*	4980	*	*	*	*	*	4102	*	*	3510	*	5057	*	*	*	42
+       0	*	*	*	*	*	*	3839	0	0	
+
+Q 43   *	*	*	*	*	*	*	3807	2360	*	*	*	*	650	3989	4902	*	*	*	*	43
+       0	*	*	*	*	*	*	3839	0	0	
+
+F 44   *	*	*	*	807	*	*	4833	*	1486	*	*	*	*	*	4782	*	*	*	*	44
+       0	*	*	*	*	*	*	3839	0	0	
+
+L 45   *	*	*	*	*	3807	*	*	*	107	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 46   2899	*	3360	2775	*	4362	*	*	3561	*	*	4183	*	3181	*	1902	*	*	*	4150	46
+       0	*	*	*	*	*	*	3839	0	0	
+
+F 47   *	*	*	*	2915	*	1123	4885	3807	*	*	2251	*	5282	*	*	4680	*	*	5153	47
+       0	*	*	*	*	*	*	3839	0	0	
+
+D 48   *	*	514	4245	*	*	*	*	*	*	*	*	*	*	*	*	2018	*	*	*	48
+       0	*	*	*	*	*	*	3839	0	0	
+
+L 49   *	*	*	*	4245	*	*	3113	*	311	*	*	5282	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	3839	0	0	
+
+I 50   *	*	*	*	*	*	*	653	*	1458	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 51   *	*	*	*	605	*	*	*	*	5520	*	*	*	*	*	*	*	4245	*	1901	51
+       52	4818	*	0	*	*	*	3839	1000	0	
+
+S 52   *	4902	5057	*	4613	4680	3989	*	1839	*	*	2484	2538	*	3807	3446	*	*	*	*	52
+       0	*	*	*	*	*	*	3839	0	0	
+
+I 53   *	*	2455	*	*	3635	*	1434	4925	*	*	2641	*	*	*	5153	*	3255	*	4613	53
+       133	*	3510	*	*	*	*	3839	0	0	
+
+K 54   *	*	*	*	2039	*	*	2878	3316	*	3888	2834	*	3007	4670	2748	*	*	*	*	54
+       112	3744	*	1321	738	*	0	3690	1169	1344	
+
+D 55   *	*	2091	4670	2043	2098	4551	*	*	4976	*	4115	*	*	*	*	3633	4753	*	*	55
+       0	*	*	*	*	*	0	3690	0	1344	
+
+T 56   *	*	3703	*	*	3744	*	3469	4781	2816	*	*	3092	4551	*	3173	2050	3888	*	*	56
+       190	*	3022	*	*	0	*	3690	0	1344	
+
+K 57   4775	*	3684	3647	*	3791	*	4692	1797	*	*	3322	4278	4474	*	2247	*	*	*	*	57
+       129	*	3546	*	*	*	0	3762	0	1660	
+
+L 58   *	*	4771	3688	*	4041	1981	3500	*	2402	*	*	*	*	*	3001	*	3975	*	3244	58
+       194	*	2989	*	*	*	0	3652	0	1839	
+
+G 59   2896	*	3365	*	*	3611	*	4518	2318	2991	*	*	3604	3931	*	2989	*	*	4537	*	59
+       0	*	*	*	*	1434	667	3416	0	2218	
+
+N 60   *	*	*	2533	*	4367	*	*	5291	*	4506	1285	*	4943	*	3566	*	*	2726	5026	60
+       0	*	*	*	*	406	2027	3655	0	2178	
+
+Y 61   *	*	*	*	3266	4291	*	*	3399	*	*	*	*	*	*	4625	3371	*	*	706	61
+       0	*	*	*	*	0	*	3821	0	1000	
+
+D 62   *	*	1844	4925	*	4902	*	*	2180	*	*	1398	*	*	*	4183	*	*	*	*	62
+       0	*	*	*	*	*	*	3839	0	0	
+
+N 63   4680	*	1338	3510	*	*	*	4652	2860	4902	*	4150	*	*	4613	3098	*	*	*	4245	63
+       0	*	*	*	*	*	*	3839	0	0	
+
+V 64   *	*	*	*	3989	*	*	4613	*	734	*	*	*	*	*	*	*	1762	*	*	64
+       0	*	*	*	*	*	*	3839	0	0	
+
+R 65   *	*	*	*	*	*	*	*	556	2382	*	*	*	*	2969	*	*	*	*	*	65
+       0	*	*	*	*	*	*	3839	0	0	
+
+V 66   *	*	*	*	*	*	*	4925	*	*	*	*	*	*	*	4362	1303	963	*	*	66
+       0	*	*	*	*	*	*	3839	0	0	
+
+E 67   *	*	3290	441	*	*	*	*	3807	*	*	4925	*	4140	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	3839	0	0	
+
+F 68   *	*	*	*	586	*	*	*	*	1698	*	*	*	*	5282	*	*	*	*	*	68
+       0	*	*	*	*	*	*	3839	0	0	
+
+K 69   3253	*	3902	3292	*	3978	*	4362	2225	4923	*	2197	*	4680	*	3851	4613	*	*	*	69
+       0	*	*	*	*	*	*	3839	0	0	
+
+N 70   *	*	4245	*	*	*	*	*	*	*	*	1107	*	*	*	1163	4782	*	*	*	70
+       60	*	4613	*	*	*	*	3839	0	0	
+
+K 71   3771	*	*	3327	*	*	*	*	1402	4030	*	4556	*	4126	5319	2180	4574	*	*	*	71
+       0	*	*	*	*	0	*	3797	0	1000	
+
+D 72   2863	*	1572	1596	*	4833	*	*	4362	*	*	*	*	*	*	4652	4245	5700	*	*	72
+       0	*	*	*	*	*	*	3839	0	0	
+
+L 73   4584	*	*	*	*	*	*	3072	*	938	2393	*	*	*	*	*	2976	*	*	*	73
+       0	*	*	*	*	*	*	3839	0	0	
+
+A 74   631	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2082	3830	4391	*	*	74
+       0	*	*	*	*	*	*	3839	0	0	
+
+D 75   4980	*	2237	*	*	*	*	*	2597	*	*	1962	*	2859	*	3446	3255	*	*	*	75
+       0	*	*	*	*	*	*	3839	0	0	
+
+K 76   *	*	*	3851	5282	*	3989	5523	1061	3661	*	3753	*	3410	*	4245	*	*	*	4613	76
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 77   *	*	*	*	846	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1173	77
+       0	*	*	*	*	*	*	3839	0	0	
+
+K 78   *	*	4245	*	4885	*	*	3989	356	4818	*	*	*	*	4902	*	*	*	*	*	78
+       0	*	*	*	*	*	*	3839	0	0	
+
+D 79   5126	*	1563	*	*	1567	*	*	*	*	*	1929	*	*	*	4925	*	*	*	*	79
+       0	*	*	*	*	*	*	3839	0	0	
+
+K 80   *	*	*	4923	*	*	*	*	99	*	*	*	*	*	*	4910	*	*	*	*	80
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 81   *	*	3276	4245	*	*	*	*	2249	*	*	1738	*	4022	4362	4782	3352	4923	*	4150	81
+       0	*	*	*	*	*	*	3839	0	0	
+
+V 82   *	*	*	*	*	*	*	3005	*	4362	*	*	*	*	*	*	*	274	*	*	82
+       0	*	*	*	*	*	*	3839	0	0	
+
+D 83   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	83
+       0	*	*	*	*	*	*	3839	0	0	
+
+V 84   *	*	*	*	*	*	*	694	*	2245	*	*	*	*	*	*	*	2549	*	*	84
+       0	*	*	*	*	*	*	3839	0	0	
+
+F 85   *	*	*	*	1196	*	*	*	*	*	*	*	*	*	*	*	*	*	*	828	85
+       0	*	*	*	*	*	*	3839	0	0	
+
+G 86   3382	*	5282	*	*	187	*	*	*	*	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	3839	0	0	
+
+A 87   2049	*	*	*	*	3989	*	2731	*	3579	*	*	*	*	*	3430	4652	1606	*	*	87
+       0	*	*	*	*	*	*	3839	0	0	
+
+N 88   5126	*	*	3255	*	*	*	*	4613	*	*	1849	3510	*	4925	2808	*	*	*	1812	88
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 89   *	*	*	*	2919	*	*	*	*	*	*	*	*	*	*	*	*	*	*	205	89
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 90   4680	*	*	*	2463	1864	*	*	3851	*	*	*	*	*	*	3938	*	*	*	1433	90
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 91   3332	*	4245	*	4140	*	3618	4925	*	*	*	3410	*	*	*	*	*	3221	*	1072	91
+       0	*	*	*	*	*	*	3839	0	0	
+
+Q 92   *	*	4902	4952	*	5027	3433	*	2983	3618	*	2269	*	1700	*	*	3510	*	*	*	92
+       0	*	*	*	*	*	*	3839	0	0	
+
+C 93   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	93
+       250	*	2653	*	*	*	*	3839	0	0	
+
+Y 94   *	*	*	3586	*	*	2622	2951	*	4174	*	*	*	*	*	*	*	3858	*	998	94
+       653	*	1457	*	*	*	0	3730	0	1584	
+
+F 95   *	*	*	*	1124	*	*	3797	2833	2422	*	*	*	*	*	*	*	3599	*	4068	95
+       0	*	*	*	*	*	0	3009	0	2858	
+
+S 96   *	2422	*	*	*	*	*	3850	*	3447	*	*	2694	*	*	1228	*	3817	*	*	96
+       110	*	3770	*	*	*	0	3009	0	2858	
+
+K 97   3567	*	*	2218	*	3882	*	*	1864	*	*	3345	*	*	4362	2245	*	*	*	*	97
+       0	*	*	*	*	2609	258	2932	0	2877	
+
+K 98   *	*	2739	2108	*	4068	*	*	2201	*	*	1893	*	*	*	3797	*	*	*	*	98
+       0	*	*	*	*	*	0	3009	0	2858	
+
+T 99   2422	*	4116	2211	*	*	*	*	*	*	*	1180	*	*	4307	*	4388	*	*	*	99
+       709	*	1364	*	*	*	0	3009	0	2858	
+
+N 100  *	*	*	*	*	*	*	1508	3041	*	2230	3514	3016	*	*	3288	*	*	*	*	100
+       337	*	2262	*	*	*	0	2717	0	3427	
+
+D 101  *	2909	1265	2651	*	*	*	3109	*	*	*	*	*	2510	*	*	*	*	*	*	101
+       178	3109	*	0	*	*	0	2341	1000	3562	
+
+I 102  *	2510	*	*	*	*	*	910	2909	2651	*	*	*	*	*	*	*	*	*	*	102
+       0	*	*	*	*	2065	394	2341	0	3562	
+
+N 103  *	*	3127	*	*	2903	*	*	2500	*	*	1295	*	*	3939	3288	*	*	*	*	103
+       0	*	*	*	*	1952	432	2782	0	3091	
+
+S 104  2327	*	3957	2734	*	4052	*	4423	*	*	*	4165	*	3900	3736	2452	4599	4124	*	*	104
+       80	*	4221	*	*	693	1391	3186	0	2919	
+
+H 105  *	*	*	4087	*	721	3673	*	4705	*	*	2200	*	*	*	*	*	*	*	*	105
+       0	*	*	*	*	*	0	3576	0	1915	
+
+Q 106  *	*	*	2458	4294	1665	*	*	4490	2690	*	*	*	2744	4301	4257	*	*	*	*	106
+       106	3819	*	0	*	*	0	3576	1000	1915	
+
+T 107  3171	*	*	2673	4087	4294	3586	*	4887	4301	*	*	4257	*	*	*	2122	2535	*	*	107
+       0	*	*	*	*	*	0	3576	0	1915	
+
+D 108  4711	*	3036	5170	*	2247	*	2737	*	*	*	4705	2348	4587	*	3469	3561	*	*	*	108
+       142	*	3416	*	*	1219	810	3576	0	1915	
+
+K 109  *	*	3556	2028	3538	4623	*	*	3320	*	*	1609	*	*	*	3900	*	4373	*	*	109
+       72	*	4369	*	*	2180	360	3636	0	2292	
+
+R 110  *	*	3147	*	*	3601	*	*	804	*	*	*	*	*	2108	*	*	*	*	*	110
+       0	*	*	*	*	391	2076	3620	0	2368	
+
+K 111  *	*	*	*	*	4180	*	*	2133	5012	*	*	*	*	3887	2673	1115	*	*	*	111
+       0	*	*	*	*	0	*	3805	0	1000	
+
+T 112  1568	4676	*	3807	*	5057	*	*	*	*	*	5126	*	3989	*	3410	2203	3069	*	*	112
+       0	*	*	*	*	*	*	3839	0	0	
+
+C 113  *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	3839	0	0	
+
+M 114  *	*	*	*	*	*	*	2498	*	2630	1011	*	*	*	*	3989	3291	*	*	*	114
+       0	*	*	*	*	*	*	3839	0	0	
+
+Y 115  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	115
+       0	*	*	*	*	*	*	3832	0	0	
+
+G 116  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	116
+       0	*	*	*	*	*	*	3832	0	0	
+
+G 117  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	117
+       0	*	*	*	*	*	*	3832	0	0	
+
+V 118  *	*	*	*	*	*	*	2655	*	3849	*	*	*	*	*	*	3785	516	*	*	118
+       0	*	*	*	*	*	*	3832	0	0	
+
+T 119  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	119
+       0	*	*	*	*	*	*	3832	0	0	
+
+E 120  *	*	*	2618	*	*	*	3297	4759	1515	4098	2751	3189	*	*	*	4965	*	*	*	120
+       0	*	*	*	*	*	*	3785	0	0	
+
+H 121  *	*	*	*	*	*	76	*	*	*	*	*	*	*	*	*	*	*	*	4283	121
+       0	*	*	0	*	*	*	3458	0	0	
+
+//

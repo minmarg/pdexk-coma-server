@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d1x61a2 g.39.1.3 (A:35-66) Thyroid receptor interacting protein 6, TRIP6 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d1x61a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x61a2.a3m -v 1 
+DATE  Tue Jan 22 04:25:50 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  52 out of 54 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCHHHHHHCC
+>ss_conf
+97657745577553214788447411130039
+>Consensus
+xCxxCxxxLxGkxFYxvdgkpyCExcYxxTLE
+>d1x61a2 g.39.1.3 (A:35-66) Thyroid receptor interacting protein 6, TRIP6 {Human (Homo sapiens) [TaxId: 9606]}
+VCSTCRAQLRGQHFYAVERRAYCEGCYVATLE
+>gi|405950236|gb|EKC18235.1|(348-379:518) Lipoma-preferred partner-like protein [Crassostrea gigas]   E=4e-06 s/c=1.70 id=48% cov=103%
+ICVNCGTLLRGKSFYSMDNKPYCEQCYVSTLE
+>gi|395539604|ref|XP_003771758.1|(423-453:583) PREDICTED: zyxin [Sarcophilus harrisii]   E=6e-08 s/c=1.94 id=53% cov=100%
+-CHQCERQLQGQQFYSLEGAPYCEQCYENTLE
+>gi|241333881|ref|XP_002408369.1|(150-180:306) zyxin/trip6, putative [Ixodes scapularis] >gi|215497317|gb|EEC06811.1| zyxin/trip6, putative [Ixodes scapularis]  E=2e-07 s/c=1.89 id=44% cov=100%
+-CHVCVKELRGKPFFAMDGKPYCEEDYLNTLE
+>gi|357615923|gb|EHJ69904.1|(252-282:418) putative lipoma preferred partner/lpp [Danaus plexippus]   E=2e-06 s/c=1.78 id=47% cov=100%
+-CHQCGINLQGRPFYAVQGKALCEVDYLETLE
+>gi|260812942|ref|XP_002601179.1|(69-99:238) hypothetical protein BRAFLDRAFT_214718 [Branchiostoma floridae] >gi|229286470|gb|EEN57191.1| hypothetical protein BRAFLDRAFT_214718 [Branchiostoma floridae]  E=4e-06 s/c=1.73 id=50% cov=100%
+-CTTCGGRLSGKPFYAMENHPYCEECYINSLE
+>gi|312374711|gb|EFR22208.1|(758-786:867) hypothetical protein AND_15635 [Anopheles darlingi]   E=0.0003 s/c=1.65 id=47% cov=94%
+ICCSCGRALRGKAFYNVHGRVYCEEDYMA---
+>gi|198430254|ref|XP_002127721.1|(301-331:464) PREDICTED: similar to lipoma preferred partner/lpp isoform 2 [Ciona intestinalis]  E=0.001 s/c=1.48 id=38% cov=100%
+-CLKCHRNLHGEQFYCVDKDPWCDKCYMNSLE
+>gi|344283479|ref|XP_003413499.1|(218-249:381) PREDICTED: filamin-binding LIM protein 1-like isoform 1 [Loxodonta africana]  E=2e-05 s/c=1.62 id=55% cov=103%
+MCRTCRRQLAGQSFYQKDGRPLCEPCYQDTLE
+>gi|392892185|ref|NP_001254364.1|(439-469:647) Protein ZYX-1, isoform e [Caenorhabditis elegans] >gi|358246438|emb|CCE71327.1| Protein ZYX-1, isoform e [Caenorhabditis elegans]  E=0.0008 s/c=1.49 id=41% cov=100%
+-CGQCSKTLAGASFYNIDDKPTCEGCYQNSLE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	1179	*	*	2950	*	*	*	*	*	*	1222	*	*	1
+       0	*	*	*	*	*	*	2116	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3083	0	0	
+
+S 3    5071	3439	*	*	3915	4966	2457	3777	*	3451	4318	5507	*	6344	3710	3457	3248	4098	*	5825	3
+       0	*	*	*	*	*	*	3083	0	0	
+
+T 4    5563	*	6107	4228	*	*	4261	5257	2621	*	*	4967	*	2971	5555	3169	1990	2985	*	*	4
+       0	*	*	*	*	*	*	3083	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 6    6201	*	4881	3518	*	1940	2482	*	3624	*	5664	3220	*	3412	4055	4498	*	5706	*	*	6
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 7    3685	*	4705	5480	*	4679	5695	2956	3131	6102	*	5270	*	4464	1944	4827	4084	3057	*	*	7
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 8    4023	*	5341	4685	*	5480	5837	*	3555	5701	*	2038	4643	1824	3075	*	4441	*	*	*	8
+       0	*	*	*	*	*	*	3084	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 10   2717	*	*	*	*	*	4286	*	4705	*	*	*	*	1484	1404	5434	*	*	*	*	10
+       0	*	*	*	*	*	*	3084	0	0	
+
+G 11   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3084	0	0	
+
+Q 12   4217	*	*	4286	*	5540	*	*	1063	*	4643	*	*	1693	4451	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3084	0	0	
+
+H 13   3450	*	*	*	*	*	4082	*	*	*	*	*	1117	2485	4702	2545	*	*	*	*	13
+       0	*	*	*	*	*	*	3084	0	0	
+
+F 14   *	*	*	*	67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4464	14
+       0	*	*	*	*	*	*	3084	0	0	
+
+Y 15   *	*	*	*	3672	*	*	*	*	*	*	*	*	*	*	*	*	*	*	118	15
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 16   1137	4286	4643	4464	*	5262	*	*	*	4705	*	2410	*	4199	*	3296	*	*	*	*	16
+       0	*	*	*	*	*	*	3084	0	0	
+
+V 17   *	*	*	*	*	*	*	3542	4199	2089	3622	*	*	*	4643	3693	*	1231	*	*	17
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 18   4464	*	1137	1414	*	*	3906	*	*	*	*	5981	*	5569	*	*	*	*	*	5571	18
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 19   *	*	4970	5549	*	748	*	*	2693	*	*	3631	*	5480	3719	5835	*	*	*	*	19
+       0	*	*	*	*	*	*	3084	0	0	
+
+R 20   5600	*	4286	5341	*	*	5434	*	701	*	*	5563	*	4788	2574	4643	*	*	*	*	20
+       0	*	*	*	*	*	*	3084	0	0	
+
+A 21   2492	*	*	*	*	*	*	*	*	*	*	*	555	*	*	4313	*	3450	*	*	21
+       0	*	*	*	*	*	*	3084	0	0	
+
+Y 22   *	*	*	4643	3291	*	*	*	*	2606	*	*	*	*	*	*	4970	*	4286	712	22
+       0	*	*	*	*	*	*	3084	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3084	0	0	
+
+E 24   *	*	4286	116	*	*	*	*	5262	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3084	0	0	
+
+G 25   *	*	3323	1390	*	3686	5221	*	3793	*	*	5843	3017	3719	*	4753	5484	5438	*	4552	25
+       0	*	*	*	*	*	*	3155	0	0	
+
+C 26   *	938	1183	*	*	4728	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3155	0	0	
+
+Y 27   *	*	*	*	4999	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46	27
+       0	*	*	*	*	*	*	3155	0	0	
+
+V 28   5369	*	*	5633	*	*	*	2500	5418	1369	2965	*	*	3064	*	*	*	3611	*	4688	28
+       0	*	*	*	*	*	*	3086	0	0	
+
+A 29   3582	*	2401	4403	*	5332	*	*	5218	*	*	1259	*	4005	5924	3362	*	4861	*	*	29
+       0	*	*	*	*	*	*	2881	0	0	
+
+T 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2068	393	*	*	*	30
+       0	*	*	*	*	*	*	2851	0	0	
+
+L 31   *	*	*	*	*	*	*	4255	*	78	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2847	0	0	
+
+E 32   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	2732	0	0	
+
+//

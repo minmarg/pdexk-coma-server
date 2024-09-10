@@ -1,0 +1,222 @@
+HHsearch 1.5
+NAME  d1v58a2 d.17.3.1 (A:2-61) Thiol:disulfide interchange protein DsbG, N-terminal domain {Escherichia coli [TaxId: 562]}
+FAM   d.17.3.1
+FILE  d1v58a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1v58a2.a3m -v 1 
+DATE  Tue Jan 22 03:14:34 2013
+LENG  60 match states, 60 columns in multiple alignment
+FILT  93 out of 95 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCHHHHHHHHCCCEEEEEECCCCCCEEEEEEECCCCEEEEECCCCCEEEEEEEECCCCC
+>ss_conf
+977778888638826877106999825677753797228887279976898742058889
+>Consensus
+elPxxixxlexqGxxivxxFxaPgGlxGxxxxxxxxxxxiYlTpDGkhxixGxlxDaxGk
+>d1v58a2 d.17.3.1 (A:2-61) Thiol:disulfide interchange protein DsbG, N-terminal domain {Escherichia coli [TaxId: 562]}
+ELPAPVKAIEKQGITIIKTFDAPGGMKGYLGKYQDMGVTIYLTPDGKHAISGYMYNEKGE
+>gi|221066632|ref|ZP_03542737.1|(50-108:292) disulfide isomerase/thiol-disulfide oxidase [Comamonas testosteroni KF-1] >gi|220711655|gb|EED67023.1| disulfide isomerase/thiol-disulfide oxidase [Comamonas testosteroni KF-1]  E=6e-10 s/c=1.13 id=28% cov=100%
+DLPSA-QFLAEQGLQIVGPMQSSGGLKAWAAYRDQQPIPIYRMPDGKHWVIGTVIDAQGK
+>gi|255319019|ref|ZP_05360241.1|(29-82:249) thiol:disulfide interchange protein DsbG [Acinetobacter radioresistens SK82] >gi|255303924|gb|EET83119.1| thiol:disulfide interchange protein DsbG [Acinetobacter radioresistens SK82]  E=1e-07 s/c=1.09 id=36% cov=92%
+------KQIEQEGFEFIQQIPAPTGMTGWVGHNNQHPGTVFIANDQKYYILGDLYNAKGD
+>gi|352103741|ref|ZP_08960031.1|(34-94:271) disulfide isomerase/thiol-disulfide oxidase [Halomonas sp. HAL1] >gi|350599157|gb|EHA15250.1| disulfide isomerase/thiol-disulfide oxidase [Halomonas sp. HAL1]  E=0.0002 s/c=0.79 id=38% cov=102%
+ELPKAVADLGIPGSKVDKTFDTGlDGINGWVISVENDTNVIYTTEDGKHAFIGMILGEGGE
+>gi|385331393|ref|YP_005885344.1|(30-85:255) disulfide isomerase/thiol-disulfide oxidase-like protein [Marinobacter adhaerens HP15] >gi|311694543|gb|ADP97416.1| disulfide isomerase/thiol-disulfide oxidase-like protein [Marinobacter adhaerens HP15]  E=7e-13 s/c=1.36 id=33% cov=95%
+---PIIKQVTDRGLKVVSSFEAIDGMTGYILDSNGSPVTLYVTQDGEHAFVGTLIDKKG-
+>gi|423013934|ref|ZP_17004655.1|(29-87:257) disulfide isomerase/thiol-disulfide oxidase [Achromobacter xylosoxidans AXX-A] >gi|338782865|gb|EGP47234.1| disulfide isomerase/thiol-disulfide oxidase [Achromobacter xylosoxidans AXX-A]  E=1e-11 s/c=1.23 id=33% cov=100%
+DRPAVLKALEARGLRVVEEFKVGGDLRAFAGVAGDQPVAIYVTRDG-NAIVGARLDAEGK
+>gi|78045354|ref|YP_361604.1|(27-89:262) disulfide isomerase/thiol-disulfide oxidase [Xanthomonas campestris pv. vesicatoria str. 85-10] >gi|78033858|emb|CAJ19857.1| putative periplasmic thiol:disulfide interchange protein [Xanthomonas campestris pv. vesicatoria str. 85-10]  E=7e-05 s/c=0.79 id=28% cov=102%
+EAPKPTlaeRHLMASGVKVTHRFDSVSGLRAIVADNGADKRLFYVTPDGKSLIAGLVFDESGR
+>gi|332308800|ref|YP_004436650.1|(22-80:251) disulfide isomerase/thiol-disulfide oxidase [Glaciecola sp. 4H-3-7+YE-5] >gi|332176129|gb|AEE25382.1| disulfide isomerase/thiol-disulfide oxidase [Glaciecola sp. 4H-3-7+YE-5]  E=2e-13 s/c=1.32 id=37% cov=100%
+-LPQPLKLITSQGGEIVDSFTAPAGVTGYIVDYRGKALTVYLSKNQQHIFTGKMLDATGR
+>gi|352104048|ref|ZP_08960213.1|(49-106:276) disulfide isomerase/thiol-disulfide oxidase [Halomonas sp. HAL1] >gi|350599062|gb|EHA15159.1| disulfide isomerase/thiol-disulfide oxidase [Halomonas sp. HAL1]  E=7e-12 s/c=1.26 id=25% cov=98%
+-LPKTITVLVDQGFTFHGIFEAPDDLQGYALSYDNEPMAAYISSSSDYAVIGTLIDPQG-
+>gi|384083934|ref|ZP_09995109.1|(60-102:285) hypothetical protein AthiA1_00274 [Acidithiobacillus thiooxidans ATCC 19377]  E=3e-05 s/c=1.20 id=30% cov=73%
+-----------------KVFPGPGGLTGIEVSMEGHPTIAYATADGQYLVAGPVLNQQGQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	1788	600	*	*	*	*	4935	*	*	*	*	5787	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3357	0	0	
+
+L 2    4821	*	*	*	*	*	*	4858	4788	584	*	*	*	5098	4286	*	*	3825	3718	*	2
+       0	*	*	*	*	*	*	3682	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	*	*	*	64	*	*	*	4524	*	*	*	3
+       0	*	*	*	*	*	*	3754	0	0	
+
+A 4    1219	*	4700	3366	*	6166	*	*	2626	*	*	*	2857	4437	*	3737	*	*	*	*	4
+       0	*	*	*	*	*	*	3778	0	0	
+
+P 5    1899	*	*	5155	*	*	*	4774	*	*	*	*	1251	*	*	*	4872	2231	*	*	5
+       74	*	4322	*	*	*	*	3812	0	0	
+
+V 6    *	*	*	4614	*	*	*	1626	*	1955	*	*	*	*	*	*	4909	1540	*	*	6
+       49	4909	*	1585	585	0	*	3741	1000	1179	
+
+K 7    4010	*	5249	6527	*	*	*	*	1328	*	6609	4831	*	1906	4044	3578	4449	*	*	*	7
+       0	*	*	*	*	*	*	3900	0	0	
+
+A 8    1574	*	4664	*	4001	5617	3511	5863	5493	3614	5792	4546	*	2945	*	4622	*	5044	*	3810	8
+       0	*	*	*	*	*	*	3900	0	0	
+
+I 9    6772	*	*	*	4052	*	*	2179	*	781	5506	*	*	*	*	*	*	3239	*	*	9
+       90	4052	*	0	*	*	*	4015	1237	0	
+
+E 10   3256	*	6109	873	*	4635	*	5125	4825	*	4072	*	*	4466	*	6729	3874	4367	*	*	10
+       0	*	*	*	*	*	*	4012	0	0	
+
+K 11   2327	*	3124	3711	*	5727	*	4635	1995	*	*	5220	*	2370	*	4193	5345	*	*	*	11
+       0	*	*	*	*	*	*	4012	0	0	
+
+Q 12   5936	*	*	3308	*	*	4214	*	3024	*	*	*	4619	882	3328	5449	*	*	*	*	12
+       24	5936	*	0	*	*	*	4065	1000	0	
+
+G 13   4822	*	4696	*	*	131	*	*	*	*	*	6282	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	4065	0	0	
+
+I 14   3129	*	*	*	3507	2980	*	2325	*	2071	*	5316	*	*	*	4637	*	3119	*	4238	14
+       0	*	*	*	*	*	*	4078	0	0	
+
+T 15   4931	*	6317	2017	*	*	*	*	2046	*	4910	5834	*	4234	4953	4513	2084	4335	*	*	15
+       0	*	*	*	*	*	*	4078	0	0	
+
+I 16   *	*	*	*	3295	*	*	936	*	4781	6470	5795	*	*	*	*	*	1691	*	*	16
+       0	*	*	*	*	*	*	4078	0	0	
+
+I 17   6112	*	4637	6060	*	*	3700	1726	4709	4338	5301	*	*	7146	*	*	4384	1384	*	*	17
+       0	*	*	*	*	*	*	4078	0	0	
+
+K 18   6854	*	3736	4715	*	1588	5516	*	1615	*	*	6208	*	3298	4950	4330	*	*	*	*	18
+       0	*	*	*	*	*	*	4032	0	0	
+
+T 19   5397	*	5736	2228	*	*	*	5343	3437	*	*	*	3300	3370	3486	2586	2781	5180	*	*	19
+       0	*	*	*	*	*	*	4032	0	0	
+
+F 20   *	*	*	*	340	*	*	2799	*	5585	4454	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	4032	0	0	
+
+D 21   4317	*	1318	2188	*	*	*	*	3985	*	*	*	2612	5776	*	4619	4517	*	*	*	21
+       0	*	*	*	*	*	*	4032	0	0	
+
+A 22   560	*	*	*	*	3371	*	5252	*	*	*	*	*	*	*	4112	3614	4080	*	*	22
+       0	*	*	*	*	*	*	4032	0	0	
+
+P 23   5397	*	*	*	*	3051	*	5868	*	*	*	*	398	*	*	4756	*	4550	*	*	23
+       58	4668	*	0	*	*	*	4032	1000	0	
+
+G 24   3245	*	2805	4770	*	1015	*	*	5497	*	*	5441	*	4722	*	3194	5184	*	*	*	24
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 25   *	*	3309	6143	*	231	*	*	*	*	*	5857	*	6027	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	4032	0	0	
+
+M 26   4916	*	*	*	*	*	*	3834	*	883	2064	*	*	*	*	*	*	3342	*	5913	26
+       0	*	*	*	*	*	*	4032	0	0	
+
+K 27   5253	*	*	4766	*	*	*	5730	2220	*	*	4668	4916	3161	2120	6241	1857	*	*	*	27
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 28   2185	*	*	*	*	392	*	*	*	*	*	*	*	*	*	5785	*	*	*	*	28
+       0	*	*	*	*	*	*	4032	0	0	
+
+Y 29   6169	*	*	*	2664	*	5736	3531	*	*	*	*	*	*	*	*	*	5719	1722	1319	29
+       0	*	*	*	*	*	*	4032	0	0	
+
+L 30   1277	*	*	5180	*	4443	*	3477	*	2763	*	*	*	*	*	*	4770	2059	*	*	30
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 31   1504	*	*	*	*	1358	*	4193	*	4582	4118	*	*	*	*	*	6282	3464	*	*	31
+       0	*	*	*	*	*	*	4032	0	0	
+
+K 32   6282	*	2548	4067	6537	*	4470	5497	3665	5955	*	*	*	2905	3921	2609	3610	4420	*	3450	32
+       0	*	*	*	*	*	*	4032	0	0	
+
+Y 33   2809	*	*	5554	3833	*	6628	5137	4770	6108	4725	4005	*	*	4179	4927	*	3426	*	1340	33
+       0	*	*	*	*	*	*	4032	0	0	
+
+Q 34   5497	*	2990	3521	*	2443	5411	*	4053	5955	*	3149	*	1587	4817	*	*	*	*	*	34
+       0	*	*	*	*	*	*	4032	0	0	
+
+D 35   4456	*	2242	4084	*	1384	*	*	7128	*	5252	2641	*	3959	5585	5497	*	*	*	*	35
+       13	6854	*	0	*	*	*	4032	1000	0	
+
+M 36   *	*	4031	3621	*	*	4102	*	5879	*	3131	4845	*	1843	2422	3803	5050	6893	*	4110	36
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 37   3637	*	5048	6628	*	1891	*	*	3682	*	*	*	1270	6241	*	5554	4668	4538	*	*	37
+       0	*	*	*	*	*	*	4032	0	0	
+
+V 38   4609	*	*	*	*	5903	*	3012	*	3629	2552	3747	*	5957	4457	4771	4661	1495	*	*	38
+       0	*	*	*	*	*	*	4032	0	0	
+
+T 39   1576	*	*	*	*	*	*	3544	*	4457	*	*	4168	*	*	3806	1447	4668	*	*	39
+       0	*	*	*	*	*	*	4032	0	0	
+
+I 40   3424	*	*	*	3927	*	*	1635	*	1553	*	*	*	*	*	*	*	2487	*	*	40
+       0	*	*	*	*	*	*	4032	0	0	
+
+Y 41   *	*	*	*	2547	*	*	*	*	*	*	*	*	*	*	*	*	*	*	271	41
+       0	*	*	*	*	*	*	4032	0	0	
+
+L 42   4851	*	*	*	*	*	*	2899	5990	1170	*	*	*	*	4678	*	4106	1867	*	*	42
+       0	*	*	*	*	*	*	4032	0	0	
+
+T 43   4229	*	*	*	*	*	*	*	*	4199	4468	*	*	*	*	3490	400	*	*	*	43
+       0	*	*	*	*	*	*	4032	0	0	
+
+P 44   2956	*	*	3965	*	*	*	*	3427	*	*	4718	886	5869	6469	3229	*	*	*	*	44
+       0	*	*	*	*	*	*	4032	0	0	
+
+D 45   *	*	129	*	*	*	*	*	*	*	*	4044	*	*	*	5344	*	*	*	*	45
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 46   *	*	4415	5866	*	376	*	*	3826	*	*	*	*	3832	*	5344	*	*	*	*	46
+       68	*	4434	*	*	*	*	4032	0	0	
+
+K 47   *	*	4258	3283	*	*	*	*	738	*	*	6107	*	2518	5168	*	5131	*	*	*	47
+       106	*	3818	*	*	0	*	4012	0	1297	
+
+H 48   *	*	*	*	5670	*	808	*	*	*	*	4086	*	6024	*	4224	*	*	*	1830	48
+       0	*	*	*	*	0	*	3975	0	1598	
+
+A 49   1271	*	*	*	*	*	*	5019	*	2738	4532	*	*	*	*	*	*	2012	4678	3745	49
+       0	*	*	*	*	*	*	4032	0	0	
+
+I 50   *	*	*	*	3107	*	*	1009	*	2453	5990	*	*	*	*	*	*	2406	*	*	50
+       0	*	*	*	*	*	*	4032	0	0	
+
+S 51   2775	*	*	*	*	*	*	2526	5555	3725	6387	*	*	*	*	2494	3852	1623	*	*	51
+       0	*	*	*	*	*	*	4032	0	0	
+
+G 52   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	4032	0	0	
+
+Y 53   5409	*	3533	5551	*	*	7109	*	4926	4438	4666	3555	3919	*	*	3470	1632	5375	*	2690	53
+       0	*	*	*	*	*	*	4028	0	0	
+
+M 54   *	*	*	*	*	*	*	4666	*	1168	1898	*	*	*	3208	*	*	2849	*	*	54
+       0	*	*	*	*	*	*	4028	0	0	
+
+Y 55   5385	*	*	*	2338	*	*	2603	*	1833	5048	*	*	*	*	*	5948	4054	*	2143	55
+       0	*	*	*	*	*	*	4028	0	0	
+
+N 56   *	*	277	*	*	4666	*	*	*	*	*	3151	*	*	*	5453	*	*	*	*	56
+       0	*	*	*	*	*	*	4028	0	0	
+
+E 57   956	*	4831	2488	*	5366	*	*	5853	4999	*	*	5335	4945	*	3476	4283	*	*	*	57
+       0	*	*	*	*	*	*	4028	0	0	
+
+K 58   4974	*	4940	2893	*	4169	6893	*	1973	*	*	4341	*	1827	6121	3580	4233	*	*	*	58
+       0	*	*	*	*	*	*	4028	0	0	
+
+G 59   5269	*	*	*	*	38	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	4072	0	0	
+
+E 60   *	*	4270	1958	*	*	*	*	1219	*	*	*	*	3077	2807	*	*	*	*	*	60
+       0	*	*	0	*	*	*	3915	0	0	
+
+//

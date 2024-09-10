@@ -1,0 +1,544 @@
+HHsearch 1.5
+NAME  d1xeoa1 d.167.1.1 (A:1-164) Peptide deformylase {Escherichia coli [TaxId: 562]}
+FAM   d.167.1.1
+FILE  d1xeoa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xeoa1.a3m -v 1 
+DATE  Tue Jan 22 04:41:24 2013
+LENG  164 match states, 164 columns in multiple alignment
+FILT  109 out of 2874 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.0 
+SEQ
+>ss_pred
+CCCCCHHCCCHHHCCCCCCCCCCCHHHHHHHHHHHHHHHCCCCCEEEECCCCCCEEEEEEECCCCCCCCEEEECCEEEECCCCEEEEECCEECCCCCCCC
+CCHHHEEEEEECCCCEEEEEEECCCEEEEEEECHHHCCCEEEEEECCHHHHHHHHHHHHHHHCC
+>ss_conf
+9532000778201560577775797899999999998503888278630048731489997689998615764780650788456531514417877787
+7700278885326884899995177767544201014887999833979999999999997459
+>Consensus
+ailxIixxxdpvLrxxxxxVxxxxxxxxxlixxmxxtmxxxxgvGLAApQIGxxxrixvvxxxxxxxxxxvxiNPxIixxsxxxxxxEgCLSxpxxxxxV
+xRxxxIxvxyxdxxGxxxxxxxxgxxArxxQHEiDHLxGxlfiDrlxxxxxxxxxxxxxkxxkx
+>d1xeoa1 d.167.1.1 (A:1-164) Peptide deformylase {Escherichia coli [TaxId: 562]}
+SVLQVLHIPDERLRKVAKPVEEVNAEIQRIVDDMFETMYAEEGIGLAATQVDIHQRIIVIDVSENRDERLVLINPELLEKSGETGIEEGCLSIPEQRALV
+PRAEKVKIRALDRDGKPFELEADGLLAICIQHEMDHLVGKLFMDYLSPLKQQRIRQKVEKLDRL
+>gi|389845284|ref|YP_006347364.1|(5-166:183) N-formylmethionyl-tRNA deformylase [Mesotoga prima MesG1.Ag.4.2] >gi|387860030|gb|AFK08121.1| N-formylmethionyl-tRNA deformylase [Mesotoga prima MesG1.Ag.4.2]  E=0.0003 s/c=0.30 id=28% cov=95%
+---EVLLLGNPLLRETSSPVSDFRSQetIGQIVmlKQALDEFRKENGFgrGISAPQIGILKRIVALNLGQG---SFVIANPRIVDRSRATfTMWDDCMSF
+PHLLIRLERSLSVDVVYEDERGIEYEWKGvDQARSELLQHEIDHLDGILAIDHALDAKSIIYRSEYER----
+>gi|315226589|ref|ZP_07868377.1|(15-174:176) peptide deformylase 2 [Parascardovia denticolens DSM 10105 = JCM 12538] >gi|315120721|gb|EFT83853.1| peptide deformylase 2 [Parascardovia denticolens DSM 10105 = JCM 12538]  E=6e-52 s/c=1.29 id=27% cov=98%
+TIRDIRIVPDPVLRTVCDPITTITPAVRNLVQDLLDTVDDPGRAGLSANQIGVALRAFSYNIDGKVG---YVLNPKIVARSGEQYGDEGCLSVPGLWYKT
+RRADYTRVEGIDLDGKKIVLEGKGIMGRMLQHECDHLDGHVYLDRLEKEERREALRYMRRQQK-
+>gi|15924205|ref|NP_371739.1|(2-149:162) peptide deformylase [Staphylococcus aureus subsp. aureus Mu50] >gi|15926798|ref|NP_374331.1| peptide deformylase [Staphylococcus aureus subsp. aureus N315] >gi|57651784|ref|YP_186090.1| peptide deformylase [Staphylococcus aureus subsp. aureus COL] >gi|87161304|ref|YP_493805.1| peptide deformylase [Staphylococcus aureus subsp. aureus USA300_FPR3757] >gi|88194921|ref|YP_499721.1| peptide deformylase [Staphylococcus aureus subsp. aureus NCTC 8325] >gi|148267706|ref|YP_001246649.1| peptide deformylase [Staphylococcus aureus subsp. aureus JH9] >gi|150393764|ref|YP_001316439.1| peptide deformylase [Staphylococcus aureus subsp. aureus JH1] >gi|151221337|ref|YP_001332159.1| peptide deformylase [Staphylococcus aureus subsp. aureus str. Newman] >gi|156979536|ref|YP_001441795.1| peptide deformylase [Staphylococcus aureus subsp. aureus Mu3] >gi|161509387|ref|YP_001575046.1| peptide deformylase [Staphylococcus aureus subsp. aureus USA300_TCH1516] >gi|221142005|ref|ZP_03566498.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus str. JKD6009] >gi|253315573|ref|ZP_04838786.1| polypeptide deformylase [Staphylococcus aureus subsp. aureus str. CF-Marseille] >gi|255006002|ref|ZP_05144603.2| polypeptide deformylase [Staphylococcus aureus subsp. aureus Mu50-omega] >gi|257795729|ref|ZP_05644708.1| polypeptide deformylase [Staphylococcus aureus A9781] >gi|258415953|ref|ZP_05682223.1| peptide deformylase [Staphylococcus aureus A9763] >gi|258419700|ref|ZP_05682667.1| polypeptide deformylase [Staphylococcus aureus A9719] >gi|258444552|ref|ZP_05692881.1| formylmethionine deformylase [Staphylococcus aureus A8115] >gi|258447615|ref|ZP_05695759.1| polypeptide deformylase [Staphylococcus aureus A6300] >gi|258449457|ref|ZP_05697560.1| polypeptide deformylase 1 [Staphylococcus aureus A6224] >gi|258452512|ref|ZP_05700518.1| polypeptide deformylase 1 [Staphylococcus aureus A5948] >gi|258454836|ref|ZP_05702800.1| polypeptide deformylase 1 [Staphylococcus aureus A5937] >gi|262048116|ref|ZP_06021003.1| hypothetical protein SAD30_1892 [Staphylococcus aureus D30] >gi|262051848|ref|ZP_06024064.1| hypothetical protein SA930_1398 [Staphylococcus aureus 930918-3] >gi|269202830|ref|YP_003282099.1| polypeptide deformylase [Staphylococcus aureus subsp. aureus ED98] >gi|282892701|ref|ZP_06300936.1| polypeptide deformylase [Staphylococcus aureus A8117] >gi|282919997|ref|ZP_06327726.1| polypeptide deformylase [Staphylococcus aureus A9765] >gi|282927555|ref|ZP_06335171.1| polypeptide deformylase [Staphylococcus aureus A10102] >gi|284024139|ref|ZP_06378537.1| peptide deformylase [Staphylococcus aureus subsp. aureus 132] >gi|294848208|ref|ZP_06788955.1| polypeptide deformylase [Staphylococcus aureus A9754] >gi|295407153|ref|ZP_06816954.1| polypeptide deformylase [Staphylococcus aureus A8819] >gi|296275236|ref|ZP_06857743.1| peptide deformylase [Staphylococcus aureus subsp. aureus MR1] >gi|297245961|ref|ZP_06929820.1| polypeptide deformylase [Staphylococcus aureus A8796] >gi|304381222|ref|ZP_07363875.1| peptide deformylase [Staphylococcus aureus subsp. aureus ATCC BAA-39] >gi|379014406|ref|YP_005290642.1| peptide deformylase [Staphylococcus aureus subsp. aureus VC40] >gi|384861809|ref|YP_005744529.1| putative polypeptide deformylase [Staphylococcus aureus subsp. aureus str. JKD6008] >gi|384864442|ref|YP_005749801.1| polypeptide deformylase family protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|384869749|ref|YP_005752463.1| Peptide deformylase-like protein [Staphylococcus aureus subsp. aureus T0131] >gi|387142824|ref|YP_005731217.1| putative polypeptide deformylase [Staphylococcus aureus subsp. aureus TW20] >gi|387150358|ref|YP_005741922.1| Peptide deformylase [Staphylococcus aureus 04-02981] >gi|415686402|ref|ZP_11450491.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus CGS01] >gi|415691062|ref|ZP_11453301.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus CGS03] >gi|417650117|ref|ZP_12299894.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21189] >gi|417651456|ref|ZP_12301219.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21172] >gi|417800965|ref|ZP_12448067.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21318] >gi|417892169|ref|ZP_12536223.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21201] >gi|418280895|ref|ZP_12893717.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21178] >gi|418286374|ref|ZP_12899020.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21209] >gi|418317644|ref|ZP_12929060.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21232] >gi|418424355|ref|ZP_12997477.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS1] >gi|418427350|ref|ZP_13000362.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS2] >gi|418430191|ref|ZP_13003107.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS3a] >gi|418433152|ref|ZP_13005932.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS4] >gi|418436827|ref|ZP_13008629.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS5] >gi|418439698|ref|ZP_13011406.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS6] >gi|418442751|ref|ZP_13014353.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS7] >gi|418445810|ref|ZP_13017286.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS8] >gi|418448754|ref|ZP_13020146.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS9] >gi|418451578|ref|ZP_13022912.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS10] >gi|418454634|ref|ZP_13025896.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS11a] >gi|418457510|ref|ZP_13028713.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS11b] >gi|418569072|ref|ZP_13133412.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21272] >gi|418570754|ref|ZP_13135015.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21283] >gi|418579046|ref|ZP_13143141.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1114] >gi|418637960|ref|ZP_13200263.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-3] >gi|418642673|ref|ZP_13204859.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-24] >gi|418647670|ref|ZP_13209733.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-88] >gi|418649535|ref|ZP_13211563.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-91] >gi|418654638|ref|ZP_13216534.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-99] >gi|418658900|ref|ZP_13220597.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-111] >gi|418663164|ref|ZP_13224689.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-122] >gi|418873599|ref|ZP_13427894.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-125] >gi|418878064|ref|ZP_13432299.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1165] >gi|418880892|ref|ZP_13435111.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1213] >gi|418883821|ref|ZP_13438016.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1769] >gi|418886476|ref|ZP_13440624.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1150] >gi|418894914|ref|ZP_13449009.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1057] >gi|418903424|ref|ZP_13457465.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1770] >gi|418906150|ref|ZP_13460177.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC345D] >gi|418911821|ref|ZP_13465804.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG547] >gi|418914313|ref|ZP_13468285.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC340D] >gi|418920292|ref|ZP_13474225.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC348] >gi|418925448|ref|ZP_13479350.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG2018] >gi|418928472|ref|ZP_13482358.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1612] >gi|418931285|ref|ZP_13485126.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1750] >gi|418946935|ref|ZP_13499334.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-157] >gi|418955414|ref|ZP_13507354.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-189] >gi|418991077|ref|ZP_13538738.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1096] >gi|419775281|ref|ZP_14301223.1| peptide deformylase [Staphylococcus aureus subsp. aureus CO-23] >gi|419784889|ref|ZP_14310648.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-M] >gi|422742331|ref|ZP_16796337.1| peptide deformylase [Staphylococcus aureus subsp. aureus MRSA177] >gi|422745555|ref|ZP_16799494.1| peptide deformylase [Staphylococcus aureus subsp. aureus MRSA131] >gi|424768718|ref|ZP_18195978.1| peptide deformylase [Staphylococcus aureus subsp. aureus CM05] >gi|424785045|ref|ZP_18211848.1| Peptide deformylase [Staphylococcus aureus CN79] >gi|54036958|sp|P63922.1|DEFL_STAAN RecName: Full=Peptide deformylase-like; AltName: Full=Polypeptide deformylase-like >gi|54040934|sp|P63921.1|DEFL_STAAM RecName: Full=Peptide deformylase-like; AltName: Full=Polypeptide deformylase-like >gi|81694664|sp|Q5HGL7.1|DEFL_STAAC RecName: Full=Peptide deformylase-like; AltName: Full=Polypeptide deformylase-like >gi|13701015|dbj|BAB42310.1| SA1058 [Staphylococcus aureus subsp. aureus N315] >gi|14246985|dbj|BAB57377.1| putative polypeptide deformylase [Staphylococcus aureus subsp. aureus Mu50] >gi|57285970|gb|AAW38064.1| polypeptide deformylase [Staphylococcus aureus subsp. aureus COL] >gi|87127278|gb|ABD21792.1| polypeptide deformylase [Staphylococcus aureus subsp. aureus USA300_FPR3757] >gi|87202479|gb|ABD30289.1| polypeptide deformylase, putative [Staphylococcus aureus subsp. aureus NCTC 8325] >gi|147740775|gb|ABQ49073.1| peptide deformylase [Staphylococcus aureus subsp. aureus JH9] >gi|149946216|gb|ABR52152.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus JH1] >gi|150374137|dbj|BAF67397.1| polypeptide deformylase 1 [Staphylococcus aureus subsp. aureus str. Newman] >gi|156721671|dbj|BAF78088.1| hypothetical protein SAHV_1205 [Staphylococcus aureus subsp. aureus Mu3] >gi|160368196|gb|ABX29167.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus USA300_TCH1516] >gi|257789701|gb|EEV28041.1| polypeptide deformylase [Staphylococcus aureus A9781] >gi|257839289|gb|EEV63763.1| peptide deformylase [Staphylococcus aureus A9763] >gi|257844285|gb|EEV68667.1| polypeptide deformylase [Staphylococcus aureus A9719] >gi|257850045|gb|EEV73998.1| formylmethionine deformylase [Staphylococcus aureus A8115] >gi|257853806|gb|EEV76765.1| polypeptide deformylase [Staphylococcus aureus A6300] >gi|257857445|gb|EEV80343.1| polypeptide deformylase 1 [Staphylococcus aureus A6224] >gi|257859730|gb|EEV82572.1| polypeptide deformylase 1 [Staphylococcus aureus A5948] >gi|257863219|gb|EEV85983.1| polypeptide deformylase 1 [Staphylococcus aureus A5937] >gi|259160249|gb|EEW45277.1| hypothetical protein SA930_1398 [Staphylococcus aureus 930918-3] >gi|259163682|gb|EEW48237.1| hypothetical protein SAD30_1892 [Staphylococcus aureus D30] >gi|262075120|gb|ACY11093.1| polypeptide deformylase [Staphylococcus aureus subsp. aureus ED98] >gi|269940707|emb|CBI49088.1| putative polypeptide deformylase [Staphylococcus aureus subsp. aureus TW20] >gi|282590558|gb|EFB95635.1| polypeptide deformylase [Staphylococcus aureus A10102] >gi|282594713|gb|EFB99697.1| polypeptide deformylase [Staphylococcus aureus A9765] >gi|282764698|gb|EFC04823.1| polypeptide deformylase [Staphylococcus aureus A8117] >gi|285816897|gb|ADC37384.1| Peptide deformylase [Staphylococcus aureus 04-02981] >gi|294825008|gb|EFG41430.1| polypeptide deformylase [Staphylococcus aureus A9754] >gi|294968006|gb|EFG44034.1| polypeptide deformylase [Staphylococcus aureus A8819] >gi|297177125|gb|EFH36379.1| polypeptide deformylase [Staphylococcus aureus A8796] >gi|302751038|gb|ADL65215.1| putative polypeptide deformylase [Staphylococcus aureus subsp. aureus str. JKD6008] >gi|304340205|gb|EFM06146.1| peptide deformylase [Staphylococcus aureus subsp. aureus ATCC BAA-39] >gi|312829609|emb|CBX34451.1| polypeptide deformylase family protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|315131006|gb|EFT86990.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus CGS03] >gi|315198452|gb|EFU28781.1| formylmethionine deformylase [Staphylococcus aureus subsp. aureus CGS01] >gi|320140970|gb|EFW32817.1| peptide deformylase [Staphylococcus aureus subsp. aureus MRSA131] >gi|320144315|gb|EFW36081.1| peptide deformylase [Staphylococcus aureus subsp. aureus MRSA177] >gi|329313884|gb|AEB88297.1| Peptide deformylase-like protein [Staphylococcus aureus subsp. aureus T0131] >gi|329724773|gb|EGG61278.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21189] >gi|329727640|gb|EGG64096.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21172] >gi|334277459|gb|EGL95689.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21318] >gi|341858136|gb|EGS98937.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21201] >gi|365166996|gb|EHM58473.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21178] >gi|365167082|gb|EHM58558.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21209] >gi|365244912|gb|EHM85564.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21232] >gi|371978257|gb|EHO95507.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21272] >gi|371982934|gb|EHP00082.1| peptide deformylase [Staphylococcus aureus subsp. aureus 21283] >gi|374363103|gb|AEZ37208.1| peptide deformylase [Staphylococcus aureus subsp. aureus VC40] >gi|375014463|gb|EHS08144.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-99] >gi|375015786|gb|EHS09430.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-24] >gi|375023184|gb|EHS16647.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-3] >gi|375029380|gb|EHS22708.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-88] >gi|375029908|gb|EHS23233.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-91] >gi|375034797|gb|EHS27947.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-122] >gi|375037162|gb|EHS30214.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-111] >gi|375366136|gb|EHS70148.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-125] >gi|375370897|gb|EHS74689.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-189] >gi|375377132|gb|EHS80622.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-157] >gi|377694186|gb|EHT18551.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1165] >gi|377694720|gb|EHT19084.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1057] >gi|377697073|gb|EHT21428.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1114] >gi|377714567|gb|EHT38766.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1750] >gi|377714908|gb|EHT39106.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1769] >gi|377723199|gb|EHT47324.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1096] >gi|377725199|gb|EHT49314.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG547] >gi|377725429|gb|EHT49542.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1150] >gi|377731785|gb|EHT55838.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1213] >gi|377738384|gb|EHT62393.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1612] >gi|377742439|gb|EHT66424.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG1770] >gi|377744517|gb|EHT68494.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIG2018] >gi|377757815|gb|EHT81703.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC340D] >gi|377765450|gb|EHT89300.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC345D] >gi|377765651|gb|EHT89500.1| peptide deformylase [Staphylococcus aureus subsp. aureus CIGC348] >gi|383363647|gb|EID40978.1| peptide deformylase [Staphylococcus aureus subsp. aureus IS-M] >gi|383970965|gb|EID87055.1| peptide deformylase [Staphylococcus aureus subsp. aureus CO-23] >gi|387718586|gb|EIK06544.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS3a] >gi|387718937|gb|EIK06893.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS2] >gi|387720262|gb|EIK08174.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS1] >gi|387725818|gb|EIK13416.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS4] >gi|387727931|gb|EIK15431.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS5] >gi|387730801|gb|EIK18159.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS6] >gi|387735738|gb|EIK22848.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS8] >gi|387737416|gb|EIK24482.1| peptide deformylase-like protein [Staphylococcus aureus subsp. aureus VRS7] >gi|387737970|gb|EIK25024.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS9] >gi|387744459|gb|EIK31223.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS10] >gi|387745749|gb|EIK32499.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS11a] >gi|387747242|gb|EIK33951.1| def2- polypeptide deformylase [Staphylococcus aureus subsp. aureus VRS11b] >gi|402348488|gb|EJU83475.1| peptide deformylase [Staphylococcus aureus subsp. aureus CM05] >gi|408423413|emb|CCJ10824.1| Peptide deformylase [Staphylococcus aureus subsp. aureus ST228] >gi|408425403|emb|CCJ12790.1| Peptide deformylase [Staphylococcus aureus subsp. aureus ST228] >gi|408427391|emb|CCJ14754.1| Peptide deformylase [Staphylococcus aureus subsp. aureus ST228] >gi|408429378|emb|CCJ26543.1| Peptide deformylase [Staphylococcus aureus subsp. aureus ST228] >gi|408431366|emb|CCJ18681.1| Peptide deformylase-like [Staphylococcus aureus subsp. aureus ST228] >gi|408433360|emb|CCJ20645.1| Peptide deformylase-like [Staphylococcus aureus subsp. aureus ST228] >gi|408435351|emb|CCJ22611.1| Peptide deformylase-like [Staphylococcus aureus subsp. aureus ST228] >gi|408437336|emb|CCJ24579.1| Peptide deformylase-like [Staphylococcus aureus subsp. aureus ST228] >gi|421956455|gb|EKU08784.1| Peptide deformylase [Staphylococcus aureus CN79]  E=7e-36 s/c=1.03 id=27% cov=90%
+AIKKLVPASHPILTKKAQAVKTFDDSLKRLLQDLEDTMYAQEAAGLCAPQINQSLQVAIIDM--EMEGLLQLVNPKIISQSNETITDlEGSITLPDVYGE
+VTRSKMIVVESYDVNGNKVELTAHEDVARMILHIIDQMNGIPFTERADRI---------------
+>gi|312131008|ref|YP_003998348.1|(40-204:218) peptide deformylase [Leadbetterella byssophila DSM 17132] >gi|311907554|gb|ADQ17995.1| peptide deformylase [Leadbetterella byssophila DSM 17132]  E=4e-34 s/c=0.89 id=25% cov=98%
+-MMRITQTTDPddlqILSAISQDISPDDPLLPLLAKRMHLAVKQAGGVGIAAPQVGVNRNAIWVQRFDKPGQPFEFyINPKITWKSElLQLGAEGCLSIP
+DTRDNVVRSYAIQLSYSQLNGAHHTEVIEGFTAVIFQHEIDHLYGILFPQRVDEQNTQEFKKSEEK----
+>gi|410996735|gb|AFV98200.1|(2-159:272) formylmethionine deformylase [uncultured Sulfuricurvum sp. RIFRC-1]   E=1e-31 s/c=0.87 id=25% cov=96%
+---ELITYPDERIKYVSADVRKFDDELFKLLENMRDTMEHYQLDAITAIQIAVPACAIII---KTESGLLELINPRILVTDGEVIAEEISAYYPDFTAIL
+KRHDRIKVVYENRFGELQHLDTEGDFSRVLQRKMDMLFGGTLLDKLGKEGRKEAEKILAKQA--
+>gi|383317504|ref|YP_005378346.1|(11-140:147) N-formylmethionyl-tRNA deformylase [Frateuria aurantia DSM 6220] >gi|379044608|gb|AFC86664.1| N-formylmethionyl-tRNA deformylase [Frateuria aurantia DSM 6220]  E=9e-16 s/c=0.66 id=26% cov=78%
+----------PVMRQPCREISDFGPELQQRIRAVHACMVRHREHALSANQAGFADSMVLVNTSPDMDEstLQVFINPRIISSSSTQHlFTESCPSEPGKL
+RQRRRAIEVVIHYQDARGAGHTVIARNDLAVYLQHTMEHL---------------------------
+>gi|403360741|gb|EJY80056.1|(20-204:313) Peptide deformylase 1 [Oxytricha trifallax]   E=7e-14 s/c=0.43 id=26% cov=94%
+TVLPVLNHGDsgaEAIYQYCDRIVN-SQSLKtKLItQSLKMTAAQHGLFSLSANQVNILQAIFTVhkHVPHgnwfhknqtkeelNPEDYDIYINPLLLSE
+TEQQEYaWEYCGSYHNLRCMVKRPLGIKVSYINGEGDEIEEQIMDHKARVFLHELDHINGMTMTHwRLSEGKIDII----------
+>gi|313239302|emb|CBY14250.1|(14-179:1132) unnamed protein product [Oikopleura dioica]   E=2e-13 s/c=0.47 id=27% cov=83%
+-------IGDPVLRQPAAdfDVnvynsvdmktfENHNPAIMKSLAKME--MFAQYGWVITAPQVGLPIKIMLVQLhlgldddgftikGTDKTKNYVFANP
+EIRPLTNEKAFSiESSLSIPALSGVLERHQLIELTAYDLAARRVVKMTlsppDSFM---VQNAVDQLNGVMFIDKVT-----------------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    670	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3128	1960	*	*	*	1
+       0	*	*	*	*	*	*	4378	0	0	
+
+V 2    *	*	*	*	*	*	*	1156	*	2929	4014	*	*	*	*	*	*	1481	*	*	2
+       0	*	*	*	*	*	*	5321	0	0	
+
+L 3    *	*	*	*	4820	*	*	5925	4201	951	4049	*	*	*	1779	*	*	*	*	5346	3
+       0	*	*	*	*	*	*	5583	0	0	
+
+Q 4    *	*	3027	2531	*	*	*	*	2018	*	*	4504	2049	4884	3806	4332	5911	*	*	*	4
+       0	*	*	*	*	*	*	5827	0	0	
+
+V 5    *	*	*	*	6105	*	*	820	*	3114	5210	*	*	*	*	*	5655	1962	*	*	5
+       0	*	*	*	*	*	*	5976	0	0	
+
+L 6    4759	*	*	*	5348	6009	*	2227	6033	1758	*	*	*	*	3789	*	4253	1869	*	*	6
+       0	*	*	*	*	*	*	5983	0	0	
+
+H 7    5577	*	*	4219	5430	6158	5985	4032	3029	3734	*	4900	4749	2314	3027	4569	3349	4853	*	4499	7
+       51	*	4855	*	*	*	*	5983	0	0	
+
+I 8    3702	*	5340	4683	4364	*	5764	2709	*	2907	4514	*	*	*	*	6447	6224	3799	5333	1552	8
+       0	*	*	*	*	1517	620	5944	0	1731	
+
+P 9    6051	*	6360	5313	*	1120	*	*	*	*	*	4259	1418	*	*	4739	6248	*	6563	*	9
+       20	6159	*	1000	1000	0	*	5957	1000	1396	
+
+D 10   4935	*	1217	3686	*	*	2601	*	*	*	6561	2123	*	6322	*	*	5000	*	*	6532	10
+       23	5954	*	1585	585	*	*	6051	1000	0	
+
+E 11   5562	*	4986	3774	*	*	6210	5288	3418	*	*	5121	801	4150	5944	4449	5603	*	*	*	11
+       35	5393	*	2000	415	*	*	6092	1595	0	
+
+R 12   4789	6701	5937	*	5773	5657	*	1997	5047	3546	*	*	6030	6940	2866	5160	4736	1702	*	*	12
+       29	5632	*	1454	655	*	*	6104	1608	0	
+
+L 13   *	*	*	*	*	*	*	4382	*	163	5107	*	*	*	*	5055	*	*	*	*	13
+       14	*	6707	*	*	*	*	6151	0	0	
+
+R 14   4757	*	*	6165	6398	*	3682	*	3094	4779	*	6751	*	4253	1033	4047	5455	5049	*	4581	14
+       42	5688	6728	0	*	*	0	6143	1592	1000	
+
+K 15   3837	*	*	2939	6169	6647	5330	*	2597	4504	5024	6595	*	2030	3433	4684	4221	4101	*	6352	15
+       0	*	*	*	*	*	0	6140	0	1403	
+
+V 16   4858	*	*	5206	6169	*	6393	4416	1469	*	6994	5499	2650	4938	5063	5058	5356	2709	*	4465	16
+       12	6911	*	2322	322	0	*	6140	1000	1403	
+
+A 17   1653	2200	*	6693	*	4823	*	5433	6709	5469	*	4889	*	*	*	1976	4288	5328	*	*	17
+       19	*	6256	*	*	*	*	6151	0	0	
+
+K 18   3982	*	4608	2274	6396	4112	6850	4745	2540	5587	*	5084	*	3305	3103	4216	3877	6429	*	*	18
+       57	4695	*	820	1205	*	0	6137	2441	1000	
+
+P 19   3978	*	2701	3009	6268	*	7104	5959	3655	3767	*	*	1471	6682	4175	7085	5118	*	7098	*	19
+       33	5476	*	677	1416	0	*	6137	1589	1000	
+
+V 20   4683	5759	6883	*	7383	*	6408	2173	*	3649	6665	*	*	*	*	6770	6185	842	6280	6438	20
+       72	4354	*	2589	262	*	*	6151	2458	0	
+
+E 21   5008	6758	3328	2578	5777	5309	*	6789	3472	5491	*	5401	4824	4751	3386	2771	3207	3847	*	6408	21
+       266	2568	*	1002	998	*	*	6151	4417	0	
+
+E 22   3763	*	2976	3247	4628	5512	6488	4710	2933	4823	*	3156	3243	4453	6814	4333	5004	4250	*	6617	22
+       108	4342	5465	1615	570	*	*	6151	2770	0	
+
+V 23   6754	*	4570	4304	1986	4851	5536	2531	5865	2524	5441	5456	6300	*	*	4642	4268	3742	*	*	23
+       158	3566	5694	1269	774	0	*	6115	3397	1714	
+
+N 24   6359	*	1498	6823	6852	3540	7087	*	5310	6365	*	3183	5869	*	5366	3085	2364	*	*	5494	24
+       40	5190	*	1152	862	1000	1000	6133	1931	1598	
+
+A 25   2960	6777	2866	2798	7111	5393	6287	5824	2891	6942	*	6384	2404	4008	6496	4022	5775	6771	*	6170	25
+       66	4488	*	434	1944	0	*	6136	2596	1000	
+
+E 26   2965	*	3555	1741	*	5898	7138	*	2929	5055	*	5096	6693	4054	4609	3543	4645	*	6937	5136	26
+       61	4586	*	641	1479	*	*	6151	2426	0	
+
+I 27   6246	*	3629	5404	3905	*	6034	1877	*	1591	4987	*	*	*	*	*	3527	3686	*	*	27
+       14	6719	*	0	*	*	*	6151	1000	0	
+
+Q 28   4263	*	6822	3550	4278	4389	4565	4518	2637	3119	5591	4697	5426	2894	3066	5465	6714	6397	*	6360	28
+       22	6068	*	0	*	*	*	6151	1000	0	
+
+R 29   3035	*	3872	2816	4907	6756	5408	*	2432	4871	*	4643	*	2940	4123	3643	4360	*	*	5283	29
+       41	6551	5858	1585	585	*	*	6151	1000	0	
+
+I 30   4443	*	*	5452	3657	*	6983	2260	6465	1268	6685	*	*	*	5838	4895	4496	3454	*	6365	30
+       39	6282	6193	1585	585	*	0	6127	1000	1262	
+
+V 31   2444	5786	6352	*	*	*	*	1515	*	2227	*	*	*	*	*	*	*	2403	4910	*	31
+       72	4360	*	1416	677	*	0	6111	2602	1816	
+
+D 32   3164	*	2622	2170	*	6867	6566	5974	2489	5299	6354	5342	*	3503	3671	4888	5166	*	*	*	32
+       19	6259	*	2000	415	711	1362	6111	1000	1816	
+
+D 33   3381	*	1565	2947	*	*	5336	*	3689	6272	*	2992	*	3989	4341	3960	5739	*	*	*	33
+       42	5598	6928	2460	289	0	*	6139	1706	1000	
+
+M 34   5448	6698	*	*	6667	*	*	6256	*	1558	882	*	*	6366	*	*	*	5155	*	5493	34
+       42	5702	6688	1119	890	*	0	6155	1655	1000	
+
+F 35   5690	6602	6274	4585	3833	*	4261	2833	2998	2246	5475	*	*	6450	3355	6440	6913	3402	5586	4316	35
+       67	5818	5177	2406	302	*	0	6148	1574	1582	
+
+E 36   3810	*	1544	2237	6275	*	5381	6215	3139	5633	5941	4536	7132	5817	*	4424	5590	4720	*	*	36
+       0	*	*	*	*	2015	410	6128	0	2612	
+
+T 37   4802	5772	*	5683	5014	5450	*	4339	3956	6795	*	6855	*	6769	*	4543	857	3236	*	5020	37
+       17	*	6382	*	*	1512	623	6116	0	2217	
+
+M 38   4716	4890	*	*	4312	*	6728	4167	*	2443	1044	*	*	6766	*	6348	4522	3895	*	6419	38
+       126	4147	5196	2532	274	1562	596	6125	2720	2105	
+
+Y 39   5101	*	4591	3227	6110	5055	3641	4149	3325	4792	6722	6040	*	5213	2801	7070	6589	4812	6497	2024	39
+       0	*	*	*	*	403	2036	6122	0	2440	
+
+A 40   2008	*	4075	4084	5069	6273	4155	*	3353	4584	*	3823	*	3763	2924	3889	5078	6389	*	6693	40
+       62	4582	*	1593	581	*	0	6151	2610	1000	
+
+E 41   2276	6690	5850	4002	4910	4453	4571	*	5404	5541	6502	2830	4760	4228	3683	3295	4338	5262	*	4615	41
+       47	5408	6871	2399	303	0	*	6152	2024	1000	
+
+E 42   6929	*	3168	3340	*	3306	3947	6426	3938	*	*	2235	2874	4495	5165	4411	4802	*	*	4833	42
+       124	3597	*	2237	344	0	*	6156	3616	1000	
+
+G 43   3282	3514	*	5833	*	646	*	*	*	3404	*	*	*	*	5445	5993	6738	*	6557	*	43
+       77	4266	*	918	1087	*	*	6159	2826	0	
+
+I 44   3446	5840	5226	6038	4728	*	5833	1993	*	4512	4318	7020	*	6259	5107	*	5937	1440	6179	*	44
+       49	4910	*	2237	344	*	*	6159	2058	0	
+
+G 45   3379	*	*	*	*	252	*	*	*	*	*	6193	*	*	*	6064	*	6179	5540	*	45
+       0	*	*	*	*	*	*	6159	0	0	
+
+L 46   *	*	*	*	5693	*	*	1917	*	698	4341	*	*	*	*	*	*	4323	*	*	46
+       0	*	*	*	*	*	*	6196	0	0	
+
+A 47   575	5616	*	*	*	6316	*	*	*	*	*	*	*	*	*	2241	3889	5908	*	*	47
+       19	*	6288	*	*	*	*	6196	0	0	
+
+A 48   110	*	*	*	*	5227	*	*	*	*	*	*	*	*	*	5299	5548	*	*	*	48
+       0	*	*	*	*	*	0	6177	0	1000	
+
+T 49   5884	5621	*	*	6106	*	*	3529	*	*	6307	2439	939	5613	*	4684	5435	4430	*	6135	49
+       23	*	5993	*	*	*	0	6177	0	1000	
+
+Q 50   *	*	*	*	*	*	4484	*	6761	*	4887	*	*	132	*	*	*	*	*	*	50
+       0	*	*	*	*	*	0	6146	0	1684	
+
+V 51   5831	6334	*	*	*	*	*	1009	*	3365	*	*	*	*	*	*	*	1489	*	5653	51
+       0	*	*	*	*	990	1010	6160	0	1684	
+
+D 52   4256	*	5740	*	6688	349	*	*	*	*	*	3730	*	*	*	6721	6835	*	5114	6392	52
+       13	*	6856	*	*	*	0	6179	0	1000	
+
+I 53   4302	4695	6733	3529	5161	*	5446	2766	6061	2676	6744	6952	*	4671	4377	4810	6696	2225	4951	4346	53
+       0	*	*	*	*	*	0	6161	0	1518	
+
+H 54   3909	6169	4674	5150	*	4045	7511	*	5766	2710	4477	2856	2155	5375	6281	3054	5210	*	6788	6162	54
+       0	*	*	*	*	*	0	6161	0	1518	
+
+Q 55   4807	6801	5151	5526	5889	5556	5961	3259	1542	2959	5163	*	*	4599	4018	5668	*	4189	5873	4257	55
+       0	*	*	*	*	*	0	6161	0	1518	
+
+R 56   3685	6413	*	*	*	*	*	*	3806	*	*	3332	*	2931	840	4325	*	*	*	*	56
+       0	*	*	*	*	779	1260	6161	0	1518	
+
+I 57   3879	*	*	*	4137	*	*	1711	*	2179	3418	*	*	6071	*	*	*	2175	*	5723	57
+       11	7026	*	1000	1000	*	0	6191	1000	1000	
+
+I 58   3490	6954	*	*	1353	*	*	1914	*	5049	4681	*	*	*	*	*	6408	2597	*	*	58
+       19	*	6290	*	*	*	0	6191	0	1000	
+
+V 59   3392	6729	*	*	5002	6581	*	2198	*	4042	5385	6056	*	*	*	5031	4520	1292	6630	4531	59
+       54	5374	6278	2751	232	*	0	6172	1634	1515	
+
+I 60   5404	6185	*	*	4375	*	*	1964	*	3264	3440	*	*	*	*	*	4294	1645	5968	3731	60
+       253	3019	4743	2583	263	1441	663	6153	4088	2085	
+
+D 61   6056	6923	1828	2576	4056	6678	3659	*	5045	5829	6709	2568	*	3795	6555	4784	6782	*	6243	6519	61
+       67	4456	*	4414	69	2368	311	6121	2222	2685	
+
+V 62   4584	4397	5832	7209	3959	5894	*	2983	6034	2237	3243	6779	2935	*	6609	4968	5801	3217	*	4702	62
+       125	3973	5694	2899	208	914	1091	6145	3111	2511	
+
+S 63   4032	*	3292	3718	6617	3351	5808	*	4093	6695	*	3824	3098	3455	4128	3355	3030	*	*	6558	63
+       94	5435	4656	1860	465	920	1085	6175	1662	2446	
+
+E 64   4623	*	2066	2940	5667	3468	6083	4717	3036	7063	*	5504	4056	4272	4511	3612	6204	*	5895	6935	64
+       184	3264	6010	3150	172	2355	314	6139	3658	2896	
+
+N 65   5418	*	2864	2634	6965	3336	5079	5368	2656	5517	4610	3476	6183	5774	5249	4372	4585	4639	*	5827	65
+       94	4267	6531	3182	168	1187	835	6145	2884	2874	
+
+R 66   3545	*	3482	3838	6933	4514	4715	6051	2316	6249	5058	3663	3542	4467	3451	4535	5431	5845	*	5608	66
+       145	3883	5157	4233	79	753	1299	6145	3115	2655	
+
+D 67   3935	*	2546	3491	4706	2635	6288	4148	3289	5699	5208	4302	4971	6408	4744	5011	4659	4183	*	*	67
+       111	4220	5600	2409	301	*	0	6162	2835	2567	
+
+E 68   4547	*	4398	2179	6834	3405	5372	*	2358	*	5313	3763	3305	5071	5068	4507	5054	6432	*	5541	68
+       124	3606	*	2486	284	1706	528	6158	3372	2968	
+
+R 69   4252	*	6842	4102	3675	4915	5188	5297	3484	3054	6448	5140	2088	4085	4120	5040	5772	6888	6880	4342	69
+       167	4045	4361	2203	353	356	2192	6171	3182	2517	
+
+L 70   *	*	6071	4724	4916	6576	3990	3140	4982	2368	4715	5932	5999	3978	4074	6065	3156	4085	6636	3146	70
+       195	3091	6819	2606	259	346	2231	6180	3767	2519	
+
+V 71   3406	6664	6490	3840	4839	*	7213	2550	*	4509	*	6511	4860	6445	*	*	3832	1323	*	4976	71
+       72	4352	*	2598	260	*	0	6186	2752	1686	
+
+L 72   6011	5194	*	*	2230	*	*	3813	6000	1990	2323	*	*	*	6729	*	*	3446	6957	3375	72
+       15	6625	*	0	*	0	*	6186	1000	1686	
+
+I 73   3922	5374	*	*	3472	*	*	1006	6094	3663	*	*	*	*	*	*	6949	2244	*	6786	73
+       18	6299	*	0	*	*	*	6207	1000	0	
+
+N 74   *	*	5828	*	*	*	*	*	*	*	*	44	*	*	*	*	6299	*	*	*	74
+       0	*	*	*	*	*	*	6207	0	0	
+
+P 75   5639	*	*	*	*	*	*	*	6094	6846	*	*	64	*	*	*	*	*	*	*	75
+       49	4915	*	2127	375	*	*	6207	2315	0	
+
+E 76   *	*	5879	2277	*	*	5663	4859	2109	5338	5161	*	6094	4473	2571	4153	5537	2917	*	*	76
+       32	5505	*	512	1742	*	*	6207	1625	0	
+
+L 77   *	*	*	*	5965	6301	*	540	6299	3178	5693	*	*	*	*	*	*	3330	6460	5046	77
+       45	5029	*	1792	492	*	*	6207	2132	0	
+
+L 78   6658	*	6814	3840	*	*	5734	1679	4885	2924	6341	*	*	*	5347	6957	3081	2063	*	6357	78
+       12	6949	*	1000	1000	*	*	6207	1000	0	
+
+E 79   3550	*	3767	3521	4477	5555	5583	6775	2529	*	5383	4528	3762	6043	5255	2561	5473	5723	3920	5301	79
+       0	*	*	*	*	*	*	6207	0	0	
+
+K 80   2827	5457	*	4235	4073	*	4134	4675	2720	3595	*	5090	5470	5628	3991	3538	4385	4450	5683	4083	80
+       14	6732	*	1000	1000	*	*	6207	1000	0	
+
+S 81   *	*	3512	3450	*	3781	*	6814	4047	5772	*	4854	6775	6846	7135	961	3658	*	*	6943	81
+       48	5465	6648	3729	113	*	*	6207	2062	0	
+
+G 82   5050	*	3405	3374	*	2340	6770	5205	2502	*	*	3264	3733	5084	4902	3696	4939	5897	*	*	82
+       94	3987	*	1501	629	0	*	6197	3187	1000	
+
+E 83   4236	6898	4067	1582	6297	*	6310	*	3333	5172	5490	5028	5153	3848	4901	3688	3682	6081	6506	5196	83
+       252	2641	*	790	1246	*	*	6207	4369	0	
+
+T 84   6568	7066	5750	4353	7073	*	*	3138	3601	5138	3974	6968	*	3021	4805	4845	2367	2471	6732	4894	84
+       137	3463	*	232	2752	*	*	6207	3737	0	
+
+G 85   3469	*	4040	2415	*	5864	4288	2817	4156	4697	5603	5640	5808	7298	5934	4102	2976	3772	7043	6760	85
+       118	3851	6750	433	1949	*	*	6207	3133	0	
+
+I 86   3217	*	4117	4499	2895	3601	5740	4015	5514	3786	4251	5295	*	*	5338	4289	4146	4295	5400	3135	86
+       146	3378	*	831	1192	0	*	6201	3502	1000	
+
+E 87   4834	*	3111	2745	4646	3932	5482	6846	6943	5779	6450	5820	5664	4496	3244	4214	4433	5080	2678	4252	87
+       383	2100	*	850	1167	*	*	6207	4948	0	
+
+E 88   *	*	5658	69	6389	*	6041	*	*	*	*	*	*	*	*	*	*	*	*	*	88
+       54	5342	6357	1328	733	*	*	6207	1593	0	
+
+G 89   4053	*	6557	5147	6717	585	*	6279	6083	6442	*	6478	*	6113	6841	3360	6568	*	5115	6116	89
+       29	5664	*	2291	330	*	0	6191	1620	1000	
+
+C 90   6841	248	*	*	*	*	*	*	*	*	*	*	*	*	*	3213	4587	*	*	*	90
+       34	*	5422	*	*	*	0	6191	0	1000	
+
+L 91   4217	6734	*	6711	5787	4658	*	5775	*	598	3823	*	4232	*	*	*	*	4172	*	6458	91
+       0	*	*	*	*	1593	581	6143	0	2066	
+
+S 92   *	4824	*	*	6396	*	*	*	*	*	*	6527	6865	*	*	204	6441	6361	*	4587	92
+       22	6039	*	0	*	0	*	6161	1000	1611	
+
+I 93   *	5324	6404	5847	2612	*	6744	2346	*	2737	4600	5690	*	*	*	5619	*	1753	*	4363	93
+       61	4866	7101	922	1083	*	*	6207	2309	0	
+
+P 94   5192	6769	4353	5752	6298	4708	6119	*	3971	5790	*	5685	591	*	6796	5678	5720	*	*	5800	94
+       53	4798	*	2328	321	0	*	6213	2422	1000	
+
+E 95   5732	*	2688	3603	5201	1452	5706	5586	4342	*	*	2966	6352	7335	5573	4389	5376	*	5478	*	95
+       17	6442	*	2000	415	*	*	6207	1000	0	
+
+Q 96   5823	6802	4840	5059	3537	6341	5958	2622	3502	2438	5126	6404	*	4461	*	5361	5728	2975	*	3287	96
+       42	5128	*	829	1194	*	*	6207	2083	0	
+
+R 97   5619	*	5700	3879	3764	5846	4787	4693	6142	4132	6699	5455	5905	4353	2324	3093	3919	4918	4883	3219	97
+       84	5435	4902	0	*	*	*	6207	1532	0	
+
+A 98   1994	4849	4839	4633	4984	1541	6632	4378	*	*	5113	*	*	6800	5133	5722	6333	3947	5543	5542	98
+       18	*	6367	*	*	0	*	6108	0	1728	
+
+L 99   *	6464	3464	2901	4438	7209	*	4669	3642	3434	6119	3274	3641	3942	4270	4467	4868	3787	*	4937	99
+       50	5310	6793	725	1341	*	0	6192	2114	1000	
+
+V 100  6776	*	*	*	*	*	*	2581	*	3111	*	*	*	*	4309	6462	4031	773	*	*	100
+       13	6838	*	0	*	*	0	6174	1000	1241	
+
+P 101  3472	*	5449	2474	6712	6659	5630	5059	2626	5225	4791	7327	3174	3535	3740	5857	4094	4327	*	6847	101
+       0	*	*	*	*	0	*	6169	0	1241	
+
+R 102  *	*	*	*	*	*	*	*	*	*	*	*	*	*	22	*	6033	*	*	*	102
+       0	*	*	*	*	*	*	6198	0	0	
+
+A 103  3008	6692	5715	*	3931	*	3220	*	5681	6859	6764	6405	1871	*	6511	2875	*	*	6448	2374	103
+       0	*	*	*	*	*	*	6198	0	0	
+
+E 104  3764	6326	3141	3415	*	4709	4854	4856	2221	4089	*	4899	5125	4803	3612	4072	4698	5534	7020	5704	104
+       17	*	6386	*	*	*	*	6198	0	0	
+
+K 105  4196	6503	5067	2739	6808	4995	3774	6451	2619	6186	6432	3733	*	5521	2853	3886	3808	5688	4699	6704	105
+       0	*	*	*	*	*	0	6186	0	1000	
+
+V 106  5285	5559	*	*	*	*	*	867	*	4511	*	*	*	*	*	*	6704	1509	*	*	106
+       0	*	*	*	*	*	0	6186	0	1000	
+
+K 107  5870	*	5649	3534	7320	5729	4604	3769	3031	4519	5724	5636	*	4781	2631	3950	2871	3338	5570	6272	107
+       0	*	*	*	*	0	*	6186	0	1000	
+
+I 108  4287	6443	*	*	*	*	*	2630	*	2359	4454	*	*	*	*	*	*	994	*	4915	108
+       0	*	*	*	*	*	*	6199	0	0	
+
+R 109  5765	7003	4099	2394	*	*	4136	6149	2586	7030	6341	5695	*	4316	2714	3125	3571	4413	*	*	109
+       0	*	*	*	*	*	*	6199	0	0	
+
+A 110  2484	5825	*	*	3989	3019	*	*	*	6512	*	*	*	*	*	5653	6287	7049	4651	926	110
+       34	5416	*	1659	549	*	*	6199	1646	0	
+
+L 111  *	5883	7327	4365	4778	*	5495	3213	6808	2396	5681	*	*	2534	5272	5189	3324	5832	4900	2586	111
+       18	6357	*	2322	322	*	*	6199	1000	0	
+
+D 112  6768	*	805	5872	*	5761	6775	*	*	*	6512	2210	6496	6641	5861	5128	3853	*	6552	*	112
+       0	*	*	*	*	*	*	6199	0	0	
+
+R 113  4750	*	*	2014	*	5258	5964	3331	4635	2040	5264	*	4943	4617	3389	*	*	4443	5559	5139	113
+       38	5275	*	0	*	*	*	6199	2122	0	
+
+D 114  4198	*	2225	4251	3838	*	3501	6427	3326	5029	7140	2574	*	4065	4210	5391	4430	*	*	5645	114
+       50	5403	6582	2084	388	*	*	6199	1740	0	
+
+G 115  5063	*	7020	5180	4662	548	*	*	*	5331	6184	3950	*	*	6873	5591	*	*	3668	*	115
+       0	*	*	*	*	0	*	6187	0	1000	
+
+K 116  4431	*	4373	2152	*	*	*	5093	2329	4631	5931	3135	*	3824	3967	6357	3709	4103	*	*	116
+       13	6775	*	2322	322	*	*	6199	1000	0	
+
+P 117  5129	*	5455	2370	6570	5861	6641	5981	2183	4766	5285	*	3188	3710	3752	6725	3376	5348	6739	5722	117
+       0	*	*	*	*	*	*	6199	0	0	
+
+F 118  *	5887	*	6815	2967	*	2828	2482	2759	*	6478	6552	*	3624	4026	*	5681	2608	6820	5506	118
+       46	4998	*	0	*	*	*	6199	1715	0	
+
+E 119  6453	*	4324	1857	6341	6388	5467	5298	3076	7185	*	5502	*	4413	3911	3979	2648	3353	6876	*	119
+       14	6722	*	1000	1000	*	*	6199	1000	0	
+
+L 120  6453	*	6949	2994	4918	5412	*	3195	3222	2290	5248	*	8193	4482	3771	*	4479	3125	5101	4596	120
+       0	*	*	*	*	*	*	6199	0	0	
+
+E 121  6388	*	4291	1949	6552	*	4441	4045	2507	5645	4917	6075	6740	4813	3432	5867	2905	5120	*	*	121
+       0	*	*	*	*	*	*	6199	0	0	
+
+A 122  1888	4792	*	6570	2716	4268	*	4363	*	2056	5170	*	7039	*	*	6082	4097	4350	*	4946	122
+       53	4783	*	1065	938	*	*	6199	2119	0	
+
+D 123  6767	*	3350	2242	6823	5850	4377	*	2753	7074	6130	3341	*	5577	4596	2544	3574	6538	*	6678	123
+       0	*	*	*	*	*	*	6199	0	0	
+
+G 124  5705	5405	2641	4925	*	634	*	*	5602	*	*	5263	*	6571	6287	5128	*	*	5559	*	124
+       31	5577	*	3410	143	*	*	6199	1456	0	
+
+L 125  5653	*	4252	5254	2109	5216	6130	2698	*	1997	5890	*	6999	*	*	*	*	*	2912	3915	125
+       14	6727	*	1000	1000	*	*	6199	1000	0	
+
+L 126  4157	*	*	2924	3659	*	5910	4792	6123	1942	4679	4840	3601	5898	4479	4547	3948	4094	6514	6565	126
+       20	*	6191	*	*	*	*	6197	0	0	
+
+A 127  408	*	*	*	*	4814	*	*	*	*	*	*	*	*	*	2247	*	*	*	*	127
+       12	*	6868	*	*	*	0	6174	0	1000	
+
+I 128  4235	6440	*	5607	*	6328	*	2867	5793	*	*	*	*	4161	891	*	5342	3073	6831	*	128
+       0	*	*	*	*	*	0	6160	0	1464	
+
+C 129  4127	2105	*	*	*	*	*	2156	*	2942	4035	6789	*	*	6085	6472	*	2043	*	5857	129
+       0	*	*	*	*	763	1284	6146	0	1464	
+
+I 130  3931	5326	*	*	1955	*	6009	2228	*	2180	6783	*	*	*	*	*	*	2949	5581	4557	130
+       0	*	*	*	*	*	0	6167	0	1000	
+
+Q 131  *	6768	*	*	*	*	6233	*	*	4175	5757	*	*	166	6349	*	*	*	*	*	131
+       0	*	*	*	*	*	0	6167	0	1000	
+
+H 132  *	*	*	*	*	*	138	*	*	*	*	6196	*	5412	4204	*	*	*	*	*	132
+       0	*	*	*	*	*	0	6167	0	1000	
+
+E 133  5360	*	*	220	*	*	*	6349	4204	6697	*	*	*	6491	*	6290	5870	*	*	*	133
+       0	*	*	*	*	*	0	6167	0	1000	
+
+M 134  *	5279	*	6471	6058	*	*	1567	6421	2681	2896	5514	*	7071	*	*	5572	2963	*	2944	134
+       0	*	*	*	*	*	0	6167	0	1000	
+
+D 135  6471	*	102	5870	*	5542	*	*	*	*	*	6058	*	*	*	*	*	8167	*	*	135
+       0	*	*	*	*	*	0	6167	0	1000	
+
+H 136  *	*	*	*	*	*	229	*	*	*	5334	*	*	3856	*	6546	*	*	*	4557	136
+       0	*	*	*	*	*	0	6167	0	1000	
+
+L 137  *	5024	6307	*	*	*	6421	4559	*	292	5521	6465	*	*	*	*	4651	6266	*	*	137
+       0	*	*	*	*	0	*	6167	0	1000	
+
+V 138  6382	*	1982	2472	4198	*	6530	*	4388	4770	*	1850	*	5588	4574	4670	6789	7414	*	6564	138
+       0	*	*	*	*	*	*	6090	0	0	
+
+G 139  6392	*	*	*	*	119	*	*	*	*	*	4734	*	*	6916	*	*	*	5548	*	139
+       0	*	*	*	*	*	*	6077	0	0	
+
+K 140  5984	*	*	5016	6416	4181	5400	1508	2672	5186	4925	6734	*	*	4772	5004	4154	2842	*	5569	140
+       0	*	*	*	*	*	*	6065	0	0	
+
+L 141  *	*	*	5280	3892	*	*	4663	*	750	4372	*	6296	6335	*	5930	3796	3362	*	6201	141
+       0	*	*	*	*	*	*	6007	0	0	
+
+F 142  5468	*	*	*	1095	*	6365	3744	*	3599	4587	6048	*	*	*	*	*	*	4359	2092	142
+       0	*	*	*	*	*	*	5965	0	0	
+
+M 143  5289	*	*	*	4122	*	*	1354	*	3030	5897	*	5401	*	6779	*	2659	2747	*	4423	143
+       0	*	*	*	*	*	*	5965	0	0	
+
+D 144  6064	*	443	3463	*	*	5898	*	*	*	6408	4279	*	4445	5543	6457	*	*	*	*	144
+       65	4928	6491	2035	404	*	*	5965	1651	0	
+
+Y 145  *	*	*	*	*	*	3094	*	1923	6234	5348	5300	*	5347	1158	*	*	*	*	3585	145
+       15	6562	*	2000	415	*	0	5894	1000	1000	
+
+L 146  4230	6284	*	*	5665	*	*	2737	*	1256	2531	*	*	*	*	*	*	2535	*	*	146
+       0	*	*	*	*	0	*	5818	0	1000	
+
+S 147  *	*	2890	3325	6221	5143	5121	5322	4614	5051	*	3772	6473	6285	5721	1893	2568	4482	*	*	147
+       19	*	6223	*	*	*	*	5691	0	0	
+
+P 148  6323	*	2925	4125	*	4532	*	6031	2759	6214	6077	5873	2139	6286	2970	2811	6350	*	*	5339	148
+       34	5408	*	2000	415	*	0	5573	1000	1000	
+
+L 149  4923	*	5006	3047	*	4041	*	3451	2958	2340	4029	5017	*	5675	4093	6111	3671	5892	5195	5105	149
+       0	*	*	*	*	0	*	5540	0	1000	
+
+K 150  4943	*	3354	3275	*	4164	6192	*	1563	4983	*	5684	*	5593	3023	4614	5098	5327	4823	4899	150
+       20	*	6210	*	*	*	*	5543	0	0	
+
+Q 151  4477	*	6163	6065	*	*	5706	5184	2296	4337	*	4771	5943	5163	1349	4666	3456	*	*	5472	151
+       0	*	*	*	*	0	*	5527	0	1000	
+
+Q 152  4271	*	2528	4493	5622	*	6049	3233	2202	3742	*	4790	5770	3865	3251	5887	4822	*	5939	*	152
+       0	*	*	*	*	*	*	5510	0	0	
+
+R 153  5009	*	4352	3094	5633	4623	*	3966	2933	2847	3076	*	5898	*	2610	4787	5352	4369	*	*	153
+       0	*	*	*	*	*	*	5485	0	0	
+
+I 154  3069	5357	*	*	2199	*	6052	2453	*	3325	4742	*	*	*	*	4746	4338	2811	4864	4633	154
+       26	*	5797	*	*	*	*	5484	0	0	
+
+R 155  *	*	5840	2268	5805	5414	*	3466	2712	2946	4614	5536	5180	3320	2845	5828	*	6178	*	*	155
+       0	*	*	*	*	0	*	5396	0	1000	
+
+Q 156  3651	*	5028	4010	*	*	*	*	1285	*	*	4427	3839	3464	2734	4562	*	5809	*	*	156
+       29	5658	*	3170	170	*	*	5369	1000	0	
+
+K 157  5784	*	3760	1743	*	5689	*	4401	1930	*	*	5494	*	*	2790	3935	*	*	*	4382	157
+       0	*	*	*	*	*	*	5342	0	0	
+
+V 158  4847	*	*	5382	3919	*	*	3938	*	1475	4193	5997	*	*	*	5294	*	4011	4281	2054	158
+       34	5436	*	0	*	*	*	5338	1000	0	
+
+E 159  3583	*	*	1358	*	*	*	*	2745	*	*	4670	*	2781	3276	5614	*	*	*	3861	159
+       0	*	*	*	*	*	*	5270	0	0	
+
+K 160  4577	*	5526	4026	*	*	*	*	836	*	*	*	*	3570	2261	*	5515	*	*	*	160
+       0	*	*	*	*	*	*	5143	0	0	
+
+L 161  3238	*	*	*	4358	*	*	2793	4450	1753	2775	*	*	3257	4941	*	*	4570	*	4914	161
+       0	*	*	*	*	*	*	4913	0	0	
+
+D 162  2302	*	5158	3194	*	*	4198	4996	3125	4880	*	*	*	2703	4066	2825	4958	*	*	4680	162
+       0	*	*	*	*	*	*	4753	0	0	
+
+R 163  *	*	*	*	*	*	*	*	1014	*	*	4084	*	*	1165	*	*	*	*	*	163
+       0	*	*	*	*	*	*	4513	0	0	
+
+L 164  *	*	*	*	*	*	*	2074	*	391	*	*	*	*	*	*	*	*	*	*	164
+       0	*	*	0	*	*	*	3238	0	0	
+
+//

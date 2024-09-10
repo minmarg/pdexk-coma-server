@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d2bcgg2 c.3.1.3 (G:400-446) Guanine nucleotide dissociation inhibitor, GDI {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   c.3.1.3
+FILE  d2bcgg2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2bcgg2.a3m -v 1 
+DATE  Tue Jan 22 05:39:19 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  100 out of 152 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCCCCCCEEECCCCCCCCCCHHHHHHHHHHHHHCCCCCCCEEECC
+>ss_conf
+99888868534515768743313448889999874079822000069
+>Consensus
+PxxdGxxdxvFISxSYDATsHFEttxxDVxdiyxritGxxldlxkxx
+>d2bcgg2 c.3.1.3 (G:400-446) Guanine nucleotide dissociation inhibitor, GDI {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+PREDGSKDNIYLSRSYDASSHFESMTDDVKDIYFRVTGHPLVLKQRQ
+>gi|402219976|gb|EJU00049.1|(399-444:450) rab GDP-dissociation inhibitor [Dacryopinax sp. DJM-731 SS1]   E=2e-06 s/c=1.21 id=47% cov=100%
+PTTTGVEDQIFITRSYDATSHLETVVADVRDVWQRVTGEPLKLEKK-
+>gi|159473597|ref|XP_001694920.1|(390-436:442) rab GDP dissociation inhibitor protein [Chlamydomonas reinhardtii] >gi|158276299|gb|EDP02072.1| rab GDP dissociation inhibitor protein [Chlamydomonas reinhardtii]  E=1e-05 s/c=1.13 id=46% cov=102%
+PLDDGTKDQAFISKGYDATTHFETTVDDVLDMYRRITGRDLDLTAKE
+>gi|428672297|gb|EKX73211.1|(403-447:478) RAB GDP-dissociation inhibitor, putative [Babesia equi]   E=0.0001 s/c=1.10 id=48% cov=98%
+PTEKGSTDNVYVTESYDATSHFESASNDVLRLWKEITGTDLDLSK--
+>gi|291239229|ref|XP_002739494.1|(401-447:453) PREDICTED: GDP dissociation inhibitor 2-like isoform 2 [Saccoglossus kowalevskii]  E=8e-14 s/c=1.69 id=35% cov=102%
+PIDDGKKSKVFVTTSYDATTHFETTCSDILDVWTRMTGEEFDFSKVQ
+>gi|379994168|gb|AFD22711.1|(70-115:125) GDP dissociation inhibitor 2, partial [Collodictyon triciliatum]   E=3e-12 s/c=1.62 id=45% cov=100%
+PVSNGTEDKCFISTSFDPSSHFELVGADIMDIYKRITGKELELKPK-
+>gi|118366737|ref|XP_001016584.1|(406-449:457) Secretory pathway GDP dissociation inhibitor, putative [Tetrahymena thermophila] >gi|89298351|gb|EAR96339.1| Secretory pathway GDP dissociation inhibitor, putative [Tetrahymena thermophila SB210]  E=4e-11 s/c=1.60 id=44% cov=96%
+PTGDGSKNQVFISNSFDPSSHFEAETEAVLRIYKKITGEDIDLE---
+>gi|290999208|ref|XP_002682172.1|(392-437:444) rab gdp dissociation inhibitor alpha [Naegleria gruberi] >gi|284095798|gb|EFC49428.1| rab gdp dissociation inhibitor alpha [Naegleria gruberi]  E=2e-10 s/c=1.49 id=34% cov=100%
+PLDDGKNDGVFISKSYDATTHYESCAEDIVSIHERISGEKFDWNKK-
+>gi|123384540|ref|XP_001298987.1|(392-437:439) GDP dissociation inhibitor family protein [Trichomonas vaginalis G3] >gi|121879717|gb|EAX86057.1| GDP dissociation inhibitor family protein [Trichomonas vaginalis G3]  E=4e-12 s/c=1.61 id=36% cov=100%
+PAIPGSQDGCYCSSSYDPTTHFETTIDEVLKLYEEIMGKPVDFDKK-
+>gi|345566196|gb|EGX49141.1|(428-468:476) hypothetical protein AOL_s00079g13 [Arthrobotrys oligospora ATCC 24927]  E=5e-09 s/c=1.55 id=46% cov=87%
+---DDASDNVFVSKSLDASSHLETCTDDVKHLYKIMEGKDLDI----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3063	0	0	
+
+R 2    4523	*	*	*	*	*	*	2284	3670	2967	*	3969	*	*	5449	5553	1843	2664	*	*	2
+       0	*	*	*	*	*	*	3061	0	0	
+
+E 3    3776	*	1430	2465	*	4602	6810	5825	5589	*	*	3238	*	*	*	3059	4054	*	*	*	3
+       0	*	*	*	*	*	*	3061	0	0	
+
+D 4    6291	*	659	4961	*	6618	*	*	5959	3699	*	3991	5834	*	*	3334	4689	*	*	*	4
+       25	*	5878	*	*	*	*	3078	0	0	
+
+G 5    5123	*	5693	*	*	230	6205	*	*	6574	*	*	4714	*	*	*	6119	5459	*	*	5
+       0	*	*	*	*	0	*	3066	0	1000	
+
+S 6    4529	5792	6653	3806	*	*	6191	5553	2555	4785	6629	4818	*	3918	3867	2189	2461	4850	*	*	6
+       0	*	*	*	*	*	*	3096	0	0	
+
+K 7    3762	*	3022	2379	*	*	6766	*	2100	6195	*	3620	*	3715	4328	3755	4224	5651	*	*	7
+       0	*	*	*	*	*	*	3109	0	0	
+
+D 8    *	*	666	5554	*	*	*	*	*	*	*	4337	*	*	5800	1913	5997	*	*	*	8
+       0	*	*	*	*	*	*	3109	0	0	
+
+N 9    *	*	*	6746	*	2624	5303	5667	2419	*	*	1660	*	2220	4115	7012	*	*	*	*	9
+       0	*	*	*	*	*	*	3109	0	0	
+
+I 10   4530	2261	*	*	*	*	*	1542	*	4952	7143	*	*	*	*	*	6582	1495	*	*	10
+       0	*	*	*	*	*	*	3109	0	0	
+
+Y 11   *	*	*	*	345	*	*	5554	*	*	*	*	*	*	*	*	*	*	*	2385	11
+       0	*	*	*	*	*	*	3109	0	0	
+
+L 12   *	4792	*	*	*	*	*	447	*	4401	*	*	*	*	*	*	6714	2527	*	*	12
+       29	5667	*	1585	585	*	*	3109	1000	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	*	5078	*	*	431	2128	*	*	*	13
+       0	*	*	*	*	*	*	3109	0	0	
+
+R 14   5992	6394	*	4033	*	*	5376	*	1243	*	*	4691	*	6063	2493	3188	3266	*	*	5667	14
+       0	*	*	*	*	*	*	3109	0	0	
+
+S 15   4939	*	*	*	*	3829	*	*	*	*	*	5667	*	*	*	189	*	*	*	*	15
+       0	*	*	*	*	*	*	3109	0	0	
+
+Y 16   *	4719	*	*	3327	*	*	*	*	5836	6399	6785	*	*	*	*	*	6570	*	298	16
+       0	*	*	*	*	*	*	3109	0	0	
+
+D 17   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3109	0	0	
+
+A 18   213	*	*	*	*	6126	*	*	*	*	*	*	3429	*	*	5042	*	*	*	*	18
+       0	*	*	*	*	*	*	3109	0	0	
+
+S 19   5909	*	*	*	*	*	*	5667	*	5078	*	*	*	5572	*	2336	484	*	*	*	19
+       0	*	*	*	*	*	*	3109	0	0	
+
+S 20   6291	*	*	*	*	*	*	*	*	*	5914	5371	*	*	*	770	1473	*	*	*	20
+       0	*	*	*	*	*	*	3109	0	0	
+
+H 21   *	*	*	*	*	*	35	*	*	5376	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3109	0	0	
+
+F 22   *	*	*	*	97	*	*	*	*	4547	*	*	*	*	*	*	*	*	*	5488	22
+       0	*	*	*	*	*	*	3109	0	0	
+
+E 23   *	*	*	79	*	*	*	*	6334	*	*	5078	*	6452	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3109	0	0	
+
+S 24   5314	*	*	*	*	4963	6213	*	5078	6339	*	*	*	*	*	1716	779	*	*	*	24
+       0	*	*	*	*	*	*	3109	0	0	
+
+M 25   3342	4008	4621	3840	*	*	*	*	*	4651	6077	*	*	*	*	5019	1062	2606	*	*	25
+       0	*	*	*	*	*	*	3109	0	0	
+
+T 26   3893	1650	*	*	*	6339	*	5228	*	6351	*	*	*	*	*	3618	2173	1946	*	*	26
+       15	6570	*	3000	193	*	*	3109	1000	0	
+
+D 27   3423	6570	1660	1875	*	*	6741	6195	4732	5021	6700	4388	*	3543	5151	7191	6124	6025	6975	*	27
+       0	*	*	*	*	*	*	3109	0	0	
+
+D 28   6032	*	204	4107	*	*	*	*	*	*	*	4746	*	5572	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3109	0	0	
+
+V 29   *	6178	*	*	*	*	*	1819	*	5440	*	*	*	*	*	5800	*	595	*	*	29
+       0	*	*	*	*	*	*	3109	0	0	
+
+K 30   5622	*	*	4436	*	*	4945	3528	2214	1380	4030	6913	*	4635	4216	6801	*	4572	*	*	30
+       0	*	*	*	*	*	*	3109	0	0	
+
+D 31   4012	*	903	3915	*	*	4664	*	4149	*	*	3483	*	5390	4562	3550	*	*	*	*	31
+       0	*	*	*	*	*	*	3109	0	0	
+
+I 32   5572	*	*	*	*	*	*	1452	*	2223	2034	*	*	*	*	*	6686	2781	*	*	32
+       0	*	*	*	*	*	*	3109	0	0	
+
+Y 33   *	*	*	*	3527	*	5488	*	*	*	*	*	*	*	*	*	*	*	2779	424	33
+       0	*	*	*	*	*	*	3109	0	0	
+
+F 34   *	*	*	2389	4962	*	6570	*	1707	5544	*	*	*	3229	2203	3986	4267	*	*	*	34
+       0	*	*	*	*	*	*	3109	0	0	
+
+R 35   6700	*	*	4380	*	*	*	5836	3035	*	6195	5223	*	5237	470	*	6178	*	*	*	35
+       0	*	*	*	*	*	*	3109	0	0	
+
+V 36   3746	5827	*	*	*	4824	*	1023	*	4006	2944	*	*	*	*	*	*	2408	*	*	36
+       0	*	*	*	*	*	*	3109	0	0	
+
+T 37   5354	5914	*	4318	*	*	5909	*	6801	4602	4002	*	*	*	*	5488	481	6015	6381	6213	37
+       28	5716	*	0	*	*	*	3109	1193	0	
+
+G 38   *	*	*	6757	*	69	*	*	6584	*	*	*	*	*	*	*	6063	6380	*	*	38
+       12	6890	*	2807	222	*	*	3109	1000	0	
+
+H 39   5395	*	*	1629	6275	6654	3975	*	1515	*	6373	4399	*	4707	5026	4695	4336	*	*	*	39
+       0	*	*	*	*	*	*	3113	0	0	
+
+P 40   4737	*	2197	1946	*	*	6165	*	3252	*	*	*	1848	4890	*	*	4469	6766	*	*	40
+       0	*	*	*	*	*	*	3081	0	0	
+
+L 41   *	*	*	*	2141	*	*	4756	*	573	6685	6696	*	*	*	*	*	5183	*	5863	41
+       17	6418	*	1585	585	*	*	3081	1000	0	
+
+V 42   *	5851	687	3780	*	*	*	5551	4878	*	*	*	*	*	*	6475	6307	2256	*	*	42
+       0	*	*	*	*	*	*	3055	0	0	
+
+L 43   *	*	*	*	1855	*	*	5099	*	817	4341	*	*	*	*	*	*	4286	5244	*	43
+       0	*	*	*	*	*	*	3055	0	0	
+
+K 44   *	*	4602	2232	*	*	*	*	1703	*	*	4957	*	*	5415	1549	4592	*	*	*	44
+       0	*	*	*	*	*	*	2986	0	0	
+
+Q 45   6078	*	*	3924	*	5672	*	*	567	*	*	*	4207	3227	5373	5720	*	5609	*	*	45
+       0	*	*	*	*	*	*	2876	0	0	
+
+R 46   *	*	5134	5188	*	*	*	*	1542	4138	*	*	*	5419	1318	*	*	3066	*	*	46
+       0	*	*	*	*	*	*	2791	0	0	
+
+Q 47   *	*	3011	1498	*	*	*	*	3625	*	*	*	*	1181	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	2551	0	0	
+
+//

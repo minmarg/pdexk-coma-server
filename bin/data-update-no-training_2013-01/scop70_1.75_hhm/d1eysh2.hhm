@@ -1,0 +1,151 @@
+HHsearch 1.5
+NAME  d1eysh2 f.23.10.1 (H:7-43) Photosystem II reaction centre subunit H, transmembrane region {Thermochromatium tepidum [TaxId: 1050]}
+FAM   f.23.10.1
+FILE  d1eysh2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1eysh2.a3m -v 1 
+DATE  Mon Jan 21 20:18:44 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  51 out of 53 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCC
+>ss_conf
+9122999999999999999999986201347899889
+>Consensus
+xyxDvAqlxlxaFwxFfaxLixYLrxEdxREGYPLex
+>d1eysh2 f.23.10.1 (H:7-43) Photosystem II reaction centre subunit H, transmembrane region {Thermochromatium tepidum [TaxId: 1050]}
+HYIDAAQITIWAFWLFFFGLIIYLRREDKREGYPLDS
+>gi|23006587|ref|ZP_00048838.1|(9-44:257) COG3861: Uncharacterized protein conserved in bacteria [Magnetospirillum magnetotacticum MS-1]  E=8e-09 s/c=1.76 id=65% cov=100%
+-YIDVAQVTLYAFWIFFAGLVFYLRQEDRREGYPLEN
+>gi|350551973|ref|ZP_08921182.1|(8-44:260) photosynthetic reaction center H subunit [Thiorhodospira sibirica ATCC 700588] >gi|349795616|gb|EGZ49412.1| photosynthetic reaction center H subunit [Thiorhodospira sibirica ATCC 700588]  E=8e-11 s/c=1.90 id=58% cov=103%
+EYMDVGQLVIWTFWFFFAALVYYLRMEDKREGYPLEA
+>gi|61653231|gb|AAX48184.1|(8-44:254) photosynthetic reaction center H subunit [uncultured proteobacterium DelRiverFos06H03]  E=3e-10 s/c=1.84 id=63% cov=103%
+QYIDVAQIVLYMFWAFFAGLIYYLLRENHREGYPMDS
+>gi|21328669|gb|AAM48675.1|(10-44:257) photosynthetic reaction center H subunit [uncultured marine proteobacterium]  E=7e-08 s/c=1.73 id=50% cov=97%
+--FDLASAAIWMFWIFFALLVYYLQTENMREGYPLEA
+>gi|384260439|ref|YP_005415625.1|(10-44:251) Photoreaction center protein H [Rhodospirillum photometricum DSM 122] >gi|378401539|emb|CCG06655.1| Photoreaction center protein H [Rhodospirillum photometricum DSM 122]  E=9e-05 s/c=1.43 id=54% cov=95%
+--FDVATLVTAIFFVsFFLGLIVYLRMEDRREGYPLE-
+>gi|296283651|ref|ZP_06861649.1|(9-42:259) photosynthetic reaction center subunit H [Citromicrobium bathyomarinum JL354]  E=8e-07 s/c=1.66 id=57% cov=95%
+--LDVAILCVIAFVTFFVGLVVYLRREDKREGYPVE-
+>gi|381157908|ref|ZP_09867141.1|(8-44:258) photosynthetic reaction center, subunit H, bacterial [Thiorhodovibrio sp. 970] >gi|380879266|gb|EIC21357.1| photosynthetic reaction center, subunit H, bacterial [Thiorhodovibrio sp. 970]  E=5e-09 s/c=1.72 id=55% cov=103%
+QYFDLAQVTLWAFWLSLLSVIFFNRREDKREGYPQEA
+>gi|114707550|ref|ZP_01440446.1|(8-44:257) Photosynthetic reaction center H-chain [Fulvimarina pelagi HTCC2506] >gi|114537109|gb|EAU40237.1| Photosynthetic reaction center H-chain [Fulvimarina pelagi HTCC2506]  E=4e-06 s/c=1.46 id=56% cov=97%
+--LDLPLLLVIAFFLFFLALVYYLRSEDKREGYPLVS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	*	1130	*	*	3477	*	*	*	*	3470	*	1462	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1747	0	0	
+
+Y 2    *	*	*	*	*	*	4441	*	*	*	*	*	*	*	*	*	*	*	*	68	2
+       0	*	*	*	*	*	*	1748	0	0	
+
+I 3    *	*	*	*	1562	*	*	1432	*	3001	3629	*	*	*	*	*	*	3555	*	*	3
+       0	*	*	*	*	*	*	2190	0	0	
+
+D 4    *	*	48	*	*	*	*	*	*	*	*	4938	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2190	0	0	
+
+A 5    3985	*	*	*	*	5244	*	5003	*	1541	*	*	*	*	*	*	*	901	*	*	5
+       0	*	*	*	*	*	*	2190	0	0	
+
+A 6    90	*	*	*	*	5375	*	*	*	*	*	*	4777	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2190	0	0	
+
+Q 7    *	*	*	4190	*	*	*	4746	*	4227	4850	*	*	797	*	2250	4869	*	*	*	7
+       0	*	*	*	*	*	*	2190	0	0	
+
+I 8    4458	*	*	*	5407	*	*	3690	*	1063	3951	*	*	*	*	*	*	1688	*	*	8
+       0	*	*	*	*	*	*	2190	0	0	
+
+T 9    2455	4039	*	*	*	*	*	5244	*	4777	*	*	*	*	*	3926	2045	1374	*	*	9
+       0	*	*	*	*	*	*	2190	0	0	
+
+I 10   *	*	*	*	3594	*	*	2064	*	811	*	*	*	*	*	*	4869	3761	*	*	10
+       0	*	*	*	*	*	*	2190	0	0	
+
+W 11   4869	*	*	*	*	*	*	3361	*	5003	*	*	*	*	*	*	*	*	1529	1027	11
+       0	*	*	*	*	*	*	2190	0	0	
+
+A 12   783	*	*	*	*	5146	*	4869	*	2807	4035	*	*	*	*	4763	4675	3706	*	*	12
+       0	*	*	*	*	*	*	2190	0	0	
+
+F 13   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2190	0	0	
+
+W 14   *	*	*	*	3132	*	*	*	*	*	*	*	*	*	*	*	*	3058	488	4245	14
+       0	*	*	*	*	*	*	2190	0	0	
+
+L 15   3354	*	*	*	3287	3674	*	1831	*	1617	*	*	*	*	*	*	4746	3698	*	*	15
+       50	4869	*	0	*	*	*	2190	1000	0	
+
+F 16   *	*	*	*	106	*	*	*	*	*	*	*	*	*	*	3823	*	*	*	*	16
+       0	*	*	*	*	*	*	2190	0	0	
+
+F 17   *	*	*	*	301	*	*	*	*	2408	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2190	0	0	
+
+F 18   478	*	*	*	5600	*	*	5003	*	2517	*	*	*	*	*	*	*	4170	*	*	18
+       0	*	*	*	*	*	*	2190	0	0	
+
+G 19   3064	4277	*	*	*	852	*	*	*	2606	*	*	*	*	*	3823	*	5721	*	5577	19
+       0	*	*	*	*	*	*	2190	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	106	*	*	*	*	*	*	*	3823	*	*	20
+       0	*	*	*	*	*	*	2190	0	0	
+
+I 21   *	5188	*	*	*	*	*	715	*	5064	*	*	*	*	*	*	*	1584	*	*	21
+       0	*	*	*	*	*	*	2190	0	0	
+
+I 22   *	*	*	*	1614	*	*	3179	*	5174	*	*	*	*	*	*	*	3264	3931	1452	22
+       0	*	*	*	*	*	*	2190	0	0	
+
+Y 23   *	*	*	*	3823	*	5600	*	*	*	*	*	*	*	*	*	*	*	5660	170	23
+       0	*	*	*	*	*	*	2190	0	0	
+
+L 24   *	*	*	*	*	*	*	4275	*	188	*	3823	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2190	0	0	
+
+R 25   *	*	*	*	*	*	3564	5188	*	5037	*	*	*	2003	718	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2190	0	0	
+
+R 26   4669	*	*	*	*	5053	*	*	*	*	3186	*	*	3374	1053	4173	2851	4371	*	*	26
+       0	*	*	*	*	*	*	2190	0	0	
+
+E 27   4371	*	*	71	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2190	0	0	
+
+D 28   *	*	653	*	*	*	*	*	*	*	*	1718	*	*	*	4061	*	*	*	*	28
+       0	*	*	*	*	*	*	2190	0	0	
+
+K 29   *	*	*	*	*	*	4111	*	1159	*	2250	*	*	*	1816	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2190	0	0	
+
+R 30   *	*	*	*	*	*	4371	*	*	*	*	*	*	*	71	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2190	0	0	
+
+E 31   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2190	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2190	0	0	
+
+Y 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	33
+       0	*	*	*	*	*	*	2190	0	0	
+
+P 34   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2190	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	226	4786	*	*	3818	*	*	*	4734	*	*	35
+       0	*	*	*	*	*	*	2184	0	0	
+
+D 36   *	*	3518	505	*	*	*	*	*	5519	*	*	*	3611	*	*	*	3259	*	*	36
+       0	*	*	*	*	*	*	2189	0	0	
+
+S 37   1849	*	*	*	*	*	*	*	*	*	*	2407	*	*	*	1260	3103	*	*	*	37
+       0	*	*	0	*	*	*	2104	0	0	
+
+//

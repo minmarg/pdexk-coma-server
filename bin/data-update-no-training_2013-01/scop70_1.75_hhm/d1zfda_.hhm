@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d1zfda_ g.37.1.1 (A:) SWI5 zinc-finger domains {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   g.37.1.1
+FILE  d1zfda_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zfda_.a3m -v 1 
+DATE  Tue Jan 22 05:22:05 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  102 out of 13396 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCEEEECCCCEEEEEEECCCC
+>ss_conf
+98703698887776502378811003305679
+>Consensus
+EkPfxCxxxxCxkxFxxxxxLxxHxrxHtxxs
+>d1zfda_ g.37.1.1 (A:) SWI5 zinc-finger domains {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+DRPYSCDHPGCDKAFVRNHDLIRHKKSHQEKA
+>gi|391329249|ref|XP_003739088.1|(287-317:342) PREDICTED: Krueppel-like factor 1-like [Metaseiulus occidentalis]   E=3e-09 s/c=2.08 id=31% cov=100%
+EKPYTCTWDSCTWKFARSDELTRHYRKHTGQ-
+>gi|193083053|ref|NP_001122360.1|(174-205:580) zinc finger protein (C2H2)-141 [Ciona intestinalis] >gi|93003236|tpd|FAA00201.1| TPA: zinc finger protein [Ciona intestinalis]  E=0.0002 s/c=1.52 id=33% cov=103%
+ERPYRCSDQDCEKSFNTLYRLKAHQRIHNGKT
+>gi|402087092|gb|EJT81990.1|(361-392:404) C2H2 finger domain-containing protein FlbC [Gaeumannomyces graminis var. tritici R3-111a-1]  E=7e-07 s/c=1.76 id=33% cov=103%
+EKPFQCEVEGCGRHFSVVSNLRRHRKVHKGDA
+>gi|363749929|ref|XP_003645182.1|(218-249:257) hypothetical protein Ecym_2654 [Eremothecium cymbalariae DBVPG#7215] >gi|356888815|gb|AET38365.1| Hypothetical protein Ecym_2654 [Eremothecium cymbalariae DBVPG#7215]  E=1e-06 s/c=1.75 id=27% cov=103%
+EKNHRCHFPGCGQRFSRHDNCLQHYRTHLKKT
+>gi|260833562|ref|XP_002611726.1|(274-302:556) hypothetical protein BRAFLDRAFT_117067 [Branchiostoma floridae] >gi|229297097|gb|EEN67736.1| hypothetical protein BRAFLDRAFT_117067 [Branchiostoma floridae]  E=3e-05 s/c=1.76 id=30% cov=94%
+-RVHKCDFEGCNKIYTKSSHLKAHRRTHTD--
+>gi|406866744|gb|EKD19783.1|(75-105:1045) c2h2 finger domain containing protein [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]  E=8e-05 s/c=1.60 id=34% cov=100%
+DKKFECPQDGCGKSYSRAEHLYRHQLNHTPK-
+>gi|403360469|gb|EJY79912.1|(30-59:548) hypothetical protein OXYTRI_22808 [Oxytricha trifallax]   E=0.0004 s/c=1.57 id=34% cov=91%
+---FDCQFPGCKKCFTTKFSLKRHYYIHSRR-
+>gi|403331320|gb|EJY64600.1|(185-213:824) Zn-finger [Oxytricha trifallax]   E=0.0005 s/c=1.62 id=28% cov=91%
+-KEYVCPYKECQRAFYEKGNLKTHLRIHT---
+>gi|193210657|ref|NP_510411.3|(316-347:500) Protein ZTF-14 [Caenorhabditis elegans] >gi|154147299|emb|CAB01893.4| Protein ZTF-14 [Caenorhabditis elegans]  E=0.0001 s/c=1.54 id=34% cov=100%
+EKPYHCNVPNCNKSFTNASDRSKHsKRTHSNE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	2563	268	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4535	0	0	
+
+R 2    *	*	*	*	*	*	*	*	976	*	*	*	*	*	1025	*	*	*	*	*	2
+       0	*	*	*	*	*	*	4829	0	0	
+
+P 3    6162	*	*	5725	*	*	*	4925	3586	*	6547	6223	467	4747	5625	5426	5460	*	*	*	3
+       0	*	*	*	*	*	*	4829	0	0	
+
+Y 4    *	*	*	*	1045	*	3232	*	*	5263	*	*	*	*	*	*	*	*	*	1385	4
+       0	*	*	*	*	*	*	4843	0	0	
+
+S 5    4072	6191	*	3763	5740	5386	6040	3969	2481	4817	6512	6239	4944	3313	4113	4422	3818	2537	*	6383	5
+       0	*	*	*	*	*	*	4843	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	4843	0	0	
+
+D 7    5142	*	2682	3305	*	6414	5419	*	3629	5604	*	3942	2509	4828	5663	2904	2849	6633	*	*	7
+       30	*	5591	*	*	*	*	4851	0	0	
+
+H 8    4682	*	5897	4289	2527	*	3598	3740	*	5617	6573	6009	*	5606	6521	6376	6774	3053	2788	2337	8
+       27	6681	6847	2000	415	*	0	4837	1000	1601	
+
+P 9    5704	*	3347	2451	*	*	5021	*	3837	5568	*	5553	1125	4846	*	5845	5651	6265	*	6288	9
+       0	*	*	*	*	573	1610	4834	0	1849	
+
+G 10   5804	*	2785	3956	*	1097	6436	*	*	6261	6198	3008	5455	6454	*	3934	4907	*	*	6707	10
+       0	*	*	*	*	0	*	4848	0	1000	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	4851	0	0	
+
+D 12   5232	*	3441	3836	6412	1345	5597	*	3961	*	6394	2824	6669	5970	*	4413	3641	*	*	6043	12
+       0	*	*	*	*	*	*	4851	0	0	
+
+K 13   4659	*	*	6341	*	6179	5727	*	850	*	5535	*	*	4987	2351	5018	*	*	3866	6378	13
+       0	*	*	*	*	*	*	4851	0	0	
+
+A 14   2456	6510	*	*	*	4002	*	6401	3419	5334	6502	*	6276	4745	2425	1916	3919	4804	*	*	14
+       0	*	*	*	*	*	*	4851	0	0	
+
+F 15   *	5670	*	*	188	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3289	15
+       0	*	*	*	*	*	*	4851	0	0	
+
+V 16   2277	6517	*	*	*	4770	*	5276	4068	4621	5703	4020	*	6179	4590	2054	2604	4618	*	4722	16
+       0	*	*	*	*	*	*	4851	0	0	
+
+R 17   5537	*	3843	5682	*	*	6457	*	4637	*	*	4792	*	3309	1211	3711	2996	4982	5369	6474	17
+       0	*	*	*	*	*	*	4851	0	0	
+
+N 18   3493	*	*	4609	6518	5397	4952	*	2643	3891	6341	4724	3490	3140	4407	2015	*	6386	*	5909	18
+       0	*	*	*	*	*	*	4851	0	0	
+
+H 19   5562	5661	2105	4245	4801	4260	3643	*	*	*	*	4981	*	6539	6605	1643	3996	5585	5369	5312	19
+       0	*	*	*	*	*	*	4851	0	0	
+
+D 20   3864	*	2742	5016	*	6055	2324	6824	4008	5333	*	1818	*	6390	4442	4272	6179	6305	*	5597	20
+       0	*	*	*	*	*	*	4851	0	0	
+
+L 21   6198	3763	*	*	6193	*	*	*	*	455	4525	*	*	*	3491	*	*	5876	*	5634	21
+       0	*	*	*	*	*	*	4851	0	0	
+
+I 22   4186	6283	5622	4926	6588	5515	6388	6001	1977	3630	5491	4187	*	3798	2906	4768	3019	*	*	4575	22
+       0	*	*	*	*	*	*	4851	0	0	
+
+R 23   3602	*	4630	4393	*	5840	6517	5276	3827	*	6332	5061	*	3560	1307	4321	3752	4656	*	6689	23
+       0	*	*	*	*	*	*	4851	0	0	
+
+H 24   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       11	7064	*	0	*	*	*	4851	1000	0	
+
+K 25   6639	*	6412	4195	6043	*	5842	4280	3257	3046	2802	*	*	2593	3544	5653	4750	4127	*	3255	25
+       41	5166	*	0	*	*	*	4851	1969	0	
+
+K 26   5427	*	5767	4647	*	6390	6733	5688	2539	3098	*	5061	*	6574	1032	5728	6664	6901	5488	*	26
+       0	*	*	*	*	*	*	4851	0	0	
+
+S 27   6388	*	*	*	6641	6043	*	2530	5073	3845	*	4260	*	6397	3942	3497	1556	2915	*	*	27
+       0	*	*	*	*	*	*	4851	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       9	7271	*	0	*	*	*	4851	1000	0	
+
+Q 29   4637	*	4893	4153	*	*	5367	*	5417	3801	6174	4359	*	4556	5800	3014	1069	6256	*	6172	29
+       0	*	*	*	*	*	*	4830	0	0	
+
+E 30   4714	*	3149	3516	*	2564	*	*	2992	*	*	2438	3604	4188	3611	4315	*	6229	*	*	30
+       0	*	*	*	*	*	*	4807	0	0	
+
+K 31   5451	*	5564	2766	*	*	*	*	1600	5967	*	4439	5457	2354	2511	*	5421	*	*	*	31
+       0	*	*	*	*	*	*	4766	0	0	
+
+A 32   1508	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1567	1686	*	*	*	32
+       0	*	*	0	*	*	*	4044	0	0	
+
+//

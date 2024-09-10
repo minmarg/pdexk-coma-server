@@ -1,0 +1,98 @@
+<html t:type="layout" title="Edit workstation params"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter"> 
+      
+    <body>
+    
+        <div class="header">
+            Workstation parameters
+        </div>
+    
+        <t:form t:id="editWorkstationForm">
+            <t:errors/> 
+            
+            <table>
+                <tr>
+                    <td>
+                        Username
+                    </td>
+                    <td>
+                        <t:textfield t:id="username" t:value="workstation.username" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Global path for local Temporary File Storage (must end with '/' or '\' depending on OS)
+                    </td>
+                    <td>
+                        <t:textfield t:id="globalFilePath" t:value="workstation.globalFilePath" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Local path for local Temporary File Storage (application context) (must be without '/' or '\' at the end)
+                    </td>
+                    <td>
+                        <t:textfield t:id="localFilePath" t:value="workstation.localFilePath" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Command Used to Invoke PBS Job
+                    </td>
+                    <td>
+                        <t:textfield t:id="scriptPath" t:value="workstation.scriptPath" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        WEB server runs on a computation workstation
+                    </td>
+                    <td>
+                        <t:checkbox t:id="local" t:value="workstation.local"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Hostname 
+                    </td>
+                    <td>
+                        <t:textfield t:id="hostname" t:value="workstation.hostname"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Path to the Private Key File on the Web Server  
+                    </td>
+                    <td>
+                        <t:textfield t:id="keyFilePath" t:value="workstation.keyFilePath"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Passphrase for the Private Key 
+                    </td>
+                    <td>
+                        <t:passwordfield t:id="keyfilePass" t:value="workstation.keyfilePass"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Global path for remote Temporary File Storage (must end with '/' or '\' depending on OS)
+                    </td>
+                    <td>
+                        <t:textfield t:id="remoteFilePath" t:value="workstation.remoteFilePath"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                        <input type="submit" t:type="submit" t:id="updateWorkstationButton" value="Update"/>
+                    </td>
+                </tr>
+            </table>
+            
+        </t:form>
+    </body>
+</html>

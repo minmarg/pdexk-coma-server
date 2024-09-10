@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d2dj7a1 g.39.1.3 (A:44-74) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2dj7a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2dj7a1.a3m -v 1 
+DATE  Tue Jan 22 06:20:03 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  49 out of 51 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCHHHHHHCCC
+>ss_conf
+9655342013210245889613263410159
+>Consensus
+KCxxCxxvLxgEYmskDGxPYCExDYxxxFG
+>d2dj7a1 g.39.1.3 (A:44-74) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+KCQTCSVILTGEYISKDGVPYCESDYHAQFG
+>gi|410895985|ref|XP_003961480.1|(253-283:641) PREDICTED: actin-binding LIM protein 1-like [Takifugu rubripes]   E=0.0004 s/c=1.55 id=56% cov=103%
+KCKICHKVLCGEYITRDGIPYCERDYQNKFG
+>gi|242017898|ref|XP_002429421.1|(213-243:785) ablim, putative [Pediculus humanus corporis] >gi|212514347|gb|EEB16683.1| ablim, putative [Pediculus humanus corporis]  E=3e-07 s/c=1.86 id=59% cov=103%
+KCKDCDAVLHGEYMGKEGVPYCEKDYQKQFG
+>gi|391336382|ref|XP_003742560.1|(192-222:791) PREDICTED: uncharacterized protein LOC100906407 [Metaseiulus occidentalis]  E=6e-07 s/c=1.83 id=56% cov=103%
+KCTACGQLLHGEYMSKDDQPYCEKDYQTRFG
+>gi|357625276|gb|EHJ75777.1|(258-287:805) hypothetical protein KGM_20056 [Danaus plexippus]   E=1e-05 s/c=1.74 id=52% cov=100%
+-CGECGAALPGEYMGRDGVPYCERDYQRLYG
+>gi|344279197|ref|XP_003411377.1|(377-407:972) PREDICTED: actin-binding LIM protein 2-like [Loxodonta africana]   E=9e-05 s/c=1.59 id=55% cov=100%
+-CKALwGKFLSARYISKDGLPYCEADYHSKFG
+>gi|339244391|ref|XP_003378121.1|(244-274:562) putative LIM domain protein [Trichinella spiralis] >gi|316972995|gb|EFV56634.1| putative LIM domain protein [Trichinella spiralis]  E=0.0003 s/c=1.54 id=53% cov=103%
+KCAACHCVLHGEYMEKDGVAYCIRDYDLRFG
+>gi|390352342|ref|XP_784724.3|(61-91:591) PREDICTED: actin-binding LIM protein 1-like [Strongylocentrotus purpuratus]  E=5e-10 s/c=2.16 id=53% cov=103%
+KCHKCKKVLTGEYMGRDGQPFCERDFHQLFG
+>gi|156390411|ref|XP_001635264.1|(177-206:272) predicted protein [Nematostella vectensis] >gi|156222356|gb|EDO43201.1| predicted protein [Nematostella vectensis]  E=0.0003 s/c=1.59 id=48% cov=100%
+-CTKCHCLLSLEYMGMDGKPYCEKDYQELFG
+>gi|393909450|gb|EFO19459.2|(206-236:700) UNCoordinated family member [Loa loa]   E=5e-07 s/c=1.84 id=44% cov=103%
+KCSDCATVLQGEYMTHDGKPLCIRDYNMKYG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	195	*	*	*	*	*	2984	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2293	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2424	0	0	
+
+Q 3    4238	*	*	4988	5250	4543	3847	*	1513	*	*	4634	*	3377	3879	3376	3190	5952	*	*	3
+       0	*	*	*	*	*	*	2424	0	0	
+
+T 4    1767	*	3918	3106	*	*	5691	4249	3443	*	*	*	*	5235	*	3763	2107	5169	*	*	4
+       0	*	*	*	*	*	*	2424	0	0	
+
+C 5    *	71	*	*	*	*	*	*	*	4381	*	*	*	*	*	*	*	*	*	*	5
+       71	4381	*	0	*	*	*	2424	1000	0	
+
+S 6    3674	*	5807	*	*	1153	3175	*	4069	*	*	3011	*	4753	5969	3226	*	*	*	*	6
+       0	*	*	*	*	*	*	2424	0	0	
+
+V 7    2989	2577	*	*	*	*	*	4442	1391	6139	6157	*	*	5158	5129	*	3174	3582	*	*	7
+       0	*	*	*	*	*	*	2424	0	0	
+
+I 8    3889	*	*	*	4381	*	*	5978	*	2756	5235	*	5522	3859	*	*	5230	794	*	*	8
+       0	*	*	*	*	*	*	2424	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2424	0	0	
+
+T 10   4242	5499	5892	*	*	*	2136	*	5522	*	*	2505	5349	4371	*	2654	1994	*	*	*	10
+       0	*	*	*	*	*	*	2424	0	0	
+
+G 11   2167	*	*	*	*	431	*	*	*	4811	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2424	0	0	
+
+E 12   *	*	*	71	*	*	*	*	*	*	*	*	*	*	4381	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2424	0	0	
+
+Y 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	13
+       0	*	*	*	*	*	*	2424	0	0	
+
+I 14   *	*	*	*	*	*	*	1101	*	*	906	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2424	0	0	
+
+S 15   *	5081	*	4238	*	1613	*	*	*	*	*	*	*	*	*	943	3828	*	*	*	15
+       0	*	*	*	*	*	*	2424	0	0	
+
+K 16   *	*	*	*	*	*	3376	*	550	*	4811	*	*	*	2433	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2424	0	0	
+
+D 17   *	*	293	3456	*	*	4380	*	*	*	*	4485	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2424	0	0	
+
+G 18   4753	*	5158	*	*	97	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2424	0	0	
+
+V 19   3580	*	*	*	*	*	*	3370	2922	2905	*	*	*	3384	5235	5171	*	1307	*	*	19
+       0	*	*	*	*	*	*	2424	0	0	
+
+P 20   4238	*	*	*	*	*	*	*	*	*	*	*	79	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2424	0	0	
+
+Y 21   *	*	*	*	4388	*	*	*	*	3376	*	*	*	*	*	*	*	*	*	224	21
+       0	*	*	*	*	*	*	2424	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2424	0	0	
+
+E 23   *	*	*	233	*	*	*	3303	*	4380	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2424	0	0	
+
+S 24   2480	*	*	5081	*	*	*	*	1760	*	5522	*	*	5250	1646	4148	4165	5936	*	*	24
+       0	*	*	*	*	*	*	2424	0	0	
+
+D 25   *	4092	87	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2424	0	0	
+
+Y 26   *	*	*	*	4141	*	*	*	*	*	*	*	*	*	*	*	*	*	*	84	26
+       0	*	*	*	*	*	*	2424	0	0	
+
+H 27   *	*	4238	*	*	*	1476	*	*	*	*	3376	*	1026	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2424	0	0	
+
+A 28   2405	*	*	3580	*	6191	*	4128	2577	3567	4371	5499	*	4143	4619	3144	3014	*	*	*	28
+       0	*	*	*	*	*	*	2424	0	0	
+
+Q 29   *	*	*	4650	*	4753	5232	*	1808	2424	4170	6077	*	2152	3626	4375	*	*	*	*	29
+       0	*	*	*	*	*	*	2424	0	0	
+
+F 30   *	*	*	*	156	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3288	30
+       0	*	*	*	*	*	*	2424	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	2424	0	0	
+
+//

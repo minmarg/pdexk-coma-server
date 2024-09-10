@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d1ji9a_ g.46.1.1 (A:) Metallothionein {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.46.1.1
+FILE  d1ji9a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ji9a_.a3m -v 1 
+DATE  Mon Jan 21 22:27:34 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHCCCCCCCCCCCCCCCCCCC
+>ss_conf
+9755558312455665413458766422100134679
+>Consensus
+ksccsccpaxcekcakdcvckgxegxxaexekcsccq
+>d1ji9a_ g.46.1.1 (A:) Metallothionein {Mouse (Mus musculus) [TaxId: 10090]}
+KSCCSCCPAGCEKCAKDCVCKGEEGAKAEAEKCSCCQ
+>gi|351715754|gb|EHB18673.1|(32-68:68) Metallothionein-3 [Heterocephalus glaber]   E=1e-05 s/c=1.44 id=79% cov=103%
+QSCCSCCPADCEKCAKDCVCTGVKGGKAEEEKCSCCQ
+>gi|348572472|ref|XP_003472016.1|(32-66:68) PREDICTED: metallothionein-3-like [Cavia porcellus]   E=0.0001 s/c=1.41 id=83% cov=97%
+KSECSCCPAECEKCAKDCVCKGGEGVKAEEEKCSC--
+>gi|344289237|ref|XP_003416351.1|(1-68:68) PREDICTED: metallothionein-3-like [Loxodonta africana]   E=3e-10 s/c=1.06 id=87% cov=103%
+KSCCSCCPAECQKCAKDCVCKGDEGAQAEAEKCSCCQ
+>gi|146160941|gb|ABQ08696.1|(1-68:68) metallothionein-III [Capra hircus]   E=5e-10 s/c=1.03 id=84% cov=103%
+KSCCSCCPAECEKCAKDCVCKGGEGAEAEEKKCSCCQ
+>gi|397506620|ref|XP_003823823.1|(46-113:113) PREDICTED: metallothionein-3 [Pan paniscus]   E=2e-06 s/c=1.05 id=87% cov=103%
+KSCCSCCPAECEKCAKDCVCKGGEAAEAEAEKCSCCQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	318	*	*	*	*	2337	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1257	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	2
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 3    *	257	*	2616	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1257	0	0	
+
+S 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	5
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1257	0	0	
+
+P 8    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1257	0	0	
+
+A 9    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1257	0	0	
+
+G 10   *	*	2337	631	*	2676	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1257	0	0	
+
+E 12   *	*	*	264	*	*	*	*	*	*	*	*	*	2581	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1257	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1257	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1257	0	0	
+
+K 16   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1257	0	0	
+
+D 17   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1257	0	0	
+
+V 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	19
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1257	0	0	
+
+K 21   *	*	*	*	*	*	*	*	318	*	*	*	*	*	*	*	2337	*	*	*	21
+       0	*	*	*	*	*	*	1257	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1257	0	0	
+
+E 23   *	*	2581	2676	*	1064	*	*	*	*	*	*	*	*	*	*	*	2337	*	*	23
+       0	*	*	*	*	*	*	1257	0	0	
+
+E 24   *	*	*	318	*	*	*	*	2337	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1257	0	0	
+
+G 25   2665	*	*	*	*	247	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1257	0	0	
+
+A 26   646	*	*	*	*	2337	*	*	*	*	*	*	*	*	*	*	*	2616	*	*	26
+       0	*	*	*	*	*	*	1257	0	0	
+
+K 27   *	*	*	1665	*	*	*	*	950	*	*	*	*	2581	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1257	0	0	
+
+A 28   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1257	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1257	0	0	
+
+A 30   1055	*	*	947	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1257	0	0	
+
+E 31   *	*	*	247	*	*	*	*	2665	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1257	0	0	
+
+K 32   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1257	0	0	
+
+S 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	34
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1257	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1231	0	0	
+
+Q 37   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	1231	0	0	
+
+//

@@ -1,0 +1,114 @@
+HHsearch 1.5
+NAME  d2d8xa2 g.39.1.3 (A:8-32) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2d8xa2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2d8xa2.a3m -v 1 
+DATE  Tue Jan 22 06:21:51 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  44 out of 46 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCHHHHHHHHCCCCCCCCCCC
+>ss_conf
+98776521445666306878876679
+>Consensus
+CxxCxxxIiGRvikAMnxxWHPxCFx
+>d2d8xa2 g.39.1.3 (A:8-32) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+CHQCGEFIIGRVIKAMNNSWHPECFX
+>gi|170100140|ref|XP_001881288.1|(1158-1182:1351) adaptor protein [Laccaria bicolor S238N-H82] >gi|164643967|gb|EDR08218.1| adaptor protein [Laccaria bicolor S238N-H82]  E=0.0002 s/c=1.95 id=50% cov=100%
+CGGCNGSIIGRIVSAMGSRWHPQCF-
+>gi|321264540|ref|XP_003196987.1|(636-660:841) hypothetical protein CGB_L1590C [Cryptococcus gattii WM276] >gi|317463465|gb|ADV25200.1| Conserved hypothetical protein [Cryptococcus gattii WM276]  E=0.0004 s/c=1.92 id=54% cov=100%
+CAGCQTPIIGRIVNAMNQRWHPHCF-
+>gi|353241389|emb|CCA73207.1|(1225-1249:1434) hypothetical protein PIIN_07161 [Piriformospora indica DSM 11827]   E=2e-06 s/c=2.20 id=54% cov=100%
+CGKCDKNIMGRIVSAMNARWHPECF-
+>gi|312382680|gb|EFR28056.1|(279-303:546) hypothetical protein AND_04464 [Anopheles darlingi]   E=5e-05 s/c=2.00 id=62% cov=100%
+CSKCNDFVIGRVIKAMAANWHPHCF-
+>gi|393243593|gb|EJD51107.1|(748-772:943) hypothetical protein AURDEDRAFT_181911 [Auricularia delicata TFB-10046 SS5]  E=0.0006 s/c=1.87 id=50% cov=100%
+CGGCARPIVGRVISSNNVRWHPKCF-
+>gi|403170340|ref|XP_003329691.2|(396-420:619) hypothetical protein PGTG_11441 [Puccinia graminis f. sp. tritici CRL 75-36-700-3] >gi|375168676|gb|EFP85272.2| hypothetical protein PGTG_11441 [Puccinia graminis f. sp. tritici CRL 75-36-700-3]  E=0.001 s/c=1.84 id=42% cov=100%
+CAGCRQLIAGRIVHALDAKWHPDCF-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2174	0	0	
+
+H 2    2393	*	*	5343	*	848	3673	*	4485	*	*	4373	*	*	*	4101	*	*	*	*	2
+       0	*	*	*	*	*	*	2174	0	0	
+
+Q 3    4489	*	*	5901	5704	1364	*	*	1611	*	*	*	*	2862	5814	5018	*	*	*	5842	3
+       0	*	*	*	*	*	*	2174	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2174	0	0	
+
+G 5    4085	*	4351	4550	*	1066	4214	*	*	*	*	2556	*	5081	3307	5867	*	*	*	*	5
+       0	*	*	*	*	*	*	2174	0	0	
+
+E 6    *	5581	5146	949	*	2739	*	*	4165	*	*	4610	*	3647	3698	*	5081	*	*	*	6
+       0	*	*	*	*	*	*	2174	0	0	
+
+F 7    2922	*	*	*	859	5129	*	*	*	3647	*	5049	2865	*	*	4613	*	*	*	*	7
+       0	*	*	*	*	*	*	2174	0	0	
+
+I 8    *	*	*	*	*	*	*	363	*	*	*	*	*	*	*	*	*	2169	*	*	8
+       0	*	*	*	*	*	*	2174	0	0	
+
+I 9    3647	*	5277	*	*	*	*	785	*	*	5049	*	*	*	*	*	4389	2083	*	*	9
+       0	*	*	*	*	*	*	2174	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2174	0	0	
+
+R 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2174	0	0	
+
+V 12   *	*	*	*	*	*	*	1550	*	*	*	*	*	*	*	*	5045	670	*	*	12
+       0	*	*	*	*	*	*	2174	0	0	
+
+I 13   *	*	*	*	*	*	*	825	*	5058	*	*	*	*	*	4452	*	1475	*	*	13
+       0	*	*	*	*	*	*	2174	0	0	
+
+K 14   5152	*	*	*	*	*	4395	*	859	*	*	4015	*	*	*	1684	*	*	*	*	14
+       0	*	*	*	*	*	*	2174	0	0	
+
+A 15   88	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4085	*	*	*	*	15
+       0	*	*	*	*	*	*	2174	0	0	
+
+M 16   *	*	*	*	*	*	*	*	*	3344	247	4085	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2174	0	0	
+
+N 17   5146	*	3716	*	*	2613	*	*	*	*	*	578	*	5292	*	4765	*	*	*	*	17
+       0	*	*	*	*	*	*	2174	0	0	
+
+N 18   1600	5277	*	*	5581	*	*	*	3342	4331	*	2069	*	3184	*	3882	*	4085	*	*	18
+       0	*	*	*	*	*	*	2174	0	0	
+
+S 19   *	*	*	*	*	*	*	*	4395	*	*	1555	*	*	1317	2245	*	*	*	*	19
+       0	*	*	*	*	*	*	2174	0	0	
+
+W 20   *	*	*	*	5022	*	*	*	*	*	*	*	*	*	5018	*	*	*	92	*	20
+       0	*	*	*	*	*	*	2174	0	0	
+
+H 21   *	*	*	*	*	*	67	*	*	*	*	4452	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2174	0	0	
+
+P 22   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2174	0	0	
+
+E 23   3327	*	2292	2402	*	3638	3476	*	3428	*	*	5880	*	2140	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2174	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2174	0	0	
+
+F 25   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2174	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

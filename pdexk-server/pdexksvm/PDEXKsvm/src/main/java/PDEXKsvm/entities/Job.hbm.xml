@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+
+	<class name="PDEXKsvm.entities.Job" table="Job">  
+        <id name="id" column="id" >
+            <generator class="native"/>
+        </id>
+		
+		<property name="generatedId" unique="true" index="genName"/>
+		<property name="workstationId"/>
+		
+		<property name="description"/>
+		<property name="email"/>	
+		<property name="status"/>
+		<property name="type"/>
+		<property name="numberofSeq"/>
+		
+		<property name="expirationDate" type="date"/>
+		<property name="submissionDate" type="date"/>
+		
+		<property name="error" type="text" />
+		
+		<set name="classificationObjects" table="ClassificationObject" lazy="false" cascade="all">
+            <key column="jobId" />
+            <one-to-many class="PDEXKsvm.entities.ClassificationObject" />
+        </set>
+		
+		<set name="dataFiles" table="DataFile" lazy="false" cascade="all">
+            <key column="jobId" />
+            <one-to-many class="PDEXKsvm.entities.DataFile" />
+        </set>
+
+	</class>
+	
+</hibernate-mapping>

@@ -1,0 +1,114 @@
+HHsearch 1.5
+NAME  d1mcti_ g.3.2.1 (I:) Trypsin inhibitor {Bitter gourd (Momordica charantia), linn. Cucurbitaceae, seed [TaxId: 3673]}
+FAM   g.3.2.1
+FILE  d1mcti_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mcti_.a3m -v 1 
+DATE  Mon Jan 21 23:12:20 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  4 out of 6 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.1 
+SEQ
+>ss_pred
+CCCCCCCEECCCCHHHHHHHHHCCCCCC
+>ss_conf
+9775441002567002433222046789
+>Consensus
+ricpxiwmeckrdsdcmaxcicvxghcg
+>d1mcti_ g.3.2.1 (I:) Trypsin inhibitor {Bitter gourd (Momordica charantia), linn. Cucurbitaceae, seed [TaxId: 3673]}
+RICPRIWMECTRDSDCMAKCICVAGHCG
+>gi|125013|sp|P10295.1|ITR2_MOMCH(1-28:28) RecName: Full=Trypsin inhibitor 2; AltName: Full=MCTI-A; AltName: Full=MCTI-II; AltName: Full=Trypsin inhibitor II >gi|148763232|gb|ABR10394.1| trypsin inhibitor 2 [Momordica charantia] >gi|363325|prf||1503172B Ser protease inhibitor MCTI-II  E=3e-06 s/c=1.97 id=86% cov=104%
+RICPRIWMECKRDSDCMAQCICVDGHCG
+>gi|8569287|pdb|1F2S|I(1-28:28) Chain I, Crystal Structure Of The Complex Formed Between Bovine Beta- Trypsin And Mcti-A, A Trypsin Inhibitor Of Squash Family At 1.8 A Resolution  E=3e-06 s/c=1.97 id=86% cov=104%
+RICPRIWMECKRDSDCMAECICVMGHCG
+>gi|61252196|sp|P10296.2|IELI_MOMCH(4-31:31) RecName: Full=Elastase inhibitor 4; AltName: Full=Elastase inhibitor IV; AltName: Full=MCEI-IV; Contains: RecName: Full=Elastase inhibitor 3; AltName: Full=Elastase inhibitor III; AltName: Full=MCEI-III; Contains: RecName: Full=Elastase inhibitor 2; AltName: Full=Elastase inhibitor II; AltName: Full=MCEI-II; Contains: RecName: Full=Elastase inhibitor 1; AltName: Full=Elastase inhibitor I; AltName: Full=MCEI-I >gi|1041919|gb|AAB34881.1| elastase inhibitor IV, MCEI-IV=serine proteinase inhibitor [Momordica charantia=bitter gourds, LINN, Peptide, 31 aa] >gi|1094050|prf||2105265B elastase inhibitor MCEI-IV  E=2e-05 s/c=1.86 id=79% cov=104%
+RICPLIWMECKRDSDCLAQCICVDGHCG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1145	0	0	
+
+I 2    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1145	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1145	0	0	
+
+R 5    *	*	*	*	*	*	*	*	*	1949	*	*	*	*	432	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1145	0	0	
+
+I 6    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1145	0	0	
+
+W 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	7
+       0	*	*	*	*	*	*	1145	0	0	
+
+M 8    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1145	0	0	
+
+E 9    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1145	0	0	
+
+T 11   *	*	*	*	*	*	*	*	432	*	*	*	*	*	*	*	1949	*	*	*	11
+       0	*	*	*	*	*	*	1145	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1145	0	0	
+
+D 13   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1145	0	0	
+
+S 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	14
+       0	*	*	*	*	*	*	1145	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1145	0	0	
+
+M 17   *	*	*	*	*	*	*	*	*	1949	432	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1145	0	0	
+
+A 18   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1145	0	0	
+
+K 19   *	*	*	2017	*	*	*	*	1949	*	*	*	*	1017	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1145	0	0	
+
+I 21   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1145	0	0	
+
+V 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	23
+       0	*	*	*	*	*	*	1145	0	0	
+
+A 24   1949	*	1017	*	*	*	*	*	*	*	2017	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1145	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1145	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1145	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1145	0	0	
+
+G 28   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1145	0	0	
+
+//

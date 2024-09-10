@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d1ef4a_ a.4.11.1 (A:) RNA polymerase subunit RPB10 {Archaeon Methanobacterium thermoautotrophicum [TaxId: 145262]}
+FAM   a.4.11.1
+FILE  d1ef4a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ef4a_.a3m -v 1 
+DATE  Mon Jan 21 20:04:47 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  105 out of 233 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCEEECCCCCCCHHHHHHHHHHHHCCCCHHHHHHHHCCCCCCCCCCCCCCCCCC
+>ss_conf
+9621302488500566899999972799877888660883224111000001269
+>Consensus
+iIPVRCFTCGkvixxxwexyxxxxxxgxxxxxaLDxLGlxRYCCRRMlLtHvdix
+>d1ef4a_ a.4.11.1 (A:) RNA polymerase subunit RPB10 {Archaeon Methanobacterium thermoautotrophicum [TaxId: 145262]}
+MIPVRCLSCGKPVSAYFNEYQRRVADGEDPKDVLDDLGLKRYCCRRMLISHVETW
+>gi|374633847|ref|ZP_09706212.1|(2-54:66) DNA-directed RNA polymerase, subunit N (RpoN/RPB10) [Metallosphaera yellowstonensis MK1] >gi|373523635|gb|EHP68555.1| DNA-directed RNA polymerase, subunit N (RpoN/RPB10) [Metallosphaera yellowstonensis MK1]  E=5e-08 s/c=1.15 id=46% cov=98%
+IIPIRCFTCGSLLADKWEIYSTRVGAGEDPGKVLDDLKVRKLCCRRTLLTHVD--
+>gi|123504806|ref|XP_001328837.1|(2-55:73) hypothetical protein [Trichomonas vaginalis G3] >gi|121911785|gb|EAY16614.1| hypothetical protein TVAG_434510 [Trichomonas vaginalis G3]  E=9e-06 s/c=0.99 id=43% cov=98%
+LIPVRCFTCGAIIGHKWKEYVRLIEEEHmNYTEALNALNLKRFCCRRMLLTHVD--
+>gi|290559884|gb|EFD93207.1|(1-52:63) RNA polymerase, N/8 Kd subunit [Candidatus Parvarchaeum acidophilus ARMAN-5]  E=5e-05 s/c=0.98 id=47% cov=96%
+MIPMRCYSCGKPLSQYWEKYKEEIKE-KPIKEVLDNLGIKRYCCRAIFLGTID--
+>gi|269860361|ref|XP_002649902.1|(7-60:74) DNA-directed RNA polymerases I, II, and III, subunit 10 [Enterocytozoon bieneusi H348] >gi|220066662|gb|EED44136.1| DNA-directed RNA polymerases I, II, and III, subunit 10 [Enterocytozoon bieneusi H348]  E=3e-19 s/c=1.81 id=47% cov=100%
+IIPVRCFSCNKEISSKYEKYLELLSRGVSPADALDQLGLTRICCRRMYLGHVDI-
+>gi|378755335|gb|EHY65362.1|(2-55:76) DNA-directed RNA polymerase I [Nematocida sp. 1 ERTm2]   E=6e-15 s/c=1.54 id=44% cov=100%
+LIPVRCFTCGKEVSGMWEEYMERCTTSNDKAKILTELGLKRPCCRTVMLTTVDI-
+>gi|402470308|gb|EJW04630.1|(2-55:71) hypothetical protein EDEG_01157 [Edhazardia aedis USNM 41457]   E=7e-14 s/c=1.48 id=35% cov=100%
+IIPIRCFTCGREIASMYYQFLEMCKENKNVGEVLDELDMKLFCCRRMFIGNVEI-
+>gi|289597149|ref|YP_003483845.1|(5-66:76) RNA polymerase, N/8 Kd subunit [Aciduliprofundum boonei T469] >gi|289534936|gb|ADD09283.1| RNA polymerase, N/8 Kd subunit [Aciduliprofundum boonei T469]  E=4e-13 s/c=1.25 id=43% cov=96%
+IIPVRCFSCGRVIASDYIAFVNKVNliretenrepTPEEIQRIFDEIGVKRYCCRRMILSHV---
+>gi|357289746|gb|AET73059.1|(2-76:77) hypothetical protein PGAG_00170 [Phaeocystis globosa virus 12T] >gi|357292546|gb|AET73882.1| hypothetical protein PGBG_00174 [Phaeocystis globosa virus 14T]  E=1e-12 s/c=1.00 id=40% cov=100%
+LIPVKCFSCGKVLANKYDFYLREVQkqklnnnvdldkvtyltkdfmEKTPEGEAMDKLGLIKYCCRRHMLTHVDI-
+>gi|338715949|ref|XP_003363363.1|(14-65:79) PREDICTED: DNA-directed RNA polymerases I, II, and III subunit RPABC5-like [Equus caballus]  E=3e-07 s/c=1.11 id=30% cov=96%
+IILVRCFTCGTIICNKLEACLGLLQAQYIKGAALDALGPKCICSHCMLLAHV---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	701	*	2813	2045	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3231	0	0	
+
+I 2    6950	*	*	*	3446	*	*	392	*	4922	6535	*	*	*	*	*	6628	3566	*	*	2
+       0	*	*	*	*	*	*	3247	0	0	
+
+P 3    *	*	*	*	*	*	*	*	*	4175	*	*	82	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3342	0	0	
+
+V 4    *	*	*	*	*	*	*	1792	*	*	4887	*	*	*	*	*	4750	643	*	*	4
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 5    *	4750	*	*	*	*	5377	*	5189	*	*	*	*	*	134	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3342	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3341	0	0	
+
+L 7    *	5476	*	*	209	*	*	*	*	5603	*	*	*	*	*	*	*	6452	5888	3982	7
+       0	*	*	*	*	*	*	3341	0	0	
+
+S 8    6391	*	*	*	*	*	*	*	*	*	5383	*	*	*	*	1583	666	*	*	*	8
+       0	*	*	*	*	*	*	3341	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3341	0	0	
+
+G 10   *	*	*	*	*	94	*	*	*	*	*	3988	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3341	0	0	
+
+K 11   4495	*	5476	*	*	5623	*	*	783	*	6461	3784	*	*	2958	4624	3820	*	*	6999	11
+       19	6292	*	3322	152	*	*	3341	1000	0	
+
+P 12   6292	*	*	3881	*	*	*	2887	*	3501	*	*	3005	*	*	*	5684	858	*	*	12
+       0	*	*	*	*	*	*	3341	0	0	
+
+V 13   4753	*	*	*	*	*	*	849	*	2893	*	*	*	*	*	*	4480	2131	*	*	13
+       71	5289	5476	1420	675	*	*	3341	1330	0	
+
+S 14   1809	4519	*	6172	*	1215	*	*	*	*	*	*	*	*	*	2228	*	*	6268	*	14
+       19	6269	*	2000	415	*	0	3299	1000	1000	
+
+A 15   4019	*	2338	3917	*	5383	2621	*	6984	*	*	1856	5318	4639	*	2951	6752	*	*	*	15
+       36	5357	*	2616	257	0	*	3299	1404	1000	
+
+Y 16   5597	*	5062	6283	5385	*	5356	*	1136	2519	4173	*	*	*	6287	5028	5383	4029	*	3744	16
+       0	*	*	*	*	*	*	3341	0	0	
+
+F 17   *	*	*	*	3983	*	6494	*	*	4136	*	*	*	4753	*	*	*	5385	875	1929	17
+       16	6461	*	2807	222	*	*	3341	1000	0	
+
+N 18   5415	*	3482	901	*	3755	*	5175	5166	5081	*	3885	6862	5666	4576	6034	*	6781	*	5045	18
+       18	6296	*	2585	263	*	*	3341	1000	0	
+
+E 19   2405	*	4591	1572	6202	6292	*	5139	2915	4643	*	*	4286	5223	3444	*	5170	6888	*	*	19
+       0	*	*	*	*	*	*	3341	0	0	
+
+Y 20   *	4537	*	*	1860	6292	*	*	*	6179	*	*	*	*	6461	6479	6296	*	5423	746	20
+       13	6757	*	2322	322	*	*	3341	1000	0	
+
+Q 21   *	*	5093	4653	*	*	6485	5228	2428	1543	4486	6594	4753	3544	4601	4306	5885	3842	*	6999	21
+       28	*	5684	*	*	*	*	3341	0	0	
+
+R 22   4148	*	3654	1983	*	2975	6853	*	3268	*	*	3564	*	3594	3108	4567	4860	*	*	6427	22
+       30	5607	*	2332	319	0	*	3334	1313	1000	
+
+R 23   *	4753	*	3825	6159	*	*	*	3833	1561	4726	*	*	5476	1403	6461	6757	*	*	6588	23
+       0	*	*	*	*	*	*	3341	0	0	
+
+V 24   4474	3729	*	5518	*	*	*	2686	5471	1634	*	*	*	*	5597	*	4822	1797	*	6179	24
+       37	5591	7676	913	1093	*	*	3341	1591	0	
+
+A 25   3564	*	3629	2825	*	4922	6404	*	3099	3999	6264	4281	4906	3063	3579	3194	4081	*	*	*	25
+       118	4600	4752	3956	96	0	*	3344	1712	1000	
+
+D 26   2051	6380	4525	1917	*	3961	*	6368	4580	7169	5563	3463	*	4358	5137	4713	3536	*	*	*	26
+       94	4965	5021	2100	383	0	*	3290	1791	1000	
+
+G 27   *	*	3470	4428	*	929	*	*	3715	*	*	4104	3763	4170	*	3946	*	6715	*	*	27
+       61	5832	5409	1490	635	0	*	3322	1373	1469	
+
+E 28   4585	*	*	1411	5359	6878	4840	5414	3368	6439	4779	6356	*	6146	5441	5043	4891	4558	*	2393	28
+       23	5969	*	439	1930	*	0	3338	1393	1272	
+
+D 29   5473	*	1680	3738	*	6867	5284	4456	5175	*	7033	4133	3868	5395	6878	2534	2954	5979	*	*	29
+       0	*	*	*	*	*	0	3338	0	1272	
+
+P 30   5536	*	5243	1915	*	*	*	4322	3037	4869	6509	*	1378	4849	*	6457	6049	6188	*	6598	30
+       26	5803	*	2322	322	*	0	3338	1294	1272	
+
+K 31   2658	6827	5667	2767	*	1585	*	*	3156	*	5979	5061	*	5017	5330	3200	6598	*	*	*	31
+       61	4604	*	1169	849	0	*	3338	1779	1272	
+
+D 32   3034	*	1803	1964	*	*	*	*	2069	*	*	6802	*	6918	4282	5829	6584	*	*	*	32
+       29	5662	*	0	*	*	*	3342	1228	0	
+
+V 33   1053	*	*	*	*	5682	*	2845	*	*	*	*	*	*	*	6393	6611	1568	*	*	33
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 34   5682	*	*	*	3846	*	*	*	*	260	3725	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3342	0	0	
+
+D 35   *	*	330	4590	*	*	*	*	*	*	*	3952	*	*	*	4343	4354	*	*	*	35
+       0	*	*	*	*	*	*	3342	0	0	
+
+D 36   1982	*	1965	1770	*	*	*	6920	4539	*	*	4403	*	6582	6205	4140	5774	*	*	*	36
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 37   *	*	*	*	5822	*	*	4036	*	167	6110	*	*	*	*	*	*	5958	*	*	37
+       0	*	*	*	*	*	*	3342	0	0	
+
+G 38   6008	*	4157	6403	*	359	5959	*	6738	*	*	3956	*	6023	4983	*	*	*	*	*	38
+       55	*	4750	*	*	*	*	3342	0	0	
+
+L 39   *	6744	*	*	4945	*	*	2183	*	1237	4222	*	4497	*	*	*	*	2211	*	*	39
+       0	*	*	*	*	0	*	3291	0	1000	
+
+K 40   *	*	3566	3243	*	*	5721	6198	1246	*	6461	4026	*	5103	3494	4930	3337	4910	*	*	40
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 41   *	4534	6179	*	*	*	*	*	2856	6206	5475	*	*	5377	425	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3342	0	0	
+
+Y 42   *	*	*	*	4594	*	5827	3531	*	5733	6739	*	5332	*	*	*	*	*	*	319	42
+       0	*	*	*	*	*	*	3342	0	0	
+
+C 43   *	55	*	*	*	*	*	*	*	*	*	4750	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3342	0	0	
+
+C 44   *	64	*	*	*	*	*	*	*	*	*	*	*	*	*	4534	*	*	*	*	44
+       0	*	*	*	*	*	*	3342	0	0	
+
+R 45   *	*	*	*	*	*	4534	*	5996	*	*	*	*	*	87	*	*	*	*	*	45
+       55	4750	*	0	*	*	*	3342	1000	0	
+
+R 46   5398	4534	*	*	*	4750	5377	*	6632	*	*	*	*	*	280	*	4720	*	*	*	46
+       0	*	*	*	*	*	*	3342	0	0	
+
+M 47   *	*	*	*	*	*	5189	6203	*	*	290	*	*	*	*	6727	3582	4378	*	*	47
+       0	*	*	*	*	*	*	3342	0	0	
+
+L 48   *	*	*	*	2315	*	*	2631	*	1180	3281	*	*	*	*	*	*	4603	*	4263	48
+       0	*	*	*	*	*	*	3342	0	0	
+
+I 49   5606	*	*	*	5822	*	*	3092	*	463	4181	*	*	*	*	*	*	3969	*	*	49
+       0	*	*	*	*	*	*	3342	0	0	
+
+S 50   2395	*	*	*	*	3184	*	*	*	*	*	*	*	*	*	1699	1351	*	*	*	50
+       0	*	*	*	*	*	*	3342	0	0	
+
+H 51   5551	*	*	*	*	*	332	*	*	*	*	4331	*	*	*	5260	4066	*	*	4351	51
+       0	*	*	*	*	*	*	3301	0	0	
+
+V 52   5091	6506	*	*	*	*	*	3108	5701	*	5289	*	*	6547	6321	*	3852	501	*	*	52
+       0	*	*	*	*	*	*	3242	0	0	
+
+E 53   *	*	423	2072	*	*	*	*	*	*	*	5929	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	3166	0	0	
+
+T 54   *	*	*	*	*	*	*	777	*	*	*	*	*	*	*	4771	2171	2666	*	*	54
+       0	*	*	*	*	*	*	2689	0	0	
+
+W 55   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	55
+       0	*	*	0	*	*	*	1372	0	0	
+
+//

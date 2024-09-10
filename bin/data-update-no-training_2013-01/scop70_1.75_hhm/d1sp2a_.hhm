@@ -1,0 +1,133 @@
+HHsearch 1.5
+NAME  d1sp2a_ g.37.1.1 (A:) Transcription factor sp1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1sp2a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sp2a_.a3m -v 1 
+DATE  Tue Jan 22 02:13:50 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  104 out of 15052 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.0 
+SEQ
+>ss_pred
+CCEECCCCCCCCEEEECCCCEEEEEEECCCC
+>ss_conf
+9704698776877422278802326644789
+>Consensus
+kpfxCxxxxCxkxFxxxxxLxxHxrxHtgek
+>d1sp2a_ g.37.1.1 (A:) Transcription factor sp1 {Human (Homo sapiens) [TaxId: 9606]}
+RPFMCTWSYCGKRFTRSDELQRHKRTHTGEK
+>gi|344301364|gb|EGW31676.1|(325-355:418) hypothetical protein SPAPADRAFT_62287 [Spathaspora passalidarum NRRL Y-27907]  E=0.0002 s/c=1.56 id=38% cov=103%
+RPYPCRYPDCDWRFSRPNDRTRHENQHSGVK
+>gi|241695315|ref|XP_002413051.1|(528-558:879) zinc finger protein, putative [Ixodes scapularis] >gi|215506865|gb|EEC16359.1| zinc finger protein, putative [Ixodes scapularis]  E=0.0002 s/c=1.56 id=38% cov=103%
+RPYICPFEGCAWTFASASKLTRHTRKHTGDR
+>gi|403332750|gb|EJY65417.1|(233-263:1218) Zn-finger [Oxytricha trifallax]   E=0.0001 s/c=1.59 id=34% cov=103%
+RPFVCSTQDCEKQFITKGHLKTHELIHSGDR
+>gi|162424313|gb|ABX89895.1|(436-466:496) gli [Nematostella vectensis]   E=1e-06 s/c=1.80 id=38% cov=103%
+KPHKCYHEGCTKAYSRLENLKTHLRSHTGER
+>gi|146164425|ref|XP_001013188.2|(309-339:368) Zinc finger, C2H2 type family protein [Tetrahymena thermophila] >gi|146145784|gb|EAR92943.2| Zinc finger, C2H2 type family protein [Tetrahymena thermophila SB210]  E=1e-05 s/c=1.69 id=34% cov=103%
+RPYKCDYFECDQAFTQVSNLKRHQKIHLNDK
+>gi|326428047|gb|EGD73617.1|(511-541:798) early growth response protein [Salpingoeca sp. ATCC 50818]   E=9e-05 s/c=1.60 id=38% cov=103%
+KPFVCDEKDCGRSFRQRSALTRHKKSHIRER
+>gi|169612445|ref|XP_001799640.1|(226-256:404) hypothetical protein SNOG_09345 [Phaeosphaeria nodorum SN15] >gi|160702511|gb|EAT83537.2| hypothetical protein SNOG_09345 [Phaeosphaeria nodorum SN15]  E=0.0001 s/c=1.59 id=34% cov=103%
+KRYQCHMPDCNKSFFQKTHLEIHIRAHTGAK
+>gi|403217676|emb|CCK72169.1|(238-268:280) hypothetical protein KNAG_0J00870 [Kazachstania naganishii CBS 8797]  E=0.0006 s/c=1.51 id=38% cov=103%
+KNYVCPHESCGQRFSRHDNCIQHYRTHLKKK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	731	*	*	*	*	*	1331	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4739	0	0	
+
+P 2    4595	*	*	*	*	6301	*	*	3355	*	5939	5487	573	5731	3265	6084	*	*	*	*	2
+       12	6944	*	1585	585	*	*	4811	1000	0	
+
+F 3    *	*	*	*	1162	*	4019	*	*	5207	*	*	*	*	*	*	*	*	5927	1159	3
+       0	*	*	*	*	*	*	5087	0	0	
+
+M 4    3321	5594	*	4374	*	6512	3925	4251	2513	5758	5656	*	3733	3817	4750	4703	4813	2508	*	4183	4
+       0	*	*	*	*	*	*	5087	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       47	*	4968	*	*	*	*	5087	0	0	
+
+T 6    6209	*	2460	3285	*	5532	4938	*	6460	*	6053	3594	2230	4693	5644	2949	3091	5646	*	*	6
+       49	6690	5388	0	*	*	0	5052	1000	1561	
+
+W 7    5558	*	5552	3641	2665	5912	3731	4335	6598	5330	6422	*	*	6606	*	*	6286	2769	2163	2854	7
+       13	*	6823	*	*	1285	762	5052	0	2445	
+
+S 8    4857	*	4461	2763	6129	4234	4724	6564	3376	5741	*	5279	1297	3917	*	5594	*	6491	*	6496	8
+       0	*	*	*	*	442	1922	5085	0	2093	
+
+Y 9    6618	6802	2789	3454	*	1596	6337	6647	6500	*	6495	2836	*	5948	6496	2589	5223	*	*	6723	9
+       0	*	*	*	*	0	*	5085	0	1000	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	5087	0	0	
+
+G 11   5893	*	2902	6375	*	1213	5505	5693	5215	6623	*	2901	6856	4220	4936	4111	4951	6862	*	*	11
+       0	*	*	*	*	*	*	5087	0	0	
+
+K 12   5007	*	*	*	*	*	*	*	1004	*	4535	*	*	3815	2263	6033	6273	*	3854	4304	12
+       28	5693	*	1585	585	*	*	5087	1000	0	
+
+R 13   2862	5831	6506	*	*	*	6560	*	2952	4447	6707	5944	6569	4445	2222	2322	3258	5418	5399	*	13
+       0	*	*	*	*	*	*	5087	0	0	
+
+F 14   *	5766	*	*	187	*	*	*	*	*	*	*	*	*	*	*	5666	5693	*	3957	14
+       0	*	*	*	*	*	*	5087	0	0	
+
+T 15   2358	6084	*	*	4424	4545	*	4961	3794	4761	*	5413	4911	*	4075	2253	2586	4604	*	5251	15
+       0	*	*	*	*	*	*	5087	0	0	
+
+R 16   6428	6225	5497	*	*	*	6173	5966	3625	5747	*	4499	*	2855	1296	3502	3449	5767	5354	6495	16
+       0	*	*	*	*	*	*	5047	0	0	
+
+S 17   3678	*	*	5355	5715	5873	4667	*	2496	4273	5043	4829	4493	3712	3693	1920	5450	4970	*	6585	17
+       0	*	*	*	*	*	*	5087	0	0	
+
+D 18   6241	5869	2363	2853	4751	4021	4327	*	*	*	*	4679	*	*	6676	1976	3264	6524	5385	4428	18
+       0	*	*	*	*	*	*	5087	0	0	
+
+E 19   3494	*	3323	3624	*	5674	1877	5784	4520	5284	*	2077	*	*	5416	3916	6084	*	*	6707	19
+       0	*	*	*	*	*	*	5087	0	0	
+
+L 20   6516	5018	*	*	5666	*	*	*	*	387	4263	*	*	6262	3827	*	*	5683	*	5733	20
+       0	*	*	*	*	*	*	5087	0	0	
+
+Q 21   4198	*	4844	5038	*	*	6241	4874	1660	5673	6606	4540	*	4241	3167	3556	2530	5549	*	*	21
+       0	*	*	*	*	*	*	5087	0	0	
+
+R 22   4303	*	5078	3757	*	6891	*	4110	3867	5350	*	4342	*	3629	1435	5031	3786	4574	5058	6479	22
+       0	*	*	*	*	*	*	5087	0	0	
+
+H 23   *	*	*	*	*	*	44	*	*	*	*	*	*	*	*	*	*	*	*	5058	23
+       0	*	*	*	*	*	*	5087	0	0	
+
+K 24   *	*	*	3591	5618	*	5921	4093	3608	2856	2420	6454	*	3219	3182	5186	4891	4897	*	3461	24
+       9	7368	*	0	*	*	*	5087	1000	0	
+
+R 25   *	6205	*	5161	6092	*	6349	4853	3404	4065	*	4743	*	6569	607	5046	*	6965	*	*	25
+       40	5186	*	0	*	*	*	5087	1884	0	
+
+T 26   5339	*	*	*	*	*	*	2584	3593	4475	5450	5219	*	5590	4388	3508	1664	2654	*	*	26
+       10	7197	*	0	*	*	*	5091	1000	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	5091	0	0	
+
+T 28   4297	*	6170	5229	*	*	*	4440	6253	3966	*	4843	*	6170	5348	2668	882	6339	*	*	28
+       0	*	*	*	*	*	*	5014	0	0	
+
+G 29   *	*	5499	6481	*	613	6019	*	3590	*	5485	2995	5888	6416	5857	6726	6447	*	*	*	29
+       0	*	*	*	*	*	*	5005	0	0	
+
+E 30   4621	*	3776	884	*	6195	*	4220	4277	*	6131	6658	6424	3593	*	5267	5519	4081	*	*	30
+       0	*	*	*	*	*	*	4938	0	0	
+
+K 31   *	*	*	*	*	*	*	*	702	*	*	*	*	*	1376	*	*	*	*	*	31
+       0	*	*	0	*	*	*	4735	0	0	
+
+//

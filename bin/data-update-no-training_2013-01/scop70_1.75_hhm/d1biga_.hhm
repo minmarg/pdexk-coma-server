@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d1biga_ g.3.7.2 (A:) Bmtx1 {Buthus martensii [TaxId: 34649]}
+FAM   g.3.7.2
+FILE  d1biga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1biga_.a3m -v 1 
+DATE  Mon Jan 21 18:58:44 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  14 out of 16 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCHHHHHHHHHCCCCCCEECCCCCCCC
+>ss_conf
+9313354788520257787507756731278131039
+>Consensus
+qftdvkCsxSxqCwpxCkxxxgxxxGKCmNxkCrCYs
+>d1biga_ g.3.7.2 (A:) Bmtx1 {Buthus martensii [TaxId: 34649]}
+EFTDVKCTGSKQCWPVCKQMFGKPNGKCMNGKCRCYS
+>gi|387942506|sp|H2ETQ6.1|KAX1E_MESMA(23-59:59) RecName: Full=Potassium channel toxin alpha-KTx 1.14; AltName: Full=Kcug1; Flags: Precursor >gi|372293559|gb|AEX92701.1| putative potassium-channel inhibitor Kcug1 [Mesobuthus martensii]  E=3e-07 s/c=1.57 id=63% cov=103%
+QFTDVRCSASSKCWPVCKKLFGTYKGKCKNSKCRCYS
+>gi|37999488|sp|P59925.1|KAX43_TITDI(2-37:37) RecName: Full=Potassium channel toxin alpha-KTx 4.3; AltName: Full=Toxin TdK1  E=1e-06 s/c=1.56 id=68% cov=100%
+-FINVKCTGSKQCLPACKAAVGKAAGKCMNGKCKCYT
+>gi|38258412|sp|P59943.1|KAX1C_LEIQH(23-59:59) RecName: Full=Potassium channel toxin alpha-KTx 1.12; AltName: Full=Charybdotoxin b; Short=ChTx-b; Flags: Precursor  E=2e-06 s/c=1.50 id=61% cov=103%
+QFTDVSCTTSKECWSVCQRLHNTSIGKCMNKKCRCYS
+>gi|464741|sp|P24663.2|KAX13_MESTA(1-36:37) RecName: Full=Potassium channel toxin alpha-KTx 1.3; AltName: Full=Iberiotoxin; Short=IbTx  E=1e-05 s/c=1.47 id=62% cov=100%
+QFTDVDCSVSKECWSVCKDLFGVDRGKCMGKKCRCY-
+>gi|38503414|sp|P45628.2|KAX12_LEIQH(23-59:59) RecName: Full=Potassium channel toxin alpha-KTx 1.2; AltName: Full=ChTX-Lq2; AltName: Full=ChTx-d; AltName: Full=Charybdotoxin-2; AltName: Full=Lqh 18-2; AltName: Full=Toxin 18-2; Flags: Precursor  E=5e-05 s/c=1.38 id=55% cov=103%
+QFTQESCTASNQCWSICKRLHNTNRGKCMNKKCRCYS
+>gi|74837074|sp|Q5G8B6.1|KAX45_TITCO(24-58:59) RecName: Full=Potassium channel toxin alpha-KTx 4.5; Flags: Precursor >gi|58379067|gb|AAW72455.1| putative K+ channel blocker alpha-KTx 4.5 precursor [Tityus costatus]  E=8e-05 s/c=1.44 id=61% cov=97%
+-FINVKCRGSPECLPKCKEAIGKSAGKCMNGKCKCY-
+>gi|38258644|sp|Q9BKB7.1|KGX21_BUTEU(24-57:57) RecName: Full=Potassium channel toxin gamma-KTx 2.1; AltName: Full=Neurotoxin BeKm-1; Flags: Precursor >gi|13491968|gb|AAK28021.1|AF276623_1 BeKm-1 toxin precursor [Mesobuthus eupeus]  E=0.0001 s/c=1.47 id=60% cov=95%
+--TDIKCSESYQCFPVCKSRFGKTNGRCVNGFCDCF-
+>gi|34925057|sp|P59848.1|KAX19_CENLM(1-35:36) RecName: Full=Potassium channel toxin alpha-KTx 1.9; AltName: Full=Hongotoxin-2; Short=HgTX2  E=0.0001 s/c=1.42 id=64% cov=97%
+HFIDVKCTTSKECWPPCKAATGKAAGKCMNKKCKC--
+>gi|330434949|gb|AEC22868.1|(25-59:59) Tx3B [Mesobuthus eupeus]   E=0.001 s/c=1.33 id=50% cov=97%
+-LIDVKCSASRECWVACKKVTGSGQGKCQNNQCRCY-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	3161	*	*	2648	*	*	*	*	*	*	457	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1788	0	0	
+
+F 2    *	*	*	*	198	*	*	*	*	2962	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2106	0	0	
+
+T 3    *	*	*	*	*	*	*	1282	*	*	*	*	*	*	*	*	764	*	*	*	3
+       0	*	*	*	*	*	*	2243	0	0	
+
+D 4    *	*	708	*	*	*	*	*	*	*	*	1726	*	3546	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2243	0	0	
+
+V 5    3976	*	*	3546	*	*	*	3132	*	*	*	*	*	*	*	*	*	441	*	*	5
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 6    *	*	3579	*	*	*	*	*	679	*	*	*	*	*	3728	2210	*	*	*	*	6
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2243	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	3034	1165	1211	*	*	*	8
+       0	*	*	*	*	*	*	2243	0	0	
+
+G 9    1370	*	*	3132	*	2167	*	*	*	*	*	*	*	*	*	3908	2987	3579	*	*	9
+       0	*	*	*	*	*	*	2243	0	0	
+
+S 10   *	*	*	*	*	*	*	*	*	*	*	*	3908	*	*	99	*	*	*	*	10
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 11   *	*	*	*	*	*	*	*	1218	*	*	3546	3034	*	3142	2888	*	*	*	3132	11
+       0	*	*	*	*	*	*	2243	0	0	
+
+Q 12   *	*	*	1168	*	*	*	*	3728	*	*	*	*	1060	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2243	0	0	
+
+W 14   *	*	*	*	3132	*	*	*	*	2043	*	*	*	*	*	*	*	*	637	*	14
+       0	*	*	*	*	*	*	2243	0	0	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	629	*	*	2058	*	3142	*	*	15
+       0	*	*	*	*	*	*	2243	0	0	
+
+V 16   2096	*	*	*	*	*	*	3546	3034	*	*	*	4180	*	*	*	*	991	*	*	16
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 18   *	*	*	4068	*	*	*	*	292	*	*	4238	*	3818	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2243	0	0	
+
+Q 19   3194	*	3579	2999	*	*	*	*	2010	*	*	*	*	2616	2676	3132	*	*	*	*	19
+       0	*	*	*	*	*	*	2243	0	0	
+
+M 20   2112	*	*	*	*	*	*	*	3908	1414	3329	*	*	*	3132	*	*	3142	*	*	20
+       0	*	*	*	*	*	*	2243	0	0	
+
+F 21   *	*	*	*	1003	*	2676	3034	*	*	*	*	*	*	*	*	2570	4210	*	*	21
+       0	*	*	*	*	*	*	2243	0	0	
+
+G 22   *	*	*	*	*	246	*	*	*	*	*	2676	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 23   *	*	*	*	*	*	*	*	1016	*	*	*	*	*	*	3102	1725	3530	*	*	23
+       0	*	*	*	*	*	*	2201	0	0	
+
+P 24   2062	*	3579	*	*	3142	*	*	*	*	*	3546	3329	*	*	2950	3132	*	*	2888	24
+       0	*	*	*	*	*	*	2243	0	0	
+
+N 25   1747	*	*	*	*	*	*	3818	3728	*	*	2227	*	3142	2127	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2243	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 27   *	*	*	*	*	*	*	*	175	*	*	*	*	*	3132	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2243	0	0	
+
+M 29   *	*	*	*	*	*	*	*	3728	*	520	*	*	3142	*	*	*	3132	*	*	29
+       0	*	*	*	*	*	*	2243	0	0	
+
+N 30   *	*	*	*	*	3579	*	*	*	*	*	126	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2243	0	0	
+
+G 31   *	*	*	*	*	1132	*	*	1759	*	*	3142	*	*	*	2888	*	*	*	*	31
+       0	*	*	*	*	*	*	2243	0	0	
+
+K 32   *	*	*	*	3132	*	*	*	372	*	*	*	*	3142	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2243	0	0	
+
+R 34   *	*	3132	*	*	*	*	*	1747	*	*	*	*	*	766	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2201	0	0	
+
+Y 36   *	*	*	*	2915	*	*	*	*	*	*	*	*	*	*	*	*	*	*	205	36
+       0	*	*	*	*	*	*	2204	0	0	
+
+S 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	307	2382	*	*	*	37
+       0	*	*	0	*	*	*	1725	0	0	
+
+//

@@ -1,0 +1,228 @@
+HHsearch 1.5
+NAME  d2axtz1 f.17.5.1 (Z:1-62) Photosystem II reaction center protein Z, PsbZ {Thermosynechococcus elongatus [TaxId: 146786]}
+FAM   f.17.5.1
+FILE  d2axtz1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2axtz1.a3m -v 1 
+DATE  Tue Jan 22 05:32:48 2013
+LENG  62 match states, 62 columns in multiple alignment
+FILT  103 out of 116 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCEEEEHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+84899999999999999999887554207987212665446247999999999999987429
+>Consensus
+MtixfQlalxALixxSFxlvvgVPVxxAsPxgWxxsKxxixxGxxxWxxLVxlvgiLNxfVv
+>d2axtz1 f.17.5.1 (Z:1-62) Photosystem II reaction center protein Z, PsbZ {Thermosynechococcus elongatus [TaxId: 146786]}
+MTILFQLALAALVILSFVMVIGVPVAYASPQDWDRSKQLIFLGSGLWIALVLVVGVLNFFVV
+>gi|428217142|ref|YP_007101607.1|(1-61:62) Photosystem II reaction center protein Z [Pseudanabaena sp. PCC 7367] >gi|427988924|gb|AFY69179.1| Photosystem II reaction center protein Z [Pseudanabaena sp. PCC 7367]  E=3e-10 s/c=1.12 id=50% cov=100%
+MTVIFQLLLAFFVFFSFLMIVAVPVAYALPGNWNQTRPLLYIGSAIWAILVVVLGVFNAFV-
+>gi|41179027|ref|NP_958383.1|(1-62:62) photosystem II protein Z [Chlamydomonas reinhardtii] >gi|3123110|sp|P92276.1|PSBZ_CHLRE RecName: Full=Photosystem II reaction center protein Z; Short=PSII-Z >gi|1766039|gb|AAB39940.1| hypothetical ycf9 protein [Chlamydomonas reinhardtii] >gi|28269750|tpg|DAA00928.1| TPA_inf: photosystem II reaction center protein Z [Chlamydomonas reinhardtii] >gi|213517410|gb|ACJ50116.1| photosystem II protein Z [Chlamydomonas reinhardtii] >gi|217315618|gb|ACK37291.1| photosystem II protein Z [Chlamydomonas reinhardtii] >gi|217315621|gb|ACK37293.1| photosystem II protein Z [Chlamydomonas reinhardtii]  E=7e-09 s/c=1.02 id=51% cov=102%
+MTSILQVALLALIFVSFALVVGVPVVFATPNGWTDNKGAVFSGLSLWLLLVFVVGILNSFVV
+>gi|149072050|ref|YP_001293571.1|(1-62:62) photosystem II protein Z [Rhodomonas salina] >gi|134303001|gb|ABO70805.1| photosystem II protein Z [Rhodomonas salina]  E=2e-07 s/c=0.94 id=41% cov=102%
+MVAILQLLVSMLILLSFALVVSVPVILVSPGEWEKSKGLVYTGAGLWFGLVIMTAAFNSFVI
+>gi|88809944|ref|ZP_01125449.1|(19-80:80) photosystem II reaction center protein PsbZ [Synechococcus sp. WH 7805] >gi|88786134|gb|EAR17296.1| photosystem II reaction center protein PsbZ [Synechococcus sp. WH 7805]  E=4e-07 s/c=0.93 id=51% cov=102%
+MQILNTLTVLALVVMSFALIVAVPVLYASNEDSGRSNRLILLGGIVWVALVLVNWGMSFFVV
+>gi|342316375|ref|YP_004769948.1|(1-61:62) PsbZ (chloroplast) [Wolffia australiana] >gi|341834240|gb|AEK94509.1| PsbZ [Wolffia australiana]  E=8e-07 s/c=0.93 id=45% cov=100%
+MTIAFQLVVFALIATSSVLLISVPVVFASSDGWSSNKNILFSAASLWIGLVFLVAILNFLI-
+>gi|30468163|ref|NP_849050.1|(1-61:62) Ycf9 [Cyanidioschyzon merolae strain 10D] >gi|62287467|sp|Q85FY1.1|PSBZ_CYAME RecName: Full=Photosystem II reaction center protein Z; Short=PSII-Z >gi|30409263|dbj|BAC76212.1| photosystem II protein Y (chloroplast) [Cyanidioschyzon merolae strain 10D]  E=1e-05 s/c=0.87 id=39% cov=100%
+MSIILQILVVALIVYSFVLIVAVPITLSTASGWSKSKSSIVTASIGWVGMVLLTGVLNSFV-
+>gi|11467024|ref|NP_041931.1|(5-61:65) Ycf9 [Euglena gracilis] >gi|418362|sp|P32095.1|PSBZ_EUGGR RecName: Full=Photosystem II reaction center protein Z; Short=PSII-Z >gi|415774|emb|CAA50118.1| Ycf9 protein [Euglena gracilis]  E=2e-05 s/c=0.92 id=40% cov=94%
+-TFTFQALVLALIIFSFILVLTLPVIFASPKGWENNKSRIWLACRFWFFLVFLIGILD----
+>gi|158334193|ref|YP_001515365.1|(1-62:62) photosystem II protein PsbZ [Acaryochloris marina MBIC11017] >gi|359463972|ref|ZP_09252535.1| photosystem II protein PsbZ [Acaryochloris sp. CCMEE 5410] >gi|189038109|sp|B0C0S7.1|PSBZ_ACAM1 RecName: Full=Photosystem II reaction center protein Z; Short=PSII-Z >gi|158304434|gb|ABW26051.1| photosystem II protein PsbZ [Acaryochloris marina MBIC11017]  E=0.0002 s/c=0.80 id=40% cov=102%
+MSVLFQLLIAAFVALSFAMIIGVPVVFSTGDASDDANKLIWGGAAAWVVLLFVAALASIVVI
+>gi|353441286|gb|AEQ94244.1|(3-64:64) hypothetical protein (chloroplast) [Eutreptia viridis]   E=6e-05 s/c=0.81 id=48% cov=102%
+MILVFQFALLALILLSILLTVAVPVLLTSPESWNENKNYILTGSAAWTGLVLTVGVLNSLVV
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	3866	103	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2924	0	0	
+
+T 2    6547	*	*	*	*	5820	*	3371	*	3539	*	6333	*	4028	*	2753	943	4417	*	*	2
+       0	*	*	*	*	*	*	2979	0	0	
+
+I 3    4675	*	*	*	3304	5244	*	976	*	2654	*	*	*	*	*	4367	6755	3209	*	*	3
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 4    1890	*	*	*	*	*	*	1861	*	1906	6631	*	*	*	*	*	4264	2989	*	*	4
+       0	*	*	*	*	*	*	2994	0	0	
+
+F 5    *	*	*	*	371	*	*	*	*	3023	*	4073	5456	*	*	*	*	5525	*	*	5
+       0	*	*	*	*	*	*	2994	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	*	*	*	6444	*	106	*	*	4073	*	*	*	6
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 7    4050	*	*	*	3580	5651	*	3028	*	748	6548	*	*	*	*	3981	*	4507	*	*	7
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 8    1018	*	*	*	4590	*	*	*	*	2610	*	*	*	*	*	3539	2576	4409	*	*	8
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 9    *	*	*	*	*	*	*	4395	*	1081	5315	*	*	*	*	*	*	1137	*	*	9
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 10   2968	*	*	*	1111	7052	*	5082	*	2179	*	*	*	*	*	4331	4836	3910	*	*	10
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 11   318	*	*	*	6254	6323	*	5107	*	4111	5883	*	*	*	*	4615	6496	5909	*	*	11
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 12   *	*	*	*	3068	*	*	*	*	289	*	*	*	*	*	4012	*	*	*	*	12
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 13   *	*	*	*	*	*	*	941	*	*	*	*	*	*	*	*	*	1062	*	*	13
+       0	*	*	*	*	*	*	2994	0	0	
+
+I 14   1494	*	*	*	4057	4066	*	3054	*	2171	*	*	*	*	*	5248	*	2677	*	*	14
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 15   *	*	*	*	2292	*	*	2661	*	1689	3528	*	*	*	*	*	3177	3540	5909	5173	15
+       0	*	*	*	*	*	*	2994	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	4012	*	*	92	*	*	*	*	16
+       0	*	*	*	*	*	*	2994	0	0	
+
+F 17   6861	*	*	*	274	*	*	5390	*	4548	*	*	*	*	*	3937	5525	6504	*	*	17
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 18   2350	*	*	*	*	*	*	2280	*	1674	*	*	*	*	*	*	*	1813	*	*	18
+       0	*	*	*	*	*	*	2994	0	0	
+
+M 19   *	*	*	*	*	*	*	*	*	643	1862	*	3975	*	*	*	*	5574	*	*	19
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 20   *	*	*	*	*	*	*	1891	*	2955	*	*	*	*	*	*	5864	775	*	*	20
+       0	*	*	*	*	*	*	2994	0	0	
+
+I 21   *	*	*	*	*	*	*	1220	*	4896	*	*	*	*	*	*	*	897	*	*	21
+       0	*	*	*	*	*	*	2994	0	0	
+
+G 22   2344	*	*	*	*	610	*	*	*	*	*	*	*	*	*	3604	4896	6030	*	5899	22
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 23   *	*	*	*	*	*	*	5525	*	4896	*	*	*	*	*	*	6374	101	*	*	23
+       0	*	*	*	*	*	*	2994	0	0	
+
+P 24   5574	*	*	*	*	*	*	*	*	*	*	*	31	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 25   5198	*	*	*	4801	*	*	4202	*	5795	*	*	*	*	*	*	*	210	*	*	25
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 26   1542	*	*	*	*	*	*	3362	*	3212	*	*	*	*	*	*	3794	1399	*	*	26
+       0	*	*	*	*	*	*	2994	0	0	
+
+Y 27   *	*	*	*	1343	*	*	*	*	2012	*	*	6205	*	*	5808	*	*	*	1615	27
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 28   136	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4164	5864	5883	*	*	28
+       0	*	*	*	*	*	*	2994	0	0	
+
+S 29   4466	*	*	*	5468	*	*	*	*	4371	*	*	5808	*	*	633	2234	*	*	6885	29
+       0	*	*	*	*	*	*	2994	0	0	
+
+P 30   5173	*	*	*	*	5156	*	*	*	*	*	4011	243	*	*	5150	6761	*	*	*	30
+       0	*	*	*	*	*	*	2994	0	0	
+
+Q 31   *	*	2071	2519	*	2879	*	*	4896	*	*	2924	*	2197	*	4192	6233	*	*	*	31
+       0	*	*	*	*	*	*	2994	0	0	
+
+D 32   5156	*	3959	3581	*	912	*	*	*	*	*	2112	*	5525	*	5426	7044	*	*	6820	32
+       0	*	*	*	*	*	*	2994	0	0	
+
+W 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	6077	3512	*	*	156	*	33
+       0	*	*	*	*	*	*	3000	0	0	
+
+D 34   6640	*	2622	2635	*	4073	*	7218	*	5808	*	3640	*	*	*	1624	3500	3484	*	*	34
+       0	*	*	*	*	*	*	2994	0	0	
+
+R 35   *	*	4637	2302	*	6392	*	*	3330	*	*	3592	*	2365	3420	1995	6084	6703	*	*	35
+       0	*	*	*	*	*	*	2994	0	0	
+
+S 36   4639	*	*	*	*	4321	*	*	5153	*	*	1558	*	*	6755	1011	5087	*	*	7137	36
+       18	6371	*	1000	1000	*	*	2994	1000	0	
+
+K 37   *	*	*	5808	*	*	*	*	328	*	*	3290	*	4433	4753	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2994	0	0	
+
+Q 38   *	*	*	*	*	3334	5574	*	3184	*	*	1608	3564	4571	2574	2952	5808	*	*	*	38
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 39   4767	*	*	*	4949	*	*	2940	*	1236	*	*	6371	*	4896	5173	3917	2518	*	4011	39
+       0	*	*	*	*	*	*	2994	0	0	
+
+I 40   *	*	*	*	*	*	*	1416	*	2062	*	*	*	*	*	*	*	1375	*	*	40
+       0	*	*	*	*	*	*	2994	0	0	
+
+F 41   *	*	*	*	1036	*	*	*	*	2452	*	*	*	*	*	*	*	5173	2516	2976	41
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 42   5651	*	*	*	5011	5156	*	3555	*	2393	*	*	6631	6703	*	1233	3362	3278	*	*	42
+       0	*	*	*	*	*	*	2994	0	0	
+
+G 43   3614	*	*	*	*	140	*	*	*	*	*	*	*	*	*	6531	*	*	*	*	43
+       0	*	*	*	*	*	*	2994	0	0	
+
+S 44   1942	4896	*	*	*	3841	*	5266	*	3753	*	*	*	*	*	1513	3378	3480	*	*	44
+       0	*	*	*	*	*	*	2994	0	0	
+
+G 45   2571	*	*	*	7028	1643	*	3322	*	4087	*	*	5456	*	4896	2023	5198	6030	*	*	45
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 46   2502	*	*	*	4640	5173	*	2499	*	1340	*	*	4615	*	*	6389	*	2932	*	*	46
+       0	*	*	*	*	*	*	2994	0	0	
+
+W 47   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3975	*	*	*	95	*	47
+       0	*	*	*	*	*	*	2994	0	0	
+
+I 48   3614	*	*	*	2676	6002	*	1473	*	3743	6640	*	*	*	*	5244	3018	2722	*	*	48
+       0	*	*	*	*	*	*	2994	0	0	
+
+A 49   2365	*	*	*	4416	1444	*	3339	*	2917	*	6030	*	*	*	4473	*	3322	*	*	49
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 50   *	*	*	*	*	*	*	*	*	166	5173	*	5198	*	*	4541	6565	*	*	*	50
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 51   *	*	*	*	*	*	*	5647	*	4341	*	*	*	*	*	*	*	104	*	*	51
+       0	*	*	*	*	*	*	3000	0	0	
+
+L 52   *	*	*	*	1285	*	*	2509	*	2055	*	*	5198	*	*	5111	*	3095	*	*	52
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 53   2892	5456	*	*	*	*	*	4402	*	1033	5363	*	*	*	*	5443	4532	2212	*	*	53
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 54   5156	6130	*	*	*	5897	*	3372	*	6254	*	4073	*	*	*	*	3671	528	*	*	54
+       0	*	*	*	*	*	*	2994	0	0	
+
+G 55   2627	*	*	*	*	361	*	*	*	*	*	*	*	*	*	*	*	*	4073	*	55
+       0	*	*	*	*	*	*	2994	0	0	
+
+V 56   4264	*	*	*	*	3586	*	1052	*	3523	*	*	*	*	*	5896	6445	1904	*	*	56
+       0	*	*	*	*	*	*	2994	0	0	
+
+L 57   5156	*	*	*	3419	*	*	*	*	347	4654	*	6496	*	*	*	*	4594	*	*	57
+       0	*	*	*	*	*	*	2994	0	0	
+
+N 58   *	*	4225	*	*	*	*	*	*	*	*	219	*	*	*	3515	*	*	*	*	58
+       0	*	*	*	*	*	*	2994	0	0	
+
+F 59   5247	*	*	*	1559	*	*	4855	*	*	*	*	*	*	*	973	*	*	*	3470	59
+       0	*	*	*	*	*	*	2863	0	0	
+
+F 60   *	*	*	*	485	*	*	*	*	2398	*	*	*	*	*	*	*	3758	*	5527	60
+       0	*	*	*	*	*	*	2863	0	0	
+
+V 61   6232	*	*	*	*	*	*	2569	*	*	*	*	*	*	*	*	*	289	*	*	61
+       0	*	*	*	*	*	*	2867	0	0	
+
+V 62   *	*	*	*	*	*	*	1922	*	*	*	*	*	*	*	*	*	442	*	*	62
+       0	*	*	0	*	*	*	2635	0	0	
+
+//

@@ -1,0 +1,204 @@
+HHsearch 1.5
+NAME  d1pd3a_ a.30.3.1 (A:) Nonstructural protein ns2, Nep, M1-binding domain {Influenza A virus [TaxId: 11320]}
+FAM   a.30.3.1
+FILE  d1pd3a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1pd3a_.a3m -v 1 
+DATE  Tue Jan 22 00:31:01 2013
+LENG  54 match states, 54 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+935889978999999999999998832123699999999999999999876129
+>Consensus
+gxwRxqLgqKfexIrwlIeexrhxLxxtenSfxqITFmqAlqLlLEVexeirtf
+>d1pd3a_ a.30.3.1 (A:) Nonstructural protein ns2, Nep, M1-binding domain {Influenza A virus [TaxId: 11320]}
+GKWREQLGQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTF
+>gi|325301518|gb|ADZ05646.1|(64-116:121) nuclear export protein [Influenza A virus (A/swine/Minnesota/578/2007(H3N2))]  E=1e-17 s/c=1.75 id=85% cov=100%
+-KWREQLGQKFGKIRWLIEEVRHRLKATENSFEQITFMQALQLLLEVEKRDKTF
+>gi|262182082|gb|ACY29860.1|(63-116:121) nuclear export protein [Influenza A virus (A/chicken/Beijing/1/2006(H9N2))]  E=2e-14 s/c=1.52 id=84% cov=102%
+GECRQKLGQKFEKIRWLIEEMRHRLKITEDSFEQITFMQALQLLLEVKQEIRTF
+>gi|262182079|gb|ACY29858.1|(63-116:121) nuclear export protein [Influenza A virus (A/chicken/Beijing/7/2005(H9N2))]  E=3e-14 s/c=1.51 id=82% cov=102%
+GKWREQLGQKFEKIRWLIEEMRHTLIITEDSFDQITFMLAGPLLLEVEQEIRTF
+>gi|167716887|gb|ABZ91683.1|(63-116:121) nonstructural protein 2 [Influenza A virus (A/domestic green-winged teal/Hunan/79/2005(H5N1))]  E=6e-14 s/c=1.50 id=82% cov=102%
+GKWRDQLSQKFEEIRWLIDELRHRLKITENSLDQITFMQALQLVLEVEQEMRAF
+>gi|380867379|gb|AFF26329.1|(63-116:121) nuclear export protein [Influenza A virus (A/duck/Fujian/2018/2007(H6N6))]  E=5e-13 s/c=1.44 id=80% cov=102%
+ATWREQLSQKFEEIKWLIAECRNILTITENSFEQITFMQALQLLLEVESEIRTF
+>gi|291586666|gb|ADE19064.1|(63-116:121) nuclear export protein [Influenza A virus (A/chicken/Dakahlia/110/2007(H5N1))]  E=5e-13 s/c=1.43 id=85% cov=102%
+GKWREQLGKKFEEIRGVIEEIRHKLKSTENSFKQITFMQALQLLLEVEQEIRTF
+>gi|408591|gb|AAA43568.1|(27-68:68) nonstructural protein [Influenza A virus (A/swine/Italy/151/1981(H1N1))]  E=5e-05 s/c=1.21 id=79% cov=80%
+-KXRXELGQKFEEIRXLIEEVAHRLKMTENTFQQITFMQALQL-----------
+>gi|316926679|gb|ADU58399.1|(63-115:115) nuclear export protein [Influenza A virus (A/duck/Eastern China/119/2005(H3N8))]  E=1e-11 s/c=1.37 id=80% cov=100%
+GTWRDELSQKFEEIRWLIEEMRNILTKTENSFEQITFIQALQLLLEVEQEIRT-
+>gi|378734896|gb|AFC35424.1|(66-117:122) nonstructural protein 2 [Influenza A virus (A/little yellow-shouldered bat/Guatemala/153/2009(H17N10))] >gi|378734914|gb|AFC35434.1| nonstructural protein 2 [Influenza A virus (A/little yellow-shouldered bat/Guatemala/164/2009(H17N10))]  E=1e-09 s/c=1.27 id=55% cov=98%
+--WRLQLGEKLTIIRNLIQTCREVLMTSSNSFVEITFLAALDLLLEVEREMRTL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    2066	*	*	*	*	394	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1414	0	0	
+
+K 2    *	*	*	3173	*	*	*	*	723	*	*	*	*	*	*	*	1819	*	*	*	2
+       0	*	*	*	*	*	*	1460	0	0	
+
+W 3    *	3298	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	155	*	3
+       0	*	*	*	*	*	*	1651	0	0	
+
+R 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 5    *	*	2378	935	*	*	*	*	*	2450	*	*	*	3298	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1651	0	0	
+
+Q 6    *	*	*	2748	*	*	*	*	3378	*	*	*	*	406	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1663	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1663	0	0	
+
+G 8    *	*	*	*	*	440	*	*	*	*	*	*	*	*	*	1927	*	*	*	*	8
+       0	*	*	*	*	*	*	1663	0	0	
+
+Q 9    *	*	*	2550	*	*	*	*	3495	*	*	*	*	433	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1663	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1663	0	0	
+
+F 11   *	*	*	*	270	*	*	*	*	2550	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 12   *	*	*	444	*	3408	*	*	*	*	*	*	*	*	*	*	2550	*	*	*	12
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 13   *	*	*	872	*	*	*	2550	1821	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1663	0	0	
+
+I 14   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1663	0	0	
+
+R 15   *	*	*	*	*	*	*	*	3570	*	*	*	*	*	127	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1663	0	0	
+
+W 16   *	*	*	*	*	3385	*	*	*	*	*	2450	*	*	*	*	*	*	471	*	16
+       0	*	*	*	*	*	*	1651	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	134	*	*	*	*	*	*	*	3495	*	*	17
+       0	*	*	*	*	*	*	1663	0	0	
+
+I 18   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 19   3570	*	3338	630	*	*	*	*	*	*	*	*	*	2550	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 20   *	*	*	270	*	*	*	*	*	*	*	*	*	*	*	*	2550	*	*	*	20
+       0	*	*	*	*	*	*	1663	0	0	
+
+V 21   *	1972	*	*	*	*	*	3495	*	3338	1896	*	*	*	*	*	*	1792	*	*	21
+       0	*	*	*	*	*	*	1663	0	0	
+
+R 22   3855	*	*	*	*	*	*	*	*	*	*	*	*	*	103	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1663	0	0	
+
+H 23   *	*	*	2550	*	*	588	*	*	*	*	2608	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1663	0	0	
+
+R 24   *	*	*	*	*	*	*	2608	2686	*	*	*	*	*	1261	*	3432	2550	*	*	24
+       0	*	*	*	*	*	*	1663	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1663	0	0	
+
+K 26   *	*	*	*	*	*	*	3432	804	*	2550	*	*	*	*	*	2608	*	*	*	26
+       0	*	*	*	*	*	*	1663	0	0	
+
+I 27   3408	*	*	*	*	*	*	1007	3647	*	3855	*	*	*	*	3495	2550	*	*	*	27
+       0	*	*	*	*	*	*	1663	0	0	
+
+T 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2550	270	*	*	*	28
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 29   *	*	*	270	*	*	*	*	*	*	*	*	*	*	*	2550	*	*	*	*	29
+       0	*	*	*	*	*	*	1663	0	0	
+
+N 30   *	*	2405	*	*	*	*	*	*	*	*	302	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1663	0	0	
+
+S 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	103	3855	*	*	*	31
+       0	*	*	*	*	*	*	1663	0	0	
+
+F 32   *	*	*	*	150	*	*	*	*	3338	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1663	0	0	
+
+E 33   *	*	2384	1059	*	*	*	*	3495	*	*	*	*	3855	*	*	*	2550	*	*	33
+       0	*	*	*	*	*	*	1663	0	0	
+
+Q 34   *	*	*	2550	*	*	*	*	*	*	*	*	*	270	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1663	0	0	
+
+I 35   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1663	0	0	
+
+T 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	36
+       0	*	*	*	*	*	*	1663	0	0	
+
+F 37   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1663	0	0	
+
+M 38   *	*	*	*	*	*	*	3647	*	2075	550	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1663	0	0	
+
+Q 39   2550	*	*	*	*	*	*	*	*	3432	*	*	*	441	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1663	0	0	
+
+A 40   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1663	0	0	
+
+L 41   *	*	*	*	*	3432	*	*	*	140	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1663	0	0	
+
+Q 42   *	*	2550	*	*	*	*	*	*	*	*	*	3432	441	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1663	0	0	
+
+L 43   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1663	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	160	*	*	*	*	*	*	*	3255	*	*	44
+       0	*	*	*	*	*	*	1651	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1651	0	0	
+
+E 46   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1651	0	0	
+
+V 47   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	47
+       0	*	*	*	*	*	*	1651	0	0	
+
+E 48   *	*	*	155	*	*	*	*	3298	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1651	0	0	
+
+Q 49   *	*	*	*	*	*	*	*	3310	*	*	3776	*	853	2450	3483	*	*	*	*	49
+       0	*	*	*	*	*	*	1651	0	0	
+
+E 50   *	*	*	153	*	*	*	*	*	*	*	*	*	*	3310	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1651	0	0	
+
+I 51   *	*	3310	*	*	*	*	710	*	*	1797	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1651	0	0	
+
+R 52   *	*	*	*	*	*	*	*	3310	*	*	*	*	*	153	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1651	0	0	
+
+T 53   3255	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	160	*	*	*	53
+       0	*	*	*	*	*	*	1651	0	0	
+
+F 54   *	*	*	*	312	*	*	*	*	2363	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	0	*	*	*	1625	0	0	
+
+//

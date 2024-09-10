@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d2drpa1 g.37.1.1 (A:103-139) Tramtrack protein (two zinc-finger peptide) {Drosophila melanogaster [TaxId: 7227]}
+FAM   g.37.1.1
+FILE  d2drpa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2drpa1.a3m -v 1 
+DATE  Tue Jan 22 06:40:02 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.3 
+SEQ
+>ss_pred
+CCCCCCCEEEEHHHHHHHHHHHHHHHHHHHCCCCCCC
+>ss_conf
+9768762244202246888898888876530456789
+>Consensus
+ftkegdxxyrcxvcxrvythisnfcrhyvtshkxxvk
+>d2drpa1 g.37.1.1 (A:103-139) Tramtrack protein (two zinc-finger peptide) {Drosophila melanogaster [TaxId: 7227]}
+FTKEGEHTYRCKVCSRVYTHISNFCRHYVTSHKRNVK
+>gi|357615215|gb|EHJ69535.1|(397-431:471) hypothetical protein KGM_19333 [Danaus plexippus]   E=5e-12 s/c=2.11 id=78% cov=97%
+--KEGENVFRCKICARVYTHISNFCRHYVTSHKKDVK
+>gi|340729096|ref|XP_003402844.1|(64-97:603) PREDICTED: hypothetical protein LOC100647247 [Bombus terrestris]   E=3e-08 s/c=1.81 id=83% cov=95%
+--KEGD-VYRCTVCNRTYTHISNFCRHYVTSHKRNVK
+>gi|270007285|gb|EFA03733.1|(382-416:446) hypothetical protein TcasGA2_TC013842 [Tribolium castaneum]   E=4e-08 s/c=1.75 id=69% cov=97%
+--REKDNLYRCTVCGRVYTHISNFCRHYMTSHKLDVK
+>gi|307206261|gb|EFN84326.1|(430-463:544) Protein tramtrack, alpha isoform [Harpegnathos saltator]   E=8e-08 s/c=1.77 id=77% cov=95%
+--KEGD-VFRCTVCHRTYTHISNFCRHYVTSHKPNVK
+>gi|347970073|ref|XP_003436512.1|(676-711:885) AGAP003537-PB [Anopheles gambiae str. PEST] >gi|333468768|gb|EGK97054.1| AGAP003537-PB [Anopheles gambiae str. PEST]  E=6e-14 s/c=2.23 id=89% cov=100%
+-TKEGDHVYRCKVCARVYTHISNFCRHYVTSHKRNVK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1059	0	0	
+
+K 3    *	*	*	*	*	*	*	*	327	*	*	*	*	*	2303	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1318	0	0	
+
+E 4    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1318	0	0	
+
+G 5    *	*	*	*	*	327	*	*	2303	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1318	0	0	
+
+E 6    *	*	600	1554	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       529	*	1704	*	*	*	*	1318	0	0	
+
+H 7    *	*	*	*	*	*	1100	*	*	*	*	907	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	0	*	1284	0	1063	
+
+T 8    *	*	*	*	*	*	*	*	*	2303	*	*	*	*	*	*	2612	658	*	*	8
+       0	*	*	*	*	*	*	1318	0	0	
+
+Y 9    *	*	*	*	1580	*	*	*	*	*	*	*	*	*	*	*	*	*	*	588	9
+       0	*	*	*	*	*	*	1318	0	0	
+
+R 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1318	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1318	0	0	
+
+K 12   *	*	*	*	*	*	*	*	1028	*	*	*	*	*	*	*	973	*	*	*	12
+       0	*	*	*	*	*	*	1318	0	0	
+
+V 13   *	*	*	*	*	*	*	2499	*	*	*	*	*	*	*	*	*	281	*	*	13
+       0	*	*	*	*	*	*	1318	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1318	0	0	
+
+S 15   1613	*	*	*	*	2303	2665	*	*	*	*	2744	*	*	*	2612	*	*	*	*	15
+       0	*	*	*	*	*	*	1318	0	0	
+
+R 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1318	0	0	
+
+V 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1704	529	*	*	17
+       0	*	*	*	*	*	*	1318	0	0	
+
+Y 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	18
+       0	*	*	*	*	*	*	1318	0	0	
+
+T 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	19
+       0	*	*	*	*	*	*	1318	0	0	
+
+H 20   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1318	0	0	
+
+I 21   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1318	0	0	
+
+S 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	22
+       0	*	*	*	*	*	*	1318	0	0	
+
+N 23   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1318	0	0	
+
+F 24   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1318	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1318	0	0	
+
+R 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1318	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1318	0	0	
+
+Y 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	28
+       0	*	*	*	*	*	*	1318	0	0	
+
+V 29   *	*	*	*	*	*	*	*	*	*	2303	*	*	*	*	*	*	327	*	*	29
+       0	*	*	*	*	*	*	1318	0	0	
+
+T 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	30
+       0	*	*	*	*	*	*	1318	0	0	
+
+S 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	31
+       0	*	*	*	*	*	*	1318	0	0	
+
+H 32   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1318	0	0	
+
+K 33   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1318	0	0	
+
+R 34   *	*	*	*	*	*	*	*	2499	2303	*	*	2665	*	1111	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1318	0	0	
+
+N 35   *	*	1398	*	*	*	*	*	*	*	*	689	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1318	0	0	
+
+V 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	36
+       0	*	*	*	*	*	*	1318	0	0	
+
+K 37   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	1318	0	0	
+
+//

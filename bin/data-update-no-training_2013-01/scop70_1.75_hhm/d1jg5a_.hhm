@@ -1,0 +1,289 @@
+HHsearch 1.5
+NAME  d1jg5a_ d.205.1.1 (A:) GTP cyclohydrolase I feedback regulatory protein, GFRP {Rat (Rattus norvegicus) [TaxId: 10116]}
+FAM   d.205.1.1
+FILE  d1jg5a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jg5a_.a3m -v 1 
+DATE  Mon Jan 21 22:07:19 2013
+LENG  83 match states, 83 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCEEEEEEEECCCCCCCCCCCCCCHHHHHHHCCEECCCCCCCEEEEEECCCCHHHHHHHHCCCEEEEEECCCCCEEEEEEECC
+>ss_conf
+94265233103568801168865658898718630122587501787469823678766218706888616885157877619
+>Consensus
+PYxLisTQIrlexGPTxvGDxxsDpxLMxxLgAxxxxxlgnxfxeyxvxdpPrxVLdKLExxGyrVvsmtGvgqtxvWxlhKe
+>d1jg5a_ d.205.1.1 (A:) GTP cyclohydrolase I feedback regulatory protein, GFRP {Rat (Rattus norvegicus) [TaxId: 10116]}
+PYLLISTQIRMEVGPTMVGDEHSDPELMQQLGASKRRVLGNNFYEYYVNDPPRIVLDKLECRGFRVLSMTGVGQTLVWCLHKE
+>gi|301763303|ref|XP_002917082.1|(2-84:99) PREDICTED: GTP cyclohydrolase 1 feedback regulatory protein-like [Ailuropoda melanoleuca]  E=8e-26 s/c=1.45 id=68% cov=101%
+PHPLSSTQIHTEVGPTPLGDGHSAPELMWYLGASKRSVLGNHFCEYFISDPPCMVLDKLECKGFHVLSKREVGWTLVWCLHKD
+>gi|198432963|ref|XP_002128909.1|(2-83:86) PREDICTED: similar to GTP cyclohydrolase I feedback regulatory protein [Ciona intestinalis]  E=1e-23 s/c=1.37 id=60% cov=100%
+PYVLISTLIRLEIGPTIVGDEHSDVALMKELGATLHHRAGNPFKEWSVEDPPRIVLDKLEVLGYKLVGTTGIGQTAIWTLHK-
+>gi|346470231|gb|AEO34960.1|(2-83:84) hypothetical protein [Amblyomma maculatum]   E=1e-22 s/c=1.32 id=61% cov=100%
+PYLLISTQIRLENGPTIVGDRNSDPALMEHLCARKITQPGNDFPEYRTEDPPRTVLNKLELMGYRVVAMSGIGQTCIWTLHK-
+>gi|347833791|emb|CCC86614.1|(2-84:85) GTP-cyclohydrolase feedback regulatory protein [Teladorsagia circumcincta]  E=2e-20 s/c=1.23 id=60% cov=101%
+PYMLISTQIRLEVGPTFVGDGESDKELMARLRANPSRQLGNEFVEYVTALAPRQVLDLLEKEGWKVVGMAGIGQTCAWTLHKE
+>gi|156357317|ref|XP_001624167.1|(2-83:88) predicted protein [Nematostella vectensis] >gi|156210926|gb|EDO32067.1| predicted protein [Nematostella vectensis]  E=6e-20 s/c=1.22 id=58% cov=100%
+PYILISTRIRLELGPTQCGDEWSDPELMALLDAELVHQFGNNFKEYLSKHPPRVVLNKLGKIGYKVISSTGIGQTIVWTLFK-
+>gi|340375989|ref|XP_003386516.1|(4-85:86) PREDICTED: GTP cyclohydrolase 1 feedback regulatory protein-like [Amphimedon queenslandica]  E=4e-19 s/c=1.19 id=55% cov=100%
+-YVLITTQIRLENGPTICGDELSDPVLMAKLDAQLVRDAGNPFQVYSSPHPPRVILNKLACEGFRVVSMAGIGQTCIWTLYLE
+>gi|241049235|ref|XP_002407324.1|(2-82:82) GCHFR, GFRP: GTP cyclohydrolase 1 feedback regulatory protein, putative [Ixodes scapularis] >gi|215492191|gb|EEC01832.1| GCHFR, GFRP: GTP cyclohydrolase 1 feedback regulatory protein, putative [Ixodes scapularis]  E=1e-06 s/c=0.69 id=38% cov=98%
+PYLLVWSQVRGQL-PTYL-DGSQDPALLKQLGAKVTKPLMVKRATVHTDDSPGSVLNKLEGMGYKVVAVSGNPLGTVWTVHK-
+>gi|260803828|ref|XP_002596791.1|(2-83:117) hypothetical protein BRAFLDRAFT_120480 [Branchiostoma floridae] >gi|229282051|gb|EEN52803.1| hypothetical protein BRAFLDRAFT_120480 [Branchiostoma floridae]  E=1e-33 s/c=1.78 id=63% cov=100%
+PYLLISTQIRMECGPTIVGDVESDKDLMEYLGATLQQMLGNNFKEWRTPKSPRVVLDLLERRGWRVVGMTGIGQTCAWTLHK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2385	0	0	
+
+Y 2    *	*	*	*	*	*	3720	*	*	*	*	*	*	*	*	*	*	*	*	114	2
+       0	*	*	*	*	*	*	2428	0	0	
+
+L 3    *	*	*	*	*	*	*	2636	*	1619	2610	*	3720	*	*	*	*	1868	*	*	3
+       0	*	*	*	*	*	*	2428	0	0	
+
+L 4    *	*	*	*	4048	*	*	*	*	90	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2428	0	0	
+
+I 5    *	*	*	*	*	*	*	638	*	*	*	*	*	*	*	3720	*	1830	*	*	5
+       0	*	*	*	*	*	*	2428	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	402	4123	*	2428	*	6
+       0	*	*	*	*	*	*	2428	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2428	361	4823	*	*	7
+       0	*	*	*	*	*	*	2428	0	0	
+
+Q 8    *	*	*	*	*	*	*	*	*	4389	*	*	*	158	4162	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2428	0	0	
+
+I 9    *	*	*	*	*	*	*	361	*	*	*	*	*	*	*	*	*	2177	*	*	9
+       0	*	*	*	*	*	*	2428	0	0	
+
+R 10   *	*	*	*	*	*	3720	*	*	*	*	*	2876	*	344	*	*	*	*	*	10
+       153	*	3309	*	*	*	*	2428	0	0	
+
+M 11   *	*	*	*	*	2943	*	*	*	843	2385	*	*	*	*	*	3634	4630	*	*	11
+       0	*	*	*	*	0	*	2318	0	1000	
+
+E 12   *	*	*	297	*	3307	*	*	*	*	*	*	*	3560	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2456	0	0	
+
+V 13   2931	3505	*	*	*	*	*	3738	*	2836	*	2206	*	*	*	*	3122	2094	*	*	13
+       128	*	3560	*	*	*	*	2456	0	0	
+
+G 14   2773	*	*	*	*	228	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	0	*	2411	0	1000	
+
+P 15   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2461	0	0	
+
+T 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	16
+       0	*	*	*	*	*	*	2461	0	0	
+
+M 17   *	*	*	*	4431	*	*	1879	*	*	1936	3209	3755	4204	*	*	*	*	*	2441	17
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 18   *	3176	*	*	*	*	*	*	*	1954	*	*	*	*	*	*	*	664	*	*	18
+       294	*	2441	*	*	*	*	2461	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	0	*	2132	0	1177	
+
+D 20   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2461	0	0	
+
+E 21   4815	*	*	901	*	1514	*	*	*	*	*	*	*	*	4702	*	*	4621	*	*	21
+       0	*	*	*	*	*	*	2461	0	0	
+
+H 22   *	*	4815	2916	4326	*	1957	*	*	4148	*	4702	*	5296	*	2244	*	*	4204	2848	22
+       0	*	*	*	*	*	*	2461	0	0	
+
+S 23   *	*	*	*	*	*	*	*	*	*	*	*	*	2441	*	294	*	*	*	*	23
+       0	*	*	*	*	*	*	2461	0	0	
+
+D 24   3755	*	111	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2461	0	0	
+
+P 25   5076	*	*	*	*	*	*	*	3523	*	*	*	345	*	*	*	4326	4441	*	*	25
+       0	*	*	*	*	*	*	2461	0	0	
+
+E 26   1747	*	3910	1664	5200	*	5156	*	4457	*	*	5173	*	3669	*	5222	5076	4148	*	*	26
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 27   *	*	*	*	*	*	*	4153	*	259	*	*	*	*	*	*	*	3209	*	*	27
+       0	*	*	*	*	*	*	2461	0	0	
+
+M 28   *	*	*	*	*	*	*	*	*	2441	294	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2461	0	0	
+
+Q 29   2436	*	*	2820	*	4457	*	*	2119	5296	*	2585	*	3674	*	5156	5298	*	3755	*	29
+       0	*	*	*	*	*	*	2461	0	0	
+
+Q 30   *	5296	*	2771	4815	*	3797	5156	3584	4204	*	*	*	2899	4431	*	4457	*	*	1604	30
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 31   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2461	0	0	
+
+G 32   *	4702	3176	3771	*	452	*	*	*	*	*	*	*	*	4431	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2461	0	0	
+
+A 33   153	*	*	*	*	3315	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2461	0	0	
+
+S 34   *	*	5172	4204	*	*	*	5296	2123	*	*	4431	*	4148	2069	2940	2384	*	*	*	34
+       0	*	*	*	*	*	*	2461	0	0	
+
+K 35   *	*	*	*	*	*	*	*	1107	2042	*	*	4431	*	3999	*	*	2441	*	*	35
+       0	*	*	*	*	*	*	2461	0	0	
+
+R 36   *	*	*	*	*	*	4441	2966	*	*	*	3315	*	4621	1794	4431	2062	3176	*	*	36
+       0	*	*	*	*	*	*	2461	0	0	
+
+R 37   *	*	*	*	*	*	3317	*	2123	*	*	3731	*	4621	2635	3216	1808	*	*	*	37
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 38   *	*	4148	*	*	*	*	*	*	*	2511	*	2441	2184	4441	*	4225	1919	*	*	38
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 39   3287	*	*	*	4204	*	*	*	*	505	*	*	4702	*	*	*	*	3315	*	*	39
+       0	*	*	*	*	*	*	2461	0	0	
+
+G 40   *	*	*	*	3315	294	*	*	*	*	3580	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2461	0	0	
+
+N 41   *	*	*	*	*	*	*	*	*	*	*	294	*	*	*	3315	*	3580	*	*	41
+       0	*	*	*	*	*	*	2461	0	0	
+
+N 42   *	*	4702	3444	*	*	2743	*	2441	*	*	1205	3287	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2461	0	0	
+
+F 43   *	*	*	*	294	*	*	*	*	*	*	*	*	*	2441	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2461	0	0	
+
+Y 44   3176	3292	*	*	4815	*	*	*	2827	*	*	*	4702	3294	*	2380	3315	4431	3731	4153	44
+       0	*	*	*	*	*	*	2461	0	0	
+
+E 45   *	*	*	397	*	*	*	*	*	3315	*	*	*	*	*	*	3580	4148	*	*	45
+       0	*	*	*	*	*	*	2461	0	0	
+
+Y 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2441	3528	456	46
+       0	*	*	*	*	*	*	2461	0	0	
+
+Y 47   *	4326	*	*	3306	*	2346	4457	3315	4204	*	5273	*	*	3661	2858	*	4431	*	2619	47
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 48   *	*	*	*	*	*	*	3755	*	*	*	*	*	*	*	2774	1974	929	*	*	48
+       0	*	*	*	*	*	*	2461	0	0	
+
+N 49   3610	*	1521	3566	*	*	*	*	3325	*	*	2422	3365	5173	*	3755	*	*	*	*	49
+       0	*	*	*	*	*	*	2461	0	0	
+
+D 50   *	*	704	3219	*	*	3176	*	4621	4431	*	*	*	*	*	4815	*	*	4457	*	50
+       0	*	*	*	*	*	*	2461	0	0	
+
+P 51   3291	*	*	*	*	*	*	*	*	*	*	*	741	*	*	2327	3315	*	*	*	51
+       0	*	*	*	*	*	*	2461	0	0	
+
+P 52   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2461	0	0	
+
+R 53   *	2518	*	*	*	3580	*	*	*	*	*	*	*	*	431	*	*	*	*	*	53
+       0	*	*	*	*	*	*	2461	0	0	
+
+I 54   *	*	*	*	*	*	*	2944	3625	2852	3292	*	*	4431	*	2441	4702	1839	*	*	54
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 55   *	*	*	*	*	*	*	4148	*	*	*	*	*	*	*	*	4191	170	*	*	55
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 56   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2461	0	0	
+
+D 57   *	*	975	*	*	*	*	*	*	*	*	1026	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2461	0	0	
+
+K 58   *	*	*	*	*	*	*	*	205	3523	*	*	*	4457	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 59   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2461	0	0	
+
+E 60   4148	*	5222	213	*	4204	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2461	0	0	
+
+C 61   5498	2707	*	4815	*	3197	*	*	1572	3797	*	5211	*	5076	4621	5156	*	2771	*	*	61
+       0	*	*	*	*	*	*	2461	0	0	
+
+R 62   *	5173	*	2753	*	*	*	2385	2805	2956	2002	*	*	5296	3549	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2461	0	0	
+
+G 63   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2461	0	0	
+
+F 64   *	*	*	*	1516	*	*	*	*	*	*	*	*	*	*	*	*	*	2916	950	64
+       0	*	*	*	*	*	*	2461	0	0	
+
+R 65   *	*	*	*	*	*	3190	*	1596	*	*	*	*	*	960	*	4457	*	*	*	65
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 66   *	*	*	*	*	*	*	*	*	3361	*	*	*	*	*	*	*	148	*	*	66
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 67   *	*	*	*	*	*	*	3608	*	1561	*	*	*	*	*	*	*	788	*	*	67
+       0	*	*	*	*	*	*	2461	0	0	
+
+S 68   1720	*	*	*	*	2658	*	*	*	*	*	*	*	*	*	1147	3535	*	*	*	68
+       0	*	*	*	*	*	*	2461	0	0	
+
+M 69   *	*	*	*	*	*	*	*	3755	*	640	*	*	*	*	4204	4441	2441	*	*	69
+       0	*	*	*	*	*	*	2461	0	0	
+
+T 70   2753	*	*	*	*	*	*	*	*	*	*	*	*	*	3755	2168	849	*	*	*	70
+       0	*	*	*	*	*	*	2461	0	0	
+
+G 71   *	*	*	3755	*	111	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 72   *	*	3315	*	*	*	*	1461	*	*	*	3580	*	*	*	*	*	1143	*	*	72
+       0	*	*	*	*	*	*	2461	0	0	
+
+G 73   *	*	*	*	*	294	*	*	*	*	*	*	3580	*	*	*	3315	*	*	*	73
+       0	*	*	*	*	*	*	2461	0	0	
+
+Q 74   *	*	*	*	*	*	*	*	*	2441	*	*	*	431	*	*	*	*	3755	*	74
+       0	*	*	*	*	*	*	2461	0	0	
+
+T 75   *	*	*	*	*	2441	*	*	*	*	*	*	*	*	*	*	294	*	*	*	75
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 76   4441	1927	*	*	*	*	*	4204	*	1143	*	*	*	*	*	*	2441	*	*	*	76
+       0	*	*	*	*	*	*	2461	0	0	
+
+V 77   2916	*	*	*	*	*	*	2828	*	*	*	*	*	*	*	*	*	461	*	*	77
+       0	*	*	*	*	*	*	2461	0	0	
+
+W 78   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	78
+       0	*	*	*	*	*	*	2461	0	0	
+
+C 79   *	1143	*	*	*	*	*	*	*	*	*	*	*	*	*	*	870	*	*	*	79
+       0	*	*	*	*	*	*	2461	0	0	
+
+L 80   *	*	*	*	*	*	*	*	*	347	5086	*	*	*	*	*	*	2441	*	*	80
+       0	*	*	*	*	*	*	2461	0	0	
+
+H 81   *	*	*	*	4204	*	296	*	*	*	*	*	*	*	*	*	*	*	*	2928	81
+       0	*	*	*	*	*	*	2461	0	0	
+
+K 82   *	*	*	*	*	*	*	*	271	4148	*	*	*	*	3122	*	*	*	*	*	82
+       0	*	*	*	*	*	*	2461	0	0	
+
+E 83   *	*	3273	237	*	*	*	*	*	*	*	*	*	4375	*	*	*	*	*	*	83
+       0	*	*	0	*	*	*	1945	0	0	
+
+//

@@ -1,0 +1,175 @@
+HHsearch 1.5
+NAME  d1ob1c1 g.3.11.4 (C:1-45) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+FAM   g.3.11.4
+FILE  d1ob1c1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ob1c1.a3m -v 1 
+DATE  Tue Jan 22 00:06:37 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCEEECCCCCCCCCCEEECCCCCEEEEEEEEECCCCEECCCC
+>ss_conf
+987740013557777662332388822456400230485655889
+>Consensus
+niSxHxCixtxxPeNAgCxRyxdgxEEwrCLLxfKxxxxxCVxxp
+>d1ob1c1 g.3.11.4 (C:1-45) Merozoite surface protein 1 (MSP-1) {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+NISQHQCVKKQCPQNSGCFRHLDEREECKCLLNYKQEGDKCVENP
+>gi|153607554|dbj|BAF74048.1|(1821-1863:1929) merozoite surface protein-1 [Plasmodium coatneyi]   E=1e-16 s/c=2.07 id=43% cov=98%
+--SEHKCIDTTVPENAACYRYLDGTEEWRCLLNFKELEGKCIPAP
+>gi|269854048|gb|ACZ51238.1|(1624-1665:1730) merozoite surface protein 1 [Plasmodium ovale]   E=7e-15 s/c=2.00 id=49% cov=96%
+--SKHKCIDITYPDNAGCYRFSDGREEWRCLLNFKKVGETCVPN-
+>gi|290965462|dbj|BAI82257.1|(1604-1645:1712) merozoite surface protein 1 [Plasmodium gonderi]   E=8e-15 s/c=1.99 id=47% cov=96%
+--SEHKCIDTVVPENAACYRYLDGREEWRCLLKFKLDGGKCVAA-
+>gi|269854046|gb|ACZ51237.1|(1641-1685:1751) merozoite surface protein 1 [Plasmodium malariae]   E=1e-09 s/c=1.48 id=47% cov=100%
+NISaKHACTETKYPENAGCYRYEDGKEVWRCLLNYKLVDGGCVED-
+>gi|222425453|dbj|BAH20665.1|(1658-1698:1773) merozoite surface protein 1 [Plasmodium chabaudi chabaudi]   E=2e-09 s/c=1.60 id=45% cov=89%
+--SNHVCIGTNIPENAGCFRYDDGKEEWRCLLGFKKndDGTRC----
+>gi|222425463|dbj|BAH20670.1|(1651-1694:1767) merozoite surface protein 1 [Plasmodium chabaudi adami]   E=1e-08 s/c=1.43 id=44% cov=91%
+--SNHVCISTNTPENAGCFRYDNGTEEWRCLLGFKKNEDNtgCV---
+>gi|10504978|gb|AAG18333.1|(42-83:136) merozoite surface protein-1 [Plasmodium yoelii]   E=4e-06 s/c=1.30 id=45% cov=93%
+---KHVCVDTRdIPKNAGCFRYDNGNEEWRCLLGFKKENNTCVED-
+>gi|66570964|emb|CAH10838.1|(1514-1557:1622) merozoite surface protein 1 [Plasmodium gallinaceum]   E=3e-14 s/c=1.84 id=49% cov=100%
+HISKHKCLKTVCPINAGCIRRLNGEEECRCFLNYKKDGNICIPD-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	1835	*	*	*	*	475	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1721	0	0	
+
+I 2    *	*	*	*	*	*	*	358	*	*	*	*	*	*	*	*	*	2186	*	*	2
+       0	*	*	*	*	*	*	1721	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	3
+       113	3735	*	0	*	*	*	2023	1000	0	
+
+Q 4    4932	*	4602	2035	*	*	*	*	1431	*	*	2529	*	2858	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2114	0	0	
+
+H 5    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2106	0	0	
+
+Q 6    3853	*	*	*	*	*	*	*	1338	*	*	*	*	2902	4717	*	4959	1595	*	*	6
+       0	*	*	*	*	*	*	2106	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2100	0	0	
+
+V 8    *	*	*	*	*	*	*	880	*	3757	*	*	*	*	*	*	3215	1863	*	*	8
+       0	*	*	*	*	*	*	2100	0	0	
+
+K 9    *	*	1092	3880	*	4083	*	*	2018	*	*	3460	*	*	*	3918	*	*	*	*	9
+       0	*	*	*	*	*	*	2105	0	0	
+
+K 10   *	*	*	*	*	*	*	4343	4215	*	*	4232	*	*	*	*	245	*	*	*	10
+       101	3886	*	0	*	*	*	2105	1055	0	
+
+Q 11   *	*	*	4232	*	*	*	*	3880	*	3886	1644	*	3519	2933	4990	3264	2862	*	*	11
+       154	3300	*	0	*	*	*	2105	1170	0	
+
+C 12   *	2480	*	*	*	*	*	1757	*	*	*	*	*	*	*	*	3388	1679	*	3093	12
+       0	*	*	*	*	*	*	2105	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	101	3886	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2105	0	0	
+
+Q 14   4799	*	2327	984	*	*	*	3793	3929	*	*	*	*	3041	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2105	0	0	
+
+N 15   *	*	*	*	*	*	3886	*	*	*	*	210	*	*	*	3886	*	*	*	*	15
+       0	*	*	*	*	*	*	2105	0	0	
+
+S 16   277	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2517	*	*	*	*	16
+       0	*	*	*	*	*	*	2105	0	0	
+
+G 17   1679	*	*	*	*	540	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2105	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2105	0	0	
+
+F 19   *	*	*	*	1005	*	*	3793	*	*	*	*	*	*	*	*	*	*	*	1219	19
+       0	*	*	*	*	*	*	2105	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2105	0	0	
+
+H 21   *	*	4858	*	4343	*	2517	*	*	*	*	*	*	*	3793	*	*	*	*	579	21
+       0	*	*	*	*	*	*	2105	0	0	
+
+L 22   *	*	1627	3880	*	*	*	*	*	839	*	*	*	*	*	4343	*	*	*	*	22
+       0	*	*	*	*	*	*	2105	0	0	
+
+D 23   *	*	337	*	*	*	*	*	*	*	*	2263	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2105	0	0	
+
+E 24   *	*	*	2517	*	277	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2105	0	0	
+
+R 25   *	*	*	3793	*	*	4643	*	2677	*	*	3898	*	*	1798	*	1408	*	*	*	25
+       0	*	*	*	*	*	*	2105	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2105	0	0	
+
+E 27   *	*	*	101	*	*	*	*	*	*	*	*	*	*	*	*	*	3880	*	*	27
+       0	*	*	*	*	*	*	2105	0	0	
+
+C 28   *	2018	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	409	*	28
+       0	*	*	*	*	*	*	2105	0	0	
+
+K 29   *	*	*	*	*	*	*	*	2219	*	*	*	*	*	349	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2105	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2105	0	0	
+
+L 31   *	*	*	*	3793	*	*	*	4907	161	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2105	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2105	0	0	
+
+N 33   *	*	*	*	*	1518	*	*	5004	*	*	947	*	*	*	*	3954	*	*	4781	33
+       0	*	*	*	*	*	*	2105	0	0	
+
+Y 34   *	*	*	*	867	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1147	34
+       0	*	*	*	*	*	*	2105	0	0	
+
+K 35   *	*	*	*	*	*	*	*	62	*	*	*	*	*	4574	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2105	0	0	
+
+Q 36   4574	*	*	2465	*	*	*	*	1111	3335	*	*	*	2517	4643	*	*	*	*	*	36
+       148	3355	*	721	1346	*	*	2105	1292	0	
+
+E 37   *	*	1961	1191	*	*	*	*	*	5051	*	3354	*	*	*	*	*	2498	*	*	37
+       0	*	*	*	*	*	*	2105	0	0	
+
+G 38   4781	*	3394	3227	*	828	*	*	*	*	*	2892	*	*	*	4867	*	5089	*	*	38
+       0	*	*	*	*	*	*	2105	0	0	
+
+D 39   *	*	1964	4343	*	1634	*	*	*	*	*	1874	*	*	*	3886	4976	*	*	*	39
+       0	*	*	*	*	*	*	2105	0	0	
+
+K 40   *	*	*	*	*	3803	*	3719	978	*	*	4692	*	*	3813	*	2091	*	*	*	40
+       57	4692	*	1000	1000	*	*	2088	1000	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2088	0	0	
+
+V 42   *	*	*	*	*	*	*	2671	*	*	*	*	*	*	*	*	*	246	*	*	42
+       0	*	*	*	*	*	*	2108	0	0	
+
+E 43   3760	*	*	1040	*	*	*	*	*	*	*	*	1184	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2088	0	0	
+
+N 44   1407	*	1570	*	*	*	*	*	*	*	*	1806	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2088	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	1601	0	0	
+
+//

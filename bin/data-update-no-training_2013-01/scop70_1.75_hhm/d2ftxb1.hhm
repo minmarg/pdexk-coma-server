@@ -1,0 +1,219 @@
+HHsearch 1.5
+NAME  d2ftxb1 d.300.1.2 (B:155-213) Kinetochore protein Spc24 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   d.300.1.2
+FILE  d2ftxb1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ftxb1.a3m -v 1 
+DATE  Tue Jan 22 06:54:19 2013
+LENG  59 match states, 59 columns in multiple alignment
+FILT  56 out of 58 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred
+CCCCEEEEEEEHHCCCEECCCCCEEEEEECCCCCEEEEECCCCCCCHHHHHHHHHHHCC
+>ss_conf
+98622456642012705648887798972798945688538554611114323665259
+>Consensus
+xxaxiLkLklYrsLGixldxexxkxiIxnxxxxdvxvvxidxxxSxyFxsnyiWdxlxx
+>d2ftxb1 d.300.1.2 (B:155-213) Kinetochore protein Spc24 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+ANENILKLKLYRSLGVILDLENDQVLINRKNDGNIDILPLDNNLSDFYKTKYIWERLGK
+>gi|260946719|ref|XP_002617657.1|(153-212:214) hypothetical protein CLUG_03101 [Clavispora lusitaniae ATCC 42720] >gi|238849511|gb|EEQ38975.1| hypothetical protein CLUG_03101 [Clavispora lusitaniae ATCC 42720]  E=7e-05 s/c=0.84 id=40% cov=98%
+-NSSSMKISLYKSLGVHVedfDGESDKIIIFDRGTDSTSVLPVDEKYSDYFISNYIWDRLG-
+>gi|296812417|ref|XP_002846546.1|(140-198:198) kinetochore protein spc24 [Arthroderma otae CBS 113480] >gi|238841802|gb|EEQ31464.1| kinetochore protein spc24 [Arthroderma otae CBS 113480]  E=0.0001 s/c=0.84 id=30% cov=95%
+--ATILRLKIYRSLGIDVDTDEagnyNKAIIRNRRKGDVHVVNIDPKFSRFFYANYFWQAM--
+>gi|241950833|ref|XP_002418139.1|(220-290:290) kinetochore protein, putative [Candida dubliniensis CD36] >gi|223641478|emb|CAX43439.1| kinetochore protein, putative [Candida dubliniensis CD36]  E=0.0007 s/c=0.66 id=36% cov=93%
+---SILRINLFRNLGIKLentphnnnnnnnnttrsDGDTDDCVIITDDNNNVNILNIEPKLSDYFISNYIWDKL--
+>gi|254567011|ref|XP_002490616.1|(138-194:194) hypothetical protein [Komagataella pastoris GS115] >gi|238030412|emb|CAY68335.1| Hypothetical protein PAS_chr1-4_0483 [Komagataella pastoris GS115] >gi|328351004|emb|CCA37404.1| Probable kinetochore protein spc24 [Komagataella pastoris CBS 7435]  E=1e-09 s/c=1.15 id=41% cov=95%
+--STVLRLKLFKSMGLMIDTskDKDQIIIYNKDKGVSDILPVEENYSDFFVSNYVWDNL--
+>gi|320584161|gb|EFW98372.1|(144-199:199) hypothetical protein HPODL_0052 [Ogataea parapolymorpha DL-1]   E=1e-08 s/c=1.11 id=37% cov=97%
+-RSKALKLKLYESLGLKLDFNSKQVLVLNKKSQKTNVLNLDQGYDEMFISEYIWDNI--
+>gi|342320537|gb|EGU12477.1|(147-207:207) hypothetical protein RTG_01511 [Rhodotorula glutinis ATCC 204091]   E=0.0004 s/c=0.78 id=24% cov=100%
+-NSEVLRIKLYRDMGFIPVEEngiYSKIVVRSQNSRDARTVQLDSSTNDYKWSEFLWDLVSR
+>gi|50551929|ref|XP_503439.1|(130-189:189) YALI0E01980p [Yarrowia lipolytica] >gi|74634058|sp|Q6C7C3.1|SPC24_YARLI RecName: Full=Probable kinetochore protein SPC24 >gi|49649308|emb|CAG79018.1| YALI0E01980p [Yarrowia lipolytica CLIB122]  E=2e-08 s/c=1.03 id=40% cov=90%
+-----LQLKLFRTLGVTFDAEkpekYTKCMIRSNTTSNVATLDLNvKEYSGFFITNYIWDKL--
+>gi|328772119|gb|EGF82158.1|(150-207:208) hypothetical protein BATDEDRAFT_86909 [Batrachochytrium dendrobatidis JAM81]  E=4e-08 s/c=1.04 id=25% cov=93%
+-----LKAQVYSQLGLQLirdtNGQYTQFITSSKRNNDIQTFDISSEYSQYYYANMIWELIKE
+>gi|392580120|gb|EIW73247.1|(163-223:223) hypothetical protein TREMEDRAFT_25795 [Tremella mesenterica DSM 1558]  E=3e-07 s/c=0.95 id=27% cov=88%
+----IIRLKLFSDAGFSLlpskeNGGASKVLIRNDVKSDVHSVSIDKNRSRVFNANMIWS----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1638	0	0	
+
+N 2    *	*	*	*	*	*	*	*	2146	*	*	1310	*	3208	1929	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3170	0	0	
+
+E 3    1136	*	*	3361	*	*	*	*	*	*	*	*	*	*	*	1525	3320	*	*	*	3
+       0	*	*	*	*	*	*	3642	0	0	
+
+N 4    *	*	3778	4042	*	*	*	*	3306	*	*	1314	*	*	*	3440	1884	*	*	*	4
+       0	*	*	*	*	*	*	3726	0	0	
+
+I 5    4913	*	*	*	*	*	*	1815	*	1576	4434	*	*	*	*	5235	*	1866	*	*	5
+       0	*	*	*	*	*	*	3843	0	0	
+
+L 6    *	*	*	*	*	*	*	3526	*	302	3772	*	*	*	*	*	5104	*	*	*	6
+       0	*	*	*	*	*	*	3979	0	0	
+
+K 7    *	*	*	*	*	*	*	*	709	*	*	*	*	4938	1491	*	*	*	*	*	7
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 8    4576	*	*	*	*	*	*	2185	*	438	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3979	0	0	
+
+K 9    5104	*	*	*	*	*	*	*	841	*	*	2676	*	2942	5487	4061	*	*	5780	5290	9
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 10   *	5159	*	*	4112	*	*	2630	*	854	*	*	*	*	*	*	*	2326	*	*	10
+       0	*	*	*	*	*	*	3979	0	0	
+
+Y 11   *	*	*	*	3052	*	*	*	*	5249	*	*	*	*	*	*	*	*	*	229	11
+       0	*	*	*	*	*	*	3979	0	0	
+
+R 12   *	*	*	4227	*	*	5638	*	2707	*	*	*	*	*	607	3100	*	*	*	*	12
+       0	*	*	*	*	*	*	3979	0	0	
+
+S 13   6521	*	3318	*	*	4958	*	*	*	*	*	2817	*	4576	*	675	4422	*	*	*	13
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 14   4918	*	*	*	4787	*	*	*	*	333	2872	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3979	0	0	
+
+G 15   *	*	*	*	*	71	*	*	*	*	*	*	*	*	5469	5290	*	*	*	*	15
+       0	*	*	*	*	*	*	3979	0	0	
+
+V 16   *	*	*	*	3055	*	*	1268	*	2850	6039	*	*	*	*	*	*	1687	*	*	16
+       0	*	*	*	*	*	*	3979	0	0	
+
+I 17   *	*	2499	2392	5469	*	4332	2744	3061	5655	5857	5755	*	4576	5615	3751	4200	4482	*	*	17
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 18   *	*	*	*	4938	*	*	1614	*	1065	*	*	3912	*	*	*	*	3377	*	*	18
+       294	2439	*	2553	269	*	*	3979	2850	0	
+
+D 19   *	*	1190	1659	*	*	*	*	4787	*	5159	3737	*	6324	*	5254	*	3896	*	*	19
+       214	2862	*	2514	278	*	*	3979	2403	0	
+
+L 20   3768	*	4704	2770	5007	1866	*	5340	*	4458	*	*	5714	4919	4448	3480	2488	*	*	*	20
+       48	4926	*	2283	332	*	*	3979	1531	0	
+
+E 21   4051	*	1529	1363	*	4221	*	*	5933	*	*	4819	*	4562	*	*	5713	4738	*	*	21
+       286	2475	*	1934	438	*	*	3961	2604	0	
+
+N 22   4355	*	4804	2753	4294	4975	4586	*	5857	*	*	2265	5104	5998	*	3690	5816	*	6914	1894	22
+       140	3435	*	2477	286	*	*	3979	2084	0	
+
+D 23   *	6172	2190	5795	*	6072	5469	*	3805	*	*	1583	*	*	*	2758	2659	*	*	*	23
+       142	3413	*	2233	345	*	*	3979	1794	0	
+
+Q 24   *	*	5816	5487	*	*	5755	*	1369	*	5675	5259	*	1741	2792	4787	5104	*	*	*	24
+       23	5984	*	3170	170	*	*	3979	1000	0	
+
+V 25   1434	4311	*	*	4576	*	*	1989	*	*	5675	*	*	*	*	*	*	1911	*	*	25
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 26   *	*	*	*	5442	*	*	2096	*	1529	4179	*	*	*	*	*	4514	1748	*	*	26
+       0	*	*	*	*	*	*	3979	0	0	
+
+I 27   *	*	*	*	*	*	*	459	*	4710	*	*	*	*	*	*	4576	2376	*	*	27
+       61	*	4604	*	*	*	*	3979	0	0	
+
+N 28   *	*	5982	3608	4605	5699	3147	5757	*	4161	*	3935	*	4271	1446	3993	5625	*	*	3520	28
+       67	*	4455	*	*	0	*	3981	0	1441	
+
+R 29   *	*	5349	*	*	*	*	*	3304	5750	*	729	*	*	3829	2892	4409	*	*	*	29
+       49	6218	5663	3807	107	974	1026	3961	1000	1594	
+
+K 30   4796	*	2137	5174	*	3090	*	*	1845	*	6141	4409	*	3366	4873	3708	4499	*	*	*	30
+       18	*	6317	*	*	1000	1000	3970	0	1535	
+
+N 31   6096	*	2435	3041	*	4404	*	*	2676	*	*	3247	5957	4820	2618	4648	3600	4913	*	*	31
+       26	*	5788	*	*	0	*	3979	0	1459	
+
+D 32   4711	*	3496	3849	*	*	5093	*	1817	5595	*	2868	*	4778	3644	3073	3354	*	*	*	32
+       86	*	4116	*	*	0	*	3978	0	1000	
+
+G 33   4522	*	4313	*	*	1088	*	*	*	*	*	1795	*	4864	4489	3868	*	*	*	*	33
+       0	*	*	*	*	*	0	3921	0	1601	
+
+N 34   *	*	968	4134	*	4522	*	*	3373	4890	*	3646	*	*	*	5308	3470	3994	*	*	34
+       0	*	*	*	*	0	*	3921	0	1601	
+
+I 35   3912	*	*	*	5826	*	*	2042	*	3943	*	*	*	*	*	2879	3690	1341	*	*	35
+       0	*	*	*	*	*	*	3979	0	0	
+
+D 36   3861	6477	2277	*	*	5259	1995	*	*	*	*	2423	*	4011	4612	2763	*	*	*	*	36
+       0	*	*	*	*	*	*	3979	0	0	
+
+I 37   *	*	*	*	5259	*	*	2383	*	5521	3937	*	*	*	*	4074	2251	1232	*	*	37
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 38   *	*	*	*	4048	*	*	3683	*	1232	*	*	*	*	*	*	*	1197	*	*	38
+       0	*	*	*	*	*	*	3979	0	0	
+
+P 39   5521	*	3358	*	*	*	*	5249	2582	*	*	1737	2243	3357	*	4918	4461	*	*	*	39
+       0	*	*	*	*	*	*	3979	0	0	
+
+L 40   *	*	*	*	*	*	*	1620	*	1445	3816	*	*	*	*	*	*	2080	*	*	40
+       0	*	*	*	*	*	*	3979	0	0	
+
+D 41   *	*	625	2416	*	5746	*	*	*	*	*	4938	*	*	*	3556	5159	*	*	*	41
+       48	4938	*	0	*	*	*	3979	1000	0	
+
+N 42   *	*	2362	3587	*	4058	*	*	2696	*	*	3521	2352	4081	4972	2901	*	*	*	*	42
+       46	5008	*	0	*	*	*	3979	1615	0	
+
+N 43   *	*	2804	3191	*	4432	*	*	1422	*	*	3230	*	4274	4397	3384	5254	*	*	*	43
+       32	5521	*	0	*	*	*	3979	1000	0	
+
+L 44   4476	*	*	*	2042	*	*	*	*	2056	5254	5159	*	*	4918	*	4612	*	*	1541	44
+       0	*	*	*	*	*	*	3979	0	0	
+
+S 45   *	*	4081	*	*	5254	*	*	4787	*	*	3837	*	*	*	344	5615	*	*	*	45
+       0	*	*	*	*	*	*	3979	0	0	
+
+D 46   4476	*	1654	3096	*	4315	6324	*	5237	*	*	*	3479	4576	1872	*	5254	*	*	*	46
+       0	*	*	*	*	*	*	3979	0	0	
+
+F 47   *	*	*	*	1385	*	5462	*	*	*	5007	*	*	*	*	4001	*	4918	5780	1153	47
+       0	*	*	*	*	*	*	3979	0	0	
+
+Y 48   *	*	*	*	225	*	*	*	4612	*	*	*	*	*	*	*	4787	*	*	3899	48
+       0	*	*	*	*	*	*	3979	0	0	
+
+K 49   *	*	*	*	*	*	5249	1860	3372	5826	*	4918	*	*	3594	*	*	4975	4612	1339	49
+       0	*	*	*	*	*	*	3979	0	0	
+
+T 50   1801	*	*	*	*	5259	*	*	*	*	*	*	*	*	*	1736	1449	5615	*	*	50
+       0	*	*	*	*	*	*	3979	0	0	
+
+K 51   *	*	3644	3796	*	*	*	*	2240	*	*	652	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	3979	0	0	
+
+Y 52   *	*	*	*	3272	*	4736	*	*	*	3305	*	*	5104	5159	*	*	*	*	513	52
+       0	*	*	*	*	*	*	3979	0	0	
+
+I 53   *	*	*	*	1738	*	*	1039	*	2918	*	*	*	*	*	*	*	3623	*	*	53
+       0	*	*	*	*	*	*	3979	0	0	
+
+W 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	54
+       0	*	*	*	*	*	*	3979	0	0	
+
+E 55   *	*	1096	2866	*	*	*	*	5645	*	*	3508	*	2925	5953	2845	*	*	*	*	55
+       0	*	*	*	*	*	*	3968	0	0	
+
+R 56   4333	*	*	*	*	*	5053	*	2565	2780	*	3448	*	6093	1760	5118	2511	*	*	*	56
+       0	*	*	*	*	*	*	3913	0	0	
+
+L 57   *	*	*	*	*	*	*	2020	*	730	3288	*	*	*	*	*	*	4372	*	*	57
+       0	*	*	*	*	*	*	3914	0	0	
+
+G 58   *	*	*	*	*	1714	*	*	1308	*	*	*	*	3945	*	2143	*	*	*	*	58
+       0	*	*	*	*	*	*	2849	0	0	
+
+K 59   *	*	*	2344	*	*	*	*	1236	*	*	*	*	2486	2322	*	*	*	*	*	59
+       0	*	*	0	*	*	*	2592	0	0	
+
+//

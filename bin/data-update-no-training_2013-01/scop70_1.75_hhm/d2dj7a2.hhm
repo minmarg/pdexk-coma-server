@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d2dj7a2 g.39.1.3 (A:8-43) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2dj7a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2dj7a2.a3m -v 1 
+DATE  Tue Jan 22 06:20:25 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCHHHHCCCEEEEECCEEEEEEC
+>ss_conf
+984578875553221232068425741670201009
+>Consensus
+xPxxixxxxxCagCgxeikxGQaLxALdkqWHxxCF
+>d2dj7a2 g.39.1.3 (A:8-43) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+KPIKIRGPSHCAGCKEEIKHGQSLLALDKQWHVSCF
+>gi|427782719|gb|JAA56811.1|(132-163:711) Putative actin-binding lim zn-finger protein limatin involved in axon guidance [Rhipicephalus pulchellus]  E=0.0008 s/c=1.47 id=55% cov=92%
+----INGAIKCAGCSDDLREGQALIALDKQWHIWCF
+>gi|410976145|ref|XP_003994484.1|(446-480:1087) PREDICTED: actin-binding LIM protein 1 [Felis catus]   E=2e-10 s/c=1.95 id=58% cov=100%
+-PKEASCPSNCAGCGRDIKNGQALLALEKQWHLGCF
+>gi|242017898|ref|XP_002429421.1|(182-212:785) ablim, putative [Pediculus humanus corporis] >gi|212514347|gb|EEB16683.1| ablim, putative [Pediculus humanus corporis]  E=2e-09 s/c=2.10 id=61% cov=86%
+------GPCECAGCGEELKDGQALIALERQWHIWCF
+>gi|321477965|gb|EFX88923.1|(310-340:995) hypothetical protein DAPPUDRAFT_95700 [Daphnia pulex]   E=2e-06 s/c=1.77 id=53% cov=89%
+-----SSTTQCTGCSKEIVEGQALIALDSQWHVWCF
+>gi|348542804|ref|XP_003458874.1|(179-213:666) PREDICTED: actin-binding LIM protein 2 [Oreochromis niloticus]   E=3e-06 s/c=1.56 id=50% cov=100%
+-PAPIQAVHNCCGCGKEFKNEQSLVALDKHWHLGCF
+>gi|393909450|gb|EFO19459.2|(170-205:700) UNCoordinated family member [Loa loa]   E=3e-06 s/c=1.51 id=46% cov=103%
+QPSPLASPAGCASCGQPLQSGQVLLALGEQWHVWCF
+>gi|327278924|ref|XP_003224209.1|(273-306:771) PREDICTED: actin-binding LIM protein 2-like [Anolis carolinensis]   E=1e-06 s/c=1.65 id=54% cov=97%
+--ISIPTLRNCGNCGLEIKNGQSLVALDKHWHLTCF
+>gi|339244391|ref|XP_003378121.1|(214-243:562) putative LIM domain protein [Trichinella spiralis] >gi|316972995|gb|EFV56634.1| putative LIM domain protein [Trichinella spiralis]  E=7e-05 s/c=1.66 id=55% cov=86%
+------SPGVCAACDQVISSGQVLLALDTQWHTWCF
+>gi|391336382|ref|XP_003742560.1|(152-191:791) PREDICTED: uncharacterized protein LOC100906407 [Metaseiulus occidentalis]  E=1e-06 s/c=1.40 id=53% cov=100%
+-PVKSESPlleskGDCAGCGDALVDGQALVALDKQWHIYCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	2295	*	*	*	*	898	*	*	*	*	1945	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1585	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2191	0	0	
+
+I 3    2796	*	*	*	*	*	*	2192	2429	*	*	3501	*	*	*	3257	4339	2257	*	*	3
+       0	*	*	*	*	*	*	2257	0	0	
+
+K 4    4398	*	3676	2754	*	*	*	*	1498	*	*	*	2008	4339	*	3757	*	*	*	*	4
+       0	*	*	*	*	*	*	2257	0	0	
+
+I 5    4907	*	*	*	*	*	*	1369	*	1962	*	*	*	*	*	4011	3845	2388	*	*	5
+       0	*	*	*	*	*	*	2391	0	0	
+
+R 6    3918	*	*	4392	*	3647	2638	*	*	5306	*	3385	4573	2171	4182	2491	5174	*	*	*	6
+       0	*	*	*	*	*	*	2425	0	0	
+
+G 7    3014	5384	*	*	5256	1497	*	*	*	*	*	3895	*	*	*	1820	4619	*	*	3632	7
+       0	*	*	*	*	*	*	2476	0	0	
+
+P 8    3579	*	*	*	*	*	*	*	*	2997	*	*	830	*	*	3446	4710	3340	*	*	8
+       42	5134	*	2322	322	*	*	2357	1000	0	
+
+S 9    4428	5383	*	*	*	3160	3374	5177	*	*	*	2907	*	*	3459	1745	2791	*	5238	*	9
+       0	*	*	*	*	*	*	2368	0	0	
+
+H 10   4090	*	3669	3192	*	4442	3785	*	4260	*	*	2109	*	4822	5510	2805	4254	4713	*	4066	10
+       0	*	*	*	*	*	*	2382	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2362	0	0	
+
+A 12   622	3553	*	*	*	2521	*	*	*	*	*	*	*	*	*	4606	4331	*	*	*	12
+       0	*	*	*	*	*	*	2362	0	0	
+
+G 13   3501	*	*	4980	*	359	*	*	*	*	*	5261	*	5099	*	4477	*	*	*	*	13
+       0	*	*	*	*	*	*	2362	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2362	0	0	
+
+K 15   *	*	3501	*	*	586	5430	*	3686	*	*	5099	*	5376	5555	3837	*	*	*	*	15
+       0	*	*	*	*	*	*	2362	0	0	
+
+E 16   5680	*	2850	2456	*	*	*	*	2866	4518	*	4515	*	2059	2927	5680	4501	*	*	*	16
+       0	*	*	*	*	*	*	2362	0	0	
+
+E 17   3281	*	2215	969	*	*	*	*	*	5581	*	*	4477	4485	*	*	*	4047	*	*	17
+       0	*	*	*	*	*	*	2362	0	0	
+
+I 18   *	*	*	*	3553	*	*	805	*	1547	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2362	0	0	
+
+K 19   *	*	*	*	*	*	4292	*	860	4220	*	5472	*	4477	3043	3760	5099	4250	*	*	19
+       0	*	*	*	*	*	*	2362	0	0	
+
+H 20   *	*	4450	2334	*	4226	4246	*	5357	5465	*	1751	*	2896	*	2545	*	*	*	*	20
+       0	*	*	*	*	*	*	2362	0	0	
+
+G 21   *	*	*	3553	*	174	*	*	*	*	*	*	*	*	*	5125	*	*	*	*	21
+       0	*	*	*	*	*	*	2362	0	0	
+
+Q 22   *	*	*	*	*	*	*	*	*	*	*	*	4220	80	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2362	0	0	
+
+S 23   823	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1729	*	2908	*	*	23
+       0	*	*	*	*	*	*	2362	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2362	0	0	
+
+L 25   4775	*	*	*	*	*	*	3013	*	1126	*	*	*	*	*	*	*	1516	*	4980	25
+       0	*	*	*	*	*	*	2362	0	0	
+
+A 26   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2362	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2362	0	0	
+
+D 28   *	*	596	2464	*	2668	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2362	0	0	
+
+K 29   *	*	*	4477	*	4026	*	*	1007	4292	*	*	*	4402	2112	5089	4745	*	*	*	29
+       0	*	*	*	*	*	*	2362	0	0	
+
+Q 30   *	*	*	*	*	*	2052	*	*	*	*	*	*	499	*	4292	*	*	*	*	30
+       0	*	*	*	*	*	*	2362	0	0	
+
+W 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	31
+       0	*	*	*	*	*	*	2362	0	0	
+
+H 32   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2362	0	0	
+
+V 33   *	*	*	*	*	*	*	2765	*	1208	*	*	4775	*	*	*	4010	1637	*	*	33
+       0	*	*	*	*	*	*	2362	0	0	
+
+S 34   4775	*	*	*	*	1656	*	*	*	*	*	*	*	*	*	3262	4359	*	1369	3239	34
+       0	*	*	*	*	*	*	2362	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2362	0	0	
+
+F 36   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	2362	0	0	
+
+//

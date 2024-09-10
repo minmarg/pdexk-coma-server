@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1dsva_ g.40.1.1 (A:) Nucleic acid binding protein p14 {Mouse mammary tumor virus [TaxId: 11757]}
+FAM   g.40.1.1
+FILE  d1dsva_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dsva_.a3m -v 1 
+DATE  Mon Jan 21 19:44:05 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCHHHHHHHCCCCCCCCCC
+>ss_conf
+9888888766762201110101468864799
+>Consensus
+ppxlCPRCxkGxHWaxeCrskxdxxGxPlpp
+>d1dsva_ g.40.1.1 (A:) Nucleic acid binding protein p14 {Mouse mammary tumor virus [TaxId: 11757]}
+PPGLCPRCKKGYHWKSECKSKFDKDGNPLPP
+>gi|123217676|gb|ABM73644.1|(469-498:507) gag protein [Bos taurus]   E=4e-06 s/c=1.81 id=61% cov=100%
+-PGVCPKCKRGFHWLNECRSKFNKDGNAFTP
+>gi|291416278|ref|XP_002724372.1|(423-453:1695) PREDICTED: Gag-Pro-Pol-Env protein-like, partial [Oryctolagus cuniculus]  E=0.0003 s/c=1.55 id=56% cov=103%
+PSTPCPRCHRGYHWANECRSKTNSSGQPLPP
+>gi|224089545|ref|XP_002190538.1|(182-211:728) PREDICTED: similar to polymerase [Taeniopygia guttata]   E=3e-08 s/c=2.05 id=61% cov=100%
+PPDLCPRCRRGRHLASECHSQTDVDGKPLP-
+>gi|50400656|sp|Q9HDB9.3|GAK8_HUMAN(578-607:667) RecName: Full=HERV-K_3q12.3 provirus ancestral Gag polyprotein; Short=Gag polyprotein; AltName: Full=HERV-K(II) Gag protein; Contains: RecName: Full=Matrix protein; Contains: RecName: Full=Capsid protein; Contains: RecName: Full=Nucleocapsid protein >gi|9836487|dbj|BAB11759.1| gag [Human endogenous retrovirus HERV-K(II)]  E=6e-08 s/c=2.01 id=65% cov=100%
+PSGLCPKCGKGKHWANQCHSKFDKDGQPLS-
+>gi|21913256|gb|AAM81186.1|AF480924_1(539-565:622) gag protein [Homo sapiens]   E=0.0001 s/c=1.84 id=61% cov=90%
+-PGLCPRCRRGNHWVSECYFKINSAGNP---
+>gi|38093486|tpg|DAA01925.1|(496-524:576) TPA: TPA_exp: gag protein [Mus musculus]   E=0.0001 s/c=1.71 id=50% cov=97%
+-PGICPRCGKGRHWAKDCKHKTRVLSRPVP-
+>gi|7107371|gb|AAF36393.1|AF224725_1(630-660:708) gag polyprotein [Trichosurus vulpecula]   E=1e-07 s/c=1.92 id=50% cov=103%
+PATPCPRCRKRFHWGNTCRATHDIDGKPLPP
+>gi|291392191|ref|XP_002712621.1|(326-353:1491) PREDICTED: Pro-Pol-like [Oryctolagus cuniculus]   E=1e-07 s/c=2.11 id=59% cov=94%
+-PGICPKCRKGKHWANECRSVKDIDGNVL--
+>gi|9627015|ref|NP_041259.1|(645-673:740) gag protein [Squirrel monkey retrovirus] >gi|120891|sp|P21411.3|GAG_SMRVH RecName: Full=Gag polyprotein; Contains: RecName: Full=Core protein p19; Contains: RecName: Full=Core protein p16; Contains: RecName: Full=Putative nucleocapsid protein p35; Contains: RecName: Full=Probable core protein p10 >gi|807672|gb|AAA66451.1| gag protein [Squirrel monkey retrovirus-H]  E=3e-06 s/c=1.90 id=57% cov=97%
+PTTKCPRCKKGFHWASECRSRLDINGQPI--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1886	0	0	
+
+P 2    3381	*	*	*	*	*	*	*	*	*	*	*	669	*	*	2570	3232	*	*	*	2
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 3    *	*	3277	*	*	833	*	*	*	*	*	4416	*	*	*	3625	2268	*	*	*	3
+       0	*	*	*	*	*	*	2261	0	0	
+
+L 4    *	*	*	*	*	*	*	2695	4046	805	*	*	2765	*	*	*	*	3925	*	*	4
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2261	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2261	0	0	
+
+R 7    *	*	*	*	*	*	*	*	2262	*	*	*	*	*	337	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 9    *	*	*	*	*	2774	4290	*	1241	*	*	*	*	*	1397	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 10   *	*	*	*	*	*	*	*	822	*	*	*	*	*	1203	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 11   *	*	*	*	*	146	*	*	*	*	*	*	*	*	3381	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2261	0	0	
+
+Y 12   *	*	*	*	2169	*	*	*	1632	*	*	3069	*	*	2322	*	*	*	*	2880	12
+       0	*	*	*	*	*	*	2261	0	0	
+
+H 13   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2261	0	0	
+
+W 14   *	*	*	*	*	*	*	*	*	3917	*	*	*	*	*	*	*	*	99	*	14
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 15   531	*	*	*	*	2900	*	*	4688	3925	*	*	*	*	*	*	*	3852	*	*	15
+       0	*	*	*	*	*	*	2261	0	0	
+
+S 16   *	*	*	*	*	*	*	*	2719	*	*	1016	*	*	4416	1704	*	*	*	*	16
+       0	*	*	*	*	*	*	2261	0	0	
+
+E 17   *	*	2331	771	*	*	*	*	*	*	*	*	*	3069	*	*	3381	*	*	*	17
+       0	*	*	*	*	*	*	2261	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 19   *	*	*	*	*	*	3179	*	1853	*	*	*	*	*	880	*	*	*	*	3852	19
+       0	*	*	*	*	*	*	2261	0	0	
+
+S 20   3381	*	*	*	3852	*	3294	*	*	*	*	*	*	*	*	448	*	*	*	*	20
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 21   *	*	*	*	*	*	*	*	567	*	*	*	*	3917	4046	*	3381	3288	*	*	21
+       0	*	*	*	*	*	*	2261	0	0	
+
+F 22   *	*	*	*	2159	*	3381	3852	3288	4046	*	*	*	*	*	*	1158	*	*	*	22
+       0	*	*	*	*	*	*	2261	0	0	
+
+D 23   *	*	490	*	*	*	*	*	*	*	*	2425	*	*	3294	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2261	0	0	
+
+K 24   4445	*	*	*	*	*	*	1766	2159	*	*	4694	*	*	*	2453	*	2217	*	*	24
+       0	*	*	*	*	*	*	2261	0	0	
+
+D 25   3852	*	1288	*	*	*	*	*	*	3294	*	2884	*	2451	*	3307	*	*	*	*	25
+       0	*	*	*	*	*	*	2261	0	0	
+
+G 26   *	*	*	*	*	155	*	*	*	*	*	*	*	*	*	3294	*	*	*	*	26
+       0	*	*	*	*	*	*	2261	0	0	
+
+N 27   *	*	*	*	*	*	*	*	2625	*	*	1136	*	1833	3294	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2261	0	0	
+
+P 28   3925	*	*	*	*	*	*	*	*	*	*	*	182	*	*	*	*	4253	*	*	28
+       0	*	*	*	*	*	*	2261	0	0	
+
+L 29   *	*	*	*	2962	*	*	3249	*	602	*	*	*	*	*	*	*	3213	*	*	29
+       0	*	*	*	*	*	*	2201	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	523	*	*	2305	3300	*	*	*	30
+       0	*	*	*	*	*	*	2125	0	0	
+
+P 31   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1814	0	0	
+
+//

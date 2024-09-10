@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d1p8ba_ g.3.6.4 (A:) Pab1, subunit b {Garden pea (Pisum sativum) [TaxId: 3888]}
+FAM   g.3.6.4
+FILE  d1p8ba_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1p8ba_.a3m -v 1 
+DATE  Tue Jan 22 00:25:18 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCEEEEEEEEEEEECCCC
+>ss_conf
+9767666765378887898514543334545317889
+>Consensus
+axCsGxCsPFemPPCgssdCRCiPxxLxxGxCxxPsG
+>d1p8ba_ g.3.6.4 (A:) Pab1, subunit b {Garden pea (Pisum sativum) [TaxId: 3888]}
+ASCNGVCSPFEMPPCGTSACRCIPVGLVIGYCRNPSG
+>gi|50830990|emb|CAH05241.1|(28-64:100) putative albumin 1 [Astragalus monspessulanus]   E=4e-07 s/c=1.56 id=65% cov=100%
+-DCSGVCSPFEMPPCGSTDCRCIPWGLFVGECKYPTG
+>gi|14547913|sp|Q9FRT9.1|ALB1_PHAAN(2-39:90) RecName: Full=Albumin-1; Short=A1; Contains: RecName: Full=Albumin-1 chain b; Short=A1b; AltName: Full=Leginsulin; Contains: RecName: Full=Albumin-1 chain a; Short=A1a; Flags: Precursor >gi|11994886|dbj|BAB19937.1| leginsulin [Vigna angularis]  E=4e-06 s/c=1.44 id=66% cov=103%
+ADCNGACSPFQMPPCGSTDCLCIPAGLLfVGYCTYPSG
+>gi|50831008|emb|CAH05250.1|(28-62:99) putative albumin 1 [Trigonella foenum-graecum]   E=6e-06 s/c=1.54 id=69% cov=95%
+-DCSGICSPFEMPPCRSSDCRCIPIVLVGGYCINP--
+>gi|312982418|gb|ADR30070.1|(30-65:128) albumin-1D [Phaseolus vulgaris]   E=8e-06 s/c=1.49 id=69% cov=97%
+--CSGLCSPFEVPPCGSArDCRCIPVGLVVCFCTNPSG
+>gi|50830994|emb|CAH05243.1|(27-62:99) putative albumin 1 [Bituminaria bituminosa]   E=7e-05 s/c=1.40 id=54% cov=100%
+-ACSGACFPFQMPPCGSTDCRCVPWGLFVGQCIDPIG
+>gi|50830992|emb|CAH05242.1|(19-55:91) putative albumin 1 [Alysicarpus ovalifolius]   E=0.0002 s/c=1.33 id=55% cov=103%
+ADCSGACSPFERPLCGSTDCRCIPIVLLAGFCIYPTG
+>gi|50831000|emb|CAH05246.1|(28-63:98) putative albumin 1 [Melilotus albus]   E=0.0004 s/c=1.34 id=61% cov=97%
+-ECSGICSSFEMPPCRSSSCRCIPVVLLGGNCVDPS-
+>gi|346655477|gb|AEO44997.1|(47-83:146) leginsulin 1 [Glycine max]   E=4e-10 s/c=1.84 id=61% cov=103%
+ADCNGACSPFEMPPCRSSDCRCVPIALFVGFCIHPTG
+>gi|50830998|emb|CAH05245.1|(26-65:101) putative albumin 1 [Philenoptera violacea]   E=4e-05 s/c=1.28 id=74% cov=103%
+ASCNGrdVCSPFEMPPCDDaTNCRCIPWGLVVGQCVHPSG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    204	*	*	*	*	2920	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1621	0	0	
+
+S 2    2509	*	962	3109	*	*	*	*	*	*	*	*	*	*	*	2358	*	*	*	*	2
+       0	*	*	*	*	*	*	1742	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1762	0	0	
+
+N 4    *	*	4514	*	*	*	*	*	*	3964	*	1789	*	*	*	730	*	*	*	*	4
+       0	*	*	*	*	*	*	1762	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       155	3292	*	1000	1000	*	*	1762	1182	0	
+
+V 6    1722	*	*	*	4493	4706	*	2347	*	4104	*	*	*	*	*	*	*	1699	4286	*	6
+       0	*	*	*	*	*	*	1762	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1762	0	0	
+
+S 8    *	*	*	*	3940	*	*	*	*	*	*	*	*	*	*	97	*	*	*	*	8
+       0	*	*	*	*	*	*	1762	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	87	*	*	4092	*	*	*	*	9
+       0	*	*	*	*	*	*	1762	0	0	
+
+F 10   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1762	0	0	
+
+E 11   *	*	*	194	*	*	*	*	*	*	*	*	*	2989	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1762	0	0	
+
+M 12   *	*	*	*	*	*	*	*	*	*	325	*	*	*	3357	*	*	3267	*	*	12
+       0	*	*	*	*	*	*	1762	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1762	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	4158	*	*	83	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1762	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1762	0	0	
+
+G 16   *	*	4298	*	*	563	*	*	*	*	*	*	3964	*	2265	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1762	0	0	
+
+T 17   *	*	3292	*	*	*	*	*	*	*	*	*	*	*	*	242	4257	*	*	*	17
+       75	4298	*	0	*	*	*	1762	1000	0	
+
+S 18   3192	*	*	*	*	*	*	*	*	*	*	*	*	*	4451	1045	1473	*	*	*	18
+       236	2727	*	0	*	*	*	1762	1374	0	
+
+A 19   4257	*	468	*	*	*	*	*	*	*	*	3292	*	*	*	3027	*	*	*	*	19
+       0	*	*	*	*	*	*	1762	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1762	0	0	
+
+R 21   *	*	*	*	*	*	*	*	*	4039	*	*	*	*	91	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1762	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1762	0	0	
+
+I 23   *	*	*	*	*	*	*	310	*	*	*	*	*	*	*	*	*	2371	*	*	23
+       0	*	*	*	*	*	*	1762	0	0	
+
+P 24   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1762	0	0	
+
+V 25   4039	*	*	*	*	*	*	1993	*	*	*	*	*	*	*	*	*	1650	2059	2949	25
+       0	*	*	*	*	*	*	1762	0	0	
+
+G 26   3005	*	*	*	*	712	*	3964	*	*	*	*	*	*	*	*	*	2314	*	*	26
+       0	*	*	*	*	*	*	1762	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1762	0	0	
+
+V 28   *	*	*	*	1450	*	*	3282	*	2511	*	*	*	*	*	*	*	1492	*	*	28
+       91	4039	*	0	*	*	*	1762	1000	0	
+
+I 29   2946	*	*	*	*	2012	*	2863	*	*	*	*	*	*	*	*	*	1044	*	*	29
+       0	*	*	*	*	*	*	1762	0	0	
+
+G 30   *	4104	*	*	*	86	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1762	0	0	
+
+Y 31   3555	*	*	4577	2067	*	*	*	*	*	*	3027	*	2646	*	4493	*	*	*	1702	31
+       0	*	*	*	*	*	*	1762	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1762	0	0	
+
+R 33   *	*	*	*	*	*	*	1296	4577	*	*	*	*	*	2860	*	2062	2527	*	*	33
+       0	*	*	*	*	*	*	1762	0	0	
+
+N 34   *	*	2412	*	*	*	2422	*	*	*	*	1908	*	*	*	*	*	*	*	1477	34
+       0	*	*	*	*	*	*	1762	0	0	
+
+P 35   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1762	0	0	
+
+S 36   *	*	*	*	*	*	*	3883	*	*	*	*	*	*	4431	867	1567	*	*	*	36
+       0	*	*	*	*	*	*	1769	0	0	
+
+G 37   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	1661	0	0	
+
+//

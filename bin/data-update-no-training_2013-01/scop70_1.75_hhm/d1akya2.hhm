@@ -1,0 +1,156 @@
+HHsearch 1.5
+NAME  d1akya2 g.41.2.1 (A:131-168) Microbial and mitochondrial ADK, insert "zinc finger" domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+FAM   g.41.2.1
+FILE  d1akya2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1akya2.a3m -v 1 
+DATE  Mon Jan 21 19:22:18 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  107 out of 986 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.5 
+SEQ
+>ss_pred
+CCCCCCCCCCEEECCCCCCCCCCCCCCCCCCEEECCCC
+>ss_conf
+95123878966501448888887145679870462689
+>Consensus
+GRrxCxxcgxxYhxxxxpPxxxgxCDxcgxxLxqRxDD
+>d1akya2 g.41.2.1 (A:131-168) Microbial and mitochondrial ADK, insert "zinc finger" domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+GRLIHPASGRSYHKIFNPPKEDMKDDVTGEALVQRSDD
+>gi|146297265|ref|YP_001181036.1|(126-163:215) adenylate kinase [Caldicellulosiruptor saccharolyticus DSM 8903] >gi|166219980|sp|A4XLR0.1|KAD_CALS8 RecName: Full=Adenylate kinase; Short=AK; AltName: Full=ATP-AMP transphosphorylase >gi|145410841|gb|ABP67845.1| Nucleoside-triphosphate--adenylate kinase [Caldicellulosiruptor saccharolyticus DSM 8903]  E=4e-15 s/c=2.21 id=41% cov=103%
+GRRICKSCGASFHVVYRPPKKEGICDICGGQLYQREDD
+>gi|225873057|ref|YP_002754516.1|(147-184:238) adenylate kinase [Acidobacterium capsulatum ATCC 51196] >gi|225791420|gb|ACO31510.1| adenylate kinase [Acidobacterium capsulatum ATCC 51196]  E=4e-09 s/c=1.68 id=38% cov=103%
+GRRMCPVCKTIYNIYLQPPRVDEVCDKDGTQLVRRSDD
+>gi|289449858|ref|YP_003475763.1|(126-163:217) putative adenylate kinase [Clostridiales genomosp. BVAB3 str. UPII9-5] >gi|289184405|gb|ADC90830.1| putative adenylate kinase [Clostridiales genomosp. BVAB3 str. UPII9-5]  E=8e-08 s/c=1.57 id=31% cov=103%
+GRRVCVNCGEVYNLAFFKPDEPKVCRDCQGELIQRKDD
+>gi|168334331|ref|ZP_02692518.1|(126-163:215) adenylate kinases [Epulopiscium sp. 'N.t. morphotype B']   E=1e-07 s/c=1.55 id=36% cov=103%
+GRTVCSGCGTPYHNQFKIEKVKGSCDNCNSELVQRDDD
+>gi|294155437|ref|YP_003559821.1|(128-165:216) adenylate kinase [Mycoplasma crocodyli MP145] >gi|291600434|gb|ADE19930.1| adenylate kinase [Mycoplasma crocodyli MP145]  E=2e-05 s/c=1.37 id=26% cov=103%
+GRRFCSKCNSTYHIPYRPSKQGDLCEKCLIPLSIRKDD
+>gi|340776576|ref|ZP_08696519.1|(126-164:222) adenylate kinase [Acetobacter aceti NBRC 14818]   E=0.0002 s/c=1.25 id=28% cov=103%
+GRFSCAKCGASYNDVSKPTQVAETCDLCGShEFTRRADD
+>gi|168049134|ref|XP_001777019.1|(123-156:222) predicted protein [Physcomitrella patens subsp. patens] >gi|162671584|gb|EDQ58133.1| predicted protein [Physcomitrella patens subsp. patens]  E=0.0004 s/c=1.39 id=37% cov=92%
+GRRLDPVTGKIYHLMYSPPETPEI----AARLIQRGDD
+>gi|385334285|ref|YP_005888232.1|(127-163:212) adenylate kinase [Mycoplasma hyopneumoniae 168] >gi|312601091|gb|ADQ90346.1| Adenylate kinase [Mycoplasma hyopneumoniae 168]  E=7e-05 s/c=1.35 id=32% cov=100%
+-RLFCQKCQKSYNLLLAKPKNELKCDLDNTDLITRNDD
+>gi|260655362|ref|ZP_05860850.1|(135-163:216) adenylate kinase [Jonquetella anthropi E3_33 E1] >gi|424845174|ref|ZP_18269785.1| adenylate kinase family protein [Jonquetella anthropi DSM 22815] >gi|260629810|gb|EEX48004.1| adenylate kinase [Jonquetella anthropi E3_33 E1] >gi|363986612|gb|EHM13442.1| adenylate kinase family protein [Jonquetella anthropi DSM 22815]  E=0.0003 s/c=1.65 id=33% cov=79%
+---------KIYNVSFKPSSKGDHCEVCGGELFQRDDD
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4119	0	0	
+
+R 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	2
+       0	*	*	*	*	*	*	4480	0	0	
+
+L 3    *	*	*	*	4751	*	*	4819	*	2826	6111	*	*	5516	736	*	*	6602	3255	4849	3
+       0	*	*	*	*	*	*	4492	0	0	
+
+I 4    *	6394	*	5893	4399	*	*	2025	*	4199	4860	*	*	5620	*	3913	2158	1844	*	*	4
+       0	*	*	*	*	*	*	4492	0	0	
+
+H 5    *	424	3902	*	*	6565	2739	*	*	*	*	*	*	*	*	5179	*	*	*	*	5
+       14	6680	*	1000	1000	*	*	4492	1000	0	
+
+P 6    5234	*	6620	3423	*	5204	*	5133	3284	5456	*	5269	1572	5628	3646	2629	5257	4691	*	*	6
+       26	5798	*	1000	1000	*	*	4492	1379	0	
+
+A 7    3396	*	3925	3723	*	5728	6643	6247	2329	4896	*	2818	4100	4418	4722	3014	4982	4365	*	*	7
+       0	*	*	*	*	*	*	4492	0	0	
+
+S 8    *	472	6257	*	*	6581	6684	*	*	*	*	*	*	6580	*	2771	3494	*	*	*	8
+       11	*	6978	*	*	*	*	4492	0	0	
+
+G 9    5515	6395	*	*	*	533	*	*	3090	*	*	3996	*	4032	*	4876	*	*	*	*	9
+       0	*	*	*	*	*	0	4497	0	1000	
+
+R 10   2442	*	*	3699	*	6449	4591	*	2518	6598	6829	4779	*	6561	1981	3877	3235	5806	*	*	10
+       0	*	*	*	*	*	0	4495	0	1000	
+
+S 11   6204	5510	6598	*	*	4241	*	1720	*	4767	6589	3886	6111	6902	*	3157	2617	2433	*	*	11
+       0	*	*	*	*	*	0	4495	0	1000	
+
+Y 12   *	4817	*	*	3173	*	5735	*	*	*	*	*	*	*	*	*	*	*	6535	279	12
+       14	6722	*	3322	152	0	*	4499	1000	1000	
+
+H 13   *	*	*	*	*	*	1047	*	*	*	*	1070	*	5459	5897	*	*	*	*	*	13
+       17	6397	*	3000	193	*	*	4494	1000	0	
+
+K 14   5327	*	5253	4679	*	*	*	1919	3620	2099	6129	*	*	*	5335	5106	3659	2543	*	6397	14
+       0	*	*	*	*	*	*	4494	0	0	
+
+I 15   5064	*	3648	2612	5335	5096	5154	3151	3086	4459	*	6761	5283	4899	6112	4819	4166	4626	*	2696	15
+       44	6210	5897	2585	263	*	*	4494	1000	0	
+
+F 16   5201	*	6676	*	1328	*	5327	*	*	5360	6386	4167	*	6252	*	3279	2793	*	6884	2483	16
+       16	6462	*	3459	138	0	*	4484	1000	1000	
+
+N 17   3648	6048	3932	4489	4236	*	4485	6765	2584	4572	3798	2105	*	4958	4282	4250	5459	6609	*	7440	17
+       11	6986	*	3907	100	*	*	4494	1000	0	
+
+P 18   4454	*	6130	*	*	*	*	6210	3019	5194	5293	*	626	5314	5192	5197	5459	*	*	*	18
+       27	5779	*	719	1349	*	*	4494	1457	0	
+
+P 19   *	*	5897	*	*	5753	*	*	5730	*	*	*	346	*	*	3282	4576	*	*	6130	19
+       40	*	5199	*	*	*	*	4494	0	0	
+
+K 20   5847	*	5704	5247	*	5064	*	4769	1226	3159	*	5129	3972	4276	3519	4813	5743	4455	*	*	20
+       62	4999	6492	2386	306	922	1082	4479	1912	1497	
+
+E 21   6090	*	3516	3369	7046	*	6986	3735	2631	5405	*	3436	5058	3940	4130	5358	5017	2148	*	*	21
+       33	*	5473	*	*	924	1080	4469	0	1324	
+
+D 22   3736	*	2475	1752	*	4037	6408	5654	4624	*	*	5527	2223	6735	5640	5134	6604	*	*	6514	22
+       19	*	6241	*	*	*	0	4466	0	1700	
+
+M 23   6397	6132	3471	3100	*	1011	*	*	5019	5305	5196	3328	*	5113	6733	5230	6113	*	6883	*	23
+       19	6253	*	1585	585	*	0	4449	1000	1761	
+
+K 24   6568	*	5480	*	4527	*	5620	2547	2286	3611	5007	*	*	5333	4511	5746	4324	1973	*	5476	24
+       48	5580	6397	2286	331	1028	973	4449	1591	1761	
+
+D 25   *	372	2266	5674	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       14	*	6707	*	*	662	1442	4468	0	1655	
+
+D 26   *	*	317	3550	*	*	*	6276	6678	*	*	5611	6276	6851	5416	*	5409	*	*	*	26
+       15	*	6563	*	*	888	1122	4483	0	1452	
+
+V 27   5137	*	3960	4389	5623	*	*	2367	2966	4324	*	3078	6491	*	3771	4054	*	2390	*	6180	27
+       0	*	*	*	*	*	0	4476	0	1497	
+
+T 28   *	715	2720	6230	*	*	6265	*	*	5014	*	6366	*	*	*	5229	2943	6267	*	*	28
+       0	*	*	*	*	0	*	4476	0	1497	
+
+G 29   4915	*	6667	4577	*	698	5072	*	7102	4594	*	3607	5744	3670	5910	5361	*	*	*	*	29
+       27	*	5739	*	*	*	*	4494	0	0	
+
+E 30   3308	*	4841	2355	*	1693	5792	5658	6101	*	*	6509	*	5869	*	2593	3713	4767	*	*	30
+       81	4201	*	256	2622	0	*	4478	1952	1000	
+
+A 31   4459	*	3764	2184	7273	6259	6977	5158	2929	6060	*	6269	2353	4242	3461	4836	4197	5860	*	*	31
+       11	6977	*	0	*	*	*	4492	1000	0	
+
+L 32   *	*	*	*	4180	*	*	4642	*	314	5459	*	*	*	*	5958	5564	4638	*	*	32
+       0	*	*	*	*	*	*	4492	0	0	
+
+V 33   7059	*	*	4832	3593	*	*	2234	4851	6608	*	7028	*	5166	*	4542	3985	1539	*	2928	33
+       0	*	*	*	*	*	*	4492	0	0	
+
+Q 34   5832	*	6451	*	*	*	4388	3994	3577	5566	5137	*	*	885	3369	6057	4476	5113	*	*	34
+       60	4627	*	729	1335	*	*	4492	1934	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	5672	71	5135	*	*	*	*	35
+       0	*	*	*	*	*	*	4492	0	0	
+
+S 36   2641	*	2625	3026	*	*	*	*	2664	6476	*	4977	3210	4443	5179	3097	*	4168	*	*	36
+       0	*	*	*	*	*	*	4492	0	0	
+
+D 37   *	5801	76	*	*	*	*	*	*	*	*	4913	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	4480	0	0	
+
+D 38   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	0	*	*	*	4483	0	0	
+
+//

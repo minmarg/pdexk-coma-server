@@ -1,0 +1,124 @@
+HHsearch 1.5
+NAME  d1bboa1 g.37.1.1 (A:1-28) Enhancer binding protein {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1bboa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1bboa1.a3m -v 1 
+DATE  Mon Jan 21 19:08:57 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  45 out of 47 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCHHHHHHHHHHCCCC
+>ss_conf
+9536542877777036889876404889
+>Consensus
+kyvCxxCgxxCxKPSvLxKHIRxHtxxR
+>d1bboa1 g.37.1.1 (A:1-28) Enhancer binding protein {Human (Homo sapiens) [TaxId: 9606]}
+KYICEECGIRAKKPSMLKKHIRTHTDVR
+>gi|270011049|gb|EFA07497.1|(875-902:1494) schnurri [Tribolium castaneum]   E=2e-06 s/c=1.97 id=69% cov=104%
+RYVCDQCGIRCKKPSMLKKHIRTHSNDR
+>gi|339238537|ref|XP_003380823.1|(558-585:705) zinc finger protein [Trichinella spiralis] >gi|316976245|gb|EFV59572.1| zinc finger protein [Trichinella spiralis]  E=3e-06 s/c=1.95 id=62% cov=104%
+RYVCDRCGIRCKKPSVLKKHFRCHLDIR
+>gi|170028122|ref|XP_001841945.1|(299-326:348) conserved hypothetical protein [Culex quinquefasciatus] >gi|167871770|gb|EDS35153.1| conserved hypothetical protein [Culex quinquefasciatus]  E=3e-06 s/c=1.95 id=48% cov=104%
+RYVCPYCSMNCSKPSVLQKHIRRHTNER
+>gi|326916999|ref|XP_003204792.1|(417-444:2721) PREDICTED: zinc finger protein 40-like [Meleagris gallopavo]   E=4e-08 s/c=2.16 id=55% cov=104%
+KYVCEYCNRACAKPSVLQKHIRSHTGER
+>gi|195582330|ref|XP_002080981.1|(474-501:2580) GD10771 [Drosophila simulans] >gi|194192990|gb|EDX06566.1| GD10771 [Drosophila simulans]  E=9e-08 s/c=2.12 id=48% cov=104%
+RYVCQYCNLICAKPSVLEKHIRAHTNER
+>gi|297139771|ref|NP_001171937.1|(389-416:2772) human immunodeficiency virus enhancer binding protein [Saccoglossus kowalevskii]  E=3e-07 s/c=2.07 id=55% cov=104%
+RHICQFCGRGCAKPSVLKKHIRSHTNER
+>gi|390355222|ref|XP_003728500.1|(292-319:2412) PREDICTED: uncharacterized protein LOC100894039 [Strongylocentrotus purpuratus]  E=2e-07 s/c=2.10 id=59% cov=104%
+KHMCDYCGRRCSKPSVLKKHIRSHTGER
+>gi|291411152|ref|XP_002721856.1|(140-167:1204) PREDICTED: zinc finger protein 831 [Oryctolagus cuniculus]   E=2e-07 s/c=2.10 id=52% cov=104%
+RYLCPHCGRDCLKPSVLEKHIRSHTGER
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	890	*	*	*	*	*	1119	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1909	0	0	
+
+Y 2    *	*	*	*	*	*	3276	*	*	*	*	*	*	*	*	*	*	*	*	157	2
+       0	*	*	*	*	*	*	1956	0	0	
+
+I 3    4438	*	*	*	5567	*	*	1866	*	3846	5325	*	*	*	*	*	4673	930	*	*	3
+       0	*	*	*	*	*	*	1956	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1956	0	0	
+
+E 5    5440	*	2545	2300	*	4435	4593	*	5397	*	*	3933	1762	3702	*	5687	4860	*	*	*	5
+       0	*	*	*	*	*	*	1956	0	0	
+
+E 6    *	*	4598	2282	4224	*	3846	*	*	*	*	*	*	4997	2958	*	*	*	*	1089	6
+       0	*	*	*	*	*	*	1956	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1956	0	0	
+
+G 8    *	*	*	*	*	729	*	*	4722	*	*	2986	4438	3861	5476	3716	5705	*	*	*	8
+       0	*	*	*	*	*	*	1956	0	0	
+
+I 9    *	*	*	*	*	*	5311	1297	*	2693	3420	*	*	*	1644	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1956	0	0	
+
+R 10   2457	*	3846	*	*	4224	*	4165	*	*	*	3953	4220	*	1212	5476	4438	5605	*	*	10
+       0	*	*	*	*	*	*	1956	0	0	
+
+A 11   5157	111	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4438	*	11
+       0	*	*	*	*	*	*	1956	0	0	
+
+K 12   1378	*	*	*	*	*	*	*	1377	3846	*	*	*	*	5520	3429	4438	*	*	*	12
+       0	*	*	*	*	*	*	1956	0	0	
+
+K 13   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1956	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1956	0	0	
+
+S 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	15
+       0	*	*	*	*	*	*	1956	0	0	
+
+M 16   *	*	*	*	*	*	*	*	*	*	1478	*	*	*	*	*	*	642	*	*	16
+       0	*	*	*	*	*	*	1956	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1956	0	0	
+
+K 18   *	*	*	2436	*	*	*	*	1062	4208	*	*	*	1969	5218	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1956	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1956	0	0	
+
+H 20   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1956	0	0	
+
+I 21   *	*	*	*	4388	*	*	164	*	4073	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1956	0	0	
+
+R 22   *	*	*	*	*	*	*	*	3627	*	*	*	*	*	122	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1956	0	0	
+
+T 23   1966	4388	*	*	*	*	*	*	*	*	*	*	*	*	4401	1361	1945	*	*	*	23
+       0	*	*	*	*	*	*	1956	0	0	
+
+H 24   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1956	0	0	
+
+T 25   *	*	*	*	*	*	*	*	*	4388	*	*	*	*	*	3527	208	*	*	*	25
+       0	*	*	*	*	*	*	1956	0	0	
+
+D 26   *	*	1486	*	*	1754	*	*	*	*	*	1529	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1956	0	0	
+
+V 27   *	*	4997	753	*	*	*	3022	*	4075	*	*	*	*	*	*	*	2373	*	*	27
+       0	*	*	*	*	*	*	1956	0	0	
+
+R 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1956	0	0	
+
+//

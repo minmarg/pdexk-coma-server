@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d2diga1 b.34.9.1 (A:8-62) Lamin-b receptor {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.34.9.1
+FILE  d2diga1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2diga1.a3m -v 1 
+DATE  Tue Jan 22 06:16:38 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEEECCCCCEEEEEEEEEECCCCCEEEEEECCCCCCCCCCCCCC
+>ss_conf
+9876356764666435997237888884116975068898568960104224469
+>Consensus
+MPxxkfxxgexVmgRWPGSxLyyevxvlsxdxxxxlYtVxykDGTelelkexdik
+>d2diga1 b.34.9.1 (A:8-62) Lamin-b receptor {Human (Homo sapiens) [TaxId: 9606]}
+MPSRKFADGEVVRGRWPGSSLYYEVEILSHDSTSQLYTVKYKDGTELELKENDIK
+>gi|390333249|ref|XP_003723672.1|(1-54:594) PREDICTED: lamin-B receptor-like isoform 1 [Strongylocentrotus purpuratus]  E=0.0002 s/c=0.91 id=50% cov=95%
+MPStTSFGDGDAVMSRWPGSTLWFKSKILrvSEDG----YKVQFEDGTEEEIPLTDVK
+>gi|45384396|ref|NP_990673.1|(1-55:637) lamin-B receptor [Gallus gallus] >gi|125989|sp|P23913.1|LBR_CHICK RecName: Full=Lamin-B receptor >gi|62934|emb|CAA68758.1| lamin B receptor [Gallus gallus]  E=4e-21 s/c=1.89 id=73% cov=102%
+MPNRKYADGEVVMGRWPGSVLYYEVQVTSYDDASHLYTVKYKDGTELALKESDIR
+>gi|387016660|gb|AFJ50449.1|(1-55:611) Lamin-B receptor [Crotalus adamanteus]   E=8e-21 s/c=1.87 id=70% cov=102%
+MPRRKFADEEVVMGRWPGSVLYYEVKVISYDEHTHLYTVKYEDGTELNLKENDMR
+>gi|50540510|ref|NP_001002720.1|(1-54:619) lamin-B receptor [Danio rerio] >gi|49904114|gb|AAH75756.1| Lamin B receptor [Danio rerio]  E=2e-20 s/c=1.87 id=64% cov=100%
+MPPARFQIGDTVMGRWPGSNLYYEVKVMSFDNKTRLYTVIYKDGTELELKESDI-
+>gi|115528365|gb|AAI24995.1|(5-59:620) Lbr-A protein [Xenopus laevis]   E=4e-20 s/c=1.82 id=62% cov=102%
+MPGQKYEIGETVMGRWPGSSLYYEVQVVGFNSKSQEYKVLYKDGTDLDLKEGDIK
+>gi|410928261|ref|XP_003977519.1|(3-57:542) PREDICTED: LOW QUALITY PROTEIN: lamin-B receptor-like [Takifugu rubripes]  E=8e-20 s/c=1.82 id=70% cov=102%
+MPLVKYDKGELVMGRWPGSSLYYEVKVLGYDVTAQLYTVIYKDGTELELREQDIK
+>gi|327262661|ref|XP_003216142.1|(1-55:566) PREDICTED: lamin-B receptor-like [Anolis carolinensis]   E=1e-19 s/c=1.81 id=70% cov=102%
+MPRRKFADEEVVMGRWPGSVLYYEVQVTSYDDLNHLYTVKYKDGTELQLKESEMK
+>gi|187607424|ref|NP_001120539.1|(1-55:618) lamin B receptor [Xenopus (Silurana) tropicalis] >gi|171846795|gb|AAI61458.1| LOC100145693 protein [Xenopus (Silurana) tropicalis]  E=2e-18 s/c=1.74 id=52% cov=102%
+MPAQKYENGETVMARWPGSSLYYEVQVVEFNTQKQEYKVLYKDGTDLDLQEGELK
+>gi|47196527|emb|CAF87329.1|(3-57:58) unnamed protein product [Tetraodon nigroviridis]   E=6e-17 s/c=1.65 id=70% cov=102%
+MPSVKYQKGELVMGRWPGSNLYYQVKVLSFDVKEQLYTVIYKDGTELELKEQDIK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1940	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1940	0	0	
+
+S 3    3340	*	*	*	*	3880	*	*	*	4028	*	4098	3855	*	2880	1138	4205	*	*	*	3
+       239	2713	*	0	*	*	*	1940	1000	0	
+
+R 4    3855	*	*	*	*	*	*	*	*	*	*	*	*	2585	1180	*	2713	2554	*	*	4
+       0	*	*	*	*	*	*	1940	0	0	
+
+K 5    *	*	*	*	*	*	*	*	361	*	*	*	*	*	3855	2713	*	*	*	*	5
+       0	*	*	*	*	*	*	1940	0	0	
+
+F 6    *	*	*	*	726	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1339	6
+       0	*	*	*	*	*	*	1940	0	0	
+
+A 7    1546	*	4028	2585	*	2320	*	*	*	*	*	*	*	2490	*	*	*	4284	*	*	7
+       0	*	*	*	*	*	*	1940	0	0	
+
+D 8    *	*	882	4284	*	*	*	2868	2554	*	*	3340	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1940	0	0	
+
+G 9    *	*	*	2880	*	211	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 10   *	*	1858	466	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1940	0	0	
+
+V 11   2713	*	*	*	*	*	*	*	*	3108	*	*	*	*	*	*	1786	1180	*	*	11
+       0	*	*	*	*	*	*	1940	0	0	
+
+V 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	12
+       0	*	*	*	*	*	*	1940	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	410	*	*	*	2016	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1940	0	0	
+
+G 14   3340	*	*	*	*	418	*	*	*	*	*	*	*	*	*	2713	*	*	*	*	14
+       0	*	*	*	*	*	*	1940	0	0	
+
+R 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1940	0	0	
+
+W 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	16
+       0	*	*	*	*	*	*	1940	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1940	0	0	
+
+G 18   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1940	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1940	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	*	*	3014	*	*	*	1066	2290	2364	*	*	20
+       0	*	*	*	*	*	*	1940	0	0	
+
+L 21   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1940	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2713	239	22
+       0	*	*	*	*	*	*	1940	0	0	
+
+Y 23   *	*	*	*	2713	*	*	*	*	*	*	*	*	*	*	*	*	*	*	239	23
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 24   *	*	*	437	*	*	*	*	2713	*	*	*	*	3199	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1940	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2713	*	239	*	*	25
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 26   *	*	*	2016	*	*	*	*	1112	*	*	*	*	1785	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1940	0	0	
+
+I 27   *	*	*	*	*	*	*	1506	*	*	*	*	*	*	*	*	*	626	*	*	27
+       0	*	*	*	*	*	*	1940	0	0	
+
+L 28   *	*	*	*	*	*	*	3823	*	811	3855	*	*	*	*	*	3017	2585	*	*	28
+       239	2713	*	1000	1000	*	*	1940	1000	0	
+
+S 29   *	*	*	3340	*	2446	*	*	*	*	*	*	*	*	*	478	*	*	*	*	29
+       0	*	*	*	*	*	*	1940	0	0	
+
+H 30   *	*	*	2713	1343	*	3350	*	*	*	*	*	*	4389	*	*	*	*	*	1701	30
+       0	*	*	*	*	*	*	1940	0	0	
+
+D 31   *	*	263	*	*	*	*	*	*	*	*	2585	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1940	0	0	
+
+S 32   *	*	3017	3823	*	1977	*	*	*	*	*	3054	*	*	*	2207	3340	3108	*	*	32
+       239	*	2713	*	*	*	*	1940	0	0	
+
+T 33   3912	*	*	*	*	*	3569	*	908	3759	*	*	*	3127	*	*	2967	*	*	*	33
+       0	*	*	*	*	*	0	1739	0	1000	
+
+S 34   3795	*	*	3935	*	*	*	*	3127	*	*	3759	*	*	*	980	2581	*	*	*	34
+       0	*	*	*	*	*	0	1739	0	1000	
+
+Q 35   *	*	*	*	*	*	1822	*	*	*	*	*	*	657	3593	*	*	*	*	*	35
+       0	*	*	*	*	*	0	1739	0	1000	
+
+L 36   *	*	*	2376	*	*	*	*	*	427	*	*	*	3977	*	*	*	*	*	*	36
+       0	*	*	*	*	0	*	1739	0	1000	
+
+Y 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	37
+       0	*	*	*	*	*	*	1940	0	0	
+
+T 38   4336	*	*	*	*	*	*	*	1647	*	*	*	*	*	*	*	664	*	*	*	38
+       0	*	*	*	*	*	*	1940	0	0	
+
+V 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	39
+       0	*	*	*	*	*	*	1940	0	0	
+
+K 40   *	*	*	*	*	*	*	2063	1180	2585	*	*	*	2713	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1940	0	0	
+
+Y 41   *	*	*	*	2713	*	*	*	*	*	*	*	*	*	*	*	*	*	*	239	41
+       0	*	*	*	*	*	*	1940	0	0	
+
+K 42   *	*	*	2164	*	*	*	*	364	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1940	0	0	
+
+D 43   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1940	0	0	
+
+G 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1940	0	0	
+
+T 45   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	45
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 46   *	*	2585	263	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1940	0	0	
+
+L 47   *	*	*	2713	*	*	*	*	*	239	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 48   4098	*	2585	646	*	*	*	*	*	*	*	3823	*	3940	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1940	0	0	
+
+L 49   *	*	*	*	*	*	*	2713	*	239	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1940	0	0	
+
+K 50   *	*	*	*	*	*	*	*	541	*	*	*	2713	3340	4028	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1940	0	0	
+
+E 51   *	*	*	239	*	*	*	*	*	2713	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1940	0	0	
+
+N 52   *	*	*	*	*	2585	*	*	*	*	*	2562	*	2554	*	1551	2713	*	*	*	52
+       0	*	*	*	*	*	*	1940	0	0	
+
+D 53   *	*	258	2609	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1940	0	0	
+
+I 54   *	*	*	*	*	*	*	706	*	3340	2880	*	*	*	*	*	*	2713	*	*	54
+       0	*	*	*	*	*	*	1940	0	0	
+
+K 55   *	*	*	*	*	*	*	*	217	*	*	*	*	*	2840	*	*	*	*	*	55
+       0	*	*	0	*	*	*	1915	0	0	
+
+//

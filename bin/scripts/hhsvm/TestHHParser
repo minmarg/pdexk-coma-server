@@ -1,0 +1,79 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use HHParser;
+
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 3 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/TestHHParser $
+# ==============================================================================
+
+# HHout obj:
+# %main_obj = (
+#              query => "PF00002",
+#              header => "7 transmembrane receptor (Secretin family)",
+#              match_columns => 293,
+#              used_no_of_seqs => 117,
+#              all_no_of_seqs => 762,
+#              neff => 6.6,
+#              searched_HMMs => 13774,
+#              hits =>   {1 => ####, ...}
+#              aligns => {1 => ######, ...}
+#              );
+# 
+#  Hits and aligns point to the structures showed bellow. 
+# 
+# #### my %obj = (number => 1, 
+#             template => "d1u19a_", 
+#             prob => 98.8, 
+#             evalue => 8.9E-09, 
+#             pvalue => 6.5E-13, 
+#             score => 63.7, 
+#             ss => 6.9, 
+#             cols => 244, 
+#             query_hmm_begin => 14, 
+#             query_hmm_end => 292, 
+#             template_hmm_begin => 50, 
+#             template_hmm_end => 312, 
+#             hierarchy => "f.13.1.2");
+# ####### my %obj = 
+#         (
+#             match => "++.=.+..+-|.++.-..+..........+.+++.+--..=|+++.-.+", 
+#             q_cons => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_cons => "~v~W~iYPi~y~l~~~g~~~~~~~~~~~~y~i~D~i~K~~FG~~i~~~a", 
+#             q_seq => "LVLLPLLGITWILGLFAVNDDSDGTLSLVFAYLFAILNSLQGLFIFILY", 
+#             t_seq => "VILWAIYPFIWLLGPPGVALLTPTVDVALIVYLDLVTKVGFGFIALDAA"
+#         );
+
+my $hh_obj = HHParser::parse_hh_out($ARGV[0]);
+    
+print_struct($hh_obj);    
+    
+sub print_struct
+{
+    my ($obj) = @_;
+    
+    for my $key (sort keys %$obj)
+    {
+        if($key eq "hits" || $key eq "aligns")
+        {
+            for my $key2 (sort {$obj->{$key}->{$a} <=> $obj->{$key}->{$b}} keys %{$obj->{$key}})
+            {
+                for my $key3 (sort keys %{$obj->{$key}->{$key2}})
+                {
+                    printf("%5s %20s %20s\n", $key2, $key3, $obj->{$key}->{$key2}->{$key3});
+                }
+            }        
+        }
+        else
+        {
+            printf("%20s %20s\n", $key, $obj->{$key});
+        }
+    }
+}
+

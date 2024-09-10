@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  d1zaka2 g.41.2.1 (A:128-158) Microbial and mitochondrial ADK, insert "zinc finger" domain {Maize (Zea mays) [TaxId: 4577]}
+FAM   g.41.2.1
+FILE  d1zaka2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zaka2.a3m -v 1 
+DATE  Tue Jan 22 05:11:44 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  102 out of 107 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEEECCCCCCHHHHHHHCCC
+>ss_conf
+9745787784400002897896888863059
+>Consensus
+GRRxDPxTGxiYHxxfxPPxxxevxxRLvqR
+>d1zaka2 g.41.2.1 (A:128-158) Microbial and mitochondrial ADK, insert "zinc finger" domain {Maize (Zea mays) [TaxId: 4577]}
+GRRLDPVTGKIYHLKYSPPENEEIASRLTQR
+>gi|428182020|gb|EKX50882.1|(141-172:198) hypothetical protein GUITHDRAFT_66699, partial [Guillardia theta CCMP2712]  E=3e-05 s/c=1.60 id=50% cov=103%
+GRMVDPVTGDIYHSHFRPPPdDPEVKARLIRR
+>gi|195998824|ref|XP_002109280.1|(157-187:463) hypothetical protein TRIADDRAFT_53152 [Trichoplax adhaerens] >gi|190587404|gb|EDV27446.1| hypothetical protein TRIADDRAFT_53152 [Trichoplax adhaerens]  E=4e-05 s/c=1.63 id=44% cov=103%
+GKRIDPITGDVYHILFYPPDDALVADRLEQQ
+>gi|300710513|ref|YP_003736327.1|(120-150:207) adenylate kinase [Halalkalicoccus jeotgali B3] >gi|299124196|gb|ADJ14535.1| adenylate kinase [Halalkalicoccus jeotgali B3]  E=9e-06 s/c=1.70 id=47% cov=103%
+GRRVDPETGENYHTEFDMPDDEAVRERLVQR
+>gi|410719304|gb|AFV80080.1|(179-209:307) adenylate kinase 2 [Spironucleus salmonicida]   E=0.0005 s/c=1.52 id=47% cov=103%
+GRRFDPITSVTYHITNDPPPAGEVASRCIIR
+>gi|325184973|emb|CCA19465.1|(323-352:1581) adenylate kinase putative [Albugo laibachii Nc14]   E=3e-06 s/c=1.81 id=48% cov=100%
+GRRTDPLTETVYHLESNPPSDPLVLSRLVQ-
+>gi|291231252|ref|XP_002735582.1|(177-206:483) PREDICTED: hypothetical protein [Saccoglossus kowalevskii]   E=7e-06 s/c=1.77 id=35% cov=100%
+GKRIDPETENVYHTTFDWPNDPELVNRLVE-
+>gi|326930450|ref|XP_003211360.1|(389-417:480) PREDICTED: adenylate kinase 8-like [Meleagris gallopavo]   E=2e-05 s/c=1.79 id=47% cov=97%
+-RRIDPVTGERYHTTLRPAPTPKIQARLKQ-
+>gi|240120142|ref|NP_001155275.1|(392-420:485) radial spoke protein AK58 [Ciona intestinalis] >gi|237769619|dbj|BAH59278.1| radial spoke protein AK58 [Ciona intestinalis]  E=0.0002 s/c=1.66 id=37% cov=97%
+-RITDPISGERYHTLYNPPRSNDVKQRCLQ-
+>gi|327399502|ref|YP_004340371.1|(126-160:213) adenylate kinase [Hippea maritima DSM 10411] >gi|327182131|gb|AEA34312.1| Adenylate kinase [Hippea maritima DSM 10411]  E=0.0003 s/c=1.36 id=44% cov=103%
+GRRVCPNCGAVYHIKNNPPKNDNLCDkcgsKLIQR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2936	0	0	
+
+R 2    *	*	*	*	*	*	*	*	2381	5605	*	*	*	*	345	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3241	0	0	
+
+R 3    5307	*	*	*	*	6435	*	5315	*	6459	5688	*	*	*	196	6722	5333	*	*	*	3
+       0	*	*	*	*	*	*	3241	0	0	
+
+L 4    6129	*	*	*	5214	*	5605	2296	6287	1987	6021	6459	*	5263	6607	6429	2524	2178	*	*	4
+       0	*	*	*	*	*	*	3241	0	0	
+
+D 5    *	3563	127	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3241	0	0	
+
+P 6    5970	*	*	*	*	*	*	*	*	*	*	*	60	*	*	5352	*	*	*	*	6
+       0	*	*	*	*	*	*	3241	0	0	
+
+V 7    4458	*	6170	2434	5995	*	*	3092	5701	3596	5495	4157	*	4630	*	6549	6634	1438	*	6341	7
+       0	*	*	*	*	*	*	3241	0	0	
+
+T 8    *	3563	6398	*	*	*	*	*	*	*	*	5995	*	*	*	5236	215	*	*	*	8
+       0	*	*	*	*	*	*	3241	0	0	
+
+G 9    *	*	6798	5013	*	218	*	*	*	*	*	6229	*	4648	5113	5765	*	*	*	*	9
+       0	*	*	*	*	*	*	3241	0	0	
+
+K 10   2898	*	2774	1843	*	*	*	*	2040	*	6708	4924	*	5259	3864	*	4572	5765	*	*	10
+       0	*	*	*	*	*	*	3241	0	0	
+
+I 11   5809	*	*	6333	*	*	*	1447	*	*	6287	5771	*	*	2720	*	3179	1777	5825	*	11
+       0	*	*	*	*	*	*	3241	0	0	
+
+Y 12   *	*	*	*	5219	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39	12
+       0	*	*	*	*	*	*	3241	0	0	
+
+H 13   *	*	*	*	*	*	42	*	*	*	*	5116	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3241	0	0	
+
+L 14   *	*	*	6045	6380	*	*	2504	*	1617	3773	*	*	*	*	4726	2163	2875	*	*	14
+       0	*	*	*	*	*	*	3241	0	0	
+
+K 15   5644	*	6840	2836	*	*	5589	3783	1716	3333	4037	*	*	*	*	*	1968	5825	*	*	15
+       0	*	*	*	*	*	*	3241	0	0	
+
+Y 16   *	*	*	*	990	*	6546	*	*	5606	*	3500	*	*	*	5260	6278	*	*	1565	16
+       0	*	*	*	*	*	*	3241	0	0	
+
+S 17   7159	*	1842	*	3797	*	*	*	3237	6516	6791	1377	*	7136	4662	3828	*	*	*	6144	17
+       14	6671	*	0	*	*	*	3241	1000	0	
+
+P 18   *	*	*	*	*	*	*	*	5690	*	5244	*	351	*	*	*	*	*	2704	5891	18
+       0	*	*	*	*	*	*	3241	0	0	
+
+P 19   4152	*	*	*	*	*	*	*	*	*	*	*	107	*	*	6011	*	*	*	*	19
+       49	*	4894	*	*	*	*	3241	0	0	
+
+E 20   5701	*	4192	2695	*	5884	*	6102	3676	*	*	5634	1104	5662	3777	3924	5795	*	*	*	20
+       232	3493	4063	324	2314	0	*	3237	1997	1741	
+
+N 21   4015	*	1689	3049	*	5805	*	*	5775	*	*	2950	5569	*	*	3208	2310	6560	*	*	21
+       86	*	4103	*	*	0	*	3255	0	1787	
+
+E 22   4253	*	2767	2155	5535	4710	*	*	6087	5883	5391	4336	1723	4569	*	4469	*	5566	*	*	22
+       39	6520	6010	1000	1000	0	*	3240	1000	1824	
+
+E 23   4217	*	2875	824	*	5245	*	*	4941	3912	*	4669	*	5267	6081	*	4654	*	*	*	23
+       10	7230	*	1000	1000	0	*	3242	1000	1320	
+
+I 24   *	*	*	*	*	*	*	1421	*	3461	6468	*	*	*	*	*	6297	967	*	*	24
+       35	6320	6447	1000	1000	*	*	3237	1000	0	
+
+A 25   2290	3350	*	3552	*	*	*	6654	2803	3494	*	*	*	2190	4351	5700	*	3874	6095	*	25
+       14	6690	*	1000	1000	0	*	3234	1000	1000	
+
+S 26   1738	*	2057	2773	*	5493	6221	*	4150	*	*	3830	*	3821	6947	3991	6718	*	*	*	26
+       46	4999	*	2000	415	*	*	3237	1169	0	
+
+R 27   *	*	*	*	*	*	*	*	4150	*	*	*	*	*	84	*	*	*	*	*	27
+       81	4198	*	2000	415	*	*	3237	1401	0	
+
+L 28   *	4166	*	*	*	*	*	5808	*	175	*	*	*	*	*	*	*	4608	*	*	28
+       15	*	6614	*	*	*	*	3236	0	0	
+
+T 29   6249	*	*	4179	6236	*	6208	1879	5273	3450	5996	*	*	4594	5099	*	3739	1496	*	*	29
+       0	*	*	*	*	0	*	3231	0	1000	
+
+Q 30   *	*	*	3689	*	*	5313	3706	3733	*	*	*	*	736	4288	*	3638	6202	*	*	30
+       0	*	*	*	*	*	*	3207	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	4543	63	*	*	*	*	*	31
+       0	*	*	0	*	*	*	2764	0	0	
+
+//

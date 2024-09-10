@@ -1,0 +1,273 @@
+HHsearch 1.5
+NAME  d1vcca_ d.121.1.1 (A:) Vaccinia DNA topoisomerase I, 9 kDa N-terminal fragment {Vaccinia virus, strain WR [TaxId: 10245]}
+FAM   d.121.1.1
+FILE  d1vcca_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vcca_.a3m -v 1 
+DATE  Tue Jan 22 03:47:58 2013
+LENG  77 match states, 77 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCEECCCCCEEECCCCCCCCCCCCCHHHHHHHCCCCCCCCEEEEEEECHHHHCCCEEEEEECCCCCEEEEEEECCC
+>ss_conf
+95211037804413233522766670356553237986432001100013333066588742688861455321269
+>Consensus
+mrxlxyxdgkLfxDkxxxxxvxxxNptYeilxxxkiPxhLtdVxvyeQtxeeaxxgLIfVGxDSKgrkQYfYGkxhV
+>d1vcca_ d.121.1.1 (A:) Vaccinia DNA topoisomerase I, 9 kDa N-terminal fragment {Vaccinia virus, strain WR [TaxId: 10245]}
+MRALFYKDGKLFTDNNFLNPVSDDNPAYEVLQHVKIPTHLTDVVVYEQTWEEALTRLIFVGSDSKGRRQYFYGKMHV
+>gi|18640160|ref|NP_570234.1|(1-77:320) SPV074 DNA topoisomerase [Swinepox virus] >gi|18448567|gb|AAL69813.1| SPV074 DNA topoisomerase [Swinepox virus]  E=3e-23 s/c=1.44 id=63% cov=101%
+MRAFLYYDGKLFFDTDLTKQVPYDNPTYDILKYIKIPNHLTNVMVYEQTYEQSLHRLIFVGTDSKGRKQYFYGKLHV
+>gi|211956357|ref|YP_002302426.1|(1-77:314) DNA topoisomerase [Deerpox virus W-1170-84] >gi|115503152|gb|ABI99070.1| DNA topoisomerase [Deerpox virus W-1170-84]  E=6e-27 s/c=1.60 id=68% cov=101%
+MRRFSYKDGKLFFDKEFKHIVPYDNKTYEILRHVKIPPHLTDVVIYEQSYEQSLTGLIFVGSDSKGRRQYFYGKLHI
+>gi|38229239|ref|NP_938332.1|(1-77:315) 77R [Yaba monkey tumor virus] >gi|38000510|gb|AAR07433.1| 77R [Yaba monkey tumor virus]  E=2e-26 s/c=1.58 id=68% cov=101%
+MKGLYYNDGKLFEDKELTMSVSSDNPAYEILKKIKIPSYLTDVVVYEQTYDESLNRLIFVGSDSKGKRQYFYGKLHV
+>gi|9629019|ref|NP_044038.1|(3-78:323) MC087R [Molluscum contagiosum virus subtype 1] >gi|1492030|gb|AAC55215.1| MC087R [Molluscum contagiosum virus subtype 1]  E=5e-26 s/c=1.58 id=60% cov=100%
+-RFFFYKDGELFHDRKCTRRVSRSNATYEVLRHVRIPAHLHDVRVLEQTYEQAQRGLVFVGLDSKQRAQYFYGKLHV
+>gi|115531770|ref|YP_784296.1|(3-78:324) DNA topoisomerase IB [Crocodilepox virus] >gi|115521123|gb|ABJ08997.1| DNA topoisomerase IB [Crocodilepox virus]  E=6e-24 s/c=1.49 id=56% cov=100%
+-RFLFYLEGVLYYDADRTRRVEDSNPTYDVVARVKIPAHLTDVAFVEQTLEESARGLIFIGYDSKSRKQYFYGKLHV
+>gi|40556127|ref|NP_955212.1|(7-80:316) CNPV189 DNA topoisomerase [Canarypox virus] >gi|40233952|gb|AAR83535.1| CNPV189 DNA topoisomerase [Canarypox virus]  E=1e-23 s/c=1.53 id=60% cov=97%
+---LYYKEGKLYYDNAYKKRVPISNPTYEILKRYKIPTYLKDIIIYEQTYEEALNSLIFVGIDSKGRKQYFYGKNHI
+>gi|9634813|ref|NP_039106.1|(6-80:316) DNA topoisomerase [Fowlpox virus] >gi|7271641|gb|AAF44487.1|AF198100_134 ORF FPV143 DNA topoisomerase [Fowlpox virus] >gi|41023428|emb|CAE52682.1| H6R DNA topoisomerase orthologue [Fowlpox virus isolate HP-438/Munich]  E=1e-22 s/c=1.45 id=51% cov=99%
+--FFHYKDDKLYYDAAYKNLVPASNKTYEIIKAYRVPPHLKEVIVYEQSLEEASNSLIFIGVDSKGRKQYFYGKNHV
+>gi|9631352|ref|NP_048201.1|(13-79:328) ORF MSV130 putative DNA topoisomerase I, Amsacta moorei entomopoxvirus topoisomerase (vaccinia H6R) homolog, similar to GB:U80056 [Melanoplus sanguinipes entomopoxvirus] >gi|4049705|gb|AAC97665.1| ORF MSV130 putative DNA topoisomerase I, Amsacta moorei entomopoxvirus topoisomerase (vaccinia H6R) homolog, similar to GB:U80056 [Melanoplus sanguinipes entomopoxvirus]  E=3e-07 s/c=0.87 id=28% cov=88%
+-------NNKIYDDKNNEIINEELNK---IIIKYKPPSHLHDIKLIAKNIKEADNGIVYIGLDSTNKKQYIYGINFV
+>gi|41018549|gb|AAR98157.1|(1-77:318) ORF062 DNA topoisomerase type I [Orf virus]   E=7e-27 s/c=1.60 id=62% cov=101%
+MRALHLSDGRLFFDKELTQPVPDDNPAYAVLAKIRIPPHLSDVVVYEQDLESAQQGLIFVGRDAKGRKQYFYGRGHV
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1727	0	0	
+
+R 2    *	*	*	*	*	*	*	*	2812	*	*	*	*	*	222	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 3    1567	*	*	3842	1839	2444	*	*	*	*	*	*	*	*	2951	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2019	0	0	
+
+L 4    *	*	*	*	1530	*	*	*	*	613	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2044	0	0	
+
+F 5    *	*	*	*	1291	*	2561	*	*	3953	*	*	*	*	*	4123	*	4244	*	2016	5
+       0	*	*	*	*	*	*	2044	0	0	
+
+Y 6    *	*	*	*	*	*	*	*	*	2737	*	*	*	*	*	*	*	*	*	234	6
+       0	*	*	*	*	*	*	2044	0	0	
+
+K 7    *	*	*	*	*	*	*	*	911	3522	*	2585	*	*	*	2737	*	*	*	3953	7
+       0	*	*	*	*	*	*	2044	0	0	
+
+D 8    *	*	1003	2450	*	*	*	*	4076	4199	*	2292	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2299	0	0	
+
+G 9    *	*	3802	*	*	369	*	*	*	*	*	2699	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2299	0	0	
+
+K 10   *	*	*	3827	*	*	*	*	351	*	*	*	*	*	3779	*	*	3781	*	*	10
+       0	*	*	*	*	*	*	2299	0	0	
+
+L 11   *	*	*	*	*	*	*	2699	*	241	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2299	0	0	
+
+F 12   *	*	*	*	736	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1323	12
+       0	*	*	*	*	*	*	2299	0	0	
+
+T 13   *	*	2699	2826	1777	*	3827	*	*	4199	*	*	*	*	*	*	3509	*	*	2319	13
+       0	*	*	*	*	*	*	2299	0	0	
+
+D 14   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2299	0	0	
+
+N 15   2791	*	*	*	*	*	*	*	807	*	*	2682	*	*	3827	*	4113	*	*	*	15
+       0	*	*	*	*	*	*	2299	0	0	
+
+N 16   2970	*	2033	1935	*	*	*	*	3002	*	*	2048	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2299	0	0	
+
+F 17   *	3827	*	*	1961	*	*	*	*	1652	*	2699	*	*	3781	*	*	*	*	2970	17
+       0	*	*	*	*	*	*	2299	0	0	
+
+L 18   *	*	*	2699	*	*	*	*	2513	3324	*	*	*	*	*	4076	967	*	*	*	18
+       0	*	*	*	*	*	*	2299	0	0	
+
+N 19   *	*	*	*	*	*	4394	1951	3137	*	3460	2543	*	2920	2803	*	4563	*	*	*	19
+       0	*	*	*	*	*	*	2299	0	0	
+
+P 20   *	*	*	*	4317	*	4199	2311	*	3133	*	*	1850	4113	2328	4455	*	*	*	*	20
+       0	*	*	*	*	*	*	2299	0	0	
+
+V 21   *	*	*	*	*	*	*	*	*	*	*	2699	*	*	*	*	*	241	*	*	21
+       0	*	*	*	*	*	*	2299	0	0	
+
+S 22   *	*	*	2141	*	*	*	*	4199	*	*	*	1106	*	*	1977	*	*	*	*	22
+       0	*	*	*	*	*	*	2299	0	0	
+
+D 23   3802	*	1714	2699	3435	4199	*	4161	*	*	*	*	*	*	3827	3460	*	*	*	3247	23
+       0	*	*	*	*	*	*	2299	0	0	
+
+D 24   *	*	1072	*	*	*	*	*	*	2699	*	4202	*	*	*	1661	*	*	*	*	24
+       0	*	*	*	*	*	*	2299	0	0	
+
+N 25   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2299	0	0	
+
+P 26   3827	*	*	*	*	*	*	*	1872	4202	*	*	732	*	*	*	*	*	*	*	26
+       241	*	2699	*	*	*	*	2299	0	0	
+
+A 27   1368	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	707	*	*	*	27
+       0	*	*	*	*	*	0	2044	0	1000	
+
+Y 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	28
+       0	*	*	*	*	*	0	2044	0	1000	
+
+E 29   3614	*	2203	512	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	0	*	2044	0	1000	
+
+V 30   *	*	*	*	*	*	*	650	*	*	*	*	*	*	*	*	*	1463	*	*	30
+       0	*	*	*	*	*	*	2313	0	0	
+
+L 31   *	*	*	*	*	*	*	1485	*	805	*	*	*	*	*	*	*	3831	*	*	31
+       0	*	*	*	*	*	*	2313	0	0	
+
+Q 32   2369	*	*	4213	*	*	*	3029	1087	*	*	*	*	4480	3127	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2313	0	0	
+
+H 33   3855	*	*	*	*	*	1696	*	1505	*	*	4181	*	*	2613	*	*	*	*	4284	33
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 34   *	*	*	*	*	*	*	1446	*	*	*	*	*	*	*	*	*	1647	*	1672	34
+       0	*	*	*	*	*	*	2313	0	0	
+
+K 35   *	*	*	*	*	*	*	*	521	*	*	*	*	*	1721	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2313	0	0	
+
+I 36   *	*	*	*	*	*	*	437	*	*	*	*	2379	*	*	*	*	3855	*	*	36
+       0	*	*	*	*	*	*	2313	0	0	
+
+P 37   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2313	0	0	
+
+T 38   2362	*	*	4213	*	*	*	*	3842	*	*	4284	1849	*	*	1968	3362	*	*	*	38
+       0	*	*	*	*	*	*	2313	0	0	
+
+H 39   *	*	*	*	*	*	319	*	*	*	*	*	*	*	*	*	*	*	*	2333	39
+       0	*	*	*	*	*	*	2313	0	0	
+
+L 40   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2313	0	0	
+
+T 41   *	*	*	*	*	*	2376	*	3041	*	*	3842	*	*	*	3874	868	*	*	*	41
+       0	*	*	*	*	*	*	2313	0	0	
+
+D 42   *	*	380	3855	*	*	*	*	*	*	*	2623	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 43   *	*	*	*	*	*	*	2031	*	*	*	*	*	*	*	*	*	405	*	*	43
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 44   3831	*	*	3842	*	*	*	1474	3029	*	4284	*	*	*	3835	*	*	1966	*	*	44
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 45   *	*	*	*	3831	*	*	2730	*	2379	*	*	*	*	*	*	*	769	*	*	45
+       0	*	*	*	*	*	*	2313	0	0	
+
+Y 46   *	*	*	*	*	*	*	2379	*	3835	*	*	*	*	*	*	*	3831	*	583	46
+       0	*	*	*	*	*	*	2313	0	0	
+
+E 47   2379	*	*	308	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2313	0	0	
+
+Q 48   *	*	*	*	*	*	*	*	2379	*	*	*	*	308	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2313	0	0	
+
+T 49   *	*	3874	*	*	*	*	*	*	*	*	2379	*	*	*	3139	676	*	*	*	49
+       0	*	*	*	*	*	*	2313	0	0	
+
+W 50   *	*	*	*	*	*	*	2379	*	1929	*	*	*	*	*	*	*	*	3336	1165	50
+       0	*	*	*	*	*	*	2313	0	0	
+
+E 51   *	*	3357	359	*	*	*	*	3029	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2313	0	0	
+
+E 52   *	*	3194	941	*	*	*	*	*	*	*	*	*	1728	*	3874	*	*	*	*	52
+       0	*	*	*	*	*	*	2313	0	0	
+
+A 53   722	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1344	*	*	*	*	53
+       0	*	*	*	*	*	*	2313	0	0	
+
+L 54   3831	*	2379	*	*	*	4181	*	*	1074	*	*	*	2855	*	3855	*	*	*	*	54
+       0	*	*	*	*	*	*	2313	0	0	
+
+T 55   *	*	*	*	*	*	4284	*	*	*	*	1485	*	3020	2833	3390	2105	*	*	*	55
+       0	*	*	*	*	*	*	2313	0	0	
+
+R 56   *	*	*	*	*	717	*	*	4368	*	*	*	*	*	2174	3041	*	*	*	*	56
+       0	*	*	*	*	*	*	2313	0	0	
+
+L 57   *	*	*	*	*	*	*	2379	*	308	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2313	0	0	
+
+I 58   *	*	*	*	*	*	*	398	*	*	*	*	*	*	*	*	*	2053	*	*	58
+       0	*	*	*	*	*	*	2313	0	0	
+
+F 59   *	*	*	*	308	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2379	59
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 60   *	*	*	*	*	*	*	1592	*	*	*	*	*	*	*	*	*	581	*	*	60
+       0	*	*	*	*	*	*	2313	0	0	
+
+G 61   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2313	0	0	
+
+S 62   *	*	*	*	*	*	*	3033	3197	2097	*	*	*	*	3031	2172	4284	3855	*	3831	62
+       0	*	*	*	*	*	*	2313	0	0	
+
+D 63   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2313	0	0	
+
+S 64   3874	*	*	*	*	*	*	*	*	*	*	*	*	*	*	102	*	*	*	*	64
+       0	*	*	*	*	*	*	2313	0	0	
+
+K 65   *	*	*	*	*	*	*	*	189	*	*	*	*	*	*	*	3029	*	*	*	65
+       0	*	*	*	*	*	*	2313	0	0	
+
+G 66   *	*	*	*	*	583	*	*	*	*	*	2379	*	3835	*	3831	*	*	*	*	66
+       0	*	*	*	*	*	*	2313	0	0	
+
+R 67   *	*	*	*	*	*	*	*	1816	*	*	*	*	*	482	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2313	0	0	
+
+R 68   3835	*	*	*	*	*	*	*	706	*	*	*	*	*	1926	*	4213	*	*	*	68
+       0	*	*	*	*	*	*	2313	0	0	
+
+Q 69   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	2313	0	0	
+
+Y 70   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	70
+       0	*	*	*	*	*	*	2313	0	0	
+
+F 71   *	*	*	*	308	*	*	2379	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2313	0	0	
+
+Y 72   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	72
+       0	*	*	*	*	*	*	2313	0	0	
+
+G 73   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2313	0	0	
+
+K 74   *	*	*	*	*	*	*	2379	547	*	*	*	*	*	3020	*	*	*	*	*	74
+       0	*	*	*	*	*	*	2313	0	0	
+
+M 75   *	*	4181	*	*	3874	*	*	*	1068	3539	1672	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	2313	0	0	
+
+H 76   *	*	*	*	3029	*	308	*	*	*	*	*	*	*	*	*	*	*	*	3842	76
+       0	*	*	*	*	*	*	2313	0	0	
+
+V 77   *	*	*	*	*	*	*	2783	*	*	*	*	*	*	*	*	*	226	*	*	77
+       0	*	*	0	*	*	*	2313	0	0	
+
+//

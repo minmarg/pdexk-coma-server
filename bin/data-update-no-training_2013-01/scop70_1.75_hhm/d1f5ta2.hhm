@@ -1,0 +1,213 @@
+HHsearch 1.5
+NAME  d1f5ta2 a.76.1.1 (A:1065-1121) Diphtheria toxin repressor (DtxR) {Corynebacterium diphtheriae [TaxId: 1717]}
+FAM   a.76.1.1
+FILE  d1f5ta2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1f5ta2.a3m -v 1 
+DATE  Tue Jan 22 00:02:26 2013
+LENG  57 match states, 57 columns in multiple alignment
+FILT  105 out of 1024 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  6.5 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHCCCCCHHHHHHHHHHCC
+>ss_conf
+957889999999988899999998838999899999867347799888999988619
+>Consensus
+TxxGxxxAxxixrrHrlxexfLxxxlgvxxxxaxxxAxxlEHxisxxxxxxlxxxLx
+>d1f5ta2 a.76.1.1 (A:1065-1121) Diphtheria toxin repressor (DtxR) {Corynebacterium diphtheriae [TaxId: 1717]}
+TPTGRTLATAVMRKHRLAERLLTDIIGLDINKVHDEADRWEHVMSDEVERRLVKVLK
+>gi|403234510|ref|ZP_10913096.1|(65-120:140) manganese transport transcriptional regulator [Bacillus sp. 10403023]  E=0.0001 s/c=0.88 id=26% cov=100%
+TDKGTSVAKKLVEKHEMLEDFL-KMIGVQDKNIYEEVEKLEHYISKETSLCLSTLIE
+>gi|329766704|ref|ZP_08258247.1|(78-132:152) DtxR family iron dependent repressor [Candidatus Nitrosoarchaeum limnia SFB1] >gi|329136959|gb|EGG41252.1| DtxR family iron dependent repressor [Candidatus Nitrosoarchaeum limnia SFB1]  E=0.0005 s/c=0.86 id=27% cov=98%
+TQDGERIGSSMMRNSRLLEVLMDSALKVAIDE--EMVCGIEHHMNKQFTDALCTMLK
+>gi|302875005|ref|YP_003843638.1|(64-120:125) DtxR family iron (metal) dependent repressor [Clostridium cellulovorans 743B] >gi|302577862|gb|ADL51874.1| iron (metal) dependent repressor, DtxR family [Clostridium cellulovorans 743B]  E=8e-11 s/c=1.22 id=24% cov=102%
+TEKGRKKALEVYERHNYITKYLMLTLNLEEKLASEDACRIEHIISQETFDKIKDFVE
+>gi|328944378|ref|ZP_08241840.1|(86-142:150) iron-dependent transcriptional regulator [Atopobium vaginae DSM 15829] >gi|327490962|gb|EGF22739.1| iron-dependent transcriptional regulator [Atopobium vaginae DSM 15829]  E=8e-10 s/c=1.16 id=28% cov=102%
+TTTGKEYAAHIWRCHRMIRSFLVQDLGVTSEIADNEACLMEHAISTDTQNRWLAYLD
+>gi|94266215|ref|ZP_01289923.1|(69-125:165) Iron dependent repressor [delta proteobacterium MLMS-1] >gi|93453188|gb|EAT03649.1| Iron dependent repressor [delta proteobacterium MLMS-1]  E=7e-09 s/c=1.10 id=28% cov=102%
+TPAGERAARDVIQRHRALKDFFLQVLAVDEELAEDGACQIEHTAPREIIERLTLLMK
+>gi|296122244|ref|YP_003630022.1|(391-447:471) ABC transporter [Planctomyces limnophilus DSM 3776] >gi|296014584|gb|ADG67823.1| ABC-3 protein [Planctomyces limnophilus DSM 3776]  E=5e-08 s/c=1.06 id=28% cov=102%
+TELGWQKAKAVVLRHRLLELYLIEHAEFPPAQGDRTADLLEHALGPHTVDELKILLR
+>gi|420181862|ref|ZP_14688019.1|(63-119:123) iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM049] >gi|420191340|ref|ZP_14697270.1| iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM037] >gi|420203413|ref|ZP_14708990.1| iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM018] >gi|394250896|gb|EJD96033.1| iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM049] >gi|394257721|gb|EJE02636.1| iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM037] >gi|394267851|gb|EJE12429.1| iron-dependent repressor family protein [Staphylococcus epidermidis NIHLM018]  E=6e-06 s/c=0.94 id=22% cov=102%
+TKKGLTYTIEMTNNHEIIKAFFIKVLNINSSEVNQEVDLIENHVSDKFVQRLSEYLR
+>gi|227501029|ref|ZP_03931078.1|(65-120:219) metal-dependent transcriptional regulator [Anaerococcus tetradius ATCC 35098] >gi|227216802|gb|EEI82200.1| metal-dependent transcriptional regulator [Anaerococcus tetradius ATCC 35098]  E=9e-10 s/c=1.18 id=26% cov=100%
+TDQGMKIAKLIISKHRLWEYFLQEKLKYNWTDIHEIANNLQSVTTDDLLNKLNAYL-
+>gi|374289659|ref|YP_005036744.1|(72-128:179) putative iron-dependent regulatory protein [Bacteriovorax marinus SJ] >gi|301168200|emb|CBW27789.1| putative iron-dependent regulatory protein [Bacteriovorax marinus SJ]  E=0.0001 s/c=0.86 id=21% cov=102%
+TDKGHDEVHRILSSRTLLYYFLKDFVGVSEDTAERDSCLMEHLMSSETSTKFFDFMK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	6459	0	0	
+
+P 2    3521	*	2254	2044	*	6032	6495	*	3171	*	*	4804	2597	5545	4829	4394	5798	*	*	*	2
+       0	*	*	*	*	*	*	6472	0	0	
+
+T 3    3906	*	4844	2600	*	*	*	6281	1783	5112	6307	4261	5389	3586	4189	3149	4600	6488	*	6723	3
+       0	*	*	*	*	*	*	6504	0	0	
+
+G 4    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	6509	0	0	
+
+R 5    5058	6541	5616	3149	6681	*	5588	3991	2861	2847	4520	4989	*	4238	2357	*	4271	5401	5279	4980	5
+       0	*	*	*	*	*	*	6509	0	0	
+
+T 6    3296	*	4384	2152	6832	6387	5141	4799	2922	4326	5781	4787	*	3678	3680	3905	4961	4965	*	5869	6
+       0	*	*	*	*	*	*	6509	0	0	
+
+L 7    4588	*	*	3473	5811	*	5012	3031	4341	1998	4236	*	*	3858	4417	6570	5008	3640	*	3225	7
+       0	*	*	*	*	*	*	6509	0	0	
+
+A 8    491	*	*	*	*	2273	*	4998	*	*	*	*	*	*	*	*	5782	4968	*	*	8
+       0	*	*	*	*	*	*	6509	0	0	
+
+T 9    4850	6818	5672	2882	*	6782	5366	4327	2742	2830	4898	4254	*	4201	2529	3845	5389	6608	*	6565	9
+       0	*	*	*	*	*	*	6509	0	0	
+
+A 10   3789	*	3478	3103	5065	5120	4562	6644	2976	4607	5324	4425	5592	4436	2579	3745	5866	5270	*	5723	10
+       0	*	*	*	*	*	*	6509	0	0	
+
+V 11   4886	4935	*	*	5616	*	*	1812	*	1991	4199	*	*	6210	*	*	4083	2083	*	6179	11
+       0	*	*	*	*	*	*	6509	0	0	
+
+M 12   5366	*	*	7022	4946	*	6109	2160	4496	2221	4370	*	*	7153	3802	5088	4994	2650	5210	3958	12
+       0	*	*	*	*	*	*	6509	0	0	
+
+R 13   5648	*	4371	3357	5995	5698	4570	5567	3928	6386	6956	4694	*	4855	1087	4781	7036	5678	6608	4936	13
+       0	*	*	*	*	*	*	6509	0	0	
+
+K 14   3731	5672	*	*	*	6375	6497	6112	1920	*	*	4619	*	5462	1136	4276	5517	*	*	6449	14
+       0	*	*	*	*	*	*	6509	0	0	
+
+H 15   *	*	*	5085	5214	*	331	*	6311	*	*	4658	*	6067	4890	6255	*	*	*	4851	15
+       0	*	*	*	*	*	*	6509	0	0	
+
+R 16   5809	6550	5070	3636	*	4765	5032	6867	4134	4809	5307	4300	*	5087	880	7180	5842	*	6565	6771	16
+       0	*	*	*	*	*	*	6509	0	0	
+
+L 17   4462	6311	*	6928	5677	*	6595	2015	5108	1404	5205	6739	*	6387	*	6733	4319	2907	*	6894	17
+       0	*	*	*	*	*	*	6509	0	0	
+
+A 18   2922	6010	*	*	4235	*	*	2012	*	1557	6387	*	*	*	*	5505	*	3706	3693	5386	18
+       0	*	*	*	*	*	*	6509	0	0	
+
+E 19   5636	*	*	896	5632	*	*	5977	3427	6815	6757	6565	*	4505	3997	5201	4241	4525	*	4193	19
+       0	*	*	*	*	*	*	6509	0	0	
+
+R 20   3804	6139	4010	3061	6595	4959	6449	6587	3977	3832	*	4632	*	4370	3153	3508	3213	3315	*	4760	20
+       0	*	*	*	*	*	*	6509	0	0	
+
+L 21   *	*	*	*	626	*	*	6532	*	2477	4418	*	*	*	*	*	*	5166	*	3521	21
+       0	*	*	*	*	*	*	6509	0	0	
+
+L 22   5184	*	*	*	2187	6273	*	*	*	547	4701	*	*	*	*	*	*	5869	*	*	22
+       157	*	3280	*	*	*	*	6509	0	0	
+
+T 23   3203	5881	6126	3911	6415	*	3854	3370	4037	4380	4683	*	*	4236	4402	3245	3629	2530	*	6909	23
+       72	*	4363	*	*	0	*	6447	0	3870	
+
+D 24   *	*	2424	2374	*	6497	4575	6865	2498	5533	5333	3946	*	3137	3220	4770	6240	*	*	*	24
+       63	*	4542	*	*	0	*	6497	0	2760	
+
+I 25   4281	5121	5660	4049	5190	*	4030	2190	4562	4256	4987	5523	*	6634	5622	5146	4858	2002	*	4597	25
+       80	*	4213	*	*	0	*	6471	0	2468	
+
+I 26   4934	*	*	*	3625	*	*	3050	*	774	5263	*	*	*	*	4343	5396	3614	*	*	26
+       12	*	6884	*	*	0	*	6472	0	2713	
+
+G 27   4951	6561	3729	3824	*	978	4995	*	3519	5866	*	3777	6521	4436	*	5303	*	6366	*	*	27
+       0	*	*	*	*	0	*	6509	0	1000	
+
+L 28   5869	*	*	*	3679	*	*	2421	*	2362	3717	*	*	*	*	6633	5465	1664	*	3333	28
+       11	7048	*	0	*	*	*	6509	1000	0	
+
+D 29   4962	*	2214	2803	*	4640	*	*	5189	*	*	3402	2165	5106	5756	3263	4082	6246	*	*	29
+       16	*	6535	*	*	*	*	6509	0	0	
+
+I 30   3889	*	4210	2274	*	4742	*	4042	4403	4647	4768	7042	2815	4605	6344	3774	4881	*	3002	6093	30
+       0	*	*	*	*	0	*	6497	0	1000	
+
+N 31   4403	*	2018	1963	*	5553	5393	5366	3525	*	*	4058	7089	5124	6121	3021	4534	6984	*	6889	31
+       0	*	*	*	*	*	*	6509	0	0	
+
+K 32   6644	*	3878	1981	5366	*	4728	3057	4183	5237	*	4442	*	3754	4159	5384	3272	3455	*	6619	32
+       34	*	5431	*	*	*	*	6509	0	0	
+
+V 33   909	*	*	*	*	6375	*	3437	*	4336	4622	*	*	*	*	4582	6536	2461	4687	*	33
+       0	*	*	*	*	1000	1000	6470	0	1703	
+
+H 34   5769	4219	2579	2241	5954	6977	1862	*	4850	6780	*	4167	5997	5153	4999	5692	*	*	*	4156	34
+       0	*	*	*	*	0	*	6479	0	1000	
+
+D 35   4256	*	3275	1750	*	*	5853	5641	2761	5113	*	4431	*	3406	3133	4355	5520	6985	*	*	35
+       0	*	*	*	*	*	*	6509	0	0	
+
+E 36   4267	*	2102	1587	5749	*	5995	4162	5828	4250	5319	3949	*	5438	5608	*	5458	4838	*	5015	36
+       0	*	*	*	*	*	*	6509	0	0	
+
+A 37   291	*	*	*	*	5838	*	*	*	*	*	*	*	*	*	4291	4735	3711	*	*	37
+       0	*	*	*	*	*	*	6509	0	0	
+
+D 38   5366	1270	3510	2411	*	5962	3385	*	4889	*	4604	5364	*	*	*	4893	6067	*	6010	6585	38
+       0	*	*	*	*	*	*	6509	0	0	
+
+R 39   2921	*	5592	3573	*	3490	4944	3612	3244	3041	6570	4866	*	3248	2871	6544	7018	5871	6570	*	39
+       0	*	*	*	*	*	*	6509	0	0	
+
+W 40   *	*	*	6246	4375	*	*	1713	6112	1638	2160	*	*	*	*	*	*	3925	6906	*	40
+       0	*	*	*	*	*	*	6509	0	0	
+
+E 41   4193	*	4433	217	*	*	*	*	6139	*	*	*	*	5364	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	6509	0	0	
+
+H 42   *	*	6010	*	*	6777	217	*	*	6347	*	6579	6581	5349	6585	5282	*	*	*	5568	42
+       11	*	6984	*	*	*	*	6509	0	0	
+
+V 43   3000	5034	4931	4527	4951	4380	2941	3834	5110	4227	5235	*	*	5462	5753	4889	3501	2671	*	4096	43
+       0	*	*	*	*	0	*	6512	0	1000	
+
+M 44   4592	6588	*	*	5712	*	*	1771	6771	1792	3168	6692	*	*	6747	6586	5833	2475	*	*	44
+       0	*	*	*	*	*	*	6415	0	0	
+
+S 45   *	*	3230	4612	6159	4975	5664	*	6413	*	*	4209	4075	*	*	963	2748	*	*	*	45
+       0	*	*	*	*	*	*	6415	0	0	
+
+D 46   5236	*	2137	2440	6801	5674	6018	*	3863	*	*	4625	2286	5184	4857	4158	4299	*	4847	*	46
+       0	*	*	*	*	*	*	6415	0	0	
+
+E 47   4322	6204	2653	1480	*	4842	5508	7044	3685	4190	*	4685	6030	5275	3608	6682	5436	5204	*	*	47
+       0	*	*	*	*	*	*	6415	0	0	
+
+V 48   4384	6519	*	4922	3411	6508	*	3365	6115	2783	*	*	*	*	*	3159	1778	2806	*	*	48
+       0	*	*	*	*	*	*	6385	0	0	
+
+E 49   5319	5773	4078	3956	3837	6855	6252	2262	*	2686	6600	*	*	4621	6519	5684	4309	2213	*	5056	49
+       0	*	*	*	*	*	*	6385	0	0	
+
+R 50   4048	5709	2866	1777	*	6569	5590	6571	4235	4663	*	3841	*	3857	3852	3974	4161	5079	*	*	50
+       0	*	*	*	*	*	*	6385	0	0	
+
+R 51   2565	5825	*	3905	*	4656	6154	*	2286	*	*	5819	*	4655	1618	4864	6675	4805	*	5341	51
+       0	*	*	*	*	*	*	6385	0	0	
+
+L 52   *	*	*	*	3982	*	*	1981	*	972	3947	*	*	*	*	*	6546	3692	5606	*	52
+       0	*	*	*	*	*	*	6385	0	0	
+
+V 53   3506	2631	4117	3163	5507	5857	*	3640	3725	5189	4484	5412	*	5180	4217	3929	4223	4712	6687	4569	53
+       0	*	*	*	*	*	*	6373	0	0	
+
+K 54   2999	7160	3971	2814	*	*	6566	5271	2892	*	5386	3787	6697	3588	2807	4533	3541	5515	*	7026	54
+       0	*	*	*	*	*	*	6354	0	0	
+
+V 55   5673	*	*	6639	1592	*	6648	4682	*	2417	4020	*	*	6312	4038	4936	*	4474	6742	2471	55
+       0	*	*	*	*	*	*	6328	0	0	
+
+L 56   6430	*	*	*	6806	*	*	2876	*	685	3986	*	*	*	*	*	6660	2753	*	*	56
+       0	*	*	*	*	*	*	6299	0	0	
+
+K 57   *	*	2266	1828	*	*	*	*	1795	*	*	*	*	3516	2890	*	*	*	*	*	57
+       0	*	*	0	*	*	*	5769	0	0	
+
+//

@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d1dkca_ g.3.4.2 (A:) Antifungal peptide PAFP-S {Pokeweed (Phytolacca americana) [TaxId: 3527]}
+FAM   g.3.4.2
+FILE  d1dkca_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1dkca_.a3m -v 1 
+DATE  Mon Jan 21 19:46:49 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  4 out of 6 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CCCCCCCCEECCCCCCCCCCCCEEECCCCCCCCCCCCC
+>ss_conf
+96457875431578887002640110278844200169
+>Consensus
+axcixnggrcnxxxgppyccsxxclxxxgqxygvcknr
+>d1dkca_ g.3.4.2 (A:) Antifungal peptide PAFP-S {Pokeweed (Phytolacca americana) [TaxId: 3527]}
+AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR
+>gi|6653651|gb|AAF22830.1|AF209857_1(2-37:37) antimicrobial seed protein, partial [Phytolacca americana]   E=1e-08 s/c=1.76 id=86% cov=92%
+--CIKNGGRCVASGGPPYCCSNYCLQIAGQSYGVCK--
+>gi|1703271|sp|P25403.4|AMP1_MIRJA(24-61:61) RecName: Full=Antimicrobial peptide 1; AltName: Full=MJ-AMP1; Short=AMP1; Flags: Precursor >gi|558863|gb|AAA80484.1| antimicrobial peptide precursor, partial [Mirabilis jalapa]  E=3e-06 s/c=1.45 id=64% cov=103%
+AQCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR
+>gi|1703274|sp|P25404.2|AMP2_MIRJA(28-63:63) RecName: Full=Antimicrobial peptide 2; AltName: Full=MJ-AMP2; Short=AMP2; Flags: Precursor >gi|558865|gb|AAA80485.1| antimicrobial peptide precursor [Mirabilis jalapa]  E=6e-06 s/c=1.50 id=62% cov=97%
+--CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1268	0	0	
+
+G 2    *	*	*	*	*	1000	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1268	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1360	0	0	
+
+I 4    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1360	0	0	
+
+K 5    *	*	*	*	*	1014	*	*	986	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1360	0	0	
+
+N 6    *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1360	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1360	0	0	
+
+G 8    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1360	0	0	
+
+R 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1360	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1360	0	0	
+
+N 11   *	*	*	*	*	*	*	*	*	*	*	420	*	*	*	*	*	1986	*	*	11
+       0	*	*	*	*	*	*	1360	0	0	
+
+A 12   986	*	*	1014	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1360	0	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	1014	*	*	*	986	*	*	*	*	13
+       0	*	*	*	*	*	*	1360	0	0	
+
+A 14   1986	*	*	*	*	1986	*	*	*	*	*	*	*	*	*	*	*	1014	*	*	14
+       0	*	*	*	*	*	*	1360	0	0	
+
+G 15   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1360	0	0	
+
+P 16   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1360	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1360	0	0	
+
+Y 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	18
+       0	*	*	*	*	*	*	1360	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1360	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1360	0	0	
+
+S 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	21
+       0	*	*	*	*	*	*	1360	0	0	
+
+S 22   *	*	*	*	*	1014	*	*	*	*	*	1986	*	*	*	1986	*	*	*	*	22
+       0	*	*	*	*	*	*	1360	0	0	
+
+Y 23   *	*	*	*	1014	*	*	*	*	*	*	*	*	*	*	*	*	*	*	986	23
+       0	*	*	*	*	*	*	1360	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1360	0	0	
+
+F 25   *	*	*	*	1986	*	*	*	*	420	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1360	0	0	
+
+Q 26   *	*	*	*	*	*	*	*	*	*	*	*	*	986	1014	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1360	0	0	
+
+I 27   *	*	*	*	*	*	*	986	*	*	*	*	*	1014	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1360	0	0	
+
+A 28   986	*	*	*	*	*	*	*	*	*	*	*	1014	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1360	0	0	
+
+G 29   *	*	*	*	*	420	*	*	*	*	*	1986	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1360	0	0	
+
+Q 30   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1360	0	0	
+
+S 31   *	*	*	*	*	1014	*	*	*	*	*	*	*	*	*	986	*	*	*	*	31
+       0	*	*	*	*	*	*	1360	0	0	
+
+Y 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	32
+       0	*	*	*	*	*	*	1360	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1360	0	0	
+
+V 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	401	*	2043	34
+       0	*	*	*	*	*	*	1360	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1360	0	0	
+
+K 36   *	*	*	*	*	*	*	*	420	*	*	*	*	*	1986	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1360	0	0	
+
+N 37   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1290	0	0	
+
+R 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	38
+       0	*	*	0	*	*	*	1290	0	0	
+
+//

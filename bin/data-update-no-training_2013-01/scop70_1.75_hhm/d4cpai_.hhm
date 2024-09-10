@@ -1,0 +1,139 @@
+HHsearch 1.5
+NAME  d4cpai_ g.3.2.1 (I:) Carboxypeptidase A inhibitor {Potato [TaxId: 4113]}
+FAM   g.3.2.1
+FILE  d4cpai_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d4cpai_.a3m -v 1 
+DATE  Tue Jan 22 09:03:49 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCHHHHHHHHCCCCCCC
+>ss_conf
+9777655788887544453400476653210146779
+>Consensus
+eqyDxxCxKPCxTxDDCSxgwxCqaCxnfxxTCGPxv
+>d4cpai_ g.3.2.1 (I:) Carboxypeptidase A inhibitor {Potato [TaxId: 4113]}
+ZHADPICNKPCKTHDDCSGAWFCQACWNSARTCGPYV
+>gi|350535352|ref|NP_001233934.1|(33-69:77) metallocarboxypeptidase inhibitor precursor [Solanum lycopersicum] >gi|126843|sp|P01076.2|MCPI_SOLLC RecName: Full=Metallocarboxypeptidase inhibitor; Short=Carboxypeptidase inhibitor; Short=MCPI; Flags: Precursor >gi|19279|emb|CAA41973.1| metallocarboxypeptidase inhibitor [Solanum lycopersicum] >gi|228214|prf||1718319A carboxypeptidase inhibitor  E=5e-08 s/c=1.64 id=66% cov=103%
+QQYDPVCHKPCSTQDDCSGGTFCQACWRFAGTCGPYV
+>gi|311893219|dbj|BAJ25781.1|(50-86:93) putative metallocarboxypeptidase inhibitor precursor [Nicotiana tabacum]  E=5e-10 s/c=1.83 id=50% cov=103%
+EQYDATCGKPCNTRDDCSKGWLCSECYNFRKTCGPLI
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Z 1    *	*	*	551	*	*	*	*	*	*	*	*	*	1655	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1531	0	0	
+
+H 2    *	*	*	*	*	*	1624	*	*	*	*	*	*	566	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1531	0	0	
+
+A 3    1624	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	566	3
+       0	*	*	*	*	*	*	1531	0	0	
+
+D 4    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1531	0	0	
+
+P 5    1482	*	*	*	*	*	*	*	*	*	*	*	640	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1531	0	0	
+
+I 6    *	*	*	*	*	*	*	1624	*	*	*	*	*	*	*	*	1482	1655	*	*	6
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1531	0	0	
+
+N 8    *	*	*	*	*	1482	1655	*	*	*	*	1624	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1531	0	0	
+
+K 9    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1531	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1531	0	0	
+
+K 12   *	*	*	*	*	*	*	*	1624	*	*	1482	*	*	*	1655	*	*	*	*	12
+       0	*	*	*	*	*	*	1531	0	0	
+
+T 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	13
+       0	*	*	*	*	*	*	1531	0	0	
+
+H 14   *	*	*	*	*	*	1624	*	*	*	*	*	*	1655	1482	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1531	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1531	0	0	
+
+D 16   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1531	0	0	
+
+S 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	18
+       0	*	*	*	*	*	*	1531	0	0	
+
+G 19   *	*	*	*	*	640	*	*	1482	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1531	0	0	
+
+A 20   1624	*	*	*	*	566	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1531	0	0	
+
+W 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1655	*	551	*	21
+       0	*	*	*	*	*	*	1531	0	0	
+
+F 22   *	*	*	*	640	*	*	*	*	1482	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1531	0	0	
+
+Q 24   *	*	*	*	*	*	*	*	*	*	*	*	*	640	*	1482	*	*	*	*	24
+       0	*	*	*	*	*	*	1531	0	0	
+
+A 25   640	*	*	1482	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1531	0	0	
+
+W 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	640	1482	27
+       0	*	*	*	*	*	*	1531	0	0	
+
+N 28   *	*	*	*	*	*	*	*	*	*	*	551	*	*	1655	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1531	0	0	
+
+S 29   *	*	*	*	566	*	*	*	*	*	*	*	*	*	*	1624	*	*	*	*	29
+       0	*	*	*	*	*	*	1531	0	0	
+
+A 30   640	*	*	*	*	*	*	*	*	*	*	*	*	*	1482	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1531	0	0	
+
+R 31   *	*	*	*	*	1655	*	*	1482	*	*	*	*	*	1624	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1531	0	0	
+
+T 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	32
+       0	*	*	*	*	*	*	1531	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1531	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1531	0	0	
+
+P 35   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1531	0	0	
+
+Y 36   *	*	*	*	*	*	*	*	*	1482	*	*	*	*	*	*	*	*	*	640	36
+       0	*	*	*	*	*	*	1531	0	0	
+
+V 37   *	*	*	*	*	*	*	1482	*	*	*	*	*	*	*	*	*	640	*	*	37
+       0	*	*	0	*	*	*	1531	0	0	
+
+//

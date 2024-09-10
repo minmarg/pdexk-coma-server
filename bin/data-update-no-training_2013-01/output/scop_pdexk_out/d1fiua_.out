@@ -1,0 +1,248 @@
+Query         d1fiua_ c.52.1.10 (A:) Restriction endonuclease NgoIV {Neisseria gonorrhoeae [TaxId: 485]}
+Match_columns 286
+No_of_seqs    30 out of 32
+Neff          3.0 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:53 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1fiua_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1fiua_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1fiua_ c.52.1.10 (A:) Restric 100.0       0       0  984.4  27.2  286    1-286     1-286 (286)
+  2 d1tx3a1 c.52.1.19 (A:2-258) Re  83.6     1.2 8.7E-05   22.2   5.5   53   43-117     6-62  (257)
+  3 d1cfra_ c.52.1.7 (A:) Restrict  72.7     2.3 0.00017   20.4   4.2  132   63-205    64-208 (283)
+  4 3dpg_A SgrAI REase, PDEXK supe  72.5     3.2 0.00023   19.6   4.9   86  112-207    84-180 (220)
+  5 d1knva_ c.52.1.7 (A:) Restrict  49.9     8.3  0.0006   16.9   3.6  192   63-269    70-288 (290)
+  6 d1fcqa_ c.1.8.9 (A:) Bee venom  41.7     7.2 0.00052   17.3   2.3   54   37-95    121-175 (321)
+  7 d1hywa_ d.186.1.1 (A:) Head-to  22.7      37  0.0027   12.9   3.3   27    2-28      4-30  (58)
+  8 d1a4ia2 c.58.1.2 (A:2-126) Tet  15.8      97  0.0071   10.2   4.2   64  197-261    18-92  (125)
+  9 d2dira1 d.308.1.3 (A:8-92) THU  15.6 2.6E+02   0.019    7.5   6.3   65   68-144     6-71  (85)
+ 10 d1z63a1 c.37.1.19 (A:432-661)   14.6 2.6E+02   0.019    7.5   6.1   28  199-231   143-170 (230)
+
+No 1  
+>d1fiua_ c.52.1.10 (A:) Restriction endonuclease NgoIV {Neisseria gonorrhoeae [TaxId: 485]}
+Probab=100.00  E-value=0  Score=984.36  Aligned_columns=286  Identities=100%
+
+Q ss_pred             CCHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCHHHHHHHHHHHHHH
+Q ss_conf             94478999999999984254300026788544555407799999999997122346655777455348999999999988
+Q d1fiua_           1 MQPLFTQERRIFHKKLLDGNILATNNRGVVSNADGSNTRSFNIAKGIADLLHSETVSERLPGQTSGNAFEAICSEFVQSA   80 (286)
+Q Consensus         1 m~~~l~~~R~~fH~~Ll~~~~l~~n~~gv~snAD~s~~~S~~iA~~Ia~~L~a~t~~~~lagQt~G~~FE~~v~~fl~~t   80 (286)
+                      |+++|+++||+||++||++++++||++|||||||+||++|++||+||+++||+++++++++|||+|++||++|++||++|
+T Consensus         1 m~~~l~~~R~~fH~~Ll~~~~l~~n~~gv~snAD~s~~~S~~iA~~Ia~~L~a~t~~~~lagQt~G~~FE~~v~~fl~~t   80 (286)
+T d1fiua_           1 MQPLFTQERRIFHKKLLDGNILATNNRGVVSNADGSNTRSFNIAKGIADLLHSETVSERLPGQTSGNAFEAICSEFVQSA   80 (286)
+T ss_pred             CCHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCHHHHHHHHHHHHHH
+T ss_conf             94478999999999984254300026788544555407799999999997122346655777455348999999999988
+
+
+Q ss_pred             HHHHCCCCCCCEEEEECCCCCCCCCHHHHHHHHHHHHHHHHHHCCHHHHHHCCCCEECCCEEEEECCCCHHHHCCCCCCC
+Q ss_conf             76403688874036643665532202225568899999998728220112067702146437863543623322444401
+Q d1fiua_          81 FEKLQHIRPGDWNVKQVGSRNRLEIARYQQYAHLTALAKAAEENPELAAALGSDYTITPDIIVTRNLIADAEINRNEFLV  160 (286)
+Q Consensus        81 f~~L~hlRpg~W~v~~v~~r~~~~i~~f~qY~HL~~L~~~~~~np~L~a~LG~dY~I~PDV~V~R~~~~d~~iN~~~~lv  160 (286)
+                      ||+|+|+|||+|+|+|||||+|.+|++|+||+||++|++++++||+|+++|||||+|+|||+|+|+|++|++||++|+||
+T Consensus        81 f~~L~hlRpg~W~v~~v~~r~~~~i~~f~qY~HL~~L~~~~~~np~L~a~LG~dY~I~PDV~V~R~~~~d~~iN~~~~lv  160 (286)
+T d1fiua_          81 FEKLQHIRPGDWNVKQVGSRNRLEIARYQQYAHLTALAKAAEENPELAAALGSDYTITPDIIVTRNLIADAEINRNEFLV  160 (286)
+T ss_pred             HHHHCCCCCCCEEEEECCCCCCCCCHHHHHHHHHHHHHHHHHHCCHHHHHHCCCCEECCCEEEEECCCCHHHHCCCCCCC
+T ss_conf             76403688874036643665532202225568899999998728220112067702146437863543623322444401
+
+
+Q ss_pred             CCCCCCCCHHHHCCCCCCEEEEEEEEEEEECCCHHHHHHHHHHHHHHHHCCCCCEEEEEECCCCHHHHHHHHCCCCCHHH
+Q ss_conf             35422101022215898458887777653101113344788888888621799728998458854678876237762224
+Q d1fiua_         161 DENIATYASLRAGNGNMPLLHASISCKWTIRSDRAQNARSEGLNLVRNRKGRLPHIVVVTAEPTPSRISSIALGTGEIDC  240 (286)
+Q Consensus       161 D~~~~~~s~lr~~n~~~pilHAsiSCKWTiRSDRaQN~RsEalnLiRnRKGr~PHivvVTaEP~PSRlaSlAlGTGDIDc  240 (286)
+                      |+++|+|||||++||++||||||||||||||||||||+||||||||||||||+||||||||||+||||||||||||||||
+T Consensus       161 D~~~~~~s~lr~~n~~~pilHAsiSCKWTiRSDRaQN~RsEalnLiRnRKGr~PHivvVTaEP~PSRlaSlAlGTGDIDc  240 (286)
+T d1fiua_         161 DENIATYASLRAGNGNMPLLHASISCKWTIRSDRAQNARSEGLNLVRNRKGRLPHIVVVTAEPTPSRISSIALGTGEIDC  240 (286)
+T ss_pred             CCCCCCCCHHHHCCCCCCEEEEEEEEEEEECCCHHHHHHHHHHHHHHHHCCCCCEEEEEECCCCHHHHHHHHCCCCCHHH
+T ss_conf             35422101022215898458887777653101113344788888888621799728998458854678876237762224
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHCCHHHHHHHHHHHCCCCCCCHHHCCHHHCC
+Q ss_conf             3454189999999861163589999998467622425425311059
+Q d1fiua_         241 VYHFALYELEQILQSLNYEDALDLFYIMVNGKRLKDISDLPLDLAV  286 (286)
+Q Consensus       241 vYHfAL~EL~~av~~~~~~d~~~~l~~li~g~RLrDisDLPlDLai  286 (286)
+                      |||||||||++||++++|+|+++||++||+|+||||||||||||||
+T Consensus       241 vYHfAL~EL~~av~~~~~~d~~~~l~~li~g~RLrDisDLPlDLai  286 (286)
+T d1fiua_         241 VYHFALYELEQILQSLNYEDALDLFYIMVNGKRLKDISDLPLDLAV  286 (286)
+T ss_pred             HHHHHHHHHHHHHHHHCCHHHHHHHHHHHCCCCCCCHHHCCHHHCC
+T ss_conf             3454189999999861163589999998467622425425311059
+
+
+No 2  
+>d1tx3a1 c.52.1.19 (A:2-258) Restriction endonuclease HincII {Haemophilus influenzae [TaxId: 727]}
+Probab=83.60   E-value=1.2  Score=22.25  Aligned_columns=53  Identities=28%
+
+Q ss_pred             HHHHHHHHHCCCCCCCC----CCCCCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCCCCCCHHHHHHHHHHHH
+Q ss_conf             99999997122346655----7774553489999999999887640368887403664366553220222556889999
+Q d1fiua_          43 IAKGIADLLHSETVSER----LPGQTSGNAFEAICSEFVQSAFEKLQHIRPGDWNVKQVGSRNRLEIARYQQYAHLTAL  117 (286)
+Q Consensus        43 iA~~Ia~~L~a~t~~~~----lagQt~G~~FE~~v~~fl~~tf~~L~hlRpg~W~v~~v~~r~~~~i~~f~qY~HL~~L  117 (286)
+                      |-..+.+.|...++.+.    ++|.-+|-+||+.|-.+|++++|.                      -.|-||+-|.+|
+T Consensus         6 iY~~l~~~l~G~~VpkP~sGTLSGHAaGEPFeK~vY~~lKk~~p~----------------------~tfkQyEyLNdL   62 (257)
+T d1tx3a1           6 IYQDINSILIGQKVKRPKSGTLSGHAAGEPFEKLVYKFLKENLSD----------------------LTFKQYEYLNDL   62 (257)
+T ss_pred             HHHHHHHHHCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHH----------------------HHHHHHHHHHHH
+T ss_conf             899999863344268875553134334672678999999985156----------------------688888888888
+
+
+No 3  
+>d1cfra_ c.52.1.7 (A:) Restriction endonuclease Cfr10I {Citrobacter freundii [TaxId: 546]}
+Probab=72.74   E-value=2.3  Score=20.45  Aligned_columns=132  Identities=14%
+
+Q ss_pred             CCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCCC-CCCHHHHH--HHHHHHHHHHHHHCCHHHHHHCCCCEECC
+Q ss_conf             4553489999999999887640368887403664366553-22022255--68899999998728220112067702146
+Q d1fiua_          63 QTSGNAFEAICSEFVQSAFEKLQHIRPGDWNVKQVGSRNR-LEIARYQQ--YAHLTALAKAAEENPELAAALGSDYTITP  139 (286)
+Q Consensus        63 Qt~G~~FE~~v~~fl~~tf~~L~hlRpg~W~v~~v~~r~~-~~i~~f~q--Y~HL~~L~~~~~~np~L~a~LG~dY~I~P  139 (286)
+                      ...|.=||=+-+.+.-.-+-+    ++-..-|.+.-+.+. .-+..|.+  -+++.++...+.      ..--+--+=+|
+T Consensus        64 n~~G~W~E~i~ai~awn~~~~----~~~~~~vv~LPn~rsfD~~~Lf~pe~~~~i~~l~~~l~------~~~v~LitSnP  133 (283)
+T d1cfra_          64 KCNGDWYEWLIGIRAIEFFLE----SETNFIVVKMPNATSFDVMSIYKSCLSEFIYDLRSKLS------LNNVNLITSNP  133 (283)
+T ss_pred             CCCCHHHHHHHHHHHHHHHHC----CCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHH------HHCCCCCCCCC
+T ss_conf             357629999999999887630----68517999768874157899877889999999998665------50263316998
+
+
+Q ss_pred             CEEEEECCCC-----HHHHCCCCCCCCC-----CCCCCCHHHHCCCCCCEEEEEEEEEEEECCCHHHHHHHHHHHH
+Q ss_conf             4378635436-----2332244440135-----4221010222158984588877776531011133447888888
+Q d1fiua_         140 DIIVTRNLIA-----DAEINRNEFLVDE-----NIATYASLRAGNGNMPLLHASISCKWTIRSDRAQNARSEGLNL  205 (286)
+Q Consensus       140 DV~V~R~~~~-----d~~iN~~~~lvD~-----~~~~~s~lr~~n~~~pilHAsiSCKWTiRSDRaQN~RsEalnL  205 (286)
+                      |.||++-|.+     |...+.+-...+.     --..|..|...-+..- +-|.||-|=++||||-----+||.-|
+T Consensus       134 D~vIv~i~~~~~~~~d~~~~~~i~~l~~~~~~~l~~lyk~l~gk~~~~~-i~~~IsvKTS~RsDRRyQplhEgn~l  208 (283)
+T d1cfra_         134 DFSIIDIRGRREELKSMLKDISFSNISLSTISEIDNLYKNFIDYAELEH-IKSFLSVKTTFRPDRRLQLAHEGSLM  208 (283)
+T ss_pred             CEEEEECCCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCCC-EEEEEEEECCCCCHHHHCCHHHHHHH
+T ss_conf             6799970774313433443101245662017789999988761002031-68998752036820220422246899
+
+
+No 4  
+>3dpg_A SgrAI REase, PDEXK superfamily
+Probab=72.48   E-value=3.2  Score=19.59  Aligned_columns=86  Identities=19%
+
+Q ss_pred             HHHHHHHHHHHHCCHHHHHHCCCC---EECCCEEEEECCCCH--HHHCCCCCCCCCCCCCCCHHHHC----CC--CCCEE
+Q ss_conf             889999999872822011206770---214643786354362--33224444013542210102221----58--98458
+Q d1fiua_         112 AHLTALAKAAEENPELAAALGSDY---TITPDIIVTRNLIAD--AEINRNEFLVDENIATYASLRAG----NG--NMPLL  180 (286)
+Q Consensus       112 ~HL~~L~~~~~~np~L~a~LG~dY---~I~PDV~V~R~~~~d--~~iN~~~~lvD~~~~~~s~lr~~----n~--~~pil  180 (286)
+                      ..+.++.+++..         +|-   +=+||.+|+|-|.+-  ++... +.+-+-+.....-|+..    +|  ..-=+
+T Consensus        84 ~~i~aiekai~~---------sdlgLiTsnpDgvvIRlp~p~~tee~~~-epI~~LS~en~~~L~~lyk~f~gkie~~~i  153 (220)
+T 3dpg_A           84 EVIEEFRAGLRK---------DGLGLPTSTPDLAVVVLPEEFQNDEMWR-EEIAGLTRPNQILLSGAYQRLQGRVQPGEI  153 (220)
+T ss_pred             HHHHHHHHHHHH---------CCCCCCCCCCCCEEEEECCCCCCHHHHH-HHHHCCCHHHHHHHHHHHHHHHCCEEECCE
+T ss_conf             889999999986---------5770327898706897346667313455-444125814799999998875320100305
+
+
+Q ss_pred             EEEEEEEEEECCCHHHHHHHHHHHHHH
+Q ss_conf             887777653101113344788888888
+Q d1fiua_         181 HASISCKWTIRSDRAQNARSEGLNLVR  207 (286)
+Q Consensus       181 HAsiSCKWTiRSDRaQN~RsEalnLiR  207 (286)
+                      -+.||-|=|+||||-----+||.-|--
+T Consensus       154 ~~~isvKtS~RsDRryQ~~hEg~~lK~  180 (220)
+T 3dpg_A          154 SLAVAFKRSLRSDRLYQPLYEANVMQL  180 (220)
+T ss_pred             EEEEEEECCCCCCHHHCCHHHHHHHHH
+T ss_conf             899985112572011043013478876
+
+
+No 5  
+>d1knva_ c.52.1.7 (A:) Restriction endonuclease Bse634I {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=49.88   E-value=8.3  Score=16.95  Aligned_columns=192  Identities=20%
+
+Q ss_pred             CCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCCC---CCCHHHHHHHHHHHHHHHHHHCC-HHHHHHCCCCEEC
+Q ss_conf             4553489999999999887640368887403664366553---22022255688999999987282-2011206770214
+Q d1fiua_          63 QTSGNAFEAICSEFVQSAFEKLQHIRPGDWNVKQVGSRNR---LEIARYQQYAHLTALAKAAEENP-ELAAALGSDYTIT  138 (286)
+Q Consensus        63 Qt~G~~FE~~v~~fl~~tf~~L~hlRpg~W~v~~v~~r~~---~~i~~f~qY~HL~~L~~~~~~np-~L~a~LG~dY~I~  138 (286)
+                      ...|.=||-+-+.++-+-+-..+.   -+..+...-+++.   ..+..=+-..++.+|...++-|. .+     +-.+=+
+T Consensus        70 n~~G~W~E~~ia~~awn~~~~~n~---~~~~~iklPN~~sfD~~~Lf~~e~~~~i~~l~~kl~~~k~~v-----~LitSn  141 (290)
+T d1knva_          70 NTRGTWFEVMIAIQSWNYRVKREL---NDYLIIKMPNVKTFDFRKIFDNETREKLHQLEKSLLTHKQQV-----RLITSN  141 (290)
+T ss_pred             CCCCHHHHHHHHHHHHHHHHHCCC---CCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCE-----EEECCC
+T ss_conf             567609999999999887752278---742788758864014788766889999999999852201333-----664078
+
+
+Q ss_pred             CCEEEEECCCC-HHHHCCCCCCCCCCC-------CCCCHHHHCCCCCCEEEEEEEEEEEECCCHHHHHHHHHHHH---HH
+Q ss_conf             64378635436-233224444013542-------21010222158984588877776531011133447888888---88
+Q d1fiua_         139 PDIIVTRNLIA-DAEINRNEFLVDENI-------ATYASLRAGNGNMPLLHASISCKWTIRSDRAQNARSEGLNL---VR  207 (286)
+Q Consensus       139 PDV~V~R~~~~-d~~iN~~~~lvD~~~-------~~~s~lr~~n~~~pilHAsiSCKWTiRSDRaQN~RsEalnL---iR  207 (286)
+                      ||.||+|-+.. +..++.  .+-+-+.       ..|..|+..- ..-=+-|.||-|=++||||-----+||.-|   +-
+T Consensus       142 PD~VIi~~~d~~~~~~~~--pi~~~~~~~~~~L~~ly~~f~gk~-~~~~i~~~isvKtS~RpDRryQ~lhEg~~lKal~a  218 (290)
+T d1knva_         142 PDLLIIRQKDLIKSEYNL--PINKLTHENIDVALTLFKDIEGKC-KWDSLVAGVGLKTSLRPDRRLQLVHEGNILKSLFA  218 (290)
+T ss_pred             CCEEEEECCHHHHHHHCC--CHHHCCCCCHHHHHHHHHHHHHCC-CCCCEEEEEEEECCCCCHHHHCCHHHHHHHHHHHH
+T ss_conf             876886050100255516--522147335789999998876100-32315788874102572022033124579999998
+
+
+Q ss_pred             HHCCC--CCE----EEEEECCCCHHHHHHHHCCCCCHHHHHHHHHHHHH--HHHHHHCC----HHHHHHHHHHH
+Q ss_conf             62179--972----89984588546788762377622243454189999--99986116----35899999984
+Q d1fiua_         208 NRKGR--LPH----IVVVTAEPTPSRISSIALGTGEIDCVYHFALYELE--QILQSLNY----EDALDLFYIMV  269 (286)
+Q Consensus       208 nRKGr--~PH----ivvVTaEP~PSRlaSlAlGTGDIDcvYHfAL~EL~--~av~~~~~----~d~~~~l~~li  269 (286)
+                      +=+.|  +|+    .-++-.||.-. -.-.|++|+   +++-++..-..  .||.++=.    .|...++..++
+T Consensus       219 hL~tr~w~~~~~~kyy~~as~~~s~-aD~~al~T~---Athsiv~~~slp~~AVD~lf~~~s~~dl~~~~~~il  288 (290)
+T d1knva_         219 HLKMRYWNPKAEFKYYGASSEPVSK-ADDDALQTA---ATHTIVNVNSTPERAVDDIFSLTSFEDIDKMLDQII  288 (290)
+T ss_pred             HHHHHCCCCCCCEEEEEEECCCCCC-CCHHHHHHH---HHHHHHCCCCCHHHHHHHHHCCCCHHHHHHHHHHHH
+T ss_conf             7653202356550588752023674-202456532---101110233423677754405667889999999985
+
+
+No 6  
+>d1fcqa_ c.1.8.9 (A:) Bee venom hyaluronidase {Honeybee (Apis mellifera) [TaxId: 7460]}
+Probab=41.67   E-value=7.2  Score=17.34  Aligned_columns=54  Identities=15%
+
+Q ss_pred             CHHHHHHHHHHHHHHCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHCCCCC-CCEEEE
+Q ss_conf             07799999999997122346655777455348999999999988764036888-740366
+Q d1fiua_          37 NTRSFNIAKGIADLLHSETVSERLPGQTSGNAFEAICSEFVQSAFEKLQHIRP-GDWNVK   95 (286)
+Q Consensus        37 ~~~S~~iA~~Ia~~L~a~t~~~~lagQt~G~~FE~~v~~fl~~tf~~L~hlRp-g~W~v~   95 (286)
+                      .+.|+++++...-     .-.++..-..+-..||++...|.++|+..-..+|| |.|.++
+T Consensus       121 r~~S~~lv~~~hp-----~~s~~~~~~~Ak~~FE~aAk~fM~~TL~l~k~lRP~~lWGyY  175 (321)
+T d1fcqa_         121 KKLSVEVVRREHP-----FWDDQRVEQEAKRRFEKYGQLFMEETLKAAKRMRPAANWGYY  175 (321)
+T ss_pred             HHHHHHHHHHHCC-----CCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCC
+T ss_conf             9999999998688-----989899999999999999999999999999984888675301
+
+
+No 7  
+>d1hywa_ d.186.1.1 (A:) Head-to-tail joining protein W, gpW {Bacteriophage lambda [TaxId: 10710]}
+Probab=22.72   E-value=37  Score=12.86  Aligned_columns=27  Identities=15%
+
+Q ss_pred             CHHHHHHHHHHHHHHHCCCCCCCCCCC
+Q ss_conf             447899999999998425430002678
+Q d1fiua_           2 QPLFTQERRIFHKKLLDGNILATNNRG   28 (286)
+Q Consensus         2 ~~~l~~~R~~fH~~Ll~~~~l~~n~~g   28 (286)
+                      +..|.++|..+|+-+++..+...+..|
+T Consensus         4 q~~L~eA~~A~h~L~tG~~vvsV~~~g   30 (58)
+T d1hywa_           4 QEELAAARAALHDLMTGKRVATVQKDG   30 (58)
+T ss_pred             HHHHHHHHHHHHHHHHCCEEEEEEECC
+T ss_conf             889999999999986388337887189
+
+
+No 8  
+>d1a4ia2 c.58.1.2 (A:2-126) Tetrahydrofolate dehydrogenase/cyclohydrolase {Human (Homo sapiens) [TaxId: 9606]}
+Probab=15.81   E-value=97  Score=10.20  Aligned_columns=64  Identities=16%
+
+Q ss_pred             HHHHHHHHHHHHHCCCCCEEEEEECCCCHHH------HHHHHCCCCCHHH-HHHH----HHHHHHHHHHHHCCHHH
+Q ss_conf             4478888888862179972899845885467------8876237762224-3454----18999999986116358
+Q d1fiua_         197 NARSEGLNLVRNRKGRLPHIVVVTAEPTPSR------ISSIALGTGEIDC-VYHF----ALYELEQILQSLNYEDA  261 (286)
+Q Consensus       197 N~RsEalnLiRnRKGr~PHivvVTaEP~PSR------laSlAlGTGDIDc-vYHf----AL~EL~~av~~~~~~d~  261 (286)
+                      ..+.+.-.|...-+|+.|++++|....-|+-      ..-.|..-| |.| +|+|    .-.|+.+.++.+..++.
+T Consensus        18 ~i~~~v~~l~~~~~g~~P~Laii~vg~~~~s~~Y~~~k~k~~~~~G-i~~~~~~l~~~~~~~~l~~~I~~lN~D~~   92 (125)
+T d1a4ia2          18 RLKNQVTQLKEQVPGFTPRLAILQVGNRDDSNLYINVKLKAAEEIG-IKATHIKLPRTTTESEVMKYITSLNEDST   92 (125)
+T ss_pred             HHHHHHHHHHHHCCCCCCEEEEEECCCCHHHHHHHHHHHHHHHHCC-CEEEEEECCCCCCHHHHHHHHHHHCCCCC
+T ss_conf             9999999999835898853789850798667999999999998749-33678754999888899999998638999
+
+
+No 9  
+>d2dira1 d.308.1.3 (A:8-92) THUMP domain-containing protein 1 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=15.55   E-value=2.6e+02  Score=7.49  Aligned_columns=65  Identities=17%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCCCCCCHHHHHHHHHHHHHHHHHH-CCHHHHHHCCCCEECCCEEEE
+Q ss_conf             89999999999887640368887403664366553220222556889999999872-822011206770214643786
+Q d1fiua_          68 AFEAICSEFVQSAFEKLQHIRPGDWNVKQVGSRNRLEIARYQQYAHLTALAKAAEE-NPELAAALGSDYTITPDIIVT  144 (286)
+Q Consensus        68 ~FE~~v~~fl~~tf~~L~hlRpg~W~v~~v~~r~~~~i~~f~qY~HL~~L~~~~~~-np~L~a~LG~dY~I~PDV~V~  144 (286)
+                      .+++.+...++..|+.   ..|.+|.|.-  .|++ + ..|..-.=...+..++.+ .|.+..-|.     .||++|.
+T Consensus         6 ~i~~~a~~l~~~~~~~---~~~~tF~V~~--krr~-~-~~~~s~~i~~~v~~~i~~~~~~~~VdL~-----~Pd~~I~   71 (85)
+T d2dira1           6 DMKKYAETFLEPWFKA---PNKGTFQIVY--KSRN-N-SHVNREEVIRELAGIVCTLNSENKVDLT-----NPQYTVV   71 (85)
+T ss_pred             HHHHHHHHHHHHHHCC---CCCCEEEEEE--EECC-C-CCCCHHHHHHHHHHHHHHCCCCCEECCC-----CCCEEEE
+T ss_conf             9999999998876124---7997078988--7448-9-9889789999998888731787400023-----8867899
+
+
+No 10 
+>d1z63a1 c.37.1.19 (A:432-661) Helicase of the SNF2/Rad54 hamily {Sulfolobus solfataricus [TaxId: 2287]}
+Probab=14.55   E-value=2.6e+02  Score=7.48  Aligned_columns=28  Identities=7%
+
+Q ss_pred             HHHHHHHHHHHCCCCCEEEEEECCCCHHHHHHH
+Q ss_conf             788888888621799728998458854678876
+Q d1fiua_         199 RSEGLNLVRNRKGRLPHIVVVTAEPTPSRISSI  231 (286)
+Q Consensus       199 RsEalnLiRnRKGr~PHivvVTaEP~PSRlaSl  231 (286)
+                      |++++.-+     +.+|.++.||-|.+.+..-+
+T Consensus       143 ~~~~l~~l-----~a~~rl~LTgTP~~N~~~el  170 (230)
+T d1z63a1         143 IFKAVKEL-----KSKYRIALTGTPIENKVDDL  170 (230)
+T ss_pred             HHHHHHHC-----CCCCEEEEECCHHHCCHHHH
+T ss_conf             78998723-----67717886172232155889
+
+
+Done!

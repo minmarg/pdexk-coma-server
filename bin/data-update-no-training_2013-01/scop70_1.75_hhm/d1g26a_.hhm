@@ -1,0 +1,133 @@
+HHsearch 1.5
+NAME  d1g26a_ g.3.16.1 (A:) N-terminal domain of granulin-1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.3.16.1
+FILE  d1g26a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1g26a_.a3m -v 1 
+DATE  Mon Jan 21 20:58:08 2013
+LENG  31 match states, 31 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred
+CEECCCEEECCCCCCEEEECCCCEEECCCCC
+>ss_conf
+9216841327899621432689622034789
+>Consensus
+vVxCDxexsCPdgxTCCrlxsGaWgCCPfxx
+>d1g26a_ g.3.16.1 (A:) N-terminal domain of granulin-1 {Human (Homo sapiens) [TaxId: 9606]}
+VVHCDMEVICPDGYTCCRLPSGAWGCCPFTQ
+>gi|26384542|dbj|BAB31384.2|(293-322:602) unnamed protein product [Mus musculus]   E=1e-05 s/c=1.77 id=74% cov=100%
+-VKCDMEVSCPEGYTCCRLNTGAWGCCPFAK
+>gi|113205762|ref|NP_001038043.1|(276-305:583) granulins precursor [Sus scrofa] >gi|55247591|gb|AAV48633.1| granulin precursor [Sus scrofa]  E=4e-05 s/c=1.71 id=74% cov=100%
+-VKCDTEVSCPDDYTCCRLQSGKWGCCPFVQ
+>gi|327275608|ref|XP_003222565.1|(374-404:763) PREDICTED: granulins-like [Anolis carolinensis]   E=0.0002 s/c=1.59 id=66% cov=103%
+IVQCDFQTACPDGQTCCRLVSGAWGCCPIPQ
+>gi|224139688|ref|XP_002195384.1|(190-219:303) PREDICTED: similar to granulin, partial [Taeniopygia guttata]   E=0.0002 s/c=1.62 id=71% cov=100%
+-VKCDEETSCPDGNTCCRLSSGAWGCCPLEQ
+>gi|354484751|ref|XP_003504550.1|(296-325:605) PREDICTED: granulins isoform 1 [Cricetulus griseus]   E=0.0004 s/c=1.60 id=68% cov=100%
+-VECDSEVSCPDGYTCCYLTIGSWGCCPFSK
+>gi|348559842|ref|XP_003465724.1|(295-324:618) PREDICTED: granulins [Cavia porcellus]   E=0.0004 s/c=1.59 id=68% cov=100%
+-VECDQEVSCPEGQTCCRLQSGKWGCCPFPK
+>gi|334322821|ref|XP_001374870.2|(284-313:580) PREDICTED: granulins [Monodelphis domestica]   E=0.0007 s/c=1.57 id=68% cov=100%
+-VKCDGEMSCPDGNTCCLLPSGRWGCCPFPE
+>gi|171988318|gb|ACB59380.1|(121-150:298) progranulin type I [Paralichthys olivaceus] >gi|171988320|gb|ACB59381.1| progranulin type II [Paralichthys olivaceus] >gi|171988322|gb|ACB59382.1| progranulin [Paralichthys olivaceus] >gi|171988323|gb|ACB59383.1| progranulin [Paralichthys olivaceus]  E=0.001 s/c=1.55 id=65% cov=100%
+VVHCDSYYICPDSTTCCRHPAGAWFCCPYS-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	1538	*	*	*	*	*	*	*	*	*	609	*	*	1
+       0	*	*	*	*	*	*	1479	0	0	
+
+V 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	2
+       0	*	*	*	*	*	*	1737	0	0	
+
+H 3    *	*	*	2535	*	*	2459	*	835	*	*	*	*	3559	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1737	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1737	0	0	
+
+M 6    *	*	*	3998	3559	2980	*	*	*	3465	2107	*	*	2780	*	2290	4234	*	*	*	6
+       0	*	*	*	*	*	*	1737	0	0	
+
+E 7    *	*	*	466	*	*	*	*	*	*	*	*	*	2807	*	*	*	*	*	2909	7
+       0	*	*	*	*	*	*	1737	0	0	
+
+V 8    *	*	*	*	*	*	*	*	*	*	2553	*	*	*	*	*	2762	865	*	2909	8
+       0	*	*	*	*	*	*	1737	0	0	
+
+I 9    3559	*	*	*	*	*	*	2459	*	*	*	*	*	*	*	448	*	*	*	*	9
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1737	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1737	0	0	
+
+D 12   *	*	170	3166	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1737	0	0	
+
+G 13   *	*	3329	*	*	382	*	*	*	*	*	*	*	*	*	2909	*	*	*	*	13
+       0	*	*	*	*	*	*	1737	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	2401	*	2809	*	*	2909	*	*	903	14
+       0	*	*	*	*	*	*	1737	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	15
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1737	0	0	
+
+R 18   *	*	*	*	*	*	*	*	*	3863	*	*	*	*	218	*	*	*	*	3808	18
+       0	*	*	*	*	*	*	1737	0	0	
+
+L 19   *	*	*	*	*	*	2909	*	*	206	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1737	0	0	
+
+P 20   4494	*	*	*	*	*	*	*	*	*	*	3331	1996	1548	*	3220	3808	3559	*	*	20
+       0	*	*	*	*	*	*	1737	0	0	
+
+S 21   2909	*	*	*	*	*	*	3808	*	*	*	*	*	*	*	618	2795	*	*	*	21
+       0	*	*	*	*	*	*	1737	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1737	0	0	
+
+A 23   534	*	*	*	*	*	*	*	3171	*	*	*	*	*	3863	2949	*	*	*	*	23
+       0	*	*	*	*	*	*	1737	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	24
+       0	*	*	*	*	*	*	1737	0	0	
+
+G 25   *	*	*	*	2909	206	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1737	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1737	0	0	
+
+P 28   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1737	0	0	
+
+F 29   *	*	*	*	475	*	*	3559	*	3998	*	*	*	*	*	*	*	*	*	2909	29
+       0	*	*	*	*	*	*	1737	0	0	
+
+T 30   3363	*	*	3998	*	*	*	*	*	*	*	*	1892	*	*	2290	1906	3329	*	*	30
+       0	*	*	*	*	*	*	1737	0	0	
+
+Q 31   *	*	*	2799	*	*	*	*	1692	*	*	*	*	871	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1580	0	0	
+
+//

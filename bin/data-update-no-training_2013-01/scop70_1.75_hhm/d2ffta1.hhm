@@ -1,0 +1,291 @@
+HHsearch 1.5
+NAME  d2ffta1 g.88.1.1 (A:2-84) Thylakoid soluble phosphoprotein TSP9 {Spinach (Spinacia oleracea) [TaxId: 3562]}
+FAM   g.88.1.1
+FILE  d2ffta1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ffta1.a3m -v 1 
+DATE  Tue Jan 22 06:45:42 2013
+LENG  83 match states, 83 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEECC
+>ss_conf
+98787776220111445542120011001014100101456776655555545788745343686666756765442110069
+>Consensus
+axkGxxxxkeEKgxxDxixGxlxkedQxxETdPiLxkvxxkxxxxttxxxgxtxxxxxxsvxvPxkkkggggxxfGglFAKkd
+>d2ffta1 g.88.1.1 (A:2-84) Thylakoid soluble phosphoprotein TSP9 {Spinach (Spinacia oleracea) [TaxId: 3562]}
+AAKGTAETKQEKSFVDWLLGKITKEDQFYETDPILRGGDVKSSGSTSGKKGGTTSGKKGTVSIPSKKKNGNGGVFGGLFAKKD
+>gi|395146507|gb|AFN53662.1|(21-102:103) thylakoid soluble phosphoprotein [Linum usitatissimum]   E=3e-06 s/c=0.67 id=54% cov=92%
+--KGSGGSKEEKGPWDWIVGTLIKEDQFYETDPILNKTEEKSGGGTTSGRGTTSGRGTTsgrkgttTVSVPQKKKGG----FGGLFAK--
+>gi|388502394|gb|AFK39263.1|(22-95:95) unknown [Medicago truncatula]   E=7e-15 s/c=1.13 id=56% cov=88%
+ATKGTtsAPIKEEKGFLDWILGGMQKEDQFFETDPILKKVEEKSA-------GTTSNGRKNTVVVPPQKKKGGGFGG--LFAK--
+>gi|224104307|ref|XP_002313390.1|(17-90:90) predicted protein [Populus trichocarpa] >gi|222849798|gb|EEE87345.1| predicted protein [Populus trichocarpa]  E=1e-16 s/c=1.21 id=56% cov=90%
+AATASGGSKEEKGLLDWILGSLQKEDQFYETDPILKKVEEKNS-------GGTTSGRRNSVAVPQKKKKNGGFG--GLFAKKD
+>gi|15042814|gb|AAK82437.1|AC091247_4(38-118:119) unknown protein [Oryza sativa Japonica Group] >gi|108711848|gb|ABF99643.1| expressed protein [Oryza sativa Japonica Group]  E=8e-10 s/c=0.82 id=32% cov=98%
+ATRGKpAPAEEEKSLADFIFGFIFKKDQLVETDPLLNKVDGAPPSGSTVSRKAPAKKPAASAA--DEEGGGGGFNLGALFAKK-
+>gi|242037551|ref|XP_002466170.1|(39-123:125) hypothetical protein SORBIDRAFT_01g002780 [Sorghum bicolor] >gi|241920024|gb|EER93168.1| hypothetical protein SORBIDRAFT_01g002780 [Sorghum bicolor]  E=5e-08 s/c=0.72 id=34% cov=96%
+---GPAPAKEEKGLGEIIFGFIFKKDQLVETDPLLNKVAGASAAASSRAKppprgaATTSGKKAAAADDGGSGGGFNLPGLGGFFAKK-
+>gi|15232724|ref|NP_190291.1|(24-86:100) uncharacterized protein [Arabidopsis thaliana] >gi|6522588|emb|CAB61953.1| putative protein [Arabidopsis thaliana] >gi|21554602|gb|AAM63629.1| unknown [Arabidopsis thaliana] >gi|23297144|gb|AAN13103.1| unknown protein [Arabidopsis thaliana] >gi|332644719|gb|AEE78240.1| uncharacterized protein [Arabidopsis thaliana]  E=3e-09 s/c=1.03 id=36% cov=77%
+---GSGGPKEEKNPIDFVLGFMTKQDQFYETNPLLKKVDEKEGTTTGGRGTVRGGKNSAPTPVPKK-----------------
+>gi|414590864|tpg|DAA41435.1|(50-87:572) TPA: hypothetical protein ZEAMMB73_099500 [Zea mays]   E=1e-08 s/c=1.66 id=33% cov=47%
+----TTGKREQKGLFDTIFGALYREEQMLETNPILNKVGSKS-----------------------------------------
+>gi|226504956|ref|NP_001143314.1|(41-81:113) uncharacterized protein LOC100275878 [Zea mays] >gi|226529107|ref|NP_001144295.1| uncharacterized protein LOC100277181 [Zea mays] >gi|195617524|gb|ACG30592.1| hypothetical protein [Zea mays] >gi|195639818|gb|ACG39377.1| hypothetical protein [Zea mays] >gi|223975467|gb|ACN31921.1| unknown [Zea mays] >gi|414589175|tpg|DAA39746.1| TPA: hypothetical protein ZEAMMB73_088990 [Zea mays] >gi|414589176|tpg|DAA39747.1| TPA: hypothetical protein ZEAMMB73_088990 [Zea mays] >gi|414589177|tpg|DAA39748.1| TPA: hypothetical protein ZEAMMB73_088990 [Zea mays] >gi|414589182|tpg|DAA39753.1| TPA: hypothetical protein ZEAMMB73_089030 [Zea mays] >gi|414589183|tpg|DAA39754.1| TPA: hypothetical protein ZEAMMB73_089030 [Zea mays] >gi|414589184|tpg|DAA39755.1| TPA: hypothetical protein ZEAMMB73_089030 [Zea mays]  E=0.0008 s/c=1.14 id=34% cov=49%
+-AAAAGKRVEEKGLFDTIFGALYKEEQLLETDPVLNKVGSK------------------------------------------
+>gi|357490633|ref|XP_003615604.1|(31-93:106) hypothetical protein MTR_5g069990 [Medicago truncatula] >gi|355516939|gb|AES98562.1| hypothetical protein MTR_5g069990 [Medicago truncatula]  E=8e-11 s/c=1.11 id=47% cov=71%
+-------SKQEKGFWDWIVGGLTKEDQFYETDPILKKVEEKNNSRGTTSRGTTSGkgttsGGKNSVVVPQ------------------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1906	0	0	
+
+A 2    953	*	*	2776	*	*	*	*	*	*	*	*	*	*	*	*	1568	*	*	*	2
+       0	*	*	*	*	*	*	2023	0	0	
+
+K 3    2614	*	*	*	*	*	*	*	822	*	*	*	*	*	2506	*	3395	*	*	*	3
+       0	*	*	*	*	*	*	2034	0	0	
+
+G 4    2758	*	*	*	*	368	*	*	*	*	*	*	*	*	*	3691	*	*	*	*	4
+       0	*	*	*	*	*	*	2568	0	0	
+
+T 5    2261	*	*	*	*	*	*	*	3496	*	*	*	3369	*	*	1579	1882	*	*	*	5
+       243	2691	*	451	1897	*	*	2265	1395	0	
+
+A 6    961	*	*	*	*	1299	*	*	*	*	*	*	*	*	*	*	3646	*	*	*	6
+       0	*	*	*	*	*	*	2265	0	0	
+
+E 7    3900	*	*	2997	*	1046	*	*	3801	*	*	*	1991	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2265	0	0	
+
+T 8    2099	*	*	*	*	*	*	4148	2856	*	*	*	3498	*	3957	1695	3179	*	*	*	8
+       0	*	*	*	*	*	*	2160	0	0	
+
+K 9    *	*	*	3589	*	4149	*	*	738	*	*	*	*	*	2856	*	4095	3957	*	*	9
+       84	*	4149	*	*	*	*	2160	0	0	
+
+Q 10   *	*	*	350	*	*	*	*	4112	*	*	*	*	2665	*	*	*	*	*	*	10
+       0	*	*	*	*	0	*	2160	0	1000	
+
+E 11   *	*	*	206	*	*	*	*	*	*	*	*	*	2910	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2166	0	0	
+
+K 12   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2166	0	0	
+
+S 13   *	*	*	*	*	457	*	*	*	*	*	3539	*	*	*	2432	*	*	*	*	13
+       0	*	*	*	*	*	*	2166	0	0	
+
+F 14   *	*	*	*	2033	*	*	4405	*	931	*	*	2442	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2066	0	0	
+
+V 15   3736	*	*	*	2093	3495	*	3560	*	1903	*	*	*	*	*	*	*	3236	2800	*	15
+       0	*	*	*	*	*	*	2066	0	0	
+
+D 16   *	*	134	3495	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2066	0	0	
+
+W 17   4301	*	*	*	2645	*	*	3495	*	*	*	*	*	*	*	*	2444	*	952	*	17
+       0	*	*	*	*	*	*	2066	0	0	
+
+L 18   *	*	*	*	*	*	*	389	*	3236	*	*	*	*	*	*	*	2940	*	*	18
+       0	*	*	*	*	*	*	2066	0	0	
+
+L 19   *	*	*	*	1329	*	*	3501	*	1435	*	*	*	*	*	*	*	2800	*	*	19
+       0	*	*	*	*	*	*	2066	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2066	0	0	
+
+K 21   2093	*	*	*	2008	2390	*	*	3236	*	*	4459	*	*	*	3727	3334	*	*	*	21
+       0	*	*	*	*	*	*	2066	0	0	
+
+I 22   *	*	*	*	*	*	*	1890	*	744	2908	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2066	0	0	
+
+T 23   *	*	*	*	2611	*	*	3334	*	*	*	*	*	2172	*	*	1833	*	*	2093	23
+       0	*	*	*	*	*	*	2066	0	0	
+
+K 24   *	*	*	*	*	*	*	*	200	*	*	*	*	*	2952	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2066	0	0	
+
+E 25   *	*	*	412	*	*	*	*	2611	*	*	*	*	3560	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2066	0	0	
+
+D 26   *	*	385	2093	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2066	0	0	
+
+Q 27   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2066	0	0	
+
+F 28   *	*	*	*	989	*	*	*	*	1386	3139	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2066	0	0	
+
+Y 29   *	*	*	*	4368	*	*	*	*	1828	*	*	*	*	*	*	*	2221	*	1135	29
+       0	*	*	*	*	*	*	2066	0	0	
+
+E 30   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2066	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	31
+       0	*	*	*	*	*	*	2066	0	0	
+
+D 32   *	*	347	*	*	*	*	*	*	*	*	2224	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2066	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2066	0	0	
+
+I 34   *	*	*	*	*	*	*	521	*	2008	*	*	*	*	*	*	*	4198	*	*	34
+       0	*	*	*	*	*	*	2066	0	0	
+
+L 35   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2066	0	0	
+
+R 36   *	*	*	*	*	*	*	*	1335	*	*	1008	*	*	3236	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2066	0	0	
+
+G 37   *	*	*	*	*	3236	*	*	162	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2066	0	0	
+
+G 38   *	*	*	*	*	3236	*	*	*	*	*	*	*	*	*	*	3334	332	*	*	38
+       0	*	*	*	*	*	*	2066	0	0	
+
+D 39   3495	*	1911	1115	*	2444	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2066	0	0	
+
+V 40   *	*	*	975	*	2312	*	*	*	*	*	*	*	*	*	2444	*	3236	*	*	40
+       0	*	*	*	*	*	*	2066	0	0	
+
+K 41   2611	*	*	*	*	*	*	*	258	*	*	*	*	*	*	*	*	*	*	*	41
+       81	4191	*	2807	222	*	*	2066	1000	0	
+
+S 42   4146	*	*	3510	*	4214	*	*	*	*	*	2131	3663	*	*	1016	*	*	*	*	42
+       93	*	4008	*	*	*	*	2064	0	0	
+
+S 43   2288	*	*	*	*	1902	*	*	*	*	*	3114	3094	*	3634	2221	*	*	*	*	43
+       350	*	2215	*	*	*	0	2455	0	1000	
+
+G 44   2679	*	*	*	*	1144	*	*	*	*	*	*	*	*	*	2069	2708	*	*	*	44
+       0	*	*	*	*	*	0	2454	0	1356	
+
+S 45   2679	*	*	*	*	2127	*	*	*	*	*	*	*	*	3268	2727	1474	*	*	*	45
+       0	*	*	*	*	*	0	2454	0	1356	
+
+T 46   *	*	*	*	*	3268	*	*	*	*	*	*	*	*	*	1782	724	*	*	*	46
+       0	*	*	*	*	*	0	2454	0	1356	
+
+S 47   *	*	*	*	*	2708	*	*	*	*	*	*	*	*	*	1287	1194	*	*	*	47
+       0	*	*	*	*	*	0	2454	0	1356	
+
+G 48   *	*	*	*	*	1298	*	*	*	*	*	*	*	*	2679	3405	2264	2893	*	*	48
+       0	*	*	*	*	*	0	2454	0	1356	
+
+K 49   2679	*	*	*	*	3405	*	*	2727	*	*	*	*	*	1968	2069	3259	*	*	*	49
+       0	*	*	*	*	*	0	2454	0	1356	
+
+K 50   *	*	*	*	*	1968	*	*	1703	*	*	*	*	*	1587	*	3259	*	*	*	50
+       245	2679	*	2585	263	0	*	2454	1000	1356	
+
+G 51   2873	*	*	*	*	856	*	*	3141	*	*	*	*	*	*	*	2338	*	*	*	51
+       96	*	3963	*	*	*	*	2472	0	0	
+
+G 52   3034	*	*	*	*	1623	*	*	*	*	*	*	*	*	*	*	1238	2952	*	*	52
+       0	*	*	*	*	*	0	2473	0	1000	
+
+T 53   *	*	*	*	*	*	*	*	*	*	*	*	3034	*	2952	2800	725	*	*	*	53
+       0	*	*	*	*	*	0	2473	0	1000	
+
+T 54   2572	*	*	*	*	2270	*	*	*	*	*	3933	*	*	*	1532	2230	*	*	*	54
+       0	*	*	*	*	*	0	2473	0	1000	
+
+S 55   *	*	*	*	*	1063	*	*	3034	*	*	4011	*	*	3678	1947	*	*	*	*	55
+       105	3834	*	2322	322	0	*	2473	1000	1000	
+
+G 56   *	*	*	*	*	1249	*	*	1160	*	*	*	*	*	2927	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2472	0	0	
+
+K 57   *	*	*	*	*	2283	*	*	2040	*	*	2416	3141	*	1997	*	*	*	*	*	57
+       0	*	*	*	*	*	*	2472	0	0	
+
+K 58   2001	*	*	*	*	*	*	*	1186	*	*	*	*	*	4460	3020	2817	*	*	*	58
+       0	*	*	*	*	*	*	2472	0	0	
+
+G 59   1422	*	*	*	*	3228	*	*	*	*	*	1403	*	*	*	*	2817	*	*	*	59
+       101	3891	*	2807	222	*	*	2472	1000	0	
+
+T 60   2873	*	*	*	*	*	*	*	*	*	*	*	3020	*	*	1201	1712	*	*	*	60
+       0	*	*	*	*	*	*	2472	0	0	
+
+V 61   2001	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3020	674	*	*	61
+       0	*	*	*	*	*	*	2472	0	0	
+
+S 62   1917	*	2873	*	*	*	*	*	*	*	*	*	3020	*	*	1748	*	2492	*	*	62
+       174	*	3141	*	*	*	*	2472	0	0	
+
+I 63   *	*	2545	*	*	*	*	2569	*	*	*	*	*	*	*	*	*	599	*	*	63
+       0	*	*	*	*	*	0	2344	0	1000	
+
+P 64   *	*	*	*	*	2545	*	*	*	*	*	*	271	*	*	*	*	*	*	*	64
+       0	*	*	*	*	0	*	2344	0	1000	
+
+S 65   *	*	3141	*	*	2873	*	*	3020	*	*	*	3130	1300	*	3228	*	*	*	*	65
+       0	*	*	*	*	*	*	2472	0	0	
+
+K 66   *	*	*	2949	*	*	*	*	622	*	*	*	*	3915	*	2696	*	*	*	*	66
+       0	*	*	*	*	*	*	2297	0	0	
+
+K 67   *	*	*	2764	*	2580	*	*	545	*	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2192	0	0	
+
+K 68   *	*	*	*	*	1669	*	*	545	*	*	*	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	2192	0	0	
+
+N 69   *	*	*	*	*	696	*	*	2880	*	*	2381	*	*	*	4188	*	*	*	*	69
+       0	*	*	*	*	*	*	2192	0	0	
+
+G 70   *	*	*	*	2580	376	*	*	*	*	*	4008	*	*	*	*	*	*	*	*	70
+       521	*	1723	*	*	*	*	2192	0	0	
+
+N 71   *	*	*	*	*	707	*	*	*	*	*	1369	*	*	*	*	*	*	*	*	71
+       148	*	3362	*	*	*	0	2095	0	1418	
+
+G 72   *	*	*	*	3017	602	*	*	*	2199	*	*	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	0	2050	0	1476	
+
+G 73   *	*	*	*	1095	1671	*	*	*	*	*	*	2199	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	0	2050	0	1476	
+
+V 74   *	*	*	*	*	756	*	*	*	*	*	2201	*	*	*	*	*	2393	*	*	74
+       185	*	3057	*	*	0	*	2050	0	1476	
+
+F 75   *	*	*	*	757	3600	*	*	*	1619	*	*	*	*	*	*	*	*	*	*	75
+       124	*	3600	*	*	*	0	2201	0	1000	
+
+G 76   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	76
+       0	*	*	*	*	1000	1000	2243	0	1232	
+
+G 77   2687	*	*	*	*	243	*	*	*	*	*	*	*	*	*	*	*	*	*	*	77
+       0	*	*	*	*	0	*	2179	0	1000	
+
+L 78   *	*	*	*	2580	*	*	*	*	264	*	*	*	*	*	*	*	*	*	*	78
+       0	*	*	*	*	*	*	2192	0	0	
+
+F 79   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	2192	0	0	
+
+A 80   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	*	2192	0	0	
+
+K 81   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	81
+       0	*	*	*	*	*	*	2192	0	0	
+
+K 82   *	*	*	*	*	*	*	*	153	*	*	3314	*	*	*	*	*	*	*	*	82
+       0	*	*	*	*	*	*	2080	0	0	
+
+D 83   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	83
+       0	*	*	0	*	*	*	1319	0	0	
+
+//

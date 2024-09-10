@@ -1,0 +1,142 @@
+HHsearch 1.5
+NAME  d1gl1i_ g.4.1.1 (I:) Protease inhibitor PMP-C {Migratory locust (Locusta migratoria) [TaxId: 7004]}
+FAM   g.4.1.1
+FILE  d1gl1i_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1gl1i_.a3m -v 1 
+DATE  Mon Jan 21 21:05:30 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCEEECCCCCCCCCCCCCCCCC
+>ss_conf
+9578888113477653116788742001134789
+>Consensus
+vxCxPGtTfkdkCNtCRCxsdGkSaaCTxkxCpx
+>d1gl1i_ g.4.1.1 (I:) Protease inhibitor PMP-C {Migratory locust (Locusta migratoria) [TaxId: 7004]}
+ISCEPGKTFKDKCNTCRCGADGKSAACTLKACPN
+>gi|51316567|sp|O46162.1|SGP1_SCHGR(58-91:92) RecName: Full=Serine protease inhibitor I/II; Contains: RecName: Full=Protease inhibitor SGPI-1; AltName: Full=Schistocerca gregaria trypsin inhibitor; Short=SGTI; Contains: RecName: Full=Protease inhibitor SGPI-2; AltName: Full=Schistocerca gregaria chymotrypsin inhibitor; Short=SGCI; Flags: Precursor >gi|2765006|emb|CAA70818.1| serine protease inhibitor I [Schistocerca gregaria]  E=8e-09 s/c=1.87 id=83% cov=103%
+VTCEPGTTFKDKCNTCRCGSDGKSAACTLKACPQ
+>gi|363805394|sp|B3A0N9.1|MSPI2_MELSA(2-36:36) RecName: Full=Serine protease inhibitor 2; AltName: Full=Protease inhibitor MSPI-2  E=3e-07 s/c=1.67 id=86% cov=103%
+ISCEPGTTFQDKCNTCRCGKDGKSAAgCTLKACPQ
+>gi|18496017|emb|CAD11969.1|(110-142:145) pacifastin-related serine protease inhibitor precursor [Locusta migratoria migratorioides]  E=4e-06 s/c=1.66 id=68% cov=100%
+VNCTPGTTFQDRCNTCRCSSNGRSAACTLKACP-
+>gi|385252060|pdb|4DJZ|H(5-36:38) Chain H, Catalytic Fragment Of Masp-1 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold >gi|385252061|pdb|4DJZ|I Chain I, Catalytic Fragment Of Masp-1 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold  E=4e-06 s/c=1.71 id=76% cov=97%
+VTCEPGTTFKDKCNTCRCGSDGKSAFCTRKLC--
+>gi|56709815|emb|CAC82510.3|(60-92:96) pacifastin-related precursor 4t [Schistocerca gregaria]   E=4e-06 s/c=1.66 id=68% cov=100%
+VNCTPGTTFKNKCNTCRCGSNGRSASCTLMACP-
+>gi|385251812|pdb|3TVJ|I(5-36:38) Chain I, Catalytic Fragment Of Masp-2 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold  E=1e-05 s/c=1.65 id=73% cov=97%
+VTCEPGTTFKDKCNTCRCGSDGKSAVCTKLWC--
+>gi|18496019|emb|CAD11970.1|(161-193:197) pacifastin-related serine protease inhibitor precursor [Locusta migratoria migratorioides]  E=0.0004 s/c=1.46 id=62% cov=100%
+VSCTPGATYKEDCNICRCRSDGKSGACTKKSCP-
+>gi|21217996|emb|CAD24808.1|(115-147:151) pacifastin-related peptide precursor [Schistocerca gregaria]   E=0.0007 s/c=1.44 id=62% cov=100%
+VSCTPGATYKEGCNICRCRSDGKSGACTRKICP-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	2242	*	*	*	*	*	*	*	*	*	343	*	*	1
+       0	*	*	*	*	*	*	1551	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	2046	*	*	*	1105	1771	*	*	*	2
+       0	*	*	*	*	*	*	1551	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1551	0	0	
+
+E 4    *	*	*	987	*	*	*	*	*	*	*	*	*	*	*	*	1013	*	*	*	4
+       0	*	*	*	*	*	*	1551	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1551	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1551	0	0	
+
+K 7    1981	*	*	*	*	*	*	*	3221	*	*	*	*	*	*	*	645	*	*	*	7
+       0	*	*	*	*	*	*	1551	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	8
+       0	*	*	*	*	*	*	1551	0	0	
+
+F 9    *	*	*	*	421	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1981	9
+       0	*	*	*	*	*	*	1551	0	0	
+
+K 10   *	*	*	*	*	*	*	*	365	*	*	*	*	2161	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1551	0	0	
+
+D 11   *	*	681	1981	*	*	*	*	*	*	*	3026	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1551	0	0	
+
+K 12   *	*	2981	*	*	2981	*	*	673	*	*	*	*	*	3066	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1551	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1551	0	0	
+
+N 14   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1551	0	0	
+
+T 15   *	*	*	*	*	*	*	1981	*	*	*	*	*	*	*	*	421	*	*	*	15
+       0	*	*	*	*	*	*	1551	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1551	0	0	
+
+R 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1551	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1551	0	0	
+
+G 19   *	*	*	*	*	673	*	*	*	*	*	*	*	*	1981	3066	*	*	*	*	19
+       0	*	*	*	*	*	*	1551	0	0	
+
+A 20   3221	*	*	*	*	*	*	*	3263	*	*	*	*	*	*	343	*	*	*	*	20
+       0	*	*	*	*	*	*	1551	0	0	
+
+D 21   *	*	400	*	*	*	*	*	*	*	*	2046	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1551	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1551	0	0	
+
+K 23   *	*	*	*	*	*	*	*	400	*	*	*	*	*	2046	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1551	0	0	
+
+S 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	24
+       0	*	*	*	*	*	*	1551	0	0	
+
+A 25   421	*	*	*	*	1981	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1551	0	0	
+
+A 26   580	*	*	*	3328	*	*	*	*	*	*	*	*	*	*	3026	*	3204	*	*	26
+       159	3263	*	0	*	*	*	1551	1000	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1551	0	0	
+
+T 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	28
+       0	*	*	*	*	*	*	1551	0	0	
+
+L 29   *	*	*	*	*	*	*	*	2088	893	*	*	*	*	2144	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1551	0	0	
+
+K 30   *	*	*	*	*	*	*	*	379	3204	3026	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1551	0	0	
+
+A 31   893	*	*	*	*	*	*	2981	*	3328	*	*	*	*	*	2981	*	*	3204	*	31
+       0	*	*	*	*	*	*	1551	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1551	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1495	0	0	
+
+N 34   *	*	*	*	*	*	*	*	*	*	*	1574	*	590	*	*	*	*	*	*	34
+       0	*	*	0	*	*	*	1134	0	0	
+
+//

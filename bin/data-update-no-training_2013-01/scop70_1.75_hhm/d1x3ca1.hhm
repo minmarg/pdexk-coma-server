@@ -1,0 +1,225 @@
+HHsearch 1.5
+NAME  d1x3ca1 g.37.1.1 (A:8-68) Zinc finger protein 292, ZNF292 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1x3ca1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x3ca1.a3m -v 1 
+DATE  Tue Jan 22 04:12:43 2013
+LENG  61 match states, 61 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCHHHHCCCCEEEEECCCHHHHHHHHHHCCCCCCCCCCCCCC
+>ss_conf
+9876554656786547656502111043011310000223442222102652224567679
+>Consensus
+xKkxxxxxxxxxxxxspyrPYrCvHqGCxAAFTIQxNLiLHYxavHxsxlxxxxxexexex
+>d1x3ca1 g.37.1.1 (A:8-68) Zinc finger protein 292, ZNF292 {Human (Homo sapiens) [TaxId: 9606]}
+RKKPVSQSLEFPTRYSPYRPYRCVHQGCFAAFTIQQNLILHYQAVHKSDLPAFSAEVEEES
+>gi|334324424|ref|XP_003340518.1|(2108-2163:2729) PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 292-like [Monodelphis domestica]  E=9e-23 s/c=1.95 id=86% cov=93%
+-----TQSPEVPTRYSPYRPYRCVHQGCFAAFTIQQNLILHYQAVHKSDLPVFPVEIEEES
+>gi|345327574|ref|XP_001513249.2|(2088-2145:2855) PREDICTED: zinc finger protein 292 [Ornithorhynchus anatinus]   E=4e-26 s/c=2.07 id=88% cov=97%
+---PVPESLELPTRYSPYRPYRCVHQGCFAAFTIQQNLILHYQAVHKSDLPVFLAEVEEEN
+>gi|327261563|ref|XP_003215599.1|(2085-2134:2708) PREDICTED: zinc finger protein 292-like [Anolis carolinensis]   E=3e-21 s/c=2.08 id=88% cov=84%
+-KKTVQKSLEIPTTYSPYRPYRCVHQGCFAAFTIQQNLILHYQAVHKSDLP----------
+>gi|71834564|ref|NP_001025383.1|(2060-2105:2619) zinc finger protein 292 [Danio rerio] >gi|55962816|emb|CAI11515.1| novel protein [Danio rerio]  E=2e-13 s/c=1.72 id=70% cov=77%
+--------------FSPYRPYRCVHQGCVAAFTIQHNLILHYKAVHQSALPKFEINSHDE-
+>gi|348531621|ref|XP_003453307.1|(1837-1897:2384) PREDICTED: zinc finger protein 292-like [Oreochromis niloticus]   E=2e-12 s/c=1.24 id=53% cov=102%
+QKRLSLKMFDADNAYSPYRPYRCVHEGCTAAFTIQHNLILHYKAMHQASLPPNKTEGETEA
+>gi|410927874|ref|XP_003977365.1|(1558-1611:2088) PREDICTED: zinc finger protein 292-like [Takifugu rubripes]   E=2e-09 s/c=1.22 id=55% cov=90%
+-KKTKEKKPALDHCISPLRPYRCSHQGCKAAFTIQHNLILHYRVVHQSALSALAV------
+>gi|348537206|ref|XP_003456086.1|(1897-1955:2443) PREDICTED: zinc finger protein 292 [Oreochromis niloticus]   E=8e-19 s/c=1.64 id=57% cov=98%
+-KKTKERKPKLGDAASPYRPYRCVHQGCVAAFTIQHNLILHYRAVHQSALSALEVNKEQD-
+>gi|47230067|emb|CAG10481.1|(1826-1885:2113) unnamed protein product [Tetraodon nigroviridis]   E=6e-18 s/c=1.56 id=68% cov=77%
+--------------FSPYRPYRCVHEGCSAAFTIQQNLILHYRAMHQAALPPSKHEAEPE-
+>gi|301608806|ref|XP_002933975.1|(2087-2131:2685) PREDICTED: zinc finger protein 292 [Xenopus (Silurana) tropicalis]   E=2e-13 s/c=1.76 id=70% cov=75%
+--------------FNSYKPYQCVHQGCTAAFTIQQNLMLHYQAVHKS-VSMFSLEDGEE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	1000	1000	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1375	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1583	0	0	
+
+K 3    *	*	*	*	*	*	*	*	382	*	*	*	*	*	2103	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1583	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	2419	*	*	1445	*	*	*	1166	*	*	*	4
+       0	*	*	*	*	*	*	1622	0	0	
+
+V 5    *	*	*	*	*	*	*	*	1629	*	*	*	*	*	*	2419	*	1030	*	*	5
+       0	*	*	*	*	*	*	1622	0	0	
+
+S 6    *	*	*	1731	*	*	*	*	*	2571	*	*	3274	3228	*	2200	3284	*	*	*	6
+       0	*	*	*	*	*	*	1578	0	0	
+
+Q 7    *	*	*	3274	*	*	*	*	1193	*	*	*	*	1643	2847	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1578	0	0	
+
+S 8    *	*	*	*	*	*	*	*	1731	*	2571	*	*	*	*	915	*	*	*	*	8
+       0	*	*	*	*	*	*	1578	0	0	
+
+L 9    *	*	*	*	2571	*	*	*	*	1695	*	*	1308	*	*	*	3072	*	*	*	9
+       0	*	*	*	*	*	*	1578	0	0	
+
+E 10   2623	*	2571	915	*	*	*	*	2847	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1578	0	0	
+
+F 11   2571	*	*	*	2200	*	*	3228	*	1305	*	*	*	*	*	*	*	3284	*	*	11
+       0	*	*	*	*	*	*	1578	0	0	
+
+P 12   *	*	1597	*	*	2847	*	*	*	*	*	*	915	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1578	0	0	
+
+T 13   3072	*	2847	*	*	*	2623	*	*	*	*	2571	*	*	*	*	1281	*	*	*	13
+       0	*	*	*	*	*	*	1578	0	0	
+
+R 14   1703	2623	*	*	*	*	*	*	*	*	*	*	*	*	1239	*	3228	*	*	*	14
+       0	*	*	*	*	*	*	1578	0	0	
+
+Y 15   3561	*	*	*	1627	*	*	3033	*	*	*	*	*	*	*	*	*	*	*	1091	15
+       0	*	*	*	*	*	*	1569	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	2885	*	*	*	210	*	*	*	*	16
+       0	*	*	*	*	*	*	1584	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	210	*	*	2885	*	*	*	*	17
+       0	*	*	*	*	*	*	1584	0	0	
+
+Y 18   *	*	*	*	3502	*	*	*	*	3369	*	*	*	*	*	*	*	*	*	295	18
+       0	*	*	*	*	*	*	1584	0	0	
+
+R 19   *	*	*	*	*	*	*	*	2885	*	*	*	*	*	210	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1584	0	0	
+
+P 20   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1584	0	0	
+
+Y 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	21
+       0	*	*	*	*	*	*	1584	0	0	
+
+R 22   *	3657	*	*	*	*	*	*	*	*	*	*	*	2885	349	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1584	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1584	0	0	
+
+V 24   *	*	*	*	3502	*	*	*	*	*	*	*	*	*	*	3369	*	295	*	*	24
+       0	*	*	*	*	*	*	1584	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1584	0	0	
+
+Q 26   *	*	*	2402	*	*	*	*	*	*	*	*	*	303	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1584	0	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1584	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1584	0	0	
+
+F 29   *	*	*	*	1560	*	*	*	3369	*	*	*	*	*	*	2477	2100	2725	*	*	29
+       0	*	*	*	*	*	*	1584	0	0	
+
+A 30   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1584	0	0	
+
+A 31   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1584	0	0	
+
+F 32   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1584	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	33
+       0	*	*	*	*	*	*	1584	0	0	
+
+I 34   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1584	0	0	
+
+Q 35   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1584	0	0	
+
+Q 36   *	*	*	*	*	*	1203	*	*	*	*	*	*	822	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1584	0	0	
+
+N 37   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1584	0	0	
+
+L 38   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1584	0	0	
+
+I 39   *	*	*	*	*	*	*	210	*	*	2885	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1584	0	0	
+
+L 40   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1584	0	0	
+
+H 41   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1584	0	0	
+
+Y 42   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	42
+       0	*	*	*	*	*	*	1584	0	0	
+
+Q 43   *	*	*	*	*	*	*	*	2520	*	*	*	*	1076	1509	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1584	0	0	
+
+A 44   295	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2434	*	*	44
+       0	*	*	*	*	*	*	1584	0	0	
+
+V 45   *	*	*	*	*	*	*	*	*	*	2402	*	*	*	*	*	*	303	*	*	45
+       0	*	*	*	*	*	*	1584	0	0	
+
+H 46   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1584	0	0	
+
+K 47   *	*	*	*	*	*	*	*	1076	*	*	*	*	928	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1584	0	0	
+
+S 48   2402	*	*	*	*	*	*	*	*	*	*	*	*	*	*	303	*	*	*	*	48
+       210	*	2885	*	*	*	*	1584	0	0	
+
+D 49   1040	*	1705	*	*	*	*	*	*	*	*	3383	*	*	*	3169	*	*	*	*	49
+       0	*	*	*	*	0	*	1491	0	1000	
+
+L 50   *	*	*	*	*	*	*	*	*	210	*	*	*	*	*	*	*	2885	*	*	50
+       0	*	*	*	*	*	*	1584	0	0	
+
+P 51   *	*	*	*	*	*	*	*	*	*	*	*	726	*	*	1339	*	*	*	*	51
+       0	*	*	*	*	*	*	1584	0	0	
+
+A 52   1537	*	*	*	*	*	*	*	3621	*	2833	*	2331	*	*	*	3547	2742	*	*	52
+       0	*	*	*	*	*	*	1593	0	0	
+
+F 53   *	*	*	*	922	*	*	*	*	1871	*	3284	*	*	*	3379	*	*	*	*	53
+       0	*	*	*	*	*	*	1593	0	0	
+
+S 54   2367	*	*	2636	*	*	*	*	2331	3739	*	*	3745	*	*	1751	*	*	*	*	54
+       0	*	*	*	*	*	*	1593	0	0	
+
+A 55   2110	*	*	*	*	*	3379	3621	*	2833	*	*	*	*	*	*	3284	1523	*	*	55
+       0	*	*	*	*	*	*	1593	0	0	
+
+E 56   *	*	*	435	*	*	*	*	*	*	*	1942	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1611	0	0	
+
+V 57   2958	*	2548	*	*	2925	*	3258	2877	*	*	*	*	*	*	3011	*	2295	*	*	57
+       0	*	*	*	*	*	*	1611	0	0	
+
+E 58   *	*	*	504	*	2548	3011	*	*	*	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	1611	0	0	
+
+E 59   *	*	3011	1061	*	*	*	*	*	*	*	*	2958	2877	*	*	2925	*	*	*	59
+       0	*	*	*	*	*	*	1611	0	0	
+
+E 60   *	*	2877	211	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1611	0	0	
+
+S 61   1618	*	*	*	*	*	*	*	*	*	*	2154	*	*	*	1154	*	*	*	*	61
+       0	*	*	0	*	*	*	1428	0	0	
+
+//

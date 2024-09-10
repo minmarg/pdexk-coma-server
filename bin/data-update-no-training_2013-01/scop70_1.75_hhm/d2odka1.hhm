@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d2odka1 d.306.1.1 (A:1-51) Hypothetical protein NE2111 {Nitrosomonas europaea [TaxId: 915]}
+FAM   d.306.1.1
+FILE  d2odka1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2odka1.a3m -v 1 
+DATE  Tue Jan 22 08:06:56 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  106 out of 854 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.8 
+SEQ
+>ss_pred
+CCEECHHHHHHHHHHHHHHHHCCCCEEEEECCCCEEEEECHHHHHHHHCCC
+>ss_conf
+952029999999999999985599579877891018870578875420159
+>Consensus
+MxxxxxxearxxlsxllxxvxxgexvxItrxgxxxavlisxxexxxlxxxA
+>d2odka1 d.306.1.1 (A:1-51) Hypothetical protein NE2111 {Nitrosomonas europaea [TaxId: 915]}
+MHVWPVQDAKARFSEFLDACITEGPQIVSRRGAEEAVLVPIGEWRRLQAAA
+>gi|160903202|ref|YP_001568783.1|(9-51:84) prevent-host-death family protein [Petrotoga mobilis SJ95] >gi|160360846|gb|ABX32460.1| prevent-host-death family protein [Petrotoga mobilis SJ95]  E=0.0001 s/c=1.14 id=20% cov=86%
+---YSLAEAKAKLSQVVDEVENKD-IVITKNGVPKVVLLDYDKFVKL----
+>gi|37525726|ref|NP_929070.1|(1-48:86) hypothetical protein plu1792 [Photorhabdus luminescens subsp. laumondii TTO1] >gi|36785155|emb|CAE14085.1| unnamed protein product [Photorhabdus luminescens subsp. laumondii TTO1]  E=3e-06 s/c=1.14 id=22% cov=96%
+MYELSANEVKTHFGDMLLRAQR-APIQINKNGKLVAVVLSIDEYENIEA--
+>gi|257792087|ref|YP_003182693.1|(1-50:91) prevent-host-death family protein [Eggerthella lenta DSM 2243] >gi|317488707|ref|ZP_07947244.1| prevent-host-death family protein [Eggerthella sp. 1_3_56FAA] >gi|257475984|gb|ACV56304.1| prevent-host-death family protein [Eggerthella lenta DSM 2243] >gi|316912174|gb|EFV33746.1| prevent-host-death family protein [Eggerthella sp. 1_3_56FAA]  E=0.0003 s/c=0.96 id=18% cov=100%
+MNIRPISDLRNRYADVERDVIEGGPVFLTKNGYGSMVVMSVEQFEHINGG-
+>gi|167645741|ref|YP_001683404.1|(1-51:83) prevent-host-death family protein [Caulobacter sp. K31] >gi|167348171|gb|ABZ70906.1| prevent-host-death family protein [Caulobacter sp. K31]  E=3e-08 s/c=1.20 id=27% cov=102%
+MSTYSVADAKNGLPRLIDRALEGEEVIIARHGKPVAELRPVVTPSRKTPPA
+>gi|289664119|ref|ZP_06485700.1|(1-52:83) hypothetical protein XcampvN_13880 [Xanthomonas campestris pv. vasculorum NCPPB 702]  E=4e-06 s/c=1.04 id=21% cov=102%
+MNIITYSAARASLAETMDRVVNdHEPVIITRSGKRAVVMMSLDDYKAMKETA
+>gi|428777796|ref|YP_007169583.1|(2-49:88) prevent-host-death family protein [Halothece sp. PCC 7418] >gi|428692075|gb|AFZ45369.1| prevent-host-death family protein [Halothece sp. PCC 7418]  E=3e-05 s/c=1.07 id=16% cov=96%
+MKSYTLTQTRNQHGEVFDRAKI-EPVLVTKQERPSHVILSAEAYQKLIA--
+>gi|326384830|ref|ZP_08206506.1|(1-53:83) prevent-host-death family protein [Gordonia neofelifaecis NRRL B-59395] >gi|326196492|gb|EGD53690.1| prevent-host-death family protein [Gordonia neofelifaecis NRRL B-59395]  E=7e-05 s/c=0.94 id=19% cov=102%
+MTTVGLRELRQDASNLVRRVEGGDEVTITVSGRPVARLVSAApkAWREWSAVA
+>gi|194335870|ref|YP_002017664.1|(1-51:80) prevent-host-death family protein [Pelodictyon phaeoclathratiforme BU-1] >gi|194308347|gb|ACF43047.1| prevent-host-death family protein [Pelodictyon phaeoclathratiforme BU-1]  E=0.0009 s/c=0.91 id=22% cov=96%
+MKTLPVGEVKAQLSEILEKVKQGESFGILygKKKRPIAMIVPYLDSEKKK---
+>gi|350564753|ref|ZP_08933569.1|(1-50:86) prevent-host-death family protein [Thioalkalimicrobium aerophilum AL3] >gi|349777455|gb|EGZ31819.1| prevent-host-death family protein [Thioalkalimicrobium aerophilum AL3]  E=0.0006 s/c=0.94 id=16% cov=96%
+MTTITATEARKSFFEIIKQANQQHEIIQVQHKSGNAIIMSADDYESLQ---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	5661	0	0	
+
+H 2    4223	*	6437	4029	*	*	4516	5059	2094	*	5426	2931	*	3080	3107	4374	3310	*	*	5164	2
+       0	*	*	*	*	*	*	5695	0	0	
+
+V 3    4973	*	*	3954	6771	*	*	2872	4205	6375	6787	5416	*	3721	5238	2486	1577	4538	*	*	3
+       0	*	*	*	*	*	*	5696	0	0	
+
+W 4    4661	*	*	6819	3910	*	6356	2045	*	2601	4368	*	*	*	6324	6430	6474	2593	3579	2914	4
+       0	*	*	*	*	*	*	5926	0	0	
+
+P 5    *	*	6116	6087	*	5177	*	6552	6315	*	*	2583	2391	4170	6509	2043	1981	*	*	*	5
+       0	*	*	*	*	*	*	5817	0	0	
+
+V 6    2450	*	*	*	3785	*	6394	1995	*	2742	6716	*	*	*	*	5324	4577	2602	6157	3696	6
+       0	*	*	*	*	*	*	5853	0	0	
+
+Q 7    3226	*	*	6561	5778	5672	3867	*	4854	*	*	3986	6166	3702	2858	2671	1845	*	*	6116	7
+       0	*	*	*	*	*	*	5851	0	0	
+
+D 8    5385	*	1942	933	*	*	*	*	5629	*	*	5680	*	3582	6500	5578	4769	*	*	*	8
+       0	*	*	*	*	*	*	5876	0	0	
+
+A 9    650	*	*	*	*	6233	*	4764	*	2649	5423	*	*	*	*	*	5872	3147	*	*	9
+       0	*	*	*	*	*	*	5877	0	0	
+
+K 10   *	6307	*	6770	*	6364	5874	*	1452	*	*	4613	*	4195	1111	6693	5999	*	*	*	10
+       0	*	*	*	*	*	*	5877	0	0	
+
+A 11   2082	*	4802	5641	*	5716	*	6748	3862	6912	6474	2178	6586	3247	5788	3689	2722	*	*	7073	11
+       0	*	*	*	*	*	*	5877	0	0	
+
+R 12   6058	*	5727	4824	*	5185	2534	*	2881	5360	*	2281	*	3121	2486	4349	5492	*	*	*	12
+       19	6234	*	0	*	*	*	5877	1000	0	
+
+F 13   6439	*	*	*	1526	*	5872	4928	*	948	*	*	*	*	*	5409	6827	6382	*	5126	13
+       0	*	*	*	*	*	*	5877	0	0	
+
+S 14   2954	*	6179	*	4766	2564	*	*	4324	6109	*	6444	3807	*	6633	1218	4399	*	*	5916	14
+       0	*	*	*	*	*	*	5877	0	0	
+
+E 15   3795	*	3349	1560	7061	4905	*	*	3832	*	6264	4537	*	3388	3812	3068	5365	*	*	6234	15
+       0	*	*	*	*	*	*	5877	0	0	
+
+F 16   6859	*	*	*	5114	*	7036	2549	*	1123	6759	*	*	*	*	*	5794	2245	6583	3712	16
+       0	*	*	*	*	*	*	5877	0	0	
+
+L 17   5892	5802	*	5126	5312	6058	6680	2150	6234	1433	3661	*	6109	*	*	*	6382	2538	*	*	17
+       18	*	6339	*	*	*	*	5877	0	0	
+
+D 18   *	*	1340	2706	*	*	5395	*	3111	5930	6534	3612	*	4217	3402	4437	*	*	*	6868	18
+       0	*	*	*	*	0	*	5864	0	1000	
+
+A 19   3852	*	5057	3332	6533	6771	*	6684	3945	3380	5221	5205	*	2957	1787	3917	3797	*	*	*	19
+       71	5180	5605	0	*	*	*	5877	2059	0	
+
+C 20   1331	5010	*	*	*	6193	*	*	*	6312	5868	*	*	*	*	5087	*	1004	*	*	20
+       130	3679	6954	0	*	0	*	5875	3089	1614	
+
+I 21   3379	6860	6032	2065	6361	6640	5981	4321	3609	4018	5748	5671	*	2916	4169	3994	4544	3693	*	*	21
+       80	5050	5403	0	*	0	*	5877	2384	1000	
+
+T 22   3326	*	3543	4058	7167	6417	5262	5847	3595	4427	*	3452	*	2659	3144	3219	3901	6520	*	6044	22
+       133	6946	3648	0	*	0	*	5857	1000	1741	
+
+E 23   5935	*	3546	3183	*	885	2942	*	*	*	*	4315	*	5609	*	5255	5694	*	*	*	23
+       224	3757	3838	0	*	0	*	5832	3036	3044	
+
+G 24   3753	*	4277	972	*	3482	5051	5807	4590	*	6551	4487	*	3965	6036	6243	5802	6847	*	6509	24
+       0	*	*	*	*	0	*	5846	0	2644	
+
+P 25   4853	*	4397	2017	*	*	*	5570	6145	*	*	*	1160	*	3925	4388	4321	5360	*	*	25
+       33	5486	*	0	*	*	*	5877	1952	0	
+
+Q 26   6906	*	*	*	3991	*	*	2014	6872	4384	*	*	*	3481	5678	*	4575	1078	*	*	26
+       0	*	*	*	*	*	*	5877	0	0	
+
+I 27   5285	6684	5615	3223	3781	5503	*	1915	6586	4201	*	*	*	4856	5664	7061	3583	1991	*	5996	27
+       31	5540	*	0	*	*	*	5877	1660	0	
+
+V 28   *	*	*	*	*	*	*	498	*	3451	*	*	*	5675	*	*	*	2468	*	*	28
+       9	*	7252	*	*	*	*	5877	0	0	
+
+S 29   3885	7020	*	4439	*	*	5773	*	6190	4443	5591	5764	*	5442	5942	3770	729	4876	*	6462	29
+       45	5487	6884	1000	1000	0	*	5880	1498	1000	
+
+R 30   6886	*	5214	5186	*	*	5101	*	1771	*	*	5455	*	3853	1111	5600	*	4657	*	*	30
+       0	*	*	*	*	0	*	5878	0	1000	
+
+R 31   4652	*	4274	4946	7059	4551	2101	6748	3649	*	*	2657	*	4180	2136	4758	*	*	*	5295	31
+       28	*	5703	*	*	*	*	5877	0	0	
+
+G 32   6609	*	4074	4325	*	666	6246	*	4396	*	*	3248	*	6453	5654	4242	*	*	*	*	32
+       14	*	6686	*	*	0	*	5866	0	1603	
+
+A 33   4255	*	*	4075	6677	4341	4391	4870	1514	6133	*	5725	*	4486	2110	5673	5097	6750	*	5077	33
+       0	*	*	*	*	0	*	5878	0	1000	
+
+E 34   4939	*	4001	3294	*	3603	*	*	4035	6015	*	5383	1180	6868	4654	5032	4245	4405	*	*	34
+       11	*	7024	*	*	*	*	5877	0	0	
+
+E 35   2874	6388	5241	5913	*	5698	*	3175	4519	4621	*	4387	7048	5131	5624	3382	4633	1540	*	6627	35
+       0	*	*	*	*	*	0	5875	0	1000	
+
+A 36   631	*	*	*	4898	5609	5867	6127	*	*	4719	*	*	*	*	*	*	2114	*	*	36
+       0	*	*	*	*	*	0	5875	0	1000	
+
+V 37   3448	*	*	6448	6175	*	*	3917	3232	5677	5573	*	*	6388	3334	*	5125	950	*	6335	37
+       0	*	*	*	*	*	0	5875	0	1000	
+
+L 38   6108	*	*	*	*	*	*	1871	*	999	4754	*	*	*	*	*	*	2518	*	*	38
+       0	*	*	*	*	*	0	5875	0	1000	
+
+V 39   6523	*	*	*	6644	*	*	1865	*	2227	3064	*	*	6144	6448	5017	5412	1779	*	*	39
+       16	6523	*	1585	585	*	0	5875	1000	1000	
+
+P 40   4613	*	4311	*	*	4758	*	*	*	*	*	6330	2009	*	7104	829	5232	6127	*	*	40
+       0	*	*	*	*	0	*	5875	0	1000	
+
+I 41   2677	6533	*	4001	3835	*	*	2619	4201	3575	3553	*	4115	6957	5828	*	4629	2921	*	4105	41
+       13	6843	*	1585	585	*	*	5877	1000	0	
+
+G 42   3178	*	2208	1575	*	4881	6290	*	3610	6521	*	5727	6585	4161	5865	4045	6041	5650	*	*	42
+       44	5050	*	1000	1000	*	*	5895	2118	0	
+
+E 43   3853	*	2128	1302	6349	*	4959	*	6393	5232	6821	6402	5565	4020	4340	4999	5082	*	*	*	43
+       0	*	*	*	*	*	*	5896	0	0	
+
+W 44   *	*	5420	6620	2323	7123	7205	*	*	3438	*	6318	5030	5194	5777	5301	6673	6601	3415	1209	44
+       0	*	*	*	*	*	*	5843	0	0	
+
+R 45   3984	*	3072	1535	*	*	5463	*	3339	6467	*	3723	6848	4290	2848	5600	5406	*	5548	*	45
+       0	*	*	*	*	*	*	5830	0	0	
+
+R 46   2687	*	6562	3780	6654	5991	6541	*	3012	5410	*	5082	6654	3696	1707	2808	*	6403	*	*	46
+       0	*	*	*	*	*	*	5761	0	0	
+
+L 47   *	*	*	*	6198	*	*	2985	4271	724	3882	*	6737	*	6367	*	6611	4682	5267	4707	47
+       0	*	*	*	*	*	*	5711	0	0	
+
+Q 48   4578	*	6179	3071	*	*	6351	4922	2717	4513	*	6087	4677	2287	3992	3499	2628	6314	*	*	48
+       0	*	*	*	*	*	*	5657	0	0	
+
+A 49   1692	*	5078	2834	*	2755	*	*	3927	*	*	*	3726	3411	5040	4228	4988	5508	*	*	49
+       0	*	*	*	*	*	*	5334	0	0	
+
+A 50   1357	*	*	3903	*	4203	4421	*	*	5696	*	5483	5337	5312	*	2797	2504	5064	*	*	50
+       0	*	*	*	*	*	*	5156	0	0	
+
+A 51   77	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4272	*	*	*	*	51
+       0	*	*	0	*	*	*	4562	0	0	
+
+//

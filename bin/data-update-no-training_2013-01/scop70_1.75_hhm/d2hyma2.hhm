@@ -1,0 +1,364 @@
+HHsearch 1.5
+NAME  d2hyma2 b.1.2.1 (A:110-212) Interferon-alpha/beta receptor beta chain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   b.1.2.1
+FILE  d2hyma2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2hyma2.a3m -v 1 
+DATE  Tue Jan 22 07:24:04 2013
+LENG  103 match states, 103 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEEEEECCCCCHHHCCCCCCEEEEECCCCHHHHCCCCCCCCCCCCHHHHHHHHCCCCCCEEEEEEECCCCCCCCCCCEEEEEECCCCCC
+CCC
+>ss_conf
+9720000012158888518726211244321788742221033308745663226364321231699764589987324478656785047864676556
+689
+>Consensus
+PeFeIvgftdhINVxvkFPpvxxexlxxxlsLviEexsxxivkkHkpxixxnxtgnFtyVidxLiPNtNYCVSVYfxxxxxxxxixSPlKCtxlqpxqes
+xxs
+>d2hyma2 b.1.2.1 (A:110-212) Interferon-alpha/beta receptor beta chain {Human (Homo sapiens) [TaxId: 9606]}
+PEFEIVGFTNHINVMVKFPSIVEEELQFDLSLVIEEQSEGIVKKHKPEIKGNMSGNFTYIIDKLIPNTNYCVSVYLEHSDEQAVIKSPLKCTLLPPGQES
+EFS
+>gi|160358845|ref|NP_034639.2|(137-239:513) interferon alpha/beta receptor 2 isoform a precursor [Mus musculus] >gi|341940832|sp|O35664.2|INAR2_MOUSE RecName: Full=Interferon alpha/beta receptor 2; Short=IFN-R-2; Short=IFN-alpha/beta receptor 2; AltName: Full=Type I interferon receptor 2; Flags: Precursor >gi|14718999|gb|AAK73024.1|AF367979_3 type I interferon alpha/beta receptor 2c precursor [Mus musculus] >gi|48735217|gb|AAH71225.1| Interferon (alpha and beta) receptor 2 [Mus musculus] >gi|74142267|dbj|BAE31897.1| unnamed protein product [Mus musculus] >gi|74195728|dbj|BAE30430.1| unnamed protein product [Mus musculus] >gi|74225256|dbj|BAE31563.1| unnamed protein product [Mus musculus] >gi|74226419|dbj|BAE23909.1| unnamed protein product [Mus musculus] >gi|148671884|gb|EDL03831.1| interferon (alpha and beta) receptor 2, isoform CRA_a [Mus musculus]  E=4e-33 s/c=1.40 id=51% cov=97%
+PEFEIVGFTDHINVTMEFPPvtskIIQEKMKTTPFVIKEQIGDSVRKKHEPKVN-NVTGNFTFVLRDLLPKTNYCVSLYF---DDDPAIKSPLKCIVLQP
+GQESGLS
+>gi|348563044|ref|XP_003467318.1|(294-382:626) PREDICTED: interferon alpha/beta receptor 2-like [Cavia porcellus]   E=6e-25 s/c=1.30 id=52% cov=83%
+PDFEVVGSADHISVTVSFPSLAPmvykEDLRDHASLVIEEHLENNVKRHEPPINGSFIGNFSYVLNDLIPNTNYCVSVYFESIRFTPTI-----------
+-------
+>gi|301768427|ref|XP_002919635.1|(137-244:520) PREDICTED: interferon alpha/beta receptor 2-like [Ailuropoda melanoleuca]  E=8e-41 s/c=1.56 id=58% cov=101%
+PEFDIVDFTDHINVNVNFPPVIPkildgKVLQFYLPLIIEEQSGGIVKKYNPTLDENVTGNFTYVIDNLLPNTNYCISVYFKHRNLEEIHRSPVKCTLLP
+PAQDTGSS
+>gi|417402284|gb|JAA47994.1|(137-243:523) Putative interferon alpha/beta receptor 2 [Desmodus rotundus]   E=4e-39 s/c=1.53 id=57% cov=100%
+PEFEIAGFTDHIHVTLEFPPTLPKgptgqGPWSHLSLVIEEQLEGIVKEHKLKITEDTKGNFTYVLDKLIPNTTYCVSVYFDPRDIQRIIRSPLKCIHLQ
+PARESGS-
+>gi|354466338|ref|XP_003495631.1|(270-378:656) PREDICTED: interferon alpha/beta receptor 2-like [Cricetulus griseus]  E=9e-38 s/c=1.46 id=54% cov=100%
+PEFEVVGFTDHINVTMKFPPVTPKifgesiwEMLGYKSLVIREQAGQSIKLHKPTMK-SITGNFTYVLRDLLPKTNYCVSVYFEAETLETSIKSPFKCTA
+LQPDQESGSS
+>gi|351704684|gb|EHB07603.1|(160-264:548) Interferon-alpha/beta receptor beta chain [Heterocephalus glaber]   E=3e-37 s/c=1.50 id=54% cov=99%
+PDFGIIGFADHINVVVQFPPVAPtiygEDLHDQASLIIKEHSEDIDKRHEPKISGSFSGNFSYVINNLIPNTNYCISVYFEPRSSRTITKPPLKCVLLQP
+AQESG--
+>gi|43429298|gb|AAS46600.1|(133-231:508) interferon receptor 2 [Gallus gallus]   E=2e-19 s/c=0.99 id=31% cov=90%
+PEFNLSSCVHCINITIKLPPTHLRKNGKLLSLFdiynkvnYEITLRTVGEEHKRPPEKVTEEPFSIVIEELYPNRNYCVSVMVTASLNKHSIPSAWKCI-
+----------
+>gi|313762877|gb|ADR80133.1|(138-245:545) type I interferon receptor [Sus scrofa]   E=7e-37 s/c=1.44 id=62% cov=101%
+PDFEVAGFTDHINVNVNFQSVVsktlnEEELQFYLVQVIEKPSGGIAKKHKPRIKGNITENFNYVIDKLIPNTNYCVSVYFEPKDQNKINRSPLKCTFIQ
+RESESSES
+>gi|57164351|ref|NP_001009342.1|(137-242:536) interferon alpha/beta receptor 2 precursor [Ovis aries] >gi|6016383|sp|Q95207.2|INAR2_SHEEP RecName: Full=Interferon alpha/beta receptor 2; Short=IFN-R-2; Short=IFN-alpha/beta receptor 2; AltName: Full=Type I interferon receptor 2; Flags: Precursor >gi|2612836|gb|AAB84232.1| interferon alpha/beta receptor-2 [Ovis aries]  E=1e-36 s/c=1.46 id=59% cov=100%
+PKFEIVDFTNNISVNVKFrldsPRIPSEELQFYLA-FIEEHAGNSVKRHQPQITGNITENFNYVIDKLIPNTNYCISVYFEPKDPRKINRSPLKCILFRP
+RRESESS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2636	0	0	
+
+E 2    *	*	2112	473	*	*	*	*	4381	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2636	0	0	
+
+F 3    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2636	0	0	
+
+E 4    *	*	2824	807	*	4125	*	*	4259	*	*	2492	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2636	0	0	
+
+I 5    *	*	*	*	*	*	*	480	*	2822	*	*	*	*	*	*	*	2822	*	*	5
+       0	*	*	*	*	*	*	2636	0	0	
+
+V 6    2863	*	*	*	*	*	*	3191	*	*	*	*	*	*	*	2492	*	798	*	*	6
+       0	*	*	*	*	*	*	2636	0	0	
+
+G 7    *	*	2593	*	*	692	*	*	*	*	*	4735	*	*	*	2492	*	*	*	*	7
+       0	*	*	*	*	*	*	2636	0	0	
+
+F 8    *	2492	*	*	525	*	*	*	*	*	*	*	*	*	*	2971	*	*	*	*	8
+       0	*	*	*	*	*	*	2636	0	0	
+
+T 9    3270	*	*	*	*	*	*	*	4259	3497	4439	*	*	*	*	*	689	3487	*	*	9
+       0	*	*	*	*	*	*	2636	0	0	
+
+N 10   *	*	766	*	*	4439	3487	*	*	*	*	2681	*	*	3497	4948	*	*	*	*	10
+       0	*	*	*	*	*	*	2636	0	0	
+
+H 11   *	2492	*	*	*	*	447	*	*	4616	*	4381	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2636	0	0	
+
+I 12   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2636	0	0	
+
+N 13   *	*	*	*	*	*	4316	*	*	*	*	225	*	*	*	3406	*	*	*	*	13
+       0	*	*	*	*	*	*	2636	0	0	
+
+V 14   *	*	*	*	*	*	*	2492	*	*	*	*	*	*	*	*	*	282	*	*	14
+       0	*	*	*	*	*	*	2636	0	0	
+
+M 15   *	*	*	*	*	*	*	2652	*	3933	3513	2546	*	*	*	*	1123	4125	*	*	15
+       0	*	*	*	*	*	*	2636	0	0	
+
+V 16   *	*	*	*	*	*	*	2492	*	4316	2608	*	*	*	*	*	*	718	*	*	16
+       0	*	*	*	*	*	*	2636	0	0	
+
+K 17   *	*	*	2300	*	*	*	*	811	*	*	3020	*	4125	*	4432	*	*	*	*	17
+       0	*	*	*	*	*	*	2636	0	0	
+
+F 18   *	*	*	*	282	*	*	*	*	2492	*	*	*	*	*	*	*	*	*	*	18
+       143	3410	*	2000	415	*	*	2636	1327	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	69	4427	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2636	0	0	
+
+S 20   *	*	*	*	*	*	*	*	4439	4792	*	*	496	*	4381	2638	*	*	*	*	20
+       177	3115	*	2000	415	*	*	2636	1276	0	
+
+I 21   *	*	*	*	*	*	*	1868	*	3343	*	*	*	*	*	*	2133	1324	*	*	21
+       0	*	*	*	*	*	*	2636	0	0	
+
+V 22   2795	*	*	*	4259	*	2492	2028	*	3511	*	*	4381	*	*	4439	3562	3129	*	*	22
+       69	4427	*	2322	322	*	*	2636	1000	0	
+
+E 23   *	*	*	2733	*	4259	*	*	*	2492	*	*	1113	3983	*	4381	*	4439	*	*	23
+       587	1581	*	2113	379	*	*	2636	1874	0	
+
+E 24   *	*	4439	914	*	*	*	*	2026	*	*	*	*	*	2492	*	*	*	*	*	24
+       198	2964	*	2526	275	*	*	2636	1532	0	
+
+E 25   *	*	3270	1393	*	3535	*	*	2714	3783	*	4738	*	*	4439	4259	*	3866	*	*	25
+       0	*	*	*	*	*	*	2636	0	0	
+
+L 26   *	*	*	*	*	*	*	4627	*	690	3161	2492	4316	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2636	0	0	
+
+Q 27   *	*	*	*	*	2492	4125	*	3433	4363	*	*	*	1221	3435	*	*	*	3287	*	27
+       0	*	*	*	*	*	*	2636	0	0	
+
+F 28   *	*	3270	*	1878	4363	3621	*	2121	*	*	*	*	*	4439	4316	3312	*	*	3889	28
+       0	*	*	*	*	*	*	2636	0	0	
+
+D 29   *	*	3267	*	*	*	2180	*	*	2492	*	*	*	3399	4259	4616	3983	*	*	2019	29
+       0	*	*	*	*	*	*	2636	0	0	
+
+L 30   3270	*	*	*	*	*	*	*	4363	350	*	*	3983	*	*	*	*	*	*	*	30
+       77	4259	*	1585	585	*	*	2636	1000	0	
+
+S 31   4381	*	*	*	3983	*	*	*	*	*	*	*	3750	*	*	381	*	4427	*	*	31
+       71	*	4381	*	*	*	*	2636	0	0	
+
+L 32   *	*	*	*	4192	*	*	*	*	270	*	*	*	4300	*	*	*	3938	*	*	32
+       0	*	*	*	*	0	*	2616	0	1000	
+
+V 33   *	4627	*	*	2147	*	*	1736	*	*	*	*	*	*	*	*	*	1206	*	*	33
+       282	2492	*	2807	222	*	*	2636	1111	0	
+
+I 34   *	*	*	*	*	*	*	398	3983	*	*	*	*	*	*	*	*	*	*	2492	34
+       0	*	*	*	*	*	*	2636	0	0	
+
+E 35   *	*	*	299	*	*	*	*	3354	*	*	*	*	*	4363	4616	*	*	*	*	35
+       0	*	*	*	*	*	*	2636	0	0	
+
+E 36   *	*	*	585	*	*	*	2492	4427	*	*	*	*	3193	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2636	0	0	
+
+Q 37   *	*	*	3091	*	*	2721	3983	4738	*	*	*	4427	1474	4439	*	2492	*	*	*	37
+       0	*	*	*	*	*	*	2636	0	0	
+
+S 38   3372	*	*	*	*	3983	*	*	*	1866	*	*	*	*	*	961	4259	*	*	*	38
+       0	*	*	*	*	*	*	2636	0	0	
+
+E 39   *	*	3983	1490	*	1464	*	*	3497	*	4627	*	*	*	3487	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2636	0	0	
+
+G 40   3497	*	3191	3580	*	1793	*	*	3889	*	*	3015	*	4363	*	3312	3487	*	*	*	40
+       0	*	*	*	*	*	*	2636	0	0	
+
+I 41   *	*	*	*	*	*	*	826	*	*	*	4432	*	*	*	2749	*	2053	*	*	41
+       0	*	*	*	*	*	*	2636	0	0	
+
+V 42   4427	*	2777	*	*	3487	*	3310	*	*	*	*	*	*	3983	*	*	851	*	*	42
+       0	*	*	*	*	*	*	2636	0	0	
+
+K 43   *	*	*	2492	*	*	*	*	377	*	*	*	*	*	4259	*	*	*	*	*	43
+       77	4259	*	0	*	*	*	2636	1000	0	
+
+K 44   *	*	*	2843	*	*	*	*	884	3539	4627	*	*	*	2721	*	4616	*	*	*	44
+       0	*	*	*	*	*	*	2636	0	0	
+
+H 45   *	*	*	*	*	*	56	*	*	*	*	*	*	*	*	*	*	*	*	4706	45
+       0	*	*	*	*	*	*	2640	0	0	
+
+K 46   *	*	*	2060	*	*	4854	*	897	*	*	3264	*	4396	4759	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2640	0	0	
+
+P 47   *	*	*	*	*	*	*	*	*	4342	*	*	370	*	3494	*	3504	*	*	*	47
+       0	*	*	*	*	*	*	2640	0	0	
+
+E 48   4755	*	*	3195	*	*	*	*	1319	*	*	*	2899	3337	4446	3504	3542	*	*	*	48
+       0	*	*	*	*	*	*	2640	0	0	
+
+I 49   *	3504	*	*	*	*	*	935	*	2850	3336	*	3494	*	*	*	*	3999	*	*	49
+       0	*	*	*	*	*	*	2640	0	0	
+
+K 50   *	*	3155	2499	*	*	*	*	2257	*	*	1929	*	*	*	4142	2455	*	*	*	50
+       254	*	2630	*	*	*	*	2640	0	0	
+
+G 51   *	*	*	2147	*	909	*	*	2288	*	*	*	*	*	4762	*	*	*	*	*	51
+       0	*	*	*	*	0	*	2495	0	1451	
+
+N 52   *	*	4342	*	*	*	4755	3504	*	*	*	768	*	*	*	2741	*	3494	*	*	52
+       0	*	*	*	*	*	*	2640	0	0	
+
+M 53   *	*	*	*	3293	*	*	2033	*	*	3635	*	*	*	*	*	1563	2091	*	*	53
+       0	*	*	*	*	*	*	2640	0	0	
+
+S 54   *	*	*	2499	*	4637	*	3096	4342	*	*	*	*	*	*	2824	1073	*	*	*	54
+       0	*	*	*	*	*	*	2640	0	0	
+
+G 55   *	*	3504	2457	*	455	*	*	*	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2640	0	0	
+
+N 56   *	*	3632	*	*	*	*	*	*	*	*	430	2499	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2640	0	0	
+
+F 57   *	*	*	*	105	*	*	4824	*	*	*	*	*	*	*	*	*	4854	*	*	57
+       0	*	*	*	*	*	*	2640	0	0	
+
+T 58   *	*	*	*	*	*	*	*	*	*	*	2907	*	*	*	1648	994	4462	*	*	58
+       0	*	*	*	*	*	*	2640	0	0	
+
+Y 59   *	*	*	*	3999	*	*	3494	*	*	*	*	*	*	*	*	3504	*	*	395	59
+       0	*	*	*	*	*	*	2640	0	0	
+
+I 60   *	*	*	*	*	*	*	4343	*	*	*	*	*	*	*	*	*	73	*	*	60
+       0	*	*	*	*	*	*	2640	0	0	
+
+I 61   *	*	*	*	*	*	*	558	*	1640	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2640	0	0	
+
+D 62   *	*	838	2499	*	*	*	*	*	*	*	3293	*	*	2630	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2640	0	0	
+
+K 63   *	*	2273	2499	*	*	*	*	1055	*	*	2890	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	2640	0	0	
+
+L 64   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	2640	0	0	
+
+I 65   *	*	*	*	*	*	*	843	*	1912	*	*	*	*	*	*	*	*	*	2499	65
+       0	*	*	*	*	*	*	2640	0	0	
+
+P 66   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	2640	0	0	
+
+N 67   *	*	*	*	*	*	*	*	2630	*	*	254	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	2640	0	0	
+
+T 68   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2499	4637	353	*	*	*	68
+       0	*	*	*	*	*	*	2640	0	0	
+
+N 69   *	*	*	4759	*	*	*	*	*	*	*	130	*	*	*	*	4342	*	*	*	69
+       0	*	*	*	*	*	*	2640	0	0	
+
+Y 70   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	70
+       0	*	*	*	*	*	*	2640	0	0	
+
+C 71   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2640	0	0	
+
+V 72   *	*	*	*	*	*	*	2455	*	*	*	*	*	*	*	*	*	291	*	*	72
+       0	*	*	*	*	*	*	2640	0	0	
+
+S 73   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	73
+       0	*	*	*	*	*	*	2640	0	0	
+
+V 74   *	*	*	*	*	*	*	*	*	3999	*	*	*	*	*	*	*	93	*	*	74
+       0	*	*	*	*	*	*	2640	0	0	
+
+Y 75   *	*	*	*	*	*	*	*	*	*	2499	*	*	*	*	*	*	*	*	281	75
+       0	*	*	*	*	*	*	2640	0	0	
+
+L 76   *	*	*	*	472	*	*	*	*	3289	*	*	*	*	*	*	*	2499	*	*	76
+       175	*	3133	*	*	*	*	2640	0	0	
+
+E 77   *	*	3415	1062	*	*	*	*	2671	*	4618	*	*	*	*	*	2358	4856	*	*	77
+       0	*	*	*	*	*	0	2541	0	1278	
+
+H 78   1945	*	*	*	*	*	3354	*	*	*	*	*	1065	*	*	2602	*	*	*	*	78
+       0	*	*	*	*	*	0	2541	0	1278	
+
+S 79   *	*	*	3953	*	5551	*	4245	1327	*	*	*	*	*	2099	2124	*	*	*	*	79
+       0	*	*	*	*	0	*	2541	0	1278	
+
+D 80   *	*	1297	4759	4637	*	*	*	*	2499	*	2742	*	*	4463	4142	4394	*	*	4645	80
+       0	*	*	*	*	*	*	2640	0	0	
+
+E 81   4759	*	3133	4343	4463	*	*	4342	*	2077	3742	2499	4396	3153	*	4142	*	*	*	*	81
+       0	*	*	*	*	*	*	2640	0	0	
+
+Q 82   *	*	3353	2114	*	3272	*	*	2499	*	*	4446	*	3343	2742	*	3369	*	*	*	82
+       0	*	*	*	*	*	*	2640	0	0	
+
+A 83   2508	*	*	4706	*	*	2499	*	2940	*	*	*	2486	*	4342	*	1995	*	*	*	83
+       0	*	*	*	*	*	*	2640	0	0	
+
+V 84   3999	*	*	*	*	*	*	1531	*	*	*	*	4637	*	4645	2155	4463	2051	*	*	84
+       0	*	*	*	*	*	*	2640	0	0	
+
+I 85   *	*	*	*	*	*	3899	568	*	*	*	2967	*	*	3757	*	4142	*	*	*	85
+       0	*	*	*	*	*	*	2640	0	0	
+
+K 86   *	*	*	*	*	*	*	*	1325	*	*	*	2563	4507	1367	*	*	*	*	*	86
+       0	*	*	*	*	*	*	2608	0	0	
+
+S 87   *	*	*	*	*	*	*	*	*	*	*	*	3990	*	*	94	*	*	*	*	87
+       0	*	*	*	*	*	*	2608	0	0	
+
+P 88   2563	*	*	*	*	*	*	*	*	*	*	*	268	*	*	*	*	*	*	*	88
+       0	*	*	*	*	*	*	2608	0	0	
+
+L 89   *	*	*	*	4303	*	*	4716	*	737	*	*	*	*	*	*	*	2816	2563	*	89
+       0	*	*	*	*	*	*	2608	0	0	
+
+K 90   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	2608	0	0	
+
+C 91   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	91
+       0	*	*	*	*	*	*	2608	0	0	
+
+T 92   *	*	*	*	*	*	*	1449	*	*	*	*	*	*	*	*	809	3990	*	*	92
+       0	*	*	*	*	*	*	2608	0	0	
+
+L 93   4041	*	*	*	2288	*	3931	*	*	927	*	*	*	*	*	*	*	2807	*	*	93
+       0	*	*	*	*	*	*	2224	0	0	
+
+L 94   *	*	*	*	3991	*	*	3957	*	268	*	*	*	*	4556	*	*	*	*	*	94
+       90	*	4041	*	*	*	*	2224	0	0	
+
+P 95   *	*	*	*	*	*	4271	*	*	*	*	*	3109	491	3051	*	*	*	*	*	95
+       0	*	*	*	*	0	*	2196	0	1000	
+
+P 96   *	*	*	*	*	*	*	*	*	4297	*	*	263	*	3957	4289	*	*	*	*	96
+       0	*	*	*	*	*	*	2224	0	0	
+
+G 97   2095	4556	2494	3957	*	1444	*	*	*	*	*	*	*	*	3133	*	*	*	*	*	97
+       0	*	*	*	*	*	*	2224	0	0	
+
+Q 98   *	*	*	*	*	*	*	*	*	4041	*	*	*	519	2496	3957	*	*	*	*	98
+       0	*	*	*	*	*	*	2224	0	0	
+
+E 99   *	*	3321	152	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	2221	0	0	
+
+S 100  *	*	*	*	*	*	*	*	*	*	*	*	3999	*	*	408	2445	*	*	*	100
+       0	*	*	*	*	*	*	2221	0	0	
+
+E 101  4342	*	*	1232	*	1136	*	*	*	*	*	*	*	*	*	3843	*	*	*	*	101
+       0	*	*	*	*	*	*	2221	0	0	
+
+F 102  *	*	*	3764	4457	*	*	*	*	1905	*	*	*	*	*	704	*	*	*	*	102
+       0	*	*	*	*	*	*	2161	0	0	
+
+S 103  3456	*	*	*	*	*	*	*	*	*	*	*	*	*	*	138	*	*	*	*	103
+       0	*	*	0	*	*	*	2101	0	0	
+
+//

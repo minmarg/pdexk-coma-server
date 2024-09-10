@@ -1,0 +1,112 @@
+HHsearch 1.5
+NAME  d2i9wa3 g.74.1.1 (A:159-183) Hypothetical protein Psyc2064 {Psychrobacter arcticus [TaxId: 334543]}
+FAM   g.74.1.1
+FILE  d2i9wa3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2i9wa3.a3m -v 1 
+DATE  Tue Jan 22 07:39:22 2013
+LENG  26 match states, 26 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCHHHHHHHCCCCC
+>ss_conf
+98787788656885257875100359
+>Consensus
+mxvtqkqpcicgsgekfkrccgxxlx
+>d2i9wa3 g.74.1.1 (A:159-183) Hypothetical protein Psyc2064 {Psychrobacter arcticus [TaxId: 334543]}
+MSVTQKQPCICGSGEKFKRCCGMYIX
+>gi|400288371|ref|ZP_10790403.1|(157-181:182) SecC motif-containing protein [Psychrobacter sp. PAMC 21119]   E=3e-05 s/c=2.08 id=81% cov=100%
+MTVSQKQPCICGSGEKFKRCCGGYL-
+>gi|333369000|ref|ZP_08461145.1|(170-194:194) SEC-C domain protein [Psychrobacter sp. 1501(2011)] >gi|332975631|gb|EGK12520.1| SEC-C domain protein [Psychrobacter sp. 1501(2011)]  E=5e-05 s/c=2.03 id=73% cov=100%
+LNVTQKQPCICGSGERFKRCCGQFL-
+>gi|148654088|ref|YP_001281181.1|(167-191:191) SecC motif-containing protein [Psychrobacter sp. PRwf-1] >gi|148573172|gb|ABQ95231.1| SEC-C motif domain protein [Psychrobacter sp. PRwf-1]  E=0.0001 s/c=1.97 id=73% cov=100%
+MGLSQKQPCLCGSGEKFKRCCGAYL-
+>gi|257453625|ref|ZP_05618915.1|(157-181:182) SEC-C motif domain protein [Enhydrobacter aerosaccus SK60] >gi|257449083|gb|EEV24036.1| SEC-C motif domain protein [Enhydrobacter aerosaccus SK60]  E=0.0003 s/c=1.92 id=73% cov=100%
+MPVTQKQPCPCGSGEKYKRCCGQFL-
+>gi|93007211|ref|YP_581648.1|(163-187:187) hypothetical protein Pcryo_2387 [Psychrobacter cryohalolentis K5] >gi|92394889|gb|ABE76164.1| conserved hypothetical protein [Psychrobacter cryohalolentis K5]  E=1e-05 s/c=2.12 id=88% cov=100%
+MTITQKQPCICGSGEKFKRCCGMYI-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	2445	293	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1377	0	0	
+
+S 2    *	*	*	*	*	2501	*	*	*	*	*	2445	2493	*	*	2721	1688	*	*	*	2
+       0	*	*	*	*	*	*	1377	0	0	
+
+V 3    *	*	*	*	*	*	*	2665	*	2501	*	*	*	*	*	*	*	587	*	*	3
+       0	*	*	*	*	*	*	1377	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1602	576	*	*	*	4
+       0	*	*	*	*	*	*	1377	0	0	
+
+Q 5    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1377	0	0	
+
+K 6    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1377	0	0	
+
+Q 7    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1377	0	0	
+
+P 8    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1377	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1377	0	0	
+
+I 10   *	*	*	*	*	*	*	631	*	2501	*	*	2493	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1377	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1377	0	0	
+
+G 12   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1377	0	0	
+
+S 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	13
+       0	*	*	*	*	*	*	1377	0	0	
+
+G 14   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1377	0	0	
+
+E 15   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1377	0	0	
+
+K 16   *	*	*	*	*	*	*	*	293	*	*	*	*	*	2445	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1377	0	0	
+
+F 17   *	*	*	*	282	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2493	17
+       0	*	*	*	*	*	*	1377	0	0	
+
+K 18   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1377	0	0	
+
+R 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1377	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1377	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1377	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1377	0	0	
+
+M 23   2501	*	*	*	*	2712	*	*	*	*	1693	*	*	1469	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1377	0	0	
+
+Y 24   *	*	*	*	1469	*	*	*	*	*	*	*	*	*	*	*	*	*	*	647	24
+       0	*	*	*	*	*	*	1377	0	0	
+
+I 25   *	*	*	*	*	*	*	1693	*	534	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1377	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

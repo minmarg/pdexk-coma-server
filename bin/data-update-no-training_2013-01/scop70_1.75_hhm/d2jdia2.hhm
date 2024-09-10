@@ -1,0 +1,253 @@
+HHsearch 1.5
+NAME  d2jdia2 b.49.1.1 (A:24-94) F1 ATP synthase alpha subunit, domain 1 {Cow (Bos taurus) [TaxId: 9913]}
+FAM   b.49.1.1
+FILE  d2jdia2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2jdia2.a3m -v 1 
+DATE  Tue Jan 22 09:06:11 2013
+LENG  71 match states, 71 columns in multiple alignment
+FILT  111 out of 1185 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CCCCCEEEEEECCCEEEEEECCCCCCCCEEECCCCCEEEEEECCCCCEEEEEECCCCCCCCCCEEEECCCC
+>ss_conf
+97531689984497998881587563325885899689998658885379894898980128688786569
+>Consensus
+exxevGxVxxvgDGIaxvxGLxxaxxxElvxfxxgxxGxvlnLexdxVgvvllgxxxxixeGxxVxrTGxv
+>d2jdia2 b.49.1.1 (A:24-94) F1 ATP synthase alpha subunit, domain 1 {Cow (Bos taurus) [TaxId: 9913]}
+DLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAI
+>gi|189485469|ref|YP_001956410.1|(22-92:513) F0F1-type ATP synthase alpha subunit [uncultured Termite group 1 bacterium phylotype Rs-D17] >gi|170287428|dbj|BAG13949.1| F0F1-type ATP synthase alpha subunit [uncultured Termite group 1 bacterium phylotype Rs-D17]  E=2e-13 s/c=1.10 id=33% cov=101%
+ELINFGVIETVGDEIVKASGLSNAGYYEEIEFEDESIGFVLNIDEDYVSIVLLKNSGHIVRGMKVKSTGKV
+>gi|224368444|ref|YP_002602607.1|(27-91:517) F0F1 ATP synthase subunit alpha [Desulfobacterium autotrophicum HRM2] >gi|223691160|gb|ACN14443.1| AtpA1 [Desulfobacterium autotrophicum HRM2]  E=1e-07 s/c=0.91 id=32% cov=93%
+--EDVGRVIEINGPIIQATGLANAFFEELVECRDGTLGIVASLMPRTTGIILLGKGHTLGAGMEIRR----
+>gi|53803182|ref|YP_115108.1|(34-102:503) ATP synthase F0F1 subunit alpha [Methylococcus capsulatus str. Bath] >gi|81680980|sp|Q603U2.1|ATPA2_METCA RecName: Full=ATP synthase subunit alpha 2; AltName: Full=ATP synthase F1 sector subunit alpha 2; AltName: Full=F-ATPase subunit alpha 2 >gi|53756943|gb|AAU91234.1| ATP synthase F1, alpha subunit [Methylococcus capsulatus str. Bath]  E=4e-14 s/c=1.16 id=27% cov=99%
+-IGEYGTVASVGDGIAWVTGLPSAAMDDVLMFEDGSWAVVFALTKKRIGAVLLHQSENLTAGTPARLAGR-
+>gi|116334909|ref|YP_802404.1|(3-70:481) F0F1-type ATP synthase alpha subunit [Candidatus Carsonella ruddii PV] >gi|123320793|sp|Q05FY3.1|ATPA_CARRP RecName: Full=ATP synthase subunit alpha; AltName: Full=ATP synthase F1 sector subunit alpha; AltName: Full=F-ATPase subunit alpha >gi|13272346|gb|AAK17109.1|AF291051_6 ATP synthase alpha subunit [Candidatus Carsonella ruddii] >gi|116235190|dbj|BAF35038.1| F0F1-type ATP synthase alpha subunit [Candidatus Carsonella ruddii PV]  E=2e-10 s/c=1.00 id=30% cov=94%
+-----GIINKIYDSVVEVLGLKNAKYGEMILFSKNIKGIVFSLNKKNVNIIILNNYNELTQGEKCYCTNKI
+>gi|16802138|ref|NP_463623.1|(20-88:498) F0F1 ATP synthase subunit alpha [Listeria monocytogenes EGD-e] >gi|47095161|ref|ZP_00232773.1| ATP synthase F1, alpha subunit [Listeria monocytogenes str. 1/2a F6854] >gi|254827522|ref|ZP_05232209.1| ATP synthase F1 sector subunit alpha [Listeria monocytogenes FSL N3-165] >gi|254913215|ref|ZP_05263227.1| ATP synthase F1 [Listeria monocytogenes J2818] >gi|254937596|ref|ZP_05269293.1| ATP synthase F1 sector subunit alpha [Listeria monocytogenes F6900] >gi|386045733|ref|YP_005964065.1| ATP synthase F1 alpha subunit [Listeria monocytogenes J0161] >gi|386049021|ref|YP_005967012.1| F0F1 ATP synthase subunit alpha [Listeria monocytogenes FSL R2-561] >gi|386052371|ref|YP_005969929.1| ATP synthase F1 subunit alpha [Listeria monocytogenes Finland 1998] >gi|404282519|ref|YP_006683416.1| ATP synthase F1 subunit alpha [Listeria monocytogenes SLCC2372] >gi|405757076|ref|YP_006686352.1| ATP synthase F1 subunit alpha [Listeria monocytogenes SLCC2479] >gi|81593023|sp|Q8YAM8.1|ATPA1_LISMO RecName: Full=ATP synthase subunit alpha 1; AltName: Full=ATP synthase F1 sector subunit alpha 1; AltName: Full=F-ATPase subunit alpha 1 >gi|16409449|emb|CAC98305.1| lmo0090 [Listeria monocytogenes EGD-e] >gi|47016506|gb|EAL07427.1| ATP synthase F1, alpha subunit [Listeria monocytogenes str. 1/2a F6854] >gi|258599898|gb|EEW13223.1| ATP synthase F1 sector subunit alpha [Listeria monocytogenes FSL N3-165] >gi|258610196|gb|EEW22804.1| ATP synthase F1 sector subunit alpha [Listeria monocytogenes F6900] >gi|293591215|gb|EFF99549.1| ATP synthase F1 [Listeria monocytogenes J2818] >gi|345532724|gb|AEO02165.1| ATP synthase F1 alpha subunit [Listeria monocytogenes J0161] >gi|346422867|gb|AEO24392.1| F0F1 ATP synthase subunit alpha [Listeria monocytogenes FSL R2-561] >gi|346645022|gb|AEO37647.1| ATP synthase F1, alpha subunit [Listeria monocytogenes Finland 1998] >gi|404232021|emb|CBY53424.1| ATP synthase F1, alpha subunit [Listeria monocytogenes SLCC2372] >gi|404234958|emb|CBY56360.1| ATP synthase F1, alpha subunit [Listeria monocytogenes SLCC2479]  E=4e-06 s/c=0.78 id=31% cov=99%
+-LKEHGRVEKISDGVIFCSGLENAALHQAVLIDERHRGVILELNEEFVGIGLIDKTNDILEGMHVGVSGK-
+>gi|384921708|ref|ZP_10021676.1|(22-92:513) H+-transporting two-sector ATPase, alpha/beta subunit [Citreicella sp. 357] >gi|384464425|gb|EIE49002.1| H+-transporting two-sector ATPase, alpha/beta subunit [Citreicella sp. 357]  E=5e-15 s/c=1.17 id=33% cov=101%
+EARETGAVTEIADGLAHVSGLSGARLGEVLHFCDGARGFVLNLGERDLQAAFLDPATGIEAGSAVTRTGQL
+>gi|215434289|gb|ACJ66836.1|(25-93:507) ATP synthase F1 alpha subunit [uncultured bacterium pSY1435]   E=7e-09 s/c=0.91 id=26% cov=99%
+-IDSIGRIVSVGDGVAVAVGLERPVLGELLIIGSDIAAHAEEVDSERVRLVLLAPG-AVRAGDPVRRAGHV
+>gi|407784993|ref|ZP_11132142.1|(19-91:442) flagellar protein export ATPase FliI [Celeribacter baekdonensis B30] >gi|407204695|gb|EKE74676.1| flagellar protein export ATPase FliI [Celeribacter baekdonensis B30]  E=5e-07 s/c=0.78 id=29% cov=99%
+-VHSVGRVIEVSRGVLTVSGLSDiAALGDLVEIGHGTqirRGEVLQLDKTSVTVLPDGGPDGLSIGDPVAHIGK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	1567	883	*	*	*	*	*	*	*	3056	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3853	0	0	
+
+L 2    4326	*	*	6079	4070	*	*	1524	5335	2317	*	*	*	*	4145	5756	5499	2464	*	5366	2
+       0	*	*	*	*	*	*	4466	0	0	
+
+E 3    5311	*	3851	1667	*	6050	5080	5949	3116	6712	*	6727	*	3362	2909	3068	4634	7496	*	*	3
+       0	*	*	*	*	*	*	4643	0	0	
+
+E 4    5147	*	3459	745	*	*	*	*	*	*	*	2906	*	4848	*	3704	4666	*	*	*	4
+       0	*	*	*	*	*	*	4709	0	0	
+
+T 5    6175	*	*	3881	4468	6298	5300	2089	*	*	*	6622	*	6232	4008	6085	3134	1465	*	5410	5
+       18	6374	*	1000	1000	*	*	4707	1000	0	
+
+G 6    *	*	*	*	*	33	*	*	*	*	*	*	*	*	*	5485	*	*	*	*	6
+       0	*	*	*	*	*	*	4878	0	0	
+
+R 7    6354	6483	*	4142	5016	*	4101	4129	3443	*	*	6232	*	6172	1934	7533	2628	2874	6829	3635	7
+       0	*	*	*	*	*	*	4878	0	0	
+
+V 8    5600	*	*	*	*	*	*	2059	*	6553	*	*	*	*	*	*	*	457	*	*	8
+       0	*	*	*	*	*	*	4865	0	0	
+
+L 9    4765	*	*	2713	7178	*	*	2392	4163	2818	5479	6565	*	6969	5836	6702	2927	2210	*	*	9
+       0	*	*	*	*	*	*	4865	0	0	
+
+S 10   3727	*	*	2492	5062	5510	5409	*	3823	*	*	5635	*	3618	3935	1886	3095	6133	*	4975	10
+       0	*	*	*	*	*	*	4883	0	0	
+
+I 11   4510	*	*	*	6173	*	*	2129	*	3610	6568	4843	*	*	*	6008	7118	979	*	4157	11
+       0	*	*	*	*	*	*	4883	0	0	
+
+G 12   2954	*	*	5303	*	950	6646	*	3256	6920	*	5463	*	5361	5168	3462	7106	5513	*	6573	12
+       0	*	*	*	*	*	*	4883	0	0	
+
+D 13   6590	*	249	6445	*	5962	5364	*	6704	*	*	5133	*	5745	4924	*	7231	*	*	*	13
+       0	*	*	*	*	*	*	4883	0	0	
+
+G 14   *	*	*	5187	*	221	*	*	*	*	*	4909	5962	*	*	4465	*	*	*	5626	14
+       0	*	*	*	*	*	*	4883	0	0	
+
+I 15   *	*	*	*	*	*	*	854	*	4904	*	*	*	*	*	*	4805	1405	*	*	15
+       0	*	*	*	*	*	*	4883	0	0	
+
+A 16   662	5961	*	*	*	*	*	3419	*	4768	*	*	*	*	*	7079	*	2222	*	*	16
+       0	*	*	*	*	*	*	4883	0	0	
+
+R 17   6646	*	*	4918	3709	*	3105	3646	3468	3695	7512	6182	*	3641	2491	6123	3617	4854	3198	*	17
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 18   2762	5399	*	*	*	*	*	1748	*	5296	*	*	*	*	*	*	*	984	*	*	18
+       0	*	*	*	*	*	*	4883	0	0	
+
+H 19   4351	6649	4063	3619	5519	5391	3648	6619	5791	5593	*	4741	*	6051	5127	1638	3868	5325	*	2947	19
+       0	*	*	*	*	*	*	4883	0	0	
+
+G 20   *	*	*	*	*	53	*	*	*	6360	*	*	*	*	5378	*	*	*	*	*	20
+       0	*	*	*	*	*	*	4883	0	0	
+
+L 21   *	*	*	*	*	*	*	4550	*	135	5193	*	*	*	*	5675	*	*	*	*	21
+       0	*	*	*	*	*	*	4883	0	0	
+
+R 22   4258	*	3558	3070	*	3885	*	*	4009	6304	*	3725	2094	6950	4492	2221	6068	*	6704	*	22
+       0	*	*	*	*	*	*	4883	0	0	
+
+N 23   5385	*	2872	5097	*	3772	4063	*	3727	5948	6980	1512	*	4459	4274	3206	5543	*	*	*	23
+       26	5795	*	0	*	*	*	4883	1000	0	
+
+V 24   1107	5046	*	*	*	*	*	3303	*	5013	*	*	5980	*	*	6173	5457	1640	*	*	24
+       0	*	*	*	*	*	*	4883	0	0	
+
+Q 25   3163	6690	*	4589	4131	3807	*	6161	3090	6922	2244	6043	*	4453	2516	4790	6189	3937	*	7147	25
+       0	*	*	*	*	*	*	4883	0	0	
+
+A 26   2871	*	*	*	3662	*	*	4762	*	2085	3584	5163	*	5059	6265	3380	4766	4768	*	2411	26
+       0	*	*	*	*	*	*	4883	0	0	
+
+E 27   *	*	3538	3297	*	1117	4653	*	*	*	5857	2984	*	7212	*	3436	*	*	*	3868	27
+       0	*	*	*	*	*	*	4883	0	0	
+
+E 28   6342	*	4452	123	*	*	*	*	*	*	*	*	*	5399	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	4883	0	0	
+
+M 29   5399	*	*	6345	*	*	*	3004	5030	1115	3127	*	5675	6812	5931	*	4963	2684	*	*	29
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 30   *	*	*	*	*	*	*	2486	*	1688	*	*	*	*	*	*	*	968	*	*	30
+       0	*	*	*	*	*	*	4883	0	0	
+
+E 31   5021	*	3914	1685	*	*	5632	4194	5208	3313	5703	6074	*	3381	3716	4053	3721	4410	*	*	31
+       0	*	*	*	*	*	*	4883	0	0	
+
+F 32   *	4955	*	*	534	*	*	2959	*	3865	5733	*	*	*	*	5675	5626	5542	*	*	32
+       82	4179	*	2232	345	*	*	4883	2583	0	
+
+S 33   3626	6366	3476	1522	*	3208	*	*	4777	*	*	5143	3022	5913	5962	3272	5158	6880	*	*	33
+       33	5449	*	1092	913	*	*	4883	1918	0	
+
+S 34   *	*	2639	3478	*	2581	5501	*	4111	*	*	2166	6740	5484	6880	2378	4628	*	*	7204	34
+       14	6689	*	0	*	*	*	4883	1000	0	
+
+G 35   *	*	3359	4947	*	689	6517	*	*	*	*	2973	*	6777	4834	3888	*	*	*	*	35
+       58	4677	*	2205	353	*	*	4883	2205	0	
+
+L 36   2858	*	5025	5363	*	5846	5014	2589	6517	3634	*	5961	*	4674	6568	3040	2925	2458	*	*	36
+       26	5795	*	1585	585	*	*	4883	1000	0	
+
+K 37   5980	*	*	5088	3701	*	7495	4886	2273	3091	4509	*	5147	4838	2881	4222	3977	5439	6446	3061	37
+       14	6742	*	2322	322	*	*	4883	1000	0	
+
+G 38   2554	*	*	*	*	321	*	*	*	*	*	*	*	*	*	6619	*	*	5694	*	38
+       10	7189	*	0	*	*	*	4883	1000	0	
+
+M 39   *	*	*	5795	3648	*	5980	2504	6410	1760	2213	*	*	5291	*	*	*	2765	*	6077	39
+       0	*	*	*	*	*	*	4883	0	0	
+
+S 40   1337	6460	*	*	*	*	*	4588	*	*	*	*	*	*	*	5305	5472	990	*	*	40
+       0	*	*	*	*	*	*	4883	0	0	
+
+L 41   5962	*	6265	5282	2862	*	5162	4254	*	1169	3000	*	*	3817	6983	5055	*	4937	*	5948	41
+       17	6410	*	2322	322	*	*	4883	1000	0	
+
+N 42   4856	*	2931	4324	*	5500	6528	*	*	*	*	961	*	4158	*	2888	4809	6509	*	*	42
+       0	*	*	*	*	*	*	4883	0	0	
+
+L 43   *	*	*	*	*	*	*	2848	*	332	*	*	*	*	*	*	*	3903	*	*	43
+       0	*	*	*	*	*	*	4883	0	0	
+
+E 44   5089	6560	2006	1329	*	3875	*	*	5230	4927	5449	4177	*	6445	4986	4684	6446	*	*	6173	44
+       0	*	*	*	*	*	*	4883	0	0	
+
+P 45   3767	7507	5127	1309	*	*	5936	*	3300	5572	7249	5365	3385	5626	3844	3883	4950	5409	*	6649	45
+       0	*	*	*	*	*	*	4883	0	0	
+
+D 46   *	*	1329	1998	*	4517	7375	*	4021	*	6265	4143	*	5887	4582	4453	3909	*	*	*	46
+       0	*	*	*	*	*	*	4883	0	0	
+
+N 47   5177	7079	5790	2711	4882	6980	6649	*	6445	2816	6805	3137	*	4562	3507	2731	3573	4623	*	4041	47
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 48   5866	7113	*	*	*	*	*	2157	*	4674	6957	*	*	*	*	5887	5122	603	*	*	48
+       0	*	*	*	*	*	*	4883	0	0	
+
+G 49   5906	*	6304	4970	*	556	*	*	7233	6646	*	5453	*	5096	4890	3330	5084	*	6614	5887	49
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 50   1827	3704	*	*	*	6460	*	2037	*	5980	*	*	*	*	*	*	7118	1460	*	*	50
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 51   3499	*	*	*	5961	5399	*	1960	*	3538	4890	*	*	*	*	*	*	1014	*	*	51
+       0	*	*	*	*	*	*	4883	0	0	
+
+V 52   *	*	*	*	6366	*	*	2414	*	1062	3647	*	5795	*	*	*	4205	2563	*	*	52
+       0	*	*	*	*	*	*	4883	0	0	
+
+F 53   *	*	5795	*	2460	*	*	4406	*	564	4644	*	*	*	*	5675	5887	*	*	*	53
+       89	6590	4343	0	*	*	*	4883	1000	0	
+
+G 54   5295	*	2571	5029	*	835	4654	5914	6106	*	*	4634	*	5465	*	4008	5689	*	*	*	54
+       0	*	*	*	*	0	*	4789	0	2083	
+
+N 55   6184	*	1960	3396	*	3611	6750	5675	3782	*	7237	3296	3525	3869	5079	2737	7066	*	*	*	55
+       0	*	*	*	*	*	*	4883	0	0	
+
+D 56   3881	*	3298	2834	4624	2991	*	*	6043	6690	7024	5538	4455	6590	6832	3051	3070	5230	7204	2922	56
+       23	*	5980	*	*	*	*	4883	0	0	
+
+K 57   3366	*	3131	2613	*	4361	5458	4798	4123	4792	*	3276	6680	3866	4391	3770	3525	5867	*	5800	57
+       0	*	*	*	*	0	*	4857	0	1000	
+
+L 58   3077	*	3070	4275	6243	2666	3871	6043	3728	4888	5818	3641	5961	6127	4450	3292	4084	*	*	6360	58
+       0	*	*	*	*	*	*	4883	0	0	
+
+I 59   *	*	*	*	*	*	*	1108	*	2003	*	*	5061	*	*	*	*	1961	*	*	59
+       25	*	5873	*	*	*	*	4883	0	0	
+
+K 60   3380	*	*	3963	7087	3605	*	7196	1843	5383	5926	4364	*	4251	3186	3054	3791	6324	*	6935	60
+       0	*	*	*	*	*	0	4844	0	1000	
+
+E 61   1994	*	6921	1098	*	5965	*	5045	*	*	6882	*	5192	3836	6324	4559	7161	4068	*	*	61
+       0	*	*	*	*	0	*	4844	0	1000	
+
+G 62   6973	*	6197	6999	*	206	*	*	5643	*	*	4944	*	*	5976	6272	*	*	5489	*	62
+       0	*	*	*	*	*	*	4821	0	0	
+
+D 63   5042	6778	1522	3542	*	5292	*	*	*	6685	2732	5693	*	4096	*	2929	3016	6974	*	*	63
+       0	*	*	*	*	*	*	4817	0	0	
+
+I 64   5025	*	5141	2567	6685	*	5408	3454	3726	3576	4666	6996	3880	4466	2872	4517	3441	4628	*	6052	64
+       0	*	*	*	*	*	*	4817	0	0	
+
+V 65   3313	3589	*	*	5637	7009	*	5517	*	6837	*	*	*	*	*	*	6500	421	*	*	65
+       0	*	*	*	*	*	*	4817	0	0	
+
+K 66   3989	*	7169	5653	5242	4947	4356	5381	2054	5872	*	5529	*	5294	1960	4687	3813	4823	*	3810	66
+       0	*	*	*	*	*	*	4819	0	0	
+
+R 67   4649	4025	6305	*	*	4262	5212	*	4649	5717	*	*	5309	*	781	4373	3852	5417	*	*	67
+       0	*	*	*	*	*	*	4817	0	0	
+
+T 68   5115	*	*	*	*	5546	*	5771	*	6072	*	*	*	*	5949	2841	408	7151	*	*	68
+       0	*	*	*	*	*	*	4811	0	0	
+
+G 69   6657	*	6477	*	*	315	*	*	4370	*	*	3852	*	6717	6148	5618	*	*	6239	*	69
+       0	*	*	*	*	*	*	4717	0	0	
+
+A 70   5983	*	5384	2516	5551	*	4816	*	1779	*	*	4566	*	3844	1919	4763	6621	*	*	6182	70
+       0	*	*	*	*	*	*	4720	0	0	
+
+I 71   *	*	*	*	*	*	*	1517	*	3100	*	*	*	*	*	*	*	905	*	*	71
+       0	*	*	0	*	*	*	4351	0	0	
+
+//

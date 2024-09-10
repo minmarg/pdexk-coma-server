@@ -1,0 +1,41 @@
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	width:700px;
+    font-family: "Trebuchet MS",Arial,sans-serif;
+    border: 1px solid #CCCCCC;
+    padding: 5px;
+    background-color:  white;
+}
+
+.group
+{
+    font-size: 15px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.anchor
+{
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+div.title
+{
+	background:#99CCFF none repeat scroll 0 0;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+	padding:5px;
+	text-align:left;
+}
+
+.description
+{
+    font-size: 12px;
+    font-weight: normal;
+}

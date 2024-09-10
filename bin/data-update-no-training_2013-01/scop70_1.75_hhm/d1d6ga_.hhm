@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1d6ga_ g.33.1.1 (A:) Cholecystokinin A receptor, N-domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.33.1.1
+FILE  d1d6ga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1d6ga_.a3m -v 1 
+DATE  Mon Jan 21 21:01:47 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CHHHHHHHCCCCCCCHHHHCCCCCCEEEEECCCCCCHHHHHHHHHHC
+>ss_conf
+90245554068888702110347761464039998133688998709
+>Consensus
+MdvvdSllxngsnitxxCelgleNeTxfCldxPxpsKewqpavxILL
+>d1d6ga_ g.33.1.1 (A:) Cholecystokinin A receptor, N-domain {Human (Homo sapiens) [TaxId: 9606]}
+MDVVDSLLVNGSNITPPCELGLENETLFCLDQPRPSKEWQPAQVILL
+>gi|126331868|ref|XP_001366239.1|(1-47:429) PREDICTED: cholecystokinin receptor type A-like [Monodelphis domestica]  E=9e-16 s/c=1.84 id=77% cov=102%
+MDIIDSLFLNGSNITPPCELGLENETFFCLDPPRPPKDWQPAVQILL
+>gi|335293315|ref|XP_003356934.1|(1-47:428) PREDICTED: cholecystokinin receptor type A-like [Sus scrofa]   E=2e-21 s/c=2.23 id=83% cov=102%
+MDVVHSLLMNGSNITPPCELGIENETLFCLDQPHPSQEWQPAVQILL
+>gi|426231555|ref|XP_004009804.1|(21-67:457) PREDICTED: cholecystokinin receptor type A [Ovis aries]   E=8e-20 s/c=2.13 id=83% cov=102%
+MEVVDSLLMNESNLTPPCELGIENETLFCLDQPRPSKEWQPAVQILL
+>gi|739858|prf||2004206A(21-67:450) cholecystokinin A receptor   E=8e-19 s/c=2.06 id=83% cov=102%
+MDVVDSLFVNGSNITSACELGFENETLFCLDRPRPSKEWQPAVQILL
+>gi|896235|gb|AAB32223.1|(1-47:427) cholecystokinin receptor subtype A, CCK-A receptor=G protein coupled receptor [rabbits, fundic epithelium, Peptide, 427 aa] >gi|1091571|prf||2021259A cholecystokinin A receptor  E=2e-18 s/c=2.03 id=77% cov=102%
+MDAVASLLGNASGIPPPCELGLDNETLFCLDQPPPSKEWQPAVQILL
+>gi|60460879|ref|NP_001012664.1|(1-47:428) cholecystokinin receptor type A [Canis lupus familiaris] >gi|75070007|sp|Q5D0K2.1|CCKAR_CANFA RecName: Full=Cholecystokinin receptor type A; Short=CCK-A receptor; Short=CCK-AR; AltName: Full=Cholecystokinin-1 receptor; Short=CCK1-R >gi|59936798|gb|AAX12114.1| cholecystokinin 1 receptor [Canis lupus familiaris]  E=1e-17 s/c=1.98 id=73% cov=102%
+MEVADSLLGNGSDVPPPCELGLENETLVCLEQPRAAKEWQPAVQILL
+>gi|149520125|ref|XP_001511859.1|(1-47:121) PREDICTED: cholecystokinin receptor type A-like, partial [Ornithorhynchus anatinus]  E=6e-12 s/c=1.57 id=62% cov=100%
+MDTVESLLVSG-NFTDTCETGLKNETFLCLfDQPHPSKDWKQLVRILL
+>gi|224050031|ref|XP_002191034.1|(1-51:430) PREDICTED: cholecystokinin A receptor [Taeniopygia guttata]   E=6e-11 s/c=1.38 id=52% cov=102%
+MEIVDasSFLGNGTNITDfLCNIILENDTFFCVDDaPYPSKDLHQIIRILL
+>gi|315258606|dbj|BAJ46147.1|(1-50:429) cholecystokinin type A receptor [Gallus gallus]   E=2e-07 s/c=1.19 id=48% cov=102%
+MEIVDaSFLENSTNITAlLCDILLENETFYCVDDpPYSSKDLHQIIRILL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1828	0	0	
+
+D 2    *	*	800	1233	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1828	0	0	
+
+V 3    3477	*	*	*	*	*	*	1581	*	*	*	*	*	*	*	*	3046	1137	*	*	3
+       0	*	*	*	*	*	*	1828	0	0	
+
+V 4    3248	*	*	*	*	*	*	3589	*	*	*	*	*	*	*	*	*	301	*	*	4
+       0	*	*	*	*	*	*	1828	0	0	
+
+D 5    3477	*	484	3046	*	*	3755	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       417	1993	*	563	1631	*	*	1828	1125	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	6
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 7    *	*	*	*	1993	*	*	*	*	417	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 8    *	*	*	*	2642	*	*	*	*	252	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1828	0	0	
+
+V 9    *	*	*	2928	*	1667	*	*	*	3589	2292	*	*	*	*	*	*	1908	*	*	9
+       0	*	*	*	*	*	*	1828	0	0	
+
+N 10   *	*	*	*	*	*	*	*	*	*	*	186	*	*	*	3046	*	*	*	*	10
+       0	*	*	*	*	*	*	1828	0	0	
+
+G 11   3477	*	*	3857	*	495	*	*	*	*	*	*	*	*	*	2928	*	*	*	*	11
+       186	*	3046	*	*	*	*	1828	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	492	1792	*	*	*	12
+       0	*	*	*	*	0	*	1737	0	1000	
+
+N 13   *	*	3248	*	*	3477	*	*	*	*	*	313	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1828	0	0	
+
+I 14   *	*	*	*	3046	*	*	505	*	3857	*	*	*	*	*	*	*	3248	*	*	14
+       0	*	*	*	*	*	*	1828	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	*	*	*	2358	*	*	*	313	*	*	*	15
+       0	*	*	*	*	*	*	1828	0	0	
+
+P 16   2928	*	2053	*	*	*	*	*	*	*	*	*	861	*	*	3696	*	*	*	*	16
+       417	1993	*	0	*	*	*	1828	1125	0	
+
+P 17   3696	*	*	*	*	*	*	*	*	1993	*	*	861	*	*	*	3046	*	*	*	17
+       0	*	*	*	*	*	*	1828	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1828	0	0	
+
+E 19   *	*	2928	417	*	*	*	*	*	*	*	3061	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 20   *	*	*	*	*	*	*	1993	*	672	*	*	*	*	*	*	3046	*	*	*	20
+       0	*	*	*	*	*	*	1828	0	0	
+
+G 21   *	*	*	*	*	417	*	3061	*	2928	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 22   *	*	*	*	3696	*	*	2805	*	359	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1828	0	0	
+
+E 23   *	*	3477	342	*	*	*	*	3046	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1828	0	0	
+
+N 24   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1828	0	0	
+
+E 25   *	*	3061	184	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1828	0	0	
+
+T 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	26
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 27   *	*	*	*	1135	*	*	*	*	877	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1828	0	0	
+
+F 28   *	*	*	*	639	*	*	*	*	3046	*	*	*	*	*	*	*	3248	*	2928	28
+       0	*	*	*	*	*	*	1828	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	417	*	*	*	*	*	*	*	1993	*	*	30
+       186	3046	*	0	*	*	*	1828	1000	0	
+
+D 31   *	*	160	3248	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1828	0	0	
+
+Q 32   *	*	1993	*	*	*	*	*	*	*	*	*	3589	923	2855	*	*	*	*	*	32
+       417	1993	*	0	*	*	*	1828	1125	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1828	0	0	
+
+R 34   *	*	*	*	*	*	2357	*	*	*	*	*	3477	4033	1312	*	*	*	*	1993	34
+       0	*	*	*	*	*	*	1828	0	0	
+
+P 35   3248	*	*	*	*	*	*	*	*	*	*	*	390	*	*	2928	*	*	*	*	35
+       0	*	*	*	*	*	*	1828	0	0	
+
+S 36   3248	*	*	*	*	*	*	*	*	*	*	*	3589	*	*	301	*	*	*	*	36
+       0	*	*	*	*	*	*	1828	0	0	
+
+K 37   *	*	*	*	*	*	*	*	111	*	*	*	*	3755	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1828	0	0	
+
+E 38   *	*	1135	877	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1828	0	0	
+
+W 39   *	*	*	*	*	*	*	*	*	1993	*	*	*	*	*	*	*	*	417	*	39
+       0	*	*	*	*	*	*	1828	0	0	
+
+Q 40   *	*	*	*	*	*	1993	*	3046	*	*	*	*	672	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1828	0	0	
+
+P 41   *	*	*	*	*	*	*	*	*	*	*	*	672	1425	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1828	0	0	
+
+A 42   672	*	*	*	*	*	*	1993	*	3046	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1828	0	0	
+
+Q 43   *	*	*	*	*	*	*	1993	*	*	*	*	*	3874	*	*	*	555	*	*	43
+       0	*	*	*	*	*	*	1828	0	0	
+
+V 44   *	*	*	*	*	*	*	*	*	*	*	*	*	838	1425	*	*	3874	*	*	44
+       0	*	*	*	*	*	*	1828	0	0	
+
+I 45   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 46   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1828	0	0	
+
+L 47   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	1828	0	0	
+
+//

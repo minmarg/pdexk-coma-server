@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d2axtf1 f.23.38.1 (F:11-45) Cytochrome b559 subunit beta, PsbF {Thermosynechococcus elongatus [TaxId: 146786]}
+FAM   f.23.38.1
+FILE  d2axtf1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2axtf1.a3m -v 1 
+DATE  Tue Jan 22 05:38:31 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  52 out of 54 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+97651335544564321347888888989887409
+>Consensus
+vxYPifTvRwlavhxLxvptvfflGaixamQfIqR
+>d2axtf1 f.23.38.1 (F:11-45) Cytochrome b559 subunit beta, PsbF {Thermosynechococcus elongatus [TaxId: 146786]}
+VSYPIFTVRWVAVHTLAVPTIFFLGAIAAMQFIQR
+>gi|224179496|ref|YP_002601026.1|(7-41:41) cytochrome b559 beta subunit of photosystem II [Monomastix sp. OKE-1] >gi|217314539|gb|ACK36882.1| cytochrome b559 beta subunit of photosystem II [Monomastix sp. OKE-1]  E=1e-08 s/c=1.79 id=75% cov=103%
+LTYPIFTVRWLSVHALAVPTVFFLGSITAMQFIQR
+>gi|428217169|ref|YP_007101634.1|(10-44:44) Cytochrome b559 subunit beta [Pseudanabaena sp. PCC 7367] >gi|427988951|gb|AFY69206.1| Cytochrome b559 subunit beta [Pseudanabaena sp. PCC 7367]  E=3e-08 s/c=1.76 id=72% cov=103%
+VEYPVFTVRWLSIHALGVPTVFFLGAIAAMQFISR
+>gi|11465562|ref|NP_045046.1|(9-43:43) photosystem II protein VI [Cyanidium caldarium] >gi|14195060|sp|Q9TM21.1|PSBF_CYACA RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI >gi|6466418|gb|AAF13000.1|AF022186_172 unknown [Cyanidium caldarium]  E=5e-08 s/c=1.74 id=72% cov=103%
+ISYPIFTFRWLAIHGLAIPTVFFFGAITAMQFIQR
+>gi|189095306|ref|YP_001936319.1|(9-43:43) photosystem II protein VI [Heterosigma akashiwo] >gi|157694649|gb|ABV65925.1| cytochrome b559 beta chain [Heterosigma akashiwo] >gi|157777880|gb|ABV70066.1| cytochrome b559 beta chain [Heterosigma akashiwo]  E=6e-08 s/c=1.73 id=75% cov=103%
+VAYPIFTFRWLTIHALAVPTIFFLGAITSMQFIQR
+>gi|11467322|ref|NP_043179.1|(8-42:42) photosystem II protein VI [Cyanophora paradoxa] >gi|131312|sp|P19153.1|PSBF_CYAPA RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI >gi|336627|gb|AAA31696.1| cytochrome b-559 apoprotein (psbF) [Cyanophora paradoxa] >gi|1016123|gb|AAA81210.1| beta subunit of cytochrome b559 of photosystem II complex [Cyanophora paradoxa] >gi|226507|prf||1515393B cytochrome b559  E=2e-07 s/c=1.68 id=67% cov=103%
+VSYPIFTVRWLAIHAIGIPAVFFIGSITAMQFIQR
+>gi|189491915|gb|ACE00768.1|(6-39:39) b-559 alpha subunit [Isoetes sp. Rai 1005]   E=4e-05 s/c=1.51 id=66% cov=100%
+-TYPIFTVRWLAVHGLPVPTVFSPGSISATQSIQR
+>gi|124026352|ref|YP_001015468.1|(59-92:97) cytochrome b559 subunit beta [Prochlorococcus marinus str. NATL1A] >gi|123961420|gb|ABM76203.1| PsbF protein-like protein [Prochlorococcus marinus str. NATL1A]  E=9e-05 s/c=1.47 id=65% cov=97%
+--YPVFTVRTLAVNALGIPSVFFLGAIFAMQFIRR
+>gi|393460|emb|CAA46977.1|(12-44:44) cytochrome b(6)-f complex protein, beta subunit [Chlamydomonas reinhardtii]  E=0.0002 s/c=1.48 id=68% cov=97%
+--YPIFTVRWLATTVLQYQQFFFLGAITAMQFIQR
+>gi|158334310|ref|YP_001515482.1|(15-47:99) cytochrome b559 subunit beta of photosystem II [Acaryochloris marina MBIC11017] >gi|158304551|gb|ABW26168.1| cytochrome b559, beta subunit of photosystem II, putative [Acaryochloris marina MBIC11017]  E=4e-06 s/c=1.64 id=74% cov=97%
+--YPIYTVRWLAVHTLGVPLVWFLGAIASMQFINR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    *	*	*	*	*	*	*	1703	*	4051	*	*	*	*	*	*	*	661	*	*	1
+       0	*	*	*	*	*	*	1484	0	0	
+
+S 2    3313	*	*	5257	5490	*	*	*	*	4910	*	*	*	4510	*	1598	1249	5460	*	*	2
+       0	*	*	*	*	*	*	1501	0	0	
+
+Y 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	3
+       0	*	*	*	*	*	*	1606	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1606	0	0	
+
+I 5    *	*	*	*	*	*	*	273	*	*	*	*	*	*	*	*	*	2536	*	*	5
+       0	*	*	*	*	*	*	1606	0	0	
+
+F 6    *	*	*	*	98	*	*	5242	*	*	*	*	*	*	*	*	*	*	*	4677	6
+       0	*	*	*	*	*	*	1606	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	7
+       0	*	*	*	*	*	*	1606	0	0	
+
+V 8    *	*	*	*	2530	*	*	5708	*	*	5916	*	*	*	*	*	*	338	*	*	8
+       0	*	*	*	*	*	*	1607	0	0	
+
+R 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1607	0	0	
+
+W 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3876	*	102	*	10
+       0	*	*	*	*	*	*	1607	0	0	
+
+V 11   4765	*	*	*	*	*	*	4470	*	173	*	*	*	*	*	*	*	5006	*	*	11
+       0	*	*	*	*	*	*	1607	0	0	
+
+A 12   281	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3201	3872	*	*	*	12
+       0	*	*	*	*	*	*	1607	0	0	
+
+V 13   *	*	*	*	*	*	*	2019	*	4454	*	*	*	*	*	*	3757	658	*	*	13
+       0	*	*	*	*	*	*	1607	0	0	
+
+H 14   *	*	*	*	*	*	221	*	*	*	*	3876	*	*	*	*	3757	*	*	*	14
+       0	*	*	*	*	*	*	1607	0	0	
+
+T 15   1095	*	*	*	*	2267	*	*	*	*	*	*	*	*	*	*	2149	3343	*	*	15
+       0	*	*	*	*	*	*	1607	0	0	
+
+L 16   *	*	*	*	*	*	*	4605	*	61	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1607	0	0	
+
+A 17   946	*	*	*	*	1565	*	*	*	*	*	*	4376	3757	*	*	5573	*	*	*	17
+       0	*	*	*	*	*	*	1607	0	0	
+
+V 18   *	*	*	*	*	*	*	1683	*	*	*	*	*	*	*	*	*	702	*	3757	18
+       0	*	*	*	*	*	*	1607	0	0	
+
+P 19   *	*	*	*	*	*	*	*	*	*	*	*	111	3757	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1607	0	0	
+
+T 20   4575	*	*	*	*	*	*	*	*	4687	*	*	*	3757	*	2508	658	4806	*	*	20
+       0	*	*	*	*	*	*	1607	0	0	
+
+I 21   *	*	*	*	3757	*	*	2576	*	*	*	*	*	*	*	*	5497	442	*	*	21
+       0	*	*	*	*	*	*	1607	0	0	
+
+F 22   *	*	*	*	122	*	*	*	*	*	*	*	*	*	*	5668	5477	*	4687	*	22
+       0	*	*	*	*	*	*	1607	0	0	
+
+F 23   *	*	*	*	112	*	*	*	*	*	*	*	*	*	*	3744	*	*	*	*	23
+       0	*	*	*	*	*	*	1607	0	0	
+
+L 24   *	*	*	*	4604	*	*	3963	*	289	*	*	4376	*	*	*	*	5159	*	*	24
+       0	*	*	*	*	*	*	1607	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1607	0	0	
+
+A 26   536	5524	*	*	*	5689	*	*	*	*	*	*	*	*	*	1893	*	*	*	*	26
+       0	*	*	*	*	*	*	1607	0	0	
+
+I 27   *	*	*	*	*	*	*	168	*	3188	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1607	0	0	
+
+A 28   1381	*	*	*	4996	*	*	*	*	4765	*	*	*	*	*	2913	1269	*	*	*	28
+       0	*	*	*	*	*	*	1607	0	0	
+
+A 29   237	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2724	*	*	*	*	29
+       0	*	*	*	*	*	*	1607	0	0	
+
+M 30   *	*	*	*	*	*	*	*	*	*	112	*	*	*	*	*	3744	*	*	*	30
+       0	*	*	*	*	*	*	1607	0	0	
+
+Q 31   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1607	0	0	
+
+F 32   *	*	*	*	109	*	*	*	*	5346	*	*	*	*	*	4376	*	*	*	*	32
+       0	*	*	*	*	*	*	1607	0	0	
+
+I 33   *	*	*	*	*	*	*	74	*	*	*	*	*	*	*	*	*	4326	*	*	33
+       0	*	*	*	*	*	*	1594	0	0	
+
+Q 34   5427	*	*	6008	*	*	5745	*	*	*	*	4676	*	467	2775	4878	*	*	*	*	34
+       0	*	*	*	*	*	*	1594	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1594	0	0	
+
+//

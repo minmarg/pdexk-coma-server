@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1hyka_ g.3.5.1 (A:) Agouti-related protein {Synthetic, based on Homo sapiens sequence}
+FAM   g.3.5.1
+FILE  d1hyka_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1hyka_.a3m -v 1 
+DATE  Mon Jan 21 21:27:59 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCHHCCCCCCCCCCCCCHHHHHHHHHHHHHHCCCCCCCCCCC
+>ss_conf
+9533101347889888852210345632554433104647865679
+>Consensus
+CixxxeSClgxxlpCCdPCxtcycRfFnaxCYCRkxxxxxxpcxxx
+>d1hyka_ g.3.5.1 (A:) Agouti-related protein {Synthetic, based on Homo sapiens sequence}
+CVRLHESCLGQQVPCCDPCATCYCRFFNAFCYCRKLGTAMNPCSRT
+>gi|224064114|ref|XP_002187526.1|(256-300:300) PREDICTED: agouti related protein homolog [Taeniopygia guttata]   E=9e-13 s/c=1.70 id=78% cov=98%
+CVRLLESCLGHQIPCCDPCATCYCRFFNAFCYCRKISTTF-PCGK-
+>gi|189521391|ref|XP_001923939.1|(83-122:127) PREDICTED: agouti-related protein [Danio rerio]   E=5e-11 s/c=1.77 id=56% cov=89%
+CIPHQQSCLGHHLPCCNPCDTCYCRFFKAFCYCRSMDNTC------
+>gi|397739026|tpd|FAA00766.1|(73-114:117) TPA: Agouti-related peptide 1, partial [Oryzias latipes]   E=5e-11 s/c=1.69 id=60% cov=93%
+CIPHQQSCLGYPLPCCDPCDTCYCRFFNAICYCRQIGHTCAP----
+>gi|396941086|tpd|FAA00762.1|(84-124:128) TPA: Agouti-related peptide 1 [Gadus morhua]   E=6e-11 s/c=1.72 id=64% cov=91%
+CVPHQQSCLGHQLPCCDPCDTCYCRFFNAICYCRRVGQSCS-----
+>gi|327343765|dbj|BAK09591.1|(92-134:137) agouti-related peptide [Leucopsarion petersii]   E=3e-09 s/c=1.51 id=60% cov=93%
+CILHQQSCLAvPKLPCCDPCDQCYCRFFNAFCYCRRVGHACSP----
+>gi|301615828|ref|XP_002937367.1|(104-143:147) PREDICTED: agouti-related protein-like [Xenopus (Silurana) tropicalis] >gi|397739028|tpd|FAA00767.1| TPA: Agouti-related peptide [Xenopus (Silurana) tropicalis]  E=1e-08 s/c=1.57 id=71% cov=89%
+CVQLLESCVGH-LPCCSPCATCYCRFFNAFCYCRKTSTNCH-----
+>gi|226442717|ref|NP_001140149.1|(98-136:142) agouti related protein-1 precursor [Salmo salar] >gi|224471606|dbj|BAH24098.1| agouti related protein-1 [Salmo salar]  E=2e-05 s/c=1.35 id=48% cov=87%
+CIPHQQSCLGNTLPCCDPCDTRYPRMFGSICYCRRTACT-------
+>gi|396941092|tpd|FAA00765.1|(88-126:130) TPA: Agouti-related peptide 2 [Lepisosteus oculatus]   E=0.0004 s/c=1.22 id=58% cov=87%
+CSRVMESCIFHSL-CCDPCASCHCRFFNAICYCRRLNRHC------
+>gi|318067884|tpd|FAA00702.1|(1-40:40) TPA: Agouti-related peptide [Callorhinchus milii]   E=0.0007 s/c=1.17 id=63% cov=89%
+CIRHLESCFDYSMPCCDPCATCYCRFFKAICYCRKIGNIC------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1842	0	0	
+
+V 2    *	*	*	*	*	*	*	1184	*	4067	*	*	*	*	*	3238	*	1342	*	*	2
+       0	*	*	*	*	*	*	1842	0	0	
+
+R 3    *	*	*	*	*	*	*	*	4067	3771	*	*	1523	3927	1141	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1842	0	0	
+
+L 4    *	*	*	*	*	*	1015	*	*	1324	*	*	*	*	*	*	*	3238	*	*	4
+       0	*	*	*	*	*	*	1842	0	0	
+
+H 5    *	*	*	*	*	*	4166	*	*	1738	3238	*	*	893	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1842	0	0	
+
+E 6    *	*	*	789	*	*	*	*	*	*	*	*	*	1248	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1842	0	0	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	7
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1842	0	0	
+
+L 9    *	*	*	*	3764	*	*	3238	*	406	*	*	*	*	*	*	*	3927	*	*	9
+       0	*	*	*	*	*	*	1842	0	0	
+
+G 10   3771	*	3764	*	3238	421	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       110	3771	*	0	*	*	*	1842	1000	0	
+
+Q 11   *	*	*	*	*	*	941	*	*	*	*	3190	3771	3116	*	*	*	*	*	2468	11
+       98	*	3927	*	*	*	*	1842	0	0	
+
+Q 12   *	*	*	*	*	*	3582	*	3691	*	*	*	3141	1249	*	2395	3123	*	*	*	12
+       0	*	*	*	*	0	*	1826	0	1000	
+
+V 13   *	*	*	*	*	*	*	4172	*	754	3764	*	*	*	*	*	*	1846	*	*	13
+       162	*	3238	*	*	*	*	1842	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	95	*	*	3972	*	*	*	*	14
+       0	*	*	*	*	0	*	1747	0	1000	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1842	0	0	
+
+D 17   *	*	221	*	*	*	*	*	*	*	*	3711	*	*	*	3927	*	*	*	*	17
+       0	*	*	*	*	*	*	1842	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1842	0	0	
+
+A 20   789	*	1248	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1842	0	0	
+
+T 21   *	*	*	*	*	*	*	*	*	*	*	*	*	3771	*	3238	285	*	*	*	21
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 22   *	167	*	*	*	*	*	*	*	*	*	*	*	*	3190	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1842	0	0	
+
+Y 23   *	*	*	*	*	*	3238	*	*	*	*	*	*	*	*	*	*	*	*	162	23
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 24   *	167	*	*	*	*	*	*	*	*	*	*	3190	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1842	0	0	
+
+R 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1842	0	0	
+
+F 26   *	*	*	*	167	*	*	*	*	*	3190	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1842	0	0	
+
+F 27   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1842	0	0	
+
+N 28   *	*	*	*	*	3190	*	*	2737	*	*	434	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1842	0	0	
+
+A 29   257	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2617	*	*	*	*	29
+       0	*	*	*	*	*	*	1842	0	0	
+
+F 30   *	*	*	*	865	*	*	1149	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1842	0	0	
+
+Y 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	32
+       0	*	*	*	*	*	*	1842	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1842	0	0	
+
+R 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1842	0	0	
+
+K 35   *	*	*	*	*	*	*	*	1080	*	*	*	*	4157	1341	3711	*	*	*	*	35
+       0	*	*	*	*	*	*	1842	0	0	
+
+L 36   *	*	*	*	*	*	*	2079	*	1588	3711	*	*	*	*	*	2512	2481	*	*	36
+       0	*	*	*	*	*	*	1842	0	0	
+
+G 37   2563	*	3711	*	*	1072	*	*	*	*	*	3238	*	*	*	2533	*	*	*	*	37
+       79	*	4226	*	*	*	*	1842	0	0	
+
+T 38   *	3086	*	*	*	*	2412	*	*	*	*	2685	*	4123	3201	*	1424	*	*	*	38
+       0	*	*	*	*	0	*	1847	0	1000	
+
+A 39   1511	*	*	*	*	*	3238	3764	*	*	*	3092	*	*	*	4193	1749	*	*	*	39
+       0	*	*	*	*	*	*	1842	0	0	
+
+M 40   *	680	*	*	4032	*	*	*	*	*	4023	*	*	*	*	3946	2929	*	*	4137	40
+       259	*	2606	*	*	*	*	1752	0	0	
+
+N 41   3117	*	*	*	*	*	2923	3284	*	*	*	2251	3312	*	*	2101	*	*	*	3233	41
+       0	*	*	*	*	0	*	1589	0	1082	
+
+P 42   *	*	*	*	*	*	*	*	*	*	*	*	182	*	*	3075	*	*	*	*	42
+       0	*	*	*	*	*	*	1547	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1256	0	0	
+
+S 44   *	*	*	*	*	2511	*	*	*	*	*	*	*	*	*	278	*	*	*	*	44
+       0	*	*	*	*	*	*	1256	0	0	
+
+R 45   *	*	*	*	*	*	*	*	2218	*	*	*	*	*	349	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1222	0	0	
+
+T 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	46
+       0	*	*	0	*	*	*	1078	0	0	
+
+//

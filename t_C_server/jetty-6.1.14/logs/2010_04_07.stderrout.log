@@ -1,0 +1,1233 @@
+2010-04-07 09:46:58.318::INFO:  jetty-6.1.14
+2010-04-07 09:46:58.355::INFO:  Deploy /home/coma/jetty-6.1.14/contexts/comaWebServer.xml -> org.mortbay.jetty.webapp.WebAppContext@509ced8e{/coma,/home/coma/jetty-6.1.14/webapps/comaWebServer}
+2010-04-07 09:46:58.364::INFO:  Deploy /home/coma/jetty-6.1.14/contexts/PDEXKsvm.xml -> org.mortbay.jetty.webapp.WebAppContext@53c86be5{/pdexkrec,/home/coma/jetty-6.1.14/webapps/PDEXKsvm}
+2010-04-07 09:46:58.386::INFO:  Deploy /home/coma/jetty-6.1.14/contexts/comaWebServer-jndi.xml -> org.mortbay.jetty.webapp.WebAppContext@6cb8{/comaWebServer-jndi,/home/coma/jetty-6.1.14/contexts/comaWebServer-jndi.d}
+2010-04-07 09:46:58.402::INFO:  Deploy /home/coma/jetty-6.1.14/contexts/javadoc.xml -> org.mortbay.jetty.handler.ContextHandler@61c80b01{/javadoc,file:/home/coma/jetty-6.1.14/javadoc/}
+[ERROR] TapestryModule.AliasOverrides Contribution <Proxy for MySaltSource(nu.localhost.tapestry.acegi.services.SaltSourceService)> (for type nu.localhost.tapestry.acegi.services.SaltSourceService) conflicts with existing contribution <Proxy for MySaltSource(nu.localhost.tapestry.acegi.services.SaltSourceService)> and has been ignored.
+[INFO] TapestryModule.ComponentClassResolver Available pages:
+                        (blank): bioinfo.comaWebServer.pages.Index
+                          About: bioinfo.comaWebServer.pages.About
+                       Contacts: bioinfo.comaWebServer.pages.Contacts
+                ExceptionReport: org.apache.tapestry5.corelib.pages.ExceptionReport
+                          Index: bioinfo.comaWebServer.pages.Index
+                     ManageJobs: bioinfo.comaWebServer.pages.ManageJobs
+                    ModellerJob: bioinfo.comaWebServer.pages.ModellerJob
+          PropertyDisplayBlocks: org.apache.tapestry5.corelib.pages.PropertyDisplayBlocks
+             PropertyEditBlocks: org.apache.tapestry5.corelib.pages.PropertyEditBlocks
+                  ServiceStatus: org.apache.tapestry5.corelib.pages.ServiceStatus
+                 WaitForResults: bioinfo.comaWebServer.pages.WaitForResults
+                add/AddDatabase: bioinfo.comaWebServer.pages.add.AddDatabase
+                   add/Database: bioinfo.comaWebServer.pages.add.AddDatabase
+             edit/ClusterParams: bioinfo.comaWebServer.pages.edit.EditClusterParams
+                edit/ComaParams: bioinfo.comaWebServer.pages.edit.EditComaParams
+                  edit/Database: bioinfo.comaWebServer.pages.edit.EditDatabase
+         edit/EditClusterParams: bioinfo.comaWebServer.pages.edit.EditClusterParams
+            edit/EditComaParams: bioinfo.comaWebServer.pages.edit.EditComaParams
+              edit/EditDatabase: bioinfo.comaWebServer.pages.edit.EditDatabase
+            edit/EditMailParams: bioinfo.comaWebServer.pages.edit.EditMailParams
+edit/EditPeriodicalWorkerParams: bioinfo.comaWebServer.pages.edit.EditPeriodicalWorkerParams
+        edit/EditPersonalParams: bioinfo.comaWebServer.pages.edit.EditPersonalParams
+          edit/EditSearchParams: bioinfo.comaWebServer.pages.edit.EditSearchParams
+                edit/MailParams: bioinfo.comaWebServer.pages.edit.EditMailParams
+    edit/PeriodicalWorkerParams: bioinfo.comaWebServer.pages.edit.EditPeriodicalWorkerParams
+            edit/PersonalParams: bioinfo.comaWebServer.pages.edit.EditPersonalParams
+              edit/SearchParams: bioinfo.comaWebServer.pages.edit.EditSearchParams
+               show/ComaResults: bioinfo.comaWebServer.pages.show.ShowComaResults
+                 show/Databases: bioinfo.comaWebServer.pages.show.ShowDatabases
+                      show/Info: bioinfo.comaWebServer.pages.show.ShowInfo
+                     show/Login: bioinfo.comaWebServer.pages.show.ShowLogin
+                   show/Results: bioinfo.comaWebServer.pages.show.ShowResults
+           show/ShowComaResults: bioinfo.comaWebServer.pages.show.ShowComaResults
+             show/ShowDatabases: bioinfo.comaWebServer.pages.show.ShowDatabases
+                  show/ShowInfo: bioinfo.comaWebServer.pages.show.ShowInfo
+                 show/ShowLogin: bioinfo.comaWebServer.pages.show.ShowLogin
+               show/ShowResults: bioinfo.comaWebServer.pages.show.ShowResults
+
+[INFO] TapestryModule.ComponentClassResolver Available components:
+               ActionLink: org.apache.tapestry5.corelib.components.ActionLink
+               AddRowLink: org.apache.tapestry5.corelib.components.AddRowLink
+             AjaxFormLoop: org.apache.tapestry5.corelib.components.AjaxFormLoop
+                      Any: org.apache.tapestry5.corelib.components.Any
+                   Banner: bioinfo.comaWebServer.components.Banner
+              BeanDisplay: org.apache.tapestry5.corelib.components.BeanDisplay
+             BeanEditForm: org.apache.tapestry5.corelib.components.BeanEditForm
+               BeanEditor: org.apache.tapestry5.corelib.components.BeanEditor
+                   Border: bioinfo.comaWebServer.components.Border
+                 Checkbox: org.apache.tapestry5.corelib.components.Checkbox
+            CheckboxGroup: bioinfo.comaWebServer.components.CheckboxGroup
+                ControlCB: bioinfo.comaWebServer.components.ControlCB
+          ControlCheckbox: bioinfo.comaWebServer.components.ControlCheckbox
+       ControlledCheckbox: bioinfo.comaWebServer.components.ControlledCheckbox
+                DateField: org.apache.tapestry5.corelib.components.DateField
+                 Delegate: org.apache.tapestry5.corelib.components.Delegate
+                   Errors: org.apache.tapestry5.corelib.components.Errors
+                EventLink: org.apache.tapestry5.corelib.components.EventLink
+         ExceptionDisplay: org.apache.tapestry5.corelib.components.ExceptionDisplay
+                     Form: org.apache.tapestry5.corelib.components.Form
+             FormFragment: org.apache.tapestry5.corelib.components.FormFragment
+             FormInjector: org.apache.tapestry5.corelib.components.FormInjector
+                     Grid: org.apache.tapestry5.corelib.components.Grid
+                 GridCell: org.apache.tapestry5.corelib.components.GridCell
+              GridColumns: org.apache.tapestry5.corelib.components.GridColumns
+                GridPager: org.apache.tapestry5.corelib.components.GridPager
+                 GridRows: org.apache.tapestry5.corelib.components.GridRows
+                       If: org.apache.tapestry5.corelib.components.If
+                    Label: org.apache.tapestry5.corelib.components.Label
+            LeftMenuAdmin: bioinfo.comaWebServer.components.LeftMenuAdmin
+           LeftMenuClient: bioinfo.comaWebServer.components.LeftMenuClient
+               LinkSubmit: org.apache.tapestry5.corelib.components.LinkSubmit
+                     Loop: org.apache.tapestry5.corelib.components.Loop
+                   Output: org.apache.tapestry5.corelib.components.Output
+                OutputRaw: org.apache.tapestry5.corelib.components.OutputRaw
+                 PageLink: org.apache.tapestry5.corelib.components.PageLink
+                  Palette: org.apache.tapestry5.corelib.components.Palette
+            PasswordField: org.apache.tapestry5.corelib.components.PasswordField
+          PropertyDisplay: org.apache.tapestry5.corelib.components.PropertyDisplay
+           PropertyEditor: org.apache.tapestry5.corelib.components.PropertyEditor
+                    Radio: org.apache.tapestry5.corelib.components.Radio
+               RadioGroup: org.apache.tapestry5.corelib.components.RadioGroup
+            RemoveRowLink: org.apache.tapestry5.corelib.components.RemoveRowLink
+             RenderObject: org.apache.tapestry5.corelib.components.RenderObject
+                   Select: org.apache.tapestry5.corelib.components.Select
+           SelectMultiple: bioinfo.comaWebServer.components.SelectMultiple
+                   Submit: org.apache.tapestry5.corelib.components.Submit
+           SubmitNotifier: org.apache.tapestry5.corelib.components.SubmitNotifier
+                 TextArea: org.apache.tapestry5.corelib.components.TextArea
+                TextField: org.apache.tapestry5.corelib.components.TextField
+               TextOutput: org.apache.tapestry5.corelib.components.TextOutput
+            TopMenuClient: bioinfo.comaWebServer.components.TopMenuClient
+                   Unless: org.apache.tapestry5.corelib.components.Unless
+                   Upload: org.apache.tapestry5.upload.components.Upload
+            ViewAlignment: bioinfo.comaWebServer.components.ViewAlignment
+    ViewAlignmentAdvanced: bioinfo.comaWebServer.components.ViewAlignmentAdvanced
+      ViewAlignmentFilter: bioinfo.comaWebServer.components.ViewAlignmentFilter
+    ViewAlignmentMultiple: bioinfo.comaWebServer.components.ViewAlignmentMultiple
+       ViewAutocorrection: bioinfo.comaWebServer.components.ViewAutocorrection
+              ViewCluster: bioinfo.comaWebServer.components.ViewCluster
+           ViewComaParams: bioinfo.comaWebServer.components.ViewComaParams
+             ViewDatabase: bioinfo.comaWebServer.components.ViewDatabase
+    ViewEmailNotification: bioinfo.comaWebServer.components.ViewEmailNotification
+       ViewGapProbability: bioinfo.comaWebServer.components.ViewGapProbability
+ViewInformationCorrection: bioinfo.comaWebServer.components.ViewInformationCorrection
+              ViewMasking: bioinfo.comaWebServer.components.ViewMasking
+      ViewModellerResults: bioinfo.comaWebServer.components.ViewModellerResults
+           ViewMsaResults: bioinfo.comaWebServer.components.ViewMsaResults
+               ViewOutput: bioinfo.comaWebServer.components.ViewOutput
+  ViewProfileConstruction: bioinfo.comaWebServer.components.ViewProfileConstruction
+              ViewResults: bioinfo.comaWebServer.components.ViewResults
+     ViewResultsAlignment: bioinfo.comaWebServer.components.ViewResultsAlignment
+         ViewResultsQuery: bioinfo.comaWebServer.components.ViewResultsQuery
+                  ViewSEG: bioinfo.comaWebServer.components.ViewSEG
+               ViewSearch: bioinfo.comaWebServer.components.ViewSearch
+       ViewSearchMultiple: bioinfo.comaWebServer.components.ViewSearchMultiple
+                     Zone: org.apache.tapestry5.corelib.components.Zone
+      security/IfLoggedIn: nu.localhost.tapestry.acegi.components.IfLoggedIn
+          security/IfRole: nu.localhost.tapestry.acegi.components.IfRole
+
+[INFO] TapestryModule.ComponentClassResolver Available mixins:
+      Autocomplete: org.apache.tapestry5.corelib.mixins.Autocomplete
+ControlledCheckbox: bioinfo.comaWebServer.mixins.ControlledCheckbox
+       DiscardBody: org.apache.tapestry5.corelib.mixins.DiscardBody
+    RenderDisabled: org.apache.tapestry5.corelib.mixins.RenderDisabled
+   RenderInformals: org.apache.tapestry5.corelib.mixins.RenderInformals
+   TriggerFragment: org.apache.tapestry5.corelib.mixins.TriggerFragment
+
+[INFO] annotations.Version Hibernate Annotations 3.4.0.GA
+[INFO] cfg.Environment Hibernate 3.3.1.GA
+[INFO] cfg.Environment hibernate.properties not found
+[INFO] cfg.Environment Bytecode provider name : javassist
+[INFO] cfg.Environment using JDK 1.4 java.sql.Timestamp handling
+[INFO] common.Version Hibernate Commons Annotations 3.1.0.GA
+[INFO] cfg.Configuration configuring from resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Configuration resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Output.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Alignment.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ProfileConstruction.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Masking.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/SEG.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/GapProbability.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Autocorrection.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/InformationCorrection.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/AlignmentFilter.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Search.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Cluster.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/EmailNotification.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/PeriodicalWorkerParams.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/User.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/GrantedAuthorityBean.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Job.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/DatabaseItem.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/DataFile.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ComaResults.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Image.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsHit.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsAlignment.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/AlignmentBibliography.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ScopBibliography.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsQuery.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsFooter.hbm.xml
+[INFO] cfg.Configuration Configured SessionFactory: null
+[INFO] search.HibernateSearchEventListenerRegister Unable to find org.hibernate.search.event.FullTextIndexEventListener on the classpath. Hibernate Search is not enabled.
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Output -> Output
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Alignment -> Alignment
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ProfileConstruction -> ProfileConstruction
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Masking -> Masking
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.SEG -> SEG
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.GapProbability -> GapProbability
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Autocorrection -> Autocorrection
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.InformationCorrection -> InformationCorrection
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.AlignmentFilter -> AlignmentFilter
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Search -> Search
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Cluster -> Cluster
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.EmailNotification -> EmailNotification
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.PeriodicalWorkerParams -> PeriodicalWorkerParams
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.User -> User
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.GrantedAuthorityBean -> GrantedAuthorityBean
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Job -> Job
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.DatabaseItem -> DatabaseItem
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.DataFile -> DataFile
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ComaResults -> ComaResults
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Image -> Image
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsHit -> ResultsHit
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsAlignment -> ResultsAlignment
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.AlignmentBibliography -> AlignmentBibliography
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ScopBibliography -> ScopBibliography
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsQuery -> ResultsQuery
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsFooter -> ResultsFooter
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.User.grantedAuthorities -> GrantedAuthorityBean
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.Job.dataFiles -> DataFile
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.hits -> ResultsHit
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.alignments -> ResultsAlignment
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.images -> Image
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ResultsAlignment.queries -> ResultsQuery
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.AlignmentBibliography.scopBibliography -> ScopBibliography
+[INFO] cfg.AnnotationConfiguration Hibernate Validator not found: ignoring
+[INFO] connection.ConnectionProviderFactory Initializing connection provider: org.hibernate.connection.C3P0ConnectionProvider
+[INFO] connection.C3P0ConnectionProvider C3P0 using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://localhost/comaServer
+[INFO] connection.C3P0ConnectionProvider Connection properties: {user=comaServer, password=****}
+[INFO] connection.C3P0ConnectionProvider autocommit mode: false
+[INFO] log.MLog MLog clients using log4j logging.
+[INFO] c3p0.C3P0Registry Initializing c3p0-0.9.1 [built 16-January-2007 14:46:42; debug? true; trace: 10]
+[INFO] impl.AbstractPoolBackedDataSource Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@bb3629dc [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@1ba29e18 [ acquireIncrement -> 3, acquireRetryAttempts -> 0, acquireRetryDelay -> 30000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt871nnsjs6gbfmca|71ce5e7a, idleConnectionTestPeriod -> 100, initialPoolSize -> 5, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 50, maxStatementsPerConnection -> 0, minPoolSize -> 5, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@85208fc6 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsjs6gbfmca|3d2a416a, jdbcUrl -> jdbc:mysql://localhost/comaServer, properties -> {user=******, password=******} ], preferredTestQuery -> SELECT 1, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsjs6gbfmca|1b4b74a7, numHelperThreads -> 3 ]
+[INFO] cfg.SettingsFactory RDBMS: MySQL, version: 5.0.77
+[INFO] cfg.SettingsFactory JDBC driver: MySQL-AB JDBC Driver, version: mysql-connector-java-5.1.6 ( Revision: ${svn.Revision} )
+[INFO] dialect.Dialect Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO] transaction.TransactionFactoryFactory Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+[INFO] transaction.TransactionManagerLookupFactory No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+[INFO] cfg.SettingsFactory Automatic flush during beforeCompletion(): disabled
+[INFO] cfg.SettingsFactory Automatic session close at end of transaction: disabled
+[INFO] cfg.SettingsFactory JDBC batch size: 15
+[INFO] cfg.SettingsFactory JDBC batch updates for versioned data: disabled
+[INFO] cfg.SettingsFactory Scrollable result sets: enabled
+[INFO] cfg.SettingsFactory JDBC3 getGeneratedKeys(): enabled
+[INFO] cfg.SettingsFactory Connection release mode: auto
+[INFO] cfg.SettingsFactory Maximum outer join fetch depth: 2
+[INFO] cfg.SettingsFactory Default batch fetch size: 1
+[INFO] cfg.SettingsFactory Generate SQL with comments: disabled
+[INFO] cfg.SettingsFactory Order SQL updates by primary key: disabled
+[INFO] cfg.SettingsFactory Order SQL inserts for batching: disabled
+[INFO] cfg.SettingsFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+[INFO] ast.ASTQueryTranslatorFactory Using ASTQueryTranslatorFactory
+[INFO] cfg.SettingsFactory Query language substitutions: {}
+[INFO] cfg.SettingsFactory JPA-QL strict compliance: disabled
+[INFO] cfg.SettingsFactory Second-level cache: enabled
+[INFO] cfg.SettingsFactory Query cache: disabled
+[INFO] cfg.SettingsFactory Cache region factory : org.hibernate.cache.impl.NoCachingRegionFactory
+[INFO] cfg.SettingsFactory Optimize cache for minimal puts: disabled
+[INFO] cfg.SettingsFactory Structured second-level cache entries: disabled
+[INFO] cfg.SettingsFactory Statistics: disabled
+[INFO] cfg.SettingsFactory Deleted entity synthetic identifier rollback: disabled
+[INFO] cfg.SettingsFactory Default entity-mode: pojo
+[INFO] cfg.SettingsFactory Named query checking : enabled
+[INFO] impl.SessionFactoryImpl building session factory
+[INFO] impl.SessionFactoryObjectFactory Not binding factory to JNDI, no JNDI name configured
+[INFO] hbm2ddl.SchemaUpdate Running hbm2ddl schema update
+[INFO] hbm2ddl.SchemaUpdate fetching database metadata
+[INFO] hbm2ddl.SchemaUpdate updating schema
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Alignment
+[INFO] hbm2ddl.TableMetadata columns: [uc_x, id, lc_c, scheme, databaseitemid, lc_g, uc_c, uc_g]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fke0d1c1c355ebaeb5, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.AlignmentBibliography
+[INFO] hbm2ddl.TableMetadata columns: [id, pfamid, pdbid, scopid, pubmedquery]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.AlignmentFilter
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_w, lc_f, lc_u, uc_f]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Autocorrection
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_a, uc_k, lc_p, uc_m, lc_k, lc_m]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Cluster
+[INFO] hbm2ddl.TableMetadata columns: [port, passphrase, urlforresults, globalfilepath, commandmsa, commandmodeller, hostname, localfilepath, id, remotefilepath, username, privatekeypath, commandcoma, local]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ComaResults
+[INFO] hbm2ddl.TableMetadata columns: [searchid, id, profiledbvalue, numberofsequences, sequencedbname, profiledbname, resultsfooterid, supportmodeling, sequencedbvalue, noprofilesfound]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk5cbecb6caa8bff, primary, fk5cbecb65e817c9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.DataFile
+[INFO] hbm2ddl.TableMetadata columns: [id, path, type, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk6e76d866eefaecb7]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.DatabaseItem
+[INFO] hbm2ddl.TableMetadata columns: [partialname, id, name, value, path, nomodeling, type]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.EmailNotification
+[INFO] hbm2ddl.TableMetadata columns: [sender, port, id, hostname]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.GapProbability
+[INFO] hbm2ddl.TableMetadata columns: [id, uc_p, uc_r, uc_e]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.GrantedAuthorityBean
+[INFO] hbm2ddl.TableMetadata columns: [id, authority, authorityid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fkb059aab8604b0447]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Image
+[INFO] hbm2ddl.TableMetadata columns: [id, priority, comaresultsid, path]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk437b93b9ca3bac9, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.InformationCorrection
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_b, uc_j, lc_j, uc_b, lc_l]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Job
+[INFO] hbm2ddl.TableMetadata columns: [generatedid, id, status, remotepath, email, expirationdate, description, comaresultsid, localpath, type, pbsid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [generatedid, primary, fk1239d9ca3bac9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Masking
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_r, uc_i, uc_a]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Output
+[INFO] hbm2ddl.TableMetadata columns: [uc_l, id, lc_e, uc_n, lc_n]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.PeriodicalWorkerParams
+[INFO] hbm2ddl.TableMetadata columns: [jobexpiration, id, evalueforpictures, jobwitherrorsexpiration, numberforpictures, redthreshold, greenthreshold]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ProfileConstruction
+[INFO] hbm2ddl.TableMetadata columns: [lc_s, id, lc_b, lc_t, lc_x, uc_y]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsAlignment
+[INFO] hbm2ddl.TableMetadata columns: [ungappedk, bibliographyid, hasheader, querylength, entropy, ungappedlambda, hasfooter, nonnegativescore, comaresultsid, score, identities, gappedlambda, header, minmax, positives, id, expect, gaps, expected, priority, gappedk, name, pvalue, subjectlength]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk812fdead89b5cbc4, primary, fk812fdead9ca3bac9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsFooter
+[INFO] hbm2ddl.TableMetadata columns: [ungappedk, querylength, ungappedlambda, gapopencost, gappedlambda, id, initialgapextensioncost, scoringmethod, databaselength, queryeffectivelength, deletionprobabilityweight, gappedk, databaseeffectivelength, effectivesearchspace]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsHit
+[INFO] hbm2ddl.TableMetadata columns: [id, priority, name, comaresultsid, score, evalue]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk54c9afdd9ca3bac9, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsQuery
+[INFO] hbm2ddl.TableMetadata columns: [id, subjectbegin, resultsalignmentid, queryend, subject, query, priority, subjectend, querybegin, info]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk49a14a92d8a996f3]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.SEG
+[INFO] hbm2ddl.TableMetadata columns: [id, uc_v, uc_u, uc_d, lc_z, lc_y, uc_z]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ScopBibliography
+[INFO] hbm2ddl.TableMetadata columns: [id, alignmentbibliographyid, scophierarchy, scopid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk8a9ee2534c36e467, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Search
+[INFO] hbm2ddl.TableMetadata columns: [id, msastrategy, databaseitemid, lc_t, lc_j, aa, lc_h, type, filters]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk935f51c855ebaeb5]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.User
+[INFO] hbm2ddl.TableMetadata columns: [credentialsnonexpired, id, enabled, username, accountnonlocked, accountnonexpired, email, password]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [username, primary]
+[INFO] hbm2ddl.SchemaUpdate schema update complete
+[INFO] tapestry5.TapestryFilter Startup status:
+
+Application 'app' (Tapestry version 5.0.18).
+
+Startup time: 115 ms to build IoC Registry, 2,013 ms overall.
+
+Startup services status:
+                     AccessDecisionManager: DEFINED
+                      AcegiExceptionFilter: DEFINED
+             ActionRenderResponseGenerator: DEFINED
+          AjaxComponentEventRequestHandler: DEFINED
+         AjaxComponentEventResultProcessor: DEFINED
+               AjaxPartialResponseRenderer: DEFINED
+                                     Alias: REAL
+                            AliasOverrides: REAL
+           AnonymousAuthenticationProvider: DEFINED
+                 AnonymousProcessingFilter: DEFINED
+                       ApplicationDefaults: REAL
+                        ApplicationGlobals: REAL
+                    ApplicationInitializer: REAL
+                   ApplicationStateManager: DEFINED
+ ApplicationStatePersistenceStrategySource: DEFINED
+                           AspectDecorator: DEFINED
+                       AssetBindingFactory: DEFINED
+                       AssetObjectProvider: REAL
+                               AssetSource: VIRTUAL
+                  AuthenticationEntryPoint: DEFINED
+            AuthenticationProcessingFilter: DEFINED
+               AuthenticationTrustResolver: DEFINED
+                             BaseURLSource: DEFINED
+                   BeanBlockOverrideSource: DEFINED
+                           BeanBlockSource: DEFINED
+                           BeanModelSource: DEFINED
+                             BindingSource: DEFINED
+                              ChainBuilder: VIRTUAL
+                              ClassFactory: BUILTIN
+                          ClassNameLocator: REAL
+                ClasspathAssetAliasManager: DEFINED
+                     ClasspathAssetFactory: DEFINED
+                     ClasspathURLConverter: REAL
+              ClientPersistentFieldStorage: DEFINED
+             ClientPersistentFieldStrategy: DEFINED
+                       ComponentClassCache: DEFINED
+                     ComponentClassFactory: DEFINED
+                    ComponentClassResolver: REAL
+             ComponentClassTransformWorker: DEFINED
+                 ComponentClassTransformer: VIRTUAL
+                  ComponentDefaultProvider: DEFINED
+              ComponentEventRequestHandler: DEFINED
+             ComponentEventResultProcessor: DEFINED
+          ComponentInstanceResultProcessor: DEFINED
+               ComponentInstantiatorSource: REAL
+                    ComponentInvocationMap: DEFINED
+                   ComponentMessagesSource: DEFINED
+                           ComponentSource: DEFINED
+                   ComponentTemplateSource: VIRTUAL
+                                   Context: DEFINED
+                       ContextAssetFactory: DEFINED
+                        ContextPathEncoder: DEFINED
+                       ContextValueEncoder: DEFINED
+                                CookieSink: DEFINED
+                              CookieSource: DEFINED
+                                   Cookies: DEFINED
+                             CtClassSource: DEFINED
+                 DaoAuthenticationProvider: DEFINED
+                          DataTypeAnalyzer: DEFINED
+                   DefaultDataTypeAnalyzer: DEFINED
+                    DefaultFileItemFactory: DEFINED
+                DefaultHibernateConfigurer: DEFINED
+              DefaultImplementationBuilder: VIRTUAL
+                   EndOfRequestListenerHub: DEFINED
+                               Environment: VIRTUAL
+                EnvironmentalShadowBuilder: VIRTUAL
+                         ExceptionAnalyzer: DEFINED
+                          ExceptionTracker: DEFINED
+                           FactoryDefaults: REAL
+                     FieldTranslatorSource: DEFINED
+                    FieldValidationSupport: DEFINED
+               FieldValidatorDefaultSource: DEFINED
+                      FieldValidatorSource: DEFINED
+                               FormSupport: DEFINED
+             HibernateEntityPackageManager: DEFINED
+                   HibernateSessionManager: DEFINED
+                    HibernateSessionSource: DEFINED
+             HibernateTransactionDecorator: DEFINED
+                  HiddenFieldLocationRules: DEFINED
+                        HttpServletRequest: DEFINED
+                 HttpServletRequestHandler: VIRTUAL
+       HttpSessionContextIntegrationFilter: DEFINED
+                               IDataSource: DEFINED
+                        IgnoredPathsFilter: DEFINED
+                         InjectionProvider: DEFINED
+                    InternalRequestGlobals: VIRTUAL
+                               LinkFactory: DEFINED
+                        LocalizationSetter: DEFINED
+                          LocationRenderer: DEFINED
+                              LoggerSource: BUILTIN
+                          LoggingDecorator: DEFINED
+                             LogoutService: DEFINED
+                            MarkupRenderer: DEFINED
+                       MarkupWriterFactory: DEFINED
+                          MasterDispatcher: DEFINED
+                      MasterObjectProvider: REAL
+                     MessageBindingFactory: DEFINED
+                           MetaDataLocator: DEFINED
+                          MultipartDecoder: DEFINED
+          MyAuthenticationProcessingFilter: DEFINED
+                              MySaltSource: VIRTUAL
+           NullFieldStrategyBindingFactory: DEFINED
+                   NullFieldStrategySource: DEFINED
+                            ObjectRenderer: DEFINED
+            PageActivationContextCollector: DEFINED
+                   PageContentTypeAnalyzer: DEFINED
+                     PageDocumentGenerator: DEFINED
+                        PageElementFactory: DEFINED
+                                PageLoader: DEFINED
+                        PageMarkupRenderer: DEFINED
+                                  PagePool: DEFINED
+                           PageRenderQueue: DEFINED
+                  PageRenderRequestHandler: DEFINED
+                       PageResourcesSource: DEFINED
+                      PageResponseRenderer: DEFINED
+                       PageTemplateLocator: DEFINED
+                     PartialMarkupRenderer: DEFINED
+                           PasswordEncoder: DEFINED
+                    PersistentFieldManager: DEFINED
+                          PersistentLocale: DEFINED
+                          PerthreadManager: BUILTIN
+                           PipelineBuilder: REAL
+                        PropBindingFactory: DEFINED
+                            PropertyAccess: VIRTUAL
+                     PropertyConduitSource: DEFINED
+                     PropertyShadowBuilder: VIRTUAL
+                           ProviderManager: VIRTUAL
+        RealAuthenticationProcessingFilter: DEFINED
+                       RegistryShutdownHub: BUILTIN
+                           RegistryStartup: REAL
+          RememberMeAuthenticationProvider: DEFINED
+                   RememberMeLogoutHandler: DEFINED
+                RememberMeProcessingFilter: DEFINED
+                        RememberMeServices: VIRTUAL
+                             RenderSupport: DEFINED
+                                   Request: VIRTUAL
+                   RequestExceptionHandler: DEFINED
+                            RequestGlobals: VIRTUAL
+                            RequestHandler: DEFINED
+                          RequestPageCache: DEFINED
+                      RequestPathOptimizer: DEFINED
+                    RequestSecurityManager: DEFINED
+                             ResourceCache: DEFINED
+                   ResourceDigestGenerator: DEFINED
+                          ResourceStreamer: DEFINED
+                                  Response: VIRTUAL
+                          ResponseRenderer: DEFINED
+                                SaltSource: VIRTUAL
+                           SecurityChecker: DEFINED
+   SecurityContextHolderAwareRequestFilter: DEFINED
+                 ServiceActivityScoreboard: BUILTIN
+                    ServiceLifecycleSource: DEFINED
+             ServletApplicationInitializer: REAL
+                                   Session: VIRTUAL
+SessionApplicationStatePersistenceStrategy: DEFINED
+                           StrategyBuilder: VIRTUAL
+                              SymbolSource: REAL
+                            TemplateParser: DEFINED
+                              ThreadLocale: VIRTUAL
+                              TimingFilter: DEFINED
+                   TranslateBindingFactory: DEFINED
+                          TranslatorSource: DEFINED
+                               TypeCoercer: REAL
+                                URLEncoder: DEFINED
+                         UpdateListenerHub: REAL
+                        UserDetailsService: DEFINED
+                    ValidateBindingFactory: DEFINED
+             ValidationConstraintGenerator: DEFINED
+                  ValidationMessagesSource: DEFINED
+                        ValueEncoderSource: DEFINED
+
+86.47% unrealized services (147/170)
+
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.ioc.services.TapestryIOCModule
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.upload.services.UploadModule
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.hibernate.HibernateModule
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.hibernate.HibernateCoreModule
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.services.TapestryModule
+[INFO] ioc.RegistryBuilder Adding module definition for class org.apache.tapestry5.internal.services.InternalModule
+[INFO] ioc.RegistryBuilder Adding module definition for class PDEXKsvm.services.AppModule
+[INFO] TapestryModule.ComponentClassResolver Available pages:
+                   (blank): PDEXKsvm.pages.Index
+                     About: PDEXKsvm.pages.About
+             Administrator: PDEXKsvm.pages.Administrator
+                   Contact: PDEXKsvm.pages.Contact
+                     Error: PDEXKsvm.pages.Error
+           ExceptionReport: org.apache.tapestry5.corelib.pages.ExceptionReport
+                     Index: PDEXKsvm.pages.Index
+                      Info: PDEXKsvm.pages.Info
+                ManageJobs: PDEXKsvm.pages.ManageJobs
+     PropertyDisplayBlocks: org.apache.tapestry5.corelib.pages.PropertyDisplayBlocks
+        PropertyEditBlocks: org.apache.tapestry5.corelib.pages.PropertyEditBlocks
+                   Results: PDEXKsvm.pages.Results
+             ServiceStatus: org.apache.tapestry5.corelib.pages.ServiceStatus
+                      Wait: PDEXKsvm.pages.Wait
+        edit/EditJobParams: PDEXKsvm.pages.edit.EditJobParams
+       edit/EditMailParams: PDEXKsvm.pages.edit.EditMailParams
+             edit/EditUser: PDEXKsvm.pages.edit.EditUser
+edit/EditWorkstationParams: PDEXKsvm.pages.edit.EditWorkstationParams
+            edit/JobParams: PDEXKsvm.pages.edit.EditJobParams
+           edit/MailParams: PDEXKsvm.pages.edit.EditMailParams
+                 edit/User: PDEXKsvm.pages.edit.EditUser
+    edit/WorkstationParams: PDEXKsvm.pages.edit.EditWorkstationParams
+      hibernate/Statistics: org.apache.tapestry5.hibernate.pages.Statistics
+
+[INFO] TapestryModule.ComponentClassResolver Available components:
+        ActionLink: org.apache.tapestry5.corelib.components.ActionLink
+        AddRowLink: org.apache.tapestry5.corelib.components.AddRowLink
+      AjaxFormLoop: org.apache.tapestry5.corelib.components.AjaxFormLoop
+               Any: org.apache.tapestry5.corelib.components.Any
+       BeanDisplay: org.apache.tapestry5.corelib.components.BeanDisplay
+      BeanEditForm: org.apache.tapestry5.corelib.components.BeanEditForm
+        BeanEditor: org.apache.tapestry5.corelib.components.BeanEditor
+          Checkbox: org.apache.tapestry5.corelib.components.Checkbox
+         DateField: org.apache.tapestry5.corelib.components.DateField
+          Delegate: org.apache.tapestry5.corelib.components.Delegate
+            Errors: org.apache.tapestry5.corelib.components.Errors
+         EventLink: org.apache.tapestry5.corelib.components.EventLink
+  ExceptionDisplay: org.apache.tapestry5.corelib.components.ExceptionDisplay
+              Form: org.apache.tapestry5.corelib.components.Form
+      FormFragment: org.apache.tapestry5.corelib.components.FormFragment
+      FormInjector: org.apache.tapestry5.corelib.components.FormInjector
+              Grid: org.apache.tapestry5.corelib.components.Grid
+          GridCell: org.apache.tapestry5.corelib.components.GridCell
+       GridColumns: org.apache.tapestry5.corelib.components.GridColumns
+         GridPager: org.apache.tapestry5.corelib.components.GridPager
+          GridRows: org.apache.tapestry5.corelib.components.GridRows
+            Hidden: org.apache.tapestry5.corelib.components.Hidden
+                If: org.apache.tapestry5.corelib.components.If
+             Label: org.apache.tapestry5.corelib.components.Label
+            Layout: PDEXKsvm.components.Layout
+        LinkSubmit: org.apache.tapestry5.corelib.components.LinkSubmit
+              Loop: org.apache.tapestry5.corelib.components.Loop
+            Output: org.apache.tapestry5.corelib.components.Output
+         OutputRaw: org.apache.tapestry5.corelib.components.OutputRaw
+          PageLink: org.apache.tapestry5.corelib.components.PageLink
+           Palette: org.apache.tapestry5.corelib.components.Palette
+     PasswordField: org.apache.tapestry5.corelib.components.PasswordField
+ProgressiveDisplay: org.apache.tapestry5.corelib.components.ProgressiveDisplay
+   PropertyDisplay: org.apache.tapestry5.corelib.components.PropertyDisplay
+    PropertyEditor: org.apache.tapestry5.corelib.components.PropertyEditor
+             Radio: org.apache.tapestry5.corelib.components.Radio
+        RadioGroup: org.apache.tapestry5.corelib.components.RadioGroup
+     RemoveRowLink: org.apache.tapestry5.corelib.components.RemoveRowLink
+      RenderObject: org.apache.tapestry5.corelib.components.RenderObject
+            Select: org.apache.tapestry5.corelib.components.Select
+            Submit: org.apache.tapestry5.corelib.components.Submit
+    SubmitNotifier: org.apache.tapestry5.corelib.components.SubmitNotifier
+          TextArea: org.apache.tapestry5.corelib.components.TextArea
+         TextField: org.apache.tapestry5.corelib.components.TextField
+        TextOutput: org.apache.tapestry5.corelib.components.TextOutput
+            Unless: org.apache.tapestry5.corelib.components.Unless
+            Upload: org.apache.tapestry5.upload.components.Upload
+              Zone: org.apache.tapestry5.corelib.components.Zone
+
+[INFO] TapestryModule.ComponentClassResolver Available mixins:
+   Autocomplete: org.apache.tapestry5.corelib.mixins.Autocomplete
+    DiscardBody: org.apache.tapestry5.corelib.mixins.DiscardBody
+       NotEmpty: org.apache.tapestry5.corelib.mixins.NotEmpty
+ RenderDisabled: org.apache.tapestry5.corelib.mixins.RenderDisabled
+RenderInformals: org.apache.tapestry5.corelib.mixins.RenderInformals
+TriggerFragment: org.apache.tapestry5.corelib.mixins.TriggerFragment
+
+[INFO] annotations.Version Hibernate Annotations 3.4.0.GA
+[INFO] cfg.Environment Hibernate 3.3.1.GA
+[INFO] cfg.Environment hibernate.properties not found
+[INFO] cfg.Environment Bytecode provider name : javassist
+[INFO] cfg.Environment using JDK 1.4 java.sql.Timestamp handling
+[INFO] common.Version Hibernate Commons Annotations 3.1.0.GA
+[INFO] cfg.Configuration configuring from resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Configuration resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/User.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/EmailNotification.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/JobParams.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/Workstation.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/Job.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/DataFile.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/ClassificationObject.hbm.xml
+[INFO] cfg.Configuration Configured SessionFactory: null
+[INFO] search.HibernateSearchEventListenerRegister Unable to find org.hibernate.search.event.FullTextIndexEventListener on the classpath. Hibernate Search is not enabled.
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.User -> User
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.EmailNotification -> EmailNotification
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.JobParams -> JobParams
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.Workstation -> Workstation
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.Job -> Job
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.DataFile -> DataFile
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.ClassificationObject -> ClassificationObject
+[INFO] cfg.HbmBinder Mapping collection: PDEXKsvm.entities.Job.classificationObjects -> ClassificationObject
+[INFO] cfg.HbmBinder Mapping collection: PDEXKsvm.entities.Job.dataFiles -> DataFile
+[INFO] cfg.AnnotationConfiguration Hibernate Validator not found: ignoring
+[INFO] connection.ConnectionProviderFactory Initializing connection provider: org.hibernate.connection.C3P0ConnectionProvider
+[INFO] connection.C3P0ConnectionProvider C3P0 using driver: org.hsqldb.jdbcDriver at URL: jdbc:hsqldb:./database/database;shutdown=true
+[INFO] connection.C3P0ConnectionProvider Connection properties: {user=sa, password=****}
+[INFO] connection.C3P0ConnectionProvider autocommit mode: false
+[INFO] log.MLog MLog clients using log4j logging.
+[INFO] c3p0.C3P0Registry Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+[WARN] management.ActiveManagementCoordinator A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+[INFO] impl.AbstractPoolBackedDataSource Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@6d773825 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@66565178 [ acquireIncrement -> 3, acquireRetryAttempts -> 0, acquireRetryDelay -> 30000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt871nnsl54znn94s|670064a4, idleConnectionTestPeriod -> 100, initialPoolSize -> 5, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 50, maxStatementsPerConnection -> 0, minPoolSize -> 5, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@f7da3e77 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsl54znn94s|646dd60e, jdbcUrl -> jdbc:hsqldb:./database/database;shutdown=true, properties -> {user=******, password=******} ], preferredTestQuery -> SELECT 1, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsl54znn94s|20688e91, numHelperThreads -> 3 ]
+[INFO] cfg.SettingsFactory RDBMS: HSQL Database Engine, version: 1.8.0
+[INFO] cfg.SettingsFactory JDBC driver: HSQL Database Engine Driver, version: 1.8.0
+[INFO] dialect.Dialect Using dialect: org.hibernate.dialect.HSQLDialect
+[INFO] transaction.TransactionFactoryFactory Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+[INFO] transaction.TransactionManagerLookupFactory No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+[INFO] cfg.SettingsFactory Automatic flush during beforeCompletion(): disabled
+[INFO] cfg.SettingsFactory Automatic session close at end of transaction: disabled
+[INFO] cfg.SettingsFactory JDBC batch size: 15
+[INFO] cfg.SettingsFactory JDBC batch updates for versioned data: disabled
+[INFO] cfg.SettingsFactory Scrollable result sets: enabled
+[INFO] cfg.SettingsFactory JDBC3 getGeneratedKeys(): disabled
+[INFO] cfg.SettingsFactory Connection release mode: auto
+[INFO] cfg.SettingsFactory Default batch fetch size: 1
+[INFO] cfg.SettingsFactory Generate SQL with comments: disabled
+[INFO] cfg.SettingsFactory Order SQL updates by primary key: disabled
+[INFO] cfg.SettingsFactory Order SQL inserts for batching: disabled
+[INFO] cfg.SettingsFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+[INFO] ast.ASTQueryTranslatorFactory Using ASTQueryTranslatorFactory
+[INFO] cfg.SettingsFactory Query language substitutions: {}
+[INFO] cfg.SettingsFactory JPA-QL strict compliance: disabled
+[INFO] cfg.SettingsFactory Second-level cache: enabled
+[INFO] cfg.SettingsFactory Query cache: disabled
+[INFO] cfg.SettingsFactory Cache region factory : org.hibernate.cache.impl.NoCachingRegionFactory
+[INFO] cfg.SettingsFactory Optimize cache for minimal puts: disabled
+[INFO] cfg.SettingsFactory Structured second-level cache entries: disabled
+[INFO] cfg.SettingsFactory Statistics: disabled
+[INFO] cfg.SettingsFactory Deleted entity synthetic identifier rollback: disabled
+[INFO] cfg.SettingsFactory Default entity-mode: pojo
+[INFO] cfg.SettingsFactory Named query checking : enabled
+[INFO] impl.SessionFactoryImpl building session factory
+[INFO] impl.SessionFactoryObjectFactory Not binding factory to JNDI, no JNDI name configured
+[INFO] hbm2ddl.SchemaUpdate Running hbm2ddl schema update
+[INFO] hbm2ddl.SchemaUpdate fetching database metadata
+[INFO] hbm2ddl.SchemaUpdate updating schema
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.CLASSIFICATIONOBJECT
+[INFO] hbm2ddl.TableMetadata columns: [trainingaccuracy, id, predictedprobability, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: [fk541bf2e5e23baa10]
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_62, sys_idx_64]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.DATAFILE
+[INFO] hbm2ddl.TableMetadata columns: [id, path, type, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: [fk6e76d866e23baa10]
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_66, sys_idx_46]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.EMAILNOTIFICATION
+[INFO] hbm2ddl.TableMetadata columns: [sender, port, id, hostname]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_48]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.JOB
+[INFO] hbm2ddl.TableMetadata columns: [generatedid, id, submissiondate, error, workstationid, status, email, expirationdate, description, type]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_51, sys_idx_sys_ct_50_53]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.JOBPARAMS
+[INFO] hbm2ddl.TableMetadata columns: [id, urlforresults, expirationperioderr, expirationperiod, maxsubmittedjobs]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_54]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.USER
+[INFO] hbm2ddl.TableMetadata columns: [id, username, email, admin, password]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_57, sys_idx_sys_ct_56_59]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.WORKSTATION
+[INFO] hbm2ddl.TableMetadata columns: [id, remotefilepath, username, globalfilepath, scriptpath, localfilepath, hostname, local, keyfilepass, keyfilepath]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_60]
+[INFO] hbm2ddl.SchemaUpdate schema update complete
+[INFO] tapestry5.TapestryFilter Startup status:
+
+Application 'app' (Tapestry version 5.1.0.5).
+
+Startup time: 110 ms to build IoC Registry, 1,166 ms overall.
+
+Startup services status:
+             ActionRenderResponseGenerator: DEFINED
+          AjaxComponentEventRequestHandler: DEFINED
+         AjaxComponentEventResultProcessor: DEFINED
+               AjaxPartialResponseRenderer: DEFINED
+                                     Alias: REAL
+                            AliasOverrides: REAL
+                       ApplicationDefaults: REAL
+                        ApplicationGlobals: REAL
+                    ApplicationInitializer: REAL
+                   ApplicationStateManager: DEFINED
+ ApplicationStatePersistenceStrategySource: DEFINED
+                           AspectDecorator: VIRTUAL
+                       AssetBindingFactory: DEFINED
+                       AssetObjectProvider: REAL
+                        AssetPathConverter: DEFINED
+                      AssetResourceLocator: DEFINED
+                               AssetSource: VIRTUAL
+                             BaseURLSource: DEFINED
+                   BeanBlockOverrideSource: DEFINED
+                           BeanBlockSource: DEFINED
+                           BeanModelSource: DEFINED
+                             BindingSource: DEFINED
+                              ChainBuilder: VIRTUAL
+                              ClassFactory: BUILTIN
+                          ClassNameLocator: REAL
+                ClasspathAssetAliasManager: DEFINED
+                     ClasspathAssetFactory: DEFINED
+                     ClasspathURLConverter: REAL
+                     ClientBehaviorSupport: DEFINED
+                         ClientDataEncoder: DEFINED
+                      ClientInfrastructure: DEFINED
+              ClientPersistentFieldStorage: DEFINED
+             ClientPersistentFieldStrategy: DEFINED
+                       ComponentClassCache: DEFINED
+                     ComponentClassFactory: DEFINED
+                    ComponentClassResolver: REAL
+             ComponentClassTransformWorker: DEFINED
+                 ComponentClassTransformer: VIRTUAL
+      ComponentClassesInvalidationEventHub: REAL
+                  ComponentDefaultProvider: DEFINED
+                 ComponentEventLinkEncoder: DEFINED
+              ComponentEventRequestHandler: DEFINED
+             ComponentEventResultProcessor: DEFINED
+          ComponentInstanceResultProcessor: DEFINED
+               ComponentInstantiatorSource: REAL
+     ComponentMessagesInvalidationEventHub: DEFINED
+                   ComponentMessagesSource: DEFINED
+                      ComponentModelSource: DEFINED
+       ComponentPageElementResourcesSource: DEFINED
+                   ComponentRequestHandler: DEFINED
+                           ComponentSource: DEFINED
+                   ComponentTemplateSource: DEFINED
+    ComponentTemplatesInvalidationEventHub: DEFINED
+                                   Context: DEFINED
+                       ContextAssetFactory: DEFINED
+                     ContextBindingFactory: DEFINED
+                        ContextPathEncoder: DEFINED
+                       ContextValueEncoder: DEFINED
+                                CookieSink: DEFINED
+                              CookieSource: DEFINED
+                                   Cookies: DEFINED
+                             CtClassSource: DEFINED
+                          DataTypeAnalyzer: DEFINED
+                   DefaultDataTypeAnalyzer: DEFINED
+                    DefaultFileItemFactory: DEFINED
+                DefaultHibernateConfigurer: DEFINED
+              DefaultImplementationBuilder: VIRTUAL
+                         DeferredExecution: DEFINED
+                      EndOfRequestEventHub: REAL
+                               Environment: VIRTUAL
+                EnvironmentalShadowBuilder: VIRTUAL
+                         ExceptionAnalyzer: DEFINED
+                          ExceptionTracker: DEFINED
+                           FactoryDefaults: REAL
+                     FieldTranslatorSource: DEFINED
+                    FieldValidationSupport: DEFINED
+               FieldValidatorDefaultSource: DEFINED
+                      FieldValidatorSource: DEFINED
+                               FormSupport: DEFINED
+             HibernateEntityPackageManager: DEFINED
+                   HibernateSessionManager: DEFINED
+                    HibernateSessionSource: VIRTUAL
+               HibernateTransactionAdvisor: DEFINED
+             HibernateTransactionDecorator: DEFINED
+                  HiddenFieldLocationRules: DEFINED
+                        HttpServletRequest: DEFINED
+                 HttpServletRequestHandler: VIRTUAL
+                       HttpServletResponse: DEFINED
+                               IDataSource: DEFINED
+                        IgnoredPathsFilter: DEFINED
+                         InjectionProvider: DEFINED
+                    InternalRequestGlobals: VIRTUAL
+                               LazyAdvisor: DEFINED
+                           LinkCreationHub: DEFINED
+                                LinkSource: DEFINED
+                        LocalizationSetter: DEFINED
+                          LocationRenderer: DEFINED
+                              LoggerSource: BUILTIN
+                            LoggingAdvisor: DEFINED
+                          LoggingDecorator: DEFINED
+                            MarkupRenderer: DEFINED
+                       MarkupWriterFactory: DEFINED
+                          MasterDispatcher: DEFINED
+                      MasterObjectProvider: REAL
+           MasterStackTraceElementAnalyzer: DEFINED
+                     MessageBindingFactory: DEFINED
+                           MetaDataLocator: DEFINED
+                          MultipartDecoder: DEFINED
+           NullFieldStrategyBindingFactory: DEFINED
+                   NullFieldStrategySource: DEFINED
+                  NumericTranslatorSupport: DEFINED
+                            ObjectRenderer: DEFINED
+            PageActivationContextCollector: DEFINED
+                   PageContentTypeAnalyzer: DEFINED
+                     PageDocumentGenerator: DEFINED
+                        PageElementFactory: DEFINED
+                                PageLoader: DEFINED
+                        PageMarkupRenderer: DEFINED
+                                  PagePool: DEFINED
+                      PageRenderLinkSource: DEFINED
+                           PageRenderQueue: DEFINED
+                  PageRenderRequestHandler: DEFINED
+                      PageResponseRenderer: DEFINED
+                       PageTemplateLocator: DEFINED
+                     PartialMarkupRenderer: DEFINED
+                    PersistentFieldManager: DEFINED
+                          PersistentLocale: DEFINED
+                          PerthreadManager: BUILTIN
+                           PipelineBuilder: REAL
+                        PropBindingFactory: DEFINED
+                            PropertyAccess: VIRTUAL
+                     PropertyConduitSource: DEFINED
+                     PropertyShadowBuilder: VIRTUAL
+                       RegistryShutdownHub: BUILTIN
+                           RegistryStartup: REAL
+                             RenderSupport: DEFINED
+                                   Request: VIRTUAL
+                   RequestExceptionHandler: DEFINED
+                            RequestGlobals: VIRTUAL
+                            RequestHandler: DEFINED
+                          RequestPageCache: DEFINED
+                      RequestPathOptimizer: DEFINED
+                    RequestSecurityManager: DEFINED
+                             ResourceCache: DEFINED
+                   ResourceDigestGenerator: DEFINED
+                          ResourceStreamer: DEFINED
+                                  Response: VIRTUAL
+               ResponseCompressionAnalyzer: DEFINED
+                          ResponseRenderer: DEFINED
+                 ServiceActivityScoreboard: BUILTIN
+                    ServiceLifecycleSource: REAL
+                           ServiceOverride: REAL
+             ServletApplicationInitializer: REAL
+                                   Session: VIRTUAL
+SessionApplicationStatePersistenceStrategy: DEFINED
+            SessionPersistedObjectAnalyzer: DEFINED
+                           StrategyBuilder: VIRTUAL
+                            StringInterner: DEFINED
+                              SymbolSource: REAL
+                            TemplateParser: DEFINED
+                              ThreadLocale: VIRTUAL
+                              ThunkCreator: DEFINED
+                              TimingFilter: DEFINED
+                   TranslateBindingFactory: DEFINED
+                          TranslatorSource: DEFINED
+                               TypeCoercer: REAL
+                                URLEncoder: DEFINED
+                               URLRewriter: DEFINED
+                         UpdateListenerHub: REAL
+                    ValidateBindingFactory: DEFINED
+             ValidationConstraintGenerator: DEFINED
+                  ValidationMessagesSource: DEFINED
+                        ValueEncoderSource: DEFINED
+                      VirtualAssetStreamer: DEFINED
+
+84.48% unrealized services (147/174)
+
+2010-04-07 09:47:02.203::INFO:  No Transaction manager found - if your webapp requires one, please configure one.
+2010-04-07 09:47:02.245::INFO:  Opened /home/coma/jetty-6.1.14/logs/2010_04_07.request.log
+2010-04-07 09:47:02.254::INFO:  Started SelectChannelConnector@0.0.0.0:8085
+[INFO] cfg.Configuration configuring from resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Configuration resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Output.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Alignment.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ProfileConstruction.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Masking.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/SEG.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/GapProbability.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Autocorrection.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/InformationCorrection.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/AlignmentFilter.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Search.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Cluster.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/EmailNotification.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/PeriodicalWorkerParams.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/User.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/GrantedAuthorityBean.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Job.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/DatabaseItem.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/DataFile.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ComaResults.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/Image.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsHit.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsAlignment.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/AlignmentBibliography.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ScopBibliography.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsQuery.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : bioinfo/comaWebServer/entities/ResultsFooter.hbm.xml
+[INFO] cfg.Configuration Configured SessionFactory: null
+[INFO] cfg.AnnotationConfiguration Mapping package bioinfo.comaWebServer.entities
+[WARN] cfg.AnnotationBinder Package not found or wo package-info.java: bioinfo.comaWebServer.entities
+[INFO] search.HibernateSearchEventListenerRegister Unable to find org.hibernate.search.event.FullTextIndexEventListener on the classpath. Hibernate Search is not enabled.
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Output -> Output
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Alignment -> Alignment
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ProfileConstruction -> ProfileConstruction
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Masking -> Masking
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.SEG -> SEG
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.GapProbability -> GapProbability
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Autocorrection -> Autocorrection
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.InformationCorrection -> InformationCorrection
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.AlignmentFilter -> AlignmentFilter
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Search -> Search
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Cluster -> Cluster
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.EmailNotification -> EmailNotification
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.PeriodicalWorkerParams -> PeriodicalWorkerParams
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.User -> User
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.GrantedAuthorityBean -> GrantedAuthorityBean
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Job -> Job
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.DatabaseItem -> DatabaseItem
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.DataFile -> DataFile
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ComaResults -> ComaResults
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.Image -> Image
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsHit -> ResultsHit
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsAlignment -> ResultsAlignment
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.AlignmentBibliography -> AlignmentBibliography
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ScopBibliography -> ScopBibliography
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsQuery -> ResultsQuery
+[INFO] cfg.HbmBinder Mapping class: bioinfo.comaWebServer.entities.ResultsFooter -> ResultsFooter
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.User.grantedAuthorities -> GrantedAuthorityBean
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.Job.dataFiles -> DataFile
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.hits -> ResultsHit
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.alignments -> ResultsAlignment
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ComaResults.images -> Image
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.ResultsAlignment.queries -> ResultsQuery
+[INFO] cfg.HbmBinder Mapping collection: bioinfo.comaWebServer.entities.AlignmentBibliography.scopBibliography -> ScopBibliography
+[INFO] cfg.AnnotationConfiguration Hibernate Validator not found: ignoring
+[INFO] connection.ConnectionProviderFactory Initializing connection provider: org.hibernate.connection.C3P0ConnectionProvider
+[INFO] connection.C3P0ConnectionProvider C3P0 using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://localhost/comaServer
+[INFO] connection.C3P0ConnectionProvider Connection properties: {user=comaServer, password=****}
+[INFO] connection.C3P0ConnectionProvider autocommit mode: false
+[INFO] impl.AbstractPoolBackedDataSource Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@35eef753 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@71f594f0 [ acquireIncrement -> 3, acquireRetryAttempts -> 0, acquireRetryDelay -> 30000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt871nnsjs6gbfmca|79f5910e, idleConnectionTestPeriod -> 100, initialPoolSize -> 5, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 50, maxStatementsPerConnection -> 0, minPoolSize -> 5, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@1dad18c [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsjs6gbfmca|653cca0e, jdbcUrl -> jdbc:mysql://localhost/comaServer, properties -> {user=******, password=******} ], preferredTestQuery -> SELECT 1, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsjs6gbfmca|69066caf, numHelperThreads -> 3 ]
+[INFO] cfg.SettingsFactory RDBMS: MySQL, version: 5.0.77
+[INFO] cfg.SettingsFactory JDBC driver: MySQL-AB JDBC Driver, version: mysql-connector-java-5.1.6 ( Revision: ${svn.Revision} )
+[INFO] dialect.Dialect Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO] transaction.TransactionFactoryFactory Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+[INFO] transaction.TransactionManagerLookupFactory No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+[INFO] cfg.SettingsFactory Automatic flush during beforeCompletion(): disabled
+[INFO] cfg.SettingsFactory Automatic session close at end of transaction: disabled
+[INFO] cfg.SettingsFactory JDBC batch size: 15
+[INFO] cfg.SettingsFactory JDBC batch updates for versioned data: disabled
+[INFO] cfg.SettingsFactory Scrollable result sets: enabled
+[INFO] cfg.SettingsFactory JDBC3 getGeneratedKeys(): enabled
+[INFO] cfg.SettingsFactory Connection release mode: auto
+[INFO] cfg.SettingsFactory Maximum outer join fetch depth: 2
+[INFO] cfg.SettingsFactory Default batch fetch size: 1
+[INFO] cfg.SettingsFactory Generate SQL with comments: disabled
+[INFO] cfg.SettingsFactory Order SQL updates by primary key: disabled
+[INFO] cfg.SettingsFactory Order SQL inserts for batching: disabled
+[INFO] cfg.SettingsFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+[INFO] ast.ASTQueryTranslatorFactory Using ASTQueryTranslatorFactory
+[INFO] cfg.SettingsFactory Query language substitutions: {}
+[INFO] cfg.SettingsFactory JPA-QL strict compliance: disabled
+[INFO] cfg.SettingsFactory Second-level cache: enabled
+[INFO] cfg.SettingsFactory Query cache: disabled
+[INFO] cfg.SettingsFactory Cache region factory : org.hibernate.cache.impl.NoCachingRegionFactory
+[INFO] cfg.SettingsFactory Optimize cache for minimal puts: disabled
+[INFO] cfg.SettingsFactory Structured second-level cache entries: disabled
+[INFO] cfg.SettingsFactory Statistics: disabled
+[INFO] cfg.SettingsFactory Deleted entity synthetic identifier rollback: disabled
+[INFO] cfg.SettingsFactory Default entity-mode: pojo
+[INFO] cfg.SettingsFactory Named query checking : enabled
+[INFO] impl.SessionFactoryImpl building session factory
+[INFO] impl.SessionFactoryObjectFactory Not binding factory to JNDI, no JNDI name configured
+[INFO] hbm2ddl.SchemaUpdate Running hbm2ddl schema update
+[INFO] hbm2ddl.SchemaUpdate fetching database metadata
+[INFO] hbm2ddl.SchemaUpdate updating schema
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Alignment
+[INFO] hbm2ddl.TableMetadata columns: [uc_x, id, lc_c, scheme, databaseitemid, lc_g, uc_c, uc_g]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fke0d1c1c355ebaeb5, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.AlignmentBibliography
+[INFO] hbm2ddl.TableMetadata columns: [id, pfamid, pdbid, scopid, pubmedquery]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.AlignmentFilter
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_w, lc_f, lc_u, uc_f]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Autocorrection
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_a, uc_k, lc_p, uc_m, lc_k, lc_m]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Cluster
+[INFO] hbm2ddl.TableMetadata columns: [port, passphrase, urlforresults, globalfilepath, commandmsa, commandmodeller, hostname, localfilepath, id, remotefilepath, username, privatekeypath, commandcoma, local]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ComaResults
+[INFO] hbm2ddl.TableMetadata columns: [searchid, id, profiledbvalue, numberofsequences, sequencedbname, profiledbname, resultsfooterid, supportmodeling, sequencedbvalue, noprofilesfound]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk5cbecb6caa8bff, primary, fk5cbecb65e817c9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.DataFile
+[INFO] hbm2ddl.TableMetadata columns: [id, path, type, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk6e76d866eefaecb7]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.DatabaseItem
+[INFO] hbm2ddl.TableMetadata columns: [partialname, id, name, value, path, nomodeling, type]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.EmailNotification
+[INFO] hbm2ddl.TableMetadata columns: [sender, port, id, hostname]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.GapProbability
+[INFO] hbm2ddl.TableMetadata columns: [id, uc_p, uc_r, uc_e]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.GrantedAuthorityBean
+[INFO] hbm2ddl.TableMetadata columns: [id, authority, authorityid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fkb059aab8604b0447]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Image
+[INFO] hbm2ddl.TableMetadata columns: [id, priority, comaresultsid, path]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk437b93b9ca3bac9, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.InformationCorrection
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_b, uc_j, lc_j, uc_b, lc_l]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Job
+[INFO] hbm2ddl.TableMetadata columns: [generatedid, id, status, remotepath, email, expirationdate, description, comaresultsid, localpath, type, pbsid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [generatedid, primary, fk1239d9ca3bac9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Masking
+[INFO] hbm2ddl.TableMetadata columns: [id, lc_r, uc_i, uc_a]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Output
+[INFO] hbm2ddl.TableMetadata columns: [uc_l, id, lc_e, uc_n, lc_n]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.PeriodicalWorkerParams
+[INFO] hbm2ddl.TableMetadata columns: [jobexpiration, id, evalueforpictures, jobwitherrorsexpiration, numberforpictures, redthreshold, greenthreshold]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ProfileConstruction
+[INFO] hbm2ddl.TableMetadata columns: [lc_s, id, lc_b, lc_t, lc_x, uc_y]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsAlignment
+[INFO] hbm2ddl.TableMetadata columns: [ungappedk, bibliographyid, hasheader, querylength, entropy, ungappedlambda, hasfooter, nonnegativescore, comaresultsid, score, identities, gappedlambda, header, minmax, positives, id, expect, gaps, expected, priority, gappedk, name, pvalue, subjectlength]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk812fdead89b5cbc4, primary, fk812fdead9ca3bac9]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsFooter
+[INFO] hbm2ddl.TableMetadata columns: [ungappedk, querylength, ungappedlambda, gapopencost, gappedlambda, id, initialgapextensioncost, scoringmethod, databaselength, queryeffectivelength, deletionprobabilityweight, gappedk, databaseeffectivelength, effectivesearchspace]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsHit
+[INFO] hbm2ddl.TableMetadata columns: [id, priority, name, comaresultsid, score, evalue]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk54c9afdd9ca3bac9, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ResultsQuery
+[INFO] hbm2ddl.TableMetadata columns: [id, subjectbegin, resultsalignmentid, queryend, subject, query, priority, subjectend, querybegin, info]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk49a14a92d8a996f3]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.SEG
+[INFO] hbm2ddl.TableMetadata columns: [id, uc_v, uc_u, uc_d, lc_z, lc_y, uc_z]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.ScopBibliography
+[INFO] hbm2ddl.TableMetadata columns: [id, alignmentbibliographyid, scophierarchy, scopid]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [fk8a9ee2534c36e467, primary]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.Search
+[INFO] hbm2ddl.TableMetadata columns: [id, msastrategy, databaseitemid, lc_t, lc_j, aa, lc_h, type, filters]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [primary, fk935f51c855ebaeb5]
+[INFO] hbm2ddl.TableMetadata table found: comaServer.User
+[INFO] hbm2ddl.TableMetadata columns: [credentialsnonexpired, id, enabled, username, accountnonlocked, accountnonexpired, email, password]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [username, primary]
+[INFO] hbm2ddl.SchemaUpdate schema update complete
+[INFO] HibernateModule.HibernateSessionSource Hibernate startup: 127 ms to configure, 335 ms overall.
+[INFO] HibernateModule.HibernateSessionSource Configured Hibernate entities: bioinfo.comaWebServer.entities.Alignment, bioinfo.comaWebServer.entities.AlignmentBibliography, bioinfo.comaWebServer.entities.AlignmentFilter, bioinfo.comaWebServer.entities.Autocorrection, bioinfo.comaWebServer.entities.Cluster, bioinfo.comaWebServer.entities.ComaResults, bioinfo.comaWebServer.entities.DataFile, bioinfo.comaWebServer.entities.DatabaseItem, bioinfo.comaWebServer.entities.EmailNotification, bioinfo.comaWebServer.entities.GapProbability, bioinfo.comaWebServer.entities.GrantedAuthorityBean, bioinfo.comaWebServer.entities.Image, bioinfo.comaWebServer.entities.InformationCorrection, bioinfo.comaWebServer.entities.Job, bioinfo.comaWebServer.entities.Masking, bioinfo.comaWebServer.entities.Output, bioinfo.comaWebServer.entities.PeriodicalWorkerParams, bioinfo.comaWebServer.entities.ProfileConstruction, bioinfo.comaWebServer.entities.ResultsAlignment, bioinfo.comaWebServer.entities.ResultsFooter, bioinfo.comaWebServer.entities.ResultsHit, bioinfo.comaWebServer.entities.ResultsQuery, bioinfo.comaWebServer.entities.SEG, bioinfo.comaWebServer.entities.ScopBibliography, bioinfo.comaWebServer.entities.Search, bioinfo.comaWebServer.entities.User
+[DEBUG] AppModule.IDataSource Creating service 'IDataSource'.
+[INFO] cfg.Configuration configuring from resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Configuration resource: /hibernate.cfg.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/User.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/EmailNotification.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/JobParams.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/Workstation.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/Job.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/DataFile.hbm.xml
+[INFO] cfg.Configuration Reading mappings from resource : PDEXKsvm/entities/ClassificationObject.hbm.xml
+[INFO] cfg.Configuration Configured SessionFactory: null
+[INFO] cfg.AnnotationConfiguration Mapping package PDEXKsvm.entities
+[WARN] cfg.AnnotationBinder Package not found or wo package-info.java: PDEXKsvm.entities
+[INFO] search.HibernateSearchEventListenerRegister Unable to find org.hibernate.search.event.FullTextIndexEventListener on the classpath. Hibernate Search is not enabled.
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.User -> User
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.EmailNotification -> EmailNotification
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.JobParams -> JobParams
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.Workstation -> Workstation
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.Job -> Job
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.DataFile -> DataFile
+[INFO] cfg.HbmBinder Mapping class: PDEXKsvm.entities.ClassificationObject -> ClassificationObject
+[INFO] cfg.HbmBinder Mapping collection: PDEXKsvm.entities.Job.classificationObjects -> ClassificationObject
+[INFO] cfg.HbmBinder Mapping collection: PDEXKsvm.entities.Job.dataFiles -> DataFile
+[INFO] cfg.AnnotationConfiguration Hibernate Validator not found: ignoring
+[INFO] connection.ConnectionProviderFactory Initializing connection provider: org.hibernate.connection.C3P0ConnectionProvider
+[INFO] connection.C3P0ConnectionProvider C3P0 using driver: org.hsqldb.jdbcDriver at URL: jdbc:hsqldb:./database/database;shutdown=true
+[INFO] connection.C3P0ConnectionProvider Connection properties: {user=sa, password=****}
+[INFO] connection.C3P0ConnectionProvider autocommit mode: false
+[INFO] impl.AbstractPoolBackedDataSource Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@febfbd47 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@ad16bf07 [ acquireIncrement -> 3, acquireRetryAttempts -> 0, acquireRetryDelay -> 30000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt871nnsl54znn94s|6a5dd151, idleConnectionTestPeriod -> 100, initialPoolSize -> 5, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 50, maxStatementsPerConnection -> 0, minPoolSize -> 5, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@b53c2e69 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsl54znn94s|1a691aca, jdbcUrl -> jdbc:hsqldb:./database/database;shutdown=true, properties -> {user=******, password=******} ], preferredTestQuery -> SELECT 1, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> z8kflt871nnsl54znn94s|35595365, numHelperThreads -> 3 ]
+[INFO] cfg.SettingsFactory RDBMS: HSQL Database Engine, version: 1.8.0
+[INFO] cfg.SettingsFactory JDBC driver: HSQL Database Engine Driver, version: 1.8.0
+[INFO] dialect.Dialect Using dialect: org.hibernate.dialect.HSQLDialect
+[INFO] transaction.TransactionFactoryFactory Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+[INFO] transaction.TransactionManagerLookupFactory No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+[INFO] cfg.SettingsFactory Automatic flush during beforeCompletion(): disabled
+[INFO] cfg.SettingsFactory Automatic session close at end of transaction: disabled
+[INFO] cfg.SettingsFactory JDBC batch size: 15
+[INFO] cfg.SettingsFactory JDBC batch updates for versioned data: disabled
+[INFO] cfg.SettingsFactory Scrollable result sets: enabled
+[INFO] cfg.SettingsFactory JDBC3 getGeneratedKeys(): disabled
+[INFO] cfg.SettingsFactory Connection release mode: auto
+[INFO] cfg.SettingsFactory Default batch fetch size: 1
+[INFO] cfg.SettingsFactory Generate SQL with comments: disabled
+[INFO] cfg.SettingsFactory Order SQL updates by primary key: disabled
+[INFO] cfg.SettingsFactory Order SQL inserts for batching: disabled
+[INFO] cfg.SettingsFactory Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+[INFO] ast.ASTQueryTranslatorFactory Using ASTQueryTranslatorFactory
+[INFO] cfg.SettingsFactory Query language substitutions: {}
+[INFO] cfg.SettingsFactory JPA-QL strict compliance: disabled
+[INFO] cfg.SettingsFactory Second-level cache: enabled
+[INFO] cfg.SettingsFactory Query cache: disabled
+[INFO] cfg.SettingsFactory Cache region factory : org.hibernate.cache.impl.NoCachingRegionFactory
+[INFO] cfg.SettingsFactory Optimize cache for minimal puts: disabled
+[INFO] cfg.SettingsFactory Structured second-level cache entries: disabled
+[INFO] cfg.SettingsFactory Statistics: disabled
+[INFO] cfg.SettingsFactory Deleted entity synthetic identifier rollback: disabled
+[INFO] cfg.SettingsFactory Default entity-mode: pojo
+[INFO] cfg.SettingsFactory Named query checking : enabled
+[INFO] impl.SessionFactoryImpl building session factory
+[INFO] impl.SessionFactoryObjectFactory Not binding factory to JNDI, no JNDI name configured
+[INFO] hbm2ddl.SchemaUpdate Running hbm2ddl schema update
+[INFO] hbm2ddl.SchemaUpdate fetching database metadata
+[INFO] hbm2ddl.SchemaUpdate updating schema
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.CLASSIFICATIONOBJECT
+[INFO] hbm2ddl.TableMetadata columns: [trainingaccuracy, id, predictedprobability, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: [fk541bf2e5e23baa10]
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_62, sys_idx_64]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.DATAFILE
+[INFO] hbm2ddl.TableMetadata columns: [id, path, type, jobid]
+[INFO] hbm2ddl.TableMetadata foreign keys: [fk6e76d866e23baa10]
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_66, sys_idx_46]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.EMAILNOTIFICATION
+[INFO] hbm2ddl.TableMetadata columns: [sender, port, id, hostname]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_48]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.JOB
+[INFO] hbm2ddl.TableMetadata columns: [generatedid, id, submissiondate, error, workstationid, status, email, expirationdate, description, type]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_51, sys_idx_sys_ct_50_53]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.JOBPARAMS
+[INFO] hbm2ddl.TableMetadata columns: [id, urlforresults, expirationperioderr, expirationperiod, maxsubmittedjobs]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_54]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.USER
+[INFO] hbm2ddl.TableMetadata columns: [id, username, email, admin, password]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_57, sys_idx_sys_ct_56_59]
+[INFO] hbm2ddl.TableMetadata table found: PUBLIC.WORKSTATION
+[INFO] hbm2ddl.TableMetadata columns: [id, remotefilepath, username, globalfilepath, scriptpath, localfilepath, hostname, local, keyfilepass, keyfilepath]
+[INFO] hbm2ddl.TableMetadata foreign keys: []
+[INFO] hbm2ddl.TableMetadata indexes: [sys_idx_60]
+[INFO] hbm2ddl.SchemaUpdate schema update complete
+[INFO] HibernateCoreModule.HibernateSessionSource Hibernate startup: 57 ms to configure, 146 ms overall.
+[INFO] HibernateCoreModule.HibernateSessionSource Configured Hibernate entities: PDEXKsvm.entities.ClassificationObject, PDEXKsvm.entities.DataFile, PDEXKsvm.entities.EmailNotification, PDEXKsvm.entities.Job, PDEXKsvm.entities.JobParams, PDEXKsvm.entities.User, PDEXKsvm.entities.Workstation
+[DEBUG] AppModule.IDataSource Invoking constructor PDEXKsvm.services.HibernateDataSource() (at HibernateDataSource.java:21) via PDEXKsvm.services.AppModule.bind(ServiceBinder) (at AppModule.java:25).
+[INFO] AppModule.TimingFilter Request time: 1621 ms
+[INFO] AppModule.TimingFilter Request time: 232 ms
+[INFO] AppModule.TimingFilter Request time: 17 ms
+[INFO] AppModule.TimingFilter Request time: 25 ms
+[INFO] AppModule.TimingFilter Request time: 23 ms
+[INFO] AppModule.TimingFilter Request time: 17 ms
+[WARN] intercept.AbstractSecurityInterceptor Could not validate configuration attributes as the MethodDefinitionSource did not return a ConfigAttributeDefinition Iterator
+[INFO] AppModule.TimingFilter Request time: 23 ms
+[INFO] AppModule.TimingFilter Request time: 24 ms
+[ERROR] modellerJob Setting values: comaResultsId=274 alignmentId=4570
+[ERROR] periodicalWorker Submitting: 20387DBB740A1024DC09B567E17AB8B8D656EC64
+[ERROR] periodicalWorker Finished: 20387DBB740A1024DC09B567E17AB8B8D656EC64 QUEUED
+[ERROR] modellerJob Setting values: comaResultsId=274 alignmentId=4556
+[ERROR] periodicalWorker Submitting: 10309CBE2800A679343754AA99688BAC884F9FAC
+[ERROR] periodicalWorker Finished: 10309CBE2800A679343754AA99688BAC884F9FAC QUEUED
+[ERROR] periodicalWorker Submitting: 9ED4F29F8B6857FFE123D6E41D5C699EDC0D62A1
+[ERROR] periodicalWorker Finished: 9ED4F29F8B6857FFE123D6E41D5C699EDC0D62A1 QUEUED
+[ERROR] periodicalWorker Submitting: AB7F7B955330DC8DCD7F8AE3D9689FFA32BF10D5
+[ERROR] periodicalWorker Finished: AB7F7B955330DC8DCD7F8AE3D9689FFA32BF10D5 QUEUED

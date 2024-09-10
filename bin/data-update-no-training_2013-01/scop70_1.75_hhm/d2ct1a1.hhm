@@ -1,0 +1,112 @@
+HHsearch 1.5
+NAME  d2ct1a1 g.37.1.1 (A:44-71) Transcriptional repressor CTCF {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d2ct1a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ct1a1.a3m -v 1 
+DATE  Tue Jan 22 07:01:24 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCEEECCCCCEEEEECCCCC
+>ss_conf
+9744886431010123310101011379
+>Consensus
+akxxcphcxtiiarksdlxvhlxxxhty
+>d2ct1a1 g.37.1.1 (A:44-71) Transcriptional repressor CTCF {Human (Homo sapiens) [TaxId: 9606]}
+AKFHCPHCDTVIARKSDLGVHLRKQHSY
+>gi|338719413|ref|XP_001489795.3|(433-459:655) PREDICTED: transcriptional repressor CTCFL [Equus caballus]   E=0.0003 s/c=1.78 id=68% cov=100%
+-KYQCPHCATIIARKSDLRVHLRNLHTY
+>gi|73992358|ref|XP_534463.2|(431-457:582) PREDICTED: transcriptional repressor CTCFL isoform 1 [Canis lupus familiaris]  E=0.0005 s/c=1.76 id=68% cov=100%
+-KYQCPHCDTIIARKSDLRVHLSNLHTY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1242	0	0	
+
+F 3    *	*	*	*	1433	*	*	*	*	*	*	*	*	*	*	*	*	*	*	667	3
+       0	*	*	*	*	*	*	1242	0	0	
+
+H 4    *	*	*	*	*	*	1433	*	*	*	*	*	*	667	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1242	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1242	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1242	0	0	
+
+H 7    *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1242	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1242	0	0	
+
+D 9    1667	*	545	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1242	0	0	
+
+T 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	10
+       0	*	*	*	*	*	*	1242	0	0	
+
+V 11   *	*	*	*	*	*	*	667	*	*	*	*	*	*	*	*	*	1433	*	*	11
+       0	*	*	*	*	*	*	1242	0	0	
+
+I 12   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1242	0	0	
+
+A 13   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1242	0	0	
+
+R 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1242	0	0	
+
+K 15   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1242	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	16
+       0	*	*	*	*	*	*	1242	0	0	
+
+D 17   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1242	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1242	0	0	
+
+G 19   *	*	*	*	*	1433	*	*	*	*	*	*	*	*	667	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1242	0	0	
+
+V 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	20
+       0	*	*	*	*	*	*	1242	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1242	0	0	
+
+L 22   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1242	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	545	1667	*	*	*	*	23
+       0	*	*	*	*	*	*	1242	0	0	
+
+K 24   *	*	*	*	*	*	*	*	1433	*	*	667	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1242	0	0	
+
+Q 25   *	*	*	*	*	*	*	*	*	667	*	*	*	1433	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1242	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1242	0	0	
+
+S 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1433	667	*	*	*	27
+       0	*	*	*	*	*	*	1242	0	0	
+
+Y 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	28
+       0	*	*	0	*	*	*	1242	0	0	
+
+//

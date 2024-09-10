@@ -1,0 +1,158 @@
+HHsearch 1.5
+NAME  d1vtxa_ g.3.6.2 (A:) Atracotoxin-hvI (versutoxin) {Australian funnel-web spider (Hadronyche versuta) [TaxId: 6904]}
+FAM   g.3.6.2
+FILE  d1vtxa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vtxa_.a3m -v 1 
+DATE  Tue Jan 22 03:45:08 2013
+LENG  42 match states, 42 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCHHHHHHHHCCCCCCHHHHHHHHHCC
+>ss_conf
+987533323566773426788887558886024577764039
+>Consensus
+CakkrxWCxKtEdCCCPMKCiyAWYnxqxsCqxTisxxxkxC
+>d1vtxa_ g.3.6.2 (A:) Atracotoxin-hvI (versutoxin) {Australian funnel-web spider (Hadronyche versuta) [TaxId: 6904]}
+CAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+>gi|32363270|sp|P83608.1|TDM1A_MISBR(1-42:42) RecName: Full=Delta-actinopoditoxin-Mb1a; Short=Delta-AOTX-Mb1a; AltName: Full=Delta-missulenatoxin-Mb1a; Short=Delta-MSTX-Mb1a  E=5e-12 s/c=1.76 id=77% cov=102%
+CAKKREWCAKTEDCCCPMKCIYAWYNEQSSCQTTFSGMFKKC
+>gi|7388340|sp|P81885.1|TDT1B_HADVE(1-42:42) RecName: Full=Delta-hexatoxin-Hv1b; Short=Delta-HXTX-Hv1b; AltName: Full=Delta-atracotoxin-Hv1b; Short=Delta-AcTx-Hv1b  E=2e-09 s/c=1.56 id=65% cov=102%
+CSRSDGWCGKTEDCCCPMKCIKAWYKQNGNCQNTISAIWKNC
+>gi|74797444|sp|Q75WG5.1|TXM14_MACGS(27-68:70) RecName: Full=Delta-hexatoxin-Mg1b; Short=Delta-HXTX-Mg1b; AltName: Full=Delta-atracotoxin-9; AltName: Full=Neurotoxin magi-14; Flags: Precursor >gi|45824994|dbj|BAD13413.1| peptide toxin 9 precursor [Macrothele gigas]  E=1e-06 s/c=1.34 id=67% cov=102%
+CARKRAWCEKTENCCCPMKCIYAWYNGQSSCDHTISTIWTSC
+>gi|136555|sp|P01478.1|TXDT1_ATRRO(1-42:42) RecName: Full=Delta-hexatoxin-Ar1a; Short=Delta-HXTX-Ar1a; AltName: Full=Delta-atracotoxin-Ar1a; Short=Delta-AcTx-Ar1; Short=Delta-AcTx-Ar1a; AltName: Full=Robustoxin; Short=RBX >gi|159162889|pdb|1QDP|A Chain A, Solution Structure Of Robustoxin, The Lethal Neurotoxin From The Funnel Web Spider Atrax Robustus, Nmr, 20 Structures  E=3e-05 s/c=1.24 id=81% cov=102%
+CAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 2    392	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2070	*	*	*	*	2
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 3    *	*	*	*	*	*	*	*	878	*	*	*	*	*	1133	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 4    *	*	*	*	*	*	*	*	392	*	*	*	*	*	*	2070	*	*	*	*	4
+       0	*	*	*	*	*	*	1505	0	0	
+
+R 5    *	*	2070	*	*	*	*	*	*	*	*	*	*	*	392	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1505	0	0	
+
+N 6    2200	*	*	2415	*	2070	*	*	*	*	*	1488	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1505	0	0	
+
+W 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	7
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1505	0	0	
+
+G 9    2415	*	*	2200	*	750	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1505	0	0	
+
+T 11   *	*	*	*	*	*	*	*	*	*	*	2456	*	*	*	*	290	*	*	*	11
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 12   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1505	0	0	
+
+D 13   *	*	354	*	*	*	*	*	*	*	*	2200	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1505	0	0	
+
+P 17   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1505	0	0	
+
+M 18   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1505	0	0	
+
+V 21   *	*	*	*	*	*	*	276	*	*	*	*	*	*	*	*	*	2520	*	*	21
+       0	*	*	*	*	*	*	1505	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	2070	*	*	*	*	*	*	*	*	*	*	392	22
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 23   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1505	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	24
+       0	*	*	*	*	*	*	1505	0	0	
+
+Y 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	25
+       0	*	*	*	*	*	*	1505	0	0	
+
+N 26   *	*	*	*	*	*	*	*	2070	*	*	392	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1505	0	0	
+
+E 27   *	*	*	1466	*	2200	*	*	*	*	*	*	*	1250	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 28   *	*	*	*	*	*	*	*	*	*	*	2070	*	392	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1505	0	0	
+
+G 29   *	*	*	*	*	750	*	*	*	*	*	*	*	*	*	1303	*	*	*	*	29
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 30   *	*	*	*	*	*	*	*	*	*	*	2070	*	*	*	392	*	*	*	*	30
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1505	0	0	
+
+Q 32   *	*	2200	*	*	*	*	*	*	*	*	*	*	354	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 33   *	*	*	*	*	*	2200	*	*	*	*	2070	*	*	*	2520	1435	*	*	*	33
+       0	*	*	*	*	*	*	1505	0	0	
+
+T 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	34
+       0	*	*	*	*	*	*	1505	0	0	
+
+I 35   *	*	*	*	2415	*	*	300	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1505	0	0	
+
+S 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	290	2456	*	*	*	36
+       0	*	*	*	*	*	*	1505	0	0	
+
+A 37   1278	*	*	*	*	1435	*	*	*	*	*	*	*	*	*	*	2200	*	*	*	37
+       0	*	*	*	*	*	*	1505	0	0	
+
+L 38   *	*	*	*	*	*	*	1133	*	1488	2415	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1505	0	0	
+
+W 39   *	*	*	*	1435	*	*	*	*	*	*	*	*	*	*	*	*	*	666	*	39
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 40   *	*	*	*	*	*	*	*	354	*	*	*	*	*	*	*	2200	*	*	*	40
+       0	*	*	*	*	*	*	1505	0	0	
+
+K 41   *	*	*	*	*	*	*	*	878	*	*	2070	*	*	*	2200	*	*	*	*	41
+       0	*	*	*	*	*	*	1505	0	0	
+
+C 42   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	0	*	*	*	1505	0	0	
+
+//

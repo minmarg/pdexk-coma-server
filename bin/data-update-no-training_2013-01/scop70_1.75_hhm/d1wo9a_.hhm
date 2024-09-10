@@ -1,0 +1,143 @@
+HHsearch 1.5
+NAME  d1wo9a_ g.4.1.1 (A:) Protease inhibitor SGTI {Desert locust (Schistocerca gregaria) [TaxId: 7010]}
+FAM   g.4.1.1
+FILE  d1wo9a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wo9a_.a3m -v 1 
+DATE  Tue Jan 22 09:16:28 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCEECCCCCCCCCCCCCCCCCC
+>ss_conf
+98788776533347600126765210011210269
+>Consensus
+axeCtPGxtKkxDCNTCxCtxtGvWxCTrxgCxtt
+>d1wo9a_ g.4.1.1 (A:) Protease inhibitor SGTI {Desert locust (Schistocerca gregaria) [TaxId: 7010]}
+AGECTPGQTKKQDCNTCTCTPTGIWGCTRKACRTT
+>gi|51316567|sp|O46162.1|SGP1_SCHGR(22-51:92) RecName: Full=Serine protease inhibitor I/II; Contains: RecName: Full=Protease inhibitor SGPI-1; AltName: Full=Schistocerca gregaria trypsin inhibitor; Short=SGTI; Contains: RecName: Full=Protease inhibitor SGPI-2; AltName: Full=Schistocerca gregaria chymotrypsin inhibitor; Short=SGCI; Flags: Precursor >gi|2765006|emb|CAA70818.1| serine protease inhibitor I [Schistocerca gregaria]  E=7e-07 s/c=1.90 id=84% cov=89%
+--ECTPGQTKKQDCNTCNCTPTGVWACTRKGC---
+>gi|3123220|sp|P80060.2|LCM_LOCMI(22-52:92) RecName: Full=Protease inhibitors; Contains: RecName: Full=Protease inhibitor LCMI-I; AltName: Full=PARS intercerebralis major peptide D2; Short=PMP-D2; Contains: RecName: Full=Protease inhibitor LCMI-II; AltName: Full=PARS intercerebralis major peptide C; Short=PMP-C; Flags: Precursor >gi|397614|emb|CAA80462.1| proteinase inhibitor [Locusta migratoria]  E=1e-06 s/c=1.83 id=78% cov=91%
+--KCTPGQVKQQDCNTCTCTPTGVWGCTRKGCQ--
+>gi|56709815|emb|CAC82510.3|(23-56:96) pacifastin-related precursor 4t [Schistocerca gregaria]   E=1e-06 s/c=1.65 id=74% cov=100%
+ASECTPGDTKKEDCNTCRCTPTGVWVCTRKGCVT-
+>gi|18496019|emb|CAD11970.1|(24-55:197) pacifastin-related serine protease inhibitor precursor [Locusta migratoria migratorioides]  E=1e-05 s/c=1.66 id=76% cov=94%
+--ECTPGETKKLDCNTCFCTKAGIWGCTLMACRT-
+>gi|21217996|emb|CAD24808.1|(24-55:151) pacifastin-related peptide precursor [Schistocerca gregaria]   E=4e-05 s/c=1.60 id=70% cov=94%
+--ECTPGETKKLDCNTCFCSDSGIWGCTLMGCRT-
+>gi|57282796|emb|CAF18560.1|(23-56:146) pacifastin-related peptide precursor PP-5 [Schistocerca gregaria]   E=5e-05 s/c=1.49 id=66% cov=100%
+ASGCTPGEKKKEDCNTCTCTATGVWACTRRGCIT-
+>gi|311771972|pdb|2XTT|A(3-32:36) Chain A, Bovine Trypsin In Complex With Evolutionary Enhanced Schistocerca Gregaria Protease Inhibitor 1 (Sgpi-1-P02)  E=0.001 s/c=1.55 id=68% cov=89%
+--ECEPGQTKKQDCNTCRCGSDGVWACTRMGC---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1305	0	0	
+
+G 2    *	*	*	*	*	1553	*	*	*	*	*	*	*	*	*	601	*	*	*	*	2
+       0	*	*	*	*	*	*	1305	0	0	
+
+E 3    *	*	*	448	*	2885	*	*	2924	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 5    *	*	*	2864	*	*	*	*	*	*	*	*	*	*	*	*	213	*	*	*	5
+       0	*	*	*	*	*	*	1528	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1528	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1528	0	0	
+
+Q 8    *	*	3062	1326	*	*	*	*	*	*	*	*	*	1055	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 9    *	*	*	*	*	*	*	*	2885	*	*	*	*	*	*	*	448	2924	*	*	9
+       0	*	*	*	*	*	*	1528	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1528	0	0	
+
+K 11   *	*	*	*	*	*	*	*	204	*	*	*	*	2924	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1528	0	0	
+
+Q 12   *	*	*	1970	*	*	*	*	*	1924	*	*	*	1055	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1528	0	0	
+
+D 13   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1528	0	0	
+
+N 15   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	16
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 18   *	*	*	*	1924	*	*	*	*	*	*	3246	*	*	1959	*	1419	*	*	*	18
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 20   *	*	*	*	*	2864	*	*	*	*	*	*	*	*	*	2903	456	*	*	*	20
+       0	*	*	*	*	*	*	1528	0	0	
+
+P 21   2885	*	2903	*	*	*	*	*	2944	*	*	*	1109	*	*	2864	*	*	*	*	21
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 22   2944	*	2864	*	*	*	*	*	*	*	*	*	*	*	*	2903	739	*	*	*	22
+       0	*	*	*	*	*	*	1528	0	0	
+
+G 23   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1528	0	0	
+
+I 24   *	*	*	*	*	*	*	1433	*	*	*	*	*	*	*	*	*	667	*	*	24
+       0	*	*	*	*	*	*	1528	0	0	
+
+W 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	25
+       0	*	*	*	*	*	*	1528	0	0	
+
+G 26   1403	*	*	*	*	994	*	*	*	*	*	*	*	*	*	*	*	3062	*	*	26
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1528	0	0	
+
+T 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	28
+       0	*	*	*	*	*	*	1528	0	0	
+
+R 29   *	*	*	*	*	*	*	*	*	1924	*	*	*	*	441	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1528	0	0	
+
+K 30   *	*	*	*	*	*	*	*	1109	*	1318	*	*	*	2885	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1528	0	0	
+
+A 31   2079	*	*	*	*	390	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1528	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1528	0	0	
+
+R 33   *	*	*	*	*	*	*	2472	*	*	*	*	*	2520	1061	*	*	2591	*	*	33
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	34
+       0	*	*	*	*	*	*	1451	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	35
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

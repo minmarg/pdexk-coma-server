@@ -1,0 +1,172 @@
+HHsearch 1.5
+NAME  d1myna_ g.3.7.4 (A:) Drosomycin {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+FAM   g.3.7.4
+FILE  d1myna_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1myna_.a3m -v 1 
+DATE  Mon Jan 21 23:44:14 2013
+LENG  44 match states, 44 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCEEEECCHHHHHHHHHCCCCCCCCCCCCEEEEECC
+>ss_conf
+97577666644433561467887644764431068750576069
+>Consensus
+DClSGxxxGpCxxWxxexCrrxcxeEGrxsGHCSxxlkCwCEgC
+>d1myna_ g.3.7.4 (A:) Drosomycin {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC
+>gi|218506011|gb|ACK77647.1|(32-75:75) LP14083p [Drosophila melanogaster]   E=1e-16 s/c=2.03 id=87% cov=102%
+DCLSGKYKGPCAVWDNEMCRRICKEEGHISGHCSPSLKCWCEGC
+>gi|194866082|ref|XP_001971747.1|(26-69:69) GG14262 [Drosophila erecta] >gi|190653530|gb|EDV50773.1| GG14262 [Drosophila erecta]  E=2e-11 s/c=1.64 id=69% cov=102%
+DCLSGNYRGSCAVWHRKKCRDICQREGRTGGHCSPSLKCWCEGC
+>gi|194866062|ref|XP_001971737.1|(28-71:71) GG15127 [Drosophila erecta] >gi|190653520|gb|EDV50763.1| GG15127 [Drosophila erecta]  E=5e-11 s/c=1.61 id=67% cov=102%
+DCLSGSFSGPCWAWSGEQCRRLCTEEGRVSGHCSAGLQCWCEGC
+>gi|346986497|gb|AEO51073.1|(37-82:82) FI15202p1 [Drosophila melanogaster]   E=5e-11 s/c=1.54 id=84% cov=102%
+DCLSGRYRGPCAVWDNETCRRVCREEgrGRVSGHCSARLQCWCEGC
+>gi|194866064|ref|XP_001971738.1|(28-71:71) GG15128 [Drosophila erecta] >gi|190653521|gb|EDV50764.1| GG15128 [Drosophila erecta]  E=1e-10 s/c=1.59 id=67% cov=102%
+DCQSGTFSGPCWAWDGEQCRRLCREEGHVSGHCSASLKCWCEQC
+>gi|15636903|dbj|BAB68214.1|(28-71:71) drosomycin-like A [Drosophila triauraria] >gi|15636905|dbj|BAB68215.1| drosomycin-like B [Drosophila triauraria] >gi|15636907|dbj|BAB68216.1| drosomycin-like A [Drosophila triauraria] >gi|15636909|dbj|BAB68217.1| drosomycin-like A [Drosophila triauraria]  E=2e-10 s/c=1.57 id=69% cov=102%
+DCLSGTFKGPCWAWSGEKCRRLCIEEGRVSGHCSGGSKCWCEGC
+>gi|195337136|ref|XP_002035185.1|(28-71:71) GM14561 [Drosophila sechellia] >gi|194128278|gb|EDW50321.1| GM14561 [Drosophila sechellia]  E=2e-10 s/c=1.57 id=60% cov=102%
+DCLSGTFGGPCWAWSGEKCRRLCIEEGHVSGHCSGGMKCRCEVC
+>gi|195491422|ref|XP_002093553.1|(26-69:69) GE20689 [Drosophila yakuba] >gi|194179654|gb|EDW93265.1| GE20689 [Drosophila yakuba]  E=2e-09 s/c=1.49 id=64% cov=102%
+DCLSGKFRGSCYVWHKKKCREICQREGRTGGHCSPSLKCWCEGC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1620	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	146	*	*	*	3378	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1620	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	4
+       0	*	*	*	*	*	*	1620	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1620	0	0	
+
+R 6    *	*	*	*	*	*	*	*	2418	*	*	3451	*	*	1539	3490	1794	*	*	*	6
+       0	*	*	*	*	*	*	1620	0	0	
+
+Y 7    *	*	*	*	1059	*	*	*	*	*	*	*	*	*	*	*	*	*	*	943	7
+       0	*	*	*	*	*	*	1620	0	0	
+
+K 8    *	*	*	*	*	3216	*	*	2017	*	*	*	*	*	1120	2433	*	*	*	*	8
+       0	*	*	*	*	*	*	1620	0	0	
+
+G 9    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1620	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	510	*	*	1747	*	*	*	*	10
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1620	0	0	
+
+A 12   943	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1406	3286	12
+       0	*	*	*	*	*	*	1620	0	0	
+
+V 13   1406	*	*	*	*	*	*	3674	*	*	*	*	*	*	*	*	*	878	*	*	13
+       0	*	*	*	*	*	*	1620	0	0	
+
+W 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	14
+       0	*	*	*	*	*	*	1620	0	0	
+
+D 15   *	*	1249	*	*	*	1747	*	*	*	*	*	*	*	*	1830	*	*	*	*	15
+       0	*	*	*	*	*	*	1620	0	0	
+
+N 16   *	*	*	*	*	1406	*	*	3286	*	*	1623	*	*	2355	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1620	0	0	
+
+E 17   *	*	*	510	*	*	*	*	1747	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1620	0	0	
+
+T 18   *	*	*	*	*	*	*	*	1029	*	3563	*	*	2433	*	*	2059	*	*	*	18
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1620	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	159	*	*	3264	*	*	20
+       0	*	*	*	*	*	*	1620	0	0	
+
+R 21   *	*	2355	3286	*	*	*	*	*	*	*	*	*	*	510	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1620	0	0	
+
+V 22   *	*	*	*	*	*	*	1386	*	1406	*	*	*	*	*	*	*	2059	*	*	22
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 23   *	159	*	*	3264	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1620	0	0	
+
+K 24   *	*	*	*	*	*	*	1886	2621	*	*	*	*	1747	2475	*	3490	*	*	*	24
+       0	*	*	*	*	*	*	1620	0	0	
+
+E 25   *	*	*	510	*	*	*	*	*	*	*	*	*	*	1747	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1620	0	0	
+
+E 26   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       255	2625	*	1000	1000	*	*	1620	1065	0	
+
+G 27   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1620	0	0	
+
+R 28   *	*	*	*	*	*	1794	*	*	*	*	*	*	*	491	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1620	0	0	
+
+S 29   *	*	*	*	*	*	*	3563	*	*	*	*	*	*	*	3682	1747	890	*	*	29
+       0	*	*	*	*	*	*	1620	0	0	
+
+S 30   *	*	*	*	*	2366	*	*	*	*	*	*	*	*	*	311	*	*	*	*	30
+       0	*	*	*	*	*	*	1620	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1620	0	0	
+
+H 32   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1620	0	0	
+
+S 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	34
+       0	*	*	*	*	*	*	1620	0	0	
+
+P 35   1526	*	*	*	*	2380	*	*	*	*	*	*	1119	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1620	0	0	
+
+S 36   *	*	*	*	*	1830	*	*	*	*	*	*	*	*	3578	655	*	*	*	*	36
+       0	*	*	*	*	*	*	1620	0	0	
+
+L 37   *	*	*	*	*	*	*	*	*	308	3216	*	*	*	*	3564	*	*	*	*	37
+       0	*	*	*	*	*	*	1620	0	0	
+
+K 38   *	*	*	*	*	*	*	*	274	*	*	*	*	2533	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 39   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1620	0	0	
+
+W 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3216	*	*	*	164	*	40
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1620	0	0	
+
+E 42   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1620	0	0	
+
+G 43   *	*	*	*	*	329	*	*	*	*	*	*	*	3378	*	*	*	3216	*	*	43
+       0	*	*	*	*	*	*	1620	0	0	
+
+C 44   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	0	*	*	*	1620	0	0	
+
+//

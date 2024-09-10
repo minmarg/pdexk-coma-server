@@ -1,0 +1,607 @@
+HHsearch 1.5
+NAME  d2joka1 a.168.1.1 (A:78-261) Effector protein BopE {Burkholderia pseudomallei [TaxId: 28450]}
+FAM   a.168.1.1
+FILE  d2joka1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2joka1.a3m -v 1 
+DATE  Tue Jan 22 07:42:38 2013
+LENG  184 match states, 184 columns in multiple alignment
+FILT  10 out of 12 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHHCCHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCHH
+HHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCC
+>ss_conf
+9857789999999999999850040231056889999999999998666889987787437777878999997877623798744466104687776414
+677764554554578751214456899999999999886522236661899999999999999876764212212456677789
+>Consensus
+tgxxkqairhfvdeavkxxxxxrxxxirkDpxyxRQxxEAxlsaiySxxKdxxcxxxxsxggxixpxflkeiGEAAxxaGLPGexKxgVFtPsGaGaNPf
+vxxlxxxaxxxxgxxlxnxxqqrxfkxYArqxxmxlVaxxxxxxxxxtxxxFxxTvexixxxYxxxaqdasxxxkgxxxxxxxa
+>d2joka1 a.168.1.1 (A:78-261) Effector protein BopE {Burkholderia pseudomallei [TaxId: 28450]}
+TGDAKQAIRHFVDEAVKQVAHARTPEIRQDAEFGRQVYEATLCAIFSEAKDRFCMDPATRAGNVRPAFIEALGDAARATGLPGADKQGVFTPSGAGTNPL
+YTEIRLRADTLMGAELAARPEYRELQPYARQQAIDLVANALPAERSNTLVEFRQTVQTLEATYRRAAQDASRDEKGATNAADGA
+>gi|424906607|ref|ZP_18330104.1|(124-307:307) type III secretion target BopE [Burkholderia thailandensis MSMB43] >gi|390928013|gb|EIP85419.1| type III secretion target BopE [Burkholderia thailandensis MSMB43]  E=9e-87 s/c=1.75 id=86% cov=101%
+TGDPKQAIRHFVDEAVKQVAHARTPEIRQDAKFGRQVYEATLCAIFSEAKDRFCMDPATRAGNARPAFVKALGEAACATGLPGADKQGVFTPSGAGTNPL
+YAEIRQRADTLMGAELAARPEYRELQPYARQQAIDLVASALPAERSDALARFRQTVQTLDATYRRAAEEASSDAKGTTDAPGAA
+>gi|167573294|ref|ZP_02366168.1|(78-261:261) putative guanine nucleotide exchange factor sopE [Burkholderia oklahomensis C6786]  E=4e-84 s/c=1.70 id=86% cov=101%
+TGAPKQAIRHFVDEAVRQVANTRTPEIRQDAEFGRQVYEATLCAIFSEAKDRFCMDPATREGNVRPAFVAALGDAARATGLPGADKQGVFTPSGAGTNPL
+YTEIRLRADTLMGAELAARPEYRELQSYARQQAIDLVANALPAGHSGTLARFRQTVQTLDATYRRAAEEASREAKGAADTAGAA
+>gi|16765196|ref|NP_460811.1|(102-239:240) type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] >gi|167553454|ref|ZP_02347203.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Saintpaul str. SARA29] >gi|167993811|ref|ZP_02574904.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. CVM23701] >gi|168241458|ref|ZP_02666390.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Heidelberg str. SL486] >gi|168259897|ref|ZP_02681870.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Hadar str. RI_05P066] >gi|194443212|ref|YP_002041111.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Newport str. SL254] >gi|194449667|ref|YP_002045903.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Heidelberg str. SL476] >gi|198244228|ref|YP_002215283.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853] >gi|205352482|ref|YP_002226283.1| invasion-associated effector protein [Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91] >gi|374980872|ref|ZP_09722202.1| G-nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Typhimurium str. TN061786] >gi|375118761|ref|ZP_09763928.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Dublin str. SD3246] >gi|375123288|ref|ZP_09768452.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Gallinarum str. SG9] >gi|378445258|ref|YP_005232890.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Typhimurium str. D23580] >gi|378450444|ref|YP_005237803.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S] >gi|378699731|ref|YP_005181688.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|378955361|ref|YP_005212848.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078] >gi|378984418|ref|YP_005247573.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Typhimurium str. T000240] >gi|378989196|ref|YP_005252360.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1] >gi|379701033|ref|YP_005242761.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74] >gi|418809392|ref|ZP_13364944.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 21550] >gi|418813547|ref|ZP_13369068.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 22513] >gi|418817857|ref|ZP_13373341.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Newport str. CVM 21538] >gi|418820767|ref|ZP_13376199.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Newport str. CVM 22425] >gi|418833515|ref|ZP_13388438.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM N18486] >gi|418836731|ref|ZP_13391615.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM N1543] >gi|418840495|ref|ZP_13395324.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 21554] >gi|418845055|ref|ZP_13399841.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19443] >gi|418850530|ref|ZP_13405246.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 37978] >gi|418852349|ref|ZP_13407051.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19593] >gi|418863423|ref|ZP_13417961.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19536] >gi|418867040|ref|ZP_13421501.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 4176] >gi|419730489|ref|ZP_14257435.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41579] >gi|419732175|ref|ZP_14259081.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41563] >gi|419739104|ref|ZP_14265858.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41573] >gi|419743844|ref|ZP_14270507.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41566] >gi|419750185|ref|ZP_14276651.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41565] >gi|421570905|ref|ZP_16016588.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00322] >gi|421574758|ref|ZP_16020379.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00325] >gi|421579635|ref|ZP_16025197.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00326] >gi|421582996|ref|ZP_16028525.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00328] >gi|422026036|ref|ZP_16372453.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm1] >gi|422031073|ref|ZP_16377254.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm2] >gi|427550206|ref|ZP_18927761.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm8] >gi|427566076|ref|ZP_18932476.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm9] >gi|427586174|ref|ZP_18937265.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm3] >gi|427609562|ref|ZP_18942130.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm4] >gi|427633621|ref|ZP_18947026.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm6] >gi|427656087|ref|ZP_18951791.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm10] >gi|427661233|ref|ZP_18956702.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm11] >gi|427668454|ref|ZP_18961502.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm12] >gi|427766665|ref|ZP_18966670.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm5] >gi|61216788|sp|Q7CQD4.3|SOPE2_SALTY RecName: Full=Guanine nucleotide exchange factor sopE2; AltName: Full=Effector protein sopE2; AltName: Full=Toxin sopE2 >gi|9651642|gb|AAF91225.1|AF217274_1 SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|16420388|gb|AAL20770.1| TypeIII-secreted protein effector: invasion-associated protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2] >gi|194401875|gb|ACF62097.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Newport str. SL254] >gi|194407971|gb|ACF68190.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Heidelberg str. SL476] >gi|197938744|gb|ACH76077.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853] >gi|205272263|emb|CAR37140.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91] >gi|205322129|gb|EDZ09968.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Saintpaul str. SARA29] >gi|205328214|gb|EDZ14978.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. CVM23701] >gi|205339579|gb|EDZ26343.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Heidelberg str. SL486] >gi|205350876|gb|EDZ37507.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Hadar str. RI_05P066] >gi|261247037|emb|CBG24854.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Typhimurium str. D23580] >gi|267993822|gb|ACY88707.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S] >gi|301158379|emb|CBW17878.1| Type III secretion system effector protein-causes membrane ruffling and disrupts tight junctions [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|312912846|dbj|BAJ36820.1| guanine nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Typhimurium str. T000240] >gi|321224492|gb|EFX49555.1| G-nucleotide exchange factor SopE [Salmonella enterica subsp. enterica serovar Typhimurium str. TN061786] >gi|323130132|gb|ADX17562.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74] >gi|326623028|gb|EGE29373.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Dublin str. SD3246] >gi|326627538|gb|EGE33881.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Gallinarum str. SG9] >gi|332988743|gb|AEF07726.1| type III-secreted effector protein [Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1] >gi|357205972|gb|AET54018.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078] >gi|381294497|gb|EIC35636.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41579] >gi|381300438|gb|EIC41500.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41573] >gi|381303024|gb|EIC44053.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41563] >gi|381307483|gb|EIC48337.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41565] >gi|381311409|gb|EIC52228.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. 41566] >gi|392773477|gb|EJA30173.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 21550] >gi|392774773|gb|EJA31468.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 22513] >gi|392787396|gb|EJA43938.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Newport str. CVM 21538] >gi|392792327|gb|EJA48791.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Newport str. CVM 22425] >gi|392795349|gb|EJA51721.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM N18486] >gi|392801092|gb|EJA57322.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM N1543] >gi|392810985|gb|EJA66997.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 21554] >gi|392813864|gb|EJA69828.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19443] >gi|392818380|gb|EJA74264.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 37978] >gi|392829565|gb|EJA85235.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19593] >gi|392833291|gb|EJA88906.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 19536] >gi|392840152|gb|EJA95690.1| invasion-associated secreted effector protein (sopE2) [Salmonella enterica subsp. enterica serovar Newport str. CVM 4176] >gi|402521110|gb|EJW28448.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00326] >gi|402522540|gb|EJW29862.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00322] >gi|402524958|gb|EJW32255.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00325] >gi|402532462|gb|EJW39654.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00328] >gi|414018776|gb|EKT02414.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm1] >gi|414019254|gb|EKT02873.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm8] >gi|414021244|gb|EKT04800.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm2] >gi|414032942|gb|EKT15925.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm9] >gi|414034829|gb|EKT17745.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm3] >gi|414037775|gb|EKT20524.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm4] >gi|414047751|gb|EKT30019.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm10] >gi|414049243|gb|EKT31462.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm6] >gi|414053556|gb|EKT35544.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm11] >gi|414059835|gb|EKT41381.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm12] >gi|414065306|gb|EKT46073.1| type III secretion protein SopE2 [Salmonella enterica subsp. enterica serovar Typhimurium str. STm5]  E=5e-11 s/c=0.52 id=29% cov=76%
+----------------------------KDPAYARQTCEAILSAVYSNNKDQCCKLLISKGVSITP-FLKEIGEAAQNAGLPGEIKNGVFTPGGAGANPF
+VVPLIASASIKYPHMFINHNQQVSFKAYAEKIVMKEVTPLFNKGTMPTPQQFQLTIENIANKYLQNA-----------------
+>gi|423140354|ref|ZP_17127992.1|(102-240:240) SopE GEF domain protein [Salmonella enterica subsp. houtenae str. ATCC BAA-1581] >gi|379052908|gb|EHY70799.1| SopE GEF domain protein [Salmonella enterica subsp. houtenae str. ATCC BAA-1581]  E=7e-11 s/c=0.51 id=30% cov=76%
+----------------------------KDTAYARQTCEAMLSGVYSNNKDKYCNLLISKGVSITP-FLKEIGEAAQNAGLPGETKNDIFTPGGAGANPF
+VIPLIASASMTYPHMFINHSQQVSFKAYAEKIIMKEVTPLFNERSMPTPQEFQLTVENIASKY---LQDAS-------------
+>gi|161503022|ref|YP_001570134.1|(102-239:240) hypothetical protein SARI_01086 [Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980] >gi|160864369|gb|ABX20992.1| hypothetical protein SARI_01086 [Salmonella enterica subsp. arizonae serovar 62:z4,z23:-]  E=4e-60 s/c=1.70 id=29% cov=76%
+----------------------------KDPDYARQTCEAMLSSVYSNNKDQCCKLLVSKGISITP-FLKEIGEAAQNAGLPGEIKNGIFTPGGAGTNPF
+VVPLIASASVEYPHMFINYSQQVSFKAYAEKIIMKEVTPLFNEGTMPTPQQFQLTVENIANKYLQNA-----------------
+>gi|339999678|ref|YP_004730561.1|(83-240:240) invasion-associated type III secreted effector protein [Salmonella bongori NCTC 12419] >gi|339513039|emb|CCC30783.1| invasion-associated type III secreted effector protein [Salmonella bongori NCTC 12419]  E=5e-51 s/c=1.29 id=30% cov=73%
+----------------------------KDPSYARQTCEAILSAQYSNNKDKYCRLLINQGLSITP-FLKEIGEAAQNAGLPGEIKNGVFTPGGAGANPF
+ITPLVSSASIKYPYTFINHNQQTSFKAYAEKLIMEEVTPLFKEQNLPTPQQFHLTLENIASKY---------------------
+>gi|16763074|ref|NP_458691.1|(102-237:240) invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. CT18] >gi|29144557|ref|NP_807899.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. Ty2] >gi|213417164|ref|ZP_03350308.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. E01-6750] >gi|213424722|ref|ZP_03357472.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. E02-1180] >gi|213579965|ref|ZP_03361791.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. E98-0664] >gi|213609322|ref|ZP_03369148.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. E98-2068] >gi|213649705|ref|ZP_03379758.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. J185] >gi|213852906|ref|ZP_03382438.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. M223] >gi|62511036|sp|Q7BD17.3|SOPE_SALET RecName: Full=Guanine nucleotide exchange factor SopE; AltName: Full=Effector protein SopE; AltName: Full=Toxin SopE >gi|62511094|sp|Q9RPM6.3|SOPE_SALTI RecName: Full=Guanine nucleotide exchange factor SopE; AltName: Full=Effector protein SopE; AltName: Full=Toxin SopE >gi|18265549|gb|AAL67195.1|AF378115_1 G-nucleotide exchange factor SopE [Salmonella enterica subsp. enterica] >gi|5852854|gb|AAD54239.1| SopE [Salmonella enterica subsp. enterica serovar Typhi] >gi|16505382|emb|CAD06731.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi] >gi|29140195|gb|AAO71759.1| invasion-associated secreted protein [Salmonella enterica subsp. enterica serovar Typhi str. Ty2]  E=5e-49 s/c=1.45 id=40% cov=45%
+----------------------------KDPAYASQTREAILSAVYSKNKDQCCNLLISKGINIAP-FLQEIGEAAKNAGLPGTTKNDVFTPSGAGANPF
+ITPLISSANS--------------------------------------------------------------------------
+>gi|13469820|gb|AAK27348.1|AF323070_1(1-97:97) G-nucleotide exchange factor SopE2 [Salmonella enterica subsp. diarizonae]  E=8e-39 s/c=1.68 id=46% cov=38%
+-----------------------------DPAYARQTCEAILSSVYSNHKDQCCKLLVNKGGSITP-FLKEIGEAAQNAGLPGEIKNGVFTPAGAGTNP-
+------------------------------------------------------------------------------------
+>gi|34495751|ref|NP_899966.1|(90-241:241) hypothetical protein CV_0296 [Chromobacterium violaceum ATCC 12472] >gi|34101606|gb|AAQ57975.1| conserved hypothetical protein [Chromobacterium violaceum ATCC 12472]  E=3e-38 s/c=1.06 id=36% cov=66%
+---------------VKAMIRSRLDSLRDgmaDPVYRRQALESTYATIYSEAKQAFYR---ANGGKMPEGYLRELGEAARAAGLPGENKHGVFIPSGDGA
+SPFVNYLLIPVQKEFGHRLRNESQQRLFRDFARQLSMELVA----------------------------------------------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1134	0	0	
+
+G 2    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1134	0	0	
+
+D 3    1585	*	585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 4    1585	*	*	*	*	*	*	*	*	*	*	*	585	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1134	0	0	
+
+K 5    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1134	0	0	
+
+Q 6    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 7    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1134	0	0	
+
+I 8    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1134	0	0	
+
+R 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1134	0	0	
+
+H 10   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1134	0	0	
+
+F 11   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1134	0	0	
+
+V 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	12
+       0	*	*	*	*	*	*	1134	0	0	
+
+D 13   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1134	0	0	
+
+E 14   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1134	0	0	
+
+V 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	16
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 17   *	*	*	*	*	*	*	*	338	*	*	*	*	*	2261	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 18   1393	*	*	*	*	*	*	*	*	*	*	*	*	691	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1574	0	0	
+
+V 19   *	*	*	*	*	*	*	*	*	*	1393	*	*	*	*	*	*	691	*	*	19
+       0	*	*	*	*	*	*	1574	0	0	
+
+A 20   691	*	*	*	*	*	*	1393	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1574	0	0	
+
+H 21   *	*	*	*	*	*	1284	*	*	*	*	2261	*	*	1393	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1574	0	0	
+
+A 22   1284	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1393	2261	*	*	*	22
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 24   *	*	*	*	*	*	*	*	*	1393	*	*	*	*	*	*	691	*	*	*	24
+       0	*	*	*	*	*	*	1574	0	0	
+
+P 25   *	*	1393	*	*	*	*	*	*	*	*	*	691	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1574	0	0	
+
+E 26   *	*	*	691	*	*	*	*	*	*	*	*	*	*	*	1393	*	*	*	*	26
+       0	*	*	*	*	*	*	1574	0	0	
+
+I 27   *	*	*	*	*	*	*	691	*	1393	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 29   *	*	2368	*	*	*	*	*	1058	*	*	*	*	1617	*	*	*	*	*	*	29
+       311	2368	*	1585	585	*	*	2030	1000	0	
+
+D 30   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 31   1684	*	*	*	*	*	*	*	*	*	*	*	738	*	*	*	3488	*	*	*	31
+       0	*	*	*	*	*	*	2032	0	0	
+
+E 32   1588	*	3640	2275	*	*	*	*	3257	*	*	*	*	*	*	3519	*	2406	*	*	32
+       0	*	*	*	*	*	*	2032	0	0	
+
+F 33   *	*	*	*	1684	*	*	*	*	*	*	*	*	*	*	*	*	*	*	538	33
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 34   1000	*	*	*	*	1684	*	*	*	*	*	*	*	*	2406	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2032	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	154	3301	*	*	*	*	35
+       0	*	*	*	*	*	*	2032	0	0	
+
+Q 36   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2032	0	0	
+
+V 37   2406	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	1684	*	*	37
+       0	*	*	*	*	*	*	2032	0	0	
+
+Y 38   *	1327	*	*	*	*	*	*	*	2406	*	*	*	*	3301	*	*	*	*	1684	38
+       0	*	*	*	*	*	*	2032	0	0	
+
+E 39   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 40   302	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2406	*	*	*	*	40
+       0	*	*	*	*	*	*	2032	0	0	
+
+T 41   *	*	*	*	*	*	*	1596	*	*	2562	*	*	*	*	*	1000	*	*	*	41
+       0	*	*	*	*	*	*	2032	0	0	
+
+L 42   *	*	*	*	*	*	*	*	*	302	*	*	*	*	*	*	*	*	*	2406	42
+       0	*	*	*	*	*	*	2032	0	0	
+
+C 43   2406	1684	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	43
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 44   805	*	*	*	*	3488	*	*	*	*	*	*	*	*	*	2738	2406	*	*	*	44
+       0	*	*	*	*	*	*	2032	0	0	
+
+I 45   *	*	*	*	*	*	*	1000	*	*	*	*	*	3519	*	*	*	1276	*	*	45
+       0	*	*	*	*	*	*	2032	0	0	
+
+F 46   *	*	*	*	1684	*	*	*	*	*	*	*	*	*	*	*	*	*	*	538	46
+       0	*	*	*	*	*	*	2032	0	0	
+
+S 47   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	47
+       0	*	*	*	*	*	*	2032	0	0	
+
+E 48   *	*	*	1000	*	*	*	*	3301	*	*	1327	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 49   1000	*	*	*	*	*	3843	*	*	*	*	1216	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2032	0	0	
+
+K 50   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	2032	0	0	
+
+D 51   *	*	302	*	*	*	*	*	*	*	*	*	*	2406	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2032	0	0	
+
+R 52   2406	*	*	*	*	*	*	*	2503	*	*	*	*	1627	1684	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2032	0	0	
+
+F 53   *	1627	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2503	53
+       0	*	*	*	*	*	*	2032	0	0	
+
+C 54   *	302	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2406	54
+       0	*	*	*	*	*	*	2032	0	0	
+
+M 55   *	*	*	*	*	*	*	*	2170	*	1684	2392	*	*	1857	*	*	*	*	*	55
+       302	*	2406	*	*	*	*	2032	0	0	
+
+D 56   *	*	1384	*	*	*	*	*	*	697	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	0	1675	0	1000	
+
+P 57   *	*	*	*	*	*	*	*	*	697	*	*	1384	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	0	1675	0	1000	
+
+A 58   1384	*	*	*	*	*	*	1246	*	*	*	*	*	*	*	*	*	2356	*	*	58
+       0	*	*	*	*	0	*	1675	0	1000	
+
+T 59   2406	*	*	*	*	*	*	*	*	*	*	2672	*	*	*	1543	1684	*	*	*	59
+       0	*	*	*	*	*	*	2032	0	0	
+
+R 60   *	*	*	*	*	*	*	*	1276	*	*	2406	*	3519	1684	*	*	*	*	*	60
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 61   2266	*	*	3275	*	538	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 62   *	*	*	*	*	812	*	2461	*	3519	*	*	*	*	*	*	*	2630	*	*	62
+       0	*	*	*	*	*	*	2032	0	0	
+
+N 63   *	*	*	*	*	*	*	*	2406	*	*	1277	*	*	*	1327	*	*	*	*	63
+       0	*	*	*	*	*	*	2032	0	0	
+
+V 64   3257	*	*	*	*	*	*	1000	*	*	2406	*	*	*	*	*	*	2275	*	*	64
+       0	*	*	*	*	*	*	2032	0	0	
+
+R 65   3301	*	*	*	*	*	*	*	*	*	*	*	2406	*	1684	*	1327	*	*	*	65
+       0	*	*	*	*	*	*	2032	0	0	
+
+P 66   *	*	*	2406	*	*	*	*	*	*	*	*	302	*	*	*	*	*	*	*	66
+       1000	*	1000	*	*	*	*	2032	0	0	
+
+A 67   691	*	*	*	*	1393	*	*	*	*	*	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	0	*	1574	0	1273	
+
+F 68   *	*	*	*	302	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2406	68
+       0	*	*	*	*	*	*	2032	0	0	
+
+I 69   *	*	*	*	*	*	*	3275	*	538	*	*	*	*	*	*	*	2266	*	*	69
+       0	*	*	*	*	*	*	2032	0	0	
+
+E 70   3275	*	*	3275	*	*	*	*	991	*	*	*	*	3301	2406	*	*	*	*	*	70
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 71   1684	*	*	538	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71
+       0	*	*	*	*	*	*	2032	0	0	
+
+L 72   *	*	*	*	*	*	*	1000	*	1000	*	*	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 73   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	73
+       0	*	*	*	*	*	*	2032	0	0	
+
+D 74   *	*	2275	334	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	74
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 75   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 76   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	76
+       0	*	*	*	*	*	*	2032	0	0	
+
+R 77   *	3257	*	*	*	*	*	*	3301	*	*	*	*	1327	1339	*	*	*	*	*	77
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 78   1000	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	78
+       0	*	*	*	*	*	*	2032	0	0	
+
+T 79   538	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1684	*	*	*	79
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 80   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	*	2032	0	0	
+
+L 81   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	81
+       0	*	*	*	*	*	*	2032	0	0	
+
+P 82   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	82
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 83   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	83
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 84   1684	*	*	768	*	*	*	*	*	*	*	*	*	*	*	*	3301	*	*	*	84
+       0	*	*	*	*	*	*	2032	0	0	
+
+D 85   *	*	1684	*	*	*	*	1692	*	*	*	2406	*	*	*	*	2392	*	*	*	85
+       0	*	*	*	*	*	*	2032	0	0	
+
+K 86   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	2032	0	0	
+
+Q 87   *	*	*	*	*	*	2406	*	*	*	*	1000	*	1684	*	*	*	*	*	*	87
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 88   *	*	2392	*	*	305	*	*	*	*	*	*	*	*	*	*	*	*	*	*	88
+       0	*	*	*	*	*	*	2032	0	0	
+
+V 89   *	*	*	*	*	*	*	2562	*	*	*	*	*	*	*	*	*	268	*	*	89
+       0	*	*	*	*	*	*	2032	0	0	
+
+F 90   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	2032	0	0	
+
+T 91   *	*	*	*	*	*	*	2406	*	*	*	*	*	*	*	*	302	*	*	*	91
+       0	*	*	*	*	*	*	2032	0	0	
+
+P 92   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	92
+       0	*	*	*	*	*	*	2032	0	0	
+
+S 93   3843	*	*	*	*	1604	*	*	*	*	*	*	*	*	*	734	*	*	*	*	93
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 94   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	94
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 95   302	*	2406	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	95
+       0	*	*	*	*	*	*	2032	0	0	
+
+G 96   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	96
+       0	*	*	*	*	*	*	2032	0	0	
+
+T 97   892	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1117	*	*	*	97
+       0	*	*	*	*	*	*	2032	0	0	
+
+N 98   *	*	*	*	*	*	*	*	*	*	*	302	*	*	*	2406	*	*	*	*	98
+       0	*	*	*	*	*	*	2032	0	0	
+
+P 99   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	2032	0	0	
+
+L 100  *	*	*	*	569	*	*	*	*	1617	*	*	*	*	*	*	*	*	*	*	100
+       0	*	*	*	*	*	*	2030	0	0	
+
+Y 101  *	*	*	*	*	*	*	2274	*	*	*	*	*	*	*	*	*	1098	*	1617	101
+       0	*	*	*	*	*	*	2030	0	0	
+
+T 102  3189	*	*	*	*	*	*	3362	*	*	*	2368	*	*	*	*	1241	2505	*	*	102
+       0	*	*	*	*	*	*	2030	0	0	
+
+E 103  *	*	*	1617	*	*	*	*	*	*	*	*	1058	*	*	*	*	*	*	2368	103
+       0	*	*	*	*	*	*	2030	0	0	
+
+I 104  *	*	*	*	*	*	*	1617	*	569	*	*	*	*	*	*	*	*	*	*	104
+       0	*	*	*	*	*	*	2030	0	0	
+
+R 105  *	*	*	*	*	*	*	1385	*	2368	*	*	*	*	1617	*	*	3361	*	*	105
+       0	*	*	*	*	*	*	2030	0	0	
+
+L 106  1870	*	*	*	*	*	*	2368	*	2209	*	*	*	3189	*	2274	*	*	*	*	106
+       0	*	*	*	*	*	*	2030	0	0	
+
+R 107  *	*	*	*	*	*	*	*	*	*	*	*	2368	*	1617	1058	*	*	*	*	107
+       0	*	*	*	*	*	*	2030	0	0	
+
+A 108  311	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2368	*	*	108
+       0	*	*	*	*	*	*	2030	0	0	
+
+D 109  *	*	1617	*	*	*	*	*	*	*	*	3191	*	2368	*	1431	*	*	*	*	109
+       0	*	*	*	*	*	*	2030	0	0	
+
+T 110  *	*	*	*	*	*	*	2475	2368	*	3362	*	*	*	*	3191	1617	3416	*	*	110
+       0	*	*	*	*	*	*	2030	0	0	
+
+L 111  *	*	*	1696	*	*	*	*	2181	1490	*	*	*	*	*	*	3122	*	*	*	111
+       0	*	*	*	*	*	*	2067	0	0	
+
+M 112  *	*	*	*	2328	*	*	*	*	*	1490	*	*	*	*	*	*	*	*	1169	112
+       0	*	*	*	*	*	*	2067	0	0	
+
+G 113  *	*	*	*	*	849	*	*	*	*	*	*	1169	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 114  1490	*	*	*	*	*	929	*	*	*	*	*	*	*	*	*	*	*	*	3074	114
+       0	*	*	*	*	*	*	2067	0	0	
+
+E 115  *	*	*	1490	*	*	*	*	*	*	1617	*	*	*	2328	*	3074	*	*	*	115
+       0	*	*	*	*	*	*	2067	0	0	
+
+L 116  *	*	*	*	1169	*	*	*	*	849	*	*	*	*	*	*	*	*	*	*	116
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 117  1490	*	*	*	*	*	*	1169	*	*	*	*	*	*	2328	*	*	*	*	*	117
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 118  1490	*	*	*	*	*	*	*	*	*	*	635	*	*	*	*	*	*	*	*	118
+       0	*	*	*	*	*	*	2067	0	0	
+
+R 119  *	*	*	2328	*	*	1576	*	*	*	*	*	*	*	1490	*	*	*	*	3192	119
+       0	*	*	*	*	*	*	2067	0	0	
+
+P 120  *	*	*	*	*	*	*	*	*	*	*	2181	1490	*	*	1239	*	*	*	*	120
+       0	*	*	*	*	*	*	2067	0	0	
+
+E 121  *	*	*	1490	*	*	*	*	*	*	*	*	*	635	*	*	*	*	*	*	121
+       0	*	*	*	*	*	*	2067	0	0	
+
+Y 122  *	*	*	*	*	*	*	*	*	*	*	*	*	635	*	*	*	*	*	1490	122
+       0	*	*	*	*	*	*	2067	0	0	
+
+R 123  *	*	*	*	*	*	*	*	*	*	*	*	*	*	849	*	3074	1617	*	*	123
+       0	*	*	*	*	*	*	2067	0	0	
+
+E 124  *	*	*	1490	*	*	*	*	*	2328	*	*	*	*	*	1169	*	*	*	*	124
+       0	*	*	*	*	*	*	2067	0	0	
+
+L 125  *	*	*	*	635	*	*	*	*	1490	*	*	*	*	*	*	*	*	*	*	125
+       0	*	*	*	*	*	*	2067	0	0	
+
+Q 126  *	*	*	*	*	*	*	*	1169	*	*	*	*	1490	2328	*	*	*	*	*	126
+       0	*	*	*	*	*	*	2067	0	0	
+
+P 127  1169	*	2328	*	*	*	*	*	*	*	*	*	2077	*	*	3071	*	*	*	*	127
+       0	*	*	*	*	*	*	2067	0	0	
+
+Y 128  *	*	*	*	2328	*	*	*	*	*	*	*	*	*	*	*	*	*	*	321	128
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 129  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	129
+       0	*	*	*	*	*	*	2067	0	0	
+
+R 130  *	*	*	1169	*	*	*	*	*	*	*	*	*	*	849	*	*	*	*	*	130
+       0	*	*	*	*	*	*	2067	0	0	
+
+Q 131  *	*	*	*	*	*	*	*	1169	*	*	*	*	849	*	*	*	*	*	*	131
+       0	*	*	*	*	*	*	2067	0	0	
+
+Q 132  *	*	*	*	*	*	*	1617	*	1653	*	*	*	1490	*	*	*	*	*	*	132
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 133  1490	*	*	*	*	*	*	1544	*	*	*	*	*	*	*	2328	*	3296	*	*	133
+       0	*	*	*	*	*	*	2067	0	0	
+
+I 134  *	*	*	*	*	*	*	1490	*	*	635	*	*	*	*	*	*	*	*	*	134
+       0	*	*	*	*	*	*	2067	0	0	
+
+D 135  *	*	1490	1653	*	*	*	*	1617	*	*	*	*	*	*	*	*	*	*	*	135
+       0	*	*	*	*	*	*	2067	0	0	
+
+L 136  *	*	*	1169	*	*	*	*	*	849	*	*	*	*	*	*	*	*	*	*	136
+       0	*	*	*	*	*	*	2067	0	0	
+
+V 137  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	137
+       0	*	*	*	*	*	*	2067	0	0	
+
+A 138  849	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1169	*	*	*	138
+       0	*	*	*	*	*	*	2067	0	0	
+
+N 139  *	*	*	*	*	*	*	*	*	*	*	1743	867	*	*	2711	*	*	*	*	139
+       0	*	*	*	*	*	*	1872	0	0	
+
+A 140  1147	*	*	*	*	*	*	*	*	867	*	*	*	*	*	*	*	*	*	*	140
+       0	*	*	*	*	*	*	1872	0	0	
+
+L 141  *	*	*	*	867	*	*	*	*	1147	*	*	*	*	*	*	*	*	*	*	141
+       0	*	*	*	*	*	*	1872	0	0	
+
+P 142  *	*	*	*	*	*	*	*	2726	*	*	1332	1147	*	*	*	*	*	*	*	142
+       0	*	*	*	*	*	*	1872	0	0	
+
+A 143  1147	*	*	1248	*	*	*	*	2971	*	*	*	*	*	*	*	*	*	*	*	143
+       0	*	*	*	*	*	*	1872	0	0	
+
+E 144  *	*	*	1725	*	1292	*	*	*	*	*	*	*	2726	2859	*	*	*	*	*	144
+       0	*	*	*	*	*	*	1872	0	0	
+
+R 145  *	*	*	*	*	*	2746	*	*	*	*	2726	*	*	1725	2859	1946	*	*	*	145
+       0	*	*	*	*	*	*	1872	0	0	
+
+S 146  *	*	*	*	*	*	*	*	*	2726	1332	*	*	*	*	1147	*	*	*	*	146
+       0	*	*	*	*	*	*	1872	0	0	
+
+N 147  *	*	2711	*	*	2746	*	*	*	*	*	2739	867	*	*	*	*	*	*	*	147
+       0	*	*	*	*	*	*	1872	0	0	
+
+T 148  2711	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	239	*	*	*	148
+       0	*	*	*	*	*	*	1872	0	0	
+
+L 149  *	*	*	*	*	*	*	*	*	1147	*	*	867	*	*	*	*	*	*	*	149
+       0	*	*	*	*	*	*	1872	0	0	
+
+V 150  1729	*	*	*	*	*	*	*	*	*	*	*	*	867	*	*	*	2739	*	*	150
+       0	*	*	*	*	*	*	1872	0	0	
+
+E 151  *	*	*	1798	*	*	*	*	*	*	*	*	*	1284	1729	*	*	*	*	*	151
+       0	*	*	*	*	*	*	1872	0	0	
+
+F 152  *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	152
+       0	*	*	*	*	*	*	1872	0	0	
+
+R 153  *	*	*	*	*	*	2726	*	*	*	*	*	*	1332	1147	*	*	*	*	*	153
+       0	*	*	*	*	*	*	1872	0	0	
+
+Q 154  *	*	*	*	*	*	*	*	*	867	*	*	*	1147	*	*	*	*	*	*	154
+       0	*	*	*	*	*	*	1872	0	0	
+
+T 155  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	155
+       0	*	*	*	*	*	*	1872	0	0	
+
+V 156  *	*	*	*	*	*	*	2971	*	2726	*	*	*	*	*	*	*	471	*	*	156
+       0	*	*	*	*	*	*	1872	0	0	
+
+Q 157  *	*	*	867	*	*	*	*	*	*	*	*	*	1147	*	*	*	*	*	*	157
+       0	*	*	*	*	*	*	1872	0	0	
+
+T 158  *	*	*	*	*	*	*	*	*	*	*	867	*	*	*	*	1147	*	*	*	158
+       0	*	*	*	*	*	*	1872	0	0	
+
+L 159  *	*	*	*	*	*	*	867	*	1147	*	*	*	*	*	*	*	*	*	*	159
+       0	*	*	*	*	*	*	1872	0	0	
+
+E 160  867	*	1729	2739	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	160
+       0	*	*	*	*	*	*	1872	0	0	
+
+A 161  1147	*	*	*	*	*	*	*	*	*	*	1946	*	*	*	1791	*	*	*	*	161
+       0	*	*	*	*	*	*	1872	0	0	
+
+T 162  *	*	*	*	*	*	*	*	867	*	*	*	*	*	*	*	1147	*	*	*	162
+       0	*	*	*	*	*	*	1872	0	0	
+
+Y 163  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	163
+       256	*	2622	*	*	*	*	1872	0	0	
+
+R 164  *	*	*	*	*	*	*	*	*	1115	*	*	*	*	894	*	*	*	*	*	164
+       0	*	*	*	*	*	0	1744	0	1000	
+
+R 165  *	*	*	*	*	*	*	*	*	*	*	*	*	1115	894	*	*	*	*	*	165
+       0	*	*	*	*	*	0	1744	0	1000	
+
+A 166  894	*	*	*	*	*	*	*	*	*	*	1115	*	*	*	*	*	*	*	*	166
+       0	*	*	*	*	0	*	1744	0	1000	
+
+A 167  275	*	*	*	*	*	*	*	*	2527	*	*	*	*	*	*	*	*	*	*	167
+       0	*	*	*	*	*	*	1802	0	0	
+
+Q 168  *	*	*	1294	*	*	*	*	*	*	*	*	*	756	*	*	*	*	*	*	168
+       0	*	*	*	*	*	*	1671	0	0	
+
+D 169  *	*	756	1294	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	169
+       0	*	*	*	*	*	*	1671	0	0	
+
+A 170  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	170
+       0	*	*	*	*	*	*	1671	0	0	
+
+S 171  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	171
+       0	*	*	*	*	*	*	1671	0	0	
+
+R 172  *	*	*	*	*	*	*	*	*	*	*	*	*	*	585	1585	*	*	*	*	172
+       0	*	*	*	*	*	*	1134	0	0	
+
+D 173  *	*	585	1585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	173
+       0	*	*	*	*	*	*	1134	0	0	
+
+E 174  585	*	*	1585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	174
+       0	*	*	*	*	*	*	1134	0	0	
+
+K 175  *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	175
+       0	*	*	*	*	*	*	1134	0	0	
+
+G 176  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	176
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 177  585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1585	*	*	*	177
+       0	*	*	*	*	*	*	1134	0	0	
+
+T 178  1585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	585	*	*	*	178
+       0	*	*	*	*	*	*	1134	0	0	
+
+N 179  *	*	585	*	*	*	*	*	*	*	*	1585	*	*	*	*	*	*	*	*	179
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 180  585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1585	*	*	*	180
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 181  585	*	*	*	*	*	*	*	*	*	*	*	1585	*	*	*	*	*	*	*	181
+       0	*	*	*	*	*	*	1134	0	0	
+
+D 182  *	*	1585	*	*	585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	182
+       0	*	*	*	*	*	*	1134	0	0	
+
+G 183  585	*	*	*	*	1585	*	*	*	*	*	*	*	*	*	*	*	*	*	*	183
+       0	*	*	*	*	*	*	1134	0	0	
+
+A 184  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	184
+       0	*	*	0	*	*	*	1134	0	0	
+
+//

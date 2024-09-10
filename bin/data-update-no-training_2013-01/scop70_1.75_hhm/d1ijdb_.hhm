@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1ijdb_ f.3.1.1 (B:) Light-harvesting complex subunits {Rhodoblastus acidophilus [TaxId: 1074]}
+FAM   f.3.1.1
+FILE  d1ijdb_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ijdb_.a3m -v 1 
+DATE  Tue Jan 22 00:23:09 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  29 out of 31 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9655634378898885206999999999999999751699
+>Consensus
+aexLTxxeaEElHkxvidGtRvFxxiAxvAHxLaxxxtPW
+>d1ijdb_ f.3.1.1 (B:) Light-harvesting complex subunits {Rhodoblastus acidophilus [TaxId: 1074]}
+AEVLTSEQAEELHKHVIDGTRVFLVIAAIAHFLAFTLTPW
+>gi|115522353|ref|YP_779264.1|(2-41:43) antenna complex subunit alpha/beta [Rhodopseudomonas palustris BisA53] >gi|115516300|gb|ABJ04284.1| antenna complex, alpha/beta subunit [Rhodopseudomonas palustris BisA53]  E=1e-07 s/c=1.49 id=68% cov=102%
+AEYLTVAESEELHKHVIDGTRVFGAIAIFAHFLAYVYTPW
+>gi|88704768|ref|ZP_01102481.1|(12-48:50) Light-harvesting protein B-800-850, beta chain [Congregibacter litoralis KT71] >gi|88701089|gb|EAQ98195.1| Light-harvesting protein B-800-850, beta chain [Congregibacter litoralis KT71]  E=4e-07 s/c=1.56 id=66% cov=95%
+---LTIRESEEVHKYIIDGTRVFFVIALVAHALAYTLTPW
+>gi|121998189|ref|YP_001002976.1|(21-57:59) antenna complex subunit alpha/beta [Halorhodospira halophila SL1] >gi|121589594|gb|ABM62174.1| antenna complex, alpha/beta subunit [Halorhodospira halophila SL1]  E=0.0001 s/c=1.34 id=55% cov=95%
+---LTLPEAEELHSYVLDGARIFFGIAVVAHVLAFAYSPW
+>gi|312114264|ref|YP_004011860.1|(12-48:50) antenna complex alpha/subunit beta [Rhodomicrobium vannielii ATCC 17100] >gi|311219393|gb|ADP70761.1| antenna complex alpha/beta subunit [Rhodomicrobium vannielii ATCC 17100]  E=1e-07 s/c=1.62 id=58% cov=95%
+---LTLAEAEELHGYVINGTRTFGAIAVLAHVLAYAFTPW
+>gi|332528163|ref|ZP_08404194.1|(13-49:51) antenna complex subunit alpha/beta [Rubrivivax benzoatilyticus JA2] >gi|2829604|sp|P72281.3|LHB3_RHOGE RecName: Full=Light-harvesting protein B-800/850 beta chain; AltName: Full=Antenna pigment protein beta chain; AltName: Full=LH2 beta polypeptide >gi|1184535|gb|AAB35399.1| LH2 beta=light-harvesting 2 membrane-spanning protein beta chain {B800-850 region} [Rubrivivax gelatinosus, Peptide Partial, 51 aa] >gi|1518160|gb|AAB49630.1| light-harvesting B800-850 beta polypeptide [Rubrivivax gelatinosus] >gi|5725345|emb|CAB52410.1| LH2 beta polypeptide [Rubrivivax gelatinosus] >gi|332112734|gb|EGJ12527.1| antenna complex subunit alpha/beta [Rubrivivax benzoatilyticus JA2]  E=1e-07 s/c=1.61 id=61% cov=95%
+---LTTAEAEELQKGLVDGTRVFGVIAVLAHILAYAYTPW
+>gi|254460720|ref|ZP_05074136.1|(24-60:62) Antenna complex alpha/beta subunit domain protein [Rhodobacterales bacterium HTCC2083] >gi|206677309|gb|EDZ41796.1| Antenna complex alpha/beta subunit domain protein [Rhodobacteraceae bacterium HTCC2083]  E=2e-07 s/c=1.59 id=58% cov=95%
+---LTLGEAEEVHSYPIDGTRVFGAIALIAHILVAISTPW
+>gi|77462096|ref|YP_351600.1|(13-49:51) light-harvesting complex, beta subunit [Rhodobacter sphaeroides 2.4.1] >gi|126460985|ref|YP_001042099.1| antenna complex subunit alpha/beta [Rhodobacter sphaeroides ATCC 17029] >gi|221641052|ref|YP_002527314.1| light-harvesting protein B-800/850 subunit beta [Rhodobacter sphaeroides KD131] >gi|429206789|ref|ZP_19198053.1| Light-harvesting LHII, beta subunit A [Rhodobacter sp. AKP1] >gi|77386514|gb|ABA77699.1| light-harvesting complex, beta subunit [Rhodobacter sphaeroides 2.4.1] >gi|126102649|gb|ABN75327.1| antenna complex, alpha/beta subunit [Rhodobacter sphaeroides ATCC 17029] >gi|221161833|gb|ACM02813.1| Light-harvesting protein B-800/850 beta chain [Rhodobacter sphaeroides KD131] >gi|428190375|gb|EKX58923.1| Light-harvesting LHII, beta subunit A [Rhodobacter sp. AKP1]  E=7e-07 s/c=1.54 id=61% cov=95%
+---LTIAEAEEVHKQLILGTRVFGGMALIAHFLAAAATPW
+>gi|2507562|sp|P35095.2|LHB2_RHOAC(6-42:44) RecName: Full=Light-harvesting protein B-800/820 beta-1 chain; AltName: Full=Antenna pigment protein beta-1 chain >gi|633609|emb|CAA87712.1| puc1B [Rhodoblastus acidophilus]  E=4e-06 s/c=1.48 id=68% cov=95%
+---LTADQAEELHKYVIDGARAFVAIAAFAHVLAYSLTPW
+>gi|1708817|sp|P80587.1|LHB_RHOTE(11-47:55) RecName: Full=Light-harvesting polypeptide B-800/860 beta chain; AltName: Full=Antenna pigment polypeptide beta chain; AltName: Full=LH-2  E=0.0002 s/c=1.32 id=53% cov=95%
+---LTVAEAEELHTYVTNGFRVFVGIAVVAHVLVFAAHPW
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1263	0	0	
+
+E 2    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1263	0	0	
+
+V 3    *	*	*	*	2572	*	*	*	*	*	*	*	*	*	*	*	*	584	*	2600	3
+       0	*	*	*	*	*	*	1468	0	0	
+
+L 4    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1938	0	0	
+
+T 5    *	*	*	*	*	*	*	*	*	*	*	4691	*	*	*	3190	232	*	*	*	5
+       0	*	*	*	*	*	*	1938	0	0	
+
+S 6    3273	*	*	4691	*	*	*	2216	*	1531	*	*	3865	*	*	4814	4219	2851	*	*	6
+       0	*	*	*	*	*	*	1938	0	0	
+
+E 7    1087	*	4614	2358	*	3692	*	*	3767	4878	*	*	3835	*	4705	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1938	0	0	
+
+Q 8    *	*	*	355	*	*	*	*	*	*	*	*	*	2196	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1938	0	0	
+
+A 9    553	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1652	*	*	*	*	9
+       0	*	*	*	*	*	*	1938	0	0	
+
+E 10   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1938	0	0	
+
+E 11   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1938	0	0	
+
+L 12   *	*	*	*	*	*	*	3697	*	537	*	*	*	*	*	*	*	2098	*	*	12
+       0	*	*	*	*	*	*	1938	0	0	
+
+H 13   *	*	*	*	*	*	80	*	*	*	*	*	*	4219	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1938	0	0	
+
+K 14   *	*	*	*	*	3600	*	*	777	*	*	*	*	*	4610	2086	4122	*	*	*	14
+       0	*	*	*	*	*	*	1938	0	0	
+
+H 15   *	*	*	*	*	4219	1654	*	*	*	*	*	*	3865	*	*	*	*	*	837	15
+       0	*	*	*	*	*	*	1938	0	0	
+
+V 16   *	*	*	*	*	*	*	3657	*	1958	*	*	4779	*	*	*	*	674	*	*	16
+       0	*	*	*	*	*	*	1938	0	0	
+
+I 17   *	*	*	*	*	*	*	278	*	3964	*	*	*	*	*	*	4122	4219	*	*	17
+       0	*	*	*	*	*	*	1938	0	0	
+
+D 18   *	*	344	*	*	*	*	*	*	4623	*	2545	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1938	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1938	0	0	
+
+T 20   1996	*	*	*	4122	*	*	*	*	*	*	*	*	*	*	*	531	*	*	*	20
+       0	*	*	*	*	*	*	1938	0	0	
+
+R 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1938	0	0	
+
+V 22   4614	*	*	*	*	*	*	3065	*	*	*	*	*	*	*	*	4021	362	*	*	22
+       0	*	*	*	*	*	*	1938	0	0	
+
+F 23   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1938	0	0	
+
+L 24   *	*	*	*	2873	751	*	*	*	2849	*	*	*	*	*	*	*	2936	*	*	24
+       0	*	*	*	*	*	*	1938	0	0	
+
+V 25   1194	*	*	*	4610	1929	*	*	*	*	*	*	*	*	*	*	*	1947	*	*	25
+       0	*	*	*	*	*	*	1938	0	0	
+
+I 26   *	*	*	*	*	*	*	287	*	4854	3551	*	*	*	*	*	*	4042	*	*	26
+       0	*	*	*	*	*	*	1938	0	0	
+
+A 27   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1938	0	0	
+
+A 28   3711	4740	*	*	*	*	*	2580	*	1146	*	*	*	*	*	*	*	1904	*	*	28
+       0	*	*	*	*	*	*	1938	0	0	
+
+I 29   *	*	*	*	2385	*	*	2847	*	2470	*	*	*	*	*	*	*	1032	*	*	29
+       0	*	*	*	*	*	*	1938	0	0	
+
+A 30   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1938	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1938	0	0	
+
+F 32   4705	*	*	*	1203	*	*	2508	*	4740	4878	*	*	*	*	*	*	1836	*	*	32
+       0	*	*	*	*	*	*	1938	0	0	
+
+L 33   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1938	0	0	
+
+A 34   375	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4482	*	2442	*	*	34
+       0	*	*	*	*	*	*	1938	0	0	
+
+F 35   2059	*	*	*	1811	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1074	35
+       0	*	*	*	*	*	*	1938	0	0	
+
+T 36   1575	*	*	*	*	*	*	2535	*	*	*	*	*	*	*	2452	3758	2087	*	*	36
+       0	*	*	*	*	*	*	1938	0	0	
+
+L 37   1913	*	*	*	3479	*	*	*	*	2704	4795	*	*	*	*	3334	*	*	*	1489	37
+       0	*	*	*	*	*	*	1938	0	0	
+
+T 38   *	*	*	*	*	*	4122	*	*	*	*	*	*	*	*	2146	481	*	*	*	38
+       0	*	*	*	*	*	*	1938	0	0	
+
+P 39   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1938	0	0	
+
+W 40   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	40
+       0	*	*	0	*	*	*	1938	0	0	
+
+//

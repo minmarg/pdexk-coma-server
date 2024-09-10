@@ -1,0 +1,235 @@
+HHsearch 1.5
+NAME  d1g3pa1 b.37.1.1 (A:1-65) N-terminal domains of the minor coat protein g3p {Bacteriophage M13 [TaxId: 10870]}
+FAM   b.37.1.1
+FILE  d1g3pa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1g3pa1.a3m -v 1 
+DATE  Mon Jan 21 21:16:37 2013
+LENG  65 match states, 65 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCHHHHHCCCCCCCCCCCCCCCCCCCCEEEEECCEEEECCEEEEECCCCCEEEECEEEEEEECC
+>ss_conf
+95203231156332321333124787764788438276111248851798666411014221069
+>Consensus
+aetxexCxakpxxxgxxsnvxkxdxxgxxYanyeGCxyeaTGViVxxxdxTxcaaxWxPvgxaxp
+>d1g3pa1 b.37.1.1 (A:1-65) N-terminal domains of the minor coat protein g3p {Bacteriophage M13 [TaxId: 10870]}
+AETVESCLAKSHTENSFTNVWKDDKTLDRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIP
+>gi|9630752|ref|NP_047356.1|(17-77:460) attachment protein [Enterobacteria phage If1] >gi|5921813|sp|O80297.1|G3P_BPIF1 RecName: Full=Attachment protein G3P; AltName: Full=Gene 3 protein; Short=G3P; AltName: Full=Minor coat protein; Flags: Precursor >gi|3676285|gb|AAC62155.1| attachment protein [Enterobacteria phage If1]  E=0.0002 s/c=0.80 id=35% cov=95%
+ATTDAECLSKPAFDGTLSNVWKEGDS--RYANFENCIYELSGIGIGYDNDTSCNGHWTPVRAA--
+>gi|332161777|ref|YP_004298354.1|(134-192:430) Coat protein A [Yersinia enterocolitica subsp. palearctica 105.5R(r)] >gi|332161790|ref|YP_004298367.1| Coat protein A [Yersinia enterocolitica subsp. palearctica 105.5R(r)] >gi|325666007|gb|ADZ42651.1| Coat protein A [Yersinia enterocolitica subsp. palearctica 105.5R(r)] >gi|325666020|gb|ADZ42664.1| Coat protein A [Yersinia enterocolitica subsp. palearctica 105.5R(r)]  E=1e-16 s/c=1.52 id=49% cov=88%
+----EICEAKPPEEGVFNNV--DSYDGGRYIYYNGCEYEATGVIVCQGDGTVCAATWKPTGA---
+>gi|194368807|pdb|3DGS|A(2-66:227) Chain A, Changing The Determinants Of Protein Stability From Covalent To Non- Covalent Interactions By In-Vitro Evolution: A Structural And Energetic Analysis >gi|194368808|pdb|3DGS|B Chain B, Changing The Determinants Of Protein Stability From Covalent To Non- Covalent Interactions By In-Vitro Evolution: A Structural And Energetic Analysis  E=6e-19 s/c=1.50 id=82% cov=102%
+AETVESSLAKSHIEGSFTNVWKDDKTLDWYANYEGILWKATGVVVITGDETQVYAIWVPVGLAIP
+>gi|157157690|ref|YP_001462788.1|(30-91:442) hypothetical protein EcE24377A_1701 [Escherichia coli E24377A] >gi|157079720|gb|ABV19428.1| hypothetical protein EcE24377A_1701 [Escherichia coli E24377A]  E=5e-16 s/c=1.41 id=29% cov=97%
+-ESDEACISRPALQGSLSGAFRSDNT--WYAVVDGCIYMATGVIVGSETGDVAATNWIPVAAYEP
+>gi|422024092|ref|ZP_16370591.1|(158-214:476) hypothetical protein OO7_16325 [Providencia sneebia DSM 19967] >gi|414091149|gb|EKT52841.1| hypothetical protein OO7_16325 [Providencia sneebia DSM 19967]  E=2e-13 s/c=1.38 id=31% cov=89%
+------CKSQPVLKNYSFSPARKDSSGNYVANYEGCKYESTSIGVIVGD--RIAADWRPVGVADP
+>gi|284009073|emb|CBA76049.1|(22-81:288) hypothetical protein ARN_33030 [Arsenophonus nasoniae]   E=3e-12 s/c=1.24 id=38% cov=89%
+----KDCLAKPIEAKTYSNTYKIGS--DYYVNFEGCQYIAKGVIVGGGDGT-IAADWKPTGKVV-
+>gi|417623534|ref|ZP_12273839.1|(2-39:377) hypothetical protein ECSTECH18_2282 [Escherichia coli STEC_H.1.8] >gi|345379446|gb|EGX11358.1| hypothetical protein ECSTECH18_2282 [Escherichia coli STEC_H.1.8]  E=0.0002 s/c=1.28 id=39% cov=58%
+-----------------------DDKGNKYVTIHGCIYEATGdVISCSNDSTHCSATWKPL-----
+>gi|9625389|ref|NP_039621.1|(134-193:434) gene III product [Enterobacteria phage I2-2] >gi|116659|sp|P15415.1|G3P_BPI22 RecName: Full=Attachment protein G3P; AltName: Full=Gene 3 protein; Short=G3P; AltName: Full=Minor coat protein; Flags: Precursor >gi|579096|emb|CAA32518.1| gene III product [Enterobacteria phage I2-2]  E=3e-14 s/c=1.36 id=44% cov=88%
+----EICEAKPPIDGVFNNVSK-GDEGGFYINYNGCEYEATGVTVCQNDGTVCASSaWKPTG----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1632	0	0	
+
+E 2    *	*	*	468	*	*	*	*	*	*	*	*	*	*	*	*	1853	*	*	*	2
+       0	*	*	*	*	*	*	2024	0	0	
+
+T 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1798	489	*	*	*	3
+       0	*	*	*	*	*	*	2024	0	0	
+
+V 4    *	*	825	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1199	*	*	4
+       0	*	*	*	*	*	*	2024	0	0	
+
+E 5    2485	*	*	566	*	*	*	*	2775	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2470	0	0	
+
+S 6    2427	*	2775	2485	*	*	*	2087	*	*	*	*	*	*	*	1977	*	*	*	*	6
+       0	*	*	*	*	*	*	2470	0	0	
+
+C 7    *	180	*	*	*	*	*	*	*	*	*	*	*	*	*	3094	*	*	*	*	7
+       0	*	*	*	*	*	*	2667	0	0	
+
+L 8    *	*	*	2296	*	*	*	2677	2665	1052	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2667	0	0	
+
+A 9    890	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1119	*	*	*	*	9
+       0	*	*	*	*	*	*	2667	0	0	
+
+K 10   *	*	*	*	*	*	*	*	544	*	*	*	*	2665	2677	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2667	0	0	
+
+S 11   *	*	*	*	*	*	*	*	*	*	*	*	361	*	*	2176	*	*	*	*	11
+       0	*	*	*	*	*	*	2667	0	0	
+
+H 12   1723	*	*	*	*	*	2176	3125	*	*	*	*	2296	*	*	*	*	2665	*	*	12
+       0	*	*	*	*	*	*	2667	0	0	
+
+T 13   *	*	*	2237	2771	*	*	2164	*	1671	*	*	*	*	*	*	3264	*	*	*	13
+       0	*	*	*	*	*	*	2667	0	0	
+
+E 14   3125	*	1985	1650	*	*	*	*	2665	*	*	*	*	2677	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2667	0	0	
+
+N 15   *	*	*	*	*	681	*	*	3125	*	*	1934	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2667	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1405	1937	2296	*	2665	16
+       0	*	*	*	*	*	*	2667	0	0	
+
+F 17   *	*	*	*	1235	*	*	*	*	1723	*	*	*	*	*	2665	*	*	*	3125	17
+       0	*	*	*	*	*	*	2667	0	0	
+
+T 18   *	*	*	*	2665	*	*	*	*	*	*	2296	*	*	*	1260	2176	*	*	*	18
+       0	*	*	*	*	*	*	2667	0	0	
+
+N 19   *	*	*	*	*	2677	*	*	*	*	*	544	*	*	*	2665	*	*	*	*	19
+       0	*	*	*	*	*	*	2667	0	0	
+
+V 20   2677	*	*	*	*	*	*	*	*	*	*	*	2665	*	*	*	3125	808	*	*	20
+       148	*	3358	*	*	*	*	2667	0	0	
+
+W 21   2592	*	*	*	2578	*	*	*	*	*	*	*	*	*	*	2805	*	*	1334	2979	21
+       0	*	*	*	*	*	0	2654	0	1000	
+
+K 22   *	*	*	*	*	*	*	*	585	*	*	*	*	*	1585	*	*	*	*	*	22
+       223	*	2805	*	*	0	*	2654	0	1000	
+
+D 23   *	*	1409	2647	*	*	*	2957	2568	*	*	*	*	*	*	2588	*	*	*	*	23
+       0	*	*	*	*	0	*	2629	0	1000	
+
+D 24   *	*	792	*	*	1603	*	*	*	*	*	*	*	*	*	3424	*	*	*	*	24
+       0	*	*	*	*	*	*	2658	0	0	
+
+K 25   *	*	1461	*	*	*	*	*	2284	*	*	2970	*	*	*	2247	*	*	*	3424	25
+       133	*	3503	*	*	*	*	2658	0	0	
+
+T 26   *	*	3290	3230	*	*	*	*	2911	*	*	*	*	*	*	1740	1479	*	*	*	26
+       505	*	1759	*	*	*	0	2630	0	1000	
+
+L 27   *	*	*	*	*	540	*	*	*	1678	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	1591	582	2188	0	1968	
+
+D 28   *	*	1292	*	*	1969	*	*	*	*	*	1572	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	0	*	2260	0	1606	
+
+R 29   *	*	*	*	3365	*	*	*	3033	*	*	*	*	*	1592	*	*	*	2068	2247	29
+       0	*	*	*	*	*	*	2658	0	0	
+
+Y 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3030	*	188	30
+       0	*	*	*	*	*	*	2658	0	0	
+
+A 31   738	*	*	*	*	*	*	2394	*	*	*	*	*	*	*	*	*	2249	*	*	31
+       0	*	*	*	*	*	*	2658	0	0	
+
+N 32   *	*	*	*	*	*	*	*	*	*	*	606	*	*	*	*	3033	2970	*	3424	32
+       0	*	*	*	*	*	*	2658	0	0	
+
+Y 33   *	*	*	*	2107	*	*	3033	*	*	*	*	*	*	*	*	*	2970	*	949	33
+       0	*	*	*	*	*	*	2658	0	0	
+
+E 34   *	*	2970	837	*	*	3033	*	*	*	*	2394	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 35   *	*	*	*	*	224	*	*	*	*	*	2796	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2658	0	0	
+
+C 36   *	169	*	*	*	*	*	3174	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2658	0	0	
+
+L 37   *	*	*	2394	*	*	*	1344	3030	2284	*	*	*	3503	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2658	0	0	
+
+W 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2284	332	38
+       0	*	*	*	*	*	*	2658	0	0	
+
+N 39   *	*	*	789	*	*	*	3503	3174	*	2970	3403	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2658	0	0	
+
+A 40   447	*	*	*	*	*	*	*	*	2796	*	*	*	*	*	3030	*	*	*	*	40
+       0	*	*	*	*	*	*	2658	0	0	
+
+T 41   *	*	*	*	*	*	*	*	3503	*	*	*	*	*	*	2796	381	*	*	*	41
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 42   *	*	*	*	*	188	*	*	*	*	*	*	*	*	*	3030	*	*	*	*	42
+       188	3033	*	0	*	*	*	2658	1000	0	
+
+V 43   *	*	*	*	*	*	*	1908	*	*	*	*	*	*	*	*	*	447	*	*	43
+       0	*	*	*	*	*	*	2658	0	0	
+
+V 44   *	*	*	*	*	1908	*	1214	*	*	*	*	*	*	*	*	3365	2284	*	*	44
+       0	*	*	*	*	*	*	2658	0	0	
+
+V 45   *	*	*	*	*	*	*	2796	*	*	*	*	*	*	*	3033	*	446	*	*	45
+       0	*	*	*	*	*	*	2658	0	0	
+
+C 46   *	1297	*	*	*	1475	*	2100	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2658	0	0	
+
+T 47   *	*	*	*	*	3503	*	*	*	*	*	*	*	2394	*	2001	2284	3030	*	2796	47
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 48   *	*	2796	2970	*	974	*	*	*	*	*	2190	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2658	0	0	
+
+D 49   *	*	457	*	*	*	*	*	*	*	*	2796	*	*	*	*	2970	*	*	*	49
+       188	*	3030	*	*	*	*	2658	0	0	
+
+E 50   *	*	2540	2111	*	1123	*	*	*	*	*	*	*	*	*	2863	*	*	*	*	50
+       0	*	*	*	*	*	0	2562	0	1000	
+
+T 51   *	*	2856	*	*	*	*	*	*	*	*	*	*	*	*	*	215	*	*	*	51
+       167	*	3192	*	*	0	*	2562	0	1000	
+
+Q 52   *	*	*	*	*	*	2911	*	*	*	*	*	*	2168	2834	2651	*	1535	*	*	52
+       0	*	*	*	*	0	*	2630	0	1000	
+
+C 53   2970	860	*	*	*	*	*	2247	*	*	*	*	*	*	*	*	*	3174	*	*	53
+       0	*	*	*	*	*	*	2658	0	0	
+
+Y 54   920	*	*	*	*	*	*	*	*	*	*	2796	*	*	*	3033	*	*	*	2284	54
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 55   898	*	*	*	*	2068	*	*	*	*	*	*	*	*	*	3365	2970	*	*	*	55
+       0	*	*	*	*	*	*	2658	0	0	
+
+T 56   *	*	2247	*	*	*	2796	3174	*	*	*	2970	*	*	*	3365	1690	*	*	*	56
+       147	3365	*	0	*	*	*	2658	1000	0	
+
+W 57   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	57
+       0	*	*	*	*	*	*	2658	0	0	
+
+V 58   *	*	*	*	*	*	*	2970	1320	*	*	*	*	*	3030	*	2796	2284	*	*	58
+       0	*	*	*	*	*	*	2658	0	0	
+
+P 59   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	2658	0	0	
+
+I 60   *	*	*	*	*	*	*	3403	*	3033	*	*	*	*	*	*	1845	986	*	*	60
+       0	*	*	*	*	*	*	2658	0	0	
+
+G 61   2677	*	*	*	*	521	*	*	*	*	*	*	*	*	2771	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2667	0	0	
+
+L 62   1122	*	*	*	*	*	*	*	2957	2041	*	*	*	*	*	*	*	2568	*	*	62
+       0	*	*	*	*	*	*	2629	0	0	
+
+A 63   626	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2649	*	2377	63
+       0	*	*	*	*	*	*	2523	0	0	
+
+I 64   *	*	2123	2088	*	*	*	1568	*	*	*	*	*	*	*	*	*	2336	*	*	64
+       0	*	*	*	*	*	*	2348	0	0	
+
+P 65   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	65
+       0	*	*	0	*	*	*	2102	0	0	
+
+//

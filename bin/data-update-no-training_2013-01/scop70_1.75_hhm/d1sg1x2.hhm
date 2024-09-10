@@ -1,0 +1,159 @@
+HHsearch 1.5
+NAME  d1sg1x2 g.24.1.1 (X:57-95) Low affinity neurotrophin receptor p75NTR {Rat (Rattus norvegicus) [TaxId: 10116]}
+FAM   g.24.1.1
+FILE  d1sg1x2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sg1x2.a3m -v 1 
+DATE  Tue Jan 22 01:54:08 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  16 out of 18 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCCCCCCCEEECCCCCCCCCCEEEECCCCCCCCCCCCCC
+>ss_conf
+974434322101686448886677434422113234679
+>Consensus
+PCTeCxglxxMxxPCxesxDAvCxCxYgYyxdxxsxxCe
+>d1sg1x2 g.24.1.1 (X:57-95) Low affinity neurotrophin receptor p75NTR {Rat (Rattus norvegicus) [TaxId: 10116]}
+PCTECLGLQSMSAPCVEADDAVCRCAYGYYQDEETGHCE
+>gi|148234593|ref|NP_001081935.1|(75-113:401) p75 neurotrophin receptor a-1 precursor [Xenopus laevis] >gi|5759216|gb|AAD51030.1|AF172399_1 p75 neurotrophin receptor a-1 [Xenopus laevis] >gi|5759218|gb|AAD51031.1|AF172400_1 p75 neurotrophin receptor a-2 [Xenopus laevis] >gi|148745605|gb|AAI42576.1| P75 neurotrophin receptor a-1 [Xenopus laevis]  E=4e-08 s/c=1.57 id=62% cov=103%
+PCTECFGHKRMEAPCVESDDAVCACAYGYFTDKKSGQCK
+>gi|348508909|ref|XP_003441995.1|(158-195:488) PREDICTED: tumor necrosis factor receptor superfamily member 16-like [Oreochromis niloticus]  E=1e-08 s/c=1.65 id=49% cov=100%
+PCTQCSGLLRMHTPCTDSADAICTCNYGFYLDETSQNC-
+>gi|327275893|ref|XP_003222706.1|(88-126:428) PREDICTED: tumor necrosis factor receptor superfamily member 16-like [Anolis carolinensis]  E=5e-08 s/c=1.56 id=55% cov=103%
+PCKECIDLESMLVPCVESDNTVCKCIYGYYRDKKTNQCQ
+>gi|410895877|ref|XP_003961426.1|(63-101:386) PREDICTED: tumor necrosis factor receptor superfamily member 16-like, partial [Takifugu rubripes]  E=8e-08 s/c=1.54 id=48% cov=103%
+PCTICTGLLVMKTPCTDSNDAICTCKYGYYMNTLSQRCE
+>gi|310832388|ref|NP_001185589.1|(74-112:431) nerve growth factor receptor (TNFR superfamily, member 16) like precursor [Danio rerio] >gi|307695980|gb|ADN85513.1| nerve growth factor recptor [Danio rerio]  E=2e-07 s/c=1.50 id=45% cov=103%
+PCTQCSELMRMLTPCTDANDALCVCDYGFFLNQLSGRCE
+>gi|348509266|ref|XP_003442171.1|(73-111:333) PREDICTED: tumor necrosis factor receptor superfamily member 16-like [Oreochromis niloticus]  E=4e-07 s/c=1.49 id=48% cov=103%
+PCTQCTGLMRMETPCTDSNDAKCICNYNYFFNTVTGRCE
+>gi|410931269|ref|XP_003979018.1|(15-53:262) PREDICTED: tumor necrosis factor receptor superfamily member 16-like, partial [Takifugu rubripes]  E=1e-06 s/c=1.44 id=50% cov=103%
+PCTLCTGLMRMETPCTDSNDAVCICDYNYFLDSISGLCE
+>gi|326934039|ref|XP_003213104.1|(165-203:504) PREDICTED: tumor necrosis factor receptor superfamily member 16-like [Meleagris gallopavo]  E=1e-09 s/c=1.69 id=75% cov=103%
+PCTQCVGLHSMSAPCVESDDAVCRCAYGYFQDELSGSCK
+>gi|326665857|ref|XP_003198133.1|(93-130:335) PREDICTED: tumor necrosis factor receptor superfamily member 16-like [Danio rerio]  E=3e-07 s/c=1.54 id=46% cov=100%
+-CTECTGLMRMQTPCTDSNDAECVCNYGYFMNVLSSRCE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2149	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2163	0	0	
+
+T 3    *	*	*	*	*	*	*	*	2968	*	*	*	*	*	*	*	197	*	*	*	3
+       0	*	*	*	*	*	*	2163	0	0	
+
+E 4    4285	*	*	804	*	*	*	4051	*	3971	*	*	*	1989	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2163	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2163	0	0	
+
+L 6    *	*	*	*	2986	*	*	2968	*	4281	*	*	*	*	3981	2848	1755	2350	*	*	6
+       0	*	*	*	*	*	*	2163	0	0	
+
+G 7    *	*	2968	3810	*	320	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2163	0	0	
+
+L 8    *	*	*	*	*	*	2986	*	*	195	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2163	0	0	
+
+Q 9    *	*	*	2968	*	*	4313	*	2986	2044	1966	*	*	2342	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2163	0	0	
+
+S 10   *	*	*	*	*	*	*	3981	*	*	*	*	*	*	997	1414	*	4051	*	*	10
+       0	*	*	*	*	*	*	2163	0	0	
+
+M 11   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2163	0	0	
+
+S 12   *	*	*	1984	*	*	3888	*	2515	2329	*	*	*	4107	*	2014	*	*	*	*	12
+       0	*	*	*	*	*	*	2163	0	0	
+
+A 13   1234	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1161	2968	*	*	13
+       0	*	*	*	*	*	*	2163	0	0	
+
+P 14   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2163	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2163	0	0	
+
+V 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1005	995	*	*	16
+       0	*	*	*	*	*	*	2163	0	0	
+
+E 17   *	*	1005	995	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2163	0	0	
+
+A 18   2201	*	*	*	*	*	*	*	*	*	*	*	*	*	*	485	3880	*	*	*	18
+       0	*	*	*	*	*	*	2163	0	0	
+
+D 19   3888	*	995	*	*	*	*	*	*	*	*	1215	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2163	0	0	
+
+D 20   *	*	197	*	*	*	*	*	*	*	*	2968	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2163	0	0	
+
+A 21   197	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2968	*	*	*	21
+       0	*	*	*	*	*	*	2163	0	0	
+
+V 22   *	*	*	4107	*	*	*	2967	3993	3810	*	*	*	*	*	*	3125	823	*	*	22
+       0	*	*	*	*	*	*	2163	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2163	0	0	
+
+R 24   2399	*	*	*	*	*	*	2982	2968	*	*	*	*	*	2014	*	2967	2469	*	*	24
+       0	*	*	*	*	*	*	2163	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2163	0	0	
+
+A 26   1632	*	2888	*	*	*	*	2968	3016	*	*	2061	*	*	*	*	4290	*	*	*	26
+       0	*	*	*	*	*	*	2163	0	0	
+
+Y 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	27
+       0	*	*	*	*	*	*	2163	0	0	
+
+G 28   *	*	*	*	*	195	*	*	*	*	*	2982	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2163	0	0	
+
+Y 29   *	*	*	*	2848	*	*	*	*	*	*	*	*	*	*	*	*	*	*	216	29
+       0	*	*	*	*	*	*	2163	0	0	
+
+Y 30   *	*	*	*	1209	*	*	*	*	*	*	*	*	*	*	*	*	*	*	817	30
+       0	*	*	*	*	*	*	2163	0	0	
+
+Q 31   *	*	*	*	3993	*	*	*	*	2303	1732	*	*	2014	2968	*	4101	*	*	*	31
+       0	*	*	*	*	*	*	2163	0	0	
+
+D 32   *	*	660	*	*	*	*	*	*	*	*	1719	*	*	*	3981	*	*	*	*	32
+       0	*	*	*	*	*	*	2163	0	0	
+
+E 33   *	*	*	1007	*	*	*	*	2426	*	*	*	*	3810	*	3971	3022	4107	*	*	33
+       0	*	*	*	*	*	*	2163	0	0	
+
+E 34   *	*	*	3322	*	*	*	3971	2426	1496	*	*	*	*	4290	*	3137	2935	*	*	34
+       0	*	*	*	*	*	*	2163	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	598	1559	*	*	*	35
+       0	*	*	*	*	*	*	2163	0	0	
+
+G 36   3880	*	*	*	*	989	*	*	*	*	*	2968	*	2044	*	4107	*	*	*	*	36
+       0	*	*	*	*	*	*	2163	0	0	
+
+H 37   *	*	*	3880	*	*	4281	4364	*	3122	*	3888	*	1734	1744	4313	*	*	*	*	37
+       0	*	*	*	*	*	*	2163	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2163	0	0	
+
+E 39   *	*	*	661	*	*	*	*	2076	*	*	*	*	2939	*	*	*	*	*	*	39
+       0	*	*	0	*	*	*	2131	0	0	
+
+//

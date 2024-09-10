@@ -1,0 +1,192 @@
+HHsearch 1.5
+NAME  d2ezwa1 a.31.1.1 (A:12-61) cAMP-dependent protein kinase type I-alpha regulatory subunit {Cow (Bos taurus) [TaxId: 9913]}
+FAM   a.31.1.1
+FILE  d2ezwa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2ezwa1.a3m -v 1 
+DATE  Tue Jan 22 06:30:33 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  40 out of 42 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred
+CHHHHHHHHHHCCHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHCC
+>ss_conf
+94788999986288899999999985408853478999999989733049
+>Consensus
+slxecExYvqxHnIqxlLKdxIVqLCixkPxxPxxFLreyFekLekexxk
+>d2ezwa1 a.31.1.1 (A:12-61) cAMP-dependent protein kinase type I-alpha regulatory subunit {Cow (Bos taurus) [TaxId: 9913]}
+SLRECELYVQKHNIQALLKDSIVQLCTARPERPMAFLREYFEKLEKEEAK
+>gi|391347578|ref|XP_003748037.1|(8-57:372) PREDICTED: cAMP-dependent protein kinase regulatory subunit-like [Metaseiulus occidentalis]  E=3e-08 s/c=1.23 id=53% cov=102%
+TIRVCEAYCEKHEVQRLLKECIVQLCMQKPNNPVAFLRDYFTRLEKTAMK
+>gi|339241809|ref|XP_003376830.1|(71-117:140) cAMP-dependent protein kinase type I-alpha regulatory subunit [Trichinella spiralis] >gi|316974434|gb|EFV57925.1| cAMP-dependent protein kinase type I-alpha regulatory subunit [Trichinella spiralis]  E=1e-06 s/c=1.20 id=50% cov=96%
+--RLCEDYLERHNISDLIKRAVVRLCIAQPDDPVAFLSHYFQLLEKGEV-
+>gi|133901990|ref|NP_001076771.1|(20-68:376) Protein KIN-2, isoform c [Caenorhabditis elegans] >gi|351059922|emb|CCD67514.1| Protein KIN-2, isoform c [Caenorhabditis elegans]  E=1e-14 s/c=1.69 id=48% cov=100%
+-LAQCQAYVQRHNIQQLVKEAIVVLCIHKPDNPVLFLKDHFEKLNEQRAQ
+>gi|358336638|dbj|GAA55099.1|(7-50:53) cAMP-dependent protein kinase regulator, partial [Clonorchis sinensis]  E=1e-10 s/c=1.57 id=53% cov=90%
+-INGVEDYIKQYNIHELLRDSIVHLCLYRPSNPVGYLREYFEKLE-----
+>gi|188593370|emb|CAO78754.1|(9-53:399) putative cAMP-dependent protein kinase type I-alpha regulatory subunit [Oikopleura dioica]  E=4e-10 s/c=1.50 id=52% cov=88%
+-----QDYIQNFNLHVILKEAIRELCYTRPERPYAFLSNYFEKLANEE--
+>gi|195999626|ref|XP_002109681.1|(20-69:382) hypothetical protein TRIADDRAFT_37279 [Trichoplax adhaerens] >gi|190587805|gb|EDV27847.1| hypothetical protein TRIADDRAFT_37279 [Trichoplax adhaerens]  E=1e-13 s/c=1.58 id=53% cov=102%
+SLRQCERYVEEHNLQAVLKESIVQLCISQPNNPFSFLRDHFENLSMKKKQ
+>gi|340378321|ref|XP_003387676.1|(9-54:371) PREDICTED: cAMP-dependent protein kinase type I-alpha regulatory subunit-like [Amphimedon queenslandica]  E=3e-10 s/c=1.48 id=47% cov=94%
+SALEYEEYIEQHGIQAVLKEAVAKLCQERPANPYRYLRDYFESLDK----
+>gi|167537362|ref|XP_001750350.1|(7-51:365) hypothetical protein [Monosiga brevicollis MX1] >gi|163771178|gb|EDQ84849.1| predicted protein [Monosiga brevicollis MX1]  E=7e-09 s/c=1.41 id=35% cov=92%
+---ELQAYLKEHNVESLLKDIVVKLCVDKPDDELDFIKNYMIQLQRER--
+>gi|313224326|emb|CBY20115.1|(24-63:240) unnamed protein product [Oikopleura dioica]   E=5e-07 s/c=1.43 id=46% cov=82%
+------AYIDEFDIQAIVKDAIAELCSKQPQRPLAYLRDYFGRLEQ----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    4326	*	*	*	*	*	*	*	*	*	*	*	*	*	*	186	3810	*	*	*	1
+       0	*	*	*	*	*	*	2063	0	0	
+
+L 2    3786	*	*	*	*	*	*	3052	*	472	3541	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2334	0	0	
+
+R 3    3844	*	*	*	*	*	5578	*	2298	3879	*	4527	*	4078	1016	4612	*	*	*	*	3
+       0	*	*	*	*	*	*	2426	0	0	
+
+E 4    4643	*	4764	795	*	3079	*	*	*	4000	*	*	*	2963	*	*	*	4729	*	*	4
+       0	*	*	*	*	*	*	2601	0	0	
+
+C 5    *	442	*	*	*	*	*	*	*	3458	*	*	*	*	*	*	*	3163	*	4030	5
+       0	*	*	*	*	*	*	2601	0	0	
+
+E 6    *	*	*	385	*	*	*	*	*	*	*	*	*	2096	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2758	0	0	
+
+L 7    1525	*	2111	3728	*	*	4822	5465	4052	2787	6069	*	*	6185	4814	5774	*	*	*	*	7
+       0	*	*	*	*	*	*	2807	0	0	
+
+Y 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	8
+       0	*	*	*	*	*	*	2807	0	0	
+
+V 9    *	4981	*	*	*	*	*	1899	*	2478	*	*	*	*	*	*	*	941	*	*	9
+       0	*	*	*	*	*	*	2807	0	0	
+
+Q 10   3674	*	4522	2293	*	*	5216	*	2504	*	*	*	*	1087	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2807	0	0	
+
+K 11   *	*	4052	2451	*	*	*	*	1975	6072	*	4364	*	2897	2279	5635	3668	*	*	*	11
+       0	*	*	*	*	*	*	2807	0	0	
+
+H 12   *	*	*	*	3441	*	303	*	*	*	*	*	*	*	4823	*	*	*	*	4017	12
+       0	*	*	*	*	*	*	2807	0	0	
+
+N 13   *	5774	4522	4981	*	2427	*	*	5216	*	*	637	*	*	4851	5946	*	*	*	*	13
+       0	*	*	*	*	*	*	2807	0	0	
+
+I 14   *	*	*	*	*	*	*	612	*	3572	*	*	*	*	*	*	*	1933	*	*	14
+       0	*	*	*	*	*	*	2807	0	0	
+
+Q 15   *	*	*	3017	*	*	3163	*	*	*	*	*	*	496	*	4161	*	*	*	*	15
+       0	*	*	*	*	*	*	2807	0	0	
+
+A 16   2177	*	4161	3986	*	4667	*	5614	4533	5827	*	*	*	1609	3329	3982	*	4364	*	*	16
+       0	*	*	*	*	*	*	2807	0	0	
+
+L 17   *	*	*	*	*	*	*	2574	*	1053	*	*	*	*	*	*	4518	1706	*	*	17
+       0	*	*	*	*	*	*	2807	0	0	
+
+L 18   *	*	*	*	*	*	*	4161	*	234	*	*	*	*	*	*	*	3414	*	*	18
+       0	*	*	*	*	*	*	2807	0	0	
+
+K 19   *	*	*	*	*	*	*	*	140	*	*	*	*	*	3432	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2807	0	0	
+
+D 20   *	*	668	1668	*	*	*	*	*	*	*	*	*	*	4161	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2807	0	0	
+
+S 21   1862	1106	*	*	*	*	*	3017	*	*	*	*	*	*	*	2870	*	*	*	*	21
+       0	*	*	*	*	*	*	2807	0	0	
+
+I 22   *	*	*	*	*	*	*	419	*	*	*	*	*	*	*	*	*	1989	*	*	22
+       0	*	*	*	*	*	*	2807	0	0	
+
+V 23   3555	*	*	*	*	*	*	*	*	*	*	*	*	*	4364	*	*	207	*	*	23
+       0	*	*	*	*	*	*	2807	0	0	
+
+Q 24   *	*	*	3152	*	*	3725	*	2598	*	*	3756	*	1100	4161	5473	*	5168	*	*	24
+       0	*	*	*	*	*	*	2807	0	0	
+
+L 25   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2807	0	0	
+
+C 26   *	39	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5245	*	*	26
+       0	*	*	*	*	*	*	2807	0	0	
+
+T 27   *	*	*	*	*	*	*	1598	*	2966	4981	*	*	4588	*	4522	4211	1633	*	4364	27
+       0	*	*	*	*	*	*	2807	0	0	
+
+A 28   2521	4822	3017	4588	*	6217	3128	*	4522	*	*	3102	*	4981	*	2620	3980	5791	*	4017	28
+       0	*	*	*	*	*	*	2807	0	0	
+
+R 29   *	*	*	*	*	*	*	*	1130	*	*	*	*	2890	1293	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2807	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2807	0	0	
+
+E 31   3870	*	1456	1527	*	*	*	*	*	*	*	3895	*	4522	*	3193	*	*	*	*	31
+       0	*	*	*	*	*	*	2807	0	0	
+
+R 32   *	*	2478	5119	*	*	*	*	5216	*	*	1084	*	*	1989	4602	*	*	*	*	32
+       0	*	*	*	*	*	*	2807	0	0	
+
+P 33   *	*	*	3982	*	*	*	*	*	*	*	*	190	*	*	*	*	4052	*	*	33
+       0	*	*	*	*	*	*	2807	0	0	
+
+M 34   *	*	*	*	4814	*	*	2907	*	1965	2710	*	*	*	*	*	5791	1884	*	2908	34
+       0	*	*	*	*	*	*	2807	0	0	
+
+A 35   1641	*	3982	4052	*	4410	*	*	3159	4312	*	5119	*	4822	3245	3119	5946	4451	*	*	35
+       0	*	*	*	*	*	*	2807	0	0	
+
+F 36   *	*	*	*	282	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2493	36
+       0	*	*	*	*	*	*	2807	0	0	
+
+L 37   *	*	*	*	5465	*	*	3017	*	228	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2807	0	0	
+
+R 38   *	*	*	*	*	*	*	*	2524	*	*	*	*	*	529	3259	*	*	5119	*	38
+       0	*	*	*	*	*	*	2807	0	0	
+
+E 39   *	*	2140	1122	*	*	4161	*	*	*	*	2539	*	3935	*	5635	*	*	*	*	39
+       0	*	*	*	*	*	*	2807	0	0	
+
+Y 40   *	*	*	*	*	*	1423	*	*	*	*	*	*	*	*	*	*	*	*	673	40
+       0	*	*	*	*	*	*	2807	0	0	
+
+F 41   *	*	*	*	190	*	*	*	*	*	3982	*	*	*	*	*	*	4052	*	*	41
+       0	*	*	*	*	*	*	2807	0	0	
+
+E 42   4533	*	4417	1060	*	3790	*	3982	*	*	*	*	*	2301	*	*	3443	*	*	*	42
+       0	*	*	*	*	*	*	2807	0	0	
+
+K 43   5216	*	*	5081	*	*	*	*	887	4161	*	4814	*	3982	2276	4588	*	*	*	*	43
+       0	*	*	*	*	*	*	2807	0	0	
+
+L 44   *	*	*	*	*	*	*	*	*	40	*	*	*	*	*	5188	*	*	*	*	44
+       0	*	*	*	*	*	*	2807	0	0	
+
+E 45   4302	*	4064	594	*	*	*	*	*	*	*	4035	*	2953	*	4765	*	*	*	*	45
+       0	*	*	*	*	*	*	2783	0	0	
+
+K 46   3690	*	*	4953	*	*	*	*	1211	*	4733	4170	*	3149	2172	*	5040	*	*	*	46
+       0	*	*	*	*	*	*	2756	0	0	
+
+E 47   *	*	3663	1002	*	3942	*	*	3355	*	*	*	*	3029	*	4036	3727	*	*	*	47
+       0	*	*	*	*	*	*	2736	0	0	
+
+E 48   3512	*	5542	1529	*	*	*	*	4364	*	*	3971	*	2761	2684	2956	*	*	*	*	48
+       0	*	*	*	*	*	*	2717	0	0	
+
+A 49   1167	4966	3467	*	*	*	*	*	3831	*	3962	2974	*	*	*	*	*	2553	*	*	49
+       0	*	*	*	*	*	*	2338	0	0	
+
+K 50   *	*	*	*	*	*	*	*	777	*	*	*	*	2242	2287	*	*	*	*	*	50
+       0	*	*	0	*	*	*	2214	0	0	
+
+//

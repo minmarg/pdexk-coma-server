@@ -1,0 +1,156 @@
+HHsearch 1.5
+NAME  d2akla2 g.41.3.5 (A:3-40) Hypothetical protein PA0128, N-terminal domain {Pseudomonas aeruginosa [TaxId: 287]}
+FAM   g.41.3.5
+FILE  d2akla2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2akla2.a3m -v 1 
+DATE  Tue Jan 22 05:28:33 2013
+LENG  38 match states, 38 columns in multiple alignment
+FILT  111 out of 398 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCEEECCCCCCCCCCCCCCCC
+>ss_conf
+98877897888850027974117767663784435569
+>Consensus
+sxlPxCPxCxseytYxDgxlxvCPeCghEWxxxxxxxA
+>d2akla2 g.41.3.5 (A:3-40) Hypothetical protein PA0128, N-terminal domain {Pseudomonas aeruginosa [TaxId: 287]}
+STLPPCPQCNSEYTYEDGALLVCPECAHEWSPNEAATA
+>gi|399024460|ref|ZP_10726497.1|(13-44:120) alkylphosphonate utilization operon protein PhnA [Chryseobacterium sp. CF314] >gi|398080450|gb|EJL71264.1| alkylphosphonate utilization operon protein PhnA [Chryseobacterium sp. CF314]  E=7e-08 s/c=1.88 id=42% cov=87%
+-----CPKCSSEFTYPSDNMMVCSQCFYEWNPEEVSA-
+>gi|145588895|ref|YP_001155492.1|(6-41:115) alkylphosphonate utilization protein PhnA [Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1] >gi|145047301|gb|ABP33928.1| alkylphosphonate utilization operon protein PhnA [Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1]  E=3e-07 s/c=1.61 id=41% cov=97%
+-NLPKCPVCQEDMTYPDGENFVCAQCGHEWPMAAVTE-
+>gi|291618590|ref|YP_003521332.1|(18-54:127) PhnA [Pantoea ananatis LMG 20103] >gi|386016892|ref|YP_005935188.1| protein PhnA [Pantoea ananatis AJ13355] >gi|291153620|gb|ADD78204.1| PhnA [Pantoea ananatis LMG 20103] >gi|327394970|dbj|BAK12392.1| protein PhnA [Pantoea ananatis AJ13355]  E=4e-09 s/c=1.74 id=39% cov=100%
+-SLPACPVCHADYTWQDAENLNCPSCGHIWTQAEGDDS
+>gi|209966852|ref|YP_002299767.1|(7-38:117) alkylphosphonate utilization operon protein PhnA [Rhodospirillum centenum SW] >gi|209960318|gb|ACJ00955.1| alkylphosphonate utilization operon protein PhnA, putative [Rhodospirillum centenum SW]  E=1e-08 s/c=1.95 id=45% cov=87%
+-----CPNCGSGHAYSDGTLWNCPDCGHEWNPQTETA-
+>gi|408490153|ref|YP_006866522.1|(8-40:118) PhnA family protein [Psychroflexus torquis ATCC 700755] >gi|408467428|gb|AFU67772.1| PhnA family protein [Psychroflexus torquis ATCC 700755]  E=0.0001 s/c=1.49 id=45% cov=87%
+-----CPNCSSAYGYSVGSgIYNCPECSFEWDSKEGET-
+>gi|162146486|ref|YP_001600945.1|(6-40:108) protein PhnA [Gluconacetobacter diazotrophicus PAl 5] >gi|209543512|ref|YP_002275741.1| alkylphosphonate utilization operon protein PhnA [Gluconacetobacter diazotrophicus PAl 5] >gi|161785061|emb|CAP54605.1| putative protein phnA [Gluconacetobacter diazotrophicus PAl 5] >gi|209531189|gb|ACI51126.1| alkylphosphonate utilization operon protein PhnA [Gluconacetobacter diazotrophicus PAl 5]  E=0.001 s/c=1.32 id=42% cov=95%
+---PACPQCTLDETHVEGANHVCDTCGYEWPVDIADAA
+>gi|288940743|ref|YP_003442983.1|(2-38:112) alkylphosphonate utilization operon protein PhnA [Allochromatium vinosum DSM 180] >gi|288896115|gb|ADC61951.1| alkylphosphonate utilization operon protein PhnA [Allochromatium vinosum DSM 180]  E=5e-10 s/c=1.81 id=45% cov=100%
+STPPPCPRCSMDNTYPDADLYICADCGHEWSQQASED-
+>gi|421256509|ref|ZP_15710503.1|(3-39:131) PhnA, partial [Pasteurella multocida subsp. multocida str. Anand1_cattle] >gi|401701119|gb|EJS91764.1| PhnA, partial [Pasteurella multocida subsp. multocida str. Anand1_cattle]  E=1e-09 s/c=1.77 id=45% cov=100%
+-QMPTCPKCQSEYVYHDSIHFVCPDCSYEWSGQEPVES
+>gi|258545056|ref|ZP_05705290.1|(5-37:112) alkylphosphonate utilization operon protein PhnA [Cardiobacterium hominis ATCC 15826] >gi|258519676|gb|EEV88535.1| alkylphosphonate utilization operon protein PhnA [Cardiobacterium hominis ATCC 15826]  E=2e-07 s/c=1.77 id=41% cov=89%
+----HCPKCACDYCYNDGEMNICPECAYEWRDGDTGA-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    4877	*	*	*	*	*	*	*	*	*	*	*	*	*	*	316	2620	*	*	*	1
+       0	*	*	*	*	*	*	2953	0	0	
+
+T 2    3412	*	3704	3772	*	4770	5927	*	*	*	*	3201	*	3661	*	2293	1806	5302	*	*	2
+       0	*	*	*	*	*	*	3328	0	0	
+
+L 3    *	*	5899	5423	3072	*	6332	3570	*	641	5103	*	6039	*	*	*	*	5848	*	4596	3
+       0	*	*	*	*	*	*	3304	0	0	
+
+P 4    5450	*	*	*	*	*	*	*	*	*	*	*	65	*	*	5565	*	*	*	*	4
+       0	*	*	*	*	*	*	3424	0	0	
+
+P 5    1921	*	6497	6217	*	*	5256	*	3292	5184	*	2184	2001	5897	5198	5197	6111	*	*	*	5
+       0	*	*	*	*	*	*	3480	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3675	0	0	
+
+P 7    *	*	*	*	*	*	*	5681	6544	4186	*	*	170	*	*	6569	6013	*	*	*	7
+       0	*	*	*	*	*	*	3675	0	0	
+
+Q 8    4453	*	6140	3356	*	7017	6292	6410	1584	7206	*	3877	*	2083	5065	3738	*	4590	*	5681	8
+       0	*	*	*	*	*	*	3675	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3675	0	0	
+
+N 10   3843	*	5792	4503	*	2250	3917	*	4592	*	*	2816	*	2699	6437	2618	3646	*	*	*	10
+       0	*	*	*	*	*	*	3675	0	0	
+
+S 11   4160	4590	5661	3893	4935	6292	*	*	*	3430	5065	*	*	*	*	627	*	*	*	*	11
+       0	*	*	*	*	*	*	3675	0	0	
+
+E 12   3428	*	3314	981	*	4965	6437	5364	6457	5574	*	4710	4293	*	6140	4362	4654	7010	*	*	12
+       0	*	*	*	*	*	*	3675	0	0	
+
+Y 13   *	*	*	4418	3261	*	4932	*	*	5725	6313	3012	*	*	*	*	*	*	*	598	13
+       0	*	*	*	*	*	*	3675	0	0	
+
+T 14   3308	5911	*	*	*	4856	*	*	*	*	*	*	*	*	*	5277	531	2943	*	*	14
+       0	*	*	*	*	*	*	3675	0	0	
+
+Y 15   *	*	*	*	*	*	4418	*	*	*	*	*	*	*	*	*	*	*	4332	146	15
+       0	*	*	*	*	*	*	3675	0	0	
+
+E 16   4551	*	5902	1541	4840	*	3356	*	6433	4360	*	5451	3125	2648	*	3824	*	4771	*	*	16
+       14	6726	*	0	*	*	*	3675	1000	0	
+
+D 17   *	*	440	4108	*	*	*	*	*	6410	4666	5536	*	5994	*	4175	6187	4404	*	*	17
+       0	*	*	*	*	*	*	3675	0	0	
+
+G 18   5052	*	3127	5648	*	793	*	*	*	*	6130	3834	6001	5309	3700	4870	6197	*	*	6932	18
+       19	6272	*	1000	1000	*	*	3675	1000	0	
+
+A 19   2986	*	2916	2596	6645	2965	5440	6489	6924	4807	5292	3605	5108	6959	*	3197	3553	5592	*	*	19
+       15	6620	*	0	*	*	*	3675	1000	0	
+
+L 20   4678	*	*	*	*	6895	5200	4700	*	916	3053	3476	*	3408	*	*	4552	6675	*	*	20
+       0	*	*	*	*	*	*	3675	0	0	
+
+L 21   *	*	*	*	2359	*	4065	5236	*	1693	4218	5911	*	*	*	6686	*	6129	3445	2163	21
+       0	*	*	*	*	*	*	3675	0	0	
+
+V 22   4484	*	*	*	*	*	*	1692	*	5931	6187	2902	*	*	*	*	5789	1109	*	*	22
+       0	*	*	*	*	*	*	3675	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3675	0	0	
+
+P 24   4242	*	4418	*	*	*	*	*	*	*	*	*	282	*	*	4262	5282	*	*	*	24
+       0	*	*	*	*	*	*	3675	0	0	
+
+E 25   4314	*	3082	787	*	6960	*	*	*	6515	3305	*	*	4662	*	4458	5403	5434	*	*	25
+       0	*	*	*	*	*	*	3675	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3675	0	0	
+
+A 27   1666	*	*	*	4305	1006	*	*	*	6315	*	5541	*	5665	*	3874	*	*	*	6130	27
+       0	*	*	*	*	*	*	3675	0	0	
+
+H 28   *	*	*	*	3366	*	683	*	5681	6705	*	5255	*	6716	*	*	*	*	*	2217	28
+       0	*	*	*	*	*	*	3675	0	0	
+
+E 29   6408	*	*	137	*	*	*	5989	*	*	*	*	*	5931	*	5665	*	5196	*	*	29
+       9	7410	*	2322	322	*	*	3675	1000	0	
+
+W 30   *	*	*	*	4612	*	*	*	*	*	*	*	*	*	*	*	*	*	60	*	30
+       31	5559	*	1138	874	*	*	3675	1443	0	
+
+S 31   4763	*	4817	5859	*	7316	7007	*	4707	6509	*	2575	2729	3697	5333	1883	2685	*	*	*	31
+       0	*	*	*	*	*	*	3675	0	0	
+
+P 32   2625	*	4178	3141	*	5812	*	6662	4548	5111	4696	6664	1883	3190	5500	5200	4667	4262	*	*	32
+       8	7459	*	0	*	*	*	3668	1000	0	
+
+N 33   2860	*	2444	2533	5767	3021	5014	*	4980	6455	*	3669	*	3905	*	4149	3795	6838	7051	*	33
+       10	7233	*	0	*	*	*	3668	1000	0	
+
+E 34   2357	*	2661	1826	*	4374	6188	4060	*	*	*	*	*	4227	*	3785	3223	6672	*	*	34
+       0	*	*	*	*	*	*	3666	0	0	
+
+A 35   2096	*	4829	3248	*	3849	*	5721	*	6589	6318	4880	5251	4450	*	3265	2425	3080	*	*	35
+       0	*	*	*	*	*	*	3602	0	0	
+
+A 36   1825	*	3554	2307	*	3388	*	*	5738	6024	*	6054	6425	6443	*	2923	3290	5127	*	*	36
+       0	*	*	*	*	*	*	3648	0	0	
+
+T 37   1944	*	2921	2147	*	4951	*	6396	*	*	*	*	6418	6353	*	3968	2141	5409	*	*	37
+       0	*	*	*	*	*	*	3668	0	0	
+
+A 38   301	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2409	*	*	*	*	38
+       0	*	*	0	*	*	*	3257	0	0	
+
+//

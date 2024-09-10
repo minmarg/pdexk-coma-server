@@ -1,0 +1,124 @@
+HHsearch 1.5
+NAME  d1nbja_ g.3.3.2 (A:) Cycloviolacin O1 {Plant (Viola odorata) [TaxId: 97441]}
+FAM   g.3.3.2
+FILE  d1nbja_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nbja_.a3m -v 1 
+DATE  Mon Jan 21 23:32:51 2013
+LENG  30 match states, 30 columns in multiple alignment
+FILT  6 out of 8 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCEECCCHHHHHHCCCCCCCCCCCCCC
+>ss_conf
+998512311000123156655761006889
+>Consensus
+caescvxipctvtallgcsckxxvcynxlp
+>d1nbja_ g.3.3.2 (A:) Cycloviolacin O1 {Plant (Viola odorata) [TaxId: 97441]}
+CAESCVYIPCTVTALLGCSCSNRVCYNGIP
+>gi|282929814|gb|ADB03553.1|(74-103:106) cyclotide E [Gloeospermum pauciflorum]   E=4e-06 s/c=1.81 id=71% cov=103%
+CAESCVWIPCTVTKMLGCSCKDKVCYNSLP
+>gi|113952533|gb|ABI48959.1|(88-116:120) cyclotide precursor 4 [Viola baoshanensis] >gi|196122507|gb|ACG69853.1| cyclotide precursor 4a [Viola baoshanensis]  E=6e-06 s/c=1.86 id=77% cov=100%
+CAESCVWIPCTVTALLGCSCKDKVCYNSL-
+>gi|384007298|gb|AFH57352.1|(48-75:77) cyclotide precursor chassatide C2 [Chassalia chartacea]   E=3e-05 s/c=1.84 id=76% cov=97%
+CAESCVWIPCTITALMGCSCKNNVCYNN--
+>gi|384007310|gb|AFH57358.1|(48-75:77) cyclotide precursor chassatide C15 [Chassalia chartacea] >gi|384007320|gb|AFH57363.1| cyclotide precursor chassatide C15 [Chassalia chartacea]  E=3e-05 s/c=1.84 id=76% cov=97%
+CAESCVYIPCTITALLGCSCKDKVCYKN--
+>gi|77819756|gb|ABB04010.1|(1-27:33) cyclotide A precursor, partial [Hybanthus enneaspermus]   E=0.0003 s/c=1.80 id=81% cov=90%
+CGESCVYIPCTVTALLGCSCKDKVCY----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1222	0	0	
+
+A 2    256	*	*	*	*	2619	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1222	0	0	
+
+E 3    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1222	0	0	
+
+S 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	4
+       0	*	*	*	*	*	*	1222	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1222	0	0	
+
+V 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	6
+       0	*	*	*	*	*	*	1222	0	0	
+
+Y 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	978	1022	7
+       0	*	*	*	*	*	*	1222	0	0	
+
+I 8    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1222	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1222	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1222	0	0	
+
+T 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	11
+       0	*	*	*	*	*	*	1222	0	0	
+
+V 12   *	*	*	*	*	*	*	1581	*	*	*	*	*	*	*	*	*	587	*	*	12
+       0	*	*	*	*	*	*	1222	0	0	
+
+T 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	13
+       0	*	*	*	*	*	*	1222	0	0	
+
+A 14   283	*	*	*	*	*	*	*	2488	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1222	0	0	
+
+L 15   *	*	*	*	*	*	*	*	*	283	2488	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1222	0	0	
+
+L 16   *	*	*	*	*	*	*	*	*	290	2458	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1222	0	0	
+
+G 17   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1222	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1222	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1222	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1222	0	0	
+
+S 21   *	*	*	*	*	*	*	*	281	*	*	*	*	*	*	2496	*	*	*	*	21
+       0	*	*	*	*	*	*	1222	0	0	
+
+N 22   *	*	642	*	*	*	*	*	*	*	*	1477	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1222	0	0	
+
+R 23   *	*	*	*	*	*	*	*	642	*	*	2458	*	*	2496	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1222	0	0	
+
+V 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	24
+       0	*	*	*	*	*	*	1222	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1222	0	0	
+
+Y 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	26
+       0	*	*	*	*	*	*	1222	0	0	
+
+N 27   *	*	*	*	*	*	*	*	2336	*	*	318	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1266	0	0	
+
+G 28   *	*	*	*	*	2239	*	*	*	*	*	1308	*	*	*	1380	*	*	*	*	28
+       0	*	*	*	*	*	*	1266	0	0	
+
+I 29   *	*	*	*	*	*	*	1466	*	649	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1196	0	0	
+
+P 30   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	30
+       0	*	*	0	*	*	*	1203	0	0	
+
+//

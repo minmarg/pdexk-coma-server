@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  d1x63a1 g.39.1.3 (A:8-44) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d1x63a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1x63a1.a3m -v 1 
+DATE  Tue Jan 22 04:26:42 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  75 out of 77 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCEEECCCCCCCCCCCC
+>ss_conf
+9547665766544661016797011015882433359
+>Consensus
+kCyxxxxsxxCxgCxkxIxxGxkxxEykgxxWHexCF
+>d1x63a1 g.39.1.3 (A:8-44) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+KCTTREDSPKCKGCFKAIVAGDQNVEYKGTVWHKDCF
+>gi|54400313|dbj|BAD66671.1|(91-127:280) four-and-a-half LIM domain protein 5 [Anguilla japonica]   E=3e-05 s/c=1.40 id=45% cov=103%
+KCGARQEGTRCQACYKVVMPGSKNVEYKHKVWHEECF
+>gi|47219268|emb|CAG11730.1|(30-66:953) unnamed protein product [Tetraodon nigroviridis]   E=0.0009 s/c=1.25 id=32% cov=103%
+RCHTKFCANSCAECHRPIPVGSKELHHKGRYWHEECF
+>gi|395534644|ref|XP_003769350.1|(132-168:324) PREDICTED: four and a half LIM domains protein 5 [Sarcophilus harrisii]  E=2e-07 s/c=1.58 id=45% cov=103%
+ECYSNEYSSKCFQCKKNILPGSRKMEFKGNVWHETCF
+>gi|387913928|gb|AFK10573.1|(91-127:279) four and a half LIM domains protein 1 isoform 2 [Callorhinchus milii]  E=0.0008 s/c=1.25 id=50% cov=103%
+KCSSRADSGVCHGCKRAIRPGTKSVEYSGNNWHENCF
+>gi|340719742|ref|XP_003398306.1|(1133-1169:1384) PREDICTED: hypothetical protein LOC100650291 [Bombus terrestris]   E=0.0001 s/c=1.31 id=32% cov=103%
+KCYESVFANGCEECNKIIGIDSKDLSYKDKHWHEACF
+>gi|321478254|gb|EFX89211.1|(403-438:592) hypothetical protein DAPPUDRAFT_190431 [Daphnia pulex]   E=3e-06 s/c=1.52 id=35% cov=100%
+-CYDSMYATRCDGCGEIFRAGTKKMEYKSRQWHEKCF
+>gi|402854002|ref|XP_003891675.1|(134-169:322) PREDICTED: four and a half LIM domains protein 3 [Papio anubis]   E=2e-05 s/c=1.44 id=32% cov=100%
+-CYCSAFSSQCSACGETVMPGSRKLEYGGQTWHEHCF
+>gi|260802218|ref|XP_002595989.1|(930-965:1024) hypothetical protein BRAFLDRAFT_123730 [Branchiostoma floridae] >gi|229281243|gb|EEN52001.1| hypothetical protein BRAFLDRAFT_123730 [Branchiostoma floridae]  E=5e-05 s/c=1.39 id=38% cov=100%
+-CFSKTMSTKCIGCDFPIEPGDRWLEALNCAWHTECF
+>gi|224067497|ref|XP_002193792.1|(580-617:648) PREDICTED: PDZ and LIM domain 7 [Taeniopygia guttata]   E=0.0002 s/c=1.28 id=39% cov=103%
+KCYDTRYAPSCSKCKKKItGAGDRFLEALGFSRHDTCF
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	2047	*	*	*	*	629	*	*	*	*	*	3167	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3201	0	0	
+
+C 2    *	53	*	*	4799	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3557	0	0	
+
+T 3    3367	5030	*	*	4159	3746	3950	*	*	*	*	*	*	*	*	4579	3827	5288	*	891	3
+       0	*	*	*	*	*	*	3557	0	0	
+
+T 4    3524	4306	2189	2688	*	5484	*	*	*	*	*	*	*	*	*	1785	2511	*	*	*	4
+       0	*	*	*	*	*	*	3557	0	0	
+
+R 5    4158	*	5173	4139	*	*	5572	6143	3042	*	*	2564	*	2864	2356	2938	3823	*	*	*	5
+       0	*	*	*	*	*	*	3557	0	0	
+
+E 6    3940	*	4779	1388	4537	*	*	*	4414	4006	6146	5463	*	3628	3741	*	4193	3096	*	*	6
+       0	*	*	*	*	*	*	3557	0	0	
+
+D 7    3893	3796	2207	6073	1570	6111	*	*	*	*	4770	5809	*	*	*	*	5224	*	*	2345	7
+       0	*	*	*	*	*	*	3557	0	0	
+
+S 8    1484	*	*	*	4323	3430	*	*	*	*	*	*	*	*	*	1145	4385	*	*	*	8
+       0	*	*	*	*	*	*	3652	0	0	
+
+P 9    4343	*	*	*	*	5703	*	*	*	5616	*	1964	1948	*	*	2178	2517	*	*	*	9
+       0	*	*	*	*	*	*	3652	0	0	
+
+K 10   6044	*	*	*	*	6337	*	*	1362	*	5940	3876	*	5874	1708	4229	3435	5053	*	*	10
+       0	*	*	*	*	*	*	3489	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	3497	0	0	
+
+K 12   4485	*	2826	2712	3185	*	2880	5667	2893	*	*	*	*	3826	4782	3296	6727	4525	*	*	12
+       0	*	*	*	*	*	*	3497	0	0	
+
+G 13   2798	*	4929	2714	*	967	5380	*	4841	*	*	*	*	4210	*	*	4431	*	*	*	13
+       0	*	*	*	*	*	*	3497	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	3497	0	0	
+
+F 15   6499	*	3238	4781	4029	2838	4553	*	2045	3927	*	3507	*	4839	4762	4739	*	*	*	3356	15
+       0	*	*	*	*	*	*	3497	0	0	
+
+K 16   6183	*	4968	3156	2809	5563	*	*	887	*	*	*	*	5135	3198	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3497	0	0	
+
+A 17   3206	*	4476	*	*	*	5735	2832	4162	*	*	6440	1748	4940	*	6033	2540	3284	*	*	17
+       0	*	*	*	*	*	*	3497	0	0	
+
+I 18   *	*	*	*	2980	*	*	485	*	*	*	*	*	*	*	*	*	2656	*	*	18
+       29	5649	*	0	*	*	*	3497	1000	0	
+
+V 19   5786	*	5448	2815	*	2134	*	6203	3773	4394	2202	*	4803	5503	3722	*	5178	3716	*	*	19
+       0	*	*	*	*	*	*	3497	0	0	
+
+A 20   1472	3769	*	5485	*	5375	*	3590	*	*	*	*	1488	5466	*	5778	*	4668	*	*	20
+       0	*	*	*	*	*	*	3497	0	0	
+
+G 21   *	*	2644	*	*	288	*	*	*	*	*	5582	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3497	0	0	
+
+D 22   *	4427	1743	5466	*	5503	*	*	*	*	3974	*	*	*	*	1269	2927	*	*	*	22
+       0	*	*	*	*	*	*	3497	0	0	
+
+Q 23   *	*	*	4580	*	*	5485	*	1272	*	6114	*	*	2755	1477	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3497	0	0	
+
+N 24   *	*	2414	4795	3115	*	*	*	1783	*	5834	2378	*	*	6077	4259	6022	*	3680	*	24
+       0	*	*	*	*	*	*	3484	0	0	
+
+V 25   *	*	*	*	*	*	*	5317	*	1380	2232	*	*	*	*	*	*	1533	*	4951	25
+       0	*	*	*	*	*	*	3497	0	0	
+
+E 26   5786	*	5002	382	*	*	4801	*	*	*	*	*	*	*	*	2762	*	*	*	*	26
+       0	*	*	*	*	*	*	3497	0	0	
+
+Y 27   2421	*	*	*	4029	*	4650	*	*	5896	*	*	*	*	*	*	*	5574	*	568	27
+       0	*	*	*	*	*	*	3497	0	0	
+
+K 28   6223	*	5843	4988	*	5908	*	5375	645	2620	*	4900	*	*	4569	5697	*	*	*	*	28
+       0	*	*	*	*	*	*	3497	0	0	
+
+G 29   *	*	2566	4816	*	779	5143	*	4889	*	*	3416	*	*	*	4952	5326	*	*	*	29
+       0	*	*	*	*	*	*	3497	0	0	
+
+T 30   *	4861	5735	*	4592	6600	4336	*	2658	*	6203	2262	*	4158	2585	2959	3848	5375	*	5625	30
+       0	*	*	*	*	*	*	3497	0	0	
+
+V 31   4583	*	*	5083	*	*	2422	3762	*	*	*	3961	*	3383	*	2449	2970	2721	*	4439	31
+       0	*	*	*	*	*	*	3497	0	0	
+
+W 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	5649	5664	*	*	106	5004	32
+       0	*	*	*	*	*	*	3497	0	0	
+
+H 33   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3497	0	0	
+
+K 34   5375	*	2549	691	*	*	*	*	2893	*	*	*	*	*	*	5004	5667	*	*	*	34
+       0	*	*	*	*	*	*	3497	0	0	
+
+D 35   3603	*	2299	2508	*	4863	4842	*	3847	*	*	3806	*	5004	*	6181	1819	*	*	*	35
+       0	*	*	*	*	*	*	3497	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3497	0	0	
+
+F 37   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	0	*	*	*	3497	0	0	
+
+//

@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  d2d8xa1 g.39.1.3 (A:33-64) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.3
+FILE  d2d8xa1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2d8xa1.a3m -v 1 
+DATE  Tue Jan 22 09:34:00 2013
+LENG  32 match states, 32 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+97544420100121001686346544433569
+>Consensus
+rCeiCxxxLADxGFvkNaGRxLCrxCxxrEkA
+>d2d8xa1 g.39.1.3 (A:33-64) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+RCDLCQEVLADIGFVKNAGRHLCRPCHNREKA
+>gi|241609867|ref|XP_002406849.1|(226-257:295) LIM domain-containing protein, putative [Ixodes scapularis] >gi|215502720|gb|EEC12214.1| LIM domain-containing protein, putative [Ixodes scapularis]  E=6e-06 s/c=1.69 id=61% cov=103%
+RCEICQMTLADQGFIKNAGRALCHECNAKEKA
+>gi|339522373|gb|AEJ84351.1|(101-132:341) LIM and senescent cell antigen-like-containing domain protein 2 [Capra hircus]  E=5e-05 s/c=1.59 id=73% cov=103%
+RCELCDVELADLGFVKNAGRPLSRPCPNREKA
+>gi|363738466|ref|XP_425142.3|(79-108:563) PREDICTED: uncharacterized protein LOC427569 [Gallus gallus]   E=6e-05 s/c=1.69 id=65% cov=97%
+-CDICRQALADIGFVKNVGRHLCHPWRSREE-
+>gi|260796025|ref|XP_002593005.1|(96-126:360) hypothetical protein BRAFLDRAFT_275732 [Branchiostoma floridae] >gi|229278229|gb|EEN49016.1| hypothetical protein BRAFLDRAFT_275732 [Branchiostoma floridae]  E=0.0008 s/c=1.51 id=66% cov=100%
+-CHTCHAPLADTGFVKNAGRALCRPCNARERA
+>gi|72152409|ref|XP_793010.1|(101-131:335) PREDICTED: LIM and senescent cell antigen-like-containing domain protein 2-like [Strongylocentrotus purpuratus]  E=0.0002 s/c=1.58 id=66% cov=100%
+-CELCNCELADTGFVKNRGRALCHPCHLKEKA
+>gi|308511143|ref|XP_003117754.1|(113-143:353) CRE-UNC-97 protein [Caenorhabditis remanei] >gi|308238400|gb|EFO82352.1| CRE-UNC-97 protein [Caenorhabditis remanei]  E=0.0004 s/c=1.55 id=59% cov=100%
+-CEICNKQLADVGFLRNAGRALCRECNEREKA
+>gi|391335922|ref|XP_003742335.1|(191-221:423) PREDICTED: LIM domain-containing protein unc-97-like [Metaseiulus occidentalis]  E=0.0006 s/c=1.52 id=53% cov=100%
+-CEICNQCLSDSGFIKNANRALCHDCNAREKA
+>gi|156402690|ref|XP_001639723.1|(107-137:345) predicted protein [Nematostella vectensis] >gi|156226853|gb|EDO47660.1| predicted protein [Nematostella vectensis]  E=0.0008 s/c=1.51 id=59% cov=100%
+RCEICNDCLADTGFVKNAGRALCKKCNADEK-
+>gi|66472412|ref|NP_001018506.1|(143-173:377) LIM and senescent cell antigen-like domains 2 [Danio rerio] >gi|63102004|gb|AAH95708.1| Zgc:112257 [Danio rerio]  E=0.0009 s/c=1.51 id=62% cov=100%
+-CEVCEAVLADVGFVKSGGRPLCRSCHSRQKA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	*	*	*	*	*	3134	174	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1728	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2051	0	0	
+
+D 3    *	*	2334	577	*	*	3541	*	4463	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2051	0	0	
+
+L 4    *	*	*	*	*	*	*	1047	*	1748	4305	*	*	*	*	*	3541	3616	*	*	4
+       0	*	*	*	*	*	*	2051	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2051	0	0	
+
+Q 6    *	*	3453	2920	*	*	3484	*	*	*	*	1387	*	3203	3591	4616	3785	*	*	*	6
+       0	*	*	*	*	*	*	2051	0	0	
+
+E 7    2386	4605	4175	4825	*	*	*	4740	3042	4509	4624	*	*	2661	*	*	2803	2920	*	*	7
+       0	*	*	*	*	*	*	2051	0	0	
+
+V 8    3591	2938	*	1897	*	*	*	*	*	*	*	*	2317	3648	*	*	4624	2344	*	*	8
+       0	*	*	*	*	*	*	2051	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2051	0	0	
+
+A 10   113	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3735	*	*	*	*	10
+       0	*	*	*	*	*	*	2051	0	0	
+
+D 11   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2051	0	0	
+
+I 12   *	*	*	4833	*	*	*	2018	*	2920	*	*	*	3681	*	3735	2403	2037	*	*	12
+       0	*	*	*	*	*	*	2051	0	0	
+
+G 13   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2051	0	0	
+
+F 14   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2051	0	0	
+
+V 15   4400	*	*	*	*	*	*	2296	*	2596	*	*	*	*	*	*	*	777	*	*	15
+       0	*	*	*	*	*	*	2051	0	0	
+
+K 16   *	*	*	*	*	*	*	*	261	*	*	*	*	*	2596	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2051	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	123	*	*	*	3616	*	*	*	*	17
+       0	*	*	*	*	*	*	2051	0	0	
+
+A 18   410	4585	*	*	*	3616	*	*	*	*	*	*	*	*	4605	*	*	3591	*	*	18
+       0	*	*	*	*	*	*	2051	0	0	
+
+G 19   *	*	*	*	*	113	*	*	*	*	*	3735	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2051	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2051	0	0	
+
+H 21   882	*	*	*	*	*	1879	*	*	*	*	*	2835	*	*	4463	*	*	*	*	21
+       0	*	*	*	*	*	*	2051	0	0	
+
+L 22   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2051	0	0	
+
+C 23   *	87	*	*	*	*	*	*	*	*	*	*	*	*	*	4093	*	*	*	*	23
+       0	*	*	*	*	*	*	2051	0	0	
+
+R 24   *	*	*	*	*	*	1609	*	4175	*	*	*	*	*	697	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2051	0	0	
+
+P 25   *	*	3735	1604	*	*	*	*	4175	*	*	*	1124	*	*	3616	*	*	*	*	25
+       0	*	*	*	*	*	*	2051	0	0	
+
+C 26   *	125	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3591	*	26
+       0	*	*	*	*	*	*	2051	0	0	
+
+H 27   *	*	*	*	*	*	1486	*	*	*	*	996	4093	*	3591	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2051	0	0	
+
+N 28   1573	*	*	3042	*	*	*	*	*	2917	*	2026	*	*	*	2603	*	*	*	*	28
+       0	*	*	*	*	*	*	2051	0	0	
+
+R 29   4537	*	4175	*	*	*	*	*	2008	*	*	*	*	4616	708	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2051	0	0	
+
+E 30   *	*	*	204	*	*	*	*	*	*	*	*	*	3616	*	*	*	4305	*	*	30
+       0	*	*	*	*	*	*	2051	0	0	
+
+K 31   *	*	*	3591	*	*	*	*	273	*	*	*	*	*	3484	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2051	0	0	
+
+A 32   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	0	*	*	*	1891	0	0	
+
+//

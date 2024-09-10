@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d1nkzb_ f.3.1.1 (B:) Light-harvesting complex subunits {Purple bacterium (Rhodoblastus acidophilus) [TaxId: 1074]}
+FAM   f.3.1.1
+FILE  d1nkzb_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nkzb_.a3m -v 1 
+DATE  Mon Jan 21 23:41:47 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  29 out of 31 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+96676558889888530699999999999999998333469
+>Consensus
+axLtxxeaEElHkxvidGtRvFxxiAxxAHxLaxxxtPWLh
+>d1nkzb_ f.3.1.1 (B:) Light-harvesting complex subunits {Purple bacterium (Rhodoblastus acidophilus) [TaxId: 1074]}
+ATLTAEQSEELHKYVIDGTRVFLGLALVAHFLAFSATPWLH
+>gi|5708229|emb|CAB52391.1|(2-42:42) LH2beta8 [Rhodoblastus acidophilus]   E=9e-07 s/c=1.38 id=64% cov=102%
+AVLNEAQAEELHKHVIDGARVFGVIALFAHVLAYSLTPWLH
+>gi|148254520|ref|YP_001239105.1|(14-52:52) light harvesting protein B-800-850 [Bradyrhizobium sp. BTAi1] >gi|146406693|gb|ABQ35199.1| light harvesting protein B-800-850 [Bradyrhizobium sp. BTAi1]  E=2e-06 s/c=1.41 id=62% cov=98%
+--LTIPESEELHKHVIDGARVFFVIACVAHLLAYIYSPWLH
+>gi|1708817|sp|P80587.1|LHB_RHOTE(11-47:55) RecName: Full=Light-harvesting polypeptide B-800/860 beta chain; AltName: Full=Antenna pigment polypeptide beta chain; AltName: Full=LH-2  E=6e-05 s/c=1.37 id=58% cov=93%
+--LTVAEAEELHTYVTNGFRVFVGIAVVAHVLVFAAHPW--
+>gi|163760415|ref|ZP_02167497.1|(11-50:51) antenna complex, alpha/beta subunit [Hoeflea phototrophica DFL-43] >gi|162282366|gb|EDQ32655.1| antenna complex, alpha/beta subunit [Hoeflea phototrophica DFL-43]  E=0.0005 s/c=1.19 id=51% cov=95%
+--LTIGEAEELHRHIIDGTRVFGFIAVLAHILAYVYSPWF-
+>gi|312114262|ref|YP_004011858.1|(38-76:76) antenna complex alpha/subunit beta [Rhodomicrobium vannielii ATCC 17100] >gi|311219391|gb|ADP70759.1| antenna complex alpha/beta subunit [Rhodomicrobium vannielii ATCC 17100]  E=2e-08 s/c=1.61 id=60% cov=98%
+--LTLAEAEELHGYVINGTRVFGAIAVIAHVLAYVYTPWLH
+>gi|115524720|ref|YP_781631.1|(18-55:56) antenna complex subunit alpha/beta [Rhodopseudomonas palustris BisA53] >gi|115518667|gb|ABJ06651.1| antenna complex, alpha/beta subunit [Rhodopseudomonas palustris BisA53]  E=2e-08 s/c=1.64 id=67% cov=95%
+--LSVAESEELHKHVIDGTRVFGAVAIFAHFLAFVYTPWL-
+>gi|254460720|ref|ZP_05074136.1|(24-61:62) Antenna complex alpha/beta subunit domain protein [Rhodobacterales bacterium HTCC2083] >gi|206677309|gb|EDZ41796.1| Antenna complex alpha/beta subunit domain protein [Rhodobacteraceae bacterium HTCC2083]  E=4e-08 s/c=1.61 id=56% cov=95%
+--LTLGEAEEVHSYPIDGTRVFGAIALIAHILVAISTPWL-
+>gi|121998189|ref|YP_001002976.1|(21-58:59) antenna complex subunit alpha/beta [Halorhodospira halophila SL1] >gi|121589594|gb|ABM62174.1| antenna complex, alpha/beta subunit [Halorhodospira halophila SL1]  E=1e-07 s/c=1.57 id=59% cov=95%
+--LTLPEAEELHSYVLDGARIFFGIAVVAHVLAFAYSPWL-
+>gi|77462096|ref|YP_351600.1|(13-50:51) light-harvesting complex, beta subunit [Rhodobacter sphaeroides 2.4.1] >gi|126460985|ref|YP_001042099.1| antenna complex subunit alpha/beta [Rhodobacter sphaeroides ATCC 17029] >gi|221641052|ref|YP_002527314.1| light-harvesting protein B-800/850 subunit beta [Rhodobacter sphaeroides KD131] >gi|429206789|ref|ZP_19198053.1| Light-harvesting LHII, beta subunit A [Rhodobacter sp. AKP1] >gi|77386514|gb|ABA77699.1| light-harvesting complex, beta subunit [Rhodobacter sphaeroides 2.4.1] >gi|126102649|gb|ABN75327.1| antenna complex, alpha/beta subunit [Rhodobacter sphaeroides ATCC 17029] >gi|221161833|gb|ACM02813.1| Light-harvesting protein B-800/850 beta chain [Rhodobacter sphaeroides KD131] >gi|428190375|gb|EKX58923.1| Light-harvesting LHII, beta subunit A [Rhodobacter sp. AKP1]  E=3e-07 s/c=1.54 id=64% cov=95%
+--LTIAEAEEVHKQLILGTRVFGGMALIAHFLAAAATPWL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1299	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2378	308	*	*	2
+       0	*	*	*	*	*	*	1355	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1927	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	*	*	4723	*	*	*	2805	288	*	*	*	4
+       0	*	*	*	*	*	*	1927	0	0	
+
+A 5    3301	*	*	4723	*	*	*	2181	*	1555	*	*	3733	*	*	4838	4239	2872	*	*	5
+       0	*	*	*	*	*	*	1927	0	0	
+
+E 6    1107	*	4646	2327	*	3560	*	*	3807	4901	*	*	3859	*	4730	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1927	0	0	
+
+Q 7    *	*	*	362	*	*	*	*	*	*	*	*	*	2171	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1927	0	0	
+
+S 8    560	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1637	*	*	*	*	8
+       0	*	*	*	*	*	*	1927	0	0	
+
+E 9    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1927	0	0	
+
+E 10   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 11   *	*	*	*	*	*	*	3736	*	525	*	*	*	*	*	*	*	2119	*	*	11
+       0	*	*	*	*	*	*	1927	0	0	
+
+H 12   *	*	*	*	*	*	79	*	*	*	*	*	*	4239	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1927	0	0	
+
+K 13   *	*	*	*	*	3614	*	*	780	*	*	*	*	*	4351	2113	4160	*	*	*	13
+       0	*	*	*	*	*	*	1927	0	0	
+
+Y 14   *	*	*	*	*	4239	1635	*	*	*	*	*	*	3891	*	*	*	*	*	843	14
+       0	*	*	*	*	*	*	1927	0	0	
+
+V 15   *	*	*	*	*	*	*	3528	*	1984	*	*	4803	*	*	*	*	679	*	*	15
+       0	*	*	*	*	*	*	1927	0	0	
+
+I 16   *	*	*	*	*	*	*	272	*	3990	*	*	*	*	*	*	4160	4239	*	*	16
+       0	*	*	*	*	*	*	1927	0	0	
+
+D 17   *	*	337	*	*	*	*	*	*	4648	*	2570	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1927	0	0	
+
+G 18   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1927	0	0	
+
+T 19   1978	*	*	*	4160	*	*	*	*	*	*	*	*	*	*	*	535	*	*	*	19
+       0	*	*	*	*	*	*	1927	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1927	0	0	
+
+V 21   4646	*	*	*	*	*	*	3095	*	*	*	*	*	*	*	*	4038	354	*	*	21
+       0	*	*	*	*	*	*	1927	0	0	
+
+F 22   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 23   *	*	*	*	2898	752	*	*	*	2794	*	*	*	*	*	*	*	2968	*	*	23
+       0	*	*	*	*	*	*	1927	0	0	
+
+G 24   1217	*	*	*	4351	1913	*	*	*	*	*	*	*	*	*	*	*	1970	*	*	24
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 25   *	*	*	*	*	*	*	283	*	4878	3590	*	*	*	*	*	*	4029	*	*	25
+       0	*	*	*	*	*	*	1927	0	0	
+
+A 26   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 27   3739	4765	*	*	*	*	*	2596	*	1148	*	*	*	*	*	*	*	1880	*	*	27
+       0	*	*	*	*	*	*	1927	0	0	
+
+V 28   *	*	*	*	2206	*	*	2870	*	2648	*	*	*	*	*	*	*	1038	*	*	28
+       0	*	*	*	*	*	*	1927	0	0	
+
+A 29   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1927	0	0	
+
+H 30   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1927	0	0	
+
+F 31   4730	*	*	*	1198	*	*	2466	*	4765	4901	*	*	*	*	*	*	1862	*	*	31
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1927	0	0	
+
+A 33   366	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4534	*	2466	*	*	33
+       0	*	*	*	*	*	*	1927	0	0	
+
+F 34   2085	*	*	*	1791	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1073	34
+       0	*	*	*	*	*	*	1927	0	0	
+
+S 35   1598	*	*	*	*	*	*	2566	*	*	*	*	*	*	*	2419	3783	2051	*	*	35
+       0	*	*	*	*	*	*	1927	0	0	
+
+A 36   1943	*	*	*	3500	*	*	*	*	2732	4536	*	*	*	*	3357	*	*	*	1472	36
+       0	*	*	*	*	*	*	1927	0	0	
+
+T 37   *	*	*	*	*	*	4160	*	*	*	*	*	*	*	*	2118	486	*	*	*	37
+       0	*	*	*	*	*	*	1927	0	0	
+
+P 38   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1927	0	0	
+
+W 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	39
+       0	*	*	*	*	*	*	1927	0	0	
+
+L 40   *	*	*	*	4268	*	*	*	*	147	4475	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1892	0	0	
+
+H 41   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	1722	0	0	
+
+//

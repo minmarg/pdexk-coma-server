@@ -1,0 +1,424 @@
+HHsearch 1.5
+NAME  d1r9fa_ d.255.1.1 (A:) Tombusvirus P19 core protein, VP19 {Tomato bushy stunt virus, TBSV [TaxId: 12145]}
+FAM   d.255.1.1
+FILE  d1r9fa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1r9fa_.a3m -v 1 
+DATE  Tue Jan 22 01:42:37 2013
+LENG  124 match states, 124 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCEEEEECCCCCCCCCCCCCCCCCCCHHHHHHHHHHHCCCCHHHHHHHHHCCCCCCCHHHHHHHCCCCCCCEEEEEEEEEEEEEEE
+CCCHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9858742378998710001003557877778656200010568988888743884024666651235652001133310233333157778744788860
+670578899988876435542159
+>Consensus
+xtxxPFklpdESPsxxEWRlHxxexxxxxDxPLGFKEsWxfGKvvfKRYlRydxxExSLhRxlgSWxxdsVnxaASRFlGxxQigCTYsIRfRGxxxTxS
+GGSrtLqrlxeMAiRxKxxxLQlx
+>d1r9fa_ d.255.1.1 (A:) Tombusvirus P19 core protein, VP19 {Tomato bushy stunt virus, TBSV [TaxId: 12145]}
+HMTSPFKLPDESPSWTEWRLHNDETNSNQDNPLGFKESWGFGKVVFKRYLRYDRTEASLHRVLGSWTGDSVNYAASRFFGFDQIGCTYSIRFRGVSITVS
+GGSRTLQHLCEMAIRSKQEMLQMA
+>gi|394743616|ref|YP_006495795.1|(1-169:172) 19 kDa protein [Lettuce necrotic stunt virus] >gi|9663837|emb|CAC01257.1| 19 kDa protein [Lettuce necrotic stunt virus] >gi|392931207|gb|AFM91101.1| 19 kDa protein [Lettuce necrotic stunt virus]  E=2e-85 s/c=1.07 id=88% cov=101%
+GSTSPFKFSDESPSWTEWRLHNDETNSNQDNPLGFKESWGFGKVVFKRYLRYDGTEASLHRVLGSWTGDSVNYAASRFFGINQIGCTYSIRFRGVSVTIS
+GGSRTLQHLCEMAVRAKQELLQLT
+>gi|5921575|emb|CAB56483.1|(1-170:172) symptom modulating protein [Tomato bushy stunt virus]   E=4e-85 s/c=1.20 id=88% cov=101%
+DSTSPFKLPDESPSWTEWRLHNDETISNQDNPLGFKESWGFGKVVFKRYLRFDGTETSLHRVLGSWTGDSVNYAASRFLGFDQIGCTYSIRFRGISVTIS
+GGSRTLQHLSEMAIRSKQELLQLT
+>gi|94536602|ref|YP_588434.1|(1-170:172) p19 protein [Lisianthus necrosis virus] >gi|68525467|gb|AAY98784.1| p19 protein [Lisianthus necrosis virus]  E=4e-84 s/c=1.18 id=72% cov=101%
+GTITPFKLPGESPSLIEWRLHNSEESEDKDNPLGFKESWSFGKVVFKRYLRYDGTEASLHRALGSWERDTVNDAASRFLGFGQIGCTYCIRFRGSCLTIS
+GGSRTLQRPIEMAIRTKRTMLQLA
+>gi|38707979|ref|NP_945118.1|(1-170:172) p19 [Pelargonium necrotic spot virus] >gi|61217292|sp|Q709N3.1|P19_PENSV RecName: Full=RNA silencing suppressor p19; AltName: Full=19 kDa symptom severity modulator >gi|38488387|emb|CAE55160.1| p19 [Pelargonium necrotic spot virus]  E=7e-83 s/c=1.17 id=69% cov=101%
+GTITPFKLSDESPSLHEWRLHHSEEGEDQDHPLGFKESWSFGKVVFKRYLRYGGTETSLHRALGSWERNTVNNAASRFLGFGQIGCTYSIRFRGSCLTIS
+GGSRTLQRLIEMAIRTKCTVLQLT
+>gi|9626676|ref|NP_040957.1|(1-170:173) p20 protein [Cucumber necrosis virus] >gi|139170|sp|P15184.1|P19_CNV RecName: Full=RNA silencing suppressor p19; AltName: Full=19 kDa symptom severity modulator >gi|323343|gb|AAA42906.1| ORF p20 [Cucumber necrosis virus]  E=2e-82 s/c=1.18 id=71% cov=101%
+GTITPFKLPDESPSLLEWRLHNSEESEDKDHPLGFKESWSFGKVVFKRYLRYDGTETSLHRTLGSWERNSVNDAASRFLGVSQIGCTYSIRFRGSCLTLS
+GGSRTLQRLIEMAIRTKRTMLQLT
+>gi|20087029|ref|NP_613264.1|(1-170:172) core protein p19 [Cymbidium ringspot virus] >gi|139171|sp|P17457.1|P19_CRV RecName: Full=RNA silencing suppressor p19; AltName: Full=19 kDa symptom severity modulator >gi|4469164|emb|CAA33535.1| unnamed protein product [Cymbidium ringspot virus]  E=8e-80 s/c=1.17 id=73% cov=101%
+GTTSPFKLPDESPSLHEWRLHHSEESENKDNPLGFKESWSFGKVVFKRYLRYDGAETSLHRALGSWERDSVNDAASRFLGLSQIGCTYSIRFRGTRLTLS
+GGSGTLQRLIEMAIRTKRTMLQPT
+>gi|30018257|ref|NP_835257.1|(1-165:168) symptom severity modulator [Cucumber Bulgarian latent virus] >gi|28274776|gb|AAO33943.1| symptom severity modulator [Cucumber Bulgarian latent virus]  E=3e-78 s/c=1.16 id=68% cov=101%
+STITPFQLPDESPNRDEWRVHHCETNPHKDYPLGFKESWGFGKVVFKRYYRHDWKETSLHRVIRSWSGDTVNYAASRFFGVNQVGCTYSIRIRGISVTLS
+GGSGTLQRLIEMAIRIKLSELQLA
+>gi|85677469|ref|YP_459924.1|(1-162:170) putative p19 protein [Maize necrotic streak virus] >gi|85541066|gb|AAG21219.2|AF266518_2 putative p19 protein [Maize necrotic streak virus]  E=3e-70 s/c=1.08 id=60% cov=101%
+DSFAPFQLPDESPTSDEWRLHHDAYDPDTDCPLGFKEFWSVGKAISKRYHRYDWKEASLDRALGSWQGDKVITEASRFLGVDQVSCTYSIRVRGVSITLS
+GGSRALLRLVSMADRIKRSELQFA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+H 1    *	*	1890	*	*	1006	3296	*	*	*	*	*	*	*	*	2938	*	*	*	*	1
+       0	*	*	*	*	*	*	1561	0	0	
+
+M 2    *	*	*	*	*	*	*	*	*	*	3296	*	*	*	*	1426	927	*	*	*	2
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 3    *	*	*	*	2532	*	*	1228	*	*	*	*	*	*	*	*	1322	*	*	*	3
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 4    2532	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1322	1228	*	*	*	4
+       0	*	*	*	*	*	*	1561	0	0	
+
+P 5    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 6    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1561	0	0	
+
+K 7    *	*	*	*	*	*	*	*	522	*	*	*	*	1721	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 8    *	*	*	*	3287	*	*	*	*	156	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1561	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	330	*	*	2292	*	*	*	*	9
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 10   *	*	153	*	*	3309	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 11   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	1561	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 14   *	*	*	*	*	*	*	*	*	*	*	2938	*	*	*	522	2532	*	*	*	14
+       0	*	*	*	*	*	*	1561	0	0	
+
+W 15   *	*	*	*	*	*	*	*	*	1338	*	*	*	*	2938	2532	*	*	1732	*	15
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 16   *	*	1721	*	*	*	2316	3309	*	3414	*	*	*	*	*	*	1732	*	*	*	16
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 17   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1561	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	202	*	*	*	*	*	*	*	2938	*	*	20
+       0	*	*	*	*	*	*	1561	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1561	0	0	
+
+N 22   *	*	*	*	*	*	988	*	*	*	*	1012	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 23   *	2938	1077	*	*	*	*	*	*	*	*	*	*	*	*	1338	*	*	*	*	23
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 24   2532	*	*	274	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 25   *	*	*	1338	*	*	*	*	*	*	*	*	*	*	*	*	1212	*	*	2532	25
+       0	*	*	*	*	*	*	1561	0	0	
+
+N 26   *	*	2532	*	*	3296	*	3369	*	*	*	1579	*	*	*	1768	*	*	*	*	26
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 27   *	*	*	1338	*	*	*	*	*	*	*	*	1721	*	*	1732	*	*	*	*	27
+       0	*	*	*	*	*	*	1561	0	0	
+
+N 28   *	*	1091	*	*	*	2938	*	*	*	*	1322	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1561	0	0	
+
+Q 29   *	*	*	*	*	*	*	*	1237	*	*	*	*	1312	*	*	2532	*	*	*	29
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 30   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1561	0	0	
+
+N 31   *	2532	*	*	*	*	2354	*	*	*	*	997	*	*	*	*	*	*	*	2938	31
+       0	*	*	*	*	*	*	1561	0	0	
+
+P 32   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 33   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 35   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1561	0	0	
+
+K 36   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 37   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 38   *	*	*	*	2532	*	*	*	*	*	*	*	*	*	*	274	*	*	*	*	38
+       0	*	*	*	*	*	*	1561	0	0	
+
+W 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	39
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 40   *	*	*	*	*	1212	*	*	*	*	*	*	*	*	*	815	*	*	*	*	40
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 41   *	*	*	*	274	*	*	*	*	*	*	*	*	*	*	*	*	2532	*	*	41
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 42   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1561	0	0	
+
+K 43   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 44   2532	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	274	*	*	44
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 45   *	*	*	*	*	*	*	2532	*	*	*	*	*	*	*	*	*	274	*	*	45
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 46   *	*	*	*	274	*	*	*	*	*	*	*	*	*	*	2532	*	*	*	*	46
+       0	*	*	*	*	*	*	1561	0	0	
+
+K 47   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 48   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1561	0	0	
+
+Y 49   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	49
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 50   *	*	*	*	*	*	2532	*	*	522	*	*	*	*	*	*	*	*	*	2938	50
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1561	0	0	
+
+Y 52   *	*	*	*	3369	*	2938	*	*	*	*	*	*	*	*	*	*	*	*	372	52
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 53   *	*	155	*	*	3296	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 54   *	*	*	*	*	750	*	*	*	*	*	*	*	*	3296	*	*	*	1721	*	54
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 55   3337	*	*	*	*	*	*	*	1721	*	*	*	*	*	*	*	743	*	*	*	55
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 56   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1561	0	0	
+
+A 57   1064	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	938	*	*	*	57
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 58   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	58
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 59   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1561	0	0	
+
+H 60   *	*	2532	*	*	*	274	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 61   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 62   1075	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3414	1212	*	*	62
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 63   *	*	*	*	*	*	*	2938	*	202	*	*	*	*	*	*	*	*	*	*	63
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 64   *	*	*	*	*	202	*	*	*	*	*	*	*	*	2938	*	*	*	*	*	64
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 65   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	65
+       0	*	*	*	*	*	*	1561	0	0	
+
+W 66   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	66
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 67   *	*	*	1338	*	*	*	*	*	*	*	*	*	2532	*	2938	1732	*	*	*	67
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 68   *	*	*	*	*	726	*	*	*	*	*	*	*	*	1338	*	*	*	*	*	68
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 69   *	*	314	*	*	*	*	*	*	*	*	2354	*	*	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 70   *	*	*	*	*	*	*	*	2532	*	*	*	*	*	*	1018	1586	*	*	*	70
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 71   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	71
+       0	*	*	*	*	*	*	1561	0	0	
+
+N 72   *	*	*	*	*	*	*	2532	*	*	*	274	*	*	*	*	*	*	*	*	72
+       0	*	*	*	*	*	*	1561	0	0	
+
+Y 73   *	*	1768	*	*	*	*	*	*	*	*	3296	*	*	*	*	2532	*	*	1212	73
+       0	*	*	*	*	*	*	1561	0	0	
+
+A 74   274	*	*	2532	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	74
+       0	*	*	*	*	*	*	1561	0	0	
+
+A 75   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	75
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 76   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	76
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 77   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	77
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 78   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	78
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 79   *	*	*	*	1579	*	*	*	*	588	*	*	*	*	*	*	*	*	*	*	79
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 80   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	80
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 81   *	*	*	*	1317	*	*	3287	*	3337	*	*	*	*	*	*	*	1332	*	*	81
+       0	*	*	*	*	*	*	1561	0	0	
+
+D 82   *	*	1428	*	*	2302	*	*	*	*	*	2102	*	*	*	2375	*	*	*	*	82
+       0	*	*	*	*	*	*	1561	0	0	
+
+Q 83   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	83
+       0	*	*	*	*	*	*	1561	0	0	
+
+I 84   *	*	*	*	*	*	*	522	*	*	*	*	*	*	*	*	*	1721	*	*	84
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 85   *	*	*	*	*	274	*	*	*	*	*	*	*	*	*	2532	*	*	*	*	85
+       0	*	*	*	*	*	*	1561	0	0	
+
+C 86   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	86
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 87   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	87
+       0	*	*	*	*	*	*	1561	0	0	
+
+Y 88   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	88
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 89   *	3309	*	*	*	*	*	*	*	*	*	*	*	*	*	153	*	*	*	*	89
+       0	*	*	*	*	*	*	1561	0	0	
+
+I 90   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	90
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 91   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	91
+       0	*	*	*	*	*	*	1561	0	0	
+
+F 92   *	*	*	*	522	*	*	2938	*	*	*	*	*	*	*	*	*	2532	*	*	92
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 93   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	93
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 94   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	94
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 95   *	*	*	*	*	*	*	2138	*	*	*	*	*	*	*	1754	3337	1406	*	*	95
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 96   *	1754	*	*	*	*	*	*	*	*	*	*	*	*	3337	726	*	*	*	*	96
+       0	*	*	*	*	*	*	1561	0	0	
+
+I 97   *	*	*	*	*	*	*	1864	*	1338	*	*	*	*	*	*	*	1601	*	*	97
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 98   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	98
+       0	*	*	*	*	*	*	1561	0	0	
+
+V 99   *	*	*	*	*	*	*	1315	*	1011	*	*	*	*	*	*	*	3296	*	*	99
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 100  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	100
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 101  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	101
+       0	*	*	*	*	*	*	1561	0	0	
+
+G 102  *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	102
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 103  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	103
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 104  *	*	*	*	*	2124	*	*	*	*	*	*	*	*	376	*	*	*	*	*	104
+       0	*	*	*	*	*	*	1561	0	0	
+
+T 105  2532	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	274	*	*	*	105
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 106  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	106
+       0	*	*	*	*	*	*	1561	0	0	
+
+Q 107  *	*	*	*	*	*	*	*	*	2532	*	*	*	274	*	*	*	*	*	*	107
+       0	*	*	*	*	*	*	1561	0	0	
+
+H 108  *	*	*	*	*	*	1732	*	*	*	*	*	*	*	517	*	*	*	*	*	108
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 109  *	*	*	*	*	*	*	*	*	153	*	*	3309	*	*	*	*	*	*	*	109
+       0	*	*	*	*	*	*	1561	0	0	
+
+C 110  *	2291	*	*	*	*	*	927	*	*	*	*	*	*	*	3369	*	2532	*	*	110
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 111  *	*	*	274	*	*	*	*	*	*	*	*	*	*	*	2532	*	*	*	*	111
+       0	*	*	*	*	*	*	1561	0	0	
+
+M 112  *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	112
+       0	*	*	*	*	*	*	1561	0	0	
+
+A 113  0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	113
+       0	*	*	*	*	*	*	1561	0	0	
+
+I 114  *	*	2532	*	*	*	*	465	*	*	*	*	*	*	*	*	*	3287	*	*	114
+       0	*	*	*	*	*	*	1561	0	0	
+
+R 115  *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	115
+       0	*	*	*	*	*	*	1561	0	0	
+
+S 116  3287	*	*	*	*	*	*	1721	*	*	*	*	*	*	*	2332	1338	*	*	*	116
+       0	*	*	*	*	*	*	1561	0	0	
+
+K 117  *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	117
+       0	*	*	*	*	*	*	1561	0	0	
+
+Q 118  *	3296	*	*	*	*	*	*	*	2938	*	*	*	1732	1100	*	*	*	*	*	118
+       0	*	*	*	*	*	*	1561	0	0	
+
+E 119  *	*	*	1732	*	*	*	*	*	*	*	*	*	*	*	1721	1338	*	*	*	119
+       0	*	*	*	*	*	*	1561	0	0	
+
+M 120  *	*	*	1721	*	*	*	*	*	2327	1338	*	*	*	*	*	*	3296	*	*	120
+       0	*	*	*	*	*	*	1561	0	0	
+
+L 121  *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	121
+       0	*	*	*	*	*	*	1561	0	0	
+
+Q 122  *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	122
+       0	*	*	*	*	*	*	1561	0	0	
+
+M 123  *	*	*	*	2532	*	*	*	*	675	3296	*	3337	*	*	*	*	*	*	*	123
+       0	*	*	*	*	*	*	1561	0	0	
+
+A 124  982	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1018	*	*	*	124
+       0	*	*	0	*	*	*	1561	0	0	
+
+//

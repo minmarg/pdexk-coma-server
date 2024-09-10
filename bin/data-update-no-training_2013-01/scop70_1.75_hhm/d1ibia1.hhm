@@ -1,0 +1,126 @@
+HHsearch 1.5
+NAME  d1ibia1 g.39.1.3 (A:117-144) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+FAM   g.39.1.3
+FILE  d1ibia1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ibia1.a3m -v 1 
+DATE  Mon Jan 21 21:41:05 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  29 out of 31 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCCCCCHHHHHHHHHCCCCCCCCC
+>ss_conf
+9888775752013467653376324469
+>Consensus
+sxxCprCxksVYxAEkvxxxGkxWHkxC
+>d1ibia1 g.39.1.3 (A:117-144) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+AEKCSRCGDSVYAAEKVIGAGKPWHKNC
+>gi|221118777|ref|XP_002157442.1|(400-426:476) PREDICTED: similar to Cysteine and glycine-rich protein 2 [Hydra magnipapillata]  E=0.0001 s/c=1.84 id=64% cov=100%
+-NKCPRCGGSVYHAEEVIGAGCSWHRHC
+>gi|410912684|ref|XP_003969819.1|(117-144:193) PREDICTED: cysteine and glycine-rich protein 3-like [Takifugu rubripes]  E=5e-05 s/c=1.81 id=66% cov=104%
+SDHCPRCSKAVYAAEKVMGAGKPWHKTC
+>gi|353234464|emb|CCA66489.1|(5-32:431) probable phospho-2-dehydro-3-deoxyheptonate aldolase, tyrosine-inhibited [Piriformospora indica DSM 11827]  E=0.0001 s/c=1.79 id=48% cov=104%
+SPSCPRCNKAVYFAEQVNAIGKKWHKAC
+>gi|147901743|ref|NP_001079213.1|(117-144:194) cysteine and glycine-rich protein 3 (cardiac LIM protein) [Xenopus laevis] >gi|8650509|gb|AAF78241.1| LIM protein [Xenopus laevis] >gi|54038114|gb|AAH84404.1| Csrp3-A-prov protein [Xenopus laevis]  E=0.0001 s/c=1.77 id=62% cov=104%
+TEKCPRCQKSVYAAERVMGGGQAWHKTC
+>gi|327271684|ref|XP_003220617.1|(116-143:193) PREDICTED: cysteine and glycine-rich protein 1-like [Anolis carolinensis]  E=0.0002 s/c=1.74 id=66% cov=104%
+ADGCPRCGQAVYAAEKVVGGGKSWHKAC
+>gi|328852698|gb|EGG01842.1|(391-415:462) hypothetical protein MELLADRAFT_49983 [Melampsora larici-populina 98AG31]  E=0.0005 s/c=1.91 id=54% cov=93%
+---CPRCSGTVYHAEQVLALGKKWHKRC
+>gi|167517867|ref|XP_001743274.1|(848-875:934) hypothetical protein [Monosiga brevicollis MX1] >gi|163778373|gb|EDQ91988.1| predicted protein [Monosiga brevicollis MX1]  E=2e-05 s/c=1.87 id=59% cov=104%
+APKCPSCGKSVYFAEKHTALGKDWHKMC
+>gi|336366502|gb|EGN94849.1|(283-309:356) hypothetical protein SERLA73DRAFT_96216 [Serpula lacrymans var. lacrymans S7.3]  E=0.0002 s/c=1.82 id=58% cov=93%
+---CPRCGKSVYFAEQMKAVGKTWHKGC
+>gi|339241919|ref|XP_003376885.1|(72-97:657) cysteine and glycine-rich protein 1 [Trichinella spiralis] >gi|316974378|gb|EFV57870.1| cysteine and glycine-rich protein 1 [Trichinella spiralis]  E=0.0003 s/c=1.86 id=41% cov=96%
+--QCPRCSKTVYFAEEIVAIGQHWHRAC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    1215	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1129	3160	*	*	*	1
+       0	*	*	*	*	*	*	1907	0	0	
+
+E 2    *	*	1335	1471	*	*	*	*	*	*	*	3788	2552	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1948	0	0	
+
+K 3    *	*	*	4789	*	4038	5060	4959	919	*	*	*	*	3934	2953	4378	*	3848	*	*	3
+       0	*	*	*	*	*	*	1987	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1976	0	0	
+
+S 5    4493	*	*	*	*	4798	*	*	*	*	*	*	227	4991	*	4885	*	*	*	*	5
+       0	*	*	*	*	*	*	1976	0	0	
+
+R 6    *	*	*	*	*	*	*	*	4699	*	*	*	*	*	195	3505	*	*	*	*	6
+       0	*	*	*	*	*	*	1976	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1976	0	0	
+
+G 8    4969	*	4944	*	*	818	*	*	*	*	*	3899	*	4480	*	1962	*	*	*	*	8
+       0	*	*	*	*	*	*	1976	0	0	
+
+D 9    *	*	3676	3923	*	2815	*	*	651	*	*	*	*	3701	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1976	0	0	
+
+S 10   1614	*	*	*	*	*	*	*	*	*	*	4366	*	*	*	920	3376	*	*	*	10
+       0	*	*	*	*	*	*	1976	0	0	
+
+V 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	11
+       0	*	*	*	*	*	*	1976	0	0	
+
+Y 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	12
+       0	*	*	*	*	*	*	1976	0	0	
+
+A 13   979	*	*	*	1512	*	3398	*	*	*	*	*	4403	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1976	0	0	
+
+A 14   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1976	0	0	
+
+E 15   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1976	0	0	
+
+K 16   *	*	*	3332	*	*	*	*	822	*	*	*	*	1785	4480	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1976	0	0	
+
+V 17   *	*	*	*	*	*	4159	2058	*	*	3668	*	*	*	*	*	*	677	*	*	17
+       0	*	*	*	*	*	*	1976	0	0	
+
+I 18   *	*	*	*	*	*	*	1890	2465	4445	2031	4754	*	*	*	*	4159	2595	*	*	18
+       0	*	*	*	*	*	*	1976	0	0	
+
+G 19   1417	*	*	*	*	909	*	*	*	*	4366	*	*	*	*	4493	*	*	*	*	19
+       0	*	*	*	*	*	*	1976	0	0	
+
+A 20   1158	*	*	*	*	2782	*	3515	*	3295	*	*	*	*	*	*	*	2203	*	*	20
+       0	*	*	*	*	*	*	1976	0	0	
+
+G 21   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1976	0	0	
+
+K 22   *	4353	*	*	*	*	4403	*	464	*	*	3582	*	3393	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1976	0	0	
+
+P 23   3708	*	4159	*	*	*	4311	*	3199	*	*	*	1891	*	*	1958	2465	*	*	*	23
+       0	*	*	*	*	*	*	1976	0	0	
+
+W 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	24
+       0	*	*	*	*	*	*	1976	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1976	0	0	
+
+K 26   *	*	*	*	*	*	*	*	283	*	*	*	*	*	2487	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1976	0	0	
+
+N 27   2775	*	*	*	*	2467	4353	*	*	4944	4159	2794	*	*	3424	2966	2554	*	*	*	27
+       0	*	*	*	*	*	*	1976	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	0	*	*	*	1976	0	0	
+
+//

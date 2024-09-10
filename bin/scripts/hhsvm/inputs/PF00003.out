@@ -1,0 +1,40 @@
+Query         PF00003 7tm_3:  7 transmembrane sweet-taste receptor of 3 GCPR;  InterPro: IPR000337   G-protein-coupled receptors, GPCRs, constitute a vast protein family that encompasses a wide range of functions (including various autocrine, paracrine and endocrine processes). They show considerable diversity at the sequence level, on the basis of which they can be separated into distinct groups. We use the term clan to describe the GPCRs, as they embrace a group of families for which there are indications of evolutionary relationship, but between which there is no statistically significant similarity in sequence . The currently known clan members include the rhodopsin-like GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating pheromone receptors, and the metabotropic glutamate receptor family. There is a specialised database for GPCRs: http://www.gpcr.org/7tm/.    GPCR family 3 receptors (also known as family C) are structurally similar to other GPCRs, but do not show any significant sequence similarity and thus represent a distinct group. Structurally they are composed of four elements; an N-terminal signal sequence; a large hydrophilic extracellular agonist-binding region containing several conserved cysteine residues which could be involved in disulphide bonds; a shorter region containing seven transmembrane domains; and a C-terminal cytoplasmic domain of variable length . Family 3 members include the metabotropic glutamate receptors, the extracellular calcium-sensing receptors, the gamma-amino-butyric acid (GABA) type B receptors, and the vomeronasal type-2 receptors , , , . As these receptors regulate many important physiological processes they are potentially promising targets for drug development.    ; GO: 0008067 metabotropic glutamate, GABA-B-like receptor activity, 0007186 G-protein coupled receptor protein signaling pathway, 0016021 integral to membrane
+Match_columns 279
+No_of_seqs    123 out of 587
+Neff          7.1 
+Searched_HMMs 13774
+Date          Tue Oct 13 16:43:18 2009
+Command       /mnt/master/home/minlag/hhsearch/./hhsearch -i /mnt/master/home/minlag/pfamA_23.0_hhm_cal_ssm_4/PF00003.hhm -d /mnt/master/home/minlag/scop70_1.75_PFAM_PDEXK_2.db -v 1 -o /mnt/master/home/minlag/PFAM_in_SCOP_and_PFAM_pdexk_2/PF00003.out -ssm 4 -p 10 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1u19a_ f.13.1.2 (A:) Rhodopsi  82.8     3.6 0.00026   16.9   7.6   81    4-87     47-129 (348)s
+
+No 1  
+>d1u19a_ f.13.1.2 (A:) Rhodopsin {Cow (Bos taurus) [TaxId: 9913]}
+Probab=82.80   E-value=3.6  Score=16.89  Aligned_columns=81  Identities=16%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHCCCCEEECCCHHHHHHHHHHHHHHHHHHHHHHHHH-CC-CCCCCEEEEHHHHHHHHHHHH
+Q ss_conf             7889999999999999998708864673885589999999999999999865421-13-555411252378899999999
+Q PF00003_consen    4 LAVLGLILLTLVVLVIFIRHRKTPVVKASSPELSFLLLLGLILCYLSVILFILEG-TV-EDPSTATCSARRWLLGLGFTL   81 (279)
+Q Consensus         4 la~~G~i~~~l~~~~i~i~~r~tpvvk~S~~~l~~llL~g~~l~y~~~~~~~~~~-~~-~~p~~~~C~~r~~l~~lgftl   81 (279)
+                      ++.+| ++.-+.++.+..++|+.+  +.++.-+..+-+..++.+........... .- ...++..|....+....+...
+T Consensus        47 i~v~g-i~gN~lvi~vi~~~k~lr--~~~~~~l~nLaiaDll~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~  123 (348)
+T d1u19a_          47 LIMLG-FPINFLTLYVTVQHKKLR--TPLNYILLNLAVADLFMVFGGFTTTLYTSLHGYFVFGPTGCNLEGFFATLGGEI  123 (348)
+T ss_dssp             HHHHH-HHHHHHHHHHHHHSTTCC--SHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTSCTTHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHH-HHHHHHEEHHHHCCCCCC--CHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHCCCCCEEE
+T ss_conf             77999-999988355420038888--776999999999999999988777665423576434722554432124330343
+
+
+Q ss_pred             HHHHHH
+Q ss_conf             999999
+Q PF00003_consen   82 CFSALL   87 (279)
+Q Consensus        82 ~~s~ll   87 (279)
+                      ....+.
+T Consensus       124 s~~~l~  129 (348)
+T d1u19a_         124 ALWSLV  129 (348)
+T ss_dssp             HHHHHH
+T ss_pred             ECCHHH
+T ss_conf             022343
+
+
+Done!

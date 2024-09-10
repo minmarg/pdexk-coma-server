@@ -1,0 +1,183 @@
+HHsearch 1.5
+NAME  d1kbha_ a.153.1.1 (A:) Nuclear receptor coactivator ACTR {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.153.1.1
+FILE  d1kbha_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1kbha_.a3m -v 1 
+DATE  Mon Jan 21 22:32:59 2013
+LENG  47 match states, 47 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHCCCCHHHHHHHHHHCCCHHHHHCCCCCCCC
+>ss_conf
+98742468999999986168757899998750735675157777889
+>Consensus
+EgxxDExaLLdQLxsxLxxxDxxxLeEiDrALGIpxlvxQgqxxepx
+>d1kbha_ a.153.1.1 (A:) Nuclear receptor coactivator ACTR {Human (Homo sapiens) [TaxId: 9606]}
+EGQSDERALLDQLHTLLSNTDATGLEEIDRALGIPELVNQGQALEPK
+>gi|47223551|emb|CAF98038.1|(1097-1135:1403) unnamed protein product [Tetraodon nigroviridis]   E=0.0004 s/c=1.23 id=62% cov=85%
+----DEGALMSQLYTALK--DFNGMEELDRALGIPALVEQSQSLE--
+>gi|148230519|ref|NP_001081139.1|(1056-1100:1516) nuclear receptor coactivator 2 [Xenopus laevis] >gi|13124365|sp|Q9W705.1|NCOA2_XENLA RecName: Full=Nuclear receptor coactivator 2; Short=NCoA-2; AltName: Full=Transcriptional intermediary factor 2; Short=xTIF2 >gi|5123921|emb|CAB45389.1| TIF2 protein [Xenopus laevis]  E=7e-11 s/c=1.57 id=63% cov=98%
+ESPADDGNLLDQLYMALRNFD--GLEEIDRALGIPEMVSQGQAVEQE
+>gi|326677205|ref|XP_691744.4|(897-941:1377) PREDICTED: hypothetical protein LOC563288 [Danio rerio]   E=5e-09 s/c=1.42 id=59% cov=98%
+EGRNDEKALLEQLVTFLSHTDESELAELDRALGIDKIV-QSGCLEP-
+>gi|348538543|ref|XP_003456750.1|(1007-1051:1558) PREDICTED: nuclear receptor coactivator 1-like [Oreochromis niloticus]  E=6e-07 s/c=1.27 id=50% cov=98%
+EARNDEKALLEQLVNFLSGTDESELAELDKALGIDKLI-QGGCFDP-
+>gi|348520006|ref|XP_003447520.1|(1048-1087:1542) PREDICTED: nuclear receptor coactivator 2-like [Oreochromis niloticus]  E=6e-05 s/c=1.27 id=59% cov=87%
+EGQPDEGTLLNQLCSVLK--DYEGLEEIDKMLGIPTLAGQGH-----
+>gi|326671802|ref|XP_692938.5|(1094-1138:1497) PREDICTED: nuclear receptor coactivator 3 [Danio rerio]   E=5e-12 s/c=1.63 id=72% cov=98%
+EGQSDERALLDQLDSLLNNTDVIALEEIDRALGIPDLINQGHSSD--
+>gi|317418993|emb|CBN81031.1|(1052-1094:1436) Ncoa3 protein [Dicentrarchus labrax]   E=1e-11 s/c=1.69 id=66% cov=94%
+EGPPDERALLDQLDSLLNTADVIALQEIDRALGIPEIVGQGQC----
+>gi|190337440|gb|AAI63724.1|(1061-1103:1505) Nuclear receptor coactivator 2 [Danio rerio]   E=4e-10 s/c=1.57 id=64% cov=94%
+EGPADEGALLSQLYSALKDFD--GLEEIDRALGIPALVGQAQPVE--
+>gi|395531375|ref|XP_003767755.1|(648-688:1038) PREDICTED: LOW QUALITY PROTEIN: nuclear receptor coactivator 1-like [Sarcophilus harrisii]  E=2e-05 s/c=1.27 id=48% cov=89%
+EGRNDEKALLDRLIFFFSGKDKAEIVELDXALGIDKLVXVG------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	4366	72	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2076	0	0	
+
+G 2    3237	*	*	*	*	488	*	*	*	*	*	*	*	*	*	2465	*	*	*	*	2
+       0	*	*	*	*	*	*	2076	0	0	
+
+Q 3    *	*	*	*	*	*	*	*	*	*	*	*	1908	1196	1752	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2076	0	0	
+
+S 4    3011	*	*	*	*	*	*	*	*	*	*	1595	2634	*	*	1555	4522	*	*	*	4
+       0	*	*	*	*	*	*	2076	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2127	0	0	
+
+E 6    *	*	3928	98	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       66	*	4477	*	*	*	*	2127	0	0	
+
+R 7    *	*	*	*	*	1472	*	4605	1802	*	*	*	*	*	1682	*	*	*	*	*	7
+       0	*	*	*	*	*	0	2113	0	1000	
+
+A 8    275	*	*	*	*	*	*	*	*	*	*	3912	*	*	*	4418	4058	*	*	*	8
+       0	*	*	*	*	0	*	2113	0	1000	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 10   *	*	*	*	*	*	*	4357	*	291	3488	*	*	*	*	*	*	4477	*	*	10
+       0	*	*	*	*	*	*	2127	0	0	
+
+D 11   *	*	780	2481	*	*	*	*	*	*	*	3172	*	*	*	2972	*	*	*	*	11
+       0	*	*	*	*	*	*	2127	0	0	
+
+Q 12   *	*	*	*	*	*	*	*	*	*	*	*	*	146	3373	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2127	0	0	
+
+H 14   *	3172	2345	*	*	*	2491	3373	*	*	*	*	*	*	*	*	*	2481	*	2067	14
+       0	*	*	*	*	*	*	2127	0	0	
+
+T 15   *	*	*	*	3373	*	*	*	*	4459	3928	4341	*	*	*	1234	1654	*	*	*	15
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 16   2067	*	*	*	1859	*	*	*	*	1416	*	*	*	*	*	*	*	3172	*	*	16
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 17   *	*	*	*	3373	*	*	*	*	146	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2127	0	0	
+
+S 18   *	*	*	*	*	*	*	*	1820	*	*	2718	*	*	3169	1140	*	*	*	*	18
+       252	*	2643	*	*	*	*	2127	0	0	
+
+N 19   4299	*	3199	*	*	1892	4366	*	*	*	*	1426	*	*	*	4293	3331	*	*	*	19
+       0	*	*	*	*	*	0	1999	0	1374	
+
+T 20   2735	*	*	*	2061	*	*	*	2702	*	*	*	*	*	*	*	1131	*	*	*	20
+       0	*	*	*	*	0	*	1999	0	1374	
+
+D 21   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       303	*	2400	*	*	*	*	2127	0	0	
+
+A 22   3502	*	*	2262	3654	4523	*	*	3256	*	*	*	*	*	*	*	*	1589	*	2803	22
+       0	*	*	*	*	*	0	2031	0	1331	
+
+T 23   3256	*	*	2803	*	4206	*	2875	*	*	*	3654	*	*	*	2194	1924	*	*	*	23
+       0	*	*	*	*	0	*	2031	0	1331	
+
+G 24   2718	*	*	1859	*	1150	*	*	*	*	*	*	*	*	*	3703	4477	*	*	*	24
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 25   *	*	*	*	*	*	*	3373	*	227	4347	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2127	0	0	
+
+E 26   2481	*	*	745	*	*	*	*	*	*	*	*	*	2970	*	*	*	3373	*	*	26
+       0	*	*	*	*	*	*	2127	0	0	
+
+E 27   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2127	0	0	
+
+I 28   *	*	*	*	*	*	*	567	*	1622	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2127	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2127	0	0	
+
+R 30   *	*	*	*	*	*	*	*	1903	*	*	*	*	*	449	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2032	0	0	
+
+A 31   170	*	*	*	*	*	*	*	*	*	3172	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2127	0	0	
+
+G 33   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2127	0	0	
+
+I 34   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2127	0	0	
+
+P 35   *	*	1859	*	*	*	*	*	*	*	*	*	465	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2127	0	0	
+
+E 36   2972	*	2205	1894	*	*	*	*	1859	*	*	*	*	*	*	*	3172	*	*	*	36
+       0	*	*	*	*	*	*	2127	0	0	
+
+L 37   *	*	*	*	*	*	*	2560	*	387	3928	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2127	0	0	
+
+V 38   3172	*	*	*	*	*	*	3571	*	*	*	*	*	*	*	*	*	313	*	*	38
+       300	*	2414	*	*	*	*	2127	0	0	
+
+N 39   *	*	*	2709	*	1559	*	*	*	*	*	1944	*	*	*	2012	*	*	*	*	39
+       0	*	*	*	*	0	*	1759	0	1212	
+
+Q 40   *	*	*	*	*	*	*	*	*	*	*	*	*	145	*	*	*	3390	*	*	40
+       0	*	*	*	*	*	*	2113	0	0	
+
+G 41   3403	*	*	*	*	691	*	*	*	*	*	4571	*	*	*	2352	*	4372	*	*	41
+       62	4562	*	1000	1000	*	*	2113	1000	0	
+
+Q 42   *	*	*	*	*	2142	2834	*	*	*	*	*	*	660	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2019	0	0	
+
+A 43   1725	2052	*	*	*	4052	*	*	*	*	*	*	2646	4317	*	2426	*	*	*	*	43
+       0	*	*	*	*	*	*	1919	0	0	
+
+L 44   *	*	*	*	2778	*	*	*	*	801	*	*	*	*	*	3761	*	2276	*	*	44
+       0	*	*	*	*	*	*	1886	0	0	
+
+E 45   *	*	1820	480	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1886	0	0	
+
+P 46   3773	*	*	*	*	*	*	*	*	*	*	*	295	3163	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1815	0	0	
+
+K 47   *	*	*	1189	*	*	*	*	1166	*	*	*	*	3111	*	*	*	*	*	*	47
+       0	*	*	0	*	*	*	1462	0	0	
+
+//

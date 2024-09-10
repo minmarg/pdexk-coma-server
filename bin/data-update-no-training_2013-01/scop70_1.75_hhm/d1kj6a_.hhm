@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  d1kj6a_ g.9.1.1 (A:) Beta-defensin, BD {Human (Homo sapiens), HBD3 [TaxId: 9606]}
+FAM   g.9.1.1
+FILE  d1kj6a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1kj6a_.a3m -v 1 
+DATE  Mon Jan 21 22:34:45 2013
+LENG  45 match states, 45 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHCCCCEEEEECCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+903567887653147812452126763221101365543445789
+>Consensus
+GiixxlqkxxCriRxGrCaxlxClpkEeQIGxCSxxgrKCCRxkK
+>d1kj6a_ g.9.1.1 (A:) Beta-defensin, BD {Human (Homo sapiens), HBD3 [TaxId: 9606]}
+GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+>gi|48427992|sp|P83943.1|DEFB1_CHILA(23-67:67) RecName: Full=Beta-defensin 1; Short=BD-1; AltName: Full=Defensin, beta 1; AltName: Full=cBD-1; Flags: Precursor >gi|37547390|gb|AAM97293.1| beta defensin 1 [Chinchilla lanigera]  E=5e-12 s/c=1.65 id=72% cov=102%
+GIINTIQRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCRTRK
+>gi|291414211|ref|XP_002723356.1|(23-67:67) PREDICTED: defensin, beta 103A [Oryctolagus cuniculus]   E=2e-11 s/c=1.60 id=74% cov=102%
+GLINAAHKYYCKLRRGRCALLSCLPKEEQIGRCSLRGRKCCRTKK
+>gi|338721010|ref|XP_003364293.1|(23-67:67) PREDICTED: beta-defensin 103A-like [Equus caballus] >gi|122142466|sp|Q0W9P9.1|D103A_HORSE RecName: Full=Beta-defensin 103A; AltName: Full=Defensin, beta 103; AltName: Full=Defensin, beta 103A; Flags: Precursor >gi|110431266|emb|CAJ01801.1| beta defensin 103 [Equus caballus]  E=2e-11 s/c=1.60 id=74% cov=102%
+GIINMLQKSYCKIRKGRCALLGCLPKEEQIGSCSVSGRKCCRKKK
+>gi|410955930|ref|XP_003984601.1|(23-67:67) PREDICTED: beta-defensin 103A-like [Felis catus]   E=1e-10 s/c=1.55 id=72% cov=102%
+GIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK
+>gi|354501306|ref|XP_003512733.1|(24-67:68) PREDICTED: beta-defensin 14-like [Cricetulus griseus]   E=1e-09 s/c=1.50 id=71% cov=93%
+----TIQKLFCRLRGGRCALFSCLAREEQIGQCSSRGRKCCRTKK
+>gi|297468005|ref|XP_002705534.1|(181-224:224) PREDICTED: uncharacterized protein LOC100336146 [Bos taurus]   E=3e-12 s/c=1.70 id=71% cov=100%
+-IISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK
+>gi|301789141|ref|XP_002929984.1|(23-67:67) PREDICTED: beta-defensin 103A-like [Ailuropoda melanoleuca]   E=4e-08 s/c=1.36 id=78% cov=102%
+GIINTLQRYYCQIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK
+>gi|82775379|ref|NP_001032593.1|(24-67:67) beta-defensin 14 precursor [Rattus norvegicus] >gi|123780116|sp|Q32ZH7.1|DFB14_RAT RecName: Full=Beta-defensin 14; Short=BD-14; AltName: Full=Defensin, beta 14; Flags: Precursor >gi|49089944|gb|AAT51885.1| beta-defensin 14 [Rattus norvegicus] >gi|149057725|gb|EDM08968.1| defensin, beta 14 [Rattus norvegicus]  E=3e-06 s/c=1.25 id=67% cov=100%
+-IPKSLRRFFCRVRGGRCAILNCLGKEEQIGRCSNRGQKCCRKKK
+>gi|395507314|ref|XP_003757971.1|(23-67:67) PREDICTED: beta-defensin 103A-like [Sarcophilus harrisii]   E=9e-05 s/c=1.11 id=50% cov=102%
+GLLSRINNLICRVRQGKCRMIGCTNKEEQIGSCSLGRRKCCRKKK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1820	0	0	
+
+I 2    *	*	*	*	3842	*	*	753	*	1569	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1812	0	0	
+
+I 3    *	*	*	*	*	*	*	428	*	2762	*	*	3194	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1812	0	0	
+
+N 4    *	*	*	*	*	*	*	*	3194	*	*	1103	*	*	*	1234	*	*	*	*	4
+       0	*	*	*	*	*	*	1812	0	0	
+
+T 5    2482	*	*	*	*	3997	*	*	*	3933	4014	*	*	*	2899	3702	1251	*	*	*	5
+       0	*	*	*	*	*	*	1791	0	0	
+
+L 6    3959	*	*	*	*	*	*	1895	*	828	*	*	*	*	*	*	*	3272	*	*	6
+       0	*	*	*	*	*	*	1791	0	0	
+
+Q 7    *	*	*	*	*	*	3959	*	*	*	*	2899	*	586	2882	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1791	0	0	
+
+K 8    *	*	*	*	*	*	*	*	1002	*	*	2899	*	*	1447	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1791	0	0	
+
+Y 9    *	*	*	*	2882	*	*	*	*	2282	*	*	*	3933	*	4014	*	*	*	912	9
+       0	*	*	*	*	*	*	1791	0	0	
+
+Y 10   *	*	*	*	1013	*	*	2899	*	*	*	*	*	*	*	*	*	*	*	1433	10
+       0	*	*	*	*	*	*	1791	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1791	0	0	
+
+R 12   *	*	*	*	*	*	*	*	1723	*	*	*	*	3938	820	3933	*	*	*	*	12
+       0	*	*	*	*	*	*	1791	0	0	
+
+V 13   *	*	*	*	*	*	*	1464	*	2313	*	*	*	*	*	*	*	1197	*	*	13
+       0	*	*	*	*	*	*	1791	0	0	
+
+R 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1791	0	0	
+
+G 15   *	*	*	*	*	1007	*	*	4014	*	*	*	*	2899	3032	2441	*	*	*	*	15
+       0	*	*	*	*	*	*	1791	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1791	0	0	
+
+R 17   *	*	*	*	*	*	*	*	2899	*	*	*	*	3997	316	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1791	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1791	0	0	
+
+A 19   208	*	*	*	*	*	*	*	*	*	*	*	*	*	2899	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1791	0	0	
+
+V 20   2584	*	*	*	*	*	*	3702	*	1355	2899	*	*	*	*	*	*	2112	*	*	20
+       0	*	*	*	*	*	*	1791	0	0	
+
+L 21   *	*	*	*	3806	*	*	2346	*	585	*	*	*	*	*	*	*	3938	*	*	21
+       0	*	*	*	*	*	*	1791	0	0	
+
+S 22   *	*	*	*	*	1424	*	*	*	*	*	2882	*	*	*	1652	2526	*	*	*	22
+       0	*	*	*	*	*	*	1791	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1791	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	208	*	*	*	*	*	*	2899	*	*	*	24
+       0	*	*	*	*	*	*	1791	0	0	
+
+P 25   3806	*	*	*	*	2882	*	*	*	*	*	2899	602	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1791	0	0	
+
+K 26   *	*	*	*	*	*	*	*	522	*	*	*	*	*	1720	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1791	0	0	
+
+E 27   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1791	0	0	
+
+E 28   *	*	*	263	*	*	*	*	*	*	*	*	*	*	*	*	2584	*	*	*	28
+       0	*	*	*	*	*	*	1791	0	0	
+
+Q 29   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1791	0	0	
+
+I 30   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1791	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1791	0	0	
+
+K 32   *	*	*	*	*	*	3307	*	4097	*	*	*	*	3806	957	1978	*	*	*	*	32
+       0	*	*	*	*	*	*	1791	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1791	0	0	
+
+S 34   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	34
+       0	*	*	*	*	*	*	1791	0	0	
+
+T 35   *	*	*	*	*	*	*	*	*	1181	*	2882	*	*	*	2870	4097	2133	*	*	35
+       0	*	*	*	*	*	*	1791	0	0	
+
+R 36   *	*	*	*	*	2296	*	*	2852	*	*	*	*	*	1539	1981	4050	*	*	*	36
+       0	*	*	*	*	*	*	1787	0	0	
+
+G 37   *	*	*	*	*	210	*	*	*	*	*	*	*	*	2881	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1787	0	0	
+
+R 38   *	*	*	*	*	*	*	*	*	*	*	*	*	3658	119	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1787	0	0	
+
+K 39   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1787	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1787	0	0	
+
+C 41   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1787	0	0	
+
+R 42   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1787	0	0	
+
+R 43   *	*	*	*	*	*	*	*	931	*	*	*	*	*	2345	*	1844	*	*	*	43
+       0	*	*	*	*	*	*	1787	0	0	
+
+K 44   *	*	*	*	*	*	*	*	203	*	*	*	*	*	2930	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1787	0	0	
+
+K 45   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	1787	0	0	
+
+//

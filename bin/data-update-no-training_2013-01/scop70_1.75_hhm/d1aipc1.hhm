@@ -1,0 +1,198 @@
+HHsearch 1.5
+NAME  d1aipc1 a.5.2.2 (C:2-53) Elongation factor Ts (EF-Ts), N-terminal domain {Thermus thermophilus [TaxId: 274]}
+FAM   a.5.2.2
+FILE  d1aipc1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1aipc1.a3m -v 1 
+DATE  Mon Jan 21 19:10:13 2013
+LENG  52 match states, 52 columns in multiple alignment
+FILT  105 out of 1102 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.4 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHCCCHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHCCC
+>ss_conf
+9788899998861898889999998707978899999998448788630279
+>Consensus
+sxxexvKxLRxxTgaxixdcKxALxexxgDxxkAxxxLrkxGxxxAxKkxxR
+>d1aipc1 a.5.2.2 (C:2-53) Elongation factor Ts (EF-Ts), N-terminal domain {Thermus thermophilus [TaxId: 274]}
+SQMELIKKLREATGAGMMDVKRALEDAGWDEEKAVQLLRERGAMKAAKKADR
+>gi|168705100|ref|ZP_02737377.1|(7-54:284) Translation elongation factor Ts (EF-Ts). [Gemmata obscuriglobus UQM 2246]  E=3e-09 s/c=1.34 id=31% cov=94%
+---QMVKQLRDRTDQPMGLCKQALDESTGDMEKAIEWLQKQNSKMTAKREG-
+>gi|116515083|ref|YP_802712.1|(4-54:276) Tsf [Buchnera aphidicola BCc] >gi|122285521|sp|Q057T0.1|EFTS_BUCCC RecName: Full=Elongation factor Ts; Short=EF-Ts >gi|116256937|gb|ABJ90619.1| elongation factor Ts [Buchnera aphidicola BCc]  E=1e-07 s/c=1.17 id=37% cov=100%
+-SVKLIKELRIKTGSGYLECKRALQKSNGNIINAINYLRIVGTDIAQRKVLR
+>gi|193650195|ref|XP_001949598.1|(21-75:331) PREDICTED: elongation factor Ts, mitochondrial-like [Acyrthosiphon pisum]  E=0.0007 s/c=0.84 id=38% cov=100%
+SKAQLLK-LRKKTGYPFESCKKALQLNDNSLEKSEVWLKEEaqrlGWAKANKLANR
+>gi|238584013|ref|XP_002390425.1|(25-80:319) hypothetical protein MPER_10293 [Moniliophthora perniciosa FA553] >gi|215453821|gb|EEB91355.1| hypothetical protein MPER_10293 [Moniliophthora perniciosa FA553]  E=3e-08 s/c=1.09 id=34% cov=102%
+TTVQLVSELRKLTNAPIMKARQALTETSNDFDAALKWLEQdllaSGAAKAEKIKDR
+>gi|124504767|ref|XP_001351126.1|(57-95:390) elongation factor (EF-TS), putative [Plasmodium falciparum 3D7] >gi|74894156|sp|O97235.2|EFTS_PLAF7 RecName: Full=Elongation factor Ts, mitochondrial; Short=EF-Ts; Short=EF-TsMt; Flags: Precursor >gi|15375375|emb|CAB39001.2| elongation factor (EF-TS), putative [Plasmodium falciparum 3D7]  E=2e-05 s/c=1.33 id=30% cov=77%
+--LKLLKYVREVTNASIQLCNKALKECNNDVDKAIEHVRKN-----------
+>gi|301094764|ref|XP_002896486.1|(27-77:335) elongation factor Ts, putative [Phytophthora infestans T30-4] >gi|262109461|gb|EEY67513.1| elongation factor Ts, putative [Phytophthora infestans T30-4]  E=2e-11 s/c=1.40 id=37% cov=100%
+-DIEAVKKLRAESQAPLKDVRNALAATEGDFPAAFEWLRKKGIASASKKSGR
+>gi|401882938|gb|EJT47177.1|(32-81:349) elongation factor ts (ef-ts) [Trichosporon asahii var. asahii CBS 2479]  E=4e-05 s/c=1.01 id=39% cov=94%
+----LIAKLRKEIPVPMGQAREALEKTNLDLQAAVAYLNSAGGASAQKKADK
+>gi|374582675|ref|ZP_09655769.1|(2-47:182) hypothetical protein DesyoDRAFT_4235 [Desulfosporosinus youngiae DSM 17734] >gi|374418757|gb|EHQ91192.1| hypothetical protein DesyoDRAFT_4235 [Desulfosporosinus youngiae DSM 17734]  E=0.0002 s/c=1.06 id=30% cov=90%
+TTLENVEKLRAMANISFAEAKAALDEANGDLLEAIILLEKQGKIIA------
+>gi|373481349|ref|ZP_09572159.1|(5-55:203) translation elongation factor Ts (EF-Ts) [Singulisphaera acidiphila DSM 18658] >gi|371947747|gb|EHO65643.1| translation elongation factor Ts (EF-Ts) [Singulisphaera acidiphila DSM 18658]  E=8e-06 s/c=1.04 id=32% cov=96%
+---QAVNEFRKTTGLGLMECKALLKEADGDVKKALTLAKEKHGKNAENRAGR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    2607	*	*	*	*	*	*	*	*	*	*	4293	*	*	*	957	1890	*	*	*	1
+       0	*	*	*	*	*	*	3569	0	0	
+
+Q 2    *	*	2660	*	5762	*	*	5701	3021	*	*	3214	5373	5030	4497	1729	2845	4900	*	*	2
+       0	*	*	*	*	*	*	4073	0	0	
+
+M 3    4871	*	*	*	5962	*	*	1947	4012	1990	1995	*	*	*	*	*	4237	3780	*	*	3
+       0	*	*	*	*	*	*	4143	0	0	
+
+E 4    3416	*	3374	1103	*	*	*	*	4262	*	*	5815	*	2094	*	5031	6684	*	*	*	4
+       0	*	*	*	*	*	*	4207	0	0	
+
+L 5    3735	*	3045	6123	*	*	*	*	3668	1165	3506	5316	*	3594	*	6541	4689	5695	*	*	5
+       0	*	*	*	*	*	*	4368	0	0	
+
+I 6    *	*	*	*	*	*	*	1384	*	2600	*	*	*	*	*	*	*	1146	*	*	6
+       0	*	*	*	*	*	*	4418	0	0	
+
+K 7    4242	*	*	5209	*	6149	*	*	525	*	4650	4486	*	5112	4739	5266	6005	5727	*	*	7
+       19	*	6220	*	*	*	*	4418	0	0	
+
+K 8    4340	*	5514	1982	*	*	6998	6335	1409	5523	*	6696	*	3082	6153	4659	5386	5472	*	5093	8
+       0	*	*	*	*	0	*	4418	0	1000	
+
+L 9    *	*	*	*	5436	*	*	5719	*	172	4957	*	*	*	*	*	*	4719	*	*	9
+       0	*	*	*	*	*	*	4411	0	0	
+
+R 10   *	*	*	*	*	*	*	*	*	*	*	*	*	5522	59	5758	*	*	*	*	10
+       0	*	*	*	*	*	*	4411	0	0	
+
+E 11   3430	*	3715	1573	5493	5045	*	6191	1990	5753	*	4798	*	4545	4650	5262	*	6181	*	*	11
+       0	*	*	*	*	*	*	4411	0	0	
+
+A 12   3847	*	5049	2509	*	*	*	4667	2765	3518	4829	*	*	4022	1875	6763	5436	4346	*	*	12
+       0	*	*	*	*	*	*	4411	0	0	
+
+T 13   6192	*	*	*	*	*	*	5677	*	5864	6263	*	*	*	*	4263	177	*	*	*	13
+       12	6882	*	0	*	*	*	4411	1000	0	
+
+G 14   5856	6168	3977	3733	*	890	6986	*	*	6389	*	2842	5677	4445	6911	4116	*	*	*	*	14
+       0	*	*	*	*	*	*	4411	0	0	
+
+A 15   943	6202	*	*	6469	*	5656	5171	*	3464	6500	*	*	6582	*	3797	*	2615	*	4053	15
+       0	*	*	*	*	*	*	4411	0	0	
+
+G 16   4202	*	*	*	*	1355	*	*	*	*	*	*	1848	*	*	2051	4811	*	*	*	16
+       0	*	*	*	*	*	*	4411	0	0	
+
+M 17   6780	*	*	*	2983	*	*	1505	*	2744	2258	*	*	*	*	*	6172	3269	*	4787	17
+       0	*	*	*	*	*	*	4415	0	0	
+
+M 18   3777	*	6156	5318	*	3356	*	4332	3644	3333	1889	*	*	3916	*	3113	5207	3600	*	*	18
+       0	*	*	*	*	*	*	4416	0	0	
+
+D 19   4577	*	1255	2105	6563	*	5177	6549	3795	4295	*	5620	*	4908	6205	4905	5416	6512	*	*	19
+       0	*	*	*	*	*	*	4416	0	0	
+
+V 20   3558	505	*	*	*	*	*	4210	*	*	*	*	*	*	*	5871	*	2845	*	*	20
+       0	*	*	*	*	*	*	4416	0	0	
+
+K 21   *	*	*	*	*	6358	*	5304	521	*	*	4641	*	*	2347	6658	6923	*	*	6563	21
+       0	*	*	*	*	*	*	4416	0	0	
+
+R 22   3605	*	4542	2821	*	*	*	5724	1366	6458	*	3570	*	2904	3862	6523	5829	*	*	*	22
+       0	*	*	*	*	*	*	4416	0	0	
+
+A 23   171	*	*	*	*	*	*	6057	*	5467	*	*	*	*	*	5237	5381	5402	*	*	23
+       0	*	*	*	*	*	*	4416	0	0	
+
+L 24   *	*	*	*	*	*	*	5404	*	84	*	*	*	*	*	*	*	4924	*	*	24
+       0	*	*	*	*	*	*	4416	0	0	
+
+E 25   3450	*	4097	1905	*	*	*	3334	3219	4960	6200	4756	*	3082	5874	4617	3382	5505	*	*	25
+       17	6379	*	1000	1000	*	*	4416	1231	0	
+
+D 26   2727	6200	4104	953	*	*	5353	*	2921	6260	*	6718	*	4373	*	6655	5420	*	*	*	26
+       8	7467	*	1000	1000	*	*	4416	1000	0	
+
+A 27   1634	3282	*	6906	5221	*	5320	*	*	*	6200	4608	*	*	*	2056	2758	4381	*	5381	27
+       0	*	*	*	*	*	*	4416	0	0	
+
+G 28   5528	*	2526	3091	*	2544	6358	*	3253	*	*	1857	*	4380	*	4253	6601	6390	*	*	28
+       38	6156	6377	0	*	*	*	4416	1000	0	
+
+W 29   *	*	4390	5914	*	737	*	*	*	5676	6874	2426	*	*	*	*	*	6559	3844	4603	29
+       0	*	*	*	*	0	*	4405	0	1000	
+
+D 30   *	*	426	*	*	*	*	*	*	*	*	2380	*	6173	*	4324	*	*	*	*	30
+       30	5600	*	3235	162	*	*	4416	1637	0	
+
+E 31   5983	*	*	4713	3487	*	7193	1990	*	1957	4012	*	7017	7158	7287	6504	5152	2564	6377	4744	31
+       0	*	*	*	*	*	*	4416	0	0	
+
+E 32   4343	*	2162	1561	*	*	*	5494	3542	4845	*	4198	7079	3223	7043	6390	5351	4938	*	*	32
+       0	*	*	*	*	*	*	4416	0	0	
+
+K 33   2812	6773	4708	3376	*	6840	*	*	1149	3590	*	4939	*	4515	3572	*	6548	*	*	*	33
+       0	*	*	*	*	*	*	4416	0	0	
+
+A 34   99	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4556	5381	*	*	*	34
+       0	*	*	*	*	*	*	4416	0	0	
+
+V 35   5800	6996	*	3951	4791	*	*	1854	3703	2916	3531	*	*	5888	3726	*	6444	2343	*	*	35
+       0	*	*	*	*	*	*	4416	0	0	
+
+Q 36   4766	*	3263	1360	*	6206	*	5414	2893	6390	5523	4642	*	3677	5453	6444	4607	3825	*	*	36
+       0	*	*	*	*	*	*	4416	0	0	
+
+L 37   *	*	*	3611	4447	*	4638	2311	5810	2499	*	6169	*	*	6471	6719	*	5592	1902	3147	37
+       20	6206	*	2000	415	*	*	4416	1000	0	
+
+L 38   4832	*	*	*	*	*	*	3603	*	286	4886	*	*	*	*	*	*	5123	*	*	38
+       25	5884	*	2000	415	*	*	4416	1502	0	
+
+R 39   5366	*	*	3793	6432	*	6450	6983	1976	6044	5446	5150	*	4110	1154	6530	5461	*	*	6447	39
+       45	5021	*	2000	415	*	*	4406	1800	0	
+
+E 40   4320	*	*	2040	*	*	*	5689	1033	5995	*	4946	*	3932	*	5773	5462	4503	*	*	40
+       64	4969	6448	1678	541	*	*	4401	1723	0	
+
+R 41   4962	6152	*	4817	*	*	5348	5612	1317	3861	5754	4549	*	3719	2889	3468	5895	6294	6479	*	41
+       59	4631	*	2000	415	*	0	4388	1939	1000	
+
+G 42   *	6753	*	6571	6531	244	5465	*	*	5942	*	4454	*	*	*	4628	*	*	*	*	42
+       0	*	*	*	*	0	*	4370	0	1000	
+
+A 43   3446	*	*	4812	5646	3441	5804	2575	3341	2192	5104	*	*	3976	*	4399	4367	6437	4123	*	43
+       0	*	*	*	*	*	*	4369	0	0	
+
+M 44   1516	*	4577	3725	*	*	6352	4005	2462	4602	5423	5646	*	5324	6797	4032	4118	4661	*	*	44
+       0	*	*	*	*	*	*	4412	0	0	
+
+K 45   3674	*	*	*	*	*	6872	3164	1354	5454	6312	4839	5518	4985	3860	3080	4720	4020	*	*	45
+       0	*	*	*	*	*	*	4448	0	0	
+
+A 46   383	*	6502	*	6589	6695	*	5337	*	5132	4985	6159	*	*	*	3626	5500	*	*	*	46
+       24	5947	*	1487	636	*	*	4448	1430	0	
+
+A 47   2120	*	4184	1964	*	4105	*	6717	6082	5630	6151	5122	*	3911	6154	2612	4130	6395	*	*	47
+       12	6887	*	0	*	*	*	4300	1000	0	
+
+K 48   5895	*	6585	5074	*	*	*	6496	468	*	*	4083	*	4968	3895	4704	6315	*	*	*	48
+       0	*	*	*	*	*	*	4300	0	0	
+
+K 49   4366	*	*	*	6106	*	*	6713	1005	3175	5551	*	*	*	2110	5910	*	4352	*	*	49
+       21	6121	*	1000	1000	*	*	4290	1000	0	
+
+A 50   1344	*	*	3588	*	4936	6452	6279	3938	4415	5767	7337	*	4622	4629	2442	5187	4767	*	*	50
+       0	*	*	*	*	*	*	4204	0	0	
+
+D 51   5567	*	1944	3479	6303	1770	4812	*	*	5925	*	4040	*	5505	*	2845	4343	*	*	*	51
+       0	*	*	*	*	*	*	4202	0	0	
+
+R 52   *	*	*	*	*	*	*	*	3399	*	*	*	*	*	144	*	*	*	*	*	52
+       0	*	*	0	*	*	*	4183	0	0	
+
+//

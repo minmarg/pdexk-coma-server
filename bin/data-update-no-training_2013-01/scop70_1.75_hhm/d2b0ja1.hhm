@@ -1,0 +1,358 @@
+HHsearch 1.5
+NAME  d2b0ja1 a.100.1.11 (A:243-344) 5,10-methenyltetrahydromethanopterin hydrogenase, HMD {Archaeon Methanocaldococcus jannaschii [TaxId: 2190]}
+FAM   a.100.1.11
+FILE  d2b0ja1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2b0ja1.a3m -v 1 
+DATE  Tue Jan 22 05:35:38 2013
+LENG  102 match states, 102 columns in multiple alignment
+FILT  33 out of 35 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHCCCCCHHHHHHHHHHHHHCCC
+CC
+>ss_conf
+9311578889999999999999989999999833808999999999999999999876188999851889999978863144101458999999985136
+69
+>Consensus
+AxlvsxVxDMgsxvTAvxxaGiLxYxxxxtxIlgAPxxmiexqixxsLxtiasLvexxGixglxkxldpxalxxsAxSMxxxxxxxxLxxalxxLekxxx
+xx
+>d2b0ja1 a.100.1.11 (A:243-344) 5,10-methenyltetrahydromethanopterin hydrogenase, HMD {Archaeon Methanocaldococcus jannaschii [TaxId: 2190]}
+ANLIGPVCDMCSAVTATVYAGLLAYRDAVTKILGAPADFAQMMADEALTQIHNLMKEKGIANMEEALDPAALLGTADSMCFGPLAEILPTALKVLEKHKV
+VE
+>gi|289192925|ref|YP_003458866.1|(194-290:338) coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Methanocaldococcus sp. FS406-22] >gi|288939375|gb|ADC70130.1| coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Methanocaldococcus sp. FS406-22]  E=9e-24 s/c=1.16 id=30% cov=96%
+ADVVPAVADMGALVTAVALVGVLDYYRVGTQIINAPKDMIEKQILISLQTIASIIETSGMEGLMKVFNKDALLSSAKNMVIDEKQEGLNLALKIIEE---
+--
+>gi|7573569|emb|CAB87816.1|(197-293:344) H2-forming methylenetetrahydromethanopterin dehydrogenase III (HmdIII) [Methanothermobacter thermautotrophicus]  E=1e-19 s/c=1.02 id=31% cov=96%
+ADVTSAVADMGSLVTAVALAGVLDYYYVGTQIIKAPEEMVEKQILMTLQTMASLVETSGVDGMARAMNPELLVKSAKSMHLLDEQEELDAALRKISQ---
+--
+>gi|312136574|ref|YP_004003911.1|(193-288:336) h2-forming methylenetetrahydromethanopterin dehydrogenase [Methanothermus fervidus DSM 2088] >gi|311224293|gb|ADP77149.1| H2-forming methylenetetrahydromethanopterin dehydrogenase [Methanothermus fervidus DSM 2088]  E=2e-18 s/c=0.99 id=33% cov=95%
+ADVSSAVGDMGVLVTAVTLAGILEFYHAAAKITSSPQKMVENQIVLTLETIAALVSTKGIDGTLKLLKPNIIINCAKSMNY-PGNTLLPQAFKILQK---
+--
+>gi|296109764|ref|YP_003616713.1|(193-289:345) coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [methanocaldococcus infernus ME] >gi|295434578|gb|ADG13749.1| coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Methanocaldococcus infernus ME]  E=1e-16 s/c=0.92 id=28% cov=96%
+AELVSAVADMGVLVTALALSGILCFYYLGTRYIKAHKDLIEKQIINSLYTVASLVESSGVEGMAKALNPELVIRAAKSMLLVDKQKDLELALDLLSQ---
+--
+>gi|289192428|ref|YP_003458369.1|(196-290:350) coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Methanocaldococcus sp. FS406-22] >gi|288938878|gb|ADC69633.1| coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Methanocaldococcus sp. FS406-22]  E=6e-07 s/c=0.60 id=27% cov=94%
+--LVSPVGDMVSSVVISIIASILEYEYSGRNYLNIPEKMIDDQVLLALTSLAALVYAGGVKELLSVIDPEALMISAENMLICEDQIMLKNALNMFKD---
+--
+>gi|20094558|ref|NP_614405.1|(174-264:318) H(2)-dependent methylenetetrahydromethanopterin dehydrogenase-related protein [Methanopyrus kandleri AV19] >gi|19887683|gb|AAM02335.1| N5,N10-methylenetetrahydromethanopterin dehydrogenase (H2-forming) [Methanopyrus kandleri AV19]  E=0.0003 s/c=0.53 id=24% cov=90%
+-ELISSIGDMSVVLTVRIVQAICNYF-SVARICGAPIEMIEEQVEEVLSTMAYLVGRYGLDAFDR-MDGKLLLRSLRNM---ALTEDVERVVDFFER---
+--
+>gi|20094801|ref|NP_614648.1|(195-270:324) H(2)-dependent methylenetetrahydromethanopterin dehydrogenase-related protein [Methanopyrus kandleri AV19] >gi|19888010|gb|AAM02578.1| N5,N10-methylenetetrahydromethanopterin dehydrogenase (H2-forming) [Methanopyrus kandleri AV19]  E=1e-07 s/c=0.79 id=26% cov=75%
+-ELVSVVGDLSVVLLKRVIEALKEF--CAVKALGAPQEMIDRQAMMTLATLAALIEAGGIGGLLETLDEEAIEASYSNM---------------------
+--
+>gi|325295676|ref|YP_004282190.1|(196-293:357) coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Desulfurobacterium thermolithotrophum DSM 11699] >gi|325066124|gb|ADY74131.1| coenzyme F420-dependent N(5),N(10)-methenyltetrahydromethanopterin reductase-related protein [Desulfurobacterium thermolithotrophum DSM 11699]  E=2e-20 s/c=1.03 id=29% cov=96%
+AELVSPVGDMGIVTTAIAFAGAIEYYKVSRDILKTKRSMTEFQIAQSLQVISSLVTKYGLEGLIKLLNVDAMKASLQSMILDKNEQPLTvTASKLLEK--
+---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2858	0	0	
+
+N 2    *	*	1395	1298	*	*	*	*	5341	*	*	2408	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3177	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	681	5099	*	*	*	*	*	*	1526	*	*	3
+       0	*	*	*	*	*	*	3344	0	0	
+
+I 4    *	*	*	*	*	*	*	2043	*	2771	*	*	*	*	*	1974	5364	1591	*	*	4
+       0	*	*	*	*	*	*	3344	0	0	
+
+G 5    5436	*	*	*	*	2165	*	*	*	*	*	*	3872	*	*	544	*	*	*	*	5
+       0	*	*	*	*	*	*	3344	0	0	
+
+P 6    1987	*	*	*	*	*	*	*	*	*	*	*	1060	*	*	3738	3408	3336	*	*	6
+       0	*	*	*	*	*	*	3344	0	0	
+
+V 7    *	*	*	*	*	*	*	3738	*	*	*	*	*	*	*	*	*	112	*	*	7
+       0	*	*	*	*	*	*	3344	0	0	
+
+C 8    1788	1542	*	*	*	1539	*	*	*	*	*	*	*	*	*	5436	*	*	*	*	8
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 9    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 10   *	*	*	*	*	*	*	*	*	4138	84	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3344	0	0	
+
+C 11   5007	2382	*	*	*	786	*	*	*	*	*	*	*	*	*	2924	*	3938	*	*	11
+       0	*	*	*	*	*	*	3344	0	0	
+
+S 12   2997	*	*	*	*	*	*	3817	*	*	*	*	*	*	*	851	*	2003	*	*	12
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 13   1542	*	*	*	*	*	*	*	*	1363	*	*	*	*	*	3938	*	2302	*	*	13
+       0	*	*	*	*	*	*	3344	0	0	
+
+V 14   *	*	*	*	*	*	*	*	*	1853	*	*	*	*	*	*	3817	617	*	*	14
+       0	*	*	*	*	*	*	3344	0	0	
+
+T 15   *	*	*	*	*	*	*	*	*	4138	*	*	*	*	*	*	188	3938	*	*	15
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 16   317	*	*	*	*	*	*	3938	4138	*	*	*	*	*	*	*	*	3738	*	*	16
+       0	*	*	*	*	*	*	3344	0	0	
+
+T 17   5594	*	*	*	*	*	*	2025	*	4589	*	*	4073	*	2924	3938	4733	1329	*	*	17
+       0	*	*	*	*	*	*	3344	0	0	
+
+V 18   1958	*	*	*	*	*	*	2835	*	*	*	*	*	*	*	4906	1551	2135	*	*	18
+       0	*	*	*	*	*	*	3344	0	0	
+
+Y 19   *	*	*	*	3817	*	*	3034	*	1363	*	*	*	*	*	*	*	3738	*	1542	19
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 20   619	*	*	4138	*	*	*	*	*	*	*	*	*	3738	*	2747	*	3872	*	*	20
+       0	*	*	*	*	*	*	3344	0	0	
+
+G 21   2532	*	*	*	*	392	*	*	*	*	*	*	*	*	*	3938	*	*	*	*	21
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 22   3817	*	*	*	*	*	*	1207	*	2098	*	*	*	*	*	*	*	1930	*	*	22
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 23   *	3738	*	*	*	*	*	3817	4138	327	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 24   2847	4589	1744	2049	*	*	*	*	*	*	*	3738	*	*	*	3103	4059	5158	*	*	24
+       0	*	*	*	*	*	*	3344	0	0	
+
+Y 25   *	*	*	*	2489	*	*	*	*	*	*	*	*	*	*	*	*	*	*	283	25
+       84	*	4138	*	*	*	*	3344	0	0	
+
+R 26   *	*	*	3751	3606	*	*	*	*	*	*	*	*	*	1480	*	*	*	*	1044	26
+       124	*	3606	*	*	*	0	3230	0	1000	
+
+D 27   *	*	1589	4963	*	*	4164	*	3569	*	*	5423	*	5290	3673	3177	3739	*	*	2452	27
+       0	*	*	*	*	0	*	3045	0	1540	
+
+A 28   2015	4138	*	*	*	*	*	5180	*	4589	*	*	*	*	*	2094	4306	1549	*	*	28
+       0	*	*	*	*	*	*	3344	0	0	
+
+V 29   3245	5007	*	*	*	1303	*	*	*	*	*	*	*	*	*	3817	*	1369	*	*	29
+       0	*	*	*	*	*	*	3344	0	0	
+
+T 30   3016	*	*	*	*	*	*	5294	4455	*	3300	*	*	*	2487	*	1094	4138	*	*	30
+       0	*	*	*	*	*	*	3344	0	0	
+
+K 31   *	*	2971	*	*	*	*	*	1637	*	*	2248	*	2308	2851	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3344	0	0	
+
+I 32   4138	*	*	*	*	*	*	408	*	4906	*	*	*	*	*	*	*	4341	*	3227	32
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 33   *	3738	*	*	*	*	*	1669	*	899	5294	*	*	*	*	*	4361	*	*	*	33
+       0	*	*	*	*	*	*	3344	0	0	
+
+G 34   *	*	*	*	*	998	*	*	2123	*	*	2368	5188	*	*	4361	*	*	*	*	34
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 35   334	*	*	*	*	*	*	3938	*	*	*	*	*	*	*	4361	3817	5534	*	*	35
+       0	*	*	*	*	*	*	3344	0	0	
+
+P 36   *	*	*	*	*	*	4589	*	3817	*	*	*	172	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 37   1679	*	*	2638	*	*	*	3738	2303	*	*	*	*	2971	3817	*	*	4291	*	*	37
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 38   *	*	1732	2149	*	2717	*	*	1998	*	*	*	*	*	*	3817	*	*	*	*	38
+       0	*	*	*	*	*	*	3344	0	0	
+
+F 39   *	*	*	*	1542	*	*	*	*	4589	701	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 40   1815	*	*	*	*	*	*	1251	*	*	*	*	*	*	*	5158	3293	2595	*	*	40
+       0	*	*	*	*	*	*	3344	0	0	
+
+Q 41   *	*	3034	903	*	*	*	*	*	*	*	*	*	1542	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 42   *	*	3938	3738	3817	*	*	*	2174	*	1679	3648	*	3079	4138	*	*	*	*	*	42
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 43   *	*	*	*	*	*	*	*	*	*	1542	*	*	607	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 44   1321	*	*	*	*	*	*	1260	*	*	*	*	*	*	*	*	*	2455	*	*	44
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 45   3324	*	3331	3117	*	*	*	2456	3942	2165	4138	4306	*	*	*	*	5158	3648	*	*	45
+       0	*	*	*	*	*	*	3344	0	0	
+
+E 46   *	*	*	1257	*	*	*	3872	*	3134	1801	4589	*	3817	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 47   1918	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1622	1575	3738	*	*	47
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 48   *	*	*	*	*	*	*	3344	*	150	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	3344	0	0	
+
+T 49   3689	*	*	2570	*	*	*	*	*	*	*	5188	*	1422	*	3738	2077	*	*	4589	49
+       0	*	*	*	*	*	*	3344	0	0	
+
+Q 50   *	*	*	*	*	*	*	*	*	*	5007	5099	*	1937	5508	3938	942	3817	*	*	50
+       0	*	*	*	*	*	*	3344	0	0	
+
+I 51   *	*	*	*	*	*	*	1359	*	2452	1685	*	*	*	*	*	*	3104	*	*	51
+       0	*	*	*	*	*	*	3344	0	0	
+
+H 52   777	*	*	*	*	*	5698	*	*	3344	5508	*	*	*	*	3261	2535	*	*	*	52
+       0	*	*	*	*	*	*	3344	0	0	
+
+N 53   1892	*	5371	3054	*	*	*	*	4052	*	*	4654	*	*	*	1283	*	*	*	3738	53
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 54   *	*	*	*	5007	*	*	3872	*	197	*	*	*	*	*	*	*	*	*	5158	54
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 55   *	*	*	*	*	*	*	2998	*	*	1542	*	*	*	*	*	*	912	*	*	55
+       0	*	*	*	*	*	*	3344	0	0	
+
+K 56   5099	*	*	1093	*	3738	*	*	3102	*	*	5371	*	5547	3642	4361	3817	*	*	3938	56
+       0	*	*	*	*	*	*	3344	0	0	
+
+E 57   3034	*	4306	3789	*	*	*	*	2141	*	*	4627	*	*	3738	3117	1748	*	*	*	57
+       0	*	*	*	*	*	*	3344	0	0	
+
+K 58   *	*	*	2473	*	3034	*	*	3475	*	*	*	*	*	*	1556	5112	3425	*	2777	58
+       0	*	*	*	*	*	*	3344	0	0	
+
+G 59   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	3344	0	0	
+
+I 60   *	*	*	*	*	*	*	1002	*	2498	4837	*	*	*	*	*	*	1791	*	*	60
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 61   3498	*	1763	1997	*	4138	*	*	2689	*	*	3571	*	5496	4372	*	*	*	*	*	61
+       0	*	*	*	*	*	*	3344	0	0	
+
+N 62   3738	*	*	3938	*	903	5371	*	3029	*	*	2487	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 63   *	*	*	*	3738	*	*	*	*	1042	1356	*	*	*	*	*	4361	*	*	*	63
+       0	*	*	*	*	*	*	3344	0	0	
+
+E 64   3925	*	2994	1772	*	*	*	3345	*	1704	3872	*	*	*	*	*	*	4566	*	*	64
+       0	*	*	*	*	*	*	3344	0	0	
+
+E 65   *	*	3875	2037	*	*	*	*	995	*	*	5496	*	*	3333	3938	*	*	*	*	65
+       112	*	3738	*	*	*	*	3344	0	0	
+
+A 66   1337	*	*	*	*	*	5499	5099	3133	2938	*	5085	*	*	*	5017	3569	2609	*	*	66
+       0	*	*	*	*	0	*	3140	0	1000	
+
+L 67   *	*	*	*	3872	*	*	3079	*	573	2823	*	*	*	*	*	*	*	*	*	67
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 68   *	*	1069	*	*	*	5501	*	4361	*	*	1144	*	*	*	*	*	*	*	*	68
+       0	*	*	*	*	*	*	3344	0	0	
+
+P 69   *	*	*	4138	*	3738	*	*	3872	*	*	*	456	*	*	*	*	3817	*	*	69
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 70   4311	*	3239	1323	*	2349	*	*	2487	*	*	4361	*	*	5594	*	*	*	*	*	70
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 71   868	*	*	*	*	*	*	4361	*	1647	5188	*	*	*	*	*	*	4135	*	*	71
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 72   *	*	*	*	4135	*	*	2658	*	573	3817	*	*	*	*	*	*	4589	*	*	72
+       0	*	*	*	*	*	*	3344	0	0	
+
+L 73   *	*	*	4138	*	*	*	2956	3817	1486	3938	*	*	*	*	*	2712	2570	*	*	73
+       0	*	*	*	*	*	*	3344	0	0	
+
+G 74   2968	*	*	*	*	1679	*	3938	3367	*	*	3648	*	*	2001	3872	*	*	*	*	74
+       0	*	*	*	*	*	*	3344	0	0	
+
+T 75   4589	3716	*	*	*	*	*	*	*	*	*	*	*	*	*	955	1448	*	*	*	75
+       0	*	*	*	*	*	*	3344	0	0	
+
+A 76   378	*	*	*	*	*	*	*	*	2777	*	*	*	*	*	5180	*	*	*	4138	76
+       0	*	*	*	*	*	*	3344	0	0	
+
+D 77   *	*	1542	3938	*	*	*	*	2119	*	*	*	*	3817	3738	2216	*	*	*	*	77
+       0	*	*	*	*	*	*	3344	0	0	
+
+S 78   *	*	*	*	*	*	*	*	*	*	*	1914	*	*	*	445	*	*	*	*	78
+       0	*	*	*	*	*	*	3344	0	0	
+
+M 79   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	79
+       119	*	3654	*	*	*	*	3344	0	0	
+
+C 80   *	2650	*	*	*	*	2451	3569	4348	2318	*	1815	*	*	*	*	*	4653	*	*	80
+       0	*	*	*	*	*	0	3045	0	1000	
+
+F 81   *	*	*	*	1367	*	*	2366	*	1464	*	*	*	*	*	*	*	*	*	4164	81
+       83	*	4164	*	*	*	0	3045	0	1000	
+
+G 82   *	3508	2559	*	*	1290	*	4934	4838	2435	*	*	*	*	4995	*	*	4334	*	*	82
+       0	*	*	*	*	0	*	2971	0	1665	
+
+P 83   2656	*	2414	2429	*	*	*	*	2678	*	*	*	1681	*	*	*	*	*	*	*	83
+       0	*	*	*	*	*	*	3230	0	0	
+
+L 84   5318	*	3037	3372	*	4286	*	5115	2610	1453	*	3752	*	5077	5504	5538	*	*	*	*	84
+       0	*	*	*	*	*	*	3230	0	0	
+
+A 85   2102	*	*	3752	*	*	*	*	*	*	*	4286	*	1205	*	2995	3606	*	*	*	85
+       0	*	*	*	*	*	*	3230	0	0	
+
+E 86   *	*	2194	1434	*	*	*	3751	2241	*	*	*	*	3752	*	*	4286	*	*	*	86
+       47	4973	*	1000	1000	*	*	3230	1000	0	
+
+I 87   *	*	1737	3259	*	4750	*	1691	*	3737	3751	*	3752	*	*	*	*	5318	*	*	87
+       0	*	*	*	*	*	*	3230	0	0	
+
+L 88   *	*	*	*	*	*	*	*	*	208	*	*	*	*	*	*	*	2898	*	*	88
+       0	*	*	*	*	*	*	3230	0	0	
+
+P 89   *	*	2629	2748	*	*	*	*	2850	*	*	4750	1287	*	*	5077	3752	*	*	*	89
+       111	3752	*	0	*	*	*	3230	1000	0	
+
+T 90   1993	*	*	4149	*	*	*	*	4973	3096	*	3751	5603	3825	3606	4382	2011	*	*	*	90
+       0	*	*	*	*	*	*	3230	0	0	
+
+A 91   634	*	*	*	*	*	*	5066	*	*	*	*	*	*	*	3788	*	1981	*	*	91
+       0	*	*	*	*	*	*	3230	0	0	
+
+L 92   *	*	*	*	3408	*	*	5590	*	517	5063	*	*	*	*	3752	*	3606	*	*	92
+       0	*	*	*	*	*	*	3230	0	0	
+
+K 93   *	*	2739	1906	*	*	*	*	1382	*	*	2796	*	*	5281	*	5063	*	*	*	93
+       0	*	*	*	*	*	*	3230	0	0	
+
+V 94   5063	*	*	*	3606	*	*	1939	5281	3084	3751	5493	*	*	*	4090	3786	2093	*	5545	94
+       0	*	*	*	*	*	*	3230	0	0	
+
+L 95   *	*	*	*	2676	*	*	3337	*	425	*	*	*	*	*	*	*	*	*	*	95
+       0	*	*	*	*	*	*	3230	0	0	
+
+E 96   *	*	*	766	*	*	*	*	2696	*	*	5100	*	3646	*	2749	*	*	*	*	96
+       0	*	*	*	*	*	*	3235	0	0	
+
+K 97   *	*	3680	3261	*	*	*	*	1123	*	*	2364	*	3672	3540	*	*	*	*	*	97
+       0	*	*	*	*	*	*	3283	0	0	
+
+H 98   *	*	*	3942	*	*	1266	*	*	*	*	*	*	*	1270	*	*	*	*	3258	98
+       0	*	*	*	*	*	*	1690	0	0	
+
+K 99   3547	*	*	*	*	2001	*	*	589	*	*	*	*	*	*	*	*	*	*	*	99
+       0	*	*	*	*	*	*	1565	0	0	
+
+V 100  2084	*	*	*	*	*	*	*	*	1725	*	*	*	*	*	*	*	1115	*	*	100
+       0	*	*	*	*	*	*	1410	0	0	
+
+V 101  *	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	101
+       0	*	*	*	*	*	*	1161	0	0	
+
+E 102  *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	102
+       0	*	*	0	*	*	*	1161	0	0	
+
+//

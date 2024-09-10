@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  d1z0jb1 a.2.19.1 (B:734-784) FYVE finger-containing Rab5 effector protein rabenosyn-5 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.2.19.1
+FILE  d1z0jb1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1z0jb1.a3m -v 1 
+DATE  Tue Jan 22 04:53:07 2013
+LENG  51 match states, 51 columns in multiple alignment
+FILT  11 out of 13 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHCCCCC
+>ss_conf
+925688988744687643103306603689999989999999987305899
+>Consensus
+ieeelllqqidnikayifdakxxgrldevevltenlkelkxtlxkqkxxxx
+>d1z0jb1 a.2.19.1 (B:734-784) FYVE finger-containing Rab5 effector protein rabenosyn-5 {Human (Homo sapiens) [TaxId: 9606]}
+IEEELLLQQIDNIKAYIFDAKQCGRLDEVEVLTENLRELKHTLAKQKGGTD
+>gi|291393490|ref|XP_002713085.1|(740-783:783) PREDICTED: FYVE-finger-containing Rab5 effector protein rabenosyn-5 [Oryctolagus cuniculus]  E=2e-14 s/c=1.87 id=89% cov=88%
+-------QQIDNIKAYIFDAKQCGRLDEVEVLAENLRELKRTLARQKGGPD
+>gi|348554832|ref|XP_003463229.1|(705-755:755) PREDICTED: rabenosyn-5-like [Cavia porcellus]   E=8e-17 s/c=1.76 id=83% cov=102%
+IEEDLLLQQINNIKAYIFDAKQYGRLDEVEVLTENLRELRCTLAKQKRGPE
+>gi|21411436|gb|AAH31135.1|(740-783:783) Zinc finger, FYVE domain containing 20 [Mus musculus]   E=2e-14 s/c=1.86 id=87% cov=88%
+-------QQIDNIKAYIFDAKQCGRMDEVEVLTENLRELKCTLAKQKGAPN
+>gi|149412652|ref|XP_001506047.1|(710-760:760) PREDICTED: rabenosyn-5 [Ornithorhynchus anatinus]   E=2e-14 s/c=1.61 id=81% cov=102%
+IEEDLLLQQIDNIKAYIFDAKHSGRLDEVEVLTENLKELKRTLAKQKEKDN
+>gi|387017976|gb|AFJ51106.1|(736-784:787) Rabenosyn-5-like [Crotalus adamanteus]   E=8e-14 s/c=1.64 id=84% cov=98%
+IEEELLLQQIDNIKAYIFDAKQSGRMDEIEVLTENLKELKSTLAKQKKK--
+>gi|348502669|ref|XP_003438890.1|(731-779:783) PREDICTED: rabenosyn-5-like [Oreochromis niloticus]   E=6e-13 s/c=1.58 id=72% cov=98%
+IEEELLLQQIDNIRAYIFDAKLSGRLDEVDLLTQNLKELQKTLQEQKNK--
+>gi|125825097|ref|XP_697706.2|(733-781:782) PREDICTED: rabenosyn-5 [Danio rerio]   E=1e-12 s/c=1.55 id=72% cov=98%
+IEEELLLQQIDNIRAYIFDAKLSGRSDEVELLSENLKELQRTLREQKRK--
+>gi|395516670|ref|XP_003762510.1|(735-778:778) PREDICTED: rabenosyn-5 [Sarcophilus harrisii]   E=1e-11 s/c=1.65 id=82% cov=88%
+-------QQIDNIKAYIFDAKQCGRLDEVEVLTENLKELKRALVKQKEKTN
+>gi|363738815|ref|XP_414460.3|(741-784:785) PREDICTED: rabenosyn-5 [Gallus gallus]   E=3e-11 s/c=1.62 id=76% cov=88%
+-------QQIDNIKAYIFDAKHSGRMDEVELLTENLKELKYTLAKQKEKYN
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1294	0	0	
+
+E 2    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1294	0	0	
+
+E 3    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1294	0	0	
+
+E 4    *	*	1794	491	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1294	0	0	
+
+L 5    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1294	0	0	
+
+L 6    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1294	0	0	
+
+L 7    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1294	0	0	
+
+Q 8    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1407	0	0	
+
+Q 9    *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1407	0	0	
+
+I 10   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1407	0	0	
+
+D 11   *	*	156	*	*	*	*	*	*	*	*	3288	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1407	0	0	
+
+N 12   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1407	0	0	
+
+I 13   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1407	0	0	
+
+K 14   *	*	*	*	*	*	*	*	509	*	*	*	*	*	1749	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1407	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1407	0	0	
+
+Y 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	16
+       0	*	*	*	*	*	*	1407	0	0	
+
+I 17   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1407	0	0	
+
+F 18   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1407	0	0	
+
+D 19   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1407	0	0	
+
+A 20   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1407	0	0	
+
+K 21   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1407	0	0	
+
+Q 22   *	*	*	*	*	*	2641	*	*	1749	*	*	*	883	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1407	0	0	
+
+C 23   *	1527	*	*	*	*	*	*	*	*	*	*	*	*	*	861	*	*	*	3288	23
+       0	*	*	*	*	*	*	1407	0	0	
+
+G 24   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1407	0	0	
+
+R 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1407	0	0	
+
+L 26   *	*	*	*	*	*	*	*	*	642	1940	*	*	*	*	3342	*	*	*	*	26
+       0	*	*	*	*	*	*	1407	0	0	
+
+D 27   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1407	0	0	
+
+E 28   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1407	0	0	
+
+V 29   *	*	*	*	*	*	*	3430	*	*	*	*	*	*	*	*	*	141	*	*	29
+       0	*	*	*	*	*	*	1407	0	0	
+
+E 30   *	*	3236	162	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1407	0	0	
+
+V 31   *	*	*	*	*	*	*	*	*	1395	*	*	*	*	*	*	*	690	*	*	31
+       0	*	*	*	*	*	*	1407	0	0	
+
+L 32   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1407	0	0	
+
+T 33   3458	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2386	479	*	*	*	33
+       0	*	*	*	*	*	*	1407	0	0	
+
+E 34   *	*	*	320	*	*	*	*	*	*	*	*	*	2330	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1407	0	0	
+
+N 35   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1407	0	0	
+
+L 36   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1407	0	0	
+
+R 37   *	*	*	*	*	*	*	*	864	*	*	*	*	*	1150	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1407	0	0	
+
+E 38   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1407	0	0	
+
+L 39   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1407	0	0	
+
+K 40   *	*	*	*	*	*	*	*	737	*	*	*	*	1749	3288	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1407	0	0	
+
+H 41   *	2417	*	*	*	*	3648	*	3236	3431	*	*	*	*	1480	3430	*	*	*	3594	41
+       0	*	*	*	*	*	*	1407	0	0	
+
+T 42   3453	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	138	*	*	*	42
+       0	*	*	*	*	*	*	1407	0	0	
+
+L 43   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1407	0	0	
+
+A 44   710	*	*	*	*	*	*	*	*	*	*	*	*	2330	3342	*	*	3453	*	*	44
+       0	*	*	*	*	*	*	1407	0	0	
+
+K 45   *	*	*	1749	*	*	*	*	710	*	*	*	*	*	3458	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1407	0	0	
+
+Q 46   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1407	0	0	
+
+K 47   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1407	0	0	
+
+G 48   *	*	*	1881	*	1857	*	*	3333	*	*	2959	*	*	2154	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1391	0	0	
+
+G 49   3450	*	*	*	*	1769	*	*	701	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1391	0	0	
+
+T 50   *	*	2897	*	*	*	*	*	*	*	*	*	1187	*	*	*	1858	*	*	2728	50
+       0	*	*	*	*	*	*	1294	0	0	
+
+D 51   *	*	1858	2640	*	*	*	*	*	*	*	827	*	*	*	*	*	*	*	*	51
+       0	*	*	0	*	*	*	1294	0	0	
+
+//

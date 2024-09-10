@@ -1,0 +1,222 @@
+HHsearch 1.5
+NAME  d2heyr1 g.24.1.1 (R:83-142) Tumor necrosis factor receptor superfamily member 4,  OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.1
+FILE  d2heyr1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2heyr1.a3m -v 1 
+DATE  Tue Jan 22 07:12:38 2013
+LENG  60 match states, 60 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCCEECCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+987666655764001068443441024588875222235875555888866788876779
+>Consensus
+pCtqCnxRSGSExkqxCtxTqDtvCxCrpGtqPxxgyKxGVDCapCPpGHFSxGxnqaCk
+>d2heyr1 g.24.1.1 (R:83-142) Tumor necrosis factor receptor superfamily member 4,  OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+PCTWCNLRSGSERKQLCTATQDTVCRCRAGTQPLDSYKPGVDCAPCPPGHFSPGDNQACK
+>gi|351697504|gb|EHB00423.1|(75-134:274) Tumor necrosis factor receptor superfamily member 4 [Heterocephalus glaber]  E=3e-18 s/c=1.58 id=77% cov=102%
+PCTHCNRRSGSEVKQNCTPTQDTVCHCRPGTQPLDGFKHGVDCKPCPPGHFSLGSNQACK
+>gi|355725378|gb|AES08542.1|(80-139:265) tumor necrosis factor receptor superfamily, member 4 [Mustela putorius furo]  E=6e-18 s/c=1.56 id=75% cov=102%
+PCTQCNQRSGSEPKQRCTPTQDTVCGCKPGTEPQDGFKRGVDCAPCPPGHFSPGDDQACK
+>gi|395840775|ref|XP_003793227.1|(84-143:278) PREDICTED: tumor necrosis factor receptor superfamily member 4 [Otolemur garnettii]  E=2e-19 s/c=1.64 id=79% cov=102%
+PCTQCNQRSGSEPRQKCTATQDTVCRCRPGTQPQEGYKHGVDCVPCPPGHFSLGDNQACK
+>gi|338722206|ref|XP_001503612.3|(84-143:278) PREDICTED: tumor necrosis factor receptor superfamily member 4-like [Equus caballus]  E=3e-19 s/c=1.63 id=80% cov=102%
+PCTQCNQRSGSEPKQRCTSTQDTVCRCRPGTQPKHGYKLGVDCAPCPPGHFSPGNNQACK
+>gi|344283033|ref|XP_003413277.1|(70-129:265) PREDICTED: tumor necrosis factor receptor superfamily member 4-like [Loxodonta africana]  E=1e-18 s/c=1.60 id=77% cov=102%
+PCTQCNERSGSESVQSCTPTRDTVCHCRPGTQPQGGYKPGVDCAPCPPGHFSPGHNQACK
+>gi|296206466|ref|XP_002750223.1|(84-142:277) PREDICTED: tumor necrosis factor receptor superfamily member 4 [Callithrix jacchus]  E=2e-18 s/c=1.62 id=83% cov=100%
+-CTRCNLRSGSERKQKCTATQDAVCRCRPGTQPMHSYKLGVDCAPCPPGHFSSGDNQPCK
+>gi|2114108|dbj|BAA20059.1|(77-136:267) OX40 precursor [Oryctolagus cuniculus]   E=5e-18 s/c=1.57 id=72% cov=102%
+PCTQCNRRSGSEPQQECTHTRDTVCRCRPGTQPLNGYKHGVDCAPCPQGHFSEGNNRACR
+>gi|354495781|ref|XP_003510007.1|(79-139:271) PREDICTED: tumor necrosis factor receptor superfamily member 4-like [Cricetulus griseus]  E=2e-19 s/c=1.62 id=75% cov=100%
+-CTQCNQRSGSELKQNCTPTQDTVCQCRPGTQPREdsSHKLGVDCVPCPPGHFSPGNNQVCK
+>gi|311258283|ref|XP_003127545.1|(82-143:278) PREDICTED: tumor necrosis factor receptor superfamily member 4-like [Sus scrofa]  E=3e-17 s/c=1.48 id=72% cov=102%
+PCTQCNQRSGSEVKQRCTNTTDTVCGCRPGTQPQDgfGYKRGVDCVRCPPGHFSPGNDQACQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1492	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 3    *	*	*	*	*	*	*	*	3643	*	*	*	*	*	*	*	120	*	*	*	3
+       0	*	*	*	*	*	*	1525	0	0	
+
+W 4    *	*	*	*	*	*	3877	*	*	*	*	*	*	476	3919	*	3643	*	3898	*	4
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1525	0	0	
+
+N 6    *	*	*	*	*	*	*	*	*	*	*	229	*	*	*	3904	3643	*	*	*	6
+       120	*	3643	*	*	*	*	1525	0	0	
+
+L 7    *	*	*	3760	*	*	4036	*	*	2681	*	*	*	879	2596	*	*	*	*	*	7
+       0	*	*	*	*	0	*	1495	0	1000	
+
+R 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1525	0	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	9
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 10   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1525	0	0	
+
+S 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	11
+       0	*	*	*	*	*	*	1525	0	0	
+
+E 12   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1525	0	0	
+
+R 13   3858	*	*	*	*	*	*	*	*	3021	*	*	1369	3643	2909	3846	*	2858	*	*	13
+       0	*	*	*	*	*	*	1525	0	0	
+
+K 14   *	*	*	*	*	*	*	*	349	*	*	*	*	3499	4131	*	*	3846	*	*	14
+       0	*	*	*	*	*	*	1525	0	0	
+
+Q 15   *	*	*	*	*	*	*	*	*	*	*	*	*	209	2891	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1525	0	0	
+
+L 16   *	*	*	3499	*	*	*	*	2299	3898	*	2387	*	*	1394	3846	*	*	*	*	16
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 18   *	*	*	*	*	*	*	*	*	*	*	*	3858	*	*	*	103	*	*	*	18
+       0	*	*	*	*	*	*	1525	0	0	
+
+A 19   1560	*	*	*	*	*	3499	*	*	*	*	3838	1158	*	*	4203	*	*	*	*	19
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	20
+       0	*	*	*	*	*	*	1525	0	0	
+
+Q 21   *	*	*	*	*	*	*	*	*	*	*	*	*	504	2153	*	3838	*	*	*	21
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 22   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 23   2775	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	228	*	*	*	23
+       0	*	*	*	*	*	*	1525	0	0	
+
+V 24   *	*	*	*	*	*	*	3925	*	*	*	*	*	*	*	*	*	98	*	*	24
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1525	0	0	
+
+R 26   *	*	*	*	*	2385	2862	*	*	*	*	*	*	3907	1091	2891	*	*	*	*	26
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1525	0	0	
+
+R 28   *	*	*	*	*	*	*	*	2399	*	*	*	*	*	303	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1525	0	0	
+
+A 29   3898	*	*	*	*	*	*	*	*	*	*	*	100	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1525	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3904	100	*	*	*	31
+       0	*	*	*	*	*	*	1525	0	0	
+
+Q 32   *	*	*	1891	*	*	*	*	*	*	*	*	*	453	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1525	0	0	
+
+L 34   *	*	*	*	*	*	*	*	4203	2161	3919	*	*	1370	2404	*	*	3643	*	*	34
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 35   *	*	1116	3015	*	3846	2319	*	*	*	*	3499	*	4146	*	*	*	*	*	*	35
+       434	1944	*	1000	1000	*	*	1525	1240	0	
+
+S 36   *	*	*	*	*	474	*	*	*	*	*	*	*	*	*	1837	*	*	*	*	36
+       0	*	*	*	*	*	*	1525	0	0	
+
+Y 37   *	*	*	*	2383	*	3907	*	*	*	*	*	*	*	*	*	*	*	*	431	37
+       0	*	*	*	*	*	*	1525	0	0	
+
+K 38   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 39   *	*	*	*	*	*	2227	*	*	1628	*	*	2872	*	1616	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 40   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1525	0	0	
+
+V 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	41
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 42   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1525	0	0	
+
+A 44   553	*	*	*	*	*	*	*	3877	*	*	*	*	*	*	*	*	1999	*	*	44
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 45   *	*	*	*	*	*	*	*	*	*	*	*	105	*	3838	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 47   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 48   *	*	*	*	*	*	*	*	*	*	*	*	134	3499	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 49   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1525	0	0	
+
+H 50   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1525	0	0	
+
+F 51   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1525	0	0	
+
+S 52   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	52
+       0	*	*	*	*	*	*	1525	0	0	
+
+P 53   *	*	*	3499	*	*	*	*	*	2999	*	*	643	*	*	2775	*	*	*	*	53
+       0	*	*	*	*	*	*	1525	0	0	
+
+G 54   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1525	0	0	
+
+D 55   *	*	1121	*	*	*	3846	*	*	*	*	1312	*	*	*	3877	*	*	*	*	55
+       0	*	*	*	*	*	*	1525	0	0	
+
+N 56   *	*	1616	*	*	*	*	*	*	*	*	570	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1525	0	0	
+
+Q 57   *	*	*	*	*	*	*	*	*	*	*	*	*	134	3499	*	*	*	*	*	57
+       0	*	*	*	*	*	*	1525	0	0	
+
+A 58   345	*	*	*	*	*	*	*	*	*	*	*	2775	*	*	*	*	3907	*	*	58
+       0	*	*	*	*	*	*	1525	0	0	
+
+C 59   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1525	0	0	
+
+K 60   *	*	*	*	*	*	*	*	368	*	*	*	*	2871	3499	*	*	*	*	*	60
+       0	*	*	0	*	*	*	1525	0	0	
+
+//

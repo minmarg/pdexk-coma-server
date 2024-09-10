@@ -1,0 +1,56 @@
+<html t:type="layout" title="Edit personal info"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <div class="header">
+	    Edit personal information
+	</div>
+	
+    <t:form t:id="editUserForm">
+            <t:errors/>
+
+            <table>  
+                <tr>
+                    <td class="left">
+                        Username 
+                    </td>
+                    <td class="right">
+                        <t:textfield t:id="username" t:value="user.username" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="left">
+                        Password 
+                    </td>
+                    <td class="right">
+                        <t:passwordfield t:id="password" t:value="password"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="left">
+                        Retype password 
+                    </td>
+                    <td class="right">
+                        <t:passwordfield t:id="retypedPassword" t:value="retypedPassword"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="left">
+                        E-mail 
+                    </td>
+                    <td class="right">
+                        <t:textfield t:id="email" t:value="user.email" t:validate="required"/>
+                    </td>
+                </tr>
+                <tr>
+                   <td class="left">
+                   </td>
+                   <td class="right">
+                        <input type="submit" t:type="submit" t:id="saveButton" value="Save"/>
+                   </td>
+                </tr> 
+            </table>
+            
+        </t:form>
+
+</html>

@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1xu2r_ g.24.1.2 (R:) Tumor necrosis factor receptor superfamily member 17, BCMA {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.2
+FILE  d1xu2r_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xu2r_.a3m -v 1 
+DATE  Tue Jan 22 04:28:43 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHCCCCEEEECCCCCCCCCCCCCCC
+>ss_conf
+973135677875066641301787559646545679
+>Consensus
+CxqnEYFDxLLxaCkpCxLRCsxntPPxxCqxYCxa
+>d1xu2r_ g.24.1.2 (R:) Tumor necrosis factor receptor superfamily member 17, BCMA {Human (Homo sapiens) [TaxId: 9606]}
+CSQNEYFDSLLHACIPCQLRCSSNTPPLTCQRYCNA
+>gi|281339208|gb|EFB14792.1|(6-40:176) hypothetical protein PANDA_015091 [Ailuropoda melanoleuca]   E=1e-06 s/c=1.62 id=75% cov=100%
+CLQNEYFDRLLSACKPCHLRC-SNTPPVPCQRYCDA
+>gi|311251487|ref|XP_003124635.1|(5-39:178) PREDICTED: tumor necrosis factor receptor superfamily member 17-like isoform 1 [Sus scrofa]  E=1e-06 s/c=1.61 id=77% cov=97%
+CYQNEYFDRLLIACKPCRLRC-SNTPPVTCQHYCN-
+>gi|338712727|ref|XP_003362758.1|(103-137:285) PREDICTED: LOW QUALITY PROTEIN: tumor necrosis factor receptor superfamily member 17-like [Equus caballus]  E=9e-06 s/c=1.53 id=69% cov=100%
+CVPNEYFDRLLNACKPCLLRC-PNTPPLVCERYCDA
+>gi|354468637|ref|XP_003496759.1|(5-37:181) PREDICTED: tumor necrosis factor receptor superfamily member 17-like [Cricetulus griseus]  E=8e-05 s/c=1.52 id=71% cov=94%
+CFHSEYFDSLLHTCKPCHLRCSS--PPVPCQPYCN-
+>gi|345321703|ref|XP_001517052.2|(8-42:214) PREDICTED: tumor necrosis factor receptor superfamily member 17-like [Ornithorhynchus anatinus]  E=0.0002 s/c=1.41 id=64% cov=100%
+CFKNEYFDNLLQACKPCHLRC-PKSPPLVCQSYCAA
+>gi|395515079|ref|XP_003761734.1|(103-137:284) PREDICTED: tumor necrosis factor receptor superfamily member 17 [Sarcophilus harrisii]  E=9e-11 s/c=2.00 id=75% cov=100%
+CFQNEYFDNLLYACKPCHLRC-SNTPPLVCQSYCYA
+>gi|348584908|ref|XP_003478214.1|(5-39:297) PREDICTED: tumor necrosis factor receptor superfamily member 17-like [Cavia porcellus]  E=3e-10 s/c=1.95 id=72% cov=100%
+CFQEEYFDSLLRACKPCHLRCSKFPPP-PCQRYCNA
+>gi|157786580|ref|NP_001099231.1|(5-37:184) tumor necrosis factor receptor superfamily member 17 [Rattus norvegicus] >gi|149042558|gb|EDL96195.1| tumor necrosis factor receptor superfamily, member 17 (predicted), isoform CRA_a [Rattus norvegicus]  E=4e-08 s/c=1.85 id=68% cov=94%
+CFHSEYFDSLLHACKPCRLRCSN--PPAPCQPYCD-
+>gi|297464177|ref|XP_002703114.1|(5-38:134) PREDICTED: tumor necrosis factor receptor superfamily member 17 [Bos taurus] >gi|297490108|ref|XP_002698012.1| PREDICTED: tumor necrosis factor receptor superfamily member 17 [Bos taurus] >gi|296473621|gb|DAA15736.1| tumor necrosis factor receptor superfamily, member 17-like [Bos taurus]  E=3e-06 s/c=1.62 id=71% cov=97%
+CSPNEYFDRLLNSCISCQLRC-PNTPPVICQHYCN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1632	0	0	
+
+S 2    *	*	*	*	735	*	*	*	*	3135	*	*	*	*	*	2780	*	3682	*	4016	2
+       0	*	*	*	*	*	*	1632	0	0	
+
+Q 3    *	*	*	*	*	*	2843	*	3611	*	*	*	2624	698	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1632	0	0	
+
+N 4    *	*	*	3635	*	*	*	*	*	*	*	358	*	*	*	2843	*	*	*	*	4
+       0	*	*	*	*	*	*	1632	0	0	
+
+E 5    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1632	0	0	
+
+Y 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	6
+       0	*	*	*	*	*	*	1632	0	0	
+
+F 7    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1632	0	0	
+
+D 8    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1632	0	0	
+
+S 9    *	*	*	*	*	4101	*	*	*	*	*	2830	*	*	1271	1371	*	*	*	*	9
+       0	*	*	*	*	*	*	1632	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1632	0	0	
+
+L 11   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1632	0	0	
+
+H 12   *	*	*	*	*	*	2317	4016	*	*	*	1742	*	2839	2965	4219	*	*	*	3095	12
+       0	*	*	*	*	*	*	1632	0	0	
+
+A 13   371	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3568	3929	3707	*	*	13
+       0	*	*	*	*	*	*	1632	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1632	0	0	
+
+I 15   *	*	*	*	*	*	*	2780	227	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1632	0	0	
+
+P 16   *	*	*	*	*	*	*	*	*	*	*	*	225	*	4056	3568	*	*	*	*	16
+       0	*	*	*	*	*	*	1632	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1632	0	0	
+
+Q 18   *	*	*	*	*	*	784	*	*	3682	*	*	*	2281	2883	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1632	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1632	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1632	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       1483	*	639	*	*	*	*	1632	0	0	
+
+S 22   *	*	*	*	*	*	*	*	*	2215	*	*	*	*	*	350	*	*	*	*	22
+       350	*	2215	*	*	0	*	1428	0	1523	
+
+S 23   *	*	*	*	*	*	*	*	3514	*	*	3604	1948	*	*	808	*	*	*	*	23
+       247	*	2669	*	*	0	*	1602	0	1000	
+
+N 24   *	*	*	*	3338	*	*	*	3429	*	*	307	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	0	1580	0	1111	
+
+T 25   3892	*	*	*	*	*	*	*	*	*	*	*	3338	*	*	3429	433	*	*	*	25
+       0	*	*	*	*	0	*	1580	0	1111	
+
+P 26   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1632	0	0	
+
+P 27   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	27
+       121	*	3635	*	*	*	*	1632	0	0	
+
+L 28   3594	*	*	*	*	*	*	3950	*	1040	*	*	*	*	*	3631	*	1809	*	*	28
+       96	*	3950	*	*	0	*	1606	0	1000	
+
+T 29   *	*	*	*	*	*	*	3514	*	*	*	*	1239	*	*	4011	2366	2103	*	*	29
+       0	*	*	*	*	0	*	1631	0	1000	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1632	0	0	
+
+Q 31   *	*	*	3682	*	*	*	*	*	*	*	*	*	117	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1632	0	0	
+
+R 32   *	*	*	*	*	*	2775	*	*	*	*	*	2843	*	801	2830	*	*	*	*	32
+       0	*	*	*	*	*	*	1632	0	0	
+
+Y 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	33
+       0	*	*	*	*	*	*	1632	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1632	0	0	
+
+N 35   3611	*	2284	*	*	*	*	*	*	*	*	792	*	*	*	3707	*	*	*	4089	35
+       0	*	*	*	*	*	*	1632	0	0	
+
+A 36   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	1485	0	0	
+
+//

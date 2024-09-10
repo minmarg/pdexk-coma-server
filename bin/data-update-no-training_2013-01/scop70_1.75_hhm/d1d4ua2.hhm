@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  d1d4ua2 g.39.1.5 (A:1-36) DNA repair factor XPA DNA- and RPA-binding domain, N-terminal subdomain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.39.1.5
+FILE  d1d4ua2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1d4ua2.a3m -v 1 
+DATE  Mon Jan 21 19:36:25 2013
+LENG  36 match states, 36 columns in multiple alignment
+FILT  47 out of 49 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.0 
+SEQ
+>ss_pred
+CCCCCCCHHHCCCHHHHHHHHHCCCCCCCCCCCCCC
+>ss_conf
+986521121015300124442238955477777899
+>Consensus
+xexDxxxCxeCxxxFxdSyLxxxFdxxvCDxCrDxe
+>d1d4ua2 g.39.1.5 (A:1-36) DNA repair factor XPA DNA- and RPA-binding domain, N-terminal subdomain {Human (Homo sapiens) [TaxId: 9606]}
+MEFDYVICEECGKEFMDSYLMDHFDLPTCDDCRDAD
+>gi|405950658|gb|EKC18632.1|(91-124:266) DNA repair protein complementing XP-A cells-like protein [Crassostrea gigas]  E=4e-06 s/c=1.60 id=46% cov=97%
+MATDALVCEDCGKEFMDSWLLTTYNVNVCDVCKE--
+>gi|195133506|ref|XP_002011180.1|(115-146:288) GI16151 [Drosophila mojavensis] >gi|193907155|gb|EDW06022.1| GI16151 [Drosophila mojavensis]  E=5e-09 s/c=2.00 id=45% cov=92%
+----YEECLECGDQYADSYLLNNFGHSVCDKCRDNE
+>gi|225709486|gb|ACO10589.1|(98-128:270) DNA-repair protein complementing XP-A cells homolog [Caligus rogercresseyi]  E=0.0003 s/c=1.56 id=37% cov=83%
+-------CIECDEKFSESYFFSTFDHALCDKCKENE
+>gi|260813203|ref|XP_002601308.1|(83-118:259) hypothetical protein BRAFLDRAFT_224439 [Branchiostoma floridae] >gi|229286602|gb|EEN57320.1| hypothetical protein BRAFLDRAFT_224439 [Branchiostoma floridae]  E=0.0004 s/c=1.33 id=46% cov=103%
+LEPDRVACELCNSEISDSFLYNSFDVPVCDGCKDME
+>gi|332374870|gb|AEE62576.1|(93-128:269) unknown [Dendroctonus ponderosae]   E=0.0006 s/c=1.31 id=38% cov=103%
+IEPDRPECRNCEKPFATSWLFDTFNCRCCDECKESD
+>gi|357623208|gb|EHJ74452.1|(34-67:207) putative DNA-repair protein [Danaus plexippus]   E=2e-05 s/c=1.52 id=46% cov=97%
+--PDQPRCLHCGSPFPQSYLLDTFDYNACDACRDDE
+>gi|340373643|ref|XP_003385350.1|(108-141:279) PREDICTED: DNA repair protein complementing XP-A cells-like [Amphimedon queenslandica]  E=1e-06 s/c=1.64 id=44% cov=94%
+---DRIDCGECSQKFSVSFLWSKFKYPVCDSCRDPD
+>gi|346472483|gb|AEO36086.1|(82-117:257) hypothetical protein [Amblyomma maculatum]   E=2e-05 s/c=1.45 id=41% cov=103%
+MPSEHSTCTACGKQFLLSFLLEKFALEICDKCRDKE
+>gi|196012957|ref|XP_002116340.1|(72-102:245) expressed hypothetical protein [Trichoplax adhaerens] >gi|190580931|gb|EDV21010.1| expressed hypothetical protein [Trichoplax adhaerens]  E=4e-05 s/c=1.63 id=44% cov=89%
+-----LKCMKCQKNFGVSYLYNNFEYKICDNCRDTD
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	2044	*	2034	1260	*	*	*	*	*	*	3385	*	*	1
+       0	*	*	*	*	*	*	2709	0	0	
+
+E 2    3560	*	*	599	*	*	*	*	3771	*	*	*	2461	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2709	0	0	
+
+F 3    3890	3864	3671	*	2546	*	*	*	*	*	*	*	1397	*	*	3206	2988	*	*	*	3
+       0	*	*	*	*	*	*	2871	0	0	
+
+D 4    *	*	377	2121	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3019	0	0	
+
+Y 5    4530	*	*	*	4835	*	3360	*	4303	4723	*	*	*	4456	1998	*	*	*	*	1185	5
+       0	*	*	*	*	*	*	3201	0	0	
+
+V 6    4708	*	3959	2977	*	*	*	4427	*	2076	*	*	1859	*	*	3435	4199	3960	*	*	6
+       0	*	*	*	*	*	*	3247	0	0	
+
+I 7    4661	*	4555	2158	*	*	3537	2660	4914	*	4945	4593	*	*	4734	*	3494	2211	*	*	7
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2984	0	0	
+
+E 9    *	*	2032	2098	*	4373	*	3865	*	2001	5216	*	*	5181	4676	*	5251	4829	*	*	9
+       0	*	*	*	*	*	*	2984	0	0	
+
+E 10   5251	*	2624	918	*	*	3901	*	4010	5018	*	4676	*	4699	*	4482	*	*	*	*	10
+       0	*	*	*	*	*	*	2984	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2984	0	0	
+
+G 12   *	*	3186	3183	*	1293	*	*	4749	*	*	3118	*	2619	*	4138	*	*	*	*	12
+       0	*	*	*	*	*	*	2984	0	0	
+
+K 13   *	*	2668	3333	*	*	5187	*	1129	*	*	4749	*	2981	4699	4144	*	*	*	*	13
+       0	*	*	*	*	*	*	2984	0	0	
+
+E 14   5518	*	6112	1763	*	*	*	*	2823	*	6106	5216	2139	3023	4144	4599	4699	*	*	*	14
+       0	*	*	*	*	*	*	2984	0	0	
+
+F 15   *	*	*	*	231	*	*	3921	*	4321	*	*	*	*	*	*	*	*	*	4959	15
+       0	*	*	*	*	*	*	2984	0	0	
+
+M 16   2206	*	4699	*	*	3579	4321	*	3675	3421	2255	*	4503	*	5794	2711	*	6067	*	*	16
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 17   *	*	560	3894	*	*	*	5187	*	4378	5447	*	*	5282	*	*	3751	4155	*	*	17
+       0	*	*	*	*	*	*	2984	0	0	
+
+S 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	18
+       0	*	*	*	*	*	*	2984	0	0	
+
+Y 19   *	*	*	*	2228	*	*	*	*	4321	*	*	*	*	*	*	*	*	3058	698	19
+       0	*	*	*	*	*	*	2984	0	0	
+
+L 20   *	*	*	*	4433	*	*	*	*	68	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2984	0	0	
+
+M 21   *	*	*	*	2159	*	*	5986	*	1606	3145	*	*	*	4699	2803	*	*	5097	3213	21
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 22   5039	*	3136	3816	*	*	5901	*	4264	5764	*	1828	*	3128	4321	3039	2944	*	*	*	22
+       0	*	*	*	*	*	*	2984	0	0	
+
+H 23   *	*	*	*	*	4599	2615	*	3238	*	*	2117	*	*	*	3051	1563	*	*	*	23
+       0	*	*	*	*	*	*	2984	0	0	
+
+F 24   *	*	*	*	116	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3699	24
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 25   3816	*	879	4198	*	3467	*	*	5097	4829	*	3179	*	*	*	4321	*	6024	*	*	25
+       0	*	*	*	*	*	*	2984	0	0	
+
+L 26   *	3487	*	*	*	*	2311	5605	*	1690	*	*	*	*	*	*	*	3012	5716	2084	26
+       0	*	*	*	*	*	*	2984	0	0	
+
+P 27   2324	5984	4699	3375	*	*	*	*	3434	5181	*	4186	1948	*	4676	2661	5794	*	*	*	27
+       0	*	*	*	*	*	*	2984	0	0	
+
+T 28   4231	3751	*	*	*	*	*	3030	*	4433	*	*	*	*	*	*	3559	692	*	*	28
+       0	*	*	*	*	*	*	2984	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 30   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 31   3603	*	4597	4162	*	5018	*	*	1635	*	5299	2394	4321	*	3923	3227	*	5096	*	*	31
+       0	*	*	*	*	*	*	2984	0	0	
+
+C 32   *	61	*	*	*	*	*	*	*	*	*	*	*	*	4599	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2984	0	0	
+
+R 33   *	*	*	*	*	*	*	*	1730	*	*	*	*	*	518	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2984	0	0	
+
+D 34   *	*	282	2493	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2984	0	0	
+
+A 35   2892	*	4903	*	*	*	*	*	2554	*	4502	2147	3464	5880	*	3584	3092	4698	*	4482	35
+       0	*	*	*	*	*	*	2910	0	0	
+
+D 36   *	*	1442	662	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	2841	0	0	
+
+//

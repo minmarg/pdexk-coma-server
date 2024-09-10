@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d1wjva1 g.37.1.2 (A:1-35) Cell growth regulating nucleolar protein LyaR {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.37.1.2
+FILE  d1wjva1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1wjva1.a3m -v 1 
+DATE  Tue Jan 22 04:07:30 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  45 out of 47 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred
+CCCCCCEEEEEEECCCCHHHHHHHHHHHHHHCCCC
+>ss_conf
+98786406888606400022246888887526899
+>Consensus
+xxsxsxxMVfFtCnxCGesvKKxqVekHxxxCrxC
+>d1wjva1 g.37.1.2 (A:1-35) Cell growth regulating nucleolar protein LyaR {Mouse (Mus musculus) [TaxId: 10090]}
+GSSGSSGMVFFTCNACGESVKKIQVEKHVSNCRNC
+>gi|405952933|gb|EKC20683.1|(17-48:350) Cell growth-regulating nucleolar protein [Crassostrea gigas]   E=3e-06 s/c=1.71 id=66% cov=91%
+--SESVSMVFFSCNACGDSLKKNQVEKHYAtKCR--
+>gi|198437684|ref|XP_002131567.1|(1-28:284) PREDICTED: similar to Ly1 antibody reactive clone [Ciona intestinalis]  E=1e-06 s/c=1.98 id=66% cov=83%
+-------MVFFTCNGCGESLKKNKVDRHAYSCRNC
+>gi|397639805|gb|EJK73773.1|(1-28:310) hypothetical protein THAOC_04582 [Thalassiosira oceanica]   E=0.0003 s/c=1.70 id=48% cov=83%
+-------MVVFICDGCGETLKKAKVDQHAARCRDC
+>gi|313224986|emb|CBY20779.1|(1-26:871) unnamed protein product [Oikopleura dioica]   E=1e-05 s/c=2.02 id=56% cov=77%
+-------MVFFSCGVCGEQIKKPKVDKHLQRCR--
+>gi|312373407|gb|EFR21156.1|(1-27:302) hypothetical protein AND_17458 [Anopheles darlingi]   E=2e-05 s/c=1.91 id=63% cov=77%
+-------MVFFICNHCGESLKKQAVEKHGWRCK--
+>gi|298712801|emb|CBJ48766.1|(61-88:405) conserved unknown protein [Ectocarpus siliculosus]   E=0.0001 s/c=1.74 id=45% cov=83%
+-------MVYFVCESCNETLKKAQVDRHLYSCKSC
+>gi|357622848|gb|EHJ74221.1|(1-28:413) putative Cell growth-regulating nucleolar protein [Danaus plexippus]  E=0.001 s/c=1.65 id=64% cov=80%
+-------MVVFTCGHCGESVQKPKVEKHYMtKCRN-
+>gi|392576341|gb|EIW69472.1|(1-27:346) hypothetical protein TREMEDRAFT_62335 [Tremella mesenterica DSM 1558]  E=0.0007 s/c=1.72 id=46% cov=80%
+-------MVSFQCDSCADTVKKPQLDKHRQKCRG-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	2
+       0	*	*	*	*	*	*	1000	0	0	
+
+S 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	3
+       0	*	*	*	*	*	*	1251	0	0	
+
+G 4    *	*	*	1000	*	1000	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1251	0	0	
+
+S 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	5
+       0	*	*	*	*	*	*	1251	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	1000	*	*	6
+       0	*	*	*	*	*	*	1251	0	0	
+
+G 7    *	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	7
+       0	*	*	*	*	*	*	1251	0	0	
+
+M 8    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	9
+       0	*	*	*	*	*	*	2230	0	0	
+
+F 10   5198	*	*	*	597	*	*	*	*	*	*	*	*	*	*	3188	4343	3100	*	4800	10
+       0	*	*	*	*	*	*	2230	0	0	
+
+F 11   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2230	0	0	
+
+T 12   *	4193	*	*	*	*	*	3393	*	*	*	4739	*	4215	*	3169	909	3120	*	*	12
+       0	*	*	*	*	*	*	2230	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2230	0	0	
+
+N 14   *	*	2519	3890	*	3479	*	*	*	*	*	645	*	*	*	5102	*	*	*	*	14
+       0	*	*	*	*	*	*	2230	0	0	
+
+A 15   1180	*	*	5417	*	2343	3456	5714	4993	*	*	5040	*	*	*	3139	5804	4843	*	*	15
+       0	*	*	*	*	*	*	2230	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2230	0	0	
+
+G 17   4215	*	*	*	*	239	*	*	*	*	*	3890	*	*	*	4993	*	*	*	*	17
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 18   5102	*	3036	550	*	*	*	*	*	*	*	5396	*	3078	*	*	5390	*	*	*	18
+       0	*	*	*	*	*	*	2230	0	0	
+
+S 19   3082	*	*	*	*	*	*	*	*	*	*	*	*	4843	*	699	2112	*	*	*	19
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 20   *	5040	*	*	*	*	*	3558	*	1146	*	*	*	*	*	*	*	1208	*	*	20
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 21   *	*	*	*	*	*	*	*	95	*	*	*	*	4996	4960	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 22   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2230	0	0	
+
+I 23   2262	*	*	*	*	3903	*	5639	*	*	*	1207	2601	4480	*	*	*	4015	*	*	23
+       0	*	*	*	*	*	*	2230	0	0	
+
+Q 24   3188	*	*	*	*	*	*	*	2204	*	*	*	*	571	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 25   *	*	*	*	*	*	*	*	*	4215	*	*	*	*	*	*	*	80	*	*	25
+       0	*	*	*	*	*	*	2230	0	0	
+
+E 26   *	*	1712	588	*	*	*	*	*	*	*	*	*	*	*	*	*	5097	*	*	26
+       0	*	*	*	*	*	*	2230	0	0	
+
+K 27   4986	*	*	*	*	5393	*	*	457	*	*	4270	*	5324	3141	5279	*	*	*	*	27
+       0	*	*	*	*	*	*	2230	0	0	
+
+H 28   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2230	0	0	
+
+V 29   3348	5102	*	*	*	3714	*	*	5417	2782	*	*	*	5390	3117	*	*	2300	5017	1973	29
+       101	3882	*	0	*	*	*	2230	1375	0	
+
+S 30   3297	*	*	*	3553	3972	*	*	*	5878	3510	2467	*	2112	*	4813	4572	*	4480	3187	30
+       387	2087	*	0	*	*	*	2230	1695	0	
+
+N 31   *	*	*	4977	*	*	*	3562	1643	5850	5126	4432	*	2801	2586	4207	5803	3492	*	*	31
+       27	5778	*	0	*	*	*	2232	1000	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2232	0	0	
+
+R 33   4977	*	*	*	*	5536	*	*	3578	*	*	*	3859	*	383	5186	*	*	*	*	33
+       0	*	*	*	*	*	*	2232	0	0	
+
+N 34   *	*	2703	*	*	2596	4251	*	4686	*	*	1791	*	*	3991	2073	*	*	*	*	34
+       0	*	*	*	*	*	*	2258	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	2046	0	0	
+
+//

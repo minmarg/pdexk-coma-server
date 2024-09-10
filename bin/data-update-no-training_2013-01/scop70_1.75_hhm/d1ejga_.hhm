@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  d1ejga_ g.13.1.1 (A:) Crambin {Abyssinian cabbage (Crambe abyssinica) [TaxId: 3721]}
+FAM   g.13.1.1
+FILE  d1ejga_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ejga_.a3m -v 1 
+DATE  Mon Jan 21 20:10:33 2013
+LENG  46 match states, 46 columns in multiple alignment
+FILT  43 out of 45 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCHHHHHCCCCCEECCCCCCCCCCCC
+>ss_conf
+9878875333200111348988344211257421108878898889
+>Consensus
+xSCCpstxaRnxYNxCRxxGxxrxxCAxxxgCkiisgxxCpxxyxx
+>d1ejga_ g.13.1.1 (A:) Crambin {Abyssinian cabbage (Crambe abyssinica) [TaxId: 3721]}
+TTCCPSIVARSNFNVCRLPGTPEALCATYTGCIIIPGATCPGDYAN
+>gi|21069043|dbj|BAB93115.1|(30-72:142) thionin Asthi4 [Avena sativa]   E=5e-07 s/c=1.33 id=43% cov=96%
+-SCCKSTTAINCYNVCRLAGAPRPVCAGPCGCKLLDVTTCPSDW--
+>gi|135795|sp|P01541.1|THN_DENCL(2-46:46) RecName: Full=Denclatoxin-B   E=4e-06 s/c=1.21 id=50% cov=100%
+-SCCPTTAARNQYNICRLPGTPRPVCAALSGCKIISGTGCPPGYRH
+>gi|357111574|ref|XP_003557587.1|(30-72:135) PREDICTED: thionin BTH7-like [Brachypodium distachyon]   E=3e-05 s/c=1.21 id=41% cov=96%
+-SCCKNTSSRFCYNACRKLGGTRPECASRCGCIHISGNRCPADY--
+>gi|1006759|emb|CAA57350.1|(20-62:121) thionin class 1 [Tulipa gesneriana]   E=9e-05 s/c=1.17 id=45% cov=96%
+-SCCRTTAARNCYNVCRLGGTPQTLCARTCDCIHITTGNCPRSH--
+>gi|802163|gb|AAB33004.1|(26-70:134) crambin precursor=thionin variant Thi2Ca2 [Crambe abyssinica, seeds, Peptide Partial, 134 aa]  E=8e-06 s/c=1.19 id=48% cov=96%
+-SCCPTPIARKTYVVCRLTGSTIASCIKYSGCITISGTQCPNGY--
+>gi|326491071|dbj|BAK05635.1|(29-70:136) predicted protein [Hordeum vulgare subsp. vulgare]   E=1e-05 s/c=1.26 id=35% cov=93%
+-SCCRSTLGRNCYNLCRVRGAQK-LCANACRCKLTSGLKCPSGF--
+>gi|242038833|ref|XP_002466811.1|(30-72:140) hypothetical protein SORBIDRAFT_01g014470 [Sorghum bicolor] >gi|241920665|gb|EER93809.1| hypothetical protein SORBIDRAFT_01g014470 [Sorghum bicolor]  E=5e-05 s/c=1.19 id=36% cov=96%
+-SCCPSRIARNMYNTCRFRGASRETCARFARCEIVQGKCKDPHY--
+>gi|54291378|dbj|BAD62143.1|(81-123:148) putative thionin Osthi1 [Oryza sativa Japonica Group]   E=3e-06 s/c=1.27 id=38% cov=91%
+--CCPSSTARNIYTSCRFVGGSYDSCARLSGCKI-DFGRCQPPY--
+>gi|21069041|dbj|BAB93114.1|(30-72:137) leaf thionin Asthi3 [Avena sativa]   E=4e-07 s/c=1.33 id=50% cov=96%
+-TCCKDDIARNCYNVCRIPGTPTFICANMCRCIITRRNECPNDY--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	138	3451	*	*	*	2
+       0	*	*	*	*	*	*	2827	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2858	0	0	
+
+C 4    *	61	*	*	4587	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2858	0	0	
+
+P 5    *	*	*	*	*	*	*	*	1797	*	*	*	773	5337	3292	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2858	0	0	
+
+S 6    *	*	3820	*	*	*	*	*	*	*	*	2625	*	*	5324	1139	1795	*	*	*	6
+       0	*	*	*	*	*	*	2858	0	0	
+
+I 7    *	*	4665	*	*	*	*	3484	4940	*	5507	*	4492	*	4442	4942	528	*	*	*	7
+       0	*	*	*	*	*	*	2858	0	0	
+
+V 8    3028	*	*	*	*	*	*	2447	*	3310	4759	*	*	*	*	3021	1330	4821	*	*	8
+       0	*	*	*	*	*	*	2858	0	0	
+
+A 9    408	*	5324	*	*	2561	*	*	*	*	*	*	*	*	*	4264	*	*	*	*	9
+       0	*	*	*	*	*	*	2858	0	0	
+
+R 10   *	*	*	*	*	*	*	5402	4587	*	*	*	*	*	97	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2858	0	0	
+
+S 11   *	*	*	*	5210	*	*	5507	4492	5319	*	364	*	*	*	3987	*	*	*	4587	11
+       0	*	*	*	*	*	*	2858	0	0	
+
+N 12   *	1130	*	*	*	*	*	2056	*	*	4442	3987	*	4704	*	*	3128	4617	*	*	12
+       0	*	*	*	*	*	*	2858	0	0	
+
+F 13   *	*	*	*	3386	*	*	*	*	*	*	*	*	*	*	*	*	*	*	145	13
+       0	*	*	*	*	*	*	2858	0	0	
+
+N 14   *	*	4940	*	*	*	*	*	*	*	*	167	*	*	*	*	4942	4492	*	*	14
+       0	*	*	*	*	*	*	2858	0	0	
+
+V 15   2139	*	*	*	*	*	*	4632	*	3124	*	*	*	*	*	2997	2775	1529	*	*	15
+       0	*	*	*	*	*	*	2858	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2858	0	0	
+
+R 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2858	0	0	
+
+L 18   3436	*	*	*	1863	*	*	4158	4264	1105	*	*	*	*	*	*	5346	4839	*	*	18
+       0	*	*	*	*	*	*	2858	0	0	
+
+P 19   2302	*	*	*	*	3674	*	*	*	4351	*	*	1900	*	2627	*	2268	4942	*	*	19
+       44	*	5069	*	*	*	*	2858	0	0	
+
+G 20   *	*	*	*	*	48	*	*	*	4948	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	0	*	2842	0	1000	
+
+T 21   2032	4587	*	*	*	1805	*	*	*	5069	*	*	*	*	*	4067	1564	*	*	*	21
+       61	4587	*	0	*	*	*	2858	1000	0	
+
+P 22   3706	*	*	*	*	*	*	*	*	*	*	*	1473	3539	*	1420	3274	*	*	*	22
+       0	*	*	*	*	*	*	2858	0	0	
+
+E 23   5069	6185	*	3256	*	*	*	4492	3539	*	4119	*	*	4164	900	*	4665	*	*	4942	23
+       130	*	3539	*	*	*	*	2858	0	0	
+
+A 24   3589	*	3658	2578	4530	4041	*	*	*	5295	*	*	1438	4803	*	4962	3271	*	*	*	24
+       0	*	*	*	*	0	*	2763	0	1218	
+
+L 25   3780	*	*	5210	*	*	*	3202	5196	2436	*	5324	*	*	3574	3227	3269	1944	*	*	25
+       0	*	*	*	*	*	*	2858	0	0	
+
+C 26   *	42	*	*	5127	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2858	0	0	
+
+A 27   158	5196	*	*	*	*	*	4492	*	*	*	*	*	*	*	4968	*	*	*	*	27
+       0	*	*	*	*	*	*	2858	0	0	
+
+T 28   2852	*	5069	*	*	4042	*	*	2420	*	*	2615	*	*	2948	2519	3097	*	*	*	28
+       0	*	*	*	*	*	*	2858	0	0	
+
+Y 29   4390	*	5175	*	3825	*	*	3380	*	1485	4665	*	5402	*	3865	5620	2977	4582	*	3647	29
+       0	*	*	*	*	*	*	2858	0	0	
+
+T 30   4442	1130	*	*	*	*	*	*	*	*	*	*	*	*	*	1204	3987	*	*	*	30
+       0	*	*	*	*	*	*	2858	0	0	
+
+G 31   *	*	4056	4940	*	557	*	*	*	*	*	*	*	*	2302	*	5324	*	*	*	31
+       0	*	*	*	*	*	*	2858	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2858	0	0	
+
+I 33   *	*	*	4442	*	*	*	1979	562	*	*	*	*	*	*	*	5457	*	*	*	33
+       0	*	*	*	*	*	*	2858	0	0	
+
+I 34   *	*	*	*	*	*	2916	503	*	3516	*	*	*	*	*	*	4492	5069	*	*	34
+       48	*	4942	*	*	*	*	2858	0	0	
+
+I 35   *	*	*	*	5148	*	*	904	*	3375	*	*	*	5336	*	5465	3270	2398	*	*	35
+       0	*	*	*	*	0	*	2832	0	1000	
+
+P 36   *	*	2020	*	*	*	*	*	5620	*	*	*	3987	4442	4665	951	3892	*	*	*	36
+       0	*	*	*	*	*	*	2858	0	0	
+
+G 37   5111	*	5383	*	4942	572	*	*	*	*	*	*	*	*	4665	3638	5023	3448	*	*	37
+       67	*	4457	*	*	*	*	2858	0	0	
+
+A 38   3952	*	*	*	*	2707	*	*	3272	3975	*	2641	4543	*	*	2743	1929	*	*	*	38
+       66	*	4491	*	*	0	*	2860	0	1324	
+
+T 39   *	3706	*	4642	*	5869	*	*	2023	*	*	3762	*	4471	3447	3870	1551	*	*	*	39
+       0	*	*	*	*	0	*	2853	0	1141	
+
+C 40   *	110	*	*	*	*	*	*	3770	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2858	0	0	
+
+P 41   *	*	3784	*	*	*	*	*	3802	*	*	*	371	4120	*	5337	*	*	*	*	41
+       35	5383	*	2322	322	*	*	2858	1000	0	
+
+G 42   3893	*	6204	*	*	3522	*	*	3592	*	*	2977	1581	*	4152	2307	5069	*	*	*	42
+       0	*	*	*	*	*	*	2858	0	0	
+
+D 43   *	*	1383	5332	*	1713	4211	*	*	*	*	3453	3180	*	*	5014	*	*	*	*	43
+       0	*	*	*	*	*	*	2858	0	0	
+
+Y 44   *	*	*	*	2829	*	4972	*	*	4287	*	*	*	*	*	*	*	*	3167	589	44
+       0	*	*	*	*	*	*	2834	0	0	
+
+A 45   3321	*	*	*	*	*	*	*	3294	*	*	*	3360	*	1292	3629	2243	*	*	*	45
+       0	*	*	*	*	*	*	2208	0	0	
+
+N 46   *	*	*	*	*	*	1546	*	*	*	*	605	*	*	*	*	*	*	*	*	46
+       0	*	*	0	*	*	*	1873	0	0	
+
+//

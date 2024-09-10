@@ -1,0 +1,324 @@
+body 
+{
+	margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 14px;
+    font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
+    color: #000000;
+}
+
+body table
+{
+    margin: 10px;
+    text-align: left;
+}
+
+body table td.verticalTop
+{
+    vertical-align: top;
+}
+
+body input
+{
+    font-size: 15px;
+}
+
+body td input
+{
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+div.t-error 
+{
+	border:1px solid red;
+	margin:10px;
+}
+
+table.t-data-grid tbody tr td 
+{
+	border-bottom:1px solid silver;
+	border-right:1px solid silver;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#container
+{
+    text-align: left;
+    width: 950px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* div header */
+
+#header
+{
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+
+#logo
+{
+    float: left;
+    width: 200px;
+    height: 120px;
+    margin: 0px;
+    padding: 0px;
+    border:1px solid #CCCCCC;
+}
+
+#banner  
+{
+    float: right;
+    width: 740px;
+    margin: 0px;
+    padding: 0px;
+    height: 120px;
+    text-align: center;
+    border:1px solid #CCCCCC;
+}
+
+#topMenu  
+{
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 5px;
+    height: 25px;
+    text-align: right;
+    vertical-align: center;
+    border:1px solid #CCCCCC;
+}
+
+#topMenu a
+{
+	margin-right: 10px;
+	font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+
+/* div leftMenu */
+
+#leftMenu  
+{
+    float: left;
+    width: 200px;
+    margin-top: 5px;
+    padding: 0px;
+    text-align: center;
+    border:1px solid #CCCCCC;
+}
+
+#leftMenu a 
+{
+	display: inline-block;
+    margin: 5px;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+
+#leftMenu div 
+{
+    float: left;
+    margin: 10px 10px 10px 10px;
+    padding: 0px;
+    text-align: center;
+    border:1px solid #CCCCCC;
+    width:180px;
+}
+
+#leftMenu div span.header
+{
+	background:#99CCFF none repeat scroll 0 0;
+	display:inline-block;
+	font-size:16px;
+	font-weight:bold;
+	margin:0;
+	padding:1px 0;
+	width:100%;
+}
+
+#leftMenu div a
+{
+    display: inline-block;
+    margin: 2px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+/* div content */
+
+#content  
+{
+    float: right;
+    width: 740px;
+    margin-top: 5px;
+    padding: 0px;
+    text-align: center;
+    border:1px solid #CCCCCC;
+}
+
+/* form submitJobForm */
+
+#submitJobForm td.left
+{
+	width: 300px;
+    text-align: left;
+}
+
+#submitJobForm td.right
+{
+    text-align: left;
+}
+
+#submitJobForm td.right #sequence
+{
+    width: 400px;
+    height: 100px;
+}
+
+#submitJobForm td.left a
+{
+	margin-right: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+#submitJobForm td.right input, #submitJobForm td.right select
+{
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+
+#submitJobForm #newJobButton
+{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* div header */
+
+div.header
+{
+    background: #99CCFF none repeat scroll 0 0;
+    margin: 10px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+div.header a
+{
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+/* div info */
+
+div.info
+{
+    margin: 10px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid #00FF00;
+    color: #00FF00;
+}
+
+/* div info */
+
+div.error
+{
+    margin: 10px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid #FF3300;
+    color: #FF3300;
+}
+
+/* div clear */
+
+.clear 
+{
+    float: none;
+    display: block;
+    clear: both;
+}
+
+/* div footer */
+
+#footer  
+{
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 10px;
+    height: auto; /*20px;*/
+    text-align: center;
+    border:1px solid #CCCCCC;
+    margin-bottom: 10px;
+}
+
+/* table summary */
+
+table.summary
+{
+    font-size: 16px;
+}
+
+table.summary div
+{
+	position: relative;
+	floating: left;
+	width: auto;
+	height: auto;
+}
+
+table.summary a
+{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+table.summary a.help_href
+{
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+table.summary td
+{
+    padding-right: 10px;
+}
+
+
+table.summary td table td, table.summary td table th
+{
+    padding: 5px;
+}
+
+table.summary td table
+{
+    margin: 0px;
+    border: 0;
+}
+

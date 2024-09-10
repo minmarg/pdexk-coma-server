@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  d1mpza_ g.20.1.1 (A:) Obtustatin {Blunt-nosed viper (Vipera lebetina obtusa) [TaxId: 209528]}
+FAM   g.20.1.1
+FILE  d1mpza_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mpza_.a3m -v 1 
+DATE  Mon Jan 21 23:39:37 2013
+LENG  41 match states, 41 columns in multiple alignment
+FILT  127 out of 510 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.0 
+SEQ
+>ss_pred
+CCCCCCCCCCEECCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+98887665676467884016887888431488888888789
+>Consensus
+CxxGxCCxxCxxxxxGxxCRxxxxxCDyCxGxSxxCPxNpx
+>d1mpza_ g.20.1.1 (A:) Obtustatin {Blunt-nosed viper (Vipera lebetina obtusa) [TaxId: 209528]}
+CTTGPCCRQCKLKPAGTTCWKTSLTSHYCTGKSCDCPLYPG
+>gi|82088458|sp|Q6T271.1|VM2BI_BITGA(278-319:325) RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase-4; Short=SVMP; Contains: RecName: Full=Disintegrin bitisgabonin; AltName: Full=Bitisgabonin-1; AltName: Full=Bitisgabonin-2; Flags: Precursor >gi|38374140|gb|AAR19273.1| metalloprotease 4 [Bitis gabonica]  E=5e-10 s/c=1.60 id=41% cov=100%
+CISGPCCRDCKFLRPGTVCRvaRGDWNDDFCTGRSSECESNP-
+>gi|260817962|ref|XP_002603854.1|(232-273:408) hypothetical protein BRAFLDRAFT_174749 [Branchiostoma floridae] >gi|229289177|gb|EEN59865.1| hypothetical protein BRAFLDRAFT_174749 [Branchiostoma floridae]  E=0.0002 s/c=1.15 id=42% cov=98%
+CDMGECCQDCQLKPSGELCRQQTTDCDlaeYCTGQSPQCPDN--
+>gi|327288460|ref|XP_003228944.1|(443-482:729) PREDICTED: disintegrin and metalloproteinase domain-containing protein 20-like [Anolis carolinensis]  E=0.0004 s/c=1.18 id=39% cov=93%
+CAFGSCCRNCQYVPARSICRRNvsiCDLPEYCHGSSEWCP----
+>gi|426256584|ref|XP_004021919.1|(490-529:910) PREDICTED: disintegrin and metalloproteinase domain-containing protein 5-like [Ovis aries]  E=6e-05 s/c=1.25 id=38% cov=90%
+CGSGECCsSSCKIKPVNTLCRKAVDECDfeeFCNGNQSIC-----
+>gi|344238577|gb|EGV94680.1|(633-670:1196) Disintegrin and metalloproteinase domain-containing protein 9 [Cricetulus griseus]  E=0.0007 s/c=1.22 id=34% cov=78%
+------CGTPKFLPGGSMCRGKTNECDvpeYCNGSSQFCP----
+>gi|67969719|dbj|BAE01208.1|(427-468:735) unnamed protein product [Macaca fascicularis]   E=1e-09 s/c=1.57 id=32% cov=98%
+CAEGPCCENCLFMSQERVCRPSFDECDlpeYCNGTSASCPEN--
+>gi|326672268|ref|XP_695529.4|(488-529:779) PREDICTED: disintegrin and metalloproteinase domain-containing protein 11 [Danio rerio]  E=2e-07 s/c=1.39 id=32% cov=98%
+CSNGLCCNRCKYEQRGVICRDAVNDCDvpeTCSGDSSKCPHN--
+>gi|260064075|ref|NP_001159388.1|(443-484:731) cellular disintegrin ADAM 6d precursor [Oryctolagus cuniculus] >gi|2228590|gb|AAC09475.1| cellular disintegrin ADAM 6d [Oryctolagus cuniculus]  E=2e-05 s/c=1.23 id=30% cov=98%
+CDKQQCCTNCTYSPTSTLCRPVMNICDlpeYCGGSTYTCPEN--
+>gi|347967746|ref|XP_312572.5|(546-585:759) AGAP002381-PA [Anopheles gambiae str. PEST] >gi|333468319|gb|EAA08066.5| AGAP002381-PA [Anopheles gambiae str. PEST]  E=4e-05 s/c=1.27 id=38% cov=90%
+----PCCQNCQYMMAGVKCREAQYaTCEqeaRCTGNHAECPKSP-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3968	0	0	
+
+T 2    1433	*	3078	4262	*	3231	6177	5191	6262	6810	7008	6922	*	6773	*	2938	4096	4934	*	4551	2
+       0	*	*	*	*	*	*	3969	0	0	
+
+T 3    4487	*	5197	3325	4387	4493	3053	5227	5334	5957	6002	4505	*	5370	5414	1993	2998	5364	*	4642	3
+       13	6770	*	0	*	*	*	3969	1000	0	
+
+G 4    *	*	*	5779	*	122	*	*	*	*	*	*	*	4873	*	5787	6523	*	*	*	4
+       0	*	*	*	*	*	*	3971	0	0	
+
+P 5    4047	*	3547	2684	6828	4804	6920	7296	*	2502	*	*	1794	4884	*	3377	5248	5818	*	*	5
+       9	7298	*	0	*	*	*	3996	1000	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	4008	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       45	5010	*	0	*	*	*	4179	2060	0	
+
+R 8    6111	*	3115	3071	5836	5516	3463	6852	3314	5361	7193	3625	*	3530	2792	4146	3700	5978	*	5693	8
+       115	3702	*	1446	660	*	*	4179	2719	0	
+
+Q 9    6036	*	2697	5670	*	4015	5338	*	3662	*	*	1700	*	2861	4161	3952	3655	*	*	*	9
+       42	5121	*	582	1591	*	*	4179	1798	0	
+
+C 10   *	43	*	*	*	6097	*	*	*	*	*	*	6063	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	4179	0	0	
+
+K 11   6767	*	*	6142	*	6784	4736	*	1648	4619	7142	5600	*	1724	3082	6992	3304	*	*	6323	11
+       11	7048	*	2585	263	*	*	4179	1000	0	
+
+L 12   *	*	*	*	1312	*	*	3185	*	2164	5433	*	5548	*	*	*	*	4630	*	2479	12
+       0	*	*	*	*	*	*	4179	0	0	
+
+K 13   3038	*	*	4169	*	*	7048	4914	1915	2912	3526	*	*	4891	3545	3169	6801	4120	*	*	13
+       0	*	*	*	*	*	*	4179	0	0	
+
+P 14   2591	*	6327	4275	6220	4591	6894	*	4147	*	4686	5410	1523	4163	4726	3839	4389	5123	*	*	14
+       0	*	*	*	*	*	*	4179	0	0	
+
+A 15   1393	*	*	5151	6827	5087	*	*	3366	4993	6773	5662	2954	5530	3442	3557	5275	4578	*	*	15
+       0	*	*	*	*	*	*	4179	0	0	
+
+G 16   5593	*	5057	5281	*	363	6330	*	6628	*	*	5786	*	5069	*	4318	5311	*	*	*	16
+       0	*	*	*	*	*	*	4179	0	0	
+
+T 17   5058	*	*	3355	6782	*	4718	6889	4095	5832	6628	5361	*	5249	4805	3555	1386	2925	6102	5053	17
+       0	*	*	*	*	*	*	4179	0	0	
+
+T 18   5529	*	*	3618	*	*	*	2984	4757	1930	3901	*	4043	6922	*	6082	4357	1880	*	*	18
+       0	*	*	*	*	*	*	4179	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	4179	0	0	
+
+W 20   *	*	*	*	*	*	6363	*	6106	*	*	6323	*	6281	108	*	*	*	5646	*	20
+       44	5061	*	890	1120	*	*	4179	1584	0	
+
+K 21   3675	*	3253	2796	*	5100	5654	*	3066	5621	5981	7168	1855	5344	3368	4674	6471	6265	*	*	21
+       58	4662	*	1355	715	*	*	4179	2140	0	
+
+T 22   1792	*	*	4940	*	5328	*	5238	3272	*	4575	5627	3889	4078	4067	2768	3318	5148	*	*	22
+       73	4332	*	1417	677	*	*	4179	2021	0	
+
+S 23   4397	4399	3719	4554	6387	*	5412	4209	3890	3902	5127	4675	6852	3421	3381	3285	4053	2898	*	*	23
+       48	4933	*	1204	822	*	*	4179	2083	0	
+
+L 24   *	*	1984	*	*	2216	5208	*	7084	5646	*	2134	*	6474	6782	2880	4047	*	5913	5925	24
+       82	4178	*	0	*	*	*	4179	2116	0	
+
+T 25   5192	*	2909	1752	*	6801	*	3240	6592	3644	5916	4705	3583	4821	6779	4423	3414	6143	*	*	25
+       25	5843	*	803	1229	*	*	4179	1290	0	
+
+S 26   6625	254	4535	*	*	6048	*	*	*	*	*	6106	4501	*	*	4874	*	*	*	*	26
+       19	6284	*	1787	494	*	*	4179	1312	0	
+
+H 27   *	*	211	3644	*	6048	5646	*	5558	*	*	*	*	*	*	*	*	*	*	*	27
+       1860	465	*	1585	585	*	*	4179	4007	0	
+
+Y 28   *	*	*	*	2311	*	4873	4201	6912	4668	*	*	*	*	4985	*	5621	4923	5462	850	28
+       172	3156	*	1541	608	*	*	4179	2910	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	4179	0	0	
+
+T 30   *	*	2374	*	6702	5664	*	*	*	*	*	1613	5419	*	6592	3846	1525	*	*	*	30
+       0	*	*	*	*	*	*	4179	0	0	
+
+G 31   *	*	*	*	*	35	*	*	*	*	*	*	*	*	*	5375	*	*	*	*	31
+       0	*	*	*	*	*	*	4179	0	0	
+
+K 32   5122	*	5025	4246	*	5375	4894	5125	3119	5279	6842	3348	*	3470	4206	2790	2324	4153	*	6837	32
+       0	*	*	*	*	*	*	4179	0	0	
+
+S 33   *	*	6255	6333	7119	*	4993	6012	6779	7271	*	6363	*	5096	*	483	3085	6828	6842	6336	33
+       0	*	*	*	*	*	*	4179	0	0	
+
+C 34   2265	5646	6784	3273	*	3018	4462	*	*	6748	*	4741	2598	4082	*	2475	5940	6515	*	6300	34
+       0	*	*	*	*	*	*	4179	0	0	
+
+D 35   5260	*	3193	2462	4315	6156	4490	5401	4491	3637	6080	4073	*	3675	6549	4085	3903	4292	4605	4486	35
+       0	*	*	*	*	*	*	4179	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	4179	0	0	
+
+P 37   *	*	*	5889	*	*	*	*	*	*	*	*	82	5246	*	6386	*	*	*	*	37
+       0	*	*	*	*	*	*	4173	0	0	
+
+L 38   3798	*	4273	2951	*	5071	*	*	2880	4718	6426	*	2998	5102	3173	2375	4026	*	*	6320	38
+       40	*	5200	*	*	*	*	4057	0	0	
+
+Y 39   *	*	*	*	*	*	*	*	*	*	*	132	*	*	*	4480	*	*	*	4546	39
+       0	*	*	*	*	0	*	3860	0	1000	
+
+P 40   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2458	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	0	*	*	*	1454	0	0	
+
+//

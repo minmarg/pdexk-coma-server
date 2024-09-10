@@ -1,0 +1,122 @@
+HHsearch 1.5
+NAME  d1ubdc4 g.37.1.1 (C:381-408) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.1
+FILE  d1ubdc4
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ubdc4.a3m -v 1 
+DATE  Tue Jan 22 02:44:53 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  32 out of 34 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCEECCCCC
+>ss_conf
+9755786243321012356410000059
+>Consensus
+kpfvCPfxgCxkxFxQSxNlKsHiltHa
+>d1ubdc4 g.37.1.1 (C:381-408) Ying-yang 1 (yy1, zinc finger domain) {Human (Homo sapiens) [TaxId: 9606]}
+RPYVCPFDGCNKKFAQSTNLKSHILTHA
+>gi|403263688|ref|XP_003924149.1|(338-365:371) PREDICTED: transcription factor YY2 [Saimiri boliviensis boliviensis]  E=3e-05 s/c=1.84 id=71% cov=100%
+KPFVCPFDICNRRFAQSTNLKTHMLTH-
+>gi|358419331|ref|XP_003584203.1|(266-293:299) PREDICTED: zinc finger protein 42 homolog [Bos taurus] >gi|359080455|ref|XP_003587999.1| PREDICTED: zinc finger protein 42 homolog [Bos taurus]  E=0.0007 s/c=1.68 id=62% cov=104%
+KPFVCPFVGCRKKFIQSNNMKAHLLTHG
+>gi|109076442|ref|XP_001096038.1|(274-301:325) PREDICTED: zinc finger protein 42 homolog [Macaca mulatta]   E=4e-07 s/c=2.04 id=66% cov=104%
+KRFVCPFEGCNRRFTQSNNLKAHILTHA
+>gi|31419659|gb|AAH53399.1|(255-282:288) Zfp42 protein [Mus musculus]   E=3e-06 s/c=1.95 id=69% cov=104%
+RRFVCPFDGCEKSFIQSNNQKIHILTHA
+>gi|344281431|ref|XP_003412483.1|(271-298:304) PREDICTED: zinc finger protein 42 homolog [Loxodonta africana]   E=0.0001 s/c=1.75 id=55% cov=104%
+KRFLCPFEGCNRRFVQSSNLKSHIPIHS
+>gi|348566835|ref|XP_003469207.1|(258-284:300) PREDICTED: zinc finger protein 42 homolog [Cavia porcellus]   E=0.001 s/c=1.71 id=61% cov=100%
+KLFVCPIQGCSSKFVQSGNLKSHIITH-
+>gi|353229923|emb|CCD76094.1|(561-588:995) putative transcriptional repressor protein yy (yin and yang) (delta transcription factor) [Schistosoma mansoni]  E=0.0001 s/c=1.75 id=69% cov=104%
+RPYPCPQPGCSKRFAQSTNLKSHLATHS
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	903	*	*	*	*	*	1104	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1837	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	3963	*	*	595	*	1868	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1837	0	0	
+
+Y 3    *	*	*	*	606	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1544	3
+       0	*	*	*	*	*	*	1836	0	0	
+
+V 4    3544	*	*	*	*	*	4601	4053	*	3838	4678	*	4358	*	*	*	*	610	*	*	4
+       0	*	*	*	*	*	*	1836	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1836	0	0	
+
+P 6    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1836	0	0	
+
+F 7    *	*	*	*	290	*	*	3284	*	*	*	*	*	4358	*	*	*	*	*	5038	7
+       0	*	*	*	*	*	*	1836	0	0	
+
+D 8    *	*	1384	1643	*	4844	*	*	*	*	*	*	4358	3088	*	*	4845	4045	*	*	8
+       0	*	*	*	*	*	*	1836	0	0	
+
+G 9    3316	*	*	*	*	469	*	4092	*	*	*	3579	*	*	*	4844	*	*	*	*	9
+       0	*	*	*	*	*	*	1836	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1836	0	0	
+
+N 11   *	*	3858	3767	*	*	3848	*	*	5066	*	1379	*	*	3123	2140	4962	*	*	*	11
+       0	*	*	*	*	*	*	1836	0	0	
+
+K 12   *	*	*	*	*	*	*	*	575	*	*	*	*	*	1905	4025	*	*	*	*	12
+       0	*	*	*	*	*	*	1836	0	0	
+
+K 13   *	4601	*	*	*	*	*	*	1200	*	4962	*	*	*	1259	3767	*	*	*	*	13
+       0	*	*	*	*	*	*	1836	0	0	
+
+F 14   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1836	0	0	
+
+A 15   964	*	*	*	*	*	*	2164	*	*	*	*	*	*	*	*	3673	2427	*	*	15
+       0	*	*	*	*	*	*	1836	0	0	
+
+Q 16   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1836	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	17
+       0	*	*	*	*	*	*	1836	0	0	
+
+T 18   *	*	*	*	*	4025	*	*	*	*	*	1600	*	*	*	3379	964	*	*	*	18
+       0	*	*	*	*	*	*	1836	0	0	
+
+N 19   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1836	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	269	2970	*	*	4549	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1836	0	0	
+
+K 21   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1836	0	0	
+
+S 22   2181	*	*	*	*	*	*	3767	*	*	*	*	*	*	*	717	4092	4678	*	*	22
+       0	*	*	*	*	*	*	1836	0	0	
+
+H 23   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1836	0	0	
+
+I 24   *	*	*	*	*	*	*	402	*	2864	3239	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1836	0	0	
+
+L 25   4358	*	*	*	*	*	*	3187	*	494	4207	*	4532	*	*	*	*	4872	*	*	25
+       0	*	*	*	*	*	*	1836	0	0	
+
+T 26   4845	*	*	*	*	*	*	4532	*	*	*	*	*	*	*	4899	171	*	*	*	26
+       0	*	*	*	*	*	*	1836	0	0	
+
+H 27   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1836	0	0	
+
+A 28   416	*	*	*	*	3576	*	*	*	*	*	*	*	*	*	2584	*	*	*	*	28
+       0	*	*	0	*	*	*	1789	0	0	
+
+//

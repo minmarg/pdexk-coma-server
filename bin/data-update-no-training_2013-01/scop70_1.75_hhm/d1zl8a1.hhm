@@ -1,0 +1,190 @@
+HHsearch 1.5
+NAME  d1zl8a1 a.194.1.1 (A:4-53) Lin-7 {Caenorhabditis elegans [TaxId: 6239]}
+FAM   a.194.1.1
+FILE  d1zl8a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1zl8a1.a3m -v 1 
+DATE  Tue Jan 22 05:06:07 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  30 out of 32 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+91478999999999987379999377899999988999899999985109
+>Consensus
+xLxrDixRaieLlekLqxsgevpxxKLxaLqkVLqSdFxxaVREVYEhvy
+>d1zl8a1 a.194.1.1 (A:4-53) Lin-7 {Caenorhabditis elegans [TaxId: 6239]}
+NLERDVQRILELMEHVQKTGEVNNAKLASLQQVLQSEFFGAVREVYETVY
+>gi|321476834|gb|EFX87794.1|(11-60:199) hypothetical protein DAPPUDRAFT_306376 [Daphnia pulex]   E=3e-08 s/c=1.24 id=55% cov=102%
+SLDKDINRAVELLEKLMKSGEVPTAKLSALHKVLQSDFLRAVREVYEHVY
+>gi|405958990|gb|EKC25068.1|(9-58:198) Lin-7-like protein B [Crassostrea gigas]   E=3e-08 s/c=1.23 id=53% cov=102%
+HLEKDVNRAIDLLDALQKSGQIPSQKLAALQRVLQSDFLNSVREVYEHVY
+>gi|119572839|gb|EAW52454.1|(9-58:137) lin-7 homolog B (C. elegans), isoform CRA_a [Homo sapiens]   E=5e-08 s/c=1.22 id=56% cov=100%
+-LERDVSRAVELLERLQRSGELPPQKLQALQRVLQSRFCSAIREVYEQLY
+>gi|256081140|ref|XP_002576831.1|(6-55:193) lin-7-like proteins [Schistosoma mansoni] >gi|238662116|emb|CAZ33068.1| lin-7-like proteins [Schistosoma mansoni]  E=1e-07 s/c=1.19 id=49% cov=102%
+SLQRDINRVLELLEILQRCPEIQPSKLAALQRILQSDFCDMIREVYEHIY
+>gi|334347915|ref|XP_001372506.2|(39-88:249) PREDICTED: protein lin-7 homolog A-like [Monodelphis domestica]   E=2e-05 s/c=1.04 id=49% cov=102%
+SIHSDVARAIELLEKLQESGEVPVQKLQSLKKVLQSEFCTAIREVYQYMH
+>gi|391341859|ref|XP_003745244.1|(9-57:194) PREDICTED: protein lin-7 homolog B-like [Metaseiulus occidentalis]  E=1e-10 s/c=1.41 id=56% cov=100%
+NLERDIHRAVELLQKLQRTG-AGGEKLAALEQVLSSEFLAAVLQVYEQVY
+>gi|196015491|ref|XP_002117602.1|(4-50:186) hypothetical protein TRIADDRAFT_61629 [Trichoplax adhaerens] >gi|190579771|gb|EDV19860.1| hypothetical protein TRIADDRAFT_61629 [Trichoplax adhaerens]  E=2e-07 s/c=1.24 id=35% cov=96%
+---KDINRAIQLIDALSSHRSIPSENLQKLKEVLESDFCKTVREVYESVY
+>gi|339247543|ref|XP_003375405.1|(395-436:583) Lin-7 protein [Trichinella spiralis] >gi|316971285|gb|EFV55087.1| Lin-7 protein [Trichinella spiralis]  E=5e-06 s/c=1.28 id=50% cov=84%
+---------IKLSEKnKRRRGEVTSPKLVTLQQILKSDFFNCVREVYEHIY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	2142	*	*	*	*	1309	*	*	*	1435	*	*	*	*	1
+       0	*	*	*	*	*	*	2035	0	0	
+
+L 2    *	*	*	*	*	*	*	4334	*	73	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2078	0	0	
+
+E 3    2655	*	2008	1286	*	*	4334	*	*	*	*	*	*	3888	*	3934	*	*	*	*	3
+       0	*	*	*	*	*	*	2078	0	0	
+
+R 4    *	*	*	*	*	*	*	*	2515	*	*	*	*	*	363	4397	*	*	*	*	4
+       0	*	*	*	*	*	*	2189	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2189	0	0	
+
+V 6    *	*	*	*	*	*	*	940	*	*	*	*	*	*	*	*	*	1062	*	*	6
+       0	*	*	*	*	*	*	2240	0	0	
+
+Q 7    3343	3789	*	*	*	*	4118	*	2338	*	*	1679	*	3175	4831	3610	4893	*	*	*	7
+       0	*	*	*	*	*	*	2240	0	0	
+
+R 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2240	0	0	
+
+I 9    761	*	*	*	*	*	*	3175	*	*	*	*	*	*	*	3133	4729	2759	*	*	9
+       0	*	*	*	*	*	*	2240	0	0	
+
+L 10   *	3991	*	*	*	*	*	766	*	3020	*	*	*	*	*	*	*	2146	*	*	10
+       0	*	*	*	*	*	*	2300	0	0	
+
+E 11   *	*	5175	335	*	*	*	*	4120	*	*	*	*	3736	4417	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2300	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2300	0	0	
+
+M 13   *	*	*	*	*	*	*	2539	*	463	4477	*	*	*	*	4120	*	*	*	*	13
+       0	*	*	*	*	*	*	2300	0	0	
+
+E 14   *	*	1877	648	*	*	*	*	*	*	*	*	*	3483	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2300	0	0	
+
+H 15   3283	*	*	*	*	*	3326	2734	905	*	*	4889	*	*	3655	*	*	*	*	*	15
+       85	4120	*	0	*	*	*	2300	1000	0	
+
+V 16   *	*	*	*	*	*	*	*	4120	247	*	*	*	*	*	*	*	3326	*	*	16
+       0	*	*	*	*	*	*	2300	0	0	
+
+Q 17   *	*	*	5011	*	*	4417	*	4565	*	4883	*	*	487	4120	3736	*	*	*	*	17
+       0	*	*	*	*	*	*	2300	0	0	
+
+K 18   4911	*	*	3387	*	*	*	*	1835	*	*	4871	*	5579	1491	2746	5011	*	*	*	18
+       0	*	*	*	*	*	*	2300	0	0	
+
+T 19   *	3210	*	*	*	5472	3736	*	*	*	*	4871	*	*	4120	979	2355	*	*	*	19
+       30	5598	*	1585	585	*	*	2300	1000	0	
+
+G 20   *	*	*	*	*	292	*	*	*	*	*	*	3210	*	3736	*	*	*	*	*	20
+       82	*	4177	*	*	*	*	2300	0	0	
+
+E 21   *	*	3838	510	*	*	*	*	*	*	*	4670	*	3182	*	3670	*	*	*	*	21
+       0	*	*	*	*	0	*	2309	0	1000	
+
+V 22   4177	*	*	*	3943	*	*	1802	*	2822	*	*	*	*	*	*	*	1147	*	*	22
+       0	*	*	*	*	*	*	2300	0	0	
+
+N 23   *	*	*	*	*	4177	*	*	3585	*	*	3326	637	4029	*	*	4120	*	*	*	23
+       0	*	*	*	*	*	*	2300	0	0	
+
+N 24   3637	*	*	*	*	4177	*	*	*	*	*	4477	1947	*	*	2007	2611	2761	*	*	24
+       0	*	*	*	*	*	*	2300	0	0	
+
+A 25   3146	*	*	2940	*	*	3982	*	*	*	*	*	2840	1865	*	3210	2547	*	*	*	25
+       0	*	*	*	*	*	*	2300	0	0	
+
+K 26   *	*	*	*	*	*	*	*	113	*	*	3736	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2300	0	0	
+
+L 27   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2300	0	0	
+
+A 28   1222	*	*	4565	*	*	*	*	*	*	*	*	*	1502	*	4883	4190	3519	*	*	28
+       0	*	*	*	*	*	*	2300	0	0	
+
+S 29   740	*	*	*	*	*	*	*	3736	*	*	*	*	4565	*	2143	4120	*	*	*	29
+       0	*	*	*	*	*	*	2300	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2300	0	0	
+
+Q 31   *	*	*	4177	*	*	4883	*	2310	*	*	*	*	496	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2300	0	0	
+
+Q 32   4565	*	*	3736	*	*	*	*	1162	*	*	4190	*	2665	2164	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2300	0	0	
+
+V 33   *	*	*	*	*	*	*	2182	*	*	*	*	*	*	*	*	*	359	*	*	33
+       0	*	*	*	*	*	*	2300	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2300	0	0	
+
+Q 35   *	*	*	3194	*	*	*	*	4120	4417	*	4911	*	681	4565	3522	*	*	*	*	35
+       0	*	*	*	*	*	*	2300	0	0	
+
+S 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	36
+       0	*	*	*	*	*	*	2300	0	0	
+
+E 37   *	*	863	1431	*	*	*	*	4289	*	*	*	*	*	5147	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2300	0	0	
+
+F 38   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2300	0	0	
+
+F 39   *	1063	*	*	2389	*	*	*	*	1752	4911	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2300	0	0	
+
+G 40   3272	*	3674	*	*	4477	*	*	3736	*	*	1917	*	3710	4883	2951	2369	*	*	*	40
+       0	*	*	*	*	*	*	2300	0	0	
+
+A 41   759	4120	*	*	*	*	*	*	*	*	3210	*	*	*	*	2570	3736	*	*	*	41
+       0	*	*	*	*	*	*	2300	0	0	
+
+V 42   *	*	*	*	*	*	*	1662	*	*	*	*	*	*	*	*	*	548	*	*	42
+       0	*	*	*	*	*	*	2300	0	0	
+
+R 43   *	4889	*	*	*	*	*	*	*	4177	*	*	*	*	135	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2300	0	0	
+
+E 44   *	*	*	139	*	*	*	*	*	*	*	*	*	3445	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2300	0	0	
+
+V 45   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	45
+       0	*	*	*	*	*	*	2300	0	0	
+
+Y 46   *	*	*	*	4190	*	*	*	*	*	*	*	*	*	*	*	*	*	*	81	46
+       0	*	*	*	*	*	*	2300	0	0	
+
+E 47   *	*	*	275	*	*	*	*	4417	*	*	*	*	2981	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2300	0	0	
+
+T 48   *	*	*	*	*	*	826	*	*	*	*	4190	*	2893	*	3736	4477	*	*	2981	48
+       0	*	*	*	*	*	*	2300	0	0	
+
+V 49   *	*	*	*	*	*	*	2671	*	3655	3472	*	*	*	*	*	*	570	*	*	49
+       0	*	*	*	*	*	*	2300	0	0	
+
+Y 50   *	*	*	*	4939	*	2566	*	*	*	*	*	*	*	*	*	*	*	*	325	50
+       0	*	*	0	*	*	*	2260	0	0	
+
+//

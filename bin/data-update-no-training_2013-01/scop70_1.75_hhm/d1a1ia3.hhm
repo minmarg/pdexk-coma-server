@@ -1,0 +1,126 @@
+HHsearch 1.5
+NAME  d1a1ia3 g.37.1.1 (A:160-187) ZIF268 {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.37.1.1
+FILE  d1a1ia3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1a1ia3.a3m -v 1 
+DATE  Mon Jan 21 18:52:52 2013
+LENG  28 match states, 28 columns in multiple alignment
+FILT  108 out of 10746 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCEECCCCCCCCCEEECCC
+>ss_conf
+9874179888761601226201012179
+>Consensus
+EkPxxCxxCxkxFxrxxxLxrHxrxHxk
+>d1a1ia3 g.37.1.1 (A:160-187) ZIF268 {Mouse (Mus musculus) [TaxId: 10090]}
+EKPFACDICGRKFARSDERKRHTKIHLR
+>gi|315042417|ref|XP_003170585.1|(19-46:844) hypothetical protein MGYG_07828 [Arthroderma gypseum CBS 118893] >gi|311345619|gb|EFR04822.1| hypothetical protein MGYG_07828 [Arthroderma gypseum CBS 118893]  E=1e-05 s/c=1.86 id=38% cov=104%
+ERKYKCQFCHRAFSRSEHRSRHERSHTK
+>gi|385303595|gb|EIF47659.1|(462-488:676) putative zinc finger transcription factor [Dekkera bruxellensis AWRI1499]  E=9e-05 s/c=1.83 id=39% cov=100%
+DRPFVCPVCKKAFVRNHDLRRHYKGHL-
+>gi|320580273|gb|EFW94496.1|(43-67:316) Histone variant H2AZ [Ogataea parapolymorpha DL-1]   E=0.0003 s/c=1.90 id=38% cov=93%
+ERPFKCEHCARRFSRLDNLRQHKQT---
+>gi|393909006|gb|EJD75275.1|(585-612:794) zinc finger protein [Loa loa]   E=7e-05 s/c=1.79 id=38% cov=104%
+EKPYQCPQCSYAASRRDMITRHMRTHIR
+>gi|395539658|ref|XP_003771784.1|(480-507:523) PREDICTED: zinc finger protein 212 [Sarcophilus harrisii]   E=3e-05 s/c=1.83 id=34% cov=104%
+ERPYSCAQCEKSFVQKQHLLQHQKIHQR
+>gi|410929245|ref|XP_003978010.1|(162-189:1704) PREDICTED: ras-responsive element-binding protein 1-like [Takifugu rubripes]  E=3e-05 s/c=1.83 id=38% cov=104%
+ERPYKCSVCGQTFTTNGNMHRHMKIHEK
+>gi|194867915|ref|XP_001972172.1|(592-621:675) GG14036 [Drosophila erecta] >gi|190653955|gb|EDV51198.1| GG14036 [Drosophila erecta]  E=3e-05 s/c=1.69 id=34% cov=104%
+DRPYHCPIdgCSKCFAQSTNLKSHMLTHTK
+>gi|347968387|ref|XP_563445.4|(1226-1252:1291) AGAP002702-PA [Anopheles gambiae str. PEST] >gi|333468028|gb|EAL40859.4| AGAP002702-PA [Anopheles gambiae str. PEST]  E=4e-05 s/c=1.88 id=39% cov=100%
+-KPYACEQCGKGFIRKDHMMKHAETHRK
+>gi|351710797|gb|EHB13716.1|(395-422:529) Zinc finger protein 726 [Heterocephalus glaber]   E=0.0005 s/c=1.68 id=38% cov=104%
+EKPFKCNECGKAFNKRSNLSLHQRVHTR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	2279	333	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4150	0	0	
+
+K 2    *	*	*	*	*	*	*	*	821	*	*	*	*	*	1204	*	*	*	*	*	2
+       0	*	*	*	*	*	*	4418	0	0	
+
+P 3    6387	*	*	6269	*	6351	*	*	4610	*	*	5486	288	6279	4879	5566	*	*	6312	*	3
+       0	*	*	*	*	*	*	4432	0	0	
+
+F 4    *	5659	*	*	1386	*	2599	*	*	*	*	*	*	*	*	*	*	*	*	1209	4
+       0	*	*	*	*	*	*	4426	0	0	
+
+A 5    3843	6267	*	3349	*	5000	4315	5319	2384	5341	5920	5562	4097	2896	4507	3265	4937	3551	*	*	5
+       0	*	*	*	*	*	*	4426	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	4426	0	0	
+
+D 7    4114	*	3088	3851	*	4203	4155	*	3867	6504	*	3604	2483	4006	5158	3251	3198	*	*	*	7
+       0	*	*	*	*	*	*	4426	0	0	
+
+I 8    *	*	5781	3036	3986	*	4559	2475	6014	4922	4815	*	*	2670	4995	4821	4328	2661	5769	4631	8
+       98	3927	*	1000	1000	*	*	4426	2793	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4426	0	0	
+
+G 10   5254	*	3499	3934	*	1361	4357	*	5656	6036	*	3628	4111	4261	*	3046	4847	*	*	*	10
+       0	*	*	*	*	*	*	4426	0	0	
+
+R 11   5482	*	*	*	*	*	*	*	866	5572	5338	*	*	4589	2157	5050	6383	5190	5750	5088	11
+       0	*	*	*	*	*	*	4426	0	0	
+
+K 12   2155	4133	6074	5467	*	3513	5689	6283	3810	6699	6488	6080	*	6753	2187	2688	3830	*	*	*	12
+       0	*	*	*	*	*	*	4426	0	0	
+
+F 13   5088	*	*	*	86	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5142	13
+       0	*	*	*	*	*	*	4426	0	0	
+
+A 14   2773	5088	*	6074	6561	4456	5327	5550	4272	*	5437	3487	6134	6367	3171	2354	2598	4476	*	*	14
+       0	*	*	*	*	*	*	4426	0	0	
+
+R 15   *	*	4880	6325	*	*	4905	6886	4775	5320	*	4681	*	3246	725	5791	4054	6638	6345	*	15
+       0	*	*	*	*	*	*	4426	0	0	
+
+S 16   4279	*	*	*	*	5758	5638	6407	2844	3674	*	4233	5095	3294	2999	1662	4521	6457	*	*	16
+       0	*	*	*	*	*	*	4426	0	0	
+
+D 17   4345	6667	1784	3170	5661	3411	3412	*	*	*	*	5313	*	5264	*	2285	4910	*	*	4568	17
+       0	*	*	*	*	*	*	4426	0	0	
+
+E 18   5911	*	3097	4768	*	*	1558	6636	5920	4037	4602	2206	*	5259	6325	4240	5579	4951	*	*	18
+       0	*	*	*	*	*	*	4426	0	0	
+
+R 19   *	5666	*	*	5988	*	*	5088	5815	423	3922	*	*	5907	4564	*	*	4814	*	6493	19
+       0	*	*	*	*	*	*	4426	0	0	
+
+K 20   3973	*	6209	*	*	6852	5005	3692	1860	5706	6578	3994	*	3700	2857	4221	2903	4810	*	*	20
+       0	*	*	*	*	*	*	4426	0	0	
+
+R 21   4517	*	6760	5160	*	5952	6080	5248	2962	*	*	6606	*	3726	892	5081	4862	4886	*	6522	21
+       0	*	*	*	*	*	*	4426	0	0	
+
+H 22   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	4426	0	0	
+
+T 23   4429	6521	6305	3017	*	*	5795	4858	3226	3374	2532	6819	*	2797	3800	4667	5230	3919	*	5572	23
+       0	*	*	*	*	*	*	4426	0	0	
+
+K 24   5612	*	*	4992	*	6169	5762	*	2348	4241	6080	6267	*	4000	1004	5394	4802	*	*	5807	24
+       12	6886	*	1000	1000	*	*	4426	1000	0	
+
+I 25   *	4740	*	*	*	6519	6209	2291	5920	3895	6074	*	*	*	4941	3530	1302	3175	*	*	25
+       0	*	*	*	*	*	*	4426	0	0	
+
+H 26   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	4432	0	0	
+
+L 27   5078	5877	4479	3569	5504	*	6017	4437	5928	2872	4079	6244	*	4471	4017	3407	2050	4328	5449	*	27
+       0	*	*	*	*	*	*	4510	0	0	
+
+R 28   *	*	*	*	*	*	*	*	938	*	*	*	*	3972	1271	*	*	*	*	*	28
+       0	*	*	0	*	*	*	4365	0	0	
+
+//

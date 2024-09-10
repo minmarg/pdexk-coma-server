@@ -1,0 +1,364 @@
+HHsearch 1.5
+NAME  d2r48a1 c.44.2.2 (A:2-104) Mannose-specific enzyme IIBCA component ManP, N-terminal domain {Bacillus subtilis [TaxId: 1423]}
+FAM   c.44.2.2
+FILE  d2r48a1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2r48a1.a3m -v 1 
+DATE  Tue Jan 22 08:24:48 2013
+LENG  103 match states, 103 columns in multiple alignment
+FILT  100 out of 988 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.8 
+SEQ
+>ss_pred
+CEEEEECCCCCCHHHHHHHHHHHHHHHHCCCEEEEEECCCCCCCCCCCHHHHHHCCEEEEEECCCCCHHHHCCCCEEECCHHHHHHCHHHHHHHHHHCCC
+CCC
+>ss_conf
+9578731886510488999999999996699788986388889999896888226988887337515566279867882756754058999999971568
+989
+>Consensus
+KivxVTACptGiAHTymAAeaLexaAxxxGxxikVEtqGxxGxenxLtxxdIxxAdxVIiAxDxxidxxRFxgkxvxxxxxxxaixxxxxvixxalxxxx
+xvy
+>d2r48a1 c.44.2.2 (A:2-104) Mannose-specific enzyme IIBCA component ManP, N-terminal domain {Bacillus subtilis [TaxId: 1423]}
+KLLAITSCPNGIAHTYMAAENLQKAADRLGVSIKVETQGGIGVENKLTEEEIREADAIIIAADRSVNKDRFIGKKLLSVGVQDGIRKPEELIQKALNGDI
+PVY
+>gi|417854684|ref|ZP_12499958.1|(238-338:388) hypothetical protein AAUPMG_10377 [Pasteurella multocida subsp. multocida str. Anand1_goat] >gi|338217467|gb|EGP03340.1| hypothetical protein AAUPMG_10377 [Pasteurella multocida subsp. multocida str. Anand1_goat]  E=2e-29 s/c=1.30 id=32% cov=99%
+KIVAVTACPTGVTQTFMSAEAIMLYAKTQGWCVKVETHGQMGADNLITPEEVAAADLVFAATDIEIDLAKFEGKPLYRTSTSATLKNIAQEFDKAFMQAT
+P--
+>gi|419957895|ref|ZP_14473961.1|(20-94:102) Fructose-like phosphotransferase enzyme IIB component 1 [Enterobacter cloacae subsp. cloacae GS1] >gi|388608053|gb|EIM37257.1| Fructose-like phosphotransferase enzyme IIB component 1 [Enterobacter cloacae subsp. cloacae GS1]  E=4e-08 s/c=0.81 id=27% cov=73%
+---------------------LEDAATEAGYEVKIETQGADGIQNRLTPQdIADADIIIHAIAITPEDNERFETRDVYEITLQDAIKNAAGTLKEI----
+----
+>gi|374336176|ref|YP_005092863.1|(2-103:578) PTS system fructose-specific transporter subunit IIBC [Oceanimonas sp. GK1] >gi|372985863|gb|AEY02113.1| PTS system, fructose-specific IIBC component [Oceanimonas sp. GK1]  E=5e-19 s/c=0.95 id=30% cov=100%
+KVLIITACPSGMAGSYLAARMLERAAQEQGWQVAVECHSQLAPVTAFTQTQINQAELVVVASSRELDLSRFVGKPCFVDDLQPALNDPRTWLQQAAARAA
+PL-
+>gi|254492484|ref|ZP_05105656.1|(15-96:567) PTS system, Fructose specific IIB subunit family [Methylophaga thiooxidans DMS010] >gi|224462376|gb|EEF78653.1| PTS system, Fructose specific IIB subunit family [Methylophaga thiooxydans DMS010]  E=3e-06 s/c=0.66 id=21% cov=80%
+-------------HAVLAGEVLRKAASELNHSCCIEVRTPQGVIAAITQEMLNDAESLLLVGDVEISDSNIADLPTIKASIDEVLDSPSKVLER------
+---
+>gi|88797795|ref|ZP_01113383.1|(3-95:577) PTS system, fructose-specific IIBC component [Reinekea blandensis MED297] >gi|88779472|gb|EAR10659.1| PTS system, fructose-specific IIBC component [Reinekea sp. MED297]  E=9e-11 s/c=0.74 id=25% cov=88%
+----VTHCPAGIATSYLAAGALKDAAEAAGHHVVTDVQGNLASAGTLDAKTLNAIDLVLCSS--TADTSALTNLPLVTFDLRDAIENPSRVFENAL----
+---
+>gi|326318935|ref|YP_004236607.1|(3-97:605) PTS system fructose subfamily transporter subunit IIC [Acidovorax avenae subsp. avenae ATCC 19860] >gi|323375771|gb|ADX48040.1| PTS system, fructose subfamily, IIC subunit [Acidovorax avenae subsp. avenae ATCC 19860]  E=6e-08 s/c=0.63 id=31% cov=90%
+QLIAIAASQAGPAHSFMVAEALRAAAESLGHRIAVSVHSSLGTQGGFSDGELAAAAAAIIAADMPVDRQDLLGtaaAPVHEAAPQEVLADAERVV-----
+------
+>gi|188580451|ref|YP_001923896.1|(3-96:574) PTS system fructose subfamily transporter subunit IIC [Methylobacterium populi BJ001] >gi|179343949|gb|ACB79361.1| PTS system, fructose subfamily, IIC subunit [Methylobacterium populi BJ001]  E=2e-07 s/c=0.63 id=26% cov=80%
+-------------HAVLAAEALRKAAGRRNTPITLELRGKGASGNPLSDAAIAEARAVLLVGEGDLGEARFGALHRARAAIEDVLTDVNAVFDR------
+---
+>gi|167575092|ref|ZP_02367966.1|(3-99:136) protein-N p-phosphohistidine-sugar phosphotransferase [Burkholderia oklahomensis C6786]  E=1e-12 s/c=0.78 id=32% cov=93%
+KLIGLVAAPARTAAPTFAAHALNRAARARGIALALETRSALGVQTPLSADQIGAASVVLIAADdsASIDEAPFAGKTIHRVSVDDAIRDADAVLARA---
+-----
+>gi|126698393|ref|YP_001087290.1|(17-96:100) PTS system transporter subunit IIB [Clostridium difficile 630] >gi|254974433|ref|ZP_05270905.1| putative PTS system, IIB component [Clostridium difficile QCD-66c26] >gi|255091825|ref|ZP_05321303.1| putative PTS system, IIB component [Clostridium difficile CIP 107932] >gi|255099927|ref|ZP_05328904.1| putative PTS system, IIB component [Clostridium difficile QCD-63q42] >gi|255305816|ref|ZP_05349988.1| putative PTS system, IIB component [Clostridium difficile ATCC 43255] >gi|255313560|ref|ZP_05355143.1| putative PTS system, IIB component [Clostridium difficile QCD-76w55] >gi|255516244|ref|ZP_05383920.1| putative PTS system, IIB component [Clostridium difficile QCD-97b34] >gi|255649342|ref|ZP_05396244.1| putative PTS system, IIB component [Clostridium difficile QCD-37x79] >gi|260682513|ref|YP_003213798.1| PTS system transporter subunit IIB [Clostridium difficile CD196] >gi|260686112|ref|YP_003217245.1| PTS system, IIb component [Clostridium difficile R20291] >gi|306519433|ref|ZP_07405780.1| putative PTS system, IIb component [Clostridium difficile QCD-32g58] >gi|384360091|ref|YP_006197943.1| PTS system, IIb component [Clostridium difficile BI1] >gi|423082065|ref|ZP_17070660.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 002-P50-2011] >gi|423085669|ref|ZP_17074111.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 050-P50-2011] >gi|423090468|ref|ZP_17078767.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 70-100-2010] >gi|115249830|emb|CAJ67647.1| putative PTS system, IIB component [Clostridium difficile 630] >gi|260208676|emb|CBA61459.1| putative PTS system, IIb component [Clostridium difficile CD196] >gi|260212128|emb|CBE02759.1| putative PTS system, IIb component [Clostridium difficile R20291] >gi|357549315|gb|EHJ31162.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 002-P50-2011] >gi|357549586|gb|EHJ31432.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 050-P50-2011] >gi|357556577|gb|EHJ38172.1| PTS system, Fructose specific IIB subunit [Clostridium difficile 70-100-2010]  E=0.0008 s/c=0.58 id=25% cov=75%
+--------------------SLKTAANDLGFDLVYEIQENDNIKNELSIYDIEDASIVLFVTSDSIEsiekIDRFIDREFYEVDPKYIIEDAKSIVSEIL
+-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	257	*	*	*	*	4204	3202	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4236	0	0	
+
+L 2    4195	*	*	*	5202	*	*	1115	*	2163	6537	*	*	*	*	*	*	2168	*	*	2
+       0	*	*	*	*	*	*	4540	0	0	
+
+L 3    5370	*	*	*	*	5758	*	1915	*	2420	*	*	*	*	*	*	*	985	*	*	3
+       0	*	*	*	*	*	*	4540	0	0	
+
+A 4    1060	4803	*	*	*	1559	*	3624	*	4314	*	*	*	*	*	*	*	6184	*	*	4
+       0	*	*	*	*	*	*	4540	0	0	
+
+I 5    6646	6480	*	*	*	*	*	1737	*	4259	6635	*	*	*	*	*	*	698	*	*	5
+       0	*	*	*	*	*	*	4626	0	0	
+
+T 6    3696	3817	*	*	*	*	*	*	*	*	*	*	*	*	*	4486	396	4399	*	*	6
+       0	*	*	*	*	*	*	4626	0	0	
+
+S 7    399	*	*	*	*	5950	5835	*	6372	*	*	5841	*	*	*	2604	6178	*	*	*	7
+       0	*	*	*	*	*	*	4634	0	0	
+
+C 8    5403	113	*	*	*	6560	*	*	*	*	*	*	*	*	*	4608	*	*	*	*	8
+       0	*	*	*	*	*	*	4634	0	0	
+
+P 9    3853	*	*	*	*	*	6085	4187	*	5847	6589	6555	663	3818	*	*	3222	6249	*	*	9
+       0	*	*	*	*	*	*	4634	0	0	
+
+N 10   2201	*	*	5462	*	5653	*	6406	*	*	5051	5380	*	6167	*	2391	1325	3834	*	*	10
+       0	*	*	*	*	*	*	4634	0	0	
+
+G 11   *	*	*	*	*	68	*	*	*	*	*	*	*	*	4432	*	*	*	*	*	11
+       0	*	*	*	*	*	*	4634	0	0	
+
+I 12   *	*	*	*	*	*	*	1044	*	4127	4163	*	4608	5653	*	*	4432	1763	*	*	12
+       0	*	*	*	*	*	*	4634	0	0	
+
+A 13   146	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4820	4039	*	*	13
+       0	*	*	*	*	*	*	4634	0	0	
+
+H 14   5488	*	*	*	*	6126	318	*	*	*	*	5728	*	5351	*	*	3084	*	*	*	14
+       0	*	*	*	*	*	*	4741	0	0	
+
+T 15   4147	6175	*	*	*	5888	*	*	*	*	*	*	5488	*	6318	2693	467	*	*	*	15
+       0	*	*	*	*	*	*	4741	0	0	
+
+Y 16   *	*	*	*	1824	*	*	5728	5887	5089	*	*	5889	6213	*	*	5488	4015	*	894	16
+       0	*	*	*	*	*	*	4741	0	0	
+
+M 17   *	*	*	*	5475	*	*	3261	*	1943	733	*	*	*	*	*	*	6466	*	*	17
+       0	*	*	*	*	*	*	4794	0	0	
+
+A 18   225	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3898	*	3687	*	*	18
+       0	*	*	*	*	*	*	4794	0	0	
+
+A 19   396	*	*	4960	*	4101	*	*	3919	*	*	*	*	4256	5002	*	*	*	*	*	19
+       0	*	*	*	*	*	*	4794	0	0	
+
+E 20   4396	*	3265	933	*	4465	5475	6116	3566	*	*	5285	*	4265	3921	6111	*	*	*	*	20
+       0	*	*	*	*	*	*	4794	0	0	
+
+N 21   952	*	*	*	*	7213	*	*	2662	3805	6203	4652	*	5928	3974	3931	*	5023	*	5878	21
+       0	*	*	*	*	*	*	4825	0	0	
+
+L 22   *	*	*	*	*	*	*	2561	*	292	6210	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	4913	0	0	
+
+Q 23   5650	*	5631	1250	*	*	6487	4147	2594	6450	5540	4463	*	4211	3342	5925	4755	5519	*	*	23
+       0	*	*	*	*	*	*	4913	0	0	
+
+K 24   4244	*	3793	3833	*	5286	5053	6007	1557	5144	6534	4287	*	3436	3254	4142	5401	5972	*	6655	24
+       0	*	*	*	*	*	*	4913	0	0	
+
+A 25   860	*	*	2956	5512	4556	*	5989	5876	4842	*	5852	*	6286	*	4633	4068	5204	6826	5510	25
+       0	*	*	*	*	*	*	4913	0	0	
+
+A 26   497	4110	*	*	*	2795	*	*	*	4999	*	*	*	*	*	4312	*	6976	*	*	26
+       0	*	*	*	*	*	*	4913	0	0	
+
+D 27   3410	*	6062	2554	*	6189	5521	*	1573	5586	*	5255	5952	3485	3204	5898	4632	5016	*	*	27
+       0	*	*	*	*	*	*	4913	0	0	
+
+R 28   2698	*	4272	2710	*	*	*	*	1880	4623	*	4149	*	5185	2415	4475	6296	*	*	*	28
+       0	*	*	*	*	*	*	4913	0	0	
+
+L 29   2767	*	*	5364	*	*	5034	7205	5860	1657	3080	6540	*	4526	2062	6679	*	6626	*	5300	29
+       0	*	*	*	*	*	*	4921	0	0	
+
+G 30   *	*	5829	*	*	307	*	*	5647	*	*	3164	*	5817	*	6941	*	*	*	5907	30
+       0	*	*	*	*	*	*	4921	0	0	
+
+V 31   7002	6556	6439	*	4309	*	2345	2298	*	4621	5303	*	*	*	6433	*	6283	3159	2575	2744	31
+       0	*	*	*	*	*	*	4921	0	0	
+
+S 32   4374	6299	3330	2047	6679	5172	4997	6540	3753	5561	*	4620	5511	4211	4217	3510	2859	6457	6032	*	32
+       0	*	*	*	*	*	*	4921	0	0	
+
+I 33   4542	4298	*	*	6692	6457	*	1587	*	2715	*	*	5608	*	*	*	5127	1510	*	*	33
+       20	*	6181	*	*	*	*	4921	0	0	
+
+K 34   3763	4386	*	5691	*	5602	3656	5875	1128	5141	*	*	*	4938	4327	4786	3472	4631	*	7107	34
+       0	*	*	*	*	*	0	4903	0	1000	
+
+V 35   *	6041	*	*	6989	*	*	2190	*	3866	6834	*	*	*	*	5339	4481	745	*	6112	35
+       0	*	*	*	*	*	0	4903	0	1000	
+
+E 36   *	*	4605	147	*	*	*	*	5602	*	*	*	*	5745	*	5920	*	*	*	*	36
+       0	*	*	*	*	*	0	4903	0	1000	
+
+T 37   4748	4370	*	*	*	*	*	4069	4220	5317	6491	*	*	5015	6886	*	639	3583	*	*	37
+       0	*	*	*	*	*	0	4903	0	1000	
+
+Q 38   *	*	*	7083	*	6264	2834	5602	*	6885	*	3639	*	790	2795	*	*	*	7002	*	38
+       30	*	5595	*	*	*	0	4903	0	1000	
+
+G 39   5179	*	*	5451	*	393	*	*	*	*	*	*	*	*	*	2935	4129	*	*	*	39
+       0	*	*	*	*	609	1538	4897	0	2153	
+
+G 40   1606	*	5061	6391	6622	3402	5699	*	6112	6056	*	5009	5092	4557	5137	2012	3657	5824	*	*	40
+       15	*	6600	*	*	0	*	5231	0	1000	
+
+I 41   4009	6764	3111	4904	*	5510	5197	3875	*	2323	2686	4559	*	5238	*	3940	4391	2997	*	*	41
+       0	*	*	*	*	0	*	5234	0	1000	
+
+G 42   4265	*	5451	5705	*	368	*	5930	4643	*	*	6120	*	6292	5049	6692	7071	*	*	*	42
+       17	6427	*	0	*	*	*	4921	1000	0	
+
+V 43   2921	*	7063	5621	6599	*	*	1688	*	5907	*	6213	3179	6879	6879	3887	3341	2354	*	*	43
+       10	*	7112	*	*	*	*	4921	0	0	
+
+E 44   5457	*	5018	1197	*	4476	5859	4497	2980	*	*	*	5284	2853	5181	6691	4238	5455	*	*	44
+       27	6570	6916	0	*	0	*	5240	1000	1000	
+
+N 45   5014	*	2850	5722	*	3567	5320	*	*	*	*	936	*	4699	6168	4820	4082	6145	*	5768	45
+       0	*	*	*	*	0	*	5240	0	1000	
+
+K 46   3901	*	7043	2465	*	5376	*	4652	2817	4626	6128	7267	2886	3665	2825	4848	5119	4094	*	*	46
+       0	*	*	*	*	*	*	4921	0	0	
+
+L 47   6941	*	*	*	3416	*	6631	2819	*	603	*	*	4258	*	*	*	*	4799	*	*	47
+       0	*	*	*	*	*	*	4921	0	0	
+
+T 48   6413	*	3717	5007	*	6571	*	*	5297	*	*	6439	7112	*	*	1652	1016	6181	*	*	48
+       0	*	*	*	*	*	*	4921	0	0	
+
+E 49   2303	*	2784	3336	*	*	*	6120	3756	5701	*	5135	2811	3010	6703	3505	4711	6092	*	*	49
+       0	*	*	*	*	*	*	4921	0	0	
+
+E 50   2851	*	2828	1619	*	5387	6495	*	3508	6836	*	5417	*	3876	4270	3823	4836	*	*	6120	50
+       38	6326	6181	0	*	*	*	4921	1000	0	
+
+E 51   3472	*	1304	1971	*	*	*	6317	*	5286	5868	*	*	2713	*	*	5338	5852	*	*	51
+       0	*	*	*	*	*	0	4903	0	1000	
+
+I 52   6317	6420	*	*	6211	*	*	482	*	2667	*	*	*	*	*	*	*	3495	*	*	52
+       0	*	*	*	*	0	*	4903	0	1000	
+
+R 53   1801	*	3165	3014	5907	4844	*	*	2710	*	6495	3617	*	3663	4073	5900	5277	*	*	*	53
+       0	*	*	*	*	*	*	4921	0	0	
+
+E 54   2101	*	3489	2199	*	4482	5525	6439	3783	*	*	3412	*	4054	3661	4087	5862	*	*	*	54
+       30	5586	*	0	*	*	*	4921	1509	0	
+
+A 55   193	7063	4909	*	*	6439	*	5977	*	*	*	*	*	*	*	5007	6460	6128	*	*	55
+       0	*	*	*	*	*	*	4921	0	0	
+
+D 56   4538	*	777	2908	*	*	5692	6326	3888	*	*	6626	*	*	5260	4040	5864	5233	*	*	56
+       0	*	*	*	*	*	*	4921	0	0	
+
+A 57   2072	4524	*	*	3805	3371	6224	3708	*	2363	*	*	*	*	6495	5928	6933	2423	5974	5148	57
+       26	*	5817	*	*	*	*	4921	0	0	
+
+I 58   3374	6620	*	*	*	*	*	1836	*	5005	*	*	*	*	6368	*	5799	857	*	*	58
+       0	*	*	*	*	0	*	5205	0	1000	
+
+I 59   *	*	*	*	5043	*	5513	907	*	1980	*	*	*	*	*	*	*	2634	*	*	59
+       0	*	*	*	*	*	*	4921	0	0	
+
+I 60   3769	5977	*	6986	3265	*	6087	1672	*	1625	6599	*	*	*	*	*	*	2878	*	*	60
+       0	*	*	*	*	*	*	4921	0	0	
+
+A 61   555	*	*	*	*	6213	*	4284	*	*	*	*	*	*	*	4304	5598	2448	*	*	61
+       0	*	*	*	*	*	*	4921	0	0	
+
+A 62   1890	5543	6457	*	*	3342	4454	4077	6114	5201	*	4209	*	*	*	2688	2897	3202	*	*	62
+       23	*	5977	*	*	*	*	4921	0	0	
+
+D 63   4808	*	511	3901	*	4123	*	5431	*	*	5284	6798	*	*	*	4476	6573	5311	*	*	63
+       23	5996	*	1000	1000	*	0	5202	1000	1000	
+
+R 64   3810	*	5938	6242	*	3887	6415	1929	2914	4872	6027	5838	5709	6863	4378	*	3544	2350	*	*	64
+       0	*	*	*	*	0	*	5202	0	1000	
+
+S 65   3521	*	3785	2775	*	3148	6900	*	3121	6460	*	4153	2794	6296	6433	3738	3605	3946	*	*	65
+       33	5468	*	0	*	*	*	4921	1860	0	
+
+V 66   3992	6599	*	6326	*	*	*	1268	*	3270	5890	*	4303	6728	*	5817	5782	1823	*	*	66
+       275	2528	*	462	1867	*	*	4921	3468	0	
+
+N 67   5974	*	1078	2651	*	3616	5563	*	4249	*	*	3294	*	7008	6571	3885	6968	*	*	*	67
+       243	2799	6433	414	2003	*	*	4921	3678	0	
+
+K 68   3577	*	5267	2315	*	6343	*	4871	3557	2212	3099	4863	5903	*	3819	5063	3988	6586	*	*	68
+       109	3782	*	0	*	0	*	4909	2777	1000	
+
+D 69   2281	*	2901	1702	*	5346	*	*	*	*	*	5430	6806	4610	*	2152	5045	*	*	*	69
+       0	*	*	*	*	*	*	4921	0	0	
+
+R 70   4703	*	5937	6350	*	*	*	6540	4750	6736	*	5928	5088	*	357	5621	*	5110	*	*	70
+       0	*	*	*	*	*	*	4921	0	0	
+
+F 71   *	*	*	*	236	*	6181	5928	*	4251	*	*	*	*	6350	*	*	*	*	4158	71
+       30	5621	*	0	*	*	*	4921	1000	0	
+
+I 72   2428	*	2957	2571	5609	3944	5737	4445	3135	5937	*	4016	*	5858	*	6074	4087	3784	*	6460	72
+       12	6925	*	0	*	*	*	4921	1000	0	
+
+G 73   5063	*	3919	6350	*	668	5609	*	*	5727	*	3294	6556	5205	6806	4593	4931	*	*	*	73
+       40	5175	*	1141	872	*	*	4921	1640	0	
+
+K 74   5175	4663	*	5609	*	*	*	5346	814	3064	7097	*	*	6181	3609	4382	*	5375	*	5355	74
+       68	4443	*	1775	498	*	*	4921	2038	0	
+
+K 75   *	*	4546	4910	*	5727	5033	7097	2048	6114	6439	5124	1957	6879	2301	4489	4350	6941	*	*	75
+       0	*	*	*	*	*	*	4921	0	0	
+
+L 76   6704	4631	*	*	4589	*	6830	2322	5469	2577	5834	*	6433	7146	5502	*	4197	1498	*	4548	76
+       0	*	*	*	*	*	*	4921	0	0	
+
+L 77   6283	*	*	*	3785	*	3988	2444	6995	2281	*	*	*	*	*	6760	6224	2515	*	1962	77
+       0	*	*	*	*	*	*	4921	0	0	
+
+S 78   4700	7203	4400	2495	5608	*	5216	*	2963	*	6224	4063	*	3063	2480	5504	3556	3733	*	*	78
+       0	*	*	*	*	*	*	4921	0	0	
+
+V 79   2810	4080	6197	*	4745	4490	*	3629	6591	4806	5384	*	*	*	6806	4204	2429	1722	*	*	79
+       0	*	*	*	*	*	*	4921	0	0	
+
+G 80   4578	5907	3737	5059	*	3391	*	*	4399	*	*	5336	2801	*	4845	1363	3294	*	*	*	80
+       0	*	*	*	*	*	*	4921	0	0	
+
+V 81   5736	*	*	*	*	*	*	2508	*	2879	5468	*	3089	*	*	6554	2012	1884	*	*	81
+       0	*	*	*	*	*	*	4923	0	0	
+
+Q 82   2767	*	3936	3836	*	4108	5136	6178	2770	*	*	3949	*	3111	4896	2582	4029	5893	*	6410	82
+       0	*	*	*	*	*	*	4923	0	0	
+
+D 83   2755	*	2058	1816	*	*	6377	*	4163	5174	*	5383	5617	5815	3703	5387	4926	5579	*	6008	83
+       0	*	*	*	*	*	*	4923	0	0	
+
+G 84   1120	4885	*	*	5241	4446	*	4500	*	4370	5447	*	4235	*	*	*	5589	2032	*	*	84
+       15	6550	*	1000	1000	*	*	4923	1000	0	
+
+I 85   5850	*	*	*	5607	*	*	949	*	1466	*	*	*	*	*	*	*	3958	*	5815	85
+       0	*	*	*	*	*	*	4923	0	0	
+
+R 86   3193	*	4167	4309	*	*	3657	6829	1807	5904	*	3436	5462	5359	2733	4373	5015	6458	*	6210	86
+       10	7134	*	1000	1000	*	*	4923	1000	0	
+
+K 87   4692	*	1567	3689	*	6755	3262	*	3113	*	*	2417	*	6039	4981	4324	5454	*	*	6586	87
+       0	*	*	*	*	*	*	4923	0	0	
+
+P 88   1660	*	*	*	5929	4243	*	4638	*	*	*	*	1251	*	*	4504	4095	4274	*	*	88
+       0	*	*	*	*	*	*	4923	0	0	
+
+E 89   3535	*	2275	2466	*	4308	6489	5548	2784	*	*	4012	5619	3852	4695	4022	5062	5937	*	*	89
+       0	*	*	*	*	*	*	4817	0	0	
+
+E 90   2382	*	5900	3203	*	3081	5779	6895	3093	5684	*	4374	6891	2999	4202	3462	4584	4928	*	*	90
+       0	*	*	*	*	*	*	4817	0	0	
+
+L 91   5004	*	*	4736	4376	*	*	2494	*	2071	5346	*	*	*	*	*	5272	1444	5142	5554	91
+       24	5923	*	1585	585	*	*	4817	1000	0	
+
+I 92   *	*	*	*	3431	*	*	1361	*	1468	4215	*	*	*	*	*	*	3594	*	5662	92
+       30	5620	*	1786	494	*	*	4817	1541	0	
+
+Q 93   3623	*	2226	2166	*	6554	*	*	3261	5659	*	3690	*	3023	4029	4213	5520	6673	*	*	93
+       16	*	6542	*	*	*	*	4723	0	0	
+
+K 94   5631	*	3525	2258	*	*	5242	*	2228	*	*	4695	*	3249	2120	4194	6010	*	*	*	94
+       30	*	5598	*	*	*	0	4714	0	1000	
+
+A 95   785	4549	*	*	5864	6948	*	2754	*	4427	*	*	*	*	*	5037	5740	3214	*	*	95
+       101	*	3883	*	*	0	*	4641	0	1662	
+
+L 96   4356	*	*	4058	3664	*	*	3410	*	894	6330	6358	*	5571	6067	*	*	3065	*	*	96
+       151	4014	4744	2070	393	920	1084	4395	2089	2211	
+
+N 97   2554	*	4845	3366	*	*	5263	*	3001	*	5626	2622	6076	4223	3988	2334	4857	*	*	*	97
+       57	*	4691	*	*	0	*	4358	0	2091	
+
+G 98   2124	*	3635	3347	*	1929	*	*	3444	*	3777	5044	5752	3985	4859	5806	*	*	*	*	98
+       22	*	6026	*	*	0	*	4183	0	1551	
+
+D 99   2623	*	3150	2219	*	*	*	*	1748	*	*	4056	5732	*	*	3412	4654	*	*	*	99
+       37	*	5298	*	*	*	0	4134	0	1000	
+
+I 100  1036	*	*	*	*	4182	*	3274	5009	*	*	*	*	5092	5335	5386	3403	2733	*	*	100
+       0	*	*	*	*	0	*	3965	0	1429	
+
+P 101  5066	*	5051	3484	*	5183	4261	*	5015	4922	*	4888	1004	*	*	3199	3928	*	*	*	101
+       0	*	*	*	*	*	*	3776	0	0	
+
+V 102  *	*	*	*	*	*	4656	1737	*	2905	*	*	*	*	*	*	5072	1107	*	4937	102
+       0	*	*	*	*	*	*	3596	0	0	
+
+Y 103  *	*	*	*	2193	*	*	*	*	*	*	*	*	*	*	*	*	*	*	356	103
+       0	*	*	0	*	*	*	3097	0	0	
+
+//

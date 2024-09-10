@@ -1,0 +1,226 @@
+HHsearch 1.5
+NAME  d1xhca3 d.87.1.1 (A:290-351) NADH oxidase /nitrite reductase {Pyrococcus furiosus [TaxId: 2261]}
+FAM   d.87.1.1
+FILE  d1xhca3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1xhca3.a3m -v 1 
+DATE  Tue Jan 22 05:16:26 2013
+LENG  62 match states, 62 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCCCCCCCCCCEEECCCCCEEEEEEECCCCEEECCCCEEEEECCEEEEEEEEHHHHHHHCCC
+>ss_conf
+98567300110110058526888620687403225423776189058887600113443279
+>Consensus
+xdxYdFxFrSsxFKfgdxxiAiiGxtxgxGxWlDxxtKxFxxxxKivGaVVxxDiRkAxxlE
+>d1xhca3 d.87.1.1 (A:290-351) NADH oxidase /nitrite reductase {Pyrococcus furiosus [TaxId: 2261]}
+PRRYNFKFRSTVFKFGKLQIAIIGNTKGEGKWIEDNTKVFYENGKIIGAVVFNDIRKATKLE
+>gi|148269320|ref|YP_001243780.1|(290-351:358) FAD-dependent pyridine nucleotide-disulfide oxidoreductase [Thermotoga petrophila RKU-1] >gi|147734864|gb|ABQ46204.1| FAD-dependent pyridine nucleotide-disulphide oxidoreductase [Thermotoga petrophila RKU-1]  E=1e-20 s/c=1.65 id=49% cov=102%
+PDEYDFHFRSSYFKFGDFPIAIVGELTDRGEWIDSETKSFYRDEKIVGVVVLSDVRKAREWE
+>gi|222100802|ref|YP_002535370.1|(292-353:360) Oxidoreductase [Thermotoga neapolitana DSM 4359] >gi|221573192|gb|ACM24004.1| Oxidoreductase [Thermotoga neapolitana DSM 4359]  E=3e-20 s/c=1.63 id=48% cov=102%
+PDEYDFQFRSSYFKFGDFPIAVLGTLTKDGNWLDSETKAFYRDGKIVGVVVFEDMKKARDWE
+>gi|315230116|ref|YP_004070552.1|(291-352:365) NADH oxidase /nitrite reductase [Thermococcus barophilus MP] >gi|315183144|gb|ADT83329.1| NADH oxidase /nitrite reductase [Thermococcus barophilus MP]  E=2e-16 s/c=1.43 id=52% cov=100%
+-DKYDFEFRSSIFKLAGFSVAIIGKIGGYGRWIDENIKLFIDHrEKIIGAVVLDDLRSATKLE
+>gi|375083338|ref|ZP_09730363.1|(189-353:362) NAD(P)H:rubredoxin oxidoreductase [Thermococcus litoralis DSM 5473] >gi|374741967|gb|EHR78380.1| NAD(P)H:rubredoxin oxidoreductase [Thermococcus litoralis DSM 5473]  E=3e-60 s/c=0.42 id=62% cov=102%
+EDRYDFEFRSTIFKFGNFPIALIGKTRGGGKWLDKKTKVFLEGGKIVGAVVMEDIRKAMMLE
+>gi|242399870|ref|YP_002995295.1|(190-353:363) NAD(P)H:rubredoxin oxidoreductase [Thermococcus sibiricus MM 739] >gi|242266264|gb|ACS90946.1| NAD(P)H:rubredoxin oxidoreductase [Thermococcus sibiricus MM 739]  E=1e-67 s/c=0.55 id=59% cov=102%
+EDSYDFEFRSTVFKFGDIPVALIGKTKGEGKWFDEKTKIFLEGEKVIGAVVIEDVRKAMMLE
+>gi|57640763|ref|YP_183241.1|(190-354:361) NAD(P)H:rubredoxin oxidoreductase [Thermococcus kodakarensis KOD1] >gi|57159087|dbj|BAD85017.1| NAD(P)H:rubredoxin oxidoreductase [Thermococcus kodakarensis KOD1]  E=1e-64 s/c=0.49 id=57% cov=102%
+EDRYPFELRSSVFKFGDLPIAIIGKTRGEGEWLDEHTKAFFQDGKLVGAVVIGDIRKAFSIE
+>gi|212224014|ref|YP_002307250.1|(190-354:361) NAD(P)H:rubredoxin oxidoreductase [Thermococcus onnurineus NA1] >gi|212008971|gb|ACJ16353.1| NAD(P)H:rubredoxin oxidoreductase [Thermococcus onnurineus NA1]  E=2e-69 s/c=0.54 id=51% cov=102%
+DNHYDFSFCSALFKFADLNVALIGRTKGEGRWLDEKTKVFYKDEKPIGAVVLGDVRRAMEVE
+>gi|409096570|ref|ZP_11216594.1|(190-353:365) NAD(P)H:rubredoxin oxidoreductase [Thermococcus zilligii AN1]   E=5e-59 s/c=0.44 id=58% cov=100%
+SASYDF-FGSTVFKFADLSLAIIGRTDGEGKWLDGETRVFYRGDKPVGAVVFGDLRKALRLE
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	2861	1561	*	*	*	*	*	*	*	*	1354	*	*	2920	*	*	*	*	1
+       0	*	*	*	*	*	*	2002	0	0	
+
+R 2    3141	*	604	*	*	*	*	*	*	*	*	3111	*	*	3145	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2087	0	0	
+
+R 3    *	*	*	2115	*	*	3111	*	2925	*	*	*	*	*	1673	2263	*	*	*	*	3
+       0	*	*	*	*	*	*	2087	0	0	
+
+Y 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	4
+       0	*	*	*	*	*	*	2087	0	0	
+
+N 5    *	*	363	*	*	*	*	*	*	*	*	3145	3194	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2087	0	0	
+
+F 6    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       174	*	3141	*	*	*	*	2087	0	0	
+
+K 7    *	*	*	1053	*	*	3055	*	2972	*	*	*	*	2897	*	2879	*	*	*	*	7
+       0	*	*	*	*	0	*	2035	0	1000	
+
+F 8    *	*	*	*	167	*	*	*	*	3194	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2087	0	0	
+
+R 9    *	3111	*	*	*	3141	*	*	*	*	*	*	*	*	375	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2087	0	0	
+
+S 10   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	10
+       0	*	*	*	*	*	*	2087	0	0	
+
+T 11   3111	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1084	1277	*	*	*	11
+       0	*	*	*	*	*	*	2087	0	0	
+
+V 12   *	*	*	*	*	*	*	2166	*	3111	*	*	*	*	*	*	*	1215	*	2115	12
+       0	*	*	*	*	*	*	2087	0	0	
+
+F 13   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 14   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2087	0	0	
+
+F 15   *	*	*	*	204	*	*	*	*	2925	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2087	0	0	
+
+G 16   1471	*	*	*	*	646	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 17   *	*	590	*	*	2925	*	*	3145	*	*	3455	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2087	0	0	
+
+L 18   *	*	*	*	1140	*	*	3397	*	1147	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2087	0	0	
+
+Q 19   *	*	*	*	*	*	*	*	*	*	*	3111	926	3145	*	2029	*	*	*	*	19
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 20   *	*	*	*	*	*	*	878	*	3141	*	*	*	*	*	*	*	1547	*	*	20
+       0	*	*	*	*	*	*	2087	0	0	
+
+A 21   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 22   *	*	*	*	*	*	*	795	*	1728	*	*	*	*	*	*	*	3035	*	*	22
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 23   *	*	*	*	*	*	*	379	*	3035	*	*	*	*	*	*	*	3200	*	*	23
+       0	*	*	*	*	*	*	2087	0	0	
+
+G 24   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2087	0	0	
+
+N 25   *	*	*	3200	*	*	*	*	1227	*	*	3145	*	*	2126	*	3035	*	*	*	25
+       0	*	*	*	*	*	*	2087	0	0	
+
+T 26   *	*	*	*	*	*	*	2925	*	2115	*	*	*	*	*	*	649	*	*	*	26
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 27   *	*	3141	*	*	2925	*	*	1627	*	*	*	*	*	2319	*	2115	*	*	*	27
+       0	*	*	*	*	*	*	2087	0	0	
+
+G 28   *	*	3200	*	*	379	*	*	3035	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2087	0	0	
+
+E 29   *	*	3035	872	*	3455	*	*	*	*	*	*	*	*	3200	*	*	*	*	2925	29
+       0	*	*	*	*	*	*	2087	0	0	
+
+G 30   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 31   *	*	*	2197	*	*	*	*	1277	*	*	3035	*	*	2015	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2087	0	0	
+
+W 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	32
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 33   *	*	*	*	3397	*	*	1500	*	858	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2087	0	0	
+
+E 34   *	*	173	3145	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2087	0	0	
+
+D 35   *	*	3145	1147	*	3141	*	*	3455	*	*	*	*	*	*	2115	*	*	*	*	35
+       0	*	*	*	*	*	*	2087	0	0	
+
+N 36   *	*	*	1539	*	*	3194	*	1728	*	*	2031	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2087	0	0	
+
+T 37   *	*	*	*	*	*	*	2925	*	*	*	*	*	*	*	*	204	*	*	*	37
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 38   *	*	*	*	*	*	*	*	174	*	*	*	*	*	3141	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2087	0	0	
+
+V 39   2112	*	*	*	*	*	*	3397	*	2925	*	*	*	*	*	3200	*	1207	*	*	39
+       0	*	*	*	*	*	*	2087	0	0	
+
+F 40   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2087	0	0	
+
+Y 41   *	*	*	*	3194	*	*	2925	*	2426	*	*	*	*	*	*	*	*	*	804	41
+       0	*	*	*	*	*	*	2087	0	0	
+
+E 42   *	*	2925	1741	*	*	*	*	3111	*	*	*	*	3194	1539	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2087	0	0	
+
+N 43   *	*	1133	*	*	1739	2925	*	*	*	*	3145	*	*	*	*	*	*	*	*	43
+       204	2925	*	0	*	*	*	2087	1000	0	
+
+G 44   *	*	3141	1148	*	1199	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 45   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 46   *	*	*	*	*	*	*	819	*	3194	*	*	2126	*	*	*	*	3397	*	*	46
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 47   *	*	*	*	*	*	*	1135	*	*	*	*	*	*	*	*	*	877	*	*	47
+       0	*	*	*	*	*	*	2087	0	0	
+
+G 48   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2087	0	0	
+
+A 49   379	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2115	*	*	49
+       0	*	*	*	*	*	*	2087	0	0	
+
+V 50   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	50
+       0	*	*	*	*	*	*	2087	0	0	
+
+V 51   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	51
+       0	*	*	*	*	*	*	2087	0	0	
+
+F 52   *	*	*	*	1521	*	*	2292	*	1489	3455	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2087	0	0	
+
+N 53   *	*	2925	1699	*	1563	*	*	*	*	*	3145	*	*	*	3200	*	*	*	*	53
+       0	*	*	*	*	*	*	2087	0	0	
+
+D 54   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2087	0	0	
+
+I 55   *	*	*	*	*	*	*	1673	*	2029	3035	*	*	*	*	*	*	1646	*	*	55
+       0	*	*	*	*	*	*	2087	0	0	
+
+R 56   *	*	*	*	*	*	*	*	3035	*	*	*	*	*	188	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 57   *	*	*	*	*	*	*	*	410	*	*	*	*	*	3111	2925	*	*	*	*	57
+       0	*	*	*	*	*	*	2087	0	0	
+
+A 58   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2087	0	0	
+
+T 59   *	*	*	*	3194	*	*	*	*	3141	1728	*	*	*	2115	*	2031	*	*	*	59
+       0	*	*	*	*	*	*	2087	0	0	
+
+K 60   *	*	3035	2155	*	*	*	*	2031	*	2426	*	*	*	3141	3194	*	*	*	*	60
+       0	*	*	*	*	*	*	2087	0	0	
+
+L 61   *	*	*	*	*	*	*	3194	*	878	*	*	*	*	*	*	*	3111	2115	*	61
+       0	*	*	*	*	*	*	2087	0	0	
+
+E 62   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	62
+       0	*	*	0	*	*	*	2087	0	0	
+
+//

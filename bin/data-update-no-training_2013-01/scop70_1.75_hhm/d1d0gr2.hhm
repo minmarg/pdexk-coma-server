@@ -1,0 +1,162 @@
+HHsearch 1.5
+NAME  d1d0gr2 g.24.1.1 (R:62-101) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.24.1.1
+FILE  d1d0gr2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1d0gr2.a3m -v 1 
+DATE  Mon Jan 21 19:30:01 2013
+LENG  40 match states, 40 columns in multiple alignment
+FILT  44 out of 46 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCCCCEECCCCCCCCCCEEECCCCCCCCCCCCCCCC
+>ss_conf
+9875788844404467765874344588403888874569
+>Consensus
+rCtxCksdqxxxxxCtxTxnTxCqCkxGtFxxxxsxExCq
+>d1d0gr2 g.24.1.1 (R:62-101) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+RCTRCDSGEVELSPCTTTRNTVCQCEEGTFREEDSPEMCR
+>gi|395842544|ref|XP_003794077.1|(108-156:422) PREDICTED: tumor necrosis factor receptor superfamily member 10A [Otolemur garnettii]  E=5e-06 s/c=1.11 id=55% cov=100%
+-CTACSSGTEhvdpapedkvEKSPCDTNRDTECQCKGGTFWTKESPEVCQ
+>gi|380849721|gb|AFE85494.1|(106-145:367) Tnfrsf10b [Mus caroli]   E=2e-11 s/c=1.80 id=51% cov=102%
+RCTVCKRDKVQKIPCSITRNTECQCKPGTFEDKDSTEICQ
+>gi|162951875|ref|NP_989446.2|(80-119:368) tumor necrosis factor receptor superfamily member 10B precursor [Gallus gallus] >gi|7330734|gb|AAF60221.1|AF161713_1 TvbS1 [Gallus gallus]  E=2e-08 s/c=1.56 id=52% cov=100%
+-CRTCREDQVEVSPCIPTRNTQCACKNGTFCLPDHPcEMCQ
+>gi|410922463|ref|XP_003974702.1|(105-145:447) PREDICTED: tumor necrosis factor receptor superfamily member 1A-like [Takifugu rubripes]  E=0.0002 s/c=1.20 id=41% cov=102%
+RCTQCRSDQEVLRQCAHTHNTECRCRPGRFCDPDqACELCK
+>gi|194208247|ref|XP_001491074.2|(121-159:495) PREDICTED: tumor necrosis factor receptor superfamily member 10B-like [Equus caballus]  E=3e-09 s/c=1.65 id=45% cov=100%
+-CSTCKSDEERIADCTRTEDTQCRCKRGTFHGEDFPEVCQ
+>gi|224050866|ref|XP_002197985.1|(80-118:304) PREDICTED: similar to death domain-containing tumor necrosis factor receptor superfamily member 23 [Taeniopygia guttata]  E=8e-08 s/c=1.53 id=35% cov=100%
+-CRQCREDQITLRPCTLTQNAECKCKQGYFCDDEGCEICQ
+>gi|351703106|gb|EHB06025.1|(64-102:399) Tumor necrosis factor receptor superfamily member 10B [Heterocephalus glaber]  E=4e-07 s/c=1.48 id=48% cov=100%
+-CRVCAQEETQKYSCNRTTNTVCYCKNGTFRSEGSPEFCQ
+>gi|55250106|gb|AAH85545.1|(97-136:418) Hdr protein [Danio rerio] >gi|197247276|gb|AAI64857.1| Hdr protein [Danio rerio]  E=0.0002 s/c=1.21 id=32% cov=100%
+-CDKCRIDQETIEKCTSTQNTRCKCRNGSFClPDQACEVCK
+>gi|18859491|ref|NP_571915.1|(99-139:438) tumor necrosis factor receptor superfamily, member a precursor [Danio rerio] >gi|10880729|gb|AAG24365.1|AF250042_1 ovarian TNF receptor [Danio rerio]  E=1e-05 s/c=1.28 id=34% cov=102%
+QCSQCHRDQTVVAECTSTSNTKCDCKFGTFClPDEPCEVCK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	1996	*	*	*	*	2876	706	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2317	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 3    5612	*	4943	*	*	*	*	*	*	4733	5346	*	*	*	2408	3267	755	*	*	*	3
+       0	*	*	*	*	*	*	2946	0	0	
+
+R 4    3279	*	*	4958	*	*	4306	*	3589	*	*	*	5299	2938	3502	*	3113	1429	*	*	4
+       0	*	*	*	*	*	*	2946	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2946	0	0	
+
+D 6    4628	*	3946	*	*	*	4851	*	1064	*	*	*	*	*	1576	4430	*	*	*	*	6
+       0	*	*	*	*	*	*	2946	0	0	
+
+S 7    *	*	3841	2542	*	*	*	4943	*	5560	*	*	4522	4628	4145	825	*	*	*	*	7
+       33	5473	*	3322	152	*	*	2946	1000	0	
+
+G 8    *	*	570	3931	*	1940	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2946	0	0	
+
+E 9    *	*	*	1588	*	*	*	*	2715	*	*	*	*	1173	*	*	3806	*	*	*	9
+       0	*	*	*	*	*	*	2946	0	0	
+
+V 10   *	*	5577	971	*	*	*	3673	4094	*	*	*	*	*	*	*	3118	2206	*	*	10
+       35	5387	*	3322	152	*	*	2946	1000	0	
+
+E 11   *	4392	*	1116	*	*	5908	3794	*	*	*	3748	*	3608	5060	*	3159	3266	*	*	11
+       0	*	*	*	*	*	*	2946	0	0	
+
+L 12   *	*	*	5637	*	*	*	3178	1746	2875	3987	*	*	*	4790	4958	4089	2030	*	*	12
+       0	*	*	*	*	*	*	2946	0	0	
+
+S 13   3118	*	*	4943	5664	*	*	5515	*	*	*	4019	*	*	2441	1250	3265	*	*	4628	13
+       0	*	*	*	*	*	*	2946	0	0	
+
+P 14   5714	5346	5060	4851	*	*	*	4958	4226	4649	*	*	1222	4303	3824	2208	*	*	*	*	14
+       0	*	*	*	*	*	*	2946	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 16   5015	*	4430	*	*	*	*	4026	*	5299	*	3332	*	*	*	5515	543	5128	*	*	16
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 17   3419	*	*	*	*	*	4349	4190	5128	3195	4902	*	4576	*	3483	3536	1390	4958	*	*	17
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 18   5128	*	*	*	*	*	*	3590	*	*	*	4430	*	*	*	*	248	*	*	*	18
+       0	*	*	*	*	*	*	2946	0	0	
+
+R 19   3900	*	*	3782	*	5895	5015	*	4544	*	*	*	*	2641	1246	3204	3659	*	*	*	19
+       0	*	*	*	*	*	*	2946	0	0	
+
+N 20   *	*	1059	*	*	*	*	*	*	*	*	943	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 21   3998	*	*	*	*	*	*	*	*	*	*	*	*	5775	5435	5511	194	*	*	*	21
+       0	*	*	*	*	*	*	2946	0	0	
+
+V 22   4790	*	*	1346	*	5794	*	*	3228	*	5491	*	*	3873	3437	*	*	1928	*	*	22
+       0	*	*	*	*	*	*	2946	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2946	0	0	
+
+Q 24   4678	*	4851	3917	*	*	*	*	4120	*	*	*	*	705	2749	*	*	*	*	4628	24
+       0	*	*	*	*	*	*	2946	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2946	0	0	
+
+E 26   *	*	*	2605	*	*	*	*	417	*	*	5435	*	*	3979	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2946	0	0	
+
+E 27   5299	*	*	3346	4851	4430	*	*	3687	*	*	3158	1139	4128	5060	3956	*	*	*	*	27
+       0	*	*	*	*	*	*	2946	0	0	
+
+G 28   *	*	*	*	*	43	*	*	*	*	*	5090	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2946	0	0	
+
+T 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3129	2606	630	*	*	3728	29
+       0	*	*	*	*	*	*	2946	0	0	
+
+F 30   *	*	*	*	55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4733	30
+       0	*	*	*	*	*	*	2946	0	0	
+
+R 31   *	1417	*	3149	*	*	5012	*	*	*	*	*	*	3709	1626	*	*	*	3619	*	31
+       215	2855	*	0	*	*	*	2944	1660	0	
+
+E 32   5558	*	1967	2958	*	3660	*	*	*	4638	*	2496	2248	*	*	4624	4418	*	*	*	32
+       26	*	5823	*	*	*	*	2944	0	0	
+
+E 33   4261	4911	2206	1595	*	5528	*	4679	2820	*	*	5245	2856	*	*	*	*	*	*	*	33
+       38	5276	*	0	*	0	*	2948	1000	1000	
+
+D 34   *	*	1220	2629	*	4624	*	*	*	*	*	2127	*	3193	*	5044	*	*	*	*	34
+       107	3812	*	0	*	*	*	2944	1432	0	
+
+S 35   2013	*	*	*	4028	4050	3661	*	*	*	*	*	4821	*	*	1018	5478	*	*	*	35
+       0	*	*	*	*	*	*	2944	0	0	
+
+P 36   4776	1759	*	*	*	*	*	5305	*	*	*	*	1088	*	*	5647	2714	*	*	*	36
+       119	3661	*	0	*	*	*	2944	1376	0	
+
+E 37   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2944	0	0	
+
+M 38   *	*	*	*	2751	*	*	2188	*	4995	1834	*	*	*	*	*	*	1643	*	*	38
+       0	*	*	*	*	*	*	2944	0	0	
+
+C 39   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2944	0	0	
+
+R 40   *	*	*	4986	*	*	*	*	1974	*	*	*	*	1171	1890	*	*	*	*	*	40
+       0	*	*	0	*	*	*	2916	0	0	
+
+//

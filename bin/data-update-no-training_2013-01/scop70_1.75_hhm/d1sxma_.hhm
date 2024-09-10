@@ -1,0 +1,157 @@
+HHsearch 1.5
+NAME  d1sxma_ g.3.7.2 (A:) Noxiustoxin {Mexican scorpion (Centruroides noxius) [TaxId: 6878]}
+FAM   g.3.7.2
+FILE  d1sxma_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1sxma_.a3m -v 1 
+DATE  Tue Jan 22 02:03:56 2013
+LENG  39 match states, 39 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.4 
+SEQ
+>ss_pred
+CEEEECCCCCHHHHHHHHHHCCCCCCCCCCCCEEEEECC
+>ss_conf
+923012188233005778750612475002772034169
+>Consensus
+txinvkctspkqclxpckxxxgxxagakcmngkckcynn
+>d1sxma_ g.3.7.2 (A:) Noxiustoxin {Mexican scorpion (Centruroides noxius) [TaxId: 6878]}
+TIINVKCTSPKQCSKPCKELYGSSAGAKCMNGKCKCYNN
+>gi|90111810|sp|P0C161.1|KAX28_CENEL(1-39:39) RecName: Full=Potassium channel toxin alpha-KTx 2.8; AltName: Full=Toxin Ce1  E=2e-11 s/c=1.85 id=85% cov=103%
+TVINVKCTSPKQCLKPCKDLYGPHAGAKCMNGKCKCYNN
+>gi|90111813|sp|P0C164.1|KAX2B_CENEL(1-37:39) RecName: Full=Potassium channel toxin alpha-KTx 2.11; AltName: Full=Toxin Ce4  E=9e-10 s/c=1.80 id=84% cov=97%
+TIINVKCTSPKQCLLPCKEIYGIHAGAKCMNGKCKCY--
+>gi|730727|sp|P40755.1|KAX22_CENMA(1-39:39) RecName: Full=Potassium channel toxin alpha-KTx 2.2; AltName: Full=Margatoxin; Short=MgTX >gi|157832058|pdb|1MTX|A Chain A, Determination Of The Three-Dimensional Structure Of Margatoxin By 1h, 13c, 15n Triple-Resonance Nuclear Magnetic Resonance Spectroscopy >gi|451234|gb|AAB27999.1| margatoxin, MgTX=voltage-dependent potassium channels inhibitor [Centruroides margaritatus=new world scorpion, venom, Peptide, 39 aa]  E=6e-09 s/c=1.64 id=82% cov=97%
+TIINVKCTSPKQCLPPCKAQFGQSAGAKCMNGKCKCY--
+>gi|90111814|sp|P0C165.1|KAX2C_CENEL(1-36:39) RecName: Full=Potassium channel toxin alpha-KTx 2.12; AltName: Full=Toxin Ce5  E=1e-08 s/c=1.76 id=81% cov=95%
+TIINVKCTSPKQCLPPCKEIYGRHAGAKCMNGKCHC---
+>gi|34925055|sp|P59847.1|KAX25_CENLM(1-39:39) RecName: Full=Potassium channel toxin alpha-KTx 2.5; AltName: Full=Hongotoxin-1; Short=HgTX1 >gi|37926418|pdb|1HLY|A Chain A, Solution Structure Of Hongotoxin 1  E=7e-08 s/c=1.55 id=74% cov=97%
+TVIDVKCTSPKQCLPPCKAQFGIRAGAKCMNGKCKCY--
+>gi|1173376|sp|P45629.1|KAX23_CENLL(3-37:38) RecName: Full=Potassium channel toxin alpha-KTx 2.3; AltName: Full=CllTx1; AltName: Full=Toxin I; AltName: Full=Toxin II.10.9.1; AltName: Full=Toxin-1  E=5e-07 s/c=1.64 id=69% cov=92%
+--INVKCTSPQQCLRPCKDRFGQHAGGKCINGKCKCY--
+>gi|218526452|sp|P85529.1|KAX2D_CENSU(1-37:38) RecName: Full=Potassium channel toxin alpha-KTx 2.13; AltName: Full=Toxin Css20  E=9e-07 s/c=1.53 id=70% cov=95%
+-FINVKCSSPQQCLKPCKAAFGISAGGKCINGKCKCY--
+>gi|34925059|sp|P59849.1|KAX26_CENLM(1-34:34) RecName: Full=Potassium channel toxin alpha-KTx 2.6; AltName: Full=Hongotoxin-3; Short=HgTX3  E=0.0001 s/c=1.45 id=74% cov=90%
+TFINVKCTSPKQCLPACKEKFGXAAG-KCMNGKCK----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1309	0	0	
+
+I 2    *	*	*	*	1804	*	*	1097	*	*	*	*	*	*	*	*	*	2023	*	*	2
+       0	*	*	*	*	*	*	1393	0	0	
+
+I 3    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1393	0	0	
+
+N 4    *	*	3133	*	*	*	*	*	*	*	*	175	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1393	0	0	
+
+V 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	5
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 6    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1393	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2966	198	*	*	*	8
+       0	*	*	*	*	*	*	1393	0	0	
+
+S 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	9
+       0	*	*	*	*	*	*	1393	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 11   *	*	*	*	*	*	*	*	415	*	*	*	*	2001	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1393	0	0	
+
+Q 12   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1393	0	0	
+
+S 14   *	*	*	*	*	*	*	*	*	174	*	*	*	*	*	3139	*	*	*	*	14
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 15   *	*	*	*	*	*	*	*	1541	3313	*	*	1204	*	3037	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1393	0	0	
+
+P 16   3170	*	*	*	*	*	*	*	*	*	*	*	170	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 18   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1393	0	0	
+
+E 19   1562	*	2159	1193	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1393	0	0	
+
+L 20   2966	*	*	*	*	*	*	2232	3170	2213	*	*	*	2247	3037	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1393	0	0	
+
+Y 21   *	*	*	*	807	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1223	21
+       0	*	*	*	*	*	*	1393	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1393	0	0	
+
+S 23   *	*	*	*	*	*	*	1377	*	*	*	*	3117	2021	2986	2976	*	*	*	*	23
+       0	*	*	*	*	*	*	1357	0	0	
+
+S 24   3170	*	*	*	*	*	1195	*	*	*	*	*	*	*	3133	1564	*	*	*	*	24
+       0	*	*	*	*	*	*	1393	0	0	
+
+A 25   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1393	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       170	*	3170	*	*	*	*	1393	0	0	
+
+A 27   465	*	*	*	*	1859	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	0	*	1357	0	1000	
+
+K 28   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1393	0	0	
+
+M 30   *	*	*	*	*	*	*	2001	*	*	415	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1393	0	0	
+
+N 31   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1393	0	0	
+
+G 32   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 33   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1393	0	0	
+
+K 35   *	*	*	*	*	*	3155	*	172	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1393	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1357	0	0	
+
+Y 37   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	37
+       0	*	*	*	*	*	*	1330	0	0	
+
+N 38   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1093	0	0	
+
+N 39   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	39
+       0	*	*	0	*	*	*	1093	0	0	
+
+//

@@ -1,0 +1,115 @@
+HHsearch 1.5
+NAME  d1jb0x_ f.23.20.1 (X:) Subunit PsaX of photosystem I reaction centre {Synechococcus elongatus [TaxId: 32046]}
+FAM   f.23.20.1
+FILE  d1jb0x_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1jb0x_.a3m -v 1 
+DATE  Mon Jan 21 22:00:49 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.1 
+SEQ
+>ss_pred
+CCCHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+96237889999999999999999876149
+>Consensus
+ptyxfrtxwaxlllainflvaayyfaaaa
+>d1jb0x_ f.23.20.1 (X:) Subunit PsaX of photosystem I reaction centre {Synechococcus elongatus [TaxId: 32046]}
+PTYAFRTFWAVLLLAINFLVAAYYFAAAA
+>gi|220909737|ref|YP_002485048.1|(15-39:43) photosystem one PsaX [Cyanothece sp. PCC 7425] >gi|219866348|gb|ACL46687.1| photosystem one PsaX [Cyanothece sp. PCC 7425]  E=0.0004 s/c=1.91 id=85% cov=90%
+PTYVFRTFWALLLLAINFIVAAYYF----
+>gi|298491149|ref|YP_003721326.1|(9-33:37) photosystem one PsaX ['Nostoc azollae' 0708] >gi|298233067|gb|ADI64203.1| photosystem one PsaX ['Nostoc azollae' 0708]  E=0.0005 s/c=1.90 id=88% cov=90%
+PTYAFRTGWALLLLAINFLVAAYYF----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1107	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1107	0	0	
+
+Y 3    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	3
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 4    599	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1556	*	*	4
+       0	*	*	*	*	*	*	1107	0	0	
+
+F 5    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1107	0	0	
+
+R 6    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1107	0	0	
+
+T 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	7
+       0	*	*	*	*	*	*	1107	0	0	
+
+F 8    *	*	*	*	578	1599	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1107	0	0	
+
+W 9    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	9
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 10   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1107	0	0	
+
+V 11   *	*	*	*	*	*	*	*	*	578	*	*	*	*	*	*	*	1599	*	*	11
+       0	*	*	*	*	*	*	1107	0	0	
+
+L 12   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1107	0	0	
+
+L 13   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1107	0	0	
+
+L 14   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 15   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1107	0	0	
+
+I 16   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1107	0	0	
+
+N 17   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1107	0	0	
+
+F 18   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1107	0	0	
+
+L 19   *	*	*	*	*	*	*	1556	*	599	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1107	0	0	
+
+V 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	20
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 21   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1107	0	0	
+
+Y 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	23
+       0	*	*	*	*	*	*	1107	0	0	
+
+Y 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	24
+       0	*	*	*	*	*	*	1107	0	0	
+
+F 25   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1107	0	0	
+
+A 26   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1000	0	0	
+
+A 27   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1000	0	0	
+
+A 28   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1000	0	0	
+
+A 29   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

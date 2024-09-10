@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  d2adra1 g.37.1.1 (A:102-130) ADR1 {Synthetic, based on Saccharomyces cerevisiae sequence}
+FAM   g.37.1.1
+FILE  d2adra1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2adra1.a3m -v 1 
+DATE  Tue Jan 22 05:31:26 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  109 out of 14649 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred
+CCCCCCCCCCEECCCCCCEEEEEEECCCC
+>ss_conf
+97137998876134043824205534789
+>Consensus
+kpxxCxxCxkxFxrxxhLxrHxrxHtgek
+>d2adra1 g.37.1.1 (A:102-130) ADR1 {Synthetic, based on Saccharomyces cerevisiae sequence}
+RSFVCEVCTRAFARQEHLKRHYRSHTNEK
+>gi|241958994|ref|XP_002422216.1|(422-450:555) transcriptional regulator, putative [Candida dubliniensis CD36] >gi|223645561|emb|CAX40220.1| transcriptional regulator, putative [Candida dubliniensis CD36]  E=4e-05 s/c=1.75 id=37% cov=103%
+KPYQCNICYKRFARSHDKKRHELLHQGEK
+>gi|320591643|gb|EFX04082.1|(268-295:720) c2h2 type zinc finger domain containing protein [Grosmannia clavigera kw1407]  E=0.0007 s/c=1.66 id=31% cov=100%
+KKHKCPYCETEFTRHHNLKSHLLTHSQE-
+>gi|348530684|ref|XP_003452840.1|(840-867:1349) PREDICTED: hypothetical protein LOC100706495 [Oreochromis niloticus]  E=0.0006 s/c=1.66 id=38% cov=100%
+KRFVCSLCNKTYATSQNLEVHMRIHTGE-
+>gi|2645674|gb|AAB87452.1|(633-661:812) krupple-related zinc finger protein [Mus musculus]   E=3e-05 s/c=1.77 id=37% cov=103%
+RPFPCPECGKRFSQRSVLVTHQRTHTGER
+>gi|260819933|ref|XP_002605290.1|(337-365:998) hypothetical protein BRAFLDRAFT_127763 [Branchiostoma floridae] >gi|229290622|gb|EEN61300.1| hypothetical protein BRAFLDRAFT_127763 [Branchiostoma floridae]  E=3e-05 s/c=1.75 id=37% cov=103%
+KRFTCPDCSKKFMRSDHLSKHIKTHQNKK
+>gi|326678363|ref|XP_697912.5|(425-453:3144) PREDICTED: hypothetical protein LOC569436 [Danio rerio]   E=5e-05 s/c=1.74 id=30% cov=103%
+KLHRCAQCGKSFTQKGHLTYHMKIHSGEK
+>gi|334326218|ref|XP_003340724.1|(1566-1594:1721) PREDICTED: ras-responsive element-binding protein 1 [Monodelphis domestica]  E=0.0005 s/c=1.62 id=37% cov=103%
+RPYKCQTCERTFTLKHSLVRHQRIHQKVK
+>gi|70983205|ref|XP_747130.1|(14-41:715) C2H2 transcription factor [Aspergillus fumigatus Af293] >gi|66844755|gb|EAL85092.1| C2H2 transcription factor, putative [Aspergillus fumigatus Af293]  E=0.0003 s/c=1.72 id=34% cov=100%
+-PHQCSICFKSYKRREHLQRHRNSHSADR
+>gi|313220920|emb|CBY31755.1|(365-391:625) unnamed protein product [Oikopleura dioica]   E=0.0003 s/c=1.77 id=36% cov=97%
+RPYKCTHCNKGFRISGHLARHMKSDTH--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	*	*	*	933	*	*	*	*	*	1071	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4661	0	0	
+
+S 2    6546	*	*	5449	*	*	6563	6438	3362	6040	*	6502	811	4183	3399	5420	4394	5660	6614	*	2
+       0	*	*	*	*	*	*	4678	0	0	
+
+F 3    *	*	*	*	1470	*	1987	*	*	6253	*	6066	*	*	5995	*	*	5848	*	1619	3
+       0	*	*	*	*	*	*	4887	0	0	
+
+V 4    3289	6186	*	4415	6934	6053	4441	4331	2352	6729	5299	6585	4103	2937	3474	4198	4437	3504	*	6746	4
+       0	*	*	*	*	*	*	4887	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	4889	0	0	
+
+E 6    5171	*	3222	3629	*	5290	5004	*	4131	5799	6192	5316	2153	4016	5273	2656	3013	6703	*	6812	6
+       0	*	*	*	*	*	*	4889	0	0	
+
+V 7    6274	*	6776	3769	4076	*	3170	1895	5813	4125	6069	*	*	4682	*	6192	4221	3033	5775	2960	7
+       70	4395	*	1000	1000	*	*	4889	2480	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4889	0	0	
+
+T 9    6792	*	3959	3720	6609	1864	5345	*	4343	*	6762	2569	4533	3387	6831	3073	5041	5851	*	*	9
+       0	*	*	*	*	*	*	4889	0	0	
+
+R 10   4102	*	*	*	*	*	*	*	948	6436	5506	*	*	5718	1655	6183	6459	6653	5775	*	10
+       0	*	*	*	*	*	*	4889	0	0	
+
+A 11   2689	5526	*	5774	6946	2870	6517	*	3695	4695	6002	6222	5310	5419	2637	2730	2792	*	*	*	11
+       0	*	*	*	*	*	*	4889	0	0	
+
+F 12   *	5605	*	*	158	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3587	12
+       0	*	*	*	*	*	*	4889	0	0	
+
+A 13   3073	5803	6732	6429	*	4555	5529	5519	2845	5083	5917	4308	5551	5591	3237	2647	2679	4666	5851	*	13
+       0	*	*	*	*	*	*	4889	0	0	
+
+R 14   *	*	5725	5688	*	*	4500	5555	4246	4991	*	6281	*	3203	850	4107	4051	6906	*	6754	14
+       0	*	*	*	*	*	*	4889	0	0	
+
+Q 15   4715	*	*	6600	6361	5918	5014	5176	2228	3652	*	4038	3414	3810	3907	2240	4210	6264	*	*	15
+       0	*	*	*	*	*	*	4889	0	0	
+
+E 16   6583	*	2398	2331	6761	3328	3098	*	6596	*	*	6815	6601	4494	6014	2760	3852	6361	*	4130	16
+       0	*	*	*	*	*	*	4889	0	0	
+
+H 17   6842	*	3439	4550	*	*	1053	6723	6222	6325	*	2325	*	4729	*	4216	6374	5926	*	5675	17
+       0	*	*	*	*	*	*	4889	0	0	
+
+L 18   5775	4490	*	*	*	*	*	6281	5097	450	5246	*	*	6577	5233	*	*	3478	*	6625	18
+       0	*	*	*	*	*	*	4889	0	0	
+
+K 19   3723	*	7011	4238	*	6732	5353	3745	1847	5453	6640	4886	*	3074	3535	4014	3354	5131	*	5859	19
+       0	*	*	*	*	*	*	4889	0	0	
+
+R 20   4214	*	6784	4608	5746	6887	*	5546	4110	5214	*	5559	*	4736	953	5804	3692	3710	*	6000	20
+       0	*	*	*	*	*	*	4889	0	0	
+
+H 21   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       12	6949	*	0	*	*	*	4889	1000	0	
+
+Y 22   *	*	*	2222	6274	6374	5963	3057	4303	3204	2214	*	*	3191	4648	5439	5715	5099	*	5100	22
+       0	*	*	*	*	*	*	4889	0	0	
+
+R 23   *	*	5798	*	6482	6936	*	*	2760	3240	5328	5838	*	5405	877	5804	5008	5278	*	5383	23
+       0	*	*	*	*	*	*	4889	0	0	
+
+S 24   5319	6325	*	*	*	6568	*	2179	4832	3443	6192	*	*	6035	4629	2731	1587	4290	*	*	24
+       11	7024	*	0	*	*	*	4889	1000	0	
+
+H 25   *	*	5555	*	*	*	60	*	*	5687	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	4889	0	0	
+
+T 26   5403	*	6458	6772	6038	5540	*	*	6059	5436	5961	5190	*	4632	4655	2330	869	6476	*	*	26
+       0	*	*	*	*	*	*	4874	0	0	
+
+N 27   5405	*	4697	*	*	903	4338	*	3711	*	*	3625	*	4311	4062	4008	6337	6448	*	*	27
+       0	*	*	*	*	*	*	4870	0	0	
+
+E 28   6593	*	2695	728	*	*	5640	5613	4676	*	*	6335	6563	4300	*	6220	6159	4304	*	*	28
+       0	*	*	*	*	*	*	4857	0	0	
+
+K 29   *	*	*	*	*	*	*	*	679	*	*	*	*	*	1413	*	*	*	*	*	29
+       0	*	*	0	*	*	*	4665	0	0	
+
+//

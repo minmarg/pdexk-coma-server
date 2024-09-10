@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  d1vk6a4 g.41.14.1 (A:97-125) NADH pyrophosphatase intervening domain {Escherichia coli [TaxId: 562]}
+FAM   g.41.14.1
+FILE  d1vk6a4
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vk6a4.a3m -v 1 
+DATE  Tue Jan 22 03:25:59 2013
+LENG  29 match states, 29 columns in multiple alignment
+FILT  33 out of 35 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCHHHHHHHHHHHCCCCC
+>ss_conf
+98677885767610376751352203789
+>Consensus
+xCGYCGhxMxxsxtEwacLCxhCreRYYP
+>d1vk6a4 g.41.14.1 (A:97-125) NADH pyrophosphatase intervening domain {Escherichia coli [TaxId: 562]}
+YCGYCGHEMYPSKTEWAMLCSHCRERYYP
+>gi|292486742|ref|YP_003529612.1|(97-125:260) NADH pyrophosphatase [Erwinia amylovora CFBP1430] >gi|292897974|ref|YP_003537343.1| NADH pyrophosphatase [Erwinia amylovora ATCC 49946] >gi|428783671|ref|ZP_19001165.1| NADH pyrophosphatase [Erwinia amylovora ACW56400] >gi|291197822|emb|CBJ44917.1| NADH pyrophosphatase [Erwinia amylovora ATCC 49946] >gi|291552159|emb|CBA19196.1| NADH pyrophosphatase [Erwinia amylovora CFBP1430] >gi|426277846|gb|EKV55570.1| NADH pyrophosphatase [Erwinia amylovora ACW56400]  E=8e-06 s/c=1.84 id=73% cov=103%
+WCGYCGHKMHSSKTEWACLCHHCRQRYYP
+>gi|333925140|ref|YP_004498719.1|(106-134:264) NADH pyrophosphatase [Serratia sp. AS12] >gi|333930093|ref|YP_004503671.1| NADH pyrophosphatase [Serratia plymuthica AS9] >gi|386326964|ref|YP_006023134.1| NADH pyrophosphatase [Serratia sp. AS13] >gi|333471700|gb|AEF43410.1| NADH pyrophosphatase [Serratia plymuthica AS9] >gi|333489200|gb|AEF48362.1| NADH pyrophosphatase [Serratia sp. AS12] >gi|333959297|gb|AEG26070.1| NADH pyrophosphatase [Serratia sp. AS13]  E=2e-08 s/c=2.14 id=73% cov=103%
+FCGYCGHEMHLSRTESACLCGHCRERYYP
+>gi|253987881|ref|YP_003039237.1|(99-127:257) NADH pyrophosphatase [Photorhabdus asymbiotica] >gi|253779331|emb|CAQ82492.1| NADH pyrophosphatase [Photorhabdus asymbiotica]  E=2e-08 s/c=2.14 id=70% cov=103%
+YCGYCGNEMHHSVSEWACLCHHCHERYYP
+>gi|294634217|ref|ZP_06712763.1|(87-115:247) NAD(+) diphosphatase, partial [Edwardsiella tarda ATCC 23685] >gi|291092362|gb|EFE24923.1| NAD(+) diphosphatase [Edwardsiella tarda ATCC 23685]  E=1e-07 s/c=2.06 id=60% cov=103%
+FCGYCGQPMQASQHEWACLCAHCQQRYYP
+>gi|197286604|ref|YP_002152476.1|(98-126:261) NADH pyrophosphatase [Proteus mirabilis HI4320] >gi|227355203|ref|ZP_03839612.1| NADH pyrophosphatase [Proteus mirabilis ATCC 29906] >gi|425069660|ref|ZP_18472775.1| NADH pyrophosphatase [Proteus mirabilis WGLW6] >gi|194684091|emb|CAR45477.1| NADH pyrophosphatase [Proteus mirabilis HI4320] >gi|227164712|gb|EEI49566.1| NADH pyrophosphatase [Proteus mirabilis ATCC 29906] >gi|404596812|gb|EKA97330.1| NADH pyrophosphatase [Proteus mirabilis WGLW6]  E=6e-07 s/c=1.98 id=60% cov=103%
+FCGYCGAKMRHSESEWACLCDNCHERYYP
+>gi|317494904|ref|ZP_07953314.1|(97-125:259) NUDIX domain-containing protein [Enterobacteriaceae bacterium 9_2_54FAA] >gi|316917092|gb|EFV38441.1| NUDIX domain-containing protein [Enterobacteriaceae bacterium 9_2_54FAA]  E=7e-09 s/c=2.19 id=70% cov=103%
+FCGYCGHEMYTSRSEWACMCPHCRQRYYP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Y 1    *	*	*	*	938	*	*	*	*	*	*	*	*	*	*	*	*	*	2755	1600	1
+       0	*	*	*	*	*	*	1790	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1789	0	0	
+
+G 3    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1789	0	0	
+
+Y 4    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	4
+       0	*	*	*	*	*	*	1789	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1789	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1789	0	0	
+
+H 7    3659	5009	*	*	*	*	458	*	*	*	*	3980	*	4752	*	*	4025	*	*	*	7
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 8    3338	*	5005	1045	*	*	*	*	3005	*	*	*	2675	*	*	4171	4364	*	*	*	8
+       0	*	*	*	*	*	*	1789	0	0	
+
+M 9    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1789	0	0	
+
+Y 10   *	*	*	*	*	*	936	*	4463	*	*	*	*	3066	3057	5030	4868	4055	*	3890	10
+       0	*	*	*	*	*	*	1789	0	0	
+
+P 11   2182	*	*	*	5322	*	1773	*	*	4957	*	5128	2600	*	5107	5165	3671	4171	*	4463	11
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 12   *	*	*	*	*	3741	*	*	*	*	*	*	*	*	*	112	*	*	*	*	12
+       0	*	*	*	*	*	*	1789	0	0	
+
+K 13   5044	*	*	3659	*	*	*	*	1206	4868	5006	*	*	2570	2915	*	4017	5101	*	*	13
+       0	*	*	*	*	*	*	1789	0	0	
+
+T 14   *	*	*	*	*	*	3069	*	*	*	*	*	*	3741	4226	2320	857	*	*	*	14
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 15   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1789	0	0	
+
+W 16   *	*	*	*	3661	*	*	*	*	3060	*	*	*	*	*	4957	*	*	379	*	16
+       0	*	*	*	*	*	*	1789	0	0	
+
+A 17   112	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3741	*	*	17
+       0	*	*	*	*	*	*	1789	0	0	
+
+M 18   4171	668	*	*	*	*	*	*	*	3785	2835	*	*	*	3741	5185	*	*	*	*	18
+       0	*	*	*	*	*	*	1789	0	0	
+
+L 19   *	*	*	*	*	*	*	*	*	65	4497	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1789	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1789	0	0	
+
+S 21   3159	*	2543	*	*	2551	3125	*	*	*	*	3707	3237	*	5100	2188	*	*	*	*	21
+       0	*	*	*	*	*	*	1789	0	0	
+
+H 22   *	*	*	*	*	*	169	*	*	*	*	3940	*	*	*	4463	*	*	*	*	22
+       0	*	*	*	*	*	*	1789	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1789	0	0	
+
+R 24   *	*	*	*	*	*	2442	*	3035	*	*	*	*	3159	781	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1789	0	0	
+
+E 25   *	*	*	445	*	*	*	*	*	*	*	*	*	1913	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1789	0	0	
+
+R 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1789	0	0	
+
+Y 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	27
+       0	*	*	*	*	*	*	1789	0	0	
+
+Y 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	28
+       0	*	*	*	*	*	*	1789	0	0	
+
+P 29   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	1789	0	0	
+
+//

@@ -1,0 +1,483 @@
+coma 1.10
+
+
+ Query (121 positions):
+DGCC8004-Csm2
+
+ Database:
+propfam
+             14831 profiles
+             2468770 total positions
+
+
+ Profiles found below the e-value threshold:                                Score E-value
+
+PF03750 Protein of unknown function (DUF310)                                  468   4e-23
+PF14669 Putative aspartate racemase                                            83   2e+01
+PF10455 Bin/amphiphysin/Rvs domain for vesicular trafficking                   84   2e+01
+PF01808 AICARFT/IMPCHase bienzyme                                              82   2e+01
+PF04518 Effector from type III secretion system                                81   2e+01
+PF09660 Protein of unknown function (DUF2397)                                  79   3e+01
+PF10266 Hereditary spastic paraplegia protein strumpellin                      78   3e+01
+PF07165 Protein of unknown function (DUF1397)                                  79   3e+01
+PF04201 Tumour protein D52 family                                              77   4e+01
+PF14282 FlxA-like protein                                                      76   4e+01
+PF06780 Erp protein C-terminus                                                 74   6e+01
+PF10310 Protein of unknown function (DUF2413)                                  73   6e+01
+PF05291 Bystin                                                                 73   6e+01
+PF04497 Poxviridae protein                                                     74   6e+01
+PF15372 Domain of unknown function (DUF4600)                                   73   6e+01
+PF09577 Sporulation protein YpjB (SpoYpjB)                                     73   7e+01
+PF07624 Protein of unknown function (DUF1585)                                  72   7e+01
+PF04166 Pyridoxal phosphate biosynthetic protein PdxA                          71   8e+01
+PF14714 KH-domain-like of EngA bacterial GTPase enzymes, C-terminal            70   9e+01
+PF15200 Keratinocyte differentiation-associated                                70   9e+01
+
+
+
+>PF03750 Protein of unknown function (DUF310)
+  Query length = 121, Sbjct length = 117
+
+ Score = 468.75 (102.7 bits),  Expect = 3.6e-23, P-value = 0
+ Identities = 34/123 (27%), Positives = 74/123 (60%), Gaps = 9/123 (7%)
+
+Query:     1 MAI-L-TDENYVDKAERAISLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDELI 58   
+             ++    + ++++D+AE+++++L+      ++LTTSQIRK++++++S++++++  ++D+++
+Sbjct:     2 ISPITDSAKALIDEAEKLGDFLAR-----NGLTTSQIRKIFGEVRSIEQKVD--NGDSIQ 54   
+
+Query:    59 NDVSYLRVQFVYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEALVAYFKFYG 118  
+             +++++L+++++YQ+GR++++++++++  +++++K++KD+E+++RF++++EA+VAY++FYG
+Sbjct:    55 RRLLLLKPKLAYQVGRFSQALEALYEILDKAIDKIDKDFERFKRFVDFFEAIVAYHRFYG 114  
+
+Query:   119 GKD 121  
+             G++
+Sbjct:   115 GRE 117  
+
+                           K        Lambda
+Computed  ungapped,        0.1638   0.2777
+Estimated gapped,          0.0068   0.1412
+Entropy, 0.6168; Expected, -1.8804; Min/Max, -10/18
+
+
+
+>PF14669 Putative aspartate racemase
+  Query length = 121, Sbjct length = 231
+
+ Score = 83.17 (24.2 bits),  Expect = 15, P-value = 1
+ Identities = 10/129 (7%), Positives = 48/129 (37%), Gaps = 34/129 (26%)
+
+Query:     1 MAILTDENYVDKAERAISLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDE---- 56   
+             M  +++E +      +I+ L          +  +I    S + +++ R++   +++    
+Sbjct:     4 MV-FSPEHTD-----MIKHLHSAHA-----SQHEI----SAALAAKSRAQASNPHQAWLV 48   
+
+Query:    57 ----LINDVSYLR-----VQFV--YQAGREIAVKDLIEKAQILEALKEI---KDRETLQR 102  
+                   ++V + +     +++   +   +  + +++ ++  ++ ++  +   +++++   
+Sbjct:    49 DLASAVVEVELCKKQEDWTRLGNLFMSVCQ-GTHRAADLSRFCACVAMALLKESKDKAVP 107  
+
+Query:   103 FCRYMEALV 111  
+             F+++ E+++
+Sbjct:   108 FAAFAETVC 116  
+
+                           K        Lambda
+Computed  ungapped,        0.1581   0.2776
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.4970; Expected, -1.5535; Min/Max, -9/15
+
+
+
+>PF10455 Bin/amphiphysin/Rvs domain for vesicular trafficking
+  Query length = 121, Sbjct length = 275
+
+ Score = 84.06 (24.2 bits),  Expect = 16, P-value = 1
+ Identities = 13/98 (13%), Positives = 38/98 (38%), Gaps = 19/98 (19%)
+
+Query:    18 SLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDELINDVSYLRVQFVYQAGREIA 77   
+             + ++     +++++ S  R  +++ +S   ++ E K ++ ++++  L+ +  +   +E A
+Sbjct:   183 KKVHEL---RKKVEES--RLQFDTLRS---KVEEAKPETEETKLESLEDE--FVSATEEA 232  
+
+Query:    78 VKDLIEKAQILEALKEIKDRETLQRFCRYMEALVAYFK 115  
+             V  + E+         +++ + ++ ++ +++A   YF+
+Sbjct:   233 VVFMKEI---------LDPSKFISLLKLFQNAQLEYFE 261  
+
+                           K        Lambda
+Computed  ungapped,        0.1843   0.2777
+Estimated gapped,          0.0076   0.1412
+Entropy, 0.6789; Expected, -2.2335; Min/Max, -13/19
+
+
+
+>PF01808 AICARFT/IMPCHase bienzyme
+  Query length = 121, Sbjct length = 296
+
+ Score = 82.06 (24.0 bits),  Expect = 18, P-value = 1
+ Identities = 8/44 (18%), Positives = 19/44 (43%), Gaps = 4/44 (9%)
+
+Query:    69 VYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEALVA 112  
+             +Y+ +RE  +  + ++  +++ +++    ET + + R++E ++A
+Sbjct:   145 AYARAREADMSAFGGIIAFNDEVDV----ETAKIISRFSEVIIA 184  
+
+                           K        Lambda
+Computed  ungapped,        0.1562   0.2777
+Estimated gapped,          0.0064   0.1412
+Entropy, 0.5406; Expected, -1.6278; Min/Max, -9/18
+
+
+
+>PF04518 Effector from type III secretion system
+  Query length = 121, Sbjct length = 369
+
+ Score = 81.26 (23.8 bits),  Expect = 20, P-value = 1
+ Identities = 17/104 (16%), Positives = 36/104 (34%), Gaps = 20/104 (19%)
+
+Query:    11 DKAERAISLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDELINDVSYLRV---Q 67   
+             + A++++++L    K   +LT+SQ ++LL+++++ +D ++      +IN++S L+     
+Sbjct:   214 ERAKAVLNKLLARIKADAKLTSSQKSELLDTLNNYTDNLNA-----IINNLSNLQSLLAP 268  
+
+Query:    68 FVYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEALV 111  
+             + +  +++   + +           +I   +++    + +E  V
+Sbjct:   269 LSIVSDPDEVDGAF-----------KITG-DDWIATLQSLESFV 300  
+
+                           K        Lambda
+Computed  ungapped,        0.1568   0.2777
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.5995; Expected, -1.7913; Min/Max, -11/20
+
+
+
+>PF09660 Protein of unknown function (DUF2397)
+  Query length = 121, Sbjct length = 464
+
+ Score = 79.21 (23.3 bits),  Expect = 28, P-value = 1
+ Identities = 23/136 (16%), Positives = 48/136 (35%), Gaps = 32/136 (23%)
+
+Query:     7 ENYVDKAERAISLLEKDNKGN-----YLLTTSQIRKLLSLCSSLYDRSK---ERKFDELI 58   
+             + ++D+ +R+I +L      +     ++L+ + + +LL+ + + ++R +   ER  ++++
+Sbjct:   183 DRLIDYLRRFIKDLQRRSA-KIAAALRSLEDHGVERLLDRAAQREARPRDAVERRRADWR 241  
+
+Query:    59 NDVSYLRVQFVYQAGREIAVKDLIE-----KAQILEALKEIKD--------RETLQRFCR 105  
+              +   LR  FV   GR++ ++ L +     +  +L+ ++++++        R++L+++ R
+Sbjct:   242 ARWEGLRGWFVGTDGRPSEAERLRDAAREAIPRLLRVVRRLTERRSGGSSRRADLRHLAR 301  
+
+Query:   106 YM------EALVAYFK 115  
+             ++      EA    ++
+Sbjct:   302 WFAKAPSEEA----HR 313  
+
+                           K        Lambda
+Computed  ungapped,        0.1646   0.2777
+Estimated gapped,          0.0068   0.1412
+Entropy, 0.6739; Expected, -2.0651; Min/Max, -13/22
+
+
+
+>PF10266 Hereditary spastic paraplegia protein strumpellin
+  Query length = 121, Sbjct length = 1037
+
+ Score = 78.80 (23.3 bits),  Expect = 29, P-value = 1
+ Identities = 14/84 (16%), Positives = 36/84 (42%), Gaps = 14/84 (16%)
+
+Query:    38 LLSLCSSLYD------RSKERKFDELINDVSYLRVQFVYQAGREIAVKDLIEKAQILEAL 91   
+             +++++ +L +      ++ + K++E+I D+SY++       + ++  ++  +   +L+  
+Sbjct:     3 IIAELLRLSEHIPRFTHAEQSKYAEIILDFSYFK-------AADAIESKIESSELELDEE 55   
+
+Query:    92 KEIKDRETLQRFCRYMEALVAYFK 115  
+             ++ +  + L+RF +++E+++ Y+K
+Sbjct:    56 FR-ETHIILERFYKLFESIHKYVK 78   
+
+                           K        Lambda
+Computed  ungapped,        0.1621   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.6019; Expected, -1.8345; Min/Max, -12/24
+
+
+
+>PF07165 Protein of unknown function (DUF1397)
+  Query length = 121, Sbjct length = 207
+
+ Score = 79.07 (23.2 bits),  Expect = 32, P-value = 1
+ Identities = 11/88 (12%), Positives = 41/88 (46%), Gaps = 14/88 (15%)
+
+Query:    37 KLLSLCSSLYDRSKERK-FDELINDVSYLRVQ--FV-----YQAGREIA---VKDLIEKA 85   
+             ++ + + +L + +K+   + +L++++  ++++  +      Y   R +A   ++++ +K 
+Sbjct:    29 EIEQAAQTLPECLKGLVDLTALQQEIEEAKPTGDLDTVFNKYCRKRPQAKECIDTFSAK- 87   
+
+Query:    86 QILEALKEIKDRETLQRFCRYMEALVAY 113  
+              + ++L+E +++E  + +++ +++L+ +
+Sbjct:    88 -VRPCLEE-EEKEHKDVLVNIIQQLLNF 113  
+
+                           K        Lambda
+Computed  ungapped,        0.1808   0.2777
+Estimated gapped,          0.0075   0.1412
+Entropy, 0.6286; Expected, -2.1470; Min/Max, -12/20
+
+
+
+>PF04201 Tumour protein D52 family
+  Query length = 121, Sbjct length = 154
+
+ Score = 77.27 (23.0 bits),  Expect = 36, P-value = 1
+ Identities = 18/121 (14%), Positives = 43/121 (35%), Gaps = 20/121 (16%)
+
+Query:    12 KAERAISLLEKD--NKGNYLLTTSQIRKLLSL----CSSLYDRSKERKFDELINDV---- 61   
+             +AE+  ++L+    +  +  + T  +R +L++       ++ ++    ++EL +++    
+Sbjct:    26 EAEQ--EELRAELAKL-EEEIST--LRQVLAAKEKHLAEIKRKLGMSPLSELKQNISKSW 80   
+
+Query:    62 SYLRVQFVYQAGREIAVKDLIEKA-QILEALKEIKDRETLQRFCRYMEALVAYFKFYGGK 120  
+             + ++   +Y+  +++A   + ++   I+  L  + +  T++ F + ++ L  + K  G+K
+Sbjct:    81 HDVQATSAYK--GQKASAAFSSVGSAISKKLGDMRNSSTFKSFEEKVGTL--KSKVGGTK 136  
+
+Query:   121 D 121  
+             +
+Sbjct:   137 A 137  
+
+                           K        Lambda
+Computed  ungapped,        0.1614   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.5222; Expected, -1.6462; Min/Max, -10/17
+
+
+
+>PF14282 FlxA-like protein
+  Query length = 121, Sbjct length = 104
+
+ Score = 76.71 (22.8 bits),  Expect = 40, P-value = 1
+ Identities = 9/50 (18%), Positives = 21/50 (42%), Gaps = 13/50 (26%)
+
+Query:    33 SQIRKLLSLCSSLYDRSK-------------ERKFDELINDVSYLRVQFV 69   
+             SQI++L  ++ SL+ ++K             ++  + +++++++L++Q++
+Sbjct:    19 SQIKSLNKQIQSLTKQLKKLSSSEDLTAEEKQKQQQLIQSQIQALQAQIA 68   
+
+                           K        Lambda
+Computed  ungapped,        0.1624   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.5145; Expected, -1.6757; Min/Max, -11/14
+
+
+
+>PF06780 Erp protein C-terminus
+  Query length = 121, Sbjct length = 138
+
+ Score = 74.29 (22.4 bits),  Expect = 55, P-value = 1
+ Identities = 17/138 (12%), Positives = 61/138 (44%), Gaps = 34/138 (24%)
+
+Query:     6 DENYVDKAERAISLLEKDNKGNYLLTTSQIRK-----LLSLC----SSLYDRSK------ 50   
+             +++++DK  ++ +++   ++ +  ++  +++      +++ +    +S+Y+++       
+Sbjct:     1 IKTLTDKIDEINRDIDSIKG-QTSVGAKEVIDKITGPVYDDFTDGNNSIYSTWGDLEDEE 59   
+
+Query:    51 ----ERKFDELINDVSYLRVQF-----VYQAGREIAVKDLIEKAQILEALKEIKDRETLQ 101  
+                 +++++EL+     LR ++     ++  + E+++K+ ++++ I++ L+++K++  L+
+Sbjct:    60 DSGLGKLLKELSDARDSLRTKLNEGNKYT-KDNEPKLKENVNVSDIKSDLEKLKSK--LE 116  
+
+Query:   102 RFCRY------MEALVAY 113  
+             ++++Y      +E + +Y
+Sbjct:   117 EVKEYLEDKDNFEEIKGY 134  
+
+                           K        Lambda
+Computed  ungapped,        0.1613   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.5015; Expected, -1.6261; Min/Max, -9/17
+
+
+
+>PF10310 Protein of unknown function (DUF2413)
+  Query length = 121, Sbjct length = 386
+
+ Score = 73.92 (22.3 bits),  Expect = 57, P-value = 1
+ Identities = 9/103 (8%), Positives = 39/103 (37%), Gaps = 35/103 (33%)
+
+Query:    11 DKAERAISLLEKDNKGNYLLTTSQIRKLLSLCS-----SLYDRSKERKFDELINDVSYLR 65   
+             ++A+++++ ++            ++R+L ++++     ++ +++ +     ++++   L+
+Sbjct:   139 EEAQKWAEQVRGV-G--------ALRDLGGELRLPTFTNILHTLAP-----ISSH-ERLQ 183  
+
+Query:    66 VQFVYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYME 108  
+              ++ +         DL+      + L+ +   + + R++  +E
+Sbjct:   184 IHLTH---------DLVGY----PSLDLVY--SVFSRVMSQVE 211  
+
+                           K        Lambda
+Computed  ungapped,        0.1584   0.2777
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.5241; Expected, -1.6364; Min/Max, -10/21
+
+
+
+>PF05291 Bystin
+  Query length = 121, Sbjct length = 293
+
+ Score = 73.97 (22.3 bits),  Expect = 58, P-value = 1
+ Identities = 16/118 (13%), Positives = 39/118 (33%), Gaps = 31/118 (26%)
+
+Query:    14 ERAISLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDELI--NDVSYLRVQFVYQ 71   
+             E++++LL+         ++ ++ K +  + SL++      ++++   ++     ++  Y+
+Sbjct:    46 EKVGELLSRY-------KSGKLPKAFKIIPSLSN------WEDILYLTEPENWTPHAMYA 92   
+
+Query:    72 AGREIA-------VKDLIEKAQILEALKEIKDRETLQRFCRYMEALV-------AYFK 115  
+             A R          ++ +++   +    + I++ ++L   +++++AL        A+FK
+Sbjct:    93 ATRIFSSNLKAKQAQRFYNLVLLPRVRDDIRENKKLN--YHLYNALKKALYKPAAFFK 148  
+
+                           K        Lambda
+Computed  ungapped,        0.1629   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.5106; Expected, -1.6174; Min/Max, -10/18
+
+
+
+>PF04497 Poxviridae protein 
+  Query length = 121, Sbjct length = 604
+
+ Score = 74.07 (22.2 bits),  Expect = 63, P-value = 1
+ Identities = 16/118 (13%), Positives = 46/118 (38%), Gaps = 32/118 (27%)
+
+Query:     1 MAILTDENYVDKAERAISLLEKDNKGNYLLTTSQIRKLLSLCSSLYDRSKERKFDELI-- 58   
+             M +       +K+ +A+S+L   +   ++L++ + ++LL+    L+ ++ +  +DE+   
+Sbjct:     1 MLP-------KKLRDAFSKLASKKLAFKKLSIKDAMRLLK--YGLHGSLPKKLYDEAVEF 51   
+
+Query:    59 -NDVSYLRVQFVYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEALVAYFK 115  
+              N +++++++          V+ LI++      ++ + + ++ ++++++    + ++K
+Sbjct:    52 DNNLYLFKPK---------HVS-LIDL------ISVLSRSKNDEKYANH----INFHK 89   
+
+                           K        Lambda
+Computed  ungapped,        0.1778   0.2777
+Estimated gapped,          0.0073   0.1412
+Entropy, 0.6692; Expected, -2.1673; Min/Max, -14/21
+
+
+
+>PF15372 Domain of unknown function (DUF4600)
+  Query length = 121, Sbjct length = 128
+
+ Score = 73.02 (22.1 bits),  Expect = 64, P-value = 1
+ Identities = 14/96 (14%), Positives = 39/96 (40%), Gaps = 14/96 (14%)
+
+Query:    40 SLCSSLYD--RSKERKFDELINDVSYLRVQFVYQAG----REIAVKDLIEKA--QILEAL 91   
+             ++ + ++   +++ ++ D L+ ++++LR ++    G    R  +++ + +++   + + L
+Sbjct:     1 DEGNEWKTRYETQLELNDQLEKQIILLREKLEKARGNPKDRLSSIRSYDKMSVEALNQLL 60   
+
+Query:    92 KEIKD-RETLQRFCRYMEALV-----AYFKFYGGKD 121  
+             K++++ ++ L++ +R +E  +     AY+K    + 
+Sbjct:    61 KQLEKEKSSLENQLRDLEWRLDQESKAYHKANDERK 96   
+
+                           K        Lambda
+Computed  ungapped,        0.1572   0.2777
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.5661; Expected, -1.6921; Min/Max, -9/17
+
+
+
+>PF09577 Sporulation protein YpjB (SpoYpjB)
+  Query length = 121, Sbjct length = 230
+
+ Score = 73.16 (22.1 bits),  Expect = 67, P-value = 1
+ Identities = 12/107 (11%), Positives = 44/107 (41%), Gaps = 23/107 (21%)
+
+Query:    33 SQIRKLLSLCSSLYDRSK----ERKFDELINDVSYLRVQFVYQAGREIAVKDLIEKAQIL 88   
+             ++++++LSL  ++Y  ++       +++++ ++S++     +  + ++ +++   +  ++
+Sbjct:   124 EKWNEFLSLYDLIYPSLTIDVSPNQLQTVDAHISVIE---QFRQMSKSSKQE--RLTLLE 178  
+
+Query:    89 EALKEIKDRETLQR-------FCRYMEAL-------VAYFKFYGGKD 121  
+             E LK + D+ ++         +   + ++       V+++K+ ++K+
+Sbjct:   179 EDLKALFDQVKEDEADPSLLWVILTTGGIIILTLTYVGWRKYKAEKE 225  
+
+                           K        Lambda
+Computed  ungapped,        0.1663   0.2776
+Estimated gapped,          0.0069   0.1412
+Entropy, 0.6958; Expected, -2.1813; Min/Max, -13/23
+
+
+
+>PF07624 Protein of unknown function (DUF1585)
+  Query length = 121, Sbjct length = 75
+
+ Score = 72.97 (22.0 bits),  Expect = 70, P-value = 1
+ Identities = 11/44 (25%), Positives = 20/44 (45%), Gaps = 5/44 (11%)
+
+Query:    68 FVYQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEALV 111  
+             ++Y+ GR+    ++++ A I+E  ++ K ++++ R+ +++EA+V
+Sbjct:    32 LTYALGRPL---EFSDRAEIDEIVAKLK-KNDY-RLRDLIEAIV 70   
+
+                           K        Lambda
+Computed  ungapped,        0.1691   0.2777
+Estimated gapped,          0.0070   0.1412
+Entropy, 0.5816; Expected, -1.9139; Min/Max, -10/17
+
+
+
+>PF04166 Pyridoxal phosphate biosynthetic protein PdxA
+  Query length = 121, Sbjct length = 288
+
+ Score = 71.56 (21.8 bits),  Expect = 82, P-value = 1
+ Identities = 18/137 (13%), Positives = 47/137 (34%), Gaps = 44/137 (32%)
+
+Query:     1 MAILTDENYVDKAERAISLLEKDNKGNYLLTTSQ--IRKLLSLCS--SLYDRSKERKFDE 56   
+             M       ++       ++L+        L T++  +R++ ++++  +L + ++  + + 
+Sbjct:   117 MM------LAT------EDLRVA------LVTTHIPLRDVPDAITAERLENVLR-ILHKA 157  
+
+Query:    57 LINDVSYLRVQFVYQ-----AGREIAVKDLIEKAQILEALKEIKDRETLQR--------- 102  
+             L+ ++ + +++++ +     AG +  +    E   I++AL++++ +E ++          
+Sbjct:   158 LREKFGIAEPRIAVAGLNPHAGEGGVLGR-EEIDTIIPALEQAR-AEGIDLVGPLPADTL 215  
+
+Query:   103 FCR----YMEALVA-YF 114  
+             F +     ++A++A Y+
+Sbjct:   216 FHHTARERYDAVLAMYH 232  
+
+                           K        Lambda
+Computed  ungapped,        0.1627   0.2777
+Estimated gapped,          0.0067   0.1412
+Entropy, 0.5522; Expected, -1.7067; Min/Max, -10/20
+
+
+
+>PF14714 KH-domain-like of EngA bacterial GTPase enzymes, C-terminal
+  Query length = 121, Sbjct length = 80
+
+ Score = 70.44 (21.6 bits),  Expect = 93, P-value = 1
+ Identities = 12/81 (14%), Positives = 27/81 (33%), Gaps = 21/81 (25%)
+
+Query:    29 LLTTSQIRKLLSLCSSLYDRSKERKFDELINDVSYLRVQFVYQAGREIAVKDLIEKAQIL 88   
+             +++TS++ ++L ++ + +    + K           R+++ Y+     ++  ++ +    
+Sbjct:     1 RISTSKLNRVLEEAVARHPPPSKGK-----------RLKIYYATQVGTRPPTFVLF---- 45   
+
+Query:    89 EALKEIKDRETLQR-FCRYME 108  
+                  ++D+E L+  + RY+E
+Sbjct:    46 -----VNDPELLHESYKRYLE 61   
+
+                           K        Lambda
+Computed  ungapped,        0.1575   0.2777
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.5689; Expected, -1.7154; Min/Max, -9/17
+
+
+
+>PF15200 Keratinocyte differentiation-associated
+  Query length = 121, Sbjct length = 77
+
+ Score = 70.40 (21.6 bits),  Expect = 94, P-value = 1
+ Identities = 7/58 (12%), Positives = 23/58 (39%), Gaps = 13/58 (22%)
+
+Query:    70 YQAGREIAVKDLIEKAQILEALKEIKDRETLQRFCRYMEAL------V---AYFKFYG 118  
+             Y++G E    ++ ++  + +A+K     +++ +++ +++++      +   ++ K  G
+Sbjct:    15 YPSGTEGLNSEFLNFDKLQSAFKS----DDFLNWHVLTDMFKKALPFINWDFFPKVKG 68   
+
+                           K        Lambda
+Computed  ungapped,        0.1580   0.2776
+Estimated gapped,          0.0065   0.1412
+Entropy, 0.4781; Expected, -1.5009; Min/Max, -8/15
+
+
+
+
+Scoring method: Profile-specific vector-based
+             (Increased precision)
+
+Gap open cost, Computed (window size, 4)
+Initial gap extension cost, 1
+Deletion probability weight, 0.60
+
+Reference values of   K        Lambda
+Ungapped              0.1094   0.2777
+Gapped                0.0045   0.1412
+
+Length of query, 121
+Length of database, 2468770
+Effective length of query, 121
+Effective length of database, 2468770
+Effective search space, 298721170
+

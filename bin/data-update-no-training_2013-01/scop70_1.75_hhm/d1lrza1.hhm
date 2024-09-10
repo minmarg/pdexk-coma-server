@@ -1,0 +1,237 @@
+HHsearch 1.5
+NAME  d1lrza1 a.2.7.4 (A:245-309) Methicillin resistance protein FemA probable tRNA-binding arm {Staphylococcus aureus [TaxId: 1280]}
+FAM   a.2.7.4
+FILE  d1lrza1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1lrza1.a3m -v 1 
+DATE  Mon Jan 21 23:12:34 2013
+LENG  65 match states, 65 columns in multiple alignment
+FILT  85 out of 87 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.2 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+96788999999988998888989998748885888789999999999998888999999974269
+>Consensus
+FxxYlxxLxxxxxxLxxxixklxxxlexnPnskKxknqxxelxxQxxsxxxrixeAxxlixkxGd
+>d1lrza1 a.2.7.4 (A:245-309) Methicillin resistance protein FemA probable tRNA-binding arm {Staphylococcus aureus [TaxId: 1280]}
+FDEYIKELNEERDILNKDLNKALKDIEKRPENKKAHNKRDNLQQQLDANEQKIEEGKRLQEEHGN
+>gi|392331045|ref|ZP_10275660.1|(239-303:411) factor essential for expression of methicillin resistance [Streptococcus canis FSL Z3-227] >gi|391418724|gb|EIQ81536.1| factor essential for expression of methicillin resistance [Streptococcus canis FSL Z3-227]  E=0.0004 s/c=0.74 id=27% cov=102%
+FKSYLESLQPEKDKLDAQITRLQETIQTNPDNLKKQKELDAKQVQYQSLVQKLAKAETLYQEYGD
+>gi|322389919|ref|ZP_08063459.1|(239-303:411) beta-lactam resistance factor [Streptococcus parasanguinis ATCC 903] >gi|321143355|gb|EFX38793.1| beta-lactam resistance factor [Streptococcus parasanguinis ATCC 903]  E=1e-10 s/c=1.07 id=27% cov=102%
+FHQYYTNLEKDQGKLAQKIEKLQKDLEVNPHSEKKQNQLREFSSQFDTFEVRKKEAKEYIEKYGD
+>gi|418631533|ref|ZP_13193992.1|(102-165:270) putative aminoacyltransferase FemB [Staphylococcus epidermidis VCU128] >gi|374835138|gb|EHR98767.1| putative aminoacyltransferase FemB [Staphylococcus epidermidis VCU128]  E=0.0002 s/c=0.76 id=28% cov=98%
+--KYLEQLKIAKVNLNHSLEMIKDKLEDNPNSKKSKSQYKQLNQKIQSNKKKIQEAEELINSEGN
+>gi|357639645|ref|ZP_09137518.1|(240-303:411) FemAB family protein [Streptococcus urinalis 2285-97] >gi|418418134|ref|ZP_12991325.1| hypothetical protein HMPREF9318_02073 [Streptococcus urinalis FB127-CNA-2] >gi|357588099|gb|EHJ57507.1| FemAB family protein [Streptococcus urinalis 2285-97] >gi|410869233|gb|EKS17196.1| hypothetical protein HMPREF9318_02073 [Streptococcus urinalis FB127-CNA-2]  E=2e-11 s/c=1.12 id=23% cov=98%
+--DYLSHLNQSKHEIVTELNQLNEKIAQGVNSAKVNKQKAQLEKQLSTFETRISEANDMIDKHGE
+>gi|25011461|ref|NP_735856.1|(239-303:411) hypothetical protein gbs1419 [Streptococcus agalactiae NEM316] >gi|77406833|ref|ZP_00783864.1| beta-lactam resistance factor [Streptococcus agalactiae H36B] >gi|77411149|ref|ZP_00787501.1| beta-lactam resistance factor [Streptococcus agalactiae CJB111] >gi|18496272|emb|CAC83745.1| Fem-homologue [Streptococcus agalactiae] >gi|24412999|emb|CAD47078.1| unknown [Streptococcus agalactiae NEM316] >gi|77162767|gb|EAO73726.1| beta-lactam resistance factor [Streptococcus agalactiae CJB111] >gi|77174564|gb|EAO77402.1| beta-lactam resistance factor [Streptococcus agalactiae H36B]  E=2e-06 s/c=0.84 id=21% cov=102%
+FREYDHNLQIKAEALENKLKLLDERFRENADSPKYHRQRSEIINQLASFETRRQEVQSFIQKYDN
+>gi|319893671|ref|YP_004150546.1|(245-308:413) FmhA protein of FemAB family [Staphylococcus pseudintermedius HKU10-03] >gi|317163367|gb|ADV06910.1| FmhA protein of FemAB family [Staphylococcus pseudintermedius HKU10-03]  E=5e-09 s/c=1.00 id=31% cov=100%
+-NDLLKKQTEKLDTLKATIAETQAALESHPNSKKNKTKLKQTEQQLQAQERKIEKTRQLIVEDGE
+>gi|218282312|ref|ZP_03488602.1|(247-309:417) hypothetical protein EUBIFOR_01184 [Eubacterium biforme DSM 3989] >gi|218216685|gb|EEC90223.1| hypothetical protein EUBIFOR_01184 [Eubacterium biforme DSM 3989]  E=1e-07 s/c=0.93 id=27% cov=98%
+-DEYEQKIKKEYNTTLTSIEKIKAFLEKNPGNEKKEKRLKTDETYLDSLEKKISHIQELKDTYG-
+>gi|372324077|ref|ZP_09518666.1|(247-308:416) tRNA-dependent lipid II-Ala--L-alanine ligase [Oenococcus kitaharae DSM 17330] >gi|366982885|gb|EHN58284.1| tRNA-dependent lipid II-Ala--L-alanine ligase [Oenococcus kitaharae DSM 17330]  E=1e-06 s/c=0.90 id=27% cov=97%
+-NQYIGHFQQLIDQLQAQIDKLAAADAKRQNNHKA-NQIKELRSQMEQHGKRISQAKKIMAEKG-
+>gi|296111100|ref|YP_003621481.1|(245-308:417) FemAB family protein [Leuconostoc kimchii IMSNU 11154] >gi|295832631|gb|ADG40512.1| FemAB family protein [Leuconostoc kimchii IMSNU 11154]  E=4e-05 s/c=0.79 id=20% cov=100%
+FEKYITSENQKIIALDQKLAKLQEKIDKYPKLEKFKRQYFEFDDQKKHHVKRSNVATTQMADAG-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4496	0	0	
+
+D 2    5559	*	2588	2550	*	*	6562	*	3213	*	*	2133	4111	3037	4303	4634	6086	6658	*	*	2
+       0	*	*	*	*	*	*	5248	0	0	
+
+E 3    4752	*	1791	1491	*	*	5126	*	3764	*	*	4245	*	4926	6426	5617	3348	*	*	*	3
+       0	*	*	*	*	*	*	5281	0	0	
+
+Y 4    *	*	*	*	*	*	*	*	*	4526	*	*	*	*	*	*	*	*	*	64	4
+       0	*	*	*	*	*	*	5274	0	0	
+
+I 5    5433	*	5211	5112	6708	*	6381	1871	4543	1067	6832	*	*	5218	6555	*	*	5242	*	4910	5
+       0	*	*	*	*	*	*	5274	0	0	
+
+K 6    3649	*	3512	2510	*	4582	4525	5837	2648	*	*	3612	4742	3532	*	3901	3031	*	*	*	6
+       0	*	*	*	*	*	*	5274	0	0	
+
+E 7    *	*	*	2380	*	4640	2989	*	2876	6376	*	2111	*	4596	5920	2791	4064	*	*	*	7
+       0	*	*	*	*	*	*	5274	0	0	
+
+L 8    *	*	*	3828	5458	*	*	4383	*	355	*	*	*	4485	*	*	5442	6699	*	*	8
+       0	*	*	*	*	*	*	5274	0	0	
+
+N 9    *	*	6189	2167	*	6551	5366	5036	2414	5717	*	3088	*	1987	5000	*	3658	6490	*	*	9
+       0	*	*	*	*	*	*	5274	0	0	
+
+E 10   3572	*	4038	2861	*	4976	4647	3865	2511	4592	*	4108	5622	2973	4293	4467	4489	6189	*	*	10
+       0	*	*	*	*	*	*	5274	0	0	
+
+E 11   4605	*	2991	1936	*	4271	*	*	1797	5458	*	5604	*	4262	3723	4351	6358	*	*	*	11
+       0	*	*	*	*	*	*	5274	0	0	
+
+R 12   4368	*	5654	5588	5187	7024	3508	3610	3305	3459	*	5901	*	1989	2524	*	*	4866	*	4748	12
+       0	*	*	*	*	*	*	5274	0	0	
+
+D 13   2695	*	2411	2929	*	6883	5080	4931	4916	4355	*	3242	*	2877	5880	4418	4575	5272	*	*	13
+       0	*	*	*	*	*	*	5274	0	0	
+
+I 14   3827	*	3560	3169	*	6818	5190	4782	1941	*	*	3474	*	2961	5066	*	3226	4464	*	*	14
+       0	*	*	*	*	*	*	5274	0	0	
+
+L 15   *	*	*	*	5056	*	*	3335	*	313	*	*	*	*	*	*	5114	*	*	4763	15
+       0	*	*	*	*	*	*	5271	0	0	
+
+N 16   3441	*	3726	2580	*	5005	5594	4119	3192	4476	*	3145	*	3180	5154	3779	4443	5647	6508	*	16
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 17   2511	*	4929	3194	*	6508	5248	5188	2362	5289	*	3394	*	2774	6131	4437	4155	4652	*	*	17
+       0	*	*	*	*	*	*	5271	0	0	
+
+D 18   6131	*	2786	2557	*	6533	*	6496	1861	5923	*	6838	*	2435	4716	3948	4873	5235	*	*	18
+       0	*	*	*	*	*	*	5271	0	0	
+
+L 19   *	*	*	*	*	*	*	1367	4606	1297	4285	*	*	*	*	*	*	3935	*	4390	19
+       0	*	*	*	*	*	*	5271	0	0	
+
+N 20   2136	*	2472	3290	6383	7249	6530	*	3399	5656	5996	2438	*	6439	*	4812	3489	6714	*	*	20
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 21   6063	*	2927	3144	*	6714	*	5789	1041	4114	5275	5235	6383	6575	5629	*	5006	4548	*	*	21
+       0	*	*	*	*	*	*	5271	0	0	
+
+A 22   2703	*	*	*	*	*	*	2585	*	1141	*	*	*	*	*	6016	5102	2459	*	*	22
+       0	*	*	*	*	*	*	5271	0	0	
+
+L 23   4455	*	3557	1972	*	5789	*	7032	2965	3375	*	2946	*	2760	5261	*	5930	4492	*	*	23
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 24   2315	*	4233	2193	*	6631	6386	5469	2224	5026	*	4225	*	3390	5996	5291	4388	*	*	*	24
+       0	*	*	*	*	*	*	5271	0	0	
+
+D 25   2288	*	1834	5450	5114	*	*	*	2165	5039	*	*	*	6192	3506	5452	3752	*	*	6514	25
+       0	*	*	*	*	*	*	5271	0	0	
+
+I 26   *	5469	5470	*	5212	*	5439	1789	*	739	*	*	*	*	*	*	*	*	*	5930	26
+       0	*	*	*	*	*	*	5271	0	0	
+
+E 27   2532	*	3430	1228	*	6631	*	5410	3713	*	6508	5250	*	3694	5212	4549	*	6230	*	*	27
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 28   5886	*	5514	1586	*	*	*	4665	1374	*	*	4427	*	4365	*	4989	4779	4997	*	6863	28
+       0	*	*	*	*	*	*	5271	0	0	
+
+R 29   *	*	*	*	*	4356	4593	6562	4034	4223	*	1055	*	*	2988	3683	*	*	*	3331	29
+       0	*	*	*	*	*	*	5271	0	0	
+
+P 30   4681	*	*	*	*	*	*	*	*	5439	*	5093	301	5470	*	6697	5959	4356	*	*	30
+       0	*	*	*	*	*	*	5271	0	0	
+
+E 31   7057	*	2327	3541	*	5114	3450	*	4233	6230	*	1077	*	6439	6533	*	6248	6526	*	*	31
+       16	6514	*	0	*	*	*	5271	1000	0	
+
+N 32   5469	*	*	*	*	*	6718	*	*	5633	*	2118	*	4810	*	610	*	*	*	5235	32
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 33   3386	*	4357	2098	*	*	5470	*	1124	5629	*	*	4692	4555	5159	6464	*	*	*	*	33
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 34   *	*	*	*	*	*	*	*	86	*	*	*	*	5039	5188	*	*	*	*	*	34
+       0	*	*	*	*	*	*	5271	0	0	
+
+A 35   3081	*	*	*	3165	*	*	5789	1709	5235	*	3080	*	3946	*	3482	4373	4356	*	4321	35
+       33	*	5470	*	*	*	*	5271	0	0	
+
+H 36   6532	*	*	5101	7128	*	3290	5613	1234	4821	*	3831	*	2395	5189	*	4333	*	*	4952	36
+       0	*	*	*	*	0	*	5225	0	1000	
+
+N 37   *	*	*	*	*	*	*	*	2599	*	*	1196	*	*	2627	4086	2734	5188	*	*	37
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 38   5656	*	*	4304	*	*	*	*	1362	*	*	*	*	1050	4116	*	*	*	*	*	38
+       0	*	*	*	*	*	*	5271	0	0	
+
+R 39   5001	*	*	*	3990	*	3138	4054	2566	1620	*	*	*	6305	3180	*	5930	6383	*	3530	39
+       0	*	*	*	*	*	*	5271	0	0	
+
+D 40   2888	*	4070	4508	5633	*	5435	7136	1946	*	*	3619	*	4509	2362	4682	3706	*	*	5959	40
+       0	*	*	*	*	*	*	5271	0	0	
+
+N 41   5629	*	4762	1195	*	*	*	*	*	*	*	2725	*	1738	*	*	5114	5259	*	*	41
+       0	*	*	*	*	*	*	5271	0	0	
+
+L 42   5259	*	5114	*	2901	*	*	4126	5629	738	*	6131	*	*	*	*	5859	4325	*	4241	42
+       0	*	*	*	*	*	*	5271	0	0	
+
+Q 43   4573	*	3412	2116	*	*	*	5212	3643	5656	6395	3296	*	3160	4322	2550	4054	*	*	*	43
+       0	*	*	*	*	*	*	5271	0	0	
+
+Q 44   *	*	3036	5259	*	*	5930	*	3632	*	5996	5212	*	1404	3894	2197	5114	5629	*	*	44
+       0	*	*	*	*	*	*	5271	0	0	
+
+Q 45   *	*	*	5886	*	5259	*	*	5275	*	*	*	*	180	5656	*	*	*	*	5114	45
+       0	*	*	*	*	*	*	5271	0	0	
+
+L 46   *	*	*	6723	2701	*	5235	3049	3587	1579	4867	*	*	4694	5117	5767	*	4855	*	3099	46
+       0	*	*	*	*	*	*	5271	0	0	
+
+D 47   3035	*	2130	1948	*	*	*	6259	3981	*	*	3719	*	2551	5886	4723	*	6305	*	*	47
+       0	*	*	*	*	*	*	5271	0	0	
+
+A 48   2588	*	*	*	*	6784	4557	*	*	5259	*	*	*	3555	*	1524	1733	5469	*	*	48
+       0	*	*	*	*	*	*	5271	0	0	
+
+N 49   *	*	*	*	1652	*	2856	4959	*	3185	*	2114	*	5143	*	5085	4253	4495	*	5959	49
+       0	*	*	*	*	*	*	5271	0	0	
+
+E 50   6030	*	3062	1714	*	5470	6560	5348	3396	4950	*	3550	*	2770	5886	5365	4307	4281	*	*	50
+       0	*	*	*	*	*	*	5271	0	0	
+
+Q 51   4968	*	*	5330	*	*	*	4269	1604	*	*	5351	*	3036	2545	*	3357	2765	*	*	51
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 52   *	*	*	*	*	*	*	*	1087	*	*	5923	*	*	963	*	*	*	*	*	52
+       0	*	*	*	*	*	*	5271	0	0	
+
+I 53   *	*	*	5789	*	*	*	751	3033	2821	6526	*	*	6178	5212	5633	*	4258	*	*	53
+       0	*	*	*	*	*	*	5271	0	0	
+
+E 54   2512	5469	2979	2861	*	*	5188	*	3099	6248	*	3200	*	3478	5851	2859	5235	*	*	*	54
+       0	*	*	*	*	*	*	5271	0	0	
+
+E 55   *	*	5397	642	*	*	5114	*	2735	*	*	4758	*	3334	*	*	*	5633	*	*	55
+       0	*	*	*	*	*	*	5271	0	0	
+
+G 56   535	*	*	*	*	6818	*	4360	*	*	*	*	*	*	*	*	2151	5212	*	*	56
+       0	*	*	*	*	*	*	5271	0	0	
+
+K 57   4915	6063	*	2541	*	*	5930	5288	1891	4975	*	3476	*	2364	4110	5967	3886	*	*	6514	57
+       0	*	*	*	*	*	*	5271	0	0	
+
+R 58   4167	*	2845	1595	*	5927	5564	*	3841	*	5214	6336	*	2820	3987	4119	3940	*	*	*	58
+       0	*	*	*	*	*	*	5269	0	0	
+
+L 59   5147	*	*	6468	2555	*	*	5432	5007	762	4402	*	*	3730	6041	*	*	*	*	6846	59
+       0	*	*	*	*	*	*	5246	0	0	
+
+Q 60   *	*	*	*	*	*	5122	1061	2935	4463	3752	*	*	2670	4850	*	*	5135	*	5557	60
+       0	*	*	*	*	*	*	5238	0	0	
+
+E 61   2591	*	3349	1797	*	*	*	6404	3404	4803	*	4250	*	2583	5402	5154	6036	5679	*	*	61
+       0	*	*	*	*	*	*	5209	0	0	
+
+E 62   5348	*	5310	2009	*	*	*	*	1162	*	*	*	*	3435	4548	6010	3263	*	*	*	62
+       0	*	*	*	*	*	*	5209	0	0	
+
+H 63   3499	*	3054	2963	*	*	1976	*	4889	*	*	*	*	*	*	*	*	*	*	1415	63
+       0	*	*	*	*	*	*	5209	0	0	
+
+G 64   *	*	5099	*	*	79	*	*	*	*	*	6427	*	6350	*	*	*	*	*	*	64
+       0	*	*	*	*	*	*	5209	0	0	
+
+N 65   *	*	1112	2372	*	*	*	*	*	*	*	1539	*	*	*	*	*	*	*	*	65
+       0	*	*	0	*	*	*	4605	0	0	
+
+//

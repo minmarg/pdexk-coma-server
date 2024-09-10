@@ -1,0 +1,294 @@
+HHsearch 1.5
+NAME  d1l8ya_ a.21.1.1 (A:) Nucleolar transcription factor 1 (Upstream binding factor 1, UBF-1) {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.21.1.1
+FILE  d1l8ya_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1l8ya_.a3m -v 1 
+DATE  Mon Jan 21 22:51:26 2013
+LENG  84 match states, 84 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCC
+>ss_conf
+999888878788887646889999863117899999999887666554203445445567899999987522456678766679
+>Consensus
+xkLPetPKtaeeiWQqsviGDYlArfkxDRxKaxkaMeatWxxMEKKEKixWIKKAAEDQKRYeRElxeMRxxxaxxxxxkkxk
+>d1l8ya_ a.21.1.1 (A:) Nucleolar transcription factor 1 (Upstream binding factor 1, UBF-1) {Human (Homo sapiens) [TaxId: 9606]}
+GKLPESPKRAEEIWQQSVIGDYLARFKNDRVKALKAMEMTWNNMEKKEKLMWIKKAAEDQKRYERELSEMRAPPAATNSSKKLE
+>gi|47211316|emb|CAF92109.1|(484-565:777) unnamed protein product [Tetraodon nigroviridis]   E=3e-28 s/c=1.55 id=76% cov=98%
+-RLPDPPKTAQEIWQQSVIGDYMARFKSDRSKAQKAMEATWSNMEKKEKIMWIKKAAEDQKRYERELYEMRSPAAAAIASGK--
+>gi|47212472|emb|CAF90268.1|(477-557:810) unnamed protein product [Tetraodon nigroviridis]   E=4e-28 s/c=1.57 id=67% cov=98%
+AKLPETPKTAEEMWQHSVIGDYLAKYRSDRRKAQVGMEAAWKSMEKKEKIPWIKKAAEDQKRYERELLEMRTLPAAPSQRK---
+>gi|327275441|ref|XP_003222482.1|(479-562:761) PREDICTED: nucleolar transcription factor 1-like [Anolis carolinensis]  E=2e-27 s/c=1.49 id=84% cov=101%
+GKLPETPKTAEEIWQQSIIGDYLARFKNDRGKALKAMEATWNNMEKKEKLMWIKKAAEDQKRYDRELIEMRAPPPSTNASRKMK
+>gi|136657|sp|P25980.1|UBF1B_XENLA(419-502:701) RecName: Full=Nucleolar transcription factor 1-B; AltName: Full=Upstream-binding factor 1-B; Short=UBF-1-B; Short=xUBF-2 >gi|65201|emb|CAA40794.1| RNA polymerase I transcription factor [Xenopus laevis]  E=3e-27 s/c=1.48 id=79% cov=101%
+AKLPETPKTAEEIWQQSVIGDYLARFKNDRAKALKVMEATWLNMEKKEKIMWIKKAAEDQKRYERELSDMRSTPAPTTAGKKVK
+>gi|255003831|ref|NP_001005395.1|(469-552:735) upstream binding transcription factor, RNA polymerase I [Danio rerio]  E=2e-26 s/c=1.44 id=75% cov=101%
+GKLPETPKTAQEIWQQSVIGDYLARFKNDRAKAQKTMEATWNTMEKKEKIVWIKKAAEDQKRYERELSEMRSPAPVITPGKKMK
+>gi|348509013|ref|XP_003442046.1|(469-552:740) PREDICTED: nucleolar transcription factor 1-like [Oreochromis niloticus]  E=1e-25 s/c=1.42 id=75% cov=100%
+-RLPDPPKNAQDIWQQSVIGDYLARFKNDRPKAQKAMEATWSTMEKKEKIMWIKKAAEDQKRYEREVSEMRSPAAAIASGKKMK
+>gi|291190339|ref|NP_001167104.1|(437-522:665) Nucleolar transcription factor 1 [Salmo salar] >gi|223648142|gb|ACN10829.1| Nucleolar transcription factor 1 [Salmo salar]  E=2e-23 s/c=1.30 id=64% cov=96%
+-KLPETPKTAEEMWQQGVVGDYLAKYRSDRKKTQSAMESAWKAMEKKEKIPWIKKAAEDQKRYEvqyrpvRELLEMRTAQAGAGQRK---
+>gi|348541385|ref|XP_003458167.1|(439-524:716) PREDICTED: nucleolar transcription factor 1 isoform 1 [Oreochromis niloticus]  E=5e-23 s/c=1.28 id=66% cov=98%
+AKLPETPKTAAEMWQHSVIGDYLAKYRSDRRKAQAAMDTAWNSMEKKEKIPWIKKAAEDQKRYEvlytvRELLEMRTPVAGQRKPK---
+>gi|41055925|ref|NP_957297.1|(433-518:719) nucleolar transcription factor 1 [Danio rerio] >gi|32766637|gb|AAH55140.1| Zgc:63557 [Danio rerio]  E=6e-23 s/c=1.28 id=63% cov=96%
+-RLPETPKTPEEMWQQSVIGDYLAKYRSDRKKAQNAMDAAWKAMEKKEKIPWIKKAAEDQKRYEvqyrtvRELLEMRTVLSGQGQRK---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    1126	*	*	*	*	884	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1431	0	0	
+
+K 2    *	*	*	*	*	*	*	*	453	*	*	*	*	*	1892	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1560	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1560	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 5    *	*	2479	285	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1560	0	0	
+
+S 6    *	*	*	*	*	*	*	*	*	*	*	*	2479	*	*	2746	574	*	*	*	6
+       0	*	*	*	*	*	*	1560	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 8    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1560	0	0	
+
+R 9    *	*	*	*	*	*	*	*	*	*	*	3449	*	*	3730	*	263	*	*	*	9
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 10   136	*	*	*	*	*	*	*	*	*	*	*	3473	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 11   3461	*	*	618	*	*	*	*	*	*	*	*	*	1958	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 12   *	*	3449	138	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1560	0	0	
+
+I 13   *	*	*	*	*	*	*	650	*	*	1463	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1560	0	0	
+
+W 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	14
+       0	*	*	*	*	*	*	1560	0	0	
+
+Q 15   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1560	0	0	
+
+Q 16   *	*	*	*	*	*	2516	*	*	*	*	*	*	277	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1560	0	0	
+
+S 17   *	*	*	*	*	3353	*	*	*	*	*	*	*	*	*	149	*	*	*	*	17
+       0	*	*	*	*	*	*	1560	0	0	
+
+V 18   *	*	*	*	*	*	*	3532	*	*	*	*	*	*	*	*	*	130	*	*	18
+       0	*	*	*	*	*	*	1560	0	0	
+
+I 19   *	*	*	*	*	*	*	149	*	*	*	*	*	*	*	*	*	3353	*	*	19
+       0	*	*	*	*	*	*	1560	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1560	0	0	
+
+D 21   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1560	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	22
+       0	*	*	*	*	*	*	1560	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	133	3510	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 24   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1560	0	0	
+
+R 25   *	*	*	*	*	*	*	*	1463	*	*	*	*	*	650	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1560	0	0	
+
+F 26   *	*	*	*	650	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1463	26
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 27   *	*	*	*	*	*	*	*	650	*	*	*	*	*	1463	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1560	0	0	
+
+N 28   *	*	*	*	*	*	*	*	*	*	*	864	*	*	*	1150	*	*	*	*	28
+       0	*	*	*	*	*	*	1560	0	0	
+
+D 29   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1560	0	0	
+
+R 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1560	0	0	
+
+V 31   2714	*	*	*	*	2642	*	*	2412	*	*	*	3449	*	2516	3510	*	2782	*	*	31
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 32   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 33   149	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3353	*	*	*	33
+       0	*	*	*	*	*	*	1560	0	0	
+
+L 34   *	*	*	*	*	*	*	*	*	1396	*	*	*	689	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 35   3461	*	*	*	*	*	*	*	650	*	*	3473	*	*	*	3353	*	3575	*	*	35
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 36   528	3835	*	*	*	3575	*	*	*	*	*	*	*	*	*	*	3679	3749	*	*	36
+       0	*	*	*	*	*	*	1560	0	0	
+
+M 37   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 38   *	*	2467	288	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1560	0	0	
+
+M 39   587	*	*	*	*	*	*	*	*	*	3730	*	*	*	*	3353	2636	*	*	*	39
+       0	*	*	*	*	*	*	1560	0	0	
+
+T 40   1463	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	650	*	*	*	40
+       0	*	*	*	*	*	*	1560	0	0	
+
+W 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	41
+       0	*	*	*	*	*	*	1560	0	0	
+
+N 42   *	*	*	*	*	*	*	*	1879	2792	*	1306	*	*	*	2479	*	*	*	*	42
+       0	*	*	*	*	*	*	1560	0	0	
+
+N 43   2412	*	*	*	*	*	*	*	*	*	*	1096	*	*	*	2516	2560	*	*	*	43
+       0	*	*	*	*	*	*	1560	0	0	
+
+M 44   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 45   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       105	*	3835	*	*	*	*	1560	0	0	
+
+K 46   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	0	1557	0	1000	
+
+K 47   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	0	1557	0	1000	
+
+E 48   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	0	1557	0	1000	
+
+K 49   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	0	1557	0	1000	
+
+L 50   *	*	*	*	*	*	*	423	*	1976	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	0	*	1557	0	1000	
+
+M 51   *	*	*	*	*	*	*	*	*	*	838	*	1463	*	*	*	*	3679	*	*	51
+       0	*	*	*	*	*	*	1560	0	0	
+
+W 52   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	52
+       0	*	*	*	*	*	*	1560	0	0	
+
+I 53   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 54   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 55   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 56   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 57   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	57
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 58   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	1560	0	0	
+
+D 59   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1560	0	0	
+
+Q 60   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 61   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1560	0	0	
+
+R 62   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	62
+       0	*	*	*	*	*	*	1560	0	0	
+
+Y 63   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	63
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 64   *	*	3532	130	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       471	1843	*	2504	280	*	*	1560	1200	0	
+
+R 65   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	65
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 66   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	1560	0	0	
+
+L 67   *	*	*	*	*	*	*	*	*	138	*	*	*	*	*	*	*	3449	*	*	67
+       0	*	*	*	*	*	*	1560	0	0	
+
+S 68   *	*	*	*	*	*	*	3532	*	1463	*	*	*	*	*	1111	*	*	*	3510	68
+       0	*	*	*	*	*	*	1560	0	0	
+
+E 69   *	*	2792	225	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	69
+       0	*	*	*	*	*	*	1560	0	0	
+
+M 70   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	70
+       0	*	*	*	*	*	*	1560	0	0	
+
+R 71   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	71
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 72   2086	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1315	1463	*	*	*	72
+       0	*	*	*	*	*	*	1560	0	0	
+
+P 73   2574	*	*	*	*	*	*	*	*	3575	*	*	777	*	*	*	3749	3473	*	*	73
+       0	*	*	*	*	*	*	1560	0	0	
+
+P 74   1958	*	*	*	*	*	*	*	*	3473	*	*	1108	3353	*	*	*	3461	*	*	74
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 75   733	3762	*	*	*	*	*	*	*	*	*	*	2604	*	*	2643	*	*	*	*	75
+       0	*	*	*	*	*	*	1560	0	0	
+
+A 76   1562	*	*	*	*	1843	*	*	*	*	*	*	3749	*	*	2642	3835	3679	*	*	76
+       0	*	*	*	*	*	*	1560	0	0	
+
+T 77   2429	*	*	*	*	*	*	2560	*	*	*	*	3575	2467	*	*	1396	*	*	*	77
+       0	*	*	*	*	*	*	1560	0	0	
+
+N 78   3449	*	*	*	*	2412	*	3510	*	*	*	2086	*	*	3461	3575	2168	*	*	*	78
+       0	*	*	*	*	*	*	1560	0	0	
+
+S 79   1650	*	*	*	*	*	*	*	3461	*	*	*	3679	1879	*	2055	*	*	*	*	79
+       0	*	*	*	*	*	*	1560	0	0	
+
+S 80   3762	*	*	*	*	1671	*	*	*	*	*	*	3461	*	1879	2003	*	*	*	*	80
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 81   *	*	*	*	*	3510	*	*	276	*	*	*	*	*	3532	*	*	*	*	*	81
+       0	*	*	*	*	*	*	1560	0	0	
+
+K 82   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	82
+       0	*	*	*	*	*	*	1339	0	0	
+
+L 83   *	*	*	*	*	*	*	*	*	1886	1116	*	*	*	*	*	*	1900	*	*	83
+       0	*	*	*	*	*	*	1320	0	0	
+
+E 84   *	*	*	2837	*	*	*	*	218	*	*	*	*	*	*	*	*	*	*	*	84
+       0	*	*	0	*	*	*	1320	0	0	
+
+//

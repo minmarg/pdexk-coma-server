@@ -1,0 +1,193 @@
+Query         3ndh_A REase ThaI, PDEXK superfamily
+Match_columns 120
+No_of_seqs    3 out of 5
+Neff          1.6 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:15 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3ndh_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3ndh_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3ndh_A REase ThaI, PDEXK super 100.0       0       0  469.8  12.0  120    1-120     1-120 (120)
+  2 d2fufa1 d.89.1.1 (A:131-256) T  30.3      26  0.0019   15.0   3.6   52   65-118    24-75  (126)
+  3 d1guqa1 d.13.1.2 (A:2-177) Gal  28.4      72  0.0052   12.6   5.6   76   32-107    53-159 (176)
+  4 d1z2ma1 d.15.1.1 (A:3-78) Inte  24.7      21  0.0015   15.5   2.4   48   56-103     2-50  (76)
+  5 d1o57a1 a.4.5.40 (A:2-74) N-te  23.4      13 0.00091   16.8   1.0   34   75-112    40-73  (73)
+  6 d1y1oa_ c.52.1.28 (A:) Recombi  19.6      39  0.0029   14.0   2.9   51   64-114    70-121 (168)
+  7 d2iiza1 d.58.4.14 (A:5-310) Me  15.6      67  0.0049   12.7   3.3   44   75-119   257-305 (306)
+  8 d1kjqa1 b.84.2.1 (A:319-392) G  13.6      60  0.0044   13.0   2.6   37   46-86     28-64  (74)
+  9 2ost_A Putative endonuclease;   12.2 1.2E+02  0.0088   11.3   3.8   53   57-114    49-107 (151)
+ 10 d1zesa1 c.23.1.1 (A:3-123) Pho  11.9 1.2E+02  0.0087   11.3   3.7   42   66-109    21-62  (121)
+
+No 1  
+>3ndh_A REase ThaI, PDEXK superfamily
+Probab=100.00  E-value=0  Score=469.81  Aligned_columns=120  Identities=100%
+
+Q ss_pred             CCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCEEEEECCCCEEEEEECCCCCCCCEEEEEECHHH
+Q ss_conf             96565565650012331347899999998872312331356433642027873770135542477855617898505688
+Q 3ndh_A            1 LAELESSRAGKVGMEVGSLRERIISSLLIYKFGEKNVETDLPITEPEIDVKLFGSPISIKTITGKEPAGVKLIWTVDATK   80 (120)
+Q Consensus         1 LaE~EsSR~GK~GMevGS~RErii~aLliY~FGe~NVeTdl~ITe~EiDV~l~~~p~SIKtit~~~~n~vKLIWTvD~~K   80 (120)
+                      |||+|||||||+||||||+|||||||||||||||+|||||||||||||||||||+||||||||||||||||||||||++|
+T Consensus         1 LaE~EsSR~GK~GMevGS~RErii~aLliY~FGe~NVeTdl~ITe~EiDV~l~~~p~SIKtit~~~~n~vKLIWTvD~~K   80 (120)
+T 3ndh_A            1 LAELESSRAGKVGMEVGSLRERIISSLLIYKFGEKNVETDLPITEPEIDVKLFGSPISIKTITGKEPAGVKLIWTVDATK   80 (120)
+T ss_pred             CCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCEEEEECCCCEEEEEECCCCCCCCEEEEEECHHH
+T ss_conf             96565565650012331347899999998872312331356433642027873770135542477855617898505688
+
+
+Q ss_pred             HHHHHHHHCCCCCEEEEEEEECCCCCEEECCHHHHHHHCC
+Q ss_conf             9999884088856699997304678557732246442059
+Q 3ndh_A           81 ARQFLETWHPRFDLILVHINWSSLGGVYYIPDYVQQRIFD  120 (120)
+Q Consensus        81 ~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YYIP~~vQq~v~~  120 (120)
+                      ||+||||||||||||||||||||+|||||||++|||+|||
+T Consensus        81 ~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YYIP~~vQq~v~~  120 (120)
+T 3ndh_A           81 ARQFLETWHPRFDLILVHINWSSLGGVYYIPDYVQQRIFD  120 (120)
+T ss_pred             HHHHHHHHCCCCCEEEEEEEECCCCCEEECCHHHHHHHCC
+T ss_conf             9999884088856699997304678557732246442059
+
+
+No 2  
+>d2fufa1 d.89.1.1 (A:131-256) The origin DNA-binding domain of SV40 T-antigen {Simian virus 40, Sv40 [TaxId: 10633]}
+Probab=30.29   E-value=26  Score=15.04  Aligned_columns=52  Identities=13%
+
+Q ss_pred             CCCCCCEEEEEECHHHHHHHHHHHCCCCCEEEEEEEECCCCCEEECCHHHHHHH
+Q ss_conf             785561789850568899998840888566999973046785577322464420
+Q 3ndh_A           65 KEPAGVKLIWTVDATKARQFLETWHPRFDLILVHINWSSLGGVYYIPDYVQQRI  118 (120)
+Q Consensus        65 ~~~n~vKLIWTvD~~K~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YYIP~~vQq~v  118 (120)
+                      ++++. -||.|+ .+|+++.-+.-.-+|..-|....+...|++-+|-+....||
+T Consensus        24 Kt~~~-FliyTT-~EK~~~Ly~kl~~kF~~~f~s~~~~~~~~~lfiiT~~kHRV   75 (126)
+T d2fufa1          24 RTLAC-FAIYTT-KEKAALLYKKIMEKYSVTFISRHNSYNHNILFFLTPHRHRV   75 (126)
+T ss_pred             CCCCC-EEEEEC-HHHHHHHHHHHHHHCCCCEEEEEECCCCEEEEEECCCCCHH
+T ss_conf             57563-478872-67789999998874084135520026840699982898326
+
+
+No 3  
+>d1guqa1 d.13.1.2 (A:2-177) Galactose-1-phosphate uridylyltransferase {Escherichia coli [TaxId: 562]}
+Probab=28.44   E-value=72  Score=12.56  Aligned_columns=76  Identities=14%
+
+Q ss_pred             HCCCCCCCCCCCCCCCEEEEECCCCEEEEEECC------------------------CCCCCCEEEEEECHHHHHHHHHH
+Q ss_conf             231233135643364202787377013554247------------------------78556178985056889999884
+Q 3ndh_A           32 FGEKNVETDLPITEPEIDVKLFGSPISIKTITG------------------------KEPAGVKLIWTVDATKARQFLET   87 (120)
+Q Consensus        32 FGe~NVeTdl~ITe~EiDV~l~~~p~SIKtit~------------------------~~~n~vKLIWTvD~~K~~~FlEt   87 (120)
+                      |-..|....-++..+.-+|.+|.|.+..-...+                        -+|+--+-+++.+...+...+..
+T Consensus        53 FC~g~e~~t~~~~~~~w~vrv~~N~fPal~~~~~~~~~~~~~l~~~~~~~G~heVIIesp~H~~~l~~ls~~~~~~v~~a  132 (176)
+T d1guqa1          53 LCAGNVRVTGDKNPDYTGTYVFTNDFAALMSDTPDAPESHDPLMRCQSARGTSRVICFSPDHSKTLPELSVAALTEIVKT  132 (176)
+T ss_pred             CCCCCCCCCCCCCCCCCEEEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCCCCCCHHHHHHHHHH
+T ss_conf             78886556787688886378872476432355666666656421024578743789865756787133898899999999
+
+
+Q ss_pred             H-------CCCCCEEEEEEEECCCCCE
+Q ss_conf             0-------8885669999730467855
+Q 3ndh_A           88 W-------HPRFDLILVHINWSSLGGV  107 (120)
+Q Consensus        88 ~-------~P~~~~i~v~i~Wgs~Gg~  107 (120)
+                      |       .+++.-+.+.-|||...|.
+T Consensus       133 ~~~R~~~l~~~~~Yv~iFkN~G~~AGa  159 (176)
+T d1guqa1         133 WQEQTAELGKTYPWVQVFENKGAAMGC  159 (176)
+T ss_pred             HHHHHHHHHCCCCEEEEEEEECCCCCC
+T ss_conf             999999982479878888500612566
+
+
+No 4  
+>d1z2ma1 d.15.1.1 (A:3-78) Interferon-induced 15 kDa protein {Human (Homo sapiens) [TaxId: 9606]}
+Probab=24.68   E-value=21  Score=15.51  Aligned_columns=48  Identities=17%
+
+Q ss_pred             CEEEEEECCCC-CCCCEEEEEECHHHHHHHHHHHCCCCCEEEEEEEECC
+Q ss_conf             01355424778-5561789850568899998840888566999973046
+Q 3ndh_A           56 PISIKTITGKE-PAGVKLIWTVDATKARQFLETWHPRFDLILVHINWSS  103 (120)
+Q Consensus        56 p~SIKtit~~~-~n~vKLIWTvD~~K~~~FlEt~~P~~~~i~v~i~Wgs  103 (120)
+                      ++.+||.+|++ +-.|..-.|+...|.+.+-.+=-|-...-|.+.|=|+
+T Consensus         2 ~i~VK~l~G~~~~l~v~~~~tV~~lK~~i~~~~gip~~~QrLi~~~~Gk   50 (76)
+T d1z2ma1           2 DLTVKMLAGNEFQVSLSSSMSVSELKAQITQKIGVHAFQQRLAVHPSGV   50 (76)
+T ss_pred             EEEEEECCCCEEEEEECCCCCHHHHHHHHHHHHCCCCCCCEEEECCCCE
+T ss_conf             3588733891898984588737888998875403785521688815882
+
+
+No 5  
+>d1o57a1 a.4.5.40 (A:2-74) N-terminal domain of Bacillus PurR {Bacillus subtilis [TaxId: 1423]}
+Probab=23.41   E-value=13  Score=16.79  Aligned_columns=34  Identities=29%
+
+Q ss_pred             EECHHHHHHHHHHHCCCCCEEEEEEEECCCCCEEECCH
+Q ss_conf             50568899998840888566999973046785577322
+Q 3ndh_A           75 TVDATKARQFLETWHPRFDLILVHINWSSLGGVYYIPD  112 (120)
+Q Consensus        75 TvD~~K~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YYIP~  112 (120)
+                      .-|..-+++-+|.+    ++=-+..-=|..||+.|||-
+T Consensus        40 SEDl~iik~~~~~~----g~G~ieT~~Ga~GGV~yiP~   73 (73)
+T d1o57a1          40 SEDLTIIKQTFEQQ----GIGTLLTVPGAAGGVKYIPK   73 (73)
+T ss_pred             HHHHHHHHHHHHHC----CCCEEEEEECCCCCEEECCC
+T ss_conf             77899999999843----89438874079985254369
+
+
+No 6  
+>d1y1oa_ c.52.1.28 (A:) Recombination protein U (RecU)/PBP related factor A (PrfA) {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=19.59   E-value=39  Score=14.02  Aligned_columns=51  Identities=12%
+
+Q ss_pred             CCCC-CCCEEEEEECHHHHHHHHHHHCCCCCEEEEEEEECCCCCEEECCHHH
+Q ss_conf             7785-56178985056889999884088856699997304678557732246
+Q 3ndh_A           64 GKEP-AGVKLIWTVDATKARQFLETWHPRFDLILVHINWSSLGGVYYIPDYV  114 (120)
+Q Consensus        64 ~~~~-n~vKLIWTvD~~K~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YYIP~~v  114 (120)
+                      +++- +.-.+-+..=...--++|+.|+-.-++-|+-|++++...+|++|-.+
+T Consensus        70 AKeT~~~~~f~l~nI~~HQ~~~L~~~~~~ggiaF~li~F~~~~~~y~ip~~~  121 (168)
+T d1y1oa_          70 AKETKNKTAFPLKNFHAHQIRHMEQVVAHGGICFAILRFSLLNETYLLDASH  121 (168)
+T ss_pred             CHHCCCCCCCCHHCCCHHHHHHHHHHHHCCCEEEEEEEEEECCEEEEEEHHH
+T ss_conf             0210477646410264778999999995699699999886426589965899
+
+
+No 7  
+>d2iiza1 d.58.4.14 (A:5-310) Melanin biosynthesis protein TyrA {Shewanella oneidensis [TaxId: 70863]}
+Probab=15.65   E-value=67  Score=12.71  Aligned_columns=44  Identities=11%
+
+Q ss_pred             EECHHHHHHHHHHHC-----CCCCEEEEEEEECCCCCEEECCHHHHHHHC
+Q ss_conf             505688999988408-----885669999730467855773224644205
+Q 3ndh_A           75 TVDATKARQFLETWH-----PRFDLILVHINWSSLGGVYYIPDYVQQRIF  119 (120)
+Q Consensus        75 TvD~~K~~~FlEt~~-----P~~~~i~v~i~Wgs~Gg~YYIP~~vQq~v~  119 (120)
+                      .-|......|+..+-     -..|.|+-++. ...|++||+|+...-+-|
+T Consensus       257 ~~~~~~~~~~l~~~~~~~~~g~~D~L~~fv~-~~~G~yffvPs~~~L~~~  305 (306)
+T d2iiza1         257 CRTPDHFEKMLHSMVFGDGAGNHDHLMHFTS-ALTGSSFFAPSLDFLMQF  305 (306)
+T ss_pred             HCCHHHHHHHHHHHHCCCCCCCCCCCCCCCE-ECCCCEEECCCHHHHHHC
+T ss_conf             0797799999999704688877575000314-213104531418888515
+
+
+No 8  
+>d1kjqa1 b.84.2.1 (A:319-392) Glycinamide ribonucleotide transformylase PurT, C-domain {Escherichia coli [TaxId: 562]}
+Probab=13.60   E-value=60  Score=12.98  Aligned_columns=37  Identities=24%
+
+Q ss_pred             CCEEEEECCCCEEEEEECCCCCCCCEEEEEECHHHHHHHHH
+Q ss_conf             42027873770135542477855617898505688999988
+Q 3ndh_A           46 PEIDVKLFGSPISIKTITGKEPAGVKLIWTVDATKARQFLE   86 (120)
+Q Consensus        46 ~EiDV~l~~~p~SIKtit~~~~n~vKLIWTvD~~K~~~FlE   86 (120)
+                      |+.++.+||||.+-.    .---|+-++.--|++.+++-.+
+T Consensus        28 p~~~ihlyGK~~~~~----~RKMGhvta~g~~~~~a~~kA~   64 (74)
+T d1kjqa1          28 ADLQIRLFGKPEIDG----SRRLGVALATAESVVDAIERAK   64 (74)
+T ss_pred             CCCEEEECCCCCCCC----CCEEEEEEEECCCHHHHHHHHH
+T ss_conf             898388605656889----8517899840599889999998
+
+
+No 9  
+>2ost_A Putative endonuclease; protein-DNA complex, restriction enzyme
+Probab=12.23   E-value=1.2e+02  Score=11.26  Aligned_columns=53  Identities=21%
+
+Q ss_pred             EEEEEECCCCCCC-----CEEEEEECHHHHHHHHHHHCCC-CCEEEEEEEECCCCCEEECCHHH
+Q ss_conf             1355424778556-----1789850568899998840888-56699997304678557732246
+Q 3ndh_A           57 ISIKTITGKEPAG-----VKLIWTVDATKARQFLETWHPR-FDLILVHINWSSLGGVYYIPDYV  114 (120)
+Q Consensus        57 ~SIKtit~~~~n~-----vKLIWTvD~~K~~~FlEt~~P~-~~~i~v~i~Wgs~Gg~YYIP~~v  114 (120)
+                      +-+||-...+.+|     .+-.|+...-..+   ..|+++ +|+++||.-  ..+-+|+||-.+
+T Consensus        49 iQvKt~~~~~~~g~~~v~~rs~~~~~~g~~~---~~Y~~~d~D~~~VY~~--~~d~~Y~iPv~~  107 (151)
+T 2ost_A           49 VQVKSSWKSEKTGNYVVDNRRTRTNRRNIVR---SPYRGNDFDFAVAYVE--ELELFYVFPVDV  107 (151)
+T ss_pred             EEEEEECCCCCCCEEEEEEEEEEECCCCCCC---CCCCCCCEEEEEEEEC--CCCCEEEEEHHH
+T ss_conf             9987403356565057775346513775415---7778010389999846--788289874587
+
+
+No 10 
+>d1zesa1 c.23.1.1 (A:3-123) PhoB receiver domain {Escherichia coli [TaxId: 562]}
+Probab=11.87   E-value=1.2e+02  Score=11.30  Aligned_columns=42  Identities=24%
+
+Q ss_pred             CCCCCEEEEEECHHHHHHHHHHHCCCCCEEEEEEEECCCCCEEE
+Q ss_conf             85561789850568899998840888566999973046785577
+Q 3ndh_A           66 EPAGVKLIWTVDATKARQFLETWHPRFDLILVHINWSSLGGVYY  109 (120)
+Q Consensus        66 ~~n~vKLIWTvD~~K~~~FlEt~~P~~~~i~v~i~Wgs~Gg~YY  109 (120)
+                      +..|...++..|...|.+.++.-.  +|+++.-++.-...|+--
+T Consensus        21 ~~~G~~v~~a~~g~~al~~l~~~~--pdliilD~~mP~~dG~el   62 (121)
+T d1zesa1          21 EQNGFQPVEAEDYDSAVNQLNEPW--PDLILLDWMLPGGSGIQF   62 (121)
+T ss_pred             HHCCCEEEEECCHHHHHHHHHHCC--CCEEEEECCCCCCCHHHH
+T ss_conf             965989989859799999997089--979998366899652789
+
+
+Done!

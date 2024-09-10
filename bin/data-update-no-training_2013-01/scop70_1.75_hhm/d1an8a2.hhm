@@ -1,0 +1,391 @@
+HHsearch 1.5
+NAME  d1an8a2 d.15.6.1 (A:96-208) Streptococcal superantigen Spe-C {Streptococcus pyogenes [TaxId: 1314]}
+FAM   d.15.6.1
+FILE  d1an8a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1an8a2.a3m -v 1 
+DATE  Mon Jan 21 18:54:51 2013
+LENG  113 match states, 113 columns in multiple alignment
+FILT  71 out of 73 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.2 
+SEQ
+>ss_pred
+CCCCCEEEEEEEECCCCEEECCEEEEEECCEEEHHHHHHHHHHHHHHHCCCCCCCCCCCEEEEEEEECCCCEEEEECCCCCCCCCHHHHHHHCCCCCEEC
+CCCCEEEEEEEEC
+>ss_conf
+9757436789985374102123046760664230012178888887532444678971225899984389789996015789876124310003773351
+5771489888749
+>Consensus
+xxxxxxixxnlxidGxqxxxxxxxixtxKkxVTlQElDxKxRkxLxxxxxLYxxxsxxxxGxIxxxxxdxxxxxxDLxxxxxxxxxxxxlkxYxDNktIx
+sxxisHiDVxLxK
+>d1an8a2 d.15.6.1 (A:96-208) Streptococcal superantigen Spe-C {Streptococcus pyogenes [TaxId: 1314]}
+NKVNHKLLGNLFISGESQQNLNNKIILEKDIVTFQEIDFKIRKYLMDNYKIYDATSPYVSGRIEIGTKDGKHEQIDLFDSPNEGTRSDIFAKYKDNRIIN
+MKNFSHFDIYLEK
+>gi|417903611|ref|ZP_12547450.1|(153-254:256) putative enterotoxin type A [Staphylococcus aureus subsp. aureus 21269] >gi|270269184|gb|ACZ66176.1| Enterotoxin, phage associated [Staphylococcus aureus] >gi|341849339|gb|EGS90483.1| putative enterotoxin type A [Staphylococcus aureus subsp. aureus 21269]  E=5e-09 s/c=0.63 id=29% cov=88%
+---------NVFKDGSKHE--TFTIATKKKMVTLQELDIKTRNKLEQSFNIYNKDkGDIKKGYINYhpHNQNDNNYYYDLYDFKGK-LSEQFFRFYNDNI
+IVPSSAY-HIDVYL--
+>gi|225871304|ref|YP_002747251.1|(126-236:236) exotoxin H precursor [Streptococcus equi subsp. equi 4047] >gi|8117875|gb|AAF72809.1|AF186180_3 SeeH [Streptococcus equi] >gi|225700708|emb|CAW95321.1| exotoxin H precursor [Streptococcus equi subsp. equi 4047]  E=3e-08 s/c=0.55 id=30% cov=85%
+---------------KSKQHPPMFITVNKPKVTAQEVDIKVRKLLIKKYDIYNNrEQKYSKGTVTLDLNSGKDIVFDLYYF-GNGDFNSMLKIYSNNERI
+DSTQF-HVDVSIS-
+>gi|319891803|ref|YP_004148678.1|(152-263:264) enterotoxin [Staphylococcus pseudintermedius HKU10-03] >gi|386319873|ref|YP_006016036.1| enterotoxin SE-int [Staphylococcus pseudintermedius ED99] >gi|317161499|gb|ADV05042.1| enterotoxin [Staphylococcus pseudintermedius HKU10-03] >gi|323465044|gb|ADX77197.1| enterotoxin SE-int [Staphylococcus pseudintermedius ED99]  E=2e-20 s/c=0.90 id=29% cov=98%
+NHKSQTIYVKVFENSKH--IITFEIQADKKLVTAQELDAKARKFLIDKLNLYEFkGSPYETGYIKFIENDDKSFWYDLMPPPGnNFNQSKYLTMYSDNKT
+VESKDIK-IEVHLTK
+>gi|422746883|ref|ZP_16800811.1|(155-267:268) staphylococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus MRSA131] >gi|320139794|gb|EFW31660.1| staphylococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus MRSA131]  E=2e-23 s/c=0.98 id=32% cov=96%
+-KERKKIPINLWINGVQKEVSLDKVQTDKKNVTVQELDAQARRYLQKDLKLYNNDTlggKIQRGKIEFDSSDGSKVSYDLFDVKGDF-PEKQLRIYSDNK
+TLSTEHL-HIDIYL--
+>gi|94989338|ref|YP_597439.1|(147-256:258) enterotoxin [Streptococcus pyogenes MGAS9429] >gi|94542846|gb|ABF32895.1| enterotoxin [Streptococcus pyogenes MGAS9429]  E=7e-18 s/c=0.85 id=36% cov=90%
+---------NLWINGKQISVPYNEISTNKTTVTAQEIDLKVRKFLISQHQLYSSGSSYKSGKLVFHTNDNsDKYSLDLFYV-GYRDKESIFKVYKDNKSF
+NIDKIGHLDIEI--
+>gi|166409297|dbj|BAG06666.1|(124-216:216) enterotoxin T [Staphylococcus aureus]   E=0.0006 s/c=0.50 id=33% cov=81%
+---------NLFKEQKQTEVTPEKeLEIGNRYLTMKQIDYRIKSYLVKKQQLY---TEFYNGKIEISMLDGKKHFIDLSTYYYDPS----------NFTL
+DYTKISHFDIYMEK
+>gi|15923416|ref|NP_370950.1|(126-230:231) superantigen-like protein 7 [Staphylococcus aureus subsp. aureus Mu50] >gi|15926104|ref|NP_373637.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus N315] >gi|148266888|ref|YP_001245831.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus JH9] >gi|150392933|ref|YP_001315608.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus JH1] >gi|156978755|ref|YP_001441014.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus Mu3] >gi|253316496|ref|ZP_04839709.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus str. CF-Marseille] >gi|255005223|ref|ZP_05143824.2| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus Mu50-omega] >gi|257794237|ref|ZP_05643216.1| exotoxin 11 [Staphylococcus aureus A9781] >gi|258413477|ref|ZP_05681752.1| exotoxin 11 [Staphylococcus aureus A9763] >gi|258421399|ref|ZP_05684326.1| exotoxin 11 [Staphylococcus aureus A9719] >gi|258444382|ref|ZP_05692716.1| exotoxin 11 [Staphylococcus aureus A8115] >gi|258444920|ref|ZP_05693241.1| exotoxin [Staphylococcus aureus A6300] >gi|258448125|ref|ZP_05696254.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6224] >gi|258455957|ref|ZP_05703912.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937] >gi|269202049|ref|YP_003281318.1| superantigen-like protein [Staphylococcus aureus subsp. aureus ED98] >gi|282893566|ref|ZP_06301799.1| conserved hypothetical protein [Staphylococcus aureus A8117] >gi|282927460|ref|ZP_06335078.1| conserved hypothetical protein [Staphylococcus aureus A10102] >gi|295405677|ref|ZP_06815487.1| superantigen-like protein [Staphylococcus aureus A8819] >gi|296277237|ref|ZP_06859744.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus MR1] >gi|297245584|ref|ZP_06929452.1| superantigen-like protein [Staphylococcus aureus A8796] >gi|384863756|ref|YP_005749115.1| staphylococcal/Streptococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|387149587|ref|YP_005741151.1| Exotoxin 11 [Staphylococcus aureus 04-02981] >gi|415692505|ref|ZP_11454466.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus CGS03] >gi|417651930|ref|ZP_12301686.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21172] >gi|417802983|ref|ZP_12450029.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21318] >gi|417894153|ref|ZP_12538176.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21201] >gi|418423593|ref|ZP_12996744.1| hypothetical protein MQA_00482 [Staphylococcus aureus subsp. aureus VRS1] >gi|418426538|ref|ZP_12999569.1| hypothetical protein MQC_02248 [Staphylococcus aureus subsp. aureus VRS2] >gi|418432360|ref|ZP_13005164.1| hypothetical protein MQG_01050 [Staphylococcus aureus subsp. aureus VRS4] >gi|418436070|ref|ZP_13007893.1| hypothetical protein MQI_00588 [Staphylococcus aureus subsp. aureus VRS5] >gi|418438970|ref|ZP_13010695.1| hypothetical protein MQK_01660 [Staphylococcus aureus subsp. aureus VRS6] >gi|418441954|ref|ZP_13013575.1| hypothetical protein MQM_01091 [Staphylococcus aureus subsp. aureus VRS7] >gi|418445078|ref|ZP_13016574.1| hypothetical protein MQO_01420 [Staphylococcus aureus subsp. aureus VRS8] >gi|418448022|ref|ZP_13019431.1| hypothetical protein MQQ_00721 [Staphylococcus aureus subsp. aureus VRS9] >gi|418450848|ref|ZP_13022193.1| hypothetical protein MQS_01108 [Staphylococcus aureus subsp. aureus VRS10] >gi|418453862|ref|ZP_13025139.1| hypothetical protein MQU_01743 [Staphylococcus aureus subsp. aureus VRS11a] >gi|418456767|ref|ZP_13027985.1| hypothetical protein MQW_00288 [Staphylococcus aureus subsp. aureus VRS11b] >gi|418567594|ref|ZP_13131958.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21272] >gi|418639139|ref|ZP_13201409.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-3] >gi|418652527|ref|ZP_13214494.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-99] >gi|418661181|ref|ZP_13222781.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-122] >gi|418877312|ref|ZP_13431552.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1165] >gi|418880113|ref|ZP_13434335.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1213] >gi|418883058|ref|ZP_13437260.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1769] >gi|418885691|ref|ZP_13439844.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1150] >gi|418893884|ref|ZP_13447987.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1057] >gi|418913655|ref|ZP_13467629.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIGC340D] >gi|418919241|ref|ZP_13473189.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIGC348] >gi|418931622|ref|ZP_13485462.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1750] >gi|418990316|ref|ZP_13537979.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1096] >gi|419784008|ref|ZP_14309783.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-M] >gi|424769758|ref|ZP_18196981.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus CM05] >gi|13700317|dbj|BAB41615.1| exotoxin 11 [Staphylococcus aureus subsp. aureus N315] >gi|14246194|dbj|BAB56588.1| exotoxin 11 [Staphylococcus aureus subsp. aureus Mu50] >gi|147739957|gb|ABQ48255.1| Domain of unknown function DUF1954 [Staphylococcus aureus subsp. aureus JH9] >gi|149945385|gb|ABR51321.1| toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus JH1] >gi|156720890|dbj|BAF77307.1| exotoxin 11 [Staphylococcus aureus subsp. aureus Mu3] >gi|257788209|gb|EEV26549.1| exotoxin 11 [Staphylococcus aureus A9781] >gi|257839724|gb|EEV64193.1| exotoxin 11 [Staphylococcus aureus A9763] >gi|257842823|gb|EEV67245.1| exotoxin 11 [Staphylococcus aureus A9719] >gi|257850641|gb|EEV74589.1| exotoxin 11 [Staphylococcus aureus A8115] >gi|257856238|gb|EEV79152.1| exotoxin [Staphylococcus aureus A6300] >gi|257858640|gb|EEV81514.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A6224] >gi|257862169|gb|EEV84942.1| toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937] >gi|262074339|gb|ACY10312.1| superantigen-like protein [Staphylococcus aureus subsp. aureus ED98] >gi|282590784|gb|EFB95860.1| conserved hypothetical protein [Staphylococcus aureus A10102] >gi|282764252|gb|EFC04379.1| conserved hypothetical protein [Staphylococcus aureus A8117] >gi|285816126|gb|ADC36613.1| Exotoxin 11 [Staphylococcus aureus 04-02981] >gi|294969752|gb|EFG45771.1| superantigen-like protein [Staphylococcus aureus A8819] >gi|297177570|gb|EFH36821.1| superantigen-like protein [Staphylococcus aureus A8796] >gi|312828923|emb|CBX33765.1| staphylococcal/Streptococcal toxin, beta-grasp domain protein [Staphylococcus aureus subsp. aureus ECT-R 2] >gi|315130054|gb|EFT86043.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus CGS03] >gi|329725760|gb|EGG62239.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21172] >gi|334273201|gb|EGL91551.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21318] >gi|341853660|gb|EGS94541.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21201] >gi|371982239|gb|EHO99399.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus 21272] >gi|375019765|gb|EHS13317.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-3] >gi|375021882|gb|EHS15377.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-99] >gi|375039446|gb|EHS32375.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-122] >gi|377698007|gb|EHT22360.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1165] >gi|377700401|gb|EHT24740.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1057] >gi|377714212|gb|EHT38415.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1750] >gi|377717284|gb|EHT41461.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1769] >gi|377724316|gb|EHT48433.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1096] >gi|377727777|gb|EHT51880.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1150] >gi|377733871|gb|EHT57912.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIG1213] >gi|377759698|gb|EHT83579.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIGC340D] >gi|377768293|gb|EHT92078.1| enterotoxin-like toxin [Staphylococcus aureus subsp. aureus CIGC348] >gi|383364212|gb|EID41526.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus IS-M] >gi|387721417|gb|EIK09282.1| hypothetical protein MQC_02248 [Staphylococcus aureus subsp. aureus VRS2] >gi|387722895|gb|EIK10675.1| hypothetical protein MQA_00482 [Staphylococcus aureus subsp. aureus VRS1] >gi|387728249|gb|EIK15746.1| hypothetical protein MQG_01050 [Staphylococcus aureus subsp. aureus VRS4] >gi|387730152|gb|EIK17563.1| hypothetical protein MQI_00588 [Staphylococcus aureus subsp. aureus VRS5] >gi|387731762|gb|EIK19020.1| hypothetical protein MQK_01660 [Staphylococcus aureus subsp. aureus VRS6] >gi|387738920|gb|EIK25936.1| hypothetical protein MQO_01420 [Staphylococcus aureus subsp. aureus VRS8] >gi|387739931|gb|EIK26912.1| hypothetical protein MQQ_00721 [Staphylococcus aureus subsp. aureus VRS9] >gi|387740296|gb|EIK27256.1| hypothetical protein MQM_01091 [Staphylococcus aureus subsp. aureus VRS7] >gi|387747596|gb|EIK34303.1| hypothetical protein MQS_01108 [Staphylococcus aureus subsp. aureus VRS10] >gi|387748607|gb|EIK35277.1| hypothetical protein MQU_01743 [Staphylococcus aureus subsp. aureus VRS11a] >gi|387749594|gb|EIK36218.1| hypothetical protein MQW_00288 [Staphylococcus aureus subsp. aureus VRS11b] >gi|402348102|gb|EJU83098.1| superantigen-like protein 7 [Staphylococcus aureus subsp. aureus CM05] >gi|408422878|emb|CCJ10289.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408424866|emb|CCJ12253.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408426855|emb|CCJ14218.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408428843|emb|CCJ26008.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408430831|emb|CCJ18146.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408432825|emb|CCJ20110.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408434814|emb|CCJ22074.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228] >gi|408436799|emb|CCJ24042.1| Exotoxin=11 [Staphylococcus aureus subsp. aureus ST228]  E=6e-12 s/c=0.70 id=37% cov=69%
+NNKSSETNTHLFVNkvyGGNLDASIDSFLINKEEVSLKELDFKIRKQLVEKYGLYKGTTKY--GKITINLKDEKKEVIDLGD------------------
+----------------
+>gi|21282116|ref|NP_645204.1|(142-230:232) superantigen-like protein [Staphylococcus aureus subsp. aureus MW2] >gi|49485293|ref|YP_042514.1| superantigen-like protein [Staphylococcus aureus subsp. aureus MSSA476] >gi|297209074|ref|ZP_06925473.1| staphylococcal exotoxin [Staphylococcus aureus subsp. aureus ATCC 51811] >gi|300911074|ref|ZP_07128523.1| staphylococcal exotoxin [Staphylococcus aureus subsp. aureus TCH70] >gi|418316295|ref|ZP_12927736.1| superantigen-like protein [Staphylococcus aureus subsp. aureus 21340] >gi|418933398|ref|ZP_13487223.1| superantigen-like protein 11 [Staphylococcus aureus subsp. aureus CIGC128] >gi|418987367|ref|ZP_13535041.1| superantigen-like protein 11 [Staphylococcus aureus subsp. aureus CIG1835] >gi|21203552|dbj|BAB94252.1| set21 [Staphylococcus aureus subsp. aureus MW2] >gi|49243736|emb|CAG42161.1| exotoxin [Staphylococcus aureus subsp. aureus MSSA476] >gi|296886007|gb|EFH24941.1| staphylococcal exotoxin [Staphylococcus aureus subsp. aureus ATCC 51811] >gi|300887253|gb|EFK82449.1| staphylococcal exotoxin [Staphylococcus aureus subsp. aureus TCH70] >gi|365241544|gb|EHM82289.1| superantigen-like protein [Staphylococcus aureus subsp. aureus 21340] >gi|377720291|gb|EHT44455.1| superantigen-like protein 11 [Staphylococcus aureus subsp. aureus CIG1835] >gi|377772193|gb|EHT95945.1| superantigen-like protein 11 [Staphylococcus aureus subsp. aureus CIGC128]  E=3e-10 s/c=0.76 id=23% cov=80%
+-------------DRDTTSTKDSKFKITKEEISLKELDFKLRQKLMKEENLYDAI-NHRKGKIVVKMEDDKFYTFELTKKLQPHRMGD---------TID
+GTKIKEINVELE-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	2308	*	*	*	*	*	*	*	*	326	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2527	0	0	
+
+K 2    *	*	*	2995	*	*	2938	*	1764	*	*	2609	*	*	*	1807	*	*	*	*	2
+       0	*	*	*	*	*	*	2830	0	0	
+
+V 3    *	*	*	1689	*	*	*	1984	1764	*	*	*	*	*	*	*	*	2809	*	*	3
+       0	*	*	*	*	*	*	2830	0	0	
+
+N 4    *	*	*	*	*	*	*	*	*	*	*	1864	3247	*	2856	1053	*	*	*	*	4
+       0	*	*	*	*	*	*	2877	0	0	
+
+H 5    *	*	*	*	*	*	2062	*	1519	*	*	*	*	3192	*	1726	*	*	*	*	5
+       0	*	*	*	*	*	*	2877	0	0	
+
+K 6    *	*	*	3801	*	*	*	*	1003	*	*	2156	*	2875	*	*	3865	*	*	*	6
+       0	*	*	*	*	*	*	3207	0	0	
+
+L 7    *	*	*	*	2933	*	*	783	*	3695	*	*	*	*	*	*	3885	2806	*	*	7
+       0	*	*	*	*	*	*	3259	0	0	
+
+L 8    *	*	*	*	*	*	*	3856	*	2272	*	3885	1646	*	*	*	*	1862	*	4024	8
+       0	*	*	*	*	*	*	3259	0	0	
+
+G 9    3881	*	*	*	*	1902	*	1484	*	*	*	*	*	*	*	*	3973	2039	*	*	9
+       0	*	*	*	*	*	*	3334	0	0	
+
+N 10   *	*	*	*	*	*	5160	4063	3464	*	*	403	4984	*	*	4895	*	*	*	*	10
+       0	*	*	*	*	*	*	4017	0	0	
+
+L 11   *	*	*	*	*	*	*	3559	*	861	*	*	*	*	*	*	*	1456	*	*	11
+       0	*	*	*	*	*	*	4015	0	0	
+
+F 12   *	*	*	*	1228	*	*	5798	*	5077	*	4084	*	*	*	4431	5055	*	1608	4010	12
+       0	*	*	*	*	*	*	4015	0	0	
+
+I 13   *	*	*	4064	*	4784	*	1285	2571	4163	*	*	*	4323	*	*	*	2188	*	*	13
+       0	*	*	*	*	*	*	4495	0	0	
+
+S 14   *	*	1010	3533	5045	*	5542	*	*	*	*	1826	*	*	*	3586	*	*	*	*	14
+       87	6032	4533	1585	585	*	*	4609	1000	0	
+
+G 15   5475	*	5687	*	*	457	*	*	4801	*	*	5797	*	4298	4989	3420	*	*	*	*	15
+       34	*	5426	*	*	*	0	4577	0	1350	
+
+E 16   4693	*	5091	2591	4919	4695	3268	3972	1800	5282	*	4181	*	6268	*	4567	*	3270	*	*	16
+       0	*	*	*	*	580	1596	4667	0	1505	
+
+S 17   5617	*	4980	4002	*	*	3807	*	3960	5087	*	3267	*	1220	5822	3935	3262	*	*	*	17
+       60	5277	6093	1585	585	0	*	4726	1000	1000	
+
+Q 18   4814	*	*	4877	*	5803	5617	5725	2161	4360	*	4749	*	2504	3650	4419	1938	*	*	*	18
+       42	*	5109	*	*	*	0	4763	0	1000	
+
+Q 19   *	*	3238	2414	4770	*	*	*	3103	*	*	3501	*	4400	5630	2674	2294	5823	*	5701	19
+       30	*	5580	*	*	1537	610	4766	0	1601	
+
+N 20   4330	*	*	4148	*	3543	5285	3127	*	3512	4951	5569	*	5233	*	4671	3210	1579	*	5771	20
+       0	*	*	*	*	658	1449	4740	0	1797	
+
+L 21   5857	*	*	4425	3380	*	*	4482	4499	3229	*	5309	2480	*	5675	2026	2613	6433	*	*	21
+       26	5827	*	1585	585	0	*	4730	1000	1000	
+
+N 22   5199	*	5272	*	*	5808	*	3163	5322	2644	5682	4361	3382	*	*	2098	2838	3708	*	5761	22
+       251	4120	3291	0	*	*	*	4755	1446	0	
+
+N 23   *	*	1892	2889	2600	5912	*	*	4163	*	5142	3140	*	*	*	3569	5351	*	*	3215	23
+       0	*	*	*	*	*	0	4646	0	1838	
+
+K 24   4476	*	3288	4363	5157	5338	5854	5726	1661	5807	*	*	3938	*	5307	3381	2661	*	*	4771	24
+       71	4377	*	0	*	0	*	4676	1000	1838	
+
+I 25   *	*	*	*	2657	*	*	1218	*	3500	*	*	*	*	*	*	*	1962	*	3909	25
+       0	*	*	*	*	*	*	4744	0	0	
+
+I 26   5167	*	6048	3721	6200	*	*	5780	2213	3528	*	4957	*	3963	4193	2337	2438	*	*	6195	26
+       36	5350	*	0	*	*	*	4457	1000	0	
+
+L 27   6336	*	*	*	3392	*	*	1485	*	5779	*	*	*	*	*	*	1072	4594	*	*	27
+       0	*	*	*	*	*	*	4382	0	0	
+
+E 28   *	*	2262	4376	6311	4431	*	*	2621	*	*	1640	*	3849	6106	4574	4830	*	*	4645	28
+       0	*	*	*	*	*	*	4392	0	0	
+
+K 29   *	*	*	*	*	*	5348	*	244	*	6027	3109	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	4394	0	0	
+
+D 30   5196	*	4407	1891	*	*	*	5035	1173	*	*	4843	4673	*	3945	5048	6300	*	*	*	30
+       0	*	*	*	*	*	*	4394	0	0	
+
+I 31   5620	*	5958	1877	4949	*	6071	3684	2733	4971	4097	3857	5048	3388	*	6732	4272	5418	*	4432	31
+       0	*	*	*	*	*	*	4394	0	0	
+
+V 32   *	*	*	*	4079	*	*	2196	*	4066	5620	*	4378	*	*	*	*	750	*	*	32
+       0	*	*	*	*	*	*	4394	0	0	
+
+T 33   *	*	*	*	*	*	*	5035	*	*	*	*	5200	*	*	2050	513	*	*	*	33
+       0	*	*	*	*	*	*	4394	0	0	
+
+F 34   2273	*	*	*	3825	*	*	3054	*	1244	4432	*	*	*	*	*	*	2905	*	*	34
+       0	*	*	*	*	*	*	4394	0	0	
+
+Q 35   *	*	*	*	*	*	*	*	1456	*	*	*	*	654	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	4394	0	0	
+
+E 36   *	*	*	68	*	*	*	*	*	*	*	*	*	4432	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	4394	0	0	
+
+I 37   *	*	*	*	4079	*	*	2168	*	689	*	*	*	*	*	*	5445	3738	*	*	37
+       0	*	*	*	*	*	*	4394	0	0	
+
+D 38   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	4394	0	0	
+
+F 39   4643	6309	*	*	1382	*	*	3371	*	2867	*	*	*	*	*	*	4747	2777	*	2767	39
+       0	*	*	*	*	*	*	4394	0	0	
+
+K 40   *	*	*	*	*	*	*	*	620	6341	*	4462	*	3034	2561	*	*	*	*	*	40
+       0	*	*	*	*	*	*	4394	0	0	
+
+I 41   3009	*	*	*	*	*	*	2002	*	1469	*	*	*	*	*	5162	3467	2771	*	*	41
+       0	*	*	*	*	*	*	4394	0	0	
+
+R 42   *	*	*	*	*	*	*	*	4432	*	*	*	*	*	68	*	*	*	*	*	42
+       0	*	*	*	*	*	*	4394	0	0	
+
+K 43   *	*	*	*	5196	*	3692	*	1027	*	*	2978	*	3159	4046	4432	6074	*	*	4504	43
+       0	*	*	*	*	*	*	4394	0	0	
+
+Y 44   5062	*	*	*	3447	*	3729	4851	3123	4685	*	5035	*	3363	*	3702	5418	5829	5586	1521	44
+       0	*	*	*	*	*	*	4394	0	0	
+
+L 45   *	*	*	*	5122	*	*	4425	*	158	5119	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	4390	0	0	
+
+M 46   *	*	*	4545	*	*	3944	1702	*	4747	2377	4967	*	2637	*	5553	4913	3214	*	*	46
+       112	3740	*	1000	1000	*	*	4390	1609	0	
+
+D 47   *	*	2444	1934	*	4476	*	*	2298	*	*	2426	*	4493	*	3725	*	*	*	*	47
+       0	*	*	*	*	*	*	4390	0	0	
+
+N 48   *	*	5297	2637	*	*	5041	*	1543	5209	*	2674	*	3203	4839	4488	4218	6085	*	*	48
+       0	*	*	*	*	*	*	4390	0	0	
+
+Y 49   *	*	*	4248	3663	*	3900	3537	2756	5479	*	4868	*	4427	*	5980	*	*	*	1158	49
+       0	*	*	*	*	*	*	4390	0	0	
+
+K 50   *	*	3955	4744	*	2621	5509	*	1671	5896	*	1927	*	3532	6732	5377	*	*	*	*	50
+       0	*	*	*	*	*	*	4390	0	0	
+
+I 51   *	*	*	*	*	*	*	1863	*	524	5064	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	4390	0	0	
+
+Y 52   *	*	*	*	*	*	5119	*	*	*	*	*	*	*	*	*	*	*	*	42	52
+       124	*	3601	*	*	*	*	4390	0	0	
+
+D 53   *	*	2800	2412	*	2999	5058	*	3304	5009	*	2232	*	3565	*	4415	6186	*	*	5434	53
+       164	3222	*	2078	390	*	0	4231	2304	2016	
+
+A 54   4810	*	*	5570	2518	3253	3940	*	3633	*	*	2561	5661	5779	6004	2909	3258	*	*	4124	54
+       84	4409	6753	0	*	1403	685	4231	1793	2016	
+
+T 55   *	*	2222	2339	6398	2376	*	5039	4473	*	5561	2488	*	*	*	6274	3565	6475	*	*	55
+       367	2632	3985	2526	275	661	1443	4238	2663	1864	
+
+S 56   6300	*	*	*	*	3163	*	*	*	*	*	*	3731	4911	*	730	2606	*	*	*	56
+       162	4660	3908	1585	585	2097	384	4404	1383	1955	
+
+P 57   5484	*	3703	3777	*	2619	*	5391	1717	5343	*	4474	2903	5872	4074	4123	*	*	*	*	57
+       322	3702	3024	0	*	1168	850	4349	1500	2524	
+
+Y 58   *	5568	*	*	2404	*	5473	2114	*	6101	*	5131	*	*	*	*	*	3799	*	1246	58
+       88	*	4080	*	*	1786	494	4418	0	2450	
+
+V 59   *	*	4974	2490	5666	4200	*	3852	3432	5188	*	2756	*	2474	5258	3843	5820	4624	*	4485	59
+       0	*	*	*	*	482	1816	4378	0	2004	
+
+S 60   6627	*	3360	5992	*	5821	*	6629	1403	*	*	4137	*	5899	3512	2570	2826	*	*	*	60
+       0	*	*	*	*	0	*	4417	0	1270	
+
+G 61   *	*	*	*	*	130	*	5190	*	*	*	*	*	*	*	4087	*	*	*	*	61
+       0	*	*	*	*	*	*	4390	0	0	
+
+R 62   *	5209	*	5509	4629	*	6227	*	1804	3659	*	4232	*	4530	4381	3702	4436	5190	*	2078	62
+       0	*	*	*	*	*	*	4390	0	0	
+
+I 63   *	*	*	*	5377	*	*	563	*	3384	5907	*	*	*	*	*	*	3161	3740	*	63
+       0	*	*	*	*	*	*	4390	0	0	
+
+E 64   *	*	5403	2216	3915	5474	*	3676	1977	5737	*	5985	*	4974	4760	*	3227	2942	*	*	64
+       0	*	*	*	*	*	*	4390	0	0	
+
+I 65   *	*	*	*	1183	*	*	1454	*	4186	*	*	*	*	5846	*	*	3488	*	4920	65
+       58	5985	5423	1000	1000	*	*	4390	1000	0	
+
+G 66   4109	*	4326	4799	*	4005	1347	2925	4203	*	*	3913	*	*	*	4063	3494	*	*	*	66
+       25	5857	*	2322	322	0	*	4433	1000	1173	
+
+T 67   *	*	4500	3221	*	5122	*	5247	5632	2871	2082	4920	6362	*	*	2569	2830	*	*	4438	67
+       0	*	*	*	*	*	*	4390	0	0	
+
+K 68   5896	*	5857	5279	*	4695	4581	*	1413	4427	*	1971	*	5271	*	2977	5064	*	*	*	68
+       87	*	4094	*	*	*	*	4390	0	0	
+
+D 69   *	*	1216	5070	*	3031	*	*	6345	*	*	1931	*	*	6177	3733	4928	*	*	5563	69
+       21	6090	*	1000	1000	0	*	4349	1000	1617	
+
+G 70   *	*	4135	2698	*	1219	*	*	3212	*	*	3158	5553	*	5119	3852	*	*	*	5632	70
+       18	6332	*	0	*	*	*	4390	1000	0	
+
+K 71   4764	*	3157	4335	5896	3305	4533	*	2007	*	*	3106	5113	4592	4938	3132	4101	*	*	*	71
+       21	6085	*	1000	1000	*	*	4390	1000	0	
+
+H 72   *	*	4304	4458	4465	*	2992	4293	2657	5270	*	3991	*	6734	4486	2264	3351	6074	*	4072	72
+       0	*	*	*	*	*	*	4390	0	0	
+
+E 73   6246	*	*	3147	1947	*	3220	5020	5044	*	5190	6165	*	*	5403	*	*	3131	*	1904	73
+       0	*	*	*	*	*	*	4390	0	0	
+
+Q 74   *	*	*	3423	3857	4613	5403	*	4301	*	*	5611	*	5941	*	2221	2162	4745	3059	3466	74
+       20	6201	*	1000	1000	*	*	4390	1000	0	
+
+I 75   5122	*	*	*	2135	*	*	2245	*	4323	*	*	*	*	*	*	4438	4672	*	1332	75
+       0	*	*	*	*	*	*	4390	0	0	
+
+D 76   *	*	411	2619	*	*	*	*	*	*	*	3556	*	*	*	*	*	*	*	*	76
+       0	*	*	*	*	*	*	4390	0	0	
+
+L 77   *	*	*	*	5060	*	*	5553	*	170	4056	*	*	*	*	*	*	*	*	*	77
+       61	*	4586	*	*	*	*	4390	0	0	
+
+F 78   *	*	5580	*	1160	3822	4685	*	*	*	3226	4393	*	*	*	3892	5743	*	*	2462	78
+       60	*	4627	*	*	*	0	4429	0	1560	
+
+D 79   6131	*	1547	*	*	5153	*	*	2665	*	*	2937	2661	*	*	*	3466	*	*	3669	79
+       51	*	4841	*	*	931	1073	4462	0	2191	
+
+S 80   2607	*	5649	4713	3491	*	5627	4140	1870	4547	*	*	6007	*	*	5526	5218	3615	*	2739	80
+       139	*	3443	*	*	1018	982	4307	0	2383	
+
+P 81   *	*	4442	6293	*	5867	*	6023	2122	2097	*	5622	2239	4414	*	5481	3342	*	*	4466	81
+       25	*	5872	*	*	602	1552	4256	0	2776	
+
+N 82   *	*	2895	5860	*	1080	*	*	*	*	*	3899	4544	2485	*	4575	*	*	*	4479	82
+       234	4363	3302	709	1366	696	1386	4354	1499	2062	
+
+E 83   5828	*	2573	2516	4262	*	4582	*	2737	*	*	3096	3507	3465	*	4539	5381	*	*	4911	83
+       444	3911	2334	0	*	1390	693	4239	1462	2668	
+
+G 84   *	*	5347	4008	2171	2073	3438	*	*	4121	*	3939	4166	*	4049	3028	*	*	*	*	84
+       31	*	5542	*	*	676	1418	4211	0	3158	
+
+T 85   *	*	2892	*	*	*	*	5926	5220	2762	*	4906	*	3432	2295	4361	3166	4279	*	2908	85
+       141	4501	4361	0	*	1975	423	4259	1101	2330	
+
+R 86   5345	*	*	4103	5246	4190	*	*	5515	*	2239	*	2223	3035	2585	4203	*	*	*	4468	86
+       45	*	5040	*	*	1600	577	4128	0	2266	
+
+S 87   3693	*	3364	2627	*	3625	5613	*	6026	*	*	3395	5587	*	*	1745	5546	3723	*	4817	87
+       35	*	5382	*	*	*	0	4175	0	2293	
+
+D 88   *	*	1432	3556	*	*	*	*	1964	*	*	*	*	4655	5136	2673	3986	*	*	*	88
+       123	*	3611	*	*	2073	392	4158	0	2478	
+
+I 89   *	*	*	*	1789	*	*	3311	5247	4419	4382	*	*	4340	4199	*	5519	2347	*	2585	89
+       149	*	3352	*	*	*	0	4068	0	2949	
+
+F 90   4929	*	5063	*	2303	*	*	*	*	485	*	*	*	*	*	*	*	5640	*	*	90
+       0	*	*	*	*	*	0	3891	0	3036	
+
+A 91   5084	*	*	*	*	*	*	*	1058	4382	2996	2963	*	4121	3154	*	5744	*	*	*	91
+       0	*	*	*	*	*	0	3891	0	3036	
+
+K 92   *	*	*	*	3154	*	*	1252	3169	4387	3766	*	*	*	3686	3605	*	3729	*	*	92
+       35	5402	*	0	*	1801	488	3891	1000	3036	
+
+Y 93   *	*	*	*	*	*	*	*	4321	*	*	*	*	*	*	*	4223	*	*	158	93
+       0	*	*	*	*	*	0	4032	0	2662	
+
+K 94   5516	*	3271	4033	*	4119	*	*	2362	*	*	2253	*	5949	2701	3314	4334	4991	*	*	94
+       0	*	*	*	*	*	0	4032	0	2662	
+
+D 95   5259	*	301	*	*	5368	*	4321	*	*	*	5123	*	*	*	*	5189	*	*	4963	95
+       0	*	*	*	*	2460	289	4032	0	2662	
+
+N 96   *	*	*	*	*	5050	*	*	*	*	*	44	*	*	*	*	*	*	*	*	96
+       0	*	*	*	*	2374	309	4168	0	2389	
+
+R 97   *	*	*	2827	4366	*	*	5500	614	*	*	5056	*	*	3253	*	*	*	*	*	97
+       0	*	*	*	*	1198	826	4205	0	2117	
+
+I 98   *	*	*	*	*	*	*	3073	*	4273	6169	5212	*	*	5385	4699	641	4586	*	4529	98
+       0	*	*	*	*	0	*	4382	0	1756	
+
+I 99   5787	*	*	*	3573	*	*	944	*	3187	*	*	*	*	*	*	*	1899	*	*	99
+       0	*	*	*	*	*	*	4441	0	0	
+
+N 100  *	*	1372	3259	*	*	*	*	3588	5818	*	1870	5603	*	*	3384	*	*	*	5773	100
+       0	*	*	*	*	*	*	4386	0	0	
+
+M 101  5225	*	*	*	5317	4724	*	4396	*	*	3281	4426	*	*	*	828	4335	4128	*	4522	101
+       0	*	*	*	*	*	*	4386	0	0	
+
+K 102  5767	*	2912	2285	*	*	*	*	2378	*	*	5056	4426	*	5163	2433	2630	*	*	*	102
+       23	*	6005	*	*	*	*	4386	0	0	
+
+N 103  4813	*	2667	4562	*	*	6213	*	1821	*	*	1871	*	3388	4854	4203	*	6582	*	*	103
+       27	*	5732	*	*	0	*	4389	0	1000	
+
+F 104  *	*	*	*	2568	*	5381	1369	5167	2833	4562	*	*	*	*	*	4093	3583	*	3886	104
+       633	*	1494	*	*	0	*	4375	0	1000	
+
+S 105  3031	*	4118	4942	*	4576	*	*	2225	*	*	4904	*	4706	*	1210	5176	*	*	*	105
+       353	*	2204	*	*	0	*	4051	0	2889	
+
+H 106  *	*	*	3603	*	*	417	*	5152	*	*	5621	*	4174	4492	*	*	*	*	5597	106
+       0	*	*	*	*	0	*	4360	0	1856	
+
+F 107  *	*	*	*	2407	*	*	662	*	3070	5847	*	*	*	*	*	*	4546	*	*	107
+       0	*	*	*	*	*	*	4386	0	0	
+
+D 108  *	*	656	1680	*	*	*	*	*	*	*	5424	*	*	*	*	5056	*	*	*	108
+       0	*	*	*	*	*	*	4386	0	0	
+
+I 109  *	*	*	*	*	*	*	1298	*	4875	*	*	*	*	*	*	*	839	*	*	109
+       0	*	*	*	*	*	*	4386	0	0	
+
+Y 110  *	*	4191	3344	4362	*	2931	5443	5204	5409	*	3579	*	*	*	4551	*	*	*	1099	110
+       0	*	*	*	*	*	*	4386	0	0	
+
+L 111  *	*	*	*	*	*	*	3304	*	338	3638	*	*	*	*	*	*	5204	*	*	111
+       0	*	*	*	*	*	*	4386	0	0	
+
+E 112  *	*	*	2433	4743	*	*	*	2706	*	*	3569	*	*	4716	2607	2006	4995	*	4122	112
+       0	*	*	*	*	*	*	4077	0	0	
+
+K 113  *	*	*	3279	*	*	*	*	157	*	*	*	*	*	*	*	*	*	*	*	113
+       0	*	*	0	*	*	*	3700	0	0	
+
+//

@@ -1,0 +1,226 @@
+HHsearch 1.5
+NAME  d1nj8a2 d.68.5.1 (A:394-455) C-terminal domain of ProRS {Archaeon (Methanocaldococcus jannaschii) [TaxId: 2190]}
+FAM   d.68.5.1
+FILE  d1nj8a2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1nj8a2.a3m -v 1 
+DATE  Tue Jan 22 00:11:52 2013
+LENG  62 match states, 62 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHCCCCEEEEECCHHHHHHHHHHHHCCEEEEEEECCCCEEEEEEECC
+>ss_conf
+90013478678999985069879861460010233444205321101101686047765229
+>Consensus
+itilexxxxxxiKxxlxekkGviLiPyxexiYnEExEexidAsvLGxtxyxGxkYIaiAkTY
+>d1nj8a2 d.68.5.1 (A:394-455) C-terminal domain of ProRS {Archaeon (Methanocaldococcus jannaschii) [TaxId: 2190]}
+ITILEDINPDEIKNILSEKRGVILVPFKEEIYNEELEEKVEATILGETEYKGNKYIAIAKTY
+>gi|261402296|ref|YP_003246520.1|(403-464:464) prolyl-tRNA synthetase [Methanocaldococcus vulcanius M7] >gi|261369289|gb|ACX72038.1| prolyl-tRNA synthetase [Methanocaldococcus vulcanius M7]  E=2e-18 s/c=1.54 id=73% cov=102%
+ITMLEDVDLEKIRKILSEKRGVVLIPYKKEIYNEDLEEKVDATILGETNYKGKKYIAIAKTY
+>gi|150400672|ref|YP_001324438.1|(395-456:456) prolyl-tRNA synthetase [Methanococcus aeolicus Nankai-3] >gi|171460849|sp|A6UTK4.1|SYP_META3 RecName: Full=Proline--tRNA ligase; AltName: Full=Prolyl-tRNA synthetase; Short=ProRS >gi|150013375|gb|ABR55826.1| prolyl-tRNA synthetase [Methanococcus aeolicus Nankai-3]  E=3e-12 s/c=1.20 id=57% cov=102%
+ITILDNHDVNNIKETLSTKKGVVLVPYDENIYTEEFEEEIDASVLGTTEYDGKKYISIAKTY
+>gi|150400311|ref|YP_001324078.1|(394-461:461) prolyl-tRNA synthetase [Methanococcus vannielii SB] >gi|171460844|sp|A6USJ4.1|SYP_METVS RecName: Full=Proline--tRNA ligase; AltName: Full=Prolyl-tRNA synthetase; Short=ProRS >gi|150013014|gb|ABR55466.1| prolyl-tRNA synthetase [Methanococcus vannielii SB]  E=4e-08 s/c=0.90 id=51% cov=102%
+ITVIENDKKDllllseKVKFALSESKGIILVPYIESIYNEEFEGLIDASVLGLTTYNGKEYISIARTY
+>gi|336121162|ref|YP_004575937.1|(418-471:471) Prolyl-tRNA synthetase [Methanothermococcus okinawensis IH1] >gi|334855683|gb|AEH06159.1| Prolyl-tRNA synthetase [Methanothermococcus okinawensis IH1]  E=3e-16 s/c=1.63 id=53% cov=89%
+--------IDNVKEILAEKKGVVLIPYDKNLYNEEFEESIEASVLGITKCNGNEYIAVARTY
+>gi|296110087|ref|YP_003617036.1|(397-451:451) prolyl-tRNA synthetase [methanocaldococcus infernus ME] >gi|295434901|gb|ADG14072.1| prolyl-tRNA synthetase [Methanocaldococcus infernus ME]  E=1e-15 s/c=1.57 id=64% cov=90%
+-------DVEEAKEMLEKKRGIILVPYDNSIYKEELEEKVDAKVLGETEYEGKKYIAIAKTY
+>gi|134045917|ref|YP_001097403.1|(408-460:460) prolyl-tRNA synthetase [Methanococcus maripaludis C5] >gi|172044143|sp|A4FYA4.1|SYP_METM5 RecName: Full=Proline--tRNA ligase; AltName: Full=Prolyl-tRNA synthetase; Short=ProRS >gi|132663542|gb|ABO35188.1| prolyl-tRNA synthetase [Methanococcus maripaludis C5]  E=1e-15 s/c=1.63 id=48% cov=87%
+---------EKVKAALLENKGIILIPFDESVYNEEFEELIDASVLGQTAYEGKDYISVARTY
+>gi|297619256|ref|YP_003707361.1|(426-481:481) prolyl-tRNA synthetase [Methanococcus voltae A3] >gi|297378233|gb|ADI36388.1| prolyl-tRNA synthetase [Methanococcus voltae A3]  E=0.0002 s/c=0.88 id=53% cov=92%
+-----NLLLENIKEAINNRK-VVLIPFNEELYNEEFEEETGASILGECEFEGNKYISIAKTY
+>gi|333910184|ref|YP_004483917.1|(294-458:458) prolyl-tRNA synthetase [Methanotorris igneus Kol 5] >gi|333750773|gb|AEF95852.1| Prolyl-tRNA synthetase [Methanotorris igneus Kol 5]  E=9e-69 s/c=0.55 id=73% cov=102%
+IKIVEfdESKIDEIKNILSEKRGVILIPYSDDIYNEELEDKVEASVLGVTEYKGNKYIAIARTY
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1717	0	0	
+
+T 2    *	*	*	*	*	*	*	*	2378	*	*	*	*	*	*	*	308	*	*	*	2
+       0	*	*	*	*	*	*	1717	0	0	
+
+I 3    *	*	*	*	*	*	*	788	*	*	2357	*	*	*	*	*	*	2149	*	*	3
+       0	*	*	*	*	*	*	1717	0	0	
+
+L 4    *	*	*	*	*	*	*	2149	*	780	*	*	*	*	*	*	*	2378	*	*	4
+       0	*	*	*	*	*	*	1717	0	0	
+
+E 5    *	*	2242	343	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       308	2378	*	1000	1000	*	*	1717	1000	0	
+
+D 6    *	*	1732	2680	*	*	*	*	*	*	*	881	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1846	0	0	
+
+I 7    *	*	2414	*	*	*	2606	2825	*	2388	*	*	*	*	*	2680	*	2644	*	*	7
+       0	*	*	*	*	*	*	1846	0	0	
+
+N 8    *	*	1272	*	*	*	*	*	1763	2537	*	3073	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1842	0	0	
+
+P 9    *	*	*	*	*	*	*	2029	2883	1890	*	*	3278	*	*	*	*	2020	*	*	9
+       0	*	*	*	*	*	*	1874	0	0	
+
+D 10   *	*	1263	1073	*	*	*	*	*	*	*	3211	*	*	*	*	*	*	*	*	10
+       168	3183	*	2585	263	*	*	1891	1000	0	
+
+E 11   *	*	*	1697	*	*	*	*	1563	*	*	1502	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 12   3128	*	*	*	*	*	*	873	*	*	*	*	*	*	*	*	*	1558	*	*	12
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 13   *	*	*	*	*	*	*	*	170	*	*	*	*	*	3168	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1891	0	0	
+
+N 14   3095	*	*	1097	3183	*	*	*	3168	*	*	2366	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 15   1474	*	*	*	*	*	*	1259	*	*	3128	*	*	*	*	*	3211	*	*	*	15
+       0	*	*	*	*	*	*	1891	0	0	
+
+L 16   *	*	*	*	*	*	*	2913	*	205	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1891	0	0	
+
+S 17   3152	*	*	3128	*	*	*	*	*	3095	*	2913	*	*	*	934	*	*	*	*	17
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 18   *	*	*	633	*	*	*	*	3128	*	*	2913	*	*	*	*	3211	*	*	*	18
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 19   *	*	*	*	*	*	*	*	644	*	*	3095	*	*	2913	3183	*	*	*	*	19
+       0	*	*	*	*	*	*	1891	0	0	
+
+R 20   *	*	*	*	*	*	*	*	785	*	*	*	*	*	1253	*	*	*	*	*	20
+       205	*	2913	*	*	*	*	1891	0	0	
+
+G 21   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	0	*	1808	0	1000	
+
+V 22   *	*	*	*	*	*	*	1550	*	*	*	*	*	*	*	*	*	603	*	*	22
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 23   *	*	*	*	*	*	*	901	*	*	*	*	*	*	*	*	*	1106	*	*	23
+       0	*	*	*	*	*	*	1891	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1891	0	0	
+
+V 25   *	*	*	*	*	*	*	795	*	*	*	*	*	*	*	*	*	1238	*	*	25
+       0	*	*	*	*	*	*	1891	0	0	
+
+P 26   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1891	0	0	
+
+F 27   *	*	*	*	1552	*	*	*	*	*	*	*	*	*	*	*	*	*	*	602	27
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 28   *	*	1146	*	*	*	*	3183	2303	*	*	2913	*	*	*	3284	*	*	*	*	28
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 29   *	*	3284	839	*	*	*	*	2160	*	*	3128	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 30   *	*	3284	1576	*	*	*	*	*	*	*	2182	*	*	*	1550	*	*	*	*	30
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 31   *	*	*	*	*	*	*	649	*	2028	*	*	*	*	*	*	*	3095	*	*	31
+       0	*	*	*	*	*	*	1891	0	0	
+
+Y 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	32
+       0	*	*	*	*	*	*	1891	0	0	
+
+N 33   *	*	*	*	*	*	*	*	3128	*	*	363	*	*	*	*	3211	*	*	*	33
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 34   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 35   *	*	3168	170	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1891	0	0	
+
+L 36   *	*	*	*	785	*	*	*	*	1253	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 37   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 38   *	*	3284	345	*	3183	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 39   *	*	*	2055	*	*	*	*	1253	2138	*	*	*	*	*	3152	*	*	*	*	39
+       0	*	*	*	*	*	*	1891	0	0	
+
+V 40   *	*	*	*	*	*	*	1160	*	*	*	*	*	*	*	*	2913	1253	*	*	40
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 41   *	*	834	1706	*	2913	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1891	0	0	
+
+A 42   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1891	0	0	
+
+T 43   *	*	*	*	*	*	*	*	3128	*	*	*	*	*	*	550	2303	*	*	*	43
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 44   *	*	*	*	*	*	*	1576	*	*	*	*	*	*	*	*	*	589	*	*	44
+       0	*	*	*	*	*	*	1891	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1891	0	0	
+
+G 46   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 47   *	*	*	1153	*	*	*	3152	*	3183	*	*	*	3095	*	*	3211	3284	*	*	47
+       0	*	*	*	*	*	*	1891	0	0	
+
+T 48   *	2913	*	*	*	*	*	*	*	*	*	*	*	*	*	*	205	*	*	*	48
+       0	*	*	*	*	*	*	1891	0	0	
+
+E 49   3095	*	*	865	*	*	*	*	3152	*	*	3168	*	*	*	*	3183	*	*	*	49
+       0	*	*	*	*	*	*	1891	0	0	
+
+Y 50   *	3152	*	*	2913	*	*	*	*	*	*	*	*	*	*	*	*	*	*	406	50
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 51   *	*	3211	1457	*	*	*	*	1712	*	*	2167	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1891	0	0	
+
+G 52   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	1891	0	0	
+
+N 53   *	*	*	*	*	*	*	*	834	*	*	1187	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 54   *	*	3095	2167	*	*	*	*	599	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1891	0	0	
+
+Y 55   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	55
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 56   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1891	0	0	
+
+A 57   910	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1096	*	*	*	*	57
+       0	*	*	*	*	*	*	1891	0	0	
+
+I 58   *	*	*	*	*	*	*	376	*	*	*	*	*	*	*	*	*	2124	*	*	58
+       0	*	*	*	*	*	*	1891	0	0	
+
+A 59   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1891	0	0	
+
+K 60   *	*	*	*	*	*	*	*	842	*	*	*	*	*	1177	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1891	0	0	
+
+T 61   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	61
+       0	*	*	*	*	*	*	1891	0	0	
+
+Y 62   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	62
+       0	*	*	0	*	*	*	1891	0	0	
+
+//

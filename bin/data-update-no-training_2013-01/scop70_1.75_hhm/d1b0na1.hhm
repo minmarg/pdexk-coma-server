@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  d1b0na1 a.34.1.1 (A:74-108) SinR repressor dimerisation domain {Bacillus subtilis [TaxId: 1423]}
+FAM   a.34.1.1
+FILE  d1b0na1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1b0na1.a3m -v 1 
+DATE  Mon Jan 21 18:53:56 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  29 out of 31 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHCCCCHHHHHHHHHHHHHHCCC
+>ss_conf
+97688999999986288888999999888763169
+>Consensus
+LDxeWxxlvxeAmxSGvsKeqFrefLEfxKWkxxq
+>d1b0na1 a.34.1.1 (A:74-108) SinR repressor dimerisation domain {Bacillus subtilis [TaxId: 1423]}
+LDSEWEKLVRDAMTSGVSKKQFREFLDYQKWRKSQ
+>gi|410457086|ref|ZP_11310926.1|(71-105:109) transcriptional regulator SinR [Bacillus bataviensis LMG 21833] >gi|409926503|gb|EKN63668.1| transcriptional regulator SinR [Bacillus bataviensis LMG 21833]  E=2e-05 s/c=1.50 id=58% cov=103%
+LDNDWMNLVKEAMTSGISKDQFRDFLEFNKWRINQ
+>gi|317128356|ref|YP_004094638.1|(76-110:111) helix-turn-helix domain-containing protein [Bacillus cellulosilyticus DSM 2522] >gi|315473304|gb|ADU29907.1| helix-turn-helix domain protein [Bacillus cellulosilyticus DSM 2522]  E=1e-07 s/c=1.71 id=53% cov=103%
+IDKEWVNLVQEAMNSGVSKEEFRDFLEFNKWKMKQ
+>gi|403068193|ref|ZP_10909525.1|(73-107:109) transcriptional regulator SinR [Oceanobacillus sp. Ndiop]   E=2e-07 s/c=1.68 id=58% cov=103%
+LDSEWMQIVQEAMKSGVSKEQFKEYLEFNKWRQNQ
+>gi|402299244|ref|ZP_10818871.1|(75-109:112) transcriptional regulator SinR [Bacillus alcalophilus ATCC 27647] >gi|401725556|gb|EJS98831.1| transcriptional regulator SinR [Bacillus alcalophilus ATCC 27647]  E=3e-07 s/c=1.67 id=58% cov=103%
+LDPNWIELVQDAMNSGISKEQFREYLDFVKWKNKQ
+>gi|410457883|ref|ZP_11311649.1|(71-105:112) transcriptional regulator SinR [Bacillus azotoformans LMG 9581] >gi|409932003|gb|EKN68973.1| transcriptional regulator SinR [Bacillus azotoformans LMG 9581]  E=7e-07 s/c=1.64 id=58% cov=103%
+LDPEWIKLAQEAAESGVSKEQFREFLEFTKWQIEQ
+>gi|407796930|ref|ZP_11143880.1|(73-107:111) transcriptional regulator SinR [Salimicrobium sp. MJ3] >gi|407018675|gb|EKE31397.1| transcriptional regulator SinR [Salimicrobium sp. MJ3]  E=9e-07 s/c=1.63 id=50% cov=103%
+LDDEWVNLVKDAMSSGLSKEQFKDYLEFNKWKLNK
+>gi|294498960|ref|YP_003562660.1|(75-109:111) putative transcriptional regulator SinR [Bacillus megaterium QM B1551] >gi|295704284|ref|YP_003597359.1| transcription regulator SinR [Bacillus megaterium DSM 319] >gi|384047216|ref|YP_005495233.1| post-exponential-phase response transcriptional regulator [Bacillus megaterium WSH-002] >gi|294348897|gb|ADE69226.1| probable transcription regulator sinR [Bacillus megaterium QM B1551] >gi|294801943|gb|ADF39009.1| probable transcription regulator sinR [Bacillus megaterium DSM 319] >gi|345444907|gb|AEN89924.1| post-exponential-phase response transcriptional regulator [Bacillus megaterium WSH-002]  E=2e-05 s/c=1.49 id=44% cov=103%
+IDDEWLELAKEAAESGISKEQFKQFLEFQKWQRAK
+>gi|205375274|ref|ZP_03228064.1|(72-106:107) post-exponential-phase response transcriptional regulator [Bacillus coahuilensis m4-4]  E=5e-05 s/c=1.46 id=44% cov=103%
+VDPDWLDIVHQAQDSGITKEQFKEFIEFNKWRKNQ
+>gi|403747628|ref|ZP_10955534.1|(76-110:113) transcriptional regulator, XRE family [Alicyclobacillus hesperidum URH17-3-68] >gi|403120097|gb|EJY54522.1| transcriptional regulator, XRE family [Alicyclobacillus hesperidum URH17-3-68]  E=0.0003 s/c=1.38 id=44% cov=103%
+LDREWLELLREVADAGITKEQFREWLEFQRWRLDK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	*	*	*	3600	*	230	*	*	*	*	*	*	*	3950	*	*	1
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 2    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 3    4442	*	3144	3985	*	4951	5246	*	4910	*	*	5234	1870	*	3144	1875	*	*	*	*	3
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 4    *	*	2096	533	*	4807	*	*	*	*	*	4677	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2169	0	0	
+
+W 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	5
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 6    4046	*	*	4888	*	*	*	3177	5105	1591	3009	*	*	*	*	4974	2517	3816	4951	*	6
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 7    *	*	3950	1745	*	*	4157	*	2302	*	*	2693	*	2641	*	4807	5181	*	*	*	7
+       0	*	*	*	*	*	*	2169	0	0	
+
+L 8    *	*	*	*	*	*	*	2055	*	397	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2169	0	0	
+
+V 9    3558	*	*	*	*	*	*	*	*	3547	*	*	*	*	*	*	*	270	*	*	9
+       0	*	*	*	*	*	*	2169	0	0	
+
+R 10   *	*	*	5156	*	*	3459	*	1255	*	*	*	*	2119	2109	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 11   *	*	2554	387	*	*	*	*	*	*	*	*	*	3950	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2169	0	0	
+
+A 12   129	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3547	*	*	12
+       0	*	*	*	*	*	*	2169	0	0	
+
+M 13   2552	*	*	*	*	*	*	*	*	*	387	*	*	3950	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2169	0	0	
+
+T 14   3314	*	1947	2026	*	*	*	*	4111	*	*	2451	*	*	*	4023	3440	*	*	*	14
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 15   3547	*	*	*	*	*	*	*	*	*	*	*	*	*	*	129	*	*	*	*	15
+       0	*	*	*	*	*	*	2169	0	0	
+
+G 16   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2169	0	0	
+
+V 17   *	*	*	*	*	*	*	1399	*	4729	*	*	*	*	*	*	*	778	*	*	17
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 18   *	*	4873	*	*	*	*	*	*	*	*	*	*	*	*	411	2227	*	*	*	18
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 20   *	*	2573	539	*	*	*	*	3352	*	*	*	*	4442	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2169	0	0	
+
+Q 21   *	*	*	2503	*	*	*	*	*	*	*	*	*	280	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2169	0	0	
+
+F 22   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2169	0	0	
+
+R 23   *	*	*	*	*	*	*	*	1180	*	*	*	*	*	840	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 24   4922	*	2507	431	*	*	*	*	*	*	*	*	*	4345	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2169	0	0	
+
+F 25   *	*	*	*	536	*	*	*	*	*	*	*	*	*	*	*	*	*	3547	2152	25
+       0	*	*	*	*	*	*	2169	0	0	
+
+L 26   *	*	*	*	*	*	*	3367	*	147	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 27   *	*	2929	203	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2169	0	0	
+
+Y 28   *	*	*	*	308	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2377	28
+       0	*	*	*	*	*	*	2169	0	0	
+
+Q 29   *	*	*	*	*	*	*	*	*	*	*	1020	*	1757	*	4955	3580	4677	*	4159	29
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 30   *	*	*	*	*	*	*	*	204	*	*	*	*	4442	3547	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2169	0	0	
+
+W 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	31
+       0	*	*	*	*	*	*	2169	0	0	
+
+R 32   *	*	*	*	*	*	*	*	1029	*	*	*	*	3558	1234	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 33   *	*	*	*	*	*	*	2517	2485	2668	3486	2655	*	3252	3626	4179	*	*	*	*	33
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 34   4345	*	3160	4806	*	3469	4315	*	3789	*	*	1451	*	4026	*	3881	3394	*	*	*	34
+       0	*	*	*	*	*	*	2169	0	0	
+
+Q 35   *	*	*	*	*	*	*	*	1940	*	*	*	*	509	4762	*	*	*	*	*	35
+       0	*	*	0	*	*	*	2164	0	0	
+
+//

@@ -1,0 +1,303 @@
+Query         d1cfra_ c.52.1.7 (A:) Restriction endonuclease Cfr10I {Citrobacter freundii [TaxId: 546]}
+Match_columns 283
+No_of_seqs    16 out of 18
+Neff          3.6 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:54 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d1cfra_.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d1cfra_.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d1cfra_ c.52.1.7 (A:) Restrict 100.0       0       0  849.4  28.3  283    1-283     1-283 (283)
+  2 d1knva_ c.52.1.7 (A:) Restrict 100.0       0       0  685.5  24.3  272    6-283    12-288 (290)
+  3 3dpg_A SgrAI REase, PDEXK supe 100.0       0       0  389.2  11.9  191   55-255     5-219 (220)
+  4 3dpg_A SgrAI REase, PDEXK supe  91.7   0.019 1.4E-06   32.5   0.5   81   47-134     8-118 (220)
+  5 PF02646 RmuC family             89.1     1.3 9.3E-05   21.6   8.0   79   63-143    62-173 (193)
+  6 d1fiua_ c.52.1.10 (A:) Restric  79.8     1.1 8.3E-05   21.9   4.2  132   64-208    63-205 (286)
+  7 d1u04a2 c.55.3.10 (A:324-770)   34.5      77  0.0056   11.0   6.6   17  170-186   287-303 (447)
+  8 3bm3_A PSPGI restriction endon  20.2      19  0.0014   14.5   1.4   31  182-213    58-88  (166)
+  9 d1rlfa_ d.15.1.5 (A:) RalGDS-l  19.7      79  0.0057   10.9   4.5   54  132-185     2-55  (90)
+ 10 d1nrla_ a.123.1.1 (A:) Pregnan  18.8 2.5E+02   0.018    7.9   6.9  102   35-138   102-215 (292)
+
+No 1  
+>d1cfra_ c.52.1.7 (A:) Restriction endonuclease Cfr10I {Citrobacter freundii [TaxId: 546]}
+Probab=100.00  E-value=0  Score=849.35  Aligned_columns=283  Identities=100%
+
+Q ss_pred             CCCCCCCCCCCEEEECHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHHHH
+Q ss_conf             95301358996046614543230552258870368899999999999999860678440000035762999999999988
+Q d1cfra_           1 MDIISKSGEGNKYTINSAIAFVAYASHIDINTTEFSKVLSGLRDFINDEAIRLGGKISDGSFNKCNGDWYEWLIGIRAIE   80 (283)
+Q Consensus         1 ~~~~~k~~~~~K~~In~~~~~~~l~~~i~~~~~~~~~~l~~~~~~v~~~a~~~g~~~s~gA~nn~~G~W~E~i~ai~awn   80 (283)
+                      ||||||||+||||||||+||||+|++|||+|+++++++|+|++|||+|||+|+||+|++||||||+|||||||+|++|||
+T Consensus         1 ~~~~~k~~~~~K~~In~~~~~~~l~~~i~~~~~~~~~~l~~~~~~v~~~a~~~g~~~s~gA~nn~~G~W~E~i~ai~awn   80 (283)
+T d1cfra_           1 MDIISKSGEGNKYTINSAIAFVAYASHIDINTTEFSKVLSGLRDFINDEAIRLGGKISDGSFNKCNGDWYEWLIGIRAIE   80 (283)
+T ss_pred             CCCCCCCCCCCEEEECHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCHHHHHHHHHHHHH
+T ss_conf             95301358996046614543230552258870368899999999999999860678440000035762999999999988
+
+
+Q ss_pred             HHHCCCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEECCCCCHHHHHHHHHCCCCCCC
+Q ss_conf             76306851799976887415789987788999999999866550263316998679997077431343344310124566
+Q d1cfra_          81 FFLESETNFIVVKMPNATSFDVMSIYKSCLSEFIYDLRSKLSLNNVNLITSNPDFSIIDIRGRREELKSMLKDISFSNIS  160 (283)
+Q Consensus        81 ~~~~~~~~~~vv~LPn~rsfD~~~Lf~pe~~~~i~~l~~~l~~~~v~LitSnPD~vIv~i~~~~~~~~d~~~~~~i~~l~  160 (283)
+                      |++|+++|+++|+|||+|||||++||+||++++|+|++++|+++||||||||||+||+++|+|+++++|+++++||++++
+T Consensus        81 ~~~~~~~~~~vv~LPn~rsfD~~~Lf~pe~~~~i~~l~~~l~~~~v~LitSnPD~vIv~i~~~~~~~~d~~~~~~i~~l~  160 (283)
+T d1cfra_          81 FFLESETNFIVVKMPNATSFDVMSIYKSCLSEFIYDLRSKLSLNNVNLITSNPDFSIIDIRGRREELKSMLKDISFSNIS  160 (283)
+T ss_pred             HHHCCCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEECCCCCHHHHHHHHHCCCCCCC
+T ss_conf             76306851799976887415789987788999999999866550263316998679997077431343344310124566
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHCCCCCCEEEEEEEECCCCCHHHHCCHHHHHHHHHHHHHHHHHEEEECCCCEEEEEEECCCCCCC
+Q ss_conf             20177899999887610020316899875203682022042224689999999772100332576416777641577421
+Q d1cfra_         161 LSTISEIDNLYKNFIDYAELEHIKSFLSVKTTFRPDRRLQLAHEGSLMKALYTHLQTRTWTINPTGIRYYAAATSIGNAD  240 (283)
+Q Consensus       161 ~~~~~~l~~lyk~l~gk~~~~~i~~~IsvKTS~RsDRRyQplhEgn~lKal~~~Lq~r~w~~np~a~KyY~~aS~~~~AD  240 (283)
+                      ++|++++++|||+|||||+|++|+||||||||+||||||||+|||||||+|++|||||+||+||+|||||||||++|+||
+T Consensus       161 ~~~~~~l~~lyk~l~gk~~~~~i~~~IsvKTS~RsDRRyQplhEgn~lKal~~~Lq~r~w~~np~a~KyY~~aS~~~~AD  240 (283)
+T d1cfra_         161 LSTISEIDNLYKNFIDYAELEHIKSFLSVKTTFRPDRRLQLAHEGSLMKALYTHLQTRTWTINPTGIRYYAAATSIGNAD  240 (283)
+T ss_pred             HHHHHHHHHHHHHHHHCCCCCCEEEEEEEECCCCCHHHHCCHHHHHHHHHHHHHHHHHEEEECCCCEEEEEEECCCCCCC
+T ss_conf             20177899999887610020316899875203682022042224689999999772100332576416777641577421
+
+
+Q ss_pred             HHHHHHHHHHHHEECCCCCHHHHHHHHHHHHHHHHHHHHHHHC
+Q ss_conf             2344432001210025671788888987530888999999609
+Q d1cfra_         241 VIGLKTVATHSITDVKSLPQSAVDEIFKINSVLDVDSCLSHIL  283 (283)
+Q Consensus       241 ~~al~TaAth~i~~~~~~P~~AVD~~f~~~s~~~~d~~~~~il  283 (283)
+                      ++||+|||||++++++++|+||||++|+||+|+|+|+||++||
+T Consensus       241 ~~al~TaAth~i~~~~~~P~~AVD~~f~~~s~~~~d~~~~~il  283 (283)
+T d1cfra_         241 VIGLKTVATHSITDVKSLPQSAVDEIFKINSVLDVDSCLSHIL  283 (283)
+T ss_pred             HHHHHHHHHHHHEECCCCCHHHHHHHHHHHHHHHHHHHHHHHC
+T ss_conf             2344432001210025671788888987530888999999609
+
+
+No 2  
+>d1knva_ c.52.1.7 (A:) Restriction endonuclease Bse634I {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=100.00  E-value=0  Score=685.52  Aligned_columns=272  Identities=31%
+
+Q ss_pred             CCCCCCEEEECHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHHHHHHCCC-CCCCCCCCCCCHHHHHHHHHHHHHHHHC
+Q ss_conf             358996046614543230552258870368899999999999999860678-4400000357629999999999887630
+Q d1cfra_           6 KSGEGNKYTINSAIAFVAYASHIDINTTEFSKVLSGLRDFINDEAIRLGGK-ISDGSFNKCNGDWYEWLIGIRAIEFFLE   84 (283)
+Q Consensus         6 k~~~~~K~~In~~~~~~~l~~~i~~~~~~~~~~l~~~~~~v~~~a~~~g~~-~s~gA~nn~~G~W~E~i~ai~awn~~~~   84 (283)
+                      ++++|+||||||++++++|+++ .+|++.++|+++|++||++++++++|+. |++||||||+|||||||+|+++|||+++
+T Consensus        12 ~~n~~~kv~I~~~n~~~el~~~-~~p~~sise~l~~l~n~~~~~~~~~~~~~ps~gAfnn~~G~W~E~~ia~~awn~~~~   90 (290)
+T d1knva_          12 KENGKTKIRIKPFNALIELYHH-QTPTGSIKENLDKLENYVKDVVKAKGLAIPTSGAFSNTRGTWFEVMIAIQSWNYRVK   90 (290)
+T ss_pred             HHCCCCEEEECHHHHHHHHHHC-CCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHH
+T ss_conf             7338836764358888887732-477403889999999999999875214565433331567609999999999887752
+
+
+Q ss_pred             -CCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHHH--HHHCCCCCCCCCCEEEEECCCCCHHHHHHHHHCCCCCCCH
+Q ss_conf             -6851799976887415789987788999999999866--5502633169986799970774313433443101245662
+Q d1cfra_          85 -SETNFIVVKMPNATSFDVMSIYKSCLSEFIYDLRSKL--SLNNVNLITSNPDFSIIDIRGRREELKSMLKDISFSNISL  161 (283)
+Q Consensus        85 -~~~~~~vv~LPn~rsfD~~~Lf~pe~~~~i~~l~~~l--~~~~v~LitSnPD~vIv~i~~~~~~~~d~~~~~~i~~l~~  161 (283)
+                       |.+++++++|||++||||++||+||+++.|+|+++|+  +++||+|||||||+||++++++    ++..+.+|+++++.
+T Consensus        91 ~n~~~~~~iklPN~~sfD~~~Lf~~e~~~~i~~l~~kl~~~k~~v~LitSnPD~VIi~~~d~----~~~~~~~pi~~~~~  166 (290)
+T d1knva_          91 RELNDYLIIKMPNVKTFDFRKIFDNETREKLHQLEKSLLTHKQQVRLITSNPDLLIIRQKDL----IKSEYNLPINKLTH  166 (290)
+T ss_pred             CCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHCCEEEECCCCCEEEEECCHH----HHHHHCCCHHHCCC
+T ss_conf             27874278875886401478876688999999999985220133366407887688605010----02555165221473
+
+
+Q ss_pred             HHHHHHHHHHHHHHHCCCCCCEEEEEEEECCCCCHHHHCCHHHHHHHHHHHHHHHHHEEEECCCCEEEEEEECC-CCCCC
+Q ss_conf             01778999998876100203168998752036820220422246899999997721003325764167776415-77421
+Q d1cfra_         162 STISEIDNLYKNFIDYAELEHIKSFLSVKTTFRPDRRLQLAHEGSLMKALYTHLQTRTWTINPTGIRYYAAATS-IGNAD  240 (283)
+Q Consensus       162 ~~~~~l~~lyk~l~gk~~~~~i~~~IsvKTS~RsDRRyQplhEgn~lKal~~~Lq~r~w~~np~a~KyY~~aS~-~~~AD  240 (283)
+                      ++...+++|||+|||||++++|+||||||||+||||||||+|||||||+||+|||||+|+.+ ++|||||+||+ +|+||
+T Consensus       167 ~~~~~L~~ly~~f~gk~~~~~i~~~isvKtS~RpDRryQ~lhEg~~lKal~ahL~tr~w~~~-~~~kyy~~as~~~s~aD  245 (290)
+T d1knva_         167 ENIDVALTLFKDIEGKCKWDSLVAGVGLKTSLRPDRRLQLVHEGNILKSLFAHLKMRYWNPK-AEFKYYGASSEPVSKAD  245 (290)
+T ss_pred             CCHHHHHHHHHHHHHCCCCCCEEEEEEEECCCCCHHHHCCHHHHHHHHHHHHHHHHHCCCCC-CCEEEEEEECCCCCCCC
+T ss_conf             35789999998876100323157888741025720220331245799999987653202356-55058875202367420
+
+
+Q ss_pred             HHHHHHHHHHHHEECCCCCHHHHHHHHHHHHHHHHHHHHHHHC
+Q ss_conf             2344432001210025671788888987530888999999609
+Q d1cfra_         241 VIGLKTVATHSITDVKSLPQSAVDEIFKINSVLDVDSCLSHIL  283 (283)
+Q Consensus       241 ~~al~TaAth~i~~~~~~P~~AVD~~f~~~s~~~~d~~~~~il  283 (283)
+                      +++|+|||+|++++++|+|+||||++|+||+|+|+|+||++||
+T Consensus       246 ~~al~T~Athsiv~~~slp~~AVD~lf~~~s~~dl~~~~~~il  288 (290)
+T d1knva_         246 DDALQTAATHTIVNVNSTPERAVDDIFSLTSFEDIDKMLDQII  288 (290)
+T ss_pred             HHHHHHHHHHHHHCCCCCHHHHHHHHHCCCCHHHHHHHHHHHH
+T ss_conf             2456532101110233423677754405667889999999985
+
+
+No 3  
+>3dpg_A SgrAI REase, PDEXK superfamily
+Probab=100.00  E-value=0  Score=389.19  Aligned_columns=191  Identities=17%
+
+Q ss_pred             CCCCCCCCCCCCCHHHHHHHHHHHHHHHH-------------CCCC-----------CEEEEECCCCCHHHHHHHHHHHH
+Q ss_conf             78440000035762999999999988763-------------0685-----------17999768874157899877889
+Q d1cfra_          55 GKISDGSFNKCNGDWYEWLIGIRAIEFFL-------------ESET-----------NFIVVKMPNATSFDVMSIYKSCL  110 (283)
+Q Consensus        55 ~~~s~gA~nn~~G~W~E~i~ai~awn~~~-------------~~~~-----------~~~vv~LPn~rsfD~~~Lf~pe~  110 (283)
+                      +++++.|+.|++||||||+.|.+.||...             ++.+           ..++|+||  ++||++.|++|+.
+T Consensus         5 f~~~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~~w~~~~~~~~~~~~pTP~~qvA~VklP--ea~D~~~Li~P~~   82 (220)
+T 3dpg_A            5 FRVDSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGEGWRSQPRYSRPTLSPSPRRQVAVLNLP--RSFDWVSLLVPES   82 (220)
+T ss_pred             CCCCHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCCCCCCCCCCEEEEEECC--CCCCCEEEECHHH
+T ss_conf             12101333331230456666666513301233332102345655223565577754115778768--7646103454126
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCCCCCCCCCEEEEECCCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCCCEEEEEEEE
+Q ss_conf             99999999866550263316998679997077431343344310124566201778999998876100203168998752
+Q d1cfra_         111 SEFIYDLRSKLSLNNVNLITSNPDFSIIDIRGRREELKSMLKDISFSNISLSTISEIDNLYKNFIDYAELEHIKSFLSVK  190 (283)
+Q Consensus       111 ~~~i~~l~~~l~~~~v~LitSnPD~vIv~i~~~~~~~~d~~~~~~i~~l~~~~~~~l~~lyk~l~gk~~~~~i~~~IsvK  190 (283)
+                      ++.|++++++|++.+++|+|||||+|||++|.|++.  ...+++||++++.+++.+++++||+|+|||++++|++|||||
+T Consensus        83 k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~t--ee~~~epI~~LS~en~~~L~~lyk~f~gkie~~~i~~~isvK  160 (220)
+T 3dpg_A           83 QEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQN--DEMWREEIAGLTRPNQILLSGAYQRLQGRVQPGEISLAVAFK  160 (220)
+T ss_pred             HHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCC--HHHHHHHHHCCCHHHHHHHHHHHHHHHCCEEECCEEEEEEEE
+T ss_conf             788999999998657703278987068973466673--134554441258147999999988753201003058999851
+
+
+Q ss_pred             CCCCCHHHHCCHHHHHHHHHHHHHHHHHEEEECCCCEEEEEEECCCCCCCHHHHHHHHHHHHEEC
+Q ss_conf             03682022042224689999999772100332576416777641577421234443200121002
+Q d1cfra_         191 TTFRPDRRLQLAHEGSLMKALYTHLQTRTWTINPTGIRYYAAATSIGNADVIGLKTVATHSITDV  255 (283)
+Q Consensus       191 TS~RsDRRyQplhEgn~lKal~~~Lq~r~w~~np~a~KyY~~aS~~~~AD~~al~TaAth~i~~~  255 (283)
+                      ||+||||||||+|||||||+|++      |+++|.++|||+|++.+++||+.+++|||+...+..
+T Consensus       161 tS~RsDRryQ~~hEg~~lK~l~~------~~l~~~~~~fy~~~~s~~~ad~~~~~~aasl~~l~~  219 (220)
+T 3dpg_A          161 RSLRSDRLYQPLYEANVMQLLLE------GKLGAPKVEFEVHTLAPEGTNAFVTYEAASLYGLAE  219 (220)
+T ss_pred             CCCCCCHHHCCHHHHHHHHHHHH------EEECCCCEEEEEEECCCCCCCCEEEEEHHHHHHHHC
+T ss_conf             12572011043013478876561------124466504787313657555135521011345531
+
+
+No 4  
+>3dpg_A SgrAI REase, PDEXK superfamily
+Probab=91.65   E-value=0.019  Score=32.55  Aligned_columns=81  Identities=14%
+
+Q ss_pred             HHHHHHH--C--CC-CCCCCCCCCCCHHHHHHHHHHHHH----------------H--HHCCCC--CEEEEECCCCCHHH
+Q ss_conf             9999860--6--78-440000035762999999999988----------------7--630685--17999768874157
+Q d1cfra_          47 NDEAIRL--G--GK-ISDGSFNKCNGDWYEWLIGIRAIE----------------F--FLESET--NFIVVKMPNATSFD  101 (283)
+Q Consensus        47 ~~~a~~~--g--~~-~s~gA~nn~~G~W~E~i~ai~awn----------------~--~~~~~~--~~~vv~LPn~rsfD  101 (283)
+                      ..+|.++  |  |. ++.+||+||+|.|+|+|.+. +|+                .  -++-+.  ....+-.|      
+T Consensus         8 ~~~a~a~v~gd~~e~~~a~a~wn~~a~wn~~~~~~-~w~~~~~~~~~~~~pTP~~qvA~VklPea~D~~~Li~P------   80 (220)
+T 3dpg_A            8 DSNAKAKVAGDIFEIVSSAVMWNCAARWNSLMVGE-GWRSQPRYSRPTLSPSPRRQVAVLNLPRSFDWVSLLVP------   80 (220)
+T ss_pred             CHHHHHHHCCHHHHHHHHHHHHCCCHHHHHHHHCC-CCCCCCCCCCCCCCCCCCCEEEEEECCCCCCCEEEECH------
+T ss_conf             01333331230456666666513301233332102-34565522356557775411577876876461034541------
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHH---HHHC--CCCCCCCCC
+Q ss_conf             89987788999999999866---5502--633169986
+Q d1cfra_         102 VMSIYKSCLSEFIYDLRSKL---SLNN--VNLITSNPD  134 (283)
+Q Consensus       102 ~~~Lf~pe~~~~i~~l~~~l---~~~~--v~LitSnPD  134 (283)
+                      |.+-....+.+.|..-.=.|   +..+  ++|..+-|-
+T Consensus        81 ~~k~~i~aiekai~~sdlgLiTsnpDgvvIRlp~p~~t  118 (220)
+T 3dpg_A           81 ESQEVIEEFRAGLRKDGLGLPTSTPDLAVVVLPEEFQN  118 (220)
+T ss_pred             HHHHHHHHHHHHHHHCCCCCCCCCCCCEEEEECCCCCC
+T ss_conf             26788999999998657703278987068973466673
+
+
+No 5  
+>PF02646 RmuC family
+Probab=89.09   E-value=1.3  Score=21.60  Aligned_columns=79  Identities=23%
+
+Q ss_pred             CCCCCHHHHHHHHHHH-----------HHHHHCCCCC--EEEEECCCCC--------HH-HHHHHHH---HH-----HHH
+Q ss_conf             0357629999999999-----------8876306851--7999768874--------15-7899877---88-----999
+Q d1cfra_          63 NKCNGDWYEWLIGIRA-----------IEFFLESETN--FIVVKMPNAT--------SF-DVMSIYK---SC-----LSE  112 (283)
+Q Consensus        63 nn~~G~W~E~i~ai~a-----------wn~~~~~~~~--~~vv~LPn~r--------sf-D~~~Lf~---pe-----~~~  112 (283)
+                      ++.+|.|=|+.+-...           -++..+++..  -++|.||+-+        +. .+.+.+.   ++     ..+
+T Consensus        62 ~k~rG~~GE~~Le~iLe~~Gl~~~~y~~Q~~~~~~~~rpD~vi~lp~~~~i~IDsKfpl~~y~~~~~a~~~~~~~~~~k~  141 (193)
+T PF02646          62 NKTRGNWGEVQLERILEDSGLEGRQYETQVSLEGGRLRPDFAIRLPGNKWLVIDAKFPLEAYERLFDAEDDADREAALKE  141 (193)
+T ss_pred             CCCCCHHHHHHHHHHHHHHCCCCCHHHEEEECCCCCEEEEEEEEECCCCEEEEECCCCHHHHHHHHHCCCHHHHHHHHHH
+T ss_conf             86632278999999999858880031211133698563268898569876788417877999998705898899999999
+
+
+Q ss_pred             HHHHHHH---HHHHHCCCCCCCCCCEEEEECCCC
+Q ss_conf             9999998---665502633169986799970774
+Q d1cfra_         113 FIYDLRS---KLSLNNVNLITSNPDFSIIDIRGR  143 (283)
+Q Consensus       113 ~i~~l~~---~l~~~~v~LitSnPD~vIv~i~~~  143 (283)
+                      +..++++   .|+..  .+.-.+||||++-+|+.
+T Consensus       142 ~~~~ik~hi~~la~K--y~~~~t~df~imFiPsE  173 (193)
+T PF02646         142 LVRAIRAHIKDLSEK--YLIPPETDFVIMFLPTE  173 (193)
+T ss_pred             HHHHHHHHHHHHHHH--CCCCCCCCEEEEEECCH
+T ss_conf             999999999999861--47898978887751736
+
+
+No 6  
+>d1fiua_ c.52.1.10 (A:) Restriction endonuclease NgoIV {Neisseria gonorrhoeae [TaxId: 485]}
+Probab=79.79   E-value=1.1  Score=21.92  Aligned_columns=132  Identities=14%
+
+Q ss_pred             CCCCHHHHHHHHHHHHHHHHC----CCCCEEEEECCCCCHHHHHHHHHHHHHHHHHHHHHHHH------HHCCCCCCCCC
+Q ss_conf             357629999999999887630----68517999768874157899877889999999998665------50263316998
+Q d1cfra_          64 KCNGDWYEWLIGIRAIEFFLE----SETNFIVVKMPNATSFDVMSIYKSCLSEFIYDLRSKLS------LNNVNLITSNP  133 (283)
+Q Consensus        64 n~~G~W~E~i~ai~awn~~~~----~~~~~~vv~LPn~rsfD~~~Lf~pe~~~~i~~l~~~l~------~~~v~LitSnP  133 (283)
+                      ...|.=||=+-+.+.-.-+-+    ++-..-|.+.-+.+. .-+..|.+  -+++.++...+.      ..--+--+=+|
+T Consensus        63 Qt~G~~FE~~v~~fl~~tf~~L~hlRpg~W~v~~v~~r~~-~~i~~f~q--Y~HL~~L~~~~~~np~L~a~LG~dY~I~P  139 (286)
+T d1fiua_          63 QTSGNAFEAICSEFVQSAFEKLQHIRPGDWNVKQVGSRNR-LEIARYQQ--YAHLTALAKAAEENPELAAALGSDYTITP  139 (286)
+T ss_pred             CCCCHHHHHHHHHHHHHHHHHHCCCCCCCEEEEECCCCCC-CCCHHHHH--HHHHHHHHHHHHHCCHHHHHHCCCCEECC
+T ss_conf             4553489999999999887640368887403664366553-22022255--68899999998728220112067702146
+
+
+Q ss_pred             CEEEEECCCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCCC-EEEEEEEECCCCCHHHHCCHHHHHHH
+Q ss_conf             6799970774313433443101245662017789999988761002031-68998752036820220422246899
+Q d1cfra_         134 DFSIIDIRGRREELKSMLKDISFSNISLSTISEIDNLYKNFIDYAELEH-IKSFLSVKTTFRPDRRLQLAHEGSLM  208 (283)
+Q Consensus       134 D~vIv~i~~~~~~~~d~~~~~~i~~l~~~~~~~l~~lyk~l~gk~~~~~-i~~~IsvKTS~RsDRRyQplhEgn~l  208 (283)
+                      |.||++-|.+     |...+.+-...+.     --..|..|...-+..- +-|.||-|=++||||-----+||.-|
+T Consensus       140 DV~V~R~~~~-----d~~iN~~~~lvD~-----~~~~~s~lr~~n~~~pilHAsiSCKWTiRSDRaQN~RsEalnL  205 (286)
+T d1fiua_         140 DIIVTRNLIA-----DAEINRNEFLVDE-----NIATYASLRAGNGNMPLLHASISCKWTIRSDRAQNARSEGLNL  205 (286)
+T ss_pred             CEEEEECCCC-----HHHHCCCCCCCCC-----CCCCCCHHHHCCCCCCEEEEEEEEEEEECCCHHHHHHHHHHHH
+T ss_conf             4378635436-----2332244440135-----4221010222158984588877776531011133447888888
+
+
+No 7  
+>d1u04a2 c.55.3.10 (A:324-770) Argonaute homologue PF0537 {Pyrococcus furiosus [TaxId: 2261]}
+Probab=34.49   E-value=77  Score=10.97  Aligned_columns=17  Identities=18%
+
+Q ss_pred             HHHHHHHCCCCCCEEEE
+Q ss_conf             99887610020316899
+Q d1cfra_         170 LYKNFIDYAELEHIKSF  186 (283)
+Q Consensus       170 lyk~l~gk~~~~~i~~~  186 (283)
+                      .|+.--++..|..|..+
+T Consensus       287 ~~~~~~~~~~P~rIii~  303 (447)
+T d1u04a2         287 KFKEFNIKLDNKKILLL  303 (447)
+T ss_pred             HHHHHHCCCCCCEEEEE
+T ss_conf             99997168887548998
+
+
+No 8  
+>3bm3_A PSPGI restriction endonuclease; endonuclease-DNA complex, rest
+Probab=20.20   E-value=19  Score=14.55  Aligned_columns=31  Identities=16%
+
+Q ss_pred             CEEEEEEEECCCCCHHHHCCHHHHHHHHHHHH
+Q ss_conf             16899875203682022042224689999999
+Q d1cfra_         182 HIKSFLSVKTTFRPDRRLQLAHEGSLMKALYT  213 (283)
+Q Consensus       182 ~i~~~IsvKTS~RsDRRyQplhEgn~lKal~~  213 (283)
+                      +=...+|+|||.| ||-=|-+-||+-++.-|.
+T Consensus        58 ~~l~mLsaKTTcK-DRWRQVl~Ea~Ri~~Kf~   88 (166)
+T 3bm3_A           58 SSAILITVKRKVR-ERWREAVGEAQILRNKFG   88 (166)
+T ss_pred             HHEEEEEHHHHHH-HHHHHHHHHHHHHHHHHC
+T ss_conf             3566520002478-999998888887677510
+
+
+No 9  
+>d1rlfa_ d.15.1.5 (A:) RalGDS-like factor, Rlf {Mouse (Mus musculus) [TaxId: 10090]}
+Probab=19.66   E-value=79  Score=10.88  Aligned_columns=54  Identities=22%
+
+Q ss_pred             CCCEEEEECCCCCHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHCCCCCCEEE
+Q ss_conf             986799970774313433443101245662017789999988761002031689
+Q d1cfra_         132 NPDFSIIDIRGRREELKSMLKDISFSNISLSTISEIDNLYKNFIDYAELEHIKS  185 (283)
+Q Consensus       132 nPD~vIv~i~~~~~~~~d~~~~~~i~~l~~~~~~~l~~lyk~l~gk~~~~~i~~  185 (283)
+                      +||.-||++-.........+..+.+..-+.+....-++|-|+-..+-.++++..
+T Consensus         2 s~d~~iiRV~~d~~~~g~~YKsIlit~~dta~~vI~~aLeK~gL~~~~p~~y~L   55 (90)
+T d1rlfa_           2 SSDCRIIRVQMELGEDGSVYKSILVTSQDKAPSVISRVLKKNNRDSAVASEFEL   55 (90)
+T ss_pred             CCCCEEEEEECCCCCCCCCEEEEEEECCCCHHHHHHHHHHHHCCCCCCCCCEEE
+T ss_conf             988337988645788885247888407888799999999861889788255278
+
+
+No 10 
+>d1nrla_ a.123.1.1 (A:) Pregnane x receptor, PXR {Human (Homo sapiens) [TaxId: 9606]}
+Probab=18.81   E-value=2.5e+02  Score=7.89  Aligned_columns=102  Identities=13%
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHH-CCC--CCCCCCCCCCCHHHHHHHHHHHHHHHHCCCCCEEEEECCCCCHHHHHHHHHHHHH
+Q ss_conf             8899999999999999860-678--4400000357629999999999887630685179997688741578998778899
+Q d1cfra_          35 FSKVLSGLRDFINDEAIRL-GGK--ISDGSFNKCNGDWYEWLIGIRAIEFFLESETNFIVVKMPNATSFDVMSIYKSCLS  111 (283)
+Q Consensus        35 ~~~~l~~~~~~v~~~a~~~-g~~--~s~gA~nn~~G~W~E~i~ai~awn~~~~~~~~~~vv~LPn~rsfD~~~Lf~pe~~  111 (283)
+                      +.+.+......+-+=||.. |+.  ...--..=-.+.|+|.++-..+.-|..+...-. ...+. ....+....+.+++-
+T Consensus       102 ~~~~~~~~i~~iv~faK~iPgF~~L~~~DQi~LLk~~~~El~~L~~~~~~~~~~~~~~-~~~~~-~~~~~~~~~~~~~~~  179 (292)
+T d1nrla_         102 MADMSTYMFKGIISFAKVISYFRDLPIEDQISLLKGAAFELCQLRFNTVFNAETGTWE-CGRLS-YCLEDTAGGFQQLLL  179 (292)
+T ss_pred             HHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCEE-CCCCC-CCHHHHHHHHHHHHH
+T ss_conf             9999999999999998527882117988999999975899999999864165654120-13101-146878763019999
+
+
+Q ss_pred             HHHHHHHHHHHHHCCC---------CCCCCCCEEEE
+Q ss_conf             9999999866550263---------31699867999
+Q d1cfra_         112 EFIYDLRSKLSLNNVN---------LITSNPDFSII  138 (283)
+Q Consensus       112 ~~i~~l~~~l~~~~v~---------LitSnPD~vIv  138 (283)
+                      +.+.++-.+++.-++.         +.+=|||.-++
+T Consensus       180 ~~~~~~~~~l~~L~ld~~E~all~aivL~~pD~~gL  215 (292)
+T d1nrla_         180 EPMLKFHYMLKKLQLHEEEYVLMQAISLFSPDRPGV  215 (292)
+T ss_pred             HHHHHHHHHHHHCCCCHHHHHHHHHHHHHHCCCCCC
+T ss_conf             999999999986389888999999998861366788
+
+
+Done!

@@ -1,0 +1,149 @@
+HHsearch 1.5
+NAME  d1vzia2 g.41.5.2 (A:1-37) Desulfoferrodoxin N-terminal domain {Desulfoarculus baarsii (Desulfovibrio baarsii) [TaxId: 887]}
+FAM   g.41.5.2
+FILE  d1vzia2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1vzia2.a3m -v 1 
+DATE  Tue Jan 22 03:50:19 2013
+LENG  37 match states, 37 columns in multiple alignment
+FILT  106 out of 165 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.3 
+SEQ
+>ss_pred
+CCCCCEEEECCCCCEEEEEECCCCCEEECCCCCEECC
+>ss_conf
+9864347806789489998479983786598626619
+>Consensus
+pxxxxxYkCxxCGNiVevxxxgggxlvCCGxxMxllt
+>d1vzia2 g.41.5.2 (A:1-37) Desulfoferrodoxin N-terminal domain {Desulfoarculus baarsii (Desulfovibrio baarsii) [TaxId: 887]}
+PERLQVYKCEVCGNIVEVLNGGIGELVCCNQDMKLMS
+>gi|317486036|ref|ZP_07944890.1|(4-37:127) desulfoferrodoxin [Bilophila wadsworthia 3_1_6] >gi|316922714|gb|EFV43946.1| desulfoferrodoxin [Bilophila wadsworthia 3_1_6]  E=0.0007 s/c=1.37 id=34% cov=95%
+--RYQLYKCPICGTVTEIVHDGVSAMICCGKTMEVL-
+>gi|325958688|ref|YP_004290154.1|(2-37:125) desulfoferrodoxin [Methanobacterium sp. AL-21] >gi|325330120|gb|ADZ09182.1| desulfoferrodoxin [Methanobacterium sp. AL-21]  E=5e-07 s/c=1.59 id=46% cov=100%
+-ERGQIYRCNTCGNMFELINVGGGTSSCCGTEMELLS
+>gi|224371256|ref|YP_002605420.1|(3-37:124) hypothetical protein HRM2_42000 [Desulfobacterium autotrophicum HRM2] >gi|223693973|gb|ACN17256.1| Dfx [Desulfobacterium autotrophicum HRM2]  E=8e-06 s/c=1.52 id=44% cov=97%
+-EKLGVYRCKLCGNIAQVLHAEAPAMSCCGQEMTLL-
+>gi|152992034|ref|YP_001357755.1|(2-37:219) rubrerythrin [Sulfurovum sp. NBC37-1] >gi|151423895|dbj|BAF71398.1| rubrerythrin [Sulfurovum sp. NBC37-1]  E=1e-06 s/c=1.56 id=43% cov=100%
+-RQYEMYKCNKCGNKIEVQEVGIGTLSCCGEDMVCIT
+>gi|325971511|ref|YP_004247702.1|(27-62:149) desulfoferrodoxin Dfx domain protein [Sphaerochaeta globus str. Buddy] >gi|324026749|gb|ADY13508.1| Desulfoferrodoxin Dfx domain protein [Sphaerochaeta globus str. Buddy]  E=1e-06 s/c=1.54 id=38% cov=100%
+-KKLLFYRCPVCHSLVELIDNGGHSLTCCGQSMQLLT
+>gi|310829370|ref|YP_003961727.1|(3-38:128) rubredoxin oxidoreductase (desulfoferrodoxin) [Eubacterium limosum KIST612] >gi|308741104|gb|ADO38764.1| rubredoxin oxidoreductase (desulfoferrodoxin) [Eubacterium limosum KIST612]  E=2e-05 s/c=1.43 id=30% cov=100%
+-KKPKFYICRHCGNIFGVVEDSGVTPVCCGDPMEVLT
+>gi|258405756|ref|YP_003198498.1|(2-38:47) desulfoferrodoxin Dfx domain-containing protein [Desulfohalobium retbaense DSM 5692] >gi|257797983|gb|ACV68920.1| Desulfoferrodoxin Dfx domain protein [Desulfohalobium retbaense DSM 5692]  E=2e-05 s/c=1.39 id=39% cov=103%
+PAQGEFYRCTLCGNVVEVKQAGDGDLTCCDMPMEDLT
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+P 1    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1966	0	0	
+
+E 2    5266	*	*	1269	*	*	*	*	1618	*	*	4679	*	3407	3322	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3209	0	0	
+
+R 3    *	*	*	5445	*	*	5088	5823	1635	3098	3555	5256	*	2945	2486	*	4097	6252	*	*	3
+       0	*	*	*	*	*	*	3387	0	0	
+
+L 4    *	*	*	*	3788	3325	*	5261	4184	1629	2624	3981	5798	6059	*	*	*	5325	*	2836	4
+       0	*	*	*	*	*	*	3439	0	0	
+
+Q 5    6168	*	6064	1504	*	4397	*	*	2271	5146	*	*	*	1864	*	4459	5999	*	*	*	5
+       0	*	*	*	*	*	*	3383	0	0	
+
+V 6    *	*	*	*	2069	6478	*	1912	5575	3309	6081	*	*	*	*	6062	5011	1727	*	*	6
+       0	*	*	*	*	*	*	3383	0	0	
+
+Y 7    *	6067	*	*	3458	*	*	*	*	5427	*	*	*	*	*	*	*	*	5970	226	7
+       0	*	*	*	*	*	*	3339	0	0	
+
+K 8    *	*	*	*	*	*	4639	4080	994	*	*	5901	*	6095	1647	*	*	5081	*	5777	8
+       0	*	*	*	*	*	*	3339	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3345	0	0	
+
+E 10   3714	*	3649	2134	*	5809	*	6018	3859	6657	5435	1998	4209	5808	4158	3559	5790	*	*	*	10
+       0	*	*	*	*	*	*	3345	0	0	
+
+V 11   4686	*	*	6360	*	*	1975	2883	3113	3445	*	*	*	6444	5201	6679	3984	2059	*	*	11
+       0	*	*	*	*	*	*	3345	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3345	0	0	
+
+G 13   *	*	*	*	*	67	5360	*	*	*	*	5553	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3345	0	0	
+
+N 14   6287	*	*	*	*	6858	*	6556	4311	*	*	293	*	6383	*	3802	5827	*	*	*	14
+       0	*	*	*	*	*	*	3345	0	0	
+
+I 15   *	*	*	5154	*	*	*	768	6523	3619	3839	*	*	5909	*	*	5097	2502	*	*	15
+       0	*	*	*	*	*	*	3345	0	0	
+
+V 16   4839	*	*	*	4800	*	*	2285	*	6134	*	*	*	*	*	*	4449	591	*	*	16
+       0	*	*	*	*	*	*	3345	0	0	
+
+E 17   3398	*	*	741	6375	3759	*	6145	5772	5727	5024	6215	*	4925	6044	5539	5144	6087	*	6287	17
+       0	*	*	*	*	*	*	3345	0	0	
+
+V 18   5554	*	*	*	4878	7022	6541	3017	4528	2901	4630	*	*	*	*	*	6486	825	*	6721	18
+       0	*	*	*	*	*	*	3345	0	0	
+
+L 19   5427	*	*	*	5511	*	*	2114	5027	1928	5217	*	6145	4820	*	6487	5070	1676	*	*	19
+       0	*	*	*	*	*	*	3345	0	0	
+
+N 20   5619	5214	5001	3333	4788	4996	1789	6583	3240	6798	*	2626	*	5192	4656	*	4775	4266	6122	6932	20
+       0	*	*	*	*	*	*	3345	0	0	
+
+G 21   2664	*	2136	3416	6129	2999	*	*	5922	*	*	3286	5577	*	6172	4242	4881	2826	*	*	21
+       0	*	*	*	*	*	*	3345	0	0	
+
+G 22   3558	*	*	5525	*	565	6366	*	4343	*	*	*	*	6087	*	3039	5677	*	*	*	22
+       0	*	*	*	*	*	*	3345	0	0	
+
+I 23   2942	*	4090	4568	*	973	*	5425	3569	*	6734	6480	4923	4806	6577	7053	6077	5064	*	*	23
+       11	*	7076	*	*	*	*	3345	0	0	
+
+G 24   4474	*	5973	*	*	803	4451	5788	*	*	*	*	4019	*	*	4808	*	2287	*	*	24
+       12	6939	*	0	*	0	*	3345	1000	1000	
+
+E 25   3595	*	4500	2640	*	*	*	*	4779	*	*	4098	2209	3718	*	3739	2143	5365	*	*	25
+       12	*	6858	*	*	*	*	3345	0	0	
+
+L 26   *	*	*	*	*	*	*	4632	*	538	4029	*	4191	*	*	5953	4980	3225	*	*	26
+       0	*	*	*	*	0	*	3351	0	1000	
+
+V 27   4333	*	*	*	6375	6640	6487	3567	*	*	3641	6069	*	*	*	3253	3392	895	*	*	27
+       0	*	*	*	*	*	*	3345	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3345	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3345	0	0	
+
+N 30   *	*	4255	5286	*	309	*	*	*	*	*	3659	*	5384	6447	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3345	0	0	
+
+Q 31   4859	*	5367	1387	*	*	*	*	2595	*	6335	6069	*	1813	*	4896	5955	4970	*	*	31
+       0	*	*	*	*	*	*	3345	0	0	
+
+D 32   4114	*	3511	4047	*	6069	*	*	2993	*	*	4272	994	5057	*	4724	5827	6122	*	*	32
+       0	*	*	*	*	*	*	3345	0	0	
+
+M 33   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3345	0	0	
+
+K 34   *	*	6324	1549	*	*	*	6824	2466	6621	*	5074	*	2834	5201	6895	2552	3839	*	*	34
+       0	*	*	*	*	*	*	3316	0	0	
+
+L 35   5628	4995	5826	4074	*	*	5806	*	4066	620	4407	*	*	*	5070	*	*	3912	*	*	35
+       0	*	*	*	*	*	*	3263	0	0	
+
+M 36   *	*	*	*	6499	*	*	3607	5702	887	2452	*	*	3306	*	*	4785	5215	*	*	36
+       0	*	*	*	*	*	*	3261	0	0	
+
+S 37   3473	*	*	*	*	*	*	*	*	*	*	3613	*	*	*	2541	608	*	*	*	37
+       0	*	*	0	*	*	*	3079	0	0	
+
+//

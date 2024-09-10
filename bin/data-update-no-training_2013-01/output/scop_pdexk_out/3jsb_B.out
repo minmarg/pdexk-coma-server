@@ -1,0 +1,193 @@
+Query         3jsb_B N-terminal domain of arenavirus L Protein, PDEXK superfamily
+Match_columns 134
+No_of_seqs    41 out of 43
+Neff          2.7 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:17 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3jsb_B.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3jsb_B.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3jsb_B N-terminal domain of ar 100.0       0       0  500.0  15.1  134    1-134     1-134 (134)
+  2 2xi5_A N-terminal domain of La  78.2     2.7  0.0002   20.9   5.7   81   22-106    22-106 (137)
+  3 d1mb4a2 d.81.1.1 (A:133-354) A  11.3      27   0.002   14.8   0.3   73   59-131    85-160 (222)
+  4 d1o6ea_ b.57.1.1 (A:) Epstein-  10.7      30  0.0022   14.5   0.3   14  120-133   153-166 (232)
+  5 d2pbka1 b.57.1.1 (A:3-230) KSH   9.5      36  0.0026   14.0   0.4   14  120-133   149-162 (228)
+  6 d1iega_ b.57.1.1 (A:) Human cy   9.5      37  0.0027   14.0   0.4   13  121-133   167-179 (248)
+  7 d1at3a_ b.57.1.1 (A:) HSV-2 pr   8.6      41   0.003   13.7   0.4   13  121-133   150-162 (231)
+  8 d1b4aa1 a.4.5.3 (A:4-78) Argin   8.3      75  0.0055   12.1   1.6   26   93-118    35-60  (75)
+  9 d2nlya1 c.6.2.7 (A:31-254) Hyp   7.9 1.6E+02   0.012   10.0   3.1   24   87-110   196-219 (224)
+ 10 d1k3ea_ d.198.1.1 (A:) Secreti   7.7   5E+02   0.036    7.0   5.6   44   64-107    89-134 (146)
+
+No 1  
+>3jsb_B N-terminal domain of arenavirus L Protein, PDEXK superfamily
+Probab=100.00  E-value=0  Score=499.96  Aligned_columns=134  Identities=100%
+
+Q ss_pred             CCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHCCCCCCCCCCCCCCCEEEECCEEEEEEEEECCCHH
+Q ss_conf             95427899999999999998775355338756842245888997548768854532267606518677876321013867
+Q 3jsb_B            1 GQREPRMVLIEGLKLLSRCIEIDSADKSGCTHNHDDKSVETILVESGIVCPGLPLIIPDGYKLIDNSLILLECFVRSTPA   80 (134)
+Q Consensus         1 ~Q~~p~~il~EGlKLLS~~iEidSC~~ngC~HN~e~ksV~~IL~~~~iv~PtLp~VvPDGy~l~g~~LILLE~FVR~np~   80 (134)
+                      ||+||||++||||||||+|||+|||++|||+||+|+||||+||+||||+|||||+||||||+++||||||||||||+||+
+T Consensus         1 ~Q~~p~~il~EGlKLLS~~iEidSC~~ngC~HN~e~ksV~~IL~~~~iv~PtLp~VvPDGy~l~g~~LILLE~FVR~np~   80 (134)
+T 3jsb_B            1 GQREPRMVLIEGLKLLSRCIEIDSADKSGCTHNHDDKSVETILVESGIVCPGLPLIIPDGYKLIDNSLILLECFVRSTPA   80 (134)
+T ss_pred             CCCCHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHCCCCCCCCCCCCCCCEEEECCEEEEEEEEECCCHH
+T ss_conf             95427899999999999998775355338756842245888997548768854532267606518677876321013867
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHHHCCCEEEEEECCCCCCCCCCCCHHHHHHHHHHC
+Q ss_conf             889999999999999998898749767666527535431235057889887409
+Q 3jsb_B           81 SFEKKFIEDTNKLACIREDLAVAGVTLVPIVDGRCDYDNSFMPEWANFKFRDLL  134 (134)
+Q Consensus        81 ~FE~Ky~~D~~KL~~lk~DL~~~GitLvPvvDGRs~y~~~~~pdWv~er~RwlL  134 (134)
+                      +|||||++||.||+|||+||+++||||||+|||||||||+||||||+|||||+|
+T Consensus        81 ~FE~Ky~~D~~KL~~lk~DL~~~GitLvPvvDGRs~y~~~~~pdWv~er~RwlL  134 (134)
+T 3jsb_B           81 SFEKKFIEDTNKLACIREDLAVAGVTLVPIVDGRCDYDNSFMPEWANFKFRDLL  134 (134)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHCCCEEEEEECCCCCCCCCCCCHHHHHHHHHHC
+T ss_conf             889999999999999998898749767666527535431235057889887409
+
+
+No 2  
+>2xi5_A N-terminal domain of La Crosse virus L-protein, PDEXK superfamily
+Probab=78.15   E-value=2.7  Score=20.89  Aligned_columns=81  Identities=21%
+
+Q ss_pred             HHHHHHCCCCCCCCHHHHHHHHHHCCCCCCC---CCCCCCCCEEEECCEEEEEEEEECCCHHHHHHHHHHHHHHHHHHHH
+Q ss_conf             7535533875684224588899754876885---4532267606518677876321013867889999999999999998
+Q 3jsb_B           22 IDSADKSGCTHNHDDKSVETILVESGIVCPG---LPLIIPDGYKLIDNSLILLECFVRSTPASFEKKFIEDTNKLACIRE   98 (134)
+Q Consensus        22 idSC~~ngC~HN~e~ksV~~IL~~~~iv~Pt---Lp~VvPDGy~l~g~~LILLE~FVR~np~~FE~Ky~~D~~KL~~lk~   98 (134)
+                      -+-|++.+.+--.+--.++.+|.---..-|.   .|.++||-|-+.|+.|+++.-=|-+.-+|-+.-|    +|+..+-+
+T Consensus        22 rElC~al~IEYRNDVp~~dIlld~~P~~~~~~~~ipn~TPDNYi~~~~~l~IiDyKVSV~~~ss~~T~----~KY~~~~~   97 (137)
+T 2xi5_A           22 RELCKSLNIEYRNDVPFIDIILDIRPEVDPLTIDAPHITPDNYLYINNVLYIIDYKVSVSNESSVITY----DKYYELTR   97 (137)
+T ss_pred             HHHHHHHCCCCCCCCCHHHHHHHHCCCCCCEEEECCEECCCCEEEECCEEEEEEEEEECCCCHHHHHH----HHHHHHHH
+T ss_conf             99998809601247648875653349985003446622787508888889998756633760358899----99999999
+
+
+Q ss_pred             HHHH-CCCE
+Q ss_conf             8987-4976
+Q 3jsb_B           99 DLAV-AGVT  106 (134)
+Q Consensus        99 DL~~-~Git  106 (134)
+                      |... -||-
+T Consensus        98 ~v~~~l~i~  106 (137)
+T 2xi5_A           98 DISDRLSIP  106 (137)
+T ss_pred             HHHHHCCCC
+T ss_conf             888744997
+
+
+No 3  
+>d1mb4a2 d.81.1.1 (A:133-354) Aspartate beta-semialdehyde dehydrogenase {Vibrio cholerae [TaxId: 666]}
+Probab=11.28   E-value=27  Score=14.77  Aligned_columns=73  Identities=8%
+
+Q ss_pred             CCEEEECCEEEEEEEEECCCHHHHHHHHHHHHHHHHHHHH-HHH-HCCCEEEEEECCCC-CCCCCCCCHHHHHHHH
+Q ss_conf             7606518677876321013867889999999999999998-898-74976766652753-5431235057889887
+Q 3jsb_B           59 DGYKLIDNSLILLECFVRSTPASFEKKFIEDTNKLACIRE-DLA-VAGVTLVPIVDGRC-DYDNSFMPEWANFKFR  131 (134)
+Q Consensus        59 DGy~l~g~~LILLE~FVR~np~~FE~Ky~~D~~KL~~lk~-DL~-~~GitLvPvvDGRs-~y~~~~~pdWv~er~R  131 (134)
+                      .++.+..|++=-.-.|.....++=|.|......|++.+.+ ++. .+--.-||+..|-+ +.+.+|--+--.+..|
+T Consensus        85 f~~~iAfNviP~ig~~~~~G~t~EE~K~~~E~rKILg~~d~~l~VsaTcVRVPV~~GHs~sv~ve~~~~v~~~~v~  160 (222)
+T d1mb4a2          85 FGVPLAGSLIPWIDVKRDNGQSKEEWKAGVEANKILGLQDSPVPIDGTCVRIGAMRCHSQALTIKLKQNIPLDEIE  160 (222)
+T ss_pred             CCCCCEEEECCCCCCCCCCCCCHHHHHHHHHHHHHCCCCCCCEEEEEEEEEEECCCCCEEEEEEEECCCCCHHHHH
+T ss_conf             5775011003335874888977789999999999717899981266678872012222788988845898989999
+
+
+No 4  
+>d1o6ea_ b.57.1.1 (A:) Epstein-Barr virus protease {Human herpesvirus 4 [TaxId: 10376]}
+Probab=10.73   E-value=30  Score=14.47  Aligned_columns=14  Identities=29%
+
+Q ss_pred             CCCCHHHHHHHHHH
+Q ss_conf             23505788988740
+Q 3jsb_B          120 SFMPEWANFKFRDL  133 (134)
+Q Consensus       120 ~~~pdWv~er~Rwl  133 (134)
+                      ..-|+||++||+.|
+T Consensus       153 g~~~~wvi~~F~~L  166 (232)
+T d1o6ea_         153 GTDLAWVLKHFSDL  166 (232)
+T ss_pred             CCCHHHHHHHCCCC
+T ss_conf             78969998413688
+
+
+No 5  
+>d2pbka1 b.57.1.1 (A:3-230) KSHV protease {Kaposi's sarcoma-associated herpesvirus [TaxId: 37296]}
+Probab=9.52    E-value=36  Score=14.02  Aligned_columns=14  Identities=21%
+
+Q ss_pred             CCCCHHHHHHHHHH
+Q ss_conf             23505788988740
+Q 3jsb_B          120 SFMPEWANFKFRDL  133 (134)
+Q Consensus       120 ~~~pdWv~er~Rwl  133 (134)
+                      ..-|+||++||+.|
+T Consensus       149 g~~~~wvi~~F~~L  162 (228)
+T d2pbka1         149 GHDAEWVVSRFSSV  162 (228)
+T ss_pred             CCCHHHHHHHCCCC
+T ss_conf             78969998423688
+
+
+No 6  
+>d1iega_ b.57.1.1 (A:) Human cytomegalovirus protease {Human cytomegalovirus [TaxId: 10359]}
+Probab=9.46    E-value=37  Score=13.97  Aligned_columns=13  Identities=46%
+
+Q ss_pred             CCCHHHHHHHHHH
+Q ss_conf             3505788988740
+Q 3jsb_B          121 FMPEWANFKFRDL  133 (134)
+Q Consensus       121 ~~pdWv~er~Rwl  133 (134)
+                      .-|+||++||+.|
+T Consensus       167 ~~~~wvi~~F~~L  179 (248)
+T d1iega_         167 RDPEWVTQRFPDL  179 (248)
+T ss_pred             CCHHHHHHHCCCC
+T ss_conf             8969998422588
+
+
+No 7  
+>d1at3a_ b.57.1.1 (A:) HSV-2 protease {Herpes simplex virus type 2 [TaxId: 10310]}
+Probab=8.61    E-value=41  Score=13.66  Aligned_columns=13  Identities=31%
+
+Q ss_pred             CCCHHHHHHHHHH
+Q ss_conf             3505788988740
+Q 3jsb_B          121 FMPEWANFKFRDL  133 (134)
+Q Consensus       121 ~~pdWv~er~Rwl  133 (134)
+                      .-|+||++||+.|
+T Consensus       150 ~~~~wvi~~F~~L  162 (231)
+T d1at3a_         150 TSLDAAIAPFRHL  162 (231)
+T ss_pred             CCHHHHHHHCCCC
+T ss_conf             8969998423688
+
+
+No 8  
+>d1b4aa1 a.4.5.3 (A:4-78) Arginine repressor (ArgR), N-terminal DNA-binding domain {Bacillus stearothermophilus [TaxId: 1422]}
+Probab=8.34    E-value=75  Score=12.06  Aligned_columns=26  Identities=27%
+
+Q ss_pred             HHHHHHHHHHCCCEEEEEECCCCCCC
+Q ss_conf             99999889874976766652753543
+Q 3jsb_B           93 LACIREDLAVAGVTLVPIVDGRCDYD  118 (134)
+Q Consensus        93 L~~lk~DL~~~GitLvPvvDGRs~y~  118 (134)
+                      -+.++.||..-|++=||.-+|+.-|-
+T Consensus        35 QaTiSRDl~eL~~vKv~~~~G~~~Y~   60 (75)
+T d1b4aa1          35 QATVSRDIKEMQLVKVPMANGRYKYS   60 (75)
+T ss_pred             HHHHHHHHHHCCEEECCCCCCCEEEE
+T ss_conf             06788889852534120699946874
+
+
+No 9  
+>d2nlya1 c.6.2.7 (A:31-254) Hypothetical protein BH1492 {Bacillus halodurans [TaxId: 86665]}
+Probab=7.86    E-value=1.6e+02  Score=10.04  Aligned_columns=24  Identities=17%
+
+Q ss_pred             HHHHHHHHHHHHHHHHCCCEEEEE
+Q ss_conf             999999999998898749767666
+Q 3jsb_B           87 IEDTNKLACIREDLAVAGVTLVPI  110 (134)
+Q Consensus        87 ~~D~~KL~~lk~DL~~~GitLvPv  110 (134)
+                      .+-...|.+....|+..||.|||+
+T Consensus       196 ~~Tl~~L~~~~~~l~~~gi~lVpv  219 (224)
+T d2nlya1         196 DETYAGIRSMLDEFQAESIQLVPV  219 (224)
+T ss_pred             HHHHHHHHHHHHHHHHCCEEEEEC
+T ss_conf             789999999987787769068631
+
+
+No 10 
+>d1k3ea_ d.198.1.1 (A:) Secretion chaperone CesT {Escherichia coli [TaxId: 562]}
+Probab=7.72    E-value=5e+02  Score=7.01  Aligned_columns=44  Identities=25%
+
+Q ss_pred             ECCEEEEEEEEE--CCCHHHHHHHHHHHHHHHHHHHHHHHHCCCEE
+Q ss_conf             186778763210--13867889999999999999998898749767
+Q 3jsb_B           64 IDNSLILLECFV--RSTPASFEKKFIEDTNKLACIREDLAVAGVTL  107 (134)
+Q Consensus        64 ~g~~LILLE~FV--R~np~~FE~Ky~~D~~KL~~lk~DL~~~GitL  107 (134)
+                      ..+.++|-..+-  ..+++.|++....=.....+++..|+..|||+
+T Consensus        89 ~s~~vlL~~~i~l~~l~~~~l~~~L~~fi~~~e~~r~~L~~~~~~~  134 (146)
+T d1k3ea_          89 GAQSLLLALRFPLDDATPEKLENEIEVVVKSMENLYLVLHNQGITL  134 (146)
+T ss_pred             CCCEEEEEEECCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHCCCCC
+T ss_conf             8883899871570128988999999999999999999998636898
+
+
+Done!

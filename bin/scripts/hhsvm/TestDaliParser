@@ -1,0 +1,32 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin ();
+use lib "$FindBin::Bin";
+use DaliParser;
+
+
+# ==============================================================================
+# $Author: Mindaugas.Laganeckas $
+# $Date: 2009-05-19 18:38:35 +0300 (Tue, 19 May 2009) $
+# $Revision: 5 $
+# $HeadURL: http://pdexkperltoolkit.googlecode.com/svn/trunk/hhsvm/TestDaliParser $
+# ==============================================================================
+
+# An array of
+# my %aln_obj = 
+#                 (
+#                     z_score => 5.2,
+#                     query  => "AAA",
+#                     subject => "BB-",
+#                 );
+
+my $objs = DaliParser::parse_dali_aln($ARGV[0]);
+
+foreach my $obj (@$objs)
+{
+    for my $key (sort keys %$obj)
+    {
+        printf("%20s %20s\n", $key, $obj->{$key});
+    }
+}

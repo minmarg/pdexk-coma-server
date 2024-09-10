@@ -1,0 +1,204 @@
+HHsearch 1.5
+NAME  d1e3ha4 d.52.3.1 (A:579-632) Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domain 6 {Streptomyces antibioticus [TaxId: 1890]}
+FAM   d.52.3.1
+FILE  d1e3ha4
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1e3ha4.a3m -v 1 
+DATE  Mon Jan 21 20:24:59 2013
+LENG  54 match states, 54 columns in multiple alignment
+FILT  104 out of 1669 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.4 
+SEQ
+>ss_pred
+CCEEEEEEECCCCEEEEECCCCHHHHHHHHHCCCEEEECCCCEEEEEECCCCCC
+>ss_conf
+977889985800112676575158888887249889874795898973784569
+>Consensus
+APxixxixIpxxxigxiIGxgGxxIkxixxxtgxxIxixddgxVxIxxxxxxxA
+>d1e3ha4 d.52.3.1 (A:579-632) Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domain 6 {Streptomyces antibioticus [TaxId: 1890]}
+APRIITVKIPVDKIGEVIGPKRQMINQIQEDTGAEITIEDDGTIYIGAADGPAA
+>gi|148284082|ref|YP_001248172.1|(558-609:740) polynucleotide phosphorylase [Orientia tsutsugamushi str. Boryong] >gi|187610322|sp|A5CC62.1|PNP_ORITB RecName: Full=Polyribonucleotide nucleotidyltransferase; AltName: Full=Polynucleotide phosphorylase; Short=PNPase >gi|146739521|emb|CAM79228.1| polyribonucleotide nucleotidyltransferase [Orientia tsutsugamushi str. Boryong]  E=6e-07 s/c=1.09 id=28% cov=98%
+APMVQTLEIQKEKIRDVIGLGGKVIKELCKTFDVEIDISENGEVKVWGNVGE--
+>gi|387219263|gb|AFJ69340.1|(632-683:853) polyribonucleotide nucleotidyltransferase [Nannochloropsis gaditana CCMP526]  E=5e-05 s/c=0.97 id=29% cov=96%
+--RISQVKINPSFIGKLIGPQGRQIRAIIDQFSlSELDVSDQGVVSVCSFSTES-
+>gi|15605776|ref|NP_213153.1|(554-609:775) polynucleotide phosphorylase/polyadenylase [Aquifex aeolicus VF5] >gi|81343315|sp|O66593.1|PNP_AQUAE RecName: Full=Polyribonucleotide nucleotidyltransferase; AltName: Full=Polynucleotide phosphorylase; Short=PNPase >gi|2982946|gb|AAC06562.1| polyribonucleotide nucleotidyltransferase [Aquifex aeolicus VF5]  E=5e-06 s/c=0.96 id=26% cov=100%
+-PKVEVVDVPEEKAPLIIGPGGSTVKKIYDETGVKVWVGEQGKVYLFvfpGGDVEKA
+>gi|237750416|ref|ZP_04580896.1|(586-638:734) polyribonucleotide nucleotidyltransferase [Helicobacter bilis ATCC 43879] >gi|229373946|gb|EEO24337.1| polyribonucleotide nucleotidyltransferase [Helicobacter bilis ATCC 43879]  E=2e-07 s/c=1.10 id=28% cov=98%
+-PQKESFCVPHTSIGEIIGQGGRTIRDIISRFQVSINIDkDEGIVHISANNKDS-
+>gi|341581300|ref|YP_004761792.1|(41-88:248) putative RNA-processing protein [Thermococcus sp. 4557] >gi|340808958|gb|AEK72115.1| putative RNA-processing protein [Thermococcus sp. 4557]  E=9e-05 s/c=1.03 id=29% cov=89%
+------IRIPRDRVAVVIGRKGQTKREIEERTKTRIEVDsETGEVFITSTEETS-
+>gi|358342308|dbj|GAA49803.1|(39-98:528) poly(rC)-binding protein 2/3/4 [Clonorchis sinensis]   E=1e-05 s/c=0.87 id=28% cov=100%
+-PITLRLLVPTIHCGSLIGKGGKRIKFLRQSTGAAIQVaseslpnSSDRTITITGSARAVA
+>gi|148907101|gb|ABR16694.1|(51-107:490) unknown [Picea sitchensis]   E=6e-06 s/c=0.94 id=27% cov=96%
+---VFRMLVPSQKVGGIIGRKGEFVKKMCEETRSRIKILDglsgtpERVVMVSAKEEPDA
+>gi|339246419|ref|XP_003374843.1|(971-1022:1172) polyribonucleotide nucleotidyltransferase [Trichinella spiralis] >gi|316971903|gb|EFV55625.1| polyribonucleotide nucleotidyltransferase [Trichinella spiralis]  E=2e-05 s/c=1.00 id=23% cov=98%
+-PVEEQLPVPASKRSRLLGAGGLNLKRIEARTGVQISQLDDTVYSVFAPNKQA-
+>gi|326436025|gb|EGD81595.1|(929-970:1033) hypothetical protein PTSG_02310 [Salpingoeca sp. ATCC 50818]   E=0.0001 s/c=1.17 id=29% cov=76%
+--------IDESQVGIVIGKHGSRVQSLQAHTGCEINVTQEEHVYVDA------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4243	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       32	5493	*	2000	415	*	*	5195	1000	0	
+
+R 3    4351	*	*	*	5271	*	4599	3874	3096	4724	4758	*	*	3766	1781	4505	4429	2828	*	5156	3
+       0	*	*	*	*	*	*	5221	0	0	
+
+I 4    5877	*	6062	6016	4534	*	6253	1687	4883	3917	3836	*	6593	5792	6244	4726	3496	2103	*	6087	4
+       0	*	*	*	*	*	*	5550	0	0	
+
+I 5    3664	6095	4369	2080	5001	4873	*	3124	*	2876	*	*	*	3998	5518	4727	3982	3231	*	6226	5
+       13	*	6763	*	*	*	*	5514	0	0	
+
+T 6    6423	*	*	4109	5504	*	*	3755	3513	6541	6302	5671	*	2972	3027	3045	2174	3173	*	*	6
+       0	*	*	*	*	0	*	5567	0	1000	
+
+V 7    6655	*	*	*	2859	*	*	1546	*	2903	2853	*	*	*	*	*	6480	2218	*	6442	7
+       0	*	*	*	*	*	*	5509	0	0	
+
+K 8    4262	6266	3909	4068	*	5893	5449	5658	2512	3700	4876	3998	4461	4431	3685	3741	3796	4480	*	4677	8
+       0	*	*	*	*	*	*	5509	0	0	
+
+I 9    6170	4720	*	*	5375	*	*	886	*	5262	*	*	*	*	*	*	*	1541	*	6228	9
+       0	*	*	*	*	*	*	5458	0	0	
+
+P 10   4326	*	2799	4417	6709	5827	6713	*	*	7019	*	3988	862	5258	6640	4564	5399	*	*	*	10
+       0	*	*	*	*	*	*	5471	0	0	
+
+V 11   3698	*	4273	4109	6637	5138	*	5599	3415	6748	*	3146	2380	4570	4379	3128	3637	4032	*	*	11
+       0	*	*	*	*	*	*	5471	0	0	
+
+D 12   4798	*	1994	2460	*	6263	3638	6739	3738	*	6909	2820	*	5080	4763	3303	6091	6584	*	6522	12
+       15	6635	*	0	*	*	*	5464	1000	0	
+
+K 13   4067	*	5076	*	4069	*	4640	5845	1356	4344	3473	7077	*	4201	3345	4288	5446	5707	*	6618	13
+       0	*	*	*	*	*	*	5464	0	0	
+
+I 14   4252	4352	*	*	5315	*	*	1488	5039	4363	5599	*	*	*	3048	*	6496	1810	*	*	14
+       13	6779	*	0	*	*	*	5464	1000	0	
+
+G 15   4499	*	*	*	6263	639	*	*	5908	*	6755	6597	4532	*	3338	3949	*	4119	*	*	15
+       0	*	*	*	*	*	*	5464	0	0	
+
+E 16   2819	4707	4132	4082	*	4626	4478	4848	3320	3612	4402	*	*	5768	2764	3347	4648	5033	6410	6862	16
+       0	*	*	*	*	*	*	5464	0	0	
+
+V 17   6125	*	*	*	*	*	*	1526	*	2140	*	*	*	*	*	*	*	1281	*	*	17
+       0	*	*	*	*	*	*	5464	0	0	
+
+I 18   *	*	*	*	4648	*	*	408	*	3772	5302	*	*	*	*	*	*	3215	*	*	18
+       0	*	*	*	*	*	*	5464	0	0	
+
+G 19   *	*	*	*	*	81	*	*	*	*	*	*	*	*	4189	*	*	*	*	*	19
+       0	*	*	*	*	*	*	5464	0	0	
+
+P 20   5181	*	*	6185	6045	*	*	*	1383	4989	*	4648	2373	5825	2211	5229	4817	*	*	*	20
+       0	*	*	*	*	*	*	5464	0	0	
+
+K 21   3522	*	6086	5706	*	921	5788	*	3451	*	5451	3879	*	3760	5722	5043	6700	*	5801	*	21
+       0	*	*	*	*	*	*	5464	0	0	
+
+R 22   *	*	*	*	*	49	*	*	*	*	*	*	*	*	6019	*	*	*	5801	*	22
+       0	*	*	*	*	*	*	5464	0	0	
+
+Q 23   3483	*	5409	2464	*	*	*	6222	2475	5811	*	7388	*	4564	3344	2042	5518	4522	*	4648	23
+       0	*	*	*	*	*	*	5464	0	0	
+
+M 24   *	*	*	*	5983	6568	4992	3323	4234	4996	5227	2071	*	5740	4780	6644	1512	4019	*	6003	24
+       0	*	*	*	*	*	*	5464	0	0	
+
+I 25   5634	4648	*	*	*	*	*	689	3978	3700	4877	*	*	*	*	*	*	2784	*	*	25
+       0	*	*	*	*	*	*	5464	0	0	
+
+N 26   5695	*	*	*	*	6086	*	*	1279	*	*	3519	*	3539	1603	5296	5276	*	*	*	26
+       0	*	*	*	*	*	*	5464	0	0	
+
+Q 27   3523	*	3345	2650	5376	5293	5241	6604	2604	4648	*	4608	6626	2913	3361	3583	*	*	*	*	27
+       0	*	*	*	*	*	*	5464	0	0	
+
+I 28   *	*	*	*	5706	*	*	935	*	1681	3505	*	*	*	*	*	*	4109	*	*	28
+       0	*	*	*	*	*	*	5464	0	0	
+
+Q 29   6045	4142	*	2247	*	*	*	3348	4091	6626	6618	6469	*	2086	2338	5820	4252	5897	*	6841	29
+       0	*	*	*	*	*	*	5464	0	0	
+
+E 30   3317	6185	3067	1558	*	*	5172	*	3279	6876	*	4637	*	3613	4664	3483	4759	*	*	*	30
+       0	*	*	*	*	*	*	5464	0	0	
+
+D 31   3998	*	3554	1548	*	*	6736	5222	2740	4987	5968	6991	*	4221	3312	4591	4670	5358	6692	*	31
+       23	6007	*	0	*	*	*	5464	1000	0	
+
+T 32   6284	*	*	*	3166	*	*	*	*	5801	*	*	*	6007	*	1793	1100	*	*	3519	32
+       13	6790	*	0	*	*	*	5464	1000	0	
+
+G 33   5968	*	4265	3998	*	781	*	*	3805	*	*	3033	*	*	4413	5155	6604	*	*	6903	33
+       25	5836	*	977	1024	*	*	5464	1704	0	
+
+A 34   1322	3373	*	*	*	*	*	6326	*	6546	*	*	*	*	*	4082	3328	1636	*	*	34
+       34	5416	*	0	*	*	*	5464	2026	0	
+
+E 35   4365	*	3692	3276	6897	7068	4266	6991	2303	6007	*	4277	*	3746	2178	5375	3392	6568	*	*	35
+       46	5002	*	0	*	*	*	5464	2051	0	
+
+I 36   *	*	*	*	*	*	*	662	*	3490	3832	*	*	*	*	*	*	2259	*	*	36
+       12	6903	*	1000	1000	*	*	5464	1000	0	
+
+T 37   *	*	2057	3451	6676	*	5255	4682	3052	*	*	4151	*	3223	4492	2646	4278	5383	5071	*	37
+       14	6684	*	0	*	*	*	5464	1000	0	
+
+I 38   5112	6903	*	*	5166	*	*	1251	6903	2957	5716	*	5250	6538	*	*	5342	1752	*	*	38
+       146	3597	6230	2607	259	*	*	5464	3471	0	
+
+E 39   4669	6742	2015	2910	*	4113	*	5330	6580	3534	5975	3752	5486	5527	6840	2799	4106	4419	*	*	39
+       228	2897	6396	1697	532	0	*	5496	3594	1000	
+
+D 40   *	*	1257	2142	*	*	*	*	4473	*	*	4555	5283	2691	4588	4462	*	*	*	*	40
+       174	3137	*	2091	386	0	*	5509	3611	1000	
+
+D 41   *	*	1257	1929	*	4534	*	*	5108	*	*	3099	5964	4995	4963	6709	4608	*	*	*	41
+       81	4814	5731	987	1013	*	*	5479	2350	0	
+
+G 42   5153	5244	5405	4435	*	910	*	*	5081	6567	*	3738	4967	*	3237	4098	4965	*	*	*	42
+       82	4173	*	2018	409	854	1162	5492	2552	1574	
+
+T 43   5027	*	5253	3869	*	*	5443	3678	3342	3950	6241	3450	*	5978	3673	3726	2307	2904	*	*	43
+       50	4877	*	1900	450	*	0	5497	2326	1000	
+
+I 44   *	4833	*	*	5037	*	*	1884	*	3545	*	*	5907	*	5895	*	*	917	*	6085	44
+       0	*	*	*	*	*	0	5574	0	1000	
+
+Y 45   6419	6027	5441	4404	4474	5838	6504	6627	3322	4485	5081	5693	6590	4993	3168	2660	2129	4870	6102	4756	45
+       20	6159	*	1585	585	*	0	5556	1000	1000	
+
+I 46   5875	*	*	*	6467	6601	*	1074	*	2737	6105	*	*	*	*	*	*	1635	*	*	46
+       41	6610	5822	2000	415	*	0	5557	1000	1000	
+
+G 47   4476	5458	5169	5071	2435	4928	*	4921	*	4148	6619	5374	*	6356	6360	2498	2377	4253	6684	3693	47
+       39	5242	*	1589	583	0	*	5527	2005	1537	
+
+A 48   1450	*	*	6001	*	1179	*	*	*	*	*	*	*	*	*	2646	5879	*	*	*	48
+       39	5247	*	1778	498	*	*	5559	1583	0	
+
+A 49   3837	*	5051	4877	4869	4914	*	*	3446	5675	5136	4075	2362	3716	5029	3803	2432	4603	*	*	49
+       20	6168	*	1585	585	*	*	5576	1000	0	
+
+D 50   5970	*	1770	2805	*	*	*	*	6185	*	*	1770	6294	6439	*	2535	4970	6365	*	*	50
+       0	*	*	*	*	*	*	5607	0	0	
+
+G 51   3371	*	4047	2401	*	3456	*	*	3170	5022	6038	5650	5189	2399	5111	3246	*	4879	*	*	51
+       0	*	*	*	*	*	*	5603	0	0	
+
+P 52   2452	*	3269	1629	*	6871	*	*	4698	*	6103	6318	3520	3435	*	3949	4055	6426	*	*	52
+       0	*	*	*	*	*	*	5550	0	0	
+
+A 53   1430	*	5073	5935	*	5842	*	5660	2323	*	*	4883	5372	*	*	2285	5732	3969	*	*	53
+       0	*	*	*	*	*	*	5386	0	0	
+
+A 54   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	0	*	*	*	4461	0	0	
+
+//

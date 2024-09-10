@@ -1,0 +1,141 @@
+HHsearch 1.5
+NAME  d1rk8c_ b.72.3.1 (C:) Pym (Within the bgcn gene intron protein, WIBG), N-terminal domain {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+FAM   b.72.3.1
+FILE  d1rk8c_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rk8c_.a3m -v 1 
+DATE  Tue Jan 22 01:31:24 2013
+LENG  33 match states, 33 columns in multiple alignment
+FILT  41 out of 43 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.8 
+SEQ
+>ss_pred
+CCEECCCCCEEECCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+930079873421243888653333113468889
+>Consensus
+tyvxdxxgxxixatqRpDGTWRKxrrvkxGYvP
+>d1rk8c_ b.72.3.1 (C:) Pym (Within the bgcn gene intron protein, WIBG), N-terminal domain {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+TYLQSSEGKFIPATKRPDGTWRKARRVKDGYVP
+>gi|209737840|gb|ACI69789.1|(8-39:235) wibg homolog [Salmo salar]   E=1e-09 s/c=2.07 id=64% cov=100%
+-YVEDESGKYIAATQRPDGTWRKPRKVKDGYTP
+>gi|56755589|gb|AAW25973.1|(10-41:208) SJCHGC09415 protein [Schistosoma japonicum]   E=3e-06 s/c=1.72 id=59% cov=97%
+--VRDDNGNLiIPSTQRPDGTWRKAVRVKEGYIP
+>gi|71991329|ref|NP_499261.2|(22-53:164) Protein T20G5.9 [Caenorhabditis elegans] >gi|31043824|emb|CAA83010.2| Protein T20G5.9 [Caenorhabditis elegans]  E=6e-05 s/c=1.58 id=62% cov=97%
+--VETENGEtFITATQRADGTWRKARRVKGGYIP
+>gi|326433930|gb|EGD79500.1|(1-31:149) hypothetical protein PTSG_10070 [Salpingoeca sp. ATCC 50818]   E=2e-07 s/c=1.88 id=59% cov=97%
+--MADEKPTFIPATQRPDGTWRKPRRVRPGYIP
+>gi|193713928|ref|XP_001945913.1|(13-43:355) PREDICTED: hypothetical protein LOC100162401 isoform 1 [Acyrthosiphon pisum]  E=5e-07 s/c=1.84 id=56% cov=97%
+--LKDDKGYFVPATQRADGTWRKERRLKENYIP
+>gi|324524250|gb|ADY48380.1|(44-73:188) Partner of Y14 and mago [Ascaris suum]   E=3e-06 s/c=1.82 id=65% cov=94%
+---TKSGETFIAASQRADGTWRKARRVKEGYVP
+>gi|196002839|ref|XP_002111287.1|(6-34:182) hypothetical protein TRIADDRAFT_22941 [Trichoplax adhaerens] >gi|190587238|gb|EDV27291.1| hypothetical protein TRIADDRAFT_22941 [Trichoplax adhaerens]  E=7e-06 s/c=1.83 id=67% cov=91%
+----EKSAYSIPATKRPDGTWRKERKVKEGYVP
+>gi|428185575|gb|EKX54427.1|(4-32:182) hypothetical protein GUITHDRAFT_150008 [Guillardia theta CCMP2712]  E=6e-05 s/c=1.73 id=57% cov=91%
+----DDKYDVIPASQRPDGTWRKEVKVKKGYVP
+>gi|221131855|ref|XP_002155907.1|(2-30:171) PREDICTED: similar to within bgcn homolog [Hydra magnipapillata]   E=4e-05 s/c=1.74 id=57% cov=91%
+----ETSGNVIAASQRPDGTWRKERKVKVGFVP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1334	0	0	
+
+Y 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	2
+       0	*	*	*	*	*	*	1552	0	0	
+
+L 3    3709	*	*	4126	*	*	*	3086	*	2423	3881	*	*	*	*	*	*	1017	*	*	3
+       0	*	*	*	*	*	*	1837	0	0	
+
+Q 4    4404	*	*	3244	*	*	4407	*	2820	*	*	*	*	2872	3465	4694	1540	*	*	4360	4
+       0	*	*	*	*	*	*	1842	0	0	
+
+S 5    *	*	606	2827	*	*	*	*	4828	*	*	5200	*	*	*	4828	3258	*	*	*	5
+       0	*	*	*	*	*	*	1879	0	0	
+
+S 6    4810	*	1840	1675	*	*	*	*	4481	*	*	4284	*	5410	*	2333	4219	*	*	*	6
+       0	*	*	*	*	*	*	1847	0	0	
+
+E 7    *	*	4828	4508	*	2618	*	*	2508	*	*	3367	5534	4537	4982	1689	3667	*	*	*	7
+       32	5495	*	0	*	*	*	1844	1000	0	
+
+G 8    4494	*	4470	3744	*	434	*	*	*	*	*	*	5136	*	*	5341	*	*	*	4556	8
+       132	3514	*	0	*	*	*	1844	1343	0	
+
+K 9    5013	*	4582	3972	*	*	*	*	1867	*	*	3618	*	3750	*	3657	2013	*	*	3228	9
+       154	3301	*	0	*	*	*	1842	1335	0	
+
+F 10   *	*	*	*	835	*	*	*	*	5117	*	*	*	*	*	4626	*	3431	5386	1979	10
+       42	5117	*	0	*	*	*	1849	1000	0	
+
+I 11   *	*	*	*	*	*	*	235	*	3527	*	*	*	*	*	*	*	3978	*	*	11
+       0	*	*	*	*	*	*	1782	0	0	
+
+P 12   1962	*	*	*	*	*	*	*	*	*	*	*	695	*	*	*	2992	*	*	*	12
+       0	*	*	*	*	*	*	1782	0	0	
+
+A 13   276	*	*	*	*	4727	*	*	*	*	*	*	*	*	*	2874	*	*	*	*	13
+       0	*	*	*	*	*	*	1782	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1917	444	*	*	*	14
+       0	*	*	*	*	*	*	1782	0	0	
+
+K 15   *	*	*	*	*	*	*	*	4090	*	*	*	*	135	5015	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1782	0	0	
+
+R 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1782	0	0	
+
+P 17   2747	*	*	*	*	*	*	*	*	*	*	*	233	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1782	0	0	
+
+D 18   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1782	0	0	
+
+G 19   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1782	0	0	
+
+T 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3232	162	*	*	*	20
+       0	*	*	*	*	*	*	1782	0	0	
+
+W 21   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	21
+       0	*	*	*	*	*	*	1782	0	0	
+
+R 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1782	0	0	
+
+K 23   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1782	0	0	
+
+A 24   1393	*	*	2225	*	*	*	*	*	*	*	*	2005	2678	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1782	0	0	
+
+R 25   *	*	*	*	*	*	*	4727	*	*	*	*	*	5022	211	*	*	3892	*	*	25
+       0	*	*	*	*	*	*	1782	0	0	
+
+R 26   *	*	*	*	*	*	*	*	2195	*	*	*	*	*	355	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1782	0	0	
+
+V 27   *	*	*	*	*	*	*	4281	*	3978	*	*	*	*	*	*	*	176	*	*	27
+       0	*	*	*	*	*	*	1782	0	0	
+
+K 28   *	*	*	*	*	*	*	*	148	*	*	*	*	*	3359	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1782	0	0	
+
+D 29   *	*	1893	1058	*	3632	*	*	3929	*	*	*	4160	*	*	*	*	4377	*	*	29
+       0	*	*	*	*	*	*	1782	0	0	
+
+G 30   *	*	*	*	*	95	*	*	*	*	*	3978	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1782	0	0	
+
+Y 31   *	*	*	*	4377	*	*	*	*	*	*	*	*	*	*	*	*	*	*	71	31
+       0	*	*	*	*	*	*	1782	0	0	
+
+V 32   *	*	*	*	*	*	*	1183	*	*	*	*	*	*	*	*	5068	917	*	*	32
+       0	*	*	*	*	*	*	1782	0	0	
+
+P 33   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	33
+       0	*	*	0	*	*	*	1782	0	0	
+
+//

@@ -1,0 +1,207 @@
+HHsearch 1.5
+NAME  d2vgha_ g.25.1.1 (A:) Heparin-binding domain from vascular endothelial growth factor {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.25.1.1
+FILE  d2vgha_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2vgha_.a3m -v 1 
+DATE  Tue Jan 22 09:15:58 2013
+LENG  55 match states, 55 columns in multiple alignment
+FILT  14 out of 16 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred
+CCCCCCCCCCHHHHHHCCCCCCCCCEECCCCCHHHHHHCCCCCCCCCCCCCCCCC
+>ss_conf
+9887778870123320002588631110257521133204423444245578889
+>Consensus
+xxxenxCepCserRkxlfvqdpxTCkCsCKxtxxxCkxrqLELNERtCrCdkpRR
+>d2vgha_ g.25.1.1 (A:) Heparin-binding domain from vascular endothelial growth factor {Human (Homo sapiens) [TaxId: 9606]}
+ARQENPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+>gi|327488517|sp|C0K3N4.1|VEGFA_AGKPI(140-192:192) RecName: Full=Vascular endothelial growth factor A; Flags: Precursor >gi|223711919|gb|ACN22041.1| vascular endothelial growth factor A166 isoform precursor [Agkistrodon piscivorus piscivorus]  E=6e-17 s/c=1.71 id=81% cov=98%
+--QENHCEPCSERRKHLYKQDPLTCKCSCKFTDSRCKSKQLELNERTCRCEKPRR
+>gi|166796011|ref|NP_001107704.1|(138-194:311) vascular endothelial growth factor A precursor [Xenopus (Silurana) tropicalis] >gi|165970827|gb|AAI58523.1| vegfa protein [Xenopus (Silurana) tropicalis]  E=3e-16 s/c=1.55 id=86% cov=91%
+SKQENHCEPCTEKsqRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCR------
+>gi|410916271|ref|XP_003971610.1|(132-189:189) PREDICTED: vascular endothelial growth factor A-A-like [Takifugu rubripes]  E=3e-13 s/c=1.35 id=73% cov=100%
+-QKENVCEPccdhCSDKRKRLFVQDPVTCRCSCKHTDEHCKDRQLELNERTCKCDKPRR
+>gi|282935197|gb|ADB03700.1|(133-187:187) vascular endothelial growth factor A [Pseudemoia entrecasteauxii]   E=4e-16 s/c=1.60 id=80% cov=102%
+AIKENHCEPCSEKRKHLFVQDAQTCKCSCKYTDARCKLRQLELNERTCRCEKPRR
+>gi|185132733|ref|NP_001117889.1|(136-190:190) vascular endothelial growth factor precursor [Oncorhynchus mykiss] >gi|49292181|emb|CAG30564.1| vascular endothelial growth factor precursor [Oncorhynchus mykiss]  E=8e-16 s/c=1.58 id=79% cov=102%
+AKKENHCEPCSERRKRLFVQDPLTCKCSCKFTQLDCKSRQLELNERTCRCDKPRR
+>gi|47606094|sp|P83906.1|VEGFA_BITGA(139-191:191) RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor >gi|37993399|gb|AAR06855.1| vascular endothelial growth factor [Bitis gabonica]  E=2e-15 s/c=1.61 id=72% cov=98%
+--KDNHCEPCSERRKHLYKQDPLTCKCSCKAPDLRCKSKQLELNERTCRCERPRR
+>gi|225706986|gb|ACO09339.1|(133-185:185) Vascular endothelial growth factor precursor [Osmerus mordax]   E=8e-14 s/c=1.51 id=70% cov=98%
+--RENHCEPCSEKRRRWFIQDPLTCQCSCKHTEADCKERQLELNERTCRCDKPRR
+>gi|75858341|gb|ABA28744.1|(140-194:194) VegfAb171 [Danio rerio]   E=1e-12 s/c=1.39 id=66% cov=102%
+SQCEPCCSTCSERRRRLFVQDPETCQCSCKHSEADCRSRQLELNERTCRCDKPRR
+>gi|383511142|gb|AFH40435.1|(137-186:186) vascular endothelial growth factor A, partial [Protopterus annectens]  E=1e-06 s/c=1.13 id=55% cov=93%
+--ERSQCSPCTEKRRHL---NPETCECTCKMTQQRCRAKGLELNERNCRCETVRR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    1066	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1409	2777	*	*	*	1
+       0	*	*	*	*	*	*	1406	0	0	
+
+R 2    *	*	*	*	*	*	*	3233	1110	*	*	*	*	1975	2506	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1453	0	0	
+
+Q 3    *	3487	*	2866	*	*	*	*	1251	*	*	*	4224	2169	3689	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1628	0	0	
+
+E 4    *	*	3664	501	*	*	*	*	3691	*	*	*	*	*	2866	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1628	0	0	
+
+N 5    *	*	*	*	*	*	*	*	4212	*	*	639	3487	*	*	2866	*	*	*	3691	5
+       0	*	*	*	*	*	*	1628	0	0	
+
+P 6    *	3487	*	*	*	*	1026	*	*	*	*	*	4091	2220	*	*	*	2772	*	*	6
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1628	0	0	
+
+G 8    3691	*	*	649	*	4091	*	*	*	*	*	*	*	*	*	2143	*	*	*	*	8
+       0	*	*	*	*	*	*	1628	0	0	
+
+P 9    *	*	*	*	*	*	*	*	*	*	*	*	135	*	*	*	3487	*	*	*	9
+       228	2772	*	2000	415	*	*	1628	1080	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1628	0	0	
+
+S 11   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	297	2424	*	*	*	11
+       0	*	*	*	*	*	*	1628	0	0	
+
+E 12   *	*	3663	119	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1628	0	0	
+
+R 13   *	*	*	*	*	*	*	*	1297	*	*	*	*	*	754	*	*	*	*	*	13
+       73	4346	*	1000	1000	*	*	1628	1000	0	
+
+R 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1628	0	0	
+
+K 15   *	*	*	*	*	*	*	*	523	*	*	*	*	*	1718	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1628	0	0	
+
+H 16   *	*	*	*	*	*	846	*	*	*	*	*	*	*	1448	3691	*	*	*	*	16
+       0	*	*	*	*	*	*	1628	0	0	
+
+L 17   *	*	*	*	*	*	*	*	*	116	*	*	*	*	*	*	*	*	3689	*	17
+       213	*	2866	*	*	*	*	1628	0	0	
+
+F 18   *	*	*	*	258	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2609	18
+       0	*	*	*	*	*	0	1489	0	1000	
+
+V 19   *	*	*	*	*	*	*	3507	2609	*	*	*	*	*	*	*	*	419	*	*	19
+       0	*	*	*	*	*	0	1489	0	1000	
+
+Q 20   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	20
+       0	*	*	*	*	0	*	1489	0	1000	
+
+D 21   *	*	213	*	*	*	*	*	*	*	*	2866	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1628	0	0	
+
+P 22   3961	*	*	*	*	*	*	*	*	3691	*	*	220	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1628	0	0	
+
+Q 23   3889	*	*	2143	*	*	*	*	*	1524	*	*	*	1839	*	*	*	3663	*	*	23
+       0	*	*	*	*	*	*	1628	0	0	
+
+T 24   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	24
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1628	0	0	
+
+K 26   *	*	*	2866	*	*	*	*	863	*	*	*	*	2585	2772	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1628	0	0	
+
+S 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	213	2866	*	*	*	28
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1628	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1628	0	0	
+
+N 31   3664	*	*	*	2028	*	1675	*	*	*	2866	2632	*	*	*	*	*	*	*	3961	31
+       0	*	*	*	*	*	*	1628	0	0	
+
+T 32   *	*	*	*	*	*	*	*	*	*	*	*	3664	*	*	3487	266	*	*	*	32
+       0	*	*	*	*	*	*	1628	0	0	
+
+D 33   *	*	823	2585	*	*	*	*	*	*	*	*	*	1900	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1628	0	0	
+
+S 34   2114	*	*	2772	*	*	*	*	*	2254	*	*	*	2866	*	1858	*	*	*	*	34
+       0	*	*	*	*	*	*	1628	0	0	
+
+R 35   *	*	1750	*	*	*	3663	*	*	*	*	*	*	*	846	*	*	*	*	3889	35
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1628	0	0	
+
+K 37   *	*	*	*	*	*	*	*	370	*	*	*	*	*	2143	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1628	0	0	
+
+A 38   1744	*	3663	2786	*	*	*	*	*	3961	*	*	*	*	*	1275	*	*	*	*	38
+       0	*	*	*	*	*	*	1628	0	0	
+
+R 39   *	*	*	*	*	*	*	*	1854	*	*	*	*	*	467	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1628	0	0	
+
+Q 40   *	*	*	*	*	2866	*	*	*	*	*	*	*	213	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1628	0	0	
+
+L 41   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1628	0	0	
+
+E 42   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1628	0	0	
+
+L 43   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1628	0	0	
+
+N 44   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1628	0	0	
+
+E 45   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1628	0	0	
+
+R 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	46
+       0	*	*	*	*	*	*	1628	0	0	
+
+T 47   *	*	*	*	*	*	*	*	*	*	*	2866	*	*	*	*	213	*	*	*	47
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 48   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1628	0	0	
+
+R 49   *	*	*	*	*	*	*	*	2772	*	*	*	*	*	228	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1628	0	0	
+
+C 50   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1638	0	0	
+
+D 51   *	*	642	1478	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	1638	0	0	
+
+K 52   *	*	*	*	*	*	*	*	371	*	*	*	*	*	3610	*	2787	*	*	*	52
+       0	*	*	*	*	*	*	1638	0	0	
+
+P 53   *	*	*	*	*	*	*	*	*	*	*	*	226	*	*	*	*	2787	*	*	53
+       0	*	*	*	*	*	*	1638	0	0	
+
+R 54   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1638	0	0	
+
+R 55   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	55
+       0	*	*	0	*	*	*	1638	0	0	
+
+//

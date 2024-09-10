@@ -1,0 +1,145 @@
+HHsearch 1.5
+NAME  d1s3ga2 g.41.2.1 (A:126-160) Microbial and mitochondrial ADK, insert "zinc finger" domain {Bacillus globisporus [TaxId: 1459]}
+FAM   g.41.2.1
+FILE  d1s3ga2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1s3ga2.a3m -v 1 
+DATE  Tue Jan 22 02:07:04 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  123 out of 789 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.6 
+SEQ
+>ss_pred
+CCCCCCCCCCEECCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+96214888965401328888788325788832019
+>Consensus
+GRrxCxxCGxxYhxxxxpPkxxgxCDxcgxxLxqR
+>d1s3ga2 g.41.2.1 (A:126-160) Microbial and mitochondrial ADK, insert "zinc finger" domain {Bacillus globisporus [TaxId: 1459]}
+GRRICKVCGTSYHLLFNPPQVEGKCDKDGGELYQR
+>gi|340776576|ref|ZP_08696519.1|(126-160:222) adenylate kinase [Acetobacter aceti NBRC 14818]   E=0.0001 s/c=1.40 id=39% cov=103%
+GRFSCAKCGASYNDVSKPTQVAETCDLCGSHEFTR
+>gi|198425961|ref|XP_002127062.1|(140-174:238) PREDICTED: similar to adenylate kinase 3-like 1 isoform 2 [Ciona intestinalis]  E=6e-11 s/c=2.00 id=39% cov=103%
+GRWTHLSSGRVYNDGFNPPKIPGVDDLTGEPLVQR
+>gi|251772511|gb|EES53077.1|(127-161:218) Adenylate kinase [Leptospirillum ferrodiazotrophum]   E=2e-10 s/c=1.94 id=39% cov=103%
+GRRMCPKCQRTYHIRFAKPKNDNLCDVCNVPLIQR
+>gi|302866346|ref|YP_003834983.1|(124-158:208) adenylate kinase [Micromonospora aurantiaca ATCC 27029] >gi|302569205|gb|ADL45407.1| adenylate kinase [Micromonospora aurantiaca ATCC 27029]  E=8e-08 s/c=1.71 id=39% cov=103%
+GRRTCRDCGRTCQTEFTTPLRPEVCERCGGEMFQR
+>gi|203287863|ref|YP_002222878.1|(121-155:215) adenylate kinase [Borrelia recurrentis A1] >gi|226741852|sp|B5RRM3.1|KAD_BORRA RecName: Full=Adenylate kinase; Short=AK; AltName: Full=ATP-AMP transphosphorylase >gi|201085083|gb|ACH94657.1| adenylate kinase [Borrelia recurrentis A1]  E=1e-07 s/c=1.69 id=39% cov=103%
+GRRICQSCCKIFNIYTLPTKEKEICDFCQGILYQR
+>gi|189183972|ref|YP_001937757.1|(124-157:214) adenylate kinase [Orientia tsutsugamushi str. Ikeda] >gi|254807000|sp|B3CT26.1|KAD_ORITI RecName: Full=Adenylate kinase; Short=AK; AltName: Full=ATP-AMP transphosphorylase >gi|189180743|dbj|BAG40523.1| adenylate kinase [Orientia tsutsugamushi str. Ikeda]  E=3e-05 s/c=1.51 id=37% cov=100%
+GRISCTDCGTIYNKLYCMPKINGVCDICNSSSFQ-
+>gi|44229|emb|CAA29724.1|(125-158:213) unnamed protein product [Mycoplasma capricolum subsp. capricolum ATCC 27343]  E=5e-05 s/c=1.48 id=37% cov=100%
+-RLVCPLCKASFNLETRKPKQEGLCDFDNTKLVKR
+>gi|293364058|ref|ZP_06610794.1|(128-162:214) putative adenylate kinase [Mycoplasma alligatoris A21JP2] >gi|292552548|gb|EFF41322.1| putative adenylate kinase [Mycoplasma alligatoris A21JP2]  E=8e-05 s/c=1.41 id=36% cov=103%
+GRRFCGQCNASYHVVNMPSKLGENCQKCNIPLLIR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	4282	0	0	
+
+R 2    *	*	*	*	*	*	5226	*	*	*	*	*	*	*	39	*	*	*	*	*	2
+       0	*	*	*	*	*	*	4584	0	0	
+
+R 3    6523	6741	*	*	4977	*	*	5008	*	3004	5950	*	*	7272	814	4905	6179	5685	3372	4733	3
+       0	*	*	*	*	*	*	4584	0	0	
+
+I 4    7222	*	*	5316	4271	*	*	2162	*	3651	5006	*	*	5592	*	3659	2175	2021	*	6121	4
+       0	*	*	*	*	*	*	4584	0	0	
+
+C 5    6136	214	*	*	*	6492	3368	*	*	*	*	*	*	*	*	6002	*	*	*	*	5
+       27	6790	6721	1000	1000	*	*	4584	1000	0	
+
+K 6    4543	*	6299	3413	*	3813	*	5717	4008	5493	*	*	1644	5623	3097	2633	5133	5100	*	*	6
+       0	*	*	*	*	0	*	4577	0	1000	
+
+V 7    3635	*	3658	5587	*	3782	7048	*	2053	6315	*	2971	6073	3804	5693	2516	5472	4185	*	*	7
+       10	7205	*	0	*	*	*	4584	1000	0	
+
+C 8    *	385	5577	6286	*	*	6944	*	*	*	*	6521	*	6656	*	3062	4278	*	*	*	8
+       14	6647	*	3322	152	*	*	4584	1000	0	
+
+G 9    5390	6738	6286	*	*	447	6038	*	3593	*	*	4385	*	4220	*	5594	*	*	*	*	9
+       0	*	*	*	*	*	*	4584	0	0	
+
+T 10   2161	*	7138	3212	7070	5280	4294	6038	2987	6531	6991	5637	*	5777	2355	4349	2963	7371	*	*	10
+       16	6521	*	0	*	*	*	4584	1000	0	
+
+S 11   6719	*	6531	*	*	3864	7032	2122	*	4960	6747	3891	3932	6988	*	2967	2612	2322	*	*	11
+       11	7032	*	0	*	*	*	4584	1000	0	
+
+Y 12   *	5309	*	*	2614	*	6015	*	*	*	*	*	*	*	*	*	*	*	6184	354	12
+       8	*	7453	*	*	*	*	4584	0	0	
+
+H 13   *	*	*	*	*	*	1028	*	*	*	*	1092	*	5308	6026	*	*	*	*	*	13
+       0	*	*	*	*	0	*	4585	0	1000	
+
+L 14   *	*	3753	5615	*	*	*	2085	4261	2320	6960	6179	*	*	5132	5833	3319	2005	*	*	14
+       24	5914	*	2921	204	*	*	4584	1379	0	
+
+L 15   4763	*	4101	2762	4884	7005	4998	3475	3207	3914	6721	5695	6024	4246	7095	6079	3807	3471	*	2841	15
+       33	7072	6027	0	*	*	*	4584	1000	0	
+
+F 16   *	*	6094	*	1515	7103	4321	*	*	4532	6709	4117	6639	6891	*	2883	2549	*	7048	2887	16
+       33	5479	*	3040	187	0	*	4576	1465	1000	
+
+N 17   3592	6093	3556	5008	4933	*	5138	*	2170	4444	3134	2803	*	5268	4085	3855	5309	5597	*	*	17
+       0	*	*	*	*	*	*	4584	0	0	
+
+P 18   4404	*	6132	*	*	*	*	5451	3389	5308	6093	*	548	5955	4982	5422	5309	*	*	*	18
+       33	5460	*	1027	974	*	*	4584	1713	0	
+
+P 19   5917	*	6027	6179	*	6015	*	6230	6038	*	*	*	431	*	*	3261	4327	*	*	6132	19
+       0	*	*	*	*	*	*	4584	0	0	
+
+Q 20   4928	*	6707	6011	*	*	*	5935	984	3127	6290	6571	5180	4307	3328	4365	5027	5303	*	*	20
+       0	*	*	*	*	*	*	4584	0	0	
+
+V 21   4622	*	4597	3361	6960	*	5312	3305	2672	4796	*	4552	5518	3519	3779	5197	5157	2226	*	*	21
+       0	*	*	*	*	*	*	4584	0	0	
+
+E 22   3318	*	2682	1735	6030	3697	6955	5111	4742	6786	*	5573	2336	7171	*	5799	6302	*	*	6501	22
+       0	*	*	*	*	*	*	4584	0	0	
+
+G 23   7205	*	3890	2966	*	819	*	*	5841	5164	5887	3426	*	6472	6827	6038	5282	*	6081	*	23
+       0	*	*	*	*	*	*	4584	0	0	
+
+K 24   6747	7215	*	*	5387	*	5665	2449	2372	3646	6634	6137	*	5370	4236	5095	3974	1871	*	5944	24
+       0	*	*	*	*	*	*	4584	0	0	
+
+C 25   *	209	2892	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       13	*	6827	*	*	*	*	4584	0	0	
+
+D 26   6287	*	236	3994	*	*	*	*	6787	*	*	6059	*	6135	5383	*	6229	*	*	*	26
+       0	*	*	*	*	0	*	4579	0	1000	
+
+K 27   5357	6717	4303	5751	5148	*	7251	3030	2672	3659	6470	3007	*	6998	3493	3944	6644	2476	*	5913	27
+       0	*	*	*	*	*	*	4585	0	0	
+
+D 28   *	547	2618	5819	*	*	*	5221	*	*	*	*	*	*	*	6132	3410	*	*	*	28
+       0	*	*	*	*	*	*	4585	0	0	
+
+G 29   6655	*	6818	6040	*	487	5725	*	5826	6936	*	3675	*	3887	7299	5116	5221	*	*	*	29
+       0	*	*	*	*	*	*	4582	0	0	
+
+G 30   3615	*	4453	2937	*	1332	6483	6105	*	*	*	6495	*	5778	*	2363	3624	6116	*	*	30
+       17	6378	*	0	*	*	*	4579	1219	0	
+
+E 31   4392	*	3811	1780	6336	5660	6861	5355	2730	*	*	6465	2840	5426	4082	5261	3375	5772	*	*	31
+       47	4961	*	0	*	*	*	4578	1347	0	
+
+L 32   6699	*	*	5357	6364	*	*	5617	*	291	5296	*	*	*	*	6048	4610	4861	*	*	32
+       0	*	*	*	*	*	*	4578	0	0	
+
+Y 33   6511	*	*	4825	2988	*	6465	1586	5845	4599	*	6297	*	5964	*	6276	4720	2362	*	2732	33
+       0	*	*	*	*	*	*	4578	0	0	
+
+Q 34   5792	*	*	7034	*	*	4083	3967	3666	5995	6211	*	*	908	4151	6155	3475	4623	6707	*	34
+       0	*	*	*	*	*	*	4578	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	35
+       0	*	*	0	*	*	*	4534	0	0	
+
+//

@@ -1,0 +1,168 @@
+HHsearch 1.5
+NAME  d1m56d_ f.23.8.1 (D:) Bacterial aa3 type cytochrome c oxidase subunit IV {Rhodobacter sphaeroides [TaxId: 1063]}
+FAM   f.23.8.1
+FILE  d1m56d_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1m56d_.a3m -v 1 
+DATE  Mon Jan 21 23:10:49 2013
+LENG  42 match states, 42 columns in multiple alignment
+FILT  29 out of 31 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.6 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+987865534788999999999999999999999999998519
+>Consensus
+xHKHGeMDixxQEkTFxgFikxxtxxxixxixxliflAixna
+>d1m56d_ f.23.8.1 (D:) Bacterial aa3 type cytochrome c oxidase subunit IV {Rhodobacter sphaeroides [TaxId: 1063]}
+GHVAGSMDITQQEKTFAGFVRMVTWAAVVIVAALIFLALANA
+>gi|119383186|ref|YP_914242.1|(26-66:66) aa3 type cytochrome c oxidase subunit IV [Paracoccus denitrificans PD1222] >gi|119372953|gb|ABL68546.1| aa3 type cytochrome c oxidase subunit IV [Paracoccus denitrificans PD1222]  E=1e-08 s/c=1.53 id=50% cov=100%
+-HKHGEMDIRHQQATFAGFIKGATWVSILSIAVLVFLALANS
+>gi|254485985|ref|ZP_05099190.1|(4-42:44) Bacterial aa3 type cytochrome c oxidase subunit IV superfamily [Roseobacter sp. GAI101] >gi|214042854|gb|EEB83492.1| Bacterial aa3 type cytochrome c oxidase subunit IV superfamily [Roseobacter sp. GAI101]  E=0.0007 s/c=1.21 id=48% cov=95%
+-HEHGSMDTTSQEKTFDNFMNWVKWSCIVIIGILVFMAIF--
+>gi|85703467|ref|ZP_01034571.1|(22-61:62) hypothetical protein ROS217_22037 [Roseovarius sp. 217] >gi|85672395|gb|EAQ27252.1| hypothetical protein ROS217_22037 [Roseovarius sp. 217]  E=1e-08 s/c=1.57 id=51% cov=98%
+-HKHGDMNIDVQEKTFDGFIKWVTYTAVVCIAVLLFIAAVN-
+>gi|407786770|ref|ZP_11133914.1|(4-44:44) hypothetical protein B30_12022 [Celeribacter baekdonensis B30] >gi|407200721|gb|EKE70726.1| hypothetical protein B30_12022 [Celeribacter baekdonensis B30]  E=2e-07 s/c=1.43 id=48% cov=100%
+-YKHGEMDTSVQEKTFAGFIKWSTWVAGAAIFALIFMAVFNS
+>gi|297183979|gb|ADI20099.1|(5-45:45) hypothetical protein [uncultured alpha proteobacterium EB080_L06A09]  E=4e-07 s/c=1.41 id=36% cov=100%
+-HKHGEMDVSAQEHAFDGFIRWSIRITLISIGVLIFMAIFNS
+>gi|84684406|ref|ZP_01012307.1|(4-44:44) hypothetical protein 1099457000260_RB2654_12314 [Maritimibacter alkaliphilus HTCC2654] >gi|84667385|gb|EAQ13854.1| hypothetical protein RB2654_12314 [Maritimibacter alkaliphilus HTCC2654]  E=5e-05 s/c=1.24 id=45% cov=100%
+-HKHGSMDIRVQEKTFEGFMKFTVRSVIAIIVVLILLAIVGA
+>gi|126728302|ref|ZP_01744118.1|(4-42:44) hypothetical protein SSE37_19967 [Sagittula stellata E-37] >gi|126711267|gb|EBA10317.1| hypothetical protein SSE37_19967 [Sagittula stellata E-37]  E=0.0007 s/c=1.21 id=50% cov=95%
+-HKHGSMDVTTQEDTFNGFIRFTIRTLYVILAIVIFLAIF--
+>gi|159045627|ref|YP_001534421.1|(5-44:45) hypothetical protein Dshi_3087 [Dinoroseobacter shibae DFL 12] >gi|157913387|gb|ABV94820.1| hypothetical protein Dshi_3087 [Dinoroseobacter shibae DFL 12]  E=0.0009 s/c=1.17 id=46% cov=98%
+-HKHGSMDISEQEKTFHGFLAITKWTTISIIVFLILLYMIN-
+>gi|260431584|ref|ZP_05785555.1|(4-44:44) conserved domain protein [Silicibacter lacuscaerulensis ITI-1157] >gi|260415412|gb|EEX08671.1| conserved domain protein [Silicibacter lacuscaerulensis ITI-1157]  E=6e-05 s/c=1.23 id=50% cov=100%
+-YKHGEMDITEQTKTFNGFVKFTTWSVAVIFFILLFLAIFAA
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1204	0	0	
+
+H 2    *	*	*	*	*	*	152	*	*	*	*	*	*	*	*	*	*	*	*	3319	2
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 3    *	*	*	3633	*	*	*	*	270	*	*	*	*	*	*	*	*	3469	*	*	3
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 4    4631	*	*	*	*	*	137	*	*	*	*	*	4324	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2600	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2600	0	0	
+
+S 6    *	*	3899	997	*	*	*	*	*	*	*	*	*	*	*	1388	4324	*	*	*	6
+       0	*	*	*	*	*	*	2600	0	0	
+
+M 7    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2600	0	0	
+
+D 8    *	*	184	*	*	*	*	*	*	*	*	3061	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2600	0	0	
+
+I 9    *	*	*	*	*	*	*	661	*	*	*	*	*	*	*	*	2170	2783	*	*	9
+       0	*	*	*	*	*	*	2600	0	0	
+
+T 10   *	*	3941	2837	*	*	*	*	5337	*	*	*	*	*	2749	1761	1616	*	*	*	10
+       0	*	*	*	*	*	*	2600	0	0	
+
+Q 11   3929	*	5453	2519	*	*	3772	*	*	*	*	*	*	4631	*	3822	3148	1184	*	*	11
+       0	*	*	*	*	*	*	2600	0	0	
+
+Q 12   *	*	*	*	*	*	4438	*	*	*	*	*	*	68	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2600	0	0	
+
+E 13   *	*	*	304	*	*	*	*	*	*	*	*	*	3022	*	*	3898	*	*	*	13
+       0	*	*	*	*	*	*	2600	0	0	
+
+K 14   3772	*	4647	*	*	*	3788	*	351	*	*	*	*	5033	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2600	0	0	
+
+T 15   3788	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	108	*	*	*	15
+       0	*	*	*	*	*	*	2600	0	0	
+
+F 16   *	*	*	*	121	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3638	16
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 17   2369	*	1154	2680	*	*	4185	*	*	*	*	2775	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2600	0	0	
+
+G 18   3635	*	*	*	*	312	*	*	*	*	*	4858	*	4896	*	4438	*	*	*	*	18
+       0	*	*	*	*	*	*	2600	0	0	
+
+F 19   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 20   *	*	*	*	*	*	*	1076	*	2567	2140	*	*	*	*	*	*	2941	*	*	20
+       0	*	*	*	*	*	*	2600	0	0	
+
+R 21   4185	*	*	*	*	*	*	*	886	*	*	3633	*	*	1915	4105	*	*	*	*	21
+       0	*	*	*	*	*	*	2600	0	0	
+
+M 22   3991	*	*	*	1669	4753	*	4185	*	*	2546	*	*	*	*	*	*	*	1617	4905	22
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 23   4753	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1993	1505	1477	*	*	23
+       0	*	*	*	*	*	*	2600	0	0	
+
+T 24   *	*	*	*	*	*	*	3154	2883	*	3380	*	*	*	*	4324	785	5286	*	*	24
+       0	*	*	*	*	*	*	2600	0	0	
+
+W 25   *	*	*	*	*	*	*	*	4105	*	*	*	*	*	1536	*	*	*	911	3941	25
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 26   3898	*	*	*	3173	3135	*	3268	*	*	*	*	*	*	*	2577	2189	2201	*	*	26
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 27   1609	3123	*	*	*	3842	*	*	*	4647	*	*	*	*	*	3066	2752	2475	*	*	27
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 28   3782	4787	*	*	*	4137	*	1111	*	4788	*	*	*	*	*	*	*	1761	*	4647	28
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 29   1668	*	*	*	4896	*	*	2312	*	2938	*	*	*	*	*	4185	*	1917	*	*	29
+       0	*	*	*	*	*	*	2600	0	0	
+
+I 30   3259	3017	*	*	*	*	*	989	*	*	*	*	*	*	*	2145	*	4569	*	*	30
+       0	*	*	*	*	*	*	2600	0	0	
+
+V 31   4569	*	*	*	4774	*	*	521	*	3678	*	*	*	*	*	*	*	2771	*	*	31
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 32   1697	4905	*	*	3364	2701	*	3765	*	4709	*	*	*	*	*	*	*	1759	*	*	32
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 33   3828	*	*	*	2626	*	*	1866	*	2718	*	*	*	*	*	4012	*	1840	*	*	33
+       0	*	*	*	*	*	*	2600	0	0	
+
+L 34   4709	5034	*	*	4922	*	*	5084	*	346	*	*	*	*	*	*	4569	4647	*	*	34
+       0	*	*	*	*	*	*	2600	0	0	
+
+I 35   *	*	*	*	*	*	*	783	*	2948	*	*	*	*	*	*	*	1789	*	*	35
+       0	*	*	*	*	*	*	2600	0	0	
+
+F 36   *	*	*	*	331	*	*	*	*	2810	*	*	*	*	*	*	*	*	4001	*	36
+       0	*	*	*	*	*	*	2600	0	0	
+
+L 37   4905	*	*	*	*	*	*	3426	*	671	2026	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 38   82	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4185	38
+       0	*	*	*	*	*	*	2600	0	0	
+
+L 39   3941	*	*	*	*	*	*	1213	*	1474	3593	*	*	*	*	*	*	4045	*	*	39
+       0	*	*	*	*	*	*	2600	0	0	
+
+A 40   2973	*	*	*	954	*	*	2859	*	*	*	*	*	*	*	*	4790	2453	*	*	40
+       0	*	*	*	*	*	*	2600	0	0	
+
+N 41   3128	*	*	*	*	4308	*	*	*	*	*	260	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2423	0	0	
+
+A 42   983	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1017	*	*	*	*	42
+       0	*	*	0	*	*	*	2167	0	0	
+
+//

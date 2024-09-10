@@ -1,0 +1,144 @@
+HHsearch 1.5
+NAME  d1rutx2 g.39.1.3 (X:49-82) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+FAM   g.39.1.3
+FILE  d1rutx2
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1rutx2.a3m -v 1 
+DATE  Tue Jan 22 01:45:21 2013
+LENG  34 match states, 34 columns in multiple alignment
+FILT  43 out of 45 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred
+CCCCCCCCHHHHHHHHHCCCCEEEECCCHHHCCC
+>ss_conf
+9876445043320122112670121011011159
+>Consensus
+KCscCxxxLgevGxsxyxkxgmiLCkxDYxRlFG
+>d1rutx2 g.39.1.3 (X:49-82) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+KCSSCQAQLGDIGTSSYTKSGMILCRNDYIRLFG
+>gi|410903283|ref|XP_003965123.1|(49-82:233) PREDICTED: LIM domain transcription factor LMO4-B-like [Takifugu rubripes]  E=0.0001 s/c=1.47 id=57% cov=103%
+RCSCCHAELGEFSRSCYSRGGMILCKDDYIRLFG
+>gi|391334316|ref|XP_003741551.1|(63-96:189) PREDICTED: LIM domain transcription factor LMO4-A-like [Metaseiulus occidentalis]  E=0.0002 s/c=1.44 id=60% cov=103%
+KCSLCATPLADIGTSCFFKNDMILCRTDYVRMFG
+>gi|390345093|ref|XP_787486.3|(85-118:208) PREDICTED: LIM domain transcription factor LMO4-B-like [Strongylocentrotus purpuratus]  E=1e-06 s/c=1.65 id=63% cov=103%
+KCSCCNVQLGDIGHSCFSKGGMILCKKDYLRIFG
+>gi|47220587|emb|CAG05613.1|(42-75:317) unnamed protein product [Tetraodon nigroviridis]   E=6e-09 s/c=1.86 id=51% cov=103%
+KCACCDCRLGRVGSTLYTRANLILCRRDYLRLFG
+>gi|156549266|ref|XP_001599629.1|(158-191:281) PREDICTED: lipoma-preferred partner homolog [Nasonia vitripennis]   E=4e-08 s/c=1.78 id=54% cov=103%
+KCTTCGTALAEIGQSCYSKGNMILCKNDYTRMFG
+>gi|345783372|ref|XP_851277.2|(655-687:756) PREDICTED: uncharacterized protein LOC609006 [Canis lupus familiaris]  E=6e-07 s/c=1.72 id=50% cov=100%
+-CDLCGCRLGEVGRRLYYKLGRKLCRRDYLRLFG
+>gi|125986810|ref|XP_001357168.1|(104-137:241) GA19074 [Drosophila pseudoobscura pseudoobscura] >gi|195146774|ref|XP_002014359.1| GL19153 [Drosophila persimilis] >gi|54645497|gb|EAL34236.1| GA19074 [Drosophila pseudoobscura pseudoobscura] >gi|194106312|gb|EDW28355.1| GL19153 [Drosophila persimilis]  E=2e-06 s/c=1.61 id=46% cov=103%
+KCHCCGAMLAEVGSSCFTRRGLILCKKDYSSMFG
+>gi|358335730|dbj|GAA54362.1|(32-64:303) LIM domain transcription factor LMO4-B [Clonorchis sinensis]   E=4e-07 s/c=1.74 id=50% cov=100%
+-CSCCGLRLDELGPSVFVRSDMLLCRQDYLRLFG
+>gi|196000094|ref|XP_002109915.1|(28-61:119) expressed hypothetical protein [Trichoplax adhaerens] >gi|190588039|gb|EDV28081.1| expressed hypothetical protein, partial [Trichoplax adhaerens]  E=0.0002 s/c=1.42 id=57% cov=103%
+KCSCCGIRLDDVATKCYYKSGLILCQRDYIRRFG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	100	*	*	*	*	*	3901	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2187	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2274	0	0	
+
+S 3    4076	*	3919	*	*	2794	5044	*	*	*	*	5842	*	*	*	948	2606	*	*	*	3
+       0	*	*	*	*	*	*	2274	0	0	
+
+S 4    *	367	*	*	*	*	*	*	*	3384	*	*	*	*	*	4301	5270	*	*	4259	4
+       0	*	*	*	*	*	*	2274	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2274	0	0	
+
+Q 6    4363	*	2086	4244	*	1553	2825	*	*	*	*	4269	*	2953	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2274	0	0	
+
+A 7    1334	1445	*	*	*	*	*	4453	*	4536	*	*	*	4656	*	*	4169	4269	*	*	7
+       0	*	*	*	*	*	*	2274	0	0	
+
+Q 8    3529	*	*	4763	*	*	*	*	4968	*	3562	*	5075	2554	984	*	5430	5004	*	*	8
+       0	*	*	*	*	*	*	2274	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2274	0	0	
+
+G 10   1950	*	3494	*	*	688	*	*	*	*	*	*	*	*	*	*	*	4968	*	*	10
+       0	*	*	*	*	*	*	2274	0	0	
+
+D 11   *	*	1557	654	*	*	*	*	*	*	*	*	*	*	5336	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2274	0	0	
+
+I 12   *	*	*	*	4763	*	*	1488	*	3081	4656	*	*	*	*	*	*	1232	*	5443	12
+       0	*	*	*	*	*	*	2274	0	0	
+
+G 13   4453	*	*	*	*	161	*	*	*	*	*	*	*	*	*	4063	*	*	*	*	13
+       0	*	*	*	*	*	*	2274	0	0	
+
+T 14   4646	*	*	*	*	*	4133	*	*	*	*	*	3577	4131	2810	1253	2462	5760	*	*	14
+       0	*	*	*	*	*	*	2274	0	0	
+
+S 15   *	*	*	*	*	*	4940	*	3331	*	*	*	*	*	4900	861	1816	*	*	*	15
+       0	*	*	*	*	*	*	2274	0	0	
+
+S 16   *	971	*	*	4656	*	*	*	*	1380	*	*	*	*	*	5458	*	4536	*	*	16
+       0	*	*	*	*	*	*	2274	0	0	
+
+Y 17   *	*	*	*	1936	*	*	*	*	*	*	*	*	*	*	*	*	*	*	437	17
+       0	*	*	*	*	*	*	2274	0	0	
+
+T 18   5430	*	*	*	3361	*	*	5684	4865	*	*	*	*	*	*	1950	1355	4536	*	2912	18
+       0	*	*	*	*	*	*	2274	0	0	
+
+K 19   *	*	*	*	*	*	*	*	471	*	*	*	*	*	2034	*	4865	*	*	*	19
+       0	*	*	*	*	*	*	2274	0	0	
+
+S 20   2006	*	*	*	*	1710	*	*	*	4900	*	4117	*	4863	4428	2054	*	*	*	4940	20
+       0	*	*	*	*	*	*	2274	0	0	
+
+G 21   *	*	3440	*	*	778	*	*	*	*	*	1785	*	*	*	4863	*	*	*	*	21
+       0	*	*	*	*	*	*	2274	0	0	
+
+M 22   *	*	*	*	4968	*	*	*	*	1511	860	*	*	*	3919	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2274	0	0	
+
+I 23   *	*	*	*	*	*	*	317	3919	4536	3501	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2274	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2274	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2274	0	0	
+
+R 26   4863	*	*	*	*	*	*	*	708	*	*	*	*	4453	1700	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2274	0	0	
+
+N 27   3909	*	4763	*	*	*	*	*	3100	4865	*	3025	*	4011	1530	3111	3340	*	*	*	27
+       0	*	*	*	*	*	*	2274	0	0	
+
+D 28   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2274	0	0	
+
+Y 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	29
+       0	*	*	*	*	*	*	2274	0	0	
+
+I 30   5761	*	*	*	5855	*	*	2167	*	1221	*	*	*	*	4259	4403	3564	3406	*	4865	30
+       0	*	*	*	*	*	*	2274	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	105	3837	*	*	*	*	31
+       0	*	*	*	*	*	*	2274	0	0	
+
+L 32   *	*	*	*	5004	*	*	3501	*	559	2679	*	*	*	4453	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2274	0	0	
+
+F 33   *	*	*	*	79	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4224	33
+       0	*	*	*	*	*	*	2219	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	0	*	*	*	2219	0	0	
+
+//

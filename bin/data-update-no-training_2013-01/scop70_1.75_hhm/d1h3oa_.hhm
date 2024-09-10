@@ -1,0 +1,192 @@
+HHsearch 1.5
+NAME  d1h3oa_ a.22.1.3 (A:) TAF(II)-135, (TAF(II)-130, hTAF4), histone fold domain {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.22.1.3
+FILE  d1h3oa_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1h3oa_.a3m -v 1 
+DATE  Mon Jan 21 21:10:15 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  49 out of 51 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred
+CCCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCC
+>ss_conf
+97773789999999876518887554799999899999999999976049
+>Consensus
+xFLxxxxLqxrIxxIxxkxGlxexxxdVxxliSHAxQeRLkxlvEKlsvx
+>d1h3oa_ a.22.1.3 (A:) TAF(II)-135, (TAF(II)-130, hTAF4), histone fold domain {Human (Homo sapiens) [TaxId: 9606]}
+MFLLQAPLQRRILEIGKKHGITELHPDVVSYVSHATQQRLQNLVEKISET
+>gi|363738286|ref|XP_414141.3|(487-534:701) PREDICTED: transcription initiation factor TFIID subunit 4-like [Gallus gallus]  E=9e-10 s/c=1.38 id=49% cov=98%
+-FLAAIPLHKRILEMAKKLGITDVPAEVVTFISHATQSRLRTMIEKVTV-
+>gi|410920778|ref|XP_003973860.1|(491-539:663) PREDICTED: transcription initiation factor TFIID subunit 4-like [Takifugu rubripes]  E=3e-06 s/c=1.11 id=42% cov=100%
+LFLSPNLLLSQILHAGRPLGVTDVSPDVVALISHATQERLHGLVLRLTV-
+>gi|390335595|ref|XP_782176.2|(767-814:988) PREDICTED: uncharacterized protein LOC576814 [Strongylocentrotus purpuratus]  E=7e-05 s/c=1.04 id=43% cov=98%
+-FLHKTPLQHCMSKICTKHGISDAAPAVLDVVSLAVQERLKKVVEQLSV-
+>gi|157111869|ref|XP_001664327.1|(299-347:509) transcription initiation factor [Aedes aegypti] >gi|108878263|gb|EAT42488.1| AAEL005975-PB [Aedes aegypti]  E=7e-12 s/c=1.49 id=40% cov=100%
+IFLHMSALQAKIRGIVARHGLEEPSSEVAVLISHACQERLKNIVEKLAV-
+>gi|327269865|ref|XP_003219713.1|(637-685:846) PREDICTED: transcription initiation factor TFIID subunit 4B-like [Anolis carolinensis]  E=7e-11 s/c=1.43 id=52% cov=100%
+LLLSSDVLQKKIIEIGKKHGITEVNSDVLNLISHATQKRLRGLLEKLTV-
+>gi|391333752|ref|XP_003741274.1|(281-329:482) PREDICTED: transcription initiation factor TFIID subunit 4-like [Metaseiulus occidentalis]  E=2e-09 s/c=1.32 id=38% cov=96%
+VFLNSSALEKRIHVIAKKHGLDSVDSDVIKLMSHAVQEKLKGYIERL---
+>gi|221112911|ref|XP_002161903.1|(628-675:727) PREDICTED: similar to TAF4A RNA polymerase II, TATA box binding protein (TBP)-associated factor, partial [Hydra magnipapillata]  E=0.0002 s/c=1.01 id=41% cov=92%
+--LLPEELRASVERIAKKHGLTEISPDYYTILSHAVENRLRCLMERL---
+>gi|328702392|ref|XP_001952666.2|(720-768:930) PREDICTED: hypothetical protein LOC100159915 [Acyrthosiphon pisum]   E=3e-07 s/c=1.18 id=36% cov=100%
+ILLPQNPLVAKIKQIVNREGLEDAAADVPALVSHAVAERLKDLLEKFAV-
+>gi|334822039|gb|AEG90863.1|(17-64:134) transcription initiation factor TFIID subunit 4 [Apostichopus japonicus]  E=4e-05 s/c=1.05 id=31% cov=98%
+-FLSSSSLQSRIQRKCVEFKLKDSSREAVDLISSAVEERLKTMVEKLSV-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	2214	*	2158	2675	*	*	*	*	*	*	1308	*	*	1
+       0	*	*	*	*	*	*	2592	0	0	
+
+F 2    *	*	*	*	108	*	*	*	*	3795	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3019	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	69	*	*	*	*	*	*	*	4417	*	*	3
+       0	*	*	*	*	*	*	3153	0	0	
+
+L 4    5240	*	*	*	2891	*	2487	*	*	3040	*	3061	3111	*	*	1804	*	*	*	5881	4
+       0	*	*	*	*	*	*	3152	0	0	
+
+Q 5    3536	5925	*	*	*	*	5881	5127	4367	3826	2649	*	2334	4228	*	2234	3196	*	*	*	5
+       0	*	*	*	*	*	*	3152	0	0	
+
+A 6    2947	*	5310	3681	*	3129	5176	4561	*	*	*	3447	3477	*	*	1773	3201	*	*	*	6
+       0	*	*	*	*	*	*	3152	0	0	
+
+P 7    2183	*	*	4400	*	*	*	*	*	2225	4966	*	1566	*	*	4117	*	3458	*	*	7
+       0	*	*	*	*	*	*	3152	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	68	4433	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3152	0	0	
+
+Q 9    *	*	*	4337	*	5604	4171	*	*	3428	*	*	*	634	4400	5495	5200	4631	*	*	9
+       0	*	*	*	*	*	*	3152	0	0	
+
+R 10   2086	*	*	*	*	*	3564	*	2393	*	*	4930	*	3694	2198	2903	5171	*	*	*	10
+       0	*	*	*	*	*	*	3152	0	0	
+
+R 11   *	4367	*	*	*	*	*	5200	2519	*	*	*	*	5178	567	4400	*	*	*	*	11
+       0	*	*	*	*	*	*	3152	0	0	
+
+I 12   4548	*	*	*	*	*	*	500	*	4331	3346	*	*	*	*	*	*	3289	*	*	12
+       0	*	*	*	*	*	*	3152	0	0	
+
+L 13   *	*	*	4400	*	*	4337	5310	3556	1284	5860	6005	*	4131	2448	3869	4619	*	*	*	13
+       0	*	*	*	*	*	*	3152	0	0	
+
+E 14   3146	*	3974	1758	*	6128	3590	*	3965	*	*	4319	*	2907	3489	5398	5598	4337	*	*	14
+       0	*	*	*	*	*	*	3152	0	0	
+
+I 15   4177	*	*	*	*	*	*	397	4583	5807	5240	*	*	*	*	*	5105	3836	*	*	15
+       0	*	*	*	*	*	*	3152	0	0	
+
+G 16   2151	3183	*	*	*	1331	*	5682	*	*	*	*	*	*	*	3901	3952	3106	*	*	16
+       0	*	*	*	*	*	*	3152	0	0	
+
+K 17   4247	*	*	*	*	5200	*	*	1194	4429	5909	4861	*	4097	3647	3276	3636	3973	*	*	17
+       0	*	*	*	*	*	*	3229	0	0	
+
+K 18   *	*	*	3205	*	*	*	*	1022	*	*	5075	4236	*	2027	3814	*	*	*	*	18
+       0	*	*	*	*	*	*	3229	0	0	
+
+H 19   4936	*	*	4861	2336	*	1093	*	*	3670	*	6131	*	4470	5638	*	*	6029	*	3428	19
+       0	*	*	*	*	*	*	3229	0	0	
+
+G 20   *	*	3822	*	*	242	*	*	4630	*	*	5929	*	*	*	5224	*	*	*	*	20
+       0	*	*	*	*	*	*	3229	0	0	
+
+I 21   *	*	*	*	*	*	*	1818	*	1089	*	*	*	*	*	*	*	2022	*	*	21
+       0	*	*	*	*	*	*	3229	0	0	
+
+T 22   *	*	2772	2041	*	4244	*	*	4143	*	4584	*	*	*	*	3033	1568	*	*	*	22
+       0	*	*	*	*	*	*	3229	0	0	
+
+E 23   *	*	1747	656	*	*	*	*	*	*	*	5698	*	*	*	4383	*	*	*	*	23
+       0	*	*	*	*	*	*	3229	0	0	
+
+L 24   3428	*	*	*	*	*	*	2842	*	2042	*	*	1884	*	*	4630	*	2229	*	*	24
+       0	*	*	*	*	*	*	3229	0	0	
+
+H 25   3210	5200	4383	*	*	3004	3310	*	*	*	*	2896	3201	*	*	1522	*	*	*	*	25
+       0	*	*	*	*	*	*	3229	0	0	
+
+P 26   2289	*	*	*	*	*	*	*	*	*	4597	5726	1820	2658	4630	2143	5224	*	*	*	26
+       0	*	*	*	*	*	*	3229	0	0	
+
+D 27   4387	*	792	1416	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3229	0	0	
+
+V 28   3412	*	*	*	*	*	*	*	*	*	5686	*	*	*	*	*	5242	297	*	4427	28
+       0	*	*	*	*	*	*	3229	0	0	
+
+V 29   2270	5698	*	*	*	4429	*	3374	*	3401	5947	*	4861	*	*	5686	*	1254	*	4427	29
+       0	*	*	*	*	*	*	3229	0	0	
+
+S 30   2203	*	3503	5200	*	5698	*	*	3755	*	*	2445	*	*	5700	2656	3159	3313	*	*	30
+       0	*	*	*	*	*	*	3229	0	0	
+
+Y 31   *	5909	*	*	4178	*	*	3629	*	717	*	*	*	*	*	*	*	4387	*	2386	31
+       0	*	*	*	*	*	*	3229	0	0	
+
+V 32   *	*	*	*	*	*	*	852	*	3180	4383	*	*	*	*	*	*	1797	*	*	32
+       0	*	*	*	*	*	*	3229	0	0	
+
+S 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	33
+       0	*	*	*	*	*	*	3229	0	0	
+
+H 34   *	*	*	*	*	*	206	*	*	3737	*	*	*	*	5846	4630	*	*	*	*	34
+       0	*	*	*	*	*	*	3229	0	0	
+
+A 35   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3229	0	0	
+
+T 36   3253	2886	*	*	*	*	*	*	*	4429	*	*	*	*	*	*	1097	2023	*	*	36
+       0	*	*	*	*	*	*	3229	0	0	
+
+Q 37   4861	*	*	3357	*	*	*	*	5825	*	*	*	*	234	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	3229	0	0	
+
+Q 38   *	*	*	595	*	*	*	*	5667	*	*	3873	*	2439	*	3933	*	*	*	*	38
+       0	*	*	*	*	*	*	3229	0	0	
+
+R 39   *	*	*	*	*	*	*	*	4383	*	*	*	*	*	71	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3229	0	0	
+
+L 40   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	3229	0	0	
+
+Q 41   *	*	*	*	*	*	4236	*	1105	5521	*	*	*	2584	1769	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3229	0	0	
+
+N 42   *	4427	3012	*	*	2385	*	*	4387	*	*	1629	*	*	*	3180	2673	*	*	*	42
+       0	*	*	*	*	*	*	3229	0	0	
+
+L 43   *	*	*	*	*	*	*	3415	*	646	3459	*	*	*	*	*	*	2961	*	4383	43
+       0	*	*	*	*	*	*	3229	0	0	
+
+V 44   *	*	*	*	*	*	*	2596	*	1296	4427	*	*	*	*	*	*	1392	*	*	44
+       0	*	*	*	*	*	*	3229	0	0	
+
+E 45   *	*	*	115	*	*	*	*	*	4236	*	*	*	5423	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3229	0	0	
+
+K 46   *	*	*	*	*	*	*	*	268	*	*	*	*	4387	3039	*	*	*	*	*	46
+       0	*	*	*	*	*	*	3229	0	0	
+
+I 47   *	*	*	*	4861	*	*	4250	*	563	*	*	*	*	*	*	*	2083	*	*	47
+       0	*	*	*	*	*	*	3229	0	0	
+
+S 48   1523	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1248	2113	*	*	*	48
+       0	*	*	*	*	*	*	3071	0	0	
+
+E 49   *	*	*	2968	*	*	*	*	*	*	*	*	*	3427	*	*	*	360	*	*	49
+       0	*	*	*	*	*	*	2916	0	0	
+
+T 50   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	50
+       0	*	*	0	*	*	*	1445	0	0	
+
+//

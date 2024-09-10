@@ -1,0 +1,226 @@
+Query         PF08634 Mitochondrial protein Pet127 PDEXK_domain only
+Match_columns 195
+No_of_seqs    102 out of 121
+Neff          3.6 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:33 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/PF08634.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//PF08634.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 PF08634 Mitochondrial protein  100.0       0       0  725.0  18.5  195    1-195     1-195 (195)
+  2 3fqi_A Protein DOM3Z, DOM-3 ho  94.4  0.0093 6.7E-07   35.0   2.2  105   20-155    28-143 (145)
+  3 3fqg_A Protein DIN1; hydrolase  90.2    0.21 1.5E-05   27.0   4.7  144   22-170     7-161 (166)
+  4 4gps_A Dxo1, with both decappi  75.1    0.93 6.8E-05   23.2   2.7  105   20-170    13-122 (124)
+  5 d1taza_ a.211.1.2 (A:) Catalyt  16.4      22  0.0016   15.2   0.9   57   72-128   117-180 (357)
+  6 d1tbfa_ a.211.1.2 (A:) cGMP-sp  11.0      38  0.0028   13.7   0.9   56   72-127   119-181 (326)
+  7 d1so2a_ a.211.1.2 (A:) cGMP-in  10.4      37  0.0027   13.8   0.7   27   72-98    162-189 (415)
+  8 d1eaka1 a.20.1.2 (A:32-107) Ge   9.1      48  0.0035   13.1   0.9   17   76-92     51-67  (76)
+  9 d1b4ua_ a.88.1.1 (A:) LigA sub   8.9      49  0.0035   13.1   0.8   28   67-96      4-31  (132)
+ 10 3l0a_A Putative exonuclease, P   7.4      39  0.0028   13.7  -0.2   36   53-91     73-108 (163)
+
+No 1  
+>PF08634 Mitochondrial protein Pet127 PDEXK_domain only
+Probab=100.00  E-value=0  Score=724.99  Aligned_columns=195  Identities=100%
+
+Q ss_pred             CCCCCEEEEECCCCCCHHHHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCHHHHHCCCCHHHHHHHHHCCCCCCCC
+Q ss_conf             96687457408876676789999899998718998899986047876666653001021105224554442307788769
+Q PF08634           1 RYKDGIYSIDSDKSADREILSNLGHSLEKLLTTDKEDFERYRSKSLSDEQKFPEAYHYSKIGDFLMRSQLDAYDPRLPGT   80 (195)
+Q Consensus         1 rykdgvyaID~Dk~~d~~ILs~lG~~lEk~LT~~~~eF~~~~~~~~~~~~~~~e~Y~Ysk~g~flmRSQLDc~d~rLPg~   80 (195)
+                      ||||||||||+||++|+||||+|||+||||||+||+||++|++++++++++.||+|||||+|+|||||||||||||||||
+T Consensus         1 rykdgvyaID~Dk~~d~~ILs~lG~~lEk~LT~~~~eF~~~~~~~~~~~~~~~e~Y~Ysk~g~flmRSQLDc~d~rLPg~   80 (195)
+T PF08634           1 RYKDGIYSIDSDKSADREILSNLGHSLEKLLTTDKEDFERYRSKSLSDEQKFPEAYHYSKIGDFLMRSQLDAYDPRLPGT   80 (195)
+T ss_pred             CCCCCEEEEECCCCCCHHHHHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCHHHHHCCCCHHHHHHHHHCCCCCCCC
+T ss_conf             96687457408876676789999899998718998899986047876666653001021105224554442307788769
+
+
+Q ss_pred             CCEECHHHHHHHHHCCHHHHHCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCEEEEECCHHHHCCCCC
+Q ss_conf             40101221122334051123203682665304873025789999999999989887430687705763103221305023
+Q PF08634          81 GVFDLKTRAVSAIRHDLANVENNTGYEIRKRFGNFESFEREYFDLIRSAFLKYSLQARIGHMDGIFVAYHNTSRIFGFQY  160 (195)
+Q Consensus        81 g~FDLKTRAv~~IR~D~~n~e~~~gY~I~~~~G~~eSfEREyyDliRsafLKYs~QaRIG~MDGIFVAYHNt~riFGFQY  160 (195)
+                      ||||||||||++||||+.|+++++||+|++++|.||||||||||||||||||||||||||+|||||||||||+|||||||
+T Consensus        81 g~FDLKTRAv~~IR~D~~n~e~~~gY~I~~~~G~~eSfEREyyDliRsafLKYs~QaRIG~MDGIFVAYHNt~riFGFQY  160 (195)
+T PF08634          81 GVFDLKTRAVSAIRHDLANVENNTGYEIRKRFGNFESFEREYFDLIRSAFLKYSLQARIGHMDGIFVAYHNTSRIFGFQY  160 (195)
+T ss_pred             CCEECHHHHHHHHHCCHHHHHCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCEEEEECCHHHHCCCCC
+T ss_conf             40101221122334051123203682665304873025789999999999989887430687705763103221305023
+
+
+Q ss_pred             CCHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHCC
+Q ss_conf             68899888762887532348999999999999619
+Q PF08634         161 IPLEEMDQAIHGSSDTSLADAEFKLSLQLLEKLLD  195 (195)
+Q Consensus       161 ipL~emD~~l~g~~~~~~~d~~F~~s~~ll~~iLd  195 (195)
+                      |||+|||++|||++++++||++|++|++||++|||
+T Consensus       161 ipL~emD~~l~g~~~~~~~d~~F~~s~~ll~~iLd  195 (195)
+T PF08634         161 IPLEEMDQAIHGSSDTSLADAEFKLSLQLLEKLLD  195 (195)
+T ss_pred             CCHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHCC
+T ss_conf             68899888762887532348999999999999619
+
+
+No 2  
+>3fqi_A Protein DOM3Z, DOM-3 homolog Z; hydrolase, protein binding; HE
+Probab=94.37   E-value=0.0093  Score=34.99  Aligned_columns=105  Identities=27%
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHCCCCCC--CCCCCCHHH---HHCCC--CHHHHHHHHHCCCCCCCCC---C-EECHHH
+Q ss_conf             99998999987189988999860478766--666530010---21105--2245544423077887694---0-101221
+Q PF08634          20 LSNLGHSLEKLLTTDKEDFERYRSKSLSD--EQKFPEAYH---YSKIG--DFLMRSQLDAYDPRLPGTG---V-FDLKTR   88 (195)
+Q Consensus        20 Ls~lG~~lEk~LT~~~~eF~~~~~~~~~~--~~~~~e~Y~---Ysk~g--~flmRSQLDc~d~rLPg~g---~-FDLKTR   88 (195)
+                      .+-.|...|.++|.++..      ..+..  +....+.|.   =+++|  ++|+.+.+||.++.-|+++   . -+|||+
+T Consensus        28 ~~y~G~kFE~~~t~~~p~------~~~~~~~~vn~~~q~~sV~~~~lg~~~ll~~aEvD~v~~~~~~~~~~~~yvELKt~  101 (145)
+T 3fqi_A           28 LMYMGYKFEQYMCADKPG------GSPDPSGEVNTNVAYCSVLRSRLGNHPLLFSGEVDCLNPQAPCTQPPSCYVELKTS  101 (145)
+T ss_pred             HHHCCHHHHHHHHCCCCC------CCCCCCCCCCCCCCEEEEEECCCCCCCEEEECCEECCCCCCCCCCCCCCEEEEEEE
+T ss_conf             741105566520036889------88887766556530012331355540027621010124766788888765888765
+
+
+Q ss_pred             HHHHHHCCHHHHHCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCEEEEECCHHHH
+Q ss_conf             1223340511232036826653048730257899999999999898874306877057631032213
+Q PF08634          89 AVSAIRHDLANVENNTGYEIRKRFGNFESFEREYFDLIRSAFLKYSLQARIGHMDGIFVAYHNTSRI  155 (195)
+Q Consensus        89 Av~~IR~D~~n~e~~~gY~I~~~~G~~eSfEREyyDliRsafLKYs~QaRIG~MDGIFVAYHNt~ri  155 (195)
+                      ....                  ....+.+|+|.       -+||+=+|.-..+..-|.|++++-.-|
+T Consensus       102 ~~~~------------------~~~~~~~f~r~-------K~lk~w~QsfL~Gi~~IvvG~Rd~~g~  143 (145)
+T 3fqi_A          102 KEMH------------------SPGQWRSFYRH-------KLLKWWAQSFLPGVPHVVAGFRNPEGF  143 (145)
+T ss_pred             EEEC------------------CCHHHHHHHHH-------HHHHHHHHHHHCCCCEEEEEEECCCCC
+T ss_conf             2006------------------82356688677-------788898887507988589987679951
+
+
+No 3  
+>3fqg_A Protein DIN1; hydrolase, mRNA processing, nucleus, phosphoprot
+Probab=90.20   E-value=0.21  Score=26.99  Aligned_columns=144  Identities=17%
+
+Q ss_pred             HHHHHHHHHHCCCHHHHHHHHCCCC---CCCCCCCCHHH---HHCCC--CHHHHHHHHHCCCCCCCCCCEECHHHHHHHH
+Q ss_conf             9989999871899889998604787---66666530010---21105--2245544423077887694010122112233
+Q PF08634          22 NLGHSLEKLLTTDKEDFERYRSKSL---SDEQKFPEAYH---YSKIG--DFLMRSQLDAYDPRLPGTGVFDLKTRAVSAI   93 (195)
+Q Consensus        22 ~lG~~lEk~LT~~~~eF~~~~~~~~---~~~~~~~e~Y~---Ysk~g--~flmRSQLDc~d~rLPg~g~FDLKTRAv~~I   93 (195)
+                      --|+..|.+.|.+...-..-+....   ..+....+.|-   -+++|  ++||.+-.||.++.-|+..-..-.......+
+T Consensus         7 Y~GykFE~~~T~~~~~~~~s~~~~~~~~~~~Vn~~~~~~sVv~t~Lg~~~ll~~aEVDci~~~~~~~~~~~~~~~~~~~~   86 (166)
+T 3fqg_A            7 YWGYKFEAISTLPEIWDACSRDQIEQRDNQDVVPDEQYCSIVKINIGKSKLILAGEVDCIWDKKPCSAKESDVHSDDGTI   86 (166)
+T ss_pred             ECCCHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEEEECCCCCEEEEEECCCCCCCCCCCCCCCCCCCCCCCCCC
+T ss_conf             22401342210477776577665677776644575207888741568643787323021225334455532212122222
+
+
+Q ss_pred             HCCHHHHHC-CCCE-EEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCEEEEECCHH-HHCCCCCCCHHHHHHHH
+Q ss_conf             405112320-3682-66530487302578999999999998988743068770576310322-13050236889988876
+Q PF08634          94 RHDLANVEN-NTGY-EIRKRFGNFESFEREYFDLIRSAFLKYSLQARIGHMDGIFVAYHNTS-RIFGFQYIPLEEMDQAI  170 (195)
+Q Consensus        94 R~D~~n~e~-~~gY-~I~~~~G~~eSfEREyyDliRsafLKYs~QaRIG~MDGIFVAYHNt~-riFGFQYipL~emD~~l  170 (195)
+                      ..+...... ...| ++++.... .. ++.+   .|--+||+=+|.-+.+-.-|+|.|++-. .+-..|-++..||-..+
+T Consensus        87 ~~~~~~~~~~~~~yVELKTs~~~-~~-~~~~---~~~Kllk~W~QSfL~Gv~~IvvGfRD~~g~l~~v~~~~t~elP~~~  161 (166)
+T 3fqg_A           87 EEDASNAENPNLHYVELKTSKKY-PL-ENYG---MRKKLLKYWAQSFLLGIGRIIIGFRDDNGILIEMKELFTHQIPKML  161 (166)
+T ss_pred             CCCCCCCCCCCCCEEEEEECCCC-CC-HHHH---HHHHHHHHHHHHHCCCCCEEEEEEECCCCEEEEEEEEEHHHHHHHH
+T ss_conf             22333356777526887500156-42-0234---5778999988862289874899887698717773266455778988
+
+
+No 4  
+>4gps_A Dxo1, with both decapping and 5'-3' exoribonuclease activity, PDEXK superfamily
+Probab=75.10   E-value=0.93  Score=23.21  Aligned_columns=105  Identities=19%
+
+Q ss_pred             HHHHHHHHHHHHCCCHHHHHHHHCCCCCCCCCCCCHHHHHCCC---CHHHHHHHHHCCCCCCCCCCEECHHHHHHHHHCC
+Q ss_conf             9999899998718998899986047876666653001021105---2245544423077887694010122112233405
+Q PF08634          20 LSNLGHSLEKLLTTDKEDFERYRSKSLSDEQKFPEAYHYSKIG---DFLMRSQLDAYDPRLPGTGVFDLKTRAVSAIRHD   96 (195)
+Q Consensus        20 Ls~lG~~lEk~LT~~~~eF~~~~~~~~~~~~~~~e~Y~Ysk~g---~flmRSQLDc~d~rLPg~g~FDLKTRAv~~IR~D   96 (195)
+                      ++--|...|.++|.++. |-.              . --+++|   ++++.+.+||++|..+  .--.|||-+.  ++..
+T Consensus        13 ~~y~G~kFE~~~t~~~~-~~s--------------v-v~t~l~~~~~ll~~aEiD~i~~~~~--~yVELKTs~~--~~~~   72 (124)
+T 4gps_A           13 ICYTGFALEDLLIEHEL-YYS--------------I-VHGSLNDEIDLLIQAEMDSINTLTD--TYTEIKSSVH--FKLG   72 (124)
+T ss_pred             EEEECHHHHHHHCCCCC-CEE--------------E-EECCCCCCCEEEEEEEECCCCCCCC--CEEEEEECCC--CCCC
+T ss_conf             23403003323229997-079--------------9-9634089853898400115038988--6688860223--3574
+
+
+Q ss_pred             HHHHHCCCCEEEEECCCCCCHHHHHHHHHHHHHHHHHHHHHHCCCCCCEEEEECCHH--HHCCCCCCCHHHHHHHH
+Q ss_conf             112320368266530487302578999999999998988743068770576310322--13050236889988876
+Q PF08634          97 LANVENNTGYEIRKRFGNFESFEREYFDLIRSAFLKYSLQARIGHMDGIFVAYHNTS--RIFGFQYIPLEEMDQAI  170 (195)
+Q Consensus        97 ~~n~e~~~gY~I~~~~G~~eSfEREyyDliRsafLKYs~QaRIG~MDGIFVAYHNt~--riFGFQYipL~emD~~l  170 (195)
+                                         ..|.       |.-+||+=+|.-+++-.-|.|.+.+.+  .+-..|.++..||-..+
+T Consensus        73 -------------------~~~~-------r~Kllk~w~QSfL~gv~~IvvG~Rd~~~g~l~~i~~~~t~elp~~~  122 (124)
+T 4gps_A           73 -------------------NTYH-------RRKLLRMWIQTNLLPKSDLLIGFRNSYSNELEQLKAYKIQDIYHKI  122 (124)
+T ss_pred             -------------------CHHH-------HHHHHHHHHHHHCCCCCEEEEEEEECCCCEEEEEEEEEHHHHHHHH
+T ss_conf             -------------------0112-------4668888787503897848998741889748882276531566753
+
+
+No 5  
+>d1taza_ a.211.1.2 (A:) Catalytic domain of cyclic nucleotide phosphodiesterase 1b, PDE1B {Human (Homo sapiens) [TaxId: 9606]}
+Probab=16.41   E-value=22  Score=15.18  Aligned_columns=57  Identities=19%
+
+Q ss_pred             HCCCCCCC-CCCEECHHHHHHHHHCCHH----HHHCCCCEEEEECCC--CCCHHHHHHHHHHHH
+Q ss_conf             30778876-9401012211223340511----232036826653048--730257899999999
+Q PF08634          72 AYDPRLPG-TGVFDLKTRAVSAIRHDLA----NVENNTGYEIRKRFG--NFESFEREYFDLIRS  128 (195)
+Q Consensus        72 c~d~rLPg-~g~FDLKTRAv~~IR~D~~----n~e~~~gY~I~~~~G--~~eSfEREyyDliRs  128 (195)
+                      |||-.=|| |..|-+||+.-.+++|+-.    |+.-.+..+|-+..|  .++++..+.|.-+|.
+T Consensus       117 ~HD~~HpG~tN~Fl~~t~~~lA~lYnd~SvLEn~H~~~~~~iL~~~~~nil~~l~~~~~~~~r~  180 (357)
+T d1taza_         117 IHDYEHTGTTNSFHIQTKSECAIVYNDRSVLENHHISSVFRLMQDDEMNIFINLTKDEFVELRA  180 (357)
+T ss_pred             HHCCCCCCCCHHHHHHCCCHHHHHCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHHH
+T ss_conf             7404799986178775167587514898757888999999996157888466889889999999
+
+
+No 6  
+>d1tbfa_ a.211.1.2 (A:) cGMP-specific 3',5'-cyclic phosphodiesterase pde5a1-Ibmx {Human (Homo sapiens) [TaxId: 9606]}
+Probab=11.04   E-value=38  Score=13.74  Aligned_columns=56  Identities=16%
+
+Q ss_pred             HCCCCCCC-CCCEECHHHHHHHHHCCHH----HHHCCCCEEEEECCC--CCCHHHHHHHHHHH
+Q ss_conf             30778876-9401012211223340511----232036826653048--73025789999999
+Q PF08634          72 AYDPRLPG-TGVFDLKTRAVSAIRHDLA----NVENNTGYEIRKRFG--NFESFEREYFDLIR  127 (195)
+Q Consensus        72 c~d~rLPg-~g~FDLKTRAv~~IR~D~~----n~e~~~gY~I~~~~G--~~eSfEREyyDliR  127 (195)
+                      |||-.=|| |..|=.||+...+++|+-.    |+.-.+..+|-+..|  .++++..+-+.-+|
+T Consensus       119 ~HDv~HpG~~N~fl~~~~~~la~~y~d~svLE~~H~~~~~~lL~~~~~~il~~l~~~~~~~~~  181 (326)
+T d1tbfa_         119 SHDLDHPGVSNQFLINTNSELALMYNDESVLEHHHFDQCLMILNSPGNQILSGLSIEEYKTTL  181 (326)
+T ss_pred             HHHHCCCCCCHHHHHHCCCHHHHHCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCHHHHHHHH
+T ss_conf             986258999716566405606764289981478899999998546677745589988999999
+
+
+No 7  
+>d1so2a_ a.211.1.2 (A:) cGMP-inhibited 3',5'-cyclic phosphodiesterase B, pde3b {Human (Homo sapiens) [TaxId: 9606]}
+Probab=10.40   E-value=37  Score=13.82  Aligned_columns=27  Identities=30%
+
+Q ss_pred             HCCCCCCC-CCCEECHHHHHHHHHCCHH
+Q ss_conf             30778876-9401012211223340511
+Q PF08634          72 AYDPRLPG-TGVFDLKTRAVSAIRHDLA   98 (195)
+Q Consensus        72 c~d~rLPg-~g~FDLKTRAv~~IR~D~~   98 (195)
+                      |||-.=|| |..|=+||++-.||+|+-.
+T Consensus       162 ~HDv~HpG~tN~Fli~t~s~LA~~Ynd~  189 (415)
+T d1so2a_         162 MHDYDHPGRTNAFLVATNAPQAVLYNDR  189 (415)
+T ss_pred             HHCCCCCCCCHHHHHHHCCHHHHHCCCC
+T ss_conf             7316899985388875057166533785
+
+
+No 8  
+>d1eaka1 a.20.1.2 (A:32-107) Gelatinase A (MMP-2) {Human (Homo sapiens) [TaxId: 9606]}
+Probab=9.09    E-value=48  Score=13.15  Aligned_columns=17  Identities=35%
+
+Q ss_pred             CCCCCCCEECHHHHHHH
+Q ss_conf             88769401012211223
+Q PF08634          76 RLPGTGVFDLKTRAVSA   92 (195)
+Q Consensus        76 rLPg~g~FDLKTRAv~~   92 (195)
+                      .||.||+.|-.|++...
+T Consensus        51 ~L~~TG~lD~~T~~~M~   67 (76)
+T d1eaka1          51 GLPQTGDLDQNTIETMR   67 (76)
+T ss_pred             CCCCCCCCCHHHHHHHH
+T ss_conf             98757720968999870
+
+
+No 9  
+>d1b4ua_ a.88.1.1 (A:) LigA subunit of an aromatic-ring-opening dioxygenase LigAB {Sphingomonas paucimobilis, formerly Pseudomonas paucimobilis [TaxId: 13689]}
+Probab=8.89    E-value=49  Score=13.11  Aligned_columns=28  Identities=32%
+
+Q ss_pred             HHHHHHCCCCCCCCCCEECHHHHHHHHHCC
+Q ss_conf             544423077887694010122112233405
+Q PF08634          67 RSQLDAYDPRLPGTGVFDLKTRAVSAIRHD   96 (195)
+Q Consensus        67 RSQLDc~d~rLPg~g~FDLKTRAv~~IR~D   96 (195)
+                      -++|.-++ .+|||-+||.. ||.-.-|.+
+T Consensus         4 ~~~l~~~~-~ipGT~~Fd~~-~s~kgY~LN   31 (132)
+T d1b4ua_           4 HAYLAEFD-DIPGTRVFTAQ-RARKGYNLN   31 (132)
+T ss_pred             HHHHCCCC-CCCCCCCCCHH-HHHHHHHHH
+T ss_conf             77743300-06789853768-999899998
+
+
+No 10 
+>3l0a_A Putative exonuclease, PDEXK superfamily
+Probab=7.36    E-value=39  Score=13.66  Aligned_columns=36  Identities=22%
+
+Q ss_pred             CCHHHHHCCCCHHHHHHHHHCCCCCCCCCCEECHHHHHH
+Q ss_conf             300102110522455444230778876940101221122
+Q PF08634          53 PEAYHYSKIGDFLMRSQLDAYDPRLPGTGVFDLKTRAVS   91 (195)
+Q Consensus        53 ~e~Y~Ysk~g~flmRSQLDc~d~rLPg~g~FDLKTRAv~   91 (195)
+                      ++.+-.....+...|..+||+.   |+..+.||||-+..
+T Consensus        73 ~ev~~~d~~tGv~~K~R~D~l~---~~~~ivDlKTt~~~  108 (163)
+T 3l0a_A           73 KQVIXTGELFGAKWKIKXDSYI---PGVAIVDLKVXASI  108 (163)
+T ss_pred             EEEEECCCCCCEEEEEEECCCC---CCCEEEEEECCCCC
+T ss_conf             1476246667715544311006---89668886235766
+
+
+Done!

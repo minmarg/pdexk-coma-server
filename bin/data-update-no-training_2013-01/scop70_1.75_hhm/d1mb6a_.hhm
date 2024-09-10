@@ -1,0 +1,133 @@
+HHsearch 1.5
+NAME  d1mb6a_ g.3.6.2 (A:) Huwentoxin-IV {Chinese bird spider (Selenocosmia huwena) [TaxId: 29017]}
+FAM   g.3.6.2
+FILE  d1mb6a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1mb6a_.a3m -v 1 
+DATE  Mon Jan 21 23:27:09 2013
+LENG  35 match states, 35 columns in multiple alignment
+FILT  3 out of 5 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.2 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCCEECCCCCEEECCC
+>ss_conf
+95455556688754322456511115653011149
+>Consensus
+eclxxxxxcnpsndqcckssxlvcsxkxrwckyxi
+>d1mb6a_ g.3.6.2 (A:) Huwentoxin-IV {Chinese bird spider (Selenocosmia huwena) [TaxId: 29017]}
+ECLEIFKACNPSNDQCCKSSKLVCSRKTRWCKYQI
+>gi|310946997|sp|D2Y2D7.1|H4A03_HAPHA(50-84:86) RecName: Full=Mu-theraphotoxin-Hhn1b; Short=Mu-TRTX-Hhn1b; AltName: Full=Hainantoxin-4.3; AltName: Full=Hainantoxin-IV.3; Short=HnTx-IV.3; AltName: Full=Peptide F8-18.88; Flags: Precursor >gi|283979202|gb|ADB56830.1| HNTX-IV.3 precursor [Haplopelma hainanum]  E=2e-08 s/c=1.78 id=78% cov=103%
+ECLGFGKGCNPSNDQCCKSSNLVCSRKHRWCKYEI
+>gi|403399428|sp|B3EWN2.1|HTX1_HAPLI(2-33:35) RecName: Full=Beta-theraphotoxin-Hl1a; Short=Beta-TRTX-Hl1a; AltName: Full=Haplotoxin-1  E=0.0002 s/c=1.52 id=67% cov=94%
+-CLGFGEKCNPSNDKCCKSSSLVCSQKHKWCKY--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1149	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1258	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1258	0	0	
+
+E 4    *	*	*	1541	*	608	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1258	0	0	
+
+I 5    *	*	*	*	608	*	*	1541	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1258	0	0	
+
+F 6    *	*	*	*	1541	608	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1258	0	0	
+
+K 7    *	*	*	1541	*	*	*	*	608	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1258	0	0	
+
+A 8    1541	*	*	*	*	1678	*	*	1541	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1258	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1258	0	0	
+
+N 10   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1258	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1258	0	0	
+
+S 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	12
+       0	*	*	*	*	*	*	1258	0	0	
+
+N 13   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1258	0	0	
+
+D 14   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1258	0	0	
+
+Q 15   *	*	*	*	*	*	*	*	1541	*	*	*	*	608	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1258	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1258	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1258	0	0	
+
+K 18   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1258	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1258	0	0	
+
+S 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	20
+       0	*	*	*	*	*	*	1258	0	0	
+
+K 21   *	*	*	*	*	*	*	*	1541	*	*	1678	*	*	*	1541	*	*	*	*	21
+       0	*	*	*	*	*	*	1258	0	0	
+
+L 22   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1258	0	0	
+
+V 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	23
+       0	*	*	*	*	*	*	1258	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1258	0	0	
+
+S 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	25
+       0	*	*	*	*	*	*	1258	0	0	
+
+R 26   *	*	*	*	*	*	*	*	*	*	*	*	*	1541	608	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1258	0	0	
+
+K 27   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1258	0	0	
+
+T 28   *	*	*	*	*	*	608	*	*	*	*	*	*	*	*	*	1541	*	*	*	28
+       0	*	*	*	*	*	*	1258	0	0	
+
+R 29   *	*	*	*	*	*	*	*	1541	*	*	*	*	*	608	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1258	0	0	
+
+W 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	30
+       0	*	*	*	*	*	*	1258	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1258	0	0	
+
+K 32   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1258	0	0	
+
+Y 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	33
+       0	*	*	*	*	*	*	1258	0	0	
+
+Q 34   *	*	*	1000	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1149	0	0	
+
+I 35   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	0	*	*	*	1149	0	0	
+
+//

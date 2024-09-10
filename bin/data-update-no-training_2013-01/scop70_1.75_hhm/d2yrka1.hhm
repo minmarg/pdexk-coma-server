@@ -1,0 +1,186 @@
+HHsearch 1.5
+NAME  d2yrka1 g.37.1.4 (A:8-55) Zinc finger homeobox protein 4, ZFHX4 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   g.37.1.4
+FILE  d2yrka1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2yrka1.a3m -v 1 
+DATE  Tue Jan 22 08:28:06 2013
+LENG  48 match states, 48 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.9 
+SEQ
+>ss_pred
+CCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHCCCC
+>ss_conf
+989884647725412454442532110378899999998766310369
+>Consensus
+gxdgpxxECxlCxvKYsxxxsvrdHiFsxqHIxxVkxxvxxqlxxexx
+>d2yrka1 g.37.1.4 (A:8-55) Zinc finger homeobox protein 4, ZFHX4 {Human (Homo sapiens) [TaxId: 9606]}
+GTDGTKPECTLCGVKYSARLSIRDHIFSKQHISKVRETVGSQLDREKD
+>gi|189531420|ref|XP_692222.3|(2797-2842:3349) PREDICTED: zinc finger homeobox protein 3 [Danio rerio]   E=4e-09 s/c=1.41 id=57% cov=98%
+--DRPKTECTLCSVKYSSSLSIRDHVFSQQHLAKVKEALGGQMERDRE
+>gi|405959418|gb|EKC25460.1|(1753-1800:2152) Zinc finger homeobox protein 3 [Crassostrea gigas]   E=0.0006 s/c=0.99 id=51% cov=98%
+--DFPKPpeECNLCHFKYSHKYTIQDHIFTKKHIDKVKLYIQSQSDVESN
+>gi|301624528|ref|XP_002941561.1|(1409-1454:1782) PREDICTED: zinc finger homeobox protein 3-like [Xenopus (Silurana) tropicalis]  E=3e-05 s/c=1.12 id=46% cov=96%
+--EGPQPtECTHCNVKYGPTTPCRAHIFSRQHIARLRVAIQQQLKEES-
+>gi|332223670|ref|XP_003260994.1|(2306-2356:2742) PREDICTED: zinc finger homeobox protein 2 [Nomascus leucogenys]   E=5e-05 s/c=1.00 id=40% cov=98%
+-SEGPlaaqRTDCPYCDVKYDFYVSCRGHLFSRQHLAKLKEAVRAQLKSES-
+>gi|307166172|gb|EFN60421.1|(2850-2891:2987) Zinc finger homeobox protein 3 [Camponotus floridanus]   E=0.0008 s/c=1.12 id=42% cov=90%
+GPTGP-DECRLCSVRYSAKTPLQEHVFSRRHIESVRVAVEERS-----
+>gi|260798426|ref|XP_002594201.1|(2801-2846:3231) AT-binding transcription factor1 [Branchiostoma floridae] >gi|229279434|gb|EEN50212.1| AT-binding transcription factor1 [Branchiostoma floridae]  E=1e-11 s/c=1.57 id=60% cov=98%
+--DKPKEECTLCGVKYSAKLSVRDHIFTQQHIGKLKSYYSEQLAKEKE
+>gi|10444510|gb|AAG17928.1|AF302793_1(721-764:1021) ZFH-2, partial [Trichinella spiralis]   E=9e-10 s/c=1.50 id=36% cov=92%
+-PDVPASRCNFCNTAYTSRQTVQDHVFTKQHIDRVKIAVGEPVD----
+>gi|242009051|ref|XP_002425306.1|(3042-3089:3234) zfh4, putative [Pediculus humanus corporis] >gi|212509080|gb|EEB12568.1| zfh4, putative [Pediculus humanus corporis]  E=8e-10 s/c=1.38 id=41% cov=102%
+GSEKTPEECKLCDFKYSHKYSVQDHIFTKSHIDNVKLNVEQESGSNSD
+>gi|390333436|ref|XP_003723710.1|(2980-3024:3407) PREDICTED: zinc finger homeobox protein 4 isoform 1 [Strongylocentrotus purpuratus]  E=4e-07 s/c=1.27 id=37% cov=96%
+GATGDGHECKICKKKYSSSMSVRDHVFTESHVRHVKLHVSKELEK---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    2784	*	*	*	*	226	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2162	0	0	
+
+T 2    2812	*	*	*	*	*	*	*	*	*	*	*	1120	*	*	1897	2953	*	*	*	2
+       0	*	*	*	*	*	*	2652	0	0	
+
+D 3    *	*	1008	1713	*	*	*	*	*	*	*	*	*	*	*	*	2338	*	*	*	3
+       0	*	*	*	*	*	*	2786	0	0	
+
+G 4    *	*	*	*	4006	574	*	*	3081	*	*	*	*	*	4243	*	*	3397	*	*	4
+       0	*	*	*	*	*	*	2802	0	0	
+
+T 5    3167	*	3510	*	*	*	*	*	*	*	*	*	638	*	*	4711	3056	*	*	*	5
+       194	4226	3790	2000	415	*	*	2917	1000	0	
+
+K 6    3505	*	*	*	*	3462	*	*	1928	*	*	*	2494	2700	2139	*	*	*	*	*	6
+       0	*	*	*	*	0	*	2845	0	1000	
+
+P 7    4728	*	3038	2441	*	*	3563	*	*	*	*	*	1928	*	*	2830	2571	*	*	*	7
+       184	3058	*	544	1670	*	*	2927	1536	0	
+
+E 8    *	*	2859	347	*	*	*	*	*	*	*	*	*	*	3720	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2927	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2945	0	0	
+
+T 10   *	*	4448	*	*	*	*	*	2251	*	*	3105	2695	*	3109	3798	1808	*	*	*	10
+       0	*	*	*	*	*	*	2945	0	0	
+
+L 11   *	*	*	*	3173	*	3865	3608	*	1039	*	*	*	*	*	*	*	4331	*	2307	11
+       0	*	*	*	*	*	*	2945	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2945	0	0	
+
+G 13   *	*	2134	3994	*	1997	4465	*	3608	*	*	2478	*	*	4394	3258	*	*	*	*	13
+       0	*	*	*	*	*	*	2945	0	0	
+
+V 14   *	*	*	*	1895	*	*	3994	3608	*	*	*	*	*	*	*	3817	956	*	*	14
+       0	*	*	*	*	*	*	2945	0	0	
+
+K 15   3817	*	*	*	*	*	*	*	213	*	*	*	*	*	3918	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2945	0	0	
+
+Y 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	16
+       0	*	*	*	*	*	*	2945	0	0	
+
+S 17   *	*	2695	*	*	3865	*	*	*	*	*	*	*	*	*	772	2388	*	*	*	17
+       0	*	*	*	*	*	*	2945	0	0	
+
+A 18   1659	*	*	*	2695	*	1895	*	*	*	*	*	3865	*	*	2386	*	*	*	*	18
+       0	*	*	*	*	*	*	2945	0	0	
+
+R 19   *	*	*	*	*	*	*	*	1400	*	*	*	*	*	1849	3054	3865	*	*	2695	19
+       0	*	*	*	*	*	*	2945	0	0	
+
+L 20   *	*	*	*	*	*	*	*	*	2232	3038	*	*	3817	*	*	2891	2390	*	1895	20
+       0	*	*	*	*	*	*	2945	0	0	
+
+S 21   4448	*	*	*	*	*	*	*	*	*	*	*	2891	*	*	508	3105	*	*	*	21
+       0	*	*	*	*	*	*	2945	0	0	
+
+I 22   *	2164	*	*	*	*	*	1953	*	3918	*	*	*	*	*	*	*	1144	*	*	22
+       0	*	*	*	*	*	*	2945	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	1301	751	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2945	0	0	
+
+D 24   3865	*	493	3918	*	2695	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2945	0	0	
+
+H 25   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2945	0	0	
+
+I 26   *	*	*	*	*	*	*	893	*	2695	*	*	*	*	*	*	*	1703	*	*	26
+       0	*	*	*	*	*	*	2945	0	0	
+
+F 27   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2945	0	0	
+
+S 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	904	1102	*	*	*	28
+       0	*	*	*	*	*	*	2945	0	0	
+
+K 29   *	4561	*	3608	*	*	4448	*	1430	*	*	*	*	3127	1753	4394	*	*	*	*	29
+       0	*	*	*	*	*	*	2945	0	0	
+
+Q 30   *	*	*	*	*	3152	*	*	4465	*	*	*	*	821	3136	2621	*	*	*	*	30
+       0	*	*	*	*	*	*	2945	0	0	
+
+H 31   *	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2945	0	0	
+
+I 32   *	*	*	*	*	*	*	464	*	2375	*	*	*	*	*	*	*	3608	*	*	32
+       0	*	*	*	*	*	*	2945	0	0	
+
+S 33   1274	*	2602	3129	4768	4519	*	*	*	*	*	*	*	*	3595	3887	3705	*	*	*	33
+       0	*	*	*	*	*	*	2936	0	0	
+
+K 34   4385	*	*	*	*	*	3595	*	1307	4258	*	3584	*	*	1934	3881	*	*	*	*	34
+       0	*	*	*	*	*	*	2936	0	0	
+
+V 35   *	*	*	*	*	*	*	*	*	2049	*	*	*	*	*	*	*	399	*	*	35
+       0	*	*	*	*	*	*	2936	0	0	
+
+R 36   *	*	*	*	*	*	*	*	647	*	*	*	*	3733	1806	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2936	0	0	
+
+E 37   4385	*	4743	1515	*	*	*	3031	*	2543	4650	*	*	4258	*	4519	*	2884	*	*	37
+       0	*	*	*	*	*	*	2936	0	0	
+
+T 38   1252	*	*	*	*	*	2176	*	*	*	*	4520	*	*	4385	*	2485	*	*	3493	38
+       0	*	*	*	*	*	*	2936	0	0	
+
+V 39   *	*	*	*	*	*	*	2172	*	2328	4613	*	*	*	*	*	*	1016	*	4519	39
+       0	*	*	*	*	*	*	2936	0	0	
+
+G 40   4429	*	*	1992	*	1588	*	*	3800	*	*	*	*	3149	4091	2984	*	*	*	*	40
+       0	*	*	*	*	*	*	2936	0	0	
+
+S 41   2938	*	*	2097	*	4597	*	*	3595	*	*	3120	*	3170	*	1809	*	*	*	*	41
+       0	*	*	*	*	*	*	2936	0	0	
+
+Q 42   *	*	*	2803	*	*	*	*	*	*	*	*	3594	645	2894	*	*	*	*	*	42
+       0	*	*	*	*	*	*	2903	0	0	
+
+L 43   *	*	*	*	*	*	*	4639	*	1119	3256	*	*	*	*	2114	*	2609	*	*	43
+       0	*	*	*	*	*	*	2903	0	0	
+
+D 44   4131	*	1287	2707	*	2882	*	*	2033	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2815	0	0	
+
+R 45   *	*	*	3425	*	*	*	*	1781	*	*	*	*	*	1754	2007	*	3824	*	*	45
+       0	*	*	*	*	*	*	2705	0	0	
+
+E 46   *	*	3560	466	*	*	3496	*	*	*	*	3288	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2540	0	0	
+
+K 47   *	*	*	*	*	3496	*	*	1444	*	*	*	*	*	3560	1124	*	*	*	*	47
+       0	*	*	*	*	*	*	2540	0	0	
+
+D 48   *	*	760	1751	*	*	*	*	*	*	*	3151	*	*	*	*	*	*	*	*	48
+       0	*	*	0	*	*	*	2141	0	0	
+
+//

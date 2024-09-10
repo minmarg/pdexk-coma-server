@@ -1,0 +1,249 @@
+HHsearch 1.5
+NAME  d1kxpd3 a.126.1.1 (D:405-473) Vitamin D binding protein {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.126.1.1
+FILE  d1kxpd3
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1kxpd3.a3m -v 1 
+DATE  Mon Jan 21 22:46:40 2013
+LENG  69 match states, 69 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCCCCCCCHHHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHCC
+>ss_conf
+943311235457899999999874179988788999998665455422578998512257888886319
+>Consensus
+eLCxdysextFtExKkkLxexlxxKxPxasxxxlxxlVexrsdfASkCCxiNsPPlYCxsxIdaexxxx
+>d1kxpd3 a.126.1.1 (D:405-473) Vitamin D binding protein {Human (Homo sapiens) [TaxId: 9606]}
+ELCADYSENTFTEYKKKLAERLKAKLPDATPKELAKLVNKRSDFASNCCSINSPPLYCDSEIDAELKNI
+>gi|326918834|ref|XP_003205691.1|(407-472:484) PREDICTED: vitamin D-binding protein-like [Meleagris gallopavo]   E=8e-13 s/c=1.16 id=46% cov=97%
+QLCGQYNELNFLDFKKRLRDSIRQTMPDASPELLTQLTDQRADFASTCCPANSPPLYCVAQVTAEL---
+>gi|327274230|ref|XP_003221881.1|(410-471:487) PREDICTED: vitamin D-binding protein-like [Anolis carolinensis]   E=8e-09 s/c=1.02 id=43% cov=91%
+QLCDDYTDHIFLEFKKRLRDTYVKKFPNATEAVLSALVQQRGRFASTCCFLNAPPSYCGMKV-------
+>gi|401709952|ref|NP_036696.2|(405-473:476) vitamin D-binding protein precursor [Rattus norvegicus] >gi|51260133|gb|AAH78891.1| Group specific component [Rattus norvegicus] >gi|149033742|gb|EDL88538.1| group specific component, isoform CRA_b [Rattus norvegicus]  E=3e-24 s/c=1.67 id=73% cov=101%
+EMCADYSENTFTEYKKKLAERLRTKMPNASPEELADMVAKHSDFASKCCSINSPPRYCSSQIDAEMRDI
+>gi|426231846|ref|XP_004009948.1|(405-473:475) PREDICTED: vitamin D-binding protein [Ovis aries]   E=3e-23 s/c=1.61 id=76% cov=101%
+ELCADYSENTFTEYKKKLAERLRGKFPDATETDLQELVAKLSDFASKCCSINSPPLYCSSEIDAEINTL
+>gi|395541931|ref|XP_003772890.1|(413-473:507) PREDICTED: vitamin D-binding protein [Sarcophilus harrisii]   E=7e-19 s/c=1.59 id=53% cov=90%
+ELCGDFSQHTFTEYKKRLTEHFKTKFPETNSKIIKEMVENRTDFASKCCLMNSPPLYCNTQ--------
+>gi|148673393|gb|EDL05340.1|(333-394:400) mCG12452, isoform CRA_b [Mus musculus]   E=1e-15 s/c=1.40 id=57% cov=91%
+DLCGQST----TQAMDQLAERLRTKTPNTSPAELKDMVEKHSDFASKCCSINSPPLYCSSQIDAEM---
+>gi|147906613|ref|NP_001088335.1|(405-473:482) group-specific component (vitamin D binding protein) precursor [Xenopus laevis] >gi|54038102|gb|AAH84387.1| LOC495173 protein [Xenopus laevis]  E=1e-18 s/c=1.39 id=44% cov=101%
+ELCADYHKYPFLEFKEKLSKALSRKVPKLSTSQVEEMVEARSSLASTCCLINAPPVYCREMINKFLNNI
+>gi|345325735|ref|XP_001511847.2|(666-726:766) PREDICTED: vitamin D-binding protein-like [Ornithorhynchus anatinus]  E=3e-18 s/c=1.55 id=55% cov=90%
+ELCGDYSELTFTEYKKGLTEKFSQKQPDASPATIKELVERRATFASSCCISNAPPRYCSTQ--------
+>gi|349805797|gb|AEQ18371.1|(312-376:376) putative group-specific component (vitamin d binding protein) [Hymenochirus curtipes]  E=5e-14 s/c=1.24 id=35% cov=96%
+ELARRNTKLPFLEFKEWLIKALNKKFPKLSSSKRDEMVEQQSNLASTCCIINAPPVYCKEMIDKF----
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	3478	493	*	*	*	*	4712	*	*	*	*	2628	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 2    *	*	*	*	*	*	*	*	*	142	4089	*	*	*	*	*	*	4827	*	*	2
+       0	*	*	*	*	*	*	2477	0	0	
+
+C 3    3533	130	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 4    1083	*	3557	*	*	1488	*	*	*	*	*	*	*	*	3533	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2477	0	0	
+
+D 5    *	*	437	*	*	4764	*	*	*	*	*	*	*	2858	3533	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2477	0	0	
+
+Y 6    *	*	*	*	4320	*	*	*	*	*	*	3533	*	*	*	4032	*	*	*	318	6
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 7    *	*	*	*	*	*	3147	*	*	*	*	3703	*	*	*	791	2105	*	*	*	7
+       91	*	4032	*	*	*	*	2477	0	0	
+
+E 8    *	*	3508	768	*	*	*	*	2250	*	*	*	*	3126	*	*	*	*	*	*	8
+       0	*	*	*	*	*	0	2444	0	1000	
+
+N 9    *	*	*	*	*	*	2801	*	*	1795	*	1153	*	*	*	*	*	*	*	3078	9
+       0	*	*	*	*	*	0	2444	0	1000	
+
+T 10   *	*	*	*	*	*	*	3508	*	*	*	3606	2250	*	*	*	690	*	*	*	10
+       0	*	*	*	*	*	0	2444	0	1000	
+
+F 11   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	0	*	2444	0	1000	
+
+T 12   *	*	*	*	*	*	*	*	*	1470	*	*	*	*	*	*	646	*	*	*	12
+       0	*	*	*	*	*	*	2477	0	0	
+
+E 13   *	*	3159	274	*	*	*	*	*	*	*	*	*	4032	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2477	0	0	
+
+Y 14   4032	*	*	*	1134	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1049	14
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 15   *	*	*	*	*	*	*	*	91	*	4032	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 16   *	*	4032	2327	*	*	*	*	435	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 17   *	*	*	*	*	4253	*	*	1083	*	*	*	*	4032	1608	*	*	*	3533	*	17
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 18   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 19   1423	*	*	*	*	*	*	3533	*	*	*	4066	*	*	2628	2997	2366	*	*	*	19
+       0	*	*	*	*	*	*	2477	0	0	
+
+E 20   *	*	2628	874	*	*	*	*	2327	*	*	*	*	3423	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2477	0	0	
+
+R 21   2327	*	*	*	*	*	3231	*	4253	*	*	*	*	4764	1174	3703	3557	*	*	*	21
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 22   *	*	*	*	2653	*	*	3703	*	558	*	*	*	*	*	*	*	*	*	3557	22
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 23   *	*	*	*	*	4910	*	*	2859	*	*	3533	*	*	1139	2297	*	3557	*	*	23
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 24   1912	*	*	*	*	4059	*	*	2545	*	*	*	*	2952	3147	*	1939	*	*	*	24
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 25   *	*	*	*	*	*	*	*	309	*	*	4147	*	*	4066	*	3703	*	*	*	25
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 26   *	*	*	*	1695	*	*	*	*	1733	3226	*	*	4253	*	*	3487	3147	5110	*	26
+       0	*	*	*	*	*	*	2477	0	0	
+
+P 27   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2477	0	0	
+
+D 28   *	*	1258	3525	*	4836	*	*	1967	*	*	2292	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 29   694	*	*	*	*	*	*	*	*	2327	*	*	*	*	*	*	3169	3808	*	*	29
+       0	*	*	*	*	*	*	2477	0	0	
+
+T 30   5093	*	*	4922	*	*	*	*	*	*	*	3231	*	*	*	1041	1534	*	*	*	30
+       0	*	*	*	*	*	*	2477	0	0	
+
+P 31   3890	*	*	2786	*	*	*	*	*	*	*	*	1168	*	*	2122	3147	*	*	*	31
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 32   2087	*	*	3226	*	5157	*	*	2547	4712	*	*	*	*	*	2327	2177	*	*	*	32
+       0	*	*	*	*	*	*	2477	0	0	
+
+E 33   *	*	3511	1478	*	*	*	4320	3063	3703	*	4147	*	3147	*	*	4253	3557	*	*	33
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 34   *	*	*	*	*	*	*	2653	*	640	*	*	*	*	3533	*	*	3147	*	*	34
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 35   2118	*	3533	2536	*	*	*	*	1838	*	*	*	*	3853	*	3557	3703	*	*	*	35
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 36   3084	*	2291	1117	*	3206	*	*	4995	*	*	*	*	3703	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 37   *	*	*	*	*	*	*	*	*	889	1234	*	*	4836	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2477	0	0	
+
+V 38   *	*	*	*	*	*	*	4712	*	4922	*	*	*	*	*	*	3703	231	*	*	38
+       0	*	*	*	*	*	*	2477	0	0	
+
+N 39   4032	*	2058	932	*	5093	*	*	5110	*	*	4995	*	3557	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2477	0	0	
+
+K 40   3147	*	*	*	*	*	*	*	1280	*	*	3231	*	2011	3050	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2477	0	0	
+
+R 41   *	*	*	*	*	*	2144	*	*	5009	*	*	*	3533	608	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 42   2952	*	*	*	*	3557	*	*	*	*	*	*	*	*	*	558	3231	*	*	*	42
+       0	*	*	*	*	*	*	2477	0	0	
+
+D 43   *	*	671	4827	*	*	*	*	*	*	*	3533	*	*	3557	3147	4253	*	*	*	43
+       0	*	*	*	*	*	*	2477	0	0	
+
+F 44   *	*	*	*	321	*	*	*	*	2327	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	2477	0	0	
+
+A 45   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 46   *	*	*	*	4147	*	*	*	*	*	*	*	*	*	*	84	*	*	*	*	46
+       0	*	*	*	*	*	*	2477	0	0	
+
+N 47   *	*	*	*	*	*	4910	*	938	*	*	4995	*	*	*	4253	1470	*	*	*	47
+       0	*	*	*	*	*	*	2477	0	0	
+
+C 48   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	2477	0	0	
+
+C 49   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 50   *	*	*	*	3084	*	*	2848	*	2618	*	*	3703	4147	*	1162	*	*	*	*	50
+       0	*	*	*	*	*	*	2477	0	0	
+
+I 51   3703	*	*	*	*	*	*	706	*	3557	3231	*	*	*	*	4253	*	3916	*	*	51
+       0	*	*	*	*	*	*	2477	0	0	
+
+N 52   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 53   1570	*	*	*	*	*	*	*	*	*	*	*	*	*	*	592	*	*	*	*	53
+       0	*	*	*	*	*	*	2477	0	0	
+
+P 54   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	2477	0	0	
+
+P 55   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2477	0	0	
+
+L 56   *	*	*	*	*	*	*	*	*	926	*	4764	*	*	2710	3557	*	2327	*	*	56
+       0	*	*	*	*	*	*	2477	0	0	
+
+Y 57   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	57
+       0	*	*	*	*	*	*	2477	0	0	
+
+C 58   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	58
+       0	*	*	*	*	*	*	2477	0	0	
+
+D 59   *	*	1732	*	*	2822	*	*	3533	*	*	3667	*	*	3147	2302	*	3703	*	*	59
+       0	*	*	*	*	*	*	2477	0	0	
+
+S 60   3092	*	*	2271	*	*	*	*	*	*	3505	*	*	*	*	1101	3045	*	*	*	60
+       0	*	*	*	*	*	*	2446	0	0	
+
+E 61   *	*	*	2052	*	*	*	*	3505	*	2271	*	*	1109	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2446	0	0	
+
+I 62   *	*	*	*	*	*	*	345	*	*	*	*	*	*	*	*	*	2233	*	*	62
+       0	*	*	*	*	*	*	2348	0	0	
+
+D 63   *	*	619	4143	*	*	*	*	*	*	*	2627	*	*	*	*	2939	*	*	*	63
+       0	*	*	*	*	*	*	2209	0	0	
+
+A 64   588	*	*	*	*	*	*	*	1854	*	*	*	*	*	*	*	4112	*	*	*	64
+       0	*	*	*	*	*	*	2209	0	0	
+
+E 65   *	*	*	573	1854	*	*	*	*	*	*	*	*	4294	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2209	0	0	
+
+L 66   *	*	*	*	*	*	*	3056	*	1102	1273	*	*	*	*	*	*	*	*	*	66
+       0	*	*	*	*	*	*	2080	0	0	
+
+K 67   *	*	*	*	*	*	*	*	949	*	*	1317	*	*	3635	*	*	*	*	*	67
+       0	*	*	*	*	*	*	1832	0	0	
+
+N 68   *	*	3436	*	*	*	*	*	*	*	*	715	*	*	*	2699	2791	*	*	*	68
+       0	*	*	*	*	*	*	1821	0	0	
+
+I 69   *	*	*	*	*	*	*	650	*	1463	*	*	*	*	*	*	*	*	*	*	69
+       0	*	*	0	*	*	*	1726	0	0	
+
+//

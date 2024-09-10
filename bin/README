@@ -1,0 +1,30 @@
+System update
+
+System update via PBS: qsub /home/coma/bin/scripts/pbs_pdexkrec_update.sh
+System update in a standard way: /home/coma/bin/scripts/pdexkrec_update.sh >& log
+
+HHM profiles update
+
+cp YOUR_HHM_PROFILES /home/coma/bin/data/.
+cd /home/coma/bin/data/input;
+ln -s ../YOUR_HHM_PROFILES scop_hhm
+
+PDB structures update (need to predict SS)
+
+cp YOUR_PDB_STRUCTURES /home/coma/bin/data/.
+cd /home/coma/bin/data/input;
+ln -s ../YOUR_PDB_STRUCTURES pdb_structures
+
+Add SCOP PDEXK
+Write PDEXK family name to /home/coma/bin/data/input/pdexk_in_scop.list
+Write conservative positions to /home/coma/bin/data/input/positions.list
+
+Add not SCOP PDEXK
+Put sequence to /home/coma/bin/data/input/pdexk_seq_not_in_scop/NAME.seq
+Write conservative positions to /home/coma/bin/data/input/positions.list
+
+Add negative protein family 
+Put MSA or sequence to /home/coma/bin/data/input/negative_seq/NAME.seq
+
+
+

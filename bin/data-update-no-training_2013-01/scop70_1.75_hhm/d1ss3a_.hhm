@@ -1,0 +1,190 @@
+HHsearch 1.5
+NAME  d1ss3a_ g.2.3.1 (A:) Pollen allergen ole e 6 {Common olive (Olea europaea) [TaxId: 4146]}
+FAM   g.2.3.1
+FILE  d1ss3a_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1ss3a_.a3m -v 1 
+DATE  Tue Jan 22 02:11:57 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  9 out of 11 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.1 
+SEQ
+>ss_pred
+CCHHHHHHHHHHHHHHHCCCCCCCEEEECCCCHHHHHHHHHHHHHCCCCC
+>ss_conf
+91126656444788751368885123201160256788876664137899
+>Consensus
+xxxqfxsCfxxCxkeCxxxgxgxtfCEMKCDtDCxxkexxxklxxxxPxn
+>d1ss3a_ g.2.3.1 (A:) Pollen allergen ole e 6 {Common olive (Olea europaea) [TaxId: 4146]}
+DEAQFKECYDTCHKECSDKGNGFTFCEMKCDTDCSVKDVKEKLENYKPKN
+>gi|359479649|ref|XP_003632317.1|(30-73:73) PREDICTED: pollen allergen Ole e 6-like [Vitis vinifera]   E=2e-09 s/c=1.49 id=58% cov=90%
+----YKTCYEPCDEECKSEGNGDTFCEMKCDTDCLAKVAAEKLNAFKP--
+>gi|6626173|gb|AAF19524.1|AF213464_1(28-73:74) cysteine-rich protein [Nicotiana tabacum]   E=5e-09 s/c=1.39 id=55% cov=94%
+-DEVFKRCFDNCQKECADEGHGYTFCEMKCDADCGMMELKAKIENLK---
+>gi|224099819|ref|XP_002311633.1|(29-72:72) predicted protein [Populus trichocarpa] >gi|222851453|gb|EEE89000.1| predicted protein [Populus trichocarpa]  E=1e-08 s/c=1.43 id=53% cov=90%
+----YGSCFNTCEQECRIGGQGQTFCEMKCDTDCFNKDVGAKLHFTAP--
+>gi|224111128|ref|XP_002315758.1|(27-72:72) predicted protein [Populus trichocarpa] >gi|222864798|gb|EEF01929.1| predicted protein [Populus trichocarpa]  E=9e-08 s/c=1.31 id=51% cov=86%
+--DQFGSCFNTCEQQCKAGGQGQTFCEMKCDTDCFDEEVAGKLH------
+>gi|147866732|emb|CAN83067.1|(31-87:202) hypothetical protein VITISV_014566 [Vitis vinifera]   E=0.0001 s/c=0.87 id=38% cov=94%
+----FASCFDSCHKRCESEENADARCEMKCDADCVAVETtvawvwvrslkAGGIGELQPSN
+>gi|255552109|ref|XP_002517099.1|(29-73:74) conserved hypothetical protein [Ricinus communis] >gi|255560338|ref|XP_002521185.1| conserved hypothetical protein [Ricinus communis] >gi|223539612|gb|EEF41197.1| conserved hypothetical protein [Ricinus communis] >gi|223543734|gb|EEF45262.1| conserved hypothetical protein [Ricinus communis]  E=2e-09 s/c=1.46 id=52% cov=92%
+--DKFASCFNNCEQECKASGQGQTFCEMKCDTDCFNKDVAG---NLSPMN
+>gi|224082660|ref|XP_002306783.1|(10-54:79) predicted protein [Populus trichocarpa] >gi|222856232|gb|EEE93779.1| predicted protein [Populus trichocarpa]  E=2e-09 s/c=1.46 id=46% cov=92%
+-DDQYVTCFNDCEDKCKSEGNGYSFCEMKCDTDCLVKQALGRLHEY----
+>gi|255567550|ref|XP_002524754.1|(29-70:70) conserved hypothetical protein [Ricinus communis] >gi|223535938|gb|EEF37597.1| conserved hypothetical protein [Ricinus communis]  E=4e-08 s/c=1.46 id=53% cov=86%
+-EEQFRSCFNNCKKECQADGGGGTYCEMKCDTDCLAKEAAGKL-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+E 2    *	*	944	1058	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1826	0	0	
+
+A 3    2520	*	1079	1506	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1944	0	0	
+
+Q 4    *	*	*	*	*	*	*	*	2901	*	*	*	*	574	*	*	*	2364	*	*	4
+       0	*	*	*	*	*	*	1944	0	0	
+
+F 5    *	*	*	*	581	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1593	5
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 6    2079	*	*	*	*	2399	*	*	1534	*	*	*	*	*	3243	*	*	3025	*	*	6
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 7    *	*	*	3209	*	*	*	*	*	*	*	*	*	*	2993	911	2093	*	*	*	7
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2169	0	0	
+
+Y 9    *	*	*	*	358	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2187	9
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 10   *	*	1352	3165	*	*	*	*	*	*	*	1009	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2169	0	0	
+
+T 11   *	*	3025	*	*	*	*	*	*	*	*	1690	3165	*	*	2663	1748	*	*	*	11
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2169	0	0	
+
+H 13   *	*	3165	1354	*	*	1910	*	3243	*	*	*	*	2993	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 14   *	*	3025	3165	*	*	*	*	1008	*	*	*	*	1898	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 15   *	*	*	674	*	*	*	*	3025	*	*	*	*	3434	2663	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 17   2993	*	*	2663	*	*	*	*	1302	*	*	*	*	3243	3364	3209	*	*	*	*	17
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 18   1853	*	2097	*	*	*	*	3364	*	*	*	*	*	*	*	1350	*	*	*	*	18
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 19   *	*	3243	949	*	2399	*	*	3209	*	*	*	*	*	*	3666	*	*	*	*	19
+       0	*	*	*	*	*	*	2169	0	0	
+
+G 20   *	*	*	2663	*	248	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2169	0	0	
+
+N 21   *	*	*	*	*	3243	2993	*	*	*	*	999	*	1898	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2169	0	0	
+
+G 22   2663	*	*	*	*	248	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2169	0	0	
+
+F 23   *	*	1892	*	3209	3243	*	*	*	*	*	*	*	1898	*	*	*	*	*	2009	23
+       0	*	*	*	*	*	*	2169	0	0	
+
+T 24   2663	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3025	476	*	*	*	24
+       0	*	*	*	*	*	*	2169	0	0	
+
+F 25   *	*	*	*	441	*	*	*	*	*	*	*	*	*	2663	*	*	*	*	3243	25
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 27   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2169	0	0	
+
+M 28   *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 29   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 31   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2169	0	0	
+
+T 32   1819	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	481	*	*	*	32
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 33   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2169	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	2169	0	0	
+
+S 35   *	*	*	*	1898	2993	*	*	*	1557	*	*	*	*	*	3209	*	2663	*	*	35
+       0	*	*	*	*	*	*	2169	0	0	
+
+V 36   1415	*	3434	*	*	*	*	*	*	*	2993	2507	*	*	*	*	*	2114	*	*	36
+       0	*	*	*	*	*	*	2169	0	0	
+
+K 37   *	*	*	3434	*	*	*	*	680	*	2993	*	*	*	*	*	*	2663	*	*	37
+       0	*	*	*	*	*	*	2169	0	0	
+
+D 38   *	*	1816	1054	*	*	*	*	*	*	*	*	*	3025	*	*	*	3165	*	*	38
+       0	*	*	*	*	*	*	2169	0	0	
+
+V 39   1557	*	*	*	*	*	*	*	*	2993	*	*	*	*	*	*	2663	1409	*	*	39
+       248	2663	*	3459	138	*	*	2169	1000	0	
+
+K 40   872	*	*	*	*	3364	*	*	2097	3025	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2169	0	0	
+
+E 41   2167	*	*	2187	*	842	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       118	*	3666	*	*	*	*	2169	0	0	
+
+K 42   *	*	*	*	*	2586	*	*	508	*	*	*	*	*	2941	*	*	*	*	*	42
+       0	*	*	*	*	*	0	2182	0	1000	
+
+L 43   *	*	*	*	*	*	*	1742	*	513	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	0	2182	0	1000	
+
+E 44   *	*	*	1827	*	2421	1340	*	*	*	*	2874	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	0	*	2166	0	1000	
+
+N 45   2805	*	*	1593	2863	*	*	*	*	*	*	1366	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2196	0	0	
+
+Y 46   *	*	*	*	2805	*	*	*	*	1177	*	*	*	*	*	*	2863	*	*	1851	46
+       0	*	*	*	*	*	*	2196	0	0	
+
+K 47   2594	*	*	*	*	*	*	*	1035	*	*	*	*	2215	*	2933	*	*	*	*	47
+       0	*	*	*	*	*	*	2125	0	0	
+
+P 48   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1996	0	0	
+
+K 49   *	*	*	*	*	*	*	*	1554	*	1751	*	*	*	*	1465	*	*	*	*	49
+       0	*	*	*	*	*	*	1713	0	0	
+
+N 50   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	50
+       0	*	*	0	*	*	*	1713	0	0	
+
+//

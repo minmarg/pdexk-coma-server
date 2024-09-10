@@ -1,0 +1,190 @@
+HHsearch 1.5
+NAME  d1e8ra_ g.29.1.1 (A:) Endo-1;4-beta-xylanase A CBDX {Pseudomonas fluorescens, subsp. cellulosa [TaxId: 294]}
+FAM   g.29.1.1
+FILE  d1e8ra_
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d1e8ra_.a3m -v 1 
+DATE  Mon Jan 21 19:56:49 2013
+LENG  50 match states, 50 columns in multiple alignment
+FILT  58 out of 60 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred
+CCCCCCCCCCCEEEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+>ss_conf
+98760232266201220578874202786210033445778883214789
+>Consensus
+xxgxxCnWyGxxyPlCxnxxsGWGwENxqSCIgxxTCxsqxxxxGvvxxx
+>d1e8ra_ g.29.1.1 (A:) Endo-1;4-beta-xylanase A CBDX {Pseudomonas fluorescens, subsp. cellulosa [TaxId: 294]}
+MGNQQCNWYGTLYPLCVTTTNGWGWEDQRSCIARSTCAAQPAPFGIVGSG
+>gi|757807|emb|CAA88761.1|(609-653:656) endo-beta-1,4-xylanase [Cellvibrio mixtus]   E=2e-11 s/c=1.61 id=57% cov=92%
+--ACQCNWWGTRYPLCTNTASGWGWENNTSCITTSTCNSQGAGGGGV---
+>gi|88797467|ref|ZP_01113056.1|(337-380:514) putative hydrolase (putative secreted protein) [Reinekea blandensis MED297] >gi|88779639|gb|EAR10825.1| putative hydrolase (putative secreted protein) [Reinekea sp. MED297]  E=3e-11 s/c=1.63 id=42% cov=90%
+--GDVCNWWGTRYPICTHVESGWGWQNNTDCVGRLTCETLPDPYGV----
+>gi|254788101|ref|YP_003075530.1|(32-78:702) O-glycosyl hydrolase family 30 [Teredinibacter turnerae T7901] >gi|237687354|gb|ACR14618.1| O-Glycosyl hydrolase family 30 [Teredinibacter turnerae T7901]  E=5e-08 s/c=1.29 id=49% cov=90%
+--NCVCNWYGQgDWPLCSTQSSGWGYENGQSCIGETTCNSQGqySPGGV----
+>gi|28200473|gb|AAO31761.1|(98-146:830) endo-b1,4-mannanase 5C [Cellvibrio japonicus]   E=9e-16 s/c=1.76 id=54% cov=96%
+--GAQCNWYGNSYPVCQQAASGWGWENQQSCIAYADCASLPAPYGVMGG-
+>gi|90020297|ref|YP_526124.1|(179-226:558) RhoGEF guanine nucleotide exchange factor for Rho/Rac/Cdc42-like GTPases-like protein [Saccharophagus degradans 2-40] >gi|89949897|gb|ABD79912.1| putative cellulose-binding protein [Saccharophagus degradans 2-40]  E=4e-15 s/c=1.75 id=55% cov=98%
+-GAQQCNWYGEIRPLCNNQDSGWGWENQQSCIGRDTCSNQSGNGGIIGG-
+>gi|90020303|ref|YP_526130.1|(350-391:507) phospholipid/glycerol acyltransferase [Saccharophagus degradans 2-40] >gi|89949903|gb|ABD79918.1| putative mannan endo-1,4-b-mannosidase [Saccharophagus degradans 2-40]  E=0.0002 s/c=1.15 id=39% cov=82%
+--GGSCDWSGTSFPLCENgNTNDWGYENGQSCVGVGLCDSNPD--------
+>gi|192360917|ref|YP_001983593.1|(298-335:337) chitin binding protein [Cellvibrio japonicus Ueda107] >gi|190687082|gb|ACE84760.1| chitin binding protein, putative, cbp33/10B [Cellvibrio japonicus Ueda107]  E=6e-09 s/c=1.67 id=49% cov=74%
+---EYCNWYGWQVAICKNTTSGWSNENQQTCIGRDTCNA-----------
+>gi|19262983|dbj|BAB79290.2|(424-462:462) beta-1,4-mannanase [Pseudomonas sp. ND137]   E=6e-10 s/c=1.71 id=45% cov=80%
+-SGGSCDWHGSIYPVCQNTSSGWGWENDQSCISQMTCDSQ----------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	1554	*	1554	1649	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1336	0	0	
+
+G 2    2716	*	*	*	*	838	*	*	*	*	*	*	*	*	*	2071	4314	*	*	*	2
+       0	*	*	*	*	*	*	2107	0	0	
+
+N 3    1840	*	*	*	*	868	*	*	*	*	*	3552	*	*	*	3511	*	*	*	*	3
+       0	*	*	*	*	*	*	2487	0	0	
+
+Q 4    4169	2642	4151	1939	*	3088	*	*	*	4946	*	*	*	1656	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2587	0	0	
+
+Q 5    5357	*	*	5127	*	*	*	*	*	*	2583	*	*	1388	5026	3284	4523	2517	*	4428	5
+       0	*	*	*	*	*	*	2576	0	0	
+
+C 6    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2481	0	0	
+
+N 7    *	*	3439	5504	*	*	*	*	4789	*	*	429	*	3438	*	6085	*	*	*	*	7
+       0	*	*	*	*	*	*	2481	0	0	
+
+W 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	8
+       0	*	*	*	*	*	*	2481	0	0	
+
+Y 9    *	*	*	*	*	*	5093	*	*	*	*	*	*	*	*	3991	*	*	3091	339	9
+       29	5672	*	0	*	*	*	2481	1000	0	
+
+G 10   *	*	5672	*	*	198	*	*	*	*	*	*	*	3498	*	5620	*	*	*	*	10
+       0	*	*	*	*	*	*	2481	0	0	
+
+T 11   5379	*	3200	4734	*	*	*	*	*	*	*	4311	5672	4080	*	3821	1016	*	3143	5504	11
+       106	3819	*	0	*	*	*	2481	1499	0	
+
+L 12   4005	*	5810	4845	6314	*	*	3404	*	1869	4499	4256	*	3863	3047	2705	4676	5286	*	*	12
+       147	3364	*	0	*	*	*	2481	1396	0	
+
+Y 13   *	*	*	*	3692	*	*	5828	*	*	*	*	*	*	2591	*	4893	3143	4649	857	13
+       0	*	*	*	*	*	*	2481	0	0	
+
+P 14   3773	*	*	*	*	*	*	*	*	*	*	*	110	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2481	0	0	
+
+L 15   *	*	*	*	*	*	*	2296	*	884	3952	*	*	*	*	*	5542	2569	*	*	15
+       0	*	*	*	*	*	*	2481	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2481	0	0	
+
+V 17   2971	*	*	3192	*	*	*	5341	4979	*	*	3566	*	2056	*	4431	2557	2595	*	*	17
+       0	*	*	*	*	*	*	2481	0	0	
+
+T 18   *	*	5353	*	5085	5891	4398	*	*	*	*	926	*	4217	*	3704	2238	6254	*	*	18
+       129	3991	5456	0	*	*	*	2481	1000	0	
+
+T 19   4164	*	*	*	*	*	*	*	*	*	*	3984	*	1670	*	5064	1074	4015	*	*	19
+       64	*	4535	*	*	0	*	2485	0	1184	
+
+T 20   3330	*	2164	3933	*	*	*	*	*	*	*	2735	5274	5472	*	2685	2083	5516	*	*	20
+       0	*	*	*	*	0	*	2487	0	1185	
+
+N 21   *	*	4720	*	*	*	*	*	*	*	*	2568	*	5085	*	606	3997	4491	*	*	21
+       0	*	*	*	*	*	*	2481	0	0	
+
+G 22   *	*	3991	*	*	94	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2481	0	0	
+
+W 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	23
+       0	*	*	*	*	*	*	2481	0	0	
+
+G 24   *	*	*	*	*	88	5179	*	*	*	*	*	*	*	*	4979	*	*	*	*	24
+       0	*	*	*	*	*	*	2481	0	0	
+
+W 25   *	*	*	*	*	*	*	*	*	*	*	3143	*	*	*	*	*	*	543	2319	25
+       0	*	*	*	*	*	*	2481	0	0	
+
+E 26   *	*	*	70	*	*	*	*	*	*	*	*	*	4398	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2481	0	0	
+
+D 27   *	*	4400	*	*	*	*	*	*	*	*	108	*	5341	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2481	0	0	
+
+Q 28   *	*	5093	*	*	2316	*	*	*	*	*	1255	*	2229	*	2862	*	*	*	*	28
+       0	*	*	*	*	*	*	2481	0	0	
+
+R 29   3496	*	*	*	*	*	*	*	4728	*	6059	*	*	760	2855	3976	3914	*	*	*	29
+       0	*	*	*	*	*	*	2481	0	0	
+
+S 30   *	*	4398	*	*	*	*	*	*	*	*	5910	*	5379	*	324	3143	*	*	*	30
+       0	*	*	*	*	*	*	2481	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2481	0	0	
+
+I 32   *	*	*	*	*	*	*	420	*	*	*	*	*	*	*	*	*	1984	*	*	32
+       0	*	*	*	*	*	*	2481	0	0	
+
+A 33   2719	*	*	*	*	631	*	*	*	*	*	*	*	*	*	2447	5723	*	*	*	33
+       0	*	*	*	*	*	*	2481	0	0	
+
+R 34   2678	*	*	5810	5989	*	*	3628	*	*	*	*	3774	4059	1474	*	3043	3517	*	5182	34
+       0	*	*	*	*	*	*	2481	0	0	
+
+S 35   2923	*	3611	5844	*	3991	*	*	*	4398	5093	2078	*	4257	*	2169	3086	*	*	*	35
+       0	*	*	*	*	*	*	2481	0	0	
+
+T 36   *	*	5182	*	*	*	*	*	*	3991	*	*	*	*	*	5451	173	*	*	*	36
+       0	*	*	*	*	*	*	2481	0	0	
+
+C 37   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2481	0	0	
+
+A 38   3203	*	3212	2614	*	*	*	*	*	*	*	1779	*	3926	*	2567	3409	*	*	*	38
+       0	*	*	*	*	*	*	2481	0	0	
+
+A 39   2277	*	5938	*	*	4418	*	*	*	*	*	2862	*	*	*	920	3958	*	*	*	39
+       18	*	6329	*	*	*	*	2465	0	0	
+
+Q 40   *	*	*	*	*	*	*	*	*	3179	*	3893	*	282	*	*	*	*	*	*	40
+       64	4520	*	0	*	0	*	2364	1116	1000	
+
+P 41   *	*	*	*	*	2832	*	*	*	*	*	5484	1101	*	*	2100	5256	*	3165	*	41
+       37	5306	*	1000	1000	*	*	2416	1000	0	
+
+A 42   1959	5826	2748	*	*	1187	*	*	*	*	*	*	*	*	*	3356	4665	*	*	*	42
+       0	*	*	*	*	*	*	2421	0	0	
+
+P 43   5170	*	4368	5315	*	2908	*	*	*	*	*	1988	1144	*	*	4037	*	*	*	*	43
+       24	5920	*	0	*	*	*	2324	1000	0	
+
+F 44   5426	*	*	*	3137	859	*	*	*	*	*	*	*	*	*	*	*	*	3438	2187	44
+       0	*	*	*	*	*	*	2324	0	0	
+
+G 45   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2324	0	0	
+
+I 46   *	*	*	*	*	3495	*	1585	*	4904	*	*	3511	*	*	*	*	1130	*	*	46
+       0	*	*	*	*	*	*	2324	0	0	
+
+V 47   *	*	*	4120	*	*	*	2793	*	*	4313	*	*	4994	*	*	*	481	*	*	47
+       0	*	*	*	*	*	*	2251	0	0	
+
+G 48   3922	*	*	*	*	1057	*	*	*	*	*	2310	*	*	*	2293	4390	*	*	*	48
+       0	*	*	*	*	*	*	2243	0	0	
+
+S 49   4150	*	*	*	*	1266	*	*	*	*	*	*	4012	*	*	1501	3152	*	*	*	49
+       0	*	*	*	*	*	*	2230	0	0	
+
+G 50   2643	*	*	*	*	252	*	*	*	*	*	*	*	*	*	*	*	*	*	*	50
+       0	*	*	0	*	*	*	1550	0	0	
+
+//

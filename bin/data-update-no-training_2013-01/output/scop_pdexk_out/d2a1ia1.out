@@ -1,0 +1,263 @@
+Query         d2a1ia1 c.52.1.20 (A:99-227) DNA excision repair protein ERCC-1 {Human (Homo sapiens) [TaxId: 9606]}
+Match_columns 129
+No_of_seqs    110 out of 199
+Neff          4.9 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:18 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/d2a1ia1.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//d2a1ia1.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 d2a1ia1 c.52.1.20 (A:99-227) D 100.0       0       0  400.2  14.2  129    1-129     1-129 (129)
+  2 d1j23a_ c.52.1.20 (A:) Putativ  92.2     1.7 0.00013   21.8  11.0  113    2-119     2-129 (131)
+  3 d2bgwa2 c.52.1.20 (A:16-148) X  87.1     3.4 0.00025   20.1   9.2  110    2-116     5-130 (133)
+  4 PF05626 Protein of unknown fun  64.9     4.6 0.00033   19.3   4.4   46   28-78     40-86  (115)
+  5 d2ayxa1 c.23.1.1 (A:817-949) S  50.6      18  0.0013   15.9   5.4   28   84-111    21-48  (133)
+  6 d2r25b1 c.23.1.1 (B:1087-1214)  45.0      36  0.0026   14.0   6.3   11   79-89     65-75  (128)
+  7 d1r6wa1 c.1.11.2 (A:100-320) O  41.4      44  0.0032   13.5   6.3   72   50-126    13-91  (221)
+  8 d1dbqa_ c.93.1.1 (A:) Purine r  22.8      90  0.0065   11.7   5.3   24   95-118   180-203 (282)
+  9 d1i3ca_ c.23.1.1 (A:) Response  22.0      75  0.0055   12.2   4.8   23   40-62     59-81  (144)
+ 10 d1rlga_ d.79.3.1 (A:) Ribosoma  21.3 2.2E+02   0.016    9.4   7.0   51   60-112    31-81  (113)
+ 11 d1dcfa_ c.23.1.2 (A:) Receiver  21.3      70  0.0051   12.3   4.5   20   92-111    28-47  (134)
+ 12 d1xc5a1 a.4.1.3 (A:413-480) Nu  21.1      28   0.002   14.7   2.4   22   98-119    16-37  (68)
+ 13 d2iw5b1 a.4.1.3 (B:376-440) RE  20.5      28  0.0021   14.7   2.3   19  101-119     7-25  (65)
+
+No 1  
+>d2a1ia1 c.52.1.20 (A:99-227) DNA excision repair protein ERCC-1 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=100.00  E-value=0  Score=400.18  Aligned_columns=129  Identities=100%
+
+Q ss_pred             CCEEECCCCCCCHHHHHHCCCCCEECCCCCCEEECCCCEEEEEEHHHHCCCHHHHHHHHHHHCCCCCCEEEEEEECCCCH
+Q ss_conf             92451686445603453400772003614670454875389975010056868999999860457640489998417875
+Q d2a1ia1           1 NSIIVSPRQRGNPVLKFVRNVPWEFGDVIPDYVLGQSTCALFLSLRYHNLHPDYIHGRLQSLGKNFALRVLLVQVDVKDP   80 (129)
+Q Consensus         1 n~i~Vn~~QkgNplL~~i~nv~~e~~~i~~Dy~ig~~~~vLfLSLkyH~l~P~YI~~Ri~~l~~~y~lrvLL~~VDv~d~   80 (129)
+                      |+|+||++|||||+|++||||||||+||+|||++|+++||||||||||+|||+||++||++|+++|++|||||+||++|+
+T Consensus         1 n~i~Vn~~QkgNplL~~i~nv~~e~~~i~~Dy~ig~~~~vLfLSLkyH~l~P~YI~~Ri~~l~~~y~lrvLL~~VDv~d~   80 (129)
+T d2a1ia1           1 NSIIVSPRQRGNPVLKFVRNVPWEFGDVIPDYVLGQSTCALFLSLRYHNLHPDYIHGRLQSLGKNFALRVLLVQVDVKDP   80 (129)
+T ss_pred             CCEEECCCCCCCHHHHHHCCCCCEECCCCCCEEECCCCEEEEEEHHHHCCCHHHHHHHHHHHCCCCCCEEEEEEECCCCH
+T ss_conf             92451686445603453400772003614670454875389975010056868999999860457640489998417875
+
+
+Q ss_pred             HHHHHHHHHHHHHHCCEEEEECCHHHHHHHHHHHHHHCCCCHHHHHCCC
+Q ss_conf             8999999998987187568852989999999998875078825752049
+Q d2a1ia1          81 QQALKELAKMCILADCTLILAWSPEEAGRYLETYKAYEQKPADLLMEKL  129 (129)
+Q Consensus        81 ~~~l~eL~~~c~~~~~TLilawS~eEaa~Yle~~K~~e~k~~d~I~~kv  129 (129)
+                      +++|+|||++|+.++||||||||+|||||||||||+||+||||+|||||
+T Consensus        81 ~~~l~eL~~~c~~~~~TLilawS~eEaa~Yle~~K~~e~k~~d~I~~kv  129 (129)
+T d2a1ia1          81 QQALKELAKMCILADCTLILAWSPEEAGRYLETYKAYEQKPADLLMEKL  129 (129)
+T ss_pred             HHHHHHHHHHHHHHCCEEEEECCHHHHHHHHHHHHHHCCCCHHHHHCCC
+T ss_conf             8999999998987187568852989999999998875078825752049
+
+
+No 2  
+>d1j23a_ c.52.1.20 (A:) Putative ATP-dependent RNA helicase Hef, nuclease domain {Archaeon Pyrococcus furiosus [TaxId: 2261]}
+Probab=92.17   E-value=1.7  Score=21.81  Aligned_columns=113  Identities=18%
+
+Q ss_pred             CEEECCCCCCCHHHHHHC--CCCCEECCC-CCCEEECCCCEEEE-------EEHHHHCCCHHHHHHHHHHHCCCCCCEEE
+Q ss_conf             245168644560345340--077200361-46704548753899-------75010056868999999860457640489
+Q d2a1ia1           2 SIIVSPRQRGNPVLKFVR--NVPWEFGDV-IPDYVLGQSTCALF-------LSLRYHNLHPDYIHGRLQSLGKNFALRVL   71 (129)
+Q Consensus         2 ~i~Vn~~QkgNplL~~i~--nv~~e~~~i-~~Dy~ig~~~~vLf-------LSLkyH~l~P~YI~~Ri~~l~~~y~lrvL   71 (129)
+                      .|+|-.|-....+...++  +++.+.... +.||.++...+|==       -|++--|     ..+....|...+...++
+T Consensus         2 ~IvvD~RE~~s~i~~~l~~~gv~~~~~~L~~GDy~i~~~~~VERKs~~Dl~~Si~dgR-----~~~Q~~rl~~~~~~~~~   76 (131)
+T d1j23a_           2 KVVVDSRELRSEVVKRLKLLGVKLEVKTLDVGDYIISEDVAIERKSANDLIQSIIDGG-----LFDQVKRLKEAYSRPIM   76 (131)
+T ss_pred             EEEECCCCCCCHHHHHHHHCCCEEEEEECCCCCEEEECCEEEEECCHHHHHHHHCCCC-----HHHHHHHHHHCCCCEEE
+T ss_conf             7886166567166899996598588987052647873758898428899987631771-----88999999962796699
+
+
+Q ss_pred             EEEECCCC-----HHHHHHHHHHHHHHHCCEEEEECCHHHHHHHHHHHHHHCC
+Q ss_conf             99841787-----5899999999898718756885298999999999887507
+Q d2a1ia1          72 LVQVDVKD-----PQQALKELAKMCILADCTLILAWSPEEAGRYLETYKAYEQ  119 (129)
+Q Consensus        72 L~~VDv~d-----~~~~l~eL~~~c~~~~~TLilawS~eEaa~Yle~~K~~e~  119 (129)
+                      |+--|..+     +.+....|..+.+..+++++-+-|.++.|++|..+..-++
+T Consensus        77 LIEg~~~~~~~~~~~~i~~al~~~~~~~~~~vi~t~~~~~Ta~~l~~l~r~~~  129 (131)
+T d1j23a_          77 IVEGSLYGIRNVHPNAIRGAIAAVTVDFGVPIIFSSTPEETAQYIFLIAKREQ  129 (131)
+T ss_pred             EEECCCCCCCCCCHHHHHHHHHHHHHHCCCEEEEECCHHHHHHHHHHHHHHCC
+T ss_conf             98668200126488999999998775558558882898999999999996306
+
+
+No 3  
+>d2bgwa2 c.52.1.20 (A:16-148) XPF endonuclease {Aeropyrum pernix [TaxId: 56636]}
+Probab=87.10   E-value=3.4  Score=20.06  Aligned_columns=110  Identities=15%
+
+Q ss_pred             CEEECCCCCCCHHHHHHC--CCCCEECCC-CCCEEECCCCEEE-------EEEHHHHCCCHHHHHHHHHHHCCCCCCEEE
+Q ss_conf             245168644560345340--077200361-4670454875389-------975010056868999999860457640489
+Q d2a1ia1           2 SIIVSPRQRGNPVLKFVR--NVPWEFGDV-IPDYVLGQSTCAL-------FLSLRYHNLHPDYIHGRLQSLGKNFALRVL   71 (129)
+Q Consensus         2 ~i~Vn~~QkgNplL~~i~--nv~~e~~~i-~~Dy~ig~~~~vL-------fLSLkyH~l~P~YI~~Ri~~l~~~y~lrvL   71 (129)
+                      .|+|-.|-++.-+...+.  +++.+...+ +.||.++...+|=       --|++-.|     ..+.+..|...+...++
+T Consensus         5 ~IivD~RE~~s~i~~~l~~~gv~~~~~~L~~GDy~~~~~~~VERKt~~Dl~~Si~dgR-----~~~Q~~rl~~~~~~~~~   79 (133)
+T d2bgwa2           5 RVYVDVREERSPVPSILESLGVQVIPKQLPMGDYLVSDSIIVERKTSSDFAKSLFDGR-----LFEQASRLAEHYETVFI   79 (133)
+T ss_pred             EEEEECCCCCCHHHHHHHHCCCEEEEEECCCCCEEEECCEEEEECCHHHHHHHHCCCH-----HHHHHHHHHHCCCCEEE
+T ss_conf             7888357654034799996698588875363405675333344327789987612762-----89999999843895589
+
+
+Q ss_pred             EEEECCCCH------HHHHHHHHHHHHHHCCEEEEECCHHHHHHHHHHHHH
+Q ss_conf             998417875------899999999898718756885298999999999887
+Q d2a1ia1          72 LVQVDVKDP------QQALKELAKMCILADCTLILAWSPEEAGRYLETYKA  116 (129)
+Q Consensus        72 L~~VDv~d~------~~~l~eL~~~c~~~~~TLilawS~eEaa~Yle~~K~  116 (129)
+                      |+-=|....      .+....|..+....++.++-+-|.+|.|++|..++.
+T Consensus        80 LIEg~~~~~~~~~~~~~i~~al~~l~~~~g~~vi~t~~~~~Ta~~l~~l~r  130 (133)
+T d2bgwa2          80 IVEGPPVPRRYRGRERSLYAAMAALQLDYGIRLMNTMDPKGTALVIESLAR  130 (133)
+T ss_pred             EEECCCCCCCCCCCHHHHHHHHHHHHHHCCCEEEECCCHHHHHHHHHHHHH
+T ss_conf             986486531015689999999999887728348870998999999999975
+
+
+No 4  
+>PF05626 Protein of unknown function (DUF790) PDEXK_domain only 
+Probab=64.89   E-value=4.6  Score=19.31  Aligned_columns=46  Identities=22%
+
+Q ss_pred             CCCCEEECCCCEEEEE-EHHHHCCCHHHHHHHHHHHCCCCCCEEEEEEECCC
+Q ss_conf             1467045487538997-50100568689999998604576404899984178
+Q d2a1ia1          28 VIPDYVLGQSTCALFL-SLRYHNLHPDYIHGRLQSLGKNFALRVLLVQVDVK   78 (129)
+Q Consensus        28 i~~Dy~ig~~~~vLfL-SLkyH~l~P~YI~~Ri~~l~~~y~lrvLL~~VDv~   78 (129)
+                      ++|||.+.++.--.|+ =.-|-   |+|+.+++.++.+. ... ||+.|+-.
+T Consensus        40 ~IPDF~~~~~g~~vy~EIvGFW---teYl~kKl~kl~~~-~~~-lllav~e~   86 (115)
+T PF05626          40 YIPDFLINKGGKKVYVEIVGFW---TEYLKKKLEKLRKV-GIP-LLLLVNEE   86 (115)
+T ss_pred             EECEEEECCCCCEEEEEEECCC---HHHHHHHHHHHHHC-CCC-EEEEECCC
+T ss_conf             7000122159958999986247---68889999998608-997-89996232
+
+
+No 5  
+>d2ayxa1 c.23.1.1 (A:817-949) Sensor kinase protein RcsC, C-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=50.63   E-value=18  Score=15.87  Aligned_columns=28  Identities=18%
+
+Q ss_pred             HHHHHHHHHHHCCEEEEECCHHHHHHHH
+Q ss_conf             9999998987187568852989999999
+Q d2a1ia1          84 LKELAKMCILADCTLILAWSPEEAGRYL  111 (129)
+Q Consensus        84 l~eL~~~c~~~~~TLilawS~eEaa~Yl  111 (129)
+                      .+-+....-..+++...|.|.+||-.-+
+T Consensus        21 ~~~l~~~L~~~g~~v~~a~~g~~al~~l   48 (133)
+T d2ayxa1          21 RRLLADQLGSLGYQCKTANDGVDALNVL   48 (133)
+T ss_pred             HHHHHHHHHHCCCEEEEECCHHHHHHHH
+T ss_conf             9999999997399998987968999999
+
+
+No 6  
+>d2r25b1 c.23.1.1 (B:1087-1214) Response regulator Sin1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+Probab=44.98   E-value=36  Score=14.03  Aligned_columns=11  Identities=18%
+
+Q ss_pred             CHHHHHHHHHH
+Q ss_conf             75899999999
+Q d2a1ia1          79 DPQQALKELAK   89 (129)
+Q Consensus        79 d~~~~l~eL~~   89 (129)
+                      |.-+.++.+-.
+T Consensus        65 dG~e~~~~ir~   75 (128)
+T d2r25b1          65 DGLLSTKMIRR   75 (128)
+T ss_pred             HHHHHHHHHHH
+T ss_conf             07899999997
+
+
+No 7  
+>d1r6wa1 c.1.11.2 (A:100-320) O-succinylbenzoate synthase {Escherichia coli [TaxId: 562]}
+Probab=41.37   E-value=44  Score=13.54  Aligned_columns=72  Identities=21%
+
+Q ss_pred             CCHHHHHHHHHHHCCCCCCEEEEEEE---CCCCHHHHHHHHHHHHHHHCCEEEE----ECCHHHHHHHHHHHHHHCCCCH
+Q ss_conf             68689999998604576404899984---1787589999999989871875688----5298999999999887507882
+Q d2a1ia1          50 LHPDYIHGRLQSLGKNFALRVLLVQV---DVKDPQQALKELAKMCILADCTLIL----AWSPEEAGRYLETYKAYEQKPA  122 (129)
+Q Consensus        50 l~P~YI~~Ri~~l~~~y~lrvLL~~V---Dv~d~~~~l~eL~~~c~~~~~TLil----awS~eEaa~Yle~~K~~e~k~~  122 (129)
+                      -.|+.+-+|++.... |  +.+=+-|   |.++....++.+-+ .+ .+.+|.+    +|+.+||-+....++.++..+.
+T Consensus        13 gdp~e~~~~~~~~~G-~--~~~KiKvG~~~~~~D~~~i~air~-~~-pd~~L~vDaN~~wt~~~A~~~~~~l~~~~~~~i   87 (221)
+T d1r6wa1          13 GDPDDLILKLADMPG-E--KVAKVRVGLYEAVRDGMVVNLLLE-AI-PDLHLRLDANRAWTPLKGQQFAKYVNPDYRDRI   87 (221)
+T ss_pred             CCHHHHHHHHHHHCC-C--CEEEEEECCCCHHHHHHHHHHHHH-HC-CCCEEEEECCCCCCHHHHHHHHHHHHHHHCCCC
+T ss_conf             898999999998458-9--899997369998899999999999-75-996899824534463789999998787610786
+
+
+Q ss_pred             HHHH
+Q ss_conf             5752
+Q d2a1ia1         123 DLLM  126 (129)
+Q Consensus       123 d~I~  126 (129)
+                      +.|.
+T Consensus        88 ~~iE   91 (221)
+T d1r6wa1          88 AFLE   91 (221)
+T ss_pred             CCCC
+T ss_conf             5344
+
+
+No 8  
+>d1dbqa_ c.93.1.1 (A:) Purine repressor (PurR), C-terminal domain {Escherichia coli [TaxId: 562]}
+Probab=22.80   E-value=90  Score=11.70  Aligned_columns=24  Identities=13%
+
+Q ss_pred             CCEEEEECCHHHHHHHHHHHHHHC
+Q ss_conf             875688529899999999988750
+Q d2a1ia1          95 DCTLILAWSPEEAGRYLETYKAYE  118 (129)
+Q Consensus        95 ~~TLilawS~eEaa~Yle~~K~~e  118 (129)
+                      +.+.++|.+..-|..-+..++...
+T Consensus       180 ~~~aii~~~d~~A~g~~~~l~~~g  203 (282)
+T d1dbqa_         180 RPTAVFCGGDIMAMGALCAADEMG  203 (282)
+T ss_pred             CCCHHHHHHHHHHCCCCCHHHHHH
+T ss_conf             530111002122102100013332
+
+
+No 9  
+>d1i3ca_ c.23.1.1 (A:) Response regulator for cyanobacterial phytochrome {Synechocystis sp. PCC 6803, RCP1 [TaxId: 1148]}
+Probab=22.04   E-value=75  Score=12.15  Aligned_columns=23  Identities=9%
+
+Q ss_pred             EEEEEHHHHCCCHHHHHHHHHHH
+Q ss_conf             89975010056868999999860
+Q d2a1ia1          40 ALFLSLRYHNLHPDYIHGRLQSL   62 (129)
+Q Consensus        40 vLfLSLkyH~l~P~YI~~Ri~~l   62 (129)
+                      ++++.+.--...---+-++|++-
+T Consensus        59 liilD~~mP~~dG~ell~~ir~~   81 (144)
+T d1i3ca_          59 LILLDLNLPKKDGREVLAEIKQN   81 (144)
+T ss_pred             EEEECCCCCCCCHHHHHHHHHCC
+T ss_conf             89872758885638899998606
+
+
+No 10 
+>d1rlga_ d.79.3.1 (A:) Ribosomal protein L7ae {Archaeon Archaeoglobus fulgidus [TaxId: 2234]}
+Probab=21.30   E-value=2.2e+02  Score=9.37  Aligned_columns=51  Identities=20%
+
+Q ss_pred             HHHCCCCCCEEEEEEECCCCHHHHHHHHHHHHHHHCCEEEEECCHHHHHHHHH
+Q ss_conf             86045764048999841787589999999989871875688529899999999
+Q d2a1ia1          60 QSLGKNFALRVLLVQVDVKDPQQALKELAKMCILADCTLILAWSPEEAGRYLE  112 (129)
+Q Consensus        60 ~~l~~~y~lrvLL~~VDv~d~~~~l~eL~~~c~~~~~TLilawS~eEaa~Yle  112 (129)
+                      +.+.+. ..+++++--|++ |.+....+...|-..+...+-..|-+|-|+...
+T Consensus        31 k~i~~~-k~~lVilA~D~~-p~~~~~~l~~lc~~~~Vp~~~~~sk~eLG~a~g   81 (113)
+T d1rlga_          31 KAVERG-LAKLVYIAEDVD-PPEIVAHLPLLCEEKNVPYIYVKSKNDLGRAVG   81 (113)
+T ss_pred             HHHHCC-CEEEEEEECCCC-HHHHHHHHHHHHHHCCCEEEEECCHHHHHHHHC
+T ss_conf             998659-714899844888-589999988755441833799759789999849
+
+
+No 11 
+>d1dcfa_ c.23.1.2 (A:) Receiver domain of the ethylene receptor {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+Probab=21.26   E-value=70  Score=12.34  Aligned_columns=20  Identities=25%
+
+Q ss_pred             HHHCCEEEEECCHHHHHHHH
+Q ss_conf             87187568852989999999
+Q d2a1ia1          92 ILADCTLILAWSPEEAGRYL  111 (129)
+Q Consensus        92 ~~~~~TLilawS~eEaa~Yl  111 (129)
+                      -..++....|.|.+||-+.+
+T Consensus        28 ~~~g~~v~~a~~g~eal~~l   47 (134)
+T d1dcfa_          28 VHLGCEVTTVSSNEECLRVV   47 (134)
+T ss_pred             HHCCCEEEEECCHHHHHHHH
+T ss_conf             97299998986968999999
+
+
+No 12 
+>d1xc5a1 a.4.1.3 (A:413-480) Nuclear receptor corepressor 2 {Human (Homo sapiens) [TaxId: 9606]}
+Probab=21.08   E-value=28  Score=14.68  Aligned_columns=22  Identities=18%
+
+Q ss_pred             EEEECCHHHHHHHHHHHHHHCC
+Q ss_conf             6885298999999999887507
+Q d2a1ia1          98 LILAWSPEEAGRYLETYKAYEQ  119 (129)
+Q Consensus        98 LilawS~eEaa~Yle~~K~~e~  119 (129)
+                      ..-.||.+|....++.|..|..
+T Consensus        16 ~~~~WT~eE~~~f~~~~~~~gk   37 (68)
+T d1xc5a1          16 VMNMWSEQEKETFREKFMQHPK   37 (68)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHCH
+T ss_conf             8899997889999999986265
+
+
+No 13 
+>d2iw5b1 a.4.1.3 (B:376-440) REST corepressor 1, CoREST {Human (Homo sapiens) [TaxId: 9606]}
+Probab=20.47   E-value=28  Score=14.66  Aligned_columns=19  Identities=21%
+
+Q ss_pred             ECCHHHHHHHHHHHHHHCC
+Q ss_conf             5298999999999887507
+Q d2a1ia1         101 AWSPEEAGRYLETYKAYEQ  119 (129)
+Q Consensus       101 awS~eEaa~Yle~~K~~e~  119 (129)
+                      .||.+|....++.+..|..
+T Consensus         7 ~WT~eE~~~~~~~~~~~G~   25 (65)
+T d2iw5b1           7 RWTTEEQLLAVQAIRKYGR   25 (65)
+T ss_pred             CCCHHHHHHHHHHHHHHCC
+T ss_conf             9997889999999986254
+
+
+Done!

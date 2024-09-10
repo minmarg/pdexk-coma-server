@@ -1,0 +1,184 @@
+HHsearch 1.5
+NAME  d2diia1 a.240.1.1 (A:8-55) TFIIH basal transcription factor complex p62 subunit, BTF2 {Human (Homo sapiens) [TaxId: 9606]}
+FAM   a.240.1.1
+FILE  d2diia1
+COM   //usr/local/install/HHsearch/HHsearch1.5.0/hhmake -i /home/mindaugas/projects/svm-PDEXK-200712/data_astral_2013-01/log/../astral70-1.75-hhm//d2diia1.a3m -v 1 
+DATE  Tue Jan 22 06:29:07 2013
+LENG  48 match states, 48 columns in multiple alignment
+FILT  72 out of 74 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.7 
+SEQ
+>ss_pred
+CHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHCCCCHHHHHHCCCCCC
+>ss_conf
+934688999999998731888999999987506878676642036789
+>Consensus
+fkxkxxxelexrxxlLxxnpxLxxLxkxlVxsgxisxxeFWxxrxxLx
+>d2diia1 a.240.1.1 (A:8-55) TFIIH basal transcription factor complex p62 subunit, BTF2 {Human (Homo sapiens) [TaxId: 9606]}
+FKRKANKELEEKNRMLQEDPVLFQLYKDLVVSQVISAEEFWANRLNVN
+>gi|324512249|gb|ADY45079.1|(128-169:531) General transcription factor IIH subunit 1, partial [Ascaris suum]   E=3e-07 s/c=1.37 id=42% cov=90%
+------REMEAKKKILEQNAHLRQLYKHLVASKLISAQDFWCDYYTSN
+>gi|193848605|gb|ACF22789.1|(130-171:576) transcription factor related protein [Brachypodium distachyon]   E=7e-07 s/c=1.34 id=35% cov=90%
+-----SAEMERRMKLLREDSELQKLHKKFVLGNILQESEFWATRKNL-
+>gi|170092389|ref|XP_001877416.1|(163-203:595) predicted protein [Laccaria bicolor S238N-H82] >gi|164647275|gb|EDR11519.1| predicted protein [Laccaria bicolor S238N-H82]  E=4e-09 s/c=1.56 id=33% cov=88%
+------SDFRLRKRVLMSNHELGSLHKDLVMSGQITEAEFWDGREHL-
+>gi|353236337|emb|CCA68334.1|(153-198:580) related to TFB1-subunit of RNA polymerase II transcription initiation factor TFIIH [Piriformospora indica DSM 11827]  E=4e-06 s/c=1.17 id=30% cov=98%
+-KEQAARMYRLRKRILMRDPELAALHSAVVIAGKMSENDFWASRQHL-
+>gi|402223987|gb|EJU04050.1|(148-191:613) hypothetical protein DACRYDRAFT_105115 [Dacryopinax sp. DJM-731 SS1]  E=4e-06 s/c=1.23 id=24% cov=94%
+---QIGEENQLRRSVLLKHPPLAALHRQLVLSGQLTETDFWQGRSSL-
+>gi|213402035|ref|XP_002171790.1|(60-105:468) RNA polymerase II transcription factor B subunit 1 [Schizosaccharomyces japonicus yFS275] >gi|211999837|gb|EEB05497.1| RNA polymerase II transcription factor B subunit 1 [Schizosaccharomyces japonicus yFS275]  E=0.0005 s/c=1.02 id=26% cov=98%
+-KLRLEEDIDLQESLLTKNPELLQTFKEVVMKGHLTNEQFWSTRLHL-
+>gi|325183142|emb|CCA17600.1|(131-170:541) general transcription factor IIH subunit putative [Albugo laibachii Nc14]  E=6e-05 s/c=1.26 id=24% cov=85%
+-------EIKQRAALLASNSNLKRQHTEMVNQGLISEEDFWQARRHL-
+>gi|330841153|ref|XP_003292567.1|(159-201:613) hypothetical protein DICPUDRAFT_89879 [Dictyostelium purpureum] >gi|325077163|gb|EGC30894.1| hypothetical protein DICPUDRAFT_89879 [Dictyostelium purpureum]  E=0.0008 s/c=1.08 id=30% cov=90%
+-----EQQIKQRVQLLMSNKELKQLYEQLVVqDKVITESDFWESRKTL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	123	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3609	1
+       0	*	*	*	*	*	*	2294	0	0	
+
+K 2    *	*	*	*	*	*	5240	*	379	*	*	*	*	4390	2671	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3112	0	0	
+
+R 3    *	*	4055	3332	*	4158	*	*	2161	3806	*	*	*	*	1428	4737	3639	*	*	*	3
+       0	*	*	*	*	*	*	3236	0	0	
+
+K 4    *	*	*	*	*	*	*	*	1084	*	4495	*	*	1973	2986	4283	4278	*	*	*	4
+       0	*	*	*	*	*	*	3335	0	0	
+
+A 5    1519	*	*	*	*	*	*	1909	*	2529	4273	*	5594	*	*	*	*	2846	*	*	5
+       0	*	*	*	*	*	*	3397	0	0	
+
+N 6    3342	*	2295	2613	*	4530	5400	*	*	*	*	2149	*	4440	5814	2830	*	4745	*	*	6
+       0	*	*	*	*	*	*	3570	0	0	
+
+K 7    4344	*	*	3120	*	4473	*	*	1558	*	*	2864	*	4012	3474	3288	4072	*	*	*	7
+       0	*	*	*	*	*	*	3683	0	0	
+
+E 8    *	*	1566	790	*	*	*	*	*	*	5212	5764	5746	5652	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3757	0	0	
+
+L 9    *	*	*	*	2768	*	*	2455	*	935	3636	5705	*	*	*	*	*	5552	*	5212	9
+       0	*	*	*	*	*	*	3757	0	0	
+
+E 10   6083	*	4398	993	*	4901	*	*	2712	5457	*	*	*	3790	2912	*	5552	*	*	*	10
+       0	*	*	*	*	*	*	3757	0	0	
+
+E 11   2999	*	4609	1888	*	*	*	4929	*	1468	4734	*	*	3597	4344	*	*	*	*	*	11
+       27	5746	*	1585	585	*	*	3757	1000	0	
+
+K 12   *	*	*	*	*	*	*	*	1279	*	*	*	*	3790	955	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3834	0	0	
+
+N 13   4119	*	*	4472	4893	5636	*	3979	1945	*	3892	2504	*	3134	4626	3547	*	4764	*	*	13
+       0	*	*	*	*	*	*	3834	0	0	
+
+R 14   4194	*	*	*	*	*	*	*	1587	4562	*	5011	*	4464	1498	2839	*	*	*	*	14
+       0	*	*	*	*	*	*	3834	0	0	
+
+M 15   *	*	*	*	5351	*	*	2776	*	1315	3535	*	*	*	6538	*	6299	1654	*	*	15
+       0	*	*	*	*	*	*	3834	0	0	
+
+L 16   *	*	*	*	*	*	*	4339	*	73	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3834	0	0	
+
+Q 17   4587	6044	*	3575	*	5969	*	5879	2899	3959	3675	*	*	1984	3807	3123	3760	4758	*	*	17
+       0	*	*	*	*	*	*	3834	0	0	
+
+E 18   3584	*	4889	1623	*	5339	*	*	3233	4815	*	4086	*	4289	3859	2425	5248	*	*	*	18
+       0	*	*	*	*	*	*	3834	0	0	
+
+D 19   *	*	1744	*	*	*	3420	*	*	*	*	774	*	*	*	*	5430	*	*	*	19
+       0	*	*	*	*	*	*	3834	0	0	
+
+P 20   4078	*	6211	*	*	*	6491	*	4291	*	*	*	754	4472	3722	3123	6632	5248	*	*	20
+       0	*	*	*	*	*	*	3834	0	0	
+
+V 21   5264	*	3101	1472	*	*	4858	*	4980	*	5125	3024	5789	3325	6071	4312	3959	4968	*	*	21
+       0	*	*	*	*	*	*	3834	0	0	
+
+L 22   *	*	*	*	*	*	*	4364	*	109	*	*	*	*	*	*	*	*	*	5351	22
+       0	*	*	*	*	*	*	3834	0	0	
+
+F 23   2375	*	*	4411	3197	5207	*	*	2862	2403	*	*	*	3200	3052	5199	*	5800	*	5447	23
+       0	*	*	*	*	*	*	3834	0	0	
+
+Q 24   2675	*	*	4023	*	*	4815	*	2830	6190	6211	5528	*	1324	3899	4221	4772	*	*	*	24
+       0	*	*	*	*	*	*	3834	0	0	
+
+L 25   *	*	*	*	*	*	*	5712	*	242	6184	*	*	4587	*	*	3641	*	*	*	25
+       0	*	*	*	*	*	*	3834	0	0	
+
+Y 26   *	*	*	*	3237	*	1196	*	*	*	*	*	*	*	*	*	*	*	*	1128	26
+       0	*	*	*	*	*	*	3834	0	0	
+
+K 27   *	*	5809	3629	*	*	*	*	1065	*	4636	6285	*	4011	2339	4287	4076	*	*	*	27
+       0	*	*	*	*	*	*	3834	0	0	
+
+D 28   4882	*	1470	1614	*	*	4858	*	5069	*	*	3950	*	3146	5528	6071	*	*	*	*	28
+       0	*	*	*	*	*	*	3834	0	0	
+
+L 29   4310	*	*	*	3991	*	*	4415	*	572	3738	*	*	*	*	*	5248	3922	*	*	29
+       0	*	*	*	*	*	*	3834	0	0	
+
+V 30   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	30
+       0	*	*	*	*	*	*	3834	0	0	
+
+V 31   3638	*	*	6452	*	4215	*	1922	4298	3156	2512	4587	*	*	*	5528	5800	2683	*	6044	31
+       28	5719	*	0	*	*	*	3834	1000	0	
+
+S 32   3893	*	4071	*	*	2271	*	*	4472	*	*	*	*	5458	*	1513	2014	*	*	*	32
+       0	*	*	*	*	*	*	3834	0	0	
+
+Q 33   *	*	5970	6319	*	825	5969	*	2347	*	*	3681	*	3713	4631	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3834	0	0	
+
+V 34   5199	*	*	5739	*	*	3482	2573	4717	3175	*	*	*	2452	*	*	4825	1600	*	*	34
+       0	*	*	*	*	*	*	3834	0	0	
+
+I 35   *	*	*	*	*	*	*	775	*	2047	3308	*	*	*	*	*	*	3785	*	*	35
+       0	*	*	*	*	*	*	3834	0	0	
+
+S 36   *	*	5879	*	*	*	*	*	*	*	*	4815	5302	4523	*	1114	1263	*	*	*	36
+       0	*	*	*	*	*	*	3834	0	0	
+
+A 37   2400	*	3846	1209	*	*	*	*	*	*	*	3808	3686	*	*	2649	*	*	*	*	37
+       0	*	*	*	*	*	*	3834	0	0	
+
+E 38   2524	*	2763	1479	*	5814	*	*	*	*	*	4047	*	3396	*	3270	5198	5975	*	*	38
+       0	*	*	*	*	*	*	3834	0	0	
+
+E 39   *	*	1800	710	*	*	*	*	5823	*	*	*	*	3579	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	3834	0	0	
+
+F 40   *	*	*	*	52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4815	40
+       0	*	*	*	*	*	*	3834	0	0	
+
+W 41   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	41
+       0	*	*	*	*	*	*	3834	0	0	
+
+A 42   1601	5954	3985	2428	*	*	*	*	6242	*	*	5296	*	3663	*	1902	5637	*	*	*	42
+       18	6367	*	2000	415	*	*	3799	1000	0	
+
+N 43   4211	*	3346	4932	*	1986	*	*	*	*	*	3252	*	4190	6261	3072	1885	*	*	*	43
+       0	*	*	*	*	*	*	3684	0	0	
+
+R 44   *	*	*	*	*	*	2394	*	5357	*	*	*	*	6122	476	*	*	*	*	4263	44
+       0	*	*	*	*	*	*	3630	0	0	
+
+L 45   2275	*	*	2837	6029	*	*	6151	2340	3932	4693	*	*	3523	3470	4164	4885	5474	*	4918	45
+       0	*	*	*	*	*	*	3715	0	0	
+
+N 46   *	*	*	*	*	5869	1370	*	3805	*	*	2462	3500	5118	*	3267	3036	*	*	*	46
+       0	*	*	*	*	*	*	3769	0	0	
+
+V 47   *	*	*	*	*	5139	*	*	*	439	3642	*	*	*	*	4231	*	3316	*	*	47
+       0	*	*	*	*	*	*	3629	0	0	
+
+N 48   *	*	*	*	*	*	*	*	*	*	*	252	*	*	*	2641	*	*	*	*	48
+       0	*	*	0	*	*	*	2100	0	0	
+
+//

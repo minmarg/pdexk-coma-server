@@ -1,0 +1,193 @@
+Query         3ebj_A
+Match_columns 175
+No_of_seqs    6 out of 8
+Neff          2.0 
+Searched_HMMs 13790
+Date          Wed Jan 23 13:40:25 2013
+Command       //usr/local/install/HHsearch/HHsearch1.5.0/hhsearch -i /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../PDEXK_hhm/3ebj_A.hhm -d /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk.database -o /home/mindaugas/projects/svm-PDEXK-200712/2013-01-update-no-training/2013-01-scop_pdexk_out/log/../scop_pdexk_out//3ebj_A.out -ssm 4 -v 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3ebj_A                         100.0       0       0  674.6  15.3  175    1-175     1-175 (175)
+  2 d1khva_ e.8.1.4 (A:) Viral RNA  80.2     1.5 0.00011   22.0   4.9   65   11-75    253-318 (497)
+  3 d1sh0a_ e.8.1.4 (A:) Viral RNA  79.9     1.7 0.00013   21.6   5.2   65   11-75    244-309 (502)
+  4 d1xr5a_ e.8.1.4 (A:) Viral RNA  39.7      27  0.0019   14.5   4.9   62   11-76    240-302 (460)
+  5 d1u09a_ e.8.1.4 (A:) Viral RNA  38.9      34  0.0025   13.8   5.4   64   11-75    247-312 (476)
+  6 d1xr7a_ e.8.1.4 (A:) Viral RNA  36.2      33  0.0024   13.9   5.0   61   11-76    241-302 (460)
+  7 d1ra6a_ e.8.1.4 (A:) Viral RNA  29.6      48  0.0035   13.0   4.9   62   11-75    240-302 (461)
+  8 d1v2za_ a.186.1.1 (A:) Circadi  25.3      14   0.001   16.2   1.5   51    3-53     42-105 (106)
+  9 d1r8ja1 a.186.1.1 (A:177-282)   23.0      21  0.0015   15.1   2.1   35    3-37     39-78  (106)
+ 10 d1r5qa_ a.186.1.1 (A:) Circadi  20.8      25  0.0018   14.7   2.1   51    3-53     32-95  (98)
+
+No 1  
+>3ebj_A
+Probab=100.00  E-value=0  Score=674.60  Aligned_columns=175  Identities=100%
+
+Q ss_pred             CCCHHHHHHHCCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEHHHHHHHHHHCCCC
+Q ss_conf             96256888723338899999999986123633232454544232001223311102315776300023566776507887
+Q 3ebj_A            1 LGSMEDFVRQCFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWTVVNSICNTTGVEK   80 (175)
+Q Consensus         1 ~~~me~fv~~~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwtv~nslc~~~~~e~   80 (175)
+                      ||||||||||||||||||+|||||+||||||++||||||||||||||||||||||+||||+|+|||||||||||+||+||
+T Consensus         1 ~~~me~fv~~~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwtv~nslc~~~~~e~   80 (175)
+T 3ebj_A            1 LGSMEDFVRQCFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWTVVNSICNTTGVEK   80 (175)
+T ss_pred             CCCHHHHHHHCCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEHHHHHHHHHHCCCC
+T ss_conf             96256888723338899999999986123633232454544232001223311102315776300023566776507887
+
+
+Q ss_pred             CCCCHHHHCCCCCEEEEEECCHHHHHHHHHHHHHCCCCCCEEEEEEEECCHHHHCCCCCCCCHHHHHHHHHHHHHHHHHH
+Q ss_conf             64210222134552677402000257888876411356724799884164232001012424124689999999999998
+Q 3ebj_A           81 PKFLPDLYDYKENRFIEIGVTRREVHTYYLEKANKIKSEKTHIHIFSFTGEEMATKADYTLDEESRARIKTRLFTIRQEM  160 (175)
+Q Consensus        81 pkfL~Dl~Dyk~~rFIEiGiTr~~~~~Y~~~K~~Klkg~~~~i~IFSy~g~e~~~~n~~~ldEE~k~RI~srL~~~~~el  160 (175)
+                      |||||||||||+|||||||||||++|+|||+|++|||||||+|||||||||||++||||+||||||+||+||||++||||
+T Consensus        81 pkfL~Dl~Dyk~~rFIEiGiTr~~~~~Y~~~K~~Klkg~~~~i~IFSy~g~e~~~~n~~~ldEE~k~RI~srL~~~~~el  160 (175)
+T 3ebj_A           81 PKFLPDLYDYKENRFIEIGVTRREVHTYYLEKANKIKSEKTHIHIFSFTGEEMATKADYTLDEESRARIKTRLFTIRQEM  160 (175)
+T ss_pred             CCCCHHHHCCCCCEEEEEECCHHHHHHHHHHHHHCCCCCCEEEEEEEECCHHHHCCCCCCCCHHHHHHHHHHHHHHHHHH
+T ss_conf             64210222134552677402000257888876411356724799884164232001012424124689999999999998
+
+
+Q ss_pred             HHHHHHHHHHHHCCC
+Q ss_conf             750246776420269
+Q 3ebj_A          161 ASRGLWDSFRQSERG  175 (175)
+Q Consensus       161 ~~~~lw~sfrqs~~~  175 (175)
+                      |++||||||||||||
+T Consensus       161 ~~~~lw~sfrqs~~~  175 (175)
+T 3ebj_A          161 ASRGLWDSFRQSERG  175 (175)
+T ss_pred             HHHHHHHHHHHHCCC
+T ss_conf             750246776420269
+
+
+No 2  
+>d1khva_ e.8.1.4 (A:) Viral RNA polymerase {Rabbit hemorrhagic disease virus [TaxId: 11976]}
+Probab=80.16   E-value=1.5  Score=21.96  Aligned_columns=65  Identities=22%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEHH-HHHHHHH
+Q ss_conf             3338899999999986123633232454544232001223311102315776300023-5667765
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWTV-VNSICNT   75 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwtv-~nslc~~   75 (175)
+                      .+.|.+++.|.+.+.++++++.+.......++.+--+.+.=..|.+--|+|-|.+.|+ .|||||+
+T Consensus       253 s~~~~i~~~~~~il~~~~~~~~~~~~~~~~l~~~~~~~~~~~v~~v~~G~PSG~~~Tsi~NSi~n~  318 (497)
+T d1khva_         253 TMSPCVVRLAIDILADCCEQTELTKSVVLTLKSHPMTILDAMIVQTKRGLPSGMPFTSVINSICHW  318 (497)
+T ss_pred             CHHHHHHHHHHHHHHHHCCCCCHHHHHHHHHCCCCEEEECCEEEEECCCCCCCCCHHHHHHHHHHH
+T ss_conf             411899999999999725887078999998612853444674889517777886356788778999
+
+
+No 3  
+>d1sh0a_ e.8.1.4 (A:) Viral RNA polymerase {Norwalk virus [TaxId: 11983]}
+Probab=79.93   E-value=1.7  Score=21.56  Aligned_columns=65  Identities=17%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEHH-HHHHHHH
+Q ss_conf             3338899999999986123633232454544232001223311102315776300023-5667765
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWTV-VNSICNT   75 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwtv-~nslc~~   75 (175)
+                      .+.|.+++.|.+.+.++.+++++.......++.+--+.+.=..|.+--|+|-|.+.|+ .|||+|.
+T Consensus       244 s~~~~~~~~~~~il~~~~~~~~~~~~~~~~l~~~~~~~~~~~v~~v~~GlPSG~~~TsiiNSi~N~  309 (502)
+T d1sh0a_         244 TQQRAVLAAALEIMVKFSSEPHLAQVVAEDLLSPSVVDVGDFTISINEGLPSGVPCTSQWNSIAHW  309 (502)
+T ss_pred             CCCHHHHHHHHHHHHHHCCCCHHHHHHHHHHHCCCEEEECCEEEEEECCCCCCCCHHHHHHHHHHH
+T ss_conf             667899999999999843798079999998711614666675899607767874166788889999
+
+
+No 4  
+>d1xr5a_ e.8.1.4 (A:) Viral RNA polymerase {Human rhinovirus 14, HRV-14 [TaxId: 12131]}
+Probab=39.68   E-value=27  Score=14.48  Aligned_columns=62  Identities=16%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEH-HHHHHHHHH
+Q ss_conf             333889999999998612363323245454423200122331110231577630002-356677650
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWT-VVNSICNTT   76 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwt-v~nslc~~~   76 (175)
+                      ...|.+++.+.+.+.+++.+++    .+..-+.+-.+++.=..|.+--|++-|.+.| +.||++|.-
+T Consensus       240 s~~~~~~~~~~~il~~~~~~~~----~l~~~~~~s~~l~~~~v~~v~~G~PSG~~~Tsi~NSi~N~i  302 (460)
+T d1xr5a_         240 SLSPVWFVCLEKVLTKLGFAGS----SLIQSICNTHHIFRDEIYVVEGGMPSGCSGTSIFNSMINNI  302 (460)
+T ss_pred             CCCHHHHHHHHHHHHHHCCCHH----HHHHHHHCCEEEECCEEEEECCCCCCCCCHHHHHHHHHHHH
+T ss_conf             4207999999999997177107----99999723304336717897077778851456788899999
+
+
+No 5  
+>d1u09a_ e.8.1.4 (A:) Viral RNA polymerase {Foot-and-mouth disease virus [TaxId: 12110]}
+Probab=38.87   E-value=34  Score=13.85  Aligned_columns=64  Identities=11%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHC-CCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEH-HHHHHHHH
+Q ss_conf             333889999999998612-363323245454423200122331110231577630002-35667765
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYG-EDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWT-VVNSICNT   75 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eyg-edp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwt-v~nslc~~   75 (175)
+                      .++|.+++.|-+.+.+.. +++. +...+..-+.+--+.+.=..|.+--|+|-|.+.| +.|||+|.
+T Consensus       247 s~~~~~~~~~~~~i~~~~~~~~~-~~~~l~~~l~~~~~~~~~~vy~v~~G~PSG~~~TsiiNSi~N~  312 (476)
+T d1u09a_         247 NHCSDAMNIMFEEVFRTEFGFHP-NAEWILKTLVNTEHAYENKRITVEGGMPSGCSATSIINTILNN  312 (476)
+T ss_pred             CCCHHHHHHHHHHHHHHCCCCCH-HHHHHHHHHCCCEEEECCEEEEEECCCCCCCCHHHHHHHHHHH
+T ss_conf             44989999999999973269817-8999999861855877675899627777886414678889999
+
+
+No 6  
+>d1xr7a_ e.8.1.4 (A:) Viral RNA polymerase {Human rhinovirus 16, HRV-16 [TaxId: 31708]}
+Probab=36.23   E-value=33  Score=13.93  Aligned_columns=61  Identities=18%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEH-HHHHHHHHH
+Q ss_conf             333889999999998612363323245454423200122331110231577630002-356677650
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWT-VVNSICNTT   76 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwt-v~nslc~~~   76 (175)
+                      .+.|.+++.|.+.+.+++.++.    .+-.+|.. .+++.=..|.+--|++-|.+.| +.||++|.-
+T Consensus       241 s~~~~i~~~~~~il~~~~~~~~----l~~~l~~s-~~~~~~~vy~v~~G~pSG~~~Tsi~NSi~N~i  302 (460)
+T d1xr7a_         241 SIHPIWFKALGMVLDNLSFNPT----LINRLCNS-KHIFKSTYYEVEGGVPSGCSGTSIFNSMINNI  302 (460)
+T ss_pred             CCCHHHHHHHHHHHHHHCCCHH----HHHHHHCE-EEEECCEEEEEECCCCCCCCCHHHHHHHHHHH
+T ss_conf             4008999999999997088988----99987110-12333738996067877863015677899999
+
+
+No 7  
+>d1ra6a_ e.8.1.4 (A:) Viral RNA polymerase {Poliovirus type 1, strain Mahoney [TaxId: 12080]}
+Probab=29.60   E-value=48  Score=12.95  Aligned_columns=62  Identities=13%
+
+Q ss_pred             CCCHHHHHHHHHHHHHHCCCCCCCHHHHHHHHHHEEEEEEEECEEEECCCCCCEEEHH-HHHHHHH
+Q ss_conf             3338899999999986123633232454544232001223311102315776300023-5667765
+Q 3ebj_A           11 CFNPMIVELAEKAMKEYGEDPKIETNKFAAICTHLEVCFMYSRFEIIEGRDRTMAWTV-VNSICNT   75 (175)
+Q Consensus        11 ~f~p~ive~Ae~am~Eygedp~~e~~k~~~Ic~HleVC~m~srfeiIEG~~R~iAwtv-~nslc~~   75 (175)
+                      .+++.+++.+...+.+++.+++.  +.+-.++... .++.=..|.+--|+|-|.+.|+ .|||+|.
+T Consensus       240 s~~~~i~~~~~~il~~~~~~~~~--~~i~~l~~s~-~l~~~~vy~~~~G~PSG~~~TsiiNSi~N~  302 (461)
+T d1ra6a_         240 SLSPAWFEALKMVLEKIGFGDRV--DYIDYLNHSH-HLYKNKTYCVKGGMPSGCSGTSIFNSMINN  302 (461)
+T ss_pred             CCHHHHHHHHHHHHHHHCCCCHH--HHHHHHCCCE-EEECCEEEEECCCCCCCCCHHHHHHHHHHH
+T ss_conf             30289999999999972788468--9999852854-777364898258787775223568779999
+
+
+No 8  
+>d1v2za_ a.186.1.1 (A:) Circadian clock protein KaiA, C-terminal domain {Thermosynechococcus elongatus bp-1 [TaxId: 197221]}
+Probab=25.35   E-value=14  Score=16.17  Aligned_columns=51  Identities=24%
+
+Q ss_pred             CHHHHHHHCCC-----HHHHHHHHHHHHHHCCCCCCCHHH--------HHHHHHHEEEEEEEEC
+Q ss_conf             25688872333-----889999999998612363323245--------4544232001223311
+Q 3ebj_A            3 SMEDFVRQCFN-----PMIVELAEKAMKEYGEDPKIETNK--------FAAICTHLEVCFMYSR   53 (175)
+Q Consensus         3 ~me~fv~~~f~-----p~ive~Ae~am~Eygedp~~e~~k--------~~~Ic~HleVC~m~sr   53 (175)
+                      ..|.||.++|=     |-|||+--+-|.||+...++|+.+        ++-|-+--..|=||-|
+T Consensus        42 ~ID~FVn~aFfadi~V~qivEIHMeLmDeFskQLkLEGrsee~LlDYRLtLIDi~AHLCEmYRR  105 (106)
+T d1v2za_          42 RIDEFVSKAFFADISVSQVLEIHVELMDTFSKQLKLEGRSEDILLDYRLTLIDVIAHLCEMYRR  105 (106)
+T ss_pred             HHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHCC
+T ss_conf             9999998888526858899999999999999985115785126898899999999978875227
+
+
+No 9  
+>d1r8ja1 a.186.1.1 (A:177-282) Circadian clock protein KaiA, C-terminal domain {Synechococcus elongatus PCC 7942 [TaxId: 1140]}
+Probab=22.98   E-value=21  Score=15.11  Aligned_columns=35  Identities=26%
+
+Q ss_pred             CHHHHHHHCCC-----HHHHHHHHHHHHHHCCCCCCCHHH
+Q ss_conf             25688872333-----889999999998612363323245
+Q 3ebj_A            3 SMEDFVRQCFN-----PMIVELAEKAMKEYGEDPKIETNK   37 (175)
+Q Consensus         3 ~me~fv~~~f~-----p~ive~Ae~am~Eygedp~~e~~k   37 (175)
+                      ..|.||.++|=     |-|||+--+-|.||+...++|+.+
+T Consensus        39 ~ID~FVn~aFfadi~V~qivEIHMeLmDeFskQLkLEGrs   78 (106)
+T d1r8ja1          39 SIDNFVNMAFFADVPVTKVVEIHMELMDEFAKKLRVEGRS   78 (106)
+T ss_pred             HHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHCCCCC
+T ss_conf             9999998888526858899999999999999985115785
+
+
+No 10 
+>d1r5qa_ a.186.1.1 (A:) Circadian clock protein KaiA, C-terminal domain {Cyanobacterium (Nostoc sp. PCC 7120) [TaxId: 103690]}
+Probab=20.83   E-value=25  Score=14.69  Aligned_columns=51  Identities=22%
+
+Q ss_pred             CHHHHHHHCCC-----HHHHHHHHHHHHHHCCCCCCCHHH--------HHHHHHHEEEEEEEEC
+Q ss_conf             25688872333-----889999999998612363323245--------4544232001223311
+Q 3ebj_A            3 SMEDFVRQCFN-----PMIVELAEKAMKEYGEDPKIETNK--------FAAICTHLEVCFMYSR   53 (175)
+Q Consensus         3 ~me~fv~~~f~-----p~ive~Ae~am~Eygedp~~e~~k--------~~~Ic~HleVC~m~sr   53 (175)
+                      ..|.||.+.|=     |-|||+--+-|.||+...++|+.+        ++-|-+--..|=||-|
+T Consensus        32 ~ID~FVn~aFfadi~v~qivEIHMeLmDeFskQLkLEGrsee~LlDYRLtLIDi~AHLcEmYRr   95 (98)
+T d1r5qa_          32 KIDKFINAVFCANIPVPEIIEIHMELIDEFSKQLRLEGRGDETLMDYRLTLIDILAHLCEAYRG   95 (98)
+T ss_pred             HHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHCCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+T ss_conf             9999998888526858899999999999999985115785136898899999999989899876
+
+
+Done!
